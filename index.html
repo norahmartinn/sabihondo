@@ -106,8 +106,6 @@ h1 em{font-style:normal;color:var(--boya)}
 .cabecera .m{color:var(--boya-hondo);font-weight:600;font-variant-numeric:tabular-nums}
 .enunciado{font-family:var(--disp);font-weight:800;font-size:clamp(24px,3.6vw,34px);line-height:1.1;
   margin:0;text-wrap:balance;font-variation-settings:"wdth" 105;letter-spacing:-.01em}
-.cuenta{font-family:var(--disp);font-weight:900;font-size:72px;line-height:1;color:var(--boya);
-  font-variant-numeric:tabular-nums;text-align:center;margin:20px 0 4px}
 
 form{margin-top:22px;display:flex;gap:9px;flex-wrap:wrap}
 input[type=text],input[type=email],input[type=password]{flex:1 1 180px;min-width:0;background:#fff;border:1.5px solid var(--linea);border-radius:999px;
@@ -260,7 +258,7 @@ h3{font-family:var(--mono);font-size:11px;letter-spacing:.14em;text-transform:up
 <script>
 "use strict";
 /* ═════════ constantes ═════════ */
-const RONDAS = 7, MS_PISTA = 3000, MS_RESP = 25000;
+const RONDAS = 7, MS_RESP = 25000;
 const FONDO = 700;                 // metros: siete joyas seguidas = el fondo del iceberg
 const FLOTACION = 70;              // el 10 % asoma, el 90 % queda debajo
 const EPOCA = "2026-08-31";        // día 1
@@ -579,23 +577,8 @@ let temporizador = null;
 function paraReloj(){ if (temporizador){ cancelAnimationFrame(temporizador); temporizador = null; } }
 
 function ronda(){
-  paraReloj(); pantalla = "juego";
-  const p = J.rondas[J.i];
-  escena.innerHTML = `
-  <div class="panel" id="tarjeta">
-    ${cabecera()}
-    <p class="rotulo">Enunciado</p>
-    <p class="enunciado">${esc(p.q)}</p>
-    <div class="cuenta" id="cuenta">3</div>
-    <p class="apunte" style="text-align:center;margin:0">piensa en algo que no diga nadie</p>
-  </div>`;
-  const t0 = performance.now();
-  (function pista(){
-    const q = performance.now() - t0;
-    const c = $("#cuenta"); if (c) c.textContent = Math.max(1, Math.ceil((MS_PISTA - q)/1000));
-    if (q >= MS_PISTA) return responder();
-    temporizador = requestAnimationFrame(pista);
-  })();
+  pantalla = "juego";
+  responder();
 }
 
 function responder(){
