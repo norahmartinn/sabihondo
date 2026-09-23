@@ -43,3 +43,22 @@ alter table public.sabihondo_sugerencias enable row level security;
 drop policy if exists "Sabihondo: enviar sugerencias" on public.sabihondo_sugerencias;
 create policy "Sabihondo: enviar sugerencias" on public.sabihondo_sugerencias
   for insert to anon, authenticated with check (user_id is null or user_id = auth.uid());
+
+-- Veredictos de la IA sobre respuestas que no estaban en el banco (función sabihondo-juez).
+-- Solo la función escribe aquí (con la clave de servicio). Se revisan en el Table Editor:
+-- si una aceptada está mal, pon valida = false; si una rechazada es buena, pon valida = true.
+create table if not exists public.sabihondo_ia (
+  id         bigint      generated always as identity primary key,
+  pregunta   text        not null,
+  clave      text        not null,
+  respuesta  text        not null,
+  valida     boolean     not null,
+  nombre     text        not null,
+  nivel      smallint    not null check (nivel between 1 and 5),
+  motivo     text,
+  modelo     text,
+  created_at timestamptz not null default now(),
+  unique (pregunta, clave)
+);
+grant all on public.sabihondo_ia to service_role;
+alter table public.sabihondo_ia enable row level security;

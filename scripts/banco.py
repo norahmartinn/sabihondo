@@ -95,7 +95,7 @@ def principal():
     for f in filas:
         cats.setdefault(int(f["ID categoría"]), []).append(f)
 
-    banco = []; duplicadas = []; cambios = []; añadidas = []
+    banco = []; duplicadas = []; cambios = []; añadidas = []; de_wikidata = [0]
     for cid, fs in cats.items():
         q = PREGUNTAS.get(cid, fs[0]["Pregunta"]).rstrip(". ")
         niveles = [[] for _ in range(5)]
@@ -139,10 +139,22 @@ def principal():
             if m: claves += [clave(m.group(1)), clave(m.group(2))]
             entradas.append([texto, nvn, [c for c in dict.fromkeys(claves) if c], palabras(texto), "claude"])
 
+        # respuestas de Wikidata (datos/wikidata/<id>.json): van al final, así que mandan el CSV y lo añadido a mano.
+        # Nivel según en cuántas Wikipedias aparece, comparado con el resto de la categoría.
+        wd = RAIZ / "datos" / "wikidata" / f"{cid}.json"
+        if wd.exists():
+            filas = json.loads(wd.read_text(encoding="utf-8"))
+            for pos, (texto, alias, sl) in enumerate(filas):
+                if any(texto == e[0] for e in entradas): continue
+                cuantil = pos / max(1, len(filas))
+                nvw = 3 if sl >= 100 or cuantil < .2 else 4 if cuantil < .5 else 5
+                claves = [c for c in dict.fromkeys([clave(texto)] + [clave(a) for a in alias]) if len(c) >= 3]
+                if claves: entradas.append([texto, nvw - 1, claves, palabras(texto), "wikidata"])
+
         # claves explícitas: la primera respuesta que la reclama se la queda
         duenos = {}; por_texto = {}
         for e in entradas:
-            if e[4] == "claude":
+            if e[4] in ("claude", "wikidata"):
                 previo = next((duenos[c] for c in e[2] if c in duenos), None)
                 if previo:                      # ya estaba con otro nombre: sus formas pasan a ser alias
                     destino = por_texto[previo]
@@ -161,6 +173,7 @@ def principal():
                         duenos[w] = e[0]; e[2].append(w)
         for texto, nv, claves, _, origen in entradas:
             if origen == "claude" and claves: añadidas.append((q, texto, nv + 1))
+            if origen == "wikidata" and claves: de_wikidata[0] += 1
             if origen == "fusionada": continue
             if not claves:                  # la misma respuesta escrita de otra forma: ya está en el banco
                 duplicadas.append(f"{q}: {texto}"); continue
@@ -177,10 +190,16 @@ def principal():
         w = csv.writer(fh); w.writerow(["Qué", "Pregunta", "Respuesta", "Nivel CSV", "Nivel en el juego"])
         for q, t, a, n in cambios: w.writerow(["nivel cambiado", q, t, a, n])
         for q, t, n in añadidas: w.writerow(["respuesta añadida", q, t, "", n])
-    print(f"{len(cambios)} niveles cambiados, {len(añadidas)} respuestas añadidas (datos/revision_claude.csv)")
-    js = "const BANCO=" + json.dumps(banco, ensure_ascii=False, separators=(",", ":")) + ";"
+    print(f"{len(cambios)} niveles cambiados, {len(añadidas)} respuestas añadidas (datos/revision_claude.csv), {de_wikidata[0]} de Wikidata")
+    # una pregunta por archivo, para que la página solo baje las del día
+    carpeta = RAIZ / "banco"; carpeta.mkdir(exist_ok=True)
+    for viejo in carpeta.glob("*.json"): viejo.unlink()
+    for n, p in enumerate(banco):
+        (carpeta / f"{n:02d}.json").write_text(json.dumps(p, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
+    indice = [{"q": p["q"], "n": sum(len(x) for x in p["t"])} for p in banco]
+    js = "const PREGUNTAS=" + json.dumps(indice, ensure_ascii=False, separators=(",", ":")) + ";"
     html = HTML.read_text(encoding="utf-8")
-    i = html.index("const BANCO="); j = html.index("</script>", i)
+    i = html.index("const PREGUNTAS="); j = html.index("</script>", i)
     HTML.write_text(html[:i] + js + html[j:], encoding="utf-8")
     total = sum(len(n) for p in banco for n in p["t"])
     print(f"{len(banco)} preguntas, {total} respuestas")
