@@ -1855,7 +1855,272 @@ NUEVAS = {
 3|Art Garfunkel
 3|Niall Horan
 3|Louis Tomlinson
-3|Jimin""",
+3|Jimin
+2|Noah Kahan
+2|Gracie Abrams
+2|Conan Gray
+2|Tate McRae
+2|Zach Bryan
+2|Djo
+2|Mac DeMarco
+2|Clairo
+2|beabadoobee
+2|Laufey
+2|Reneé Rapp
+2|Troye Sivan
+2|Omar Apollo
+2|Ice Spice
+2|Central Cee
+2|Stormzy
+2|Dave
+2|Little Simz
+2|Arctic Monkeys|Alex Turner
+2|Maggie Rogers
+2|Lord Huron
+2|Vance Joy
+2|Passenger
+2|Ben Howard
+2|Tom Odell
+2|James Blunt
+2|James Bay
+2|Dermot Kennedy
+2|Niall Horan
+2|Olivia Dean
+2|Jorja Smith
+2|Mahalia
+2|Tems
+2|Burna Boy
+2|Wizkid
+2|Rema
+2|Ayra Starr
+2|Victoria Monét
+2|Summer Walker
+2|Jhené Aiko
+2|Kehlani
+2|H.E.R.
+2|Daniel Caesar
+2|Giveon
+2|Brent Faiyaz
+2|Steve Lacy
+2|Khalid
+2|Jack Harlow
+2|Lil Baby
+2|Future
+2|21 Savage
+2|Metro Boomin
+2|Playboi Carti
+2|Lil Uzi Vert
+2|Juice WRLD
+2|XXXTentacion
+2|Mac Miller
+2|Childish Gambino|Donald Glover
+2|Anderson .Paak
+2|Tyla
+2|Doechii
+2|GloRilla
+2|Latto
+2|Saweetie
+2|Bebe Rexha
+2|Ava Max
+2|Zara Larsson
+2|Tove Lo
+2|Robyn
+2|MØ
+2|Aurora
+2|Sigrid
+2|Girl in Red|girl in red
+2|Dagny
+2|Alan Walker
+2|David Kushner
+2|Hozier
+2|Myles Smith
+2|Alex Warren
+2|Shaboozey
+2|Chris Stapleton
+2|Jelly Roll
+2|Post Malone
+2|Ed Sheeran
+2|Gotye
+2|Lana Del Rey
+2|Mitski
+2|Phoebe Bridgers
+2|Lizzy McAlpine
+2|Sufjan Stevens
+2|Bon Iver
+2|Father John Misty
+2|Hayley Williams
+2|Pharrell Williams
+2|Nelly Furtado
+2|Fergie
+2|Ciara
+2|Ashanti
+2|Mary J. Blige
+2|Toni Braxton
+2|Lauryn Hill
+2|Erykah Badu
+2|Missy Elliott
+2|Nelly
+2|Ludacris
+2|T-Pain
+2|Wiz Khalifa
+2|Macklemore
+2|Logic
+2|Sean Paul
+2|Shaggy
+2|Gente de Zona
+2|Romeo Santos
+2|Prince Royce
+2|Farruko
+2|Sech
+2|Myke Towers
+2|Feid
+2|Jhayco
+2|Young Miko
+2|Bizarrap
+2|Tini
+2|María Becerra
+2|Emilia
+2|Nicki Nicole
+2|Duki
+2|Trueno
+2|Paulo Londra
+2|Wos
+2|Nathy Peluso
+2|Natalia Lafourcade
+2|Julieta Venegas
+2|Mon Laferte
+2|Kali Uchis
+2|Natti Natasha
+2|Christian Nodal
+2|Carin León
+2|Grupo Frontera
+2|Junior H
+2|Danna Paola
+2|Sebastián Yatra
+2|Manuel Turizo
+2|Camilo
+2|Fonseca
+2|Reik
+2|Jesse & Joy
+2|Alejandro Fernández
+2|Vicente Fernández
+2|Juan Gabriel
+2|Marco Antonio Solís
+2|Ricardo Arjona
+2|Ricardo Montaner
+2|Franco de Vita
+2|Chayanne
+2|Gustavo Cerati
+2|Fito Páez
+2|Charly García
+2|Andrés Calamaro
+2|Soda Stereo
+2|Mercedes Sosa
+2|Rubén Blades
+2|Marc Anthony
+2|Selena
+2|Paul Anka
+2|Cyndi Lauper
+2|Pat Benatar
+2|Blondie|Debbie Harry
+2|Annie Lennox
+2|Kate Bush
+2|Siouxsie Sioux
+2|Grace Jones
+2|Sade
+2|Seal
+2|Simply Red|Mick Hucknall
+2|Rick Astley
+2|Boy George
+2|Brian May
+2|Mark Knopfler
+2|Eric Clapton
+2|Carlos Santana|Santana
+2|B.B. King
+2|Muddy Waters
+2|Van Morrison
+2|Tom Jones
+2|Engelbert Humperdinck
+2|Frankie Valli
+2|Barry White
+2|Otis Redding
+2|Sam Cooke
+2|Al Green
+2|Curtis Mayfield
+2|Bill Withers
+2|Smokey Robinson
+2|Luther Vandross
+2|Donna Summer
+2|Gloria Gaynor
+2|Kool & the Gang
+3|Hope Tala
+3|Faye Webster
+3|Snail Mail
+3|Soccer Mommy
+3|Julien Baker
+3|Lucy Dacus
+3|Weyes Blood
+3|Angel Olsen
+3|Big Thief|Adrianne Lenker
+3|Men I Trust
+3|Arlo Parks
+3|Holly Humberstone
+3|Griff
+3|Cat Burns
+3|PinkPantheress
+3|Nia Archives
+3|Shygirl
+3|Caroline Polachek
+3|Magdalena Bay
+3|Japanese Breakfast
+3|Wet Leg
+3|Rex Orange County
+3|Dominic Fike
+3|Still Woozy
+3|Wallows
+3|Cavetown
+3|Tamino
+3|Sam Fender
+3|Declan McKenna
+3|Gerry Cinnamon
+3|Fontaines D.C.
+3|Hania Rani
+3|Nils Frahm
+3|Ludovico Einaudi
+3|Yann Tiersen
+3|Rufus Wainwright
+3|Nick Cave
+3|Tom Waits
+3|Cat Power
+3|Feist
+3|Regina Spektor
+3|Ben Folds
+3|Jeff Buckley
+3|Elliott Smith
+3|Nick Drake
+3|Townes Van Zandt
+3|Jason Isbell
+3|Sturgill Simpson
+3|Tyler Childers
+3|Orville Peck
+3|Kacey Musgraves
+3|Brandi Carlile
+3|Sierra Ferrell
+3|Remi Wolf
+3|Yves Tumor
+3|Arca
+3|Rina Sawayama
+3|Ethel Cain
+3|Mk.gee
+3|Fred again..|Fred again
+3|Jamie xx
+3|Four Tet
+3|Caribou
+3|Kaytranada
+3|Peggy Gou
+3|Charlotte de Witte
+3|Amelie Lens
+""",
 
  52: """1|Mägo de Oz|Mago de Oz
 1|Camela
