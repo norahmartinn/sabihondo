@@ -71,6 +71,11 @@ ALIAS = {
     "La Mona Lisa":["Mona Lisa","La Gioconda","Gioconda"],
 }
 
+# Alias del CSV que están mal y se sustituyen enteros
+ALIAS_FIJOS = {
+    "Nidoran♀": ["Nidoran hembra", "Nidoran ♀"],   # el CSV le ponía los alias del macho
+}
+
 # Prefijos que la gente se salta al contestar, por categoría
 PREFIJOS = {
     1:{"principado","comunidad","foral","region"},
@@ -88,7 +93,7 @@ def principal():
     for f in filas:
         cats.setdefault(int(f["ID categoría"]), []).append(f)
 
-    banco = []
+    banco = []; duplicadas = []
     for cid, fs in cats.items():
         q = PREGUNTAS.get(cid, fs[0]["Pregunta"]).rstrip(". ")
         niveles = [[] for _ in range(5)]
@@ -99,9 +104,10 @@ def principal():
             if any(texto == e[0] for e in entradas):
                 continue                    # respuesta repetida en la misma pregunta
             claves = [clave(texto)]
-            if f["Alias aceptados"].strip(): claves.append(clave(f["Alias aceptados"]))
+            alias = ALIAS_FIJOS.get(texto, f["Alias aceptados"].split(";"))
+            claves += [clave(x) for x in alias if x.strip()]
             claves += [clave(a) for a in ALIAS.get(texto, [])]
-            if f.get("Clave normalizada"): claves.append(f["Clave normalizada"].strip())
+            if f.get("Clave normalizada") and texto not in ALIAS_FIJOS: claves.append(f["Clave normalizada"].strip())
             ws = palabras(texto)
             pref = PREFIJOS.get(cid)
             if pref:
@@ -124,6 +130,8 @@ def principal():
                     if len(w) >= 4 and cuenta[w] == 1 and w not in NO_SUELTAS and w not in duenos:
                         duenos[w] = e[0]; e[2].append(w)
         for texto, nv, claves, _ in entradas:
+            if not claves:                  # la misma respuesta escrita de otra forma: ya está en el banco
+                duplicadas.append(f"{q}: {texto}"); continue
             niveles[nv].append([texto, claves])
         banco.append({"q": q, "t": niveles})
 
@@ -133,6 +141,7 @@ def principal():
     HTML.write_text(html[:i] + js + html[j:], encoding="utf-8")
     total = sum(len(n) for p in banco for n in p["t"])
     print(f"{len(banco)} preguntas, {total} respuestas")
+    if duplicadas: print(f"{len(duplicadas)} repetidas con otra forma (se cuenta la primera):", *duplicadas, sep="\n  ")
 
 if __name__ == "__main__":
     principal()
