@@ -111,9 +111,15 @@ input[type=text],input[type=email],input[type=password]{flex:1 1 180px;min-width
   color:var(--tinta);padding:13px 18px;font-family:var(--sans);font-size:17px;color-scheme:light}
 input::placeholder{color:#8aa0b1}
 input[type=text]:focus,input[type=email]:focus,input[type=password]:focus{outline:none;border-color:var(--boya);box-shadow:0 0 0 3px color-mix(in srgb,var(--boya) 22%,transparent)}
-.mecha{height:4px;background:var(--linea);border-radius:2px;overflow:hidden;margin-top:16px}
-.mecha i{display:block;height:100%;background:var(--r3);transform-origin:left;transition:transform .1s linear,background .3s}
-.mecha.urge i{background:var(--boya)}
+.reloj{display:grid;grid-template-columns:1fr auto;gap:14px;align-items:center;margin-top:18px}
+.mecha{height:10px;background:color-mix(in srgb,var(--tinta) 10%,transparent);border-radius:var(--r-btn);overflow:hidden}
+.mecha i{display:block;height:100%;background:var(--boya);transform-origin:left;transition:transform .1s linear,background .3s}
+.segundos{font-family:var(--disp);font-weight:700;font-size:28px;line-height:1;min-width:2.4ch;text-align:right;
+  font-variant-numeric:tabular-nums;color:var(--tinta)}
+.segundos small{font-family:var(--sans);font-size:13px;font-weight:600;color:var(--tinta-suave);margin-left:2px}
+.reloj.urge .mecha i{background:#e5484d}
+.reloj.urge .segundos{color:#e5484d;animation:late 1s steps(2) infinite}
+@keyframes late{50%{opacity:.45}}
 .aviso{margin:11px 0 0;font-size:13.5px;color:var(--boya-hondo);min-height:20px}
 .sacudir{animation:sac .34s}
 @keyframes sac{25%{transform:translateX(-7px)}50%{transform:translateX(6px)}75%{transform:translateX(-3px)}}
@@ -200,7 +206,7 @@ input[type=text]:focus,input[type=email]:focus,input[type=password]:focus{outlin
 .marcador div{font-family:var(--mono);font-size:10.5px;color:var(--tinta-suave);letter-spacing:.1em;text-transform:uppercase}
 .marcador b{display:block;font-family:var(--disp);font-size:26px;color:var(--tinta);letter-spacing:0;
   text-transform:none;font-variant-numeric:tabular-nums;margin-top:2px;font-weight:850}
-.copiado{color:var(--r3);font-size:13px;font-family:var(--mono)}
+.copiado{color:var(--boya-hondo);font-size:13px;font-family:var(--mono)}
 
 /* ── ayuda ───────────────────────────────────────────── */
 #ayuda[hidden],#cuenta[hidden]{display:none}
@@ -601,12 +607,15 @@ function responder(){
              autocorrect="off" autocapitalize="off" spellcheck="false" enterkeyhint="go">
       <button class="btn" type="submit">Bajar</button>
     </form>
-    <div class="mecha" id="mecha"><i style="transform:scaleX(1)"></i></div>
+    <div class="reloj" id="reloj" role="timer" aria-label="Tiempo para responder">
+      <div class="mecha"><i style="transform:scaleX(1)"></i></div>
+      <span class="segundos"><span id="seg">${MS_RESP/1000}</span><small>s</small></span>
+    </div>
     <p class="aviso" id="aviso"></p>
   </div>`;
 
   const campo = $("#r"); campo.focus();
-  const barra = $("#mecha"), relleno = barra.firstElementChild;
+  const barra = $("#reloj"), relleno = barra.querySelector(".mecha i"), seg = $("#seg");
   const t0 = performance.now(); let ultimoTic = 99;
 
   $("#f").addEventListener("submit", e => {
@@ -627,6 +636,7 @@ function responder(){
   (function reloj(){
     const resta = Math.max(0, MS_RESP - (performance.now() - t0));
     relleno.style.transform = "scaleX(" + (resta/MS_RESP) + ")";
+    seg.textContent = Math.ceil(resta/1000);
     if (resta < 5000){
       barra.classList.add("urge");
       const s = Math.ceil(resta/1000);
