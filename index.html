@@ -1,0 +1,1006 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="description" content="Reto diario: siete preguntas y, cuanto más nicho tu respuesta, más bajas por el iceberg.">
+<meta name="theme-color" content="#dcecf2">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🧊</text></svg>">
+<style>:root{padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}[hidden]{display:none!important}</style>
+<title>Sabihondo</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,400..900&family=JetBrains+Mono:wght@400;600&display=swap">
+
+<style>
+/* ══ Sabihondo · identidad ══════════════════════════════════════
+   Un solo mundo, a propósito: cielo polar arriba, mar oscuro abajo
+   y un iceberg en sección que se oscurece capa a capa.            */
+:root{
+  color-scheme:dark;
+  --mar:#082442;          /* agua bajo la línea de flotación */
+  --fondo:#030d1b;        /* lo más hondo */
+  --cielo:#dcecf2;
+  --hielo:#f3f9fb;        /* el panel es una placa de hielo */
+  --tinta:#0a1f35;
+  --tinta-suave:#4a6378;
+  --linea:#c9dde6;
+  --boya:#ff6a1f;         /* naranja de rescate polar */
+  --boya-hondo:#d9500c;
+  --espuma:#e6f2f7;
+  --niebla:#8fb0c4;
+
+  /* capas del iceberg, de la punta al fondo */
+  --c0:#ffffff; --c1:#d4eef8; --c2:#9dd6ec; --c3:#58abd6; --c4:#2d74ae; --c5:#173f7a;
+
+  /* rareza de cada respuesta */
+  --r0:#9aabbb; --r1:#e35d93; --r2:#4fbbe0; --r3:#2d84c9; --r4:#6a55d4; --r5:#ff6a1f;
+
+  --col:minmax(320px,44%);
+  --disp:"Archivo","Arial Narrow",system-ui,sans-serif;
+  --sans:"Archivo",system-ui,-apple-system,"Segoe UI",sans-serif;
+  --mono:"JetBrains Mono",ui-monospace,"SF Mono",Menlo,monospace;
+}
+*{box-sizing:border-box}
+html,body{height:100%}
+body{margin:0;background:var(--fondo);color:var(--tinta);font-family:var(--sans);font-size:15px;
+  line-height:1.5;overflow:hidden;-webkit-font-smoothing:antialiased;font-variation-settings:"wdth" 100}
+button{font:inherit;color:inherit;background:none;border:none;cursor:pointer}
+:focus-visible{outline:2px solid var(--boya);outline-offset:3px;border-radius:2px}
+::selection{background:var(--boya);color:#fff}
+
+#app{height:100%;display:grid;grid-template-columns:var(--col) minmax(0,1fr);grid-template-rows:auto 1fr}
+
+/* ── barra ───────────────────────────────────────────── */
+#barra{grid-column:1 / -1;display:flex;align-items:center;gap:14px;
+  padding:10px 18px;padding-top:calc(10px + env(safe-area-inset-top,0px));
+  background:var(--cielo);color:var(--tinta);border-bottom:1px solid var(--linea)}
+#marca{font-family:var(--disp);font-weight:850;font-size:20px;letter-spacing:-.01em;
+  font-variation-settings:"wdth" 120}
+#marca em{font-style:normal;color:var(--boya-hondo)}
+#dia{font-family:var(--mono);font-size:11px;color:var(--tinta-suave);letter-spacing:.08em;
+  text-transform:uppercase;padding-left:12px;border-left:1px solid var(--linea)}
+#barra .sep{flex:1}
+.icono{width:34px;height:34px;border:1px solid var(--linea);border-radius:50%;color:var(--tinta-suave);
+  display:grid;place-items:center;font-size:14px;font-weight:700;background:#fff;transition:.15s}
+.icono:hover,.icono[aria-pressed="true"]{color:var(--boya-hondo);border-color:var(--boya)}
+
+/* ── el iceberg ──────────────────────────────────────── */
+#hielo{position:relative;overflow:hidden;background:var(--fondo)}
+#svg{position:absolute;inset:0;width:100%;height:100%;display:block}
+#svg text{font-family:var(--mono)}
+
+/* ── escena ──────────────────────────────────────────── */
+#escena{overflow-y:auto;overscroll-behavior:contain;padding:28px 24px 32px;display:flex;flex-direction:column;
+  background:linear-gradient(180deg,var(--mar) 0%,var(--fondo) 100%)}
+.panel{width:100%;max-width:560px;margin:auto;background:var(--hielo);border-radius:6px;padding:28px 30px 26px;
+  box-shadow:0 30px 60px -30px rgba(0,0,0,.7)}
+.rotulo{font-family:var(--mono);font-size:11px;letter-spacing:.14em;text-transform:uppercase;
+  color:var(--tinta-suave);margin:0 0 6px}
+h1{font-family:var(--disp);font-weight:900;font-size:clamp(42px,7vw,68px);line-height:.9;margin:0;
+  letter-spacing:-.025em;font-variation-settings:"wdth" 125;color:var(--tinta)}
+h1 em{font-style:normal;color:var(--boya)}
+.lema{font-size:18px;margin:16px 0 0;text-wrap:pretty;max-width:44ch}
+.lema b{color:var(--boya-hondo)}
+.apunte{color:var(--tinta-suave);font-size:13.5px;margin:10px 0 0;max-width:56ch}
+.apunte b{color:var(--tinta)}
+
+.reglas{list-style:none;margin:22px 0 0;padding:16px 0 0;border-top:1px solid var(--linea);display:grid;gap:10px}
+.reglas li{display:grid;grid-template-columns:64px 1fr;gap:12px;align-items:baseline;font-size:14px;color:var(--tinta-suave)}
+.reglas b{color:var(--tinta);font-weight:650}
+.reglas .num{font-family:var(--disp);font-weight:850;font-size:20px;color:var(--tinta);font-variation-settings:"wdth" 115;
+  font-variant-numeric:tabular-nums;text-align:right;white-space:nowrap}
+
+.botonera{display:flex;flex-wrap:wrap;gap:10px;margin-top:24px;align-items:center}
+.btn{font-family:var(--disp);font-weight:750;font-size:15px;letter-spacing:.02em;font-variation-settings:"wdth" 110;
+  padding:12px 22px;border-radius:999px;background:var(--boya);color:#fff;border:1px solid var(--boya);transition:.15s}
+.btn:hover{background:var(--boya-hondo);border-color:var(--boya-hondo)}
+.btn.fantasma{background:none;color:var(--tinta);border-color:var(--linea)}
+.btn.fantasma:hover{border-color:var(--tinta-suave);background:#fff}
+.racha{font-family:var(--mono);font-size:11px;color:var(--tinta-suave);letter-spacing:.08em;text-transform:uppercase}
+
+/* ── ronda ───────────────────────────────────────────── */
+.cabecera{display:flex;justify-content:space-between;align-items:baseline;gap:12px;
+  font-family:var(--mono);font-size:11px;letter-spacing:.1em;text-transform:uppercase;
+  color:var(--tinta-suave);border-bottom:1px solid var(--linea);padding-bottom:11px;margin-bottom:20px}
+.cabecera .m{color:var(--boya-hondo);font-weight:600;font-variant-numeric:tabular-nums}
+.enunciado{font-family:var(--disp);font-weight:800;font-size:clamp(24px,3.6vw,34px);line-height:1.1;
+  margin:0;text-wrap:balance;font-variation-settings:"wdth" 105;letter-spacing:-.01em}
+.cuenta{font-family:var(--disp);font-weight:900;font-size:72px;line-height:1;color:var(--boya);
+  font-variant-numeric:tabular-nums;text-align:center;margin:20px 0 4px}
+
+form{margin-top:22px;display:flex;gap:9px;flex-wrap:wrap}
+input[type=text],input[type=email],input[type=password]{flex:1 1 180px;min-width:0;background:#fff;border:1.5px solid var(--linea);border-radius:999px;
+  color:var(--tinta);padding:13px 18px;font-family:var(--sans);font-size:17px;color-scheme:light}
+input::placeholder{color:#8aa0b1}
+input[type=text]:focus,input[type=email]:focus,input[type=password]:focus{outline:none;border-color:var(--boya);box-shadow:0 0 0 3px rgba(255,106,31,.16)}
+.mecha{height:4px;background:var(--linea);border-radius:2px;overflow:hidden;margin-top:16px}
+.mecha i{display:block;height:100%;background:var(--r3);transform-origin:left;transition:transform .1s linear,background .3s}
+.mecha.urge i{background:var(--boya)}
+.aviso{margin:11px 0 0;font-size:13.5px;color:var(--boya-hondo);min-height:20px}
+.sacudir{animation:sac .34s}
+@keyframes sac{25%{transform:translateX(-7px)}50%{transform:translateX(6px)}75%{transform:translateX(-3px)}}
+
+/* ── veredicto ───────────────────────────────────────── */
+.chip{display:inline-flex;align-items:center;gap:7px;font-family:var(--mono);font-size:11px;font-weight:600;
+  letter-spacing:.1em;text-transform:uppercase;padding:5px 11px 5px 9px;border-radius:999px;background:#fff;
+  border:1px solid var(--linea)}
+.chip i{width:10px;height:10px;border-radius:50%;display:block}
+.tuya{font-family:var(--disp);font-weight:850;font-size:clamp(30px,5vw,42px);line-height:1.05;margin:14px 0 0;
+  font-variation-settings:"wdth" 110;letter-spacing:-.015em}
+.tuya.nada{color:var(--tinta-suave)}
+.coña{color:var(--tinta-suave);font-size:14px;font-style:italic;margin:8px 0 0;max-width:46ch;text-wrap:pretty}
+.baja{display:flex;align-items:baseline;gap:14px;flex-wrap:wrap;margin-top:18px;padding-top:14px;border-top:1px solid var(--linea)}
+.baja b{font-family:var(--disp);font-weight:900;font-size:28px;color:var(--boya-hondo);font-variant-numeric:tabular-nums}
+.baja span{font-size:14px;color:var(--tinta-suave)}
+.baja span strong{color:var(--tinta)}
+
+.nivel{display:inline-flex;align-items:baseline;gap:10px;background:var(--nc);color:var(--nt);
+  border-radius:999px;padding:7px 16px 7px 14px}
+.nivel-n{font-family:var(--mono);font-size:11.5px;font-weight:600;letter-spacing:.12em;text-transform:uppercase;opacity:.85}
+.nivel-t{font-family:var(--disp);font-weight:850;font-size:19px;font-variation-settings:"wdth" 112}
+.escalera{list-style:none;margin:12px 0 0;padding:0;display:grid;grid-template-columns:repeat(5,1fr);gap:4px;max-width:260px}
+.escalera li{height:22px;border-radius:3px;background:var(--nc);opacity:.22;display:grid;place-items:center;
+  font-family:var(--mono);font-size:10px;font-weight:600;color:var(--tinta)}
+.escalera li.on{opacity:1;color:#fff;box-shadow:0 0 0 2px var(--hielo),0 0 0 4px var(--nc)}
+.escalera li:first-child.on{color:var(--tinta)}
+.expl{font-size:16px;margin:8px 0 0;max-width:46ch;text-wrap:pretty;color:var(--tinta)}
+.tag{display:inline-block;margin-top:4px;font-family:var(--mono);font-size:10.5px;font-weight:600;letter-spacing:.06em;
+  text-transform:uppercase;background:var(--nc);color:var(--nt);border-radius:999px;padding:2px 9px;white-space:nowrap}
+
+/* ── cuenta ──────────────────────────────────────────── */
+.cuenta-btn{height:34px;min-width:34px;padding:0 14px;border-radius:999px;background:var(--tinta);color:#fff;
+  font-family:var(--disp);font-weight:750;font-size:14px;font-variation-settings:"wdth" 110;transition:.15s}
+.cuenta-btn:hover{background:var(--boya-hondo)}
+.cuenta-btn.dentro{padding:0;width:34px;background:var(--boya);font-size:15px}
+.pestanas{display:grid;grid-template-columns:1fr 1fr;gap:4px;background:#fff;border:1px solid var(--linea);
+  border-radius:999px;padding:4px;margin-top:18px}
+.pestanas button{border-radius:999px;padding:8px 10px;font-weight:650;font-size:14px;color:var(--tinta-suave)}
+.pestanas button[aria-selected="true"]{background:var(--tinta);color:#fff}
+.form-cuenta{display:grid;gap:6px;margin-top:16px}
+.form-cuenta label{font-family:var(--mono);font-size:11px;letter-spacing:.1em;text-transform:uppercase;color:var(--tinta-suave);margin-top:6px}
+.form-cuenta .btn{margin-top:12px;justify-self:start}
+.form-cuenta .btn:disabled{opacity:.5;cursor:wait}
+.aviso-cuenta{margin-top:18px;padding:12px 14px;background:#fff;border:1px solid var(--linea);border-radius:6px;max-width:none}
+.enlace{color:var(--boya-hondo);font-weight:650;text-decoration:underline;text-underline-offset:2px;padding:0}
+.historial{list-style:none;margin:6px 0 0;padding:0;border-top:1px solid var(--linea)}
+.historial li{display:grid;grid-template-columns:70px 1fr auto;gap:12px;align-items:center;padding:9px 2px;border-bottom:1px solid var(--linea)}
+.h-dia{font-family:var(--disp);font-weight:800;font-size:15px;line-height:1.1}
+.h-dia small{display:block;font-family:var(--mono);font-weight:400;font-size:10.5px;color:var(--tinta-suave)}
+.h-nv{display:flex;gap:3px;flex-wrap:wrap}
+.h-nv i{width:14px;height:14px;border-radius:3px;display:block}
+.h-m{font-family:var(--mono);font-size:13px;font-weight:600;font-variant-numeric:tabular-nums}
+
+/* ── resultado ───────────────────────────────────────── */
+.hondura{font-family:var(--disp);font-weight:900;font-size:clamp(56px,11vw,92px);line-height:.88;margin:6px 0 0;
+  font-variant-numeric:tabular-nums;font-variation-settings:"wdth" 118;letter-spacing:-.03em}
+.hondura small{font-size:.32em;color:var(--tinta-suave);font-weight:600;margin-left:6px;letter-spacing:0}
+.capa-final{font-family:var(--disp);font-weight:800;font-size:20px;margin:10px 0 0;color:var(--boya-hondo);
+  font-variation-settings:"wdth" 110}
+.tira{list-style:none;margin:18px 0 0;padding:0;border-top:1px solid var(--linea)}
+.tira li{display:grid;grid-template-columns:12px 1fr auto;gap:12px;align-items:baseline;padding:10px 2px;
+  border-bottom:1px solid var(--linea);font-size:14px}
+.tira .pt-c{width:10px;height:10px;border-radius:50%;align-self:center}
+.tira .pr{color:var(--tinta-suave);font-size:12px;display:block;line-height:1.3;margin-bottom:1px}
+.tira .ver{display:flex;gap:8px;align-items:baseline;flex-wrap:wrap;text-align:left;padding:0;cursor:pointer}
+.tira .ver:hover{color:var(--tinta)}
+.tira .flecha{font-family:var(--mono);font-size:10px;letter-spacing:.06em;text-transform:uppercase;color:var(--boya-hondo);
+  border-bottom:1px dotted currentColor}
+.tira .ver[aria-expanded="true"] .flecha{color:var(--tinta-suave)}
+.tira .ver[aria-expanded="true"] .flecha::after{content:" ↑"}
+.tira .ver[aria-expanded="false"] .flecha::after{content:" ↓"}
+.todas[hidden]{display:none}
+.todas{grid-column:1 / -1;display:grid;gap:10px;background:#fff;border:1px solid var(--linea);border-radius:6px;
+  padding:12px 14px;margin:4px 0 2px}
+.grupo-cab{display:flex;justify-content:space-between;align-items:center;gap:10px}
+.resps{margin:6px 0 0;font-size:13.5px;line-height:1.6;color:var(--tinta)}
+.resps mark{background:none;color:var(--tinta);font-weight:700;box-shadow:inset 0 -3px 0 var(--nc);padding:0 1px}
+.tira .rs{font-weight:650}
+.tira .rs.falla{color:var(--tinta-suave);font-weight:400;font-style:italic}
+.tira .joya{color:var(--boya-hondo);font-size:12px;display:block;margin-top:2px}
+.tira .pt{font-family:var(--mono);color:var(--tinta-suave);font-variant-numeric:tabular-nums;font-size:12px}
+.marcador{display:flex;gap:24px;flex-wrap:wrap;margin-top:20px}
+.marcador div{font-family:var(--mono);font-size:10.5px;color:var(--tinta-suave);letter-spacing:.1em;text-transform:uppercase}
+.marcador b{display:block;font-family:var(--disp);font-size:26px;color:var(--tinta);letter-spacing:0;
+  text-transform:none;font-variant-numeric:tabular-nums;margin-top:2px;font-weight:850}
+.copiado{color:var(--r3);font-size:13px;font-family:var(--mono)}
+
+/* ── ayuda ───────────────────────────────────────────── */
+#ayuda[hidden],#cuenta[hidden]{display:none}
+#ayuda,#cuenta{position:fixed;inset:0;z-index:8;background:rgba(3,13,27,.82);backdrop-filter:blur(4px);
+  display:flex;flex-direction:column;padding:20px 16px;overflow-y:auto}
+h2{font-family:var(--disp);font-weight:850;font-size:28px;margin:0 0 4px;font-variation-settings:"wdth" 115}
+h3{font-family:var(--mono);font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:var(--boya-hondo);
+  margin:24px 0 8px;font-weight:600}
+.mini{color:var(--tinta-suave);font-size:14px;margin:8px 0 0;max-width:60ch}
+.mini b{color:var(--tinta)}
+.escala{list-style:none;margin:10px 0 0;padding:0;border:1px solid var(--linea);border-radius:6px;overflow:hidden}
+.escala li{display:grid;grid-template-columns:auto 1fr auto;gap:12px;align-items:center;padding:10px 13px;
+  font-size:14px;background:#fff}
+.escala li+li{border-top:1px solid var(--linea)}
+.escala .pt-c{width:12px;height:12px;border-radius:50%}
+.escala .n{font-weight:700}
+.escala .d{color:var(--tinta-suave);font-size:12.5px;display:block}
+.escala .p{font-family:var(--mono);font-size:12px;color:var(--tinta-suave);font-variant-numeric:tabular-nums}
+
+@media (max-width:720px){
+  :root{--col:92px}
+  #barra{padding-inline:14px;gap:10px}
+  #marca{font-size:18px}
+  #dia{padding-left:10px;font-size:10px}
+  #escena{padding:18px 16px 24px}
+  .panel{padding:22px 18px 20px}
+  .lema{font-size:16px}
+  .reglas li{grid-template-columns:54px 1fr;gap:10px}
+  .reglas .num{font-size:17px}
+  h1{font-size:40px}
+  .btn{padding:11px 18px}
+}
+@media (max-width:380px){ #dia{display:none} }
+@media (prefers-reduced-motion:reduce){*{animation-duration:.01ms!important;transition-duration:.01ms!important}}
+</style>
+</head>
+<body>
+
+<div id="app">
+  <header id="barra">
+    <span id="marca">Sabi<em>hondo</em></span>
+    <span id="dia">—</span>
+    <span class="sep"></span>
+    <button class="icono" id="bSon" aria-pressed="false" title="Sonido">♪</button>
+    <button class="icono" id="bAyuda" title="Cómo se juega">?</button>
+    <button class="cuenta-btn" id="bCuenta" hidden>Entrar</button>
+  </header>
+  <div id="hielo" aria-hidden="true"><svg id="svg"></svg></div>
+  <main id="escena"></main>
+</div>
+<div id="ayuda" hidden></div>
+<div id="cuenta" class="capa" hidden></div>
+<script>const BANCO=[{"q":"Nombra una fruta","t":[[["manzana",["manzana"],""],["plátano",["platano"],""],["naranja",["naranja"],""],["pera",["pera"],""],["fresa",["fresa"],""],["uva",["uva"],""],["sandía",["sandia"],""],["melón",["melon"],""],["limón",["limon"],""],["piña",["pina"],""]],[["níspero",["nispero"],"El listillo de la frutería. Lo dice medio país."],["chirimoya",["chirimoya"],""]],[["kiwi",["kiwi"],""],["melocotón",["melocoton"],""],["cereza",["cereza"],""],["mango",["mango"],""],["ciruela",["ciruela"],""],["albaricoque",["albaricoque"],""],["mandarina",["mandarina"],""],["coco",["coco"],""],["papaya",["papaya"],""],["granada",["granada"],""],["aguacate",["aguacate"],""],["pomelo",["pomelo"],""],["frambuesa",["frambuesa"],""],["arándano",["arandano"],""]],[["higo",["higo"],""],["caqui",["caqui"],""],["maracuyá",["maracuya","fruta pasion"],""],["guayaba",["guayaba"],""],["lichi",["lichi"],""],["nectarina",["nectarina"],""],["paraguaya",["paraguaya"],""],["membrillo",["membrillo"],""],["mora",["mora"],""],["dátil",["datil"],""],["grosella",["grosella"],""],["carambola",["carambola"],""],["kumquat",["kumquat"],""],["tamarindo",["tamarindo"],""]],[["azufaifa",["azufaifa"],""],["endrina",["endrina","pacharan"],""],["serba",["serba"],""],["physalis",["physalis"],""],["pitaya",["pitaya","fruta dragon"],""],["mangostán",["mangostan"],""],["rambután",["rambutan"],""],["acerola",["acerola"],""],["madroño",["madrono"],"El árbol del escudo de Madrid da fruta, y se come."],["guanábana",["guanabana"],""],["níspero del Japón",["nispero japon"],""],["corazón de buey",["corazon buey"],""]],[["higo chumbo",["higo chumbo","chumbo","higochumbo"],"La chumbera da fruta y casi nadie la nombra. El fondo del iceberg."]]]},{"q":"Nombra una verdura u hortaliza","t":[[["lechuga",["lechuga"],""],["tomate",["tomate"],""],["zanahoria",["zanahoria"],""],["patata",["patata"],""],["cebolla",["cebolla"],""],["pimiento",["pimiento"],""],["pepino",["pepino"],""],["brócoli",["brocoli"],""],["calabacín",["calabacin"],""],["judía verde",["judia verde"],""]],[["acelga",["acelga"],"Suena a rareza. La come España entera."],["escarola",["escarola"],""]],[["espinaca",["espinaca"],""],["coliflor",["coliflor"],""],["berenjena",["berenjena"],""],["calabaza",["calabaza"],""],["guisante",["guisante"],""],["alcachofa",["alcachofa"],""],["puerro",["puerro"],""],["apio",["apio"],""],["rábano",["rabano"],""],["ajo",["ajo"],""],["col",["col"],""],["repollo",["repollo"],""],["remolacha",["remolacha"],""],["espárrago",["esparrago"],""],["maíz",["maiz"],""]],[["nabo",["nabo"],""],["endivia",["endivia"],""],["hinojo",["hinojo"],""],["cardo",["cardo"],""],["borraja",["borraja"],""],["canónigo",["canonigo"],""],["rúcula",["rucula"],""],["chirivía",["chirivia"],""],["berza",["berza"],""],["grelo",["grelo"],""],["alcaparra",["alcaparra"],""],["okra",["okra"],""],["haba",["haba"],""],["pepinillo",["pepinillo"],""],["lombarda",["lombarda"],""],["calçot",["calcot"],""]],[["salsifí",["salsifi"],""],["tupinambo",["tupinambo","pataca"],""],["achicoria",["achicoria"],""],["romanesco",["romanesco"],""],["colinabo",["colinabo","colirrabano"],""],["verdolaga",["verdolaga"],""],["pak choi",["pak choi"],""],["bimi",["bimi"],""],["cardo mariano",["cardo mariano"],""],["hierba de los canónigos",["hierba canonigos"],""],["apionabo",["apionabo"],""],["acedera",["acedera"],""]],[["escorzonera",["escorzonera"],"El salsifí negro. Existe, se cultiva en Aragón y nadie lo dice."]]]},{"q":"Nombra un color","t":[[["rojo",["rojo"],""],["azul",["azul"],""],["verde",["verde"],""],["amarillo",["amarillo"],""],["negro",["negro"],""],["blanco",["blanco"],""],["naranja",["naranja"],""],["rosa",["rosa"],""],["morado",["morado"],""],["marrón",["marron"],""],["gris",["gris"],""],["violeta",["violeta"],""]],[["añil",["anil"],"El color listillo del arcoíris."],["cian",["cian"],""]],[["turquesa",["turquesa"],""],["beige",["beige"],""],["granate",["granate"],""],["burdeos",["burdeos"],""],["fucsia",["fucsia"],""],["salmón",["salmon"],""],["lila",["lila"],""],["ocre",["ocre"],""],["celeste",["celeste"],""],["magenta",["magenta"],""],["dorado",["dorado"],""],["plateado",["plateado"],""],["caqui",["caqui"],""],["coral",["coral"],""],["malva",["malva"],""]],[["carmesí",["carmesi"],""],["bermellón",["bermellon"],""],["esmeralda",["esmeralda"],""],["índigo",["indigo"],""],["escarlata",["escarlata"],""],["siena",["siena"],""],["sepia",["sepia"],""],["añil marino",["anil marino"],""],["azabache",["azabache"],""],["cobalto",["cobalto"],""],["glauco",["glauco"],""],["amaranto",["amaranto"],""],["garzo",["garzo"],""],["zafiro",["zafiro"],""]],[["cárdeno",["cardeno"],""],["bermejo",["bermejo"],""],["albero",["albero"],""],["almagre",["almagre"],""],["jalde",["jalde"],""],["nacarado",["nacarado"],""],["pardo",["pardo"],""],["bruno",["bruno"],""],["carmín",["carmin"],""],["verdegay",["verdegay"],""],["azur",["azur"],""],["sinople",["sinople"],""]],[["gualda",["gualda"],"El de la rojigualda. Lo cantas en el himno y no sabes qué color es: amarillo intenso."]]]},{"q":"Nombra un animal de granja","t":[[["vaca",["vaca"],""],["cerdo",["cerdo"],""],["gallina",["gallina"],""],["oveja",["oveja"],""],["caballo",["caballo"],""],["cabra",["cabra"],""],["pollo",["pollo"],""],["conejo",["conejo"],""],["pato",["pato"],""],["burro",["burro"],""]],[["oca",["oca"],"Todo el mundo se cree original diciéndola."]],[["gallo",["gallo"],""],["toro",["toro"],""],["ternero",["ternero"],""],["cordero",["cordero"],""],["pavo",["pavo"],""],["ganso",["ganso"],""],["mula",["mula"],""],["yegua",["yegua"],""],["cerda",["cerda"],""],["carnero",["carnero"],""],["potro",["potro"],""],["paloma",["paloma"],""],["abeja",["abeja"],""],["perro pastor",["perro pastor"],""]],[["gansa",["gansa"],""],["codorniz",["codorniz"],""],["faisán",["faisan"],""],["avestruz",["avestruz"],""],["llama",["llama"],""],["alpaca",["alpaca"],""],["búfalo",["bufalo"],""],["yak",["yak"],""],["gusano de seda",["gusano seda"],""],["cabrito",["cabrito"],""],["lechón",["lechon"],""],["novillo",["novillo"],""],["jabalí domesticado",["jabali domesticado"],""]],[["pintada",["pintada"],"La gallina de Guinea. En media España se cría y nadie la llama por su nombre."],["poni",["poni"],""],["asno zamorano",["asno zamorano"],""],["oveja latxa",["oveja latxa"],""],["vaca tudanca",["vaca tudanca"],""],["cerdo ibérico",["cerdo iberico"],""],["gallina castellana negra",["gallina castellana negra"],""],["burro catalán",["burro catalan"],""],["ánade real",["anade real"],""]],[["morueco",["morueco","marueco"],"El carnero semental. Palabra de diccionario de pueblo."]]]},{"q":"Nombra un instrumento musical","t":[[["guitarra",["guitarra"],""],["piano",["piano"],""],["violín",["violin"],""],["batería",["bateria"],""],["flauta",["flauta"],""],["trompeta",["trompeta"],""],["saxofón",["saxofon"],""],["bajo",["bajo"],""],["tambor",["tambor"],""],["arpa",["arpa"],""]],[["triángulo",["triangulo"],"El chiste de la orquesta."],["ukelele",["ukelele"],""]],[["violonchelo",["violonchelo","chelo"],""],["clarinete",["clarinete"],""],["acordeón",["acordeon"],""],["órgano",["organo"],""],["trombón",["trombon"],""],["contrabajo",["contrabajo"],""],["oboe",["oboe"],""],["viola",["viola"],""],["pandereta",["pandereta"],""],["castañuelas",["castanuelas"],""],["armónica",["armonica"],""],["banjo",["banjo"],""],["mandolina",["mandolina"],""],["xilófono",["xilofono"],""],["gaita",["gaita"],""]],[["fagot",["fagot"],""],["corno inglés",["corno ingles"],""],["tuba",["tuba"],""],["laúd",["laud"],""],["bandurria",["bandurria"],""],["dulzaina",["dulzaina"],""],["timbal",["timbal"],""],["celesta",["celesta"],""],["sitar",["sitar"],""],["didgeridoo",["didgeridoo"],""],["cajón flamenco",["cajon flamenco"],""],["zanfona",["zanfona"],""],["clavicémbalo",["clavicembalo"],""],["bombardino",["bombardino"],""],["txistu",["txistu"],""]],[["chirimía",["chirimia"],""],["rabel",["rabel"],""],["salterio",["salterio"],""],["ocarina",["ocarina"],""],["theremín",["theremin"],""],["serpentón",["serpenton"],""],["cromorno",["cromorno"],""],["viola de gamba",["viola gamba"],""],["alboka",["alboka"],""],["gaita de boto",["gaita boto"],""],["tenora",["tenora"],""],["flabiol",["flabiol"],""],["albogue",["albogue"],""]],[["txalaparta",["txalaparta"],"Dos tablas y dos palos. Suena a Euskadi y no la nombra casi nadie."]]]},{"q":"Nombra un elemento de la tabla periódica","t":[[["oro",["oro"],""],["plata",["plata"],""],["hierro",["hierro"],""],["oxígeno",["oxigeno"],""],["hidrógeno",["hidrogeno"],""],["carbono",["carbono"],""],["helio",["helio"],""],["nitrógeno",["nitrogeno"],""],["cobre",["cobre"],""],["calcio",["calcio"],""],["sodio",["sodio"],""],["plomo",["plomo"],""],["mercurio",["mercurio"],""]],[["wolframio",["wolframio","tungsteno"],"Lo descubrieron los hermanos Elhuyar en Bergara. Y aun así lo dice todo el mundo para parecer listo."],["uranio",["uranio"],""]],[["aluminio",["aluminio"],""],["zinc",["zinc"],""],["magnesio",["magnesio"],""],["potasio",["potasio"],""],["cloro",["cloro"],""],["azufre",["azufre"],""],["fósforo",["fosforo"],""],["níquel",["niquel"],""],["estaño",["estano"],""],["litio",["litio"],""],["platino",["platino"],""],["silicio",["silicio"],""],["cobalto",["cobalto"],""],["cromo",["cromo"],""],["titanio",["titanio"],""],["neón",["neon"],""],["argón",["argon"],""],["yodo",["yodo"],""]],[["manganeso",["manganeso"],""],["bario",["bario"],""],["bismuto",["bismuto"],""],["antimonio",["antimonio"],""],["arsénico",["arsenico"],""],["selenio",["selenio"],""],["circonio",["circonio"],""],["vanadio",["vanadio"],""],["molibdeno",["molibdeno"],""],["paladio",["paladio"],""],["iridio",["iridio"],""],["osmio",["osmio"],""],["renio",["renio"],""],["talio",["talio"],""],["galio",["galio"],""],["germanio",["germanio"],""],["rubidio",["rubidio"],""],["estroncio",["estroncio"],""]],[["escandio",["escandio"],""],["itrio",["itrio"],""],["niobio",["niobio"],""],["tántalo",["tantalo"],""],["hafnio",["hafnio"],""],["telurio",["telurio"],""],["cerio",["cerio"],""],["neodimio",["neodimio"],""],["samario",["samario"],""],["europio",["europio"],""],["gadolinio",["gadolinio"],""],["terbio",["terbio"],""],["holmio",["holmio"],""],["erbio",["erbio"],""],["tulio",["tulio"],""],["iterbio",["iterbio"],""],["lutecio",["lutecio"],""],["protactinio",["protactinio"],""],["berkelio",["berkelio"],""]],[["disprosio",["disprosio"],"Nombre griego para «difícil de conseguir». Va en los imanes de tu móvil."]]]},{"q":"Nombra un hueso del cuerpo humano","t":[[["fémur",["femur"],""],["cráneo",["craneo"],""],["costilla",["costilla"],""],["columna",["columna"],""],["tibia",["tibia"],""],["clavícula",["clavicula"],""],["cadera",["cadera"],""],["mandíbula",["mandibula"],""],["rótula",["rotula"],""],["húmero",["humero"],""]],[["estribo",["estribo"],"El hueso más pequeño. La respuesta que todo el mundo guarda para quedar bien."],["yunque",["yunque"],""]],[["peroné",["perone"],""],["radio",["radio"],""],["cúbito",["cubito"],""],["esternón",["esternon"],""],["omóplato",["omoplato","escapula"],""],["vértebra",["vertebra"],""],["falange",["falange"],""],["sacro",["sacro"],""],["coxis",["coxis"],""],["martillo",["martillo"],""],["pelvis",["pelvis"],""],["metacarpo",["metacarpo"],""],["metatarso",["metatarso"],""],["maxilar",["maxilar"],""],["calcáneo",["calcaneo"],""]],[["astrágalo",["astragalo"],""],["escafoides",["escafoides"],""],["semilunar",["semilunar"],""],["piramidal",["piramidal"],""],["pisiforme",["pisiforme"],""],["trapecio",["trapecio"],""],["trapezoide",["trapezoide"],""],["grande",["grande"],""],["ganchoso",["ganchoso"],""],["cuboides",["cuboides"],""],["navicular",["navicular"],""],["cuneiforme",["cuneiforme"],""],["ilion",["ilion"],""],["isquion",["isquion"],""],["pubis",["pubis"],""],["occipital",["occipital"],""],["parietal",["parietal"],""],["temporal",["temporal"],""],["frontal",["frontal"],""]],[["etmoides",["etmoides"],""],["esfenoides",["esfenoides"],""],["cigomático",["cigomatico","malar"],""],["palatino",["palatino"],""],["lagrimal",["lagrimal"],""],["cornete",["cornete"],""],["hioides",["hioides"],""],["nasal",["nasal"],""],["unguis",["unguis"],""],["axis",["axis"],""],["atlas",["atlas"],""],["hueso wormiano",["hueso wormiano"],""]],[["vómer",["vomer"],"Un huesecillo con forma de reja de arado en mitad de la nariz."]]]},{"q":"Nombra algo que haya en una cocina","t":[[["nevera",["nevera"],""],["horno",["horno"],""],["sartén",["sarten"],""],["cuchillo",["cuchillo"],""],["mesa",["mesa"],""],["plato",["plato"],""],["vaso",["vaso"],""],["cuchara",["cuchara"],""],["tenedor",["tenedor"],""],["microondas",["microondas"],""],["fregadero",["fregadero"],""],["olla",["olla"],""]],[["mortero",["mortero"],"El clásico de quien quiere parecer cocinillas."],["espumadera",["espumadera"],""]],[["batidora",["batidora"],""],["cafetera",["cafetera"],""],["lavavajillas",["lavavajillas"],""],["tabla de cortar",["tabla cortar"],""],["colador",["colador"],""],["escurridor",["escurridor"],""],["cazo",["cazo"],""],["paellera",["paellera"],""],["tostadora",["tostadora"],""],["rallador",["rallador"],""],["bol",["bol"],""],["bandeja",["bandeja"],""],["delantal",["delantal"],""],["trapo",["trapo"],""],["especiero",["especiero"],""],["campana extractora",["campana extractora"],""],["báscula",["bascula"],""]],[["cucharón",["cucharon"],""],["pelapatatas",["pelapatatas"],""],["abrelatas",["abrelatas"],""],["sacacorchos",["sacacorchos"],""],["exprimidor",["exprimidor"],""],["molinillo",["molinillo"],""],["embudo",["embudo"],""],["manga pastelera",["manga pastelera"],""],["termómetro de cocina",["termometro cocina"],""],["salamandra",["salamandra"],""],["chino",["chino"],""],["mandolina",["mandolina"],""],["pasapurés",["pasapures"],""],["huevera",["huevera"],""],["aceitera",["aceitera"],""],["vinagreras",["vinagreras"],""]],[["lebrillo",["lebrillo"],""],["orza",["orza"],""],["cazuela de barro",["cazuela barro"],""],["besuguera",["besuguera"],""],["tartera",["tartera"],""],["rasera",["rasera"],""],["espetera",["espetera"],""],["alacena",["alacena"],""],["fresquera",["fresquera"],""],["escurreplatos",["escurreplatos"],""],["cántaro",["cantaro"],""],["botijo",["botijo"],""],["puchero",["puchero"],""]],[["almirez",["almirez","almiez"],"El mortero de metal que suena. Palabra de cocina de la abuela."]]]},{"q":"Nombra una profesión u oficio","t":[[["médico",["medico"],""],["profesor",["profesor"],""],["abogado",["abogado"],""],["policía",["policia"],""],["bombero",["bombero"],""],["enfermero",["enfermero"],""],["panadero",["panadero"],""],["camarero",["camarero"],""],["arquitecto",["arquitecto"],""],["fontanero",["fontanero"],""],["carpintero",["carpintero"],""],["electricista",["electricista"],""]],[["astronauta",["astronauta"],"Nadie conoce a uno y todo el mundo lo dice."],["torero",["torero"],""]],[["veterinario",["veterinario"],""],["periodista",["periodista"],""],["dentista",["dentista"],""],["ingeniero",["ingeniero"],""],["peluquero",["peluquero"],""],["cocinero",["cocinero"],""],["albañil",["albanil"],""],["mecánico",["mecanico"],""],["cartero",["cartero"],""],["farmacéutico",["farmaceutico"],""],["piloto",["piloto"],""],["contable",["contable"],""],["jardinero",["jardinero"],""],["traductor",["traductor"],""],["pescador",["pescador"],""],["agricultor",["agricultor"],""],["soldador",["soldador"],""],["taxista",["taxista"],""]],[["notario",["notario"],""],["registrador",["registrador"],""],["actuario",["actuario"],""],["topógrafo",["topografo"],""],["logopeda",["logopeda"],""],["podólogo",["podologo"],""],["óptico",["optico"],""],["matrona",["matrona"],""],["forense",["forense"],""],["archivero",["archivero"],""],["documentalista",["documentalista"],""],["restaurador de arte",["restaurador arte"],""],["luthier",["luthier"],""],["sastre",["sastre"],""],["zapatero",["zapatero"],""],["relojero",["relojero"],""],["apicultor",["apicultor"],""],["pastor",["pastor"],""],["herrero",["herrero"],""]],[["afilador",["afilador"],""],["deshollinador",["deshollinador"],""],["guarnicionero",["guarnicionero"],""],["cestero",["cestero"],""],["alfarero",["alfarero"],""],["tallista",["tallista"],""],["encuadernador",["encuadernador"],""],["vidriero",["vidriero"],""],["estucador",["estucador"],""],["calafate",["calafate"],""],["almadreñero",["almadrenero"],""],["espartero",["espartero"],""],["cantero",["cantero"],""],["dorador",["dorador"],""],["sereno",["sereno"],""],["farero",["farero"],""]],[["tonelero",["tonelero"],"Hacer barricas a mano. Todavía existe, sobre todo en La Rioja y Jerez."]]]},{"q":"Nombra una prenda de ropa","t":[[["camiseta",["camiseta"],""],["pantalón",["pantalon"],""],["falda",["falda"],""],["vestido",["vestido"],""],["abrigo",["abrigo"],""],["jersey",["jersey"],""],["camisa",["camisa"],""],["calcetines",["calcetines"],""],["zapatos",["zapatos"],""],["chaqueta",["chaqueta"],""],["sudadera",["sudadera"],""],["bufanda",["bufanda"],""]],[["chaleco",["chaleco"],"La prenda que se dice para no decir camiseta."],["poncho",["poncho"],""]],[["vaqueros",["vaqueros"],""],["leggings",["leggings"],""],["body",["body"],""],["blusa",["blusa"],""],["americana",["americana"],""],["gabardina",["gabardina"],""],["plumas",["plumas"],""],["anorak",["anorak"],""],["mono",["mono"],""],["short",["short"],""],["pijama",["pijama"],""],["bañador",["banador"],""],["bikini",["bikini"],""],["guantes",["guantes"],""],["gorro",["gorro"],""],["cinturón",["cinturon"],""],["corbata",["corbata"],""],["zapatillas",["zapatillas"],""],["botas",["botas"],""],["medias",["medias"],""]],[["trenca",["trenca"],""],["parka",["parka"],""],["cárdigan",["cardigan"],""],["kimono",["kimono"],""],["sari",["sari"],""],["caftán",["caftan"],""],["peto",["peto"],""],["canesú",["canesu"],""],["polainas",["polainas"],""],["gabán",["gaban"],""],["levita",["levita"],""],["frac",["frac"],""],["esmoquin",["esmoquin"],""],["chubasquero",["chubasquero"],""],["chaquetilla",["chaquetilla"],""],["delantal",["delantal"],""],["corpiño",["corpino"],""],["enagua",["enagua"],""],["mantón",["manton"],""]],[["zamarra",["zamarra"],""],["pelliza",["pelliza"],""],["guardapolvo",["guardapolvo"],""],["batín",["batin"],""],["salto de cama",["salto cama"],""],["refajo",["refajo"],""],["justillo",["justillo"],""],["jubón",["jubon"],""],["calzas",["calzas"],""],["escarpines",["escarpines"],""],["manguitos",["manguitos"],""],["capote",["capote"],""],["zahones",["zahones"],""],["albarcas",["albarcas"],""],["abarcas",["abarcas"],""]],[["rebeca",["rebeca"],"La chaqueta de botones se llama así en España por la peli de Hitchcock. En ningún otro idioma."]]]},{"q":"Nombra un insecto","t":[[["mosca",["mosca"],""],["mosquito",["mosquito"],""],["hormiga",["hormiga"],""],["abeja",["abeja"],""],["araña",["arana"],"Es un arácnido, pero te lo dejamos pasar."],["mariposa",["mariposa"],""],["escarabajo",["escarabajo"],""],["cucaracha",["cucaracha"],""],["avispa",["avispa"],""],["saltamontes",["saltamontes"],""]],[["libélula",["libelula"],"Preciosa, común y dicha por todos los que buscan una rara."],["luciérnaga",["luciernaga"],""]],[["grillo",["grillo"],""],["polilla",["polilla"],""],["termita",["termita"],""],["pulga",["pulga"],""],["piojo",["piojo"],""],["chinche",["chinche"],""],["mariquita",["mariquita"],""],["abejorro",["abejorro"],""],["cigarra",["cigarra"],""],["tábano",["tabano"],""],["mantis religiosa",["mantis religiosa"],""],["oruga",["oruga"],""],["ciempiés",["ciempies"],""],["escarabajo pelotero",["escarabajo pelotero"],""],["hormiga voladora",["hormiga voladora"],""]],[["efímera",["efimera"],""],["frigánea",["friganea"],""],["tijereta",["tijereta"],""],["cochinilla",["cochinilla"],""],["pulgón",["pulgon"],""],["gorgojo",["gorgojo"],""],["crisopa",["crisopa"],""],["zapatero",["zapatero"],""],["chicharra",["chicharra"],""],["escarabajo rinoceronte",["escarabajo rinoceronte"],""],["ciervo volante",["ciervo volante"],""],["avispa asiática",["avispa asiatica"],""],["procesionaria",["procesionaria"],""],["cárabo dorado",["carabo dorado"],""],["gusano de luz",["gusano luz"],""]],[["escorpión de agua",["escorpion agua"],""],["notonecta",["notonecta"],""],["mosca escorpión",["mosca escorpion"],""],["tricóptero",["tricoptero"],""],["colémbolo",["colembolo"],""],["tisanuro",["tisanuro"],""],["pez de plata",["pez plata"],""],["hormiga león",["hormiga leon"],""],["cetonia",["cetonia"],""],["abeja carpintera",["abeja carpintera"],""],["mosca de las flores",["mosca flores"],""],["cigarra de mar",["cigarra mar"],""]],[["caballito del diablo",["caballito diablo","caballito"],"La libélula fina que no cierra las alas. Nombre de cuento y bicho real."]]]},{"q":"Nombra un árbol","t":[[["pino",["pino"],""],["roble",["roble"],""],["olivo",["olivo"],""],["encina",["encina"],""],["palmera",["palmera"],""],["naranjo",["naranjo"],""],["manzano",["manzano"],""],["abeto",["abeto"],""],["chopo",["chopo"],""],["sauce",["sauce"],""],["eucalipto",["eucalipto"],""],["cerezo",["cerezo"],""]],[["baobab",["baobab"],"El árbol raro de todos los libros de infantil."],["secuoya",["secuoya"],""]],[["haya",["haya"],""],["castaño",["castano"],""],["nogal",["nogal"],""],["almendro",["almendro"],""],["higuera",["higuera"],""],["álamo",["alamo"],""],["fresno",["fresno"],""],["olmo",["olmo"],""],["abedul",["abedul"],""],["arce",["arce"],""],["tilo",["tilo"],""],["ciprés",["cipres"],""],["plátano de sombra",["platano sombra"],""],["acacia",["acacia"],""],["limonero",["limonero"],""],["algarrobo",["algarrobo"],""],["alcornoque",["alcornoque"],""],["magnolio",["magnolio"],""]],[["tejo",["tejo"],""],["acebo",["acebo"],""],["serbal",["serbal"],""],["majuelo",["majuelo"],""],["endrino",["endrino"],""],["madroño",["madrono"],""],["aliso",["aliso"],""],["avellano",["avellano"],""],["membrillero",["membrillero"],""],["granado",["granado"],""],["laurel",["laurel"],""],["cedro",["cedro"],""],["alerce",["alerce"],""],["enebro",["enebro"],""],["sabina",["sabina"],""],["carrasca",["carrasca"],""],["melojo",["melojo"],""],["rebollo",["rebollo"],""],["ombú",["ombu"],""]],[["quejigo",["quejigo"],""],["coscoja",["coscoja"],""],["labiérnago",["labiernago"],""],["lentisco",["lentisco"],""],["cornicabra",["cornicabra"],""],["durillo",["durillo"],""],["mostajo",["mostajo"],""],["temblón",["temblon"],""],["negrillo",["negrillo"],""],["árbol del amor",["arbol amor"],""],["drago",["drago"],""],["tarajal",["tarajal"],""],["garoé",["garoe"],""]],[["pinsapo",["pinsapo","abeto espanol"],"Un abeto de la Edad de Hielo que sobrevive en Cádiz y Málaga. En ningún sitio más de Europa."]]]},{"q":"Nombra una flor","t":[[["rosa",["rosa"],""],["margarita",["margarita"],""],["tulipán",["tulipan"],""],["girasol",["girasol"],""],["clavel",["clavel"],""],["amapola",["amapola"],""],["lirio",["lirio"],""],["orquídea",["orquidea"],""],["violeta",["violeta"],""],["jazmín",["jazmin"],""],["azucena",["azucena"],""]],[["edelweiss",["edelweiss"],"La flor de las montañas de todos los documentales."],["flor de loto",["flor loto"],""]],[["geranio",["geranio"],""],["petunia",["petunia"],""],["hortensia",["hortensia"],""],["dalia",["dalia"],""],["crisantemo",["crisantemo"],""],["narciso",["narciso"],""],["gardenia",["gardenia"],""],["camelia",["camelia"],""],["begonia",["begonia"],""],["magnolia",["magnolia"],""],["lavanda",["lavanda"],""],["buganvilla",["buganvilla"],""],["glicinia",["glicinia"],""],["adelfa",["adelfa"],""],["nomeolvides",["nomeolvides"],""],["pensamiento",["pensamiento"],""],["ciclamen",["ciclamen"],""],["gladiolo",["gladiolo"],""]],[["peonía",["peonia"],""],["ranúnculo",["ranunculo"],""],["anémona",["anemona"],""],["azalea",["azalea"],""],["calla",["calla"],""],["fresia",["fresia"],""],["iris",["iris"],""],["jacinto",["jacinto"],""],["caléndula",["calendula"],""],["cosmos",["cosmos"],""],["zinnia",["zinnia"],""],["malva",["malva"],""],["romero en flor",["romero flor"],""],["espliego",["espliego"],""],["retama",["retama"],""],["jara",["jara"],""],["brezo",["brezo"],""],["acanto",["acanto"],""]],[["dedalera",["dedalera"],""],["campanilla de invierno",["campanilla invierno"],""],["primavera",["primavera"],""],["verónica",["veronica"],""],["nazareno",["nazareno"],""],["corona imperial",["corona imperial"],""],["flor de pascua",["flor pascua"],""],["clivia",["clivia"],""],["estrelitzia",["estrelitzia"],""],["hibisco",["hibisco"],""],["celinda",["celinda"],""],["espuela de caballero",["espuela caballero"],""],["boca de dragón",["boca dragon"],""],["siempreviva",["siempreviva"],""],["cardo azul",["cardo azul"],""]],[["aguileña",["aguilena","aquilegia"],"Cinco espolones como garras de águila. De ahí el nombre."]]]},{"q":"Nombra una especia o hierba aromática","t":[[["sal",["sal"],"No es especia, pero medio mundo la dice."],["pimienta",["pimienta"],""],["orégano",["oregano"],""],["perejil",["perejil"],""],["canela",["canela"],""],["ajo en polvo",["ajo polvo"],""],["azafrán",["azafran"],""],["romero",["romero"],""],["tomillo",["tomillo"],""],["laurel",["laurel"],""],["albahaca",["albahaca"],""]],[["cardamomo",["cardamomo"],"La especia con la que todo el mundo presume."],["comino",["comino"],""]],[["pimentón",["pimenton"],""],["curry",["curry"],""],["jengibre",["jengibre"],""],["nuez moscada",["nuez moscada"],""],["clavo",["clavo"],""],["vainilla",["vainilla"],""],["cilantro",["cilantro"],""],["menta",["menta"],""],["hierbabuena",["hierbabuena"],""],["estragón",["estragon"],""],["eneldo",["eneldo"],""],["salvia",["salvia"],""],["cúrcuma",["curcuma"],""],["guindilla",["guindilla"],""],["mostaza",["mostaza"],""],["anís",["anis"],""],["hinojo",["hinojo"],""],["cebollino",["cebollino"],""]],[["alcaravea",["alcaravea"],""],["enebro",["enebro"],""],["cayena",["cayena"],""],["za'atar",["za atar"],""],["ras el hanout",["ras hanout"],""],["sumac",["sumac"],""],["semilla de amapola",["semilla amapola"],""],["fenogreco",["fenogreco"],""],["galanga",["galanga"],""],["hierba luisa",["hierba luisa"],""],["ajedrea",["ajedrea"],""],["mejorana",["mejorana"],""],["melisa",["melisa"],""],["lavanda",["lavanda"],""],["pimienta de Sichuan",["pimienta sichuan"],""],["macis",["macis"],""]],[["pimienta larga",["pimienta larga"],""],["grano del paraíso",["grano paraiso"],""],["tonka",["tonka"],""],["nigella",["nigella"],""],["ajowan",["ajowan"],""],["cubeba",["cubeba"],""],["zumaque",["zumaque"],""],["pimienta rosa",["pimienta rosa"],""],["regaliz",["regaliz"],""],["calamento",["calamento"],""],["hisopo",["hisopo"],""],["poleo",["poleo"],""],["manzanilla amarga",["manzanilla amarga"],""],["pericón",["pericon"],""]],[["asafétida",["asafetida"],"Huele fatal cruda y transforma un guiso. La usan en la India y casi nadie aquí."]]]},{"q":"Nombra un tipo de queso","t":[[["manchego",["manchego"],""],["mozzarella",["mozzarella"],""],["parmesano",["parmesano"],""],["cheddar",["cheddar"],""],["roquefort",["roquefort"],""],["de cabra",["cabra"],""],["emmental",["emmental"],""],["gouda",["gouda"],""],["brie",["brie"],""],["azul",["azul"],""],["feta",["feta"],""],["ricotta",["ricotta"],""]],[["cabrales",["cabrales"],"El queso que todo el mundo saca para parecer entendido."],["idiazábal",["idiazabal"],""]],[["camembert",["camembert"],""],["gorgonzola",["gorgonzola"],""],["mascarpone",["mascarpone"],""],["burgos",["burgos"],""],["tetilla",["tetilla"],""],["mahón",["mahon"],""],["torta del Casar",["torta casar"],""],["payoyo",["payoyo"],""],["provolone",["provolone"],""],["gruyer",["gruyer"],""],["edam",["edam"],""],["philadelphia",["philadelphia"],""],["de untar",["untar"],""],["fresco",["fresco"],""],["curado",["curado"],""],["semicurado",["semicurado"],""],["zamorano",["zamorano"],""],["majorero",["majorero"],""]],[["roncal",["roncal"],""],["garrotxa",["garrotxa"],""],["arzúa-ulloa",["arzua ulloa"],""],["san simón",["san simon"],""],["nata de Cantabria",["nata cantabria"],""],["flor de Guía",["flor guia"],""],["ibores",["ibores"],""],["serena",["serena"],""],["pata de mulo",["pata mulo"],""],["villalón",["villalon"],""],["quesucos",["quesucos"],""],["monte enebro",["monte enebro"],""],["comté",["comte"],""],["pecorino",["pecorino"],""],["stilton",["stilton"],""],["halloumi",["halloumi"],""],["manouri",["manouri"],""]],[["gamoneu",["gamoneu"],""],["casín",["casin"],""],["beyos",["beyos"],""],["cebreiro",["cebreiro"],""],["valdeón",["valdeon"],""],["picón bejes-tresviso",["picon bejes tresviso"],""],["servilleta",["servilleta"],""],["cassoleta",["cassoleta"],""],["tronchón",["tronchon"],""],["oveja al romero",["oveja romero"],""],["queso de o'Cebreiro",["queso cebreiro"],""],["nata de Villalón",["nata villalon"],""]],[["afuega'l pitu",["afuega l pitu","afuegal pitu","afuega pitu"],"Asturiano. El nombre significa «ahoga el pollo» porque es tan seco que cuesta tragarlo."]]]},{"q":"Nombra un fenómeno meteorológico","t":[[["lluvia",["lluvia"],""],["nieve",["nieve"],""],["viento",["viento"],""],["tormenta",["tormenta"],""],["granizo",["granizo"],""],["niebla",["niebla"],""],["huracán",["huracan"],""],["tornado",["tornado"],""],["rayo",["rayo"],""],["arcoíris",["arcoiris"],""],["helada",["helada"],""]],[["tsunami",["tsunami"],"No es meteorológico, es sísmico. Pero lo dice todo el mundo."],["aurora boreal",["aurora boreal"],""]],[["chubasco",["chubasco"],""],["ventisca",["ventisca"],""],["escarcha",["escarcha"],""],["rocío",["rocio"],""],["sequía",["sequia"],""],["ola de calor",["ola calor"],""],["gota fría",["gota fria","dana"],""],["ciclón",["ciclon"],""],["tifón",["tifon"],""],["borrasca",["borrasca"],""],["anticiclón",["anticiclon"],""],["monzón",["monzon"],""],["granizada",["granizada"],""],["aguanieve",["aguanieve"],""],["remolino",["remolino"],""]],[["calima",["calima"],""],["tromba de agua",["tromba agua"],""],["cellisca",["cellisca"],""],["orbayo",["orbayo"],""],["sirimiri",["sirimiri","chirimiri"],""],["tramontana",["tramontana"],""],["cierzo",["cierzo"],""],["levante",["levante"],""],["poniente",["poniente"],""],["terral",["terral"],""],["föhn",["fohn"],""],["inversión térmica",["inversion termica"],""],["halo solar",["halo solar"],""],["parhelio",["parhelio"],""],["relámpago de calor",["relampago calor"],""]],[["manga de agua",["manga agua"],""],["reventón",["reventon"],""],["virga",["virga"],""],["nubes lenticulares",["nubes lenticulares"],""],["nubes mammatus",["nubes mammatus"],""],["arcus",["arcus"],""],["petricor",["petricor"],""],["fuego de San Telmo",["fuego san telmo"],""],["espejismo",["espejismo"],""],["arcoíris de niebla",["arcoiris niebla"],""],["rayo globular",["rayo globular"],""],["niebla de advección",["niebla adveccion"],""]],[["galerna",["galerna"],"La cantábrica: el viento gira de golpe, baja la temperatura y se lía. Ha matado a mucha gente en el mar."]]]},{"q":"Nombra una provincia española","t":[[["Madrid",["madrid"],""],["Barcelona",["barcelona"],""],["Valencia",["valencia"],""],["Sevilla",["sevilla"],""],["Málaga",["malaga"],""],["Alicante",["alicante"],""],["Murcia",["murcia"],""],["Zaragoza",["zaragoza"],""],["Granada",["granada"],""],["Cádiz",["cadiz"],""]],[["Soria",["soria"],"La provincia comodín de la España vaciada. La dice todo el mundo."],["Teruel",["teruel"],"Teruel existe, y también en este juego."],["Cuenca",["cuenca"],""]],[["Córdoba",["cordoba"],""],["Toledo",["toledo"],""],["Valladolid",["valladolid"],""],["Salamanca",["salamanca"],""],["Asturias",["asturias"],""],["Cantabria",["cantabria"],""],["Navarra",["navarra"],""],["Bizkaia",["bizkaia","vizcaya"],""],["Gipuzkoa",["gipuzkoa","guipuzcoa"],""],["A Coruña",["coruna"],""],["Pontevedra",["pontevedra"],""],["Almería",["almeria"],""],["Huelva",["huelva"],""],["Jaén",["jaen"],""],["Baleares",["baleares","illes balears"],""],["Tarragona",["tarragona"],""],["Girona",["girona","gerona"],""],["Burgos",["burgos"],""],["León",["leon"],""],["Badajoz",["badajoz"],""],["Cáceres",["caceres"],""],["Castellón",["castellon"],""],["La Rioja",["rioja"],""],["Lleida",["lleida","lerida"],""],["Las Palmas",["palmas"],""]],[["Álava",["alava","araba"],""],["Lugo",["lugo"],""],["Ourense",["ourense","orense"],""],["Huesca",["huesca"],""],["Albacete",["albacete"],""],["Ciudad Real",["ciudad real"],""],["Segovia",["segovia"],""],["Ávila",["avila"],""]],[["Zamora",["zamora"],""],["Palencia",["palencia"],""],["Guadalajara",["guadalajara"],""]],[["Santa Cruz de Tenerife",["santa cruz tenerife"],"Es la única provincia cuyo nombre completo no dice nadie. Cincuenta hay, y esta es la olvidada."]]]},{"q":"Nombra una tapa","t":[[["tortilla de patatas",["tortilla patatas","tortilla"],""],["croquetas",["croquetas"],""],["patatas bravas",["patatas bravas","bravas"],""],["calamares",["calamares"],""],["jamón",["jamon"],""],["aceitunas",["aceitunas"],""],["ensaladilla rusa",["ensaladilla rusa","ensaladilla"],""],["albóndigas",["albondigas"],""],["pimientos de padrón",["pimientos padron"],""],["patatas alioli",["patatas alioli"],""]],[["gilda",["gilda"],"El pintxo que todo el mundo nombra creyendo que es un secreto."],["torreznos",["torreznos"],""]],[["boquerones en vinagre",["boquerones vinagre"],""],["gambas al ajillo",["gambas ajillo"],""],["chorizo",["chorizo"],""],["pulpo a la gallega",["pulpo gallega"],""],["morcilla",["morcilla"],""],["chopitos",["chopitos"],""],["pincho de tortilla",["pincho tortilla"],""],["queso",["queso"],""],["mejillones",["mejillones"],""],["empanada",["empanada"],""],["huevos rotos",["huevos rotos"],""],["pan con tomate",["pan con tomate"],""],["salmorejo",["salmorejo"],""],["montadito",["montadito"],""],["jamón con melón",["jamon con melon"],""],["sepia",["sepia"],""],["puntillitas",["puntillitas"],""],["banderilla",["banderilla"],""],["tigres",["tigres"],""],["pincho moruno",["pincho moruno"],""]],[["oreja a la plancha",["oreja plancha"],""],["callos",["callos"],""],["zorza",["zorza"],""],["cazón en adobo",["cazon adobo"],""],["matrimonio",["matrimonio"],""],["cocochas",["cocochas"],""],["caracoles",["caracoles"],""],["migas",["migas"],""],["tosta de sobrasada",["tosta sobrasada"],""],["berberechos",["berberechos"],""],["chicharrones",["chicharrones"],""],["zarangollo",["zarangollo"],""],["esgarraet",["esgarraet"],""],["delicias de bacalao",["delicias bacalao"],""],["criadillas",["criadillas"],""],["patatas a la importancia",["patatas importancia"],""],["papas arrugás",["papas arrugas"],""],["almejas a la marinera",["almejas marinera"],""],["rabas",["rabas"],""]],[["ajoarriero",["ajoarriero"],""],["titaina",["titaina"],""],["pipirrana",["pipirrana"],""],["morro",["morro"],""],["ropa vieja",["ropa vieja"],""],["caballa en aceite",["caballa aceite"],""],["carne mechada",["carne mechada"],""],["flamenquín",["flamenquin"],""],["gazpachuelo",["gazpachuelo"],""],["molletes",["molletes"],""],["espinacas con garbanzos",["espinacas con garbanzos"],""],["cazuelita de riñones",["cazuelita rinones"],""],["bienmesabe",["bienmesabe"],""],["tortillitas de camarones",["tortillitas camarones"],""]],[["soldaditos de Pavía",["soldaditos pavia","soldaditos"],"Bacalao rebozado con pimiento. Tapa de Madrid de toda la vida y nadie la nombra ya."]]]},{"q":"Nombra un río de España","t":[[["Ebro",["ebro"],""],["Tajo",["tajo"],""],["Guadalquivir",["guadalquivir"],""],["Duero",["duero"],""],["Guadiana",["guadiana"],""],["Miño",["mino"],""],["Segura",["segura"],""]],[["Manzanares",["manzanares"],"El río de Madrid. Chiste fácil y respuesta de todos."],["Turia",["turia"],""]],[["Júcar",["jucar"],""],["Nervión",["nervion"],""],["Genil",["genil"],""],["Jarama",["jarama"],""],["Sil",["sil"],""],["Nalón",["nalon"],""],["Llobregat",["llobregat"],""],["Ter",["ter"],""],["Bidasoa",["bidasoa"],""],["Segre",["segre"],""],["Tinto",["tinto"],""],["Guadalete",["guadalete"],""],["Odiel",["odiel"],""],["Besós",["besos"],""],["Cinca",["cinca"],""]],[["Deba",["deba"],""],["Esla",["esla"],""],["Pisuerga",["pisuerga"],""],["Tormes",["tormes"],""],["Gállego",["gallego"],""],["Órbigo",["orbigo"],""],["Almanzora",["almanzora"],""],["Vinalopó",["vinalopo"],""],["Guadalhorce",["guadalhorce"],""],["Arlanzón",["arlanzon"],""],["Mijares",["mijares"],""],["Oria",["oria"],""],["Zadorra",["zadorra"],""],["Eresma",["eresma"],""],["Adaja",["adaja"],""]],[["Carrión",["carrion"],""],["Alberche",["alberche"],""],["Tiétar",["tietar"],""],["Aragón",["aragon"],""],["Butrón",["butron"],""],["Oiartzun",["oiartzun"],""],["Guadalmedina",["guadalmedina"],""],["Andarax",["andarax"],""],["Alagón",["alagon"],""],["Riaza",["riaza"],""],["Duratón",["duraton"],""],["Jalón",["jalon"],""],["Huerva",["huerva"],""],["Guadalope",["guadalope"],""],["Ulla",["ulla"],""],["Tambre",["tambre"],""],["Eo",["eo"],""],["Sella",["sella"],""],["Deva",["deva"],""],["Asón",["ason"],""],["Pas",["pas"],""]],[["Urumea",["urumea"],"Cruza San Sebastián y desemboca al lado de la Zurriola. Fuera del País Vasco no lo dice ni Dios."]]]},{"q":"Nombra un pintor o pintora de España","t":[[["Picasso",["picasso"],""],["Velázquez",["velazquez"],""],["Goya",["goya"],""],["Dalí",["dali"],""],["Miró",["miro"],""]],[["El Greco",["greco"],"Nació en Creta, pero pintó todo en Toledo. Lo dicen todos creyendo que es el dato culto."]],[["Sorolla",["sorolla"],""],["Murillo",["murillo"],""],["Zurbarán",["zurbaran"],""],["Ribera",["ribera"],""],["Juan Gris",["juan gris"],""],["Tàpies",["tapies"],""],["Antonio López",["antonio lopez"],""],["Barceló",["barcelo"],""],["Fortuny",["fortuny"],""],["Ribalta",["ribalta"],""],["Julio Romero de Torres",["julio romero torres"],""]],[["Zuloaga",["zuloaga"],""],["Gutiérrez Solana",["gutierrez solana"],""],["Nonell",["nonell"],""],["Ramón Casas",["ramon casas"],""],["Rusiñol",["rusinol"],""],["Madrazo",["madrazo"],""],["Valdés Leal",["valdes leal"],""],["Berruguete",["berruguete"],""],["Vicente López",["vicente lopez"],""],["Regoyos",["regoyos"],""],["Chillida",["chillida"],"Es escultor, pero te lo pasamos."],["Oteiza",["oteiza"],""],["Saura",["saura"],""],["Millares",["millares"],""],["Canogar",["canogar"],""]],[["Luis Meléndez",["luis melendez"],""],["Sánchez Cotán",["sanchez cotan"],""],["Claudio Coello",["claudio coello"],""],["Alonso Cano",["alonso cano"],""],["Carreño de Miranda",["carreno miranda"],""],["Pradilla",["pradilla"],""],["Eduardo Rosales",["eduardo rosales"],""],["Remedios Varo",["remedios varo"],""],["Ángeles Santos",["angeles santos"],""],["María Blanchard",["maria blanchard"],""],["Aurelia Navarro",["aurelia navarro"],""],["Marisa Roësset",["marisa roesset"],""],["Pepi Sánchez",["pepi sanchez"],""],["Menchu Gal",["menchu gal"],""]],[["Maruja Mallo",["maruja mallo"],"De las Sinsombrero. Pintó mejor que media generación del 27 y se estudia la mitad."]]]},{"q":"Nombra un plato típico español","t":[[["paella",["paella"],""],["tortilla de patatas",["tortilla patatas","tortilla"],""],["gazpacho",["gazpacho"],""],["cocido",["cocido"],""],["fabada",["fabada"],""],["croquetas",["croquetas"],""],["pulpo a la gallega",["pulpo gallega"],""],["jamón",["jamon"],""],["lentejas",["lentejas"],""],["arroz con leche",["arroz con leche"],""]],[["salmorejo",["salmorejo"],"El primo culto del gazpacho. Se dice para marcar nivel."],["marmitako",["marmitako"],""]],[["cochinillo",["cochinillo"],""],["migas",["migas"],""],["pisto",["pisto"],""],["fideuá",["fideua"],""],["calçots",["calcots"],""],["escalivada",["escalivada"],""],["callos",["callos"],""],["rabo de toro",["rabo toro"],""],["bacalao al pil-pil",["bacalao pil pil"],""],["arroz negro",["arroz negro"],""],["pote gallego",["pote gallego"],""],["sopa de ajo",["sopa ajo"],""],["cachopo",["cachopo"],""],["caldereta",["caldereta"],""],["escudella",["escudella"],""],["txangurro",["txangurro"],""],["patatas a la riojana",["patatas riojana"],""],["cordero asado",["cordero asado"],""],["pulpo",["pulpo"],""],["empanada gallega",["empanada gallega"],""],["gachas",["gachas"],""]],[["olla podrida",["olla podrida"],""],["ajoblanco",["ajoblanco"],""],["porrusalda",["porrusalda"],""],["zarangollo",["zarangollo"],""],["michirones",["michirones"],""],["pericana",["pericana"],""],["ropa vieja",["ropa vieja"],""],["suquet",["suquet"],""],["ajoarriero",["ajoarriero"],""],["sopa castellana",["sopa castellana"],""],["patatas revolconas",["patatas revolconas"],""],["zorza",["zorza"],""],["frite",["frite"],""],["carne de olla",["carne olla"],""],["marmita",["marmita"],""],["arroz a banda",["arroz banda"],""],["all i pebre",["all i pebre"],""],["espardenyà",["espardenya"],""],["cocido maragato",["cocido maragato"],""],["caldo gallego",["caldo gallego"],""]],[["gazpachuelo",["gazpachuelo"],""],["moje",["moje"],""],["tumbet",["tumbet"],""],["chanfaina",["chanfaina"],""],["atascaburras",["atascaburras"],""],["andrajos",["andrajos"],""],["pelotas",["pelotas"],""],["borono",["borono"],""],["chireta",["chireta"],""],["caldereta extremeña",["caldereta extremena"],""],["papas con choco",["papas con choco"],""],["sopas mallorquinas",["sopas mallorquinas"],""],["cassola de peix",["cassola peix"],""],["olleta",["olleta"],""],["almogrote",["almogrote"],""],["potaje de berros",["potaje berros"],""]],[["gazpacho manchego",["gazpacho manchego"],"No es frío ni lleva tomate: es un guiso de caza sobre torta de pan. El nombre engaña a España entera."]]]},{"q":"Nombra un escritor o escritora en español","t":[[["Cervantes",["cervantes"],""],["Lorca",["lorca"],""],["Machado",["machado"],""],["García Márquez",["garcia marquez"],""],["Borges",["borges"],""],["Quevedo",["quevedo"],""],["Góngora",["gongora"],""],["Bécquer",["becquer"],""],["Neruda",["neruda"],""],["Pérez-Reverte",["perez reverte"],""]],[["Unamuno",["unamuno"],"El nombre que se saca para demostrar que se leyó algo en el instituto."],["Cortázar",["cortazar"],""]],[["Galdós",["galdos"],""],["Clarín",["clarin"],""],["Delibes",["delibes"],""],["Cela",["cela"],""],["Vargas Llosa",["vargas llosa"],""],["Rulfo",["rulfo"],""],["Alberti",["alberti"],""],["Miguel Hernández",["miguel hernandez"],""],["Aleixandre",["aleixandre"],""],["Valle-Inclán",["valle inclan"],""],["Baroja",["baroja"],""],["Azorín",["azorin"],""],["Emilia Pardo Bazán",["emilia pardo bazan"],""],["Rosalía de Castro",["rosalia castro"],""],["Ana María Matute",["ana maria matute"],""],["Almudena Grandes",["almudena grandes"],""],["Cadalso",["cadalso"],""],["Espronceda",["espronceda"],""],["Larra",["larra"],""],["Zorrilla",["zorrilla"],""]],[["Carmen Laforet",["carmen laforet"],""],["Gloria Fuertes",["gloria fuertes"],""],["Blas de Otero",["blas otero"],""],["Gil de Biedma",["gil biedma"],""],["Cernuda",["cernuda"],""],["Pedro Salinas",["pedro salinas"],""],["Jorge Guillén",["jorge guillen"],""],["María Zambrano",["maria zambrano"],""],["Rafael Chirbes",["rafael chirbes"],""],["Juan Marsé",["juan marse"],""],["Juan Benet",["juan benet"],""],["Sánchez Ferlosio",["sanchez ferlosio"],""],["Onetti",["onetti"],""],["Bioy Casares",["bioy casares"],""],["Silvina Ocampo",["silvina ocampo"],""],["Carmen Martín Gaite",["carmen martin gaite"],""],["Torrente Ballester",["torrente ballester"],""],["Max Aub",["max aub"],""],["Ramón Gómez de la Serna",["ramon gomez serna"],""],["Rosa Chacel",["rosa chacel"],""]],[["Ernestina de Champourcín",["ernestina champourcin"],""],["Josefina Aldecoa",["josefina aldecoa"],""],["Elena Fortún",["elena fortun"],""],["María Teresa León",["maria teresa leon"],""],["Luisa Carnés",["luisa carnes"],""],["Carmen de Burgos",["carmen burgos"],""],["María de Zayas",["maria zayas"],""],["Fray Luis de León",["fray luis leon"],""],["Garcilaso",["garcilaso"],""],["Jovellanos",["jovellanos"],""],["Juan Ruiz",["juan ruiz"],""],["Gertrudis Gómez de Avellaneda",["gertrudis gomez avellaneda"],""],["Teresa de Jesús",["teresa jesus"],""],["Sor Juana Inés de la Cruz",["sor juana ines cruz"],""],["Mariano José de Larra",["mariano jose larra"],""]],[["Concha Méndez",["concha mendez"],"Poeta de la Generación del 27, tapada por los nombres masculinos toda su vida. Ahora se está recuperando."]]]},{"q":"Nombra una fiesta popular española","t":[[["San Fermín",["san fermin","encierro"],""],["Fallas",["fallas"],""],["Feria de Abril",["feria abril"],""],["Semana Santa",["semana santa"],""],["Carnaval",["carnaval"],""],["Tomatina",["tomatina"],""],["La Nochevieja",["nochevieja"],""],["Reyes",["reyes"],""],["San Juan",["san juan"],""],["Romería del Rocío",["romeria rocio","rocio"],""]],[["Tamborrada",["tamborrada"],"Se ha vuelto el ejemplo culto de fiesta. En Donosti es simplemente el 20 de enero."],["Cascamorras",["cascamorras"],""]],[["Moros y Cristianos",["moros cristianos"],""],["Fiesta de San Isidro",["fiesta san isidro"],""],["La Mercè",["merce"],""],["Aste Nagusia",["aste nagusia"],""],["Pilar",["pilar"],""],["Magdalena",["magdalena"],""],["Hogueras de San Juan",["hogueras san juan"],""],["Batalla del Vino",["batalla vino"],""],["Descenso del Sella",["descenso sella"],""],["Corpus",["corpus"],""],["Patios de Córdoba",["patios cordoba"],""],["Cruces de Mayo",["cruces mayo"],""],["Fiesta del Cordero",["fiesta cordero"],""],["La Vijanera",["vijanera"],""],["Misteri d'Elx",["misteri d elx"],""],["Castellers",["castellers"],""]],[["Els Enfarinats",["els enfarinats"],""],["La Endiablada",["endiablada"],""],["Los Empalaos",["empalaos"],""],["Danza de los Zancos",["danza zancos"],""],["Toro de la Vega",["toro vega"],""],["Pingada del Mayo",["pingada mayo"],""],["Bajada de la Virgen",["bajada virgen"],""],["Fiesta del Aurresku",["fiesta aurresku"],""],["Alarde de Irún",["alarde irun"],""],["Carnaval de Bielsa",["carnaval bielsa"],""],["Vaquilla del Ángel",["vaquilla angel"],""],["Las Marzas",["marzas"],""],["Zamarrones",["zamarrones"],""],["Jarramplas",["jarramplas"],""]],[["Baile de los Zancos de Anguiano",["baile zancos anguiano"],""],["La Encamisá",["encamisa"],""],["Los Escobazos",["escobazos"],""],["Fiesta del Vino de Haro",["fiesta vino haro"],""],["Els Castells de Valls",["els castells valls"],""],["La Patum",["patum"],"Berga, y es Patrimonio de la Humanidad."],["Rapa das Bestas",["rapa das bestas"],""],["Romería de los Boteros",["romeria boteros"],""],["Botargas",["botargas"],""],["Peropalo",["peropalo"],""]],[["El Colacho",["colacho"],"En Castrillo de Murcia, un tío disfrazado de diablo salta por encima de bebés tumbados en un colchón. Existe. Es de verdad."]]]},{"q":"Nombra un dulce o postre español","t":[[["flan",["flan"],""],["churros",["churros"],""],["arroz con leche",["arroz con leche"],""],["natillas",["natillas"],""],["torrijas",["torrijas"],""],["turrón",["turron"],""],["polvorones",["polvorones"],""],["crema catalana",["crema catalana"],""],["tarta de Santiago",["tarta santiago"],""],["roscón de reyes",["roscon reyes"],""]],[["leche frita",["leche frita"],"El postre que se dice para no decir flan."],["tocino de cielo",["tocino cielo"],""]],[["buñuelos",["bunuelos"],""],["pestiños",["pestinos"],""],["magdalenas",["magdalenas"],""],["mantecados",["mantecados"],""],["rosquillas",["rosquillas"],""],["bizcocho",["bizcocho"],""],["coca",["coca"],""],["panellets",["panellets"],""],["mona de Pascua",["mona pascua"],""],["ensaimada",["ensaimada"],""],["chocolate con churros",["chocolate con churros"],""],["frixuelos",["frixuelos"],""],["filloas",["filloas"],""],["tarta de queso",["tarta queso"],""],["carquiñoles",["carquinoles"],""],["yemas de Ávila",["yemas avila"],""],["piononos",["piononos"],""],["sobaos",["sobaos"],""]],[["quesada pasiega",["quesada pasiega"],""],["leche merengada",["leche merengada"],""],["mel i mató",["mel i mato"],""],["greixonera",["greixonera"],""],["papajotes",["papajotes"],""],["arrope",["arrope"],""],["almojábanas",["almojabanas"],""],["borrachuelos",["borrachuelos"],""],["hojaldrinas",["hojaldrinas"],""],["alfajores",["alfajores"],""],["tortas de aceite",["tortas aceite"],""],["perrunillas",["perrunillas"],""],["paparajotes",["paparajotes"],""],["tejas",["tejas"],""],["nevaditos",["nevaditos"],""],["marañuelas",["maranuelas"],""],["cabello de ángel",["cabello angel"],""],["frutas de Aragón",["frutas aragon"],""],["huesos de santo",["huesos santo"],""],["buñuelos de viento",["bunuelos viento"],""]],[["carbayones",["carbayones"],""],["moscovitas",["moscovitas"],""],["bartolillos",["bartolillos"],""],["cañas de crema",["canas crema"],""],["tortell",["tortell"],""],["braç de gitano",["brac gitano"],""],["coca de llardons",["coca llardons"],""],["rubiols",["rubiols"],""],["robiols",["robiols"],""],["crespells",["crespells"],""],["tarta de Alcalá",["tarta alcala"],""],["puchas",["puchas"],""],["nuégados",["nuegados"],""],["repápalos",["repapalos"],""],["Cocada",["cocada"],""],["piñonate",["pinonate"],""],["sopaipas",["sopaipas"],""]],[["casadielles",["casadielles","casadiella"],"Asturianas: masa frita rellena de nuez y anís. Fuera de Asturias no las conoce nadie."]]]},{"q":"Nombra un equipo de fútbol español","t":[[["Real Madrid",["real madrid"],""],["Barcelona",["barcelona","barca"],""],["Atlético de Madrid",["atletico madrid","atleti"],""],["Sevilla",["sevilla"],""],["Valencia",["valencia"],""],["Athletic",["athletic"],""],["Real Sociedad",["real sociedad"],""],["Betis",["betis"],""],["Villarreal",["villarreal"],""],["Celta",["celta"],""]],[["Rayo Vallecano",["rayo vallecano"],"El equipo con el que se demuestra que se sabe de fútbol."],["Osasuna",["osasuna"],""]],[["Espanyol",["espanyol"],""],["Getafe",["getafe"],""],["Girona",["girona"],""],["Mallorca",["mallorca"],""],["Alavés",["alaves"],""],["Las Palmas",["palmas"],""],["Valladolid",["valladolid"],""],["Granada",["granada"],""],["Cádiz",["cadiz"],""],["Levante",["levante"],""],["Elche",["elche"],""],["Almería",["almeria"],""],["Deportivo",["deportivo"],""],["Zaragoza",["zaragoza"],""],["Sporting de Gijón",["sporting gijon"],""],["Racing de Santander",["racing santander"],""],["Málaga",["malaga"],""],["Eibar",["eibar"],""],["Leganés",["leganes"],""],["Huesca",["huesca"],""]],[["Recreativo de Huelva",["recreativo huelva"],""],["Numancia",["numancia"],""],["Hércules",["hercules"],""],["Albacete",["albacete"],""],["Tenerife",["tenerife"],""],["Salamanca",["salamanca"],""],["Burgos CF",["burgos cf"],""],["Mirandés",["mirandes"],""],["Ponferradina",["ponferradina"],""],["Lugo",["lugo"],""],["Alcorcón",["alcorcon"],""],["Fuenlabrada",["fuenlabrada"],""],["Castellón",["castellon"],""],["Cartagena",["cartagena"],""],["Eldense",["eldense"],""],["Amorebieta",["amorebieta"],""],["Andorra",["andorra"],""],["Racing de Ferrol",["racing ferrol"],""],["Córdoba",["cordoba"],""]],[["Arenas de Getxo",["arenas getxo"],""],["Europa",["europa"],""],["Gimnástic de Tarragona",["gimnastic tarragona"],""],["Sabadell",["sabadell"],""],["Badajoz",["badajoz"],""],["Mérida",["merida"],""],["Talavera",["talavera"],""],["Linares",["linares"],""],["Alcoyano",["alcoyano"],""],["Ourense",["ourense"],""],["Compostela",["compostela"],""],["Logroñés",["logrones"],""],["Extremadura",["extremadura"],""],["Atlético Baleares",["atletico baleares"],""],["Marino de Luanco",["marino luanco"],""],["Barakaldo",["barakaldo"],""],["Sestao River",["sestao river"],""],["Langreo",["langreo"],""]],[["Real Unión de Irún",["real union irun","real union"],"Ganó cuatro Copas del Rey y fue fundador de la Liga. Ahora anda por Primera Federación."]]]},{"q":"Nombra un embutido","t":[[["chorizo",["chorizo"],""],["salchichón",["salchichon"],""],["jamón",["jamon"],""],["lomo",["lomo"],""],["mortadela",["mortadela"],""],["salami",["salami"],""],["morcilla",["morcilla"],""],["sobrasada",["sobrasada"],""],["fuet",["fuet"],""],["chistorra",["chistorra"],""],["butifarra",["butifarra"],""]],[["androlla",["androlla"],"El embutido raro que se ha vuelto la respuesta lista."],["salchichón de Vic",["salchichon vic"],""]],[["cecina",["cecina"],""],["longaniza",["longaniza"],""],["chóped",["choped"],""],["bull",["bull"],""],["espetec",["espetec"],""],["salchicha",["salchicha"],""],["pancetas",["pancetas"],""],["panceta",["panceta"],""],["morcón",["morcon"],""],["güeña",["guena"],""],["sabadeño",["sabadeno"],""],["farinato",["farinato"],""],["txistorra",["txistorra"],""],["llonganissa",["llonganissa"],""],["secallona",["secallona"],""],["somalla",["somalla"],""],["chorizo de León",["chorizo leon"],""],["lomo embuchado",["lomo embuchado"],""],["caña de lomo",["cana lomo"],""],["salchicha de Frankfurt",["salchicha frankfurt"],""]],[["botifarra negra",["botifarra negra"],""],["bisbe",["bisbe"],""],["bull blanc",["bull blanc"],""],["morcilla de Burgos",["morcilla burgos"],""],["morcilla de Beasain",["morcilla beasain"],""],["morcilla de arroz",["morcilla arroz"],""],["zurrapa",["zurrapa"],""],["patatera",["patatera"],""],["chorizo de Cantimpalos",["chorizo cantimpalos"],""],["obispo",["obispo"],""],["chosco",["chosco"],""],["chireta",["chireta"],""],["catalana",["catalana"],""],["blanquet",["blanquet"],""],["figatell",["figatell"],""],["xolís",["xolis"],""],["donegal",["donegal"],""],["butifarra del perol",["butifarra perol"],""]],[["androlla de Viana",["androlla viana"],""],["chosco de Tineo",["chosco tineo"],""],["salchichón de Málaga",["salchichon malaga"],""],["chorizo de Teror",["chorizo teror"],""],["morcilla dulce de Soria",["morcilla dulce soria"],""],["morcilla de Aranda",["morcilla aranda"],""],["butifarra dulce",["butifarra dulce"],""],["güeñas",["guenas"],""],["lomo de sajonia",["lomo sajonia"],""],["entrepierna",["entrepierna"],""],["castellano",["castellano"],""],["rojo de Cantimpalos",["rojo cantimpalos"],""],["sanmartiño",["sanmartino"],""]],[["botillo",["botillo"],"Del Bierzo: costillas y rabo embutidos en el ciego del cerdo y ahumados. Suena bestia y está espectacular."]]]},{"q":"Nombra un cantante o grupo español","t":[[["Rosalía",["rosalia"],""],["Alejandro Sanz",["alejandro sanz"],""],["David Bisbal",["david bisbal"],""],["Estopa",["estopa"],""],["Melendi",["melendi"],""],["Enrique Iglesias",["enrique iglesias"],""],["Julio Iglesias",["julio iglesias"],""],["El Canto del Loco",["canto loco"],""],["Aitana",["aitana"],""],["Quevedo",["quevedo"],""],["C. Tangana",["c tangana"],""]],[["Triana",["triana"],"El grupo con el que se demuestra criterio."],["Radio Futura",["radio futura"],""]],[["Héroes del Silencio",["heroes silencio"],""],["Extremoduro",["extremoduro"],""],["Fito",["fito"],""],["Amaral",["amaral"],""],["La Oreja de Van Gogh",["oreja van gogh"],""],["Mecano",["mecano"],""],["Camarón",["camaron"],""],["Paco de Lucía",["paco lucia"],""],["Rocío Jurado",["rocio jurado"],""],["Raphael",["raphael"],""],["Serrat",["serrat"],""],["Sabina",["sabina"],""],["Los Planetas",["planetas"],""],["Vetusta Morla",["vetusta morla"],""],["Love of Lesbian",["love of lesbian"],""],["Zahara",["zahara"],""],["Rozalén",["rozalen"],""],["Bunbury",["bunbury"],""],["Marisol",["marisol"],""],["Nino Bravo",["nino bravo"],""],["Hombres G",["hombres g"],""],["Duncan Dhu",["duncan dhu"],""],["Siniestro Total",["siniestro total"],""],["Kortatu",["kortatu"],""]],[["Los Brincos",["brincos"],""],["Los Bravos",["bravos"],""],["Nacha Pop",["nacha pop"],""],["Gabinete Caligari",["gabinete caligari"],""],["Golpes Bajos",["golpes bajos"],""],["Alaska",["alaska"],""],["Parálisis Permanente",["paralisis permanente"],""],["Ilegales",["ilegales"],""],["La Polla Records",["polla records"],""],["Eskorbuto",["eskorbuto"],""],["El Último de la Fila",["ultimo fila"],""],["Antonio Vega",["antonio vega"],""],["Christina Rosenvinge",["christina rosenvinge"],""],["Le Mans",["le mans"],""],["Family",["family"],""],["Migala",["migala"],""],["Nacho Vegas",["nacho vegas"],""],["Sr. Chinarro",["sr chinarro"],""],["Josele Santiago",["josele santiago"],""],["Carolina Durante",["carolina durante"],""]],[["Aviador Dro",["aviador dro"],""],["Derribos Arias",["derribos arias"],""],["Esplendor Geométrico",["esplendor geometrico"],""],["Los Negativos",["negativos"],""],["Los Nikis",["nikis"],""],["Décima Víctima",["decima victima"],""],["Los Coyotes",["coyotes"],""],["Zombies",["zombies"],""],["Glutamato Ye-Yé",["glutamato ye ye"],""],["Paraíso",["paraiso"],""],["Mamá",["mama"],""],["Ejecutivos Agresivos",["ejecutivos agresivos"],""],["Los Modelos",["modelos"],""],["La Mode",["mode"],""],["Los Secretos",["secretos"],""],["Cristina y Los Subterráneos",["cristina subterraneos"],""]],[["Kaka de Luxe",["kaka luxe"],"De ahí salieron Alaska, Nacho Canut y Carlos Berlanga. La semilla de la Movida entera."]]]},{"q":"Nombra una serie de televisión española","t":[[["La Casa de Papel",["casa papel"],""],["Élite",["elite"],""],["Aquí no hay quien viva",["aqui no hay quien viva"],""],["La que se avecina",["que se avecina"],""],["Cuéntame",["cuentame"],""],["Los Serrano",["serrano"],""],["Física o Química",["fisica quimica"],""],["El Ministerio del Tiempo",["ministerio tiempo"],""],["Vis a Vis",["vis vis"],""],["Médico de familia",["medico familia"],""]],[["Crematorio",["crematorio"],"La serie que se cita para demostrar que se ve buena tele."]],[["Farmacia de guardia",["farmacia guardia"],""],["Periodistas",["periodistas"],""],["7 vidas",["7 vidas"],""],["Compañeros",["companeros"],""],["Al salir de clase",["salir clase"],""],["Hospital Central",["hospital central"],""],["Águila Roja",["aguila roja"],""],["Isabel",["isabel"],""],["Gran Hotel",["gran hotel"],""],["Las chicas del cable",["chicas cable"],""],["Paquita Salas",["paquita salas"],""],["Vergüenza",["verguenza"],""],["Veneno",["veneno"],""],["Antidisturbios",["antidisturbios"],""],["La Peste",["peste"],""],["Patria",["patria"],""],["Hierro",["hierro"],""],["Estoy vivo",["estoy vivo"],""],["Amar es para siempre",["amar es para siempre"],""],["Cuéntame cómo pasó",["cuentame como paso"],""]],[["Verano azul",["verano azul"],""],["Anillos de oro",["anillos oro"],""],["Turno de oficio",["turno oficio"],""],["Brigada Central",["brigada central"],""],["Makinavaja",["makinavaja"],""],["Plats bruts",["plats bruts"],""],["El comisario",["comisario"],""],["Policías",["policias"],""],["Los ladrones van a la oficina",["ladrones van oficina"],""],["Manos a la obra",["manos obra"],""],["Mis adorables vecinos",["mis adorables vecinos"],""],["Los hombres de Paco",["hombres paco"],""],["Camera Café",["camera cafe"],""],["Aída",["aida"],""],["Con el culo al aire",["con culo aire"],""],["La señora",["senora"],""],["Los Gozos y las Sombras",["gozos sombras"],""]],[["La bola de cristal",["bola cristal"],""],["Curro Jiménez",["curro jimenez"],""],["Fortunata y Jacinta",["fortunata jacinta"],""],["Cañas y barro",["canas barro"],""],["La barraca",["barraca"],""],["El pícaro",["picaro"],""],["Juncal",["juncal"],""],["Truhanes",["truhanes"],""],["La huella del crimen",["huella crimen"],""],["Segunda enseñanza",["segunda ensenanza"],""],["Celia",["celia"],""],["Los Pazos de Ulloa",["pazos ulloa"],""],["Réquiem por Granada",["requiem por granada"],""],["Goya",["goya"],""],["Lorca muerte de un poeta",["lorca muerte poeta"],""]],[["Historias para no dormir",["historias para no dormir"],"Chicho Ibáñez Serrador aterrando a España en blanco y negro cada semana. Es de 1966 y da más miedo que casi todo lo de ahora."]]]},{"q":"Nombra una película española","t":[[["Ocho apellidos vascos",["ocho apellidos vascos"],""],["Torrente",["torrente"],""],["El laberinto del fauno",["laberinto fauno"],""],["Mar adentro",["mar adentro"],""],["Todo sobre mi madre",["todo sobre mi madre"],""],["Los otros",["otros"],""],["Volver",["volver"],""],["El día de la bestia",["dia bestia"],""],["Tesis",["tesis"],""],["Campeones",["campeones"],""]],[["Bienvenido, Mister Marshall",["bienvenido mister marshall"],"La respuesta culta obligatoria."],["El verdugo",["verdugo"],""]],[["Átame",["atame"],""],["Mujeres al borde de un ataque de nervios",["mujeres borde ataque nervios"],""],["La comunidad",["comunidad"],""],["Los lunes al sol",["lunes sol"],""],["Te doy mis ojos",["te doy mis ojos"],""],["Celda 211",["celda 211"],""],["La isla mínima",["isla minima"],""],["Que Dios nos perdone",["que dios nos perdone"],""],["El reino",["reino"],""],["As bestas",["as bestas"],""],["Alcarràs",["alcarras"],""],["La sociedad de la nieve",["sociedad nieve"],""],["Verano 1993",["verano 1993"],""],["Handia",["handia"],""],["Loreak",["loreak"],""],["El orfanato",["orfanato"],""],["REC",["rec"],""],["Abre los ojos",["abre ojos"],""],["Belle Époque",["belle epoque"],""],["La niña de tus ojos",["nina tus ojos"],""]],[["El espíritu de la colmena",["espiritu colmena"],""],["Cría cuervos",["cria cuervos"],""],["Viridiana",["viridiana"],""],["Los santos inocentes",["santos inocentes"],""],["El sur",["sur"],""],["Furtivos",["furtivos"],""],["La caza",["caza"],""],["Plácido",["placido"],""],["El pisito",["pisito"],""],["Calle Mayor",["calle mayor"],""],["Muerte de un ciclista",["muerte ciclista"],""],["Surcos",["surcos"],""],["Arrebato",["arrebato"],""],["Vámonos, Bárbara",["vamonos barbara"],""],["El desencanto",["desencanto"],""],["Mi querida señorita",["mi querida senorita"],""],["La prima Angélica",["prima angelica"],""]],[["El extraño viaje",["extrano viaje"],""],["La escopeta nacional",["escopeta nacional"],""],["El cochecito",["cochecito"],""],["Atraco a las tres",["atraco tres"],""],["La vaquilla",["vaquilla"],""],["Peppermint Frappé",["peppermint frappe"],""],["Ana y los lobos",["ana lobos"],""],["Canciones para después de una guerra",["canciones para despues guerra"],""],["El crack",["crack"],""],["Nadie hablará de nosotras cuando hayamos muerto",["nadie hablara nosotras cuando hayamos muerto"],""],["El bosque animado",["bosque animado"],""],["Tasio",["tasio"],""],["La ardilla roja",["ardilla roja"],""]],[["Amanece, que no es poco",["amanece que no es poco"],"José Luis Cuerda, 1989. Un pueblo entero de gente imposible. Media España se la sabe de memoria y casi nadie la dice la primera."]]]},{"q":"Nombra una isla española","t":[[["Mallorca",["mallorca"],""],["Ibiza",["ibiza"],""],["Tenerife",["tenerife"],""],["Gran Canaria",["gran canaria"],""],["Menorca",["menorca"],""],["Lanzarote",["lanzarote"],""],["Fuerteventura",["fuerteventura"],""],["La Palma",["palma"],""],["Formentera",["formentera"],""],["La Gomera",["gomera"],""]],[["El Hierro",["hierro"],"La isla que se dice para demostrar que se sabe cuántas hay."]],[["Cabrera",["cabrera"],""],["Tabarca",["tabarca"],""],["Ons",["ons"],""],["Cíes",["cies"],""],["Sálvora",["salvora"],""],["Arousa",["arousa"],""],["La Toja",["toja"],""],["Isla de Lobos",["isla lobos"],""],["Alborán",["alboran"],""],["Perejil",["perejil"],""],["Isla del Rey",["isla rey"],""],["Dragonera",["dragonera"],""],["Espalmador",["espalmador"],""],["Isla de Tarifa",["isla tarifa"],""],["Cortegada",["cortegada"],""]],[["Alegranza",["alegranza"],""],["Montaña Clara",["montana clara"],""],["Roque del Este",["roque este"],""],["Roque del Oeste",["roque oeste"],""],["Isla de Mouro",["isla mouro"],""],["Isla de Santa Clara",["isla santa clara"],""],["Isla de Izaro",["isla izaro"],""],["Isla de San Juan de Gaztelugatxe",["isla san juan gaztelugatxe"],""],["Sisargas",["sisargas"],""],["Isla Pancha",["isla pancha"],""],["Coelleira",["coelleira"],""],["Peñón de Vélez de la Gomera",["penon velez gomera"],""],["Islas Chafarinas",["islas chafarinas"],""],["Isla de Benidorm",["isla benidorm"],""]],[["Izaro",["izaro"],""],["Gaztelugatxe",["gaztelugatxe"],""],["Malveiras",["malveiras"],""],["Isla Grosa",["isla grosa"],""],["Isla de Escombreras",["isla escombreras"],""],["Isla de Fraile",["isla fraile"],""],["Isla de Terreros",["isla terreros"],""],["Congreso",["congreso"],""],["Isabel II",["isabel ii"],""],["Rey Francisco",["rey francisco"],""]],[["La Graciosa",["graciosa"],"Es la octava isla canaria habitada y no fue oficialmente isla hasta 2018. Antes era «un islote»."]]]},{"q":"Nombra una comunidad autónoma","t":[[["Andalucía",["andalucia"],""],["Cataluña",["cataluna"],""],["Madrid",["madrid","comunidad madrid"],""],["Comunidad Valenciana",["comunidad valenciana","valencia"],""],["Galicia",["galicia"],""],["País Vasco",["pais vasco","euskadi"],""],["Canarias",["canarias"],""],["Castilla y León",["castilla leon"],""],["Aragón",["aragon"],""]],[["Ceuta",["ceuta"],"Es ciudad autónoma, no comunidad. Te lo dejamos pasar."],["Melilla",["melilla"],"Ciudad autónoma también. Casi cuela."]],[["Castilla-La Mancha",["castilla mancha"],""],["Región de Murcia",["region murcia","murcia"],""],["Asturias",["asturias"],""],["Extremadura",["extremadura"],""],["Illes Balears",["illes balears","islas baleares","baleares"],""]],[["Navarra",["navarra"],""],["Cantabria",["cantabria"],""]],[["Principado de Asturias",["principado asturias"],""],["Comunidad Foral de Navarra",["comunidad foral navarra"],""],["Comunitat Valenciana",["comunitat valenciana"],""],["Xunta de Galicia",["xunta galicia"],"Eso es el gobierno, no la comunidad. Casi."],["Junta de Andalucía",["junta andalucia"],"El gobierno, no la comunidad."],["Generalitat de Catalunya",["generalitat catalunya"],"El gobierno, no la comunidad."],["Nafarroako Foru Komunitatea",["nafarroako foru komunitatea"],""],["Euskal Autonomia Erkidegoa",["euskal autonomia erkidegoa"],""],["Illes Balears en catalán",["illes balears catalan"],""],["Comunidad Autónoma Vasca",["comunidad autonoma vasca"],""],["Principáu d'Asturies",["principau d asturies"],""],["Comunidade Autónoma de Galicia",["comunidade autonoma galicia"],""]],[["La Rioja",["rioja"],"La única comunidad de una sola provincia junto a las uniprovinciales del norte, la más pequeña de la Península y la que siempre se olvida al contar las diecisiete."]]]},{"q":"Nombra un monumento o edificio de España","t":[[["Sagrada Familia",["sagrada familia"],""],["Alhambra",["alhambra"],""],["Mezquita de Córdoba",["mezquita cordoba"],""],["Acueducto de Segovia",["acueducto segovia"],""],["Giralda",["giralda"],""],["Museo del Prado",["museo prado"],""],["Guggenheim",["guggenheim"],""],["Catedral de Santiago",["catedral santiago"],""],["Puerta de Alcalá",["puerta alcala"],""],["Palacio Real",["palacio real"],""]],[["Ciudad de las Artes y las Ciencias",["ciudad artes ciencias"],"La respuesta de folleto turístico."],["Alcázar de Segovia",["alcazar segovia"],""]],[["Park Güell",["park guell"],""],["Casa Batlló",["casa batllo"],""],["La Pedrera",["pedrera"],""],["El Escorial",["escorial"],""],["Catedral de Burgos",["catedral burgos"],""],["Catedral de León",["catedral leon"],""],["Catedral de Toledo",["catedral toledo"],""],["Alcázar de Sevilla",["alcazar sevilla"],""],["Torre del Oro",["torre oro"],""],["Plaza Mayor",["plaza mayor"],""],["Muralla de Ávila",["muralla avila"],""],["Teatro Romano de Mérida",["teatro romano merida"],""],["Aljafería",["aljaferia"],""],["Casa Milà",["casa mila"],""],["Palau de la Música",["palau musica"],""],["Hospital de Sant Pau",["hospital sant pau"],""],["Peine del Viento",["peine viento"],""],["Kursaal",["kursaal"],""],["Cíbeles",["cibeles"],""],["Templo de Debod",["templo debod"],""]],[["San Juan de Baños",["san juan banos"],""],["Santa María del Naranco",["santa maria naranco"],""],["San Miguel de Lillo",["san miguel lillo"],""],["Iglesia de Sant Climent de Taüll",["iglesia sant climent taull"],""],["Monasterio de Yuste",["monasterio yuste"],""],["Monasterio de Poblet",["monasterio poblet"],""],["Real Monasterio de Guadalupe",["real monasterio guadalupe"],""],["Torre de Hércules",["torre hercules"],""],["Colegiata de Santillana",["colegiata santillana"],""],["Castillo de Loarre",["castillo loarre"],""],["Cuevas de Altamira",["cuevas altamira"],""],["Castillo de Coca",["castillo coca"],""],["Alcalá de Henares",["alcala henares"],""],["Palacio de la Aljafería",["palacio aljaferia"],""],["Santa María del Mar",["santa maria mar"],""]],[["San Miguel de Escalada",["san miguel escalada"],""],["San Pedro de la Nave",["san pedro nave"],""],["Santa Comba de Bande",["santa comba bande"],""],["Baelo Claudia",["baelo claudia"],""],["Segóbriga",["segobriga"],""],["Numancia",["numancia"],""],["Medina Azahara",["medina azahara"],""],["Castillo de Belmonte",["castillo belmonte"],""],["Puente de Alcántara",["puente alcantara"],""],["Muralla de Lugo",["muralla lugo"],""],["Torre de la Malmuerta",["torre malmuerta"],""],["Palacio de Gaudí en Astorga",["palacio gaudi astorga"],""],["Capricho de Comillas",["capricho comillas"],""],["Monasterio de Piedra",["monasterio piedra"],""]],[["Las Médulas",["medulas"],"La mayor mina de oro a cielo abierto del Imperio Romano. Un paisaje rojo entero hecho por manos humanas, en León."]]]},{"q":"Nombra un deporte olímpico","t":[[["fútbol",["futbol"],""],["baloncesto",["baloncesto"],""],["natación",["natacion"],""],["atletismo",["atletismo"],""],["tenis",["tenis"],""],["gimnasia",["gimnasia"],""],["ciclismo",["ciclismo"],""],["voleibol",["voleibol"],""],["balonmano",["balonmano"],""],["boxeo",["boxeo"],""]],[["curling",["curling"],"El deporte gracioso de los Juegos de Invierno. Lo dice todo el mundo."],["petanca",["petanca"],"No es olímpica. Nunca lo ha sido."]],[["judo",["judo"],""],["esgrima",["esgrima"],""],["remo",["remo"],""],["piragüismo",["piraguismo"],""],["halterofilia",["halterofilia"],""],["lucha",["lucha"],""],["tiro con arco",["tiro con arco"],""],["tiro olímpico",["tiro olimpico"],""],["hockey hierba",["hockey hierba"],""],["waterpolo",["waterpolo"],""],["taekwondo",["taekwondo"],""],["triatlón",["triatlon"],""],["vela",["vela"],""],["bádminton",["badminton"],""],["tenis de mesa",["tenis mesa"],""],["rugby 7",["rugby 7"],""],["golf",["golf"],""],["surf",["surf"],""],["escalada",["escalada"],""],["skate",["skate"],""],["hípica",["hipica"],""],["saltos de trampolín",["saltos trampolin"],""],["natación artística",["natacion artistica"],""],["maratón",["maraton"],""],["esquí alpino",["esqui alpino"],""],["snowboard",["snowboard"],""],["patinaje artístico",["patinaje artistico"],""],["hockey hielo",["hockey hielo"],""]],[["pentatlón moderno",["pentatlon moderno"],""],["marcha atlética",["marcha atletica"],""],["BMX",["bmx"],""],["mountain bike",["mountain bike"],""],["ciclismo en pista",["ciclismo pista"],""],["kárate",["karate"],""],["béisbol",["beisbol"],""],["sóftbol",["softbol"],""],["breaking",["breaking"],""],["doma clásica",["doma clasica"],""],["concurso completo",["concurso completo"],""],["kayak eslalon",["kayak eslalon"],""],["tiro al plato",["tiro plato"],""],["decatlón",["decatlon"],""],["heptatlón",["heptatlon"],""],["biatlón",["biatlon"],""],["bobsleigh",["bobsleigh"],""],["luge",["luge"],""],["salto de esquí",["salto esqui"],""],["esquí de fondo",["esqui fondo"],""],["patinaje de velocidad",["patinaje velocidad"],""],["short track",["short track"],""],["combinada nórdica",["combinada nordica"],""],["skeleton",["skeleton"],""],["esquí acrobático",["esqui acrobatico"],""]],[["pelota vasca",["pelota vasca"],"Fue deporte olímpico en París 1900 y de exhibición en Barcelona 92."],["croquet",["croquet"],""],["polo",["polo"],""],["lacrosse",["lacrosse"],""],["jeu de paume",["jeu paume"],""],["pallone",["pallone"],""],["motonáutica",["motonautica"],""],["salto de longitud sin impulso",["salto longitud sin impulso"],""],["natación con obstáculos",["natacion con obstaculos"],""],["carrera de patrullas militares",["carrera patrullas militares"],""],["ballet acuático",["ballet acuatico"],""],["globo aerostático",["globo aerostatico"],""]],[["tira y afloja",["tira afloja","soga tira"],""],["tiro de cuerda",["tiro cuerda"],"Fue olímpico de 1900 a 1920. Cinco tíos tirando de una cuerda, con medallas de verdad."]]]},{"q":"Nombra una capital europea","t":[[["París",["paris"],""],["Roma",["roma"],""],["Londres",["londres"],""],["Berlín",["berlin"],""],["Madrid",["madrid"],""],["Lisboa",["lisboa"],""],["Ámsterdam",["amsterdam"],""],["Bruselas",["bruselas"],""],["Viena",["viena"],""],["Atenas",["atenas"],""],["Dublín",["dublin"],""],["Estocolmo",["estocolmo"],""]],[["Liubliana",["liubliana"],"La capital que todos guardan para el final del Trivial."],["Bratislava",["bratislava"],""]],[["Praga",["praga"],""],["Varsovia",["varsovia"],""],["Budapest",["budapest"],""],["Copenhague",["copenhague"],""],["Oslo",["oslo"],""],["Helsinki",["helsinki"],""],["Berna",["berna"],""],["Luxemburgo",["luxemburgo"],""],["Bucarest",["bucarest"],""],["Sofía",["sofia"],""],["Belgrado",["belgrado"],""],["Zagreb",["zagreb"],""],["Moscú",["moscu"],""],["Kiev",["kiev"],""],["Vilna",["vilna"],""],["Riga",["riga"],""],["Tallin",["tallin"],""],["Reikiavik",["reikiavik"],""],["Ankara",["ankara"],""],["Sarajevo",["sarajevo"],""]],[["Chisináu",["chisinau"],""],["Podgorica",["podgorica"],""],["Skopie",["skopie"],""],["Tirana",["tirana"],""],["Nicosia",["nicosia"],""],["Minsk",["minsk"],""],["Pristina",["pristina"],""],["Valeta",["valeta"],""],["Andorra la Vella",["andorra vella"],""],["Mónaco",["monaco"],""],["San Marino",["san marino"],""],["Ciudad del Vaticano",["ciudad vaticano"],""]],[["Torshavn",["torshavn"],""],["Nuuk",["nuuk"],""],["Douglas",["douglas"],""],["Saint Helier",["saint helier"],""],["Saint Peter Port",["saint peter port"],""],["Gibraltar",["gibraltar"],""],["Longyearbyen",["longyearbyen"],""],["Mariehamn",["mariehamn"],""]],[["Vaduz",["vaduz"],"Capital de Liechtenstein. Menos de 6.000 habitantes y una de las capitales más ricas del mundo."]]]},{"q":"Nombra un planeta, luna o cuerpo del sistema solar","t":[[["Marte",["marte"],""],["Júpiter",["jupiter"],""],["Saturno",["saturno"],""],["Venus",["venus"],""],["Mercurio",["mercurio"],""],["Urano",["urano"],""],["Neptuno",["neptuno"],""],["Tierra",["tierra"],""],["Luna",["luna"],""],["Sol",["sol"],""]],[["Plutón",["pluton"],"El clásico «pero es que ya no es planeta». Lo dice todo el mundo."],["Ganímedes",["ganimedes"],""]],[["Ío",["io"],""],["Europa",["europa"],""],["Calisto",["calisto"],""],["Titán",["titan"],""],["Encélado",["encelado"],""],["Fobos",["fobos"],""],["Deimos",["deimos"],""],["Ceres",["ceres"],""],["Halley",["halley"],""],["Vesta",["vesta"],""],["Palas",["palas"],""],["Tritón",["triton"],""],["Caronte",["caronte"],""],["Eris",["eris"],""],["Makemake",["makemake"],""],["Haumea",["haumea"],""],["Cinturón de asteroides",["cinturon asteroides"],""],["Cinturón de Kuiper",["cinturon kuiper"],""]],[["Ariel",["ariel"],""],["Umbriel",["umbriel"],""],["Titania",["titania"],""],["Oberón",["oberon"],""],["Japeto",["japeto"],""],["Rea",["rea"],""],["Dione",["dione"],""],["Tetis",["tetis"],""],["Mimas",["mimas"],""],["Hiperión",["hiperion"],""],["Febe",["febe"],""],["Amaltea",["amaltea"],""],["Nereida",["nereida"],""],["Proteo",["proteo"],""],["Sedna",["sedna"],""],["Quaoar",["quaoar"],""],["Nube de Oort",["nube oort"],""],["Ida",["ida"],""],["Bennu",["bennu"],""],["Ryugu",["ryugu"],""],["Ultima Thule",["ultima thule"],""]],[["Dactyl",["dactyl"],""],["Larisa",["larisa"],""],["Galatea",["galatea"],""],["Despina",["despina"],""],["Talasa",["talasa"],""],["Náyade",["nayade"],""],["Pan",["pan"],""],["Atlas",["atlas"],""],["Prometeo",["prometeo"],""],["Pandora",["pandora"],""],["Epimeteo",["epimeteo"],""],["Jano",["jano"],""],["Calipso",["calipso"],""],["Telesto",["telesto"],""],["Helena",["helena"],""],["Polideuces",["polideuces"],""],["Metis",["metis"],""],["Tebe",["tebe"],""],["Adrastea",["adrastea"],""],["Cordelia",["cordelia"],""],["Ofelia",["ofelia"],""],["Bianca",["bianca"],""]],[["Miranda",["miranda"],"Luna de Urano con un acantilado de 20 km de caída. El mayor precipicio conocido del sistema solar."]]]},{"q":"Nombra un dios o diosa de la mitología griega","t":[[["Zeus",["zeus"],""],["Poseidón",["poseidon"],""],["Hades",["hades"],""],["Atenea",["atenea"],""],["Afrodita",["afrodita"],""],["Ares",["ares"],""],["Apolo",["apolo"],""],["Artemisa",["artemisa"],""],["Hera",["hera"],""],["Hermes",["hermes"],""]],[["Cronos",["cronos"],"El «pero antes de Zeus estaba...» de siempre."],["Hécate",["hecate"],""]],[["Dioniso",["dioniso"],""],["Deméter",["demeter"],""],["Hefesto",["hefesto"],""],["Perséfone",["persefone"],""],["Eros",["eros"],""],["Hipnos",["hipnos"],""],["Tánatos",["tanatos"],""],["Nike",["nike"],""],["Iris",["iris"],""],["Pan",["pan"],""],["Némesis",["nemesis"],""],["Gea",["gea"],""],["Urano",["urano"],""],["Rea",["rea"],""],["Helios",["helios"],""],["Selene",["selene"],""],["Eolo",["eolo"],""],["Asclepio",["asclepio"],""],["Hebe",["hebe"],""],["Tique",["tique"],""]],[["Leto",["leto"],""],["Temis",["temis"],""],["Mnemósine",["mnemosine"],""],["Océano",["oceano"],""],["Tetis",["tetis"],""],["Ceo",["ceo"],""],["Crío",["crio"],""],["Hiperión",["hiperion"],""],["Jápeto",["japeto"],""],["Prometeo",["prometeo"],""],["Epimeteo",["epimeteo"],""],["Atlas",["atlas"],""],["Moiras",["moiras"],""],["Erinias",["erinias"],""],["Musas",["musas"],""],["Cárites",["carites"],""],["Hores",["hores"],""],["Tálassa",["talassa"],""],["Ponto",["ponto"],""],["Nix",["nix"],""],["Érebo",["erebo"],""],["Éter",["eter"],""],["Hémera",["hemera"],""]],[["Ftía",["ftia"],""],["Aristeo",["aristeo"],""],["Momo",["momo"],""],["Filotes",["filotes"],""],["Geras",["geras"],""],["Oizis",["oizis"],""],["Apate",["apate"],""],["Éride",["eride"],""],["Ceto",["ceto"],""],["Forcis",["forcis"],""],["Euríbia",["euribia"],""],["Estigia",["estigia"],""],["Metis",["metis"],""],["Dice",["dice"],""],["Eunomia",["eunomia"],""],["Irene",["irene"],""],["Bía",["bia"],""],["Zelo",["zelo"],""],["Cratos",["cratos"],""],["Palas",["palas"],""],["Astreo",["astreo"],""],["Perses",["perses"],""]],[["Hestia",["hestia"],"Diosa del hogar y una de los doce olímpicos de pleno derecho. Nadie la nombra jamás porque nunca hizo nada dramático."]]]},{"q":"Nombra un personaje de Star Wars","t":[[["Darth Vader",["darth vader"],""],["Luke Skywalker",["luke skywalker"],""],["Han Solo",["han solo"],""],["Leia",["leia"],""],["Yoda",["yoda"],""],["Chewbacca",["chewbacca"],""],["R2-D2",["r2 d2"],""],["C-3PO",["c 3po"],""],["Obi-Wan",["obi wan"],""],["Anakin",["anakin"],""]],[["Almirante Ackbar",["almirante ackbar"],"«¡Es una trampa!» y a partir de ahí todo el mundo lo dice."],["Mace Windu",["mace windu"],""]],[["Palpatine",["palpatine"],""],["Boba Fett",["boba fett"],""],["Jango Fett",["jango fett"],""],["Padmé",["padme"],""],["Lando",["lando"],""],["Rey",["rey"],""],["Kylo Ren",["kylo ren"],""],["Finn",["finn"],""],["Poe",["poe"],""],["BB-8",["bb 8"],""],["Jar Jar Binks",["jar jar binks"],""],["Qui-Gon",["qui gon"],""],["Darth Maul",["darth maul"],""],["Grievous",["grievous"],""],["Ahsoka",["ahsoka"],""],["Mandaloriano",["mandaloriano"],""],["Grogu",["grogu"],""],["Jabba",["jabba"],""],["Tarkin",["tarkin"],""],["Chirrut",["chirrut"],""],["Jyn Erso",["jyn erso"],""],["Cassian Andor",["cassian andor"],""],["Rose Tico",["rose tico"],""]],[["Wedge Antilles",["wedge antilles"],""],["Wicket",["wicket"],""],["Nien Nunb",["nien nunb"],""],["Greedo",["greedo"],""],["Dengar",["dengar"],""],["Bossk",["bossk"],""],["IG-88",["ig 88"],""],["Zam Wesell",["zam wesell"],""],["Watto",["watto"],""],["Sebulba",["sebulba"],""],["Aayla Secura",["aayla secura"],""],["Kit Fisto",["kit fisto"],""],["Plo Koon",["plo koon"],""],["Shaak Ti",["shaak ti"],""],["Barriss Offee",["barriss offee"],""],["Asajj Ventress",["asajj ventress"],""],["Cad Bane",["cad bane"],""],["Hondo",["hondo"],""],["Saw Gerrera",["saw gerrera"],""],["Enfys Nest",["enfys nest"],""],["Val",["val"],""],["Rio Durant",["rio durant"],""]],[["Salacious Crumb",["salacious crumb"],""],["Max Rebo",["max rebo"],""],["Oola",["oola"],""],["Ponda Baba",["ponda baba"],""],["Momaw Nadon",["momaw nadon"],""],["Ephant Mon",["ephant mon"],""],["Bo Katan",["bo katan"],""],["Cara Dune",["cara dune"],""],["Migs Mayfeld",["migs mayfeld"],""],["Peli Motto",["peli motto"],""],["Kuiil",["kuiil"],""],["Sio Bibble",["sio bibble"],""],["Ric Olié",["ric olie"],""],["Panaka",["panaka"],""],["Typho",["typho"],""],["Dexter Jettster",["dexter jettster"],""],["Elan Sleazebaggano",["elan sleazebaggano"],""]],[["Bib Fortuna",["bib fortuna"],"El Twi'lek pálido de los tentáculos en la cabeza que hace de mayordomo de Jabba. Todo el mundo lo ha visto, nadie sabe su nombre."]]]},{"q":"Nombra un superhéroe o supervillano","t":[[["Superman",["superman"],""],["Batman",["batman"],""],["Spiderman",["spiderman"],""],["Hulk",["hulk"],""],["Iron Man",["iron man"],""],["Capitán América",["capitan america"],""],["Thor",["thor"],""],["Wonder Woman",["wonder woman"],""],["Joker",["joker"],""],["Lobezno",["lobezno"],""]],[["Aquaman",["aquaman"],"El «bueno, también está...» de todas las conversaciones."],["Deadpool",["deadpool"],""]],[["Flash",["flash"],""],["Linterna Verde",["linterna verde"],""],["Viuda Negra",["viuda negra"],""],["Ojo de Halcón",["ojo halcon"],""],["Doctor Extraño",["doctor extrano"],""],["Pantera Negra",["pantera negra"],""],["Antman",["antman"],""],["Cíclope",["ciclope"],""],["Tormenta",["tormenta"],""],["Profesor X",["profesor x"],""],["Magneto",["magneto"],""],["Thanos",["thanos"],""],["Loki",["loki"],""],["Duende Verde",["duende verde"],""],["Doctor Muerte",["doctor muerte"],""],["Veneno",["veneno"],""],["Catwoman",["catwoman"],""],["Robin",["robin"],""],["Estela Plateada",["estela plateada"],""],["Capitana Marvel",["capitana marvel"],""],["Bruja Escarlata",["bruja escarlata"],""],["Visión",["vision"],""],["Daredevil",["daredevil"],""],["Punisher",["punisher"],""]],[["Motorista Fantasma",["motorista fantasma"],""],["Bestia",["bestia"],""],["Coloso",["coloso"],""],["Júbilo",["jubilo"],""],["Gambito",["gambito"],""],["Pícara",["picara"],""],["Nightcrawler",["nightcrawler"],""],["Máquina de Guerra",["maquina guerra"],""],["Halcón",["halcon"],""],["Motorista",["motorista"],""],["Bullseye",["bullseye"],""],["Kraven",["kraven"],""],["Mysterio",["mysterio"],""],["Escorpión",["escorpion"],""],["Buitre",["buitre"],""],["Rino",["rino"],""],["Sandman",["sandman"],""],["Hombre de Arena",["hombre arena"],""],["Zatanna",["zatanna"],""],["Detective Marciano",["detective marciano"],""],["Linterna Verde Alan Scott",["linterna verde alan scott"],""],["Booster Gold",["booster gold"],""],["Bestia Negra",["bestia negra"],""],["Namor",["namor"],""]],[["Mortadelo",["mortadelo"],""],["Filemón",["filemon"],""],["Capitán Trueno",["capitan trueno"],""],["El Guerrero del Antifaz",["guerrero antifaz"],""],["Roberto Alcázar",["roberto alcazar"],""],["Anacleto",["anacleto"],""],["Pumby",["pumby"],""],["El Jabato",["jabato"],""],["Zipi y Zape",["zipi zape"],""],["El Capitán Latigazo",["capitan latigazo"],""],["Hilo",["hilo"],""],["Squirrel Girl",["squirrel girl"],""],["Mantis",["mantis"],""],["Shang-Chi",["shang chi"],""],["Ka-Zar",["ka zar"],""],["Machine Man",["machine man"],""]],[["Superlópez",["superlopez"],"El superhéroe español: oficinista en Barcelona, capa por debajo del traje y complejo de inferioridad. Jan lo dibujó desde 1973."]]]},{"q":"Nombra una película de Disney o Pixar","t":[[["El Rey León",["rey leon"],""],["Frozen",["frozen"],""],["Toy Story",["toy story"],""],["Buscando a Nemo",["buscando nemo"],""],["La Sirenita",["sirenita"],""],["Aladdín",["aladdin"],""],["La Bella y la Bestia",["bella bestia"],""],["Up",["up"],""],["Coco",["coco"],""],["Los Increíbles",["increibles"],""]],[["Fantasía",["fantasia"],"La respuesta de quien quiere hablar de cine."],["Ratatouille",["ratatouille"],""]],[["Blancanieves",["blancanieves"],""],["Cenicienta",["cenicienta"],""],["La Dama y el Vagabundo",["dama vagabundo"],""],["El libro de la selva",["libro selva"],""],["Peter Pan",["peter pan"],""],["Dumbo",["dumbo"],""],["Bambi",["bambi"],""],["Pinocho",["pinocho"],""],["101 dálmatas",["101 dalmatas"],""],["Mulán",["mulan"],""],["Tarzán",["tarzan"],""],["Hércules",["hercules"],""],["Pocahontas",["pocahontas"],""],["Monstruos S.A.",["monstruos s"],""],["Wall-E",["wall e"],""],["Brave",["brave"],""],["Del revés",["reves","inside out"],""],["Zootrópolis",["zootropolis"],""],["Vaiana",["vaiana"],""],["Encanto",["encanto"],""],["Cars",["cars"],""],["Bichos",["bichos"],""],["Soul",["soul"],""],["Luca",["luca"],""],["Red",["red"],""],["Enredados",["enredados"],""],["Rompe Ralph",["rompe ralph"],""]],[["La espada en la piedra",["espada piedra"],""],["Los Aristogatos",["aristogatos"],""],["Robin Hood",["robin hood"],""],["Basil el ratón superdetective",["basil raton superdetective"],""],["Oliver y su pandilla",["oliver su pandilla"],""],["El caldero mágico",["caldero magico"],""],["Tod y Toby",["tod toby"],""],["Atlantis",["atlantis"],""],["El planeta del tesoro",["planeta tesoro"],""],["Hermano Oso",["hermano oso"],""],["Chicken Little",["chicken little"],""],["Descubriendo a los Robinsons",["descubriendo robinsons"],""],["Bolt",["bolt"],""],["Tiana y el sapo",["tiana sapo"],""],["Lilo y Stitch",["lilo stitch"],""],["Fantasía 2000",["fantasia 2000"],""],["Dinosaurio",["dinosaurio"],""],["Onward",["onward"],""],["Elemental",["elemental"],""],["Wish",["wish"],""]],[["La bruja novata",["bruja novata"],""],["Los tres caballeros",["tres caballeros"],""],["Saludos amigos",["saludos amigos"],""],["Tiempo de melodía",["tiempo melodia"],""],["Las aventuras de Ichabod",["aventuras ichabod"],""],["Fun and Fancy Free",["fun and fancy free"],""],["Make Mine Music",["make mine music"],""],["Bongo",["bongo"],""],["El dragón chiflado",["dragon chiflado"],""],["Un sabio en las nubes",["sabio nubes"],""],["La isla del tesoro",["isla tesoro"],""],["Bedknobs",["bedknobs"],""],["Pete's Dragon",["pete s dragon"],""],["Taron",["taron"],""],["Toby",["toby"],""]],[["Bernardo y Bianca",["bernardo bianca","rescatadores"],"Dos ratones de la ONU de los ratones rescatando a una niña. Es de 1977, la vio toda una generación y no la dice nadie."]]]},{"q":"Nombra un filósofo o filósofa","t":[[["Platón",["platon"],""],["Aristóteles",["aristoteles"],""],["Sócrates",["socrates"],""],["Nietzsche",["nietzsche"],""],["Descartes",["descartes"],""],["Kant",["kant"],""],["Marx",["marx"],""],["Hegel",["hegel"],""],["Confucio",["confucio"],""]],[["Diógenes",["diogenes"],"El del barril. La anécdota que todo el mundo cuenta."],["Epicuro",["epicuro"],""]],[["Spinoza",["spinoza"],""],["Hume",["hume"],""],["Locke",["locke"],""],["Rousseau",["rousseau"],""],["Voltaire",["voltaire"],""],["Hobbes",["hobbes"],""],["Leibniz",["leibniz"],""],["Schopenhauer",["schopenhauer"],""],["Kierkegaard",["kierkegaard"],""],["Heidegger",["heidegger"],""],["Sartre",["sartre"],""],["Camus",["camus"],""],["Foucault",["foucault"],""],["Wittgenstein",["wittgenstein"],""],["Russell",["russell"],""],["Ortega y Gasset",["ortega gasset"],""],["Unamuno",["unamuno"],""],["Séneca",["seneca"],""],["Averroes",["averroes"],""],["Maimónides",["maimonides"],""],["Hipatia",["hipatia"],""],["Hannah Arendt",["hannah arendt"],""],["Simone de Beauvoir",["simone beauvoir"],""],["Simone Weil",["simone weil"],""]],[["Zenón de Citio",["zenon citio"],""],["Zenón de Elea",["zenon elea"],""],["Parménides",["parmenides"],""],["Heráclito",["heraclito"],""],["Demócrito",["democrito"],""],["Anaximandro",["anaximandro"],""],["Tales",["tales"],""],["Pitágoras",["pitagoras"],""],["Plotino",["plotino"],""],["Agustín de Hipona",["agustin hipona"],""],["Tomás de Aquino",["tomas aquino"],""],["Ockham",["ockham"],""],["Duns Escoto",["duns escoto"],""],["Bacon",["bacon"],""],["Berkeley",["berkeley"],""],["Fichte",["fichte"],""],["Schelling",["schelling"],""],["Comte",["comte"],""],["Bergson",["bergson"],""],["Husserl",["husserl"],""],["Levinas",["levinas"],""],["Deleuze",["deleuze"],""],["Derrida",["derrida"],""],["Habermas",["habermas"],""],["Rawls",["rawls"],""],["Judith Butler",["judith butler"],""],["María Zambrano",["maria zambrano"],""]],[["Aspasia",["aspasia"],""],["Diotima",["diotima"],""],["Areté de Cirene",["arete cirene"],""],["Temistoclea",["temistoclea"],""],["Damo",["damo"],""],["Perictione",["perictione"],""],["Anaxágoras",["anaxagoras"],""],["Empédocles",["empedocles"],""],["Protágoras",["protagoras"],""],["Gorgias",["gorgias"],""],["Antístenes",["antistenes"],""],["Crates",["crates"],""],["Pirrón",["pirron"],""],["Sexto Empírico",["sexto empirico"],""],["Filón de Alejandría",["filon alejandria"],""],["Boecio",["boecio"],""],["Avicena",["avicena"],""],["Al-Farabi",["farabi"],""],["Suárez",["suarez"],""],["Vives",["vives"],""]],[["Hiparquia",["hiparquia"],"Filósofa cínica del siglo IV a.C. Renunció a su fortuna, se casó con Crates y vivía en la calle discutiendo de igual a igual con los hombres."]]]},{"q":"Nombra un compositor de música clásica","t":[[["Beethoven",["beethoven"],""],["Mozart",["mozart"],""],["Bach",["bach"],""],["Vivaldi",["vivaldi"],""],["Chopin",["chopin"],""],["Tchaikovsky",["tchaikovsky"],""],["Wagner",["wagner"],""],["Schubert",["schubert"],""],["Haydn",["haydn"],""],["Brahms",["brahms"],""]],[["Satie",["satie"],"El compositor con el que se demuestra sensibilidad."],["Shostakóvich",["shostakovich"],""]],[["Handel",["handel"],""],["Liszt",["liszt"],""],["Mahler",["mahler"],""],["Debussy",["debussy"],""],["Ravel",["ravel"],""],["Stravinsky",["stravinsky"],""],["Verdi",["verdi"],""],["Puccini",["puccini"],""],["Rossini",["rossini"],""],["Bizet",["bizet"],""],["Dvořák",["dvorak"],""],["Grieg",["grieg"],""],["Sibelius",["sibelius"],""],["Rachmaninov",["rachmaninov"],""],["Prokófiev",["prokofiev"],""],["Schumann",["schumann"],""],["Mendelssohn",["mendelssohn"],""],["Berlioz",["berlioz"],""],["Albéniz",["albeniz"],""],["Granados",["granados"],""],["Falla",["falla"],""],["Rodrigo",["rodrigo"],""],["Sarasate",["sarasate"],""],["Turina",["turina"],""]],[["Monteverdi",["monteverdi"],""],["Purcell",["purcell"],""],["Scarlatti",["scarlatti"],""],["Telemann",["telemann"],""],["Gluck",["gluck"],""],["Boccherini",["boccherini"],""],["Bruckner",["bruckner"],""],["Saint-Saëns",["saint saens"],""],["Fauré",["faure"],""],["Poulenc",["poulenc"],""],["Milhaud",["milhaud"],""],["Bartók",["bartok"],""],["Janáček",["janacek"],""],["Nielsen",["nielsen"],""],["Elgar",["elgar"],""],["Holst",["holst"],""],["Vaughan Williams",["vaughan williams"],""],["Messiaen",["messiaen"],""],["Ligeti",["ligeti"],""],["Penderecki",["penderecki"],""],["Arriaga",["arriaga"],""],["Guridi",["guridi"],""],["Halffter",["halffter"],""],["Mompou",["mompou"],""],["Montsalvatge",["montsalvatge"],""]],[["Cristóbal de Morales",["cristobal morales"],""],["Francisco Guerrero",["francisco guerrero"],""],["Antonio de Cabezón",["antonio cabezon"],""],["Juan del Encina",["juan encina"],""],["Mateo Flecha",["mateo flecha"],""],["Soler",["soler"],""],["Hildegarda de Bingen",["hildegarda bingen"],""],["Barbara Strozzi",["barbara strozzi"],""],["Clara Schumann",["clara schumann"],""],["Fanny Mendelssohn",["fanny mendelssohn"],""],["Lili Boulanger",["lili boulanger"],""],["Nadia Boulanger",["nadia boulanger"],""],["Ethel Smyth",["ethel smyth"],""],["María Rodrigo",["maria rodrigo"],""],["Emiliana de Zubeldía",["emiliana zubeldia"],""]],[["Tomás de Victoria",["tomas victoria","tomas luis victoria"],"Ávila, siglo XVI. El mayor polifonista del Renacimiento español y en España casi no se estudia."]]]},{"q":"Nombra un personaje de El Señor de los Anillos","t":[[["Frodo",["frodo"],""],["Gandalf",["gandalf"],""],["Aragorn",["aragorn"],""],["Legolas",["legolas"],""],["Gimli",["gimli"],""],["Sam",["sam"],""],["Sauron",["sauron"],""],["Gollum",["gollum"],""],["Bilbo",["bilbo"],""],["Saruman",["saruman"],""]],[["Tom Bombadil",["tom bombadil"],"El personaje que todo el mundo saca para decir que ha leído los libros."],["Radagast",["radagast"],""]],[["Boromir",["boromir"],""],["Faramir",["faramir"],""],["Merry",["merry"],""],["Pippin",["pippin"],""],["Éowyn",["eowyn"],""],["Éomer",["eomer"],""],["Théoden",["theoden"],""],["Elrond",["elrond"],""],["Galadriel",["galadriel"],""],["Arwen",["arwen"],""],["Celeborn",["celeborn"],""],["Denethor",["denethor"],""],["Treebarba",["treebarba"],""],["Sombragrís",["sombragris"],""],["Balrog",["balrog"],""],["Rey Brujo",["rey brujo"],""],["Gothmog",["gothmog"],""],["Haldir",["haldir"],""],["Glorfindel",["glorfindel"],""],["Bardo",["bardo"],""],["Thorin",["thorin"],""],["Smaug",["smaug"],""],["Thranduil",["thranduil"],""],["Beorn",["beorn"],""]],[["Gil-galad",["gil galad"],""],["Isildur",["isildur"],""],["Elendil",["elendil"],""],["Círdan",["cirdan"],""],["Erestor",["erestor"],""],["Lindir",["lindir"],""],["Rosita Coto",["rosita coto"],""],["Ted Arenas",["ted arenas"],""],["Lobelia",["lobelia"],""],["Fredegar Bolger",["fredegar bolger"],""],["Ghân-buri-Ghân",["ghan buri ghan"],""],["Imrahil",["imrahil"],""],["Beregond",["beregond"],""],["Bergil",["bergil"],""],["Ioreth",["ioreth"],""],["Shagrat",["shagrat"],""],["Gorbag",["gorbag"],""],["Ugluk",["ugluk"],""],["Grishnakh",["grishnakh"],""],["Mauhur",["mauhur"],""]],[["Halbarad",["halbarad"],""],["Elladan",["elladan"],""],["Elrohir",["elrohir"],""],["Damrod",["damrod"],""],["Mablung",["mablung"],""],["Anborn",["anborn"],""],["Forlong",["forlong"],""],["Duinhir",["duinhir"],""],["Angbor",["angbor"],""],["Hirluin",["hirluin"],""],["Golasgil",["golasgil"],""],["Derufin",["derufin"],""],["Duilin",["duilin"],""],["Bill Helechal",["bill helechal"],""],["Mateo Coto",["mateo coto"],""],["Rufo Ganapié",["rufo ganapie"],""],["Mugwort",["mugwort"],""],["Hob Guardacercas",["hob guardacercas"],""]],[["Grima Lengua de Serpiente",["grima lengua serpiente","grima","lengua serpiente"],"El consejero que envenena a Théoden. Un personajazo que nadie nombra nunca."]]]},{"q":"Nombra un país de África","t":[[["Egipto",["egipto"],""],["Marruecos",["marruecos"],""],["Sudáfrica",["sudafrica"],""],["Nigeria",["nigeria"],""],["Kenia",["kenia"],""],["Etiopía",["etiopia"],""],["Argelia",["argelia"],""],["Túnez",["tunez"],""],["Ghana",["ghana"],""],["Senegal",["senegal"],""]],[["Lesoto",["lesoto"],"El país dentro de otro país. Lo dice todo el que quiere parecer culto."],["Burkina Faso",["burkina faso"],""],["Yibuti",["yibuti"],""]],[["Libia",["libia"],""],["Sudán",["sudan"],""],["Angola",["angola"],""],["Mozambique",["mozambique"],""],["Camerún",["camerun"],""],["Costa de Marfil",["costa marfil"],""],["Mali",["mali"],""],["Níger",["niger"],""],["Chad",["chad"],""],["Somalia",["somalia"],""],["Uganda",["uganda"],""],["Tanzania",["tanzania"],""],["Zimbabue",["zimbabue"],""],["Zambia",["zambia"],""],["Namibia",["namibia"],""],["Botsuana",["botsuana"],""],["Madagascar",["madagascar"],""],["Congo",["congo"],""],["República Democrática del Congo",["republica democratica congo"],""],["Ruanda",["ruanda"],""],["Mauritania",["mauritania"],""],["Gabón",["gabon"],""],["Malaui",["malaui"],""],["Guinea Ecuatorial",["guinea ecuatorial"],""]],[["Burundi",["burundi"],""],["Togo",["togo"],""],["Benín",["benin"],""],["Sierra Leona",["sierra leona"],""],["Liberia",["liberia"],""],["Gambia",["gambia"],""],["Guinea",["guinea"],""],["Eritrea",["eritrea"],""],["Sudán del Sur",["sudan sur"],""],["República Centroafricana",["republica centroafricana"],""],["Esuatini",["esuatini","suazilandia"],""],["Seychelles",["seychelles"],""],["Mauricio",["mauricio"],""],["Cabo Verde",["cabo verde"],""],["Sáhara Occidental",["sahara occidental"],""]],[["Guinea-Bisáu",["guinea bisau","guinea bissau"],""],["Santo Tomé y Príncipe",["santo tome principe"],""],["Somalilandia",["somalilandia"],""],["República Árabe Saharaui",["republica arabe saharaui"],""],["Zanzíbar",["zanzibar"],""],["Bioko",["bioko"],""],["Annobón",["annobon"],""],["Ceuta y Melilla",["ceuta melilla"],"Están en África. Técnicamente no son países."],["Canarias",["canarias"],"Placa africana. No cuela."]],[["Comoras",["comoras"],"Cuatro islas entre Mozambique y Madagascar y el país con más golpes de Estado de la historia moderna: más de veinte intentos desde 1975."]]]},{"q":"Nombra una raza de perro","t":[[["labrador",["labrador"],""],["pastor alemán",["pastor aleman"],""],["chihuahua",["chihuahua"],""],["bulldog",["bulldog"],""],["golden retriever",["golden retriever"],""],["husky",["husky"],""],["caniche",["caniche"],""],["beagle",["beagle"],""],["dálmata",["dalmata"],""],["yorkshire",["yorkshire"],""],["galgo",["galgo"],""],["boxer",["boxer"],""]],[["shiba inu",["shiba inu"],"El perro de los memes. Ya no es raro."],["border collie",["border collie"],""]],[["rottweiler",["rottweiler"],""],["doberman",["doberman"],""],["san bernardo",["san bernardo"],""],["mastín",["mastin"],""],["pug",["pug"],""],["carlino",["carlino"],""],["schnauzer",["schnauzer"],""],["dachshund",["dachshund","teckel"],""],["shih tzu",["shih tzu"],""],["maltés",["maltes"],""],["pomerania",["pomerania"],""],["bichón",["bichon"],""],["cocker",["cocker"],""],["setter",["setter"],""],["pointer",["pointer"],""],["braco",["braco"],""],["dogo",["dogo"],""],["pitbull",["pitbull"],""],["akita",["akita"],""],["samoyedo",["samoyedo"],""],["malamute",["malamute"],""],["weimaraner",["weimaraner"],""],["basset",["basset"],""],["corgi",["corgi"],""],["dogo argentino",["dogo argentino"],""]],[["podenco",["podenco"],""],["galgo español",["galgo espanol"],""],["mastín español",["mastin espanol"],""],["ca de bou",["ca bou"],""],["gos d'atura",["gos d atura"],""],["perro de agua español",["perro agua espanol"],""],["villano de las Encartaciones",["villano encartaciones"],""],["pachón navarro",["pachon navarro"],""],["sabueso español",["sabueso espanol"],""],["alano",["alano"],""],["maneto",["maneto"],""],["ratonero bodeguero",["ratonero bodeguero"],""],["basenji",["basenji"],""],["shar pei",["shar pei"],""],["chow chow",["chow chow"],""],["xoloitzcuintle",["xoloitzcuintle"],""],["azawakh",["azawakh"],""],["saluki",["saluki"],""],["whippet",["whippet"],""],["borzoi",["borzoi"],""],["komondor",["komondor"],""],["puli",["puli"],""],["kuvasz",["kuvasz"],""]],[["villanuco de Las Encartaciones",["villanuco encartaciones"],""],["perdiguero de Burgos",["perdiguero burgos"],""],["carea leonés",["carea leones"],""],["carea castellano",["carea castellano"],""],["gos rater valencià",["gos rater valencia"],""],["ca eivissenc",["ca eivissenc"],""],["ca mè mallorquí",["ca me mallorqui"],""],["ca rater",["ca rater"],""],["maneto andaluz",["maneto andaluz"],""],["pastor garafiano",["pastor garafiano"],""],["bardino majorero",["bardino majorero"],""],["presa canario",["presa canario"],""],["lebrel",["lebrel"],""],["cimarrón",["cimarron"],""]],[["can de palleiro",["can palleiro","can palleiro gallego"],"El perro de granja gallego. Estuvo a punto de extinguirse y lo recuperaron a partir de los pocos que quedaban en aldeas."]]]},{"q":"Nombra un dinosaurio","t":[[["tiranosaurio",["tiranosaurio","t rex"],""],["velocirraptor",["velocirraptor"],""],["triceratops",["triceratops"],""],["estegosaurio",["estegosaurio"],""],["braquiosaurio",["braquiosaurio"],""],["diplodocus",["diplodocus"],""],["pterodáctilo",["pterodactilo"],""],["espinosaurio",["espinosaurio"],""],["anquilosaurio",["anquilosaurio"],""],["iguanodonte",["iguanodonte"],""]],[["arqueopterix",["arqueopterix"],"El «en realidad era un pájaro» de siempre."],["dilofosaurio",["dilofosaurio"],""]],[["alosaurio",["alosaurio"],""],["carnotauro",["carnotauro"],""],["parasaurolofus",["parasaurolofus"],""],["pachycephalosaurus",["pachycephalosaurus"],""],["compsognathus",["compsognathus"],""],["gallimimus",["gallimimus"],""],["therizinosaurus",["therizinosaurus"],""],["mosasaurio",["mosasaurio"],""],["plesiosaurio",["plesiosaurio"],""],["deinonychus",["deinonychus"],""],["utahraptor",["utahraptor"],""],["giganotosaurio",["giganotosaurio"],""],["ceratosaurio",["ceratosaurio"],""],["apatosaurio",["apatosaurio"],""],["brontosaurio",["brontosaurio"],""],["protoceratops",["protoceratops"],""],["oviraptor",["oviraptor"],""],["microraptor",["microraptor"],""],["troodon",["troodon"],""]],[["baryonyx",["baryonyx"],""],["suchomimus",["suchomimus"],""],["carcharodontosaurus",["carcharodontosaurus"],""],["mapusaurus",["mapusaurus"],""],["acrocanthosaurus",["acrocanthosaurus"],""],["amargasaurus",["amargasaurus"],""],["nigersaurus",["nigersaurus"],""],["shunosaurus",["shunosaurus"],""],["mamenchisaurus",["mamenchisaurus"],""],["argentinosaurus",["argentinosaurus"],""],["dreadnoughtus",["dreadnoughtus"],""],["edmontosaurio",["edmontosaurio"],""],["corythosaurus",["corythosaurus"],""],["lambeosaurus",["lambeosaurus"],""],["styracosaurus",["styracosaurus"],""],["einiosaurus",["einiosaurus"],""],["kentrosaurus",["kentrosaurus"],""],["dracorex",["dracorex"],""],["majungasaurus",["majungasaurus"],""]],[["turiasaurus",["turiasaurus"],""],["demandasaurus",["demandasaurus"],""],["lirainosaurus",["lirainosaurus"],""],["europelta",["europelta"],""],["proa valdearinnoensis",["proa valdearinnoensis"],""],["aragosaurus",["aragosaurus"],""],["galvesaurus",["galvesaurus"],""],["losillasaurus",["losillasaurus"],""],["tastavinsaurus",["tastavinsaurus"],""],["iberospinus",["iberospinus"],""],["portellsaurus",["portellsaurus"],""],["pelecanimimus",["pelecanimimus"],""],["delapparentia",["delapparentia"],""]],[["concavenator",["concavenator","concavenator corcovatus"],"El «dinosaurio jorobado de Cuenca», descubierto en Las Hoyas en 2010. Un carnívoro con una joroba y protoplumas."]]]},{"q":"Nombra un videojuego","t":[[["Minecraft",["minecraft"],""],["Fortnite",["fortnite"],""],["FIFA",["fifa"],""],["Tetris",["tetris"],""],["Mario",["mario"],""],["Zelda",["zelda"],""],["GTA",["gta"],""],["Call of Duty",["call of duty"],""],["Among Us",["among us"],""],["Fall Guys",["fall guys"],""],["Candy Crush",["candy crush"],""],["Pokémon",["pokemon"],""]],[["Shadow of the Colossus",["shadow of the colossus"],"El videojuego que se dice cuando alguien quiere hablar de arte."],["Journey",["journey"],""]],[["The Last of Us",["the last of us"],""],["Elden Ring",["elden ring"],""],["Dark Souls",["dark souls"],""],["Red Dead Redemption",["red dead redemption"],""],["Skyrim",["skyrim"],""],["Overwatch",["overwatch"],""],["League of Legends",["league of legends"],""],["Counter-Strike",["counter strike"],""],["Valorant",["valorant"],""],["Animal Crossing",["animal crossing"],""],["Stardew Valley",["stardew valley"],""],["Hollow Knight",["hollow knight"],""],["Celeste",["celeste"],""],["Portal",["portal"],""],["Half-Life",["half life"],""],["BioShock",["bioshock"],""],["Silent Hill",["silent hill"],""],["Resident Evil",["resident evil"],""],["Metal Gear",["metal gear"],""],["Street Fighter",["street fighter"],""],["Tekken",["tekken"],""],["Age of Empires",["age of empires"],""],["Los Sims",["sims"],""],["SimCity",["simcity"],""],["Crash Bandicoot",["crash bandicoot"],""],["Spyro",["spyro"],""],["Sonic",["sonic"],""],["Donkey Kong",["donkey kong"],""]],[["Commandos",["commandos"],""],["Blasphemous",["blasphemous"],""],["Gris",["gris"],""],["RiME",["rime"],""],["Moonlighter",["moonlighter"],""],["The Sexy Brutale",["the sexy brutale"],""],["A Plague Tale",["plague tale"],""],["Metroid",["metroid"],""],["Castlevania",["castlevania"],""],["Chrono Trigger",["chrono trigger"],""],["Final Fantasy VII",["final fantasy vii"],""],["Earthbound",["earthbound"],""],["Katamari",["katamari"],""],["Okami",["okami"],""],["Ico",["ico"],""],["Braid",["braid"],""],["Fez",["fez"],""],["Undertale",["undertale"],""],["Outer Wilds",["outer wilds"],""],["Return of the Obra Dinn",["return of the obra dinn"],""],["Disco Elysium",["disco elysium"],""],["Kentucky Route Zero",["kentucky route zero"],""],["Papers Please",["papers please"],""]],[["La Abadía del Crimen",["abadia crimen"],""],["Comandos",["comandos"],""],["Alone in the Dark",["alone in the dark"],""],["Livingstone Supongo",["livingstone supongo"],""],["Sir Fred",["sir fred"],""],["Fred",["fred"],""],["Game Over",["game over"],""],["Army Moves",["army moves"],""],["Navy Moves",["navy moves"],""],["Turbo Girl",["turbo girl"],""],["Abu Simbel Profanation",["abu simbel profanation"],""],["Camelot Warriors",["camelot warriors"],""],["Mad Mix Game",["mad mix game"],""],["Después de la guerra",["despues guerra"],""],["Emilio Butragueño Fútbol",["emilio butragueno futbol"],""],["Chicago 30",["chicago 30"],""],["Hundra",["hundra"],""]],[["PC Fútbol",["pc futbol"],"El simulador de Dinamic que jugó España entera en los 90. Fichabas al Numancia y te ibas a Segunda B a llorar."]]]}];</script><script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.45.4/dist/umd/supabase.min.js"></script>
+<script>
+"use strict";
+/* ═════════ constantes ═════════ */
+const RONDAS = 7, MS_PISTA = 3000, MS_RESP = 25000;
+const FONDO = 700;                 // metros: siete joyas seguidas = el fondo del iceberg
+const FLOTACION = 70;              // el 10 % asoma, el 90 % queda debajo
+const EPOCA = "2026-08-31";        // día 1
+
+// Cinco niveles según lo rara que sea la respuesta (puntos = metros que bajas)
+const NIVELES = [
+  {n:"Superficie", pts:10,  col:"#c3ced8", txt:"#0a1f35", e:"⬜", d:"Lo primero que se le pasa a cualquiera por la cabeza."},
+  {n:"Conocido",   pts:30,  col:"#2fb5a2", txt:"#ffffff", e:"🟩", d:"No es lo primero que sale, pero casi todo el mundo lo sabe."},
+  {n:"Raro",       pts:60,  col:"#2f7fd6", txt:"#ffffff", e:"🟦", d:"Aquí ya hay que haberse fijado. Mucha gente no caería."},
+  {n:"Muy raro",   pts:85,  col:"#7b4fd6", txt:"#ffffff", e:"🟪", d:"Esto es de alguien que sabe del tema de verdad."},
+  {n:"Sabihondo",  pts:100, col:"#ff6a1f", txt:"#ffffff", e:"🟧", d:"Casi nadie lo sabe. Es la joya del día."}
+];
+// el banco guarda 6 escalones; el «listillo» (el raro que dice todo el mundo) cuenta como superficie
+const NIVEL_DE_TIER = [0,0,1,2,3,4];
+const nivel = r => r && r.tier !== null && r.tier !== undefined ? NIVELES[NIVEL_DE_TIER[r.tier]] : null;
+const numNivel = r => NIVEL_DE_TIER[r.tier] + 1;
+const FALLO = "❌";
+
+// Franjas del iceberg (solo color: cuanto más hondo, más oscuro)
+const CAPAS = [
+  {m:0,col:"#ffffff"},{m:70,col:"#d4eef8"},{m:150,col:"#9dd6ec"},
+  {m:250,col:"#58abd6"},{m:350,col:"#2d74ae"},{m:450,col:"#173f7a"}
+];
+
+/* ═════════ utilidades ═════════ */
+const $ = s => document.querySelector(s);
+const esc = s => String(s).replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const mil = n => String(Math.round(n)).replace(/\B(?=(\d{3})+(?!\d))/g, ".");
+
+function norm(s){
+  s = s.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g,"");
+  s = s.replace(/[^a-z0-9ñ]+/g," ");
+  const fuera = new Set(["el","la","los","las","lo","un","una","unos","unas","de","del","al","a","en","y","o"]);
+  return s.split(" ").filter(w => w && !fuera.has(w)).join(" ");
+}
+function lev(a,b){
+  if (Math.abs(a.length-b.length) > 2) return 9;
+  let prev = Array.from({length:b.length+1},(_,i)=>i);
+  for (let i=1;i<=a.length;i++){
+    const fila=[i];
+    for (let j=1;j<=b.length;j++)
+      fila[j]=Math.min(prev[j]+1, fila[j-1]+1, prev[j-1]+(a[i-1]===b[j-1]?0:1));
+    prev=fila;
+  }
+  return prev[b.length];
+}
+/* PRNG determinista: todo el mundo recibe las mismas preguntas */
+function mulberry(a){return function(){a|=0;a=a+0x6D2B79F5|0;let t=Math.imul(a^a>>>15,1|a);t=t+Math.imul(t^t>>>7,61|t)^t;return((t^t>>>14)>>>0)/4294967296}}
+const hoyMadrid = () => new Intl.DateTimeFormat("en-CA",{timeZone:"Europe/Madrid",year:"numeric",month:"2-digit",day:"2-digit"}).format(new Date());
+function numeroDia(f){
+  const [ay,am,ad]=EPOCA.split("-").map(Number), [y,m,d]=f.split("-").map(Number);
+  return Math.round((Date.UTC(y,m-1,d)-Date.UTC(ay,am-1,ad))/864e5)+1;
+}
+function eligeRondas(semilla){
+  const r = mulberry(semilla), idx = BANCO.map((_,i)=>i);
+  for (let i=idx.length-1;i>0;i--){const j=Math.floor(r()*(i+1));[idx[i],idx[j]]=[idx[j],idx[i]]}
+  return idx.slice(0,RONDAS);
+}
+/* almacén local; hereda rachas y partidas de cuando se llamaba Krillón */
+const guarda = {
+  get(k,d){
+    try{
+      const v = localStorage.getItem("sabihondo:"+k) ?? localStorage.getItem("krillon:"+k);
+      return v ? JSON.parse(v) : d;
+    }catch{return d}
+  },
+  set(k,v){try{localStorage.setItem("sabihondo:"+k,JSON.stringify(v))}catch{}}
+};
+
+/* ═════════ evaluación de una respuesta ═════════ */
+function evalua(pregunta, texto){
+  const q = norm(texto);
+  if (!q) return null;
+  for (let t=0;t<6;t++)
+    for (const [disp,claves,coña] of pregunta.t[t])
+      if (claves.includes(q)) return {tier:t, disp, coña};
+  let mejor=null;
+  for (let t=0;t<6;t++)
+    for (const [disp,claves,coña] of pregunta.t[t])
+      for (const k of claves){
+        if (k.length < 5) continue;
+        const tope = k.length >= 9 ? 2 : 1, d = lev(q,k);
+        if (d <= tope && (!mejor || d < mejor.d)) mejor = {d, r:{tier:t, disp, coña}};
+      }
+  return mejor ? mejor.r : null;
+}
+const joyaDe = p => p.t[5][0] ? p.t[5][0][0] : null;
+
+/* ═════════ el iceberg (SVG) ═════════ */
+const NS = "http://www.w3.org/2000/svg";
+const svg = $("#svg");
+let G = null;                       // geometría actual
+let profVista = 0, profMeta = 0, pines = [];
+
+// Perfil del iceberg: [metros, borde izquierdo, borde derecho] en fracción del ancho útil
+const IZQ = [[0,.46],[10,.42],[22,.40],[34,.33],[50,.29],[62,.24],[70,.20],
+  [90,.11],[140,.04],[230,.02],[300,.07],[380,.03],[450,.09],[530,.16],[600,.27],[660,.37],[700,.47]];
+const DER = [[0,.48],[8,.53],[20,.55],[32,.61],[46,.63],[60,.70],[70,.76],
+  [95,.86],[150,.94],[220,.98],[310,.93],[390,.97],[460,.91],[540,.85],[610,.77],[670,.64],[700,.53]];
+
+function geometria(){
+  const r = $("#hielo").getBoundingClientRect();
+  const W = r.width, H = r.height, estrecho = W < 200;
+  const arriba = Math.max(34, H*.07), abajo = 18;
+  const L = estrecho ? 6 : 18, R = estrecho ? W-6 : W*.66;
+  // la punta se dibuja algo más alta de lo real para que se lea; el resto va a escala
+  const alto = H-arriba-abajo, corte = .15;
+  const y = m => arriba + (m <= FLOTACION ? (m/FLOTACION)*corte : corte + ((m-FLOTACION)/(FONDO-FLOTACION))*(1-corte)) * alto;
+  const x = f => L + f*(R-L);
+  return {W,H,estrecho,y,x,L,R};
+}
+
+function el(tag, attrs, padre){
+  const e = document.createElementNS(NS, tag);
+  for (const k in attrs) e.setAttribute(k, attrs[k]);
+  if (padre) padre.appendChild(e);
+  return e;
+}
+
+function dibujaIceberg(){
+  G = geometria();
+  const {W,H,estrecho,y,x} = G;
+  svg.setAttribute("viewBox", `0 0 ${W} ${H}`);
+  svg.innerHTML = "";
+  const defs = el("defs",{},svg);
+  const gm = el("linearGradient",{id:"gMar",x1:0,y1:0,x2:0,y2:1},defs);
+  el("stop",{offset:0,"stop-color":"#0d3a63"},gm);
+  el("stop",{offset:.45,"stop-color":"#082442"},gm);
+  el("stop",{offset:1,"stop-color":"#030d1b"},gm);
+  const gc = el("linearGradient",{id:"gCielo",x1:0,y1:0,x2:0,y2:1},defs);
+  el("stop",{offset:0,"stop-color":"#c7e1ec"},gc);
+  el("stop",{offset:1,"stop-color":"#eef6f9"},gc);
+
+  const yf = y(FLOTACION);
+  el("rect",{x:0,y:0,width:W,height:yf,fill:"url(#gCielo)"},svg);
+  el("rect",{x:0,y:yf,width:W,height:H-yf,fill:"url(#gMar)"},svg);
+
+  // contorno
+  const izq = IZQ.map(([m,f]) => `${x(f).toFixed(1)},${y(m).toFixed(1)}`);
+  const der = DER.slice().reverse().map(([m,f]) => `${x(f).toFixed(1)},${y(m).toFixed(1)}`);
+  const puntos = izq.concat(der).join(" ");
+  const cp = el("clipPath",{id:"cpHielo"},defs);
+  el("polygon",{points:puntos},cp);
+
+  // capas, recortadas por el contorno
+  const capas = el("g",{"clip-path":"url(#cpHielo)"},svg);
+  CAPAS.forEach((c,i) => {
+    const y0 = y(c.m), y1 = i < CAPAS.length-1 ? y(CAPAS[i+1].m) : H;
+    el("rect",{x:0,y:y0,width:W,height:y1-y0,fill:c.col},capas);
+  });
+  // lo que queda bajo el agua se ve un poco velado
+  el("rect",{x:0,y:yf,width:W,height:H-yf,fill:"#062038",opacity:.14},capas);
+  // vetas del hielo
+  for (let k=0;k<26;k++){
+    const m = 8 + k*26 + (k%3)*5, yy = y(m);
+    el("line",{x1:0,y1:yy,x2:W,y2:yy+((k%2)?6:-4),stroke:m<FLOTACION?"#b9d6e2":"#ffffff","stroke-width":1,opacity:m<FLOTACION?.7:.12},capas);
+  }
+  el("polygon",{points:puntos,fill:"none",stroke:"#ffffff","stroke-width":1.2,opacity:.55},svg);
+
+  // separación entre capas: raya que cruza todo el mar
+  CAPAS.forEach((c,i) => {
+    if (i === 0) return;
+    const yy = y(c.m);
+    el("line",{x1:0,y1:yy,x2:W,y2:yy,stroke:i===1?"#ffffff":"#8fb0c4","stroke-width":1,
+      "stroke-dasharray":i===1?"0":"3 5",opacity:i===1?.9:.45},svg);
+  });
+
+  // línea de flotación, con oleaje
+  let ola = `M0 ${yf}`;
+  for (let xx=0; xx<=W+12; xx+=12) ola += ` Q${xx+6} ${yf-3} ${xx+12} ${yf}`;
+  el("path",{d:ola,fill:"none",stroke:"#ffffff","stroke-width":2,opacity:.95},svg);
+
+  if (!estrecho){
+    const nota = el("text",{x:G.W-12,y:yf-8,"text-anchor":"end",fill:"#4a6378","font-size":9.5},svg);
+    nota.textContent = "solo asoma el 10 %";
+  }
+
+  // grupo de pines y marcador
+  el("g",{id:"pines"},svg);
+  const mk = el("g",{id:"marca-tu"},svg);
+  el("line",{x1:0,y1:0,x2:W,y2:0,stroke:"#ff6a1f","stroke-width":2},mk);
+  el("circle",{cx:x(.5),cy:0,r:6,fill:"#ff6a1f",stroke:"#ffffff","stroke-width":2},mk);
+  const chip = el("g",{id:"chip"},mk);
+  el("rect",{x:0,y:-11,width:10,height:22,rx:11,fill:"#ff6a1f"},chip);
+  el("text",{x:0,y:4,fill:"#ffffff","font-size":estrecho?10:11,"font-weight":600},chip);
+
+  pintaPines();
+  mueveMarca();
+}
+
+function pintaPines(){
+  const g = $("#pines"); if (!g || !G) return;
+  g.innerHTML = "";
+  const {y,x,estrecho} = G;
+  let ultimoY = -99;
+  pines.forEach((p,i) => {
+    const yy = y(p.m);
+    const cx = x(i % 2 ? .38 : .62);
+    el("line",{x1:x(.5),y1:yy,x2:cx,y2:yy,stroke:"#ffffff","stroke-width":1,opacity:.5},g);
+    el("circle",{cx,cy:yy,r:estrecho?4:5,fill:p.tier===null?"#1b2e44":nivel(p).col,stroke:"#ffffff","stroke-width":1.5},g);
+    if (!estrecho){
+      let ty = yy; if (ty - ultimoY < 17) ty = ultimoY + 17; ultimoY = ty;
+      const texto = p.tier===null ? "sin respuesta" : p.disp;
+      const t = el("text",{x:cx + (i%2 ? -10 : 10),y:ty+3.5,"text-anchor":i%2?"end":"start",
+        fill:"#0a1f35","font-size":10.5,"font-weight":600,"paint-order":"stroke",stroke:"#ffffff","stroke-width":3,
+        "stroke-linejoin":"round"},g);
+      t.textContent = texto.length > 26 ? texto.slice(0,25)+"…" : texto;
+      // si no cabe por su lado, se pasa al otro lado del punto
+      const largo = t.getComputedTextLength();
+      if (i % 2 && cx - 10 - largo < 6){ t.setAttribute("text-anchor","start"); t.setAttribute("x", cx + 10); }
+      else if (!(i % 2) && cx + 10 + largo > G.W - 6){ t.setAttribute("text-anchor","end"); t.setAttribute("x", cx - 10); }
+    }
+  });
+}
+
+function mueveMarca(){
+  if (!G) return;
+  const mk = $("#marca-tu"); if (!mk) return;
+  const yy = G.y(Math.min(FONDO, profVista));
+  mk.setAttribute("transform", `translate(0 ${yy.toFixed(1)})`);
+  const chip = $("#chip"), txt = chip.lastElementChild, caja = chip.firstElementChild;
+  txt.textContent = G.estrecho ? mil(profVista)+" m" : "tú · " + mil(profVista) + " m";
+  const ancho = txt.getComputedTextLength() + 16;
+  const cx = G.estrecho ? G.W - ancho - 4 : 10;
+  caja.setAttribute("x", cx); caja.setAttribute("width", ancho);
+  txt.setAttribute("x", cx + 8);
+  chip.setAttribute("transform", yy < 30 ? "translate(0 14)" : "");
+}
+
+function anima(){
+  if (Math.abs(profMeta-profVista) > .3){ profVista += (profMeta-profVista)*.06; mueveMarca(); }
+  else if (profVista !== profMeta){ profVista = profMeta; mueveMarca(); }
+  requestAnimationFrame(anima);
+}
+new ResizeObserver(() => dibujaIceberg()).observe($("#hielo"));
+
+/* ═════════ sonido ═════════ */
+const Son = (()=>{
+  let ac=null, on = guarda.get("son", true);
+  const arranca = () => { if(!ac){try{ac=new (window.AudioContext||window.webkitAudioContext)()}catch{}} ac&&ac.state==="suspended"&&ac.resume(); };
+  function tono(f,dur,vol,tipo="sine",desliz){
+    if(!on||!ac) return;
+    const o=ac.createOscillator(), g=ac.createGain(), t=ac.currentTime;
+    o.type=tipo; o.frequency.setValueAtTime(f,t);
+    if(desliz) o.frequency.exponentialRampToValueAtTime(desliz,t+dur);
+    g.gain.setValueAtTime(0,t); g.gain.linearRampToValueAtTime(vol,t+.012);
+    g.gain.exponentialRampToValueAtTime(.0001,t+dur);
+    o.connect(g); g.connect(ac.destination); o.start(t); o.stop(t+dur+.03);
+  }
+  return {
+    arranca, activo:()=>on,
+    alterna(){ on=!on; guarda.set("son",on); if(on){arranca();tono(520,.1,.05)} return on; },
+    baja(t){ tono(880-t*60,.9,.05,"sine",300-t*30) },
+    capa(){ tono(1320,.35,.04,"triangle",990) },
+    fallo(){ tono(150,.22,.05,"square",90) },
+    tic(){ tono(1300,.045,.028,"triangle") },
+    fondo(){ tono(110,2,.08,"sine",55) }
+  };
+})();
+
+/* ═════════ estado ═════════ */
+let J = null;
+
+function nuevaPartida(modo){
+  const fecha = hoyMadrid(), dia = numeroDia(fecha);
+  const semilla = modo === "libre" ? (Date.now() & 0x7fffffff) : dia * 7919;
+  return { modo, fecha, dia, rondas: eligeRondas(semilla).map(i => BANCO[i]), i:0, res:[], puntos:0 };
+}
+function fijaPines(res){
+  let acc = 0;
+  pines = res.map(r => { acc += nivel(r) ? nivel(r).pts : 0; return {m:acc, tier:r.tier, disp:r.disp}; });
+  pintaPines();
+}
+
+/* ═════════ pantallas ═════════ */
+const escena = $("#escena");
+const cabecera = () => `
+  <div class="cabecera">
+    <span>${J.modo==="libre" ? "Libre" : "Nº "+J.dia} · ronda ${J.i+1}/${RONDAS}</span>
+    <span class="m">${mil(J.puntos)} m</span>
+  </div>`;
+
+function portada(){
+  pantalla = "portada";
+  const est = stats();
+  const hecho = hechoHoy();
+  $("#dia").textContent = "Reto nº " + numeroDia(hoyMadrid());
+  profMeta = 0; fijaPines([]);
+
+  escena.innerHTML = `
+  <div class="panel">
+    <p class="rotulo">El reto diario · ${esc(hoyMadrid().split("-").reverse().join("/"))}</p>
+    <h1>Sabi<em>hondo</em></h1>
+    <p class="lema">Siete preguntas al día, las mismas para todo el mundo. Vale cualquier respuesta correcta, pero lo obvio te deja en la punta del iceberg. <b>Cuanto más nicho, más bajas.</b></p>
+    <p class="apunte">Nada de preguntas que solo sepa alguien criado en Estados Unidos: ni cadenas de donuts ni cereales que aquí no se venden.</p>
+    <ul class="reglas">
+      <li><span class="num">7</span><span><b>Rondas.</b> Enunciados abiertos: «Nombra una tapa», «Nombra un río de España».</span></li>
+      <li><span class="num">25 s</span><span><b>Por ronda</b>, y una sola respuesta.</span></li>
+      <li><span class="num">700 m</span><span><b>El fondo del iceberg.</b> Llegas con siete joyas seguidas. Si solo dices lo obvio, te quedas en 70 m, justo en la línea de flotación.</span></li>
+    </ul>
+    <div class="botonera">
+      ${hecho ? `<button class="btn" id="bVer">Ver tu iceberg de hoy</button>`
+              : `<button class="btn" id="bJugar">Empezar a bajar</button>`}
+      <button class="btn fantasma" id="bLibre">Partida libre</button>
+      ${est.racha ? `<span class="racha">Racha: ${est.racha} ${est.racha>1?"días":"día"}</span>` : ``}
+    </div>
+    ${hecho ? `<p class="apunte" style="margin-top:16px">Hoy ya has bajado <b>${mil(hecho.puntos)} m</b>. El siguiente reto sale a medianoche.</p>` : ``}
+  </div>`;
+
+  $("#bJugar")?.addEventListener("click", () => { Son.arranca(); J = nuevaPartida("diaria"); ronda(); });
+  $("#bVer")?.addEventListener("click", () => { J = {modo:"diaria", ...hecho, revisita:true}; final(); });
+  $("#bLibre").addEventListener("click", () => { Son.arranca(); J = nuevaPartida("libre"); ronda(); });
+}
+
+let temporizador = null;
+function paraReloj(){ if (temporizador){ cancelAnimationFrame(temporizador); temporizador = null; } }
+
+function ronda(){
+  paraReloj(); pantalla = "juego";
+  const p = J.rondas[J.i];
+  escena.innerHTML = `
+  <div class="panel" id="tarjeta">
+    ${cabecera()}
+    <p class="rotulo">Enunciado</p>
+    <p class="enunciado">${esc(p.q)}</p>
+    <div class="cuenta" id="cuenta">3</div>
+    <p class="apunte" style="text-align:center;margin:0">piensa en algo que no diga nadie</p>
+  </div>`;
+  const t0 = performance.now();
+  (function pista(){
+    const q = performance.now() - t0;
+    const c = $("#cuenta"); if (c) c.textContent = Math.max(1, Math.ceil((MS_PISTA - q)/1000));
+    if (q >= MS_PISTA) return responder();
+    temporizador = requestAnimationFrame(pista);
+  })();
+}
+
+function responder(){
+  paraReloj();
+  const p = J.rondas[J.i];
+  escena.innerHTML = `
+  <div class="panel" id="tarjeta">
+    ${cabecera()}
+    <p class="rotulo">Enunciado</p>
+    <p class="enunciado">${esc(p.q)}</p>
+    <form id="f" autocomplete="off">
+      <input type="text" id="r" placeholder="tu respuesta" autocomplete="off"
+             autocorrect="off" autocapitalize="off" spellcheck="false" enterkeyhint="go">
+      <button class="btn" type="submit">Bajar</button>
+    </form>
+    <div class="mecha" id="mecha"><i style="transform:scaleX(1)"></i></div>
+    <p class="aviso" id="aviso"></p>
+  </div>`;
+
+  const campo = $("#r"); campo.focus();
+  const barra = $("#mecha"), relleno = barra.firstElementChild;
+  const t0 = performance.now(); let ultimoTic = 99;
+
+  $("#f").addEventListener("submit", e => {
+    e.preventDefault();
+    const texto = campo.value.trim();
+    if (!texto) return;
+    const r = evalua(p, texto);
+    if (!r){
+      Son.fallo();
+      $("#aviso").textContent = "«" + texto + "» no está en la lista. Prueba con otra.";
+      const tj = $("#tarjeta"); tj.classList.remove("sacudir"); void tj.offsetWidth; tj.classList.add("sacudir");
+      campo.select();
+      return;
+    }
+    cierra({tier:r.tier, disp:r.disp, coña:r.coña, tuya:texto});
+  });
+
+  (function reloj(){
+    const resta = Math.max(0, MS_RESP - (performance.now() - t0));
+    relleno.style.transform = "scaleX(" + (resta/MS_RESP) + ")";
+    if (resta < 5000){
+      barra.classList.add("urge");
+      const s = Math.ceil(resta/1000);
+      if (s !== ultimoTic && s > 0){ ultimoTic = s; Son.tic(); }
+    }
+    if (resta <= 0) return cierra(null);
+    temporizador = requestAnimationFrame(reloj);
+  })();
+}
+
+function cierra(r){
+  paraReloj();
+  const p = J.rondas[J.i];
+  const N = nivel(r), pts = N ? N.pts : 0;
+  J.puntos += pts;
+  J.res.push(r ? {...r, q:p.q, joya:joyaDe(p)} : {tier:null, q:p.q, tuya:null, joya:joyaDe(p)});
+  profMeta = J.puntos; fijaPines(J.res);
+
+  if (r){ Son.baja(NIVEL_DE_TIER[r.tier]); if (N === NIVELES[4]) setTimeout(()=>Son.capa(), 350); } else Son.fallo();
+
+  escena.innerHTML = `
+  <div class="panel">
+    ${cabecera()}
+    ${N ? `<div class="nivel" style="--nc:${N.col};--nt:${N.txt}">
+             <span class="nivel-n">Nivel ${numNivel(r)}</span><span class="nivel-t">${esc(N.n)}</span>
+           </div>`
+        : `<div class="nivel" style="--nc:#1b2e44;--nt:#ffffff"><span class="nivel-t">Sin respuesta</span></div>`}
+    ${escalera(r)}
+    <p class="tuya ${r?"":"nada"}">${r ? esc(r.disp) : "Se acabó el tiempo"}</p>
+    <p class="expl">${N ? esc(N.d) : "Le pasa a todo el mundo alguna vez."}</p>
+    ${r && r.coña ? `<p class="coña">${esc(r.coña)}</p>` : ``}
+    <div class="baja">
+      <b>+${pts} m</b>
+      <span>Llevas <strong>${mil(J.puntos)} m</strong> de ${FONDO}</span>
+    </div>
+    <div class="botonera">
+      <button class="btn" id="bSig">${J.i+1 < RONDAS ? "Siguiente pregunta" : "Ver mi iceberg"}</button>
+    </div>
+  </div>`;
+  $("#bSig").focus({preventScroll:true});
+  $("#bSig").addEventListener("click", () => { J.i++; if (J.i < RONDAS) ronda(); else final(); });
+}
+
+// los cinco niveles en fila, con el tuyo encendido
+function escalera(r){
+  const k = r ? NIVEL_DE_TIER[r.tier] : -1;
+  return `<ol class="escalera" aria-label="Nivel ${k+1} de 5">
+    ${NIVELES.map((N,i)=>`<li class="${i===k?"on":""}" style="--nc:${N.col}"><span>${i+1}</span></li>`).join("")}
+  </ol>`;
+}
+
+function final(){
+  paraReloj();
+  const metros = J.puntos;
+  profMeta = metros; fijaPines(J.res);
+  if (!J.revisita) Son.fondo();
+
+  pantalla = "final";
+  let est = guarda.get("est", {jugadas:0, racha:0, mejorRacha:0, mejor:0, ultima:null});
+  if (J.modo === "diaria" && !J.revisita && !hechoHoy()){
+    const [Y,M,D] = J.fecha.split("-").map(Number);
+    const ayer = new Date(Date.UTC(Y, M-1, D) - 864e5).toISOString().slice(0,10);
+    est.racha = est.ultima === ayer ? est.racha + 1 : 1;
+    est.mejorRacha = Math.max(est.mejorRacha, est.racha);
+    est.jugadas++; est.mejor = Math.max(est.mejor, J.puntos); est.ultima = J.fecha;
+    guarda.set("est", est);
+    guarda.set("hecho:"+J.fecha, {dia:J.dia, fecha:J.fecha, puntos:J.puntos, res:J.res});
+    guardaEnNube({dia:J.dia, fecha:J.fecha, puntos:J.puntos, res:J.res});
+  }
+  est = stats();
+
+  const emojis = J.res.map(r => nivel(r) ? nivel(r).e : FALLO).join("");
+  const compartir = (J.modo === "libre" ? "Sabihondo · libre" : "Sabihondo #" + J.dia)
+    + ` · ${mil(metros)} m 🧊\n${emojis}`;
+
+  escena.innerHTML = `
+  <div class="panel">
+    <p class="rotulo">${J.modo==="libre" ? "Partida libre" : "Reto nº "+J.dia} · has bajado</p>
+    <p class="hondura">${mil(metros)}<small>m</small></p>
+    <p class="apunte" style="margin-top:4px">${metros >= FONDO ? "Siete joyas. Has tocado el fondo del iceberg."
+      : metros < FLOTACION ? "Ni has llegado a mojarte. Mañana, más raro."
+      : `Te faltaron ${mil(FONDO - metros)} m para tocar el fondo.`}</p>
+    <ul class="tira">
+      ${J.res.map((r,i) => {
+        const N = nivel(r);
+        return `<li>
+          <span class="pt-c" style="background:${N ? N.col : "#1b2e44"}"></span>
+          <span>
+            <button class="pr ver" type="button" data-i="${i}" aria-expanded="false" aria-controls="todas-${i}">${esc(r.q)}<span class="flecha">Ver todas</span></button>
+            <span class="rs ${N?"":"falla"}">${N ? esc(r.disp) : "sin respuesta"}</span>
+            ${N ? `<span class="tag" style="--nc:${N.col};--nt:${N.txt}">Nivel ${numNivel(r)} · ${esc(N.n)}</span>` : ``}
+            ${r.joya && r.tier !== 5 ? `<span class="joya">La joya era: ${esc(r.joya)}</span>` : ``}
+          </span>
+          <span class="pt">${N ? N.pts : 0} m</span>
+          <div class="todas" id="todas-${i}" hidden></div>
+        </li>`;
+      }).join("")}
+    </ul>
+    <div class="marcador">
+      <div>Racha<b>${est.racha}</b></div>
+      <div>Mejor racha<b>${est.mejorRacha}</b></div>
+      <div>Partidas<b>${est.jugadas}</b></div>
+      <div>Récord<b>${mil(est.mejor)} m</b></div>
+    </div>
+    ${Cuenta.sb && !Cuenta.user && J.modo === "diaria" ? `<p class="apunte aviso-cuenta">Esta racha solo está guardada en este navegador.
+      <button class="enlace" id="bGuardar" type="button">Crea una cuenta con tu email</button> y la tendrás en cualquier móvil u ordenador.</p>` : ``}
+    <div class="botonera">
+      <button class="btn" id="bComp">Copiar resultado</button>
+      <button class="btn fantasma" id="bOtra">Partida libre</button>
+      <button class="btn fantasma" id="bIni">Inicio</button>
+      <span id="ok" class="copiado"></span>
+    </div>
+  </div>`;
+
+  escena.querySelectorAll(".ver").forEach(b => b.addEventListener("click", () => {
+    const i = +b.dataset.i, caja = $("#todas-"+i), abrir = caja.hidden;
+    if (abrir && !caja.innerHTML) caja.innerHTML = todasLas(J.res[i]);
+    caja.hidden = !abrir;
+    b.setAttribute("aria-expanded", String(abrir));
+  }));
+
+  $("#bComp").addEventListener("click", async () => {
+    try{ await navigator.clipboard.writeText(compartir); $("#ok").textContent = "copiado"; }
+    catch{ $("#ok").textContent = compartir.replace("\n"," "); }
+    setTimeout(()=>{ const o=$("#ok"); if(o) o.textContent=""; }, 2600);
+  });
+  $("#bGuardar")?.addEventListener("click", ()=>abreCuenta(true, "alta"));
+  $("#bOtra").addEventListener("click", ()=>{ Son.arranca(); J = nuevaPartida("libre"); ronda(); });
+  $("#bIni").addEventListener("click", portada);
+}
+
+/* todas las respuestas válidas de una pregunta, agrupadas por nivel */
+function todasLas(r){
+  const p = BANCO.find(b => b.q === r.q);
+  if (!p) return `<p class="mini">No se encuentra esta pregunta en la lista.</p>`;
+  const tuya = r.tier !== null ? norm(r.disp) : null;
+  return NIVELES.map((N,k) => {
+    const lista = p.t.flatMap((t,tier) => NIVEL_DE_TIER[tier] === k ? t.map(x => x[0]) : [])
+                     .sort((x,y) => x.localeCompare(y,"es"));
+    if (!lista.length) return "";
+    return `<div class="grupo">
+      <div class="grupo-cab"><span class="tag" style="--nc:${N.col};--nt:${N.txt};margin:0">Nivel ${k+1} · ${esc(N.n)}</span>
+        <span class="pt">+${N.pts} m · ${lista.length}</span></div>
+      <p class="resps">${lista.map(x => norm(x) === tuya
+          ? `<mark style="--nc:${N.col}">${esc(x)}</mark>` : esc(x)).join(" · ")}</p>
+    </div>`;
+  }).join("");
+}
+
+/* ═════════ cuenta (Supabase) ═════════ */
+const SB_URL = "https://uzvaolrnfovdgotyctbq.supabase.co";
+const SB_KEY = "sb_publishable_R5aIYMw1DXmvxTkxOAZBXw_oglbTIuu";   // clave publicable: pensada para ir en el navegador; la seguridad la ponen las políticas RLS
+const TABLA = "sabihondo_partidas";
+const Cuenta = { sb:null, user:null, partidas:null, modo:"entrar" };
+let pantalla = "portada";
+
+function iniciaCuenta(){
+  if (!window.supabase) { pintaBotonCuenta(); return; }
+  Cuenta.sb = window.supabase.createClient(SB_URL, SB_KEY);
+  Cuenta.sb.auth.onAuthStateChange((_ev, sesion) => {
+    const u = sesion?.user || null;
+    if ((u && u.id) === (Cuenta.user && Cuenta.user.id)) return;
+    Cuenta.user = u; Cuenta.partidas = null;
+    pintaBotonCuenta();
+    if (u) setTimeout(cargaPartidas, 0);          // fuera del callback, como pide supabase-js
+    else { if (pantalla === "portada") portada(); if (!$("#cuenta").hidden) abreCuenta(true); }
+  });
+  pintaBotonCuenta();
+}
+
+async function cargaPartidas(){
+  const sb = Cuenta.sb, uid = Cuenta.user?.id; if (!uid) return;
+  await subeLocales(uid);
+  const {data, error} = await sb.from(TABLA).select("fecha,dia,puntos,res").order("fecha", {ascending:false});
+  if (Cuenta.user?.id !== uid) return;
+  Cuenta.partidas = error ? [] : data;
+  if (error) console.warn("Sabihondo: no se pudieron leer las partidas", error);
+  pintaBotonCuenta();
+  if (pantalla === "portada") portada();
+  if (!$("#cuenta").hidden) abreCuenta(true);
+}
+
+// las partidas jugadas en este navegador antes de entrar se suben a la cuenta
+async function subeLocales(uid){
+  const filas = {};
+  try{
+    for (let i=0;i<localStorage.length;i++){
+      const k = localStorage.key(i), m = k && k.match(/^(?:sabihondo|krillon):hecho:(\d{4}-\d{2}-\d{2})$/);
+      if (!m) continue;
+      const h = JSON.parse(localStorage.getItem(k));
+      if (h && typeof h.puntos === "number") filas[m[1]] = {user_id:uid, fecha:m[1], dia:h.dia ?? numeroDia(m[1]), puntos:h.puntos, res:h.res || []};
+    }
+  }catch{}
+  const lista = Object.values(filas);
+  if (!lista.length) return;
+  const {error} = await Cuenta.sb.from(TABLA).upsert(lista, {onConflict:"user_id,fecha", ignoreDuplicates:true});
+  if (error) console.warn("Sabihondo: no se pudieron subir las partidas locales", error);
+}
+
+async function guardaEnNube(p){
+  if (!Cuenta.user) return;
+  if (Cuenta.partidas && !Cuenta.partidas.some(x => x.fecha === p.fecha)) Cuenta.partidas.unshift(p);
+  const {error} = await Cuenta.sb.from(TABLA).upsert([{user_id:Cuenta.user.id, ...p}], {onConflict:"user_id,fecha", ignoreDuplicates:true});
+  if (error) console.warn("Sabihondo: no se pudo guardar la partida", error);
+}
+
+const logueado = () => !!(Cuenta.user && Cuenta.partidas);
+function hechoHoy(){
+  const hoy = hoyMadrid();
+  if (logueado()) return Cuenta.partidas.find(p => p.fecha === hoy) || guarda.get("hecho:" + hoy, null);
+  return guarda.get("hecho:" + hoy, null);
+}
+function stats(){
+  if (!logueado()) return guarda.get("est", {jugadas:0, racha:0, mejorRacha:0, mejor:0, ultima:null});
+  const n = f => { const [y,m,d] = f.split("-").map(Number); return Date.UTC(y,m-1,d)/864e5; };
+  const dias = [...new Set(Cuenta.partidas.map(p => n(p.fecha)))].sort((a,b)=>a-b);
+  let mejorRacha = 0, tramo = 0;
+  dias.forEach((d,i) => { tramo = i && d === dias[i-1]+1 ? tramo+1 : 1; mejorRacha = Math.max(mejorRacha, tramo); });
+  const hoy = n(hoyMadrid()), ultimo = dias[dias.length-1];
+  const racha = dias.length && ultimo >= hoy-1 ? tramo : 0;
+  return {jugadas:dias.length, racha, mejorRacha, mejor:Math.max(0, ...Cuenta.partidas.map(p => p.puntos))};
+}
+
+function pintaBotonCuenta(){
+  const b = $("#bCuenta");
+  if (!Cuenta.sb){ b.hidden = true; return; }
+  b.hidden = false;
+  if (Cuenta.user){
+    b.textContent = (Cuenta.user.email || "?")[0].toUpperCase();
+    b.classList.add("dentro"); b.title = "Tu cuenta";
+  } else {
+    b.textContent = "Entrar"; b.classList.remove("dentro"); b.title = "Entrar o crear cuenta";
+  }
+}
+
+const errorEs = e => {
+  const m = (e && e.message || "").toLowerCase();
+  if (m.includes("invalid login")) return "El email o la contraseña no coinciden.";
+  if (m.includes("already registered") || m.includes("already been registered")) return "Ya hay una cuenta con ese email. Entra con tu contraseña.";
+  if (m.includes("password") && m.includes("6")) return "La contraseña necesita al menos 6 caracteres.";
+  if (m.includes("email") && m.includes("invalid")) return "Ese email no parece válido.";
+  if (m.includes("not confirmed")) return "Tienes que confirmar el email antes de entrar. Revisa tu correo.";
+  if (m.includes("rate") || m.includes("too many")) return "Demasiados intentos seguidos. Espera un minuto.";
+  return "No se ha podido: " + (e && e.message || "error desconocido");
+};
+
+function abreCuenta(abrir, modo){
+  const caja = $("#cuenta");
+  if (!abrir){ caja.hidden = true; caja.innerHTML = ""; return; }
+  if (modo) Cuenta.modo = modo;
+  caja.hidden = false;
+
+  if (Cuenta.user){
+    const est = stats(), ps = Cuenta.partidas;
+    caja.innerHTML = `
+    <div class="panel">
+      <h2>Tu cuenta</h2>
+      <p class="mini" id="cuentaEmail"></p>
+      <div class="marcador">
+        <div>Racha<b>${est.racha}</b></div>
+        <div>Mejor racha<b>${est.mejorRacha}</b></div>
+        <div>Partidas<b>${est.jugadas}</b></div>
+        <div>Récord<b>${mil(est.mejor)} m</b></div>
+      </div>
+      <h3>Tus partidas</h3>
+      ${!ps ? `<p class="mini">Cargando…</p>`
+        : !ps.length ? `<p class="mini">Aún no has jugado ningún reto con esta cuenta.</p>`
+        : `<ul class="historial">${ps.map(p => `<li>
+            <span class="h-dia">Nº ${esc(p.dia)}<small>${esc(p.fecha.split("-").reverse().slice(0,2).join("/"))}</small></span>
+            <span class="h-nv">${(p.res||[]).map(r => { const N = nivel(r);
+              return `<i style="background:${N ? N.col : "#1b2e44"}" title="${N ? "Nivel " + numNivel(r) : "Sin respuesta"}"></i>`; }).join("")}</span>
+            <span class="h-m">${mil(p.puntos)} m</span></li>`).join("")}</ul>`}
+      <div class="botonera">
+        <button class="btn" id="bCerrarC">Volver</button>
+        <button class="btn fantasma" id="bSalir">Cerrar sesión</button>
+      </div>
+    </div>`;
+    $("#cuentaEmail").textContent = "Has entrado como " + (Cuenta.user.email || "");
+    $("#bSalir").addEventListener("click", async () => { await Cuenta.sb.auth.signOut(); abreCuenta(false); });
+  } else {
+    const alta = Cuenta.modo === "alta";
+    caja.innerHTML = `
+    <div class="panel">
+      <h2>${alta ? "Crea tu cuenta" : "Entra en tu cuenta"}</h2>
+      <p class="mini">Con una cuenta, tu racha y todas tus partidas quedan guardadas y las ves desde cualquier móvil u ordenador. Las que ya has jugado en este navegador se suben solas.</p>
+      <div class="pestanas" role="tablist">
+        <button type="button" role="tab" id="tEntrar" aria-selected="${!alta}">Ya tengo cuenta</button>
+        <button type="button" role="tab" id="tAlta" aria-selected="${alta}">Crear cuenta</button>
+      </div>
+      <form id="fCuenta" class="form-cuenta">
+        <label for="cEmail">Email</label>
+        <input type="email" id="cEmail" autocomplete="email" required placeholder="tu@email.com">
+        <label for="cPass">Contraseña</label>
+        <input type="password" id="cPass" autocomplete="${alta ? "new-password" : "current-password"}" required minlength="6"
+               placeholder="${alta ? "mínimo 6 caracteres" : ""}">
+        <button class="btn" type="submit" id="bEnviar">${alta ? "Crear cuenta" : "Entrar"}</button>
+        <p class="aviso" id="cAviso" role="status"></p>
+      </form>
+      <div class="botonera"><button class="btn fantasma" id="bCerrarC">Volver</button></div>
+    </div>`;
+    $("#tEntrar").addEventListener("click", () => abreCuenta(true, "entrar"));
+    $("#tAlta").addEventListener("click", () => abreCuenta(true, "alta"));
+    $("#fCuenta").addEventListener("submit", async e => {
+      e.preventDefault();
+      const email = $("#cEmail").value.trim(), password = $("#cPass").value, aviso = $("#cAviso"), boton = $("#bEnviar");
+      boton.disabled = true; aviso.textContent = alta ? "Creando la cuenta…" : "Entrando…";
+      const {data, error} = alta
+        ? await Cuenta.sb.auth.signUp({email, password})
+        : await Cuenta.sb.auth.signInWithPassword({email, password});
+      boton.disabled = false;
+      if (error){ aviso.textContent = errorEs(error); return; }
+      if (alta && !data.session){ aviso.textContent = "Cuenta creada. Te hemos mandado un correo para confirmarla; ábrelo y luego entra aquí."; return; }
+      aviso.textContent = "";
+    });
+    $("#cEmail").focus();
+  }
+  $("#bCerrarC").addEventListener("click", () => abreCuenta(false));
+}
+$("#bCuenta").addEventListener("click", () => abreCuenta($("#cuenta").hidden));
+
+/* ═════════ ayuda ═════════ */
+function ayuda(abrir){
+  const caja = $("#ayuda");
+  if (!abrir){ caja.hidden = true; caja.innerHTML = ""; return; }
+  caja.hidden = false;
+  caja.innerHTML = `
+  <div class="panel">
+    <h2>Cómo se juega</h2>
+    <p class="mini">Te salen siete enunciados abiertos y escribes <b>una</b> respuesta a cada uno antes de que se acabe el tiempo. Todas las respuestas correctas cuentan. Lo que cambia es cuánta gente diría la tuya: cuanto menos, más metros bajas por el iceberg.</p>
+    <h3>Los cinco niveles</h3>
+    <ul class="escala">
+      ${NIVELES.map((N,i)=>`<li><span class="tag" style="--nc:${N.col};--nt:${N.txt};margin:0">Nivel ${i+1}</span>
+        <span><span class="n">${N.n}</span><span class="d">${esc(N.d)}</span></span>
+        <span class="p">+${N.pts} m</span></li>`).join("")}
+    </ul>
+    <p class="mini">De un iceberg solo asoma el 10 %. Aquí pasa igual: siete respuestas de superficie suman 70 m y te dejan justo en la línea de flotación.</p>
+    <h3>La trampa del listillo</h3>
+    <p class="mini">Hay respuestas «raras» que se le ocurren a todo el mundo a la vez: Teruel, el estribo, Tom Bombadil. Valen, pero cuentan como superficie.</p>
+    <h3>Solo cosas que se saben aquí</h3>
+    <p class="mini">No hace falta haberse criado fuera de España para ninguna pregunta. Hay temas que valen en cualquier sitio (frutas, huesos, colores), temas de aquí (provincias, tapas, ríos) y cultura global de verdad (Star Wars, mitología griega, la tabla periódica).</p>
+    <h3>Erratas</h3>
+    <p class="mini">Se perdonan. «brocoli» o «Velazquez» entran igual, porque se compara sin tildes y con margen de un par de letras.</p>
+    <h3>Lo que no está</h3>
+    <p class="mini">La lista tiene <b>${BANCO.length} preguntas</b> y <b>${mil(BANCO.reduce((s,p)=>s+p.t.reduce((a,t)=>a+t.length,0),0))} respuestas</b>. Si escribes algo correcto que no aparece, el juego te deja probar otra mientras quede tiempo. No has fallado, es que falta en la lista.</p>
+    <div class="botonera"><button class="btn" id="bCerrar">Volver</button></div>
+  </div>`;
+  caja.scrollTop = 0;
+  $("#bCerrar").focus({preventScroll:true});
+  $("#bCerrar").addEventListener("click", ()=>ayuda(false));
+}
+$("#bAyuda").addEventListener("click", ()=>ayuda($("#ayuda").hidden));
+addEventListener("keydown", e => { if (e.key === "Escape"){ ayuda(false); abreCuenta(false); } });
+
+const bs = $("#bSon");
+bs.setAttribute("aria-pressed", String(Son.activo()));
+bs.textContent = Son.activo() ? "♪" : "✕";
+bs.addEventListener("click", ()=>{ const on = Son.alterna(); bs.setAttribute("aria-pressed", String(on)); bs.textContent = on ? "♪" : "✕"; });
+
+/* ═════════ arranque ═════════ */
+dibujaIceberg();
+requestAnimationFrame(anima);
+portada();
+iniciaCuenta();
+document.fonts?.ready.then(() => mueveMarca());
+</script>
+</body>
+</html>
