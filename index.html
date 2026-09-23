@@ -591,6 +591,8 @@ function paraReloj(){ if (temporizador){ cancelAnimationFrame(temporizador); tem
 
 function ronda(){
   pantalla = "juego";
+  // partida nueva: el iceberg vuelve a la punta y sin las respuestas de la anterior
+  if (J.i === 0){ profMeta = 0; fijaPines([]); }
   responder();
 }
 
