@@ -4,13 +4,13 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
 <meta name="description" content="Reto diario: siete preguntas y, cuanto más nicho tu respuesta, más bajas por el iceberg.">
-<meta name="theme-color" content="#dcecf2">
+<meta name="theme-color" content="#eecedc">
 <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🧊</text></svg>">
 <style>:root{padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}[hidden]{display:none!important}</style>
 <title>Sabihondo</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,400..900&family=JetBrains+Mono:wght@400;600&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Arvo:wght@400;700&family=Nunito:wght@200..1000&family=Sixtyfour&display=swap">
 
 <style>
 /* ══ Sabihondo · identidad ══════════════════════════════════════
@@ -18,28 +18,27 @@
    y un iceberg en sección que se oscurece capa a capa.            */
 :root{
   color-scheme:dark;
-  --mar:#082442;          /* agua bajo la línea de flotación */
-  --fondo:#030d1b;        /* lo más hondo */
-  --cielo:#dcecf2;
-  --hielo:#f3f9fb;        /* el panel es una placa de hielo */
-  --tinta:#0a1f35;
+  --mar:#60aec7;          /* agua bajo la línea de flotación */
+  --fondo:#1e2f48;        /* lo más hondo */
+  --cielo:#eecedc;
+  --hielo:#ffffff;        /* la tarjeta */
+  --tinta:#102f51;
   --tinta-suave:#4a6378;
-  --linea:#c9dde6;
-  --boya:#ff6a1f;         /* naranja de rescate polar */
-  --boya-hondo:#d9500c;
+  --linea:#333738;
+  --boya:#e557cb;         /* acento */
+  --boya-hondo:#b04dad;   /* el acento como texto sobre la tarjeta */
+  --boya-tinta:#102f51;   /* texto encima del acento */
   --espuma:#e6f2f7;
   --niebla:#8fb0c4;
 
-  /* capas del iceberg, de la punta al fondo */
+  /* franjas del iceberg, de la punta al fondo */
   --c0:#ffffff; --c1:#d4eef8; --c2:#9dd6ec; --c3:#58abd6; --c4:#2d74ae; --c5:#173f7a;
 
-  /* rareza de cada respuesta */
-  --r0:#9aabbb; --r1:#e35d93; --r2:#4fbbe0; --r3:#2d84c9; --r4:#6a55d4; --r5:#ff6a1f;
-
+  --r-btn:2px; --r-panel:0px;
   --col:minmax(320px,44%);
-  --disp:"Archivo","Arial Narrow",system-ui,sans-serif;
-  --sans:"Archivo",system-ui,-apple-system,"Segoe UI",sans-serif;
-  --mono:"JetBrains Mono",ui-monospace,"SF Mono",Menlo,monospace;
+  --disp:"Arvo",Rockwell,Georgia,serif;
+  --sans:"Nunito",system-ui,-apple-system,"Segoe UI",sans-serif;
+  --mono:"Sixtyfour",ui-monospace,"SF Mono",Menlo,monospace;
 }
 *{box-sizing:border-box}
 html,body{height:100%}
@@ -47,7 +46,7 @@ body{margin:0;background:var(--fondo);color:var(--tinta);font-family:var(--sans)
   line-height:1.5;overflow:hidden;-webkit-font-smoothing:antialiased;font-variation-settings:"wdth" 100}
 button{font:inherit;color:inherit;background:none;border:none;cursor:pointer}
 :focus-visible{outline:2px solid var(--boya);outline-offset:3px;border-radius:2px}
-::selection{background:var(--boya);color:#fff}
+::selection{background:var(--boya);color:var(--boya-tinta)}
 
 #app{height:100%;display:grid;grid-template-columns:var(--col) minmax(0,1fr);grid-template-rows:auto 1fr}
 
@@ -55,7 +54,7 @@ button{font:inherit;color:inherit;background:none;border:none;cursor:pointer}
 #barra{grid-column:1 / -1;display:flex;align-items:center;gap:14px;
   padding:10px 18px;padding-top:calc(10px + env(safe-area-inset-top,0px));
   background:var(--cielo);color:var(--tinta);border-bottom:1px solid var(--linea)}
-#marca{font-family:var(--disp);font-weight:850;font-size:20px;letter-spacing:-.01em;
+#marca{font-family:var(--disp);font-weight:850;font-size:20px;letter-spacing:0;
   font-variation-settings:"wdth" 120}
 #marca em{font-style:normal;color:var(--boya-hondo)}
 #dia{font-family:var(--mono);font-size:11px;color:var(--tinta-suave);letter-spacing:.08em;
@@ -73,12 +72,12 @@ button{font:inherit;color:inherit;background:none;border:none;cursor:pointer}
 /* ── escena ──────────────────────────────────────────── */
 #escena{overflow-y:auto;overscroll-behavior:contain;padding:28px 24px 32px;display:flex;flex-direction:column;
   background:linear-gradient(180deg,var(--mar) 0%,var(--fondo) 100%)}
-.panel{width:100%;max-width:560px;margin:auto;background:var(--hielo);border-radius:6px;padding:28px 30px 26px;
+.panel{width:100%;max-width:560px;margin:auto;background:var(--hielo);border-radius:var(--r-panel);padding:28px 30px 26px;
   box-shadow:0 30px 60px -30px rgba(0,0,0,.7)}
 .rotulo{font-family:var(--mono);font-size:11px;letter-spacing:.14em;text-transform:uppercase;
   color:var(--tinta-suave);margin:0 0 6px}
 h1{font-family:var(--disp);font-weight:900;font-size:clamp(42px,7vw,68px);line-height:.9;margin:0;
-  letter-spacing:-.025em;font-variation-settings:"wdth" 125;color:var(--tinta)}
+  letter-spacing:0;font-variation-settings:"wdth" 125;color:var(--tinta)}
 h1 em{font-style:normal;color:var(--boya)}
 .lema{font-size:18px;margin:16px 0 0;text-wrap:pretty;max-width:44ch}
 .lema b{color:var(--boya-hondo)}
@@ -93,8 +92,8 @@ h1 em{font-style:normal;color:var(--boya)}
 
 .botonera{display:flex;flex-wrap:wrap;gap:10px;margin-top:24px;align-items:center}
 .btn{font-family:var(--disp);font-weight:750;font-size:15px;letter-spacing:.02em;font-variation-settings:"wdth" 110;
-  padding:12px 22px;border-radius:999px;background:var(--boya);color:#fff;border:1px solid var(--boya);transition:.15s}
-.btn:hover{background:var(--boya-hondo);border-color:var(--boya-hondo)}
+  padding:12px 22px;border-radius:var(--r-btn);background:var(--boya);color:var(--boya-tinta);border:1px solid var(--boya);transition:.15s}
+.btn:hover{filter:brightness(.92)}
 .btn.fantasma{background:none;color:var(--tinta);border-color:var(--linea)}
 .btn.fantasma:hover{border-color:var(--tinta-suave);background:#fff}
 .racha{font-family:var(--mono);font-size:11px;color:var(--tinta-suave);letter-spacing:.08em;text-transform:uppercase}
@@ -105,13 +104,13 @@ h1 em{font-style:normal;color:var(--boya)}
   color:var(--tinta-suave);border-bottom:1px solid var(--linea);padding-bottom:11px;margin-bottom:20px}
 .cabecera .m{color:var(--boya-hondo);font-weight:600;font-variant-numeric:tabular-nums}
 .enunciado{font-family:var(--disp);font-weight:800;font-size:clamp(24px,3.6vw,34px);line-height:1.1;
-  margin:0;text-wrap:balance;font-variation-settings:"wdth" 105;letter-spacing:-.01em}
+  margin:0;text-wrap:balance;font-variation-settings:"wdth" 105;letter-spacing:0}
 
 form{margin-top:22px;display:flex;gap:9px;flex-wrap:wrap}
-input[type=text],input[type=email],input[type=password]{flex:1 1 180px;min-width:0;background:#fff;border:1.5px solid var(--linea);border-radius:999px;
+input[type=text],input[type=email],input[type=password]{flex:1 1 180px;min-width:0;background:#fff;border:1.5px solid var(--linea);border-radius:var(--r-btn);
   color:var(--tinta);padding:13px 18px;font-family:var(--sans);font-size:17px;color-scheme:light}
 input::placeholder{color:#8aa0b1}
-input[type=text]:focus,input[type=email]:focus,input[type=password]:focus{outline:none;border-color:var(--boya);box-shadow:0 0 0 3px rgba(255,106,31,.16)}
+input[type=text]:focus,input[type=email]:focus,input[type=password]:focus{outline:none;border-color:var(--boya);box-shadow:0 0 0 3px color-mix(in srgb,var(--boya) 22%,transparent)}
 .mecha{height:4px;background:var(--linea);border-radius:2px;overflow:hidden;margin-top:16px}
 .mecha i{display:block;height:100%;background:var(--r3);transform-origin:left;transition:transform .1s linear,background .3s}
 .mecha.urge i{background:var(--boya)}
@@ -125,7 +124,7 @@ input[type=text]:focus,input[type=email]:focus,input[type=password]:focus{outlin
   border:1px solid var(--linea)}
 .chip i{width:10px;height:10px;border-radius:50%;display:block}
 .tuya{font-family:var(--disp);font-weight:850;font-size:clamp(30px,5vw,42px);line-height:1.05;margin:14px 0 0;
-  font-variation-settings:"wdth" 110;letter-spacing:-.015em}
+  font-variation-settings:"wdth" 110;letter-spacing:0}
 .tuya.nada{color:var(--tinta-suave)}
 .coña{color:var(--tinta-suave);font-size:14px;font-style:italic;margin:8px 0 0;max-width:46ch;text-wrap:pretty}
 .baja{display:flex;align-items:baseline;gap:14px;flex-wrap:wrap;margin-top:18px;padding-top:14px;border-top:1px solid var(--linea)}
@@ -150,10 +149,10 @@ input[type=text]:focus,input[type=email]:focus,input[type=password]:focus{outlin
 .cuenta-btn{height:34px;min-width:34px;padding:0 14px;border-radius:999px;background:var(--tinta);color:#fff;
   font-family:var(--disp);font-weight:750;font-size:14px;font-variation-settings:"wdth" 110;transition:.15s}
 .cuenta-btn:hover{background:var(--boya-hondo)}
-.cuenta-btn.dentro{padding:0;width:34px;background:var(--boya);font-size:15px}
+.cuenta-btn.dentro{padding:0;width:34px;background:var(--boya);color:var(--boya-tinta);font-size:15px}
 .pestanas{display:grid;grid-template-columns:1fr 1fr;gap:4px;background:#fff;border:1px solid var(--linea);
-  border-radius:999px;padding:4px;margin-top:18px}
-.pestanas button{border-radius:999px;padding:8px 10px;font-weight:650;font-size:14px;color:var(--tinta-suave)}
+  border-radius:var(--r-btn);padding:4px;margin-top:18px}
+.pestanas button{border-radius:var(--r-btn);padding:8px 10px;font-weight:650;font-size:14px;color:var(--tinta-suave)}
 .pestanas button[aria-selected="true"]{background:var(--tinta);color:#fff}
 .form-cuenta{display:grid;gap:6px;margin-top:16px}
 .form-cuenta label{font-family:var(--mono);font-size:11px;letter-spacing:.1em;text-transform:uppercase;color:var(--tinta-suave);margin-top:6px}
@@ -171,7 +170,7 @@ input[type=text]:focus,input[type=email]:focus,input[type=password]:focus{outlin
 
 /* ── resultado ───────────────────────────────────────── */
 .hondura{font-family:var(--disp);font-weight:900;font-size:clamp(56px,11vw,92px);line-height:.88;margin:6px 0 0;
-  font-variant-numeric:tabular-nums;font-variation-settings:"wdth" 118;letter-spacing:-.03em}
+  font-variant-numeric:tabular-nums;font-variation-settings:"wdth" 118;letter-spacing:0}
 .hondura small{font-size:.32em;color:var(--tinta-suave);font-weight:600;margin-left:6px;letter-spacing:0}
 .capa-final{font-family:var(--disp);font-weight:800;font-size:20px;margin:10px 0 0;color:var(--boya-hondo);
   font-variation-settings:"wdth" 110}
@@ -269,7 +268,7 @@ const NIVELES = [
   {n:"Conocido",   pts:30,  col:"#2fb5a2", txt:"#ffffff", e:"🟩", d:"No es lo primero que sale, pero casi todo el mundo lo sabe."},
   {n:"Raro",       pts:60,  col:"#2f7fd6", txt:"#ffffff", e:"🟦", d:"Aquí ya hay que haberse fijado. Mucha gente no caería."},
   {n:"Muy raro",   pts:85,  col:"#7b4fd6", txt:"#ffffff", e:"🟪", d:"Esto es de alguien que sabe del tema de verdad."},
-  {n:"Sabihondo",  pts:100, col:"#ff6a1f", txt:"#ffffff", e:"🟧", d:"Casi nadie lo sabe. Es la joya del día."}
+  {n:"Sabihondo",  pts:100, col:"#e5484d", txt:"#ffffff", e:"🟧", d:"Casi nadie lo sabe. Es la joya del día."}
 ];
 // cada respuesta guarda su nivel en `nv` (0-4); las partidas antiguas traían `tier` (0-5, con el «listillo»)
 const NIVEL_ANTIGUO = [0,0,1,2,3,4];
@@ -393,12 +392,13 @@ function dibujaIceberg(){
   svg.innerHTML = "";
   const defs = el("defs",{},svg);
   const gm = el("linearGradient",{id:"gMar",x1:0,y1:0,x2:0,y2:1},defs);
-  el("stop",{offset:0,"stop-color":"#0d3a63"},gm);
-  el("stop",{offset:.45,"stop-color":"#082442"},gm);
-  el("stop",{offset:1,"stop-color":"#030d1b"},gm);
+  const tk = n => getComputedStyle(document.documentElement).getPropertyValue(n).trim();
+  el("stop",{offset:0,"stop-color":tk("--mar")},gm);
+  el("stop",{offset:.45,"stop-color":tk("--mar")},gm);
+  el("stop",{offset:1,"stop-color":tk("--fondo")},gm);
   const gc = el("linearGradient",{id:"gCielo",x1:0,y1:0,x2:0,y2:1},defs);
-  el("stop",{offset:0,"stop-color":"#c7e1ec"},gc);
-  el("stop",{offset:1,"stop-color":"#eef6f9"},gc);
+  el("stop",{offset:0,"stop-color":tk("--cielo")},gc);
+  el("stop",{offset:1,"stop-color":tk("--cielo")},gc);
 
   const yf = y(FLOTACION);
   el("rect",{x:0,y:0,width:W,height:yf,fill:"url(#gCielo)"},svg);
@@ -447,11 +447,11 @@ function dibujaIceberg(){
   // grupo de pines y marcador
   el("g",{id:"pines"},svg);
   const mk = el("g",{id:"marca-tu"},svg);
-  el("line",{x1:0,y1:0,x2:W,y2:0,stroke:"#ff6a1f","stroke-width":2},mk);
-  el("circle",{cx:x(.5),cy:0,r:6,fill:"#ff6a1f",stroke:"#ffffff","stroke-width":2},mk);
+  el("line",{x1:0,y1:0,x2:W,y2:0,stroke:tk("--boya"),"stroke-width":2},mk);
+  el("circle",{cx:x(.5),cy:0,r:6,fill:tk("--boya"),stroke:"#ffffff","stroke-width":2},mk);
   const chip = el("g",{id:"chip"},mk);
-  el("rect",{x:0,y:-11,width:10,height:22,rx:11,fill:"#ff6a1f"},chip);
-  el("text",{x:0,y:4,fill:"#ffffff","font-size":estrecho?10:11,"font-weight":600},chip);
+  el("rect",{x:0,y:-11,width:10,height:22,rx:11,fill:tk("--boya")},chip);
+  el("text",{x:0,y:4,fill:tk("--boya-tinta"),"font-size":estrecho?10:11,"font-weight":600},chip);
 
   pintaPines();
   mueveMarca();
