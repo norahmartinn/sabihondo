@@ -19,7 +19,8 @@ El fondo está a 700 m. De un iceberg solo asoma el 10 %, y aquí igual: siete r
 ## Cómo está hecho
 
 - Un solo `index.html` sin build: HTML, CSS y JavaScript a mano. El iceberg es un SVG que se dibuja según el tamaño de pantalla.
-- Las preguntas y respuestas salen de `datos/banco.csv` (73 preguntas, unas 5.000 respuestas con su nivel y la fuente de cada lista). `python3 scripts/banco.py` lo convierte y lo mete en `index.html`: arregla enunciados y añade alias (por ejemplo, "Asturias" para "Principado de Asturias" o "Hamilton" para "Lewis Hamilton").
+- Las preguntas y respuestas salen de `datos/banco.csv`. `python3 scripts/banco.py` lo convierte y lo mete en `index.html`: arregla enunciados, añade alias (por ejemplo, "Asturias" para "Principado de Asturias" o "Bruselas" para "Brussels") y aplica `scripts/extras.py` y `scripts/nuevas.py`, que corrigen niveles de las categorías cerradas y añaden respuestas que faltaban. Cada cambio queda listado en `datos/revision_claude.csv` para revisarlo.
+- Si el juego rechaza una respuesta que alguien cree correcta, puede avisar con un botón y queda guardada en la tabla `sabihondo_sugerencias` para revisarla.
 - Las preguntas del día salen de un generador pseudoaleatorio con semilla fija por fecha (hora de Madrid), así que todo el mundo recibe las mismas.
 - Las respuestas se comparan sin tildes y con margen para erratas (distancia de Levenshtein).
 - Cuentas con email y contraseña en **Supabase**. La racha y las puntuaciones de cada día se guardan en la tabla `sabihondo_partidas`, protegida con RLS: cada persona solo puede leer y guardar sus propias partidas. Sin cuenta, todo se guarda en el navegador, y esas partidas se suben al crear una.

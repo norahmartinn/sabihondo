@@ -7,7 +7,9 @@ Formato de salida: [{q, t:[nivel1..nivel5]}], cada respuesta es [texto, [claves]
 Las claves van normalizadas igual que en el juego (minúsculas, sin tildes,
 sin artículos ni preposiciones cortas y sin espacios).
 """
-import csv, json, re, unicodedata, collections, pathlib
+import csv, json, re, sys, unicodedata, collections, pathlib
+sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent))
+from extras import NIVELES, NUEVAS, ALIAS_CAT
 
 RAIZ = pathlib.Path(__file__).resolve().parent.parent
 CSV = RAIZ / "datos" / "banco.csv"
@@ -93,7 +95,7 @@ def principal():
     for f in filas:
         cats.setdefault(int(f["ID categoría"]), []).append(f)
 
-    banco = []; duplicadas = []
+    banco = []; duplicadas = []; cambios = []; añadidas = []
     for cid, fs in cats.items():
         q = PREGUNTAS.get(cid, fs[0]["Pregunta"]).rstrip(". ")
         niveles = [[] for _ in range(5)]
@@ -101,13 +103,22 @@ def principal():
         for f in fs:
             texto = f["Respuesta canónica"].strip()
             nv = int(f["Nivel"]) - 1
+            reglas = NIVELES.get(cid)
+            if reglas:
+                nuevo = next((n for n, ns in reglas.items() if n != "resto" and texto in ns), reglas["resto"])
+                if nuevo - 1 != nv: cambios.append((q, texto, nv + 1, nuevo))
+                nv = nuevo - 1
             if any(texto == e[0] for e in entradas):
                 continue                    # respuesta repetida en la misma pregunta
             claves = [clave(texto)]
             alias = ALIAS_FIJOS.get(texto, f["Alias aceptados"].split(";"))
+            alias = alias + ALIAS_CAT.get(cid, {}).get(texto, "").split(";")
             claves += [clave(x) for x in alias if x.strip()]
             claves += [clave(a) for a in ALIAS.get(texto, [])]
             if f.get("Clave normalizada") and texto not in ALIAS_FIJOS: claves.append(f["Clave normalizada"].strip())
+            m = re.match(r"^(.*?)\s*\((.+)\)\s*$", texto)
+            if m: claves += [clave(m.group(1)), clave(m.group(2))]
+            if texto.lower().startswith("the "): claves.append(clave(texto[4:]))
             ws = palabras(texto)
             pref = PREFIJOS.get(cid)
             if pref:
@@ -115,12 +126,31 @@ def principal():
                 while i < len(ws)-1 and ws[i] in pref: i += 1
                 if i: claves.append("".join(ws[i:]))
             claves = [c for c in dict.fromkeys(claves) if c]
-            entradas.append([texto, nv, claves, ws])
+            entradas.append([texto, nv, claves, ws, "csv"])
+
+        for linea in NUEVAS.get(cid, "").strip().splitlines():
+            if not linea.strip(): continue
+            partes = linea.split("|")
+            nvn, texto = int(partes[0]) - 1, partes[1].strip()
+            if any(texto == e[0] for e in entradas): continue
+            alias = partes[2].split(";") if len(partes) > 2 else []
+            claves = [clave(texto)] + [clave(a) for a in alias if a.strip()]
+            m = re.match(r"^(.*?)\s*\((.+)\)\s*$", texto)
+            if m: claves += [clave(m.group(1)), clave(m.group(2))]
+            entradas.append([texto, nvn, [c for c in dict.fromkeys(claves) if c], palabras(texto), "claude"])
 
         # claves explícitas: la primera respuesta que la reclama se la queda
-        duenos = {}
+        duenos = {}; por_texto = {}
         for e in entradas:
+            if e[4] == "claude":
+                previo = next((duenos[c] for c in e[2] if c in duenos), None)
+                if previo:                      # ya estaba con otro nombre: sus formas pasan a ser alias
+                    destino = por_texto[previo]
+                    destino[2] += [c for c in e[2] if c not in duenos]
+                    for c in e[2]: duenos.setdefault(c, previo)
+                    e[2] = []; e[4] = "fusionada"; continue
             e[2] = [c for c in e[2] if duenos.setdefault(c, e[0]) == e[0]]
+            por_texto[e[0]] = e
         # nombre o apellido suelto, solo si no se repite en la pregunta
         if cid in PERSONAS:
             cuenta = collections.Counter(w for e in entradas if len(e[3]) > 1 for w in {e[3][0], e[3][-1]})
@@ -129,12 +159,25 @@ def principal():
                 for w in {e[3][0], e[3][-1]}:
                     if len(w) >= 4 and cuenta[w] == 1 and w not in NO_SUELTAS and w not in duenos:
                         duenos[w] = e[0]; e[2].append(w)
-        for texto, nv, claves, _ in entradas:
+        for texto, nv, claves, _, origen in entradas:
+            if origen == "claude" and claves: añadidas.append((q, texto, nv + 1))
+            if origen == "fusionada": continue
             if not claves:                  # la misma respuesta escrita de otra forma: ya está en el banco
                 duplicadas.append(f"{q}: {texto}"); continue
             niveles[nv].append([texto, claves])
         banco.append({"q": q, "t": niveles})
 
+    for cid in (1, 2, 3, 5, 6, 7, 8, 15, 16, 17, 18):
+        nombres = {f["Respuesta canónica"].strip() for f in cats[cid]} | {l.split("|")[1] for l in NUEVAS.get(cid, "").splitlines() if "|" in l}
+        for n, ns in NIVELES[cid].items():
+            if n == "resto": continue
+            for x in ns:
+                if x not in nombres: print(f"  aviso: «{x}» no está en la categoría {cid}")
+    with open(RAIZ / "datos" / "revision_claude.csv", "w", encoding="utf-8", newline="") as fh:
+        w = csv.writer(fh); w.writerow(["Qué", "Pregunta", "Respuesta", "Nivel CSV", "Nivel en el juego"])
+        for q, t, a, n in cambios: w.writerow(["nivel cambiado", q, t, a, n])
+        for q, t, n in añadidas: w.writerow(["respuesta añadida", q, t, "", n])
+    print(f"{len(cambios)} niveles cambiados, {len(añadidas)} respuestas añadidas (datos/revision_claude.csv)")
     js = "const BANCO=" + json.dumps(banco, ensure_ascii=False, separators=(",", ":")) + ";"
     html = HTML.read_text(encoding="utf-8")
     i = html.index("const BANCO="); j = html.index("</script>", i)
