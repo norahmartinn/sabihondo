@@ -131,6 +131,10 @@ h1 em{font-style:normal;color:var(--boya)}
 .puntos i.on{width:26px;border-radius:999px;background:var(--boya)}
 .tuto .botonera{justify-content:space-between}
 .btn.grande{font-size:20px;padding:20px 34px;flex:1 1 auto;justify-content:center}
+.tuto-fin{flex:1;display:grid;gap:10px;justify-items:center;text-align:center}
+.tuto-fin .btn{width:100%}
+.tuto-fin .mini{margin:0}
+.tuto-fin .enlace{font-size:15px;color:var(--tinta-suave);margin-top:4px}
 
 /* ── ronda ───────────────────────────────────────────── */
 .cabecera{display:flex;justify-content:space-between;align-items:baseline;gap:12px;
@@ -756,7 +760,6 @@ function portada(){
     <div class="botonera">
       ${hecho ? `<button class="btn" id="bVer">Ver tu iceberg de hoy</button>`
               : `<button class="btn" id="bJugar">Empezar a bajar <span aria-hidden="true">→</span></button>`}
-      <button class="btn fantasma" id="bLibre">Partida libre</button>
       ${est.racha ? `<span class="racha">Racha: ${est.racha} ${est.racha>1?"días":"día"}</span>` : ``}
     </div>
     ${hecho ? `<p class="apunte" style="margin-top:16px">Hoy ya has bajado <b>${mil(hecho.puntos)} m</b>. El siguiente reto sale a medianoche.</p>` : ``}
@@ -764,7 +767,6 @@ function portada(){
 
   $("#bJugar")?.addEventListener("click", e => empieza("diaria", e.currentTarget));
   $("#bVer")?.addEventListener("click", () => { J = {modo:"diaria", ...hecho, revisita:true}; final(); });
-  $("#bLibre").addEventListener("click", e => empieza("libre", e.currentTarget));
 }
 
 /* ═════════ tutorial: tres pasos la primera vez que se abre el juego ═════════ */
@@ -811,6 +813,7 @@ function tutorial(paso = 0){
   pantalla = "tutorial"; soloTutorial(true);
   profMeta = 0; fijaPines([]);
   const P = PASOS[paso], ultimo = paso === PASOS.length - 1, hecho = hechoHoy();
+  const ofreceCuenta = ultimo && !hecho && Cuenta.sb && !Cuenta.user;   // al acabar: cuenta en grande, invitado en pequeño
   escena.innerHTML = `
   <div class="panel tuto">
     <p class="tuto-paso">Cómo se juega · ${paso+1} de ${PASOS.length}</p>
@@ -818,7 +821,13 @@ function tutorial(paso = 0){
     <h2>${P.t}</h2>
     <p class="lema">${P.p}</p>
     <div class="botonera">
-      ${ultimo ? `<button class="btn grande" id="bTuto">${hecho ? "Volver al inicio" : `Empezar la partida de hoy <span aria-hidden="true">→</span>`}</button>`
+      ${ultimo ? (ofreceCuenta
+          ? `<div class="tuto-fin">
+               <button class="btn grande" id="bTutoCuenta">Crear una cuenta <span aria-hidden="true">→</span></button>
+               <p class="mini">Guarda tu racha y sales con tu apodo si haces el récord del día.</p>
+               <button class="enlace" id="bTuto" type="button">Entrar como invitado</button>
+             </div>`
+          : `<button class="btn grande" id="bTuto">${hecho ? "Volver al inicio" : `Empezar la partida de hoy <span aria-hidden="true">→</span>`}</button>`)
                : `<span class="puntos" aria-hidden="true">${PASOS.map((_,i) => `<i class="${i===paso?"on":""}"></i>`).join("")}</span>
                   <span style="display:flex;gap:10px;align-items:center">
                     <button class="enlace" id="bSaltar" type="button">Saltar</button>
@@ -828,12 +837,13 @@ function tutorial(paso = 0){
   </div>`;
   const visto = () => guarda.set("tutorial", true);
   $("#bSaltar")?.addEventListener("click", () => { visto(); portada(); });
+  $("#bTutoCuenta")?.addEventListener("click", () => { visto(); portada(); abreCuenta(true, "alta"); });
   $("#bTuto").addEventListener("click", e => {
     if (!ultimo) return tutorial(paso + 1);
     visto();
     if (hecho) portada(); else empieza("diaria", e.currentTarget);
   });
-  $("#bTuto").focus({preventScroll:true});
+  ($("#bTutoCuenta") || $("#bTuto")).focus({preventScroll:true});
 }
 
 let temporizador = null;
@@ -1019,7 +1029,6 @@ function final(){
       <button class="enlace" id="bGuardar" type="button">Crea una cuenta con tu email</button> y la tendrás en cualquier móvil u ordenador.</p>` : ``}
     <div class="botonera">
       <button class="btn" id="bComp">Copiar resultado</button>
-      <button class="btn fantasma" id="bOtra">Partida libre</button>
       <button class="btn fantasma" id="bIni">Inicio</button>
       <span id="ok" class="copiado"></span>
     </div>
@@ -1041,7 +1050,6 @@ function final(){
     setTimeout(()=>{ const o=$("#ok"); if(o) o.textContent=""; }, 2600);
   });
   $("#bGuardar")?.addEventListener("click", ()=>abreCuenta(true, "alta"));
-  $("#bOtra").addEventListener("click", e => empieza("libre", e.currentTarget));
   $("#bIni").addEventListener("click", portada);
 }
 
