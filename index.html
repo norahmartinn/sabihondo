@@ -98,6 +98,11 @@ h1 em{font-style:normal;color:var(--boya)}
 .racha{font-family:var(--sans);font-size:13.5px;color:var(--tinta-suave);}
 
 /* ── tutorial ────────────────────────────────────────── */
+/* mientras dura, solo se ve el recuadro: el iceberg se guarda para cuando empieza la partida */
+#app.solo-tutorial #svg{visibility:hidden}
+#app.solo-tutorial #hielo{background:linear-gradient(180deg,var(--cielo) 0 30%,var(--mar) 30%,var(--fondo) 100%)}
+#app.solo-tutorial #escena{grid-column:1 / -1;padding-inline:20px}
+#app.solo-tutorial .panel{max-width:720px;padding:40px 48px 42px}
 .tuto-paso{font-size:14px;font-weight:700;color:var(--tinta-suave);margin:0 0 14px}
 .tuto h2{font-size:clamp(28px,3.6vw,40px);margin:22px 0 0;text-wrap:balance}
 .tuto .lema{margin-top:10px;font-size:18px}
@@ -282,6 +287,8 @@ h3{font-family:var(--sans);font-size:13.5px;color:var(--boya-hondo);
   .btn{padding:14px 20px;font-size:16px}
   .btn.grande{font-size:17px;padding:18px 16px;gap:8px}
   .demo{padding:26px 16px 16px}
+  #app.solo-tutorial #escena{padding-inline:14px}
+  #app.solo-tutorial .panel{padding:26px 20px 26px}
   .demo .enunciado,.demo-fila .r,.demo-fila .m{font-size:20px}
 }
 @media (prefers-reduced-motion:reduce){*{animation-duration:.01ms!important;transition-duration:.01ms!important}}
@@ -729,7 +736,7 @@ const cabecera = () => `
   </div>`;
 
 function portada(){
-  pantalla = "portada";
+  pantalla = "portada"; soloTutorial(false);
   const est = stats();
   const hecho = hechoHoy();
   profMeta = 0; fijaPines([]); pintaRecord();
@@ -794,8 +801,14 @@ const PASOS = [
       <text x="500" y="174" text-anchor="end" font-family="Sen,sans-serif" font-size="12.5" font-weight="600" fill="#fff">700 m</text>
     </svg></div>` }
 ];
+function soloTutorial(si){
+  const app = $("#app");
+  if (app.classList.contains("solo-tutorial") === si) return;
+  app.classList.toggle("solo-tutorial", si);
+  dibujaIceberg();                       // la tarjeta cambia de sitio y el iceberg se recoloca
+}
 function tutorial(paso = 0){
-  pantalla = "tutorial";
+  pantalla = "tutorial"; soloTutorial(true);
   profMeta = 0; fijaPines([]);
   const P = PASOS[paso], ultimo = paso === PASOS.length - 1, hecho = hechoHoy();
   escena.innerHTML = `
@@ -827,7 +840,7 @@ let temporizador = null;
 function paraReloj(){ if (temporizador){ cancelAnimationFrame(temporizador); temporizador = null; } }
 
 function ronda(){
-  pantalla = "juego";
+  pantalla = "juego"; soloTutorial(false);
   // partida nueva: el iceberg vuelve a la punta y sin las respuestas de la anterior
   if (J.i === 0){ profMeta = 0; fijaPines([]); pintaRecord(); }
   responder();
