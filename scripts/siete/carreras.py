@@ -54,10 +54,13 @@ ALIAS = {
  "Ingeniería de Minas": ["Minas"], "Náutica y Transporte Marítimo": ["Náutica"],
  "Cine": ["Cinematografía"], "Diseño de Moda": ["Moda"],
  "Negocios Internacionales": ["International Business", "Negocios"],
+ "Economía y Negocios Internacionales": ["ENI"],
 }
 
 # Grados que existen y el registro lista con otro nombre o dentro de un doble grado: (nombre, universidades)
 A_MANO = [("Economía y Negocios Internacionales", 1)]
+# Niveles decididos a mano por Norah, por encima del recuento
+NIVEL_FIJO = {"Economía y Negocios Internacionales": 3}
 
 # Carreras de toda la vida que pocas universidades ofrecen (plazas limitadas, facultades caras).
 # El recuento las dejaría como raras y no lo son: se quedan como mucho en nivel 2.
@@ -80,7 +83,8 @@ for n, c in cuenta.items():
 al = {clave(k): v for k, v in ALIAS.items()}
 sin = [k for k in ALIAS if clave(k) not in grupos]
 clasicas = {clave(c) for c in CLASICAS}
-filas = [(n, al.get(k, []), min(nivel_por_umbral(c, [45, 25, 10, 3]), 2 if k in clasicas else 5), c)
+fijo = {clave(k): v for k, v in NIVEL_FIJO.items()}
+filas = [(n, al.get(k, []), fijo.get(k) or min(nivel_por_umbral(c, [45, 25, 10, 3]), 2 if k in clasicas else 5), c)
          for k, (n, c) in grupos.items()]
 guarda("carreras", filas, "universidades_que_lo_ofrecen")
 print("alias sin grado en el registro:", sin)
