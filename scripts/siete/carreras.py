@@ -53,7 +53,11 @@ ALIAS = {
  "Ingeniería Naval y Oceánica": ["Ingeniería Naval", "Naval"],
  "Ingeniería de Minas": ["Minas"], "Náutica y Transporte Marítimo": ["Náutica"],
  "Cine": ["Cinematografía"], "Diseño de Moda": ["Moda"],
+ "Negocios Internacionales": ["International Business", "Negocios"],
 }
+
+# Grados que existen y el registro lista con otro nombre o dentro de un doble grado: (nombre, universidades)
+A_MANO = [("Economía y Negocios Internacionales", 1)]
 
 # Carreras de toda la vida que pocas universidades ofrecen (plazas limitadas, facultades caras).
 # El recuento las dejaría como raras y no lo son: se quedan como mucho en nivel 2.
@@ -64,6 +68,8 @@ CLASICAS = ["Farmacia", "Veterinaria", "Fundamentos de la Arquitectura", "Bellas
 cuenta = collections.Counter()
 with open(FUENTES / "grados_ruct.csv", encoding="utf-8") as f:
     for cod, titulo, uni in csv.reader(f): cuenta[nombre(titulo)] += 1
+
+for n, c in A_MANO: cuenta[n] += c
 
 # juntar variantes que solo cambian en mayúsculas o tildes
 grupos = {}

@@ -368,7 +368,7 @@ h3{font-family:var(--sans);font-size:13.5px;color:var(--boya-hondo);
 </div>
 <div id="ayuda" hidden></div>
 <div id="cuenta" class="capa" hidden></div>
-<script>const PREGUNTAS=[{"q":"Nombra algo que hay en una boda","n":213},{"q":"Nombra una marca de cerveza","n":2847},{"q":"Nombra una marca de relojes","n":409},{"q":"Nombra una canción de Taylor Swift","n":275},{"q":"Nombra un apellido español","n":82621},{"q":"Nombra una carrera universitaria","n":723},{"q":"Nombra la capital de un país","n":210}];</script><script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.45.4/dist/umd/supabase.min.js"></script>
+<script>const PREGUNTAS=[{"q":"Nombra algo que hay en una boda","n":216},{"q":"Nombra una marca de cerveza","n":2847},{"q":"Nombra una marca de relojes","n":409},{"q":"Nombra una canción de Taylor Swift","n":275},{"q":"Nombra un apellido español","n":82621},{"q":"Nombra una carrera universitaria","n":724},{"q":"Nombra la capital de un país","n":210}];</script><script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.45.4/dist/umd/supabase.min.js"></script>
 <script>
 "use strict";
 /* ═════════ constantes ═════════ */
@@ -678,24 +678,33 @@ function pintaPines(){
   const g = $("#pines"); if (!g || !G) return;
   g.innerHTML = "";
   const {y,x,estrecho} = G;
-  let ultimoY = -99;
+  const conTexto = !estrecho && G.H >= 440;      // en pantallas muy bajas los nombres se pisan: solo puntos
+  const hueco = conTexto ? 19 : 11;
+  // Con respuestas de puntuación parecida los pines caerían uno encima de otro. Cada lado lleva su
+  // cuenta: el punto y su nombre bajan lo justo para no pisar al anterior, y una raya los une
+  // con la profundidad real en el eje del iceberg.
+  const ultimo = [-99, -99];
+  const yRec = conTexto && $("#record")?.firstChild && RECORD ? y(Math.min(FONDO, RECORD.puntos)) : null;
   pines.forEach((p,i) => {
-    const yy = y(p.m);
-    const cx = x(i % 2 ? .38 : .62);
-    el("line",{x1:x(.5),y1:yy,x2:cx,y2:yy,stroke:"#ffffff","stroke-width":1,opacity:.5},g);
-    el("circle",{cx,cy:yy,r:estrecho?4:5,fill:nivel(p)?nivel(p).col:"#1b2e44",stroke:"#ffffff","stroke-width":1.5},g);
-    if (!estrecho && G.H >= 440){               // en pantallas muy bajas los nombres se pisan: solo puntos
-      let ty = yy; if (ty - ultimoY < 17) ty = ultimoY + 17; ultimoY = ty;
-      const texto = nivel(p) ? p.disp : "sin respuesta";
-      const t = el("text",{x:cx + (i%2 ? -10 : 10),y:ty+3.5,"text-anchor":i%2?"end":"start",
-        fill:"#0a1f35","font-size":12,"font-weight":700,"paint-order":"stroke",stroke:"#ffffff","stroke-width":3,
-        "stroke-linejoin":"round"},g);
-      t.textContent = texto.length > 26 ? texto.slice(0,25)+"…" : texto;
-      // si no cabe por su lado, se pasa al otro lado del punto
-      const largo = t.getComputedTextLength();
-      if (i % 2 && cx - 10 - largo < 6){ t.setAttribute("text-anchor","start"); t.setAttribute("x", cx + 10); }
-      else if (!(i % 2) && cx + 10 + largo > G.Z - 6){ t.setAttribute("text-anchor","end"); t.setAttribute("x", cx - 10); }
-    }
+    const lado = i % 2, yy = y(p.m);
+    const cx = x(lado ? .38 : .62);
+    let yd = Math.max(yy, ultimo[lado] + hueco);
+    if (!lado && yRec !== null && yd > yRec - 36 && yd < yRec + 10) yd = yRec + 12;   // la etiqueta del récord va por la derecha
+    ultimo[lado] = yd;
+    const N = nivel(p);
+    el("polyline",{points:`${x(.5)},${yy} ${(x(.5)+cx)/2},${yd} ${cx},${yd}`,fill:"none",stroke:"#ffffff","stroke-width":1,opacity:.55},g);
+    el("circle",{cx:x(.5),cy:yy,r:2,fill:"#ffffff",opacity:.8},g);
+    el("circle",{cx,cy:yd,r:estrecho?4:5,fill:N?N.col:"#1b2e44",stroke:"#ffffff","stroke-width":1.5},g);
+    if (!conTexto) return;
+    const texto = N ? p.disp : "sin respuesta";
+    const t = el("text",{x:cx + (lado ? -10 : 10),y:yd+4,"text-anchor":lado?"end":"start",
+      fill:"#0a1f35","font-size":12,"font-weight":700,"paint-order":"stroke",stroke:"#ffffff","stroke-width":3,
+      "stroke-linejoin":"round"},g);
+    t.textContent = texto.length > 26 ? texto.slice(0,25)+"…" : texto;
+    // si no cabe por su lado, se pasa al otro lado del punto
+    const largo = t.getComputedTextLength();
+    if (lado && cx - 10 - largo < 6){ t.setAttribute("text-anchor","start"); t.setAttribute("x", cx + 10); }
+    else if (!lado && cx + 10 + largo > G.Z - 6){ t.setAttribute("text-anchor","end"); t.setAttribute("x", cx - 10); }
   });
 }
 

@@ -109,7 +109,8 @@ el peinado: peluquera|peluquero|recogido|moño
 la música de entrada: marcha nupcial
 los vivas: vivan los novios|que se besen
 el anillo de compromiso: pedida|anillo de pedida
-la despedida: fin de fiesta|última canción""",
+la despedida: fin de fiesta|última canción
+los cigarros: cigarro|cigarrillos|cigarrillo|tabaco|fumar|pitillos|pitis|piti""",
 4: """el alfiler de novia: alfileres|alfiler
 el cotillón: pelucas|gafas de fiesta|sombreros de fiesta|matasuegras|maracas
 la hora loca
@@ -172,7 +173,9 @@ las medias: medias de repuesto
 las tiritas
 el pasodoble
 el reclinatorio
-la pedida de mano: pedida de matrimonio""",
+la pedida de mano: pedida de matrimonio
+los porros: porro|canutos|canuto|petas|peta|marihuana|maría|hachís|costo
+las drogas: droga|cocaína|coca|farlopa|rayas|pastillas|mdma|speed|camello""",
 5: """el lazo nupcial: yugo|lazo
 el velón: velón de la unidad|vela de la unidad
 el portarramos
