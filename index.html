@@ -1006,6 +1006,8 @@ function responder(){
 
   function rechaza(texto){
     Son.fallo();
+    // cada intento que no está en el banco se apunta (sin esperar ni avisar si falla): sirve para ampliar las listas
+    Cuenta.sb?.from("sabihondo_fallos").insert({pregunta:p.q, respuesta:texto.slice(0,120), fecha:J.fecha}).then(() => {}, () => {});
     $("#aviso").innerHTML = "«" + esc(texto) + "» no está en la lista. Prueba con otra."
       + (Cuenta.sb ? ` <button type="button" class="enlace" id="bSug">¿Es correcta? Avísanos</button>` : "");
     $("#bSug")?.addEventListener("click", async e => {

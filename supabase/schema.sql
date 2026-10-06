@@ -100,3 +100,20 @@ as $$
 $$;
 revoke all on function public.sabihondo_ranking(date) from public;
 grant execute on function public.sabihondo_ranking(date) to anon, authenticated;
+
+-- Intentos rechazados: todo lo que alguien escribe y no está en el banco, con o sin cuenta.
+-- Nadie puede leerlos desde la web; se revisan aquí para ampliar las listas.
+create table if not exists public.sabihondo_fallos (
+  id         bigint      generated always as identity primary key,
+  fecha      date        not null default current_date,
+  pregunta   text        not null check (char_length(pregunta) <= 200),
+  respuesta  text        not null check (char_length(respuesta) between 1 and 120),
+  user_id    uuid        default auth.uid(),
+  created_at timestamptz not null default now()
+);
+grant insert on public.sabihondo_fallos to anon, authenticated;
+grant all on public.sabihondo_fallos to service_role;
+alter table public.sabihondo_fallos enable row level security;
+drop policy if exists "Sabihondo: apuntar fallos" on public.sabihondo_fallos;
+create policy "Sabihondo: apuntar fallos" on public.sabihondo_fallos
+  for insert to anon, authenticated with check (user_id is null or user_id = auth.uid());
