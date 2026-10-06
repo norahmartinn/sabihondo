@@ -1349,7 +1349,6 @@ async function ranking(){
   const marco = cuerpo => { caja.innerHTML = `
     <div class="panel">
       <h2>Podio de hoy</h2>
-      <p class="mini">Los metros que ha bajado hoy cada persona con cuenta. Si hay empate, va delante quien jugó antes.</p>
       ${cuerpo}
       <div class="botonera"><button class="btn" id="bCerrar">Volver</button>
         ${Cuenta.user ? "" : `<button class="btn fantasma" id="bRankCuenta">Crear una cuenta</button>`}</div>
