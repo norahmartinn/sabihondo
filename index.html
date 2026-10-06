@@ -880,7 +880,7 @@ function portada(){
               : `<button class="btn" id="bJugar">Empezar a bajar <span aria-hidden="true">→</span></button>`}
       ${est.racha ? `<span class="racha">Racha: ${est.racha} ${est.racha>1?"días":"día"}</span>` : ``}
     </div>
-    ${hecho ? `<p class="apunte" style="margin-top:16px">Hoy ya has bajado <b>${mil(hecho.puntos)} m</b>. El siguiente reto sale a medianoche.</p>` : ``}
+    ${hecho ? `<p class="apunte" style="margin-top:16px">Hoy ya has bajado <b>${mil(hecho.puntos)} m</b>. ¡Vuelve mañana para más!</p>` : ``}
   </div>`;
 
   $("#bJugar")?.addEventListener("click", e => empieza("diaria", e.currentTarget));
