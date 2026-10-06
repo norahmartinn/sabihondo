@@ -1,0 +1,214 @@
+respuesta;alias;nivel;orden_a_mano
+la novia;novios|pareja;1;1000
+el novio;;1;999
+la tarta;tarta nupcial|pastel|tarta de boda|pastel de boda;1;998
+los anillos;anillo|alianzas|alianza|anillos de boda;1;997
+los invitados;invitado|gente|familia|amigos|familiares;1;996
+el vestido de novia;vestido|vestido blanco|traje de novia;1;995
+el arroz;;1;994
+el ramo;ramo de novia|ramo de flores|bouquet;1;993
+el banquete;comida|cena|convite|comilona;1;992
+el baile;bailar|música|pista de baile;1;991
+el cura;sacerdote|párroco|padre;2;1000
+el padrino;padrinos;2;999
+la madrina;;2;998
+las damas de honor;dama de honor;2;997
+el fotógrafo;fotógrafa|fotos|fotografías|cámara|cámara de fotos;2;996
+el DJ;disc jockey|pinchadiscos;2;995
+el vals;primer baile|baile de los novios|baile nupcial;2;994
+el brindis;brindar;2;993
+el champán;cava|champagne|champaña;2;992
+las flores;decoración floral|arreglos florales;2;991
+el velo;;2;990
+el traje;traje del novio|trajes|esmoquin|smoking|chaqué;2;989
+la iglesia;capilla|ermita|catedral;2;988
+las mesas;mesa|mesas redondas;2;987
+la barra libre;barra|copas|alcohol|bebida|bebidas|cubatas;2;986
+los regalos;regalo|regalos de boda;2;985
+los sobres;sobre|sobre con dinero|dinero;2;984
+el beso;besos|beso de los novios;2;983
+los votos;votos matrimoniales|promesas|el sí quiero;2;982
+los testigos;testigo;2;981
+el cóctel;aperitivo|aperitivos|canapés|pinchos|entrantes;2;980
+el coche de los novios;coche nupcial|limusina|coche|coche clásico|coche antiguo;2;979
+el discurso;discursos|speech|palabras;2;978
+la orquesta;banda|grupo de música|música en directo;2;977
+las invitaciones;invitación|tarjeta de invitación;2;976
+el altar;;2;975
+los pétalos;pétalos de rosa;2;974
+los niños;pajes|paje|niños de arras;2;973
+la corbata;;2;972
+los tacones;zapatos de tacón|zapatos;2;971
+las lágrimas;llorar|llantos|lloros|emoción;2;970
+la ceremonia;misa|boda|enlace;2;969
+el vino;vino tinto|vino blanco;2;968
+los camareros;camarero|camarera|catering;2;967
+la liga;;3;1000
+las arras;monedas;3;999
+el seating plan;plano de mesas|seating|lista de mesas|sitting;3;998
+el photocall;fotocall;3;997
+el candy bar;mesa dulce|mesa de chuches|chuches|golosinas;3;996
+los detalles para los invitados;detalles|recuerdos|detallitos|regalos para invitados|detalle;3;995
+los puros;puro|habanos;3;994
+cortar la corbata;corte de la corbata|subasta de la corbata;3;993
+lanzar el ramo;tirar el ramo|lanzamiento del ramo;3;992
+los muñecos de la tarta;figuritas de la tarta|figuras de la tarta|muñecos|novios de la tarta;3;991
+el vídeo;videógrafo|vídeo de boda|videocámara;3;990
+el jamón;cortador de jamón|jamonero|jamón ibérico;3;989
+los centros de mesa;centro de mesa;3;988
+el menú;minuta|minutas|carta;3;987
+el tocado;tocados;3;986
+la pamela;pamelas|sombrero;3;985
+la pajarita;;3;984
+los gemelos;;3;983
+la cola del vestido;cola;3;982
+la mantilla;peineta;3;981
+el juez;concejal|alcalde|oficiante|maestro de ceremonias;3;980
+la alfombra;alfombra roja;3;979
+el confeti;confetti;3;978
+las bengalas;bengala|chispas;3;977
+los conos de arroz;cucuruchos|cucuruchos de arroz;3;976
+las lecturas;lectura|lectura de la biblia;3;975
+el coro;cuarteto de cuerda|violines|violinista|coro rociero|cuarteto;3;974
+la fuente de chocolate;;3;973
+la recena;resopón;3;972
+las alpargatas para bailar;alpargatas|chanclas|zapatillas para bailar|bailarinas|manoletinas;3;971
+el fotomatón;cabina de fotos;3;970
+el libro de firmas;libro de visitas;3;969
+la wedding planner;organizadora|organizador de bodas;3;968
+la lista de bodas;lista de boda|número de cuenta;3;967
+el primo borracho;borracho|borrachos|borrachera|el tío borracho;3;966
+la suegra;suegro|suegros|consuegros;3;965
+el autobús;autocar|bus|microbús;3;964
+el arco de flores;arco|arco floral;3;963
+las sillas;silla;3;962
+la carpa;;3;961
+la finca;salón|salón de bodas|restaurante|hacienda|cortijo|masía|pazo;3;960
+la tuna;;3;959
+los mariachis;mariachi;3;958
+los fuegos artificiales;fuegos|castillo de fuegos|pirotecnia;3;957
+los globos;globo;3;956
+las velas;vela|velones;3;955
+la conga;;3;954
+Paquito el Chocolatero;;3;953
+el sorbete;sorbete de limón;3;952
+el marisco;langostinos|gambas|mariscada|percebes|cigalas;3;951
+el solomillo;carne|entrecot|cordero|cochinillo;3;950
+los abanicos;abanico|paipái;3;949
+los pañuelos;pañuelo|clínex|kleenex|pañuelos de papel;3;948
+la abuela;abuelos|abuelo|abuelas;3;947
+el ex;exnovio|exnovia;3;946
+las fotos de grupo;foto de grupo|foto de familia;3;945
+el maquillaje;maquilladora|maquillador;3;944
+el peinado;peluquera|peluquero|recogido|moño;3;943
+la música de entrada;marcha nupcial;3;942
+los vivas;vivan los novios|que se besen;3;941
+el anillo de compromiso;pedida|anillo de pedida;3;940
+la despedida;fin de fiesta|última canción;3;939
+el alfiler de novia;alfileres|alfiler;4;1000
+el cotillón;pelucas|gafas de fiesta|sombreros de fiesta|matasuegras|maracas;4;999
+la hora loca;;4;998
+el kit de baño;cesta de baño|kit de emergencia|cesta de aseo;4;997
+el guardarropa;ropero;4;996
+el food truck;;4;995
+el dron;drone;4;994
+la espada para cortar la tarta;espada|sable;4;993
+algo azul;;4;992
+algo prestado;;4;991
+algo viejo;;4;990
+algo nuevo;;4;989
+el cojín de las alianzas;portaalianzas|cojín|anillero;4;988
+el libro de familia;;4;987
+el acta;acta matrimonial|firma|firmas|firmar;4;986
+la ofrenda del ramo;ofrenda a la Virgen|ofrenda;4;985
+la salve rociera;salve;4;984
+la mesa presidencial;mesa nupcial|mesa de los novios;4;983
+la mesa de los niños;mesa infantil;4;982
+la mesa de los solteros;solteros;4;981
+los meseros;números de mesa|mesero;4;980
+el cartel de bienvenida;cartel|pizarra|letrero;4;979
+las letras gigantes;letras de luz|letras LOVE|letras luminosas|neón;4;978
+los chupitos;chupito|licores|pacharán|licor de hierbas|orujo;4;977
+el café;;4;976
+el pulpeiro;pulpo|pulpo a feira;4;975
+la paella;arroz con bogavante;4;974
+el queso;tabla de quesos|mesa de quesos|quesos;4;973
+el castillo hinchable;hinchable|animadores|monitores|niñera|canguro;4;972
+el perro;perro con pajarita|mascota;4;971
+la calesa;coche de caballos|caballos|carruaje;4;970
+los tirantes;;4;969
+el chaleco;;4;968
+el fajín;;4;967
+el bolso de mano;clutch|bolso|cartera de mano;4;966
+el chal;estola|chaqueta|bolero|torera;4;965
+el prendido;flor en la solapa|boutonniere|ramillete|flor del ojal;4;964
+la tiara;corona de flores|diadema|corona;4;963
+los pendientes;joyas|collar;4;962
+las pompas de jabón;pomperos|burbujas;4;961
+las guirnaldas de luces;luces|bombillas|guirnaldas|farolillos;4;960
+el jardín;césped;4;959
+los nervios;;4;958
+el calor;;4;957
+la lluvia;paraguas;4;956
+la resaca;;4;955
+el cuñado;cuñada;4;954
+los compañeros de trabajo;el jefe;4;953
+el acompañante;más uno|plus one;4;952
+los baños;baño|servicios;4;951
+el parking;aparcamiento;4;950
+la barra de gin-tonics;gintonics|gin tonic|barra de mojitos|mojitos|coctelería;4;949
+la cerveza;cervezas|barril de cerveza|corner de cerveza;4;948
+la servilleta;servilletas|manteles|mantel;4;947
+la cubertería;cubiertos|vajilla|platos|copas de vino;4;946
+el micrófono;micro;4;945
+el playback;sorpresa|coreografía|flashmob|baile sorpresa|vídeo sorpresa;4;944
+el traje regional;kilt|traje de gitana|traje de flamenca;4;943
+las medias;medias de repuesto;4;942
+las tiritas;;4;941
+el pasodoble;;4;940
+el reclinatorio;;4;939
+la pedida de mano;pedida de matrimonio;4;938
+el lazo nupcial;yugo|lazo;5;1000
+el velón;velón de la unidad|vela de la unidad;5;999
+el portarramos;;5;998
+el cubrebotón;cubrebotones;5;997
+el azahar;flor de azahar;5;996
+el cancán;enaguas|miriñaque;5;995
+las arras de plata;;5;994
+el aguamanil;;5;993
+el tálamo;;5;992
+la epístola;carta de san Pablo a los corintios|corintios|epístola de san Pablo;5;991
+el corte de la liga;subasta de la liga;5;990
+el baile del billete;baile del dinero;5;989
+el mazapán;;5;988
+las peladillas;almendras garrapiñadas|peladilla|almendras;5;987
+el arroz ecológico;semillas|alpiste|lavanda;5;986
+los aviones de papel;;5;985
+las linternas voladoras;farolillos voladores|linternas chinas;5;984
+el árbol de huellas;árbol de los deseos|cápsula del tiempo;5;983
+el bodorrio;;5;982
+la corbata del padrino;;5;981
+el coche con latas;latas|latas en el coche|cartel de recién casados|recién casados;5;980
+el gaitero;gaita|gaiteiro;5;979
+la jota;;5;978
+la sardana;;5;977
+la muñeira;;5;976
+el aurresku;dantzari|txistulari;5;975
+la sevillana;sevillanas|rumbas|rumba;5;974
+el speech del mejor amigo;mejor amigo;5;973
+el tío que baila sin chaqueta;tío bailando|bailar sin chaqueta;5;972
+la servilleta al aire;servilletas al aire|revolear servilletas|agitar servilletas;5;971
+el protocolo;;5;970
+el certificado de matrimonio;partida de matrimonio|expediente matrimonial;5;969
+el monaguillo;monaguillos;5;968
+el órgano;organista;5;967
+el incienso;;5;966
+el misal;libro de misa|cancionero|misalito;5;965
+el reportaje;preboda|postboda;5;964
+la segunda puesta;segundo vestido;5;963
+el neceser de la novia;;5;962
+las horquillas;;5;961
+el esmalte;;5;960
+el imperdible;imperdibles;5;959
+la plancha;planchar;5;958
+el coche escoba;;5;957

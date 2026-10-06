@@ -33,3 +33,19 @@ El fondo está a 700 m. De un iceberg solo asoma el 10 %, y aquí igual: siete r
 1. En Supabase, pega `supabase/schema.sql` en el editor SQL y ejecútalo.
 2. En *Authentication → Providers → Email*, deja **Confirm email** desactivado. Si está activado, el SMTP de serie manda muy pocos correos y la gente no puede entrar.
 3. `SB_URL` y `SB_KEY` están al principio de la sección de cuenta de `index.html`. La clave es la publicable, pensada para ir en el navegador.
+
+## El banco de las siete preguntas
+
+Desde octubre de 2026 el juego tiene siete preguntas fijas. Cada una tiene su script en `scripts/siete/`, que deja un CSV en `datos/siete/` (respuesta; alias; nivel; métrica). `python3 scripts/siete/monta.py` junta los siete en `banco/00.json`…`06.json` y actualiza `const PREGUNTAS` en `index.html`.
+
+| Pregunta | De dónde sale la lista | Qué decide el nivel |
+|---|---|---|
+| Apellido español | INE, apellidos con 20 personas o más (censo 1-1-2025) | Cuánta gente lo lleva |
+| Carrera universitaria | RUCT, grados en alta | En cuántas universidades se estudia |
+| Canción de Taylor Swift | Wikipedia en inglés, canciones publicadas | Reproducciones en Spotify (kworb.net) |
+| Capital de un país | Wikidata, Estados soberanos | Visitas en Wikipedia (español + inglés) |
+| Marca de cerveza | Wikidata + marcas del mercado español | A mano las conocidas en España; el resto, ediciones de Wikipedia |
+| Marca de relojes | Categorías de Wikipedia en inglés + marcas de joyería española | A mano las conocidas en España; el resto, visitas en Wikipedia |
+| Algo que hay en una boda | Hecha a mano | A mano |
+
+Los CSV se pueden corregir a mano (cambiar un nivel, añadir un alias) y volver a lanzar `monta.py`; si se relanza el script de una pregunta, su CSV se regenera y se pierden esos retoques.

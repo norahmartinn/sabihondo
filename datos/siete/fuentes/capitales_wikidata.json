@@ -1,0 +1,6747 @@
+{
+  "head" : {
+    "vars" : [ "c", "cLabel", "en", "pLabel", "art", "arten", "alts" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q61"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Washington D. C."
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Washington, D.C."
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Estados Unidos"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Washington_D._C."
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Washington,_D.C."
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "D.C.|ciudad de Washington|district of Columbia|distrito federal de EE. UU.|El Distrito|Washington, D.C.|Washington, DC|Washington, Distrito de Columbia|Washington D.C."
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q38834"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Nukualofa"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Nukuʻalofa"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Tonga"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Nukualofa"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Nuku%CA%BBalofa"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Nuku'Alofa|Nukuʻalofa"
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q39178"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Puerto España"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Port of Spain"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Trinidad y Tobago"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Puerto_Espa%C3%B1a"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Port_of_Spain"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Port of Spain|Port of-Spain|Port-of-Spain|Puerto de los Españoles"
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q269"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Taskent"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Tashkent"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Uzbekistán"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Taskent"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Tashkent"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q472"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Sofía"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Sofia"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Bulgaria"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Sof%C3%ADa"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Sofia"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Sofia"
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q334"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Singapur"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Singapore"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Singapur"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Singapur"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Singapore"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Ciudad de Singapur|República de Singapur"
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q64"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Berlín"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Berlin"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Alemania"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Berl%C3%ADn"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Berlin"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Berlin|Berlín, Alemania|Berlin, Deutschland|Ciudad de Berlín|DE-BE|Stadt Berlin"
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q41699"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Castries"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Castries"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Santa Lucía"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Castries"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Castries"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q42751"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Palikir"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Palikir"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Estados Federados de Micronesia"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Palikir"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Palikir"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q43595"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Cotonú"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cotonou"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Benín"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Coton%C3%BA"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Cotonou"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Cotonu"
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q585"
+      },
+      "cLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Oslo"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Oslo"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Noruega"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Oslo"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Oslo"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Cristianía"
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q85"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "El Cairo"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cairo"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Egipto"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/El_Cairo"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Cairo"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q90"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "París"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Paris"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Francia"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Par%C3%ADs"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Paris"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "La Ciudad de la Luz|La Ciudad del Amor|La Ciudad Luz"
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q216"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Vilna"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Vilnius"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Lituania"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Vilna"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Vilnius"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q41963"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Sri Jayawardenapura Kotte"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Sri Jayawardenepura Kotte"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Sri Lanka"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Sri_Jayawardenapura_Kotte"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Sri_Jayawardenepura_Kotte"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q384"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Skopie"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Skopje"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Macedonia del Norte"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Skopie"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Skopje"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Escopia"
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q437"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Liubliana"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ljubljana"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Eslovenia"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Liubliana"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Ljubljana"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q70"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Berna"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Bern"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Suiza"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Berna"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Bern"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q84"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Londres"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "London"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Reino Unido"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Londres"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/London"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Greater London|London, UK|Londres (Inglaterra)|Londres (Reino Unido)"
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q597"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Lisboa"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Lisbon"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Portugal"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Lisboa"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Lisbon"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q220"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Roma"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Rome"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Italia"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Roma"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Rome"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "La Ciudad Eterna"
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q235"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Mónaco"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Monaco"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Mónaco"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/M%C3%B3naco"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Monaco"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Principado de Mónaco"
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q649"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Moscú"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Moscow"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Rusia"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Mosc%C3%BA"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Moscow"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "ciudad de Moscú"
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q239"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Bruselas"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Brussels"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Bélgica"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Bruselas"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/City_of_Brussels"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q237"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Ciudad del Vaticano"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Vatican City"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Ciudad del Vaticano"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Ciudad_del_Vaticano"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Vatican_City"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Estado de la Ciudad del Vaticano|Vaticano|Santa Sede"
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3733"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Conakri"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Conakry"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Guinea"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Conakri"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Conakry"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Conakry|Konakry"
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q270"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Varsovia"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Warsaw"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Polonia"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Varsovia"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Warsaw"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q40921"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Honiara"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honiara"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Islas Salomón"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Honiara"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Honiara"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q41295"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Basseterre"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Basseterre"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "San Cristóbal y Nieves"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Basseterre"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Basseterre"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q41474"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Kingstown"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kingstown"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "San Vicente y las Granadinas"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Kingstown"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Kingstown"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q41547"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Saint George"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "St. George's"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Granada"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Saint_George_(Granada)"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/St._George%27s,_Grenada"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Saint George's|St George's|St. George's"
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1435"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Zagreb"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Zagreb"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Croacia"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Zagreb"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Zagreb"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q727"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Ámsterdam"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Amsterdam"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Reino de los Países Bajos"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/%C3%81msterdam"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Amsterdam"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q956"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Pekín"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Beijing"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "República Popular China"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Pek%C3%ADn"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Beijing"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3692"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Riad"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Riyadh"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Arabia Saudí"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Riad"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Riyadh"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3703"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Bamako"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Bamako"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Mali"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Bamako"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Bamako"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3711"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Belgrado"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Belgrade"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Serbia"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Belgrado"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Belgrade"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1362"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Islamabad"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Islamabad"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Pakistán"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Islamabad"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Islamabad"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3751"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Praia"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Praia"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Cabo Verde"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Praia"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Praia"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3761"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Acra"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Accra"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Ghana"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Acra"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Accra"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Accra"
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3766"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Damasco"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Damascus"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Siria"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Damasco"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Damascus"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3768"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Yamusukro"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Yamoussoukro"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Costa de Marfil"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Yamusukro"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Yamoussoukro"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1218"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Jerusalén"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Jerusalem"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Israel"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Jerusal%C3%A9n"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Jerusalem"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Al Quds|Jerusalen"
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1218"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Jerusalén"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Jerusalem"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Palestina"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Jerusal%C3%A9n"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Jerusalem"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Al Quds|Jerusalen"
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1335"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Montevideo"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Montevideo"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Uruguay"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Montevideo"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Montevideo"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Ciudad de San Felipe y Santiago de Montevideo|San Felipe y Santiago de Montevideo"
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1354"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Daca"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Dhaka"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Bangladés"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Daca"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Dhaka"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Dhaka|Dacca"
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3739"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Bisáu"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Bissau"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Guinea-Bisáu"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Bis%C3%A1u"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Bissau"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Bisau|Bissau"
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3748"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Monrovia"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Monrovia"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Liberia"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Monrovia"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Monrovia"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q987"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Nueva Delhi"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "New Delhi"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "India"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Nueva_Delhi"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/New_Delhi"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Nueva Deli"
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q994"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Tiflis"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Tbilisi"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Georgia"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Tiflis"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Tbilisi"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Tiblisi"
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1085"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Praga"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Prague"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "República Checa"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Praga"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Prague"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3718"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Dakar"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Dakar"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Senegal"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Dakar"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Dakar"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3726"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Banjul"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Banjul"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Gambia"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Banjul"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Banjul"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1524"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Atenas"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Athens"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Grecia"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Atenas"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Athens"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1461"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Manila"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Manila"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Filipinas"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Manila"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Manila"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "ciudad de Manila"
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1486"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Buenos Aires"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Buenos Aires"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Argentina"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Buenos_Aires"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Buenos_Aires"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "CABA|Capital Federal"
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1489"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Ciudad de México"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mexico City"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "México"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Ciudad_de_M%C3%A9xico"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Mexico_City"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "DF|Distrito Federal|Cd Méx|D. F.|Mexico D. F.|Mexico DF|México DF|México Distrito Federal|México, D. F.|Ciudad de Méjico"
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3777"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Uagadugú"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ouagadougou"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Burkina Faso"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Uagadug%C3%BA"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Ouagadougou"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Uagadugu"
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3780"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Freetown"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Freetown"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Sierra Leona"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Freetown"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Freetown"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1530"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Bagdad"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Baghdad"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Irak"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Bagdad"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Baghdad"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3826"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Mascate"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Muscat"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Omán"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Mascate"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Muscat"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Masqat"
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3825"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Libreville"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Libreville"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Gabón"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Libreville"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Libreville"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3832"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Bangui"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Bangui"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "República Centroafricana"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Bangui"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Bangui"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1520"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Astaná"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Astana"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Kazajistán"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Astan%C3%A1"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Astana"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Nur-Sultán"
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3799"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Porto Novo"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Porto-Novo"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Benín"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Porto_Novo"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Porto-Novo"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3805"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Amán"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Amman"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Jordania"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Am%C3%A1n"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Amman"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Ammán|Amman|Aman"
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3808"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Yaundé"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Yaoundé"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Camerún"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Yaund%C3%A9"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Yaound%C3%A9"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Yaounde|Yaoundé|Yaunde"
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3820"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Beirut"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Beirut"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Líbano"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Beirut"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Beirut"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1533"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Caracas"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Caracas"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Venezuela"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Caracas"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Caracas"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "CCS|Santiago de León de Caracas|Valle de Los Caracas"
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3838"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Kinsasa"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kinshasa"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "República Democrática del Congo"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Kinsasa"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Kinshasa"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3844"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Brazzaville"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Brazzaville"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Congo"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Brazzaville"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Brazzaville"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3856"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Nicosia"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Nicosia"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Chipre"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Nicosia"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Nicosia"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1741"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Viena"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Vienna"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Austria"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Viena"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Vienna"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1748"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Copenhague"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Copenhagen"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Reino de Dinamarca"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Copenhague"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Copenhagen"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "CPH|Hafn|Hafnia|Havn|Kobmhaun"
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1754"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Estocolmo"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Stockholm"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Suecia"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Estocolmo"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Stockholm"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Stockholm|Sthlm|STHLM"
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3876"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Lilongüe"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Lilongwe"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Malaui"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Lilong%C3%BCe"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Lilongwe"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3881"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Lusaka"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Lusaka"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Zambia"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Lusaka"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Lusaka"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1555"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Ciudad de Guatemala"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Guatemala City"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Guatemala"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Ciudad_de_Guatemala"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Guatemala_City"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Guate|Nueva Guatemala de la Asunción|Guatemala"
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1563"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "La Habana"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Havana"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Cuba"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/La_Habana"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Havana"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Habana|San Cristóbal de la Habana"
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3859"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Kigali"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kigali"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Ruanda"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Kigali"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Kigali"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3861"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Doha"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Doha"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Catar"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Doha"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Doha"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3866"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Dodoma"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Dodoma"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Tanzania"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Dodoma"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Dodoma"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3870"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Nairobi"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Nairobi"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Kenia"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Nairobi"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Nairobi"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1490"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Tokio"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Tokyo"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Japón"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Tokio"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Tokyo"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "prefectura de Tokio"
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1491"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "La Paz"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "La Paz"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Bolivia"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/La_Paz"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/La_Paz"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Nuestra Señora de La Paz"
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1519"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Abu Dhabi"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Abu Dhabi"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Emiratos Árabes Unidos"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Abu_Dabi_(ciudad)"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Abu_Dhabi"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3787"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Abuya"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Abuja"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Nigeria"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Abuya"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Abuja"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "La ciudad bella"
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3792"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Lomé"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Lomé"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Togo"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Lom%C3%A9"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Lom%C3%A9"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1757"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Helsinki"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Helsinki"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Finlandia"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Helsinki"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Helsinki"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1761"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Dublín"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Dublin"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Irlanda"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Dubl%C3%ADn"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Dublin"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Ciudad de Dublín"
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3882"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Manama"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Manama"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Baréin"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Manama"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Manama"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3889"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Maputo"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Maputo"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Mozambique"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Maputo"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Maputo"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Lourenço Marques|Lorenzo Márquez"
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1764"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Reikiavik"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Reykjavík"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Islandia"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Reikiavik"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Reykjav%C3%ADk"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Reikiavik (Islandia)"
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1770"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Tallin"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Tallinn"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Estonia"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Tallin"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Tallinn"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3894"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Kampala"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kampala"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Uganda"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Kampala"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Kampala"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3897"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Luanda"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Luanda"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Angola"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Luanda"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Luanda"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3901"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Moroni"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Moroni"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Comoras"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Moroni_(Comoras)"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Moroni,_Comoros"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1773"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Riga"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Riga"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Letonia"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Riga"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Riga"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1780"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Bratislava"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Bratislava"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Eslovaquia"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Bratislava"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Bratislava"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3904"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Mbabane"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mbabane"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Suazilandia"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Babane"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Mbabane"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3909"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Maseru"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Maseru"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Lesoto"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Maseru"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Maseru"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3915"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Antananarivo"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Antananarivo"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Madagascar"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Antananarivo"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Antananarivo"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Tananarive|Tananarivo"
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3919"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Gaborone"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Gaborone"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Botsuana"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Gaborone"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Gaborone"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3926"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Pretoria"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Pretoria"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Sudáfrica"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Pretoria"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Pretoria"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3929"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Port Louis"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Port Louis"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Mauricio"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Port_Louis"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Port_Louis"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3935"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Windhoek"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Windhoek"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Namibia"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Windhoek"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Windhoek"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3932"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Santo Tomé"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "São Tomé"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Santo Tomé y Príncipe"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Santo_Tom%C3%A9_(capital)"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/S%C3%A3o_Tom%C3%A9"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Dídimo|Judas Tomás Dídimo"
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3940"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Victoria"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Victoria"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Seychelles"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Victoria_(Seychelles)"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Victoria,_Seychelles"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Puerto Victoria"
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5465"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Ciudad del Cabo"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cape Town"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Sudáfrica"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Ciudad_del_Cabo"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Cape_Town"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Cabo|Ciudad del cabo|Ciudad del Cabo (Sudáfrica)|Ciudad Madre|Taberna de los Mares"
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1781"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Budapest"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Budapest"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Hungría"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Budapest"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Budapest"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1842"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Luxemburgo"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Luxembourg"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Luxemburgo"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Luxemburgo_(ciudad)"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Luxembourg_City"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Ciudad de Luxemburgo"
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1844"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Vaduz"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Vaduz"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Liechtenstein"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Vaduz"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Vaduz"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1848"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "San Marino"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "San Marino"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "San Marino"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Ciudad_de_San_Marino"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/City_of_San_Marino"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Ciudad de San Marino"
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3921"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Harare"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Harare"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Zimbabue"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Harare"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Harare"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Harare (Zimbabue)"
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1899"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Kiev"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kyiv"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Ucrania"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Kiev"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Kyiv"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Kief|Kie|Kiew"
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1930"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Ottawa"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ottawa"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Canadá"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Ottawa"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Ottawa"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Ciudad de Ottawa|Otawa|Ottawa (Canadá)|Ottawa (Ontario)"
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9270"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Timbu"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Thimphu"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Bután"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Timbu"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Thimphu"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9279"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Bandar Seri Begawan"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Bandar Seri Begawan"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Brunéi"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Bandar_Seri_Begawan"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Bandar_Seri_Begawan"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9310"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Dili"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Dili"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Timor Oriental"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Dili"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Dili"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Capital de Timor Oriental|Ciudad de Timor Oriental"
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1850"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Nom Pen"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Phnom Penh"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Camboya"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Nom_Pen"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Phnom_Penh"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Phnom Penh"
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1858"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Hanói"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Hanoi"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Vietnam"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Han%C3%B3i"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Hanoi"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Hanoi"
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1861"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Bangkok"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Bangkok"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Tailandia"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Bangkok"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Bangkok"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Bancoc"
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5838"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Kabul"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kabul"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Afganistán"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Kabul"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Kabul"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q8684"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Seúl"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Seoul"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Corea del Sur"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Se%C3%BAl"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Seoul"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Seul|Ciudad Especial de Seul|Ciudad Especial de Seúl"
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1863"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Andorra la Vieja"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Andorra la Vella"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Andorra"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Andorra_la_Vieja"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Andorra_la_Vella"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Andorra la Vella"
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1867"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Taipéi"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Taipei"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "República de China"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Taip%C3%A9i"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Taipei"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Taipei"
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1865"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Kuala Lumpur"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kuala Lumpur"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Malasia"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Kuala_Lumpur"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Kuala_Lumpur"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "KL, Territorio Federal de Kuala Lumpur, K.L."
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9248"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Bakú"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Baku"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Azerbaiyán"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Bak%C3%BA"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Baku"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Baku"
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9326"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Vientián"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Vientiane"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Laos"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Vienti%C3%A1n"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Vientiane"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9347"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Malé"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Malé"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Maldivas"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Mal%C3%A9"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Mal%C3%A9"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9361"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Biskek"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Bishkek"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Kirguistán"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Biskek"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Bishkek"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9365"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Dusambé"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Dushanbe"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Tayikistán"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Dusamb%C3%A9"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Dushanbe"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Dusambe"
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q10717"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Georgetown"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Georgetown"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Guyana"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Georgetown"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Georgetown,_Guyana"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11194"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Sarajevo"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Sarajevo"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Bosnia y Herzegovina"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Sarajevo"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Sarajevo"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Sarajevo (Bosnia y Herzegovina)"
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1963"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Jartum"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Khartoum"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Sudán"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Jartum"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Khartoum"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Kartum"
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2280"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Minsk"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Minsk"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Bielorrusia"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Minsk"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Minsk"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q19689"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Tirana"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Tirana"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Albania"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Tirana"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Tirana"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q21197"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Chisináu"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Chișinău"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Moldavia"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Chisin%C3%A1u"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Chi%C8%99in%C4%83u"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Chisinau|Chişinău|Chișinău|Kichinev|Kishinev|Kishiniev|Kishiniov"
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1947"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Yuba"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Juba"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Sudán del Sur"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Yuba_(Sud%C3%A1n_del_Sur)"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Juba"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Juba"
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1953"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Ereván"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Yerevan"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Armenia"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Erev%C3%A1n"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Yerevan"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Yereván"
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q12919"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Majuro"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Majuro"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Islas Marshall"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Majuro"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Majuro"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18808"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Pionyang"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Pyongyang"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Corea del Norte"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Pionyang"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Pyongyang"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "P’yŏng-yang"
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q19660"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Bucarest"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Bucharest"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Rumania"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Bucarest"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Bucharest"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Bucharest|Bucuresti|Bucureşti|București|París del Este|Pequeño París"
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2807"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Madrid"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Madrid"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "España"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Madrid"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Madrid"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2841"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Bogotá"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Bogotá"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Colombia"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Bogot%C3%A1"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Bogot%C3%A1"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Bogotá, D.C.|Bogotá, Distrito Capital|Distrito Capital (Colombia)|Santa Fé de Bogotá|Santafé de Bogotá"
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q23564"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Podgorica"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Podgorica"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Montenegro"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Podgorica"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Podgorica"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Podgoricha"
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q23661"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Wellington"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Wellington"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Nueva Zelanda"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Wellington"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Wellington"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Ciudad de Wellington|Te Whanganui-a-Tara|Pōneke"
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2449"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Mogadiscio"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mogadishu"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Somalia"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Mogadiscio"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Mogadishu"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2467"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Nasáu"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Nassau"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Bahamas"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Nas%C3%A1u"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Nassau,_Bahamas"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Nassau|Ciudad de Nasáu"
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2471"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Saná"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Sanaa"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Yemen"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/San%C3%A1"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Sanaa"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Sana"
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q23430"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Ulán Bator"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ulaanbaatar"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Mongolia"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Ul%C3%A1n_Bator"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Ulaanbaatar"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Ulaanbataar"
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q23438"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Asjabad"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ashgabat"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Turkmenistán"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Asjabad"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Ashgabat"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Achgabad|Achkabad|Asgabad|Ashjabad|Ashkabad"
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2844"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Brasilia"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Brasília"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Brasil"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Brasilia"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Bras%C3%ADlia"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2868"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Lima"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Lima"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Perú"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Lima"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Lima"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Rímac|Fábio Virginio de Lima|La Perla del Pacífico|Ciudad de los Reyes|Ciudad de los Balcones|Ciudad Milenaria|La Tres Veces Coronada Villa|Límac|Límaq|Lyma|Rímaq"
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2887"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Santiago de Chile"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Santiago"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Chile"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Santiago_de_Chile"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Santiago"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "La Capital|Santiago del Nuevo Extremo|Capital de Chile|Ciudad de Santiago|Ciudad de Santiago de Chile|Gran Santiago|La Capital de Chile|Metrópolis de Santiago|Santiago de la Nueva Extremadura|Santiago de Nueva Extremadura|Santiago, Región Metropolitana"
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q23800"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "La Valeta"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Valletta"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Malta"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/La_Valeta"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Valletta"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "La Valetta|La Valleta|La Vallette|Valeta"
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q25270"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Pristina"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Pristina"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Kosovo"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Pristina"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Pristina"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Prishtina|Prishtine|Prishtinë|Priština|Prístina"
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q31026"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Yaren"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Yaren District"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Nauru"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Distrito_de_Yaren"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Yaren"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q33935"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Tel Aviv"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Tel Aviv"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Israel"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Tel_Aviv"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Tel_Aviv"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Tel Aviv Yafo|Tel Aviv-Yafo|Tel-Aviv"
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2900"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Quito"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Quito"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Ecuador"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Quito"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Quito"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Quitu|Carita de Dios|Luz de América|Mitad del Mundo"
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2907"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Sucre"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Sucre"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Bolivia"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Sucre"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Sucre"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "La Plata|Chuquisaca|Charcas|La Ilustre y Heroica Sucre|Villa de La Plata"
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q34126"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Funafuti"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Funafuti"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Tuvalu"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Funafuti"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Funafuti"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q34261"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Puerto Príncipe"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Port-au-Prince"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Haití"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Puerto_Pr%C3%ADncipe"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Port-au-Prince"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Puerto Principe|Port au-Prince|Potoprens"
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q34692"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Kingston"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kingston"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Jamaica"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Kingston"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Kingston,_Jamaica"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Kingston Jamaica"
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2933"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Asunción"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Asunción"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Paraguay"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Asunci%C3%B3n"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Asunci%C3%B3n"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Nuestra Señora de la Asunción|Asuncion|Nuestra Señora Santa María de la Asunción|ciudad de Nuestra Señora Santa María de la Asunción|Ciudad del Paraguay|La Muy Noble y Leal Ciudad de Nuestra Señora Santa María de la Asunción"
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3001"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Paramaribo"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Paramaribo"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Surinam"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Paramaribo"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Paramaribo"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3037"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Katmandú"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kathmandu"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Nepal"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Katmand%C3%BA"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Kathmandu"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Katmandu"
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q34820"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Santo Domingo"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Santo Domingo"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "República Dominicana"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Santo_Domingo"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Santo_Domingo"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Santo Domingo de Guzman|Ciudad de Santo Domingo|Ciudad primada de America|Ciudad primada de América|Gran Santo Domingo"
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q35178"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Ciudad de Kuwait"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kuwait City"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Kuwait"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Kuwait_(ciudad)"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Kuwait_City"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Al Kuwait|Al-Kuwait|Kuwait City"
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q35381"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Colombo"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Colombo"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Sri Lanka"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Colombo"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Colombo"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3114"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Canberra"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Canberra"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Australia"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Camberra"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Canberra"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3238"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Tegucigalpa"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Tegucigalpa"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Honduras"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Tegucigalpa"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Tegucigalpa"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Teguz, La Capital, Tegus"
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3306"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Ciudad de Panamá"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Panama City"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Panamá"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Ciudad_de_Panam%C3%A1"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Panama_City"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Panamá"
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q36526"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Puerto Moresby"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Port Moresby"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Papúa Nueva Guinea"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Puerto_Moresby"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Port_Moresby"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Port Moresbi|Port Moresby|Pot Mosbi"
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q36600"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "La Haya"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "The Hague"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Reino de los Países Bajos"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/La_Haya"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/The_Hague"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "'s-gravenhage|'s-gravenhague"
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q37400"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Naipyidó"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Naypyidaw"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Birmania"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Naipyid%C3%B3"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Naypyidaw"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Naipyido|Nay Pyi Taw|Naypyidaw|Nepidó"
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3642"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Asmara"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Asmara"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Eritrea"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Asmara"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Asmara"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3640"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Ankara"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ankara"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Turquía"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Ankara"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Ankara"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3659"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Yamena"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "N'Djamena"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Chad"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Yamena"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/N%27Djamena"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3604"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Ciudad de Yibuti"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Djibouti"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Yibuti"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Ciudad_de_Yibuti"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Djibouti_City"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Djibouti"
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3616"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Teherán"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Tehran"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Irán"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Teher%C3%A1n"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Tehran"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3624"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Adís Abeba"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Addis Ababa"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Etiopía"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Ad%C3%ADs_Abeba"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Addis_Ababa"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Adis Abeba"
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3630"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Yakarta"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Jakarta"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Indonesia"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Yakarta"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Jakarta"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Batavia|Jakarta|Djakarta"
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q38807"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Suva"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Suva"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Fiyi"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Suva"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Suva"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3551"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Rabat"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Rabat"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Marruecos"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Rabat"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Rabat"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3561"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Argel"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Algiers"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Argelia"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Argel"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Algiers"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3572"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Túnez"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Tunis"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Túnez"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/T%C3%BAnez_(ciudad)"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Tunis"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Tunez"
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3579"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Trípoli"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Tripoli"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Libia"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Tr%C3%ADpoli"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Tripoli,_Libya"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Tripoli"
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q37701"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Bloemfontein"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Bloemfontein"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Sudáfrica"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Bloemfontein"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Bloemfontein"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Mangaung|La ciudad de las rosas"
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q37806"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Port Vila"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Port Vila"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Vanuatu"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Port_Vila"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Port_Vila"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Port-Vila"
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q110601629"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Nusantara"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Nusantara"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Indonesia"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Nusantara_(ciudad)"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Nusantara"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q212938"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Jerusalén Este"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "East Jerusalem"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Palestina"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Jerusal%C3%A9n_Este"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/East_Jerusalem"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Jerusalén Árabe|Jerusalen Este|Jerusalen Oriental|Jerusalén Oriental"
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q515229"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Ngerulmud"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ngerulmud"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Palaos"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Ngerulmud"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Ngerulmud"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1140136"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Ciudad de la Paz"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ciudad de la Paz"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Guinea Ecuatorial"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Ciudad_de_la_Paz"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Ciudad_de_la_Paz"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Oyalá"
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3043"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Belmopán"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Belmopan"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Belice"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Belmop%C3%A1n"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Belmopan"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Belmopan"
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3070"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "San José"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "San José"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Costa Rica"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/San_Jos%C3%A9_(Costa_Rica)"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/San_Jos%C3%A9,_Costa_Rica"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Chepe"
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3110"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "San Salvador"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "San Salvador"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "El Salvador"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/San_Salvador"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/San_Salvador"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q36168"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Bridgetown"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Bridgetown"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Barbados"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Bridgetown"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Bridgetown"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q36262"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Saint John"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Antigua y Barbuda"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Saint_John_(Antigua_y_Barbuda)"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/St._John%27s,_Antigua_and_Barbuda"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q36260"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Apia"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Apia"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Samoa"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Apia"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Apia"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q36281"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Roseau"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Roseau"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Dominica"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Roseau"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Roseau"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q93230"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Rawalpindi"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Rawalpindi"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Pakistán"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Rawalpindi"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Rawalpindi"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Ra walpindi|Ra-walpindi|Rāwalpindi"
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q101418"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Lobamba"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Lobamba"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Suazilandia"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Lobamba"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Lobamba"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q131233"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Tarawa Sur"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "South Tarawa"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Kiribati"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Tarawa_Sur"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/South_Tarawa"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "South Tarawa"
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q131694"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Adén"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Aden"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Yemen"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Ad%C3%A9n"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Aden"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Aden"
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q158119"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Ramala"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ramallah"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Palestina"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Ramala"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Ramallah"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Ramalla"
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q167551"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Guitega"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Gitega"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Burundi"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Guitega"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Gitega"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Gitega|Kitega"
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q182378"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Putrajaya"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Putrajaya"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Malasia"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Putrajaya"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Putrajaya"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3674"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Niamey"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Niamey"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Níger"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Niamey"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Niamey"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3688"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Nuakchot"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Nouakchott"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Mauritania"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Nuakchot"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Nouakchott"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "c" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q131546626"
+      },
+      "cLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Managua"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Managua"
+      },
+      "pLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Nicaragua"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Managua|Managua (City)|Ciudad de Managua (City)|Ciudad de Managua"
+      }
+    } ]
+  }
+}

@@ -4,243 +4,251 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
 <meta name="description" content="Reto diario: siete preguntas y, cuanto más nicho tu respuesta, más bajas por el iceberg.">
-<meta name="theme-color" content="#eecedc">
+<meta name="theme-color" content="#f7efe9">
 <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🧊</text></svg>">
 <style>:root{padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}[hidden]{display:none!important}</style>
 <title>Sabihondo</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Arvo:wght@400;700&family=Nunito:wght@200..1000&family=Sixtyfour&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Young+Serif&family=Sen:wght@400..800&family=Source+Serif+4:ital,opsz,wght@0,8..60,400..600;1,8..60,400..600&display=swap">
 
 <style>
 /* ══ Sabihondo · identidad ══════════════════════════════════════
-   Un solo mundo, a propósito: cielo polar arriba, mar oscuro abajo
-   y un iceberg en sección que se oscurece capa a capa.            */
+   Una sola escena a sangre: cielo crema arriba, mar azul abajo y un
+   iceberg tallado en facetas. La tarjeta flota encima, a la derecha. */
 :root{
-  color-scheme:dark;
-  --mar:#60aec7;          /* agua bajo la línea de flotación */
-  --fondo:#1e2f48;        /* lo más hondo */
-  --cielo:#eecedc;
-  --hielo:#ffffff;        /* la tarjeta */
-  --tinta:#102f51;
-  --tinta-suave:#4a6378;
-  --linea:#333738;
-  --boya:#e557cb;         /* acento */
-  --boya-hondo:#b04dad;   /* el acento como texto sobre la tarjeta */
-  --boya-tinta:#102f51;   /* texto encima del acento */
-  --espuma:#e6f2f7;
-  --niebla:#8fb0c4;
+  color-scheme:light;
+  --mar:#3f8fb8;          /* agua justo bajo la línea de flotación */
+  --fondo:#0e2f52;        /* lo más hondo */
+  --cielo:#f7efe9;
+  --hielo:#fbf7f2;        /* la tarjeta */
+  --tinta:#12294b;
+  --tinta-suave:#4d6080;
+  --linea:#aab4c4;
+  --boya:#ee6fa3;         /* acento */
+  --boya-hondo:#cb3b78;   /* el acento como texto sobre la tarjeta */
+  --boya-tinta:#12294b;   /* texto encima del acento */
+  --boya-suave:#f7c4d8;   /* círculos de los iconos, botón de entrar */
 
-  /* franjas del iceberg, de la punta al fondo */
-  --c0:#ffffff; --c1:#d4eef8; --c2:#9dd6ec; --c3:#58abd6; --c4:#2d74ae; --c5:#173f7a;
-
-  --r-btn:2px; --r-panel:0px;
-  --col:minmax(320px,44%);
-  --disp:"Arvo",Rockwell,Georgia,serif;
-  --sans:"Nunito",system-ui,-apple-system,"Segoe UI",sans-serif;
-  --mono:"Sixtyfour",ui-monospace,"SF Mono",Menlo,monospace;
+  --r-btn:14px; --r-panel:24px;
+  --col:minmax(320px,50%);
+  --disp:"Young Serif",Georgia,"Times New Roman",serif;
+  --serif:"Source Serif 4",Georgia,serif;
+  --sans:"Sen",system-ui,-apple-system,"Segoe UI",sans-serif;
 }
 *{box-sizing:border-box}
 html,body{height:100%}
 body{margin:0;background:var(--fondo);color:var(--tinta);font-family:var(--sans);font-size:15px;
-  line-height:1.5;overflow:hidden;-webkit-font-smoothing:antialiased;font-variation-settings:"wdth" 100}
+  line-height:1.5;overflow:hidden;-webkit-font-smoothing:antialiased}
 button{font:inherit;color:inherit;background:none;border:none;cursor:pointer}
-:focus-visible{outline:2px solid var(--boya);outline-offset:3px;border-radius:2px}
+:focus-visible{outline:2px solid var(--boya-hondo);outline-offset:3px;border-radius:6px}
 ::selection{background:var(--boya);color:var(--boya-tinta)}
 
 #app{height:100%;display:grid;grid-template-columns:var(--col) minmax(0,1fr);grid-template-rows:auto 1fr}
 
 /* ── barra ───────────────────────────────────────────── */
-#barra{grid-column:1 / -1;display:flex;align-items:center;gap:14px;
-  padding:10px 18px;padding-top:calc(10px + env(safe-area-inset-top,0px));
-  background:var(--cielo);color:var(--tinta);border-bottom:1px solid var(--linea)}
-#marca{font-family:var(--disp);font-weight:850;font-size:20px;letter-spacing:0;
-  font-variation-settings:"wdth" 120}
-#marca em{font-style:normal;color:var(--boya-hondo)}
-#dia{font-family:var(--mono);font-size:11px;color:var(--tinta-suave);letter-spacing:.08em;
-  text-transform:uppercase;padding-left:12px;border-left:1px solid var(--linea)}
+#barra{grid-column:1 / -1;grid-row:1;position:relative;z-index:2;min-width:0;display:flex;align-items:center;gap:16px;
+  padding:14px 28px;padding-top:calc(14px + env(safe-area-inset-top,0px));
+  background:color-mix(in srgb,var(--cielo) 72%,transparent);color:var(--tinta);
+  -webkit-backdrop-filter:blur(8px);backdrop-filter:blur(8px)}
+#marca{font-family:var(--disp);font-weight:400;font-size:31px;line-height:1;letter-spacing:-.03em}
+#marca em{font-style:normal;color:var(--boya)}
 #barra .sep{flex:1}
-.icono{width:34px;height:34px;border:1px solid var(--linea);border-radius:50%;color:var(--tinta-suave);
-  display:grid;place-items:center;font-size:14px;font-weight:700;background:#fff;transition:.15s}
-.icono:hover,.icono[aria-pressed="true"]{color:var(--boya-hondo);border-color:var(--boya)}
+.icono{width:40px;height:40px;border:1.5px solid var(--tinta);border-radius:50%;color:var(--tinta);
+  display:grid;place-items:center;font-size:15px;font-weight:800;transition:.15s}
+.icono:hover{background:var(--boya-suave)}
 
-/* ── el iceberg ──────────────────────────────────────── */
-#hielo{position:relative;overflow:hidden;background:var(--fondo)}
+/* ── el iceberg: ocupa toda la pantalla, por detrás ──── */
+#hielo{grid-column:1 / -1;grid-row:1 / -1;position:relative;overflow:hidden;background:var(--fondo)}
 #svg{position:absolute;inset:0;width:100%;height:100%;display:block}
-#svg text{font-family:var(--mono)}
+#svg text{font-family:var(--sans)}
 
 /* ── escena ──────────────────────────────────────────── */
-#escena{overflow-y:auto;overscroll-behavior:contain;padding:28px 24px 32px;display:flex;flex-direction:column;
-  background:linear-gradient(180deg,var(--mar) 0%,var(--fondo) 100%)}
-.panel{width:100%;max-width:560px;margin:auto;background:var(--hielo);border-radius:var(--r-panel);padding:28px 30px 26px;
-  box-shadow:0 30px 60px -30px rgba(0,0,0,.7)}
-.rotulo{font-family:var(--mono);font-size:11px;letter-spacing:.14em;text-transform:uppercase;
-  color:var(--tinta-suave);margin:0 0 6px}
-h1{font-family:var(--disp);font-weight:900;font-size:clamp(42px,7vw,68px);line-height:.9;margin:0;
-  letter-spacing:0;font-variation-settings:"wdth" 125;color:var(--tinta)}
+#escena{grid-column:2;grid-row:2;position:relative;z-index:1;overflow-y:auto;overscroll-behavior:contain;
+  padding:28px 40px 36px 16px;display:flex;flex-direction:column}
+.panel{width:100%;max-width:640px;margin:auto;background:var(--hielo);border-radius:var(--r-panel);padding:36px 42px 38px;
+  box-shadow:0 30px 60px -28px rgba(8,28,56,.55),0 2px 6px rgba(8,28,56,.08)}
+.rotulo{font-family:var(--sans);font-size:13.5px;
+  color:var(--tinta);margin:0 0 10px}
+h1{font-family:var(--disp);font-weight:400;font-size:clamp(52px,7.4vw,104px);line-height:.92;margin:0;
+  letter-spacing:-.035em;color:var(--tinta)}
 h1 em{font-style:normal;color:var(--boya)}
-.lema{font-size:18px;margin:16px 0 0;text-wrap:pretty;max-width:44ch}
-.lema b{color:var(--boya-hondo)}
-.apunte{color:var(--tinta-suave);font-size:13.5px;margin:10px 0 0;max-width:56ch}
+.lema{font-family:var(--serif);font-size:19px;line-height:1.45;margin:20px 0 0;text-wrap:pretty}
+.lema b{font-family:var(--sans);font-weight:800;color:var(--boya-hondo)}
+.apunte{color:var(--tinta-suave);font-size:14px;margin:10px 0 0;max-width:56ch}
 .apunte b{color:var(--tinta)}
 
-.reglas{list-style:none;margin:22px 0 0;padding:16px 0 0;border-top:1px solid var(--linea);display:grid;gap:10px}
-.reglas li{display:grid;grid-template-columns:64px 1fr;gap:12px;align-items:baseline;font-size:14px;color:var(--tinta-suave)}
-.reglas b{color:var(--tinta);font-weight:650}
-.reglas .num{font-family:var(--disp);font-weight:850;font-size:20px;color:var(--tinta);font-variation-settings:"wdth" 115;
-  font-variant-numeric:tabular-nums;text-align:right;white-space:nowrap}
+.reglas{list-style:none;margin:26px 0 0;padding:24px 0 0;border-top:1px solid var(--linea);display:grid;gap:18px}
+.reglas li{display:grid;grid-template-columns:52px 1fr;gap:20px;align-items:center;font-size:14.5px;line-height:1.4;
+  color:var(--tinta-suave)}
+.reglas b{display:block;color:var(--tinta);font-weight:800;font-size:17px}
+.reglas .ico{width:52px;height:52px;border-radius:50%;background:var(--boya-suave);color:var(--tinta);
+  display:grid;place-items:center}
+.reglas .ico svg{width:30px;height:30px;display:block}
 
-.botonera{display:flex;flex-wrap:wrap;gap:10px;margin-top:24px;align-items:center}
-.btn{font-family:var(--disp);font-weight:750;font-size:15px;letter-spacing:.02em;font-variation-settings:"wdth" 110;
-  padding:12px 22px;border-radius:var(--r-btn);background:var(--boya);color:var(--boya-tinta);border:1px solid var(--boya);transition:.15s}
-.btn:hover{filter:brightness(.92)}
-.btn.fantasma{background:none;color:var(--tinta);border-color:var(--linea)}
-.btn.fantasma:hover{border-color:var(--tinta-suave);background:#fff}
-.racha{font-family:var(--mono);font-size:11px;color:var(--tinta-suave);letter-spacing:.08em;text-transform:uppercase}
+.botonera{display:flex;flex-wrap:wrap;gap:14px;margin-top:30px;align-items:center}
+.btn{font-family:var(--sans);font-weight:800;font-size:17px;line-height:1.2;
+  padding:17px 30px;border-radius:var(--r-btn);background:var(--boya);color:var(--boya-tinta);border:1.5px solid var(--boya);
+  display:inline-flex;align-items:center;gap:12px;transition:.15s;
+  box-shadow:0 8px 18px -10px color-mix(in srgb,var(--boya-hondo) 80%,transparent)}
+.btn:hover{background:color-mix(in srgb,var(--boya) 86%,var(--tinta));border-color:color-mix(in srgb,var(--boya) 86%,var(--tinta))}
+.btn:active{transform:translateY(1px)}
+.btn.fantasma{background:none;color:var(--tinta);border-color:var(--linea);box-shadow:none}
+.btn.fantasma:hover{border-color:var(--tinta);background:#fff}
+.racha{font-family:var(--sans);font-size:13.5px;color:var(--tinta-suave);}
 
 /* ── ronda ───────────────────────────────────────────── */
 .cabecera{display:flex;justify-content:space-between;align-items:baseline;gap:12px;
-  font-family:var(--mono);font-size:11px;letter-spacing:.1em;text-transform:uppercase;
-  color:var(--tinta-suave);border-bottom:1px solid var(--linea);padding-bottom:11px;margin-bottom:20px}
-.cabecera .m{color:var(--boya-hondo);font-weight:600;font-variant-numeric:tabular-nums}
-.enunciado{font-family:var(--disp);font-weight:800;font-size:clamp(24px,3.6vw,34px);line-height:1.1;
-  margin:0;text-wrap:balance;font-variation-settings:"wdth" 105;letter-spacing:0}
+  font-family:var(--sans);font-size:13.5px;
+  color:var(--tinta-suave);border-bottom:1px solid var(--linea);padding-bottom:13px;margin-bottom:22px}
+.cabecera .m{color:var(--boya-hondo);font-weight:500;font-variant-numeric:tabular-nums}
+.enunciado{font-family:var(--disp);font-weight:400;font-size:clamp(28px,3.8vw,42px);line-height:1.08;
+  margin:0;text-wrap:balance;letter-spacing:-.01em}
 
-form{margin-top:22px;display:flex;gap:9px;flex-wrap:wrap}
+form{margin-top:24px;display:flex;gap:10px;flex-wrap:wrap}
 input[type=text],input[type=email],input[type=password]{flex:1 1 180px;min-width:0;background:#fff;border:1.5px solid var(--linea);border-radius:var(--r-btn);
-  color:var(--tinta);padding:13px 18px;font-family:var(--sans);font-size:17px;color-scheme:light}
-input::placeholder{color:#8aa0b1}
-input[type=text]:focus,input[type=email]:focus,input[type=password]:focus{outline:none;border-color:var(--boya);box-shadow:0 0 0 3px color-mix(in srgb,var(--boya) 22%,transparent)}
-.reloj{display:grid;grid-template-columns:1fr auto;gap:14px;align-items:center;margin-top:18px}
-.mecha{height:10px;background:color-mix(in srgb,var(--tinta) 10%,transparent);border-radius:var(--r-btn);overflow:hidden}
-.mecha i{display:block;height:100%;background:var(--boya);transform-origin:left;transition:transform .1s linear,background .3s}
-.segundos{font-family:var(--disp);font-weight:700;font-size:28px;line-height:1;min-width:2.4ch;text-align:right;
-  font-variant-numeric:tabular-nums;color:var(--tinta)}
-.segundos small{font-family:var(--sans);font-size:13px;font-weight:600;color:var(--tinta-suave);margin-left:2px}
+  color:var(--tinta);padding:15px 18px;font-family:var(--sans);font-size:17px}
+input::placeholder{color:#8e9bb0}
+input[type=text]:focus,input[type=email]:focus,input[type=password]:focus{outline:none;border-color:var(--boya);box-shadow:0 0 0 4px color-mix(in srgb,var(--boya) 24%,transparent)}
+.reloj{display:grid;grid-template-columns:1fr auto;gap:14px;align-items:center;margin-top:20px}
+.mecha{height:10px;background:color-mix(in srgb,var(--tinta) 10%,transparent);border-radius:999px;overflow:hidden}
+.mecha i{display:block;height:100%;background:var(--boya);border-radius:999px;transform-origin:left;transition:transform .1s linear,background .3s}
+.segundos{font-family:var(--disp);font-weight:400;font-size:30px;line-height:1;min-width:2.4ch;text-align:right;
+  font-variant-numeric:lining-nums tabular-nums;color:var(--tinta)}
+.segundos small{font-family:var(--sans);font-size:13px;font-weight:700;color:var(--tinta-suave);margin-left:2px}
 .reloj.urge .mecha i{background:#e5484d}
 .reloj.urge .segundos{color:#e5484d;animation:late 1s steps(2) infinite}
 @keyframes late{50%{opacity:.45}}
-.aviso{margin:11px 0 0;font-size:13.5px;color:var(--boya-hondo);min-height:20px}
+.aviso{margin:11px 0 0;font-size:14px;color:var(--boya-hondo);min-height:20px}
 .sacudir{animation:sac .34s}
 @keyframes sac{25%{transform:translateX(-7px)}50%{transform:translateX(6px)}75%{transform:translateX(-3px)}}
 
 /* ── veredicto ───────────────────────────────────────── */
-.chip{display:inline-flex;align-items:center;gap:7px;font-family:var(--mono);font-size:11px;font-weight:600;
-  letter-spacing:.1em;text-transform:uppercase;padding:5px 11px 5px 9px;border-radius:999px;background:#fff;
+.chip{display:inline-flex;align-items:center;gap:7px;font-family:var(--sans);font-size:13px;font-weight:700;
+  padding:5px 11px 5px 9px;border-radius:999px;background:#fff;
   border:1px solid var(--linea)}
 .chip i{width:10px;height:10px;border-radius:50%;display:block}
-.tuya{font-family:var(--disp);font-weight:850;font-size:clamp(30px,5vw,42px);line-height:1.05;margin:14px 0 0;
-  font-variation-settings:"wdth" 110;letter-spacing:0}
+.tuya{font-family:var(--disp);font-weight:400;font-size:clamp(32px,5vw,48px);line-height:1.05;margin:16px 0 0;
+  letter-spacing:-.01em}
 .tuya.nada{color:var(--tinta-suave)}
-.coña{color:var(--tinta-suave);font-size:14px;font-style:italic;margin:8px 0 0;max-width:46ch;text-wrap:pretty}
-.baja{display:flex;align-items:baseline;gap:14px;flex-wrap:wrap;margin-top:18px;padding-top:14px;border-top:1px solid var(--linea)}
-.baja b{font-family:var(--disp);font-weight:900;font-size:28px;color:var(--boya-hondo);font-variant-numeric:tabular-nums}
-.baja span{font-size:14px;color:var(--tinta-suave)}
+.coña{color:var(--tinta-suave);font-family:var(--serif);font-size:15px;font-style:italic;margin:8px 0 0;max-width:46ch;text-wrap:pretty}
+.baja{display:flex;align-items:baseline;gap:14px;flex-wrap:wrap;margin-top:20px;padding-top:16px;border-top:1px solid var(--linea)}
+.baja b{font-family:var(--disp);font-weight:400;font-size:32px;color:var(--boya-hondo);font-variant-numeric:lining-nums tabular-nums}
+.baja span{font-size:14.5px;color:var(--tinta-suave)}
 .baja span strong{color:var(--tinta)}
 
 .nivel{display:inline-flex;align-items:baseline;gap:10px;background:var(--nc);color:var(--nt);
-  border-radius:999px;padding:7px 16px 7px 14px}
-.nivel-n{font-family:var(--mono);font-size:11.5px;font-weight:600;letter-spacing:.12em;text-transform:uppercase;opacity:.85}
-.nivel-t{font-family:var(--disp);font-weight:850;font-size:19px;font-variation-settings:"wdth" 112}
-.escalera{list-style:none;margin:12px 0 0;padding:0;display:grid;grid-template-columns:repeat(5,1fr);gap:4px;max-width:260px}
-.escalera li{height:22px;border-radius:3px;background:var(--nc);opacity:.22;display:grid;place-items:center;
-  font-family:var(--mono);font-size:10px;font-weight:600;color:var(--tinta)}
+  border-radius:999px;padding:7px 18px 7px 16px}
+.nivel-n{font-family:var(--sans);font-size:13.5px;font-weight:700;opacity:.85}
+.nivel-t{font-family:var(--sans);font-weight:800;font-size:18px}
+.escalera{list-style:none;margin:14px 0 0;padding:0;display:grid;grid-template-columns:repeat(5,1fr);gap:5px;max-width:260px}
+.escalera li{height:22px;border-radius:6px;background:var(--nc);opacity:.22;display:grid;place-items:center;
+  font-family:var(--sans);font-size:12.5px;font-weight:700;color:var(--tinta)}
 .escalera li.on{opacity:1;color:#fff;box-shadow:0 0 0 2px var(--hielo),0 0 0 4px var(--nc)}
 .escalera li:first-child.on{color:var(--tinta)}
-.expl{font-size:16px;margin:8px 0 0;max-width:46ch;text-wrap:pretty;color:var(--tinta)}
-.tag{display:inline-block;margin-top:4px;font-family:var(--mono);font-size:10.5px;font-weight:600;letter-spacing:.06em;
-  text-transform:uppercase;background:var(--nc);color:var(--nt);border-radius:999px;padding:2px 9px;white-space:nowrap}
+.expl{font-family:var(--serif);font-size:17px;margin:8px 0 0;max-width:46ch;text-wrap:pretty;color:var(--tinta)}
+.tag{display:inline-block;margin-top:4px;font-family:var(--sans);font-size:12.5px;font-weight:700;
+  background:var(--nc);color:var(--nt);border-radius:999px;padding:2px 9px;white-space:nowrap}
 
 /* ── cuenta ──────────────────────────────────────────── */
-.cuenta-btn{height:34px;min-width:34px;padding:0 14px;border-radius:999px;background:var(--tinta);color:#fff;
-  font-family:var(--disp);font-weight:750;font-size:14px;font-variation-settings:"wdth" 110;transition:.15s}
-.cuenta-btn:hover{background:var(--boya-hondo)}
-.cuenta-btn.dentro{padding:0;width:34px;background:var(--boya);color:var(--boya-tinta);font-size:15px}
+.cuenta-btn{height:40px;min-width:40px;padding:0 24px;border-radius:999px;background:var(--boya-suave);color:var(--tinta);
+  font-family:var(--disp);font-weight:400;font-size:17px;transition:.15s}
+.cuenta-btn:hover{background:var(--boya)}
+.cuenta-btn.dentro{padding:0;width:40px;background:var(--boya)}
 .pestanas{display:grid;grid-template-columns:1fr 1fr;gap:4px;background:#fff;border:1px solid var(--linea);
   border-radius:var(--r-btn);padding:4px;margin-top:18px}
-.pestanas button{border-radius:var(--r-btn);padding:8px 10px;font-weight:650;font-size:14px;color:var(--tinta-suave)}
+.pestanas button{border-radius:10px;padding:9px 10px;font-weight:700;font-size:14.5px;color:var(--tinta-suave)}
 .pestanas button[aria-selected="true"]{background:var(--tinta);color:#fff}
 .form-cuenta{display:grid;gap:6px;margin-top:16px}
-.form-cuenta label{font-family:var(--mono);font-size:11px;letter-spacing:.1em;text-transform:uppercase;color:var(--tinta-suave);margin-top:6px}
+.form-cuenta label{font-family:var(--sans);font-size:13px;color:var(--tinta-suave);margin-top:6px}
 .form-cuenta .btn{margin-top:12px;justify-self:start}
 .form-cuenta .btn:disabled{opacity:.5;cursor:wait}
-.aviso-cuenta{margin-top:18px;padding:12px 14px;background:#fff;border:1px solid var(--linea);border-radius:6px;max-width:none}
-.enlace{color:var(--boya-hondo);font-weight:650;text-decoration:underline;text-underline-offset:2px;padding:0}
+.aviso-cuenta{margin-top:18px;padding:13px 16px;background:#fff;border:1px solid var(--linea);border-radius:12px;max-width:none}
+.enlace{color:var(--boya-hondo);font-weight:700;text-decoration:underline;text-underline-offset:2px;padding:0}
 .historial{list-style:none;margin:6px 0 0;padding:0;border-top:1px solid var(--linea)}
 .historial li{display:grid;grid-template-columns:70px 1fr auto;gap:12px;align-items:center;padding:9px 2px;border-bottom:1px solid var(--linea)}
-.h-dia{font-family:var(--disp);font-weight:800;font-size:15px;line-height:1.1}
-.h-dia small{display:block;font-family:var(--mono);font-weight:400;font-size:10.5px;color:var(--tinta-suave)}
+.h-dia{font-family:var(--sans);font-weight:800;font-size:15px;line-height:1.1}
+.h-dia small{display:block;font-family:var(--sans);font-weight:400;font-size:12.5px;color:var(--tinta-suave)}
 .h-nv{display:flex;gap:3px;flex-wrap:wrap}
-.h-nv i{width:14px;height:14px;border-radius:3px;display:block}
-.h-m{font-family:var(--mono);font-size:13px;font-weight:600;font-variant-numeric:tabular-nums}
+.h-nv i{width:14px;height:14px;border-radius:4px;display:block}
+.h-m{font-family:var(--sans);font-size:13px;font-weight:700;font-variant-numeric:tabular-nums}
 
 /* ── resultado ───────────────────────────────────────── */
-.hondura{font-family:var(--disp);font-weight:900;font-size:clamp(56px,11vw,92px);line-height:.88;margin:6px 0 0;
-  font-variant-numeric:tabular-nums;font-variation-settings:"wdth" 118;letter-spacing:0}
-.hondura small{font-size:.32em;color:var(--tinta-suave);font-weight:600;margin-left:6px;letter-spacing:0}
-.capa-final{font-family:var(--disp);font-weight:800;font-size:20px;margin:10px 0 0;color:var(--boya-hondo);
-  font-variation-settings:"wdth" 110}
-.tira{list-style:none;margin:18px 0 0;padding:0;border-top:1px solid var(--linea)}
-.tira li{display:grid;grid-template-columns:12px 1fr auto;gap:12px;align-items:baseline;padding:10px 2px;
-  border-bottom:1px solid var(--linea);font-size:14px}
+.hondura{font-family:var(--disp);font-weight:400;font-size:clamp(64px,11vw,108px);line-height:1;margin:6px 0 0;
+  font-variant-numeric:lining-nums tabular-nums;letter-spacing:-.02em}
+.hondura small{font-family:var(--sans);font-size:.26em;color:var(--tinta-suave);font-weight:700;margin-left:8px;letter-spacing:0}
+.capa-final{font-family:var(--sans);font-weight:800;font-size:19px;margin:10px 0 0;color:var(--boya-hondo)}
+.tira{list-style:none;margin:20px 0 0;padding:0;border-top:1px solid var(--linea)}
+.tira li{display:grid;grid-template-columns:12px 1fr auto;gap:12px;align-items:baseline;padding:11px 2px;
+  border-bottom:1px solid var(--linea);font-size:14.5px}
 .tira .pt-c{width:10px;height:10px;border-radius:50%;align-self:center}
-.tira .pr{color:var(--tinta-suave);font-size:12px;display:block;line-height:1.3;margin-bottom:1px}
+.tira .pr{color:var(--tinta-suave);font-size:12.5px;display:block;line-height:1.3;margin-bottom:1px}
 .tira .ver{display:flex;gap:8px;align-items:baseline;flex-wrap:wrap;text-align:left;padding:0;cursor:pointer}
 .tira .ver:hover{color:var(--tinta)}
-.tira .flecha{font-family:var(--mono);font-size:10px;letter-spacing:.06em;text-transform:uppercase;color:var(--boya-hondo);
+.tira .flecha{font-family:var(--sans);font-size:12.5px;color:var(--boya-hondo);
   border-bottom:1px dotted currentColor}
 .tira .ver[aria-expanded="true"] .flecha{color:var(--tinta-suave)}
 .tira .ver[aria-expanded="true"] .flecha::after{content:" ↑"}
 .tira .ver[aria-expanded="false"] .flecha::after{content:" ↓"}
 .todas[hidden]{display:none}
-.todas{grid-column:1 / -1;display:grid;gap:10px;background:#fff;border:1px solid var(--linea);border-radius:6px;
-  padding:12px 14px;margin:4px 0 2px}
+.todas{grid-column:1 / -1;display:grid;gap:10px;background:#fff;border:1px solid var(--linea);border-radius:12px;
+  padding:13px 16px;margin:4px 0 2px}
 .grupo-cab{display:flex;justify-content:space-between;align-items:center;gap:10px}
 .resps{margin:6px 0 0;font-size:13.5px;line-height:1.6;color:var(--tinta)}
 .resps .mas{color:var(--tinta-suave);font-style:italic}
 .resps mark{background:none;color:var(--tinta);font-weight:700;box-shadow:inset 0 -3px 0 var(--nc);padding:0 1px}
-.tira .rs{font-weight:650}
+.tira .rs{font-weight:700}
 .tira .rs.falla{color:var(--tinta-suave);font-weight:400;font-style:italic}
-.tira .joya{color:var(--boya-hondo);font-size:12px;display:block;margin-top:2px}
-.tira .pt{font-family:var(--mono);color:var(--tinta-suave);font-variant-numeric:tabular-nums;font-size:12px}
-.marcador{display:flex;gap:24px;flex-wrap:wrap;margin-top:20px}
-.marcador div{font-family:var(--mono);font-size:10.5px;color:var(--tinta-suave);letter-spacing:.1em;text-transform:uppercase}
-.marcador b{display:block;font-family:var(--disp);font-size:26px;color:var(--tinta);letter-spacing:0;
-  text-transform:none;font-variant-numeric:tabular-nums;margin-top:2px;font-weight:850}
-.copiado{color:var(--boya-hondo);font-size:13px;font-family:var(--mono)}
+.tira .joya{color:var(--boya-hondo);font-size:12.5px;display:block;margin-top:2px}
+.tira .pt{font-family:var(--sans);color:var(--tinta-suave);font-variant-numeric:tabular-nums;font-size:12px}
+.marcador{display:flex;gap:26px;flex-wrap:wrap;margin-top:22px}
+.marcador div{font-family:var(--sans);font-size:12.5px;color:var(--tinta-suave);}
+.marcador b{display:block;font-family:var(--disp);font-size:30px;line-height:1.15;color:var(--tinta);letter-spacing:0;
+  text-transform:none;font-variant-numeric:lining-nums tabular-nums;margin-top:2px;font-weight:400}
+.copiado{color:var(--boya-hondo);font-size:13px;font-family:var(--sans)}
 
 /* ── ayuda ───────────────────────────────────────────── */
 #ayuda[hidden],#cuenta[hidden]{display:none}
-#ayuda,#cuenta{position:fixed;inset:0;z-index:8;background:rgba(3,13,27,.82);backdrop-filter:blur(4px);
+#ayuda,#cuenta{position:fixed;inset:0;z-index:8;background:rgba(10,32,60,.62);
+  -webkit-backdrop-filter:blur(6px);backdrop-filter:blur(6px);
   display:flex;flex-direction:column;padding:20px 16px;overflow-y:auto}
-h2{font-family:var(--disp);font-weight:850;font-size:28px;margin:0 0 4px;font-variation-settings:"wdth" 115}
-h3{font-family:var(--mono);font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:var(--boya-hondo);
-  margin:24px 0 8px;font-weight:600}
-.mini{color:var(--tinta-suave);font-size:14px;margin:8px 0 0;max-width:60ch}
+h2{font-family:var(--disp);font-weight:400;font-size:34px;line-height:1.05;margin:0 0 6px;letter-spacing:-.01em}
+h3{font-family:var(--sans);font-size:13.5px;color:var(--boya-hondo);
+  margin:26px 0 8px;font-weight:500}
+.mini{color:var(--tinta-suave);font-size:14.5px;margin:8px 0 0;max-width:60ch}
 .mini b{color:var(--tinta)}
-.escala{list-style:none;margin:10px 0 0;padding:0;border:1px solid var(--linea);border-radius:6px;overflow:hidden}
-.escala li{display:grid;grid-template-columns:auto 1fr auto;gap:12px;align-items:center;padding:10px 13px;
-  font-size:14px;background:#fff}
+.escala{list-style:none;margin:10px 0 0;padding:0;border:1px solid var(--linea);border-radius:14px;overflow:hidden}
+.escala li{display:grid;grid-template-columns:auto 1fr auto;gap:12px;align-items:center;padding:11px 14px;
+  font-size:14.5px;background:#fff}
 .escala li+li{border-top:1px solid var(--linea)}
 .escala .pt-c{width:12px;height:12px;border-radius:50%}
-.escala .n{font-weight:700}
-.escala .d{color:var(--tinta-suave);font-size:12.5px;display:block}
-.escala .p{font-family:var(--mono);font-size:12px;color:var(--tinta-suave);font-variant-numeric:tabular-nums}
+.escala .n{font-weight:800}
+.escala .d{color:var(--tinta-suave);font-size:13px;display:block}
+.escala .p{font-family:var(--sans);font-size:12px;color:var(--tinta-suave);font-variant-numeric:tabular-nums}
 
-@media (max-width:720px){
-  :root{--col:92px}
-  #barra{padding-inline:14px;gap:10px}
-  #marca{font-size:18px}
-  #dia{padding-left:10px;font-size:10px}
-  #escena{padding:18px 16px 24px}
-  .panel{padding:22px 18px 20px}
-  .lema{font-size:16px}
-  .reglas li{grid-template-columns:54px 1fr;gap:10px}
-  .reglas .num{font-size:17px}
-  h1{font-size:40px}
-  .btn{padding:11px 18px}
+@media (max-width:1000px){
+  :root{--col:minmax(260px,40%)}
+  #escena{padding-right:22px}
+  .panel{padding:30px 30px 32px}
 }
-@media (max-width:380px){ #dia{display:none} }
+@media (max-width:720px){
+  :root{--col:92px;--r-panel:20px}
+  #barra{padding:10px 14px;padding-top:calc(10px + env(safe-area-inset-top,0px));gap:10px}
+  #marca{font-size:22px}
+  .icono,.cuenta-btn{width:36px;height:36px;min-width:36px}
+  .cuenta-btn{width:auto;padding:0 16px;font-size:15px}
+  #escena{padding:16px 14px 24px 4px}
+  .panel{padding:24px 20px 24px}
+  h1{font-size:44px}
+  .lema{font-size:16.5px;margin-top:14px}
+  .reglas{margin-top:20px;padding-top:18px;gap:14px}
+  .reglas li{grid-template-columns:40px 1fr;gap:12px;font-size:13.5px}
+  .reglas .ico{width:40px;height:40px}
+  .reglas .ico svg{width:23px;height:23px}
+  .reglas b{font-size:15.5px}
+  .botonera{margin-top:22px;gap:10px}
+  .btn{padding:14px 20px;font-size:16px}
+}
 @media (prefers-reduced-motion:reduce){*{animation-duration:.01ms!important;transition-duration:.01ms!important}}
 </style>
 </head>
@@ -249,7 +257,6 @@ h3{font-family:var(--mono);font-size:11px;letter-spacing:.14em;text-transform:up
 <div id="app">
   <header id="barra">
     <span id="marca">Sabi<em>hondo</em></span>
-    <span id="dia">—</span>
     <span class="sep"></span>
     <button class="icono" id="bSon" aria-pressed="false" title="Sonido">♪</button>
     <button class="icono" id="bAyuda" title="Cómo se juega">?</button>
@@ -260,7 +267,7 @@ h3{font-family:var(--mono);font-size:11px;letter-spacing:.14em;text-transform:up
 </div>
 <div id="ayuda" hidden></div>
 <div id="cuenta" class="capa" hidden></div>
-<script>const PREGUNTAS=[{"q":"Nombra una comunidad autónoma de España","n":19},{"q":"Nombra una provincia de España","n":50},{"q":"Nombra una capital de provincia española","n":50},{"q":"Nombra un Patrimonio de la Humanidad que esté en España","n":50},{"q":"Nombra un equipo de LaLiga de esta temporada","n":20},{"q":"Nombra un país del mundo","n":197},{"q":"Nombra la capital de un país","n":193},{"q":"Nombra una moneda que se use hoy en algún país","n":151},{"q":"Nombra un país de África","n":54},{"q":"Nombra un país de Asia","n":50},{"q":"Nombra un país de Europa","n":51},{"q":"Nombra un país de América","n":35},{"q":"Nombra un país de Oceanía","n":14},{"q":"Nombra un país de la Unión Europea","n":27},{"q":"Nombra un estado de EE. UU","n":50},{"q":"Nombra un elemento químico","n":118},{"q":"Nombra una constelación","n":88},{"q":"Nombra un Pokémon de la primera generación","n":151},{"q":"Nombra una ciudad de España","n":6169},{"q":"Nombra un pico de España","n":8475},{"q":"Nombra una playa de España","n":2167},{"q":"Nombra una estación de Metro de Madrid","n":280},{"q":"Nombra un postre","n":1612},{"q":"Nombra unos cereales de desayuno","n":105},{"q":"Nombra una marca de patatas fritas de bolsa","n":115},{"q":"Nombra un plato de cuchara","n":1313},{"q":"Nombra un tipo de pizza","n":237},{"q":"Nombra un licor","n":341},{"q":"Nombra una marca de agua mineral","n":176},{"q":"Nombra un campeón del mundo de Fórmula 1","n":35},{"q":"Nombra una aerolínea","n":3453},{"q":"Nombra un club que haya ganado la Champions League","n":24},{"q":"Nombra un deporte acuático","n":206},{"q":"Nombra un deporte de raqueta o de pelota","n":37},{"q":"Nombra una videoconsola","n":85},{"q":"Nombra un videojuego de recreativa","n":1513},{"q":"Nombra un personaje de Super Mario","n":84},{"q":"Nombra un personaje de Disney","n":194},{"q":"Nombra un personaje de Pixar","n":169},{"q":"Nombra un personaje de Marvel","n":189},{"q":"Nombra un personaje de Friends","n":66},{"q":"Nombra un personaje de The Office","n":53},{"q":"Nombra una serie de Netflix","n":1416},{"q":"Nombra una serie de Prime Video","n":74},{"q":"Nombra una sitcom","n":1769},{"q":"Nombra una película española","n":6183},{"q":"Nombra una película de Disney","n":343},{"q":"Nombra una película de Marvel","n":81},{"q":"Nombra una película basada en un libro","n":2709},{"q":"Nombra un director o directora de cine","n":3447},{"q":"Nombra un cantante o una cantante internacional","n":2129},{"q":"Nombra un grupo de música español","n":1990},{"q":"Nombra un festival de música","n":1213},{"q":"Nombra un musical","n":46},{"q":"Nombra un dios o una diosa griega","n":779},{"q":"Nombra un ser mitológico","n":1812},{"q":"Nombra una obra de arte","n":829},{"q":"Nombra un edificio famoso","n":193},{"q":"Nombra un rascacielos","n":2758},{"q":"Nombra un monumento famoso","n":121},{"q":"Nombra una red social","n":258},{"q":"Nombra una aplicación de mensajería","n":186},{"q":"Nombra una aplicación de música","n":75},{"q":"Nombra una marca de ordenadores","n":29},{"q":"Nombra una marca de relojes","n":33},{"q":"Nombra una marca de lujo","n":38},{"q":"Nombra una marca de zapatillas","n":38},{"q":"Nombra un banco","n":137},{"q":"Nombra una cadena de restaurantes","n":942},{"q":"Nombra una cadena hotelera","n":397},{"q":"Nombra una discoteca famosa","n":594},{"q":"Nombra una fiesta de España","n":294},{"q":"Nombra una enfermedad infecciosa","n":688}];</script><script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.45.4/dist/umd/supabase.min.js"></script>
+<script>const PREGUNTAS=[{"q":"Nombra algo que hay en una boda","n":213},{"q":"Nombra una marca de cerveza","n":2847},{"q":"Nombra una marca de relojes","n":409},{"q":"Nombra una canción de Taylor Swift","n":275},{"q":"Nombra un apellido español","n":82621},{"q":"Nombra una carrera universitaria","n":723},{"q":"Nombra la capital de un país","n":210}];</script><script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.45.4/dist/umd/supabase.min.js"></script>
 <script>
 "use strict";
 /* ═════════ constantes ═════════ */
@@ -288,12 +295,6 @@ function idxNivel(r){
 const nivel = r => { const i = idxNivel(r); return i === null ? null : NIVELES[i]; };
 const numNivel = r => idxNivel(r) + 1;
 const FALLO = "❌";
-
-// Franjas del iceberg (solo color: cuanto más hondo, más oscuro)
-const CAPAS = [
-  {m:0,col:"#ffffff"},{m:70,col:"#d4eef8"},{m:150,col:"#9dd6ec"},
-  {m:250,col:"#58abd6"},{m:350,col:"#2d74ae"},{m:450,col:"#173f7a"}
-];
 
 /* ═════════ utilidades ═════════ */
 const $ = s => document.querySelector(s);
@@ -348,9 +349,12 @@ function evalua(pregunta, texto){
   for (let t=0;t<5;t++)
     for (const [disp,claves] of pregunta.t[t])
       if (claves.includes(q)) return {nv:t, disp};
-  // tolerancia a erratas, solo en palabras con cuerpo
+  // tolerancia a erratas, solo en palabras con cuerpo. En bancos enormes (apellidos) casi cualquier
+  // invento queda a una letra de algo raro, así que ahí la errata solo vale hacia respuestas conocidas.
+  if (q.length < 5) return null;
+  const hasta = pregunta.t[4].length > 5000 ? 3 : 5;
   let mejor=null;
-  for (let t=0;t<5;t++)
+  for (let t=0;t<hasta;t++)
     for (const [disp,claves] of pregunta.t[t])
       for (const k of claves){
         if (k.length < 5) continue;
@@ -373,16 +377,44 @@ const IZQ = [[0,.46],[10,.42],[22,.40],[34,.33],[50,.29],[62,.24],[70,.20],
 const DER = [[0,.48],[8,.53],[20,.55],[32,.61],[46,.63],[60,.70],[70,.76],
   [95,.86],[150,.94],[220,.98],[310,.93],[390,.97],[460,.91],[540,.85],[610,.77],[670,.64],[700,.53]];
 
+// Filas de la malla de facetas (metros) y color del hielo según la hondura
+const FILAS = [0,12,26,44,70,100,150,220,300,380,460,540,610,665,700];
+const TONOS_AIRE = [[0,"#ffffff"],[70,"#d9ecf7"]];
+const TONOS_AGUA = [[70,"#8fcbe8"],[230,"#56a6d6"],[400,"#2f78b8"],[560,"#1d549a"],[700,"#143c78"]];
+
+const rgb = h => [1,3,5].map(i => parseInt(h.slice(i,i+2),16));
+const mezcla = (a,b,t) => a.map((v,i) => Math.round(v + (b[i]-v)*t));
+const sale = v => typeof v === "number" ? v : "rgb(" + rgb(v) + ")";
+function enTramo(tabla, m){
+  if (m <= tabla[0][0]) return sale(tabla[0][1]);
+  for (let i=1;i<tabla.length;i++) if (m <= tabla[i][0]){
+    const [m0,v0] = tabla[i-1], [m1,v1] = tabla[i], t = (m-m0)/(m1-m0);
+    return typeof v0 === "number" ? v0 + (v1-v0)*t : "rgb(" + mezcla(rgb(v0),rgb(v1),t) + ")";
+  }
+  return sale(tabla[tabla.length-1][1]);
+}
+// aclara (t > 0) u oscurece (t < 0) un color "rgb(r,g,b)"
+function matiza(c, t, sombra){
+  const v = c.match(/\d+/g).map(Number);
+  return "rgb(" + mezcla(v, t > 0 ? [255,255,255] : sombra, Math.min(1, Math.abs(t))) + ")";
+}
+
 function geometria(){
   const r = $("#hielo").getBoundingClientRect();
-  const W = r.width, H = r.height, estrecho = W < 200;
-  const arriba = Math.max(34, H*.07), abajo = 18;
-  const L = estrecho ? 6 : 18, R = estrecho ? W-6 : W*.66;
+  const W = r.width, H = r.height;
+  // Z: el hueco que deja libre la tarjeta, que es donde se dibuja el iceberg
+  const Z = Math.max(60, $("#escena").getBoundingClientRect().left - r.left);
+  const estrecho = Z < 200;
+  const arriba = $("#barra").offsetHeight + (estrecho ? 22 : Math.max(34, H*.055));
+  const abajo = estrecho ? 18 : Math.max(26, H*.05);
   // la punta se dibuja algo más alta de lo real para que se lea; el resto va a escala
-  const alto = H-arriba-abajo, corte = .15;
+  const alto = H-arriba-abajo, corte = .24;
+  const ancho = estrecho ? Z-12 : Math.min(Z*.62, alto*.68);
+  const centro = estrecho ? Z/2 : Z*.55;
+  const L = centro-ancho/2, R = centro+ancho/2;
   const y = m => arriba + (m <= FLOTACION ? (m/FLOTACION)*corte : corte + ((m-FLOTACION)/(FONDO-FLOTACION))*(1-corte)) * alto;
   const x = f => L + f*(R-L);
-  return {W,H,estrecho,y,x,L,R};
+  return {W,H,Z,estrecho,y,x,L,R};
 }
 
 function el(tag, attrs, padre){
@@ -394,71 +426,117 @@ function el(tag, attrs, padre){
 
 function dibujaIceberg(){
   G = geometria();
-  const {W,H,estrecho,y,x} = G;
+  const {W,H,Z,estrecho,y,x,L,R} = G;
   svg.setAttribute("viewBox", `0 0 ${W} ${H}`);
   svg.innerHTML = "";
   const defs = el("defs",{},svg);
-  const gm = el("linearGradient",{id:"gMar",x1:0,y1:0,x2:0,y2:1},defs);
   const tk = n => getComputedStyle(document.documentElement).getPropertyValue(n).trim();
+  const gm = el("linearGradient",{id:"gMar",x1:0,y1:0,x2:0,y2:1},defs);
   el("stop",{offset:0,"stop-color":tk("--mar")},gm);
-  el("stop",{offset:.45,"stop-color":tk("--mar")},gm);
+  el("stop",{offset:.5,"stop-color":"#1f5f8f"},gm);
   el("stop",{offset:1,"stop-color":tk("--fondo")},gm);
   const gc = el("linearGradient",{id:"gCielo",x1:0,y1:0,x2:0,y2:1},defs);
   el("stop",{offset:0,"stop-color":tk("--cielo")},gc);
-  el("stop",{offset:1,"stop-color":tk("--cielo")},gc);
+  el("stop",{offset:1,"stop-color":"#f3e4dd"},gc);
 
-  const yf = y(FLOTACION);
+  const yf = y(FLOTACION), y0 = y(0);
   el("rect",{x:0,y:0,width:W,height:yf,fill:"url(#gCielo)"},svg);
+
+  // cielo: sol, nubes en el horizonte y dos gaviotas
+  if (!estrecho){
+    el("circle",{cx:Z*.74,cy:y0 + (yf-y0)*.12,r:Math.min(36,Z*.055),fill:"#fffaf2"},svg);
+    const nube = (cx, a) => {
+      const g = el("g",{fill:"#ffffff",opacity:.85},svg);
+      [[0,0,1,.34],[-.5,.06,.6,.2],[.55,.08,.7,.22],[.1,-.16,.45,.26]].forEach(([dx,dy,rx,ry]) =>
+        el("ellipse",{cx:cx+dx*a,cy:yf-a*.1+dy*a,rx:rx*a*.6,ry:ry*a*.6},g));
+    };
+    nube(Z*.07, 90); nube(Z*.93, 110); nube(W*.985, 80);
+    [[Z*.87,y0 + (yf-y0)*.04,1],[Z*.89,y0 + (yf-y0)*.3,1.15]].forEach(([bx,by,s]) =>
+      el("path",{d:`M${bx-13*s} ${by+2*s} q7 ${-7*s} ${13*s} 0 q6 ${-7*s} ${13*s} ${-2*s}`,fill:"none",
+        stroke:"#5b86ad","stroke-width":2,"stroke-linecap":"round"},svg));
+  }
+
   el("rect",{x:0,y:yf,width:W,height:H-yf,fill:"url(#gMar)"},svg);
 
-  // contorno
-  const izq = IZQ.map(([m,f]) => `${x(f).toFixed(1)},${y(m).toFixed(1)}`);
-  const der = DER.slice().reverse().map(([m,f]) => `${x(f).toFixed(1)},${y(m).toFixed(1)}`);
-  const puntos = izq.concat(der).join(" ");
-  const cp = el("clipPath",{id:"cpHielo"},defs);
-  el("polygon",{points:puntos},cp);
-
-  // capas, recortadas por el contorno
-  const capas = el("g",{"clip-path":"url(#cpHielo)"},svg);
-  CAPAS.forEach((c,i) => {
-    const y0 = y(c.m), y1 = i < CAPAS.length-1 ? y(CAPAS[i+1].m) : H;
-    el("rect",{x:0,y:y0,width:W,height:y1-y0,fill:c.col},capas);
-  });
-  // lo que queda bajo el agua se ve un poco velado
-  el("rect",{x:0,y:yf,width:W,height:H-yf,fill:"#062038",opacity:.14},capas);
-  // vetas del hielo
-  for (let k=0;k<26;k++){
-    const m = 8 + k*26 + (k%3)*5, yy = y(m);
-    el("line",{x1:0,y1:yy,x2:W,y2:yy+((k%2)?6:-4),stroke:m<FLOTACION?"#b9d6e2":"#ffffff","stroke-width":1,opacity:m<FLOTACION?.7:.12},capas);
-  }
-  el("polygon",{points:puntos,fill:"none",stroke:"#ffffff","stroke-width":1.2,opacity:.55},svg);
-
-  // separación entre capas: raya que cruza todo el mar
-  CAPAS.forEach((c,i) => {
-    if (i === 0) return;
-    const yy = y(c.m);
-    el("line",{x1:0,y1:yy,x2:W,y2:yy,stroke:i===1?"#ffffff":"#8fb0c4","stroke-width":1,
-      "stroke-dasharray":i===1?"0":"3 5",opacity:i===1?.9:.45},svg);
-  });
-
-  // línea de flotación, con oleaje
-  let ola = `M0 ${yf}`;
-  for (let xx=0; xx<=W+12; xx+=12) ola += ` Q${xx+6} ${yf-3} ${xx+12} ${yf}`;
-  el("path",{d:ola,fill:"none",stroke:"#ffffff","stroke-width":2,opacity:.95},svg);
-
+  // mar: rayos de luz, peces y las rocas del fondo
+  [[.10,.07,-.10],[.34,.05,-.06],[.62,.08,-.02],[.82,.05,.03]].forEach(([fx,fa,incl]) =>
+    el("polygon",{points:`${W*fx},${yf} ${W*(fx+fa)},${yf} ${W*(fx+fa*1.9+incl)},${H} ${W*(fx+incl-fa*.6)},${H}`,
+      fill:"#ffffff",opacity:.045},svg));
+  const pez = (px, py, s, dir) => el("path",{
+    d:`M${px} ${py} q${9*s*dir} ${-5*s} ${20*s*dir} 0 l${7*s*dir} ${-4*s} l${-1.5*s*dir} ${4*s} l${1.5*s*dir} ${4*s} l${-7*s*dir} ${-4*s} q${-11*s*dir} ${5*s} ${-20*s*dir} 0z`,
+    fill:"#0c2a4d",opacity:.38},svg);
   if (!estrecho){
-    const nota = el("text",{x:G.W-12,y:yf-8,"text-anchor":"end",fill:"#4a6378","font-size":9.5},svg);
-    nota.textContent = "solo asoma el 10 %";
+    [[.10,.55,.9,1],[.16,.6,.7,1],[.08,.9,1.3,1],[.2,.88,.8,1],[.24,.93,.7,1],[.12,.97,1,1],
+     [.90,.42,1.1,-1],[.96,.47,.8,-1],[.93,.52,.7,-1]].forEach(([fx,fy,s,dir]) =>
+      pez(Z*fx, yf + (H-yf)*fy, s, dir));
+  }
+  const roca = (pts, color) => el("polygon",{
+    points:pts.map(([fx,fh]) => `${(W*fx).toFixed(1)},${(H - H*fh).toFixed(1)}`).join(" "),fill:color},svg);
+  if (!estrecho){
+    roca([[.35,0],[.39,.03],[.42,.08],[.45,.06],[.48,.13],[.51,.11],[.54,.05],[.60,.09],[.66,.04],[.74,.07],
+          [.81,.13],[.85,.11],[.90,.2],[.94,.17],[.97,.27],[1,.25],[1,0]], "#1b3a63");
+    roca([[.33,0],[.38,.02],[.41,.045],[.44,.03],[.47,.085],[.5,.06],[.55,.035],[.63,.03],[.72,.045],
+          [.79,.03],[.84,.09],[.88,.07],[.92,.15],[.96,.13],[1,.19],[1,0]], "#0f2140");
+  }
+
+  // el iceberg, tallado en facetas: cada fila se oscurece al bajar
+  const corta = (perfil, m) => enTramo(perfil, m);
+  const azar = mulberry(23);
+  const filas = FILAS.map(m => {
+    const a = corta(IZQ,m), d = corta(DER,m);
+    const p1 = a + (d-a)*(.26 + azar()*.14), p2 = a + (d-a)*(.60 + azar()*.14);
+    return {m, xs:[a,p1,p2,d].map(x), yy:y(m)};
+  });
+  const hielo = el("g",{},svg);
+  const luz = [.16,-.02,-.2];        // la cara izquierda recibe la luz, la derecha queda en sombra
+  for (let i=0;i<filas.length-1;i++){
+    const f0 = filas[i], f1 = filas[i+1], aire = f1.m <= FLOTACION;
+    const tabla = aire ? TONOS_AIRE : TONOS_AGUA;
+    for (let c=0;c<3;c++){
+      const A = [f0.xs[c],f0.yy], B = [f0.xs[c+1],f0.yy], C = [f1.xs[c+1],f1.yy], D = [f1.xs[c],f1.yy];
+      const tris = (i+c)%2 ? [[A,B,D],[B,C,D]] : [[A,B,C],[A,C,D]];
+      tris.forEach((t,k) => {
+        const base = enTramo(tabla, k ? f1.m*.7+f0.m*.3 : f0.m*.7+f1.m*.3);
+        // bajo el agua la luz se va apagando con la hondura
+        const hondo = aire ? 0 : (f0.m-FLOTACION)/(FONDO-FLOTACION);
+        const tono = (luz[c] > 0 ? luz[c]*(1-hondo) : luz[c]) + (k ? -.05 : .05) + (azar()-.5)*.1;
+        const color = aire ? matiza(base, tono*2.6, [150,196,228]) : matiza(base, tono, [10,38,82]);
+        el("polygon",{points:t.map(p => p[0].toFixed(1)+","+p[1].toFixed(1)).join(" "),
+          fill:color,stroke:color,"stroke-width":.7,"stroke-linejoin":"round"},hielo);
+      });
+    }
+  }
+
+  // línea de flotación, con oleaje y espuma
+  let ola = `M0 ${yf}`;
+  for (let xx=0; xx<=W+14; xx+=14) ola += ` Q${xx+7} ${yf-3.5} ${xx+14} ${yf}`;
+  el("path",{d:ola + ` V${yf+7} H0Z`,fill:tk("--mar"),opacity:.55},svg);
+  el("path",{d:ola,fill:"none",stroke:"#ffffff","stroke-width":2.5,"stroke-linecap":"round"},svg);
+
+  // escala de hondura
+  if (!estrecho){
+    const xe = Math.max(58, L*.5), fin = R + (Z-R)*.45;
+    el("line",{x1:xe,y1:y0,x2:xe,y2:yf,stroke:tk("--tinta"),"stroke-width":1.2,opacity:.45},svg);
+    el("line",{x1:xe,y1:yf,x2:xe,y2:y(FONDO),stroke:"#ffffff","stroke-width":1.2,opacity:.8},svg);
+    [0,350,700].forEach(m => {
+      const yy = y(m), claro = m > FLOTACION;
+      el("line",{x1:xe,y1:yy,x2:fin,y2:yy,stroke:claro?"#ffffff":tk("--tinta"),"stroke-width":1,
+        "stroke-dasharray":"5 5",opacity:claro?.4:.25},svg);
+      el("circle",{cx:xe,cy:yy,r:3,fill:claro?"#ffffff":tk("--tinta")},svg);
+      const t = el("text",{x:xe-10,y:yy+4,"text-anchor":"end",fill:claro?"#ffffff":tk("--tinta"),"font-size":12.5,"font-weight":600},svg);
+      t.textContent = m + " m";
+    });
   }
 
   // grupo de pines y marcador
   el("g",{id:"pines"},svg);
   const mk = el("g",{id:"marca-tu"},svg);
-  el("line",{x1:0,y1:0,x2:W,y2:0,stroke:tk("--boya"),"stroke-width":2},mk);
-  el("circle",{cx:x(.5),cy:0,r:6,fill:tk("--boya"),stroke:"#ffffff","stroke-width":2},mk);
+  el("line",{x1:0,y1:0,x2:Z,y2:0,stroke:tk("--boya"),"stroke-width":estrecho?2:1.6,
+    "stroke-dasharray":estrecho?"0":"5 4"},mk);
+  el("circle",{cx:x(.47),cy:0,r:estrecho?5:7,fill:tk("--boya"),stroke:"#ffffff","stroke-width":estrecho?1.5:0},mk);
   const chip = el("g",{id:"chip"},mk);
-  el("rect",{x:0,y:-11,width:10,height:22,rx:11,fill:tk("--boya")},chip);
-  el("text",{x:0,y:4,fill:tk("--boya-tinta"),"font-size":estrecho?10:11,"font-weight":600},chip);
+  el("rect",{x:0,y:-13,width:10,height:26,rx:13,fill:estrecho?tk("--boya"):tk("--boya-suave")},chip);
+  el("text",{x:0,y:4,fill:tk("--boya-tinta"),"font-size":estrecho?11:13,"font-weight":700},chip);
 
   pintaPines();
   mueveMarca();
@@ -478,13 +556,13 @@ function pintaPines(){
       let ty = yy; if (ty - ultimoY < 17) ty = ultimoY + 17; ultimoY = ty;
       const texto = nivel(p) ? p.disp : "sin respuesta";
       const t = el("text",{x:cx + (i%2 ? -10 : 10),y:ty+3.5,"text-anchor":i%2?"end":"start",
-        fill:"#0a1f35","font-size":10.5,"font-weight":600,"paint-order":"stroke",stroke:"#ffffff","stroke-width":3,
+        fill:"#0a1f35","font-size":12,"font-weight":700,"paint-order":"stroke",stroke:"#ffffff","stroke-width":3,
         "stroke-linejoin":"round"},g);
       t.textContent = texto.length > 26 ? texto.slice(0,25)+"…" : texto;
       // si no cabe por su lado, se pasa al otro lado del punto
       const largo = t.getComputedTextLength();
       if (i % 2 && cx - 10 - largo < 6){ t.setAttribute("text-anchor","start"); t.setAttribute("x", cx + 10); }
-      else if (!(i % 2) && cx + 10 + largo > G.W - 6){ t.setAttribute("text-anchor","end"); t.setAttribute("x", cx - 10); }
+      else if (!(i % 2) && cx + 10 + largo > G.Z - 6){ t.setAttribute("text-anchor","end"); t.setAttribute("x", cx - 10); }
     }
   });
 }
@@ -495,12 +573,14 @@ function mueveMarca(){
   const yy = G.y(Math.min(FONDO, profVista));
   mk.setAttribute("transform", `translate(0 ${yy.toFixed(1)})`);
   const chip = $("#chip"), txt = chip.lastElementChild, caja = chip.firstElementChild;
-  txt.textContent = G.estrecho ? mil(profVista)+" m" : "tú · " + mil(profVista) + " m";
-  const ancho = txt.getComputedTextLength() + 16;
-  const cx = G.estrecho ? G.W - ancho - 4 : 10;
+  txt.textContent = G.estrecho ? mil(profVista)+" m" : "Tú · " + mil(profVista) + " m";
+  const margen = G.estrecho ? 8 : 16;
+  const ancho = txt.getComputedTextLength() + margen*2;
+  const cx = G.estrecho ? G.Z - ancho - 4 : 12;
   caja.setAttribute("x", cx); caja.setAttribute("width", ancho);
-  txt.setAttribute("x", cx + 8);
-  chip.setAttribute("transform", yy < 30 ? "translate(0 14)" : "");
+  txt.setAttribute("x", cx + margen);
+  // la raya discontinua sale de la etiqueta y llega hasta el punto
+  if (!G.estrecho) mk.firstElementChild.setAttribute("x1", cx + ancho), mk.firstElementChild.setAttribute("x2", G.x(.47));
 }
 
 function anima(){
@@ -542,6 +622,8 @@ const CACHE_PREG = new Map();
 function cargaPregunta(i){
   if (!CACHE_PREG.has(i)) CACHE_PREG.set(i, fetch("banco/" + String(i).padStart(2,"0") + ".json")
     .then(r => { if (!r.ok) throw new Error(r.status); return r.json(); })
+    // una respuesta sin alias viene como texto suelto: su clave es la del propio texto
+    .then(p => { p.t = p.t.map(nv => nv.map(x => typeof x === "string" ? [x, [compacta(x)]] : x)); return p; })
     .catch(e => { CACHE_PREG.delete(i); throw e; }));
   return CACHE_PREG.get(i);
 }
@@ -584,22 +666,23 @@ function portada(){
   pantalla = "portada";
   const est = stats();
   const hecho = hechoHoy();
-  $("#dia").textContent = "Reto nº " + numeroDia(hoyMadrid());
   profMeta = 0; fijaPines([]);
 
   escena.innerHTML = `
   <div class="panel">
-    <p class="rotulo">El reto diario · ${esc(hoyMadrid().split("-").reverse().join("/"))}</p>
     <h1>Sabi<em>hondo</em></h1>
     <p class="lema">Siete preguntas al día, las mismas para todo el mundo. Vale cualquier respuesta correcta, pero lo obvio te deja en la punta del iceberg. <b>Cuanto más nicho, más bajas.</b></p>
     <ul class="reglas">
-      <li><span class="num">7</span><span><b>Rondas.</b> Enunciados abiertos: «Nombra una provincia de España», «Nombra un Pokémon de la primera generación».</span></li>
-      <li><span class="num">25 s</span><span><b>Por ronda</b>, y una sola respuesta.</span></li>
-      <li><span class="num">700 m</span><span><b>El fondo del iceberg.</b> Llegas con siete joyas seguidas. Si solo dices lo obvio, te quedas en 70 m, justo en la línea de flotación.</span></li>
+      <li><span class="ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M8.2 8.4a3.9 3.9 0 1 1 5.9 3.3c-1.3.8-2.1 1.5-2.1 3.1"/><path d="M12 19.2v.1"/></svg></span>
+        <span><b>7 rondas</b>Enunciados abiertos: «Nombra una provincia de España», «Nombra un Pokémon de la primera generación».</span></li>
+      <li><span class="ico"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="8.6" fill="none" stroke="currentColor" stroke-width="2.4"/><path d="M12 12V6.2A5.8 5.8 0 0 1 17.8 12Z" fill="currentColor"/></svg></span>
+        <span><b>25 segundos</b>Por ronda, y una sola respuesta.</span></li>
+      <li><span class="ico"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M2 19.5 9.2 6l3.6 6.2 2.4-3.4L22 19.5Z"/><path d="M9.2 6l2 3.5-1.9 1.6-1.9-1.7Z" fill="#fff" opacity=".9"/></svg></span>
+        <span><b>700 metros</b>El fondo del iceberg. Llegas con siete joyas seguidas.</span></li>
     </ul>
     <div class="botonera">
       ${hecho ? `<button class="btn" id="bVer">Ver tu iceberg de hoy</button>`
-              : `<button class="btn" id="bJugar">Empezar a bajar</button>`}
+              : `<button class="btn" id="bJugar">Empezar a bajar <span aria-hidden="true">→</span></button>`}
       <button class="btn fantasma" id="bLibre">Partida libre</button>
       ${est.racha ? `<span class="racha">Racha: ${est.racha} ${est.racha>1?"días":"día"}</span>` : ``}
     </div>
@@ -627,7 +710,6 @@ function responder(){
   escena.innerHTML = `
   <div class="panel" id="tarjeta">
     ${cabecera()}
-    <p class="rotulo">Enunciado</p>
     <p class="enunciado">${esc(p.q)}</p>
     <form id="f" autocomplete="off">
       <input type="text" id="r" placeholder="tu respuesta" autocomplete="off"
@@ -1048,7 +1130,7 @@ function ayuda(abrir){
     </ul>
     <p class="mini">De un iceberg solo asoma el 10 %. Aquí pasa igual: siete respuestas de superficie suman 70 m y te dejan justo en la línea de flotación.</p>
     <h3>De dónde salen las respuestas</h3>
-    <p class="mini">Cuando hay una lista oficial, sale de ahí: el INE para provincias y comunidades, la ONU para países y capitales, la UNESCO para el Patrimonio Mundial o la Unión Astronómica Internacional para las constelaciones.</p>
+    <p class="mini">De listas reales siempre que existen. Los apellidos son los del INE y puntúan según cuánta gente los lleva. Las carreras salen del registro oficial de títulos y cuentan en cuántas universidades se estudian. Las canciones de Taylor Swift se ordenan por reproducciones en Spotify y las capitales por visitas en Wikipedia. En cervezas y relojes, las marcas conocidas en España están ordenadas a mano y el resto por su presencia en Wikipedia. La de bodas está hecha a mano entera.</p>
     <h3>Erratas</h3>
     <p class="mini">Se perdonan. «Cadiz» o «Pikachú» entran igual, porque se compara sin tildes y con margen de un par de letras.</p>
     <h3>Lo que no está</h3>
