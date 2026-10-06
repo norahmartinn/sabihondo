@@ -101,24 +101,26 @@ h1 em{font-style:normal;color:var(--boya)}
 .tuto-paso{font-size:14px;font-weight:700;color:var(--tinta-suave);margin:0 0 14px}
 .tuto h2{font-size:clamp(28px,3.6vw,40px);margin:22px 0 0;text-wrap:balance}
 .tuto .lema{margin-top:10px;font-size:18px}
-.demo{background:#fff;border:1.5px solid var(--linea);border-radius:18px;padding:20px 22px;display:grid;gap:14px;
-  pointer-events:none;user-select:none}
-.demo .enunciado{font-size:24px}
+/* los ejemplos son ilustraciones, no controles: marco discontinuo, fondo apagado y etiqueta «Ejemplo» */
+.demo{position:relative;background:color-mix(in srgb,var(--tinta) 5%,var(--hielo));border:1.5px dashed var(--linea);border-radius:18px;
+  padding:30px 22px 20px;margin-top:12px;display:grid;gap:12px;pointer-events:none;user-select:none;cursor:default}
+.demo::before{content:"Ejemplo";position:absolute;top:-12px;left:18px;background:var(--tinta);color:#fff;
+  font-size:12.5px;font-weight:700;line-height:1;padding:6px 12px;border-radius:999px}
+.demo .enunciado{font-size:21px}
 .demo-campo{display:flex;gap:8px;align-items:stretch}
-.demo-campo span{flex:1;border:1.5px solid var(--boya);border-radius:12px;padding:11px 14px;font-size:16px;
-  box-shadow:0 0 0 4px color-mix(in srgb,var(--boya) 24%,transparent)}
+.demo-campo span{flex:1;background:#fff;border:1.5px solid var(--linea);border-radius:10px;padding:8px 12px;font-size:15px}
 .demo-campo span::after{content:"";display:inline-block;width:1.5px;height:1.1em;background:var(--tinta);vertical-align:-3px;margin-left:2px;
   animation:late 1s steps(2) infinite}
-.demo-campo b{background:var(--boya);border-radius:12px;padding:11px 18px;font-weight:800;display:grid;place-items:center}
+.demo-campo b{background:color-mix(in srgb,var(--boya) 55%,#fff);border-radius:10px;padding:8px 14px;font-size:14px;font-weight:800;display:grid;place-items:center}
 .demo .reloj{margin-top:0}
 .demo .segundos{font-size:24px}
 .demo-fila{display:grid;grid-template-columns:1fr auto;gap:4px 14px;align-items:center}
 .demo-fila + .demo-fila{border-top:1px solid var(--linea);padding-top:14px}
-.demo-fila .r{font-family:var(--disp);font-size:24px;line-height:1.1}
+.demo-fila .r{font-family:var(--disp);font-size:21px;line-height:1.1}
 .demo-fila .m{font-family:var(--disp);font-size:24px;color:var(--boya-hondo);font-variant-numeric:lining-nums;grid-row:span 2}
 .demo-fila .tag{justify-self:start;margin:0}
-.demo.mar{padding:0;overflow:hidden;border:none}
-.demo.mar svg{display:block;width:100%;height:auto}
+.demo.mar{padding:24px 14px 14px}
+.demo.mar svg{display:block;width:100%;height:auto;border-radius:10px}
 .puntos{display:flex;gap:7px;align-items:center}
 .puntos i{width:9px;height:9px;border-radius:50%;background:var(--linea);display:block}
 .puntos i.on{width:26px;border-radius:999px;background:var(--boya)}
@@ -190,6 +192,8 @@ input[type=text]:focus,input[type=email]:focus,input[type=password]:focus{outlin
 .form-cuenta{display:grid;gap:6px;margin-top:16px}
 .form-cuenta label{font-family:var(--sans);font-size:13px;color:var(--tinta-suave);margin-top:6px}
 .form-cuenta .btn{margin-top:12px;justify-self:start}
+.fila-apodo{display:flex;gap:8px;flex-wrap:wrap}
+.fila-apodo .btn{margin-top:0;padding:13px 20px;font-size:15.5px}
 .form-cuenta .btn:disabled{opacity:.5;cursor:wait}
 .aviso-cuenta{margin-top:18px;padding:13px 16px;background:#fff;border:1px solid var(--linea);border-radius:12px;max-width:none}
 .enlace{color:var(--boya-hondo);font-weight:700;text-decoration:underline;text-underline-offset:2px;padding:0}
@@ -277,7 +281,7 @@ h3{font-family:var(--sans);font-size:13.5px;color:var(--boya-hondo);
   .botonera{margin-top:22px;gap:10px}
   .btn{padding:14px 20px;font-size:16px}
   .btn.grande{font-size:17px;padding:18px 16px;gap:8px}
-  .demo{padding:16px}
+  .demo{padding:26px 16px 16px}
   .demo .enunciado,.demo-fila .r,.demo-fila .m{font-size:20px}
 }
 @media (prefers-reduced-motion:reduce){*{animation-duration:.01ms!important;transition-duration:.01ms!important}}
@@ -559,7 +563,8 @@ function dibujaIceberg(){
     });
   }
 
-  // grupo de pines y marcador
+  // grupo del récord del día, de pines y marcador
+  el("g",{id:"record"},svg);
   el("g",{id:"pines"},svg);
   const mk = el("g",{id:"marca-tu"},svg);
   el("line",{x1:0,y1:0,x2:Z,y2:0,stroke:tk("--boya"),"stroke-width":estrecho?2:1.6,
@@ -569,8 +574,38 @@ function dibujaIceberg(){
   el("rect",{x:0,y:-13,width:10,height:26,rx:13,fill:estrecho?tk("--boya"):tk("--boya-suave")},chip);
   el("text",{x:0,y:4,fill:tk("--boya-tinta"),"font-size":estrecho?11:13,"font-weight":700},chip);
 
+  pintaRecord();
   pintaPines();
   mueveMarca();
+}
+
+// El mejor resultado de hoy entre quienes tienen cuenta: una raya dorada a su profundidad.
+// En partida libre no se enseña, porque ahí no se compite por el récord.
+let RECORD = null;
+function pintaRecord(){
+  const g = $("#record"); if (!g || !G) return;
+  g.innerHTML = "";
+  const libre = pantalla !== "portada" && pantalla !== "tutorial" && J && J.modo === "libre";
+  if (!RECORD || !(RECORD.puntos > 0) || libre) return;
+  const {y,x,Z,R,estrecho} = G, yy = y(Math.min(FONDO, RECORD.puntos)), oro = "#ffcf5c";
+  const fin = estrecho ? Z : R + (Z-R)*.8;
+  el("line",{x1:estrecho?0:x(.5),y1:yy,x2:fin,y2:yy,stroke:oro,"stroke-width":2,"stroke-dasharray":"2 5","stroke-linecap":"round"},g);
+  el("path",{d:`M${fin-7} ${yy} l7 -7 l7 7 l-7 7z`,fill:oro,stroke:"#12294b","stroke-width":1},g);
+  if (estrecho) return;
+  const caja = el("rect",{y:yy-31,height:22,rx:11,fill:oro},g);
+  const t = el("text",{x:fin-3,y:yy-15.5,"text-anchor":"end",fill:"#12294b","font-size":12.5,"font-weight":700},g);
+  t.textContent = "Récord de hoy · " + mil(RECORD.puntos) + " m · " + (RECORD.apodo || "Anónimo");
+  const ancho = t.getComputedTextLength() + 20;
+  caja.setAttribute("x", fin + 7 - ancho); caja.setAttribute("width", ancho);
+}
+async function cargaRecord(){
+  if (!Cuenta.sb) return;
+  try{
+    const {data, error} = await Cuenta.sb.rpc("sabihondo_record", {dia:hoyMadrid()});
+    if (error) return;                       // la función aún no existe en Supabase: sin récord y sin ruido
+    RECORD = data && data[0] ? data[0] : null;
+    pintaRecord();
+  }catch{}
 }
 
 function pintaPines(){
@@ -697,7 +732,7 @@ function portada(){
   pantalla = "portada";
   const est = stats();
   const hecho = hechoHoy();
-  profMeta = 0; fijaPines([]);
+  profMeta = 0; fijaPines([]); pintaRecord();
 
   escena.innerHTML = `
   <div class="panel">
@@ -705,7 +740,7 @@ function portada(){
     <p class="lema">Siete preguntas al día, las mismas para todo el mundo. Vale cualquier respuesta correcta, pero lo obvio te deja en la punta del iceberg. <b>Cuanto más nicho, más bajas.</b></p>
     <ul class="reglas">
       <li><span class="ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M8.2 8.4a3.9 3.9 0 1 1 5.9 3.3c-1.3.8-2.1 1.5-2.1 3.1"/><path d="M12 19.2v.1"/></svg></span>
-        <span><b>7 rondas</b>Enunciados abiertos: «Nombra una provincia de España», «Nombra un Pokémon de la primera generación».</span></li>
+        <span><b>7 rondas</b>Enunciados abiertos: «Nombra una marca de cerveza», «Nombra un apellido español».</span></li>
       <li><span class="ico"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="8.6" fill="none" stroke="currentColor" stroke-width="2.4"/><path d="M12 12V6.2A5.8 5.8 0 0 1 17.8 12Z" fill="currentColor"/></svg></span>
         <span><b>25 segundos</b>Por ronda, y una sola respuesta.</span></li>
       <li><span class="ico"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M2 19.5 9.2 6l3.6 6.2 2.4-3.4L22 19.5Z"/><path d="M9.2 6l2 3.5-1.9 1.6-1.9-1.7Z" fill="#fff" opacity=".9"/></svg></span>
@@ -728,7 +763,7 @@ function portada(){
 /* ═════════ tutorial: tres pasos la primera vez que se abre el juego ═════════ */
 const PASOS = [
   { t:"Siete preguntas, 25 segundos cada una",
-    p:"Te pedimos que nombres algo, por ejemplo una marca de cerveza o un apellido. Escribes una sola respuesta y pasas a la siguiente.",
+    p:"Te pedimos que nombres algo, por ejemplo una marca de cerveza. Solo puedes dar una respuesta, así que intenta que sea la más rara que se te ocurra dentro de esa categoría.",
     demo:() => `<div class="demo" aria-hidden="true">
       <p class="enunciado">Nombra una marca de cerveza</p>
       <div class="demo-campo"><span>Napar</span><b>Bajar</b></div>
@@ -794,7 +829,7 @@ function paraReloj(){ if (temporizador){ cancelAnimationFrame(temporizador); tem
 function ronda(){
   pantalla = "juego";
   // partida nueva: el iceberg vuelve a la punta y sin las respuestas de la anterior
-  if (J.i === 0){ profMeta = 0; fijaPines([]); }
+  if (J.i === 0){ profMeta = 0; fijaPines([]); pintaRecord(); }
   responder();
 }
 
@@ -1046,6 +1081,7 @@ let pantalla = "portada";
 function iniciaCuenta(){
   if (!window.supabase) { pintaBotonCuenta(); return; }
   Cuenta.sb = window.supabase.createClient(SB_URL, SB_KEY);
+  cargaRecord();
   Cuenta.sb.auth.onAuthStateChange((_ev, sesion) => {
     const u = sesion?.user || null;
     if ((u && u.id) === (Cuenta.user && Cuenta.user.id)) return;
@@ -1091,8 +1127,10 @@ async function guardaEnNube(p){
   if (Cuenta.partidas && !Cuenta.partidas.some(x => x.fecha === p.fecha)) Cuenta.partidas.unshift(p);
   const {error} = await Cuenta.sb.from(TABLA).upsert([{user_id:Cuenta.user.id, ...p}], {onConflict:"user_id,fecha", ignoreDuplicates:true});
   if (error) console.warn("Sabihondo: no se pudo guardar la partida", error);
+  cargaRecord();
 }
 
+const apodoDe = u => ((u && u.user_metadata && u.user_metadata.apodo) || "").trim();
 const logueado = () => !!(Cuenta.user && Cuenta.partidas);
 function hechoHoy(){
   const hoy = hoyMadrid();
@@ -1115,7 +1153,7 @@ function pintaBotonCuenta(){
   if (!Cuenta.sb){ b.hidden = true; return; }
   b.hidden = false;
   if (Cuenta.user){
-    b.textContent = (Cuenta.user.email || "?")[0].toUpperCase();
+    b.textContent = (apodoDe(Cuenta.user) || Cuenta.user.email || "?")[0].toUpperCase();
     b.classList.add("dentro"); b.title = "Tu cuenta";
   } else {
     b.textContent = "Entrar"; b.classList.remove("dentro"); b.title = "Entrar o crear cuenta";
@@ -1145,6 +1183,14 @@ function abreCuenta(abrir, modo){
     <div class="panel">
       <h2>Tu cuenta</h2>
       <p class="mini" id="cuentaEmail"></p>
+      <form id="fApodo" class="form-cuenta" autocomplete="off">
+        <label for="cApodoMio">Tu apodo</label>
+        <div class="fila-apodo">
+          <input type="text" id="cApodoMio" required minlength="2" maxlength="20" placeholder="Como quieres salir en el récord">
+          <button class="btn fantasma" type="submit" id="bApodo">Guardar</button>
+        </div>
+        <p class="aviso" id="aApodo" role="status"></p>
+      </form>
       <div class="marcador">
         <div>Racha<b>${est.racha}</b></div>
         <div>Mejor racha<b>${est.mejorRacha}</b></div>
@@ -1165,6 +1211,19 @@ function abreCuenta(abrir, modo){
       </div>
     </div>`;
     $("#cuentaEmail").textContent = "Has entrado como " + (Cuenta.user.email || "");
+    $("#cApodoMio").value = apodoDe(Cuenta.user);
+    if (!apodoDe(Cuenta.user)) $("#aApodo").textContent = "Ponte un apodo para salir con nombre si haces el récord del día.";
+    $("#fApodo").addEventListener("submit", async e => {
+      e.preventDefault();
+      const apodo = $("#cApodoMio").value.trim().slice(0,20), aviso = $("#aApodo"), boton = $("#bApodo");
+      if (apodo.length < 2){ aviso.textContent = "El apodo necesita al menos 2 letras."; return; }
+      boton.disabled = true; aviso.textContent = "Guardando…";
+      const {data, error} = await Cuenta.sb.auth.updateUser({data:{apodo}});
+      boton.disabled = false;
+      if (error){ aviso.textContent = errorEs(error); return; }
+      if (data && data.user) Cuenta.user = data.user;
+      aviso.textContent = "Guardado."; pintaBotonCuenta(); cargaRecord();
+    });
     $("#bSalir").addEventListener("click", async () => { await Cuenta.sb.auth.signOut(); abreCuenta(false); });
   } else {
     const alta = Cuenta.modo === "alta";
@@ -1177,6 +1236,8 @@ function abreCuenta(abrir, modo){
         <button type="button" role="tab" id="tAlta" aria-selected="${alta}">Crear cuenta</button>
       </div>
       <form id="fCuenta" class="form-cuenta">
+        ${alta ? `<label for="cApodo">Apodo</label>
+        <input type="text" id="cApodo" autocomplete="nickname" required minlength="2" maxlength="20" placeholder="Así sales si haces el récord del día">` : ``}
         <label for="cEmail">Email</label>
         <input type="email" id="cEmail" autocomplete="email" required placeholder="tu@email.com">
         <label for="cPass">Contraseña</label>
@@ -1194,14 +1255,14 @@ function abreCuenta(abrir, modo){
       const email = $("#cEmail").value.trim(), password = $("#cPass").value, aviso = $("#cAviso"), boton = $("#bEnviar");
       boton.disabled = true; aviso.textContent = alta ? "Creando la cuenta…" : "Entrando…";
       const {data, error} = alta
-        ? await Cuenta.sb.auth.signUp({email, password})
+        ? await Cuenta.sb.auth.signUp({email, password, options:{data:{apodo:$("#cApodo").value.trim().slice(0,20)}}})
         : await Cuenta.sb.auth.signInWithPassword({email, password});
       boton.disabled = false;
       if (error){ aviso.textContent = errorEs(error); return; }
       if (alta && !data.session){ aviso.textContent = "Cuenta creada. Te hemos mandado un correo para confirmarla; ábrelo y luego entra aquí."; return; }
       aviso.textContent = "";
     });
-    $("#cEmail").focus();
+    (alta ? $("#cApodo") : $("#cEmail")).focus();
   }
   $("#bCerrarC").addEventListener("click", () => abreCuenta(false));
 }

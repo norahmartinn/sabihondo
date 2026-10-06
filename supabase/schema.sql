@@ -62,3 +62,22 @@ create table if not exists public.sabihondo_ia (
 );
 grant all on public.sabihondo_ia to service_role;
 alter table public.sabihondo_ia enable row level security;
+
+-- Récord del día: el mejor resultado de una fecha entre quienes tienen cuenta, con su apodo.
+-- Es lo único de las partidas ajenas que se puede leer desde la web: una fila, sin email ni respuestas.
+-- El apodo se guarda en los datos de la cuenta (auth.users.raw_user_meta_data->>'apodo').
+-- Si hay empate, gana quien llegó antes.
+create or replace function public.sabihondo_record(dia date)
+returns table (puntos integer, apodo text)
+language sql stable security definer set search_path = ''
+as $$
+  select p.puntos,
+         left(coalesce(nullif(btrim(u.raw_user_meta_data->>'apodo'), ''), 'Anónimo'), 20)
+  from public.sabihondo_partidas p
+  join auth.users u on u.id = p.user_id
+  where p.fecha = dia
+  order by p.puntos desc, p.created_at asc
+  limit 1;
+$$;
+revoke all on function public.sabihondo_record(date) from public;
+grant execute on function public.sabihondo_record(date) to anon, authenticated;
