@@ -93,7 +93,25 @@ def zapatillas():
     junta("zapatillas", cola, "categoria_wikipedia")
 
 def youtubers():
-    junta("youtubers", [(r["n"], r["alts"], 4 if r["art"] else 5, r["links"]) for r in wd("youtubers")], "ediciones_wikipedia")
+    """Canales de España entre los 1.000 más vistos (youtubers.me), con más de 100.000 suscriptores.
+    Fuera los de música y los de dibujos, que son de artistas y marcas. El nivel de los que no están
+    puestos a mano lo dan los suscriptores: 5 millones → nivel 3, 1 millón → 4, el resto → 5."""
+    t = (T2 / "youtubers_me_top1000_espana.html").read_text(encoding="utf-8", errors="replace")
+    cola = []
+    for f in re.findall(r"<tr[^>]*>(.*?)</tr>", t, re.S):
+        c = [html.unescape(re.sub(r"<[^>]+>", "", x)).strip() for x in re.findall(r"<td[^>]*>(.*?)</td>", f, re.S)]
+        if len(c) < 6 or not c[0].isdigit() or c[5] in ("Music", "Film & Animation"): continue
+        subs = int(c[2].replace(",", "") or 0)
+        if subs < 100000: continue
+        entero = re.sub(r"[^\w\s&'.!¡¿?*|+:·-]", "", c[1]).strip()                     # fuera emojis
+        corto = re.split(r"\s+[|*·:-]\s*|\s+\*", entero)[0].strip() or entero            # «DaniRep | +6 vídeos diarios» → DaniRep
+        if re.search(r"\b(oficial|official|españa|spain|kids|junior|tv|juguetes|canciones)\b", entero, re.I): continue   # marcas y cadenas
+        cola.append((corto, [entero] if entero != corto else [], nivel_por_umbral(subs, [10**12, 10**12, 5_000_000, 1_000_000]), subs))
+    no = {clave(x) for x in ["Jordi el Niño Polla", "Amarna Miller", "Iker Jiménez", "Pilar Rahola", "Vanesa Romero", "Pilar Eyre", "Albano Dante Fachin",
+                             "David Cirici", "Cristina Spínola", "Carolina Abril", "Abraham Maffeo", "pepe", "Daniel Rojo", "Real Madrid"]}
+    cola = [f for f in cola if clave(f[0]) not in no]
+    cola += [(r["n"], r["alts"], 5, 0) for r in wd("youtubers") if clave(r["n"]) not in no]
+    junta("youtubers", cola, "suscriptores_youtube")
 
 def pokemon():
     links = {r["en"].lower(): r["links"] for r in wd("pokemon")}
