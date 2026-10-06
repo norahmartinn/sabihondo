@@ -93,6 +93,9 @@ h1 em{font-style:normal;color:var(--boya)}
   box-shadow:0 8px 18px -10px color-mix(in srgb,var(--boya-hondo) 80%,transparent)}
 .btn:hover{background:color-mix(in srgb,var(--boya) 86%,var(--tinta));border-color:color-mix(in srgb,var(--boya) 86%,var(--tinta))}
 .btn:active{transform:translateY(1px)}
+.btn.oscuro{background:var(--tinta);border-color:var(--tinta);color:#fff;box-shadow:0 8px 18px -10px var(--tinta)}
+.btn.oscuro:hover{background:color-mix(in srgb,var(--tinta) 85%,#fff);border-color:color-mix(in srgb,var(--tinta) 85%,#fff)}
+.cima{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:10px 20px}
 .btn.fantasma{background:none;color:var(--tinta);border-color:var(--linea);box-shadow:none}
 .btn.fantasma:hover{border-color:var(--tinta);background:#fff}
 .racha{font-family:var(--sans);font-size:13.5px;color:var(--tinta-suave);}
@@ -214,6 +217,16 @@ input[type=text]:focus,input[type=email]:focus,input[type=password]:focus{outlin
 .h-nv i{width:14px;height:14px;border-radius:4px;display:block}
 .h-m{font-family:var(--sans);font-size:13px;font-weight:700;font-variant-numeric:tabular-nums}
 
+/* ── ranking ─────────────────────────────────────────── */
+.ranking{list-style:none;margin:14px 0 0;padding:0;border-top:1px solid var(--linea)}
+.ranking li{display:grid;grid-template-columns:44px 1fr auto;gap:12px;align-items:baseline;padding:11px 10px;border-bottom:1px solid var(--linea)}
+.ranking .puesto{font-family:var(--disp);font-size:20px;font-variant-numeric:lining-nums tabular-nums;color:var(--tinta-suave)}
+.ranking .quien{font-weight:800;font-size:16.5px;overflow-wrap:anywhere}
+.ranking .metros{font-weight:700;font-variant-numeric:tabular-nums}
+.ranking li.tu{background:var(--boya-suave);border-radius:10px;border-bottom-color:transparent}
+.ranking li.tu .puesto{color:var(--tinta)}
+.ranking li:first-child .puesto{color:var(--boya-hondo)}
+
 /* ── resultado ───────────────────────────────────────── */
 .hondura{font-family:var(--disp);font-weight:400;font-size:clamp(64px,11vw,108px);line-height:1;margin:6px 0 0;
   font-variant-numeric:lining-nums tabular-nums;letter-spacing:-.02em}
@@ -305,6 +318,7 @@ h3{font-family:var(--sans);font-size:13.5px;color:var(--boya-hondo);
     <span id="marca">Sabi<em>hondo</em></span>
     <span class="sep"></span>
     <button class="icono" id="bSon" aria-pressed="false" title="Sonido">♪</button>
+    <button class="icono" id="bRanking" title="Podio de hoy" aria-label="Podio de hoy" hidden><svg viewBox="0 0 24 24" width="18" height="18" fill="currentColor" aria-hidden="true"><rect x="9" y="5" width="6" height="15" rx="1"/><rect x="2.5" y="10" width="5.5" height="10" rx="1"/><rect x="16" y="13" width="5.5" height="7" rx="1"/></svg></button>
     <button class="icono" id="bAyuda" title="Cómo se juega">?</button>
     <button class="cuenta-btn" id="bCuenta" hidden>Entrar</button>
   </header>
@@ -758,7 +772,8 @@ function portada(){
         <span><b>700 metros</b></span></li>
     </ul>
     <div class="botonera">
-      ${hecho ? `<button class="btn" id="bVer">Ver tu iceberg de hoy</button>`
+      ${hecho ? `<button class="btn" id="bVer">Ver tu iceberg de hoy</button>
+                 ${Cuenta.sb ? `<button class="btn oscuro" id="bPodio"><svg viewBox="0 0 24 24" width="18" height="18" fill="currentColor" aria-hidden="true"><rect x="9" y="5" width="6" height="15" rx="1"/><rect x="2.5" y="10" width="5.5" height="10" rx="1"/><rect x="16" y="13" width="5.5" height="7" rx="1"/></svg> Ver podio</button>` : ``}`
               : `<button class="btn" id="bJugar">Empezar a bajar <span aria-hidden="true">→</span></button>`}
       ${est.racha ? `<span class="racha">Racha: ${est.racha} ${est.racha>1?"días":"día"}</span>` : ``}
     </div>
@@ -766,6 +781,7 @@ function portada(){
   </div>`;
 
   $("#bJugar")?.addEventListener("click", e => empieza("diaria", e.currentTarget));
+  $("#bPodio")?.addEventListener("click", ranking);
   $("#bVer")?.addEventListener("click", () => { J = {modo:"diaria", ...hecho, revisita:true}; final(); });
 }
 
@@ -998,7 +1014,10 @@ function final(){
   escena.innerHTML = `
   <div class="panel">
     <p class="rotulo">${J.modo==="libre" ? "Partida libre" : "Reto nº "+J.dia} · has bajado</p>
-    <p class="hondura">${mil(metros)}<small>m</small></p>
+    <div class="cima">
+      <p class="hondura">${mil(metros)}<small>m</small></p>
+      ${Cuenta.sb ? `<button class="btn oscuro" id="bVerRanking"><svg viewBox="0 0 24 24" width="18" height="18" fill="currentColor" aria-hidden="true"><rect x="9" y="5" width="6" height="15" rx="1"/><rect x="2.5" y="10" width="5.5" height="10" rx="1"/><rect x="16" y="13" width="5.5" height="7" rx="1"/></svg> Ver podio</button>` : ``}
+    </div>
     <p class="apunte" style="margin-top:4px">${metros >= FONDO ? "Siete joyas. Has tocado el fondo del iceberg."
       : metros < FLOTACION ? "Ni has llegado a mojarte. Mañana, más raro."
       : `Te faltaron ${mil(FONDO - metros)} m para tocar el fondo.`}</p>
@@ -1050,6 +1069,7 @@ function final(){
     setTimeout(()=>{ const o=$("#ok"); if(o) o.textContent=""; }, 2600);
   });
   $("#bGuardar")?.addEventListener("click", ()=>abreCuenta(true, "alta"));
+  $("#bVerRanking")?.addEventListener("click", ranking);
   $("#bIni").addEventListener("click", portada);
 }
 
@@ -1102,6 +1122,7 @@ let pantalla = "portada";
 function iniciaCuenta(){
   if (!window.supabase) { pintaBotonCuenta(); return; }
   Cuenta.sb = window.supabase.createClient(SB_URL, SB_KEY);
+  $("#bRanking").hidden = false;
   cargaRecord();
   Cuenta.sb.auth.onAuthStateChange((_ev, sesion) => {
     const u = sesion?.user || null;
@@ -1320,6 +1341,36 @@ function ayuda(abrir){
   $("#bVerTuto")?.addEventListener("click", () => { ayuda(false); tutorial(); });
 }
 $("#bAyuda").addEventListener("click", ()=>ayuda($("#ayuda").hidden));
+
+/* ═════════ ranking del día: quien tiene cuenta, con su apodo ═════════ */
+async function ranking(){
+  const caja = $("#ayuda");
+  caja.hidden = false; caja.scrollTop = 0;
+  const marco = cuerpo => { caja.innerHTML = `
+    <div class="panel">
+      <h2>Podio de hoy</h2>
+      <p class="mini">Los metros que ha bajado hoy cada persona con cuenta. Si hay empate, va delante quien jugó antes.</p>
+      ${cuerpo}
+      <div class="botonera"><button class="btn" id="bCerrar">Volver</button>
+        ${Cuenta.user ? "" : `<button class="btn fantasma" id="bRankCuenta">Crear una cuenta</button>`}</div>
+    </div>`;
+    $("#bCerrar").addEventListener("click", () => ayuda(false));
+    $("#bRankCuenta")?.addEventListener("click", () => { ayuda(false); abreCuenta(true, "alta"); });
+  };
+  marco(`<p class="mini">Cargando…</p>`);
+  $("#bCerrar").focus({preventScroll:true});
+  let filas = null;
+  try{ const {data, error} = await Cuenta.sb.rpc("sabihondo_ranking", {dia:hoyMadrid()}); if (!error) filas = data; }catch{}
+  if (caja.hidden) return;
+  if (!filas) return marco(`<p class="mini">Ahora mismo no se puede cargar el podio. Prueba dentro de un rato.</p>`);
+  if (!filas.length) return marco(`<p class="mini"><b>Todavía no ha jugado nadie con cuenta.</b> El primero que termine la partida de hoy se pone líder.</p>`);
+  marco(`<ol class="ranking">${filas.map(f => `<li class="${f.eres_tu ? "tu" : ""}">
+      <span class="puesto">${esc(f.puesto)}</span>
+      <span class="quien">${esc(f.apodo)}${f.eres_tu ? " (tú)" : ""}</span>
+      <span class="metros">${mil(f.puntos)} m</span></li>`).join("")}</ol>
+    ${Cuenta.user ? "" : `<p class="mini">Para salir aquí hace falta una cuenta.</p>`}`);
+}
+$("#bRanking").addEventListener("click", () => $("#ayuda").hidden ? ranking() : ayuda(false));
 addEventListener("keydown", e => { if (e.key === "Escape"){ ayuda(false); abreCuenta(false); } });
 
 const bs = $("#bSon");

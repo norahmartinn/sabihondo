@@ -81,3 +81,22 @@ as $$
 $$;
 revoke all on function public.sabihondo_record(date) from public;
 grant execute on function public.sabihondo_record(date) to anon, authenticated;
+
+-- Ranking del día: los metros de cada persona con cuenta en una fecha, con su apodo (hasta 100).
+-- Tampoco enseña emails ni respuestas. eres_tu marca la fila de quien pregunta, si ha iniciado sesión.
+create or replace function public.sabihondo_ranking(dia date)
+returns table (puesto bigint, apodo text, puntos integer, eres_tu boolean)
+language sql stable security definer set search_path = ''
+as $$
+  select rank() over (order by p.puntos desc),
+         left(coalesce(nullif(btrim(u.raw_user_meta_data->>'apodo'), ''), 'Anónimo'), 20),
+         p.puntos,
+         coalesce(p.user_id = auth.uid(), false)
+  from public.sabihondo_partidas p
+  join auth.users u on u.id = p.user_id
+  where p.fecha = sabihondo_ranking.dia
+  order by p.puntos desc, p.created_at asc
+  limit 100;
+$$;
+revoke all on function public.sabihondo_ranking(date) from public;
+grant execute on function public.sabihondo_ranking(date) to anon, authenticated;
