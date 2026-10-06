@@ -57,6 +57,7 @@ MANO = {
 "raperos": {
  1: "C. Tangana=Tangana=El Madrileño=Pucho, Quevedo, Mala Rodríguez=La Mala, Kase.O=Kase O=Kaseo, Nach, Morad, Bad Gyal, Rels B, Natos y Waor=Natos=Waor, Yung Beef",
  2: "SFDK=Zatu, Violadores del Verso, ToteKing=Tote King, El Chojin=Chojin, Porta, Arkano, Rayden, Ayax y Prok=Ayax=Prok, Kidd Keo, Cecilio G, Dellafuente, Maikel Delacalle, Recycled J, Lola Índigo, Hoke, Delaossa, Foyone, Ambkor, Xhelazz, Sho-Hai=Sho Hai, Lírico, Juaninacka, Falsalarma, Mucho Muchacho, La Excepción, Frank T, El Langui=Langui, Haze, Mala Rodríguez, Rapsusklei, Los Chikos del Maíz=Nega=Toni el Sucio, Pablo Hasél=Hasél, Valtònyc=Valtonyc, Tangana, Duki, Sticky M.A.=Sticky MA, Pimp Flaco, Kinder Malo, Khaled, La Zowi, Ms Nina, Albany, Leïti Sene, Saiko, Mora, Beny Jr=Beny JR, JC Reyes, Omar Montes, Bb trickz=BB Trickz, Rojuu, Sen Senra, Trueno, Lil Dami, Soto Asa, Yung Sarria, Israel B, Juicy BAE, Fernandocosta=Fernando Costa, Nikone, Costa, Al Safir, Elio Toffana, Chirie Vegas, Dano, Erik Urano, Escandaloso Xpósito=Xpósito, Gata Cattana, Anier, Santa Salut, Las Ninyas del Corro, Sara Socas, Chuty, Blon, Skone, Bnet, Gazir, Mnak, Zasko, Invert, Jotandjota=Jota, Walls, Mister Ego, Tirpa, Piezas, Suite Soprano=Juancho Marqués, Sule B, Shotta, Iván Nieto, Darmo, Trafik, Hard GZ, Lopes, Nasta, Shé=She, Zarcort, Piter-G, Kronno Zomber, Keyblade, Cyclo, Bely Basarte",
+ 5: "Zulo Records, Gawain, Mikeyyy",
 },
 "ibex": {
  1: "Inditex=Zara, Banco Santander=Santander, BBVA, Telefónica=Movistar, Iberdrola, Repsol, CaixaBank=La Caixa",
