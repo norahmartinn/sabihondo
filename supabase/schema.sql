@@ -75,7 +75,7 @@ as $$
          left(coalesce(nullif(btrim(u.raw_user_meta_data->>'apodo'), ''), 'Anónimo'), 20)
   from public.sabihondo_partidas p
   join auth.users u on u.id = p.user_id
-  where p.fecha = dia
+  where p.fecha = sabihondo_record.dia   -- con el nombre de la función delante: la tabla también tiene una columna «dia»
   order by p.puntos desc, p.created_at asc
   limit 1;
 $$;
