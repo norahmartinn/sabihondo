@@ -58,6 +58,7 @@ button{font:inherit;color:inherit;background:none;border:none;cursor:pointer;tou
   display:grid;place-items:center;font-size:15px;font-weight:800;transition:.15s}
 .icono:hover{background:var(--boya-suave)}
 
+#medidor{display:none}
 /* ── el iceberg: ocupa toda la pantalla, por detrás ──── */
 #hielo{grid-column:1 / -1;grid-row:1 / -1;position:relative;overflow:hidden;background:var(--fondo)}
 #svg{position:absolute;inset:0;width:100%;height:100%;display:block}
@@ -68,6 +69,7 @@ button{font:inherit;color:inherit;background:none;border:none;cursor:pointer;tou
   padding:28px 40px 36px 16px;display:flex;flex-direction:column}
 .panel{width:100%;max-width:640px;margin:auto;background:var(--hielo);border-radius:var(--r-panel);padding:36px 42px 38px;
   box-shadow:0 30px 60px -28px rgba(8,28,56,.55),0 2px 6px rgba(8,28,56,.08)}
+.sitio-berg{display:none}
 .rotulo{font-family:var(--sans);font-size:13.5px;
   color:var(--tinta);margin:0 0 10px}
 h1{font-family:var(--disp);font-weight:400;font-size:clamp(52px,7.4vw,104px);line-height:.92;margin:0;
@@ -287,14 +289,31 @@ h3{font-family:var(--sans);font-size:13.5px;color:var(--boya-hondo);
 }
 /* ── móvil: el iceberg se queda en una tira a la izquierda y la tarjeta ocupa el resto ── */
 @media (max-width:720px){
-  :root{--col:72px;--r-panel:20px}
-  #barra{padding:8px 12px;padding-top:calc(8px + env(safe-area-inset-top,0px));gap:8px}
+  :root{--col:0px;--r-panel:20px}
+  #barra{padding:8px 12px;padding-top:calc(8px + env(safe-area-inset-top,0px));gap:8px;flex-wrap:wrap}
   #marca{font-size:22px}
   .icono{width:38px;height:38px}
   .cuenta-btn{height:38px;min-width:38px;padding:0 14px;font-size:15px}
   .cuenta-btn.dentro{width:38px}
+  /* sin sitio para el iceberg al lado: de fondo queda solo el cielo y el mar */
+  #app{background:linear-gradient(180deg,var(--cielo) 0 22%,var(--mar) 22%,var(--fondo) 100%)}
+  #app > #hielo{background:none}
+  #app.solo-tutorial #hielo{background:none}
+  #app > #hielo #svg{visibility:hidden}
+  #escena{grid-column:1 / -1}
+  /* el iceberg, dentro de la tarjeta del inicio y del resultado */
+  .sitio-berg{display:block;height:230px;margin:-22px -18px 18px;border-radius:20px 20px 0 0;overflow:hidden}
+  .sitio-berg.alto{height:440px}
+  .sitio-berg #hielo{height:100%}
+  /* la barra de metros, solo mientras se juega */
+  #app.jugando #medidor{display:flex;flex:1 0 100%;align-items:center;gap:10px;font-size:12.5px;font-weight:700;padding:2px 2px 4px}
+  #medTu{background:var(--boya-suave);border-radius:999px;padding:3px 10px;white-space:nowrap;font-variant-numeric:tabular-nums}
+  .pista{position:relative;flex:1;height:8px;border-radius:999px;background:linear-gradient(90deg,#cfe6f4,var(--mar) 35%,var(--fondo))}
+  #medYo{position:absolute;top:50%;width:18px;height:18px;margin:-9px 0 0 -9px;border-radius:50%;background:var(--boya);border:2.5px solid #fff;
+    box-shadow:0 1px 4px rgba(8,28,56,.4);transition:left .5s ease}
+  #medRec{position:absolute;top:50%;width:11px;height:11px;margin:-5.5px 0 0 -5.5px;background:#ffcf5c;border:1.5px solid var(--tinta);transform:rotate(45deg)}
   /* la tarjeta va arriba, no centrada: con el teclado abierto el campo sigue a la vista */
-  #escena{padding:10px 12px calc(20px + env(safe-area-inset-bottom,0px)) 2px}
+  #escena{padding:10px 12px calc(20px + env(safe-area-inset-bottom,0px))}
   .panel{padding:22px 18px 22px;margin:0 auto auto}
   h1{font-size:min(44px,11.5vw)}
   h2{font-size:28px}
@@ -331,7 +350,6 @@ h3{font-family:var(--sans);font-size:13.5px;color:var(--boya-hondo);
   .ranking li{grid-template-columns:34px 1fr auto;padding-inline:8px}
 }
 @media (max-width:350px){
-  :root{--col:56px}
   #marca{font-size:20px}
   .icono{width:34px;height:34px}
   .cuenta-btn{height:34px;padding:0 10px}
@@ -362,6 +380,11 @@ h3{font-family:var(--sans);font-size:13.5px;color:var(--boya-hondo);
     <button class="icono" id="bRanking" title="Podio de hoy" aria-label="Podio de hoy" hidden><svg viewBox="0 0 24 24" width="18" height="18" fill="currentColor" aria-hidden="true"><rect x="9" y="5" width="6" height="15" rx="1"/><rect x="2.5" y="10" width="5.5" height="10" rx="1"/><rect x="16" y="13" width="5.5" height="7" rx="1"/></svg></button>
     <button class="icono" id="bAyuda" title="Cómo se juega">?</button>
     <button class="cuenta-btn" id="bCuenta" hidden>Entrar</button>
+    <div id="medidor" aria-hidden="true">
+      <span id="medTu">Tú · 0 m</span>
+      <span class="pista"><i id="medRec" hidden></i><i id="medYo"></i></span>
+      <span>700 m</span>
+    </div>
   </header>
   <div id="hielo" aria-hidden="true"><svg id="svg"></svg></div>
   <main id="escena"></main>
@@ -504,19 +527,40 @@ function geometria(){
   const r = $("#hielo").getBoundingClientRect();
   const W = r.width, H = r.height;
   // Z: el hueco que deja libre la tarjeta, que es donde se dibuja el iceberg
-  const Z = Math.max(60, $("#escena").getBoundingClientRect().left - r.left);
+  // (en móvil el iceberg va dentro de la tarjeta y tiene todo el ancho para él)
+  const dentro = !!$("#hielo").closest(".sitio-berg");
+  const Z = dentro ? W : Math.max(60, $("#escena").getBoundingClientRect().left - r.left);
   const estrecho = Z < 200;
-  const arriba = $("#barra").offsetHeight + (estrecho ? 22 : Math.max(34, H*.055));
-  const abajo = estrecho ? 18 : Math.max(26, H*.05);
+  const arriba = dentro ? 20 : $("#barra").offsetHeight + (estrecho ? 22 : Math.max(34, H*.055));
+  const abajo = dentro ? 14 : estrecho ? 18 : Math.max(26, H*.05);
   // la punta se dibuja algo más alta de lo real para que se lea; el resto va a escala
   const alto = H-arriba-abajo, corte = .24;
   const ancho = estrecho ? Z-12 : Math.min(Z*.62, alto*.68);
-  const centro = estrecho ? Z/2 : Z*.55;
+  const centro = estrecho ? Z/2 : dentro ? Z*.5 : Z*.55;
   const L = centro-ancho/2, R = centro+ancho/2;
   const y = m => arriba + (m <= FLOTACION ? (m/FLOTACION)*corte : corte + ((m-FLOTACION)/(FONDO-FLOTACION))*(1-corte)) * alto;
   const x = f => L + f*(R-L);
-  return {W,H,Z,estrecho,y,x,L,R};
+  return {W,H,Z,estrecho,dentro,y,x,L,R};
 }
+
+/* En móvil el iceberg no cabe al lado de la tarjeta. Mientras se juega no se ve (hay una barra de
+   metros arriba) y en el inicio y el resultado se mete dentro de la tarjeta, en .sitio-berg. */
+const MOVIL = matchMedia("(max-width:720px)");
+function rescataIceberg(){
+  const h = $("#hielo"), app = $("#app");
+  if (h.parentElement !== app) app.insertBefore(h, app.firstChild);
+}
+function colocaIceberg(){
+  const sitio = MOVIL.matches ? $("#escena .sitio-berg") : null;
+  if (sitio){ if ($("#hielo").parentElement !== sitio) sitio.appendChild($("#hielo")); }
+  else rescataIceberg();
+  dibujaIceberg();
+}
+function trasPintar(){
+  $("#app").classList.toggle("jugando", pantalla === "juego");
+  colocaIceberg();
+}
+MOVIL.addEventListener("change", colocaIceberg);
 
 function el(tag, attrs, padre){
   const e = document.createElementNS(NS, tag);
@@ -651,6 +695,9 @@ let RECORD = null;
 function pintaRecord(){
   const g = $("#record"); if (!g || !G) return;
   g.innerHTML = "";
+  const rec = $("#medRec");
+  rec.hidden = !(RECORD && RECORD.puntos > 0);
+  if (!rec.hidden) rec.style.left = (Math.min(FONDO, RECORD.puntos) / FONDO * 100) + "%";
   const libre = pantalla !== "portada" && pantalla !== "tutorial" && J && J.modo === "libre";
   if (!RECORD || !(RECORD.puntos > 0) || libre) return;
   const {y,x,Z,R,estrecho} = G, yy = y(Math.min(FONDO, RECORD.puntos)), oro = "#ffcf5c";
@@ -678,7 +725,7 @@ function pintaPines(){
   const g = $("#pines"); if (!g || !G) return;
   g.innerHTML = "";
   const {y,x,estrecho} = G;
-  const conTexto = !estrecho && G.H >= 440;      // en pantallas muy bajas los nombres se pisan: solo puntos
+  const conTexto = !estrecho && (G.H >= 440 || G.dentro);      // en pantallas muy bajas los nombres se pisan: solo puntos
   const hueco = conTexto ? 19 : 11;
   // Con respuestas de puntuación parecida los pines caerían uno encima de otro. Cada lado lleva su
   // cuenta: el punto y su nombre bajan lo justo para no pisar al anterior, y una raya los une
@@ -686,7 +733,7 @@ function pintaPines(){
   const ultimo = [-99, -99];
   const yRec = conTexto && $("#record")?.firstChild && RECORD ? y(Math.min(FONDO, RECORD.puntos)) : null;
   pines.forEach((p,i) => {
-    const lado = i % 2, yy = y(p.m);
+    const lado = G.dentro ? 0 : i % 2, yy = y(p.m);   // en móvil todos a la derecha: a la izquierda están la escala y la marca
     const cx = x(lado ? .38 : .62);
     let yd = Math.max(yy, ultimo[lado] + hueco);
     if (!lado && yRec !== null && yd > yRec - 36 && yd < yRec + 10) yd = yRec + 12;   // la etiqueta del récord va por la derecha
@@ -722,6 +769,8 @@ function mueveMarca(){
   txt.setAttribute("x", cx + margen);
   // la raya discontinua sale de la etiqueta y llega hasta el punto
   if (!G.estrecho) mk.firstElementChild.setAttribute("x1", cx + ancho), mk.firstElementChild.setAttribute("x2", G.x(.47));
+  $("#medTu").textContent = "Tú · " + mil(profVista) + " m";
+  $("#medYo").style.left = (Math.min(FONDO, profVista) / FONDO * 100) + "%";
 }
 
 function anima(){
@@ -809,8 +858,9 @@ function portada(){
   const hecho = hechoHoy();
   profMeta = 0; fijaPines([]); pintaRecord();
 
-  escena.innerHTML = `
+  rescataIceberg(); escena.innerHTML = `
   <div class="panel">
+    <div class="sitio-berg"></div>
     <h1>Sabi<em>hondo</em></h1>
     <p class="lema">Siete preguntas al día, las mismas para todo el mundo. Vale cualquier respuesta correcta, pero lo obvio te deja en la punta del iceberg. <b>Cuanto más nicho, más bajas.</b></p>
     <ul class="reglas">
@@ -831,6 +881,7 @@ function portada(){
   </div>`;
 
   $("#bJugar")?.addEventListener("click", e => empieza("diaria", e.currentTarget));
+  trasPintar();
   $("#bPodio")?.addEventListener("click", ranking);
   $("#bVer")?.addEventListener("click", () => { J = {modo:"diaria", ...hecho, revisita:true}; final(); });
 }
@@ -880,7 +931,7 @@ function tutorial(paso = 0){
   profMeta = 0; fijaPines([]);
   const P = PASOS[paso], ultimo = paso === PASOS.length - 1, hecho = hechoHoy();
   const ofreceCuenta = ultimo && !hecho && Cuenta.sb && !Cuenta.user;   // al acabar: cuenta en grande, invitado en pequeño
-  escena.innerHTML = `
+  rescataIceberg(); escena.innerHTML = `
   <div class="panel tuto">
     <p class="tuto-paso">Cómo se juega · ${paso+1} de ${PASOS.length}</p>
     ${P.demo()}
@@ -901,6 +952,7 @@ function tutorial(paso = 0){
                   </span>`}
     </div>
   </div>`;
+  trasPintar();
   const visto = () => guarda.set("tutorial", true);
   $("#bSaltar")?.addEventListener("click", () => { visto(); portada(); });
   $("#bTutoCuenta")?.addEventListener("click", () => { visto(); portada(); abreCuenta(true, "alta"); });
@@ -925,7 +977,7 @@ function ronda(){
 function responder(){
   paraReloj();
   const p = J.rondas[J.i];
-  escena.innerHTML = `
+  rescataIceberg(); escena.innerHTML = `
   <div class="panel" id="tarjeta">
     ${cabecera()}
     <p class="enunciado">${esc(p.q)}</p>
@@ -941,6 +993,7 @@ function responder(){
     <p class="aviso" id="aviso"></p>
   </div>`;
 
+  trasPintar();
   const campo = $("#r"); campo.focus();
   const barra = $("#reloj"), relleno = barra.querySelector(".mecha i"), seg = $("#seg");
   const t0 = performance.now(); let ultimoTic = 99;
@@ -1006,7 +1059,7 @@ function cierra(r){
 
   if (r){ Son.baja(r.nv); if (N === NIVELES[4]) setTimeout(()=>Son.capa(), 350); } else Son.fallo();
 
-  escena.innerHTML = `
+  rescataIceberg(); escena.innerHTML = `
   <div class="panel">
     ${cabecera()}
     ${N ? `<div class="nivel" style="--nc:${N.col};--nt:${N.txt}">
@@ -1025,6 +1078,7 @@ function cierra(r){
       <button class="btn" id="bSig">${J.i+1 < RONDAS ? "Siguiente pregunta" : "Ver mi iceberg"}</button>
     </div>
   </div>`;
+  trasPintar();
   $("#bSig").focus({preventScroll:true});
   $("#bSig").addEventListener("click", () => { J.i++; if (J.i < RONDAS) ronda(); else final(); });
 }
@@ -1061,8 +1115,9 @@ function final(){
   const compartir = (J.modo === "libre" ? "Sabihondo · libre" : "Sabihondo #" + J.dia)
     + ` · ${mil(metros)} m 🧊\n${emojis}`;
 
-  escena.innerHTML = `
+  rescataIceberg(); escena.innerHTML = `
   <div class="panel">
+    <div class="sitio-berg alto"></div>
     <p class="rotulo">${J.modo==="libre" ? "Partida libre" : "Reto nº "+J.dia} · has bajado</p>
     <div class="cima">
       <p class="hondura">${mil(metros)}<small>m</small></p>
@@ -1119,6 +1174,7 @@ function final(){
     setTimeout(()=>{ const o=$("#ok"); if(o) o.textContent=""; }, 2600);
   });
   $("#bGuardar")?.addEventListener("click", ()=>abreCuenta(true, "alta"));
+  trasPintar();
   $("#bVerRanking")?.addEventListener("click", ranking);
   $("#bIni").addEventListener("click", portada);
 }
