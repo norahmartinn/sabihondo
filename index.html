@@ -6,7 +6,7 @@
 <meta name="description" content="Reto diario: siete preguntas y, cuanto más nicho tu respuesta, más bajas por el iceberg.">
 <meta name="theme-color" content="#f7efe9">
 <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🧊</text></svg>">
-<style>:root{padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}[hidden]{display:none!important}</style>
+<style>[hidden]{display:none!important}</style>
 <title>Sabihondo</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -38,13 +38,13 @@
 }
 *{box-sizing:border-box}
 html,body{height:100%}
-body{margin:0;background:var(--fondo);color:var(--tinta);font-family:var(--sans);font-size:15px;
+body{margin:0;-webkit-text-size-adjust:100%;text-size-adjust:100%;background:var(--fondo);color:var(--tinta);font-family:var(--sans);font-size:15px;
   line-height:1.5;overflow:hidden;-webkit-font-smoothing:antialiased}
-button{font:inherit;color:inherit;background:none;border:none;cursor:pointer}
+button{font:inherit;color:inherit;background:none;border:none;cursor:pointer;touch-action:manipulation;-webkit-tap-highlight-color:transparent}
 :focus-visible{outline:2px solid var(--boya-hondo);outline-offset:3px;border-radius:6px}
 ::selection{background:var(--boya);color:var(--boya-tinta)}
 
-#app{height:100%;display:grid;grid-template-columns:var(--col) minmax(0,1fr);grid-template-rows:auto 1fr}
+#app{height:100%;height:100dvh;display:grid;grid-template-columns:var(--col) minmax(0,1fr);grid-template-rows:auto 1fr}
 
 /* ── barra ───────────────────────────────────────────── */
 #barra{grid-column:1 / -1;grid-row:1;position:relative;z-index:2;min-width:0;display:flex;align-items:center;gap:16px;
@@ -285,28 +285,69 @@ h3{font-family:var(--sans);font-size:13.5px;color:var(--boya-hondo);
   #escena{padding-right:22px}
   .panel{padding:30px 30px 32px}
 }
+/* ── móvil: el iceberg se queda en una tira a la izquierda y la tarjeta ocupa el resto ── */
 @media (max-width:720px){
-  :root{--col:92px;--r-panel:20px}
-  #barra{padding:10px 14px;padding-top:calc(10px + env(safe-area-inset-top,0px));gap:10px}
+  :root{--col:72px;--r-panel:20px}
+  #barra{padding:8px 12px;padding-top:calc(8px + env(safe-area-inset-top,0px));gap:8px}
   #marca{font-size:22px}
-  .icono,.cuenta-btn{width:36px;height:36px;min-width:36px}
-  .cuenta-btn{width:auto;padding:0 16px;font-size:15px}
-  #escena{padding:16px 14px 24px 4px}
-  .panel{padding:24px 20px 24px}
-  h1{font-size:44px}
+  .icono{width:38px;height:38px}
+  .cuenta-btn{height:38px;min-width:38px;padding:0 14px;font-size:15px}
+  .cuenta-btn.dentro{width:38px}
+  /* la tarjeta va arriba, no centrada: con el teclado abierto el campo sigue a la vista */
+  #escena{padding:10px 12px calc(20px + env(safe-area-inset-bottom,0px)) 2px}
+  .panel{padding:22px 18px 22px;margin:0 auto auto}
+  h1{font-size:min(44px,11.5vw)}
+  h2{font-size:28px}
   .lema{font-size:16.5px;margin-top:14px}
-  .reglas{margin-top:20px;padding-top:18px;gap:14px}
+  .reglas{margin-top:18px;padding-top:16px;gap:12px}
   .reglas li{grid-template-columns:40px 1fr;gap:12px;font-size:13.5px}
   .reglas .ico{width:40px;height:40px}
   .reglas .ico svg{width:23px;height:23px}
   .reglas b{font-size:15.5px}
-  .botonera{margin-top:22px;gap:10px}
-  .btn{padding:14px 20px;font-size:16px}
+  .botonera{margin-top:20px;gap:10px}
+  .btn{padding:14px 18px;font-size:16px;flex:1 1 auto;justify-content:center}
   .btn.grande{font-size:17px;padding:18px 16px;gap:8px}
+  .racha{flex-basis:100%;text-align:center}
+  .cabecera{margin-bottom:16px}
+  .enunciado{font-size:26px}
+  form{margin-top:18px}
+  input[type=text],input[type=email],input[type=password]{flex-basis:100%;padding:14px 16px}
+  .tuya{font-size:30px}
+  .hondura{font-size:64px}
+  .cima .btn{flex:0 0 auto}
+  .marcador{gap:14px 22px}
+  .marcador b{font-size:26px}
+  .tira li{gap:10px}
   .demo{padding:26px 16px 16px}
-  #app.solo-tutorial #escena{padding-inline:14px}
-  #app.solo-tutorial .panel{padding:26px 20px 26px}
   .demo .enunciado,.demo-fila .r,.demo-fila .m{font-size:20px}
+  .fila-apodo .btn{flex:0 0 auto}
+  #app.solo-tutorial #escena{padding-inline:12px}
+  #app.solo-tutorial .panel{padding:24px 18px 24px;margin:auto}
+  .tuto h2{font-size:26px}
+  .tuto .lema{font-size:16.5px}
+  #ayuda,#cuenta{padding:12px 10px calc(12px + env(safe-area-inset-bottom,0px));padding-top:calc(12px + env(safe-area-inset-top,0px))}
+  .escala li{grid-template-columns:auto 1fr;gap:6px 10px}
+  .escala .p{grid-column:2}
+  .ranking li{grid-template-columns:34px 1fr auto;padding-inline:8px}
+}
+@media (max-width:350px){
+  :root{--col:56px}
+  #marca{font-size:20px}
+  .icono{width:34px;height:34px}
+  .cuenta-btn{height:34px;padding:0 10px}
+  .panel{padding:20px 14px}
+}
+/* móvil tumbado: poca altura, así que todo más compacto */
+@media (max-height:480px) and (min-width:721px){
+  #barra{padding-block:6px}
+  .icono,.cuenta-btn{height:34px}
+  .icono{width:34px}
+  #escena{padding-block:10px 14px}
+  .panel{padding:20px 26px}
+  h1{font-size:44px}
+  .reglas{display:none}
+  .enunciado{font-size:26px}
+  .hondura{font-size:56px}
 }
 @media (prefers-reduced-motion:reduce){*{animation-duration:.01ms!important;transition-duration:.01ms!important}}
 </style>
@@ -643,7 +684,7 @@ function pintaPines(){
     const cx = x(i % 2 ? .38 : .62);
     el("line",{x1:x(.5),y1:yy,x2:cx,y2:yy,stroke:"#ffffff","stroke-width":1,opacity:.5},g);
     el("circle",{cx,cy:yy,r:estrecho?4:5,fill:nivel(p)?nivel(p).col:"#1b2e44",stroke:"#ffffff","stroke-width":1.5},g);
-    if (!estrecho){
+    if (!estrecho && G.H >= 440){               // en pantallas muy bajas los nombres se pisan: solo puntos
       let ty = yy; if (ty - ultimoY < 17) ty = ultimoY + 17; ultimoY = ty;
       const texto = nivel(p) ? p.disp : "sin respuesta";
       const t = el("text",{x:cx + (i%2 ? -10 : 10),y:ty+3.5,"text-anchor":i%2?"end":"start",
