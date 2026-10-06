@@ -1,0 +1,4 @@
+# Qué siete preguntas salen cada día, en orden. Los nombres son los de scripts/siete/monta.py.
+# Un día sin fila tira de siete preguntas al azar de todo el banco (pueden repetirse de otros días).
+fecha;1;2;3;4;5;6;7
+2026-10-06;apellidos;capitales;taylor;carreras;boda;relojes;cervezas

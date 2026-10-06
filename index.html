@@ -391,7 +391,8 @@ h3{font-family:var(--sans);font-size:13.5px;color:var(--boya-hondo);
 </div>
 <div id="ayuda" hidden></div>
 <div id="cuenta" class="capa" hidden></div>
-<script>const PREGUNTAS=[{"q":"Nombra algo que hay en una boda","n":216},{"q":"Nombra una marca de cerveza","n":2847},{"q":"Nombra una marca de relojes","n":409},{"q":"Nombra una canción de Taylor Swift","n":275},{"q":"Nombra un apellido español","n":82621},{"q":"Nombra una carrera universitaria","n":724},{"q":"Nombra la capital de un país","n":210}];</script><script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.45.4/dist/umd/supabase.min.js"></script>
+<script>const PREGUNTAS=[{"q":"Nombra algo que hay en una boda","n":216},{"q":"Nombra una marca de cerveza","n":2847},{"q":"Nombra una marca de relojes","n":409},{"q":"Nombra una canción de Taylor Swift","n":275},{"q":"Nombra un apellido español","n":82621},{"q":"Nombra una carrera universitaria","n":724},{"q":"Nombra la capital de un país","n":210}];
+const CALENDARIO={"2026-10-06":[4,6,3,5,0,2,1]};</script><script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.45.4/dist/umd/supabase.min.js"></script>
 <script>
 "use strict";
 /* ═════════ constantes ═════════ */
@@ -835,7 +836,9 @@ function alertaCarga(){
 async function nuevaPartida(modo){
   const fecha = hoyMadrid(), dia = numeroDia(fecha);
   const semilla = modo === "libre" ? (Date.now() & 0x7fffffff) : dia * 7919;
-  const rondas = await Promise.all(eligeRondas(semilla).map(cargaPregunta));
+  // las siete del día vienen del calendario; si ese día no está programado, salen siete al azar del banco
+  const delDia = modo !== "libre" && typeof CALENDARIO !== "undefined" && CALENDARIO[fecha];
+  const rondas = await Promise.all((delDia || eligeRondas(semilla)).map(cargaPregunta));
   return { modo, fecha, dia, rondas, i:0, res:[], puntos:0 };
 }
 function fijaPines(res){
