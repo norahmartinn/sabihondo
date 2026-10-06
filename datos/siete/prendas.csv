@@ -1,0 +1,555 @@
+respuesta;alias;nivel;ediciones_wikipedia
+camiseta;;1;1000000000
+pantalón;pantalones;1;999999999
+vaqueros;tejanos|jeans;1;999999998
+calcetines;calcetín;1;999999997
+zapatos;zapato;1;999999996
+jersey;suéter;1;999999995
+chaqueta;;1;999999994
+falda;;1;999999993
+vestido;;1;999999992
+abrigo;;1;999999991
+camisa;;1;999999990
+sudadera;;1;999999989
+bragas;braga;1;999999988
+calzoncillos;calzoncillo;1;999999987
+zapatillas;tenis|deportivas;2;1000000000
+botas;;2;999999999
+sandalias;;2;999999998
+chanclas;;2;999999997
+bufanda;;2;999999996
+gorro;;2;999999995
+gorra;;2;999999994
+guantes;;2;999999993
+sujetador;;2;999999992
+medias;;2;999999991
+pijama;;2;999999990
+bañador;traje de baño;2;999999989
+bikini;biquini;2;999999988
+cinturón;;2;999999987
+corbata;;2;999999986
+chándal;;2;999999985
+chaleco;;2;999999984
+cazadora;;2;999999983
+chaquetón;;2;999999982
+plumas;plumífero;2;999999981
+gabardina;;2;999999980
+chubasquero;;2;999999979
+leggings;mallas;2;999999978
+shorts;pantalón corto|bermudas;2;999999977
+top;;2;999999976
+blusa;;2;999999975
+polo;;2;999999974
+rebeca;cárdigan;2;999999973
+americana;blazer;2;999999972
+traje;;2;999999971
+mono;;2;999999970
+peto;;2;999999969
+tanga;;2;999999968
+bóxer;;2;999999967
+camisón;;2;999999966
+bata;;2;999999965
+albornoz;;2;999999964
+sombrero;;2;999999963
+pañuelo;;2;999999962
+pajarita;;2;999999961
+tirantes;;2;999999960
+body;;2;999999959
+minifalda;;2;999999958
+falda pantalón;;2;999999957
+tacones;zapatos de tacón;2;999999956
+mocasines;;2;999999955
+bailarinas;manoletinas;2;999999954
+alpargatas;;2;999999953
+náuticos;;2;999999952
+babuchas;;2;999999951
+pantuflas;zapatillas de estar por casa;2;999999950
+delantal;;2;999999949
+chilaba;;3;1000000000
+bolero;;3;999999999
+torera;;3;999999998
+poncho;;3;999999997
+kimono;quimono;3;999999996
+sari;;3;999999995
+túnica;;3;999999994
+capa;;3;999999993
+toga;;3;999999992
+sotana;;3;999999991
+hábito;;3;999999990
+mantilla;;3;999999989
+mantón;mantón de Manila;3;999999988
+chal;;3;999999987
+estola;;3;999999986
+fular;;3;999999985
+braga de cuello;;3;999999984
+pasamontañas;;3;999999983
+verdugo;;3;999999982
+boina;;3;999999981
+chapela;txapela;3;999999980
+pamela;;3;999999979
+bombín;;3;999999978
+chistera;;3;999999977
+montera;;3;999999976
+turbante;;3;999999975
+hiyab;velo;3;999999974
+burka;;3;999999973
+pareo;;3;999999972
+culotte;;3;999999971
+faja;;3;999999970
+corsé;;3;999999969
+liguero;;3;999999968
+ligas;;3;999999967
+picardías;;3;999999966
+salto de cama;;3;999999965
+batín;;3;999999964
+guardapolvo;;3;999999963
+mandil;;3;999999962
+uniforme;;3;999999961
+babi;baby;3;999999960
+bata de cola;;3;999999959
+traje de flamenca;traje de gitana;3;999999958
+traje de luces;;3;999999957
+chaqué;;3;999999956
+frac;;3;999999955
+esmoquin;;3;999999954
+levita;;3;999999953
+gabán;;3;999999952
+trenca;;3;999999951
+parka;;3;999999950
+anorak;;3;999999949
+forro polar;;3;999999948
+cortavientos;;3;999999947
+tabardo;;3;999999946
+zamarra;;3;999999945
+pelliza;;3;999999944
+capote;;3;999999943
+impermeable;;3;999999942
+katiuskas;botas de agua;3;999999941
+zuecos;;3;999999940
+crocs;;3;999999939
+cangrejeras;;3;999999938
+abarcas;menorquinas;3;999999937
+espardeñas;;3;999999936
+botines;;3;999999935
+botas de montaña;;3;999999934
+calentadores;;4;999999932
+polainas;;4;999999931
+rodilleras;;4;999999930
+coderas;;4;999999929
+muñequeras;;4;999999928
+mitones;;4;999999927
+manoplas;;4;999999926
+orejeras;;4;999999925
+fajín;;4;999999923
+chorrera;;4;999999922
+gola;;4;999999921
+miriñaque;;4;999999920
+enaguas;;4;999999919
+combinación;;4;999999918
+corpiño;;4;999999917
+jubón;;4;999999916
+calzas;;4;999999915
+bombachos;;4;999999914
+pantalones de campana;;4;999999913
+pitillos;;4;999999912
+chinos;;4;999999911
+cargo;;4;999999910
+pantalón pirata;piratas;4;999999909
+falda de tubo;;4;999999908
+falda escocesa;kilt;4;999999907
+vestido de novia;;4;999999906
+mono de trabajo;buzo;4;999999905
+neopreno;traje de neopreno;4;999999904
+maillot;;4;999999903
+culotte de ciclista;;4;999999902
+kimono de judo;judogi;4;999999901
+tutú;;4;999999900
+leotardos;;4;999999899
+pantis;;4;999999898
+calcetines tobilleros;;4;999999897
+pinkis;;4;999999896
+camiseta interior;camiseta de tirantes;4;999999895
+camiseta térmica;;4;999999894
+jersey de cuello vuelto;cuello cisne;4;999999893
+sudadera con capucha;hoodie;4;999999892
+bomber;;4;999999891
+chaqueta vaquera;;4;999999890
+perfecto;;4;999999889
+capelina;;4;999999886
+jersey de punto;;4;999999885
+chaleco reflectante;;4;999999884
+dashiki;;4;999999883
+guayabera;;4;999999882
+sarong;;4;999999881
+dirndl;;4;999999880
+lederhosen;;4;999999879
+hanbok;;4;999999878
+cheongsam;qipao;4;999999877
+yukata;;4;999999876
+caftán;;4;999999875
+djellaba;;4;999999874
+shemagh;kufiya;4;999999873
+kipá;;4;999999872
+solideo;;4;999999871
+mitra;;4;999999870
+casulla;;4;999999869
+alba;;4;999999868
+sostén;sutién|brasier;4;111
+guante;;4;101
+casco;;4;89
+pantalón vaquero;Pecosbiles|Pantalones vaqueros|Pantalones tejanos;4;88
+bota;;4;83
+sandalia;;4;82
+pantufla;pantuflos|pantuflo;4;79
+pipa;;4;75
+pañal;Pañales;4;75
+encendedor;lighter|chisquero|bricket|briquet;4;73
+calzado;;4;71
+ropa interior;ropa íntima;4;71
+amuleto;amuletos;4;66
+fez;Tarbush;4;65
+nicab;niqab|nikab;4;64
+traje espacial;traje de astronauta;4;61
+áo dài;;4;60
+chador;;4;58
+dedal;;4;58
+corbata de lazo;;4;56
+chaleco antibalas;chaleco a prueba de balas|antibalas;4;55
+chancleta;Sayonaras|Sandalias pata de gallo|Sandalia pata de gallo|Ojota;4;55
+manto;;4;51
+kufiyya;Pañuelo palestino|Keffiyeh|Ghutra;4;50
+cota de malla;Cotas de malla|Cota de mallas;4;50
+cuello;;4;50
+broche;;4;50
+zueco;;4;50
+huevo de Fabergé;;4;50
+sombrero de copa alta;Sombrero de copa;4;49
+burkini;burqini;4;49
+palio;;4;49
+báculo pastoral;Báculo;4;48
+alta costura;Haute Couture|alta moda;4;47
+gorro frigio;;4;47
+uniforme escolar;Uniformes Escolares|Guardapolvo blanco|Delantal escolar;4;47
+zanco;;4;46
+filacteria;tefilín|filacterio;4;46
+orden militar;Órdenes pontificias|Órdenes militares;4;45
+ushanka;shapka-ushanka;5;44
+sombrero de charro;;5;44
+tocado;;5;44
+cinturón de castidad;;5;43
+código de vestimenta;;5;43
+fíbula;;5;43
+tiara papal;Triregno|triple corona|corona pontificia;5;43
+diadema;;5;42
+sudario;kafan|sudarios;5;42
+monóculo;;5;42
+zapatillas de deporte;zapatos deportivos;5;42
+carcaj;Aljaba;5;41
+tiara;;5;41
+mocasín;;5;41
+lencería;;5;41
+capucha;caperuza;5;41
+casco de combate;casco militar;5;41
+raquetas de nieve;Raqueta de nieve;5;40
+sombrero panamá;sombrero de paja toquilla;5;40
+complemento;accesorios de vestir|accesorio de moda;5;40
+traje típico;traje popular|indumentaria tradicional|traje nacional|traje folclórico;5;40
+bindi;;5;39
+fedora;Sombrero fedora;5;39
+triángulo rosa;;5;38
+espuelas;espuela;5;37
+arte corporal;body art;5;37
+botas de fútbol;;5;37
+birreta;bonete;5;37
+quitón;Chitón;5;37
+uniforme militar;vestuario militar;5;37
+chaleco salvavidas;;5;37
+suspensorio;jockstrap|jock;5;37
+dalmática;;5;36
+torque;;5;36
+liga;;5;36
+sarafán;;5;35
+quevedos;;5;35
+netsuke;;5;35
+galocha;;5;35
+cinta;;5;35
+patín sobre ruedas;;5;35
+valenki;;5;35
+gemelo;mancuernilla|mancorna|collera|yunta;5;34
+bata de baño;Salida del baño;5;34
+gorra de béisbol;;5;34
+vestidito negro;;5;34
+cierre;clip|broche de pelo|horquilla;5;34
+aletas;Pata de rana|Aletas de rana|Aletas de caucho|Aletas de buceo;5;33
+tabi;;5;33
+calzado deportivo;zapatilla ciclismo|Championes|Champión;5;33
+escapulario;;5;33
+taparrabo;taparrabos|guayuco;5;33
+ajorca;añazme|ajorca de tobillo|tobillera;5;33
+sombrero de paja;;5;33
+pinjante;Colgante;5;33
+camisa de fuerza;;5;32
+zōri;;5;32
+capa pluvial;;5;32
+peplo;Peplos;5;32
+orden de caballería;orden caballeresca|Dini cəngavər ordenləri;5;32
+obi;Nagoya Obi|Maru Obi|Fukuro Obi;5;31
+cilicio;;5;31
+herrete;;5;31
+guardainfante;;5;31
+quepis;Kepis|Képi;5;31
+traje acuático;;5;31
+escarabeo;;5;31
+alpargata;espardeña|esparteña;5;30
+nón lá;;5;30
+espinilleras;espinillera|guardas|guarda;5;30
+bóxer slip;;5;30
+camisola;;5;30
+casco de ciclismo;casco de ciclista|casco de bicicleta;5;30
+cabestro;;5;30
+banda;;5;30
+mascarilla higiénica;mascarillas higiénicas;5;30
+mascarón;;5;30
+vestidura litúrgica;vestimenta liturgica|ornamentos litúrgicos|ornamento litúrgico;5;30
+sobrepelliz;;5;29
+gorra cuartelera;gorro de cuartel|gorra de cuartel|cuartelera|gorro cuartelero;5;29
+guantes de boxeo;guantes de box|guante de boxeo|guante de box;5;29
+coraza;;5;29
+guantes médicos;;5;29
+monokini;;5;29
+charretera;epaulette;5;28
+himatión;himacio;5;28
+barretina;;5;28
+greba;grebas|pernera;5;28
+hábito budista;hábito monastico budista|toga monástica|toga budista;5;28
+pétaso;petasus;5;28
+salacot;;5;28
+kebaya;;5;28
+disfraz;;5;28
+alfiler de corbata;Trabacorbata;5;27
+calumet;pipa de la paz;5;27
+tricornio;;5;27
+lorica segmentata;segmentata|Loriga segmentata|Lorica Laminata|laminata;5;27
+dupatta;pacheri|odhni|lugda|chunni;5;27
+hábito religioso;;5;27
+cronógrafo;reloj cronógrafo|cronógrafo de pulsera;5;27
+ombliguera;;5;27
+píleo;;5;27
+férula dental;;5;27
+negligé;;5;27
+zapatilla de ballet;zapatillas de ballet;5;26
+clámide;;5;26
+babero;babador|babadero;5;26
+chaqueta de salón;;5;26
+polaina;piernera;5;26
+tecnología ponible;wearable|tecnología wearable;5;26
+bisht;;5;26
+agal;;5;25
+coturno;;5;25
+sombrero de papel aluminio;;5;25
+flores artificiales;;5;25
+uniforme escolar japonés;Seifuku|Gakuran;5;25
+mercería;sederia|blorchería;5;25
+borceguí;borceguies;5;25
+celada;;5;24
+triángulo negro;;5;24
+pañuelo de cuello;;5;24
+calentador;;5;24
+manopla;mitón;5;24
+songkok;;5;24
+boquilla;;5;24
+šajkača;;5;23
+uniforme Mao;;5;23
+parche para el ojo;parche ocular;5;23
+micropigmentación;;5;23
+kanzashi;;5;23
+bracteato;;5;23
+indumentaria deportiva;vestimenta deportiva|vestimenta de deporte|indumentaria de deporte;5;23
+vestimenta japonesa;Vestimenta del Japón;5;23
+capelo;galero|capelo cardenalicio;5;23
+efod;superhumeral;5;23
+librea;;5;23
+traje antigravedad;;5;22
+bicornio;;5;22
+polisón;;5;22
+dolmán;;5;22
+cinta de pelo;vincha;5;22
+huevera;cartón de huevos;5;22
+lazo rosado;Pink ribbon|Lazo rosa|Cinta rosada|Cinta rosa;5;22
+keikogi;;5;22
+uniforme de marinero;;5;22
+bacinete;;5;22
+carakini;;5;22
+indumentaria de la India;;5;22
+calzón;сalzon;5;22
+lorica hamata;loriga hamata|hamata|loriga;5;21
+alzacuellos;;5;21
+gafete de condecoración;;5;21
+sailor fuku;uniforme de marinero japones|sērā-fuku;5;21
+casco corintio;;5;21
+férula papal;;5;21
+boa;;5;21
+clípeo;clipeus;5;21
+aspis;hoplon;5;21
+haori;;5;21
+gorgoneion;;5;21
+cofia;;5;21
+bragueta de armar;;5;21
+condecoración militar;;5;21
+pezonera;cubrepezones;5;21
+indumentaria en la Antigua Roma;vestimenta en la Antigua Roma|indumentaria en Roma Antigua;5;21
+zapatos de plataforma;;5;20
+coletero;;5;20
+bailarina;;5;20
+bandolera;canana;5;20
+indumentaria en la Antigua Grecia;vestimenta en la Antigua Grecia;5;20
+birrete;;5;20
+bombacha;bloomers;5;20
+tejido inteligente;e-textile;5;20
+guantelete;;5;20
+manípulo;;5;20
+impertinentes;;5;20
+calzado de protección;;5;20
+bijou;;5;20
+broche para el cabello;;5;20
+pin;Insignia de solapa|chapita|prendedor|chapa;5;19
+paludamentum;;5;19
+almete;elmete;5;19
+lei hawaiano;;5;19
+culote;;5;19
+esclavina;;5;19
+mercedita;Mary Jane;5;19
+sombrilla;quitasol;5;19
+privilegio del blanco;;5;19
+zapato Oxford;zapatos Oxford|zapato inglés;5;18
+homburg;Sombrero Homburg;5;18
+chancla;;5;18
+chaperón;;5;18
+empresa heráldica;insignia|insignia heráldica|emblema;5;18
+gambesón;gambesina;5;18
+corbatón;plastrón|corbanda;5;18
+gorro plano;;5;18
+pies de gato;;5;18
+mangalsutra;;5;18
+tenugui;;5;18
+moda callejera japonesa;;5;18
+hauberk;;5;17
+sujetador de lactancia;;5;17
+kosode;;5;17
+barda;armadura de caballo;5;17
+bota de esquí;;5;17
+microkini;Microquini;5;17
+sarape;jorongo;5;17
+microfalda;microskirt;5;17
+casco frigio;;5;17
+corbata de bolo;;5;16
+ancilas;escudos sagrados|ancilia;5;16
+condecoración;;5;16
+vestuario;trajes de teatro|vestuario de teatro;5;16
+okobo;;5;16
+gálea;galearius|casco imperial;5;16
+casco de colmillos de jabalí;;5;16
+pañoleta;pañuelo de cabeza|Bandana;5;16
+uniforme de béisbol;;5;16
+gorro redondo;;5;16
+phalerae;;5;15
+banda presidencial;;5;15
+chullo;;5;15
+atuendo formal;ropa formal;5;15
+hábito coral;;5;15
+guardapelo;;5;15
+nudo de perro;ligatura præputii|kynodesme|kinodesmo;5;15
+bandeau;;5;15
+indumentaria infantil;;5;15
+indumentaria bizantina;;5;15
+binder;;5;15
+botas de montar;Bota fuerte;5;14
+hei tiki;tiki;5;14
+carbatina;;5;14
+lorica squamata;;5;14
+alfiler de sombrero;;5;14
+parma;Parma (escudo);5;14
+penacho;;5;14
+casco de Montefortino;;5;14
+bosal;;5;14
+tontillo;;5;14
+sortija de sello;;5;14
+zoot suit;;5;13
+kasa;;5;13
+casco beocio;;5;13
+guantes de látex;guantes de goma|guante de látex;5;13
+botina;;5;13
+indumentaria eclesiástica;vestimenta eclesiástica|vestiduras religiosas|vestidura religiosa;5;13
+gorro de ducha;;5;13
+atuendo informal;;5;13
+barbote;baberol|babera;5;13
+patines clap;;5;13
+sombrero doctoral;;5;13
+pichi;Champer|Jumper;5;13
+brial;faldón de seda;5;12
+chambergo;;5;12
+gigantón;gigante procesional|gigantones|gigantes|gigante;5;12
+uniforme de las SS;;5;12
+casco calcídico;;5;12
+corno ducale;cuerno ducal|corno ducal|acidarium;5;12
+visor;;5;12
+casco ilirio;;5;12
+subligaculum;subligar;5;12
+babucha;;5;12
+medallón;Medallones;5;12
+capirote;orejas de burro|gorro de burro|cucurucho de burro;5;11
+ferraiolo;;5;11
+guante de guardameta;guantes de portero|guantes de guardameta|guantes de golero|guantes de arquero;5;11
+gákti;;5;11
+coraza anatómica;loriga musculata|Lorica musculata|coraza muscular|Armadura muscular;5;11
+fascinador;;5;11
+chaqueta de mezclilla;chaqueta de jeans|chaqueta de jean;5;11
+chaqueta deportiva;chaqueta sport|chaqueta informal;5;11
+lúnula;;5;11
+ridículo;;5;11
+casaca;;5;11
+saco chaleco;;5;11
+bálteo;tiracuello|télamo;5;11
+huipil;Huepil|Hipil;5;11
+coleto;cuera de mallas|cuera|chaqueta de piel de búfalo;5;11
+barra;;5;11
+tenia;;5;11
+parure;aderezo de joyas;5;11
+peineta;peinecillo;5;11
+trikini;triquini;5;11
+senninbari;;5;10
+mojo;;5;10
+zurrón (recipiente);talego o mochila|morral|bolso de pastor|bolsa de cuero;5;10
+ropa de alta visibilidad;;5;10
+trábea;;5;10
+indumentaria transparente;vestimenta transparente|vestimenta translúcida|Transparencia (indumentaria);5;10
+perizonium;Paños de pureza|Paño de pureza|Lienzo de pureza|Perizoma;5;10
+pallium;;5;10
+lazo;;5;10
+guantes de artes marciales mixtas;;5;10
+chiwara;;5;10
+koto;;5;9
+moda europea en el siglo XIV;;5;9
+cortapuros;;5;9
+manteo;;5;9
+pollera;;5;9
+falda masculina;;5;9
+sombrero de bruja;;5;9
+lorica plumata;loriga de plumas;5;9
+zapatos papales;;5;9
+queratopigmentación;tatuaje ocular;5;9
+moda en la década de 1960;;5;9
+apex;;5;8
+modius;modio;5;8
+carlanca;carranca|carlancas;5;8
+tsunokakushi;;5;8
+bordón de peregrino;;5;8
+indumentaria europea en el siglo XIII;;5;8
+faluche;;5;8
+lorica;;5;8
+clériman;cuello clerical|clergyman;5;8
+karategi;;5;8
+albarca;abarca;5;8
+atributos del faraón;Atributos faraónicos;5;8
+moda en la década de 1980;;5;8
+gárments;;5;8

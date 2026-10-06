@@ -1,0 +1,368 @@
+respuesta;alias;nivel;ediciones_wikipedia
+coche;automóvil|carro;1;1000000000
+autobús;bus;1;999999999
+tren;;1;999999998
+avión;;1;999999997
+bici;bicicleta;1;999999996
+moto;motocicleta;1;999999995
+metro;;1;999999994
+barco;;1;999999993
+taxi;;1;999999992
+tranvía;;2;1000000000
+patinete;patinete eléctrico;2;999999999
+camión;;2;999999998
+furgoneta;;2;999999997
+helicóptero;;2;999999996
+ferry;ferri;2;999999995
+crucero;;2;999999994
+velero;;2;999999993
+lancha;;2;999999992
+yate;;2;999999991
+AVE;tren de alta velocidad;2;999999990
+cercanías;;2;999999989
+autocar;;2;999999988
+monopatín;skate;2;999999987
+patines;;2;999999986
+caballo;;2;999999985
+andando;a pie|caminando|ir andando;2;999999984
+globo;globo aerostático;2;999999983
+teleférico;;2;999999982
+funicular;;2;999999981
+submarino;;2;999999980
+canoa;;2;999999979
+piragua;kayak;2;999999978
+cohete;;2;999999977
+nave espacial;;2;999999976
+tractor;;2;999999975
+ambulancia;;2;999999974
+limusina;;2;999999973
+caravana;autocaravana;2;999999972
+quad;;2;999999971
+scooter;vespa;2;999999970
+ciclomotor;;2;999999969
+triciclo;;2;999999968
+carruaje;coche de caballos;2;999999967
+trineo;;2;999999966
+moto de agua;;2;999999965
+ascensor;;2;999999964
+escaleras mecánicas;;2;999999963
+Uber;VTC|Cabify;2;999999962
+BlaBlaCar;coche compartido;2;999999961
+burro;asno;3;1000000000
+mula;;3;999999999
+camello;;3;999999998
+elefante;;3;999999997
+carreta;;3;999999995
+diligencia;;3;999999994
+calesa;;3;999999993
+rickshaw;;3;999999992
+tuk-tuk;;3;999999991
+góndola;;3;999999990
+catamarán;;3;999999989
+barca;;3;999999988
+bote;;3;999999987
+balsa;;3;999999986
+hidropedal;patín de agua;3;999999985
+tabla de surf;;3;999999984
+zodiac;;3;999999983
+aerodeslizador;hovercraft;3;999999982
+hidroavión;;3;999999981
+avioneta;;3;999999980
+planeador;;3;999999979
+ala delta;;3;999999978
+parapente;;3;999999977
+paracaídas;;3;999999976
+dirigible;zepelín;3;999999975
+dron;;3;999999974
+jet privado;jet;3;999999973
+concorde;;3;999999972
+transbordador;transbordador espacial;3;999999971
+monorraíl;;3;999999970
+cremallera;tren cremallera;3;999999969
+tren de vapor;;3;999999968
+tren bala;shinkansen;3;999999967
+maglev;;3;999999966
+hyperloop;;3;999999965
+trolebús;;3;999999964
+guagua;;3;999999963
+microbús;;3;999999962
+autobús de dos pisos;;3;999999961
+bus turístico;;3;999999960
+tándem;;3;999999959
+monociclo;;3;999999958
+bicicleta eléctrica;;3;999999957
+bici estática;;3;999999956
+handbike;;3;999999955
+silla de ruedas;;3;999999954
+andador;;3;999999953
+carrito;cochecito|carrito de bebé;3;999999952
+carretilla;;3;999999951
+segway;;3;999999950
+hoverboard;;3;999999949
+longboard;;3;999999948
+esquís;esquí;3;999999947
+snowboard;;3;999999946
+telesilla;;3;999999945
+telesquí;telearrastre;4;999999944
+telecabina;;4;999999943
+tirolina;;4;999999942
+trineo de perros;;4;999999941
+motonieve;;4;999999940
+rompehielos;;4;999999939
+petrolero;;4;999999938
+carguero;;4;999999937
+portaaviones;;4;999999936
+galeón;;4;999999935
+carabela;;4;999999934
+drakkar;;4;999999933
+junco;;4;999999932
+trainera;;4;999999930
+remolcador;;4;999999928
+barcaza;;4;999999927
+portacontenedores;;4;999999926
+tanque;carro de combate;4;999999925
+jeep;todoterreno;4;999999924
+4x4;;4;999999923
+buggy;;4;999999922
+kart;;4;999999921
+coche de choque;;4;999999920
+sidecar;;4;999999918
+moto con sidecar;;4;999999917
+chopper;;4;999999916
+minimoto;;4;999999915
+descapotable;;4;999999914
+ranchera;;4;999999913
+monovolumen;;4;999999912
+pick-up;camioneta;4;999999911
+grúa;;4;999999910
+excavadora;;4;999999909
+hormigonera;;4;999999908
+camión de bomberos;;4;999999907
+camión de la basura;;4;999999906
+coche fúnebre;;4;999999905
+coche de policía;;4;999999904
+papamóvil;;4;999999903
+batmóvil;;4;999999902
+alfombra voladora;;4;999999901
+escoba;escoba voladora;4;999999900
+teletransporte;;4;999999899
+DeLorean;máquina del tiempo;4;999999898
+cápsula;;4;999999897
+ascensor espacial;;4;999999896
+palanquín;;4;999999895
+litera;;4;999999894
+zancos;;4;999999893
+patín;;4;999999891
+a caballito;;4;999999890
+autostop;hacer dedo;4;999999889
+vehículo aéreo no tripulado;VANT|UAV|avión no tripulado;4;121
+aeronave;vehículo aéreo;4;116
+ciclismo;;4;111
+avión de caza;Caza de reacción|Aviones caza|Avión de combate;4;89
+automóvil eléctrico;vehículo todo-eléctrico;4;86
+escalera mecánica;;4;81
+buque de guerra;unidad militar naval|barco de guerra|buque militar|unidad naval;4;80
+barco de vela;;5;76
+tren de levitación magnética;trenes de levitación magnética;5;72
+pala excavadora;;5;70
+destructor;contratorpedero;5;68
+fragata;Fragata de misiles;5;68
+buldócer;bulldozer|Buldozer;5;67
+acorazado;Acorazados;5;66
+galera;Galeras;5;65
+vehículo de lanzamiento;cohete de transporte|cohete espacial|lanzadera espacial;5;65
+basura espacial;Chatarra espacial|Desechos espaciales;5;65
+observatorio espacial;satélite astronómico;5;64
+barco de vapor;piróscafo|navegación a vapor;5;62
+carro de guerra;Carros de guerra|biga;5;62
+ciclismo de competición;;5;62
+buque de carga;navío de carga|navío cargo;5;61
+autogiro;girocóptero;5;61
+avión comercial;Avión de pasajeros|Avión de línea;5;60
+vehículo de bomberos;vehículos de bomberos|coche de bomberos;5;59
+vehículo deportivo utilitario;SUV|Vehículos deportivos utilitarios;5;59
+combinada nórdica;combinado nórdico;5;59
+vehículo autónomo;vehículo sin conductor|vehículo robótico;5;59
+transporte blindado de personal;Vehículo de transporte de infantería|Transportes blindados de personal;5;59
+corbeta;;5;58
+vagón de ferrocarril;vagón ferroviario|vagon;5;58
+buque cisterna;navío cisterna|barco cisterna|cisterna flotante|navío-tanque;5;58
+globo de aire caliente;globo aerostático de aire caliente;5;58
+autorickshaw;Tricicleta;5;58
+motoneta;escúter;5;57
+aeronave a reacción;jet aircraft|avión jet|avión de reacción;5;57
+sedán;Berlina;5;56
+buque portacontenedores;portacontenedor;5;56
+vehículo híbrido;híbrido;5;55
+gabarra;;5;55
+carretilla elevadora;grúa horquilla|carretillas mecánicas;5;55
+trirreme;triere;5;54
+vehículo eléctrico;;5;54
+avión de papel;avioncito de papel|aerogami;5;53
+navío de línea;Navíos de línea;5;53
+ariete;;5;53
+goleta;Schooner|Goleta de velacho;5;53
+embarcación;vehículo acuático;5;53
+avión de ataque a tierra;avión de ataque ligero|avión de ataque al suelo;5;52
+aeronave militar;avion militar|avión de guerra;5;52
+batiscafo;vehículo subacuático;5;51
+hatchback;compacto;5;51
+bicicleta de montaña;Mountain-bike|Bicimontaña;5;50
+vehículo de combate de infantería;Vehículo de combate de infantería blindado;5;50
+aerostato;;5;50
+familiar;Station wagon;5;49
+transatlántico;trasatlantico;5;49
+bergantín;Bergantines|Bergantin-goleta;5;48
+dragaminas;detector de minas|cazaminas|buscaminas|barreminas;5;48
+camilla;camillero;5;48
+cicloturismo;turismo en bicicleta|biciturismo|cicloturista;5;48
+automóvil blindado;furgón blindado|coche blindado|vehículo blindado;5;48
+cuadriga;cuádrigas;5;47
+buque insignia;nave insignia|nave capitana|barco insignia;5;47
+motoniveladora;;5;47
+apisonadora;Compactadora|Aplanar|Aplanadora|Apisonamiento;5;47
+buque torpedero;topedero;5;47
+módulo lunar;LEM;5;46
+cupé;coupe;5;46
+motocross;Mx moto|Motocrós;5;46
+zanco;;5;46
+automóvil deportivo;coche deportivo|automóviles deportivos;5;46
+buque petrolero;tanque petrolero|petrolero de productos|petrolero de crudo|navío petrolero;5;46
+remolque;Acoplado|Trailer;5;46
+dreadnought;acorazados monocalibre|Acorazados Dreadnought|Acorazado Dreadnought;5;46
+alerta temprana y control aerotransportado;Sistema de alerta y control aerotransportado|Alerta temprana y control|Alerta temprana aerotransportada|Alerta Temprana Aérea y Control;5;45
+carraca;carracas;5;45
+ciclismo en ruta;Ciclismo en carretera;5;45
+avión de fuselaje ancho;fuselaje ancho|avión de doble pasillo;5;45
+buque mercante;Buques mercantes|Buque mercantes;5;45
+autovolquete;remolque volquete|camión volquete|volteo|volquete;5;45
+sloop;;5;44
+bibliobús;biblioteca móvil;5;44
+arrastrero;barco de arrastre;5;44
+patrullero;buque patrullero|buque patrulla|bote patrulla;5;44
+submarino nuclear;submarino de propulsión nuclear|submarino atómico;5;44
+cañonero;Lancha cañonera;5;43
+granelero;bulk carrier;5;43
+barco hospital;;5;43
+avión de carga;aeronave de carga;5;43
+barco de pasajeros;Navío de pasajeros|Buque de pasajeros;5;43
+avión de reconocimiento;aeronave de reconocimiento;5;43
+tanque de batalla principal;tanque universal|tanque de batalla|MBT;5;43
+slalom;;5;43
+bricbarca;bergantín-barca;5;42
+ciclismo en pista;Pistard;5;42
+aterrizador;;5;42
+de Havilland DH.106 Comet;DH Comet|De Havilland Comet;5;42
+autobús escolar;transporte escolar|micro escolar|colectivo escolar;5;42
+caza polivalente;Avión de combate polivalente|Avión de combate multipropósito;5;42
+vehículo de hidrógeno;Vehículos de hidrógeno;5;42
+monoplano;Avión monoplano;5;42
+astromóvil;Rover;5;42
+vehículo blindado de combate;vehículo militar blindado|vehículo de combate blindado;5;41
+de Havilland Canada DHC-8;;5;41
+helicóptero de ataque;helicópteros artillados|helicoptero de combate;5;41
+fragata blindada;ironclad|buque blindado;5;41
+material rodante;vehículos ferroviarios|material rodante ferroviario;5;41
+barco pesquero;navío pesquero|embarcación pesquera|buque de pesca|barca de pesca;5;41
+ciclismo de montaña;;5;41
+cayuco;;5;41
+minibús;;5;41
+ornitóptero;;5;41
+clíper;Clipper;5;40
+barco fantasma;buque fantasma;5;40
+dromon;;5;40
+ciclocrós;cyclo-cross|ciclo-cross;5;40
+bicitaxi;velotaxi|tricitaxi|ciclotaxi;5;40
+munición merodeadora;loitering munition|dron kamikaze;5;40
+crucero de batalla;;5;39
+destructor de tanques;cazacarros;5;39
+coca;;5;39
+unidad eléctrica múltiple;EMU|UT;5;39
+avión de fuselaje estrecho;fuselaje estrecho|avión de pasillo único;5;39
+maquinaria de construcción;Máquinas de construccion|Maquinaria para la construcción;5;39
+tren de mercancías;tren de carga;5;39
+automóvil todoterreno;vehículo todo terreno|todoterrenos|cuatro por cuatro;5;39
+autobús articulado;Bus articulado;5;39
+cañón Dora;;5;38
+bote salvavidas;lanza salvavidas|lanza de salvataje|bote de salvataje;5;38
+tuneladora;;5;37
+de Havilland Vampire;;5;37
+cúter;;5;37
+pontón;;5;37
+vehículo aéreo de combate no tripulado;UCAV|drone militar|drone de combate;5;37
+vehículo anfibio;anfibio;5;37
+cuadricóptero;quadrotor|quadrirrotor;5;37
+barco-dragón;;5;37
+coche de niño;Taca tac|Cochecito de bebé;5;37
+coche policial;Vehiculo policial|Carro de policía;5;37
+tanque ligero;carro ligero|carro de combate ligero;5;37
+pala cargadora;;5;36
+casa flotante;;5;36
+avión furtivo;stealth|avión invisible;5;36
+avión de entrenamiento;entrenador militar|entrenador avanzado|avión entrenador militar;5;36
+minador;;5;36
+tren de carretera;;5;35
+pecio;;5;35
+carros chocones;;5;35
+brulote;Brulote (naval);5;35
+hoverboard scooter;;5;34
+globo meteorológico;Globo sonda;5;34
+descenso;descenso en esquí;5;34
+tanque pesado;;5;34
+camión de recojo de desechos;camión recolector|camión de recolección de residuos|camión de recogida de desechos;5;34
+crucero ligero;;5;34
+carrito de supermercado;carros de compra|carro de supermercado|carreta de compra;5;34
+cabeza tractora;;5;34
+crucero pesado;;5;34
+tren semidirecto;tren exprés|exprés;5;34
+yipni;dyipni;5;34
+tanque medio;tanque mediano;5;34
+barco tortuga;Kobukson|Barcos Tortuga;5;33
+gran turismo;;5;33
+mochila propulsora;jet pack|cinturón cohete;5;33
+vagón de pasajeros;coche de viajeros|coche de pasajeros;5;33
+aeronave de transporte militar;Helicóptero de transporte militar|avión militar de carga;5;33
+clase Essex;;5;33
+buque faro;;5;33
+paternóster;;5;33
+lancha de desembarco;lanchas de desembarco;5;33
+avión espacial;;5;33
+crucero acorazado;;5;33
+faluca;Falua|llagut|laúd;5;33
+automóvil de vapor;Coche de vapor;5;33
+de Havilland Tiger Moth;De Havilland DH.82 Tiger Moth;5;33
+muscle car;automóvil muscle;5;32
+cohete de combustible sólido;;5;32
+ténder;;5;32
+clase Iowa;;5;32
+monitor;;5;32
+camión cisterna;carro pipa|camión tanque|camión pipa;5;32
+vehículo híbrido eléctrico enchufable;PHV|PHEV;5;32
+propulsor de combustible líquido;;5;32
+chaika;;5;32
+autobús eléctrico;ómnibus eléctrico|bus eléctrico;5;32
+semirremolque;;5;32
+submarinos clase Virginia;Clase SSN-774;5;32
+coracle;;5;31
+vaporetto;;5;31
+sistema de defensa antiaérea portátil;Sistema de defensa aérea portátil;5;31
+automóvil superdeportivo;Superdeportivos|Superdeportivo|Superauto|Hiperauto;5;31
+prototipo de automóvil;vehiculo conceptual;5;31
+quinta generación de cazas de reacción;caza de reacción de quinta generación;5;31
+food truck;tráiler de comida|gastroneta|carrito gastronómico|carrito de comida;5;31
+cápsula espacial;;5;31
+aeronave de alas giratorias;ala rotativa|aeronaves de ala giratoria|aeronave de alas rotatorias;5;31
+galeaza;;5;31
+avión de negocios;transporte VIP|reactor ejecutivo|reactor de negocios;5;31
+tren pendular;;5;31
+embarcación de vela;;5;30
+cohete multietapa;Etapa de cohete|Estadificación|Cohete de múltiples fases;5;30
+buque capital;navío capital;5;30
+coche cama;wagon-lits|wagon-lit;5;30
+tranvía de tracción animal;;5;30
+telemark;;5;30
+aeronave eléctrica;avión eléctrico;5;30
+velocípedo;;5;30
+vagón de carga;vagón de mercancías|vagón de mercancía|vagón de cargas;5;30
+buque escuela;;5;30
+avión de patrulla marítima;MPA;5;30

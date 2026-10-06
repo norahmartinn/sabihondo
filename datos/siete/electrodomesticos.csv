@@ -1,0 +1,193 @@
+respuesta;alias;nivel;ediciones_wikipedia
+lavadora;;1;1000000000
+nevera;frigorífico|frigo;1;999999999
+microondas;;1;999999998
+lavavajillas;lavaplatos;1;999999997
+horno;;1;999999996
+televisión;tele|televisor;1;999999995
+secadora;;1;999999994
+aspiradora;aspirador;1;999999993
+tostadora;tostador;1;999999992
+batidora;;1;999999991
+plancha;;2;1000000000
+cafetera;;2;999999999
+secador;secador de pelo;2;999999998
+vitrocerámica;vitro;2;999999997
+congelador;arcón;2;999999996
+campana;campana extractora;2;999999995
+freidora;freidora de aire|airfryer;2;999999994
+Thermomix;robot de cocina;2;999999993
+exprimidor;;2;999999992
+hervidor;hervidor de agua|kettle;2;999999991
+licuadora;;2;999999990
+sandwichera;;2;999999989
+ventilador;;2;999999988
+aire acondicionado;;2;999999987
+calefactor;;2;999999986
+estufa;;2;999999985
+radiador;;2;999999984
+termo;calentador;2;999999983
+robot aspirador;Roomba;2;999999982
+placa de inducción;inducción;2;999999981
+cocina;cocina de gas|fogones;2;999999980
+picadora;;2;999999979
+plancha de pelo;;2;999999978
+maquinilla;afeitadora|máquina de afeitar;2;999999977
+cepillo de dientes eléctrico;;2;999999976
+depiladora;;2;999999975
+humidificador;;2;999999974
+deshumidificador;;2;999999973
+purificador;purificador de aire;2;999999972
+radio;;2;999999971
+altavoz;;2;999999970
+ordenador;;2;999999969
+impresora;;2;999999968
+router;;2;999999967
+consola;;2;999999966
+yogurtera;;3;1000000000
+panificadora;;3;999999999
+heladera;;3;999999998
+gofrera;;3;999999997
+crepera;;3;999999996
+palomitero;máquina de palomitas;3;999999995
+fondue;;3;999999994
+raclette;;3;999999993
+grill;;3;999999992
+plancha de asar;;3;999999991
+barbacoa eléctrica;;3;999999990
+olla exprés;olla a presión;3;999999989
+olla lenta;slow cooker;3;999999988
+arrocera;;3;999999987
+vaporera;;3;999999986
+freidora de aceite;;3;999999985
+cortafiambres;;3;999999984
+envasadora al vacío;;3;999999983
+abrelatas eléctrico;;3;999999982
+cuchillo eléctrico;;3;999999981
+molinillo;molinillo de café;3;999999980
+cafetera de cápsulas;Nespresso|Dolce Gusto;3;999999979
+cafetera italiana;;3;999999978
+máquina de hielo;;3;999999977
+vinoteca;;3;999999976
+dispensador de agua;;3;999999975
+fuente de chocolate;;3;999999974
+calientaplatos;;3;999999973
+calientabiberones;;3;999999972
+esterilizador;;3;999999971
+báscula;;3;999999970
+centro de planchado;;3;999999969
+vaporeta;;3;999999968
+limpiacristales;;3;999999967
+pulidora;;3;999999966
+mopa eléctrica;;3;999999965
+fregona eléctrica;;3;999999964
+aspirador de mano;;3;999999963
+lavadora secadora;;3;999999962
+tendedero eléctrico;;3;999999961
+manta eléctrica;;3;999999960
+calientacamas;;3;999999959
+brasero;;3;999999958
+chimenea eléctrica;;3;999999957
+caldera;;3;999999956
+toallero eléctrico;;3;999999955
+extractor;;3;999999954
+ozonizador;;4;999999953
+ambientador eléctrico;;4;999999952
+mata mosquitos;matamoscas eléctrico;4;999999951
+despertador;;4;999999950
+radio despertador;;4;999999949
+reloj;;4;999999948
+lámpara;;4;999999947
+flexo;;4;999999946
+máquina de coser;;4;999999945
+taladro;;4;999999944
+vídeo;VHS;4;999999943
+DVD;;4;999999942
+tocadiscos;;4;999999941
+minicadena;;4;999999940
+home cinema;barra de sonido;4;999999939
+proyector;;4;999999938
+teléfono fijo;;4;999999937
+contestador;;4;999999936
+fax;;4;999999935
+cortapelos;;4;999999934
+rizador;;4;999999933
+cepillo alisador;;4;999999932
+masajeador;;4;999999931
+bicicleta estática;;4;999999930
+cinta de correr;;4;999999929
+generador;;4;999999928
+bomba de calor;;4;999999927
+placas solares;;4;999999926
+timbre;;4;999999925
+portero automático;telefonillo;4;999999924
+alarma;;4;999999923
+trituradora;;4;999999922
+triturador de basura;;4;999999921
+compactador;;4;999999920
+lavavasos;;4;999999919
+secamanos;;4;999999918
+máquina de algodón de azúcar;;4;999999917
+licuadora de vaso;;4;999999916
+batidora de varillas;;4;999999915
+amasadora;;4;999999914
+robot de limpieza;;4;999999913
+Conga;;4;999999912
+Dyson;;4;999999911
+KitchenAid;;4;999999910
+Mambo;;4;999999909
+Monsieur Cuisine;;4;999999908
+refrigerador;refrigeradora|refrigerador con freezer|fábrica hielo;4;144
+plancha de ropa;;4;100
+horno de microondas;;4;91
+samovar;;4;61
+alto horno;altos hornos;4;60
+cargador de baterías;;5;53
+estación de trabajo;workstation|Estaciones de trabajo;5;52
+ventilación;;5;51
+máquina de picar carne;picadora de carne|capoladora;5;42
+tabléfono;;5;40
+climatización;;5;40
+calefacción;;5;39
+hipocausto;hypocaustum|hipocaustum;5;38
+serie Nokia Lumia;;5;38
+cafetera moka;Macchinetta;5;36
+olla arrocera;vaporera de arroz;5;36
+fogón de gas;;5;36
+calefacción centralizada;calefacción central;5;35
+cafetera de émbolo;prensa francesa|cafetera francesa|cafetera de pistón;5;34
+cezve;jezve;5;34
+aspirador robótico;;5;32
+horno de cal;calera;5;32
+calefacción eléctrica;;5;31
+cocina eléctrica;;5;30
+calentador de agua;calentador de lava|calefon|boiler;5;30
+suelo radiante;losa radiante|calefacción radiante|zócalo radiante;5;29
+cafetera expreso;máquina expreso|máquina espresso;5;28
+kiln;;5;28
+escítala;;5;27
+jarra eléctrica;pava electrica|caldera eléctrica;5;26
+portero electrónico;;5;26
+videófono;videoteléfono;5;25
+ionizar;;5;25
+ferrería de monte;Reduccion directa;5;24
+refrigeración por evaporación;;5;24
+exprimidor de limón;;5;24
+heladora;;5;23
+efecto Joule;;5;23
+cepillo dental eléctrico;;5;22
+epilador;;5;21
+horno de inducción;;5;21
+intercomunicador;;5;20
+estufa de cerámica;;5;19
+licuadora de mano;Minipimer|Batidora manual|Batidora de mano|Batidora de brazo;5;19
+horno eléctrico;;5;18
+calefacción por agua caliente;;5;18
+horno de tierra;;5;16
+horno de mampostería;horno de piedra|horno de ladrillo|horno de cob|horno de barro;5;15
+pasapurés;pasapuré;5;15
+ventiloconvector;fan coil;5;14
+ventilador centrífugo;ventilador soplador|ventilador radial;5;13
+estufa rusa;;5;13
+procesador criptográfico seguro;;5;12
+calentador de agua circulante;calentador de paso|calentador de agua instantáneo;5;12

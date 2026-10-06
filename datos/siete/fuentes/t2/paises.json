@@ -1,0 +1,7311 @@
+{
+  "head" : {
+    "vars" : [ "x", "xLabel", "en", "links", "art", "alts", "lado", "mon", "arten" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Canadá"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Canada"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "398"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Canad%C3%A1"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14565199"
+      },
+      "mon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "1"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Canada"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Norteamérica Británica|Dominio de Canadá"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q27"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Irlanda"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ireland"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "342"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Irlanda"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11920728"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Republic_of_Ireland"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "República de Irlanda"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Japón"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Japan"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "419"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Jap%C3%B3n"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11920728"
+      },
+      "mon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "1"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Japan"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Estado de Japón"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Noruega"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Norway"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "393"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Noruega"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14565199"
+      },
+      "mon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "1"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Norway"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Reino de Noruega"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q30"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Estados Unidos"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "United States"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "427"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Estados_Unidos"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14565199"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/United_States"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Los Estados Unidos de América|Los Estados Unidos|los Estados|EEUU|EE.UU. de América|EE.UU.|Estados Unidos de América|Unión Americana"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q29"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "España"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Spain"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "396"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Espa%C3%B1a"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14565199"
+      },
+      "mon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "1"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Spain"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Reino de España"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q28"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Hungría"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Hungary"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "358"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Hungr%C3%ADa"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14565199"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Hungary"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q258"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Sudáfrica"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "South Africa"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "368"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Sud%C3%A1frica"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11920728"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/South_Africa"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "República de Sudáfrica"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q31"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Bélgica"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Belgium"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "383"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/B%C3%A9lgica"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14565199"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Belgium"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Reino de Bélgica"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q32"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Luxemburgo"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Luxembourg"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "335"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Luxemburgo"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14565199"
+      },
+      "mon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "1"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Luxembourg"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Gran Ducado de Luxemburgo"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q262"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Argelia"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Algeria"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "374"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Argelia"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14565199"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Algeria"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "República Democrática Popular de Argelia|República Argelina Democrática y Popular"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q34"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Suecia"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Sweden"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "370"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Suecia"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14565199"
+      },
+      "mon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "1"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Sweden"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Reino de Suecia"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q33"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Finlandia"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Finland"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "403"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Finlandia"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14565199"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Finland"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "República de Finlandia"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q265"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Uzbekistán"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Uzbekistan"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "309"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Uzbekist%C3%A1n"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14565199"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Uzbekistan"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "República de Uzbekistán"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q38"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Italia"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Italy"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "409"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Italia"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14565199"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Italy"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "República Italiana"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q39"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Suiza"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Switzerland"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "387"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Suiza"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14565199"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Switzerland"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Confederación Helvética|Confederación Suiza"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q36"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Polonia"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Poland"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "391"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Polonia"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14565199"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Poland"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "República de Polonia"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q37"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Lituania"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Lithuania"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "352"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Lituania"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14565199"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Lithuania"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "República de Lituania"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q298"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Chile"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Chile"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "380"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Chile"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14565199"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Chile"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q334"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Singapur"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Singapore"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "333"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Singapur"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11920728"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Singapore"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "República de Singapur|Ciudad de Singapur"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q40"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Austria"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Austria"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "372"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Austria"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14565199"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Austria"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "República de Austria"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q399"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Armenia"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Armenia"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "353"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Armenia"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14565199"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Armenia"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "República de Armenia|Hayastan"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q43"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Turquía"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Turkey"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "425"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Turqu%C3%ADa"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14565199"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Turkey"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "República Turca|República de Turquía"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q408"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Australia"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Australia"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "399"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Australia"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11920728"
+      },
+      "mon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "1"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Australia"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Mancomunidad de Australia"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q414"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Argentina"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Argentina"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "372"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Argentina"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14565199"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Argentina"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Nación Argentina|República Argentina"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q414"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Argentina"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Argentina"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "372"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Argentina"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11920728"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Argentina"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Nación Argentina|República Argentina"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q79"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Egipto"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Egypt"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "391"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Egipto"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14565199"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Egypt"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "República Árabe de Egipto"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q419"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Perú"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peru"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "333"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Per%C3%BA"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14565199"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Peru"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "República del Perú"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q96"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "México"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mexico"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "401"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/M%C3%A9xico"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14565199"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Mexico"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "República Mejicana|Estados Unidos Mejicanos|Estados Unidos Mexicanos|República Mexicana|MXN|Méjico"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q403"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Serbia"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Serbia"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "352"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Serbia"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14565199"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Serbia"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "República de Serbia|Servia"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q45"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Portugal"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Portugal"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "371"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Portugal"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14565199"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Portugal"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "República de Portugal"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q77"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Uruguay"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Uruguay"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "324"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Uruguay"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14565199"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Uruguay"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "República Oriental de Uruguay"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q657"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Chad"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Chad"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "317"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Chad"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14565199"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Chad"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "República de Chad"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q142"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Francia"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "France"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "428"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Francia"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14565199"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/France"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "República Francesa"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q347"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Liechtenstein"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Liechtenstein"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "316"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Liechtenstein"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14565199"
+      },
+      "mon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "1"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Liechtenstein"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Principado de Liechtenstein"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q398"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Baréin"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Bahrain"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "306"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Bar%C3%A9in"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14565199"
+      },
+      "mon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "1"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Bahrain"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Reino de Baréin|Reino de Barein|Barein|Bahréin|Bahráin|Bahrain"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q41"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Grecia"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Greece"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "378"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Grecia"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14565199"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Greece"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Hellás|Hélade|República Helénica"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q423"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Corea del Norte"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "North Korea"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "312"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Corea_del_Norte"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14565199"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/North_Korea"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "RPDC|República Popular Democrática de Corea|Norcorea|Corea Popular"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q424"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Camboya"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cambodia"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "330"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Camboya"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14565199"
+      },
+      "mon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "1"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Cambodia"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Reino de Camboya"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q114"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Kenia"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kenya"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "337"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Kenia"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11920728"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Kenya"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "República de Kenia|Kenya"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q115"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Etiopía"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ethiopia"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "347"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Etiop%C3%ADa"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14565199"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Ethiopia"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "República Democrática Federal de Etiopía|Asamblea Parlamentaria Federal"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q574"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Timor Oriental"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Timor-Leste"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "291"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Timor_Oriental"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11920728"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Timor-Leste"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "República Democrática de Timor Oriental"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q117"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Ghana"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ghana"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "325"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Ghana"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14565199"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Ghana"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "República de Ghana"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q678"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Tonga"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Tonga"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "260"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Tonga"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11920728"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Tonga"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Reino de Tonga"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q184"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Bielorrusia"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Belarus"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "358"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Bielorrusia"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14565199"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Belarus"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "República de Belarús|Belarús"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q672"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Tuvalu"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Tuvalu"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "253"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Tuvalu"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11920728"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Tuvalu"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Islas Ellice"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q183"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Alemania"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Germany"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "405"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Alemania"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14565199"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Germany"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "República Federal de Alemania"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q145"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Reino Unido"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "United Kingdom"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "396"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Reino_Unido"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11920728"
+      },
+      "mon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "1"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/United_Kingdom"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "El Reino Unido|Reino Unido de la Gran Bretaña e Irlanda del Norte|Reino Unido de Gran Bretaña e Irlanda del Norte"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q148"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "República Popular China"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "People's Republic of China"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "399"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Rep%C3%BAblica_Popular_China"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14565199"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/China"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "República Popular de China|China Popular"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q683"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Samoa"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Samoa"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "261"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Samoa"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11920728"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Samoa"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Estado Independiente de Samoa"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q191"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Estonia"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Estonia"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "354"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Estonia"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14565199"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Estonia"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "República de Estonia"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q189"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Islandia"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Iceland"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "355"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Islandia"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14565199"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Iceland"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "República de Islandia"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q212"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Ucrania"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ukraine"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "389"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Ucrania"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14565199"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Ukraine"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Ukrainia|Ukraina|Ucraina|🇺🇦"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q213"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "República Checa"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Czech Republic"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "355"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Rep%C3%BAblica_Checa"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14565199"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Czech_Republic"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Bohemia|Chequia"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q664"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Nueva Zelanda"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "New Zealand"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "349"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Nueva_Zelanda"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11920728"
+      },
+      "mon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "1"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/New_Zealand"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Nueva Zelandia"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q668"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "India"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "India"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "403"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/India"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11920728"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/India"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "República de la India|La India"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q155"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Brasil"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Brazil"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "387"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Brasil"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14565199"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Brazil"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "República Federativa del Brasil|República Federativa de Brasil"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q159"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Rusia"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Russia"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "421"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Rusia"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14565199"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Russia"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Federación Rusa|Federación de Rusia"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q695"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Palaos"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Palau"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "257"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Palaos"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14565199"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Palau"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "República de Palaos|Palau"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q697"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Nauru"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Nauru"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "265"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Nauru"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11920728"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Nauru"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "República de Naurú|República de Naoero|Naurú|Naoero|República de Nauru"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q214"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Eslovaquia"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Slovakia"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "341"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Eslovaquia"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14565199"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Slovakia"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "República Eslovaca"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q215"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Eslovenia"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Slovenia"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "331"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Eslovenia"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14565199"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Slovenia"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "🇸🇮|República de Eslovenia"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q686"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Vanuatu"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Vanuatu"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "264"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Vanuatu"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14565199"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Vanuatu"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "República de Vanuatu"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q685"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Islas Salomón"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Solomon Islands"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "245"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Islas_Salom%C3%B3n"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11920728"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Solomon_Islands"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Islas Solomón"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q691"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Papúa Nueva Guinea"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Papua New Guinea"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "285"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Pap%C3%BAa_Nueva_Guinea"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11920728"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Papua_New_Guinea"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Papua Nueva Guinea|Estado Independiente de Papúa Nueva Guinea|Estado Independiente de Papua Nueva Guinea"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q211"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Letonia"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Latvia"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "336"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Letonia"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14565199"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Latvia"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "República de Letonia"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q710"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Kiribati"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kiribati"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "249"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Kiribati"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11920728"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Kiribati"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "República de Kiribati"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q711"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Mongolia"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mongolia"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "321"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Mongolia"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14565199"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Mongolia"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q222"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Albania"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Albania"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "387"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Albania"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14565199"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Albania"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "República de Albania"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q709"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Islas Marshall"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Marshall Islands"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "236"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Islas_Marshall"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14565199"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Marshall_Islands"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "República de las Islas Marshall|Islas de los Pintados"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q219"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Bulgaria"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Bulgaria"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "361"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Bulgaria"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14565199"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Bulgaria"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "República de Bulgaria"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q221"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Macedonia del Norte"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "North Macedonia"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "326"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Macedonia_del_Norte"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14565199"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/North_Macedonia"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "República de Macedonia del Norte|República de Macedonia|Ex República Yugoslava de Macedonia|Antigua República Yugoslava de Macedonia"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q712"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Fiyi"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Fiji"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "280"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Fiyi"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11920728"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Fiji"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "República de Fiyi|República de Fiji|Fiji"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q717"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Venezuela"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Venezuela"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "344"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Venezuela"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14565199"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Venezuela"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "República Bolivariana de Venezuela|RB Venezuela|Estados Unidos de Venezuela|República de Venezuela"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q224"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Croacia"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Croatia"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "356"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Croacia"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14565199"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Croatia"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "República de Croacia"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q225"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Bosnia y Herzegovina"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Bosnia and Herzegovina"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "342"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Bosnia_y_Herzegovina"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14565199"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Bosnia_and_Herzegovina"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "República de Bosnia|Bosnia-Herzegovia"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q734"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Guyana"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Guyana"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "286"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Guyana"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11920728"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Guyana"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "República Cooperativa de Guyana"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q736"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Ecuador"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ecuador"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "315"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Ecuador"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14565199"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Ecuador"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Estado Ecuatoriano|el Ecuador"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q232"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Kazajistán"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kazakhstan"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "350"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Kazajist%C3%A1n"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14565199"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Kazakhstan"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "República de Kazajistán|Kazakstán|Kazajia|Kazajastán|Qazaqstan"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q730"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Surinam"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Suriname"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "288"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Surinam"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11920728"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Suriname"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "República de Surinam"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q227"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Azerbaiyán"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Azerbaijan"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "361"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Azerbaiy%C3%A1n"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14565199"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Azerbaijan"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "República de Azerbaiyán"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q228"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Andorra"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Andorra"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "333"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Andorra"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14565199"
+      },
+      "mon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "1"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Andorra"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Principado de Andorra"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q733"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Paraguay"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Paraguay"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "311"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Paraguay"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14565199"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Paraguay"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "República del Paraguay"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q230"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Georgia"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Georgia"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "348"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Georgia"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14565199"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Georgia_(country)"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "República de Georgia"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q229"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Chipre"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cyprus"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "325"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Chipre"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11920728"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Cyprus"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "República de Chipre"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q702"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Estados Federados de Micronesia"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Federated States of Micronesia"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "222"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Estados_Federados_de_Micronesia"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14565199"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Federated_States_of_Micronesia"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Micronesia"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q218"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Rumania"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Romania"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "348"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Rumania"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14565199"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Romania"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Rumanía"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q217"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Moldavia"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Moldova"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "331"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Moldavia"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14565199"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Moldova"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "República de Moldovia|República de Moldova"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q739"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Colombia"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Colombia"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "367"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Colombia"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14565199"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Colombia"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "🇨🇴|República de Colombia"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q235"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Mónaco"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Monaco"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "321"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/M%C3%B3naco"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14565199"
+      },
+      "mon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "1"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Monaco"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Principado de Mónaco"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q233"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Malta"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Malta"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "327"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Malta"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11920728"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Malta"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "República de Malta"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q750"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Bolivia"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Bolivia"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "313"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Bolivia"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14565199"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Bolivia"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Estado Plurinacional de Bolivia|República de Bolivia"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q754"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Trinidad y Tobago"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Trinidad and Tobago"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "251"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Trinidad_y_Tobago"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11920728"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Trinidad_and_Tobago"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Trinidad y Tabago|República de Trinidad y Tobago"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q236"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Montenegro"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Montenegro"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "323"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Montenegro"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14565199"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Montenegro"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q763"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "San Cristóbal y Nieves"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Saint Kitts and Nevis"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "239"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/San_Crist%C3%B3bal_y_Nieves"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11920728"
+      },
+      "mon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "1"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Saint_Kitts_and_Nevis"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Federación de San Cristóbal y Nieves"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q242"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Belice"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Belize"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "281"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Belice"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14565199"
+      },
+      "mon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "1"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Belize"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q241"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Cuba"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cuba"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "312"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Cuba"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14565199"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Cuba"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "República de Cuba"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q244"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Barbados"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Barbados"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "276"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Barbados"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11920728"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Barbados"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q757"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "San Vicente y las Granadinas"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Saint Vincent and the Grenadines"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "238"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/San_Vicente_y_las_Granadinas"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11920728"
+      },
+      "mon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "1"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Saint_Vincent_and_the_Grenadines"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q760"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Santa Lucía"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Saint Lucia"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "235"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Santa_Luc%C3%ADa"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11920728"
+      },
+      "mon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "1"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Saint_Lucia"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q238"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "San Marino"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "San Marino"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "314"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/San_Marino"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14565199"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/San_Marino"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "República de San Marino|Serenísima República de San Marino"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q237"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Ciudad del Vaticano"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Vatican City"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "342"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Ciudad_del_Vaticano"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14565199"
+      },
+      "mon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "1"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Vatican_City"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Estado de la Ciudad del Vaticano|Santa Sede|Vaticano"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q766"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Jamaica"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Jamaica"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "281"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Jamaica"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11920728"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Jamaica"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q769"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Granada"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Grenada"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "251"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Granada_(pa%C3%ADs)"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11920728"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Grenada"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Isla de Granada"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q774"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Guatemala"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Guatemala"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "281"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Guatemala"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14565199"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Guatemala"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q778"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Bahamas"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "The Bahamas"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "280"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Bahamas"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11920728"
+      },
+      "mon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "1"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/The_Bahamas"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Mancomunidad de las Bahamas"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q786"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "República Dominicana"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Dominican Republic"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "280"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Rep%C3%BAblica_Dominicana"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14565199"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Dominican_Republic"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q974"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "República Democrática del Congo"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Democratic Republic of the Congo"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "334"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Rep%C3%BAblica_Democr%C3%A1tica_del_Congo"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14565199"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Democratic_Republic_of_the_Congo"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Congo Kinshasa"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q977"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Yibuti"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Djibouti"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "300"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Yibuti"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14565199"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Djibouti"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "República de Yibuti|Djibouti"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q781"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Antigua y Barbuda"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Antigua and Barbuda"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "266"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Antigua_y_Barbuda"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11920728"
+      },
+      "mon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "1"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Antigua_and_Barbuda"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q965"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Burkina Faso"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Burkina Faso"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "309"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Burkina_Faso"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14565199"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Burkina_Faso"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q252"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Indonesia"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Indonesia"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "366"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Indonesia"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11920728"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Indonesia"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "República de Indonesia"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q794"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Irán"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Iran"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "376"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Ir%C3%A1n"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14565199"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Iran"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "República Islámica del Irán|República Islámica de Irán"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q986"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Eritrea"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Eritrea"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "307"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Eritrea"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14565199"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Eritrea"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Estado de Eritrea"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1000"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Gabón"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Gabon"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "295"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Gab%C3%B3n"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14565199"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Gabon"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "República Gabonesa"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q790"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Haití"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Haiti"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "291"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Hait%C3%AD"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14565199"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Haiti"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "República de Haití"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q792"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "El Salvador"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "El Salvador"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "287"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/El_Salvador"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14565199"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/El_Salvador"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "República de El Salvador"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q983"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Guinea Ecuatorial"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Equatorial Guinea"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "284"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Guinea_Ecuatorial"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14565199"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Equatorial_Guinea"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "República de Guinea Ecuatorial"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q783"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Honduras"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Honduras"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "298"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Honduras"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14565199"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Honduras"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "República de Honduras|Guaymuras|Higueras"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q784"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Dominica"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Dominica"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "264"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Dominica"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11920728"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Dominica"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Mancomunidad de Dominica"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q970"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Comoras"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Comoros"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "284"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Comoras"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14565199"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Comoros"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Unión de las Comoras|Comores"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q971"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Congo"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Republic of the Congo"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "300"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Rep%C3%BAblica_del_Congo"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14565199"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Republic_of_the_Congo"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Congo Brazzaville|República del Congo"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q801"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Israel"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Israel"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "380"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Israel"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14565199"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Israel"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Estado de Israel"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1007"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Guinea-Bisáu"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Guinea-Bissau"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "298"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Guinea-Bis%C3%A1u"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14565199"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Guinea-Bissau"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "República de Guinea-Bisáu|Guinea-Bissau|Guinea-Bisau"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q804"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Panamá"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Panama"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "302"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Panam%C3%A1"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14565199"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Panama"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "República de Panamá"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1008"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Costa de Marfil"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ivory Coast"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "312"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Costa_de_Marfil"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14565199"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Ivory_Coast"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "República de Costa de Marfil"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q796"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Irak"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Iraq"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "350"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Irak"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14565199"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Iraq"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Iraq|República de Iraq|República de Irak"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q800"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Costa Rica"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Costa Rica"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "302"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Costa_Rica"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14565199"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Costa_Rica"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "República de Costa Rica"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1006"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Guinea"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Guinea"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "301"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Guinea"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14565199"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Guinea"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "República de Guinea|Guinea-Conakri|Guinea Francesa"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1005"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Gambia"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "The Gambia"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "300"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Gambia"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14565199"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/The_Gambia"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "República de Gambia"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q805"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Yemen"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Yemen"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "316"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Yemen"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14565199"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Yemen"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "República de Yemen"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q810"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Jordania"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Jordan"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "314"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Jordania"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14565199"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Jordan"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Reino Hachemita de Jordania"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q822"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Líbano"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Lebanon"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "329"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/L%C3%ADbano"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14565199"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Lebanon"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "República Libanesa"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q826"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Maldivas"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Maldives"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "289"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Maldivas"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11920728"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Maldives"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "República de Maldivas"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1014"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Liberia"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Liberia"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "292"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Liberia"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14565199"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Liberia"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "República de Liberia"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1013"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Lesoto"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Lesotho"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "280"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Lesoto"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11920728"
+      },
+      "mon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "1"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Lesotho"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Reino de Lesoto|Reino de Lesotho|Lesotho"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q837"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Nepal"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Nepal"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "323"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Nepal"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11920728"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Nepal"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "República Federal Democrática de Nepal"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q842"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Omán"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Oman"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "297"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Om%C3%A1n"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14565199"
+      },
+      "mon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "1"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Oman"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Sultanato de Omán"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1019"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Madagascar"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Madagascar"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "321"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Madagascar"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14565199"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Madagascar"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "República Malgache|República de Madagascar"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1020"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Malaui"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Malawi"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "298"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Malaui"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11920728"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Malawi"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "República de Malaui|Malawi"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q833"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Malasia"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Malaysia"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "339"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Malasia"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11920728"
+      },
+      "mon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "1"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Malaysia"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q836"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Birmania"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Myanmar"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "317"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Birmania"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14565199"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Myanmar"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Unión de Myanmar|República de la Unión de Myanmar|Mianmá|Miamá|Miagmá"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1016"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Libia"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Libya"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "333"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Libia"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14565199"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Libya"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Estado de Libia"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q843"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Pakistán"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Pakistan"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "355"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Pakist%C3%A1n"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11920728"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Pakistan"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "República Islámica del Paquistán|República Islámica del Pakistán|Paquistán"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1027"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Mauricio"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mauritius"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "283"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Mauricio"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11920728"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Mauritius"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "República de Mauricio"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1025"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Mauritania"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mauritania"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "304"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Mauritania"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14565199"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Mauritania"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "República Islámica de Mauritania"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q819"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Laos"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Laos"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "315"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Laos"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14565199"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Laos"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "República Democrática Popular Lao"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q817"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Kuwait"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kuwait"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "305"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Kuwait"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14565199"
+      },
+      "mon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "1"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Kuwait"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Estado de Kuwait"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1011"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Cabo Verde"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cape Verde"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "290"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Cabo_Verde"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14565199"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Cape_Verde"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "República de Cabo Verde"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q811"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Nicaragua"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Nicaragua"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "282"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Nicaragua"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14565199"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Nicaragua"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "República de Nicaragua"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q813"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Kirguistán"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kyrgyzstan"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "319"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Kirguist%C3%A1n"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14565199"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Kyrgyzstan"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "República Kirguisa|Kirguizistán|Kirguisia"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1009"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Camerún"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cameroon"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "314"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Camer%C3%BAn"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14565199"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Cameroon"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "República de Camerún"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q846"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Catar"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Qatar"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "290"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Catar"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14565199"
+      },
+      "mon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "1"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Qatar"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Estado de Catar"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q851"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Arabia Saudí"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Saudi Arabia"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "350"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Arabia_Saudita"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14565199"
+      },
+      "mon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "1"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Saudi_Arabia"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Reino de Arabia Saudita|Reino de Arabia Saudí|Arabia Saudita"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1028"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Marruecos"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Morocco"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "334"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Marruecos"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14565199"
+      },
+      "mon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "1"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Morocco"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Reino de Marruecos"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q865"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "República de China"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Taiwan"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "314"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Rep%C3%BAblica_de_China"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14565199"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Taiwan"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "China|Taiwán|China Taipéi|China Taipei|Taipéi|China Nacionalista|Taiwán ROC|China ROC|China libre"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q869"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Tailandia"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Thailand"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "355"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Tailandia"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11920728"
+      },
+      "mon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "1"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Thailand"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Reino de Tailandia"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1033"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Nigeria"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Nigeria"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "349"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Nigeria"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14565199"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Nigeria"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "República Federal de Nigeria"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q854"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Sri Lanka"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Sri Lanka"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "308"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Sri_Lanka"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11920728"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Sri_Lanka"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Ceilán|República Democrática Socialista de Sri Lanka|Heladiva|Esrilanca"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1030"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Namibia"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Namibia"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "315"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Namibia"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11920728"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Namibia"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "República de Namibia"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1029"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Mozambique"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mozambique"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "301"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Mozambique"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11920728"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Mozambique"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "República de Mozambique"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q858"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Siria"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Syria"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "336"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Siria"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14565199"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Syria"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "República Árabe Siria"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q863"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Tayikistán"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Tajikistan"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "307"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Tayikist%C3%A1n"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14565199"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Tajikistan"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Tajikistán|República de Tayikistán"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1032"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Níger"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Niger"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "302"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/N%C3%ADger"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14565199"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Niger"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "República del Níger|Niger"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q874"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Turkmenistán"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Turkmenistan"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "299"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Turkmenist%C3%A1n"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14565199"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Turkmenistan"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Türkmenistán|Turcmenistán"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q878"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Emiratos Árabes Unidos"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "United Arab Emirates"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "319"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Emiratos_%C3%81rabes_Unidos"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14565199"
+      },
+      "mon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "1"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/United_Arab_Emirates"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "EAU"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1036"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Uganda"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Uganda"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "312"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Uganda"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11920728"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Uganda"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "República de Uganda"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1037"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Ruanda"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Rwanda"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "303"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Ruanda"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14565199"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Rwanda"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Rwanda|🇷🇼|República Ruandesa"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q881"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Vietnam"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Vietnam"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "369"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Vietnam"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14565199"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Vietnam"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Viet Nam|República Socialista de Vietnam"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1039"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Santo Tomé y Príncipe"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "São Tomé and Príncipe"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "273"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Santo_Tom%C3%A9_y_Pr%C3%ADncipe"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14565199"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "República Democrática de Santo Tomé y Príncipe"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q916"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Angola"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Angola"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "323"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Angola"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14565199"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Angola"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "República de Angola"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1246"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Kosovo"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kosovo"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "283"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Kosovo"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14565199"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Kosovo"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "🇽🇰|XK|República de Kosovo|Republica de Kosovo"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q29999"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Reino de los Países Bajos"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kingdom of the Netherlands"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "107"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Reino_de_los_Pa%C3%ADses_Bajos"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14565199"
+      },
+      "mon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "1"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Kingdom_of_the_Netherlands"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Países Bajos"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q884"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Corea del Sur"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "South Korea"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "356"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Corea_del_Sur"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14565199"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/South_Korea"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Surcorea|Sudcorea|República de Corea"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1042"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Seychelles"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Seychelles"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "278"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Seychelles"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11920728"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Seychelles"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "República de las Seychelles"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1041"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Senegal"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Senegal"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "309"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Senegal"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14565199"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Senegal"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "República de Senegal"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q889"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Afganistán"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Afghanistan"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "362"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Afganist%C3%A1n"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14565199"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Afghanistan"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q902"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Bangladés"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Bangladesh"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "348"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Banglad%C3%A9s"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11920728"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Bangladesh"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "República Popular de Bangladés|Bangladesh"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1044"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Sierra Leona"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Sierra Leone"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "294"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Sierra_Leona"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14565199"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Sierra_Leone"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "República de Sierra Leona"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1045"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Somalia"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Somalia"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "326"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Somalia"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14565199"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Somalia"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Somalía|República Federal de Somalia"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q912"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Mali"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mali"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "312"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Mali"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14565199"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Mali"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "República de Malí|República de Mali|Malí"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1050"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Suazilandia"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Eswatini"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "286"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Suazilandia"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11920728"
+      },
+      "mon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "1"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Eswatini"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Reino de Suazilandia|Reino de Esuatini|Esuatini"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1049"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Sudán"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Sudan"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "334"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Sud%C3%A1n"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14565199"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Sudan"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "República de Sudán"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q963"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Botsuana"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Botswana"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "314"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Botsuana"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11920728"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Botswana"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "República de Botsuana"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q958"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Sudán del Sur"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "South Sudan"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "282"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Sud%C3%A1n_del_Sur"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14565199"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/South_Sudan"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "República de Sudán del Sur"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q962"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Benín"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Benin"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "308"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Ben%C3%ADn"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14565199"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Benin"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "República de Benín"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q928"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Filipinas"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Philippines"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "334"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Filipinas"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14565199"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Philippines"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "República de Filipinas"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q929"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "República Centroafricana"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Central African Republic"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "301"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Rep%C3%BAblica_Centroafricana"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14565199"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Central_African_Republic"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q945"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Togo"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Togo"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "302"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Togo"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14565199"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Togo"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "República Togolesa"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q948"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Túnez"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Tunisia"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "328"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/T%C3%BAnez"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14565199"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Tunisia"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "República Tunecina|Tunicia"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q954"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Zimbabue"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Zimbabwe"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "320"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Zimbabue"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11920728"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Zimbabwe"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Zimbagüe|República de Zimbabue"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q953"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Zambia"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Zambia"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "309"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Zambia"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11920728"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Zambia"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "República de Zambia"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q917"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Bután"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Bhutan"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "304"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/But%C3%A1n"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11920728"
+      },
+      "mon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "1"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Bhutan"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Bhután|Reino de Bután"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q921"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Brunéi"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Brunei"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "298"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Brun%C3%A9i"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11920728"
+      },
+      "mon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "1"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Brunei"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Estado de Bruney Darussalam|Estado de Brunéi, Morada de la Paz|Bruney"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q924"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Tanzania"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Tanzania"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "320"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Tanzania"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11920728"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Tanzania"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "República Unida de Tanzanía|República Unida de Tanzania"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q219060"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Palestina"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Palestine"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "225"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Palestina"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14565199"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Palestine"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Estado de Palestina"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q756617"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Reino de Dinamarca"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kingdom of Denmark"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "54"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Reino_de_Dinamarca"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14565199"
+      },
+      "mon" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "1"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Danish_Realm"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q967"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Burundi"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Burundi"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "302"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Burundi"
+      },
+      "lado" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14565199"
+      },
+      "arten" : {
+        "type" : "uri",
+        "value" : "https://en.wikipedia.org/wiki/Burundi"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "República de Burundi"
+      }
+    } ]
+  }
+}

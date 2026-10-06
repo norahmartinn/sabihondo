@@ -1,0 +1,379 @@
+respuesta;alias;nivel;orden_a_mano
+rojo;;1;1000000000
+azul;;1;999999999
+verde;;1;999999998
+amarillo;;1;999999997
+negro;;1;999999996
+blanco;;1;999999995
+rosa;;1;999999994
+naranja;;1;999999993
+morado;;1;999999992
+gris;;1;999999991
+marrón;;1;999999990
+violeta;;2;1000000000
+lila;;2;999999999
+turquesa;;2;999999998
+beige;beis;2;999999997
+granate;;2;999999996
+fucsia;;2;999999995
+celeste;azul celeste|azul cielo;2;999999994
+dorado;oro;2;999999993
+plateado;plata;2;999999992
+azul marino;;2;999999991
+burdeos;;2;999999990
+crema;;2;999999989
+salmón;;2;999999988
+caqui;kaki;2;999999987
+ocre;;2;999999986
+magenta;;2;999999985
+cian;;2;999999984
+añil;índigo;2;999999983
+verde oscuro;;2;999999982
+verde claro;;2;999999981
+azul oscuro;;2;999999980
+azul claro;;2;999999979
+rosa palo;;2;999999978
+verde lima;lima;2;999999977
+mostaza;;2;999999976
+coral;;2;999999975
+lavanda;;2;999999974
+malva;;2;999999973
+carmesí;;2;999999972
+escarlata;;2;999999971
+verde botella;;2;999999970
+verde oliva;oliva;2;999999969
+azul eléctrico;;2;999999968
+azul turquesa;;2;999999967
+rosa chicle;;2;999999966
+púrpura;;2;999999965
+marfil;;2;999999964
+canela;;2;999999963
+chocolate;;2;999999962
+castaño;;2;999999961
+bronce;;2;999999960
+cobre;;2;999999959
+bermellón;;3;1000000000
+aguamarina;;3;999999999
+verde esmeralda;esmeralda;3;999999998
+verde menta;menta;3;999999997
+verde pistacho;pistacho;3;999999996
+verde militar;;3;999999995
+verde agua;;3;999999994
+azul cobalto;cobalto;3;999999993
+azul petróleo;petróleo;3;999999992
+azul Klein;;3;999999991
+azul zafiro;zafiro;3;999999990
+azul pastel;;3;999999989
+azul bebé;;3;999999988
+azul real;;3;999999987
+azul noche;;3;999999986
+azul acero;;3;999999985
+azul Prusia;;3;999999984
+rosa fucsia;;3;999999983
+rosa pastel;;3;999999982
+rosa bebé;;3;999999981
+rosa salmón;;3;999999980
+rojo pasión;;3;999999979
+rojo cereza;cereza;3;999999978
+rojo vino;vino;3;999999977
+rojo sangre;;3;999999976
+rojo fuego;;3;999999975
+rojo carmín;carmín;3;999999974
+rojo rubí;rubí;3;999999973
+teja;;3;999999972
+terracota;;3;999999971
+siena;;3;999999970
+sepia;;3;999999969
+arena;;3;999999968
+camel;;3;999999967
+tostado;;3;999999966
+avellana;;3;999999965
+caoba;;3;999999964
+vainilla;;3;999999963
+hueso;;3;999999962
+perla;;3;999999961
+nácar;;3;999999960
+champán;;3;999999959
+amarillo limón;limón;3;999999958
+amarillo pastel;;3;999999957
+amarillo mostaza;;3;999999956
+amarillo canario;;3;999999955
+ámbar;;3;999999954
+melocotón;;3;999999953
+albaricoque;;4;999999952
+mandarina;;4;999999951
+butano;;4;999999950
+calabaza;;4;999999949
+berenjena;;4;999999948
+ciruela;;4;999999947
+frambuesa;;4;999999946
+fresa;;4;999999945
+grosella;;4;999999944
+orquídea;;4;999999943
+glicinia;;4;999999941
+amatista;;4;999999940
+gris perla;;4;999999939
+gris marengo;marengo;4;999999938
+gris plomo;plomo;4;999999937
+gris antracita;antracita;4;999999936
+gris ceniza;ceniza;4;999999935
+grafito;;4;999999934
+pizarra;;4;999999933
+negro azabache;azabache;4;999999932
+blanco roto;;4;999999931
+blanco nuclear;;4;999999930
+transparente;;4;999999929
+cárdeno;;4;999999928
+glauco;;4;999999927
+cerúleo;;4;999999926
+gualda;;4;999999925
+bermejo;;4;999999924
+pardo;;4;999999923
+rubio;;4;999999922
+pelirrojo;;4;999999921
+azur;;4;999999920
+gules;;4;999999919
+sinople;;4;999999918
+sable;;4;999999917
+púrpura de Tiro;;4;999999916
+verde jade;jade;4;999999915
+verde musgo;musgo;4;999999914
+verde manzana;;4;999999913
+verde hierba;;4;999999912
+verde pino;;4;999999911
+verde azulado;;4;999999910
+verde fosforito;fosforito;4;999999909
+amarillo fosforito;;4;999999908
+naranja fosforito;;4;999999907
+rosa fosforito;;4;999999906
+neón;;4;999999905
+almagre;;5;0
+bermellón de China;;5;0
+bermellón de Holanda;;5;0
+carmín de alizarina;;5;0
+escarlata Gobelinos;;5;0
+grana;;5;0
+hematita roja;;5;0
+hígado;;5;0
+rojo persa;;5;0
+tomate;;5;0
+rojo naranja;;5;0
+rojo anaranjado;;5;0
+naranja rojizo;;5;0
+amarillo indio;;5;0
+naranja caqui;;5;0
+llama;;5;0
+melón;;5;0
+damasco;;5;0
+durazno;;5;0
+ante;;5;0
+blanco navajo;;5;0
+café;;5;0
+marrón café;;5;0
+canelo;;5;0
+castaña;;5;0
+gamuza;;5;0
+herrumbre;;5;0
+león;;5;0
+leonado;;5;0
+ocre amarillo;;5;0
+ocre rojo;;5;0
+ocre pardo;;5;0
+ocre pardo oscuro;;5;0
+ocre oro;;5;0
+ocre dorado;;5;0
+ocre dorado tostado;;5;0
+ocre carne;;5;0
+rojo toscano;;5;0
+rojo Falun;;5;0
+rojo veneciano;;5;0
+rufo;;5;0
+marrón sepia;;5;0
+siena tostada;;5;0
+tierra de Treviso;;5;0
+wengué;;5;0
+almendra;;5;0
+barbecho;;5;0
+bisonte;;5;0
+bistre marrón;;5;0
+camello;;5;0
+caramelo;;5;0
+cobrizo;;5;0
+habano;;5;0
+kalua;;5;0
+latón;;5;0
+marrón cuero;;5;0
+marrón dorado;;5;0
+miel;;5;0
+nogal;;5;0
+pardo ocre;;5;0
+pardo verdoso;;5;0
+rojo indio;;5;0
+secuoya;;5;0
+amarillo naranja;;5;0
+aureolina;;5;0
+amarillo de cobalto;;5;0
+amarillo Hansa medio;;5;0
+amarillo Hansa oscuro;;5;0
+amarillo Nápoles;;5;0
+amarillo Nápoles oscuro;;5;0
+amarillo Nápoles claro;;5;0
+amarillo Nápoles rojizo;;5;0
+amarillo claro;;5;0
+icterina;;5;0
+junquillo;;5;0
+amarillo melón;;5;0
+verde amarillo;;5;0
+chartreuse;;5;0
+amarillo verdoso;;5;0
+verde amarillento;;5;0
+té verde;;5;0
+palta;;5;0
+aguacate;;5;0
+espinaca;;5;0
+verde ceniza;;5;0
+verde Hooker N.º{{esd}}1;;5;0
+verde Hooker N.º{{esd}}2;;5;0
+verde primavera;;5;0
+verde Veronese;;5;0
+viridián;;5;0
+verde cian;;5;0
+esmeralda claro;;5;0
+cardenillo;;5;0
+verdín;;5;0
+verde irlandés;;5;0
+verde turquesa;;5;0
+verde persa;;5;0
+azul verde;;5;0
+verde trébol;;5;0
+verde mar;;5;0
+cerceta;;5;0
+teal;;5;0
+verde petróleo;;5;0
+verde pastel;;5;0
+malaquita;;5;0
+verde loro;;5;0
+verde bosque;;5;0
+verde helecho;;5;0
+verde ruso;;5;0
+hoja;;5;0
+porráceo;;5;0
+verdinegro;;5;0
+acua;;5;0
+o cian oscuro;;5;0
+aguamarina (Diccionario Akal del color;;5;0
+aguamarina oriental;;5;0
+azul Tiffany;;5;0
+calipso;;5;0
+azul cerceta;;5;0
+verde cerceta;;5;0
+azul verdoso;;5;0
+bígaro;;5;0
+azul cian;;5;0
+azul Majorelle;;5;0
+azul aciano;;5;0
+azul violáceo;;5;0
+azul violeta;;5;0
+azul purpúreo;;5;0
+azul púrpura;;5;0
+azul cobalto claro;;5;0
+azul cobalto oscuro;;5;0
+azul egipcio;;5;0
+azul ultramar;;5;0
+orcela;;5;0
+quisqueya;;5;0
+turquí;;5;0
+púrpura azulado;;5;0
+púrpura eléctrico;;5;0
+púrpura de Perkin;;5;0
+fandango;;5;0
+bordó;;5;0
+violín;;5;0
+lirio;;5;0
+lila claro;;5;0
+lila lavanda;;5;0
+lila francés;;5;0
+rosado;;5;0
+rojo púrpura;;5;0
+carne;;5;0
+piel;;5;0
+orceína;;5;0
+rosa coral;;5;0
+rosa mexicano;;5;0
+púrpura rojizo;;5;0
+rojo purpúreo;;5;0
+blanco de zinc;;5;0
+gris claro;;5;0
+gris oscuro;;5;0
+gris acorazado;;5;0
+gris cadete;;5;0
+gris frío;;5;0
+gris de Davy;;5;0
+bistre;;5;0
+gris de Payne oscuro;;5;0
+gris de Payne;;5;0
+azul pizarra;;5;0
+lino;;5;0
+platino;;5;0
+blanco humo;;5;0
+aluminio;;5;0
+alice blue;;5;0
+humo;;5;0
+gris humo;;5;0
+elefante;;5;0
+zinc;;5;0
+cinc;;5;0
+acero;;5;0
+níquel;;5;0
+xanadú;;5;0
+torcaza;;5;0
+taupe;;5;0
+gris de campaña;;5;0
+asfalto;;5;0
+antracita negro-gris metálico;;5;0
+carbón;;5;0
+cordobán;;5;0
+negro bujía;;5;0
+negro de humo;;5;0
+argén;;5;0
+sanguíneo;;5;0
+anaranjado;;5;0
+carnación;;5;0
+cenizo;;5;0
+rosso Corsa;;5;0
+portland orange;;5;0
+amarillo selectivo;;5;0
+british racing green;;5;0
+azul Brandeis;;5;0
+azul Columbia;;5;0
+azul Eton;;5;0
+duke blue;;5;0
+tufts blue;;5;0
+uCLA blue;;5;0
+tan;;5;0
+wheat;;5;0
+steel blue;;5;0
+thistle;;5;0
+ghost white;;5;0
+lavender blush;;5;0
+old lace;;5;0
+sea shell;;5;0
+bleu de Deck;;5;0
+bougainvillea;;5;0
+buckskin;;5;0
+buff;;5;0
+burgundy;;5;0
+cardinal;;5;0
+fallow;;5;0
+fuka–murasaki;;5;0
+gamboge;;5;0
+icterine;;5;0
+jasmine;;5;0
+jaune jonquille;;5;0
+persian orange;;5;0
+pink-orange;;5;0
+porpora;;5;0
+pumpkin;;5;0
+purple;;5;0
+sunset;;5;0
+spring green;;5;0

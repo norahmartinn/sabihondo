@@ -1,0 +1,511 @@
+respuesta;alias;nivel;orden_a_mano
+el mus;;1;1000000000
+el póker;póquer;1;999999999
+el chinchón;;1;999999998
+el solitario;;1;999999997
+el UNO;;1;999999996
+la brisca;;1;999999995
+el tute;;1;999999994
+las siete y media;;1;999999993
+el cinquillo;;1;999999992
+el blackjack;veintiuno|21;1;999999991
+la escoba;;2;1000000000
+el burro;;2;999999999
+la mona;;2;999999998
+el culo;presidente;2;999999997
+el mentiroso;;2;999999996
+el guiñote;;2;999999995
+el subastado;tute subastado;2;999999994
+la pocha;;2;999999993
+el julepe;;2;999999992
+el continental;;2;999999991
+el remigio;;2;999999990
+el rabino;;2;999999989
+la canasta;;2;999999988
+el bridge;;2;999999987
+el ronda robada;robada;2;999999986
+el seis;el reloj;2;999999985
+la guerra;;2;999999984
+el speed;;2;999999983
+el cuadrado;;2;999999982
+la butifarra;;2;999999981
+el truc;truco;2;999999980
+la manilla;;2;999999979
+el tresillo;;2;999999978
+las cuarenta;;2;999999977
+el rentoy;;2;999999976
+la ronda;;2;999999975
+la podrida;;2;999999974
+el Texas Hold'em;;3;999999973
+Magic;Magic: El encuentro|Magic: The Gathering;3;999999972
+las cartas Pokémon;Pokémon|JCC Pokémon;3;999999971
+Yu-Gi-Oh!;;3;999999970
+el Virus;;3;999999969
+el Dobble;;3;999999968
+Exploding Kittens;;3;999999967
+Cartas contra la humanidad;Cards Against Humanity;3;999999966
+el Monopoly Deal;;3;999999965
+el Jungle Speed;;3;999999964
+el Sushi Go;;3;999999963
+el Bang!;;3;999999962
+el Munchkin;;3;999999961
+el Dos;;3;999999960
+el Skip-Bo;;3;999999959
+las familias;las siete familias;3;999999958
+el chúpate dos;;3;999999957
+el rummy;rummikub;3;999999956
+el gin rummy;;3;999999955
+el bacará;baccarat;3;999999954
+el tarot;;3;999999953
+las parejas;memory;3;999999952
+el corazones;;3;999999951
+el pinacle;;3;999999950
+el whist;;3;999999949
+la pirámide;;3;999999948
+el yo nunca;;3;999999947
+7 Wonders Duel;;4;1
+24;;4;1
+40;;4;1
+51;;4;1
+Aluette;;4;1
+As de corazones;;4;1
+As de diamantes;;4;1
+As de picas;;4;1
+As de tréboles;;4;1
+As, dos, tres;;4;1
+Banca;;4;1
+Baraja latina;;4;1
+Belote;;4;1
+Bésigue;;4;1
+Bicycle;;4;1
+Bolot;;4;1
+Boston;;4;1
+Botifarra;;4;1
+Buraco;;4;1
+Burn card;;4;1
+Carioca;;4;1
+Casita robada;;4;1
+Castillo de naipes;;4;1
+Chemin de Fer;;4;1
+Chilindrón;;4;1
+Chin;;4;1
+Pumba;;4;1
+Cinquillo cabrón;;4;1
+Comodín;;4;1
+Crapette;;4;1
+Cribbage;;4;1
+Cuadrao;;4;1
+Desescoba;;4;1
+Durak;;4;1
+Écarté;;4;1
+Edmond Hoyle;;4;1
+Eleusis;;4;1
+Envite canario;;4;1
+Euchre;;4;1
+Flop;;4;1
+Ganjifa;;4;1
+Gilé;;4;1
+Gofo;;4;1
+Hanafuda;;4;1
+Hokm;;4;1
+Jabberwocky;;4;1
+Karnöffel;;4;1
+Karuta;;4;1
+Koi koi;;4;1
+Koi-Koi estilo hawaiano;;4;1
+Lansquenet;;4;1
+Lanterloo;;4;1
+Loba;;4;1
+Loco;;4;1
+Mafia;;4;1
+Malilla;;4;1
+Mao;;4;1
+Mata;;4;1
+Memoria;;4;1
+Minchiate;;4;1
+Mistigri;;4;1
+Napoleón;;4;1
+Noddy;;4;1
+Oh hell;;4;1
+Paciencia;;4;1
+Pai gow;;4;1
+Pasur;;4;1
+Paulo;;4;1
+Pechigonga;;4;1
+Pináculo;;4;1
+Pinochle;;4;1
+Pinocho;;4;1
+Pinta;;4;1
+Policía y ladrón;;4;1
+Reihe;;4;1
+Reina Negra;;4;1
+Remigio francés;;4;1
+Reversis;;4;1
+Revesino;;4;1
+Merle Robbins;;4;1
+Ronco;;4;1
+Rook;;4;1
+Rummy argentino;;4;1
+Seises;;4;1
+Sueca;;4;1
+Tamalou;;4;1
+Tarot esloveno;;4;1
+Tarot francés;;4;1
+Top Trumps;;4;1
+Tressette;;4;1
+Truco venezolano;;4;1
+Tute gana-pierde;;4;1
+Uta-garuta;;4;1
+Vingo;;4;1
+Viscachas;;4;1
+Zanga;;4;1
+juego de cartas coleccionables;juegos de Cartas Coleccionables|cartas coleccionables|collectible card game;5;0
+Juego de Cartas Coleccionables Pokémon;PTCG|Pokémon Trading Card Game;5;0
+skat;;5;0
+Omaha hold 'em;;5;0
+businessman;Desconfío|Professional eater;5;0
+seven-card stud;;5;0
+Carta blanca;FreeCell;5;0
+Tarot de Marsella;Tarot of Marseilles;5;0
+Póquer tapado;five card draw;5;0
+7 Wonders;;5;0
+Dominion;;5;0
+Spades;;5;0
+War;;5;0
+Black Peter;;5;0
+Splendor;;5;0
+Piquet;;5;0
+Póquer en línea;Poquer online|Poker online|online poker;5;0
+Tarjetas contra la humanidad;;5;0
+Juego de construcción de mazos;deck-building game;5;0
+Strip poker;;5;0
+juego de bazas;trick-taking game;5;0
+Mau-Mau;;5;0
+twenty-one;;5;0
+6 nimmt!;Take 5;5;0
+Ocho loco;Crazy Eights;5;0
+World of Warcraft Trading Card Game;;5;0
+Hanabi;;5;0
+Illuminati;Illuminati Juego;5;0
+póquer descubierto;stud poker;5;0
+baraja de tarot Visconti-Sforza;Visconti-Sforza tarot;5;0
+Razz;;5;0
+five-card stud;;5;0
+sixty-six;;5;0
+Preferans;;5;0
+Bohnanza;;5;0
+¡Pesca!;Go Fish;5;0
+hombre;lombre|rocambor|ombre;5;0
+Spider;;5;0
+Culo sucio;Old maid;5;0
+Go-Stop;;5;0
+video poker;;5;0
+Chinese poker;;5;0
+Harry Potter;Harry Potter Trading Card Game;5;0
+Mille Bornes;;5;0
+As-Nas;;5;0
+Jass;;5;0
+Caribbean stud poker;;5;0
+faro;;5;0
+three-card monte;;5;0
+Cardfight!! Vanguard;;5;0
+Russian Bank;;5;0
+collectible card video game;;5;0
+Badugi;Paduki|Padooki|Badougi;5;0
+Vampire: The Eternal Struggle;;5;0
+Comemierda;Scum;5;0
+Schafkopf;;5;0
+Dou Dizhu;;5;0
+Tichu;;5;0
+Cassino;;5;0
+Kemps;;5;0
+Kabufuda;;5;0
+Shithead;;5;0
+Trente et Quarante;;5;0
+familias de 7 países;happy families;5;0
+El Gran Dalmuti;The Great Dalmuti;5;0
+Phase 10;;5;0
+Sanguosha;;5;0
+Doppelkopf;;5;0
+Gnav;;5;0
+Saboteur;;5;0
+Schnapsen;;5;0
+Konkián y Tercerilla;Conquian;5;0
+KeyForge;;5;0
+Exploradores;Exploradores (juego de mesa)|Lost Cities;5;0
+La llamada de Cthulhu;Call of Cthulhu: The Card Game;5;0
+Daifugō;;5;0
+Weiß Schwarz;;5;0
+Big Two;;5;0
+duplicate bridge;;5;0
+competitive karuta;;5;0
+Future Card Buddyfight;;5;0
+Quartets;;5;0
+Sedma;;5;0
+Race for the Galaxy;Galaxia: La Conquista;5;0
+Spellfire;;5;0
+Mariáš;;5;0
+barbú;Tafferan|Le barbu;5;0
+Ligretto;;5;0
+Luck & Logic;;5;0
+Yablon;;5;0
+Halli Galli;;5;0
+rubber bridge;;5;0
+Spoons;;5;0
+Watten;;5;0
+Battle Spirits Trading Card Game;;5;0
+Macao;;5;0
+Blind man's bluff;;5;0
+Oicho-Kabu;;5;0
+Madiao;;5;0
+draw poker;;5;0
+The Mind;;5;0
+Just One;;5;0
+Sicilian tarot;;5;0
+Catan Card Game;;5;0
+Three card brag;;5;0
+Thirty-one;;5;0
+Lorum;;5;0
+Yaniv;;5;0
+Russian Schnapsen;;5;0
+Spit;;5;0
+Estrategias Oblicuas;Oblique Strategies;5;0
+Wizard;;5;0
+Aces Up;;5;0
+Egyptian Ratscrew;;5;0
+Four Color Cards;;5;0
+Doom Trooper;;5;0
+Tablanet;;5;0
+Bastra;;5;0
+slapjack;;5;0
+Piedmontese tarot;;5;0
+Cucumber;;5;0
+500;Quinientos;5;0
+Three card poker;;5;0
+Bolognese tarot;;5;0
+Jaipur;;5;0
+Tarot suizo;Swiss 1JJ Tarot;5;0
+Netrunner;;5;0
+Zwicken;;5;0
+Forbidden Island;;5;0
+Ulti;;5;0
+Trappola;;5;0
+Polignac;;5;0
+Stýrivolt;;5;0
+Shards of Alara;;5;0
+zole;;5;0
+Illuminati: New World Order;;5;0
+all fours;;5;0
+Primero;;5;0
+Beggar-My-Neighbour;;5;0
+Triomphe;;5;0
+2/1 game forcing;;5;0
+500 rum;;5;0
+Chicago;;5;0
+Clock patience;;5;0
+auction bridge;;5;0
+One Card;;5;0
+Sequence;;5;0
+Pan;;5;0
+Klaverjas;;5;0
+Northwestern blot;;5;0
+WIXOSS;;5;0
+coinche;;5;0
+Nain Jaune;;5;0
+La Tripulación: En Busca del Noveno Planeta;The Crew: The Quest for Planet Nine;5;0
+roguelike deck-building game;;5;0
+Bräus;;5;0
+Flesh & Blood;;5;0
+Disney Lorcana;;5;0
+Forest Shuffle;;5;0
+Bouillotte;;5;0
+A Game of Thrones;;5;0
+Blüchern;;5;0
+Knightmare Chess;;5;0
+Kuhn poker;;5;0
+The X-Files: juego de cartas coleccionables;The X-Files Collectible Card Game;5;0
+El Señor de los Anillos: juego de cartas coleccionables;El Senor de los Anillos|The Lord of the Rings Trading Card Game;5;0
+Maquiavelo;Machiavelli (Italian card game);5;0
+52 pickup;;5;0
+Macau;;5;0
+Urza's Saga;;5;0
+Mariage;;5;0
+cego;;5;0
+Quadrille;;5;0
+7th Edition;;5;0
+Stress;;5;0
+Königrufen;;5;0
+Weatherlight;;5;0
+Visions;;5;0
+Blind Hookey;;5;0
+Poch;Ignacio Gasca;5;0
+Monster Collection;;5;0
+Silesian Lottery;;5;0
+Diamant;;5;0
+Once Upon a Time;;5;0
+dedicated deck card game;;5;0
+Bura;Bura (card game);5;0
+King;;5;0
+Antiquities;;5;0
+Calabresella;;5;0
+sousem;;5;0
+3-5-8;;5;0
+8th Edition;;5;0
+stuss;;5;0
+Tarocchini;;5;0
+Up Front;;5;0
+lowball;;5;0
+Skitgubbe;;5;0
+Basset;;5;0
+Bella Sara;;5;0
+Sim City: The Card Game;;5;0
+Unlimited Edition;;5;0
+escoba del 15;escoba de quince;5;0
+Dune CCG;;5;0
+Gong Zhu;;5;0
+Aquarian Age;;5;0
+Ninety-nine;;5;0
+Paskahousu;;5;0
+Pope Joan;;5;0
+Rams;;5;0
+Rat-a-Tat Cat;;5;0
+Reinas Durmientes;Sleeping Queens;5;0
+Starship Catan;;5;0
+tam cúc;;5;0
+Panguingue;;5;0
+Scarto;;5;0
+Mauscheln;;5;0
+Ceki;;5;0
+Colour whist;;5;0
+straight;;5;0
+Open-face Chinese poker;;5;0
+Force of Will Trading Card Game;;5;0
+Lorwyn;;5;0
+Bohemian Schneider;;5;0
+Arkham Horror: The Card Game;;5;0
+The Binding of Isaac: Four Souls;;5;0
+chlust;;5;0
+Coucou;;5;0
+Uno Flip;;5;0
+Unmatched;;5;0
+Huapian;;5;0
+Legends;;5;0
+The Simpsons Trading Card Game;;5;0
+Le Her;;5;0
+Unhinged;;5;0
+Solo whist;;5;0
+Cenzr;;5;0
+Zwanzigerrufen;;5;0
+Grasobern;;5;0
+Bavarian Tarock;;5;0
+Rammeln;;5;0
+Wallachen;;5;0
+Revised Edition;;5;0
+Brusquembille;;5;0
+Marjapussi;;5;0
+9th Edition;;5;0
+Bauernschnapsen;;5;0
+Scharwenzel;;5;0
+Brandeln;;5;0
+Cuarta Edición;4th Edition;5;0
+Elfern;;5;0
+Brus;;5;0
+Ravnica: City of Guilds;;5;0
+Robbers' rummy;;5;0
+Twenty-eight;;5;0
+Shadowmoor;;5;0
+Gaigel;;5;0
+Tatteln;;5;0
+Troggu;;5;0
+Alliances;;5;0
+Ice Age;;5;0
+Polish Red Dog;;5;0
+Pitch;;5;0
+Match Attax;;5;0
+Monte Bank;;5;0
+officers' skat;;5;0
+Vira;Vira (card game);5;0
+Mirage;;5;0
+Tierras natales;Homelands;5;0
+Tempeln;;5;0
+.hack//Enemy;;5;0
+TAKI;;5;0
+Goulash;;5;0
+Lexicon;;5;0
+Planechase;;5;0
+304;;5;0
+Bestia;;5;0
+Trionfo;;5;0
+Tempest;;5;0
+Warhammer: Invasion;;5;0
+Horus Heresy;;5;0
+Warlords;;5;0
+Trex;;5;0
+Pedro;;5;0
+Evolution: The Origin of Species;;5;0
+5th Edition;;5;0
+6th Edition;;5;0
+Apples to Apples;;5;0
+Beleaguered Castle;;5;0
+buta no shippo;;5;0
+Chinese Blackjack;;5;0
+Contract rummy;;5;0
+Double Exposure Blackjack;;5;0
+Inazuma Eleven TCG;;5;0
+German Solo;;5;0
+German whist;;5;0
+Gloom;;5;0
+Mulle;;5;0
+Pit;;5;0
+Ristikontra;;5;0
+Shuffle track;;5;0
+snip-snap-snorum;;5;0
+spite and malice;;5;0
+Twenty-five;;5;0
+Switch;;5;0
+Tien len;;5;0
+Solitario TriPeaks;Tri Peaks;5;0
+Waterworks;;5;0
+Gundam War Collectible Card Game;;5;0
+Byggkasino;;5;0
+Swedish whist;;5;0
+Cockroach Poker;;5;0
+Roppyakken;;5;0
+Brede Mette;;5;0
+Toepen;;5;0
+Living Card Game;;5;0
+Bassadewitz;;5;0
+Fifteen Lake;;5;0
+Independent Chip Model;;5;0
+Bourré;;5;0
+Indian Rummy;;5;0
+Touring;;5;0
+Limited Edition;;5;0
+A Game of Thrones: Second Edition;;5;0
+Perlaggen;;5;0
+Norseman's knock;;5;0
+Knektpass;;5;0
+Kille;;5;0
+Hero Realms;;5;0
+Imperial Settlers;;5;0
+Six-plus hold 'em;;5;0
+Century: Spice Road;;5;0
+Binokel;;5;0
+Knack;;5;0
+Schatz der Drachen;;5;0
+What do you Meme?;;5;0
+Bruus;;5;0
+Challengers!;;5;0
+Faraway;;5;0
+Trio;;5;0
+Odin;;5;0
+Castle Combo;;5;0
+Riftbound: League of Legends Trading Card Game;Riftbound: League of Legends|Riftbound;5;0
+Brelan;;5;0
+Daikaijū Monogatari: Miracle of the Zone;Daikaijū Monogatari: The Miracle of the Zone;5;0
+La Leyenda de los Cinco Anillos;Legend of the Five Rings;5;0
+Unglued;;5;0
+Arabian Nights;;5;0
+Balloon Cup;;5;0
+Avacyn Restored;;5;0
+The Dark;;5;0

@@ -1,0 +1,498 @@
+respuesta;alias;nivel;orden_a_mano
+Ferrari;;1;1000000000
+Lamborghini;;1;999999999
+Porsche;;1;999999998
+Rolls-Royce;Rolls;1;999999997
+Bentley;;1;999999996
+Maserati;;1;999999995
+Bugatti;;1;999999994
+Aston Martin;;1;999999993
+McLaren;;1;999999992
+Mercedes;Mercedes-Benz;1;999999991
+BMW;;2;1000000000
+Audi;;2;999999999
+Tesla;;2;999999998
+Jaguar;;2;999999997
+Lexus;;2;999999996
+Maybach;Mercedes-Maybach;2;999999995
+Land Rover;Range Rover;2;999999994
+Lotus;;2;999999993
+Alfa Romeo;;2;999999992
+Pagani;;2;999999991
+Koenigsegg;;2;999999990
+Cadillac;;2;999999989
+Lincoln;;2;999999988
+Infiniti;;2;999999987
+Genesis;;2;999999986
+Hummer;;2;999999984
+DeLorean;;2;999999983
+Corvette;Chevrolet Corvette;2;999999982
+Dodge;Dodge Viper;2;999999981
+Ford Mustang;Mustang;2;999999980
+AMG;Mercedes-AMG;2;999999979
+Alpine;;2;999999978
+Abarth;;2;999999977
+Cupra;;2;999999976
+DS;;2;999999975
+Polestar;;3;999999974
+Lucid;;3;999999973
+Rimac;;3;999999972
+Hispano-Suiza;;3;999999971
+Pegaso;;3;999999970
+Brabus;;3;999999969
+Alpina;;3;999999968
+Morgan;;3;999999967
+Caterham;;3;999999966
+TVR;;3;999999965
+Lancia;;3;999999964
+De Tomaso;;3;999999963
+Bizzarrini;;3;999999962
+Iso;;3;999999961
+Spyker;;3;999999960
+Saleen;;3;999999959
+Shelby;;3;999999958
+SSC;;3;999999957
+Hennessey;;3;999999956
+Zenvo;;3;999999955
+W Motors;;3;999999954
+Pininfarina;;3;999999953
+Italdesign;;3;999999952
+Zagato;;3;999999951
+Karma;;3;999999950
+Fisker;;4;999999949
+Duesenberg;;4;999999947
+Packard;;4;999999946
+Daimler;;4;999999944
+Horch;;4;999999943
+Isotta Fraschini;;4;999999942
+Delahaye;;4;999999941
+Talbot;;4;999999940
+Facel Vega;;4;999999939
+Jensen;;4;999999938
+Bristol;;4;999999937
+Noble;;4;999999936
+Ginetta;;4;999999935
+Radical;;4;999999934
+Donkervoort;;4;999999933
+Wiesmann;;4;999999932
+Gumpert;Apollo;4;999999931
+Ruf;;4;999999930
+Mansory;;4;999999929
+Tushek;;4;999999928
+GTA Spano;Spania GTA;4;999999927
+Tramontana;;4;999999926
+Hurtan;;4;999999925
+AC Cars;;5;0
+Acura;;5;0
+Adler;;5;0
+Aiways;;5;0
+Automobiles Alpine;;5;0
+Alvis Car and Engineering;Alvis Car and Engineering Company;5;0
+American Locomotive;American Locomotive Company;5;0
+American Motors;American Motors Corporation;5;0
+Apex Motors;;5;0
+Auburn Automobile;Auburn Automobile Company;5;0
+Aurus Motors;;5;0
+Austin Motor;Austin Motor Company;5;0
+Australian Motor Industries;;5;0
+Auto Union;;5;0
+Automobiles Hotchkiss;;5;0
+Automobili Estrema;;5;0
+Avions Voisin;;5;0
+Avions Voisin C18;;5;0
+BAIC Motor;;5;0
+Barley Motor Car Co.;;5;0
+Bestune;;5;0
+Biddle Motor Car;Biddle Motor Car Company;5;0
+Bitter Automotive;;5;0
+Bohman & Schwartz;;5;0
+Borgward;;5;0
+Bovensiepen;;5;0
+Brewster & Co.;;5;0
+Brilliance Auto;Brilliance Auto Group;5;0
+Bristol Cars;;5;0
+British Motor;British Motor Corporation;5;0
+Brunn;Brunn & Company;5;0
+Bucciali;;5;0
+Bufori;;5;0
+Bugatti Automobiles;;5;0
+Bugatti Rimac;;5;0
+Buick;;5;0
+Byton;;5;0
+Century;;5;0
+Chrysler;;5;0
+Citroën;;5;0
+Cole Motor Car;Cole Motor Car Company;5;0
+Colonial;;5;0
+Connaught Motor;Connaught Motor Company;5;0
+Continental Automobile Manufacturing;Continental Automobile Manufacturing Company;5;0
+Cord;;5;0
+Crane-Simplex;;5;0
+Cunningham Car;Cunningham Car Company;5;0
+James Cunningham, Son and;James Cunningham, Son and Company;5;0
+Daewoo Motors;;5;0
+Dallara;;5;0
+Daniels Motor;Daniels Motor Company;5;0
+Darrin of Paris;;5;0
+David Brown Automotive;;5;0
+Delage;;5;0
+Denza;;5;0
+Derham Body;Derham Body Company;5;0
+Devaux Coupe;;5;0
+Doble steam car;;5;0
+Dorcen;;5;0
+Drako Motors;;5;0
+DS Automobiles;;5;0
+Du Pont Motors;;5;0
+Eagle;;5;0
+Ɛ̃fini;;5;0
+Eterniti Motors;;5;0
+Europestar;;5;0
+Fangchengbao;;5;0
+Fisker Automotive;;5;0
+Fleetwood Metal Body;;5;0
+GAC Trumpchi;;5;0
+GAZ;;5;0
+GAZ Chaika;;5;0
+Geely;;5;0
+Genesis Motor;;5;0
+Geronimo Motor;Geronimo Motor Company;5;0
+GMC Denali;;5;0
+Gordon Murray Automotive;;5;0
+Great Wall Motor;;5;0
+H. A. Moyer;;5;0
+H. C. S. Motor Car;H. C. S. Motor Car Company;5;0
+Heine-Velox;;5;0
+Henney Motor;Henney Motor Company;5;0
+Hindustan Motors;;5;0
+HiPhi;;5;0
+Hofele-Design;;5;0
+Holbrook;Holbrook Company;5;0
+Honda;;5;0
+Hozon Auto;;5;0
+Hradyesh;;5;0
+Hyundai Motor;Hyundai Motor Company;5;0
+Impéria Automobiles;;5;0
+Imperial;;5;0
+Jaguar Cars;;5;0
+Jaguar Land Rover;;5;0
+Jawa Moto;;5;0
+JBA Motors;;5;0
+Jensen Motors;;5;0
+John B. Judkins;John B. Judkins Company;5;0
+Jordan Motor Car;Jordan Motor Car Company;5;0
+Kantanka Automobile;;5;0
+Karma Automotive;;5;0
+KG Mobility;;5;0
+Kissel Motor Car;Kissel Motor Car Company;5;0
+Knox Automobile;Knox Automobile Company;5;0
+Koenig Specials;;5;0
+LaFayette Motors;;5;0
+Lagonda;;5;0
+Laraki;;5;0
+LaSalle;;5;0
+Leach;;5;0
+Leata;;5;0
+Lincoln Motor;Lincoln Motor Company;5;0
+Locomobile of America;Locomobile Company of America;5;0
+Lorraine-Dietrich;;5;0
+Lozier;;5;0
+Lucid Motors;;5;0
+Luverne;;5;0
+Luxury car;;5;0
+Maextro;;5;0
+Marmon Motor Car;Marmon Motor Car Company;5;0
+Martin Wasp;;5;0
+Martini;;5;0
+Matford;;5;0
+Matheson;;5;0
+Mathis;;5;0
+Maxus;;5;0
+Mazda;;5;0
+Mazzanti Automobili;;5;0
+McFarlan Automobile;;5;0
+McLaren Automotive;;5;0
+Mercury;;5;0
+Merkur;;5;0
+Meteor;;5;0
+MG Cars;;5;0
+MG Motor;;5;0
+Mitsubishi Motors;;5;0
+Mitsuoka;;5;0
+Monarch;;5;0
+Monica;;5;0
+Monteverdi;;5;0
+Moon Motor Car;;5;0
+Moore Automobile;Moore Automobile Company;5;0
+Morris Motors;;5;0
+MPM Motors;;5;0
+Multiplex;;5;0
+NAMI;;5;0
+Nash Motors;;5;0
+Nio;Nio Inc.;5;0
+Nissan;;5;0
+Ogren;;5;0
+Oldsmobile;;5;0
+Opel;;5;0
+Owen;;5;0
+Owen Magnetic;;5;0
+Paige automobile;;5;0
+Panhard;;5;0
+Panther Westwinds;;5;0
+Peerless Motor;Peerless Motor Company;5;0
+Peugeot;;5;0
+Phianna;;5;0
+Piëch Automotive;;5;0
+Pierce-Arrow Motor Car;Pierce-Arrow Motor Car Company;5;0
+Piggins;;5;0
+Pope-Robinson;;5;0
+Pope-Toledo;;5;0
+Praga;;5;0
+Premier Motor Manufacturing;Premier Motor Manufacturing Company;5;0
+Premier Automotive;Premier Automotive Group;5;0
+Prince Motor;Prince Motor Company;5;0
+Proto Motors;;5;0
+PSA;PSA Group;5;0
+Pyeonghwa Motors;;5;0
+Qiantu Motor;;5;0
+Qvale;;5;0
+RAESR;;5;0
+Rainier Motor Car;Rainier Motor Car Company;5;0
+Rapido;Rapido Group;5;0
+Renault;;5;0
+Rezvani Motors;;5;0
+Riich;;5;0
+Riley Motor;;5;0
+Rimac Automobili;;5;0
+Rolls-Royce Motor Cars;;5;0
+Rolls-Royce Motors;;5;0
+Rolls-Royce Phantom;;5;0
+Ronart Cars;;5;0
+Rover;;5;0
+Royal Motor;Royal Motor Company;5;0
+Ruxton;;5;0
+Saab Automobile;;5;0
+Salmson;;5;0
+Searchmont Motor;Searchmont Motor Company;5;0
+Senova;;5;0
+SGV;;5;0
+Shawmut Motor;Shawmut Motor Company;5;0
+Shinjin Motors;;5;0
+Siam Di Tella;;5;0
+Silk-FAW Automotive;;5;0
+Simplex Automobile;Simplex Automobile Company;5;0
+Smith and Mabley;;5;0
+Soar Automotive;;5;0
+SS Cars;;5;0
+Standard;;5;0
+Standard Motor;Standard Motor Company;5;0
+Stearns-Knight;;5;0
+Stellantis;;5;0
+Stevens-Duryea;;5;0
+Steyr automobile;;5;0
+Stoddard-Dayton;;5;0
+Stutz Motor Car;Stutz Motor Car Company;5;0
+Sunbeam Motor Car;Sunbeam Motor Car Company;5;0
+Sunbeam-Talbot;;5;0
+Talbot-Lago;;5;0
+Tatra;;5;0
+Tauro Sport Auto;;5;0
+Tincher;;5;0
+Toyota;;5;0
+Trion Supercars;;5;0
+Vauxhall Motors;;5;0
+Vehículos Automotores Mexicanos;;5;0
+Venturi;;5;0
+VinFast;;5;0
+VLF Automotive;;5;0
+Voisin Laboratoire;;5;0
+Volvo Cars;;5;0
+Voyah;;5;0
+Walter M. Murphy;Walter M. Murphy Company;5;0
+Waterhouse;Waterhouse Company;5;0
+Weltmeister;;5;0
+Willoughby;Willoughby Company;5;0
+Wills Sainte Claire;;5;0
+Winton Motor Carriage;Winton Motor Carriage Company;5;0
+Wolseley Motors;;5;0
+Yangwang;;5;0
+Youngman;;5;0
+ZiL;;5;0
+Zimmer;;5;0
+Zinoro;;5;0
+Abt Sportsline;;5;0
+ADESS;;5;0
+Aguzzoli;;5;0
+Alexis Cars;;5;0
+Allard Motor;Allard Motor Company;5;0
+Alpha Sports Productions;;5;0
+Anteros Coachworks;;5;0
+Apollo GT;;5;0
+Apollo Automobil;;5;0
+Aquila Racing Cars;;5;0
+Arash Motor;;5;0
+Ariel Motor;Ariel Motor Company;5;0
+Arnolt;;5;0
+Arrinera;;5;0
+Artega Automobile;;5;0
+ASA;;5;0
+Asardo;;5;0
+Ascari Cars;;5;0
+Atalanta Motors;;5;0
+Austin-Healey;;5;0
+Auto Avio Costruzioni 815;;5;0
+Autobacs Seven;;5;0
+Autodynamics;;5;0
+Automobiles René Bonnet;;5;0
+Automobili Stanguellini;;5;0
+Automobili Turismo e Sport;;5;0
+Avanti;;5;0
+B. S. Cunningham;B. S. Cunningham Company;5;0
+Badische Automobilfabrik Heim;;5;0
+Baltasar Cars;;5;0
+Bandini Automobili;;5;0
+Berkeley Cars;;5;0
+Bocar;;5;0
+Bolwell;;5;0
+Brabham Automotive;;5;0
+Briggs Automotive;Briggs Automotive Company;5;0
+Brooke Cars;;5;0
+Bulgaralpine;;5;0
+Callaway Cars;;5;0
+Caparo Vehicle Technologies;;5;0
+Carbir Race Cars;;5;0
+Caterham Cars;;5;0
+Chamonix NG Cars;;5;0
+Chappe et Gessalin;;5;0
+Chinkara Motors;;5;0
+Cisitalia;;5;0
+Cizeta;;5;0
+Coda Automotive;;5;0
+Colchester Racing Developments;;5;0
+Connaught Engineering;;5;0
+Crawford Composites;;5;0
+Dauer Sportwagen;;5;0
+Dax Cars;;5;0
+DB;;5;0
+De La Chapelle;;5;0
+Deep Sanderson;;5;0
+DeLorean Motor;DeLorean Motor Company;5;0
+Devaux Cars Pty;Devaux Cars Pty Ltd;5;0
+Devin Enterprises;;5;0
+Devon Motorworks;;5;0
+Donald Healey Motor;Donald Healey Motor Company;5;0
+Elemental Motor;Elemental Motor Company;5;0
+Elfin Sports Cars;;5;0
+Elkhart Motor Truck;Elkhart Motor Truck Company;5;0
+Elva;;5;0
+Factory Five Racing;;5;0
+Falcon Motorsports;;5;0
+Fornasari;;5;0
+Forsgrini Engineering;;5;0
+Frazer Nash;;5;0
+FYK;;5;0
+Gardner Douglas;;5;0
+Gilbern;;5;0
+Ginetta Cars;;5;0
+Giocattolo;;5;0
+GISA;;5;0
+Gordini;;5;0
+Gordon-Keeble;;5;0
+Racing Developments;Group Racing Developments;5;0
+GTM Cars;;5;0
+Hi-Tech Automotive;;5;0
+Hispakart;;5;0
+Hommell;;5;0
+Chris Humberstone;;5;0
+Intermeccanica;;5;0
+Invicta;;5;0
+Isdera;;5;0
+Jacquet Flyer;;5;0
+Joss Developments;;5;0
+Jösse Car;;5;0
+Jowett Cars;;5;0
+Juno Racing Cars;;5;0
+Keating Supercars;;5;0
+Kieft Cars;;5;0
+KTM;;5;0
+Kurtis Kraft;;5;0
+Laffite Automobili;;5;0
+Leading Edge Sports Car;Leading Edge Sports Car Company;5;0
+Light Car;Light Car Company;5;0
+Lightning Car;Lightning Car Company;5;0
+Ligier;;5;0
+Lotec;;5;0
+Lotus Cars;;5;0
+Magnum Cars;;5;0
+Manifattura Automobili Torino;;5;0
+Marcos Engineering;;5;0
+Marlin Sportscars;;5;0
+Marussia Motors;;5;0
+Maserati in motorsport;;5;0
+Mastretta;;5;0
+Matra;;5;0
+Melkus;;5;0
+Minetti Sports Cars;;5;0
+Morgan Motor;Morgan Motor Company;5;0
+Mosler Automotive;;5;0
+MTX;;5;0
+Mullen Automotive;;5;0
+Muntz Car;Muntz Car Company;5;0
+Murtaya;;5;0
+Mygale;;5;0
+Noble Automotive;;5;0
+Officine Meccaniche;;5;0
+Orca Engineering;;5;0
+O.S.C.A.;;5;0
+Osella;;5;0
+Pagani Automobili;;5;0
+Panoz;;5;0
+Peerless;;5;0
+PGO;;5;0
+Pichon-Parat;;5;0
+Piper Cars;;5;0
+Project 1221;;5;0
+Purvis Cars;;5;0
+Radical Sportscars;;5;0
+Raw Striker;;5;0
+Reliant Motors;;5;0
+RML;RML Group;5;0
+Rochdale;;5;0
+Royale Racing;;5;0
+Ruf Automobile;;5;0
+Scuderia Cameron Glickenhaus;;5;0
+Sebring;;5;0
+Selex Competition;;5;0
+Shelby American;;5;0
+Siata;;5;0
+Simpson Design;;5;0
+Sofia;;5;0
+Solana;;5;0
+Speedex;;5;0
+Spyker Cars;;5;0
+Spyker N.V.;;5;0
+Squire Car Manufacturing;Squire Car Manufacturing Company;5;0
+SSC North America;;5;0
+SSZ Stradale;;5;0
+Street and Racing Technology;;5;0
+Superformance;;5;0
+Swift Engineering;;5;0
+Tatuus;;5;0
+Tiger Racing;;5;0
+Triumph Motor;Triumph Motor Company;5;0
+Turner Sports Cars;;5;0
+Ultima Sports;Ultima Sports Ltd;5;0
+Valmet Automotive;;5;0
+Van Diemen;;5;0
+Vemac Car;Vemac Car Company;5;0
+Veritas;;5;0
+Vortex SAS;;5;0
+VUHL;;5;0
+West Race Cars;;5;0
+Westfield Sportscars;;5;0
+Wirth Research;;5;0
+Wolf Racing Cars;;5;0
+ZAP;;5;0
+Zenos Cars;;5;0
+Zenvo Automotive;;5;0
+Zink Cars;;5;0

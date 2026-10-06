@@ -1,0 +1,760 @@
+respuesta;alias;nivel;declaracion_turistica
+las Fallas;;1;1000000000
+San Fermín;Sanfermines;1;999999999
+la Feria de Abril;Feria de Sevilla;1;999999998
+la Semana Santa;;1;999999997
+la Tomatina;;1;999999996
+los Carnavales;Carnaval|Carnaval de Cádiz|Carnaval de Tenerife|Carnaval de Santa Cruz de Tenerife;1;999999995
+la Navidad;;1;999999994
+San Juan;Noche de San Juan|Hogueras de San Juan|Hogueras;1;999999993
+los Reyes Magos;Reyes|Cabalgata de Reyes|Día de Reyes;1;999999992
+el Pilar;Fiestas del Pilar|los Pilares;1;999999991
+San Isidro;;2;1000000000
+la Mercè;la Merced;2;999999999
+la Semana Grande;Aste Nagusia|Semana Grande de Bilbao;2;999999998
+el Rocío;Romería del Rocío;2;999999997
+Moros y Cristianos;;2;999999996
+la Feria de Málaga;;2;999999995
+el Descenso del Sella;Sella;2;999999994
+Sant Jordi;San Jorge;2;999999993
+la Nochevieja;Fin de Año;2;999999992
+el Día de la Hispanidad;12 de octubre|Fiesta Nacional;2;999999991
+Todos los Santos;;2;999999990
+el Día de Andalucía;;2;999999989
+la Diada;;2;999999988
+el Dos de Mayo;;2;999999987
+San Mateo;;2;999999986
+la Magdalena;;2;999999985
+las Fiestas de Gracia;Gràcia;2;999999984
+la Batalla del Vino;Batalla del Vino de Haro;2;999999983
+el Colacho;;2;999999982
+la Rapa das Bestas;;2;999999981
+los Patios de Córdoba;Patios;2;999999980
+las Cruces de Mayo;;2;999999979
+el Corpus;Corpus Christi;2;999999978
+la Patum;Patum de Berga;2;999999977
+el Misteri d'Elx;Misterio de Elche;2;999999976
+San Sebastián;la Tamborrada;2;999999975
+Santo Tomás;;2;999999974
+la Virgen Blanca;Fiestas de la Blanca;2;999999973
+la Feria del Caballo;Feria de Jerez;2;999999972
+la Vendimia;;2;999999971
+San Antón;;2;999999970
+las Candelas;;2;999999969
+la Paloma;Verbena de la Paloma;2;999999968
+San Cayetano;;3;999999967
+San Lorenzo;;3;999999966
+el Carmen;Virgen del Carmen;3;999999965
+San Roque;;3;999999964
+la Ascensión;;3;999999963
+el Apóstol;Santiago Apóstol;3;999999962
+la Feria de Albacete;;3;999999961
+la Feria de San Miguel;;3;999999960
+Halloween;;3;999999959
+San Valentín;;3;999999958
+el Día del Padre;San José;3;999999957
+el Día de la Madre;;3;999999956
+la Castañada;;3;999999955
+el Entierro de la Sardina;;3;999999954
+el Bando de la Huerta;;3;999999953
+la Arribada;;3;999999952
+el Carnaval de Águilas;;3;999999951
+la Endiablada;;3;999999950
+las Luminarias;;3;999999949
+el Toro de la Vega;;3;999999948
+el Toro Embolado;bous al carrer;3;999999947
+los Castells;castellers;3;999999946
+la Fiesta de la Vendimia;;3;999999945
+la Feria de Abril de Barcelona;;3;999999944
+el Orgullo;Orgullo Gay|MADO;3;999999943
+Sonorama;;3;999999942
+el Viña Rock;;3;999999941
+el FIB;;3;999999940
+Primavera Sound;;3;999999939
+Mad Cool;;3;999999938
+Arenal Sound;;3;999999937
+BBK Live;;3;999999936
+Resurrection Fest;;3;999999935
+Festival de Exaltación del Botillo;;3;2
+Carnaval de Badajoz;;3;2
+Carnaval de Las Palmas de Gran Canaria;;3;2
+Entroido de Ginzo de Limia;;3;2
+Fiesta del Cocido;;3;2
+Fiestas de la Magdalena;;3;2
+Ruta del Tambor y el Bombo;;3;2
+Semana Santa en Cuenca;;3;2
+Semana Santa de Málaga;;3;2
+Semana Santa en Sevilla;;3;2
+Semana Santa en Valladolid;;3;2
+Semana Santa en Zamora;;3;2
+Semana Santa en León;;3;2
+Semana Santa en Salamanca;;3;2
+Semana Santa en Cartagena;;3;2
+Semana Santa en Hellín;;3;2
+Semana Santa en Lorca;;3;2
+Semana Santa en Granada;;3;2
+Semana Santa en Medina de Rioseco;;3;2
+Semana Santa en Orihuela;;3;2
+Semana Santa en Cáceres;;3;2
+Semana Santa en Crevillente;;3;2
+Semana Santa en Medina del Campo;;3;2
+Semana Santa en Murcia;;3;2
+Semana Santa en Palencia;;3;2
+Semana Santa en Vivero;;3;2
+Semana Santa en Ávila;;3;2
+Semana Santa en Ferrol;;3;2
+Semana Santa en Toledo;;3;2
+Semana Santa en Zaragoza;;3;2
+Semana Santa en Mérida;;3;2
+Semana Santa en Jumilla;;3;2
+Semana Santa en Cieza;;3;2
+Semana Santa en Badajoz;;3;2
+Procesión del Domingo de Ramos de Elche;;3;2
+La Noche de los Tambores;;3;2
+Entierro de la Sardina en Murcia;;3;2
+Moros y Cristianos de Alcoy;;3;2
+Fiesta de la Lamprea;;3;2
+Fiestas Mayores de Almansa;;3;2
+Fiestas de la Santísima y Vera Cruz;;3;2
+Corpus Christi en Béjar;;3;2
+Corpus Christi en Puenteareas;;3;2
+Procesión del Corpus Christi de Toledo;;3;2
+Arde Lucus;;3;2
+Hogueras de Alicante;;3;2
+Hogueras de San Juan de La Coruña;;3;2
+Rapa das Bestas de Sabucedo;;3;2
+Festival de Ortigueira;;3;2
+Certamen Internacional de Habaneras y Polifonía de Torrevieja;;3;2
+Moros y Cristianos de Villajoyosa;;3;2
+Fiesta de Santiago Apóstol;;3;2
+Carreras de caballos de Sanlúcar;;3;2
+Fiesta del Vino Albariño;;3;2
+Festival Internacional del Cante de las Minas;;3;2
+Descenso Internacional del Sella;;3;2
+Romería vikinga de Catoira;;3;2
+Fiesta del Pulpo;;3;2
+Encierros de Cuéllar|;;3;2
+Guerras Cántabras;;3;2
+Motín de Aranjuez;;3;2
+Cascamorras;;3;2
+Carthagineses y Romanos;;3;2
+Entrada de toros y caballos;;3;2
+Moros y Cristianos de Crevillente;;3;2
+Feria de Todos los Santos de Cocentaina;;3;2
+Otoño Mágico;;3;2
+El Bautizo del Niño;;4;1
+La Vijanera;;4;1
+Cabalgata de Reyes Magos de Alcoy;;4;1
+Auto Sacramental y Cabalgata de Reyes;;4;1
+Fiestas Patronales en honor a San Antonio Abad;;4;1
+Jarramplas;;4;1
+Las Carantoñas;;4;1
+Fiesta de las Cuadrillas de Barranda;;4;1
+Fiestas del Almendro en Flor;;4;1
+Fiestas tradicionales de Ciudad Rodrigo;;4;1
+Entroido de Verín;;4;1
+Carnaval de Villarrobledo;;4;1
+Carnaval de La Bañeza;;4;1
+Carnaval de Herencia;;4;1
+Carnaval de Miguelturra;;4;1
+Carnavalcázar;;4;1
+Fiesta de Moros y Cristianos de Bocairente;;4;1
+Las Bodas de Isabel de Segura;;4;1
+Misterio de la Pasión;;4;1
+Rally Internacional Barcelona-Sitges;;4;1
+Pasión de Esparraguera;;4;1
+Fallas de Sagunto;;4;1
+Fallas de Alcira;;4;1
+Fallas de Gandía;;4;1
+El Cerezo en Flor;;4;1
+Fiesta de la Reconquista de Vigo;;4;1
+Semana Medieval de San Jorge;;4;1
+Fiestas de San Vicente Ferrer;;4;1
+Los Picaos de San Vicente de la Sonsierra;;4;1
+Pasión Viviente de Oliva de la Frontera;;4;1
+Pasión Viviente de Castro Urdiales;;4;1
+Volatín de Tudela;;4;1
+La Bajada del Ángel;;4;1
+Semana Santa en Tobarra;;4;1
+Semana Santa en Alcira;;4;1
+Semana Santa en Cabra;;4;1
+Semana Santa en Jerez de la Frontera;;4;1
+Semana Santa en Riogordo;;4;1
+Semana Santa en Baena;;4;1
+Semana Santa en Ocaña;;4;1
+Semana Santa en Sagunto;;4;1
+Semana Santa en Ciudad Real;;4;1
+Semana Santa en Teruel;;4;1
+Semana Santa en Astorga;;4;1
+Semana Santa Marinera;;4;1
+Semana Santa en Burgos;;4;1
+Semana Santa Calagurritana;;4;1
+Semana Santa en Jerez de los Caballeros;;4;1
+Semana Santa en Logroño;;4;1
+Semana Santa en Ponferrada;;4;1
+Semana Santa en Barbastro;;4;1
+Ruta de la Pasión de Calatrava;;4;1
+Semana Santa en Albacete;;4;1
+Semana Santa en Segovia;;4;1
+Semana Santa en Alcalá de Henares;;4;1
+Semana Santa en Almería;;4;1
+Semana Santa en Gandía;;4;1
+Semana Santa en Alicante;;4;1
+Semana Santa en Cádiz;;4;1
+Semana Santa en Córdoba;;4;1
+Semana Santa en Sahagún;;4;1
+Semana Santa en Plasencia;;4;1
+Las Mondas;;4;1
+Moros y Cristianos de Bañeres;;4;1
+Día de la Faldeta;;4;1
+Romería en honor a San Isidro Labrador;;4;1
+Romería de Nuestra Señora de la Cabeza;;4;1
+Fiestas Patronales de Santo Domingo;;4;1
+Mayo Manchego;;4;1
+Primer Viernes de Mayo;;4;1
+Los Mayos;;4;1
+Fiestas de las Cruces y los Fuegos de Mayo;;4;1
+Fiestas Aracelitanas;;4;1
+Festividad de los Patios Cordobeses;;4;1
+Fiestas de San Isidro Labrador;;4;1
+Caballada de Atienza;;4;1
+Fiestas de San Juan del Monte;;4;1
+Aplec del Caragol;;4;1
+Día de la Almadía;;4;1
+Fiestas de San Bernabé;;4;1
+Corpus Christi en Sitges;;4;1
+Corpus Christi en Villa de Mazo;;4;1
+Alfombras de Serrín de Elche de la Sierra;;4;1
+Octava del Corpus y Romería de San Isidro;;4;1
+Jornadas medievales de Briones;;4;1
+Paso del Fuego;;4;1
+Festival Internacional de Jazz de San Javier;;4;1
+Festival Medieval de Hita;;4;1
+Bous a la Mar;;4;1
+Festival de la Sidra de Nava;;4;1
+Fiestas de la Reconquista;;4;1
+Fiesta del Renacimiento;;4;1
+Gran Prix de Carrilanas;;4;1
+Ajedrez Viviente;;4;1
+Misterio de Obanos;;4;1
+Fiestas Lustrales de la Bajada de la Virgen de las Nieves;;4;1
+Descenso a nado de la Ría del Navia;;4;1
+Feria del Bonito;;4;1
+Día de Asturias en Gijón;;4;1
+Fiesta del Albariño;;4;1
+Festival Folclórico de los Pirineos;;4;1
+Festival Internacional de la Sierra;;4;1
+Fiesta del Pan y del Queso;;4;1
+Fiestas de San Lorenzo;;4;1
+Nit de l'Albà;;4;1
+Fiestas de Nuestra Señora de la Asunción;;4;1
+Feria de Agosto de Játiva;;4;1
+Fiesta de Nuestra Señora del Rosario;;4;1
+Fiesta del Agua de Villagarcía de Arosa;;4;1
+El Alcalde de Zalamea;;4;1
+Descenso Folklórico del Nalón;;4;1
+Fiesta del Asturcón;;4;1
+Sexenio de Morella;;4;1
+Cipotegato;;4;1
+Batalla de flores;;4;1
+Fiesta de la Historia;;4;1
+Fiestas Patronales de Segorbe;;4;1
+Día del Traje Típico Ansotano;;4;1
+Cordada de Paterna;;4;1
+Rally Princesa de Asturias;;4;1
+Jornadas Medievales de Ávila;;4;1
+Encierros de Ampuero;;4;1
+Fiesta de la Guía;;4;1
+Moros y Cristianos de Villena;;4;1
+Encierros Tradicionales;;4;1
+Feria de Murcia y Moros y Cristianos;;4;1
+Fiestas Patronales en Honor de la Virgen de Ermitana;;4;1
+Romería de Nuestra Señora de la Barca;;4;1
+Romería de la Virgen de Gracia;;4;1
+Fiestas Patronales en Honor del Santo Cristo y San Vicente Ferrer;;4;1
+Fiestas de Santa Tecla;;4;1
+Día de América en Asturias;;4;1
+Fiestas de San Mateo;;4;1
+Fiestas de Nuestra Señora de la Merced;;4;1
+Procesión Cívica de El Vítor;;4;1
+Fiestas de San Cosme y San Damián;;4;1
+Fiestas de Nuestra Señora del Rosario;;4;1
+Fiestas patronales Sagrada Familia y Santísimo Cristo;;4;1
+Fiestas Juradas en honor a San Miguel Arcángel;;4;1
+Fiestas de San Froilán;;4;1
+Semana Cervantina de Alcalá de Henares;;4;1
+Fiesta del Marisco;;4;1
+Semana de la Zarzuela;;4;1
+Fiesta del Orujo;;4;1
+Don Juan en Alcalá;;4;1
+Fiestas de la Virgen;;4;1
+World of Music, Arts and Dance;WOMAD;5;0
+Festival Sónar;Sónar festival|Sonar;5;0
+Fiestas de Nuestra Señora de la Salud;Fiestas de la Virgen de la Salud de Algemesí;5;0
+Festival de Málaga;Festival de Málaga Cine en Español;5;0
+Festival Internacional de Benicasim;FIB Heineken|Festival Internacional de Benicàssim;5;0
+Festival Internacional Starmus;;5;0
+Festival Internacional de la Canción de Benidorm;Festival de la Canción Española;5;0
+Rototom Sunsplash;;5;0
+Zinebi;;5;0
+Festival Grec;;5;0
+Tamborrada de San Sebastián;Marcha de San Sebastián;5;0
+FesTVal;;5;0
+Festimad;Festimad Sur;5;0
+Feira Franca;Feria Franca de Pontevedra|Feria Franca|Feira Franca de Pontevedra;5;0
+Festival de Peralada;Festival Castell de Peralada;5;0
+Ibilaldia;;5;0
+PHotoESPAÑA;;5;0
+Carnaval de Lanz;Carnaval de Lantz;5;0
+Bilbao BBK Live;Bilbao Live Festival|Bilbao BBK Live Festival;5;0
+Mostra de València;;5;0
+LOOP;LOOP Barcelona;5;0
+Semana Negra de Gijón;Semana Negra;5;0
+Festival Canet Rock;;5;0
+Mercado Renacentista de Carlos V;;5;0
+Bienal de Flamenco;;5;0
+"Fiesta de la Virgen de la Piedad. ""El Cascamorras.""";El Cascamorras de Baza y Guadix;5;0
+Festival Internacional de Santander;;5;0
+Festival Intercéltico de Avilés;;5;0
+Fiesta de las Cebollas Rellenas;;5;0
+Certámen Internacional de Bandas de Música Ciudad de Valencia;;5;0
+Feria Mediterrania de Manresa;Fira Mediterrània de Manresa;5;0
+Festival Arte-Nativo Viña Rock;;5;0
+Arenal Sound Festival;;5;0
+Summercase;Summercase Festival;5;0
+Festival Pirineos Sur;Pirineos Sur;5;0
+Monegros Desert Festival;Monegros Desert Party;5;0
+Quincena Musical de San Sebastián;Quincena Musical;5;0
+Festival de Cans;;5;0
+Animac;;5;0
+danza de la muerte de Verges;;5;0
+Carnaval de Villanueva y Geltrú;Carnaval de Vilanova;5;0
+Encuentro Medieval de El Entrego;;5;0
+Les Santes;Fiesta Mayor de les Santes;5;0
+Festival Internacional de Teatro Clásico de Mérida;Festival de Mérida;5;0
+Aquasella;;5;0
+entroido de Laza;Carnaval de Laza;5;0
+Carnaval de Vinaròs;;5;0
+Derrame Rock;;5;0
+Festival Punto de Vista;;5;0
+entroido de Xinzo de Limia;;5;0
+Carnavales de Ituren y Zubieta;;5;0
+Dreambeach Festival;Dreambeach;5;0
+Festival Internacional de Música Popular Tradicional de Villanueva y Geltrú;;5;0
+Día del Blusa;;5;0
+International Music Summit;;5;0
+Salón del Cómic de Zaragoza;Saló del Comic de Saragossa;5;0
+Fiestas de San Prudencio y Nuestra Señora de Estíbaliz;;5;0
+Circuit Festival;Circuit Festival Barcelona;5;0
+Festival Intercéltico del Morrazo;;5;0
+Azkena Rock Festival;Azkena rock;5;0
+European Balloon Festival;;5;0
+Festival de Flamenco de Jerez;;5;0
+Leyendas del Rock;;5;0
+Festival de Cap Roig;;5;0
+Pasarela Gaudí;Passarel·la Gaudí;5;0
+Feria de Tárrega;Fira Del Teatre Al Carrer Tàrrega;5;0
+Fiesta Mayor de Reus;;5;0
+Día de los Gansos;;5;0
+Play-Doc;Festival Internacional de Cine de Tuy;5;0
+Marisquiño;;5;0
+Festival de la Sidra;;5;0
+Fiesta del vino del Ulla;Festa do Viño da Ulla;5;0
+Fiestas Patronales de la Santísima y Vera Cruz;;5;0
+Toro enmaromado de Benavente;;5;0
+Festival Internacional de Música de Jimena de la Frontera;;5;0
+Caballos del vino;;5;0
+Carnaval de Tarazona de la Mancha;;5;0
+Carnaval del Toro;;5;0
+Feria de San Isidro;;5;0
+Festival Internacional de las Artes de Castilla y León;;5;0
+Danzas de Guadasuar;;5;0
+IndieGo Alley Festival;;5;0
+Fira de la Candelera de Molins de Rei;Feria de la Candelera de Molins de Rei;5;0
+Animadrid;;5;0
+Feria de Circo Trapezi;Trapezi|Fira Trapezi Reus|Festival de Circ Trapezi;5;0
+Sismògraf;;5;0
+Fiesta del Pino;;5;0
+Zinegoak;;5;0
+Festividad del Santo Ángel Tutelar de la Villa de Ayora;Festividad del Santo Ángel Tutelar;5;0
+Festival MUTIS;MUTIS;5;0
+Entroido de Viana del Bollo;Entroido de Viana do Bolo;5;0
+Fiestas Decenales de la Virgen de la Candela de Valls;;5;0
+Pingüinos;;5;0
+La Cordà de Paterna;;5;0
+Maratón de los Cuentos;;5;0
+Moros y Cristianos de Sax;;5;0
+Recreación de la Gesta del 25 de julio;;5;0
+Semana Grande de San Sebastián;;5;0
+Tarraco Viva;;5;0
+Festival Medieval de Elche;;5;0
+Noche de la Alborada;;5;0
+Ebrovisión;;5;0
+Fallas de Torrente;;5;0
+Festival Folklórico de los Pirineos;;5;0
+Fiesta del Pulpo de O Carballiño;;5;0
+Fiesta de Exaltación del Pan de Cea;;5;0
+Fiestas de Gràcia (Mahón);;5;0
+Carnaval de Zalduondo;;5;0
+La Pasión de Callosa de Segura;La Pasión de Callosa;5;0
+ArtFutura;;5;0
+Festival Internacional de Dixieland de Tarragona;;5;0
+Viñetas desde el Atlántico;;5;0
+Festivalino de Pescueza;;5;0
+Moros y Cristianos de Monforte del Cid;;5;0
+Valencia Negra;;5;0
+Starlite Festival;;5;0
+Alarde de Hondarribia;Hondarribiko Alardea;5;0
+Festival Cruïlla Barcelona;;5;0
+Festival de la Canción Mediterranea;;5;0
+Firó de Sóller;El Firó;5;0
+Fallas de Játiva;;5;0
+Porrat de San Blas;Porrat de Potries;5;0
+Canto de la Carxofa;;5;0
+Primer Corte de la Miel;;5;0
+Entroido de Villarino de Conso;Entroido de Vilariño de Conso;5;0
+Carnaval de Solsona;;5;0
+Fiesta Mayor de Solsona;Festa Major Solsona;5;0
+Fiestas de invierno de Ibi;;5;0
+Mercado de Musica Viva de Vic;MMVV|Mercat de Musica Viva de Vic;5;0
+Moros y Cristianos de Elda;;5;0
+Sis Hores de Cançó;;5;0
+Gran Feria de Valencia;Gran Fira de València|Feria de Julio de Valencia;5;0
+Encierros de Pamplona;encierros de San Fermín;5;0
+Carnaval de Tolosa;;5;0
+Medusa Festival;Medusa Sunbeach Festival;5;0
+Palencia Sonora;;5;0
+Surfing the Lérez;;5;0
+Bienal de Arte de Pontevedra;Bienal Internacional de Arte de Pontevedra;5;0
+Carnaval rural ILEGAN;Carnaval rural ILarduia, EGino y ANdoin|Carnaval ILEGAN;5;0
+Concurso de Cante Jondo de Granada;;5;0
+Madrid Fusión;;5;0
+Pecados y Danzantes de Camuñas;;5;0
+Espárrago Rock;;5;0
+Fiestas medievales de Olite;Festival Medieval de Olite;5;0
+Murales en las calles de Penelles;Gargar Festival;5;0
+Rock Imperium Festival;;5;0
+Festival de Escuelas de Teatro de Bilbao;FETABI|Festival de Teatro Universitario de Bilbao;5;0
+Pasión Viviente de Balmaseda;;5;0
+Festival de Música Antigua de Úbeda y Baeza;;5;0
+Festival de Música Contemporánea de Alicante;;5;0
+Festival de Rock de Alacuás;;5;0
+Festival de la Guitarra de Córdoba;;5;0
+Festival del Cante de las Minas;Festival del Cante de las Minas de La Unión;5;0
+Festividad de San Vicente Ferrer (Valencia);Fiestas de San Vicente Ferrer en Valencia;5;0
+Fiesta de la Bulería;;5;0
+Fiesta de la Almeja;Fiesta de la Almeja de O Carril;5;0
+Fiestas de la Vendimia;Feria de la Vendimia;5;0
+Fiesta del Antroxu (Avilés);Carnaval de Avilés;5;0
+Fiestas de San Roque (Portugalete);;5;0
+Fiestas del Grao de Castellón;;5;0
+Fotogramas en Corto;;5;0
+Irmandiños: a revolta;;5;0
+Barnasants;;5;0
+Moros y Cristianos de Caudete;;5;0
+ANIRMAU;;5;0
+Baile de Diablos Malditos de Salou;;5;0
+Batalla naval de Vallecas;;5;0
+Carnaval de Isla Cristina;;5;0
+Metalway Festival;;5;0
+Flamenco pa tós;;5;0
+Carnaval de Cartagena;;5;0
+Músicos en la naturaleza;;5;0
+Acampada Jove;;5;0
+Festival Altaveu;;5;0
+Fiesta Mayor de Granollers;Festa Major de Blancs i Blaus;5;0
+Com sona l'ESO;;5;0
+Festival Blues de Barcelona;;5;0
+Carnaval de Pontevedra;;5;0
+Brisa Festival;Brisa Festival de Málaga|Brisa;5;0
+Sonorama 2025;;5;0
+entroido de verano de Redondela;Entroido de verán de Redondela|entroido de Redondela|Carnavales de verano de Redondela;5;0
+Juegos Florales de La Coruña;;5;0
+Conmemoración de la Batalla de Lácar;;5;0
+Certamen Internacional de Cortos Ciudad de Soria;;5;0
+Festival Horror Online Art de Navarra;;5;0
+Muestra de Teatro Español de Autores Contemporáneos;;5;0
+Muestra Internacional de Payasas y Payasos;;5;0
+Antruejo de Llamas de la Ribera;;5;0
+Fiestas del Motín;Fiestas del Motín de Aranjuez;5;0
+Salida del Santo;salida;5;0
+Fiesta de San Blas (Ateca);Fiestas de San Blas;5;0
+Carnaval de Santoña;carnavales de Santoña;5;0
+Día de la Longaniza;Fiesta de la Longaniza;5;0
+Fiestas de San Pascual Bailón y El Zarrón;;5;0
+Fiestas de Astures y Romanos;;5;0
+Fiesta de la Trashumancia;Fiesta de la Trashumancia de Prioro;5;0
+Fallas de Vall de Uxó;;5;0
+Festival Rock Zaidín;;5;0
+La Mar de Músicas de Cartagena;;5;0
+La Noche Blanca del Flamenco;;5;0
+Las Cabezadas;;5;0
+Mestival;;5;0
+Moros y Cristianos de Orihuela;;5;0
+Moros y Cristianos de Petrel;;5;0
+Primer Salón del Cómic Ciudad de Oviedo;;5;0
+Tenorio Mendocino;;5;0
+Transbetxí;;5;0
+Carrasca Rock Ejulve;;5;0
+Creamfields Andalucía;;5;0
+Demandafolk;;5;0
+Descenso Internacional y Fluvial de la Calle de Galiana;Descenso de Galiana|Ascenso de Galiana;5;0
+El Desarme;;5;0
+Encuentro Nacional de Juegos de Mesa;;5;0
+Etnosur;;5;0
+Extremúsika;;5;0
+Festival Internacional de Poesía Ciudad de Granada;;5;0
+entroido de Salcedo;Carnaval de Salcedo;5;0
+Festival de Teatro Clásico de Almagro;Festival de Almagro;5;0
+Festival Iberoamericano de Cortometrajes ABC (FIBABC);;5;0
+Dcode Festival;;5;0
+Fiestas de San Juan o de la Madre de Dios;Fiestas de San Juan;5;0
+SOS 4.8;Levante SOS;5;0
+Aplec de Calella;;5;0
+Festival Internacional de Teatro Amateur de Gerona;;5;0
+Moros y Cristianos de Cocentaina;;5;0
+Fiestas de la Virgen, Yecla;;5;0
+Festival CiBRA;;5;0
+Festival de Música Renacentista y Barroca de Vélez Blanco;;5;0
+Las Cantaderas;;5;0
+Carnaval Rural de Santa Cruz de Campezo;Carnavales Rurales de Santa Cruz de Campezo|Carnavales Rurales de Campezo|Carnaval Rural de Campezo;5;0
+MEM Festival Internacional de Arte Experimental;;5;0
+Santa Águeda, el Carnaval de Kuartango;Carnaval rural de Kuartango;5;0
+Encierros de Brihuega;;5;0
+Fiestas de San Martín;Fiesta de San Martín (Mercadal)|Fiesta de San Martín;5;0
+Fiesta de la Alcachofa;;5;0
+"Fiesta de ""les Alfàbegues"" de la Virgen de agosto";;5;0
+Moros y Cristianos de Ibi;;5;0
+La Pasión;;5;0
+La Vaquilla del Ángel;fiestas del Angel;5;0
+Cossiers de Montuïri;;5;0
+Costa de Fuego;;5;0
+Electrosonic Festival;;5;0
+Musikaste;;5;0
+PopArb;;5;0
+Festival Internacional de Teatro de Sitges;;5;0
+Festival Flamenco de Almería;;5;0
+Festival MITEU;MITEU;5;0
+Emérita Lúdica;;5;0
+Moros y Cristianos de Alicante;;5;0
+Mucho Más Mayo;;5;0
+Feslloch;;5;0
+Festival de les Arts;;5;0
+Reteena;;5;0
+Carnaval de Salcedo (Álava);Carnaval rural de Salcedo (Álava);5;0
+Festival de la Palabra de Alcalá de Henares;Abril de Cervantes;5;0
+Río Verbena Fest;;5;0
+Fiestas de la Peregrina;fiestas patronales de Pontevedra;5;0
+Fiestas, romerías y festivales de Pontevedra;Romerías de Pontevedra|Fiestas de Pontevedra|Festivales de Pontevedra;5;0
+Carnaval de Mecerreyes;Mascaradas de Mecerreyes|Fiestas del Gallo de Carnaval;5;0
+Certamen del Queso de Cabrales;;5;0
+Caudal Fest;;5;0
+Sonorama 2024;Sonorama Ribera 2024;5;0
+Nit dels Fatxos;Nit dels Fatxos de Onil|Fatxos de Onil;5;0
+Festival Internacional del Circo Elefante de Oro;Festival Internacional del Circ Elefant d’Or;5;0
+Big Sound Festival Pontevedra;;5;0
+Carnaval rural de Villodas;;5;0
+Festival BDra Gráfica;Festival de Cómic de Pontevedra;5;0
+Moros y Cristianos de San Vicente del Raspeig;;5;0
+Mallorca Live Festival;Mallorca Live|MLF;5;0
+Mostra Viva del Mediterrani;;5;0
+Feministaldia;;5;0
+Curtas Festival do Imaxinario;;5;0
+CINHOMO;Festival del Cine LGBT de Valladolid;5;0
+Semana de Música Antigua de Estella;SMADE;5;0
+Festival Reggaeboa;;5;0
+Festa da Pita;;5;0
+Voda da Pita;;5;0
+Alcalá Suena;;5;0
+O Son do Camiño;;5;0
+Zorrilla's Fest;;5;0
+Sonorama 2023;Sonorama Ribera;5;0
+KBOOM!;;5;0
+Clásicos en Alcalá;;5;0
+Muixeranga de Algemesí;;5;0
+Cartagena Negra;;5;0
+Lloret Negre;;5;0
+Potaje Gitano de Utrera;;5;0
+Festival Internacional de Magia de Madrid;;5;0
+Festival de Cante Flamenco de Moguer;;5;0
+Festival de Danza de Málaga;;5;0
+Festival de Cortometrajes de Jerez;;5;0
+Festival de Música Antigua 'Villa de Calasparra';;5;0
+Festival de Música Tradicional de La Alpujarra;;5;0
+Festival de Música de Canarias;;5;0
+Festival de Teatro Clásico de Cáceres;;5;0
+Festival de Verdiales de Villanueva de la Concepción;;5;0
+Festival de cortometrajes Marienbad;;5;0
+Festival de cortometrajes Cortogenia;;5;0
+Festival de cortometrajes Sonorama;;5;0
+Festival de la Cueva de Nerja;;5;0
+Festival de ópera de Calviá;;5;0
+Festivalito;;5;0
+Fiesta de Las Marías;;5;0
+Fiesta de la Virgen de la Salud (Fregenal de la Sierra);;5;0
+Fiesta del Pimiento de Torquemada;;5;0
+Fiestas de la Veguilla;;5;0
+Fiestas de la Sagrada Familia y el Santísimo Cristo;;5;0
+Graffiti (festival);;5;0
+Festival Paradiso de Barrax;;5;0
+Bienal Iberoamericana de Arquitectura y Urbanismo;;5;0
+Actual;Actual (festival);5;0
+Aguaviva Canarias;;5;0
+Musica Musika;;5;0
+Universimad;;5;0
+Antequera Blues Festival;;5;0
+Carnaval de Alcázar de San Juan;;5;0
+Carnaval de Arrecife;;5;0
+Carnaval de Jerez;;5;0
+Carnaval de Soria;;5;0
+Feria de San José;Feria taurina de San José|Feria de Fallas;5;0
+Feria de Artes Escénicas de Castilla-La Mancha;;5;0
+Fiestas Patronales de Cehegín;;5;0
+Vértigo Rock Festival;;5;0
+Las Vaquillas de la Feria;;5;0
+Festival nacional de cortometrajes Andoenredando;;5;0
+Pasión Viviente de Motilla del Palancar;;5;0
+Little Opera Zamora;;5;0
+Jornadas Tierra de Nadie;TdN;5;0
+Invernia Fest;;5;0
+Demoleer;;5;0
+Puro Latino Fest;festival, música;5;0
+Enclave de Agua;;5;0
+Ripollet Rock Festival;;5;0
+Fiesta del arroz;;5;0
+Fiesta de la Tabera;;5;0
+Fiesta del Capitán;;5;0
+Encierros de Olmedo;;5;0
+Jaén Subterránea;;5;0
+Juegos Moriscos de Aben Humeya;;5;0
+Kanina Rock;;5;0
+Lagarto Festival;;5;0
+Macfest;;5;0
+Mariporrón;;5;0
+MetroRock;;5;0
+Modorrock;;5;0
+Motion Graphics Review;;5;0
+Musiclip festival;;5;0
+Natural Music Festival;;5;0
+Noches de Bohemia (Jerez de la Frontera);;5;0
+Petróleo Rock;;5;0
+Los 40 Primavera POP;;5;0
+Purple Weekend;;5;0
+Santa Blues;;5;0
+Semana Internacional de Órgano de Granada;;5;0
+South Pop Festival;;5;0
+Tanned Tin;;5;0
+Territorios Sevilla;;5;0
+Valladolid Latino;;5;0
+Villa-Rock-Bledo;;5;0
+Festival Ponte Louco;;5;0
+Carnaval en la Región de Murcia;;5;0
+Concurso Rock;;5;0
+Electric Weekend;;5;0
+Festival Sacro-Ritual de Riogordo;;5;0
+Espeto Dark Festival;;5;0
+Festival Zomos Heavyllanos;;5;0
+EuroYeyé;;5;0
+Experimentaclub;;5;0
+Festa de Dia;;5;0
+Festidanz;;5;0
+Festival Cultura Urbana;;5;0
+Festival En Vivo;;5;0
+Festival Erótico de Madrid;;5;0
+Festival Hot Point;;5;0
+Festival Iberoamericano de Teatro de Cádiz;;5;0
+Festival Internacional de Cortometrajes La Boca del Lobo;;5;0
+Festival Internacional de Jóvenes Realizadores de Granada;;5;0
+Festival Internacional de Música de Cambrils;;5;0
+Festival Internacional de Música de Tecla Española;;5;0
+Festival Internacional de Música de Sanlúcar de Barrameda;;5;0
+Festival Internacional de Música y Danza de Granada;;5;0
+Festival Internacional de Tango de Granada;;5;0
+Festival Internacional de Tango de Jerez;;5;0
+Festival Internacional de Ópera de Marbella;;5;0
+Festival La Cabina;;5;0
+Festival Nacional de la Jota;;5;0
+Festival Terral;;5;0
+Festival barroco de músicas y comedias;;5;0
+Rocket Festival;;5;0
+Tintorrock;;5;0
+Asaco Metal Fest;;5;0
+Carochos;;5;0
+Festival Internacional de Música de Ibiza;;5;0
+Festival Internacional de Tango de Tarragona;;5;0
+Festival octubre corto;;5;0
+Feria Taurina de Albacete;Feria de la Virgen de Los Llanos;5;0
+Alrumbo Festival;;5;0
+Fiesta del Cristo;;5;0
+Circada;Festival de Circo de Sevilla|Festival Circada;5;0
+Muestra del Embutido Artesano y de Calidad;;5;0
+Fiesta de la Virgen del Castillo;;5;0
+Cabalgata de la Cerámica y Fiesta de la Cerámica;;5;0
+El Castillo de la Olla;;5;0
+Concierto Mano a Mano;;5;0
+Fiestas de San Gil;;5;0
+Auto sacramental de los Reyes Magos de Cañada;;5;0
+Moros y cristianos de Muchamiel;;5;0
+Entrada de toros al estilo Calijó;;5;0
+El último desembarco de Carlos V;;5;0
+Festival Nacional de Bandas de Música de Albacete;;5;0
+Festival de Teatro Clásico de Olmedo;;5;0
+Festival She Makes Noise;;5;0
+Moros y cristianos de Caravaca;;5;0
+Marcha del orgullo LGTB de Madrid;;5;0
+Vía de la Plata Festival;Festival Via de la Plata;5;0
+"Festival Internacional de Música ""Pórtico de Zamora""";;5;0
+SonoraCC;;5;0
+Festival de Albacete;;5;0
+Cameros Blues Festival;;5;0
+Animayo;;5;0
+Trovalia;;5;0
+Bienal Española de Arquitectura y Urbanismo;BEAU;5;0
+Irreconciliables Festival Internacional de Poesía de Málaga;;5;0
+Festival Cabo de Plata;;5;0
+Festival Internacional de la Canción de Barcelona;;5;0
+Antruido;;5;0
+No Surrender Festival;;5;0
+Festival de Videojuegos y Cultura Asiática de Sevilla;;5;0
+Representación de la Pasión de Cristo (Adeje);Representación de la Pasión de Cristo;5;0
+Festival de Música Antigua de Sevilla;;5;0
+Feria de la Miel;;5;0
+Festival Iberoamericano de Circo;FIRCO;5;0
+Fiesta Bresh;La BRESH|Fiesta Bresh España|Fiesta Bresh Argentina;5;0
+Encuentro de Coros Parroquiales Almas Jóvenes;;5;0
+Festival Flamenco Mártir Santa Eulalia;;5;0
+Fiesta del árbol;;5;0
+fiesta de los mosqueteros del Santísimo Sacramento;mosqueteros del Santísimo Sacramento;5;0
+Festival de la Canción de Extremadura;;5;0
+Festival Ópera Prima de Tudela;;5;0
+Holika Festival;;5;0
+Festival Internacional de Música de Cámara de Isla Cristina;;5;0
+Suma Flamenca;;5;0
+Festival Celsius 232;Celsius 232|Celsius;5;0
+La Caña Flamenca;;5;0
+Morriña Fest;;5;0
+Moros y cristianos del Castillo de La Rábita;Balandrilla de los Gatos;5;0
+Festividad san Cleofás, Vera;Fiestas de Vera;5;0
+Moros y Cristianos de Almoradí;;5;0
+Moros y Cristianos de Murcia;;5;0
+Lo Que Viene;Festival de cine y series Lo Que Viene;5;0
+Trayectos (festival);;5;0
+Inverfest;;5;0
+Fiesta de Santa Isabel;;5;0
+Festival Amante;;5;0
+Feria taurina del Corpus Christi de Granada;Feria del Corpus;5;0
+Encierros Taurinos de La Peza;;5;0
+Suelta de Vaquillas de El Viso;;5;0
+Fiesta del jamón de La Cañiza;;5;0
+Sonorama 2020;;5;0
+Lorca y Granada en los Jardines del Generalife;;5;0
+Feria taurina de San Ignacio;;5;0
+Gira de Reconstrucción;;5;0
+Feria del toro de Olivenza;Feria del Toro|Feria de Olivenza;5;0
+Encierros y capeas de Ayora;;5;0
+Encierros de Guadalajara;;5;0
+Vaca enmaromada de Palazuelo de Vedija;;5;0
+Zinentiendo;Muestra Internacional de Cine LGTBQI;5;0
+Moros y Cristianos de Sierro;;5;0
+Fiestas de la Paruela;;5;0
+Las Purificás de Monroy;;5;0
