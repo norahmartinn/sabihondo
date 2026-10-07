@@ -854,7 +854,21 @@ async function nuevaPartida(modo){
   // las siete del día vienen del calendario; si ese día no está programado, salen siete al azar del banco
   const delDia = modo !== "libre" && typeof CALENDARIO !== "undefined" && CALENDARIO[fecha];
   const rondas = await Promise.all((delDia || eligeRondas(semilla)).map(cargaPregunta));
+  // si el reto de hoy ya estaba empezado (se cerró la pestaña, se recargó…), se sigue donde iba, no se empieza otro
+  const c = modo === "diaria" ? enCurso() : null;
+  if (c) return { modo, fecha, dia, rondas, i:c.i, res:c.res, puntos:c.puntos, t0:c.t0, fase:c.fase, reanuda:true };
   return { modo, fecha, dia, rondas, i:0, res:[], puntos:0 };
+}
+/* La partida del día se va apuntando en este navegador a cada paso, con la hora real a la que salió cada
+   pregunta. Así no se puede parar el reloj saliendo del juego ni volver a empezar recargando la página. */
+function enCurso(){
+  const c = guarda.get("curso", null);
+  return c && c.fecha === hoyMadrid() && Array.isArray(c.res) && !hechoHoy() ? c : null;
+}
+function apuntaCurso(fase){
+  if (!J || J.modo !== "diaria" || J.revisita) return;
+  J.fase = fase;
+  guarda.set("curso", {fecha:J.fecha, i:J.i, res:J.res, puntos:J.puntos, fase, t0:J.t0 || null});
 }
 function fijaPines(res){
   let acc = 0;
@@ -989,6 +1003,14 @@ function ronda(){
   pantalla = "juego"; soloTutorial(false);
   // partida nueva: el iceberg vuelve a la punta y sin las respuestas de la anterior
   if (J.i === 0){ profMeta = 0; fijaPines([]); pintaRecord(); }
+  if (J.reanuda){
+    // se vuelve a una partida empezada: el iceberg con lo que ya llevaba
+    J.reanuda = false; profMeta = J.puntos; fijaPines(J.res); pintaRecord();
+    if (J.fase === "veredicto" || J.res.length > J.i){        // la pregunta en la que se fue ya estaba respondida
+      J.i = J.res.length; J.t0 = null;
+      if (J.i >= RONDAS) return final();
+    }
+  } else J.t0 = null;
   responder();
 }
 
@@ -1014,7 +1036,10 @@ function responder(){
   trasPintar();
   const campo = $("#r"); campo.focus();
   const barra = $("#reloj"), relleno = barra.querySelector(".mecha i"), seg = $("#seg");
-  const t0 = performance.now(); let ultimoTic = 99;
+  // el reloj va con la hora real, no con el tiempo que la pestaña lleva a la vista: si sales, sigue corriendo
+  if (!J.t0) J.t0 = Date.now();
+  const t0 = J.t0; let ultimoTic = 99;
+  apuntaCurso("pregunta");
 
   let terminada = false, consultando = false;
   const acaba = r => { if (terminada) return; terminada = true; cierra(r); };
@@ -1056,7 +1081,7 @@ function responder(){
   });
 
   (function reloj(){
-    const resta = Math.max(0, MS_RESP - (performance.now() - t0));
+    const resta = Math.max(0, MS_RESP - (Date.now() - t0));
     relleno.style.transform = "scaleX(" + (resta/MS_RESP) + ")";
     seg.textContent = Math.ceil(resta/1000);
     if (resta < 5000){
@@ -1076,6 +1101,7 @@ function cierra(r){
   J.puntos += pts;
   J.res.push(r ? {...r, q:p.q, joyas:joyasDe(p)} : {nv:null, q:p.q, tuya:null, joyas:joyasDe(p)});
   profMeta = J.puntos; fijaPines(J.res);
+  J.t0 = null; apuntaCurso("veredicto");
 
   if (r){ Son.baja(r.nv); if (N === NIVELES[4]) setTimeout(()=>Son.capa(), 350); } else Son.fallo();
 
@@ -1127,6 +1153,7 @@ function final(){
     est.jugadas++; est.mejor = Math.max(est.mejor, J.puntos); est.ultima = J.fecha;
     guarda.set("est", est);
     guarda.set("hecho:"+J.fecha, {dia:J.dia, fecha:J.fecha, puntos:J.puntos, res:J.res});
+    guarda.set("curso", null);
     guardaEnNube({dia:J.dia, fecha:J.fecha, puntos:J.puntos, res:J.res});
   }
   est = stats();
@@ -1681,6 +1708,8 @@ bs.addEventListener("click", ()=>{ const on = Son.alterna(); bs.setAttribute("ar
 dibujaIceberg();
 requestAnimationFrame(anima);
 if (guarda.get("tutorial", false) || guarda.get("est", null)) portada(); else tutorial();
+// con el reto de hoy a medias se vuelve directo a la pregunta: el reloj de esa pregunta no ha parado
+if (enCurso()){ guarda.set("tutorial", true); empieza("diaria"); }
 iniciaCuenta();
 // La librería de cuentas se pide después de pintar: si su servidor tarda o está bloqueado, se juega igual sin cuenta.
 (function(){
