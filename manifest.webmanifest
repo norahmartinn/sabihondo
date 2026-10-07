@@ -1,0 +1,15 @@
+{
+  "name": "Sabihondo",
+  "short_name": "Sabihondo",
+  "description": "Reto diario: siete preguntas y, cuanto más nicho tu respuesta, más bajas por el iceberg.",
+  "lang": "es",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f7efe9",
+  "theme_color": "#f7efe9",
+  "icons": [
+    { "src": "iconos/icono-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "iconos/icono-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
