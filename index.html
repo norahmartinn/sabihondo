@@ -262,6 +262,8 @@ input[type=text]:focus,input[type=email]:focus,input[type=password]:focus{outlin
 .marcador b{display:block;font-family:var(--disp);font-size:30px;line-height:1.15;color:var(--tinta);letter-spacing:0;
   text-transform:none;font-variant-numeric:lining-nums tabular-nums;margin-top:2px;font-weight:400}
 .copiado{color:var(--boya-hondo);font-size:13px;font-family:var(--sans)}
+.foto-resultado{display:block;width:100%;max-width:360px;height:auto;margin:16px auto 0;border-radius:16px;box-shadow:0 14px 30px -14px rgba(8,28,56,.6)}
+a.btn{text-decoration:none}
 
 /* ── ayuda ───────────────────────────────────────────── */
 #ayuda[hidden],#cuenta[hidden]{display:none}
@@ -1157,7 +1159,8 @@ function final(){
     ${Cuenta.sb && !Cuenta.user && J.modo === "diaria" ? `<p class="apunte aviso-cuenta">Esta racha solo está guardada en este navegador.
       <button class="enlace" id="bGuardar" type="button">Crea una cuenta con tu email</button> y la tendrás en cualquier móvil u ordenador.</p>` : ``}
     <div class="botonera">
-      <button class="btn" id="bComp">Copiar resultado</button>
+      <button class="btn" id="bImagen">Compartir resultado <span aria-hidden="true">→</span></button>
+      <button class="btn fantasma" id="bComp">Copiar texto</button>
       <button class="btn fantasma" id="bIni">Inicio</button>
       <span id="ok" class="copiado"></span>
     </div>
@@ -1178,10 +1181,125 @@ function final(){
     catch{ $("#ok").textContent = compartir.replace("\n"," "); }
     setTimeout(()=>{ const o=$("#ok"); if(o) o.textContent=""; }, 2600);
   });
+  $("#bImagen").addEventListener("click", () => compartirImagen(metros, J.res, J.fecha));
   $("#bGuardar")?.addEventListener("click", ()=>abreCuenta(true, "alta"));
   trasPintar();
   $("#bVerRanking")?.addEventListener("click", ranking);
   $("#bIni").addEventListener("click", portada);
+}
+
+/* ═════════ compartir: una imagen con los metros, sin enseñar las respuestas ═════════
+   Las preguntas son las mismas para todos ese día, así que la imagen solo lleva la profundidad,
+   el color de cada respuesta y dónde está el récord. */
+const WEB = "norahmartinn.github.io/sabihondo";
+async function imagenResultado(metros, res, fecha){
+  try{ await Promise.all([document.fonts.load('400 100px "Young Serif"'), document.fonts.load('800 40px "Sen"'), document.fonts.load('400 40px "Sen"')]); }catch{}
+  const W = 1080, H = 1350, c = document.createElement("canvas"); c.width = W; c.height = H;
+  const g = c.getContext("2d");
+  // el iceberg ocupa la mitad izquierda, con la misma forma que en el juego
+  const L = 70, R = 520, arriba = 200, alto = 1040, corte = .24;
+  const y = m => arriba + (m <= FLOTACION ? (m/FLOTACION)*corte : corte + ((m-FLOTACION)/(FONDO-FLOTACION))*(1-corte)) * alto;
+  const x = f => L + f*(R-L), yf = y(FLOTACION);
+  const cielo = g.createLinearGradient(0,0,0,yf); cielo.addColorStop(0,"#f7efe9"); cielo.addColorStop(1,"#f3e4dd");
+  g.fillStyle = cielo; g.fillRect(0,0,W,yf);
+  const mar = g.createLinearGradient(0,yf,0,H); mar.addColorStop(0,"#3f8fb8"); mar.addColorStop(.5,"#1f5f8f"); mar.addColorStop(1,"#0e2f52");
+  g.fillStyle = mar; g.fillRect(0,yf,W,H-yf);
+  g.fillStyle = "#fffaf2"; g.beginPath(); g.arc(840,150,62,0,7); g.fill();                   // sol
+  g.fillStyle = "#101f3a"; g.beginPath(); g.moveTo(420,H);                                    // rocas del fondo
+  [[520,1290],[600,1230],[680,1270],[760,1190],[840,1240],[930,1130],[1010,1170],[1080,1080],[1080,H]].forEach(p => g.lineTo(p[0],p[1])); g.fill();
+  const azar = mulberry(23), luz = [.16,-.02,-.2];
+  const filas = FILAS.map(m => { const a = enTramo(IZQ,m), d = enTramo(DER,m);
+    return {m, xs:[a, a+(d-a)*(.26+azar()*.14), a+(d-a)*(.60+azar()*.14), d].map(x), yy:y(m)}; });
+  for (let i=0;i<filas.length-1;i++){
+    const f0 = filas[i], f1 = filas[i+1], aire = f1.m <= FLOTACION, tabla = aire ? TONOS_AIRE : TONOS_AGUA;
+    for (let k=0;k<3;k++){
+      const A = [f0.xs[k],f0.yy], B = [f0.xs[k+1],f0.yy], C = [f1.xs[k+1],f1.yy], D = [f1.xs[k],f1.yy];
+      ((i+k)%2 ? [[A,B,D],[B,C,D]] : [[A,B,C],[A,C,D]]).forEach((tri,n) => {
+        const base = enTramo(tabla, n ? f1.m*.7+f0.m*.3 : f0.m*.7+f1.m*.3);
+        const hondo = aire ? 0 : (f0.m-FLOTACION)/(FONDO-FLOTACION);
+        const tono = (luz[k] > 0 ? luz[k]*(1-hondo) : luz[k]) + (n ? -.05 : .05) + (azar()-.5)*.1;
+        g.fillStyle = g.strokeStyle = aire ? matiza(base, tono*2.6, [150,196,228]) : matiza(base, tono, [10,38,82]);
+        g.lineWidth = 1.2; g.beginPath(); g.moveTo(tri[0][0],tri[0][1]); g.lineTo(tri[1][0],tri[1][1]); g.lineTo(tri[2][0],tri[2][1]); g.closePath(); g.fill(); g.stroke();
+      });
+    }
+  }
+  g.strokeStyle = "#fff"; g.lineWidth = 5; g.lineCap = "round"; g.beginPath(); g.moveTo(0,yf);     // oleaje
+  for (let xx=0; xx<W; xx+=28) g.quadraticCurveTo(xx+14, yf-7, xx+28, yf);
+  g.stroke();
+  const pildora = (texto, px, py, fondo, tinta, tam=30) => {
+    g.font = `800 ${tam}px "Sen", sans-serif`; const w = g.measureText(texto).width + tam*1.3, h = tam*1.9;
+    g.fillStyle = fondo; g.beginPath(); g.roundRect(px, py-h/2, w, h, h/2); g.fill();
+    g.fillStyle = tinta; g.textBaseline = "middle"; g.fillText(texto, px + tam*.65, py+2); g.textBaseline = "alphabetic";
+    return w;
+  };
+  // las siete respuestas, solo como puntos de color a su profundidad
+  let acc = 0;
+  res.forEach((r,i) => { const N = nivel(r); acc += N ? N.pts : 0;
+    g.fillStyle = N ? N.col : "#1b2e44"; g.strokeStyle = "#fff"; g.lineWidth = 4;
+    g.beginPath(); g.arc(x(i%2 ? .40 : .60), y(acc), 13, 0, 7); g.fill(); g.stroke(); });
+  if (RECORD && RECORD.puntos > 0 && RECORD.puntos !== metros){
+    const yr = y(Math.min(FONDO, RECORD.puntos));
+    g.strokeStyle = "#ffcf5c"; g.lineWidth = 4; g.setLineDash([4,10]); g.beginPath(); g.moveTo(30,yr); g.lineTo(x(.5),yr); g.stroke(); g.setLineDash([]);
+    // la etiqueta va a la izquierda, encima de su raya (o debajo si ahí está la tuya), lejos de los textos
+    const yt0 = y(Math.min(FONDO, metros));
+    pildora("Récord · " + mil(RECORD.puntos) + " m", 30, yr + (yt0 < yr && yr - yt0 < 70 ? 34 : -34), "#ffcf5c", "#12294b", 23);
+  }
+  const yt = y(Math.min(FONDO, metros));
+  g.strokeStyle = "#ee6fa3"; g.lineWidth = 5; g.setLineDash([12,9]); g.beginPath(); g.moveTo(40,yt); g.lineTo(x(.47),yt); g.stroke(); g.setLineDash([]);
+  g.fillStyle = "#ee6fa3"; g.strokeStyle = "#fff"; g.lineWidth = 5; g.beginPath(); g.arc(x(.47),yt,17,0,7); g.fill(); g.stroke();
+  // textos
+  g.font = '400 76px "Young Serif", Georgia, serif'; g.fillStyle = "#12294b"; g.fillText("Sabi", 70, 128);
+  g.fillStyle = "#ee6fa3"; g.fillText("hondo", 70 + g.measureText("Sabi").width, 128);
+  g.font = '700 30px "Sen", sans-serif'; g.fillStyle = "#4d6080"; g.textAlign = "right";
+  g.fillText(fecha.split("-").reverse().join("/"), W-70, 250); g.textAlign = "left";
+  const tx = 580;
+  g.fillStyle = "#fff"; g.font = '700 46px "Sen", sans-serif'; g.fillText("He bajado", tx, 580);
+  g.font = '400 200px "Young Serif", Georgia, serif'; g.fillText(mil(metros), tx-8, 770);
+  const wn = g.measureText(mil(metros)).width;
+  g.font = '800 54px "Sen", sans-serif'; g.fillText("m", Math.min(tx + wn + 8, W-110), 770);
+  g.font = '400 34px "Sen", sans-serif'; g.fillStyle = "#cfe6f4"; g.fillText("de 700 en el iceberg de hoy", tx, 872);
+  res.forEach((r,i) => { const N = nivel(r);
+    g.fillStyle = N ? N.col : "#1b2e44"; g.strokeStyle = "#fff"; g.lineWidth = 4;
+    g.beginPath(); g.arc(tx + 24 + i*62, 965, 23, 0, 7); g.fill(); g.stroke(); });
+  g.fillStyle = "#fff"; g.font = '800 44px "Sen", sans-serif'; g.fillText("¿Y tú hasta dónde", tx, 1090); g.fillText("bajas?", tx, 1144);
+  pildora(WEB, tx, 1232, "#ee6fa3", "#12294b", 23);
+  return c;
+}
+async function compartirImagen(metros, res, fecha){
+  const caja = $("#ayuda"); caja.hidden = false; caja.scrollTop = 0;
+  caja.innerHTML = `<div class="panel"><h2>Comparte tu resultado</h2><p class="mini">Preparando la imagen…</p></div>`;
+  const lienzo = await imagenResultado(metros, res, fecha);
+  const blob = await new Promise(r => lienzo.toBlob(r, "image/png"));
+  const archivo = new File([blob], "sabihondo-" + fecha + ".png", {type:"image/png"});
+  const texto = `He bajado ${mil(metros)} m en Sabihondo 🧊 ¿Y tú? https://${WEB}/`;
+  const url = URL.createObjectURL(blob);
+  const puedeEnviar = !!(navigator.canShare && navigator.canShare({files:[archivo]}));
+  const puedeCopiar = !!(navigator.clipboard && window.ClipboardItem);
+  if (caja.hidden) return;
+  caja.innerHTML = `
+  <div class="panel">
+    <h2>Comparte tu resultado</h2>
+    <p class="mini">La imagen no enseña tus respuestas, solo los metros y el color de cada una, así que puedes mandarla sin chafarle la partida a nadie.</p>
+    <img class="foto-resultado" src="${url}" alt="Imagen de tu resultado: ${mil(metros)} metros en el iceberg de hoy">
+    <div class="botonera">
+      ${puedeEnviar ? `<button class="btn" id="bEnviarImg">Enviar <span aria-hidden="true">→</span></button>` : ``}
+      <a class="btn ${puedeEnviar ? "fantasma" : ""}" id="bBajarImg" href="${url}" download="${archivo.name}">Guardar imagen</a>
+      ${puedeCopiar ? `<button class="btn fantasma" id="bCopiarImg">Copiar imagen</button>` : ``}
+      <button class="btn fantasma" id="bCerrar">Volver</button>
+    </div>
+    <p class="aviso" id="avisoImg" role="status"></p>
+  </div>`;
+  const aviso = m => { const a = $("#avisoImg"); if (a) a.textContent = m; };
+  $("#bCerrar").addEventListener("click", () => { ayuda(false); URL.revokeObjectURL(url); });
+  $("#bEnviarImg")?.addEventListener("click", async () => {
+    try{ await navigator.share({files:[archivo], text:texto}); }
+    catch(e){ if (e && e.name !== "AbortError") aviso("No se ha podido abrir el menú de compartir. Guarda la imagen y mándala tú."); }
+  });
+  $("#bCopiarImg")?.addEventListener("click", async () => {
+    try{ await navigator.clipboard.write([new ClipboardItem({"image/png":blob})]); aviso("Imagen copiada. Pégala donde quieras."); }
+    catch{ aviso("No se ha podido copiar. Guarda la imagen y mándala tú."); }
+  });
+  ($("#bEnviarImg") || $("#bBajarImg")).focus({preventScroll:true});
 }
 
 /* todas las respuestas válidas de una pregunta, agrupadas por nivel.
