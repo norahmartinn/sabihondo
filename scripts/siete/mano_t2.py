@@ -118,6 +118,7 @@ MANO = {
 "mcdonalds": {
  1: "Big Mac, McPollo, Cuarto de Libra=Cuarto de Libra con queso, McNuggets=nuggets=Chicken McNuggets, patatas fritas=patatas, Happy Meal, McFlurry, hamburguesa con queso=Cheeseburger, CBO, McRoyal Deluxe=McRoyal",
  2: "patatas deluxe=patatas Deluxe, McExtreme=McExtrem, Big Crispy=Big Crispy BBQ, McWrap=wrap, McFish=Filet-O-Fish, hamburguesa=hamburguesa sencilla, doble cheeseburger=Doble Cheeseburger, Grand McExtreme, Signature, sundae, cono=cono de helado, batido, McCafé=café, Coca-Cola, Fanta, agua, nestea, cerveza, ensalada=ensalada César, Top Fries=Top Fries Bacon & Cheese, alitas de pollo=alitas, aros de cebolla, tarta de manzana=Apple Pie, muffin, McMuffin, tostada, donut, cookie, zumo de naranja, manzana, tomatitos=tomates cherry, Chicken & Cheese, McBacon, Big Good, Mini McFlurry, McShake, kétchup, salsa barbacoa, salsa agridulce, salsa deluxe, mostaza, mayonesa, Cheesy bacon fries, Chicken Legend, McChicken, McRib, Big Tasty, McVeggie=McPlant, Quarter Pounder, Royal Deluxe, croissant, napolitana, Chicken Wings, Camembert=bocaditos de camembert=queso camembert, Chili Cheese Tops, Tasty, Double Big Mac=Doble Big Mac, Pollo Crispy, menú infantil, actimel, yogur, helado Kit Kat, smoothie, frappé, capuchino, café con leche, chocolate, té",
+ 4: "Chicken McBites=McBites=Mc Bites=Chicken Bites",
 },
 "coches_lujo": {
  1: "Ferrari, Lamborghini, Porsche, Rolls-Royce=Rolls Royce=Rolls, Bentley, Maserati, Bugatti, Aston Martin, McLaren, Mercedes=Mercedes-Benz",
