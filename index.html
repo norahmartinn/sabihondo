@@ -1652,13 +1652,6 @@ function ayuda(abrir){
         <span><span class="n">${N.n}</span><span class="d">${esc(N.d)}</span></span>
         <span class="p">+${N.pts} m</span></li>`).join("")}
     </ul>
-    <p class="mini">De un iceberg solo asoma el 10 %. Aquí pasa igual: siete respuestas de superficie suman 70 m y te dejan justo en la línea de flotación.</p>
-    <h3>De dónde salen las respuestas</h3>
-    <p class="mini">De listas reales siempre que existen. Los apellidos son los del INE y puntúan según cuánta gente los lleva. Las carreras salen del registro oficial de títulos y cuentan en cuántas universidades se estudian. Las canciones de Taylor Swift se ordenan por reproducciones en Spotify y las capitales por visitas en Wikipedia. En cervezas y relojes, las marcas conocidas en España están ordenadas a mano y el resto por su presencia en Wikipedia. La de bodas está hecha a mano entera.</p>
-    <h3>Erratas</h3>
-    <p class="mini">Se perdonan. «Cadiz» o «Pikachú» entran igual, porque se compara sin tildes y con margen de un par de letras.</p>
-    <h3>Lo que no está</h3>
-    <p class="mini">La lista tiene <b>${PREGUNTAS.length} preguntas</b> y <b>${mil(PREGUNTAS.reduce((s,p)=>s+p.n,0))} respuestas</b>. Si escribes algo correcto que no aparece, el juego te deja probar otra mientras quede tiempo. No has fallado, es que falta en la lista.</p>
     <div class="botonera"><button class="btn" id="bCerrar">Volver</button>
       ${pantalla === "juego" ? "" : `<button class="btn fantasma" id="bVerTuto">Ver el tutorial</button>`}</div>
   </div>`;
