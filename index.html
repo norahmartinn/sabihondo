@@ -1358,8 +1358,10 @@ function iniciaCuenta(){
   Cuenta.sb = window.supabase.createClient(SB_URL, SB_KEY);
   $("#bRanking").hidden = false;
   cargaRecord();
-  Cuenta.sb.auth.onAuthStateChange((_ev, sesion) => {
+  Cuenta.sb.auth.onAuthStateChange((ev, sesion) => {
     const u = sesion?.user || null;
+    // quien llega desde el correo de «restablecer contraseña» entra ya con sesión: se le pide la nueva
+    if (ev === "PASSWORD_RECOVERY"){ Cuenta.recuperando = true; setTimeout(() => abreCuenta(true), 0); }
     if ((u && u.id) === (Cuenta.user && Cuenta.user.id)) return;
     Cuenta.user = u; Cuenta.partidas = null;
     pintaBotonCuenta();
@@ -1443,7 +1445,8 @@ const errorEs = e => {
   if (m.includes("password") && m.includes("6")) return "La contraseña necesita al menos 6 caracteres.";
   if (m.includes("email") && m.includes("invalid")) return "Ese email no parece válido.";
   if (m.includes("not confirmed")) return "Tienes que confirmar el email antes de entrar. Revisa tu correo.";
-  if (m.includes("rate") || m.includes("too many")) return "Demasiados intentos seguidos. Espera un minuto.";
+  if (m.includes("rate") || m.includes("too many") || m.includes("security purposes")) return "Demasiados intentos seguidos. Espera un rato y prueba otra vez.";
+  if (m.includes("different from the old")) return "La contraseña nueva tiene que ser distinta de la anterior.";
   return "No se ha podido: " + (e && e.message || "error desconocido");
 };
 
@@ -1453,7 +1456,37 @@ function abreCuenta(abrir, modo){
   if (modo) Cuenta.modo = modo;
   caja.hidden = false;
 
-  if (Cuenta.user){
+  if (Cuenta.user && Cuenta.recuperando){
+    caja.innerHTML = `
+    <div class="panel">
+      <h2>Pon una contraseña nueva</h2>
+      <p class="mini" id="recEmail"></p>
+      <form id="fNueva" class="form-cuenta">
+        <label for="cNueva">Contraseña nueva</label>
+        <input type="password" id="cNueva" autocomplete="new-password" required minlength="6" placeholder="mínimo 6 caracteres">
+        <button class="btn" type="submit" id="bNueva">Guardar contraseña</button>
+        <p class="aviso" id="aNueva" role="status"></p>
+      </form>
+      <div class="botonera"><button class="btn fantasma" id="bCerrarC">Ahora no</button></div>
+    </div>`;
+    $("#recEmail").textContent = "Es para la cuenta " + (Cuenta.user.email || "") + ".";
+    $("#bCerrarC").addEventListener("click", () => { Cuenta.recuperando = false; });    // «Ahora no»: no se vuelve a pedir
+    $("#fNueva").addEventListener("submit", async e => {
+      e.preventDefault();
+      const aviso = $("#aNueva"), boton = $("#bNueva");
+      boton.disabled = true; aviso.textContent = "Guardando…";
+      const {error} = await Cuenta.sb.auth.updateUser({password:$("#cNueva").value});
+      boton.disabled = false;
+      if (error){ aviso.textContent = errorEs(error); return; }
+      Cuenta.recuperando = false;
+      try{ history.replaceState(null, "", location.pathname); }catch{}     // fuera el código del enlace de la barra de direcciones
+      caja.innerHTML = `<div class="panel"><h2>Contraseña cambiada</h2>
+        <p class="mini">Ya puedes entrar con la nueva desde cualquier dispositivo. En este ya tienes la sesión iniciada.</p>
+        <div class="botonera"><button class="btn" id="bCerrarC">Seguir jugando</button></div></div>`;
+      $("#bCerrarC").addEventListener("click", () => abreCuenta(false));
+    });
+    $("#cNueva").focus();
+  } else if (Cuenta.user){
     const est = stats(), ps = Cuenta.partidas;
     caja.innerHTML = `
     <div class="panel">
@@ -1502,6 +1535,34 @@ function abreCuenta(abrir, modo){
     });
     $("#bSalir").addEventListener("click", async () => { await Cuenta.sb.auth.signOut(); abreCuenta(false); });
   } else {
+    if (Cuenta.modo === "olvido"){
+      caja.innerHTML = `
+      <div class="panel">
+        <h2>Restablece tu contraseña</h2>
+        <p class="mini">Escribe el email de tu cuenta y te mandamos un correo con un enlace para poner una contraseña nueva.</p>
+        <form id="fOlvido" class="form-cuenta">
+          <label for="cEmailOlvido">Email</label>
+          <input type="email" id="cEmailOlvido" autocomplete="email" required placeholder="tu@email.com">
+          <button class="btn" type="submit" id="bOlvido">Enviar enlace</button>
+          <p class="aviso" id="aOlvido" role="status"></p>
+        </form>
+        <div class="botonera"><button class="btn fantasma" id="bVolverEntrar" type="button">Volver a entrar</button>
+          <button class="btn fantasma" id="bCerrarC">Cerrar</button></div>
+      </div>`;
+      $("#bVolverEntrar").addEventListener("click", () => abreCuenta(true, "entrar"));
+      $("#fOlvido").addEventListener("submit", async e => {
+        e.preventDefault();
+        const aviso = $("#aOlvido"), boton = $("#bOlvido");
+        boton.disabled = true; aviso.textContent = "Enviando…";
+        const {error} = await Cuenta.sb.auth.resetPasswordForEmail($("#cEmailOlvido").value.trim(), {redirectTo: location.origin + location.pathname});
+        boton.disabled = false;
+        aviso.textContent = error ? errorEs(error)
+          : "Si hay una cuenta con ese email, te llegará un correo en unos minutos. Mira también en la carpeta de spam.";
+      });
+      $("#cEmailOlvido").focus();
+      $("#bCerrarC").addEventListener("click", () => abreCuenta(false));
+      return;
+    }
     const alta = Cuenta.modo === "alta";
     caja.innerHTML = `
     <div class="panel">
@@ -1520,12 +1581,14 @@ function abreCuenta(abrir, modo){
         <input type="password" id="cPass" autocomplete="${alta ? "new-password" : "current-password"}" required minlength="6"
                placeholder="${alta ? "mínimo 6 caracteres" : ""}">
         <button class="btn" type="submit" id="bEnviar">${alta ? "Crear cuenta" : "Entrar"}</button>
+        ${alta ? `` : `<button class="enlace" type="button" id="bOlvide" style="justify-self:start;margin-top:10px">¿Has olvidado tu contraseña?</button>`}
         <p class="aviso" id="cAviso" role="status"></p>
       </form>
       <div class="botonera"><button class="btn fantasma" id="bCerrarC">Volver</button></div>
     </div>`;
     $("#tEntrar").addEventListener("click", () => abreCuenta(true, "entrar"));
     $("#tAlta").addEventListener("click", () => abreCuenta(true, "alta"));
+    $("#bOlvide")?.addEventListener("click", () => abreCuenta(true, "olvido"));
     $("#fCuenta").addEventListener("submit", async e => {
       e.preventDefault();
       const email = $("#cEmail").value.trim(), password = $("#cPass").value, aviso = $("#cAviso"), boton = $("#bEnviar");
