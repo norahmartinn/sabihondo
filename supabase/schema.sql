@@ -117,3 +117,22 @@ alter table public.sabihondo_fallos enable row level security;
 drop policy if exists "Sabihondo: apuntar fallos" on public.sabihondo_fallos;
 create policy "Sabihondo: apuntar fallos" on public.sabihondo_fallos
   for insert to anon, authenticated with check (user_id is null or user_id = auth.uid());
+
+-- Vista para mirar desde el panel qué respondió cada cuenta: una fila por respuesta.
+-- Solo para el Table Editor: desde la web no se puede leer (sin permisos y con las reglas de quien consulta).
+create or replace view public.sabihondo_respuestas
+with (security_invoker = true) as
+select p.fecha,
+       coalesce(nullif(btrim(u.raw_user_meta_data->>'apodo'), ''), 'Anónimo') as apodo,
+       u.email,
+       r.orden::int                    as ronda,
+       r.resp->>'q'                    as pregunta,
+       r.resp->>'tuya'                 as escribio,
+       r.resp->>'disp'                 as cuenta_como,
+       (r.resp->>'nv')::int + 1        as nivel,
+       p.puntos                        as metros_del_dia
+from public.sabihondo_partidas p
+join auth.users u on u.id = p.user_id
+cross join lateral jsonb_array_elements(p.res) with ordinality as r(resp, orden)
+order by p.fecha desc, apodo, r.orden;
+revoke all on public.sabihondo_respuestas from anon, authenticated;
