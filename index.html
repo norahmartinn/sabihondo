@@ -1118,10 +1118,6 @@ function final(){
   }
   est = stats();
 
-  const emojis = J.res.map(r => nivel(r) ? nivel(r).e : FALLO).join("");
-  const compartir = (J.modo === "libre" ? "Sabihondo · libre" : "Sabihondo #" + J.dia)
-    + ` · ${mil(metros)} m 🧊\n${emojis}`;
-
   rescataIceberg(); escena.innerHTML = `
   <div class="panel">
     <div class="sitio-berg alto"></div>
@@ -1159,10 +1155,8 @@ function final(){
     ${Cuenta.sb && !Cuenta.user && J.modo === "diaria" ? `<p class="apunte aviso-cuenta">Esta racha solo está guardada en este navegador.
       <button class="enlace" id="bGuardar" type="button">Crea una cuenta con tu email</button> y la tendrás en cualquier móvil u ordenador.</p>` : ``}
     <div class="botonera">
-      <button class="btn" id="bImagen">Compartir resultado <span aria-hidden="true">→</span></button>
-      <button class="btn fantasma" id="bComp">Copiar texto</button>
+      <button class="btn" id="bImagen">Compartir resultados <span aria-hidden="true">→</span></button>
       <button class="btn fantasma" id="bIni">Inicio</button>
-      <span id="ok" class="copiado"></span>
     </div>
   </div>`;
 
@@ -1176,11 +1170,6 @@ function final(){
     b.setAttribute("aria-expanded", String(abrir));
   }));
 
-  $("#bComp").addEventListener("click", async () => {
-    try{ await navigator.clipboard.writeText(compartir); $("#ok").textContent = "copiado"; }
-    catch{ $("#ok").textContent = compartir.replace("\n"," "); }
-    setTimeout(()=>{ const o=$("#ok"); if(o) o.textContent=""; }, 2600);
-  });
   $("#bImagen").addEventListener("click", () => compartirImagen(metros, J.res, J.fecha));
   $("#bGuardar")?.addEventListener("click", ()=>abreCuenta(true, "alta"));
   trasPintar();
@@ -1271,7 +1260,9 @@ async function compartirImagen(metros, res, fecha){
   const lienzo = await imagenResultado(metros, res, fecha);
   const blob = await new Promise(r => lienzo.toBlob(r, "image/png"));
   const archivo = new File([blob], "sabihondo-" + fecha + ".png", {type:"image/png"});
-  const texto = `He bajado ${mil(metros)} m en Sabihondo 🧊 ¿Y tú? https://${WEB}/`;
+  // el mensaje que acompaña a la imagen lleva siempre el enlace al juego
+  const emojis = res.map(r => nivel(r) ? nivel(r).e : FALLO).join("");
+  const texto = `He bajado ${mil(metros)} m en Sabihondo 🧊\n${emojis}\n¿Y tú hasta dónde bajas? https://${WEB}/`;
   const url = URL.createObjectURL(blob);
   const puedeEnviar = !!(navigator.canShare && navigator.canShare({files:[archivo]}));
   const puedeCopiar = !!(navigator.clipboard && window.ClipboardItem);
@@ -1285,6 +1276,7 @@ async function compartirImagen(metros, res, fecha){
       ${puedeEnviar ? `<button class="btn" id="bEnviarImg">Enviar <span aria-hidden="true">→</span></button>` : ``}
       <a class="btn ${puedeEnviar ? "fantasma" : ""}" id="bBajarImg" href="${url}" download="${archivo.name}">Guardar imagen</a>
       ${puedeCopiar ? `<button class="btn fantasma" id="bCopiarImg">Copiar imagen</button>` : ``}
+      <button class="btn fantasma" id="bCopiarMsg">Copiar mensaje con enlace</button>
       <button class="btn fantasma" id="bCerrar">Volver</button>
     </div>
     <p class="aviso" id="avisoImg" role="status"></p>
@@ -1292,12 +1284,16 @@ async function compartirImagen(metros, res, fecha){
   const aviso = m => { const a = $("#avisoImg"); if (a) a.textContent = m; };
   $("#bCerrar").addEventListener("click", () => { ayuda(false); URL.revokeObjectURL(url); });
   $("#bEnviarImg")?.addEventListener("click", async () => {
-    try{ await navigator.share({files:[archivo], text:texto}); }
+    try{ await navigator.share({files:[archivo], title:"Sabihondo", text:texto}); }
     catch(e){ if (e && e.name !== "AbortError") aviso("No se ha podido abrir el menú de compartir. Guarda la imagen y mándala tú."); }
   });
   $("#bCopiarImg")?.addEventListener("click", async () => {
     try{ await navigator.clipboard.write([new ClipboardItem({"image/png":blob})]); aviso("Imagen copiada. Pégala donde quieras."); }
     catch{ aviso("No se ha podido copiar. Guarda la imagen y mándala tú."); }
+  });
+  $("#bCopiarMsg").addEventListener("click", async () => {
+    try{ await navigator.clipboard.writeText(texto); aviso("Mensaje copiado, con el enlace al juego."); }
+    catch{ aviso(texto); }
   });
   ($("#bEnviarImg") || $("#bBajarImg")).focus({preventScroll:true});
 }
