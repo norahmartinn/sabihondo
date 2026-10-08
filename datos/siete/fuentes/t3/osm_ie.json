@@ -1,0 +1,1122 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-10-08T23:09:09Z",
+    "timestamp_areas_base": "2026-10-08T05:09:19Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 278857890,
+  "lat": 53.3448128,
+  "lon": -6.2623304,
+  "tags": {
+    "addr:city": "Dublin",
+    "addr:street": "Cope Street",
+    "amenity": "nightclub",
+    "contact:facebook": "https://www.facebook.com/clubmtemplebar",
+    "name": "Club M",
+    "opening_hours": "Mo-Th off; Fr-Sa 23:00-03:00; Su off",
+    "phone": "+353 1 671 5622",
+    "website": "https://clubm.ie/"
+  }
+},
+{
+  "type": "node",
+  "id": 290784455,
+  "lat": 53.7163699,
+  "lon": -6.3468053,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "The Venue"
+  }
+},
+{
+  "type": "node",
+  "id": 300599692,
+  "lat": 53.5243647,
+  "lon": -7.3444417,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Mojo's",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 348942848,
+  "lat": 51.9035300,
+  "lon": -8.4722427,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Secrets Lapdancing",
+    "survey:date": "2018-08-06"
+  }
+},
+{
+  "type": "node",
+  "id": 348942873,
+  "lat": 51.9022311,
+  "lon": -8.4713483,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Angels Lapdancing"
+  }
+},
+{
+  "type": "node",
+  "id": 417676777,
+  "lat": 52.9315567,
+  "lon": -9.3457906,
+  "tags": {
+    "addr:city": "Lahinch",
+    "addr:street": "Slipper Street",
+    "amenity": "nightclub",
+    "check_date": "2026-08-07",
+    "contact:facebook": "https://www.facebook.com/@theclaremontnightclublahinch/",
+    "contact:instagram": "https://www.instagram.com/claremont_lahinch/",
+    "contact:phone": "+353 65 708 1007",
+    "name": "The Claremount",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 593976455,
+  "lat": 52.0921898,
+  "lon": -7.6160973,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Creation"
+  }
+},
+{
+  "type": "node",
+  "id": 652990799,
+  "lat": 54.2711968,
+  "lon": -8.4711197,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Toffs"
+  }
+},
+{
+  "type": "node",
+  "id": 652990802,
+  "lat": 54.2719293,
+  "lon": -8.4706225,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "HMV Soundgarden"
+  }
+},
+{
+  "type": "node",
+  "id": 739778199,
+  "lat": 53.3354360,
+  "lon": -6.2635091,
+  "tags": {
+    "addr:city": "Dublin",
+    "addr:street": "Harcourt Street",
+    "amenity": "nightclub",
+    "name": "Copper Face Jacks",
+    "wheelchair": "no",
+    "wikidata": "Q65329914",
+    "wikipedia": "en:Copper Face Jacks"
+  }
+},
+{
+  "type": "node",
+  "id": 752223416,
+  "lat": 52.8615101,
+  "lon": -8.1976378,
+  "tags": {
+    "addr:city": "Nenagh",
+    "addr:country": "IE",
+    "addr:county": "Tipperary",
+    "addr:street": "Kenyon Street",
+    "amenity": "nightclub",
+    "name": "Maximus"
+  }
+},
+{
+  "type": "node",
+  "id": 775415426,
+  "lat": 53.3344540,
+  "lon": -6.2628403,
+  "tags": {
+    "addr:city": "Dublin",
+    "addr:county": "Dublin",
+    "addr:housename": "The Harcourt Hotel",
+    "addr:housenumber": "60",
+    "addr:postcode": "D02 P902",
+    "addr:street": "Harcourt Street",
+    "amenity": "nightclub",
+    "name": "D-Two",
+    "website": "https://www.dtwonightclub.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 778699198,
+  "lat": 53.3303997,
+  "lon": -6.2641124,
+  "tags": {
+    "addr:housenumber": "33",
+    "addr:street": "Richmond Street South",
+    "amenity": "nightclub",
+    "name": "Rain",
+    "website": "http://www.portobellohotel.ie/Dublin-Nightclub/"
+  }
+},
+{
+  "type": "node",
+  "id": 943985346,
+  "lat": 53.4353101,
+  "lon": -6.1239373,
+  "tags": {
+    "addr:city": "Portmarnock",
+    "addr:country": "IE",
+    "addr:county": "Dublin",
+    "addr:housename": "White Sands Hotel",
+    "addr:postcode": "D13 W7X2",
+    "addr:street": "Strand Road",
+    "amenity": "nightclub",
+    "contact:facebook": "https://www.facebook.com/tamangonightclubdublin/",
+    "name": "Tamango"
+  }
+},
+{
+  "type": "node",
+  "id": 987772944,
+  "lat": 53.7271501,
+  "lon": -6.8749412,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Vibe The Courtyard"
+  }
+},
+{
+  "type": "node",
+  "id": 1423970457,
+  "lat": 52.2307348,
+  "lon": -9.4640795,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date:opening_hours": "2026-08-11",
+    "name": "Nightowls",
+    "opening_hours:signed": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1440544980,
+  "lat": 52.6642890,
+  "lon": -8.6231160,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2025-07-06",
+    "name": "Molly's",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 1701787909,
+  "lat": 54.2700800,
+  "lon": -8.4714484,
+  "tags": {
+    "addr:street": "Teeling Street",
+    "amenity": "nightclub",
+    "name": "Sixth",
+    "smoking": "dedicated",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1787263823,
+  "lat": 54.4777527,
+  "lon": -8.2799809,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Jumpin' Jacks"
+  }
+},
+{
+  "type": "node",
+  "id": 1791427915,
+  "lat": 52.1348441,
+  "lon": -8.6408173,
+  "tags": {
+    "addr:city": "Mallow",
+    "addr:country": "IE",
+    "addr:county": "Cork",
+    "addr:housenumber": "34-35",
+    "addr:street": "Bridge Street",
+    "amenity": "nightclub",
+    "name": "Chasers"
+  }
+},
+{
+  "type": "node",
+  "id": 2059871836,
+  "lat": 53.9653612,
+  "lon": -8.0760443,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Cartown"
+  }
+},
+{
+  "type": "node",
+  "id": 2098258316,
+  "lat": 51.7452723,
+  "lon": -8.7343654,
+  "tags": {
+    "addr:city": "Bandon",
+    "addr:street": "Oliver Plunkett Street",
+    "amenity": "nightclub",
+    "name": "The Hub",
+    "phone": "+353 23 884 1562",
+    "website": "http://thehubniteclub.com"
+  }
+},
+{
+  "type": "node",
+  "id": 2130191968,
+  "lat": 52.2570865,
+  "lon": -7.1115074,
+  "tags": {
+    "addr:city": "Waterford",
+    "addr:country": "IE",
+    "addr:housenumber": "1",
+    "addr:street": "Manor Street",
+    "amenity": "nightclub",
+    "contact:facebook": "https://www.facebook.com/sinnotts.waterford/",
+    "name": "Sinnotts",
+    "phone": "+353 51 323 037",
+    "smoking": "isolated",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 2177640713,
+  "lat": 52.6633237,
+  "lon": -8.6231706,
+  "tags": {
+    "addr:city": "Limerick",
+    "addr:country": "IE",
+    "addr:county": "Limerick",
+    "addr:postcode": "V94 K6WH",
+    "addr:street": "Denmark Street",
+    "amenity": "nightclub",
+    "name": "Icon"
+  }
+},
+{
+  "type": "node",
+  "id": 2177640720,
+  "lat": 52.6637350,
+  "lon": -8.6229652,
+  "tags": {
+    "addr:city": "Limerick",
+    "addr:street": "Robert Street",
+    "amenity": "nightclub",
+    "min_age": "18",
+    "name": "Angel Lane Night Club",
+    "website": "https://angellanenightclub.ie/"
+  }
+},
+{
+  "type": "node",
+  "id": 2885169530,
+  "lat": 53.3464453,
+  "lon": -6.2578726,
+  "tags": {
+    "addr:city": "Dublin",
+    "addr:housenumber": "21",
+    "addr:street": "D'Olier Street",
+    "amenity": "nightclub",
+    "check_date": "2026-05-19",
+    "email": "bookings@sohodublin.ie",
+    "name": "Soho",
+    "old_name": "Play Night Club",
+    "opening_hours": "Mo-Su 22:00-03:00",
+    "phone": "+35314740046",
+    "smoking": "no",
+    "website": "https://www.sohodublin.ie/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2951264878,
+  "lat": 53.2952488,
+  "lon": -6.1480491,
+  "tags": {
+    "addr:street": "Old Dunleary Road",
+    "amenity": "nightclub",
+    "name": "The Purty Loft"
+  }
+},
+{
+  "type": "node",
+  "id": 3045709849,
+  "lat": 52.5028228,
+  "lon": -6.5653687,
+  "tags": {
+    "addr:city": "Enniscorthy",
+    "addr:street": "Templeshannon",
+    "amenity": "nightclub",
+    "name": "Benedicts",
+    "operator": "Treacy's Hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 3161957210,
+  "lat": 53.3542745,
+  "lon": -6.2629196,
+  "tags": {
+    "addr:city": "Dublin",
+    "addr:housenumber": "12",
+    "addr:street": "Parnell Square East",
+    "amenity": "nightclub",
+    "check_date": "2026-07-31",
+    "fixme": "Does this still exist?",
+    "name": "The Avenue"
+  }
+},
+{
+  "type": "node",
+  "id": 3771358965,
+  "lat": 53.3351615,
+  "lon": -6.2634856,
+  "tags": {
+    "addr:city": "Dublin",
+    "addr:housenumber": "33",
+    "addr:street": "Harcourt Street",
+    "amenity": "nightclub",
+    "name": "Everleigh Garden",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4001064185,
+  "lat": 52.2572208,
+  "lon": -7.1112191,
+  "tags": {
+    "addr:city": "Waterford",
+    "addr:country": "IE",
+    "addr:housenumber": "30",
+    "addr:street": "John Street",
+    "amenity": "nightclub",
+    "name": "The Factory Nightclub",
+    "phone": "+353 51 854 727",
+    "website": "https://www.facebook.com/FactoryWaterford/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4001064186,
+  "lat": 52.2572054,
+  "lon": -7.1117576,
+  "tags": {
+    "addr:city": "Waterford",
+    "addr:country": "IE",
+    "addr:street": "Manor Street",
+    "amenity": "nightclub",
+    "name": "Masons",
+    "opening_hours": "19:00-01:00",
+    "phone": "+353 51 875881",
+    "smoking": "isolated",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4020545667,
+  "lat": 52.1383642,
+  "lon": -8.2763748,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "SG1 Nightclub"
+  }
+},
+{
+  "type": "node",
+  "id": 4032151935,
+  "lat": 52.6635597,
+  "lon": -8.6235436,
+  "tags": {
+    "addr:city": "Limerick",
+    "addr:country": "IE",
+    "addr:county": "Limerick",
+    "addr:postcode": "V94 K6WH",
+    "addr:street": "Denmark Street Upper",
+    "amenity": "nightclub",
+    "name": "Smyth’s Bar"
+  }
+},
+{
+  "type": "node",
+  "id": 4209884820,
+  "lat": 53.3340114,
+  "lon": -6.2551589,
+  "tags": {
+    "addr:city": "Dublin",
+    "addr:housenumber": "27",
+    "addr:street": "Leeson Street Lower",
+    "amenity": "nightclub",
+    "email": "welcome@housedublin.ie",
+    "name": "House Dublin",
+    "opening_hours": "Mo-We 10:00-24:00, Th-Fr 10:00-03:00, Sa 16:00-03:00",
+    "phone": "+353 1 9059090",
+    "website": "https://www.housedublin.ie/"
+  }
+},
+{
+  "type": "node",
+  "id": 5384227888,
+  "lat": 52.6629756,
+  "lon": -8.6308731,
+  "tags": {
+    "addr:city": "Limerick",
+    "addr:street": "Howley's Quay",
+    "amenity": "nightclub",
+    "name": "House",
+    "url": "https://houselimerick.ie/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5403857378,
+  "lat": 54.1198441,
+  "lon": -6.7360966,
+  "tags": {
+    "addr:city": "Castleblayney",
+    "addr:street": "West Street",
+    "amenity": "nightclub",
+    "name": "Switch Nightclub",
+    "smoking": "isolated"
+  }
+},
+{
+  "type": "node",
+  "id": 5495191224,
+  "lat": 53.3258736,
+  "lon": -6.2429263,
+  "tags": {
+    "addr:city": "Dublin",
+    "addr:housenumber": "19-29",
+    "addr:postcode": "D04 Y6K4",
+    "addr:street": "Morehampton Road",
+    "amenity": "nightclub",
+    "name": "Vanilla"
+  }
+},
+{
+  "type": "node",
+  "id": 5533029799,
+  "lat": 52.8454843,
+  "lon": -8.9813128,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Queens NightClub",
+    "opening_hours": "Fr-Su",
+    "phone": "+353 65 6828963",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 5814718249,
+  "lat": 51.8972959,
+  "lon": -8.4741380,
+  "tags": {
+    "addr:city": "Cork",
+    "addr:housenumber": "74",
+    "addr:street": "Oliver Plunkett Street",
+    "amenity": "nightclub",
+    "entrance": "main",
+    "name": "Voodoo Rooms",
+    "phone": "+353 21 427 0074",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6188054746,
+  "lat": 53.2741933,
+  "lon": -7.4919542,
+  "tags": {
+    "addr:city": "Tullamore",
+    "addr:country": "IE",
+    "addr:county": "Offaly",
+    "addr:street": "O'Connor Square",
+    "amenity": "nightclub",
+    "name": "The Phoenix",
+    "phone": "+353 579357285",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 6257799735,
+  "lat": 53.3456082,
+  "lon": -6.2651812,
+  "tags": {
+    "addr:city": "Dublin",
+    "addr:housenumber": "21-22",
+    "addr:postcode": "D02 YK79",
+    "addr:street": "Wellington Quay",
+    "amenity": "nightclub",
+    "check_date": "2025-10-19",
+    "name": "Fitzsimons",
+    "website": "https://www.fitzsimonsbar.ie/nightclub/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6378445475,
+  "lat": 51.6222678,
+  "lon": -8.8907693,
+  "tags": {
+    "addr:city": "Clonakilty",
+    "addr:county": "Cork",
+    "addr:street": "Kent Street",
+    "amenity": "nightclub",
+    "name": "The Clubhouse",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6763852524,
+  "lat": 53.2739715,
+  "lon": -9.0504198,
+  "tags": {
+    "addr:city": "Galway",
+    "addr:postcode": "H91 CFX5",
+    "addr:street": "Ballalley Lane",
+    "amenity": "nightclub",
+    "email": "hello@dnagalway.com",
+    "min_age": "18",
+    "name": "DNA",
+    "phone": "+353 91 500 330",
+    "website": "https://www.dnagalway.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 6854752789,
+  "lat": 52.3743961,
+  "lon": -7.9246034,
+  "tags": {
+    "amenity": "nightclub",
+    "internet_access:fee": "no",
+    "min_age": "18",
+    "name": "Fitzgerald's",
+    "smoking": "outside"
+  }
+},
+{
+  "type": "node",
+  "id": 6859936149,
+  "lat": 52.0581573,
+  "lon": -9.5090249,
+  "tags": {
+    "addr:city": "Killarney",
+    "addr:country": "IE",
+    "addr:county": "Kerry",
+    "addr:housename": "The Grand Hotel",
+    "addr:housenumber": "17",
+    "addr:postcode": "V93 X6FP",
+    "addr:street": "Main Street",
+    "amenity": "nightclub",
+    "level": "0",
+    "name": "Paddy Sheehan's Bar",
+    "outdoor_seating": "no",
+    "smoking": "no",
+    "toilets": "yes",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7297792675,
+  "lat": 52.2578697,
+  "lon": -7.1118377,
+  "tags": {
+    "addr:city": "Waterford",
+    "addr:county": "Waterford",
+    "addr:housenumber": "12",
+    "addr:postcode": "X91 N729",
+    "addr:street": "John Street",
+    "amenity": "nightclub",
+    "contact:facebook": "https://www.facebook.com/ProjectVenueWaterford",
+    "name": "Project",
+    "phone": "+353 51 582 642"
+  }
+},
+{
+  "type": "node",
+  "id": 7850714565,
+  "lat": 52.8372127,
+  "lon": -6.9300679,
+  "tags": {
+    "addr:city": "Carlow",
+    "addr:county": "Carlow",
+    "addr:housenumber": "25",
+    "addr:postcode": "R93 H7W6",
+    "addr:street": "Tullow Street",
+    "amenity": "nightclub",
+    "name": "The Tower and Foundry"
+  }
+},
+{
+  "type": "node",
+  "id": 8004189199,
+  "lat": 53.2737335,
+  "lon": -9.0528301,
+  "tags": {
+    "addr:city": "Galway",
+    "addr:country": "IE",
+    "addr:county": "Galway",
+    "addr:housenumber": "36",
+    "addr:street": "Abbeygate Street Upper",
+    "amenity": "nightclub",
+    "email": "info@electricgalway.com",
+    "min_age": "18",
+    "name": "Electric",
+    "phone": "+353 91 565 976",
+    "smoking": "separated",
+    "website": "https://www.electricgalway.com/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9768144869,
+  "lat": 52.3742310,
+  "lon": -7.9241562,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Rev Discos",
+    "website": "www.revdiscosireland.com"
+  }
+},
+{
+  "type": "node",
+  "id": 10544259184,
+  "lat": 53.5136952,
+  "lon": -6.5403284,
+  "tags": {
+    "addr:city": "Dunshaughlin",
+    "addr:housename": "Peter's",
+    "addr:street": "Main Street",
+    "amenity": "nightclub",
+    "contact:facebook": "https://www.facebook.com/people/Glow-at-Peters-Pub-Events-Parties/100057645571630/",
+    "name": "Glow"
+  }
+},
+{
+  "type": "node",
+  "id": 10617894790,
+  "lat": 53.0340380,
+  "lon": -7.2997271,
+  "tags": {
+    "addr:city": "Portlaoise",
+    "addr:country": "IE",
+    "addr:county": "Laois",
+    "addr:housenumber": "68",
+    "addr:postcode": "R32 EAA9",
+    "addr:street": "Main Street",
+    "amenity": "nightclub",
+    "name": "The Vault"
+  }
+},
+{
+  "type": "node",
+  "id": 11104776127,
+  "lat": 51.6505114,
+  "lon": -9.9118214,
+  "tags": {
+    "addr:city": "Castletownbere",
+    "addr:country": "IE",
+    "addr:county": "Cork",
+    "addr:postcode": "P75 XK75",
+    "addr:street": "Main Street",
+    "amenity": "nightclub",
+    "name": "The Beacon"
+  }
+},
+{
+  "type": "node",
+  "id": 11280503162,
+  "lat": 53.0957859,
+  "lon": -7.9107404,
+  "tags": {
+    "addr:city": "Birr",
+    "addr:street": "Emmet Square",
+    "amenity": "nightclub",
+    "email": "info@doolyshotel.com",
+    "name": "Melba's Nightclub",
+    "phone": "+353 57 912 0032",
+    "website": "https://doolyshotel.com/pages/melbas-nightclub"
+  }
+},
+{
+  "type": "node",
+  "id": 11505428748,
+  "lat": 54.2487783,
+  "lon": -6.9690723,
+  "tags": {
+    "addr:city": "Monaghan",
+    "addr:housename": "Westenra Arms Hotel",
+    "addr:place": "The Diamond",
+    "amenity": "nightclub",
+    "name": "Spy"
+  }
+},
+{
+  "type": "node",
+  "id": 11787346348,
+  "lat": 53.3334397,
+  "lon": -6.2544737,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2024-04-04",
+    "name": "Angel's"
+  }
+},
+{
+  "type": "node",
+  "id": 11871745424,
+  "lat": 53.2679620,
+  "lon": -8.9302259,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2024-05-01",
+    "name": "Keanes Music Venue"
+  }
+},
+{
+  "type": "node",
+  "id": 11925173866,
+  "lat": 51.8983433,
+  "lon": -8.4698116,
+  "tags": {
+    "addr:city": "Cork",
+    "addr:housename": "Cyprus Avenue",
+    "addr:housenumber": "113",
+    "addr:postcode": "T12 PY8A",
+    "addr:street": "Oliver Plunkett Street",
+    "amenity": "nightclub",
+    "entrance": "main",
+    "min_age": "18",
+    "name": "Cyprus Avenue",
+    "opening_hours": "Mo 19:00-23:30; Tu-Fr 00:00-02:00,19:00-24:00; Sa 00:00-02:30,19:00-24:00; Su 00:00-02:30,19:00-23:30",
+    "phone": "+353 21 427 6165",
+    "website": "https://www.cyprusavenue.ie/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12160039052,
+  "lat": 52.6615745,
+  "lon": -8.6294474,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2025-07-11",
+    "name": "Opium"
+  }
+},
+{
+  "type": "node",
+  "id": 12718561102,
+  "lat": 51.8970825,
+  "lon": -8.4736517,
+  "tags": {
+    "addr:city": "Cork",
+    "addr:housenumber": "63-64",
+    "addr:postcode": "T12 K5FH",
+    "addr:street": "Oliver Plunkett Street",
+    "amenity": "nightclub",
+    "entrance": "main",
+    "lgbtq": "primary",
+    "name": "Wilde",
+    "old_name": "Vibe",
+    "opening_hours": "Fr 21:00-24:00; Sa 00:00-02:30,22:00-24:00; Su 00:00-02:30",
+    "phone": "+353 21 234 4455",
+    "start_date": "2024-11-28",
+    "toilets": "yes",
+    "toilets:unisex": "yes",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13021692298,
+  "lat": 51.8973409,
+  "lon": -8.4775390,
+  "tags": {
+    "amenity": "nightclub",
+    "entrance": "main",
+    "name": "The Secret Garden"
+  }
+},
+{
+  "type": "node",
+  "id": 13021692300,
+  "lat": 51.8975770,
+  "lon": -8.4779718,
+  "tags": {
+    "amenity": "nightclub",
+    "entrance": "yes",
+    "name": "La Cabaret"
+  }
+},
+{
+  "type": "node",
+  "id": 13432368201,
+  "lat": 53.3479863,
+  "lon": -6.2618522,
+  "tags": {
+    "addr:housenumber": "57",
+    "addr:street": "Middle Abbey Street",
+    "amenity": "nightclub",
+    "name": "Index Dublin",
+    "opening_hours": "Fr-Sa 23:00-02:30",
+    "website": "https://www.indexdublin.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 13432378601,
+  "lat": 53.3470057,
+  "lon": -6.2639103,
+  "tags": {
+    "addr:housenumber": "37",
+    "addr:street": "Great Strand Street",
+    "amenity": "nightclub",
+    "name": "Yamamori Tengu",
+    "opening_hours": "Th-Su 23:00-03:00",
+    "website": "https://www.yamamori.ie/night-life"
+  }
+},
+{
+  "type": "node",
+  "id": 13457855285,
+  "lat": 53.3366741,
+  "lon": -6.2663419,
+  "tags": {
+    "addr:city": "Dublin",
+    "addr:housename": "block",
+    "addr:housenumber": "13-14",
+    "addr:postcode": "D08 NF86",
+    "addr:street": "Libery Lane",
+    "amenity": "nightclub",
+    "min_age": "21",
+    "name": "Block"
+  }
+},
+{
+  "type": "node",
+  "id": 13840435844,
+  "lat": 55.2500254,
+  "lon": -7.2475227,
+  "tags": {
+    "addr:city": "Carndonagh",
+    "addr:street": "Tulanree",
+    "amenity": "nightclub",
+    "contact:facebook": "https://www.facebook.com/TulNaRinightclub/",
+    "name": "Tul na Rí",
+    "website": "https://simpsonsbar.ie/"
+  }
+},
+{
+  "type": "node",
+  "id": 14068679725,
+  "lat": 52.0582595,
+  "lon": -9.5090829,
+  "tags": {
+    "alt_name": "Sºcial15",
+    "amenity": "nightclub",
+    "contact:facebook": "https://facebook.com/Social15Kilkarney",
+    "level": "0",
+    "name": "Social15",
+    "website": "https://facebook.com/Social15Kilkarney"
+  }
+},
+{
+  "type": "node",
+  "id": 14178185431,
+  "lat": 52.0590772,
+  "lon": -9.5067047,
+  "tags": {
+    "addr:city": "Killarney",
+    "addr:county": "Kerry",
+    "addr:housenumber": "10",
+    "addr:postcode": "V93 WP65",
+    "addr:street": "College Street",
+    "amenity": "nightclub",
+    "name": "McSorleys",
+    "tourism": "guest_house"
+  }
+},
+{
+  "type": "way",
+  "id": 64714925,
+  "center": {
+    "lat": 54.9520136,
+    "lon": -7.7333147
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "The Grill Nightclub"
+  }
+},
+{
+  "type": "way",
+  "id": 67195099,
+  "center": {
+    "lat": 54.9535427,
+    "lon": -7.7304788
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "The Pulse Niteclub"
+  }
+},
+{
+  "type": "way",
+  "id": 154859683,
+  "center": {
+    "lat": 53.6524428,
+    "lon": -6.6838334
+  },
+  "tags": {
+    "addr:city": "Navan",
+    "addr:country": "IE",
+    "addr:county": "Meath",
+    "addr:housenumber": "17",
+    "addr:postcode": "C15 D294",
+    "addr:street": "Ludlow Street",
+    "amenity": "nightclub",
+    "building": "retail",
+    "name": "The Palace"
+  }
+},
+{
+  "type": "way",
+  "id": 257565708,
+  "center": {
+    "lat": 53.9215733,
+    "lon": -7.8613469
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Planxty Maguires"
+  }
+},
+{
+  "type": "way",
+  "id": 264895839,
+  "center": {
+    "lat": 54.0029076,
+    "lon": -6.4014061
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Silent"
+  }
+},
+{
+  "type": "way",
+  "id": 304523392,
+  "center": {
+    "lat": 53.5247752,
+    "lon": -7.3434542
+  },
+  "tags": {
+    "addr:city": "Mullingar",
+    "addr:housenumber": "39",
+    "addr:street": "Pearse Street",
+    "amenity": "nightclub",
+    "building": "retail",
+    "name": "The Lane Club"
+  }
+},
+{
+  "type": "way",
+  "id": 842150478,
+  "center": {
+    "lat": 53.6212108,
+    "lon": -6.9193705
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Tabu Nightclub and Venue",
+    "operator": "Darnley Hotel"
+  }
+},
+{
+  "type": "way",
+  "id": 964703040,
+  "center": {
+    "lat": 53.4231248,
+    "lon": -7.9374600
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Viva",
+    "not:brand:wikidata": "Q168238"
+  }
+},
+{
+  "type": "way",
+  "id": 1024888215,
+  "center": {
+    "lat": 54.9910550,
+    "lon": -8.4996384
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Smugglers"
+  }
+},
+{
+  "type": "way",
+  "id": 1116061375,
+  "center": {
+    "lat": 53.9913342,
+    "lon": -7.3596689
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "building:levels": "4",
+    "name": "The Farnham Venue"
+  }
+}
+
+  ]
+}

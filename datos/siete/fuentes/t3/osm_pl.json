@@ -1,0 +1,8652 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-10-08T23:16:27Z",
+    "timestamp_areas_base": "2026-10-08T05:09:19Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 254337367,
+  "lat": 52.2167360,
+  "lon": 21.0165767,
+  "tags": {
+    "addr:city": "Warszawa",
+    "addr:housenumber": "12A",
+    "addr:postcode": "00-631",
+    "addr:street": "Ludwika Waryńskiego",
+    "amenity": "nightclub",
+    "check_date": "2026-02-13",
+    "check_date:opening_hours": "2026-02-13",
+    "name": "Remont",
+    "opening_hours:signed": "no",
+    "phone": "+48 690 585 486",
+    "website": "https://rivieraremont.pl/"
+  }
+},
+{
+  "type": "node",
+  "id": 258711714,
+  "lat": 53.4326696,
+  "lon": 14.5445206,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Hormon",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 263810174,
+  "lat": 52.2327432,
+  "lon": 21.0116281,
+  "tags": {
+    "addr:city": "Warszawa",
+    "addr:housenumber": "9",
+    "addr:street": "Złota",
+    "amenity": "nightclub",
+    "check_date": "2025-05-27",
+    "check_date:opening_hours": "2025-05-27",
+    "name": "Hybrydy",
+    "opening_hours:signed": "no",
+    "website": "https://hybrydy.com.pl/",
+    "wikidata": "Q11740222",
+    "wikipedia": "pl:Klub Hybrydy"
+  }
+},
+{
+  "type": "node",
+  "id": 267250964,
+  "lat": 53.4222224,
+  "lon": 14.5299357,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Pinokio"
+  }
+},
+{
+  "type": "node",
+  "id": 304729028,
+  "lat": 54.4485510,
+  "lon": 18.5671262,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Sfinks700"
+  }
+},
+{
+  "type": "node",
+  "id": 304729031,
+  "lat": 54.4484464,
+  "lon": 18.5683284,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2025-07-26",
+    "name": "Klub Atelier"
+  }
+},
+{
+  "type": "node",
+  "id": 304729035,
+  "lat": 54.4444927,
+  "lon": 18.5671180,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Soho Klubogaleria"
+  }
+},
+{
+  "type": "node",
+  "id": 311852674,
+  "lat": 52.2242426,
+  "lon": 21.0009680,
+  "tags": {
+    "addr:city": "Warszawa",
+    "addr:housenumber": "1A",
+    "addr:postcode": "02-007",
+    "addr:street": "Wojciecha Oczki",
+    "alt_name": "Medyk",
+    "amenity": "nightclub",
+    "check_date": "2026-09-11",
+    "name": "Klub Medyka",
+    "phone": "+48 792 018 919",
+    "website": "https://klubmedyka.pl/"
+  }
+},
+{
+  "type": "node",
+  "id": 430266130,
+  "lat": 52.4089306,
+  "lon": 16.9332879,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:city:en": "Poznan",
+    "addr:housenumber": "88",
+    "addr:street": "Stary Rynek",
+    "amenity": "nightclub",
+    "name": "Van Diesel",
+    "note:addr": "adres nie został nadany urzędowo",
+    "official_name": "Van Diesel Music Club",
+    "website": "http://vandiesel.pl"
+  }
+},
+{
+  "type": "node",
+  "id": 431380354,
+  "lat": 52.4074772,
+  "lon": 16.9332229,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Club Havana",
+    "name:fa": "باشگاه هاوانا",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 431913524,
+  "lat": 52.4061010,
+  "lon": 16.9326987,
+  "tags": {
+    "addr:city": "Poznań",
+    "amenity": "nightclub",
+    "name": "Czekolada",
+    "name:en": "Chocolate",
+    "note": "also a club; disused ?",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 431913540,
+  "lat": 52.4063980,
+  "lon": 16.9331346,
+  "tags": {
+    "addr:city": "Poznań",
+    "amenity": "nightclub",
+    "name": "Cuba Libre",
+    "opening_hours": "Mo-Th 17:00-01:00, Fr,Sa 17:00-03:00",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 431913572,
+  "lat": 52.4087886,
+  "lon": 16.9358565,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:city:en": "Poznan",
+    "amenity": "nightclub",
+    "name": "Neferetete",
+    "opening_hours": "Mo-Sa 21:00-05:00",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 475387262,
+  "lat": 50.0641583,
+  "lon": 19.9363632,
+  "tags": {
+    "addr:city": "Kraków",
+    "addr:housenumber": "7",
+    "addr:postcode": "31-011",
+    "addr:street": "Plac Szczepański",
+    "amenity": "nightclub",
+    "check_date": "2026-06-30",
+    "level": "-1",
+    "name": "Gorzko Gorzko",
+    "opening_hours": "Fr 22:00-24:00; Sa 00:00-05:00,22:00-24:00; Su 00:00-05:00",
+    "website": "https://www.facebook.com/gorzkogorzkokrakow/"
+  }
+},
+{
+  "type": "node",
+  "id": 475387295,
+  "lat": 50.0634887,
+  "lon": 19.9347486,
+  "tags": {
+    "addr:city": "Kraków",
+    "addr:country": "PL",
+    "addr:housenumber": "3",
+    "addr:street": "Szczepańska",
+    "amenity": "nightclub",
+    "level": "-1",
+    "name": "The Legends",
+    "opening_hours": "Mo-Th 00:00-03:00,19:00-24:00; Fr 00:00-04:00,19:00-24:00; Sa,Su 00:00-05:00,19:00-24:00",
+    "phone": "+48 881 303 886",
+    "website": "https://www.facebook.com/The.Legends.Music.Club"
+  }
+},
+{
+  "type": "node",
+  "id": 485224395,
+  "lat": 50.3476049,
+  "lon": 18.9231032,
+  "tags": {
+    "amenity": "nightclub",
+    "craft": "tailor",
+    "name": "Piwnice Gorywodów",
+    "opening_hours": "Mo-Th, Su 13:00-00:00; Fr, Sa 13:00-05:00"
+  }
+},
+{
+  "type": "node",
+  "id": 490986264,
+  "lat": 50.0644129,
+  "lon": 19.9413500,
+  "tags": {
+    "addr:city": "Kraków",
+    "addr:housenumber": "53",
+    "addr:postcode": "31-019",
+    "addr:street": "Floriańska",
+    "amenity": "nightclub",
+    "level": "-1",
+    "name": "Społem Deluxe",
+    "opening_hours": "We 21:00-24:00; Th,Fr 00:00-03:00,21:00-24:00; Sa 00:00-04:00,21:00-24:00; Su 00:00-04:00",
+    "website": "https://www.facebook.com/spolemdeluxe"
+  }
+},
+{
+  "type": "node",
+  "id": 490986424,
+  "lat": 50.0621882,
+  "lon": 19.9395855,
+  "tags": {
+    "addr:city": "Kraków",
+    "addr:housenumber": "3",
+    "addr:postcode": "31-019",
+    "addr:street": "Floriańska",
+    "amenity": "nightclub",
+    "check_date:opening_hours": "2024-06-18",
+    "level": "-1",
+    "name": "Jazz Club U Muniaka",
+    "opening_hours": "Mo-Su 19:00-24:00+",
+    "website": "https://jazzumuniaka.club/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 490986472,
+  "lat": 50.0620917,
+  "lon": 19.9405662,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Stalowe Magnolie",
+    "note": "live music",
+    "website": "http://www.stalowemagnolie.pl"
+  }
+},
+{
+  "type": "node",
+  "id": 583424622,
+  "lat": 52.4078207,
+  "lon": 16.9180052,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Balzac"
+  }
+},
+{
+  "type": "node",
+  "id": 583424696,
+  "lat": 52.4068917,
+  "lon": 16.9242015,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Blueberry Bar",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 583424714,
+  "lat": 52.4081069,
+  "lon": 16.9193975,
+  "tags": {
+    "amenity": "nightclub",
+    "email": "klub@bluenote.poznan.pl",
+    "internet_access": "yes",
+    "internet_access:fee": "no",
+    "name": "Blue Note",
+    "website": "http://bluenote.poznan.pl/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 592288416,
+  "lat": 50.3491940,
+  "lon": 18.9256982,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Museum Music Republic",
+    "website": "http://www.musicrepublic.pl/"
+  }
+},
+{
+  "type": "node",
+  "id": 616513885,
+  "lat": 53.4198211,
+  "lon": 14.5492004,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "City Hall",
+    "website": "https://cityhall.pl/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 645583317,
+  "lat": 50.3523979,
+  "lon": 18.9196955,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Regres Club"
+  }
+},
+{
+  "type": "node",
+  "id": 683189201,
+  "lat": 51.5249950,
+  "lon": 20.0229191,
+  "tags": {
+    "addr:city": "Tomaszów Mazowiecki",
+    "addr:housenumber": "5/7",
+    "addr:postcode": "97-200",
+    "addr:street": "Techniczna",
+    "amenity": "nightclub",
+    "name": "Night Club \"Stara Kotłownia\"",
+    "phone": "+48447239108",
+    "source": "http://ump.waw.pl/ retrieved 00:10:48 03/29/10 (UMP-Lodz/src/POI-Lodz.jedzenie.pnt-converted.txt)"
+  }
+},
+{
+  "type": "node",
+  "id": 746496124,
+  "lat": 54.3495849,
+  "lon": 18.6503243,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2026-06-30",
+    "name": "Allure Club"
+  }
+},
+{
+  "type": "node",
+  "id": 841257209,
+  "lat": 54.7620009,
+  "lon": 17.5550325,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Just!",
+    "smoking": "outside"
+  }
+},
+{
+  "type": "node",
+  "id": 841257220,
+  "lat": 54.7603009,
+  "lon": 17.5545392,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Las Vegas"
+  }
+},
+{
+  "type": "node",
+  "id": 841257243,
+  "lat": 54.7616582,
+  "lon": 17.5542121,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Euphoria"
+  }
+},
+{
+  "type": "node",
+  "id": 841829117,
+  "lat": 51.5006323,
+  "lon": 23.5411017,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Kotwica"
+  }
+},
+{
+  "type": "node",
+  "id": 853686580,
+  "lat": 53.6398971,
+  "lon": 21.5342543,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Grandial"
+  }
+},
+{
+  "type": "node",
+  "id": 899399687,
+  "lat": 52.2327790,
+  "lon": 21.0189532,
+  "tags": {
+    "addr:housenumber": "27A",
+    "addr:street": "Nowy Świat",
+    "amenity": "nightclub",
+    "check_date": "2026-03-10",
+    "name": "High Heels",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 937921884,
+  "lat": 52.5299399,
+  "lon": 17.6005972,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Lokomotywa"
+  }
+},
+{
+  "type": "node",
+  "id": 1005843954,
+  "lat": 53.1304596,
+  "lon": 23.1589159,
+  "tags": {
+    "addr:city": "Białystok",
+    "addr:housenumber": "14/16",
+    "addr:postcode": "15-099",
+    "addr:street": "Legionowa",
+    "amenity": "nightclub",
+    "contact:email": "klubrokoko2.0@gmail.com",
+    "contact:facebook": "https://www.facebook.com/rokokobialystok",
+    "contact:instagram": "https://www.instagram.com/rokokofamily/",
+    "contact:website": "http://www.rokoko2.pl/",
+    "email": "klubrokoko2.0@gmail.com",
+    "level": "1",
+    "min_age": "18",
+    "mobile": "+48 518 852 067",
+    "name": "Klub Rokoko 2.0 Białystok",
+    "name:en": "Club Rokoko 2.0 Bialystok",
+    "opening_hours": "Fr-Sa 22:00-05:00",
+    "payment:american_express": "yes",
+    "payment:cash": "yes",
+    "payment:contactless": "yes",
+    "payment:diners_club": "yes",
+    "payment:discover_card": "yes",
+    "payment:jcb": "yes",
+    "payment:maestro": "yes",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "payment:visa_debit": "yes",
+    "payment:visa_electron": "yes",
+    "website": "http://www.rokoko2.pl/"
+  }
+},
+{
+  "type": "node",
+  "id": 1088898706,
+  "lat": 52.3742785,
+  "lon": 14.5739898,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Dyskoteka \"Holidays\""
+  }
+},
+{
+  "type": "node",
+  "id": 1102851556,
+  "lat": 52.2396532,
+  "lon": 21.0173195,
+  "tags": {
+    "addr:city": "Warszawa",
+    "addr:housenumber": "24",
+    "addr:postcode": "00-325",
+    "addr:street": "Krakowskie Przedmieście",
+    "amenity": "nightclub",
+    "check_date": "2025-08-11",
+    "facebook": "indeksklub",
+    "layer": "-1",
+    "level": "-1",
+    "name": "Indeks",
+    "outdoor_seating": "yes",
+    "phone": "+48 510 774 659",
+    "website": "https://www.indeks.waw.pl/kontakt",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1243884730,
+  "lat": 53.4255549,
+  "lon": 14.5522923,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Kabaret Rewia & Show"
+  }
+},
+{
+  "type": "node",
+  "id": 1315660857,
+  "lat": 51.7436286,
+  "lon": 19.8235263,
+  "tags": {
+    "addr:city": "Koluszki",
+    "addr:housenumber": "33",
+    "addr:street": "Tadeusza Kościuszki",
+    "amenity": "nightclub",
+    "name": "Klub Laguna"
+  }
+},
+{
+  "type": "node",
+  "id": 1369483951,
+  "lat": 50.3492169,
+  "lon": 18.9156409,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "4 Rano"
+  }
+},
+{
+  "type": "node",
+  "id": 1408693115,
+  "lat": 52.6778483,
+  "lon": 22.2970095,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Klub Nevada",
+    "website": "http://www.club-nevada.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 1430939304,
+  "lat": 52.4025325,
+  "lon": 16.9223458,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:housenumber": "2",
+    "addr:postcode": "61-894",
+    "addr:street": "Niezłomnych",
+    "amenity": "nightclub",
+    "contact:facebook": "https://www.facebook.com/tamaklub/",
+    "email": "arek@tamaklub.pl",
+    "lgbtq": "welcome",
+    "name": "Tama",
+    "official_name": "Klub Tama",
+    "phone": "+48 796 537 572",
+    "website": "https://tamaklub.pl/"
+  }
+},
+{
+  "type": "node",
+  "id": 1504366035,
+  "lat": 53.3393895,
+  "lon": 15.0349979,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2024-06-04",
+    "name": "Club Mango"
+  }
+},
+{
+  "type": "node",
+  "id": 1518019344,
+  "lat": 50.2721131,
+  "lon": 18.9926076,
+  "tags": {
+    "amenity": "nightclub",
+    "contact:facebook": "https://facebook.com/pubkorba",
+    "contact:phone": "+48 600 716 463",
+    "name": "Klub Muzyczny Faust",
+    "opening_hours": "Tu-Th 17:00-22:00; Fr 16:00-24:00; Sa 00:00-06:00,16:00-24:00; Su 00:00-06:00,17:00-22:00"
+  }
+},
+{
+  "type": "node",
+  "id": 1539921465,
+  "lat": 51.1110691,
+  "lon": 17.0340536,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2025-12-10",
+    "contact:facebook": "https://www.facebook.com/CherryClubWroclaw/",
+    "name": "Cherry Club",
+    "opening_hours": "Tu-Sa 20:00-06:00",
+    "smoking": "isolated"
+  }
+},
+{
+  "type": "node",
+  "id": 1539951458,
+  "lat": 51.1103015,
+  "lon": 17.0335677,
+  "tags": {
+    "addr:city": "Wrocław",
+    "addr:housenumber": "39-40",
+    "addr:postcode": "50-102",
+    "addr:street": "Rynek",
+    "amenity": "nightclub",
+    "check_date:opening_hours": "2026-09-11",
+    "name": "Disco Club",
+    "opening_hours:signed": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1539951467,
+  "lat": 51.1094273,
+  "lon": 17.0254168,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2025-12-01",
+    "name": "Randewu"
+  }
+},
+{
+  "type": "node",
+  "id": 1559161306,
+  "lat": 53.4289477,
+  "lon": 14.5314358,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Bahia Club",
+    "website": "http://imperium.szczecin.pl/",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 1808764463,
+  "lat": 51.3642410,
+  "lon": 19.3697345,
+  "tags": {
+    "addr:city": "Bełchatów",
+    "addr:postcode": "97-400",
+    "amenity": "nightclub",
+    "name": "Strych",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1812880858,
+  "lat": 53.7013197,
+  "lon": 19.9601401,
+  "tags": {
+    "addr:city": "Ostróda",
+    "addr:housenumber": "3",
+    "addr:street": "Adama Mickiewicza",
+    "amenity": "nightclub",
+    "email": "kontakt@inferno-club.com.pl",
+    "name": "Inferno",
+    "phone": "+48 89 642 81 00",
+    "website": "http://www.inferno-club.com.pl/"
+  }
+},
+{
+  "type": "node",
+  "id": 1846013889,
+  "lat": 52.2216011,
+  "lon": 21.0848236,
+  "tags": {
+    "addr:city": "Warszawa",
+    "addr:housenumber": "646",
+    "addr:street": "Wał Miedzeszyński",
+    "amenity": "nightclub",
+    "email": "biuro@explosionclub.pl",
+    "name": "Explosion",
+    "phone": "+48 519 193 167",
+    "source": "mapa.um.warszawa.pl",
+    "website": "https://www.explosionclub.pl/"
+  }
+},
+{
+  "type": "node",
+  "id": 1858431565,
+  "lat": 50.2943549,
+  "lon": 18.6664578,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Inferno"
+  }
+},
+{
+  "type": "node",
+  "id": 1892310331,
+  "lat": 50.3000551,
+  "lon": 18.6726579,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Klub 80"
+  }
+},
+{
+  "type": "node",
+  "id": 1911304641,
+  "lat": 50.2604814,
+  "lon": 19.0127539,
+  "tags": {
+    "amenity": "nightclub",
+    "contact:facebook": "https://facebook.com/HASTA-la-VISTA-331482453704269",
+    "contact:phone": "+48 788 804301",
+    "name": "Hasta la Vista",
+    "opening_hours": "24/7"
+  }
+},
+{
+  "type": "node",
+  "id": 1924416960,
+  "lat": 50.2558946,
+  "lon": 19.0208740,
+  "tags": {
+    "addr:city": "Katowice",
+    "addr:housenumber": "3",
+    "addr:postcode": "40-013",
+    "addr:street": "Plebiscytowa",
+    "amenity": "nightclub",
+    "check_date": "2023-07-07",
+    "email": "katowice@energy2000.pl",
+    "name": "Energy 2000 Katowice",
+    "opening_hours": "Fr-Sa 20:00-06:00",
+    "phone": "+48 32 720 53 79",
+    "website": "https://katowice.energy2000.pl/"
+  }
+},
+{
+  "type": "node",
+  "id": 1939646544,
+  "lat": 50.2632553,
+  "lon": 19.0101432,
+  "tags": {
+    "addr:city": "Katowice",
+    "addr:housenumber": "10",
+    "addr:postcode": "40-081",
+    "addr:street": "Dąbrówki",
+    "amenity": "nightclub",
+    "email": "kontakt@clubgarage.pl",
+    "name": "Klub Garage",
+    "opening_hours": "Su-Th 12:00-24:00, Fr,Sa 12:00-02:00",
+    "phone": "+48 32 781 08 60",
+    "smoking": "yes",
+    "website": "https://www.clubgarage.pl/"
+  }
+},
+{
+  "type": "node",
+  "id": 1985696332,
+  "lat": 53.1205888,
+  "lon": 18.0014970,
+  "tags": {
+    "addr:housenumber": "62",
+    "addr:street": "Długa",
+    "alt_name": "Metro Express Bydgoszcz",
+    "amenity": "nightclub",
+    "name": "Sens Club"
+  }
+},
+{
+  "type": "node",
+  "id": 1987295531,
+  "lat": 50.3466567,
+  "lon": 18.9231150,
+  "tags": {
+    "addr:housenumber": "26",
+    "addr:postcode": "41-902",
+    "addr:street": "Rynek",
+    "amenity": "nightclub",
+    "name": "Stara Platforma"
+  }
+},
+{
+  "type": "node",
+  "id": 1993710602,
+  "lat": 53.8295811,
+  "lon": 22.3501063,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Rokoko 2.0"
+  }
+},
+{
+  "type": "node",
+  "id": 2025570688,
+  "lat": 52.2267422,
+  "lon": 21.0231138,
+  "tags": {
+    "addr:city": "Warszawa",
+    "addr:city:simc": "0918123",
+    "addr:housenumber": "45",
+    "addr:postcode": "00-536",
+    "addr:street": "Aleje Ujazdowskie",
+    "amenity": "nightclub",
+    "check_date": "2026-04-30",
+    "email": "kontakt@klubspatif.pl",
+    "name": "Klub SPATiF",
+    "opening_hours": "We-Th 13:00-01:00; Fr-Sa 13:00-03:00; Su 13:00-21:00",
+    "phone": "+48 798 909 808",
+    "source:addr": "mapa.um.warszawa.pl",
+    "website": "https://klubspatif.pl/",
+    "wikipedia": "pl:Klub Spatif"
+  }
+},
+{
+  "type": "node",
+  "id": 2056467628,
+  "lat": 51.7650678,
+  "lon": 19.4584943,
+  "tags": {
+    "addr:city": "Łódź",
+    "addr:housenumber": "102",
+    "addr:street": "Piotrkowska",
+    "amenity": "nightclub",
+    "name": "Lordi's Club & FooFoo Bar",
+    "phone": "+48 662 366 366",
+    "website": "https://lordisclub.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 2077129116,
+  "lat": 54.1019341,
+  "lon": 17.9447021,
+  "tags": {
+    "addr:housename": "BOWLING",
+    "addr:place": "Szarlota",
+    "amenity": "nightclub",
+    "designation": "****",
+    "name": "BOWLING BILARD KRĘGIELNIA",
+    "website": "https://szarlota.pl/"
+  }
+},
+{
+  "type": "node",
+  "id": 2094710923,
+  "lat": 50.9320285,
+  "lon": 23.5401820,
+  "tags": {
+    "addr:city": "Wojsławice",
+    "addr:housenumber": "122",
+    "addr:postcode": "22-120",
+    "addr:street": "Chełmska",
+    "amenity": "nightclub",
+    "name": "Dom Weselny \"Belweder\"",
+    "source:addr": "http://wojslawice.punktyadresowe.pl"
+  }
+},
+{
+  "type": "node",
+  "id": 2118897561,
+  "lat": 49.7488750,
+  "lon": 18.6310981,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Retro Club"
+  }
+},
+{
+  "type": "node",
+  "id": 2122790276,
+  "lat": 50.0838332,
+  "lon": 19.9960192,
+  "tags": {
+    "addr:city": "Kraków",
+    "addr:housenumber": "1",
+    "addr:postcode": "31-866",
+    "addr:street": "Stanisława Skarżyńskiego",
+    "amenity": "nightclub",
+    "name": "Klub Kwadrat",
+    "smoking": "isolated"
+  }
+},
+{
+  "type": "node",
+  "id": 2165333496,
+  "lat": 54.0312144,
+  "lon": 19.0309312,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Alternatywa"
+  }
+},
+{
+  "type": "node",
+  "id": 2203612053,
+  "lat": 51.0592322,
+  "lon": 22.9442699,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Klub Kometa"
+  }
+},
+{
+  "type": "node",
+  "id": 2215135306,
+  "lat": 50.2161130,
+  "lon": 18.9585717,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "DSO Projekt"
+  }
+},
+{
+  "type": "node",
+  "id": 2270718797,
+  "lat": 53.2496254,
+  "lon": 22.1193804,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "24h <3"
+  }
+},
+{
+  "type": "node",
+  "id": 2272655283,
+  "lat": 54.1646612,
+  "lon": 19.4003809,
+  "tags": {
+    "addr:city": "Elbląg",
+    "addr:housenumber": "12",
+    "addr:postcode": "82-300",
+    "addr:street": "Odzieżowa",
+    "alt_name": "YOLO CLUB - You Only Live Once",
+    "amenity": "nightclub",
+    "contact:facebook": "https://www.facebook.com/yclubelblag",
+    "contact:instagram": "https://www.instagram.com/yclubelblag",
+    "contact:youtube": "@yoloclub5359",
+    "cuisine": "kebab;pizza;grill",
+    "email": "manager@yclub.pl",
+    "name": "Y Club",
+    "phone": "+48 667 776 676",
+    "smoking": "isolated",
+    "website": "https://www.yclub.pl/"
+  }
+},
+{
+  "type": "node",
+  "id": 2296470167,
+  "lat": 52.6932886,
+  "lon": 22.0741381,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Malibu"
+  }
+},
+{
+  "type": "node",
+  "id": 2331525070,
+  "lat": 50.2767120,
+  "lon": 19.1313394,
+  "tags": {
+    "addr:city": "Sosnowiec",
+    "addr:postcode": "41-200",
+    "addr:street": "Stanisława Małachowskiego",
+    "amenity": "nightclub",
+    "contact:facebook": "https://www.facebook.com/kamienica.klub.and.bar/",
+    "name": "Kamienica Klub & Bar",
+    "phone": "+48 32 297 95 95",
+    "wikimedia_commons": "File:Sosnowiec, Małachowskieog 9 - hostel, Kamienica pub, Maya Tapas Bar, Dzień i Noc, Sierpień 2024 KsP 096.jpg"
+  }
+},
+{
+  "type": "node",
+  "id": 2368940784,
+  "lat": 49.9113546,
+  "lon": 18.9971901,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Chacharnia"
+  }
+},
+{
+  "type": "node",
+  "id": 2413855559,
+  "lat": 53.4238335,
+  "lon": 14.5494714,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Lulu Club"
+  }
+},
+{
+  "type": "node",
+  "id": 2413855560,
+  "lat": 53.4238873,
+  "lon": 14.5496393,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Rocker Club"
+  }
+},
+{
+  "type": "node",
+  "id": 2421243586,
+  "lat": 53.1693928,
+  "lon": 15.4142258,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Awocado Dance Club"
+  }
+},
+{
+  "type": "node",
+  "id": 2434248517,
+  "lat": 49.5638637,
+  "lon": 22.2042024,
+  "tags": {
+    "addr:city": "Sanok",
+    "addr:housenumber": "24",
+    "addr:postcode": "38-500",
+    "addr:street": "Adama Mickiewicza",
+    "amenity": "nightclub",
+    "name": "Hades"
+  }
+},
+{
+  "type": "node",
+  "id": 2440333820,
+  "lat": 49.7822372,
+  "lon": 22.7708193,
+  "tags": {
+    "addr:city": "Przemyśl",
+    "addr:housenumber": "1",
+    "addr:postcode": "37-700",
+    "addr:street": "Serbańska",
+    "amenity": "nightclub",
+    "contact:facebook": "https://www.facebook.com/pg/Rutyna-Art-267670583409270/posts/?ref=page_internal",
+    "description": "Jedyne takie miejsce na imprezowej mapie Przemyśla:) Nowoczesny klimat, świetna muzyka, parkiet, światłą, drinki, przystawki, piwo i wiele wiele innych.",
+    "email": "rutyna.przemysl@gmail.com",
+    "name": "Rutyna Art",
+    "opening_hours": "Th 19:00-24:00; Fr,Sa 20:00-03:00",
+    "phone": "+48690 023 763"
+  }
+},
+{
+  "type": "node",
+  "id": 2442875036,
+  "lat": 53.3635563,
+  "lon": 20.4122128,
+  "tags": {
+    "addr:housenumber": "5",
+    "addr:postcode": "13-100",
+    "addr:street": "Olsztyńska",
+    "amenity": "nightclub",
+    "name": "VIP Club"
+  }
+},
+{
+  "type": "node",
+  "id": 2456190997,
+  "lat": 51.3360343,
+  "lon": 20.0315279,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Klub Ambasador"
+  }
+},
+{
+  "type": "node",
+  "id": 2461632810,
+  "lat": 50.6677624,
+  "lon": 17.9227558,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Aqarium",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2461632813,
+  "lat": 50.6680638,
+  "lon": 17.9210291,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "U Papy Musioła"
+  }
+},
+{
+  "type": "node",
+  "id": 2467637760,
+  "lat": 51.1102624,
+  "lon": 17.0253831,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2025-12-10",
+    "contact:email": "wscieklypiesbar@gmail.com",
+    "contact:facebook": "wscieklypiesklub",
+    "contact:phone": "+48 662 153 398",
+    "level": "-1",
+    "name": "Wściekły Pies",
+    "opening_hours": "Mo-We 20:00-04:00, Th-Sa 20:00-06:00",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2467637761,
+  "lat": 51.1097982,
+  "lon": 17.0253412,
+  "tags": {
+    "amenity": "nightclub",
+    "level": "-1",
+    "location": "underground",
+    "name": "Mundo 71",
+    "opening_hours": "Mo-Su 20:00-05:00",
+    "website": "https://mundoclub.pl",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2477510295,
+  "lat": 50.0634966,
+  "lon": 19.9406024,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2025-09-13",
+    "layer": "-1",
+    "name": "Single Scena Music Bar",
+    "website": "https://singlescena.pl/"
+  }
+},
+{
+  "type": "node",
+  "id": 2518063950,
+  "lat": 52.2276014,
+  "lon": 17.2767224,
+  "tags": {
+    "addr:city": "Środa Wielkopolska",
+    "addr:city:simc": "0971614",
+    "addr:housenumber": "10",
+    "addr:postcode": "63-000",
+    "addr:street": "Wiosny Ludów",
+    "amenity": "nightclub",
+    "name": "Vehikuł Czasu",
+    "old_name": "Amnesia",
+    "phone": "+48 61 285 33 31",
+    "website": "https://sroda.vehikulczasu.pl/"
+  }
+},
+{
+  "type": "node",
+  "id": 2529086129,
+  "lat": 53.8368935,
+  "lon": 22.9787660,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "ATVA"
+  }
+},
+{
+  "type": "node",
+  "id": 2548828714,
+  "lat": 52.8732238,
+  "lon": 20.6070148,
+  "tags": {
+    "amenity": "nightclub",
+    "min_age": "18",
+    "name": "Bosco"
+  }
+},
+{
+  "type": "node",
+  "id": 2597772256,
+  "lat": 53.0659300,
+  "lon": 19.4133700,
+  "tags": {
+    "addr:city": "Rypin",
+    "addr:housenumber": "16a",
+    "addr:postcode": "87-500",
+    "addr:street": "Mławska",
+    "amenity": "nightclub",
+    "check_date": "2026-09-05",
+    "name": "Tina",
+    "smoking": "outside",
+    "source:addr": "EMUiA@iMPA (mrypin.e-mapa.net)"
+  }
+},
+{
+  "type": "node",
+  "id": 2599041869,
+  "lat": 50.3090221,
+  "lon": 18.9498384,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Sfinks",
+    "website": "http://www.klub-sfinks.pl/"
+  }
+},
+{
+  "type": "node",
+  "id": 2638172961,
+  "lat": 50.4634402,
+  "lon": 17.2701257,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Paradise"
+  }
+},
+{
+  "type": "node",
+  "id": 2692371096,
+  "lat": 54.1892549,
+  "lon": 15.6038283,
+  "tags": {
+    "amenity": "nightclub",
+    "entrance": "main",
+    "name": "MarinGo"
+  }
+},
+{
+  "type": "node",
+  "id": 2732739366,
+  "lat": 51.3425975,
+  "lon": 16.6495382,
+  "tags": {
+    "addr:city": "Wołów",
+    "addr:housenumber": "11",
+    "addr:postcode": "56-100",
+    "addr:street": "Garwolska",
+    "amenity": "nightclub",
+    "name": "Sala bankietowa \"Nova\"",
+    "source": "GIS"
+  }
+},
+{
+  "type": "node",
+  "id": 2736623539,
+  "lat": 50.2597822,
+  "lon": 19.0209742,
+  "tags": {
+    "addr:city": "Katowice",
+    "addr:housenumber": "4",
+    "addr:postcode": "40-082",
+    "addr:street": "Adama Mickiewicza",
+    "amenity": "nightclub",
+    "level": "4",
+    "name": "Klub Pomarańcza Katowice",
+    "name:en": "The Orange Club Katowice",
+    "name:pl": "Klub Pomarańcza Katowice",
+    "smoking": "isolated",
+    "website": "https://klubpomarancza.pl/katowice/",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 2738766106,
+  "lat": 54.1836709,
+  "lon": 15.5858158,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "The Q Club"
+  }
+},
+{
+  "type": "node",
+  "id": 2771545540,
+  "lat": 52.0746400,
+  "lon": 17.0166800,
+  "tags": {
+    "addr:city": "Śrem",
+    "addr:city:simc": "0971560",
+    "addr:housenumber": "1I",
+    "addr:postcode": "63-100",
+    "addr:street": "Dezyderego Chłapowskiego",
+    "amenity": "nightclub",
+    "name": "Iguana Music Club",
+    "source:addr": "EMUiA (srem.e-mapa.net)"
+  }
+},
+{
+  "type": "node",
+  "id": 2809416219,
+  "lat": 53.1815742,
+  "lon": 22.0686623,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Nikodem Club"
+  }
+},
+{
+  "type": "node",
+  "id": 2816103971,
+  "lat": 53.1751624,
+  "lon": 22.0671046,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Joker"
+  }
+},
+{
+  "type": "node",
+  "id": 2838440934,
+  "lat": 50.8011077,
+  "lon": 21.4234240,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Joker Club"
+  }
+},
+{
+  "type": "node",
+  "id": 2851306069,
+  "lat": 53.4310291,
+  "lon": 14.5437721,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Coyote Club",
+    "phone": "+48 509331034",
+    "website": "https://coyote-club.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 2860732754,
+  "lat": 53.7756598,
+  "lon": 20.4752983,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2023-10-01",
+    "contact:facebook": "https://www.facebook.com/dobranockaklub",
+    "name": "Dobra Nocka",
+    "opening_hours": "Th-Sa 21:00-05:00 \"brak stałej godziny zamknięcia\"",
+    "phone": "+48 503 151 158"
+  }
+},
+{
+  "type": "node",
+  "id": 2881426581,
+  "lat": 51.7519939,
+  "lon": 19.4527467,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2024-07-19",
+    "name": "Broadway18",
+    "website": "http://broadway18.pl/"
+  }
+},
+{
+  "type": "node",
+  "id": 2934752658,
+  "lat": 50.0400287,
+  "lon": 22.0072914,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Klub Vinyl"
+  }
+},
+{
+  "type": "node",
+  "id": 2938842316,
+  "lat": 53.4330377,
+  "lon": 14.5312473,
+  "tags": {
+    "amenity": "nightclub",
+    "email": "biuro@plr.szczecin.pl",
+    "name": "PLR",
+    "phone": "+48501767164",
+    "website": "http://www.plr.szczecin.pl/glowna"
+  }
+},
+{
+  "type": "node",
+  "id": 2949816358,
+  "lat": 50.1119808,
+  "lon": 18.9872041,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Blue Berry"
+  }
+},
+{
+  "type": "node",
+  "id": 2952228759,
+  "lat": 50.3192426,
+  "lon": 19.1930089,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Klub Muzyczny „Aquarium”"
+  }
+},
+{
+  "type": "node",
+  "id": 2960096225,
+  "lat": 50.0369616,
+  "lon": 22.0061733,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Mienta Klub",
+    "phone": "+48 883 924 800",
+    "website": "http://www.facebook.com/MientaKlub"
+  }
+},
+{
+  "type": "node",
+  "id": 2995711078,
+  "lat": 50.2618279,
+  "lon": 19.0117970,
+  "tags": {
+    "addr:city": "Katowice",
+    "addr:housenumber": "11",
+    "addr:postcode": "40-082",
+    "addr:street": "Jana III Sobieskiego",
+    "amenity": "nightclub",
+    "name": "Klub HAH",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3038535782,
+  "lat": 54.3544947,
+  "lon": 18.6547003,
+  "tags": {
+    "addr:city": "Gdańsk",
+    "addr:housenumber": "3",
+    "addr:postcode": "80-843",
+    "addr:street": "Olejarna",
+    "amenity": "nightclub",
+    "check_date": "2026-07-14",
+    "contact:email": "biuro@bunkierclub.pl",
+    "contact:phone": "+48 58 354 83 17",
+    "contact:website": "http://bunkierclub.pl/",
+    "ele": "15",
+    "name": "Klubogaleria Bunkier",
+    "opening_hours": "Su-Th 16:00-02:00; Fr-Sa 16:00-05:00",
+    "operator": "bunkierclub.pl",
+    "smoking": "isolated",
+    "website": "http://bunkierclub.pl/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3038627657,
+  "lat": 54.3511359,
+  "lon": 18.6498358,
+  "tags": {
+    "addr:city": "Gdańsk",
+    "addr:housenumber": "2",
+    "addr:postcode": "80-834",
+    "addr:street": "Świętego Ducha",
+    "alt_name": "Klub muzyczny Parlament",
+    "amenity": "nightclub",
+    "check_date": "2026-06-30",
+    "contact:phone": "+48583201365",
+    "name": "Parlament",
+    "website": "https://parlament.com.pl/"
+  }
+},
+{
+  "type": "node",
+  "id": 3042974821,
+  "lat": 54.1767357,
+  "lon": 15.5713834,
+  "tags": {
+    "amenity": "nightclub",
+    "email": "antidotum_koperska@interia.eu",
+    "entrance": "yes",
+    "name": "Antidotum",
+    "opening_hours": "Th-Sa 20:00-04:00",
+    "phone": "+48 692 757 100",
+    "website": "http://facebook.com/ANTIDOTUM-KLUB-MUZYCZNY",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 3042974824,
+  "lat": 54.1767762,
+  "lon": 15.5732960,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Centrala",
+    "phone": "+48 503 094 074",
+    "website": "https://www.facebook.com/klubokawiarniacentrala",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3079320025,
+  "lat": 50.0384349,
+  "lon": 22.0003433,
+  "tags": {
+    "amenity": "nightclub",
+    "contact:email": "kitsch.rzeszow@gmail.com",
+    "name": "Kitsch",
+    "opening_hours": "Th-Sa 20:00-05:00",
+    "start_date": "2013-03-22"
+  }
+},
+{
+  "type": "node",
+  "id": 3079320028,
+  "lat": 50.0383949,
+  "lon": 22.0003386,
+  "tags": {
+    "amenity": "nightclub",
+    "contact:email": "kitsch.rzeszow@gmail.com",
+    "name": "OFF Centrum",
+    "opening_hours": "Sa-Su 21:00-05:00",
+    "start_date": "2013-03-23"
+  }
+},
+{
+  "type": "node",
+  "id": 3123531780,
+  "lat": 52.2359869,
+  "lon": 21.0110410,
+  "tags": {
+    "addr:city": "Warszawa",
+    "addr:housenumber": "18",
+    "addr:street": "Świętokrzyska",
+    "amenity": "nightclub",
+    "check_date": "2025-10-31",
+    "name": "Królik",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3128666571,
+  "lat": 53.1288250,
+  "lon": 23.1535141,
+  "tags": {
+    "addr:city": "Białystok",
+    "addr:housenumber": "2",
+    "addr:postcode": "15-282",
+    "addr:street": "Piękna",
+    "amenity": "nightclub",
+    "contact:email": "klubrokoko2.0@gmail.com",
+    "contact:facebook": "https://www.facebook.com/rokokobialystok",
+    "contact:instagram": "https://www.instagram.com/rokokofamily",
+    "contact:mobile": "+48 531 564 821",
+    "contact:website": "https://rokokofamily.pl/rokoko",
+    "email": "klubrokoko2.0@gmail.com",
+    "min_age": "18",
+    "mobile": "+48 531 564 821",
+    "name": "Rokoko Club",
+    "opening_hours": "Fr-Sa 22:00-05:00",
+    "payment:cash": "yes",
+    "payment:contactless": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "start_date": "2026-09-26",
+    "website": "https://rokokofamily.pl/rokoko"
+  }
+},
+{
+  "type": "node",
+  "id": 3144504784,
+  "lat": 53.4275272,
+  "lon": 14.5530623,
+  "tags": {
+    "amenity": "nightclub",
+    "email": "club@loveclub.pl",
+    "lgbtq": "welcome",
+    "name": "Love Club",
+    "opening_hours": "Fr 22:00-04:00, Sa 21:00-05:00",
+    "phone": "+48509720079",
+    "website": "https://loveclub.pl/"
+  }
+},
+{
+  "type": "node",
+  "id": 3156287075,
+  "lat": 52.2590956,
+  "lon": 21.0370317,
+  "tags": {
+    "addr:city": "Warszawa",
+    "addr:housenumber": "22",
+    "addr:street": "11 Listopada",
+    "amenity": "nightclub",
+    "check_date": "2025-03-22",
+    "email": "sklad@skladbutelek.pl",
+    "internet_access": "no",
+    "name": "Skład Butelek",
+    "opening_hours": "Tu,We 16:00-23:00; Th,Fr 16:00-24:00; Sa 14:00-24:00",
+    "smoking": "no",
+    "website": "http://www.skladbutelek.pl/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3162656676,
+  "lat": 50.0551016,
+  "lon": 19.9267671,
+  "tags": {
+    "addr:city": "Kraków",
+    "addr:housenumber": "3",
+    "addr:postcode": "30-204",
+    "addr:street": "Tadeusza Kościuszki",
+    "amenity": "nightclub",
+    "name": "Klub30",
+    "opening_hours": "Fr 21:00-24:00; Sa 00:00-04:00,21:00-24:00; Su 00:00-04:00",
+    "phone": "+48 725 700 215",
+    "website": "https://krakow.klub30.pl/"
+  }
+},
+{
+  "type": "node",
+  "id": 3184826093,
+  "lat": 52.7330779,
+  "lon": 15.2382518,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Jazz Klub \"Pod Filarami\""
+  }
+},
+{
+  "type": "node",
+  "id": 3195263783,
+  "lat": 53.4199613,
+  "lon": 14.5312234,
+  "tags": {
+    "addr:city": "Szczecin",
+    "addr:housenumber": "75",
+    "addr:postcode": "71-061",
+    "addr:street": "aleja Bohaterów Warszawy",
+    "amenity": "nightclub",
+    "name": "Pralnia",
+    "opening_hours": "15:00-02:00",
+    "phone": "+48 517 013 639",
+    "smoking": "isolated",
+    "website": "https://pl-pl.facebook.com/K.S.PRALNIA",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3350722551,
+  "lat": 50.2574758,
+  "lon": 19.0272583,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Klubogaleria PlanBe"
+  }
+},
+{
+  "type": "node",
+  "id": 3405358300,
+  "lat": 49.7763516,
+  "lon": 22.8020396,
+  "tags": {
+    "addr:city": "Przemyśl",
+    "addr:housenumber": "55",
+    "addr:postcode": "37-700",
+    "addr:street": "Stefana Batorego",
+    "amenity": "nightclub",
+    "description": "Kręgielnia powstała jako centrum rozrywki oferujące dodatkowo bilard, gry video, organizacje urodzin, imprez firmowych, zawodów szkolnych czy spotkań kontrahentów.Tak różnorodna oferta zachęca do spędzania wolego czasu w gronie rodziny i przyjaciół.",
+    "email": "akulpa@clubjapa.pl",
+    "name": "Japa bowling club",
+    "opening_hours": "Mo-Th 14:00-24:00, Fr,Sa 14:00-03:00, Su 14:00-24:00",
+    "phone": "+48 16 675 14 06",
+    "sport": "bowling",
+    "website": "http://www.clubjapa.pl"
+  }
+},
+{
+  "type": "node",
+  "id": 3430662432,
+  "lat": 51.6481732,
+  "lon": 17.8099025,
+  "tags": {
+    "addr:city": "Ostrów Wielkopolski",
+    "addr:housenumber": "34",
+    "addr:postcode": "63-400",
+    "addr:street": "Wolności",
+    "amenity": "nightclub",
+    "name": "Afera. Klub muzyczny."
+  }
+},
+{
+  "type": "node",
+  "id": 3430662641,
+  "lat": 51.6478437,
+  "lon": 17.8152882,
+  "tags": {
+    "addr:city": "Ostrów Wielkopolski",
+    "addr:housenumber": "13-15",
+    "addr:postcode": "63-400",
+    "addr:street": "Wrocławska",
+    "amenity": "nightclub",
+    "name": "YOYO bowling & club"
+  }
+},
+{
+  "type": "node",
+  "id": 3430664296,
+  "lat": 51.6492448,
+  "lon": 17.8151331,
+  "tags": {
+    "addr:city": "Ostrów Wielkopolski",
+    "addr:housenumber": "36",
+    "addr:postcode": "63-400",
+    "addr:street": "Rynek",
+    "amenity": "nightclub",
+    "name": "Venus Club",
+    "opening_hours": "Fr-Su 20:00-05:00"
+  }
+},
+{
+  "type": "node",
+  "id": 3437646834,
+  "lat": 49.7499241,
+  "lon": 18.6319106,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Witches"
+  }
+},
+{
+  "type": "node",
+  "id": 3474606349,
+  "lat": 49.7019325,
+  "lon": 22.0160886,
+  "tags": {
+    "amenity": "nightclub",
+    "email": "avatarbrzozow@gmail.com",
+    "name": "Avatar",
+    "website": "http://www.avatarclub.pl/"
+  }
+},
+{
+  "type": "node",
+  "id": 3487362447,
+  "lat": 49.6232488,
+  "lon": 20.6914755,
+  "tags": {
+    "addr:city": "Nowy Sącz",
+    "addr:housenumber": "3",
+    "addr:postcode": "33-300",
+    "addr:street": "Szwedzka",
+    "amenity": "nightclub",
+    "name": "La Rocca",
+    "phone": "+48 18 444 22 58"
+  }
+},
+{
+  "type": "node",
+  "id": 3522263655,
+  "lat": 49.9028976,
+  "lon": 19.6930478,
+  "tags": {
+    "addr:housenumber": "532a",
+    "addr:place": "Przytkowice",
+    "addr:postcode": "34-141",
+    "amenity": "nightclub",
+    "name": "Energy 2000 Przytkowice",
+    "website": "https://przytkowice.energy2000.pl/"
+  }
+},
+{
+  "type": "node",
+  "id": 3567530858,
+  "lat": 52.2369930,
+  "lon": 21.0133254,
+  "tags": {
+    "addr:city": "Warszawa",
+    "addr:housenumber": "6/8",
+    "addr:street": "Mazowiecka",
+    "amenity": "nightclub",
+    "check_date": "2025-05-27",
+    "name": "Tygmont",
+    "website": "https://tygmont.com.pl/",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 3601405445,
+  "lat": 50.2068614,
+  "lon": 19.7759906,
+  "tags": {
+    "amenity": "nightclub",
+    "entrance": "yes",
+    "name": "Club 94"
+  }
+},
+{
+  "type": "node",
+  "id": 3617034329,
+  "lat": 49.3919588,
+  "lon": 22.4588894,
+  "tags": {
+    "access": "private",
+    "amenity": "nightclub",
+    "contact:phone": "+48 13 4691919",
+    "description": "tylko imprezy firmowe",
+    "name": "Sztygarka Hetmańska",
+    "smoking": "no",
+    "website": "https://www.sztygarka.com.pl/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3618398444,
+  "lat": 51.7611732,
+  "lon": 19.4594569,
+  "tags": {
+    "addr:city": "Łódź",
+    "addr:housenumber": "138/140",
+    "addr:postcode": "90-062",
+    "addr:street": "Piotrkowska",
+    "amenity": "nightclub",
+    "name": "Klub DOM",
+    "smoking": "outside"
+  }
+},
+{
+  "type": "node",
+  "id": 3637054382,
+  "lat": 51.9529216,
+  "lon": 16.3344185,
+  "tags": {
+    "amenity": "nightclub",
+    "contact:facebook": "https://www.facebook.com/klubnafali",
+    "name": "Klub Na Fali"
+  }
+},
+{
+  "type": "node",
+  "id": 3694454150,
+  "lat": 52.5493462,
+  "lon": 17.6056048,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Vehikuł Czasu"
+  }
+},
+{
+  "type": "node",
+  "id": 3712376113,
+  "lat": 51.9666760,
+  "lon": 17.7440718,
+  "tags": {
+    "amenity": "nightclub",
+    "contact:facebook": "https://www.facebook.com/deltapieruchy",
+    "name": "Delta Pieruchy"
+  }
+},
+{
+  "type": "node",
+  "id": 3761920517,
+  "lat": 51.9342586,
+  "lon": 15.5095448,
+  "tags": {
+    "addr:city": "Zielona Góra",
+    "addr:housenumber": "38",
+    "addr:postcode": "65-419",
+    "addr:street": "Generała Józefa Sowińskiego",
+    "amenity": "nightclub",
+    "contact:facebook": "https://www.facebook.com/HeavenZielonaGora/",
+    "name": "Club Heaven",
+    "name:pl": "Klub Niebo",
+    "opening_hours": "21:00-04:00",
+    "phone": "+48 516 027 895",
+    "url": "https://www.youtube.com/channel/UCO8cOeYeE3JYB1kKrGqYHnw",
+    "website": "http://zielonagora.heavenseven.pl/#Welcome"
+  }
+},
+{
+  "type": "node",
+  "id": 3778562772,
+  "lat": 52.4079913,
+  "lon": 16.9312187,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:housenumber": "10",
+    "addr:postcode": "61-770",
+    "addr:street": "Ignacego Paderewskiego",
+    "amenity": "nightclub",
+    "name": "Pacha Poznań",
+    "name:fa": "پاچا پوزنان",
+    "name:pl": "Pacha Poznań",
+    "source": "survey",
+    "website": "http://www.pachapoznan.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 3784994445,
+  "lat": 49.9550007,
+  "lon": 19.0021054,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Roxi"
+  }
+},
+{
+  "type": "node",
+  "id": 3789870332,
+  "lat": 51.9444432,
+  "lon": 15.4986956,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Hot Shots"
+  }
+},
+{
+  "type": "node",
+  "id": 3805502317,
+  "lat": 54.5244178,
+  "lon": 18.5468807,
+  "tags": {
+    "amenity": "nightclub",
+    "club": "music",
+    "name": "Ucho",
+    "website": "http://ucho.com.pl/"
+  }
+},
+{
+  "type": "node",
+  "id": 3813568790,
+  "lat": 51.5654184,
+  "lon": 15.5404308,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Zagłoba"
+  }
+},
+{
+  "type": "node",
+  "id": 3819711685,
+  "lat": 52.4168310,
+  "lon": 16.9117032,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:city:simc": "0969400",
+    "addr:housenumber": "18A",
+    "addr:postcode": "60-867",
+    "addr:street": "Cypriana Norwida",
+    "alt_name": "U Bazyla",
+    "amenity": "nightclub",
+    "name": "Klub u Bazyla",
+    "source:addr": "EMUiA (emuia.geoportal.gov.pl)",
+    "website": "https://ubazyla.pl/"
+  }
+},
+{
+  "type": "node",
+  "id": 3820163747,
+  "lat": 50.4731039,
+  "lon": 17.3382999,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Stereo Live Music Club"
+  }
+},
+{
+  "type": "node",
+  "id": 3835111697,
+  "lat": 52.4290426,
+  "lon": 16.9172676,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:housenumber": "80A",
+    "addr:postcode": "60-649",
+    "addr:street": "Piątkowska",
+    "amenity": "nightclub",
+    "name": "Klub Studencki Cicibór",
+    "opening_hours": "21:00-4:00",
+    "phone": "+48 500 072 722; +48 795 517 642"
+  }
+},
+{
+  "type": "node",
+  "id": 3856122557,
+  "lat": 51.2453632,
+  "lon": 22.5574899,
+  "tags": {
+    "amenity": "nightclub",
+    "level": "2",
+    "name": "Helium Club",
+    "opening_hours": "We-Sa 22:00-5:00; Th off"
+  }
+},
+{
+  "type": "node",
+  "id": 3867142113,
+  "lat": 51.9411259,
+  "lon": 15.5062628,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "One Love",
+    "name:pl": "Jedna miłość"
+  }
+},
+{
+  "type": "node",
+  "id": 3892721645,
+  "lat": 54.5191889,
+  "lon": 18.5353319,
+  "tags": {
+    "addr:city": "Gdynia",
+    "addr:country": "PL",
+    "addr:housenumber": "28",
+    "addr:postcode": "81-364",
+    "addr:street": "3 Maja",
+    "amenity": "nightclub",
+    "check_date:opening_hours": "2025-10-19",
+    "email": "info@haremclub.pl",
+    "name": "Harem Club",
+    "opening_hours": "Su-Th off; Fr-Sa 21:00-05:00",
+    "phone": "+48602213323",
+    "source": "survey",
+    "website": "www.haremclub.pl"
+  }
+},
+{
+  "type": "node",
+  "id": 3899156839,
+  "lat": 50.6481600,
+  "lon": 23.3702347,
+  "tags": {
+    "addr:city": "Łabunie",
+    "addr:city:simc": "0893216",
+    "addr:housenumber": "11",
+    "addr:postcode": "22-437",
+    "addr:street": "Zamojska",
+    "addr:street:sym_ul": "25557",
+    "amenity": "nightclub",
+    "name": "Klub \"Gorzelnia\"",
+    "source:addr": "labunie.e-mapa.net"
+  }
+},
+{
+  "type": "node",
+  "id": 3920519804,
+  "lat": 50.2593157,
+  "lon": 19.0140660,
+  "tags": {
+    "addr:city": "Katowice",
+    "addr:housenumber": "2",
+    "addr:postcode": "40-077",
+    "addr:street": "Jana Matejki",
+    "amenity": "nightclub",
+    "email": "cotton.club.katowice@gmail.com",
+    "facebook": "https://www.facebook.com/cotton.katowice",
+    "name": "Cotton Club",
+    "opening_hours": "Fr-Sa 21:00-05:00 open \"do ostatniego klienta\"",
+    "phone": "+48602790510",
+    "reservation": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3920520416,
+  "lat": 50.2595465,
+  "lon": 19.0169958,
+  "tags": {
+    "amenity": "nightclub",
+    "contact:email": "klub@salome.pl",
+    "contact:phone": "+48 32 201 60 72",
+    "name": "Salome",
+    "website": "http://salome.pl/"
+  }
+},
+{
+  "type": "node",
+  "id": 3931278601,
+  "lat": 54.2606175,
+  "lon": 18.6567838,
+  "tags": {
+    "addr:city": "Pruszcz Gdański",
+    "addr:housenumber": "27",
+    "addr:postcode": "83-000",
+    "addr:street": "Jana Kochanowskiego",
+    "amenity": "nightclub",
+    "name": "Club 27",
+    "website": "http://club27.pl/"
+  }
+},
+{
+  "type": "node",
+  "id": 3952096721,
+  "lat": 53.4265754,
+  "lon": 14.5522475,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Senso Beach"
+  }
+},
+{
+  "type": "node",
+  "id": 3952096728,
+  "lat": 53.4282311,
+  "lon": 14.5538568,
+  "tags": {
+    "addr:city": "Szczecin",
+    "addr:housenumber": "2",
+    "addr:postcode": "70-561",
+    "addr:street": "plac Żołnierza Polskiego",
+    "amenity": "nightclub",
+    "name": "Elefunk The Club"
+  }
+},
+{
+  "type": "node",
+  "id": 3952948107,
+  "lat": 50.4779490,
+  "lon": 17.3282665,
+  "tags": {
+    "addr:city": "Nysa",
+    "addr:housenumber": "2",
+    "addr:postcode": "48-300",
+    "addr:street": "Szlak Chrobrego",
+    "amenity": "nightclub",
+    "leisure": "bowling_alley",
+    "name": "Arsenał Centrum Rozrywki",
+    "opening_hours": "Tu-Th 17:00-22:00; Fr-Su 16:00-01:00",
+    "sport": "10pin"
+  }
+},
+{
+  "type": "node",
+  "id": 3983135964,
+  "lat": 52.2328975,
+  "lon": 21.0177798,
+  "tags": {
+    "addr:city": "Warszawa",
+    "addr:city:en": "Warsaw",
+    "addr:housenumber": "9",
+    "addr:postcode": "00-021",
+    "addr:street": "Chmielna",
+    "amenity": "nightclub",
+    "check_date": "2025-01-17",
+    "name": "Queens"
+  }
+},
+{
+  "type": "node",
+  "id": 3995859717,
+  "lat": 52.2859281,
+  "lon": 20.9580712,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Relax"
+  }
+},
+{
+  "type": "node",
+  "id": 4001179764,
+  "lat": 51.1320831,
+  "lon": 23.4712694,
+  "tags": {
+    "addr:city": "Chełm",
+    "amenity": "nightclub",
+    "name": "Whisky"
+  }
+},
+{
+  "type": "node",
+  "id": 4001179766,
+  "lat": 51.1333168,
+  "lon": 23.4738135,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Atmosfera"
+  }
+},
+{
+  "type": "node",
+  "id": 4067832787,
+  "lat": 51.6615296,
+  "lon": 16.0935901,
+  "tags": {
+    "amenity": "nightclub",
+    "cuisine": "polish",
+    "name": "Gospoda Głogowska"
+  }
+},
+{
+  "type": "node",
+  "id": 4083091056,
+  "lat": 51.1316664,
+  "lon": 23.4710652,
+  "tags": {
+    "addr:city": "Chełm",
+    "amenity": "nightclub",
+    "name": "Pandemia"
+  }
+},
+{
+  "type": "node",
+  "id": 4161185200,
+  "lat": 54.2613632,
+  "lon": 16.0506545,
+  "tags": {
+    "amenity": "nightclub",
+    "email": "mielno@bajkaklub.pl",
+    "name": "Bajka",
+    "phone": "+48 731 292 929",
+    "website": "https://bajkaklub.pl/"
+  }
+},
+{
+  "type": "node",
+  "id": 4221560490,
+  "lat": 50.0617100,
+  "lon": 19.9410100,
+  "tags": {
+    "addr:housenumber": "4",
+    "addr:postcode": "31-000",
+    "addr:street": "Mikołajska",
+    "amenity": "nightclub",
+    "name": "Lips",
+    "opening_hours:signed": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4227971274,
+  "lat": 52.2377865,
+  "lon": 21.0131593,
+  "tags": {
+    "addr:city": "Warszawa",
+    "addr:housenumber": "12",
+    "addr:postcode": "00-048",
+    "addr:street": "Mazowiecka",
+    "amenity": "nightclub",
+    "check_date": "2025-05-27",
+    "name": "Enklawa",
+    "phone": "+48 223 078 202",
+    "website": "https://enklawa.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 4227971275,
+  "lat": 52.2380964,
+  "lon": 21.0130693,
+  "tags": {
+    "addr:city": "Warszawa",
+    "addr:housenumber": "14",
+    "addr:postcode": "00-048",
+    "addr:street": "Mazowiecka",
+    "amenity": "nightclub",
+    "check_date": "2025-05-27",
+    "name": "Bank Club",
+    "phone": "+48 696 701 293",
+    "website": "https://bankclub.pl/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4227971276,
+  "lat": 52.2376901,
+  "lon": 21.0131794,
+  "tags": {
+    "addr:city": "Warszawa",
+    "addr:housenumber": "12",
+    "addr:postcode": "00-048",
+    "addr:street": "Mazowiecka",
+    "alt_name": "Ritual Cocktail Bar;Ritual Cocktail Club",
+    "amenity": "nightclub",
+    "check_date": "2025-05-27",
+    "name": "Ritual",
+    "phone": "+48 723 23 55 55",
+    "website": "https://www.ritualwarsaw.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 4227971279,
+  "lat": 52.2377596,
+  "lon": 21.0127528,
+  "tags": {
+    "addr:city": "Warszawa",
+    "addr:housenumber": "11A",
+    "addr:postcode": "00-052",
+    "addr:street": "Mazowiecka",
+    "amenity": "nightclub",
+    "check_date": "2024-06-04",
+    "name": "Sketch Nite",
+    "phone": "+48 662 247 247",
+    "website": "http://sketchnite.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 4258459266,
+  "lat": 53.9232521,
+  "lon": 17.8638022,
+  "tags": {
+    "amenity": "nightclub",
+    "amenity_1": "club",
+    "name": "Next Club Wiele",
+    "smoking": "outside",
+    "toilets:wheelchair": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4281246642,
+  "lat": 50.0611587,
+  "lon": 19.9385125,
+  "tags": {
+    "addr:housenumber": "6",
+    "addr:street": "Rynek Główny",
+    "amenity": "nightclub",
+    "level": "-1",
+    "name": "La Bodega Del Ron",
+    "opening_hours": "Mo-We 18:00-03:00, Th 18:00-04:30, Fr,Sa 18:00-05:30, Su 18:00-03:30",
+    "website": "https://la-bodega-del-ron-krakow.business.site/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4292657589,
+  "lat": 50.1049898,
+  "lon": 18.4764335,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "RED PUB"
+  }
+},
+{
+  "type": "node",
+  "id": 4309941692,
+  "lat": 52.2243874,
+  "lon": 20.9592251,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2025-08-08",
+    "name": "VooDoo Club",
+    "opening_hours": "Fr 21:00-24:00; Sa 00:00-05:00,21:00-24:00; Su 00:00-05:00"
+  }
+},
+{
+  "type": "node",
+  "id": 4316789341,
+  "lat": 50.9033722,
+  "lon": 15.7376370,
+  "tags": {
+    "amenity": "nightclub",
+    "contact:facebook": "https://pl-pl.facebook.com/Street-23-134574033308031",
+    "contact:phone": "+48 607124786",
+    "name": "Street 23",
+    "opening_hours": "Fr 20:00-24:00; Sa 00:00-04:00,20:00-24:00; Su 00:00-04:00"
+  }
+},
+{
+  "type": "node",
+  "id": 4329791718,
+  "lat": 51.2474609,
+  "lon": 22.5625522,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Komitet",
+    "opening_hours": "off"
+  }
+},
+{
+  "type": "node",
+  "id": 4329940704,
+  "lat": 53.4303195,
+  "lon": 14.5659047,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date:opening_hours": "2025-08-18",
+    "contact:facebook": "https://www.facebook.com/rotundap/",
+    "name": "Rotunda Północna",
+    "opening_hours:signed": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4347280250,
+  "lat": 51.7652326,
+  "lon": 19.4594647,
+  "tags": {
+    "addr:city:en": "Lodz",
+    "amenity": "nightclub",
+    "name": "Abracadabra Da Club"
+  }
+},
+{
+  "type": "node",
+  "id": 4347280251,
+  "lat": 51.7651341,
+  "lon": 19.4588455,
+  "tags": {
+    "addr:city:en": "Lodz",
+    "amenity": "nightclub",
+    "name": "Soda Underground Stage"
+  }
+},
+{
+  "type": "node",
+  "id": 4353043087,
+  "lat": 51.6514056,
+  "lon": 17.8141832,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "VIP Club"
+  }
+},
+{
+  "type": "node",
+  "id": 4359126146,
+  "lat": 52.4055564,
+  "lon": 16.9271815,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Baker Street",
+    "website": "http://bakerst.pl/"
+  }
+},
+{
+  "type": "node",
+  "id": 4372096527,
+  "lat": 54.3647777,
+  "lon": 18.6456207,
+  "tags": {
+    "addr:city": "Gdańsk",
+    "addr:housenumber": "29b",
+    "addr:street": "Niterów",
+    "amenity": "nightclub",
+    "check_date": "2025-11-13",
+    "name": "Crackhouse"
+  }
+},
+{
+  "type": "node",
+  "id": 4396323524,
+  "lat": 51.1083596,
+  "lon": 17.0354095,
+  "tags": {
+    "addr:city": "Wrocław",
+    "addr:housenumber": "13",
+    "addr:postcode": "50-123",
+    "addr:street": "Oławska",
+    "alt_name": "Vertigo Jazz Club & Restaurant",
+    "amenity": "nightclub",
+    "bar": "yes",
+    "check_date": "2026-02-10",
+    "contact:facebook": "https://www.facebook.com/vertigojazzclub/",
+    "cuisine": "international",
+    "email": "vertigojazz@vertigojazz.pl",
+    "live_music": "yes",
+    "name": "Vertigo",
+    "opening_hours": "Tu-Su 18:00+",
+    "phone": "+48 71 335 21 29",
+    "start_date": "2015-02-15",
+    "website": "https://vertigojazz.pl",
+    "wikidata": "Q97371810",
+    "wikipedia": "pl:Vertigo Jazz Club & Restaurant"
+  }
+},
+{
+  "type": "node",
+  "id": 4398786717,
+  "lat": 54.3645609,
+  "lon": 18.6484740,
+  "tags": {
+    "addr:city": "Gdańsk",
+    "addr:country": "PL",
+    "addr:housenumber": "80",
+    "addr:postcode": "80-863",
+    "addr:street": "Elektryków",
+    "amenity": "nightclub",
+    "name": "B90",
+    "url": "https://b90.pl/",
+    "website": "https://www.facebook.com/B90klub"
+  }
+},
+{
+  "type": "node",
+  "id": 4412909020,
+  "lat": 52.4076955,
+  "lon": 16.9326132,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:city:en": "Poznan",
+    "amenity": "nightclub",
+    "name": "Extravagance",
+    "name:fa": "اسراف",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 4424146497,
+  "lat": 52.2247998,
+  "lon": 20.9288574,
+  "tags": {
+    "addr:city": "Warszawa",
+    "addr:country": "PL",
+    "addr:housenumber": "22",
+    "addr:postcode": "01-258",
+    "addr:street": "Fort Wola",
+    "alt_name": "Progresja Klub;Progresja Club",
+    "amenity": "nightclub",
+    "check_date": "2022-08-25",
+    "name": "Progresja Music Zone",
+    "phone": "+48 22 419 54 13",
+    "website": "https://progresja.com/",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 4428654707,
+  "lat": 53.5373037,
+  "lon": 14.5537910,
+  "tags": {
+    "addr:housenumber": "97",
+    "addr:street": "Piaskowa",
+    "amenity": "nightclub",
+    "leisure": "bowling_alley",
+    "name": "Champion",
+    "website": "https://www.facebook.com/policechampions/"
+  }
+},
+{
+  "type": "node",
+  "id": 4439300691,
+  "lat": 53.3754479,
+  "lon": 14.6569117,
+  "tags": {
+    "addr:postcode": "70-783",
+    "amenity": "nightclub",
+    "name": "Coco Club",
+    "name:en": "Coco Club",
+    "name:pl": "Coco Club",
+    "opening_hours": "Fr-Sa 21:00-05:00",
+    "phone": "+48 509 159 550",
+    "website": "https://facebook.com/coco.club.szczecin/?locale2=pl_PL"
+  }
+},
+{
+  "type": "node",
+  "id": 4451435354,
+  "lat": 51.6550302,
+  "lon": 17.0348518,
+  "tags": {
+    "addr:city": "Konary",
+    "addr:postcode": "63-910",
+    "amenity": "nightclub",
+    "name": "Protector Prestige Club",
+    "opening_hours": "sobota, 21-4",
+    "operator": "Protector Prestige Club Speluno"
+  }
+},
+{
+  "type": "node",
+  "id": 4462225692,
+  "lat": 51.5335460,
+  "lon": 20.0097207,
+  "tags": {
+    "addr:housenumber": "3",
+    "addr:postcode": "97-200",
+    "addr:street": "Warszawska",
+    "amenity": "nightclub",
+    "name": "Faktoria",
+    "old_name": "Restauracja Fabryka"
+  }
+},
+{
+  "type": "node",
+  "id": 4473942989,
+  "lat": 52.0253085,
+  "lon": 23.1596608,
+  "tags": {
+    "addr:postcode": "21-500",
+    "amenity": "nightclub",
+    "name": "Fregata",
+    "name:pl": "Fregata"
+  }
+},
+{
+  "type": "node",
+  "id": 4489340423,
+  "lat": 51.1135444,
+  "lon": 22.0255862,
+  "tags": {
+    "addr:housenumber": "83c",
+    "addr:place": "Skoków",
+    "addr:postcode": "24-300",
+    "amenity": "nightclub",
+    "name": "Brand Music Club",
+    "source:addr": "EMUi@iMPA (opolelubelskie.e-mapa.net)",
+    "website": "http://brandclub.com.pl/"
+  }
+},
+{
+  "type": "node",
+  "id": 4492665960,
+  "lat": 51.0974883,
+  "lon": 21.9323882,
+  "tags": {
+    "addr:city": "Wrzelowiec",
+    "addr:housenumber": "3",
+    "addr:postcode": "24-300",
+    "addr:street": "Opolska",
+    "amenity": "nightclub",
+    "name": "Zilion Club Wrzelowiec",
+    "source:addr": "EMUi@iMPA (opolelubelskie.e-mapa.net)",
+    "website": "www.zilionclub.pl/"
+  }
+},
+{
+  "type": "node",
+  "id": 4518656582,
+  "lat": 49.6842992,
+  "lon": 19.2082127,
+  "tags": {
+    "addr:city": "Żywiec",
+    "addr:housenumber": "60",
+    "addr:postcode": "34-315",
+    "addr:street": "Aleja Marszałka Józefa Piłsudskiego",
+    "amenity": "nightclub",
+    "name": "Kolorowa Club",
+    "opening_hours": "08:00-00:00",
+    "phone": "+48 33 861 75 55",
+    "url": "https://www.facebook.com/kolorowaclub"
+  }
+},
+{
+  "type": "node",
+  "id": 4524668538,
+  "lat": 52.2249236,
+  "lon": 20.9799922,
+  "tags": {
+    "addr:city": "Warszawa",
+    "addr:housenumber": "8/10",
+    "addr:postcode": "01-210",
+    "addr:street": "Kolejowa",
+    "alt_name": "Odessa Club",
+    "amenity": "nightclub",
+    "check_date": "2022-06-14",
+    "name": "Odessa",
+    "smoking": "separated",
+    "website": "http://www.odessaclub.pl/"
+  }
+},
+{
+  "type": "node",
+  "id": 4539326513,
+  "lat": 51.6454801,
+  "lon": 17.8194722,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Czekolada Club"
+  }
+},
+{
+  "type": "node",
+  "id": 4551530349,
+  "lat": 51.6486816,
+  "lon": 17.8081195,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Villa Royal"
+  }
+},
+{
+  "type": "node",
+  "id": 4569195087,
+  "lat": 51.4091471,
+  "lon": 21.1446401,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Explosion"
+  }
+},
+{
+  "type": "node",
+  "id": 4598886484,
+  "lat": 53.0104320,
+  "lon": 18.6073838,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Largo Club Toruń"
+  }
+},
+{
+  "type": "node",
+  "id": 4601952971,
+  "lat": 51.8434749,
+  "lon": 16.5730212,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Zakład"
+  }
+},
+{
+  "type": "node",
+  "id": 4614335437,
+  "lat": 51.8450316,
+  "lon": 16.5747470,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Crime Story"
+  }
+},
+{
+  "type": "node",
+  "id": 4619412889,
+  "lat": 53.1293015,
+  "lon": 23.1667968,
+  "tags": {
+    "addr:city": "Białystok",
+    "addr:housenumber": "2C",
+    "addr:postcode": "15-222",
+    "addr:street": "Adama Mickiewicza",
+    "amenity": "nightclub",
+    "contact:email": "herkulesy@o2.pl",
+    "contact:facebook": "https://www.facebook.com/HERKULESY",
+    "contact:instagram": "https://www.instagram.com/herkulesy/",
+    "contact:website": "https://www.herkulesy.pl/",
+    "email": "herkulesy@o2.pl",
+    "min_age": "18",
+    "mobile": "+48 515 155 967",
+    "name": "Herkulesy",
+    "name:pl": "Herkulesy",
+    "opening_hours": "Mo-We 09:00-16:00; Th-Fr 09:00-16:00,20:00-04:00; Sa 20:00-04:00",
+    "payment:american_express": "yes",
+    "payment:cash": "yes",
+    "payment:contactless": "yes",
+    "payment:diners_club": "yes",
+    "payment:discover_card": "yes",
+    "payment:jcb": "yes",
+    "payment:maestro": "yes",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "payment:visa_debit": "yes",
+    "payment:visa_electron": "yes",
+    "website": "https://www.herkulesy.pl/",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 4639478299,
+  "lat": 50.2934145,
+  "lon": 21.4317830,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Fanaberia"
+  }
+},
+{
+  "type": "node",
+  "id": 4640594783,
+  "lat": 53.1215644,
+  "lon": 18.0002263,
+  "tags": {
+    "addr:city": "Bydgoszcz",
+    "addr:housenumber": "20",
+    "addr:postcode": "85-105",
+    "addr:street": "Stary Rynek",
+    "amenity": "nightclub",
+    "name": "Twenty Club Bydgoszcz"
+  }
+},
+{
+  "type": "node",
+  "id": 4659207211,
+  "lat": 50.2868277,
+  "lon": 21.4221890,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Pod 13"
+  }
+},
+{
+  "type": "node",
+  "id": 4659238432,
+  "lat": 50.2871086,
+  "lon": 21.4234408,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Papillon"
+  }
+},
+{
+  "type": "node",
+  "id": 4659430991,
+  "lat": 53.1353616,
+  "lon": 23.1666666,
+  "tags": {
+    "addr:city": "Białystok",
+    "addr:housenumber": "6",
+    "addr:street": "Warszawska",
+    "amenity": "nightclub",
+    "contact:email": "klimatuzmiana@gmail.com;koncertywzmianie@gmail.com",
+    "contact:facebook": "https://www.facebook.com/zmianaklimatu",
+    "contact:instagram": "http://instagram.com/zmianaklimatu/",
+    "contact:mobile": "+48 576 907 106",
+    "contact:twitter": "https://twitter.com/zmianaklimatu",
+    "contact:website": "http://zmianaklimatu.eu/",
+    "email": "klimatuzmiana@gmail.com;koncertywzmianie@gmail.com",
+    "level": "0",
+    "min_age": "18",
+    "mobile": "+48 576 907 106",
+    "name": "Zmiana Klimatu",
+    "opening_hours": "Fr-Sa 20:00-04:00",
+    "payment:cash": "yes",
+    "payment:contactless": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "smoking": "outside",
+    "website": "http://zmianaklimatu.eu/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4663379543,
+  "lat": 52.2345046,
+  "lon": 21.0005506,
+  "tags": {
+    "amenity": "nightclub",
+    "lgbtq": "primary",
+    "name": "CodeRED"
+  }
+},
+{
+  "type": "node",
+  "id": 4718310338,
+  "lat": 51.1114434,
+  "lon": 17.0290958,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2025-12-10",
+    "contact:facebook": "https://www.facebook.com/poziomclub/",
+    "name": "Poziom 1",
+    "opening_hours": "Fr 20:00-24:00; Sa 00:00-05:00,20:00-24:00; Su 00:00-05:00"
+  }
+},
+{
+  "type": "node",
+  "id": 4734733122,
+  "lat": 50.0747990,
+  "lon": 19.9377173,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2026-01-25",
+    "name": "Forty Kraków",
+    "name:pl": "Forty Kraków"
+  }
+},
+{
+  "type": "node",
+  "id": 4734733123,
+  "lat": 50.0590001,
+  "lon": 19.9382002,
+  "tags": {
+    "addr:city": "Kraków",
+    "addr:housenumber": "6",
+    "addr:street": "Plac Dominikański",
+    "amenity": "nightclub",
+    "check_date": "2025-08-25",
+    "check_date:smoking": "2025-08-25",
+    "level": "-1;-2",
+    "name": "Prozak 2.0",
+    "smoking": "outside",
+    "website": "https://www.facebook.com/ProzakDwaZero/"
+  }
+},
+{
+  "type": "node",
+  "id": 4753706744,
+  "lat": 49.8227128,
+  "lon": 19.0513941,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "2Be Club"
+  }
+},
+{
+  "type": "node",
+  "id": 4756721093,
+  "lat": 51.2479164,
+  "lon": 22.5633512,
+  "tags": {
+    "addr:city": "Lublin",
+    "addr:housenumber": "19",
+    "addr:postcode": "20-002",
+    "addr:street": "Krakowskie Przedmieście",
+    "amenity": "nightclub",
+    "name": "Dom Kultury",
+    "opening_hours": "Mo-Sa 22:00-06:00",
+    "website": "http://www.dklublin.pl/"
+  }
+},
+{
+  "type": "node",
+  "id": 4756721094,
+  "lat": 51.2475546,
+  "lon": 22.5631098,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Koyot",
+    "opening_hours": "Fr, Sa 20:00-04:00"
+  }
+},
+{
+  "type": "node",
+  "id": 4757971038,
+  "lat": 51.2475695,
+  "lon": 22.5543226,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Soho Club"
+  }
+},
+{
+  "type": "node",
+  "id": 4790371871,
+  "lat": 53.4296216,
+  "lon": 14.5438033,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Grey Club"
+  }
+},
+{
+  "type": "node",
+  "id": 4805930088,
+  "lat": 50.2946323,
+  "lon": 18.6663157,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Chicas"
+  }
+},
+{
+  "type": "node",
+  "id": 4823926121,
+  "lat": 52.4368046,
+  "lon": 15.1087413,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "U Bulka",
+    "name:en": "U Bulka",
+    "name:pl": "U Bulka"
+  }
+},
+{
+  "type": "node",
+  "id": 4851284774,
+  "lat": 54.0395272,
+  "lon": 22.5074970,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Cooltura"
+  }
+},
+{
+  "type": "node",
+  "id": 4854032841,
+  "lat": 50.0604712,
+  "lon": 19.9364782,
+  "tags": {
+    "amenity": "nightclub",
+    "level": "1",
+    "name": "Bracka 4",
+    "website": "http://www.klub.krakow.pl/b4/"
+  }
+},
+{
+  "type": "node",
+  "id": 4880291721,
+  "lat": 50.0625120,
+  "lon": 19.9346539,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2025-12-09",
+    "contact:city": "Kraków",
+    "contact:housenumber": "12",
+    "contact:postcode": "31-009",
+    "contact:street": "Szewska",
+    "name": "Piec Art",
+    "website": "https://piecart.pl/"
+  }
+},
+{
+  "type": "node",
+  "id": 4886346502,
+  "lat": 50.2586113,
+  "lon": 19.0238584,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2025-03-27",
+    "check_date:opening_hours": "2024-12-19",
+    "name": "Babylon",
+    "opening_hours": "20:00-05:00",
+    "website": "http://babylon.katowice.pl"
+  }
+},
+{
+  "type": "node",
+  "id": 4888084021,
+  "lat": 50.0374522,
+  "lon": 22.0027358,
+  "tags": {
+    "addr:housenumber": "9",
+    "addr:street": "Tadeusza Kościuszki",
+    "amenity": "nightclub",
+    "check_date": "2026-04-14",
+    "name": "Grand Club",
+    "opening_hours": "Fr-Sa 22:00-04:00"
+  }
+},
+{
+  "type": "node",
+  "id": 4894143121,
+  "lat": 50.0620877,
+  "lon": 19.9346628,
+  "tags": {
+    "addr:city": "Kraków",
+    "addr:housenumber": "10",
+    "addr:postcode": "31-010",
+    "addr:street": "Jagiellońska",
+    "amenity": "nightclub",
+    "name": "Teatro Cubano",
+    "name:pl": "Teatro Cubano",
+    "opening_hours": "Su-Tu 15:00-04:00; We-Th 15:00-05:00; Fr-Sa 15:00-06:00",
+    "phone": "+48 660 562 100",
+    "website": "https://m.facebook.com/TeatroCubanoKrakow"
+  }
+},
+{
+  "type": "node",
+  "id": 4895470121,
+  "lat": 50.0364121,
+  "lon": 22.0018056,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2026-04-16",
+    "name": "Candela"
+  }
+},
+{
+  "type": "node",
+  "id": 4917213756,
+  "lat": 54.0362986,
+  "lon": 19.0344653,
+  "tags": {
+    "addr:city": "Malbork",
+    "addr:housenumber": "14",
+    "addr:postcode": "82-200",
+    "addr:street": "Tadeusza Kościuszki",
+    "amenity": "nightclub",
+    "email": "cityclub.malbork@gmail.com",
+    "name": "City Club & Bowling",
+    "opening_hours": "We-Tu 18:00-22:00, Fr 18:00-02:00, Sa 18:00-04:00",
+    "phone": "+48 55 270 20 40"
+  }
+},
+{
+  "type": "node",
+  "id": 4917213757,
+  "lat": 54.0350462,
+  "lon": 19.0238612,
+  "tags": {
+    "addr:city": "Malbork",
+    "addr:housenumber": "5",
+    "addr:postcode": "82-200",
+    "addr:street": "Plac Słowiański",
+    "amenity": "nightclub",
+    "name": "Klub Dołek",
+    "opening_hours": "Fr 21:00-03:00, Sa 21:00-04:00, Su 17:00-21:00"
+  }
+},
+{
+  "type": "node",
+  "id": 4927430991,
+  "lat": 53.7764703,
+  "lon": 20.4770253,
+  "tags": {
+    "addr:city": "Olsztyn",
+    "addr:housenumber": "9",
+    "addr:postcode": "10-022",
+    "addr:street": "Świętej Barbary",
+    "amenity": "nightclub",
+    "name": "Mięta",
+    "phone": "+48 513 878 881"
+  }
+},
+{
+  "type": "node",
+  "id": 4932841024,
+  "lat": 52.6636324,
+  "lon": 19.0613850,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Face",
+    "name:pl": "Face"
+  }
+},
+{
+  "type": "node",
+  "id": 4966410646,
+  "lat": 51.1031708,
+  "lon": 17.0847405,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2025-12-10",
+    "facebook": "https://www.facebook.com/Klub.Studencki.Bajer/",
+    "name": "Klub Studencki \"Bajer\"",
+    "operator": "Politechnika Wrocławska"
+  }
+},
+{
+  "type": "node",
+  "id": 4969168926,
+  "lat": 50.0956967,
+  "lon": 18.2149211,
+  "tags": {
+    "addr:city": "Racibórz",
+    "addr:housenumber": "14",
+    "addr:postcode": "47-400",
+    "addr:street": "Władysława Reymonta",
+    "amenity": "nightclub",
+    "description": "Klub Amnezja Racibórz",
+    "min_age": "18",
+    "name": "Amnezja",
+    "start_date": "2023-02-10",
+    "website": "https://www.facebook.com/KlubAmnezjaRaciborz"
+  }
+},
+{
+  "type": "node",
+  "id": 5023042031,
+  "lat": 53.4298687,
+  "lon": 14.5438000,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Disco na deptaku"
+  }
+},
+{
+  "type": "node",
+  "id": 5046887249,
+  "lat": 52.4061738,
+  "lon": 16.9330850,
+  "tags": {
+    "addr:city": "Poznań",
+    "amenity": "nightclub",
+    "club": "music",
+    "name": "Coraz Lepiej",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 5048290951,
+  "lat": 52.4062440,
+  "lon": 16.9323242,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Czarna Owca",
+    "source": "survey",
+    "website": "https://pl-pl.facebook.com/czarnaowcaclub/"
+  }
+},
+{
+  "type": "node",
+  "id": 5075294072,
+  "lat": 52.2591475,
+  "lon": 21.0369966,
+  "tags": {
+    "addr:city": "Warszawa",
+    "addr:housenumber": "22",
+    "addr:street": "11 Listopada",
+    "alt_name": "Klub Hydrozagadka",
+    "amenity": "nightclub",
+    "check_date": "2025-03-22",
+    "contact:email": "hydrozagadkaklub@gmail.com",
+    "contact:facebook": "https://www.facebook.com/klubhydrozagadka",
+    "contact:phone": "+48 505849386",
+    "contact:website": "http://www.hydrozagadka.waw.pl",
+    "name": "Hydrozagadka"
+  }
+},
+{
+  "type": "node",
+  "id": 5078983073,
+  "lat": 54.4453019,
+  "lon": 18.5691320,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Unique"
+  }
+},
+{
+  "type": "node",
+  "id": 5086673417,
+  "lat": 52.4100827,
+  "lon": 16.9344840,
+  "tags": {
+    "addr:city:en": "Poznan",
+    "amenity": "nightclub",
+    "name": "Club 13.13"
+  }
+},
+{
+  "type": "node",
+  "id": 5109342998,
+  "lat": 51.2176944,
+  "lon": 22.6925181,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Labirynt"
+  }
+},
+{
+  "type": "node",
+  "id": 5124698656,
+  "lat": 51.6405496,
+  "lon": 15.1304804,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Emporium Music Club"
+  }
+},
+{
+  "type": "node",
+  "id": 5195371717,
+  "lat": 49.9821004,
+  "lon": 18.2676194,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Club Magic",
+    "phone": "+48880894939",
+    "website": "http://www.clubmagic.pl/index.php"
+  }
+},
+{
+  "type": "node",
+  "id": 5204573006,
+  "lat": 54.4256262,
+  "lon": 18.5958946,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Banana Beach Club"
+  }
+},
+{
+  "type": "node",
+  "id": 5240558841,
+  "lat": 50.9297393,
+  "lon": 22.2539329,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Stacja 1 Night Club"
+  }
+},
+{
+  "type": "node",
+  "id": 5242612697,
+  "lat": 51.2454274,
+  "lon": 22.5573871,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Riviera, Klub Plażowy",
+    "smoking": "isolated"
+  }
+},
+{
+  "type": "node",
+  "id": 5242612698,
+  "lat": 51.2454782,
+  "lon": 22.5572886,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "El Cubana"
+  }
+},
+{
+  "type": "node",
+  "id": 5242612699,
+  "lat": 51.2471089,
+  "lon": 22.5632776,
+  "tags": {
+    "addr:city": "Lublin",
+    "addr:housenumber": "9",
+    "addr:street": "Prezydenta Gabriela Narutowicza",
+    "amenity": "nightclub",
+    "name": "The Moon"
+  }
+},
+{
+  "type": "node",
+  "id": 5242612700,
+  "lat": 51.2474177,
+  "lon": 22.5612667,
+  "tags": {
+    "addr:city": "Lublin",
+    "addr:housenumber": "40",
+    "addr:postcode": "20-002",
+    "addr:street": "Krakowskie Przedmieście",
+    "amenity": "nightclub",
+    "name": "Klub NOC",
+    "opening_hours": "Fr 21:00-04:00; Sa 21:00-05:00",
+    "smoking": "isolated"
+  }
+},
+{
+  "type": "node",
+  "id": 5265538121,
+  "lat": 52.3972960,
+  "lon": 16.8591877,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:housenumber": "17",
+    "addr:street": "Bułgarska",
+    "amenity": "nightclub",
+    "name": "Klub Muzyczny B17"
+  }
+},
+{
+  "type": "node",
+  "id": 5273723649,
+  "lat": 51.1100628,
+  "lon": 17.0256433,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2025-12-10",
+    "facebook": "https://www.facebook.com/jamaicawroclaw/",
+    "level": "-1",
+    "name": "Jamaica",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5300124298,
+  "lat": 50.1126823,
+  "lon": 18.9855955,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Avangarda Music Club, Pub & Restaurant",
+    "phone": "+48 32 217 17 37"
+  }
+},
+{
+  "type": "node",
+  "id": 5318876271,
+  "lat": 51.8437562,
+  "lon": 16.5754300,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Antidotum"
+  }
+},
+{
+  "type": "node",
+  "id": 5411720521,
+  "lat": 50.5682751,
+  "lon": 22.0537972,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Labirynt"
+  }
+},
+{
+  "type": "node",
+  "id": 5419714861,
+  "lat": 51.7332524,
+  "lon": 19.4586577,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Campari"
+  }
+},
+{
+  "type": "node",
+  "id": 5456239568,
+  "lat": 52.4092449,
+  "lon": 16.9365843,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Bunuba Klub",
+    "source": "survey",
+    "website": "https://pl-pl.facebook.com/Bunuba-Klub-153132258061141/"
+  }
+},
+{
+  "type": "node",
+  "id": 5464938928,
+  "lat": 51.1095337,
+  "lon": 17.0366710,
+  "tags": {
+    "addr:city": "Wrocław",
+    "addr:housenumber": "16",
+    "addr:postcode": "50-148",
+    "addr:street": "Wita Stwosza",
+    "amenity": "nightclub",
+    "check_date": "2025-10",
+    "level": "-1",
+    "name": "Frame",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5485394376,
+  "lat": 54.2175145,
+  "lon": 15.7592788,
+  "tags": {
+    "amenity": "nightclub",
+    "email": "club@lambert-hotel.pl",
+    "name": "Lambert Music Club",
+    "opening_hours": "Sa 22:00-04:00",
+    "phone": "+48 739 260 606",
+    "website": "http://www.lambert-hotel.pl/club/#2"
+  }
+},
+{
+  "type": "node",
+  "id": 5501938186,
+  "lat": 49.9523228,
+  "lon": 18.5972227,
+  "tags": {
+    "addr:city": "Jastrzębie-Zdrój",
+    "addr:housenumber": "6",
+    "addr:postcode": "44-335",
+    "addr:street": "Warszawska",
+    "amenity": "nightclub",
+    "club": "music",
+    "name": "Gryfna Lama"
+  }
+},
+{
+  "type": "node",
+  "id": 5518443969,
+  "lat": 51.1096906,
+  "lon": 17.0252457,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2025-12-10",
+    "name": "RO"
+  }
+},
+{
+  "type": "node",
+  "id": 5592443135,
+  "lat": 51.8464789,
+  "lon": 16.5675277,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Stara Gazownia"
+  }
+},
+{
+  "type": "node",
+  "id": 5596535023,
+  "lat": 54.1768850,
+  "lon": 21.1373415,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Arena Korsze"
+  }
+},
+{
+  "type": "node",
+  "id": 5597848006,
+  "lat": 54.2612385,
+  "lon": 16.0688313,
+  "tags": {
+    "amenity": "nightclub",
+    "email": "arenamielno@wp.pl",
+    "name": "Arena Club Mielno"
+  }
+},
+{
+  "type": "node",
+  "id": 5603683138,
+  "lat": 54.2598005,
+  "lon": 16.0551350,
+  "tags": {
+    "amenity": "nightclub",
+    "email": "discoplazaclub@gmail.com",
+    "name": "Disco Plaza Club",
+    "opening_hours": "Mo-Su 21:00-04:00",
+    "phone": "+48 502 464 462",
+    "website": "http://www.discoplaza.pl"
+  }
+},
+{
+  "type": "node",
+  "id": 5631052021,
+  "lat": 52.4055947,
+  "lon": 16.9208789,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:housenumber": "10",
+    "addr:postcode": "61-818",
+    "addr:street": "Stanisława Taczaka",
+    "amenity": "nightclub",
+    "contact:facebook": "prywatkapoznan",
+    "contact:instagram": "prywatka_poznan",
+    "cuisine": "polish",
+    "name": "Prywatka Poznań",
+    "opening_hours": "Mo-Tu off; We-Sa 19:00-03:00; Su off",
+    "phone": "+48 508 326 445"
+  }
+},
+{
+  "type": "node",
+  "id": 5661059103,
+  "lat": 49.9459032,
+  "lon": 18.6079775,
+  "tags": {
+    "addr:city": "Jastrzębie-Zdrój",
+    "addr:housenumber": "2",
+    "addr:postcode": "44-335",
+    "addr:street": "Arki Bożka",
+    "amenity": "nightclub",
+    "name": "QUEEN"
+  }
+},
+{
+  "type": "node",
+  "id": 5700731272,
+  "lat": 53.3390380,
+  "lon": 15.0371310,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Eclipse Club"
+  }
+},
+{
+  "type": "node",
+  "id": 5700731302,
+  "lat": 53.3395360,
+  "lon": 15.0354076,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2024-06-04",
+    "name": "The Club"
+  }
+},
+{
+  "type": "node",
+  "id": 5752716172,
+  "lat": 51.7686346,
+  "lon": 19.4581984,
+  "tags": {
+    "addr:city": "Łódź",
+    "addr:city:en": "Lodz",
+    "amenity": "nightclub",
+    "name": "El Cubano"
+  }
+},
+{
+  "type": "node",
+  "id": 5752716175,
+  "lat": 51.7683752,
+  "lon": 19.4585444,
+  "tags": {
+    "addr:city": "Łódź",
+    "amenity": "nightclub",
+    "name": "Club Teatr"
+  }
+},
+{
+  "type": "node",
+  "id": 5757396378,
+  "lat": 51.2056895,
+  "lon": 16.1590204,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Sky Club"
+  }
+},
+{
+  "type": "node",
+  "id": 5759594746,
+  "lat": 50.9030835,
+  "lon": 15.7362299,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Piwnica"
+  }
+},
+{
+  "type": "node",
+  "id": 5763939953,
+  "lat": 53.3515601,
+  "lon": 16.3938488,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Extazy"
+  }
+},
+{
+  "type": "node",
+  "id": 5793957718,
+  "lat": 51.1117500,
+  "lon": 17.0290312,
+  "tags": {
+    "amenity": "nightclub",
+    "facebook": "https://www.facebook.com/Mananna2.0/",
+    "level": "-1",
+    "name": "Mañana 2.0",
+    "opening_hours": "Th 20:00-24:00; Fr,Sa 00:00-06:00,20:00-24:00; Su 00:00-06:00",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5796783672,
+  "lat": 54.3463753,
+  "lon": 17.8927517,
+  "tags": {
+    "addr:city": "Sierakowice",
+    "addr:housenumber": "4a",
+    "addr:postcode": "83-340",
+    "addr:street": "Lęborska",
+    "amenity": "nightclub",
+    "name": "Club Pralnia88",
+    "smoking": "outside"
+  }
+},
+{
+  "type": "node",
+  "id": 5802799403,
+  "lat": 52.5441109,
+  "lon": 19.6870312,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Klub Kino"
+  }
+},
+{
+  "type": "node",
+  "id": 5929368585,
+  "lat": 51.2441074,
+  "lon": 22.5670113,
+  "tags": {
+    "addr:city": "Lublin",
+    "addr:housenumber": "15",
+    "addr:postcode": "20-950",
+    "addr:street": "Bernardyńska",
+    "amenity": "nightclub",
+    "name": "Klub Nadzieja",
+    "opening_hours": "Sa 22:00-04:00",
+    "operator": "Perła",
+    "smoking": "isolated"
+  }
+},
+{
+  "type": "node",
+  "id": 5933951555,
+  "lat": 50.9851686,
+  "lon": 23.7309308,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Arka"
+  }
+},
+{
+  "type": "node",
+  "id": 5952298271,
+  "lat": 52.3980674,
+  "lon": 16.9488623,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:housenumber": "9",
+    "addr:postcode": "61-142",
+    "addr:street": "Świętego Rocha",
+    "amenity": "nightclub",
+    "name": "Trops",
+    "official_name": "Trops - Akademickie Centrum Kultury",
+    "smoking": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5952314027,
+  "lat": 52.2411338,
+  "lon": 21.0030982,
+  "tags": {
+    "addr:city": "Warszawa",
+    "addr:housenumber": "115",
+    "addr:postcode": "00-102",
+    "addr:street": "Marszałkowska",
+    "amenity": "nightclub",
+    "check_date": "2023-07-22",
+    "name": "Capitol",
+    "smoking": "isolated"
+  }
+},
+{
+  "type": "node",
+  "id": 5952327074,
+  "lat": 50.6817292,
+  "lon": 17.9414004,
+  "tags": {
+    "addr:city": "Opole",
+    "addr:housenumber": "102",
+    "addr:postcode": "45-231",
+    "addr:street": "Oleska",
+    "amenity": "nightclub",
+    "contact:phone": "+48 505 005 001",
+    "name": "Mango Music Club",
+    "smoking": "outside",
+    "web": "https://www.mangoclub.pl/"
+  }
+},
+{
+  "type": "node",
+  "id": 5952337029,
+  "lat": 53.1214330,
+  "lon": 17.9954837,
+  "tags": {
+    "addr:city": "Bydgoszcz",
+    "addr:housenumber": "2",
+    "addr:postcode": "85-036",
+    "addr:street": "Wełniany Rynek",
+    "amenity": "nightclub",
+    "name": "infinity club",
+    "smoking": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5955050430,
+  "lat": 49.7046635,
+  "lon": 19.0032392,
+  "tags": {
+    "addr:city": "Szczyrk",
+    "addr:housenumber": "5",
+    "addr:postcode": "43-370",
+    "addr:street": "Sosnowa",
+    "amenity": "nightclub",
+    "name": "Night Club Galactica",
+    "phone": "+48 33 817 92 55"
+  }
+},
+{
+  "type": "node",
+  "id": 5964474385,
+  "lat": 54.1933962,
+  "lon": 16.1783521,
+  "tags": {
+    "addr:housenumber": "1a",
+    "addr:street": "Podgrodzie",
+    "amenity": "nightclub",
+    "name": "Sizar"
+  }
+},
+{
+  "type": "node",
+  "id": 5976232284,
+  "lat": 54.3611239,
+  "lon": 18.6288478,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Medyk"
+  }
+},
+{
+  "type": "node",
+  "id": 5993894085,
+  "lat": 54.3500601,
+  "lon": 18.6487517,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Tka",
+    "name:pl": "Tkacka Club",
+    "opening_hours": "We-Sa 21:00-05:00",
+    "website": "http://www.tkackaclub.pl"
+  }
+},
+{
+  "type": "node",
+  "id": 6011254500,
+  "lat": 50.0576382,
+  "lon": 19.9445016,
+  "tags": {
+    "addr:city": "Kraków",
+    "addr:housenumber": "16",
+    "addr:street": "Starowiślna",
+    "alt_name": "Shine Club Kraków",
+    "amenity": "nightclub",
+    "name": "Shine",
+    "opening_hours": "Fr,Sa 22:00-05:00",
+    "phone": "+48 725 700 225",
+    "postal_code": "31-032",
+    "website": "https://krakow.shineclub.com.pl/"
+  }
+},
+{
+  "type": "node",
+  "id": 6016316530,
+  "lat": 52.7301888,
+  "lon": 15.2403966,
+  "tags": {
+    "amenity": "nightclub",
+    "contact:facebook": "https://www.facebook.com/klubVIVAclub/",
+    "email": "info@vivadisco.pl",
+    "name": "Viva Disco",
+    "phone": "+48 69 69 96 999",
+    "website": "http://vivadisco.pl/"
+  }
+},
+{
+  "type": "node",
+  "id": 6027702529,
+  "lat": 51.8676069,
+  "lon": 16.7246313,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Protector Dobramyśl"
+  }
+},
+{
+  "type": "node",
+  "id": 6044678289,
+  "lat": 50.0613194,
+  "lon": 19.9420641,
+  "tags": {
+    "addr:city": "Kraków",
+    "addr:housenumber": "9",
+    "addr:street": "Mikołajska",
+    "amenity": "nightclub",
+    "level": "-1",
+    "name": "Awaria",
+    "opening_hours": "Mo-Su 15:00-18:00+",
+    "postal_code": "31-027",
+    "website": "http://www.klubawaria.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 6046739707,
+  "lat": 53.4271097,
+  "lon": 14.5455840,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2025-12-09",
+    "name": "Bada bing"
+  }
+},
+{
+  "type": "node",
+  "id": 6053576524,
+  "lat": 50.0627747,
+  "lon": 19.9353355,
+  "tags": {
+    "addr:city": "Kraków",
+    "addr:housenumber": "6",
+    "addr:postcode": "31-010",
+    "addr:street": "Jagiellońska",
+    "amenity": "nightclub",
+    "level": "-1",
+    "name": "Four Music Club",
+    "opening_hours:signed": "no",
+    "website": "https://www.facebook.com/FourMusicClub/"
+  }
+},
+{
+  "type": "node",
+  "id": 6056104732,
+  "lat": 50.0604238,
+  "lon": 19.9364716,
+  "tags": {
+    "amenity": "nightclub",
+    "level": "-1",
+    "name": "Guapo",
+    "website": "http://www.klub.krakow.pl/disco-pub/"
+  }
+},
+{
+  "type": "node",
+  "id": 6074309373,
+  "lat": 52.7440441,
+  "lon": 15.2427692,
+  "tags": {
+    "addr:city": "Gorzów Wielkopolski",
+    "addr:postcode": "66-400",
+    "addr:street": "Józefa Sułkowskiego",
+    "amenity": "nightclub",
+    "name": "Świstak"
+  }
+},
+{
+  "type": "node",
+  "id": 6074357603,
+  "lat": 52.7326768,
+  "lon": 15.2397294,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "The Whiskey Jar"
+  }
+},
+{
+  "type": "node",
+  "id": 6095590148,
+  "lat": 52.8414059,
+  "lon": 19.7238348,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Explosion Club Borkowo"
+  }
+},
+{
+  "type": "node",
+  "id": 6107114911,
+  "lat": 51.1013453,
+  "lon": 17.0231025,
+  "tags": {
+    "addr:city": "Wrocław",
+    "addr:housenumber": "8",
+    "addr:postcode": "53-508",
+    "addr:street": "Kolejowa",
+    "alt_name": "Uczulenie",
+    "amenity": "nightclub",
+    "check_date": "2025-12-10",
+    "name": "Czuła jest noc",
+    "start_date": "2018-03",
+    "toilets:wheelchair": "no",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 6235888917,
+  "lat": 52.2029819,
+  "lon": 21.0010068,
+  "tags": {
+    "addr:city": "Warszawa",
+    "addr:housenumber": "87",
+    "addr:street": "Ludwika Narbutta",
+    "amenity": "nightclub",
+    "name": "Klub Mechanik",
+    "website": "https://www.facebook.com/klubmechanik/"
+  }
+},
+{
+  "type": "node",
+  "id": 6263702286,
+  "lat": 49.4413870,
+  "lon": 19.8762259,
+  "tags": {
+    "amenity": "nightclub",
+    "internet_access": "wlan",
+    "name": "Dragon",
+    "name:en": "Club Dragon",
+    "name:pl": "Club Dragon"
+  }
+},
+{
+  "type": "node",
+  "id": 6274098412,
+  "lat": 52.4090917,
+  "lon": 16.9339582,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:city:en": "Poznan",
+    "amenity": "nightclub",
+    "email": "mail@dram.bar",
+    "name": "Dram Whisky Explorers Bar",
+    "opening_hours": "Mo off; Tu-Sa 18:00-24:00; Su off",
+    "phone": "+48 739 903 197",
+    "website": "https://dram.bar/"
+  }
+},
+{
+  "type": "node",
+  "id": 6284197609,
+  "lat": 54.3707586,
+  "lon": 18.6154962,
+  "tags": {
+    "addr:city": "Gdańsk",
+    "addr:country": "PL",
+    "addr:housenumber": "4",
+    "addr:postcode": "80-222",
+    "addr:street": "Siedlicka",
+    "alt_name": "AK PG Kwadratowa",
+    "amenity": "nightclub",
+    "email": "tomasz.toloczko@pg.edu.pl",
+    "name": "Akademicki Klub Politechniki Gdańskiej „Kwadratowa”",
+    "name:en": "The Academic Club of Gdańsk University of Technology \"Kwadratowa\"",
+    "opening_hours": "Fr,Sa 21:00-04:30",
+    "phone": "+48 58 347 17 70",
+    "website": "https://www.kwadratowa.pl/"
+  }
+},
+{
+  "type": "node",
+  "id": 6303748133,
+  "lat": 51.4075433,
+  "lon": 21.1519371,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Alibi"
+  }
+},
+{
+  "type": "node",
+  "id": 6337795932,
+  "lat": 52.3373829,
+  "lon": 16.8916119,
+  "tags": {
+    "addr:city": "Luboń",
+    "addr:city:simc": "0970974",
+    "addr:housenumber": "49",
+    "addr:postcode": "62-030",
+    "addr:street": "Armii Poznań",
+    "addr:street:sym_ul": "31886",
+    "amenity": "nightclub",
+    "name": "Skeleton MC Poznań"
+  }
+},
+{
+  "type": "node",
+  "id": 6341938889,
+  "lat": 52.4079322,
+  "lon": 16.9180137,
+  "tags": {
+    "amenity": "nightclub",
+    "email": "hades-poznan@wp.pl",
+    "name": "Hades",
+    "opening_hours": "16:00-02:00",
+    "phone": "+48 61 847 51 72",
+    "sport": "billiards",
+    "website": "https://www.facebook.com/pg/Hades.Klub.Bilardowy/"
+  }
+},
+{
+  "type": "node",
+  "id": 6361419216,
+  "lat": 50.0439922,
+  "lon": 19.9488278,
+  "tags": {
+    "amenity": "nightclub",
+    "contact:instagram": "https://www.instagram.com/kiosk.events",
+    "name": "Kiosk Events",
+    "opening_hours": "\"open during events\"",
+    "phone": "+48 501 786 753",
+    "was:shop": "kiosk"
+  }
+},
+{
+  "type": "node",
+  "id": 6367267725,
+  "lat": 52.4051396,
+  "lon": 16.9212549,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:housenumber": "10",
+    "addr:postcode": "61-818",
+    "addr:street": "Stanisława Taczaka",
+    "amenity": "nightclub",
+    "name": "Schron",
+    "phone": "+48 609 651 666"
+  }
+},
+{
+  "type": "node",
+  "id": 6375786668,
+  "lat": 52.4068184,
+  "lon": 16.9208070,
+  "tags": {
+    "amenity": "nightclub",
+    "email": "biuro@hycka.pl",
+    "name": "Hyćka Klub",
+    "opening_hours": "Mo off; Tu-Sa 17:00-00:00; Su off",
+    "phone": "+48 537 788 000",
+    "website": "https://www.hycka.pl/klub/"
+  }
+},
+{
+  "type": "node",
+  "id": 6381227602,
+  "lat": 51.0966918,
+  "lon": 17.0382252,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2025-12-10",
+    "contact:facebook": "https://www.facebook.com/cialo.wroclaw/",
+    "level": "-1",
+    "name": "Ciało"
+  }
+},
+{
+  "type": "node",
+  "id": 6391417885,
+  "lat": 52.2378888,
+  "lon": 21.0128110,
+  "tags": {
+    "addr:city": "Warszawa",
+    "addr:housenumber": "13",
+    "addr:postcode": "00-052",
+    "addr:street": "Mazowiecka",
+    "amenity": "nightclub",
+    "check_date": "2024-06-04",
+    "email": "info@room13.pl",
+    "name": "Room 13",
+    "phone": "+48 798 113 915",
+    "website": "https://www.room13.pl/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6419756439,
+  "lat": 54.4485099,
+  "lon": 18.5684102,
+  "tags": {
+    "amenity": "nightclub",
+    "email": "biuro@scenaklub.pl",
+    "name": "Klub Muzyczny Scena",
+    "phone": "+48 601 208 435",
+    "website": "https://www.scenaklub.pl/"
+  }
+},
+{
+  "type": "node",
+  "id": 6419769217,
+  "lat": 54.4441510,
+  "lon": 18.5675783,
+  "tags": {
+    "amenity": "nightclub",
+    "email": "info@spatif.sopot.pl",
+    "name": "SPATiF",
+    "phone": "+48 58 550 26 83",
+    "website": "https://www.spatif.sopot.pl/main.htm"
+  }
+},
+{
+  "type": "node",
+  "id": 6471217452,
+  "lat": 51.6174012,
+  "lon": 15.2970603,
+  "tags": {
+    "addr:city": "Żagań",
+    "addr:housenumber": "54",
+    "addr:postcode": "68-100",
+    "addr:street": "Marii Konopnickiej",
+    "amenity": "nightclub",
+    "name": "Elektrownia"
+  }
+},
+{
+  "type": "node",
+  "id": 6501447989,
+  "lat": 53.5644490,
+  "lon": 20.9942572,
+  "tags": {
+    "amenity": "nightclub",
+    "club": "music",
+    "name": "Pub no 9",
+    "website": "https://www.facebook.com/pubno9/"
+  }
+},
+{
+  "type": "node",
+  "id": 6538413839,
+  "lat": 54.0341377,
+  "lon": 21.7719707,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Pasaż Club&Food"
+  }
+},
+{
+  "type": "node",
+  "id": 6551126172,
+  "lat": 54.4684811,
+  "lon": 17.0303920,
+  "tags": {
+    "addr:city": "Słupsk",
+    "addr:postcode": "76-200",
+    "addr:street": "Murarska",
+    "amenity": "nightclub",
+    "name": "Gentlemen's Club"
+  }
+},
+{
+  "type": "node",
+  "id": 6551138590,
+  "lat": 54.4654697,
+  "lon": 17.0295731,
+  "tags": {
+    "addr:city": "Słupsk",
+    "addr:postcode": "76-200",
+    "addr:street": "Filmowa",
+    "amenity": "nightclub",
+    "name": "Zajezdnia",
+    "opening_hours:signed": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6558480797,
+  "lat": 50.0603821,
+  "lon": 19.9223234,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Klub Studencki Żaczek",
+    "opening_hours": "Mo-Sa 10:00-24:00; Su 12:00-24:00",
+    "website": "https://klubzaczek.pl/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6587948056,
+  "lat": 50.6691867,
+  "lon": 18.6859175,
+  "tags": {
+    "addr:city": "Lubliniec",
+    "addr:housenumber": "1",
+    "addr:postcode": "42-700",
+    "addr:street": "Plebiscytowa",
+    "amenity": "nightclub",
+    "email": "biuro@arkadyklub.pl",
+    "name": "Arkady",
+    "opening_hours": "Fr-Sa 22:00-05:00",
+    "phone": "+48 884 348 703",
+    "website": "http://www.arkadyklub.pl"
+  }
+},
+{
+  "type": "node",
+  "id": 6635288017,
+  "lat": 54.3489945,
+  "lon": 18.6579803,
+  "tags": {
+    "alt_name": "Sassy Prive",
+    "amenity": "nightclub",
+    "level": "7",
+    "name": "Sassy",
+    "opening_hours": "Fr-Sa 22:00-05:00",
+    "operator": "Sassy"
+  }
+},
+{
+  "type": "node",
+  "id": 6638497300,
+  "lat": 49.6950149,
+  "lon": 21.7647467,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Gentleman Club"
+  }
+},
+{
+  "type": "node",
+  "id": 6668002108,
+  "lat": 50.8719637,
+  "lon": 20.6318326,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Maska"
+  }
+},
+{
+  "type": "node",
+  "id": 6744768745,
+  "lat": 51.5947301,
+  "lon": 18.7310131,
+  "tags": {
+    "addr:city": "Sieradz",
+    "addr:housenumber": "3",
+    "addr:postcode": "98-200",
+    "addr:street": "Jana Pawła II",
+    "amenity": "nightclub",
+    "name": "Prorock"
+  }
+},
+{
+  "type": "node",
+  "id": 6751281142,
+  "lat": 52.5440948,
+  "lon": 19.6868361,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "The Queen"
+  }
+},
+{
+  "type": "node",
+  "id": 6774423618,
+  "lat": 53.3924098,
+  "lon": 19.6497673,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Ibiza"
+  }
+},
+{
+  "type": "node",
+  "id": 6929519442,
+  "lat": 51.9444811,
+  "lon": 15.5131831,
+  "tags": {
+    "addr:city": "Zielona Góra",
+    "addr:housenumber": "21",
+    "addr:postcode": "65-047",
+    "addr:street": "Kazimierza Wielkiego",
+    "amenity": "nightclub",
+    "contact:facebook": "https://www.facebook.com/ObiektKlub/",
+    "name": "Obiekt",
+    "phone": "+48 781 273 340",
+    "url": "https://polska-org.pl/8618203,Zielona_Gora,Klub_nocny_Obiekt.html",
+    "website": "http://www.obiekt.net/"
+  }
+},
+{
+  "type": "node",
+  "id": 6932947217,
+  "lat": 52.4106130,
+  "lon": 16.9267022,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:housenumber": "13/15",
+    "addr:postcode": "61-732",
+    "addr:street": "Feliksa Nowowiejskiego",
+    "amenity": "nightclub",
+    "brewery": "yes",
+    "check_date:currency:XBT": "2022-12-09",
+    "contact:facebook": "https://www.facebook.com/nanowomuzyka",
+    "contact:instagram": "https://www.instagram.com/muzykananowo",
+    "currency:XBT": "yes",
+    "name": "Muzyka na nowo",
+    "note:addr": "adres nie został nadany urzędowo",
+    "old_name": "Muchos",
+    "old_website": "https://www.muchos.pl/",
+    "opening_hours": "Sa 20:00-04:00; We-Fr 20:00-01:00",
+    "payment:lightning": "yes",
+    "payment:onchain": "yes",
+    "phone": "+48 61 8519 173",
+    "smoking": "no",
+    "website": "https://www.muzykananowo.pl/"
+  }
+},
+{
+  "type": "node",
+  "id": 6959320942,
+  "lat": 52.2323707,
+  "lon": 21.0181830,
+  "tags": {
+    "addr:city": "Warszawa",
+    "addr:housenumber": "21C",
+    "addr:postcode": "00-029",
+    "addr:street": "Nowy Świat",
+    "amenity": "nightclub",
+    "check_date": "2026-03-10",
+    "facebook": "niebo",
+    "name": "Niebo",
+    "opening_hours": "Mo-Su 12:00-00:00",
+    "smoking": "outside",
+    "start_date": "2016-04-16",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7037363993,
+  "lat": 51.7696147,
+  "lon": 19.4553082,
+  "tags": {
+    "addr:city": "Łódź",
+    "addr:housenumber": "55",
+    "addr:postcode": "90-413",
+    "addr:street": "Piotrkowska",
+    "amenity": "nightclub",
+    "name": "Klub Czekolada Łódź",
+    "smoking": "isolated"
+  }
+},
+{
+  "type": "node",
+  "id": 7037490268,
+  "lat": 50.0214175,
+  "lon": 22.0121366,
+  "tags": {
+    "addr:city": "Rzeszów",
+    "addr:housenumber": "3",
+    "addr:postcode": "35-001",
+    "addr:street": "Księdza Jerzego Popiełuszki",
+    "amenity": "nightclub",
+    "name": "Runway club",
+    "smoking": "isolated"
+  }
+},
+{
+  "type": "node",
+  "id": 7089579491,
+  "lat": 51.1056710,
+  "lon": 17.0123610,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2025-12-10",
+    "contact:facebook": "https://www.facebook.com/Transformator.wro/",
+    "fee": "yes",
+    "name": "Transformator",
+    "start_date": "2018"
+  }
+},
+{
+  "type": "node",
+  "id": 7112020180,
+  "lat": 50.8126597,
+  "lon": 19.1057680,
+  "tags": {
+    "addr:city": "Częstochowa",
+    "addr:housenumber": "64",
+    "addr:postcode": "42-217",
+    "addr:street": "Aleja Najświętszej Maryi Panny",
+    "amenity": "nightclub",
+    "name": "DON Kichot",
+    "opening_hours": "Mo,We 00:00-05:00; Tu 21:00-24:00; Fr 22:00-24:00; Sa,Su 00:00-05:00,22:00-24:00",
+    "website": "http://www.donkichot.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 7132734675,
+  "lat": 52.4149355,
+  "lon": 16.9264711,
+  "tags": {
+    "alt_name": "klub 2Progi",
+    "amenity": "nightclub",
+    "contact:facebook": "https://www.facebook.com/2progi",
+    "email": "biuro@2progi.pl",
+    "name": "2Progi Club",
+    "phone": "+48 606 277 256",
+    "short_name": "2Progi",
+    "source": "survey",
+    "website": "https://2progi.pl/"
+  }
+},
+{
+  "type": "node",
+  "id": 7140702287,
+  "lat": 51.8318589,
+  "lon": 16.5855422,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Finezja"
+  }
+},
+{
+  "type": "node",
+  "id": 7212430001,
+  "lat": 50.0279612,
+  "lon": 22.0139347,
+  "tags": {
+    "addr:city": "Rzeszów",
+    "addr:housenumber": "1/198",
+    "addr:postcode": "35-315",
+    "addr:street": "Aleja majora Wacława Kopisto",
+    "amenity": "nightclub",
+    "name": "LUKR club",
+    "smoking": "isolated"
+  }
+},
+{
+  "type": "node",
+  "id": 7254998428,
+  "lat": 53.7290849,
+  "lon": 18.9264914,
+  "tags": {
+    "addr:city": "Kwidzyn",
+    "addr:postcode": "82-500",
+    "addr:street": "11 Listopada",
+    "amenity": "nightclub",
+    "name": "Schron",
+    "name:pl": "Schron"
+  }
+},
+{
+  "type": "node",
+  "id": 7600044246,
+  "lat": 50.4445736,
+  "lon": 20.8252571,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Mirage Music Club",
+    "phone": "+48413734013",
+    "smoking": "dedicated",
+    "website": "https://www.facebook.com/Mirage-Music-Club-1522369834686826/timeline"
+  }
+},
+{
+  "type": "node",
+  "id": 7618162496,
+  "lat": 51.1077070,
+  "lon": 17.0321776,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2025-12-10",
+    "contact:facebook": "https://www.facebook.com/TusaMusicClub/",
+    "level": "-1",
+    "name": "Tusa",
+    "start_date": "2022-07",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7629862852,
+  "lat": 52.4073020,
+  "lon": 16.9381313,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:city:simc": "0969400",
+    "addr:housenumber": "54",
+    "addr:postcode": "61-758",
+    "addr:street": "Garbary",
+    "amenity": "nightclub",
+    "email": "club@clubdarkangels.com",
+    "fetish": "yes",
+    "name": "Dark Angels",
+    "name:fa": "فرشته های تاریک",
+    "opening_hours": "21:00-02:00; Fr,Sa 21:00-06:00",
+    "phone": "+48 61 853 88 62",
+    "source:addr": "EMUiA (emuia.geoportal.gov.pl)",
+    "website": "https://www.clubdarkangels.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 7629862854,
+  "lat": 52.4115998,
+  "lon": 16.9360236,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:housenumber": "6",
+    "addr:postcode": "61-756",
+    "addr:street": "Małe Garbary",
+    "amenity": "nightclub",
+    "contact:facebook": "https://www.facebook.com/HAHPoznan/",
+    "email": "poznan@hah.com.pl",
+    "instagram": "https://www.instagram.com/hahpoznan_official/",
+    "lgbtq": "primary",
+    "name": "HAH Poznań",
+    "payment:cash": "yes",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "phone": "+48 786 175 808",
+    "start_date": "2011-07-01",
+    "website": "https://www.hah.com.pl/"
+  }
+},
+{
+  "type": "node",
+  "id": 7650806942,
+  "lat": 53.1339253,
+  "lon": 23.1541291,
+  "tags": {
+    "addr:city": "Białystok",
+    "addr:country": "PL",
+    "addr:housenumber": "2",
+    "addr:postcode": "15-453",
+    "addr:street": "Nowy Świat",
+    "amenity": "nightclub",
+    "check_date": "2025-11-10",
+    "contact:email": "pietrobialystok@gmail.com",
+    "contact:facebook": "https://www.facebook.com/klubpietro/",
+    "contact:website": "http://www.klubpietro.pl/",
+    "email": "pietrobialystok@gmail.com",
+    "level": "1",
+    "name": "Piętro",
+    "opening_hours": "Fr-Sa 22:00-05:00",
+    "payment:american_express": "yes",
+    "payment:coins": "yes",
+    "payment:contactless": "yes",
+    "payment:diners_club": "yes",
+    "payment:discover_card": "yes",
+    "payment:jcb": "yes",
+    "payment:maestro": "yes",
+    "payment:mastercard": "yes",
+    "payment:notes": "yes",
+    "payment:visa": "yes",
+    "payment:visa_debit": "yes",
+    "payment:visa_electron": "yes",
+    "phone": "+48 506 459 751",
+    "smoking": "outside",
+    "website": "http://www.klubpietro.pl/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7700332796,
+  "lat": 51.7650386,
+  "lon": 19.4551167,
+  "tags": {
+    "alt_name": "Prywatka",
+    "amenity": "nightclub",
+    "name": "Prywatka Dance Club",
+    "phone": "+48 666 020 100",
+    "website": "https://prywatkaklub.pl/o-nas"
+  }
+},
+{
+  "type": "node",
+  "id": 7714150975,
+  "lat": 51.2461233,
+  "lon": 22.5558518,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "The Mist Club",
+    "opening_hours": "Fr-Sa 22:00-04:30",
+    "smoking": "isolated"
+  }
+},
+{
+  "type": "node",
+  "id": 7721428988,
+  "lat": 50.0625945,
+  "lon": 19.9345555,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2025-12-09",
+    "check_date:opening_hours": "2022-11-28",
+    "contact:city": "Kraków",
+    "contact:housenumber": "14",
+    "contact:postcode": "31-962",
+    "contact:street": "Szewska",
+    "inscription": "rin music club",
+    "name": "Rin",
+    "smoking": "isolated",
+    "website": "https://www.facebook.com/rinclubkrakow/"
+  }
+},
+{
+  "type": "node",
+  "id": 7768248839,
+  "lat": 52.2335638,
+  "lon": 21.0197280,
+  "tags": {
+    "addr:housenumber": "32",
+    "addr:street": "Nowy Świat",
+    "amenity": "nightclub",
+    "check_date": "2023-08-04",
+    "level": "-1",
+    "name": "The Club No 1",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7768255852,
+  "lat": 52.2336457,
+  "lon": 21.0200738,
+  "tags": {
+    "addr:city": "Warszawa",
+    "addr:housenumber": "18",
+    "addr:postcode": "00-372",
+    "addr:street": "Foksal",
+    "amenity": "nightclub",
+    "check_date": "2023-07-07",
+    "name": "Golden Moon"
+  }
+},
+{
+  "type": "node",
+  "id": 7777579918,
+  "lat": 52.4080653,
+  "lon": 16.9316100,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:housenumber": "10",
+    "addr:postcode": "61-001",
+    "addr:street": "Ignacego Paderewskiego",
+    "amenity": "nightclub",
+    "email": "maja@xdemon.pl",
+    "name": "X-Demon Poznań",
+    "name:fa": "پوزنان ایکس دمون",
+    "name:pl": "X-Demon Poznań",
+    "opening_hours": "Th-Su 22:00-06:00",
+    "phone": "+48 797 282 072",
+    "smoking": "isolated",
+    "website": "http://www.poznan.xdemon.pl/"
+  }
+},
+{
+  "type": "node",
+  "id": 7795538948,
+  "lat": 52.2424450,
+  "lon": 21.0183834,
+  "tags": {
+    "addr:city": "Warszawa",
+    "addr:housenumber": "31",
+    "addr:postcode": "00-324",
+    "addr:street": "Karowa",
+    "amenity": "nightclub",
+    "name": "Karova",
+    "website": "http://karova.club/"
+  }
+},
+{
+  "type": "node",
+  "id": 7830473485,
+  "lat": 50.0460744,
+  "lon": 19.9491918,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Drukarnia Jazz Pub",
+    "opening_hours": "Su-Th 10:00-24:00, Fr,Sa 10:00-02:00"
+  }
+},
+{
+  "type": "node",
+  "id": 7853560359,
+  "lat": 53.4241407,
+  "lon": 14.5527603,
+  "tags": {
+    "addr:city": "Szczecin",
+    "addr:housenumber": "14",
+    "addr:postcode": "70-201",
+    "addr:street": "Księdza kardynała Stefana Wyszyńskiego",
+    "addr:unit": "001",
+    "amenity": "nightclub",
+    "name": "Gorzko Gorzko Szczecin",
+    "opening_hours": "Sa-Su 22:00-05:00",
+    "smoking": "isolated"
+  }
+},
+{
+  "type": "node",
+  "id": 7885417424,
+  "lat": 53.4233376,
+  "lon": 14.5596057,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Gold Night Club"
+  }
+},
+{
+  "type": "node",
+  "id": 7943100446,
+  "lat": 52.2327459,
+  "lon": 21.0237195,
+  "tags": {
+    "addr:housenumber": "6",
+    "addr:street": "Aleje Jerozolimskie",
+    "amenity": "nightclub",
+    "check_date": "2023-08-04",
+    "club": "music",
+    "name": "Luzztro",
+    "opening_hours": "Mo-Th, Su 22:00-06:00; Fr, Sa 22:00-14:00",
+    "website": "https://luzztro.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 7947521518,
+  "lat": 54.1875677,
+  "lon": 16.1694477,
+  "tags": {
+    "addr:housenumber": "2",
+    "addr:street": "Kolejowa",
+    "amenity": "nightclub",
+    "name": "Casablanka"
+  }
+},
+{
+  "type": "node",
+  "id": 7967208585,
+  "lat": 54.1936033,
+  "lon": 16.2029490,
+  "tags": {
+    "addr:housenumber": "2",
+    "addr:street": "Stanisława Moniuszki",
+    "amenity": "nightclub",
+    "name": "Klub muzyczny Trokadero",
+    "website": "https://trokadero.pl/"
+  }
+},
+{
+  "type": "node",
+  "id": 8089092839,
+  "lat": 50.3238241,
+  "lon": 19.1839380,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Easy"
+  }
+},
+{
+  "type": "node",
+  "id": 8147844352,
+  "lat": 50.0548266,
+  "lon": 19.9434974,
+  "tags": {
+    "amenity": "nightclub",
+    "level": "-1",
+    "name": "Papuga",
+    "opening_hours": "Th 22:00-24:00; Fr 00:00-04:00,22:00-24:00; Sa 00:00-06:00,22:00-24:00; Su 00:00-06:00",
+    "website": "https://www.facebook.com/Club-Papuga-348566072497292/"
+  }
+},
+{
+  "type": "node",
+  "id": 8193231919,
+  "lat": 50.8792395,
+  "lon": 22.0713792,
+  "tags": {
+    "addr:housenumber": "172",
+    "addr:place": "Liśnik Duży",
+    "addr:postcode": "23-275",
+    "amenity": "nightclub",
+    "internet_access": "wlan",
+    "name": "Melina",
+    "opening_hours": "Fr-Sa 20:00-05:00"
+  }
+},
+{
+  "type": "node",
+  "id": 8446493132,
+  "lat": 50.8728949,
+  "lon": 20.6298790,
+  "tags": {
+    "amenity": "nightclub",
+    "mobile": "+48 512 170 995",
+    "name": "Czerwony Fortepian",
+    "website": "https://czerwonyfortepian.eu"
+  }
+},
+{
+  "type": "node",
+  "id": 8483655326,
+  "lat": 53.4279964,
+  "lon": 14.5436052,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Labirynt",
+    "note": "Sala imprezowa do wynajęcia",
+    "website": "https://www.facebook.com/labiryntclubszczecin/"
+  }
+},
+{
+  "type": "node",
+  "id": 8537344380,
+  "lat": 52.3638531,
+  "lon": 14.5703951,
+  "tags": {
+    "amenity": "nightclub",
+    "email": "astra@astraslubice.pl",
+    "name": "Astra - Słubice",
+    "phone": "+48502999555",
+    "website": "https://www.astraslubice.pl/"
+  }
+},
+{
+  "type": "node",
+  "id": 8567999127,
+  "lat": 52.2326732,
+  "lon": 21.0217116,
+  "tags": {
+    "addr:city": "Warszawa",
+    "addr:housenumber": "38",
+    "addr:postcode": "00-375",
+    "addr:street": "Smolna",
+    "amenity": "nightclub",
+    "club": "music",
+    "name": "Smolna",
+    "website": "https://www.smolna38.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 8808839491,
+  "lat": 51.4005331,
+  "lon": 21.1547697,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Podwórko Sezam"
+  }
+},
+{
+  "type": "node",
+  "id": 8907454578,
+  "lat": 53.1299120,
+  "lon": 23.1560357,
+  "tags": {
+    "addr:city": "Białystok",
+    "addr:housenumber": "2",
+    "addr:street": "Marii Skłodowskiej-Curie",
+    "amenity": "nightclub",
+    "contact:email": "loftclubbialystok@gmail.com",
+    "contact:facebook": "https://www.facebook.com/loftclubbialystok/",
+    "email": "loftclubbialystok@gmail.com",
+    "min_age": "18",
+    "mobile": "+48 790 830 290",
+    "name": "LOFT CLUB",
+    "opening_hours": "Fr-Sa 21:00-04:00",
+    "payment:american_express": "yes",
+    "payment:coins": "yes",
+    "payment:contactless": "yes",
+    "payment:diners_club": "yes",
+    "payment:discover_card": "yes",
+    "payment:jcb": "yes",
+    "payment:maestro": "yes",
+    "payment:mastercard": "yes",
+    "payment:notes": "yes",
+    "payment:visa": "yes",
+    "payment:visa_debit": "yes",
+    "payment:visa_electron": "yes",
+    "smoking": "outside",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 8947068343,
+  "lat": 50.9023829,
+  "lon": 15.7550366,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "SKYLAB"
+  }
+},
+{
+  "type": "node",
+  "id": 8987915717,
+  "lat": 52.2327902,
+  "lon": 21.0402120,
+  "tags": {
+    "addr:city": "Warszawa",
+    "addr:housenumber": "6",
+    "addr:postcode": "00-411",
+    "addr:street": "Wioślarska",
+    "alt_name": "Sen Events",
+    "amenity": "nightclub",
+    "check_date": "2024-09-06",
+    "email": "reservations@senwarsaw.pl",
+    "name": "Sen",
+    "opening_hours": "Fr-Sa 19:00+",
+    "phone": "+48883025025",
+    "smoking": "isolated",
+    "website": "https://senwarsaw.pl"
+  }
+},
+{
+  "type": "node",
+  "id": 9056962352,
+  "lat": 52.8721361,
+  "lon": 14.1959585,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Villa Rosa"
+  }
+},
+{
+  "type": "node",
+  "id": 9056962405,
+  "lat": 52.8805923,
+  "lon": 14.2081610,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Venus"
+  }
+},
+{
+  "type": "node",
+  "id": 9170664091,
+  "lat": 54.5261601,
+  "lon": 18.5126442,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Bukszpryt"
+  }
+},
+{
+  "type": "node",
+  "id": 9184156962,
+  "lat": 50.8125313,
+  "lon": 19.1285652,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Dancing Club Remis",
+    "website": "https://www.facebook.com/Dancing-Club-Remis-112115200318318/"
+  }
+},
+{
+  "type": "node",
+  "id": 9296351426,
+  "lat": 52.7833949,
+  "lon": 18.7130897,
+  "tags": {
+    "amenity": "nightclub",
+    "facebook": "https://www.facebook.com/venusplanet123/",
+    "instagram": "https://www.instagram.com/klubvenus/?hl=pl",
+    "name": "Venus Planet",
+    "website": "https://www.venusplanet.pl/"
+  }
+},
+{
+  "type": "node",
+  "id": 9341284365,
+  "lat": 53.1326019,
+  "lon": 23.1601835,
+  "tags": {
+    "addr:city": "Białystok",
+    "addr:country": "PL",
+    "addr:housenumber": "3",
+    "addr:postcode": "15-432",
+    "addr:street": "Henryka Sienkiewicza",
+    "alt_name": "Sky Club Białystok",
+    "amenity": "nightclub",
+    "contact:email": "kontakt@sky-club.pl;skyclubbialystok@gmail.com",
+    "contact:facebook": "https://www.facebook.com/skyclubbialystok",
+    "contact:instagram": "https://www.instagram.com/skyclub_bialystok/",
+    "contact:website": "https://sky-club.pl/",
+    "email": "kontakt@sky-club.pl;skyclubbialystok@gmail.com",
+    "level": "-1",
+    "min_age": "18",
+    "mobile": "+48 736 078 573; +48 797 332 290",
+    "name": "SkyClub",
+    "opening_hours": "Th-Sa 22:00-06:00",
+    "payment:american_express": "yes",
+    "payment:cash": "yes",
+    "payment:contactless": "yes",
+    "payment:diners_club": "yes",
+    "payment:discover_card": "yes",
+    "payment:jcb": "yes",
+    "payment:maestro": "yes",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "payment:visa_debit": "yes",
+    "payment:visa_electron": "yes",
+    "website": "https://sky-club.pl/",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 9392762089,
+  "lat": 50.0246338,
+  "lon": 18.4532732,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Gomola"
+  }
+},
+{
+  "type": "node",
+  "id": 9393223350,
+  "lat": 51.1101222,
+  "lon": 17.0253823,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2025-12-10",
+    "level": "-1",
+    "name": "Drugie Dno",
+    "opening_hours": "Th 19:00-04:00, Fr-Sa 19:00-05:00",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 9393253459,
+  "lat": 51.1082410,
+  "lon": 17.0349290,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2025-12-10",
+    "facebook": "https://www.facebook.com/people/Beyond-Music-Club/61561921131316/",
+    "level": "-1",
+    "name": "Beyond",
+    "website": "https://www.beyondmusicclub.pl"
+  }
+},
+{
+  "type": "node",
+  "id": 9407858285,
+  "lat": 54.4453370,
+  "lon": 18.5676048,
+  "tags": {
+    "amenity": "nightclub",
+    "level": "0;1",
+    "name": "TAN"
+  }
+},
+{
+  "type": "node",
+  "id": 9428120773,
+  "lat": 52.4055579,
+  "lon": 16.9189832,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:housenumber": "8A",
+    "addr:postcode": "61-875",
+    "addr:street": "Aleja Niepodległości",
+    "amenity": "nightclub",
+    "contact:facebook": "https://www.facebook.com/klubproznosc/",
+    "email": "klubproznosc@gmail.com",
+    "name": "Klub Próżność",
+    "note:addr": "adres nie został nadany urzędowo",
+    "opening_hours": "Mo-Th off; Fr-Sa 22:00-05:00; Su off",
+    "phone": "+48 506 203 214"
+  }
+},
+{
+  "type": "node",
+  "id": 9428120774,
+  "lat": 52.4122211,
+  "lon": 16.9369231,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:housenumber": "5",
+    "addr:postcode": "61-752",
+    "addr:street": "Grochowe Łąki",
+    "amenity": "nightclub",
+    "name": "Projekt LAB"
+  }
+},
+{
+  "type": "node",
+  "id": 9467095112,
+  "lat": 52.2213591,
+  "lon": 20.9862606,
+  "tags": {
+    "addr:city": "Warszawa",
+    "addr:housenumber": "19/25",
+    "addr:postcode": "02-021",
+    "addr:street": "Grójecka",
+    "amenity": "nightclub",
+    "check_date": "2026-05-29",
+    "email": "dekada@dekada.pl",
+    "facebook": "https://www.facebook.com/KlubDekadaWarszawa/",
+    "name": "Dekada",
+    "phone": "+48 602 685 805;+48 600 856 571",
+    "website": "https://dekada.pl/"
+  }
+},
+{
+  "type": "node",
+  "id": 9469295880,
+  "lat": 52.2421829,
+  "lon": 21.0097431,
+  "tags": {
+    "addr:city": "Warszawa",
+    "addr:city:simc": "0918123",
+    "addr:housenumber": "6",
+    "addr:street": "Aleksandra Fredry",
+    "amenity": "nightclub",
+    "check_date": "2023-09-17",
+    "contact:email": "buenosdias@teatrocubano.com",
+    "contact:facebook": "TeatroCubanoWarsaw",
+    "contact:instagram": "teatro_cubano_warsaw",
+    "contact:phone": "+48 538 194 494",
+    "contact:website": "https://warsaw.teatrocubano.com",
+    "name": "Teatro Cubano",
+    "opening_hours": "Mo-Su 22:00+",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 9490072944,
+  "lat": 52.2283006,
+  "lon": 21.0139322,
+  "tags": {
+    "addr:city": "Warszawa",
+    "addr:housenumber": "32/34",
+    "addr:postcode": "00-515",
+    "addr:street": "Żurawia",
+    "amenity": "nightclub",
+    "check_date": "2026-06-26",
+    "check_date:opening_hours": "2026-06-26",
+    "email": "zurawia@clubwesele.pl",
+    "name": "Wesele",
+    "opening_hours:signed": "no",
+    "phone": "+48 728 323 151",
+    "website": "http://www.clubwesele.pl/"
+  }
+},
+{
+  "type": "node",
+  "id": 9504646398,
+  "lat": 50.2572020,
+  "lon": 19.0282960,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Capitol"
+  }
+},
+{
+  "type": "node",
+  "id": 9510587720,
+  "lat": 54.1899566,
+  "lon": 16.1725721,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Kosmos"
+  }
+},
+{
+  "type": "node",
+  "id": 9527654180,
+  "lat": 50.0919384,
+  "lon": 18.9956687,
+  "tags": {
+    "air_conditioning": "yes",
+    "amenity": "nightclub",
+    "name": "Tawerna Pod Różą Wiatrów",
+    "opening_hours": "Mo-Su 17:00-03:00",
+    "phone": "+48 503 307 589",
+    "smoking": "outside",
+    "website": "https://m.facebook.com/tawerna.podrozawiatrow/?locale2=pl_PL"
+  }
+},
+{
+  "type": "node",
+  "id": 9559183289,
+  "lat": 53.2542728,
+  "lon": 19.4050538,
+  "tags": {
+    "addr:city": "Brodnica",
+    "addr:housenumber": "53",
+    "addr:postcode": "87-300",
+    "addr:street": "Przykop",
+    "amenity": "nightclub",
+    "contact:facebook": "https://www.facebook.com/gramofonklub",
+    "email": "biuro@klubgramofon.pl",
+    "image": "http://gramofonbrodnica.pl/wp-content/uploads/2017/03/14329989_326650724340362_6469956935610413685_n.jpg",
+    "internet_access": "yes",
+    "min_age": "18",
+    "mobile": "+48 509 335 545",
+    "name": "Klub Gramofon",
+    "smoking": "isolated",
+    "website": "http://www.klubgramofon.pl/"
+  }
+},
+{
+  "type": "node",
+  "id": 9560884530,
+  "lat": 50.0967411,
+  "lon": 18.5418883,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "NOC"
+  }
+},
+{
+  "type": "node",
+  "id": 9560884545,
+  "lat": 50.0958640,
+  "lon": 18.5425548,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Szepty"
+  }
+},
+{
+  "type": "node",
+  "id": 9597891717,
+  "lat": 50.0611448,
+  "lon": 19.9407213,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Klub Alternatywy"
+  }
+},
+{
+  "type": "node",
+  "id": 9615042526,
+  "lat": 52.2285862,
+  "lon": 21.0080787,
+  "tags": {
+    "addr:housenumber": "53",
+    "addr:street": "Aleje Jerozolimskie",
+    "amenity": "nightclub",
+    "check_date": "2023-10-10",
+    "name": "Foxy",
+    "opening_hours": "21:00-05:00",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 9624371890,
+  "lat": 52.2333814,
+  "lon": 21.0474263,
+  "tags": {
+    "amenity": "nightclub",
+    "email": "hello@lunaparkwarszawa.pl",
+    "facebook": "HockiKlockinadWisla",
+    "name": "Hocki Klocki w Lunaparku",
+    "seasonal": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9675125633,
+  "lat": 51.7770686,
+  "lon": 19.4524991,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date:opening_hours": "2024-08-01",
+    "name": "Magnes",
+    "opening_hours:signed": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 9779470707,
+  "lat": 53.1300955,
+  "lon": 23.1589428,
+  "tags": {
+    "addr:city": "Białystok",
+    "addr:housenumber": "3",
+    "addr:street": "Legionowa",
+    "amenity": "nightclub",
+    "contact:facebook": "https://www.facebook.com/rokokocubano",
+    "contact:website": "https://latino.klub.bialystok.pl/",
+    "min_age": "18",
+    "mobile": "+48 518 852 067",
+    "name": "Rokoko Cubano",
+    "opening_hours": "Fr-Sa 23:00-06:00",
+    "payment:american_express": "yes",
+    "payment:cash": "yes",
+    "payment:contactless": "yes",
+    "payment:diners_club": "yes",
+    "payment:discover_card": "yes",
+    "payment:jcb": "yes",
+    "payment:maestro": "yes",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "payment:visa_debit": "yes",
+    "payment:visa_electron": "yes",
+    "website": "https://latino.klub.bialystok.pl/",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 9873815275,
+  "lat": 52.8779446,
+  "lon": 20.6212460,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Piekiełko"
+  }
+},
+{
+  "type": "node",
+  "id": 9889964098,
+  "lat": 50.4413745,
+  "lon": 22.6338932,
+  "tags": {
+    "amenity": "nightclub",
+    "contact:facebook": "https://www.facebook.com/Havanaclubbiszcza",
+    "contact:instagram": "https://www.instagram.com/havanaclubbiszcza",
+    "name": "Havana CLUB"
+  }
+},
+{
+  "type": "node",
+  "id": 9919643338,
+  "lat": 53.1244701,
+  "lon": 18.0041839,
+  "tags": {
+    "addr:city": "Bydgoszcz",
+    "addr:street": "19 marca 1981 r.",
+    "amenity": "nightclub",
+    "name": "Grey Club",
+    "phone": "+48 600 428 432"
+  }
+},
+{
+  "type": "node",
+  "id": 9980221370,
+  "lat": 52.2382073,
+  "lon": 21.0130423,
+  "tags": {
+    "addr:city": "Warszawa",
+    "addr:housenumber": "14",
+    "addr:street": "Mazowiecka",
+    "amenity": "nightclub",
+    "check_date": "2025-05-27",
+    "name": "Blu Club"
+  }
+},
+{
+  "type": "node",
+  "id": 9980221383,
+  "lat": 52.2372549,
+  "lon": 21.0132819,
+  "tags": {
+    "addr:city": "Warszawa",
+    "addr:housenumber": "6/8",
+    "addr:postcode": "00-048",
+    "addr:street": "Mazowiecka",
+    "amenity": "nightclub",
+    "check_date": "2025-05-27",
+    "lgbtq": "primary",
+    "name": "La Pose",
+    "outdoor_seating": "yes",
+    "phone": "+48 602 106 367",
+    "website": "https://lapose.pl/"
+  }
+},
+{
+  "type": "node",
+  "id": 9980296872,
+  "lat": 52.2360088,
+  "lon": 21.0111558,
+  "tags": {
+    "addr:housenumber": "18",
+    "addr:street": "Świętokrzyska",
+    "amenity": "nightclub",
+    "check_date": "2025-10-31",
+    "name": "Chillin",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 9989188210,
+  "lat": 50.4443705,
+  "lon": 18.8527686,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Onyx"
+  }
+},
+{
+  "type": "node",
+  "id": 10002257516,
+  "lat": 53.1209140,
+  "lon": 17.9991286,
+  "tags": {
+    "addr:city": "Bydgoszcz",
+    "addr:housenumber": "1",
+    "addr:postcode": "85-034",
+    "addr:street": "Przesmyk",
+    "amenity": "nightclub",
+    "name": "Klub Kancelaria",
+    "website": "http://www.klubkancelaria.pl/"
+  }
+},
+{
+  "type": "node",
+  "id": 10019038308,
+  "lat": 50.5281527,
+  "lon": 22.1850978,
+  "tags": {
+    "addr:city": "Zarzecze",
+    "addr:city:simc": "0800083",
+    "addr:housenumber": "11",
+    "addr:postcode": "37-400",
+    "addr:street": "Ługowa Boczna",
+    "amenity": "nightclub",
+    "contact:instagram": "https://www.instagram.com/sydneyklubofficial/",
+    "facebook": "https://www.facebook.com/SydneyKlub",
+    "name": "Sydney",
+    "opening_hours": "Sa 20:00+",
+    "phone": "+48 510 934 284",
+    "source:addr": "nisko.e-mapa.net",
+    "website": "https://sydneyklub.pl/"
+  }
+},
+{
+  "type": "node",
+  "id": 10043663698,
+  "lat": 50.0642826,
+  "lon": 19.9421999,
+  "tags": {
+    "addr:city": "Kraków",
+    "addr:housenumber": "38",
+    "addr:postcode": "31-024",
+    "addr:street": "Szpitalna",
+    "amenity": "nightclub",
+    "level": "-1",
+    "name": "Coco",
+    "opening_hours": "Fr,Sa 22:00-06:01",
+    "website": "https://www.clubcoco.pl"
+  }
+},
+{
+  "type": "node",
+  "id": 10046107151,
+  "lat": 50.0626334,
+  "lon": 19.9399797,
+  "tags": {
+    "amenity": "nightclub",
+    "level": "-1",
+    "name": "Choice",
+    "opening_hours": "Fr 22:00-24:00; Sa 00:00-03:00,22:00-24:00; Su 00:00-04:00",
+    "website": "http://www.choiceclub.pl"
+  }
+},
+{
+  "type": "node",
+  "id": 10078449296,
+  "lat": 50.0622267,
+  "lon": 19.9352228,
+  "tags": {
+    "addr:city": "Kraków",
+    "addr:housenumber": "4",
+    "addr:street": "Szewska",
+    "amenity": "nightclub",
+    "level": "-1",
+    "name": "SpaceClub",
+    "website": "http://www.spaceclub.tv/krakow/"
+  }
+},
+{
+  "type": "node",
+  "id": 10141291047,
+  "lat": 54.1658670,
+  "lon": 17.4889155,
+  "tags": {
+    "addr:city": "Bytów",
+    "addr:housenumber": "9",
+    "addr:postcode": "77-100",
+    "addr:street": "Hieronima Derdowskiego",
+    "amenity": "nightclub",
+    "name": "Black Club Bytów"
+  }
+},
+{
+  "type": "node",
+  "id": 10148588867,
+  "lat": 50.0512019,
+  "lon": 19.9448134,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Sekta Selekta",
+    "opening_hours": "Mo-We 00:00-02:30,19:00-24:00; Th 00:00-03:30,19:00-24:00; Fr 00:00-05:00,19:00-24:00; Sa,Su 00:00-06:00,19:00-24:00",
+    "website": "https://www.facebook.com/sektabar"
+  }
+},
+{
+  "type": "node",
+  "id": 10153143107,
+  "lat": 50.0505879,
+  "lon": 19.9433097,
+  "tags": {
+    "amenity": "nightclub",
+    "level": "-1",
+    "name": "Zoo Klub",
+    "opening_hours": "Mo-Fr 00:00-03:00,18:00-24:00; Sa,Su 00:00-05:00,18:00-24:00",
+    "website": "https://www.facebook.com/ZooKlubMuzyczny"
+  }
+},
+{
+  "type": "node",
+  "id": 10177996380,
+  "lat": 53.7241190,
+  "lon": 15.9140403,
+  "tags": {
+    "addr:housenumber": "54",
+    "addr:place": "Bierzwnica",
+    "addr:postcode": "78-324",
+    "amenity": "nightclub",
+    "contact:facebook": "https://www.facebook.com/ArenaBierzwnica/",
+    "contact:instagram": "https://www.instagram.com/arena_bierzwnica/",
+    "fee": "yes",
+    "name": "Arena Bierzwnica",
+    "phone": "+48 575 507 013"
+  }
+},
+{
+  "type": "node",
+  "id": 10180909029,
+  "lat": 50.2855252,
+  "lon": 18.6778415,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Klub Studencki Spirala"
+  }
+},
+{
+  "type": "node",
+  "id": 10186715164,
+  "lat": 50.4356167,
+  "lon": 18.8484386,
+  "tags": {
+    "addr:city": "Tarnowskie Góry",
+    "addr:housenumber": "15",
+    "addr:postcode": "42-600",
+    "addr:street": "Skośna",
+    "amenity": "nightclub",
+    "email": "biuro@oceanclub.pl",
+    "name": "Ocean Club",
+    "smoking": "outside",
+    "website": "https://www.oceanclub.pl/"
+  }
+},
+{
+  "type": "node",
+  "id": 10225872540,
+  "lat": 53.0110711,
+  "lon": 18.6097561,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Mięta disco"
+  }
+},
+{
+  "type": "node",
+  "id": 10238819588,
+  "lat": 51.3677682,
+  "lon": 19.3785652,
+  "tags": {
+    "addr:city": "Bełchatów",
+    "addr:housenumber": "2",
+    "addr:postcode": "97-400",
+    "addr:street": "Generała Ludwika Czyżewskiego",
+    "amenity": "nightclub",
+    "name": "Metro"
+  }
+},
+{
+  "type": "node",
+  "id": 10253339285,
+  "lat": 50.0147875,
+  "lon": 18.4516138,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Grawitacja"
+  }
+},
+{
+  "type": "node",
+  "id": 10298701983,
+  "lat": 51.1175096,
+  "lon": 20.8652060,
+  "tags": {
+    "addr:city": "Skarżysko-Kamienna",
+    "addr:housenumber": "22",
+    "addr:postcode": "26-110",
+    "addr:street": "Stanisława Konarskiego",
+    "amenity": "nightclub",
+    "email": "stkm.skarzysko@op.pl",
+    "name": "Klub Kolejarza „Związkowiec”",
+    "phone": "+48603870255",
+    "smoking": "separated"
+  }
+},
+{
+  "type": "node",
+  "id": 10307307641,
+  "lat": 50.3150684,
+  "lon": 22.9570781,
+  "tags": {
+    "amenity": "nightclub",
+    "contact:instagram": "https://www.instagram.com/skrobsza",
+    "email": "skrclub@op.pl",
+    "facebook": "https://www.facebook.com/obsza.skrclub",
+    "name": "SkrClub",
+    "phone": "+48 602 424 844",
+    "short_name": "Skr"
+  }
+},
+{
+  "type": "node",
+  "id": 10571515394,
+  "lat": 53.1331576,
+  "lon": 23.1530319,
+  "tags": {
+    "addr:city": "Białystok",
+    "addr:country": "PL",
+    "addr:housenumber": "19/21",
+    "addr:postcode": "15-424",
+    "addr:street": "Lipowa",
+    "amenity": "nightclub",
+    "check_date": "2025-11-10",
+    "contact:facebook": "https://www.facebook.com/ShowBialystok",
+    "contact:instagram": "https://www.instagram.com/show_bialystok/",
+    "contact:website": "https://showclub.pl/",
+    "level": "-1",
+    "min_age": "18",
+    "mobile": "+48 507 002 777",
+    "name": "Show Music Club",
+    "opening_hours": "Fr-Sa 22:00-04:00",
+    "payment:american_express": "yes",
+    "payment:cash": "yes",
+    "payment:contactless": "yes",
+    "payment:diners_club": "yes",
+    "payment:discover_card": "yes",
+    "payment:jcb": "yes",
+    "payment:maestro": "yes",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "payment:visa_debit": "yes",
+    "payment:visa_electron": "yes",
+    "smoking": "isolated",
+    "website": "https://showclub.pl/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 10704874607,
+  "lat": 52.2230091,
+  "lon": 21.0074431,
+  "tags": {
+    "addr:housenumber": "73",
+    "addr:street": "Wilcza",
+    "amenity": "nightclub",
+    "check_date": "2023-03-02",
+    "name": "Jassmine",
+    "website": "https://jassmine.com"
+  }
+},
+{
+  "type": "node",
+  "id": 10760920930,
+  "lat": 51.1847726,
+  "lon": 16.1518435,
+  "tags": {
+    "amenity": "nightclub",
+    "description": "ESCORT SERVICE",
+    "fixme": "Tag na podstawie informacje od poprzedniego użytkownika.\nPotrzebna weryfikacja",
+    "name": "Gościniec"
+  }
+},
+{
+  "type": "node",
+  "id": 10811601720,
+  "lat": 51.7679586,
+  "lon": 19.4574166,
+  "tags": {
+    "addr:city": "Łódź",
+    "addr:housenumber": "1",
+    "addr:postcode": "90-101",
+    "addr:street": "Stanisława Moniuszki",
+    "amenity": "nightclub",
+    "name": "na językach"
+  }
+},
+{
+  "type": "node",
+  "id": 10863799144,
+  "lat": 51.3578415,
+  "lon": 19.3688593,
+  "tags": {
+    "addr:city": "Bełchatów",
+    "addr:housenumber": "25d",
+    "addr:postcode": "97-400",
+    "addr:street": "Wojska Polskiego",
+    "amenity": "nightclub",
+    "level": "1",
+    "name": "Klub Rogate Serce",
+    "opening_hours": "Fr-Sa 18:00-02:00",
+    "phone": "+48 512 019 039"
+  }
+},
+{
+  "type": "node",
+  "id": 10890034718,
+  "lat": 54.4412371,
+  "lon": 18.5628939,
+  "tags": {
+    "addr:city": "Sopot",
+    "addr:housenumber": "14/A2",
+    "addr:street": "Tadeusza Kościuszki",
+    "alt_name": "Disco Club Story",
+    "amenity": "nightclub",
+    "level": "2",
+    "name": "Story Sopot",
+    "phone": "+48 664 533 866",
+    "website": "https://storysopot.pl/"
+  }
+},
+{
+  "type": "node",
+  "id": 10899998354,
+  "lat": 50.2575811,
+  "lon": 19.0258339,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Fantasy Club"
+  }
+},
+{
+  "type": "node",
+  "id": 10915681305,
+  "lat": 52.2337427,
+  "lon": 21.0120175,
+  "tags": {
+    "addr:city": "Warszawa",
+    "addr:housenumber": "1",
+    "addr:postcode": "00-013",
+    "addr:street": "Jasna",
+    "amenity": "nightclub",
+    "check_date": "2026-09-24",
+    "contact:facebook": "JasnaJeden",
+    "email": "info@jasna1.com",
+    "name": "Jasna 1",
+    "outdoor_seating": "yes",
+    "phone": "+48 692 147 983",
+    "website": "https://jasna1.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 10958462173,
+  "lat": 52.4031861,
+  "lon": 16.9293641,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:housenumber": "18",
+    "addr:postcode": "61-888",
+    "addr:street": "Półwiejska",
+    "amenity": "nightclub",
+    "name": "Szalony kapelusznik",
+    "opening_hours": "We-Sa 18:00+"
+  }
+},
+{
+  "type": "node",
+  "id": 11018674640,
+  "lat": 53.6554068,
+  "lon": 21.0624698,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Cool Club"
+  }
+},
+{
+  "type": "node",
+  "id": 11028291411,
+  "lat": 52.2283893,
+  "lon": 21.0260161,
+  "tags": {
+    "addr:housenumber": "6",
+    "addr:street": "Marii Konopnickiej",
+    "amenity": "nightclub",
+    "check_date": "2024-05-18",
+    "check_date:opening_hours": "2023-10-24",
+    "level": "-1",
+    "name": "Xoxo",
+    "opening_hours:signed": "no",
+    "source": "mapa.um.warszawa.pl"
+  }
+},
+{
+  "type": "node",
+  "id": 11039353448,
+  "lat": 52.1853698,
+  "lon": 21.1416250,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Zazen",
+    "opening_hours": "\"klub hotelowy - uzgodnienia z recepcją\"",
+    "source": "mapa.um.warszawa.pl",
+    "website": "https://www.doubletreewarsaw.pl/eventy/zazen-club-lounge"
+  }
+},
+{
+  "type": "node",
+  "id": 11044014117,
+  "lat": 50.0374337,
+  "lon": 22.0058003,
+  "tags": {
+    "addr:housenumber": "15",
+    "addr:street": "Rynek",
+    "amenity": "nightclub",
+    "check_date": "2026-04-15",
+    "name": "Aqua",
+    "opening_hours": "Th-Sa 16:00-03:00",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11074703019,
+  "lat": 50.2572897,
+  "lon": 19.0267444,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "DoSopotu"
+  }
+},
+{
+  "type": "node",
+  "id": 11074715907,
+  "lat": 50.2541487,
+  "lon": 19.0181733,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Bavitto"
+  }
+},
+{
+  "type": "node",
+  "id": 11168492903,
+  "lat": 50.0512723,
+  "lon": 19.9711294,
+  "tags": {
+    "amenity": "nightclub",
+    "music": "techno",
+    "name": "STK 47 Warehouse",
+    "opening_hours": "Fr 22:00-24:00; Sa 00:00-08:00,22:00-24:00; Su 00:00-08:00",
+    "website": "https://www.facebook.com/stk47warehouse"
+  }
+},
+{
+  "type": "node",
+  "id": 11177211789,
+  "lat": 52.2294052,
+  "lon": 21.0178110,
+  "tags": {
+    "addr:housenumber": "11",
+    "addr:street": "Nowogrodzka",
+    "amenity": "nightclub",
+    "check_date": "2023-09-08",
+    "name": "Bardzo Bardzo"
+  }
+},
+{
+  "type": "node",
+  "id": 11272587391,
+  "lat": 52.2295673,
+  "lon": 21.0140069,
+  "tags": {
+    "addr:housenumber": "22",
+    "addr:street": "Nowogrodzka",
+    "amenity": "nightclub",
+    "name": "Princesa",
+    "website": "https://princesaclub-warszawa.pl"
+  }
+},
+{
+  "type": "node",
+  "id": 11282046233,
+  "lat": 50.8715197,
+  "lon": 20.6262778,
+  "tags": {
+    "addr:city": "Kielce",
+    "addr:housenumber": "33",
+    "addr:postcode": "25-005",
+    "addr:street": "Henryka Sienkiewicza",
+    "amenity": "nightclub",
+    "name": "UltraViolet Exclusive Club"
+  }
+},
+{
+  "type": "node",
+  "id": 11299042700,
+  "lat": 50.4405589,
+  "lon": 20.9389706,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Klub Euforia"
+  }
+},
+{
+  "type": "node",
+  "id": 11373144313,
+  "lat": 52.4052824,
+  "lon": 16.9194499,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:housenumber": "8A",
+    "addr:postcode": "61-875",
+    "addr:street": "Aleja Niepodległości",
+    "amenity": "nightclub",
+    "contact:facebook": "https://www.facebook.com/alibi.club.poznan",
+    "email": "alibipoznan@onet.eu",
+    "name": "Alibi Club",
+    "opening_hours": "Mo-Th 14:00-00:00; Fr-Sa 14:00-03:00; Su 14:00-00:00",
+    "phone": "+48 501 535 536",
+    "website": "https://alibiclubpoznan.pl/"
+  }
+},
+{
+  "type": "node",
+  "id": 11386731360,
+  "lat": 50.8129538,
+  "lon": 19.1153042,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Rura",
+    "website": "https://pl-pl.facebook.com/KlubRura/"
+  }
+},
+{
+  "type": "node",
+  "id": 11422489738,
+  "lat": 50.2869444,
+  "lon": 21.4201195,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Hades"
+  }
+},
+{
+  "type": "node",
+  "id": 11427223114,
+  "lat": 51.1098270,
+  "lon": 17.0245330,
+  "tags": {
+    "amenity": "nightclub",
+    "description": "kiedyś znajdował się tu klub Niskie Łąki, a potem Dobro",
+    "facebook": "https://www.facebook.com/SikalafaBar/",
+    "level": "-1",
+    "name": "Sikalafą Freaky Neon Bar",
+    "ref": "008",
+    "start_date": "2024-10",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11463474194,
+  "lat": 50.5344777,
+  "lon": 22.7202913,
+  "tags": {
+    "amenity": "nightclub",
+    "contact:instagram": "https://www.instagram.com/thebase.bj/",
+    "facebook": "https://www.facebook.com/p/TheBasebj-61572339208387/",
+    "fee": "yes",
+    "level": "-1",
+    "name": "The Base",
+    "old_name": "Exodus;Exo",
+    "opening_hours": "Fr 21:00-02:00, Sa 21:00-04:00",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11470169190,
+  "lat": 53.1332180,
+  "lon": 23.1569230,
+  "tags": {
+    "addr:city": "Białystok",
+    "addr:country": "PL",
+    "addr:housenumber": "9/1",
+    "addr:postcode": "15-437",
+    "addr:street": "Doktor Ireny Białówny",
+    "amenity": "nightclub",
+    "contact:facebook": "https://www.facebook.com/balance.klub.bialystok",
+    "contact:instagram": "https://www.instagram.com/balanceklub",
+    "contact:website": "https://linktr.ee/balanceklub",
+    "level": "-1",
+    "name": "Balance Klub",
+    "opening_hours": "Fr-Sa 22:00-06:00",
+    "payment:american_express": "yes",
+    "payment:cash": "yes",
+    "payment:contactless": "yes",
+    "payment:diners_club": "yes",
+    "payment:discover_card": "yes",
+    "payment:jcb": "yes",
+    "payment:maestro": "yes",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "payment:visa_debit": "yes",
+    "payment:visa_electron": "yes",
+    "smoking": "outside",
+    "website": "https://linktr.ee/balanceklub",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 11490213042,
+  "lat": 51.3926247,
+  "lon": 16.2052072,
+  "tags": {
+    "amenity": "nightclub",
+    "description": "Beatka Music Club",
+    "name": "Beatka",
+    "website": "https://www.facebook.com/BeatkaClub"
+  }
+},
+{
+  "type": "node",
+  "id": 11529315584,
+  "lat": 50.0557386,
+  "lon": 19.9453348,
+  "tags": {
+    "amenity": "nightclub",
+    "lgbtq": "primary",
+    "name": "BlueXL"
+  }
+},
+{
+  "type": "node",
+  "id": 11560829549,
+  "lat": 49.7167391,
+  "lon": 19.0271019,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Alisa"
+  }
+},
+{
+  "type": "node",
+  "id": 11573238031,
+  "lat": 50.3383339,
+  "lon": 16.3839161,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Disco-Bar 5"
+  }
+},
+{
+  "type": "node",
+  "id": 11583842611,
+  "lat": 53.1227496,
+  "lon": 18.0014002,
+  "tags": {
+    "addr:city": "Bydgoszcz",
+    "addr:housenumber": "4",
+    "addr:postcode": "85-110",
+    "addr:street": "Mostowa",
+    "amenity": "nightclub",
+    "name": "Elixir"
+  }
+},
+{
+  "type": "node",
+  "id": 11650330453,
+  "lat": 54.3588090,
+  "lon": 18.6477803,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2024-02-21",
+    "name": "Pieprz Club",
+    "smoking": "isolated"
+  }
+},
+{
+  "type": "node",
+  "id": 11658234816,
+  "lat": 49.7124460,
+  "lon": 19.0204218,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Club Disco Jama"
+  }
+},
+{
+  "type": "node",
+  "id": 11663190641,
+  "lat": 51.2104336,
+  "lon": 16.1527094,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "7th Heaven"
+  }
+},
+{
+  "type": "node",
+  "id": 11689068973,
+  "lat": 51.1051590,
+  "lon": 17.0096420,
+  "tags": {
+    "access": "customers",
+    "amenity": "nightclub",
+    "name": "House Tęczowa",
+    "website": "https://teczowa.house"
+  }
+},
+{
+  "type": "node",
+  "id": 11737619628,
+  "lat": 50.2604449,
+  "lon": 19.0207310,
+  "tags": {
+    "addr:city": "Katowice",
+    "addr:housenumber": "3",
+    "addr:postcode": "40-092",
+    "addr:street": "Adama Mickiewicza",
+    "amenity": "nightclub",
+    "min_age": "18",
+    "name": "Scena54 by Feiim",
+    "opening_hours": "Mo-Su 12:00-22:00"
+  }
+},
+{
+  "type": "node",
+  "id": 11754182266,
+  "lat": 52.2339578,
+  "lon": 21.0115121,
+  "tags": {
+    "addr:city": "Warszawa",
+    "addr:housenumber": "7",
+    "addr:postcode": "00-013",
+    "addr:street": "Henryka Sienkiewicza",
+    "amenity": "nightclub",
+    "lgbtq": "primary",
+    "name": "Metropolis",
+    "phone": "+48 692 147 983"
+  }
+},
+{
+  "type": "node",
+  "id": 11755967710,
+  "lat": 52.2285697,
+  "lon": 21.0155021,
+  "tags": {
+    "addr:city": "Warszawa",
+    "addr:housenumber": "22",
+    "addr:postcode": "00-515",
+    "addr:street": "Żurawia",
+    "amenity": "nightclub",
+    "check_date": "2026-06-26",
+    "check_date:opening_hours": "2026-06-26",
+    "contact:facebook": "GLAMCLUBWARSAW",
+    "lgbtq": "primary",
+    "name": "Glam",
+    "opening_hours": "Fr-Sa 22:00+",
+    "opening_hours:signed": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11808284500,
+  "lat": 54.5664858,
+  "lon": 18.4030013,
+  "tags": {
+    "addr:city": "Rumia",
+    "addr:housenumber": "53",
+    "addr:postcode": "84-230",
+    "addr:street": "Henryka Dąbrowskiego",
+    "amenity": "nightclub",
+    "name": "Disco Shot's"
+  }
+},
+{
+  "type": "node",
+  "id": 11862750915,
+  "lat": 52.2403370,
+  "lon": 21.0290643,
+  "tags": {
+    "addr:housenumber": "43B",
+    "addr:street": "Wybrzeże Kościuszkowskie",
+    "amenity": "nightclub",
+    "check_date": "2024-04-28",
+    "name": "Gatsby Warsaw",
+    "opening_hours": "We-Th 19:00-01:00; Fr-Sa 19:00-04:00"
+  }
+},
+{
+  "type": "node",
+  "id": 11874287109,
+  "lat": 51.1102626,
+  "lon": 17.0198417,
+  "tags": {
+    "addr:city": "Wrocław",
+    "addr:housenumber": "18a",
+    "addr:postcode": "53-676",
+    "addr:street": "Aleksandra Zelwerowicza",
+    "amenity": "nightclub",
+    "check_date": "2025-12-10",
+    "contact:facebook": "https://www.facebook.com/cactus.wroclaw",
+    "email": "kontakt@cactus.wroclaw.pl",
+    "lgbtq": "primary",
+    "min_age": "18",
+    "name": "Cactus Club",
+    "opening_hours": "Tu,Fr-Sa 21:00-06:00, We-Th,Su 21:00-04:00; PH off",
+    "phone": "+48 512 370 348",
+    "website": "https://cactus.wroclaw.pl"
+  }
+},
+{
+  "type": "node",
+  "id": 11881558454,
+  "lat": 52.2334801,
+  "lon": 21.0204579,
+  "tags": {
+    "addr:city": "Warszawa",
+    "addr:housenumber": "19",
+    "addr:postcode": "00-372",
+    "addr:street": "Foksal",
+    "air_conditioning": "yes",
+    "amenity": "nightclub",
+    "check_date": "2024-05-05",
+    "contact:facebook": "https://www.facebook.com/CHATONWARSAW",
+    "contact:instagram": "https://www.instagram.com/chatonwarsaw/",
+    "contact:tiktok": "https://www.tiktok.com/@chatonwarsaw",
+    "email": "contact@chatonwarsaw.com",
+    "fixme": "Nie jestem pewien czy dobrze to zaklasyfikowałem. To jest jednocześnie restauracją i klubem. Proszę o zweryfikowanie",
+    "min_age": "18",
+    "name": "Chaton",
+    "opening_hours": "Tu-Sa 17:00-23:00+; PH off",
+    "phone": "+48 664 140 780",
+    "reservation": "recommended",
+    "website": "https://chatonwarsaw.com/",
+    "website:menu": "https://chatonwarsaw.com/wp-content/uploads/2024/01/MENU.pdf?_t=1705316767"
+  }
+},
+{
+  "type": "node",
+  "id": 11925718777,
+  "lat": 54.1798155,
+  "lon": 15.5692041,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Club Underground",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 11940460308,
+  "lat": 50.0096279,
+  "lon": 18.2869295,
+  "tags": {
+    "addr:city": "Buków",
+    "addr:street": "Główna",
+    "amenity": "nightclub",
+    "min_age": "16",
+    "name": "Magiczna Plaża - Buków",
+    "operator": "Club Magic",
+    "website": "https://www.facebook.com/magicznaplazabukow"
+  }
+},
+{
+  "type": "node",
+  "id": 11964852012,
+  "lat": 50.0952613,
+  "lon": 18.5384424,
+  "tags": {
+    "addr:city": "Rybnik",
+    "addr:housenumber": "1a",
+    "addr:postcode": "44-200",
+    "addr:street": "Wiejska",
+    "amenity": "nightclub",
+    "name": "Face 2 Face",
+    "website": "https://www.facebook.com/Face2FaceRybnik/"
+  }
+},
+{
+  "type": "node",
+  "id": 11964852013,
+  "lat": 50.1022139,
+  "lon": 18.4876111,
+  "tags": {
+    "addr:city": "Rybnik",
+    "addr:housenumber": "202",
+    "addr:postcode": "44-200",
+    "addr:street": "Zebrzydowicka",
+    "amenity": "nightclub",
+    "description": "Původně Papaya club",
+    "name": "Exotic",
+    "start_date": "2024-03-31",
+    "website": "https://klubexotic.pl/"
+  }
+},
+{
+  "type": "node",
+  "id": 12029155962,
+  "lat": 53.0075440,
+  "lon": 18.5981012,
+  "tags": {
+    "addr:city": "Toruń",
+    "addr:housenumber": "11",
+    "addr:postcode": "87-100",
+    "addr:street": "Bulwar Filadelfijski",
+    "amenity": "nightclub",
+    "min_age": "21",
+    "name": "Klub Stars",
+    "opening_hours": "Sa 21:00-24:00; Su 00:00-05:00"
+  }
+},
+{
+  "type": "node",
+  "id": 12066471373,
+  "lat": 51.7657417,
+  "lon": 19.4569019,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2024-07-21",
+    "name": "Arena Club",
+    "opening_hours": "Mo-Th,Su 20:00-05:00; Fr-Sa 20:00-06:00",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 12068877801,
+  "lat": 50.0613780,
+  "lon": 19.9424684,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Mojitos Casa Latina",
+    "website": "https://www.mojitos.pl/"
+  }
+},
+{
+  "type": "node",
+  "id": 12072363054,
+  "lat": 54.1891795,
+  "lon": 16.1891153,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Prywatka"
+  }
+},
+{
+  "type": "node",
+  "id": 12092435362,
+  "lat": 50.6741625,
+  "lon": 21.7483404,
+  "tags": {
+    "alt_name": "Club N51",
+    "amenity": "nightclub",
+    "contact:facebook": "https://www.facebook.com/clubn51/",
+    "email": "club@n51.pl",
+    "name": "CLUB N°51",
+    "phone": "+48 793 499 599; +48 530 665 650",
+    "website": "https://n51.pl/"
+  }
+},
+{
+  "type": "node",
+  "id": 12201177940,
+  "lat": 51.1558413,
+  "lon": 14.9974160,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date:opening_hours": "2025-06-14",
+    "name": "Nightclub",
+    "opening_hours:signed": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 12334643922,
+  "lat": 52.4968535,
+  "lon": 21.0670582,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Laguna"
+  }
+},
+{
+  "type": "node",
+  "id": 12349620165,
+  "lat": 49.6876279,
+  "lon": 19.1965832,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Inna Kultura"
+  }
+},
+{
+  "type": "node",
+  "id": 12389814102,
+  "lat": 54.1760660,
+  "lon": 16.1971637,
+  "tags": {
+    "addr:housenumber": "38",
+    "addr:street": "Gnieźnieńska",
+    "amenity": "nightclub",
+    "check_date:opening_hours": "2025-10-28",
+    "name": "G38",
+    "opening_hours:signed": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 12394742767,
+  "lat": 51.7591240,
+  "lon": 18.0919175,
+  "tags": {
+    "addr:city": "Kalisz",
+    "addr:housenumber": "27",
+    "addr:postcode": "62-800",
+    "addr:street": "Aleja Wolności",
+    "amenity": "nightclub",
+    "name": "Pod Muzami"
+  }
+},
+{
+  "type": "node",
+  "id": 12425507590,
+  "lat": 50.0658614,
+  "lon": 19.9033487,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2024-12-17",
+    "name": "Villa Incognito"
+  }
+},
+{
+  "type": "node",
+  "id": 12439908761,
+  "lat": 52.4340022,
+  "lon": 16.7934364,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Mario",
+    "phone": "+48 500 200 800",
+    "website": "http://marioclub.pl/"
+  }
+},
+{
+  "type": "node",
+  "id": 12452780348,
+  "lat": 50.2580753,
+  "lon": 19.0287839,
+  "tags": {
+    "addr:city": "Katowice",
+    "addr:housenumber": "31",
+    "addr:postcode": "40-010",
+    "addr:street": "Warszawska",
+    "amenity": "nightclub",
+    "contact:facebook": "https://www.facebook.com/profile.php?id=100082407071001",
+    "email": "kontakt@royalkatowice.pl",
+    "image": "https://royalkatowice.pl/wp-content/uploads/2023/03/Night-Club-Royal-Katowice-1024x1024.jpeg",
+    "min_age": "18",
+    "name": "Royal Night Club Katowice",
+    "opening_hours": "Su-Th 20:00-05:00 Fr-Sa 20:00-06:00",
+    "operator": "Royal Night Club Katowice",
+    "payment:blik": "yes",
+    "payment:cards": "yes",
+    "payment:cash": "yes",
+    "payment:contactless": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "smoking": "separated",
+    "website": "https://royalkatowice.pl/"
+  }
+},
+{
+  "type": "node",
+  "id": 12484769361,
+  "lat": 53.0086335,
+  "lon": 18.6041341,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Halo Lola"
+  }
+},
+{
+  "type": "node",
+  "id": 12512801422,
+  "lat": 54.4440890,
+  "lon": 18.5553556,
+  "tags": {
+    "addr:city": "Sopot",
+    "addr:housenumber": "1111",
+    "addr:postcode": "81-824",
+    "addr:street": "Armii Krajowej",
+    "amenity": "nightclub",
+    "name": "Joy",
+    "opening_hours": "22:00-05:00",
+    "smoking": "isolated"
+  }
+},
+{
+  "type": "node",
+  "id": 12535984115,
+  "lat": 51.1049557,
+  "lon": 17.0874383,
+  "tags": {
+    "alt_name": "Klub Łącznik",
+    "amenity": "nightclub",
+    "facebook": "https://www.facebook.com/klublacznik",
+    "image": "https://polska-org.pl/12223465,foto.html",
+    "name": "Łącznik"
+  }
+},
+{
+  "type": "node",
+  "id": 12560259343,
+  "lat": 50.8670512,
+  "lon": 20.6333312,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Chicago"
+  }
+},
+{
+  "type": "node",
+  "id": 12587798020,
+  "lat": 50.2644598,
+  "lon": 19.0233752,
+  "tags": {
+    "addr:city": "Katowice",
+    "addr:housenumber": "1",
+    "addr:postcode": "40-001",
+    "addr:street": "rondo Generała Jerzego Ziętka",
+    "amenity": "nightclub",
+    "name": "Królestwo",
+    "smoking": "outside"
+  }
+},
+{
+  "type": "node",
+  "id": 12591351811,
+  "lat": 52.2248124,
+  "lon": 20.9913111,
+  "tags": {
+    "addr:housenumber": "123A",
+    "addr:street": "Aleje Jerozolimskie",
+    "amenity": "nightclub",
+    "check_date": "2025-07-21",
+    "description": "Rooftop club 27th floor",
+    "name": "Level 27",
+    "opening_hours": "Fr-Sa 23:00-05:00",
+    "website": "https://level27.pl/"
+  }
+},
+{
+  "type": "node",
+  "id": 12607737403,
+  "lat": 51.6003341,
+  "lon": 18.9429140,
+  "tags": {
+    "addr:city": "Zduńska Wola",
+    "addr:housenumber": "18",
+    "addr:postcode": "98-220",
+    "addr:street": "Stefana Żeromskiego",
+    "amenity": "nightclub",
+    "name": "Viva Dance Club"
+  }
+},
+{
+  "type": "node",
+  "id": 12647468731,
+  "lat": 52.4055800,
+  "lon": 16.9187802,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:housenumber": "8A",
+    "addr:postcode": "61-875",
+    "addr:street": "Aleja Niepodległości",
+    "amenity": "nightclub",
+    "name": "Klub Rewiry"
+  }
+},
+{
+  "type": "node",
+  "id": 12673774692,
+  "lat": 54.4027124,
+  "lon": 18.5820439,
+  "tags": {
+    "addr:floor": "1",
+    "amenity": "nightclub",
+    "check_date": "2026-08-17",
+    "level": "1",
+    "name": "Mercedess"
+  }
+},
+{
+  "type": "node",
+  "id": 12895048059,
+  "lat": 52.4082113,
+  "lon": 16.9346634,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "The Club No 1",
+    "opening_hours": "21:00-06:00"
+  }
+},
+{
+  "type": "node",
+  "id": 12965272509,
+  "lat": 54.5500760,
+  "lon": 18.4248977,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Glow Club"
+  }
+},
+{
+  "type": "node",
+  "id": 12993108833,
+  "lat": 50.0112176,
+  "lon": 20.9836131,
+  "tags": {
+    "addr:city": "Tarnów",
+    "addr:housenumber": "8",
+    "addr:postcode": "33-100",
+    "addr:street": "Krakowska",
+    "amenity": "nightclub",
+    "name": "Blue Velvet Club"
+  }
+},
+{
+  "type": "node",
+  "id": 13038771057,
+  "lat": 52.4078571,
+  "lon": 16.9094701,
+  "tags": {
+    "amenity": "nightclub",
+    "email": "poznan@aqmulatory.pl",
+    "name": "Klub Akumulatory",
+    "phone": "+48664 952 300"
+  }
+},
+{
+  "type": "node",
+  "id": 13057518795,
+  "lat": 54.3476157,
+  "lon": 18.6567177,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2025-08-08",
+    "name": "Studio 1"
+  }
+},
+{
+  "type": "node",
+  "id": 13125005966,
+  "lat": 54.4435154,
+  "lon": 18.5673909,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Mewa Towarzyska"
+  }
+},
+{
+  "type": "node",
+  "id": 13155795974,
+  "lat": 54.2677381,
+  "lon": 18.5663454,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2025-09-19",
+    "name": "Monroe Club"
+  }
+},
+{
+  "type": "node",
+  "id": 13203700362,
+  "lat": 53.7772962,
+  "lon": 20.4792474,
+  "tags": {
+    "addr:city": "Olsztyn",
+    "addr:housenumber": "5",
+    "addr:postcode": "10-003",
+    "addr:street": "Seweryna Pieniężnego",
+    "amenity": "nightclub",
+    "check_date": "2026-05-22",
+    "name": "KOT art bar"
+  }
+},
+{
+  "type": "node",
+  "id": 13239164040,
+  "lat": 54.5941907,
+  "lon": 18.3661874,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Kalejdoskop"
+  }
+},
+{
+  "type": "node",
+  "id": 13286307377,
+  "lat": 50.0952287,
+  "lon": 18.5396320,
+  "tags": {
+    "addr:city": "Rybnik",
+    "addr:housenumber": "9A",
+    "addr:postcode": "44-200",
+    "addr:street": "Raciborska",
+    "amenity": "nightclub",
+    "description": "Klub Odyseja wcześniej Imperium club",
+    "name": "Odyseja",
+    "start_date": "2025-11-08",
+    "website": "https://www.facebook.com/Klub.Odyseja.Rybnik"
+  }
+},
+{
+  "type": "node",
+  "id": 13302145784,
+  "lat": 54.3642269,
+  "lon": 18.6456844,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2025-11-13",
+    "name": "Plot Social Club"
+  }
+},
+{
+  "type": "node",
+  "id": 13324475651,
+  "lat": 50.8089951,
+  "lon": 16.2812649,
+  "tags": {
+    "addr:city": "Wałbrzych",
+    "addr:housenumber": "65d",
+    "addr:postcode": "58-309",
+    "addr:street": "Władysława Broniewskiego",
+    "amenity": "nightclub",
+    "min_age": "18",
+    "name": "VEGAS PIASKOWA GÓRA"
+  }
+},
+{
+  "type": "node",
+  "id": 13324475652,
+  "lat": 50.8115800,
+  "lon": 16.3011273,
+  "tags": {
+    "addr:city": "Wałbrzych",
+    "addr:housenumber": "11",
+    "addr:postcode": "58-306",
+    "addr:street": "Stacyjna",
+    "amenity": "nightclub",
+    "min_age": "18",
+    "name": "GŁĘBIA"
+  }
+},
+{
+  "type": "node",
+  "id": 13421321789,
+  "lat": 50.7634205,
+  "lon": 16.2823952,
+  "tags": {
+    "addr:city": "Wałbrzych",
+    "addr:housenumber": "4",
+    "addr:postcode": "58-300",
+    "addr:street": "Niska",
+    "amenity": "nightclub",
+    "name": "Vegas Stara Piwnica"
+  }
+},
+{
+  "type": "node",
+  "id": 13443003285,
+  "lat": 52.7329684,
+  "lon": 15.2368558,
+  "tags": {
+    "addr:city": "Gorzów Wielkopolski",
+    "addr:housenumber": "2",
+    "addr:postcode": "66-400",
+    "addr:street": "Bolesława Chrobrego",
+    "amenity": "nightclub",
+    "min_age": "18",
+    "name": "Klub Studio",
+    "phone": "+48 732 602 901",
+    "website": "https://www.facebook.com/klubstudiogw/"
+  }
+},
+{
+  "type": "node",
+  "id": 13443031601,
+  "lat": 52.7346157,
+  "lon": 15.2355485,
+  "tags": {
+    "addr:city": "Gorzów Wielkopolski",
+    "addr:housenumber": "7",
+    "addr:postcode": "66-400",
+    "addr:street": "Trakt Królewski",
+    "amenity": "nightclub",
+    "name": "Fahrenheit Music Club"
+  }
+},
+{
+  "type": "node",
+  "id": 13449281545,
+  "lat": 52.4051996,
+  "lon": 16.9203358,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:housenumber": "69",
+    "addr:postcode": "61-717",
+    "addr:street": "Tadeusza Kościuszki",
+    "amenity": "nightclub",
+    "contact:facebook": "https://www.facebook.com/slinamordo",
+    "contact:instagram": "https://www.instagram.com/slinaslinaslina/",
+    "name": "ŚLINA",
+    "smoking": "separated",
+    "website": "https://slina.club/"
+  }
+},
+{
+  "type": "node",
+  "id": 13449281547,
+  "lat": 52.4055631,
+  "lon": 16.9187628,
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:housenumber": "8A",
+    "addr:postcode": "61-717",
+    "addr:street": "Aleja Niepodległości",
+    "amenity": "nightclub",
+    "contact:email": "contact@posen.club",
+    "contact:facebook": "https://www.facebook.com/posenclub",
+    "contact:instagram": "https://www.instagram.com/posen.club/",
+    "contact:phone": "+48 537 069 922",
+    "lgbtq": "primary",
+    "name": "Posen Club"
+  }
+},
+{
+  "type": "node",
+  "id": 13458866150,
+  "lat": 52.7336151,
+  "lon": 15.2396247,
+  "tags": {
+    "addr:city": "Gorzów Wielkopolski",
+    "addr:housenumber": "11",
+    "addr:postcode": "66-400",
+    "addr:street": "Władysława Jagiełły",
+    "amenity": "nightclub",
+    "name": "MagnetOffOn"
+  }
+},
+{
+  "type": "node",
+  "id": 13467999164,
+  "lat": 54.1907950,
+  "lon": 16.1894592,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Klub Plastelina"
+  }
+},
+{
+  "type": "node",
+  "id": 13564719467,
+  "lat": 54.5222422,
+  "lon": 18.5285490,
+  "tags": {
+    "addr:city": "Gdynia",
+    "addr:housenumber": "2",
+    "addr:street": "Plac Konstytucji",
+    "amenity": "nightclub",
+    "name": "Svera"
+  }
+},
+{
+  "type": "node",
+  "id": 13627009076,
+  "lat": 49.6836819,
+  "lon": 21.7724563,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2026-03-08",
+    "name": "Pub & Club Nafta"
+  }
+},
+{
+  "type": "node",
+  "id": 13728369960,
+  "lat": 52.7267441,
+  "lon": 15.2360959,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Wartownia - Błonia nadwarciańskie"
+  }
+},
+{
+  "type": "node",
+  "id": 13784996101,
+  "lat": 54.4452849,
+  "lon": 18.5691957,
+  "tags": {
+    "addr:housenumber": "1",
+    "addr:street": "Plac Zdrojowy",
+    "amenity": "nightclub",
+    "email": "noceidniesopot@gmail.com",
+    "name": "Noce & Dnie",
+    "opening_hours": "Fr-Sa 22:00-05:00",
+    "phone": "+48 500 401 623",
+    "website": "https://www.noceidniesopot.pl/club"
+  }
+},
+{
+  "type": "node",
+  "id": 13819622134,
+  "lat": 53.1205888,
+  "lon": 18.0015095,
+  "tags": {
+    "addr:city": "Bydgoszcz",
+    "addr:housenumber": "62",
+    "addr:postcode": "85-034",
+    "addr:street": "Długa",
+    "alt_name": "partyhub",
+    "alt_name:ru": "Патихаб",
+    "amenity": "nightclub",
+    "bar": "yes",
+    "contact:facebook": "https://www.facebook.com/share/1YFzPrTnKu/",
+    "contact:instagram": "https://www.instagram.com/party.hub.pl",
+    "min_age": "18",
+    "name": "Party.Hub",
+    "opening_hours": "24/7",
+    "operator": "PartyHub events",
+    "smoking": "outside"
+  }
+},
+{
+  "type": "node",
+  "id": 13834893962,
+  "lat": 51.1079615,
+  "lon": 17.0344130,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2026-04-25",
+    "facebook": "https://www.facebook.com/momenty.klub/",
+    "live_music": "yes",
+    "name": "Momenty",
+    "opening_hours": "Tu-Su 16:00-00:00",
+    "start_date": "2026-04-25"
+  }
+},
+{
+  "type": "node",
+  "id": 13968868586,
+  "lat": 52.2289111,
+  "lon": 21.0135234,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2026-06-26",
+    "level": "-1",
+    "name": "Scity",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 14030872501,
+  "lat": 54.4423749,
+  "lon": 18.5591422,
+  "tags": {
+    "addr:housenumber": "3G",
+    "addr:street": "1 Maja",
+    "amenity": "nightclub",
+    "name": "Trzy Gie"
+  }
+},
+{
+  "type": "node",
+  "id": 14096410125,
+  "lat": 51.7641571,
+  "lon": 19.4600425,
+  "tags": {
+    "addr:housenumber": "5a",
+    "addr:street": "Plac Komuny Paryskiej",
+    "amenity": "nightclub",
+    "check_date": "2026-08-15",
+    "contact:facebook": "https://www.facebook.com/Narraganset/",
+    "contact:instagram": "https://www.instagram.com/narraganset_klub",
+    "lgbtq": "primary",
+    "name": "Narraganset",
+    "opening_hours": "Mo-We,Su off; Th 22:00-03:00; Fr 22:00-05:00; Sa 22:00-06:00",
+    "phone": "+48 601 317 758",
+    "website": "https://www.narraganset.pl/",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 14148736868,
+  "lat": 51.0664678,
+  "lon": 21.0708851,
+  "tags": {
+    "addr:city": "Starachowice",
+    "addr:housenumber": "76a",
+    "addr:postcode": "27-200",
+    "addr:street": "Radomska",
+    "amenity": "nightclub",
+    "indoor": "yes",
+    "name": "Club Amsterdam",
+    "phone": "+48 41 276 78 00",
+    "website": "https://www.europa-hotel.pl/restauracje/club-amsterdam"
+  }
+},
+{
+  "type": "node",
+  "id": 14247462201,
+  "lat": 50.0125152,
+  "lon": 20.9898261,
+  "tags": {
+    "addr:housenumber": "4",
+    "addr:street": "Wekslarska",
+    "amenity": "nightclub",
+    "check_date": "2026-10-04",
+    "check_date:opening_hours": "2026-10-04",
+    "name": "Deja Vu",
+    "opening_hours": "Th-Su 18:00-04:00"
+  }
+},
+{
+  "type": "way",
+  "id": 30669763,
+  "center": {
+    "lat": 52.2126016,
+    "lon": 20.9871961
+  },
+  "tags": {
+    "addr:city": "Warszawa",
+    "addr:city:simc": "0918123",
+    "addr:housenumber": "99A",
+    "addr:postcode": "02-089",
+    "addr:street": "Żwirki i Wigury",
+    "amenity": "nightclub",
+    "building": "retail",
+    "building:levels": "2",
+    "name": "Proxima",
+    "official_name": "Klub Studentów Uniwersytetu Warszawskiego Proxima",
+    "source:addr": "mapa.um.warszawa.pl",
+    "website": "https://klubproxima.com.pl/",
+    "wikidata": "Q11740254",
+    "wikipedia": "pl:Klub Proxima"
+  }
+},
+{
+  "type": "way",
+  "id": 77047423,
+  "center": {
+    "lat": 52.5385779,
+    "lon": 17.6115012
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Młyn"
+  }
+},
+{
+  "type": "way",
+  "id": 97999406,
+  "center": {
+    "lat": 52.1576965,
+    "lon": 22.2825848
+  },
+  "tags": {
+    "addr:city": "Siedlce",
+    "addr:housenumber": "3",
+    "addr:street": "Kolejowa",
+    "amenity": "nightclub",
+    "building": "storage",
+    "building:fireproof": "yes",
+    "building:levels": "1",
+    "building:type:pl": "Przyziemie budynku ognioodpornego",
+    "building:use:pl": "Zbiornik, silos lub budynek magazynowy",
+    "ewmapa:funkcja": "s",
+    "ewmapa:kod_znakowy": "BZO",
+    "ewmapa:warstwa": "Przyziemie budynku ognioodpornego, podpory, podcienia z pomiaru w terenie",
+    "name": "Bohema",
+    "source": "Powiat siedlecki, survey",
+    "website": "http://bohemaklub.pl/"
+  }
+},
+{
+  "type": "way",
+  "id": 106930553,
+  "center": {
+    "lat": 52.1643935,
+    "lon": 20.8060281
+  },
+  "tags": {
+    "addr:city": "Pruszków",
+    "addr:city:simc": "0921510",
+    "addr:housenumber": "5",
+    "addr:postcode": "05-800",
+    "addr:street": "Niecała",
+    "amenity": "nightclub",
+    "building": "hotel",
+    "building:levels": "3",
+    "name": "klub Casino",
+    "source:building": "www.geoportal.gov.pl"
+  }
+},
+{
+  "type": "way",
+  "id": 127268878,
+  "center": {
+    "lat": 53.7768207,
+    "lon": 20.4781188
+  },
+  "tags": {
+    "addr:city": "Olsztyn",
+    "addr:housenumber": "4a",
+    "addr:street": "Joachima Lelewela",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Limonka",
+    "outdoor_seating": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 130230092,
+  "center": {
+    "lat": 49.8332182,
+    "lon": 19.0500624
+  },
+  "tags": {
+    "addr:city": "Bielsko-Biała",
+    "addr:housenumber": "38",
+    "addr:postcode": "43-300",
+    "addr:street": "Michała Grażyńskiego",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "XOXO Music & Cocktail Bar"
+  }
+},
+{
+  "type": "way",
+  "id": 139276443,
+  "center": {
+    "lat": 53.1225692,
+    "lon": 18.0060019
+  },
+  "tags": {
+    "addr:city": "Bydgoszcz",
+    "addr:housenumber": "21",
+    "addr:street": "Stary Port",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "AVA 3.0"
+  }
+},
+{
+  "type": "way",
+  "id": 139710878,
+  "center": {
+    "lat": 53.1210986,
+    "lon": 18.0023885
+  },
+  "tags": {
+    "addr:city": "Bydgoszcz",
+    "addr:housenumber": "18",
+    "addr:postcode": "85-111",
+    "addr:street": "Teofila Magdzińskiego",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Point Club",
+    "phone": "+48 721 502 121"
+  }
+},
+{
+  "type": "way",
+  "id": 156312873,
+  "center": {
+    "lat": 51.7881769,
+    "lon": 18.5484852
+  },
+  "tags": {
+    "addr:postcode": "98-215",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Ramzes Club Pro Fusion"
+  }
+},
+{
+  "type": "way",
+  "id": 160081962,
+  "center": {
+    "lat": 49.7922215,
+    "lon": 18.9819234
+  },
+  "tags": {
+    "addr:city": "Bielsko-Biała",
+    "addr:housenumber": "93",
+    "addr:postcode": "43-300",
+    "addr:street": "Storczyków",
+    "amenity": "nightclub",
+    "building": "yes",
+    "min_age": "18",
+    "name": "Czarna pantera"
+  }
+},
+{
+  "type": "way",
+  "id": 188237150,
+  "center": {
+    "lat": 50.9082774,
+    "lon": 15.9478227
+  },
+  "tags": {
+    "addr:city": "Kaczorów",
+    "addr:city:simc": "0189397",
+    "addr:housenumber": "20",
+    "addr:postcode": "59-421",
+    "addr:street": "Jeleniogórska",
+    "addr:street:sym_ul": "07459",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Night Club Riviera",
+    "source:addr": "emuia.gugik.gov.pl"
+  }
+},
+{
+  "type": "way",
+  "id": 197201478,
+  "center": {
+    "lat": 50.0165064,
+    "lon": 22.0048168
+  },
+  "tags": {
+    "addr:city": "Rzeszów",
+    "addr:housenumber": "4a",
+    "addr:postcode": "35-326",
+    "addr:street": "Cicha",
+    "amenity": "nightclub",
+    "building": "commercial",
+    "building:levels": "1",
+    "name": "Klub Pod Palmą",
+    "phone": "+48 17 872 39 52",
+    "ref": "E3",
+    "source": "UM Rzeszów, wms.erzeszow.pl",
+    "source:address": "UM Rzeszów, wms.erzeszow.pl",
+    "website": "http://www.palma.rzeszow.pl/"
+  }
+},
+{
+  "type": "way",
+  "id": 201185007,
+  "center": {
+    "lat": 50.8688132,
+    "lon": 20.6256166
+  },
+  "tags": {
+    "addr:city": "Kielce",
+    "addr:housenumber": "2",
+    "addr:postcode": "25-009",
+    "addr:street": "Zamkowa",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Klub Gatsby"
+  }
+},
+{
+  "type": "way",
+  "id": 202158935,
+  "center": {
+    "lat": 50.2558961,
+    "lon": 19.0208660
+  },
+  "tags": {
+    "addr:city": "Katowice",
+    "addr:housenumber": "3",
+    "addr:street": "Plebiscytowa",
+    "amenity": "nightclub",
+    "building": "yes",
+    "heritage": "2",
+    "heritage:operator": "nid",
+    "heritage:website": "https://zabytek.pl/pl/obiekty/zabytek?inspire_id=PL.1.9.ZIPOZ.NID_N_24_BK.369883&rejestr=rejestr-zabytkow",
+    "name": "Energy 2000",
+    "nid:inscription_date": "2012-06-04",
+    "ref:inspire": "PL.1.9.ZIPOZ.NID_N_24_BK.369883",
+    "ref:nid": "A/372/12",
+    "source": "UM Katowice",
+    "wikimedia_commons": "File:Katowice Plebiscytowa 3 2024.jpg"
+  }
+},
+{
+  "type": "way",
+  "id": 213811635,
+  "center": {
+    "lat": 50.0120166,
+    "lon": 20.9837306
+  },
+  "tags": {
+    "addr:city": "Tarnów",
+    "addr:housenumber": "3",
+    "addr:postcode": "33-100",
+    "addr:street": "Stanisława Staszica",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Alfa Club"
+  }
+},
+{
+  "type": "way",
+  "id": 219280298,
+  "center": {
+    "lat": 50.3214550,
+    "lon": 19.1003645
+  },
+  "tags": {
+    "addr:city": "Czeladź",
+    "addr:housenumber": "72",
+    "addr:postcode": "41-250",
+    "addr:street": "Będzińska",
+    "amenity": "nightclub",
+    "building": "house",
+    "building:levels": "4",
+    "building:use:pl": "Mieszkalny",
+    "name": "Night Club Play+",
+    "source": "Starostwo Powiatowe Będzin",
+    "source:building": "BDOT",
+    "source:geometry": "EGiB"
+  }
+},
+{
+  "type": "way",
+  "id": 219280860,
+  "center": {
+    "lat": 50.2986675,
+    "lon": 19.1034640
+  },
+  "tags": {
+    "addr:city": "Czeladź",
+    "addr:city:simc": "0939349",
+    "addr:housenumber": "10",
+    "addr:postcode": "41-250",
+    "addr:street": "Elizy Orzeszkowej",
+    "amenity": "nightclub",
+    "building": "yes",
+    "building:levels": "1",
+    "building:use:pl": "Handlowo-usługowy",
+    "name": "Club Kenzo Czeladź",
+    "source": "Starostwo Powiatowe Będzin",
+    "source:addr": "mczeladz.e-mapa.net",
+    "source:building": "BDOT",
+    "source:geometry": "EGiB"
+  }
+},
+{
+  "type": "way",
+  "id": 219301986,
+  "center": {
+    "lat": 50.3486870,
+    "lon": 19.1113541
+  },
+  "tags": {
+    "addr:city": "Będzin",
+    "addr:housenumber": "23",
+    "addr:postcode": "42-500",
+    "addr:street": "Hutnicza",
+    "amenity": "nightclub",
+    "building": "house",
+    "building:levels": "2",
+    "building:use:pl": "Mieszkalny",
+    "name": "Żaklin - Klub nocny",
+    "source": "Starostwo Powiatowe Będzin",
+    "source:building": "BDOT"
+  }
+},
+{
+  "type": "way",
+  "id": 222170962,
+  "center": {
+    "lat": 50.4803138,
+    "lon": 17.3391614
+  },
+  "tags": {
+    "addr:city": "Nysa",
+    "addr:city:simc": "0965789",
+    "addr:housenumber": "4",
+    "addr:postcode": "48-300",
+    "addr:street": "Mazowiecka",
+    "amenity": "nightclub",
+    "building": "commercial",
+    "building:levels": "2",
+    "name": "Nitro",
+    "opening_hours": "Fr-Sa 22:00-29:00",
+    "source:addr": "gugik.gov.pl"
+  }
+},
+{
+  "type": "way",
+  "id": 233355450,
+  "center": {
+    "lat": 50.0780349,
+    "lon": 19.9433615
+  },
+  "tags": {
+    "addr:city": "Kraków",
+    "addr:country": "PL",
+    "addr:housenumber": "12",
+    "addr:street": "Kamienna",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Kamienna 12",
+    "website": "www.instagram.com/kamienna_12/"
+  }
+},
+{
+  "type": "way",
+  "id": 237026384,
+  "center": {
+    "lat": 52.2637835,
+    "lon": 15.3943815
+  },
+  "tags": {
+    "addr:city:simc": "0910943",
+    "addr:housenumber": "14",
+    "addr:place": "Mostki",
+    "addr:postcode": "66-218",
+    "amenity": "nightclub",
+    "building": "commercial",
+    "email": "exit@nightclubexit.pl",
+    "name": "Night Club Exit",
+    "phone": "+48 507 444 333",
+    "source:addr": "lubrza.e-mapa.net",
+    "website": "http://www.alibiclub.pl"
+  }
+},
+{
+  "type": "way",
+  "id": 240126371,
+  "center": {
+    "lat": 50.7977734,
+    "lon": 21.2319772
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "building:levels": "1",
+    "name": "Milano",
+    "website": "https://milanoclub.pl"
+  }
+},
+{
+  "type": "way",
+  "id": 242820280,
+  "center": {
+    "lat": 51.2102541,
+    "lon": 16.1526073
+  },
+  "tags": {
+    "addr:city": "Legnica",
+    "addr:housename": "Club Seven",
+    "addr:housenumber": "20",
+    "addr:postcode": "59-220",
+    "addr:street": "Kardynała Bolesława Kominka",
+    "amenity": "nightclub",
+    "building": "yes",
+    "contact:phone": "+48 505 897 007",
+    "contact:website": "http://www.club-seven.pl/legnica",
+    "name": "7th Heaven"
+  }
+},
+{
+  "type": "way",
+  "id": 243106056,
+  "center": {
+    "lat": 51.9438979,
+    "lon": 21.7663910
+  },
+  "tags": {
+    "addr:city": "Borowie",
+    "addr:city:simc": "0668590",
+    "addr:postcode": "08-412",
+    "addr:street": "Aleksandra Sasimowskiego",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Casablanca",
+    "website": "http://borowie.com.pl"
+  }
+},
+{
+  "type": "way",
+  "id": 247878928,
+  "center": {
+    "lat": 54.2486317,
+    "lon": 20.8074726
+  },
+  "tags": {
+    "addr:city": "Bartoszyce",
+    "addr:city:simc": "0964583",
+    "addr:housenumber": "2",
+    "addr:postcode": "11-200",
+    "addr:street": "Warszawska",
+    "addr:street:sym_ul": "23682",
+    "amenity": "nightclub",
+    "building": "retail",
+    "building:levels": "2",
+    "name": "ROMA",
+    "source:addr": "emuia.gugik.gov.pl",
+    "source:building": "EGiB"
+  }
+},
+{
+  "type": "way",
+  "id": 251209719,
+  "center": {
+    "lat": 52.1142002,
+    "lon": 16.9313189
+  },
+  "tags": {
+    "addr:city": "Manieczki",
+    "addr:housenumber": "9",
+    "addr:street": "Józefa Wybickiego",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Ekwador Manieczki",
+    "source": "geoportal.gov.pl",
+    "source:addr": "EMUiA (brodnica.e-mapa.net)"
+  }
+},
+{
+  "type": "way",
+  "id": 251977608,
+  "center": {
+    "lat": 49.9624547,
+    "lon": 18.9434270
+  },
+  "tags": {
+    "addr:city": "Pszczyna",
+    "addr:city:simc": "0942222",
+    "addr:housenumber": "15",
+    "addr:postcode": "43-200",
+    "addr:street": "Marii Skłodowskiej-Curie",
+    "addr:street:sym_ul": "20068",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "O'Key",
+    "source:addr": "emuia.gugik.gov.pl"
+  }
+},
+{
+  "type": "way",
+  "id": 254053369,
+  "center": {
+    "lat": 51.2808454,
+    "lon": 18.4259066
+  },
+  "tags": {
+    "addr:housenumber": "1C",
+    "addr:place": "Biała Pierwsza",
+    "addr:postcode": "98-350",
+    "amenity": "nightclub",
+    "building": "yes",
+    "dance:style": "house;dance",
+    "name": "Protector Prestige Club",
+    "opening_hours": "Sa-Su 21:00-5:00"
+  }
+},
+{
+  "type": "way",
+  "id": 257178135,
+  "center": {
+    "lat": 51.6551175,
+    "lon": 17.8073396
+  },
+  "tags": {
+    "addr:city": "Ostrów Wielkopolski",
+    "addr:housenumber": "78",
+    "addr:postcode": "63-400",
+    "addr:street": "Raszkowska",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Klub Stara Przepompownia"
+  }
+},
+{
+  "type": "way",
+  "id": 261846692,
+  "center": {
+    "lat": 54.1870409,
+    "lon": 19.4090580
+  },
+  "tags": {
+    "addr:city": "Elbląg",
+    "addr:housenumber": "1H",
+    "addr:postcode": "82-300",
+    "addr:street": "Ogólna",
+    "amenity": "nightclub",
+    "building": "yes",
+    "building:levels": "2",
+    "name": "Sandra",
+    "source:building": "BDOT",
+    "source:geometry": "EGiB"
+  }
+},
+{
+  "type": "way",
+  "id": 262390574,
+  "center": {
+    "lat": 50.6414354,
+    "lon": 17.6302705
+  },
+  "tags": {
+    "addr:city": "Niemodlin",
+    "addr:housenumber": "9",
+    "addr:postcode": "49-100",
+    "addr:street": "Opolska",
+    "amenity": "nightclub",
+    "building": "residential",
+    "name": "Hollywood",
+    "source": "http://sdi.opolskie.pl/mapa_bazowa/request.aspx"
+  }
+},
+{
+  "type": "way",
+  "id": 284273132,
+  "center": {
+    "lat": 54.1682870,
+    "lon": 19.4080673
+  },
+  "tags": {
+    "addr:city": "Elbląg",
+    "addr:housenumber": "95A",
+    "addr:postcode": "82-300",
+    "addr:street": "Królewiecka",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Astoria",
+    "source": "Urząd Miasta Elbląg"
+  }
+},
+{
+  "type": "way",
+  "id": 286881614,
+  "center": {
+    "lat": 51.9043496,
+    "lon": 17.7900603
+  },
+  "tags": {
+    "addr:city": "Pleszew",
+    "addr:housenumber": "43",
+    "addr:postcode": "63-300",
+    "addr:street": "Prokopowska",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Seven-Club"
+  }
+},
+{
+  "type": "way",
+  "id": 293223814,
+  "center": {
+    "lat": 50.4836483,
+    "lon": 19.4172247
+  },
+  "tags": {
+    "addr:city": "Zawiercie",
+    "addr:housenumber": "19c",
+    "addr:postcode": "42-400",
+    "addr:street": "Żabia",
+    "amenity": "nightclub",
+    "building": "yes",
+    "min_age": "18",
+    "name": "Afterek"
+  }
+},
+{
+  "type": "way",
+  "id": 294391874,
+  "center": {
+    "lat": 50.8550954,
+    "lon": 18.0590546
+  },
+  "tags": {
+    "addr:city": "Stare Budkowice",
+    "addr:housenumber": "5",
+    "addr:postcode": "46-030",
+    "addr:street": "Opolska",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Limonka",
+    "source": "http://sdi.opolskie.pl/mapa_bazowa/request.aspx",
+    "website": "https://klubpomarancza.pl/starebudkowice"
+  }
+},
+{
+  "type": "way",
+  "id": 294980017,
+  "center": {
+    "lat": 52.6570378,
+    "lon": 19.0808229
+  },
+  "tags": {
+    "addr:city": "Włocławek",
+    "addr:city:simc": "0984752",
+    "addr:housenumber": "7",
+    "addr:postcode": "87-800",
+    "addr:street": "Ogniowa",
+    "amenity": "nightclub",
+    "building": "yes",
+    "email": "czesc@zarklub.com",
+    "name": "ŻAR",
+    "opening_hours": "Sa 22:00-04:30",
+    "source:addr": "gugik.gov.pl",
+    "start_date": "2025-02-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 297170541,
+  "center": {
+    "lat": 52.8612970,
+    "lon": 16.0888401
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "contact:facebook": "https://www.facebook.com/NEXUSMUSICCLUB/",
+    "contact:phone": "+48 516 275 384",
+    "name": "NEXUS Music Club"
+  }
+},
+{
+  "type": "way",
+  "id": 298405580,
+  "center": {
+    "lat": 53.2556651,
+    "lon": 19.4007001
+  },
+  "tags": {
+    "addr:city": "Brodnica",
+    "addr:housenumber": "3",
+    "addr:postcode": "87-300",
+    "addr:street": "Wodna",
+    "amenity": "nightclub",
+    "building": "commercial",
+    "email": "kontakt@nurtclub.pl",
+    "min_age": "18",
+    "mobile": "+48 57 749 05 66",
+    "name": "Nurt",
+    "opening_hours": "Mo-Th 12:00-21:00; Fr-Sa 12:00-22:00; Su 12:00-21:00; ph unknown",
+    "phone": "+48 53 381 67 60",
+    "smoking": "isolated",
+    "website": "https://www.nurtclub.pl",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 301517391,
+  "center": {
+    "lat": 51.5134332,
+    "lon": 17.6459059
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Marion"
+  }
+},
+{
+  "type": "way",
+  "id": 304530428,
+  "center": {
+    "lat": 52.8973497,
+    "lon": 22.8677929
+  },
+  "tags": {
+    "addr:city:simc": "0038698",
+    "addr:housenumber": "80",
+    "addr:place": "Pietkowo",
+    "addr:postcode": "18-112",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Euforia",
+    "source:addr": "gminaposwietne.e-mapa.net"
+  }
+},
+{
+  "type": "way",
+  "id": 306032696,
+  "center": {
+    "lat": 50.8096580,
+    "lon": 16.2819190
+  },
+  "tags": {
+    "addr:city": "Wałbrzych",
+    "addr:city:simc": "0983681",
+    "addr:housenumber": "26",
+    "addr:postcode": "58-309",
+    "addr:street": "Władysława Broniewskiego",
+    "amenity": "nightclub",
+    "building": "retail",
+    "building:levels": "1",
+    "name": "Stylowa",
+    "source:addr": "EMUiA (emuia.gugik.gov.pl)",
+    "source:building": "BDOT",
+    "source:geometry": "EGiB"
+  }
+},
+{
+  "type": "way",
+  "id": 311955255,
+  "center": {
+    "lat": 50.1368454,
+    "lon": 18.6425010
+  },
+  "tags": {
+    "addr:city": "Czerwionka-Leszczyny",
+    "addr:housenumber": "83",
+    "addr:postcode": "44-238",
+    "addr:street": "Księdza Adolfa Pojdy",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Bajlando"
+  }
+},
+{
+  "type": "way",
+  "id": 313087282,
+  "center": {
+    "lat": 54.1702809,
+    "lon": 19.4031908
+  },
+  "tags": {
+    "addr:city": "Elbląg",
+    "addr:country": "PL",
+    "addr:housenumber": "10",
+    "addr:postcode": "82-300",
+    "addr:state": "Elbląg",
+    "addr:street": "Brzozowa",
+    "amenity": "nightclub",
+    "building": "commercial",
+    "building:colour": "silver",
+    "building:levels": "2",
+    "name": "Epoca",
+    "roof:colour": "silver",
+    "smoking": "separated",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 314152221,
+  "center": {
+    "lat": 53.0785618,
+    "lon": 21.5951900
+  },
+  "tags": {
+    "addr:city": "Ostrołęka",
+    "addr:housenumber": "125a",
+    "addr:postcode": "07-410",
+    "addr:street": "11 Listopada",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Klub Black&White",
+    "source:addr": "EMUiA UM Ostrołęka"
+  }
+},
+{
+  "type": "way",
+  "id": 319569479,
+  "center": {
+    "lat": 49.9849226,
+    "lon": 20.1077746
+  },
+  "tags": {
+    "addr:city:simc": "0341505",
+    "addr:housenumber": "210",
+    "addr:place": "Sułków",
+    "addr:postcode": "32-020",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Music Club Blue Star",
+    "source:addr": "wieliczka.e-mapa.net"
+  }
+},
+{
+  "type": "way",
+  "id": 320087517,
+  "center": {
+    "lat": 51.2600111,
+    "lon": 15.5344134
+  },
+  "tags": {
+    "addr:city": "Bolesławiec",
+    "addr:housenumber": "13",
+    "addr:postcode": "59-700",
+    "addr:street": "Żwirowa",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Eden. PHU. Karaś H."
+  }
+},
+{
+  "type": "way",
+  "id": 324563312,
+  "center": {
+    "lat": 50.8449894,
+    "lon": 18.3881771
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "commercial",
+    "contact:email": "kontakt@magnumfm.com.pl",
+    "contact:phone": "+48 605050240",
+    "name": "Magnum CLUB Wachów",
+    "website": "https://pl-pl.facebook.com/MagnumClubWachow/"
+  }
+},
+{
+  "type": "way",
+  "id": 329415262,
+  "center": {
+    "lat": 49.8898700,
+    "lon": 21.4059466
+  },
+  "tags": {
+    "addr:city": "Brzostek",
+    "addr:city:simc": "0814493",
+    "addr:housenumber": "24",
+    "addr:postcode": "39-230",
+    "addr:street": "Szkotnia",
+    "addr:street:sym_ul": "21977",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Club Insomnia",
+    "phone": "+48 517 516 700",
+    "source:addr": "emuia1.gugik.gov.pl",
+    "website": "http://www.club-insomnia.pl"
+  }
+},
+{
+  "type": "way",
+  "id": 333347785,
+  "center": {
+    "lat": 53.7241280,
+    "lon": 15.9137833
+  },
+  "tags": {
+    "addr:housenumber": "54",
+    "addr:place": "Bierzwnica",
+    "addr:postcode": "78-324",
+    "amenity": "nightclub",
+    "building": "yes",
+    "building:levels": "1",
+    "name": "Arena Bierzwnica",
+    "source": "Starostwo Powiatowe w Świdwinie",
+    "source:addr": "swidwin.e-mapa.net"
+  }
+},
+{
+  "type": "way",
+  "id": 335443661,
+  "center": {
+    "lat": 50.0877246,
+    "lon": 21.0009614
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "139 multi club"
+  }
+},
+{
+  "type": "way",
+  "id": 335443757,
+  "center": {
+    "lat": 50.0875287,
+    "lon": 21.0010504
+  },
+  "tags": {
+    "addr:city:simc": "0822825",
+    "addr:housenumber": "242/3",
+    "addr:place": "Śmigno",
+    "addr:postcode": "33-140",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "139 multiclub",
+    "source:addr": "emuia.gugik.gov.pl"
+  }
+},
+{
+  "type": "way",
+  "id": 341823211,
+  "center": {
+    "lat": 54.7045756,
+    "lon": 18.6728443
+  },
+  "tags": {
+    "addr:city": "Jastarnia",
+    "addr:city:simc": "0934518",
+    "addr:housenumber": "27",
+    "addr:postcode": "84-140",
+    "addr:street": "Bałtycka",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Rettungsbudy cocktails & jazz & pizza & snacks",
+    "source:addr": "gugik.gov.pl"
+  }
+},
+{
+  "type": "way",
+  "id": 343318314,
+  "center": {
+    "lat": 51.6879956,
+    "lon": 17.9236342
+  },
+  "tags": {
+    "addr:city": "Biskupice Ołoboczne",
+    "addr:housenumber": "75a",
+    "addr:postcode": "63-460",
+    "addr:street": "Ostrowska",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Sandra",
+    "source:addr": "noweskalmierzyce.e-mapa.net"
+  }
+},
+{
+  "type": "way",
+  "id": 358204574,
+  "center": {
+    "lat": 53.0057752,
+    "lon": 17.7214388
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Mono Club",
+    "opening_hours": "Sa 21:00-4:00"
+  }
+},
+{
+  "type": "way",
+  "id": 358219063,
+  "center": {
+    "lat": 50.0024283,
+    "lon": 18.9867747
+  },
+  "tags": {
+    "addr:city": "Jankowice",
+    "addr:city:simc": "0220500",
+    "addr:housenumber": "113",
+    "addr:postcode": "43-215",
+    "addr:street": "Żubrów",
+    "addr:street:sym_ul": "26550",
+    "amenity": "nightclub",
+    "building": "commercial",
+    "building:levels": "2",
+    "name": "Stary grant",
+    "opening_hours": "Mo-Sa 11:00-18:00; Su 12:00-20:00",
+    "roof:levels": "1",
+    "roof:shape": "gabled",
+    "source:addr": "emuia.gugik.gov.pl"
+  }
+},
+{
+  "type": "way",
+  "id": 360355479,
+  "center": {
+    "lat": 51.4018850,
+    "lon": 21.1527707
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Piąta Klepka"
+  }
+},
+{
+  "type": "way",
+  "id": 390198296,
+  "center": {
+    "lat": 54.5342536,
+    "lon": 17.7399488
+  },
+  "tags": {
+    "addr:city": "Lębork",
+    "addr:housenumber": "27",
+    "addr:postcode": "84-300",
+    "addr:street": "Legionów Polskich",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Klub Cafe-Del-Mar"
+  }
+},
+{
+  "type": "way",
+  "id": 391139764,
+  "center": {
+    "lat": 51.5450106,
+    "lon": 20.9866396
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "TABOO"
+  }
+},
+{
+  "type": "way",
+  "id": 404769199,
+  "center": {
+    "lat": 51.4143719,
+    "lon": 22.0033832
+  },
+  "tags": {
+    "addr:city": "Puławy",
+    "addr:city:simc": "0956810",
+    "addr:housenumber": "63F",
+    "addr:postcode": "24-100",
+    "addr:street": "Lubelska",
+    "addr:street:sym_ul": "11307",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Klub Muzyczny Lawa",
+    "source:addr": "mpulawy.e-mapa.net"
+  }
+},
+{
+  "type": "way",
+  "id": 436693319,
+  "center": {
+    "lat": 50.4745841,
+    "lon": 20.7517918
+  },
+  "tags": {
+    "addr:city": "Łagiewniki",
+    "addr:housenumber": "89",
+    "addr:postcode": "28-100",
+    "addr:street": "Widuchowska",
+    "amenity": "nightclub",
+    "building": "yes",
+    "min_age": "18",
+    "name": "Księżyc",
+    "smoking": "isolated"
+  }
+},
+{
+  "type": "way",
+  "id": 441441791,
+  "center": {
+    "lat": 50.4511725,
+    "lon": 17.9677526
+  },
+  "tags": {
+    "addr:city": "Pietna",
+    "addr:housenumber": "1a",
+    "addr:postcode": "47-300",
+    "addr:street": "Krapkowicka",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Discoplex A4"
+  }
+},
+{
+  "type": "way",
+  "id": 449739107,
+  "center": {
+    "lat": 51.3824685,
+    "lon": 17.8324562
+  },
+  "tags": {
+    "addr:city": "Kobyla Góra",
+    "addr:city:simc": "0200035",
+    "addr:housenumber": "8",
+    "addr:postcode": "63-507",
+    "addr:street": "Tomasza Sikorskiego",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Epoka",
+    "opening_hours": "Sa-Su 21:00-5:00",
+    "source:addr": "kobylagora.e-mapa.net"
+  }
+},
+{
+  "type": "way",
+  "id": 461234078,
+  "center": {
+    "lat": 52.4811166,
+    "lon": 19.6548545
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Imprezy Patelnia"
+  }
+},
+{
+  "type": "way",
+  "id": 475229880,
+  "center": {
+    "lat": 50.8591677,
+    "lon": 18.8214193
+  },
+  "tags": {
+    "addr:city": "Truskolasy",
+    "addr:housenumber": "110",
+    "addr:postcode": "42-134",
+    "addr:street": "Mikołaja Kopernika",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Club Viva Truskolasy"
+  }
+},
+{
+  "type": "way",
+  "id": 486463933,
+  "center": {
+    "lat": 53.0120633,
+    "lon": 22.5620864
+  },
+  "tags": {
+    "addr:housenumber": "21",
+    "addr:place": "Wnory-Wiechy",
+    "addr:postcode": "18-208",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Klub Scorpio"
+  }
+},
+{
+  "type": "way",
+  "id": 493544323,
+  "center": {
+    "lat": 49.7928975,
+    "lon": 21.4148936
+  },
+  "tags": {
+    "addr:city:simc": "0354011",
+    "addr:housenumber": "37",
+    "addr:place": "Krajowice",
+    "addr:postcode": "38-211",
+    "amenity": "nightclub",
+    "building": "yes",
+    "min_age": "18",
+    "name": "Palma de Mirette",
+    "source:addr": "kolaczyce.e-mapa.net"
+  }
+},
+{
+  "type": "way",
+  "id": 534149924,
+  "center": {
+    "lat": 52.9078571,
+    "lon": 17.4754216
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Viva"
+  }
+},
+{
+  "type": "way",
+  "id": 539924384,
+  "center": {
+    "lat": 52.2769826,
+    "lon": 16.2834782
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Diamond"
+  }
+},
+{
+  "type": "way",
+  "id": 543474685,
+  "center": {
+    "lat": 51.6354845,
+    "lon": 17.9010454
+  },
+  "tags": {
+    "addr:city": "Wtórek",
+    "addr:housenumber": "5",
+    "addr:postcode": "63-400",
+    "addr:street": "Sadowska",
+    "amenity": "nightclub",
+    "building": "yes",
+    "dance:style": "house;dance",
+    "name": "Magnes Club",
+    "opening_hours": "Sa-Su 20:00-05:00",
+    "source:addr": "EMUiA (ostrowwielkopolski.e-mapa.net)"
+  }
+},
+{
+  "type": "way",
+  "id": 548909713,
+  "center": {
+    "lat": 52.6492277,
+    "lon": 18.9170204
+  },
+  "tags": {
+    "addr:city": "Wieniec",
+    "addr:housenumber": "25",
+    "addr:postcode": "87-880",
+    "addr:street": "Parkowa",
+    "addr:street:sym_ul": "15710",
+    "amenity": "nightclub",
+    "building": "yes",
+    "contact:facebook": "https://www.facebook.com/A1klub/",
+    "name": "Klub A1",
+    "source:addr": "brzesckujawski.e-mapa.net"
+  }
+},
+{
+  "type": "way",
+  "id": 554032570,
+  "center": {
+    "lat": 51.7373128,
+    "lon": 20.4319031
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Stodoła"
+  }
+},
+{
+  "type": "way",
+  "id": 602291639,
+  "center": {
+    "lat": 52.3436327,
+    "lon": 16.9333051
+  },
+  "tags": {
+    "addr:city": "Poznań",
+    "addr:housenumber": "62",
+    "addr:postcode": "61-334",
+    "addr:street": "Czernichowska",
+    "amenity": "nightclub",
+    "building": "yes",
+    "email": "biuro@klubangello.pl",
+    "name": "Klub Angello",
+    "phone": "+48 502 302 293; +48 501 734 846",
+    "short_name": "Angello",
+    "source:addr": "EMUiA (emuia.geoportal.gov.pl)",
+    "website": "http://klubangello.pl/"
+  }
+},
+{
+  "type": "way",
+  "id": 603794371,
+  "center": {
+    "lat": 51.6763890,
+    "lon": 17.8695708
+  },
+  "tags": {
+    "addr:city": "Czekanów",
+    "addr:housenumber": "1",
+    "addr:postcode": "63-410",
+    "addr:street": "Strażacka",
+    "amenity": "nightclub",
+    "building": "yes",
+    "dance:style": "house;dance",
+    "name": "Manhattan Club",
+    "opening_hours": "Sa-Su 20:00-5:00"
+  }
+},
+{
+  "type": "way",
+  "id": 630294438,
+  "center": {
+    "lat": 50.1473266,
+    "lon": 22.4760624
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "facebook": "https://www.facebook.com/IglooClubCzyste",
+    "name": "IGLOO Club",
+    "phone": "+48667478909"
+  }
+},
+{
+  "type": "way",
+  "id": 674610043,
+  "center": {
+    "lat": 51.1826439,
+    "lon": 15.0166899
+  },
+  "tags": {
+    "addr:housenumber": "20A",
+    "addr:place": "Jędrzychowice",
+    "addr:postcode": "59-900",
+    "amenity": "nightclub",
+    "brewery": "no",
+    "building": "yes",
+    "min_age": "18",
+    "name": "BelAmi 2",
+    "smoking": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 732294709,
+  "center": {
+    "lat": 53.2643202,
+    "lon": 18.3229861
+  },
+  "tags": {
+    "addr:housenumber": "58",
+    "addr:place": "Kokocko",
+    "addr:postcode": "86-260",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Arena Club"
+  }
+},
+{
+  "type": "way",
+  "id": 759869304,
+  "center": {
+    "lat": 50.6484774,
+    "lon": 23.3700603
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Klub \"Gorzelnia\""
+  }
+},
+{
+  "type": "way",
+  "id": 910482698,
+  "center": {
+    "lat": 52.2607606,
+    "lon": 15.5239382
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "RESET"
+  }
+},
+{
+  "type": "way",
+  "id": 955765132,
+  "center": {
+    "lat": 52.1860763,
+    "lon": 20.9550453
+  },
+  "tags": {
+    "addr:city": "Warszawa",
+    "addr:city:simc": "0918123",
+    "addr:housenumber": "212",
+    "addr:postcode": "02-219",
+    "addr:street": "Aleja Krakowska",
+    "amenity": "nightclub",
+    "building": "detached",
+    "building:levels": "3",
+    "check_date": "2023-10-13",
+    "name": "Oaza",
+    "ref": "M148",
+    "source": "www.geoportal.gov.pl",
+    "source:addr": "gugik.gov.pl"
+  }
+},
+{
+  "type": "way",
+  "id": 979992475,
+  "center": {
+    "lat": 51.5975895,
+    "lon": 18.9383598
+  },
+  "tags": {
+    "addr:city": "Zduńska Wola",
+    "addr:housenumber": "11",
+    "addr:postcode": "98-220",
+    "addr:street": "Piwna",
+    "amenity": "nightclub",
+    "building": "yes",
+    "building:levels": "1",
+    "name": "La Palma",
+    "source": "www.geoportal.gov.pl"
+  }
+},
+{
+  "type": "way",
+  "id": 1237204705,
+  "center": {
+    "lat": 52.6574294,
+    "lon": 19.0763370
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "building:levels": "1",
+    "historic": "yes",
+    "name": "LOFT Music Club",
+    "source:building": "BDOT",
+    "source:geometry": "EGiB"
+  }
+},
+{
+  "type": "relation",
+  "id": 3201433,
+  "center": {
+    "lat": 52.2115708,
+    "lon": 21.0102281
+  },
+  "tags": {
+    "addr:city": "Warszawa",
+    "addr:housenumber": "10",
+    "addr:postcode": "02-591",
+    "addr:street": "Stefana Batorego",
+    "amenity": "nightclub",
+    "building": "hall",
+    "building:levels": "2",
+    "check_date": "2025-05-17",
+    "name": "Stodoła",
+    "official_name": "Centralny Klub Studentów Politechniki Warszawskiej \"Stodoła\"",
+    "start_date": "1972",
+    "type": "multipolygon",
+    "website": "https://stodola.pl/",
+    "wikidata": "Q11740269",
+    "wikipedia": "pl:Centralny Klub Studentów Politechniki Warszawskiej „Stodoła”"
+  }
+},
+{
+  "type": "relation",
+  "id": 6886577,
+  "center": {
+    "lat": 51.9418237,
+    "lon": 15.5043070
+  },
+  "tags": {
+    "addr:city": "Zielona Góra",
+    "addr:housenumber": "63",
+    "addr:postcode": "65-058",
+    "addr:street": "Kupiecka",
+    "amenity": "nightclub",
+    "building": "yes",
+    "email": "maja@xdemon.pl",
+    "facebook": "https://www.facebook.com/pg/XDemon/services/?service_id=1382681305134926&ref=page_internal",
+    "image": "https://photos.app.goo.gl/BS4zkZCrmQetfXz78",
+    "mapillary": "https://www.mapillary.com/map/im/a1gxuayQmj6XnNhfaCrSVQ",
+    "name": "X-Demon",
+    "phone": "+48797407885",
+    "type": "multipolygon",
+    "url": "https://www.youtube.com/user/XdemonZG",
+    "url:0": "https://polska-org.pl/9412763,Zielona_Gora,Budynek_nr_63_X_Demon.html",
+    "url:1": "https://fotopolska.eu/92786,obiekt.html?map_z=18",
+    "url:2": "https://wzielonej.pl/informacje/hermes/",
+    "website": "http://www.zg.xdemon.pl/"
+  }
+}
+
+  ]
+}

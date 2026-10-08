@@ -1,0 +1,424 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-10-08T23:39:18Z",
+    "timestamp_areas_base": "2026-10-07T10:19:21Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 984347639,
+  "lat": 40.2151305,
+  "lon": -0.1679488,
+  "tags": {
+    "name": "Disco Mary's",
+    "was:amenity": "nightclub"
+  }
+},
+{
+  "type": "node",
+  "id": 1148264162,
+  "lat": 40.9648478,
+  "lon": -5.6650441,
+  "tags": {
+    "amenity": "restaurant",
+    "disused:amenity": "nightclub",
+    "indoor_seating": "yes",
+    "name": "Cum Laude",
+    "opening_hours:signed": "no",
+    "outdoor_seating": "no",
+    "website": "https://cvmlavdegourmet.com/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1670697946,
+  "lat": 42.7879673,
+  "lon": -0.5307413,
+  "tags": {
+    "disused:amenity": "nightclub",
+    "name": "Winter"
+  }
+},
+{
+  "type": "node",
+  "id": 1674553534,
+  "lat": 42.9276354,
+  "lon": -3.4872466,
+  "tags": {
+    "check_date": "2026-04-19",
+    "disused:amenity": "nightclub",
+    "name": "El Duende"
+  }
+},
+{
+  "type": "node",
+  "id": 2018306443,
+  "lat": 42.9390062,
+  "lon": -3.5731253,
+  "tags": {
+    "addr:housenumber": "5",
+    "addr:street": "Calle Santander",
+    "disused:amenity": "nightclub",
+    "name": "Pub Whisky"
+  }
+},
+{
+  "type": "node",
+  "id": 2089391066,
+  "lat": 41.6410142,
+  "lon": -0.8884366,
+  "tags": {
+    "name": "Sala DeVizio",
+    "was:amenity": "nightclub"
+  }
+},
+{
+  "type": "node",
+  "id": 2498389547,
+  "lat": 41.3808626,
+  "lon": 2.1546055,
+  "tags": {
+    "alt_name": "Arena VIP;Club Dicks;Cuenca Club",
+    "disused:amenity": "nightclub",
+    "harassment_prevention": "No Callem",
+    "lgbtq": "primary",
+    "name": "Sala Tango Noches",
+    "opening_hours": "Fr-Sa 01:00-07:00",
+    "operator": "Sala Tango",
+    "sexual_antiharassment_policy": "yes",
+    "sexual_antiharassment_policy:name": "NoCallem",
+    "website": "https://www.salatango.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 2498389551,
+  "lat": 41.3884590,
+  "lon": 2.1642694,
+  "tags": {
+    "disused:amenity": "nightclub",
+    "harassment_prevention": "No Callem",
+    "lgbtq": "primary",
+    "lgbtq:women": "primary",
+    "name": "Aire / Arena Clàssic",
+    "sexual_antiharassment_policy": "yes",
+    "sexual_antiharassment_policy:name": "NoCallem",
+    "website": "https://www.instagram.com/airechicas/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2498389557,
+  "lat": 41.3840336,
+  "lon": 2.1634161,
+  "tags": {
+    "disused:amenity": "nightclub",
+    "lgbtq": "primary",
+    "lgbtq:men": "only",
+    "name": "Metro Disco BCN"
+  }
+},
+{
+  "type": "node",
+  "id": 4357725992,
+  "lat": 41.6428759,
+  "lon": -0.8828036,
+  "tags": {
+    "disused:amenity": "nightclub",
+    "name": "Candy Warhol"
+  }
+},
+{
+  "type": "node",
+  "id": 6775570625,
+  "lat": 38.9179953,
+  "lon": 1.4393110,
+  "tags": {
+    "addr:city": "Eivissa",
+    "addr:housenumber": "11",
+    "addr:postcode": "07800",
+    "addr:street": "Avinguda 8 d'Agost",
+    "contact:facebook": "https://www.facebook.com/pg/Veto-Social-Club-767003296645623/events",
+    "contact:instagram": "https://www.instagram.com/veto_social_club",
+    "contact:phone": "+34 971 317006",
+    "contact:ra": "https://ra.co/clubs/92983",
+    "contact:website": "https://veto-social-club.com",
+    "disused:amenity": "nightclub",
+    "end_date": "2020-02",
+    "name": "Veto Social Club"
+  }
+},
+{
+  "type": "node",
+  "id": 7993526067,
+  "lat": 42.1618831,
+  "lon": -8.6221057,
+  "tags": {
+    "disused:amenity": "nightclub",
+    "name": "Wamba",
+    "source": "local_knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 8398090898,
+  "lat": 38.0227290,
+  "lon": -3.0987147,
+  "tags": {
+    "addr:city": "Santo Tomé",
+    "addr:postcode": "23311",
+    "addr:street": "Carretera de Cazorla",
+    "disused:amenity": "nightclub",
+    "name": "Zurich"
+  }
+},
+{
+  "type": "node",
+  "id": 8993474118,
+  "lat": 40.4299290,
+  "lon": -3.6999535,
+  "tags": {
+    "addr:housenumber": "9",
+    "addr:postcode": "28010",
+    "addr:street": "Calle de Francisco de Rojas",
+    "disused:amenity": "nightclub",
+    "name": "Sala Héroe",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 11874406209,
+  "lat": 40.7976552,
+  "lon": 0.7002687,
+  "tags": {
+    "name": "Mediterrania Disco L'Ampolla",
+    "was:amenity": "nightclub"
+  }
+},
+{
+  "type": "node",
+  "id": 12759820344,
+  "lat": 40.2231487,
+  "lon": -6.8785341,
+  "tags": {
+    "check_date": "2026-08-08",
+    "disused:amenity": "nightclub",
+    "name": "Paraíso"
+  }
+},
+{
+  "type": "node",
+  "id": 12833153236,
+  "lat": 41.6458201,
+  "lon": -4.7354404,
+  "tags": {
+    "disused:amenity": "nightclub",
+    "name": "Charlot"
+  }
+},
+{
+  "type": "node",
+  "id": 12833153574,
+  "lat": 41.6467094,
+  "lon": -4.7267820,
+  "tags": {
+    "alt_name": "Campus",
+    "disused:amenity": "nightclub",
+    "name": "Campvs"
+  }
+},
+{
+  "type": "node",
+  "id": 12833193712,
+  "lat": 41.6509765,
+  "lon": -4.7253889,
+  "tags": {
+    "alt_name": "Jaleo",
+    "disused:amenity": "nightclub",
+    "name": "Mambo"
+  }
+},
+{
+  "type": "node",
+  "id": 13055684766,
+  "lat": 36.7439317,
+  "lon": -3.5178262,
+  "tags": {
+    "disused:amenity": "nightclub",
+    "name": "Privilege"
+  }
+},
+{
+  "type": "node",
+  "id": 13378072756,
+  "lat": 38.9922030,
+  "lon": -1.8543296,
+  "tags": {
+    "check_date": "2025-12-15",
+    "disused:amenity": "nightclub",
+    "name": "Golden Box"
+  }
+},
+{
+  "type": "node",
+  "id": 13378072765,
+  "lat": 38.9912087,
+  "lon": -1.8546012,
+  "tags": {
+    "check_date": "2026-06-26",
+    "disused:amenity": "nightclub",
+    "name": "Mamajuana"
+  }
+},
+{
+  "type": "way",
+  "id": 242615717,
+  "center": {
+    "lat": 43.0394031,
+    "lon": -8.0166618
+  },
+  "tags": {
+    "building": "yes",
+    "disused:amenity": "nightclub",
+    "name": "Antiga Discoteca Supernova"
+  }
+},
+{
+  "type": "way",
+  "id": 254055129,
+  "center": {
+    "lat": 41.6074440,
+    "lon": 0.6103418
+  },
+  "tags": {
+    "disused:amenity": "nightclub",
+    "name": "Hill Lleida"
+  }
+},
+{
+  "type": "way",
+  "id": 264346075,
+  "center": {
+    "lat": 41.0741640,
+    "lon": 1.1759815
+  },
+  "tags": {
+    "building": "yes",
+    "disused:amenity": "nightclub",
+    "name": "Pacha"
+  }
+},
+{
+  "type": "way",
+  "id": 382496863,
+  "center": {
+    "lat": 40.4935727,
+    "lon": -3.3417636
+  },
+  "tags": {
+    "addr:city": "Alcalá de Henares",
+    "addr:housenumber": "10",
+    "addr:postcode": "28805",
+    "addr:street": "Calle Ceuta",
+    "building": "yes",
+    "building:levels": "1",
+    "disused:amenity": "nightclub",
+    "name": "Freedom"
+  }
+},
+{
+  "type": "way",
+  "id": 432928144,
+  "center": {
+    "lat": 43.1386421,
+    "lon": -9.1750394
+  },
+  "tags": {
+    "building": "yes",
+    "disused:amenity": "nightclub",
+    "name": "Discoteca Lingunde"
+  }
+},
+{
+  "type": "way",
+  "id": 623206883,
+  "center": {
+    "lat": 41.9984788,
+    "lon": 2.2765699
+  },
+  "tags": {
+    "abandoned:amenity": "nightclub",
+    "building": "yes",
+    "name": "Karibú"
+  }
+},
+{
+  "type": "way",
+  "id": 874879749,
+  "center": {
+    "lat": 41.1908167,
+    "lon": 1.5830507
+  },
+  "tags": {
+    "abandoned:amenity": "nightclub",
+    "architect": "Alfredo Arribas Cabrejas;Miguel Morte Morales",
+    "building": "yes",
+    "description": "Cerró en 2012",
+    "heritage": "7",
+    "heritage:operator": "Ajuntament de Calafell",
+    "name": "Discoteca Louie Vega",
+    "start_date": "1988"
+  }
+},
+{
+  "type": "way",
+  "id": 1170745709,
+  "center": {
+    "lat": 41.7819151,
+    "lon": 1.0937900
+  },
+  "tags": {
+    "area": "yes",
+    "disused:amenity": "nightclub",
+    "name": "Waikiki"
+  }
+},
+{
+  "type": "way",
+  "id": 1416139135,
+  "center": {
+    "lat": 41.3005042,
+    "lon": 1.2587662
+  },
+  "tags": {
+    "addr:city": "Valls",
+    "addr:housenumber": "221-223",
+    "addr:postcode": "43800",
+    "addr:street": "Carretera del Pla",
+    "alt_name": "Discoteca Chrysalis",
+    "alt_name:ca": "Discoteca Chrysalis",
+    "contact:facebook": "https://www.facebook.com/ChrysalisValls",
+    "contact:instagram": "chrysalisvalls",
+    "demolished_date": "on or after 2006..on or before 2008",
+    "disused:amenity": "nightclub",
+    "end_date": "2006",
+    "landuse": "brownfield",
+    "name": "Antiga Discoteca Chrysalis",
+    "official_name": "Chrysalis Discotheque Valls",
+    "old_name": "Chrysalis Discotheque Valls",
+    "ref:ES:catastro": "4337401CF5743N",
+    "short_name": "Chrysalis",
+    "short_name:ca": "Chrysalis",
+    "start_date": "1979"
+  }
+}
+
+  ]
+}

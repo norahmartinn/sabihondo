@@ -1,0 +1,2678 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-10-08T23:19:35Z",
+    "timestamp_areas_base": "2026-10-07T10:19:21Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 258669769,
+  "lat": 46.1694491,
+  "lon": 21.3166179,
+  "tags": {
+    "addr:city": "Arad",
+    "addr:street": "Piața Avram Iancu",
+    "amenity": "nightclub",
+    "created_by": "JOSM",
+    "name": "Afrodita Sexi Club",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 391842664,
+  "lat": 47.8587446,
+  "lon": 26.6342497,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Discoteka Nicșeni"
+  }
+},
+{
+  "type": "node",
+  "id": 442574881,
+  "lat": 43.9433247,
+  "lon": 28.6371981,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Discoteca Ring"
+  }
+},
+{
+  "type": "node",
+  "id": 736625363,
+  "lat": 46.7726286,
+  "lon": 23.5932095,
+  "tags": {
+    "addr:city": "Cluj-Napoca",
+    "addr:country": "RO",
+    "addr:housenumber": "12",
+    "addr:postcode": "400104",
+    "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+    "addr:street": "Strada Brassai Sámuel",
+    "alt_name": "After Eight - Cocktail Club",
+    "amenity": "nightclub",
+    "name": "After 8",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 989991946,
+  "lat": 45.7915177,
+  "lon": 24.1429104,
+  "tags": {
+    "addr:city": "Sibiu",
+    "addr:street": "Strada Ion Rațiu",
+    "amenity": "nightclub",
+    "is_in:city": "Sibiu",
+    "is_in:country": "Romania",
+    "is_in:country_code": "RO",
+    "is_in:county": "Sibiu",
+    "name": "Ursus Cotton Pub",
+    "smoking": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1408774079,
+  "lat": 46.5521479,
+  "lon": 24.5570596,
+  "tags": {
+    "addr:city": "Târgu Mureș",
+    "addr:housenumber": "3",
+    "addr:street": "Strada Sinaia",
+    "amenity": "nightclub",
+    "name": "Jazz & Blues Club",
+    "website": "https://www.jbclub.ro/"
+  }
+},
+{
+  "type": "node",
+  "id": 1416513554,
+  "lat": 44.4314853,
+  "lon": 26.0998758,
+  "tags": {
+    "addr:city": "București",
+    "addr:housenumber": "23-25",
+    "addr:postcode": "030072",
+    "addr:street": "Strada Smârdan",
+    "amenity": "nightclub",
+    "contact:facebook": "https://www.facebook.com/irishpub.stpatrick.bucharest",
+    "contact:website": "https://stpatrick.ro",
+    "cuisine": "pub",
+    "name": "St. Patrick",
+    "outdoor_seating": "yes",
+    "source:addr:street": "survey",
+    "theme": "irish"
+  }
+},
+{
+  "type": "node",
+  "id": 1488316758,
+  "lat": 44.1958532,
+  "lon": 28.6324950,
+  "tags": {
+    "addr:city": "Constanța",
+    "addr:housenumber": "104",
+    "addr:street": "Bulevardul Alexandru Lăpușneanu",
+    "amenity": "nightclub",
+    "name": "Luv Constanța"
+  }
+},
+{
+  "type": "node",
+  "id": 1710557032,
+  "lat": 46.7567753,
+  "lon": 23.5945764,
+  "tags": {
+    "addr:city": "Cluj-Napoca",
+    "addr:country": "RO",
+    "addr:housenumber": "109",
+    "addr:postcode": "400489",
+    "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+    "addr:street": "Strada Republicii",
+    "amenity": "nightclub",
+    "name": "Club NOA (Nest of Angels)",
+    "website": "https://www.clubnoa.ro/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1729617170,
+  "lat": 44.4355973,
+  "lon": 26.0969873,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Control Club",
+    "opening_hours": "Mo-Su 12:00-06:00",
+    "website": "https://www.control-club.ro/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1758983402,
+  "lat": 44.4305790,
+  "lon": 26.1005539,
+  "tags": {
+    "addr:city": "București",
+    "addr:housenumber": "24",
+    "addr:postcode": "030069",
+    "addr:street": "Strada Șelari",
+    "amenity": "nightclub",
+    "check_date": "2023-03-31",
+    "name": "Kiss Club",
+    "opening_hours": "Mo-Su 23:30-02:00",
+    "phone": "+40 723 313 341",
+    "source:addr:street": "survey",
+    "website": "http://www.kiss-club.ro/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1771653568,
+  "lat": 47.1555935,
+  "lon": 27.5884422,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Fratelli"
+  }
+},
+{
+  "type": "node",
+  "id": 1814987101,
+  "lat": 44.4325340,
+  "lon": 26.1390600,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Million Dollars Club"
+  }
+},
+{
+  "type": "node",
+  "id": 1965304155,
+  "lat": 46.7570430,
+  "lon": 23.5936850,
+  "tags": {
+    "addr:city": "Cluj-Napoca",
+    "addr:country": "RO",
+    "addr:housenumber": "110",
+    "addr:postcode": "400489",
+    "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+    "addr:province": "Transilvania",
+    "addr:state": "CJ",
+    "addr:street": "Strada Republicii",
+    "amenity": "nightclub",
+    "name": "Diamond Club",
+    "website": "https://diamondclub.ro/"
+  }
+},
+{
+  "type": "node",
+  "id": 2013705286,
+  "lat": 45.0462396,
+  "lon": 25.9534350,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Enigma"
+  }
+},
+{
+  "type": "node",
+  "id": 2079285482,
+  "lat": 45.1326394,
+  "lon": 25.7331457,
+  "tags": {
+    "addr:city": "Câmpina",
+    "addr:housename": "Club Amnesia",
+    "addr:housenumber": "91",
+    "addr:postcode": "105600",
+    "addr:street": "Strada B.P. Hașdeu",
+    "amenity": "nightclub",
+    "name": "Club Amnesia",
+    "phone": "+40731759820",
+    "website": "https://www.facebook.com/amnesia.club.campina"
+  }
+},
+{
+  "type": "node",
+  "id": 2088400818,
+  "lat": 45.7136749,
+  "lon": 25.6837998,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Discoteca"
+  }
+},
+{
+  "type": "node",
+  "id": 2124942927,
+  "lat": 45.4093270,
+  "lon": 23.3762396,
+  "tags": {
+    "addr:city": "Petroșani",
+    "amenity": "nightclub",
+    "name": "Club Keops"
+  }
+},
+{
+  "type": "node",
+  "id": 2293822622,
+  "lat": 43.8161454,
+  "lon": 28.5865438,
+  "tags": {
+    "addr:housename": "Paradiso",
+    "addr:postcode": "905500",
+    "addr:street": "Strada Matei Basarab",
+    "amenity": "nightclub",
+    "name": "Paradiso",
+    "wifi": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2296190883,
+  "lat": 44.3958778,
+  "lon": 26.1232661,
+  "tags": {
+    "addr:city": "București",
+    "addr:country": "RO",
+    "addr:housenumber": "391",
+    "addr:postcode": "040055",
+    "addr:street": "Calea Văcărești",
+    "amenity": "nightclub",
+    "branch": "Sun Plaza",
+    "facebook": "ClubOxygenBucuresti",
+    "name": "Oxigen Club",
+    "opening_hours": "Su-Th 13:00-22:00; Fr-Sa 13:00-00:00",
+    "operator": "Attecco Club SA",
+    "phone": "+40 751 091 792",
+    "source:addr:housenumber": "survey",
+    "source:addr:postcode": "survey",
+    "website": "https://www.oxygen.com.ro/"
+  }
+},
+{
+  "type": "node",
+  "id": 2320553691,
+  "lat": 46.1620084,
+  "lon": 21.4135738,
+  "tags": {
+    "amenity": "nightclub",
+    "massage": "sexual",
+    "name": "Club Sandro",
+    "shop": "massage"
+  }
+},
+{
+  "type": "node",
+  "id": 2441208843,
+  "lat": 44.4675020,
+  "lon": 26.1180160,
+  "tags": {
+    "addr:city": "București",
+    "addr:housenumber": "50",
+    "addr:street": "Strada Tuzla",
+    "amenity": "nightclub",
+    "name": "Bamboo by OXYA",
+    "operator": "Giosue \"Joshua\" Castellano",
+    "website": "https://bucharest.bambooclub.ro",
+    "wikidata": "Q16164129",
+    "wikipedia": "en:Bamboo Club"
+  }
+},
+{
+  "type": "node",
+  "id": 2451034642,
+  "lat": 44.4346800,
+  "lon": 26.0885559,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Exotic Cigars Club The Buddhist",
+    "name:ja": "ブッディスト・ストリップクラブ",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2457438681,
+  "lat": 44.4724986,
+  "lon": 26.1132251,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Fratelli Social Club",
+    "smoking": "yes",
+    "website": "https://www.fratelli.ro/"
+  }
+},
+{
+  "type": "node",
+  "id": 2486324818,
+  "lat": 44.4304604,
+  "lon": 26.1025169,
+  "tags": {
+    "addr:city": "București",
+    "addr:housenumber": "19",
+    "addr:postcode": "030094",
+    "addr:street": "Strada Covaci",
+    "amenity": "nightclub",
+    "check_date": "2025-08-08",
+    "name": "True Social Club",
+    "opening_hours": "We-Th 18:00-24:00; Fr-Sa 18:00-03:00; Su 18:00-24:00",
+    "outdoor_seating": "yes",
+    "phone": "+40 727 488 087",
+    "source:addr:street": "survey",
+    "website": "https://trueclub.ro/"
+  }
+},
+{
+  "type": "node",
+  "id": 2784275927,
+  "lat": 45.1761225,
+  "lon": 25.6706027,
+  "tags": {
+    "addr:housenumber": "21",
+    "addr:postcode": "105400",
+    "addr:street": "Strada Republicii",
+    "amenity": "nightclub",
+    "internet_access": "wlan",
+    "name": "Ice Cube",
+    "opening_hours": "Fr-Sa 22:00-04:00",
+    "phone": "+40 724 232 823",
+    "website": "https://icecube.ro/"
+  }
+},
+{
+  "type": "node",
+  "id": 2860726008,
+  "lat": 46.7742391,
+  "lon": 23.5934197,
+  "tags": {
+    "addr:city": "Cluj-Napoca",
+    "addr:country": "RO",
+    "addr:street": "Strada Argeș",
+    "amenity": "nightclub",
+    "email": "office@clubbamboocluj ro",
+    "name": "Club Bamboo",
+    "phone": "0752 260046; 0264 432239",
+    "smoking": "yes",
+    "website": "http://www.clubbamboocluj.ro/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2876969501,
+  "lat": 44.4044767,
+  "lon": 26.1118271,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Club Daimon",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2888715602,
+  "lat": 47.1631101,
+  "lon": 27.5812472,
+  "tags": {
+    "addr:city": "Iași",
+    "addr:housenumber": "8",
+    "addr:postcode": "700259",
+    "addr:street": "Bulevardul Ștefan cel Mare și Sfânt",
+    "amenity": "nightclub",
+    "level": "-1",
+    "name": "Urbana",
+    "opening_hours": "22"
+  }
+},
+{
+  "type": "node",
+  "id": 2888715603,
+  "lat": 47.1628629,
+  "lon": 27.5812701,
+  "tags": {
+    "amenity": "nightclub",
+    "level": "-1",
+    "name": "Taverna Music-Pub"
+  }
+},
+{
+  "type": "node",
+  "id": 2888715604,
+  "lat": 47.1627074,
+  "lon": 27.5814663,
+  "tags": {
+    "amenity": "nightclub",
+    "level": "-1",
+    "name": "La bază",
+    "outdoor_seating": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2918314870,
+  "lat": 44.3165881,
+  "lon": 25.9005160,
+  "tags": {
+    "addr:city": "Mihăilești",
+    "amenity": "nightclub",
+    "name": "Dovinot",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2918455188,
+  "lat": 44.1640506,
+  "lon": 24.5329118,
+  "tags": {
+    "addr:city": "Drăgănești-Olt",
+    "addr:housename": "Butterfly",
+    "amenity": "nightclub",
+    "name": "Disco la Rudaru din Olt",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2963980298,
+  "lat": 44.2998610,
+  "lon": 23.7952836,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Club 300"
+  }
+},
+{
+  "type": "node",
+  "id": 3008338644,
+  "lat": 48.1851844,
+  "lon": 26.5966431,
+  "tags": {
+    "addr:city": "Darabani",
+    "addr:postcode": "715100",
+    "addr:street": "Strada Pieții",
+    "amenity": "nightclub",
+    "name": "Subway Club",
+    "smoking": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3037382888,
+  "lat": 45.3058648,
+  "lon": 24.6577487,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Club de noapte"
+  }
+},
+{
+  "type": "node",
+  "id": 3047892058,
+  "lat": 46.7661526,
+  "lon": 23.5775104,
+  "tags": {
+    "addr:city": "Cluj-Napoca",
+    "addr:country": "RO",
+    "addr:housenumber": "74",
+    "addr:postcode": "400370",
+    "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+    "addr:street": "Calea Moților",
+    "amenity": "nightclub",
+    "name": "Club Agronomia",
+    "operator": "Universitatea de Științe Agricole și Medicină Veterinară din Cluj-Napoca",
+    "phone": "+40 732 772 299",
+    "smoking": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3118882252,
+  "lat": 44.4443292,
+  "lon": 26.0985778,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Club XS",
+    "opening_hours": "Mo-Su 00:00+"
+  }
+},
+{
+  "type": "node",
+  "id": 3142491332,
+  "lat": 44.4378031,
+  "lon": 26.1137082,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date:opening_hours": "2025-04-11",
+    "fixme": "Still open?",
+    "lgbtq": "primary",
+    "name": "Queens Bucharest Club",
+    "opening_hours": "Fr-Sa 10:00-05:00",
+    "opening_hours:signed": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3211314261,
+  "lat": 44.4437029,
+  "lon": 26.1107698,
+  "tags": {
+    "amenity": "nightclub",
+    "description": "Acesta a fost al doilea spațiu cu brandul El Comandante în București (primul fiind El Primer Comandante din strada Ștefan). A funcționat 2006-2015 (închis dupa Colectiv) redeschis in 2025.",
+    "name": "El Comandante Grande"
+  }
+},
+{
+  "type": "node",
+  "id": 3225105206,
+  "lat": 44.3081227,
+  "lon": 23.8037604,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Club Paradis"
+  }
+},
+{
+  "type": "node",
+  "id": 3252797042,
+  "lat": 44.3159758,
+  "lon": 23.8263263,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Club Flamingo"
+  }
+},
+{
+  "type": "node",
+  "id": 3293612284,
+  "lat": 46.7709862,
+  "lon": 23.5909630,
+  "tags": {
+    "addr:city": "Cluj-Napoca",
+    "addr:country": "RO",
+    "addr:housenumber": "8",
+    "addr:postcode": "400094",
+    "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+    "addr:street": "Bulevardul 21 Decembrie 1989",
+    "amenity": "nightclub",
+    "name": "Delirio"
+  }
+},
+{
+  "type": "node",
+  "id": 3298962176,
+  "lat": 46.1573669,
+  "lon": 24.7653778,
+  "tags": {
+    "addr:city": "Șaeș",
+    "amenity": "nightclub",
+    "name": "Club Ambasador Saes"
+  }
+},
+{
+  "type": "node",
+  "id": 3319865939,
+  "lat": 45.4210865,
+  "lon": 23.3707849,
+  "tags": {
+    "addr:city": "Petroșani",
+    "amenity": "nightclub",
+    "name": "Yoyo's Irish Pub"
+  }
+},
+{
+  "type": "node",
+  "id": 3334256082,
+  "lat": 44.3171977,
+  "lon": 23.8209634,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Astera"
+  }
+},
+{
+  "type": "node",
+  "id": 3422288437,
+  "lat": 44.4254047,
+  "lon": 24.3526019,
+  "tags": {
+    "addr:city": "Slatina",
+    "addr:street": "Strada Ionașcu",
+    "amenity": "nightclub",
+    "name": "King's"
+  }
+},
+{
+  "type": "node",
+  "id": 3431993561,
+  "lat": 44.3324648,
+  "lon": 23.7819278,
+  "tags": {
+    "addr:city": "Craiova",
+    "addr:street": "Strada George Enescu",
+    "amenity": "nightclub",
+    "name": "Club Andu"
+  }
+},
+{
+  "type": "node",
+  "id": 3446956582,
+  "lat": 44.3204535,
+  "lon": 23.8149518,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Club Angy"
+  }
+},
+{
+  "type": "node",
+  "id": 3518974067,
+  "lat": 44.1726207,
+  "lon": 28.6283272,
+  "tags": {
+    "addr:city": "Constanța",
+    "addr:country": "RO",
+    "addr:housenumber": "28",
+    "addr:street": "Bulevardul I. C. Brătianu",
+    "amenity": "nightclub",
+    "name": "Club Crush"
+  }
+},
+{
+  "type": "node",
+  "id": 3560308039,
+  "lat": 45.1030284,
+  "lon": 24.3463707,
+  "tags": {
+    "addr:street": "Strada Morilor",
+    "amenity": "nightclub",
+    "club": "sport",
+    "name": "Club Stephany",
+    "phone": "+40 747805607"
+  }
+},
+{
+  "type": "node",
+  "id": 3605080255,
+  "lat": 44.2322220,
+  "lon": 28.6269847,
+  "tags": {
+    "addr:city": "Mamaia",
+    "addr:street": "Aleea Falezei",
+    "amenity": "nightclub",
+    "name": "Crema Summer Club Mamaia"
+  }
+},
+{
+  "type": "node",
+  "id": 3605080256,
+  "lat": 44.2323354,
+  "lon": 28.6269042,
+  "tags": {
+    "addr:city": "Mamaia",
+    "addr:street": "Aleea Falezei",
+    "amenity": "nightclub",
+    "name": "J'adore Mamaia"
+  }
+},
+{
+  "type": "node",
+  "id": 3605116598,
+  "lat": 44.2351874,
+  "lon": 28.6258957,
+  "tags": {
+    "addr:city": "Mamaia",
+    "amenity": "nightclub",
+    "name": "Megalos Club"
+  }
+},
+{
+  "type": "node",
+  "id": 3647445854,
+  "lat": 44.4368693,
+  "lon": 26.2462085,
+  "tags": {
+    "addr:city": "Cernica",
+    "addr:street": "Strada Ștrandului",
+    "amenity": "nightclub",
+    "name": "Colonial club Cernica",
+    "phone": "+40724282494",
+    "website": "https://club-cernica.ro/"
+  }
+},
+{
+  "type": "node",
+  "id": 3666585433,
+  "lat": 43.7584658,
+  "lon": 28.5745208,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "La Pescărie",
+    "website": "https://facebook.com/LaPescarie"
+  }
+},
+{
+  "type": "node",
+  "id": 3685504681,
+  "lat": 45.1428849,
+  "lon": 26.8228600,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "La Feroviari"
+  }
+},
+{
+  "type": "node",
+  "id": 3788519214,
+  "lat": 46.5354926,
+  "lon": 28.0129676,
+  "tags": {
+    "addr:city": "Hoceni",
+    "addr:postcode": "737285",
+    "amenity": "nightclub",
+    "name": "OZN Club",
+    "opening_hours": "19:00-04:00",
+    "smoking": "isolated"
+  }
+},
+{
+  "type": "node",
+  "id": 3809864557,
+  "lat": 44.1785978,
+  "lon": 28.6508123,
+  "tags": {
+    "addr:city": "Constanța",
+    "addr:housenumber": "4",
+    "addr:street": "Strada Răscoala din 1907",
+    "amenity": "nightclub",
+    "contact:email": "officeconstanta@fratelli.ro",
+    "contact:phone": "004 0725 510 000",
+    "name": "Fratelli Lounge & Club",
+    "website": "https://fratelli-constanta.ro/"
+  }
+},
+{
+  "type": "node",
+  "id": 3823303720,
+  "lat": 44.2689067,
+  "lon": 28.6206239,
+  "tags": {
+    "addr:city": "Mamaia",
+    "addr:street": "Aleea Argos",
+    "amenity": "nightclub",
+    "name": "Fratelli Beach & Club",
+    "website": "https://www.fratelli.ro/"
+  }
+},
+{
+  "type": "node",
+  "id": 3985644488,
+  "lat": 44.2854404,
+  "lon": 26.4416066,
+  "tags": {
+    "addr:street": "Strada Gării",
+    "amenity": "nightclub",
+    "club": "Club Monarch",
+    "name": "Monarch"
+  }
+},
+{
+  "type": "node",
+  "id": 4054669959,
+  "lat": 44.8650324,
+  "lon": 24.8688455,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Alexander"
+  }
+},
+{
+  "type": "node",
+  "id": 4065693280,
+  "lat": 44.3141526,
+  "lon": 23.8364298,
+  "tags": {
+    "addr:city": "Craiova",
+    "addr:country": "RO",
+    "addr:street": "Strada Eustațiu Stoenescu",
+    "amenity": "nightclub",
+    "name": "The Queens"
+  }
+},
+{
+  "type": "node",
+  "id": 4078490837,
+  "lat": 44.4524370,
+  "lon": 26.0970725,
+  "tags": {
+    "addr:city": "București",
+    "addr:housenumber": "60",
+    "addr:postcode": "010627",
+    "addr:street": "Strada Grigore Alexandrescu",
+    "amenity": "nightclub",
+    "name": "LOFT",
+    "opening_hours": "Tu-Th 19:00-02:00; Fr-Sa 19:00-04:00",
+    "parcel_pickup": "yes",
+    "phone": "+40 75 638 5638",
+    "smoking": "outside",
+    "website": "https://www.loftlounge.ro/"
+  }
+},
+{
+  "type": "node",
+  "id": 4100898690,
+  "lat": 44.7444438,
+  "lon": 27.8574246,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Disco Latino Ring",
+    "opening_hours": "Sa-Su 20:00-04:00"
+  }
+},
+{
+  "type": "node",
+  "id": 4106239389,
+  "lat": 47.1338508,
+  "lon": 24.5043030,
+  "tags": {
+    "addr:housenumber": "nr.5",
+    "addr:street": "Strada Constantin Roman Vivu",
+    "amenity": "nightclub",
+    "internet_access": "wlan",
+    "name": "Atmosphere the CLUB",
+    "opening_hours": "Fr-Sa 23:00-06:00",
+    "phone": "0749321324"
+  }
+},
+{
+  "type": "node",
+  "id": 4120737998,
+  "lat": 47.4737146,
+  "lon": 22.5672711,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "JOY CLUB"
+  }
+},
+{
+  "type": "node",
+  "id": 4154972732,
+  "lat": 47.6724456,
+  "lon": 22.4562160,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Joy Club"
+  }
+},
+{
+  "type": "node",
+  "id": 4218593195,
+  "lat": 44.2667685,
+  "lon": 28.6204086,
+  "tags": {
+    "addr:city": "Mamaia",
+    "addr:street": "Aleea Argos",
+    "amenity": "nightclub",
+    "name": "Plaja H2O"
+  }
+},
+{
+  "type": "node",
+  "id": 4218593490,
+  "lat": 44.2663727,
+  "lon": 28.6205782,
+  "tags": {
+    "addr:city": "Mamaia",
+    "addr:street": "Bulevardul Mamaia",
+    "amenity": "nightclub",
+    "name": "Crazy Beach"
+  }
+},
+{
+  "type": "node",
+  "id": 4218593796,
+  "lat": 44.2659423,
+  "lon": 28.6202229,
+  "tags": {
+    "addr:city": "Mamaia",
+    "addr:street": "Bulevardul Mamaia",
+    "amenity": "nightclub",
+    "name": "IpaNera"
+  }
+},
+{
+  "type": "node",
+  "id": 4218593797,
+  "lat": 44.2695665,
+  "lon": 28.6204705,
+  "tags": {
+    "addr:city": "Mamaia",
+    "amenity": "nightclub",
+    "name": "Club EGO"
+  }
+},
+{
+  "type": "node",
+  "id": 4230706332,
+  "lat": 44.2393333,
+  "lon": 28.6247174,
+  "tags": {
+    "addr:city": "Mamaia",
+    "addr:street": "Aleea Falezei",
+    "amenity": "nightclub",
+    "name": "Princess Summer Club"
+  }
+},
+{
+  "type": "node",
+  "id": 4230812295,
+  "lat": 44.2170328,
+  "lon": 28.6335924,
+  "tags": {
+    "addr:street": "Bulevardul Mamaia",
+    "amenity": "nightclub",
+    "name": "La Lăutarii"
+  }
+},
+{
+  "type": "node",
+  "id": 4230812296,
+  "lat": 44.2193273,
+  "lon": 28.6327724,
+  "tags": {
+    "addr:city": "Mamaia",
+    "addr:street": "Bulevardul Mamaia",
+    "amenity": "nightclub",
+    "name": "Coyote Ugli"
+  }
+},
+{
+  "type": "node",
+  "id": 4230812493,
+  "lat": 44.2387507,
+  "lon": 28.6250679,
+  "tags": {
+    "addr:city": "Mamaia",
+    "addr:street": "Aleea Falezei",
+    "amenity": "nightclub",
+    "name": "Princess Summer Club & Beach"
+  }
+},
+{
+  "type": "node",
+  "id": 4270950393,
+  "lat": 44.1171005,
+  "lon": 24.3309222,
+  "tags": {
+    "addr:city": "Caracal",
+    "addr:housenumber": "8",
+    "addr:postcode": "235200",
+    "addr:street": "Aleea Bibian",
+    "amenity": "nightclub",
+    "name": "New Age Club"
+  }
+},
+{
+  "type": "node",
+  "id": 4296954355,
+  "lat": 45.1668494,
+  "lon": 24.6710364,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Nefertiti Club"
+  }
+},
+{
+  "type": "node",
+  "id": 4320832889,
+  "lat": 45.1517134,
+  "lon": 26.8140443,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "No Limit"
+  }
+},
+{
+  "type": "node",
+  "id": 4343399891,
+  "lat": 47.0539684,
+  "lon": 21.9311987,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Podz Musicpub"
+  }
+},
+{
+  "type": "node",
+  "id": 4357187290,
+  "lat": 45.8475406,
+  "lon": 23.0167881,
+  "tags": {
+    "addr:street": "Strada Libertății",
+    "amenity": "nightclub",
+    "name": "L'Exces Simeria",
+    "name:ro": "L'Exces Simeria"
+  }
+},
+{
+  "type": "node",
+  "id": 4363436377,
+  "lat": 44.5176819,
+  "lon": 26.1397954,
+  "tags": {
+    "addr:housenumber": "3",
+    "addr:postcode": "077190",
+    "addr:street": "Strada Matei Basarab",
+    "amenity": "nightclub",
+    "internet_access": "wlan",
+    "name": "Insieme Club",
+    "name:ro": "Insieme Club",
+    "opening_hours": "Tu-Su 10:00-22:00",
+    "phone": "(0745) 529 965"
+  }
+},
+{
+  "type": "node",
+  "id": 4363436537,
+  "lat": 44.5176424,
+  "lon": 26.1400829,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Insieme Bar",
+    "name:ro": "Insieme Bar",
+    "phone": "(0745) 529 965"
+  }
+},
+{
+  "type": "node",
+  "id": 4363439143,
+  "lat": 44.5176306,
+  "lon": 26.1401216,
+  "tags": {
+    "addr:housenumber": "3",
+    "addr:postcode": "077190",
+    "addr:street": "Strada Matei Basarab",
+    "amenity": "nightclub",
+    "name": "Insieme",
+    "name:ro": "Insieme",
+    "opening_hours": "Mo-Su 10:00-05:00",
+    "phone": "(0745) 529 965"
+  }
+},
+{
+  "type": "node",
+  "id": 4390192892,
+  "lat": 44.8658718,
+  "lon": 24.8621099,
+  "tags": {
+    "addr:street": "Strada Carpați",
+    "amenity": "nightclub",
+    "name": "Zion",
+    "name:ro": "Zion"
+  }
+},
+{
+  "type": "node",
+  "id": 4413078596,
+  "lat": 45.1447140,
+  "lon": 23.9910025,
+  "tags": {
+    "addr:city": "Horezu",
+    "amenity": "nightclub",
+    "name": "Club Miorița"
+  }
+},
+{
+  "type": "node",
+  "id": 4437338236,
+  "lat": 44.1707289,
+  "lon": 26.6069010,
+  "tags": {
+    "addr:postcode": "917175",
+    "amenity": "nightclub",
+    "internet_access": "wlan",
+    "name": "Club Edi",
+    "name:bg": "Клуб Еди",
+    "name:en": "Edi's Club",
+    "name:es": "Clubo Edi",
+    "opening_hours": "22:00-04:00",
+    "operator": "Marinescu Liviu"
+  }
+},
+{
+  "type": "node",
+  "id": 4448498110,
+  "lat": 46.7676481,
+  "lon": 23.5728756,
+  "tags": {
+    "addr:city": "Cluj-Napoca",
+    "addr:housenumber": "2",
+    "addr:postcode": "400375",
+    "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+    "addr:street": "Aleea Stadionului",
+    "amenity": "nightclub",
+    "contact:facebook": "https://www.facebook.com/formspace.ro",
+    "email": "contact@formspace.ro",
+    "name": "/Form Space",
+    "smoking": "outside",
+    "website": "http://www.formspace.ro/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4524097189,
+  "lat": 44.4370053,
+  "lon": 26.1362093,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date:opening_hours": "2024-07-04",
+    "name": "Club King",
+    "name:ro": "Club King",
+    "opening_hours": "Mo-Su 09:00-07:00",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4575196097,
+  "lat": 45.1492306,
+  "lon": 26.8269185,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Picnic",
+    "name:ro": "Picnic"
+  }
+},
+{
+  "type": "node",
+  "id": 4582556193,
+  "lat": 46.7642228,
+  "lon": 23.6107249,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Clubul Fetelor",
+    "name:en": "Girls, girls, girls!"
+  }
+},
+{
+  "type": "node",
+  "id": 4692531092,
+  "lat": 46.1430279,
+  "lon": 21.3210193,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Salon Onix",
+    "name:ro": "Salon Onix"
+  }
+},
+{
+  "type": "node",
+  "id": 4704027497,
+  "lat": 45.2276520,
+  "lon": 24.3404920,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Club R",
+    "opening_hours": "Sa-Su"
+  }
+},
+{
+  "type": "node",
+  "id": 4718575499,
+  "lat": 45.0963217,
+  "lon": 24.3758067,
+  "tags": {
+    "addr:city": "Râmnicu Vâlcea",
+    "addr:housenumber": "1B",
+    "addr:street": "Bulevardul Tineretului",
+    "amenity": "nightclub",
+    "name": "Tao",
+    "name:ro": "Tao"
+  }
+},
+{
+  "type": "node",
+  "id": 4785717089,
+  "lat": 46.7188935,
+  "lon": 25.6018463,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Retro- Bistro"
+  }
+},
+{
+  "type": "node",
+  "id": 4841094525,
+  "lat": 44.9527291,
+  "lon": 26.0000758,
+  "tags": {
+    "addr:city": "Ploiești",
+    "addr:housenumber": "2",
+    "addr:street": "Strada Cameliei",
+    "amenity": "nightclub",
+    "name": "Baha Club & Lounge",
+    "opening_hours": "Fr-Su 21:00-04:00"
+  }
+},
+{
+  "type": "node",
+  "id": 5027180960,
+  "lat": 45.7877601,
+  "lon": 24.1480247,
+  "tags": {
+    "addr:city": "Sibiu",
+    "addr:housenumber": "19",
+    "addr:street": "Strada Someșului",
+    "amenity": "nightclub",
+    "name": "Liquid The Club",
+    "smoking": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5140855129,
+  "lat": 45.7540379,
+  "lon": 21.2474487,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "database"
+  }
+},
+{
+  "type": "node",
+  "id": 5153788346,
+  "lat": 46.7647705,
+  "lon": 23.5755987,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Club-Come",
+    "opening_hours": "Mo-Fr 11:00-24:00; Sa,Su 12:00-24:00; PH off"
+  }
+},
+{
+  "type": "node",
+  "id": 5290479000,
+  "lat": 44.4722188,
+  "lon": 26.1132743,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Fratelli Studios"
+  }
+},
+{
+  "type": "node",
+  "id": 5290479714,
+  "lat": 44.4724677,
+  "lon": 26.1129712,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Fratelli Lounge & Club"
+  }
+},
+{
+  "type": "node",
+  "id": 5333052296,
+  "lat": 46.1272658,
+  "lon": 23.5323768,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Club Spartacus"
+  }
+},
+{
+  "type": "node",
+  "id": 5398049660,
+  "lat": 45.7374363,
+  "lon": 24.3892495,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Aqua Club Elatis"
+  }
+},
+{
+  "type": "node",
+  "id": 5412853021,
+  "lat": 47.2037531,
+  "lon": 26.3631140,
+  "tags": {
+    "addr:street": "Strada Gloriei",
+    "amenity": "nightclub",
+    "name": "Club Forest"
+  }
+},
+{
+  "type": "node",
+  "id": 5516931151,
+  "lat": 45.6438738,
+  "lon": 25.5889988,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Studio 80"
+  }
+},
+{
+  "type": "node",
+  "id": 5542022424,
+  "lat": 47.2037713,
+  "lon": 26.3631001,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Club Forest"
+  }
+},
+{
+  "type": "node",
+  "id": 5605214504,
+  "lat": 44.4374475,
+  "lon": 26.1009964,
+  "tags": {
+    "addr:city": "București",
+    "addr:postcode": "010042",
+    "addr:street": "Bulevardul Nicolae Bălcescu",
+    "amenity": "nightclub",
+    "name": "Night Club Pussy Cat"
+  }
+},
+{
+  "type": "node",
+  "id": 5917146835,
+  "lat": 45.7891055,
+  "lon": 24.1453977,
+  "tags": {
+    "addr:city": "Sibiu",
+    "addr:housenumber": "2",
+    "addr:street": "Strada Zaharia Boiu",
+    "amenity": "nightclub",
+    "name": "Club Mango",
+    "smoking": "outside"
+  }
+},
+{
+  "type": "node",
+  "id": 5941633072,
+  "lat": 45.7940007,
+  "lon": 24.1499107,
+  "tags": {
+    "addr:city": "Sibiu",
+    "addr:housenumber": "24",
+    "addr:street": "Strada Nicolae Bălcescu",
+    "amenity": "nightclub",
+    "check_date": "2025-05-09",
+    "name": "Imperium Society Club",
+    "smoking": "outside"
+  }
+},
+{
+  "type": "node",
+  "id": 5966428686,
+  "lat": 47.0590325,
+  "lon": 21.9273724,
+  "tags": {
+    "addr:housenumber": "4",
+    "addr:postcode": "410001",
+    "addr:street": "Strada Malului",
+    "amenity": "nightclub",
+    "internet_access": "wlan",
+    "name": "Tao Masaj",
+    "name:en": "Romanian",
+    "opening_hours": "Mo-Su 12:00-02:00",
+    "phone": "0040746439913",
+    "website": "http://masaj-tao-oradea.ro"
+  }
+},
+{
+  "type": "node",
+  "id": 6033849638,
+  "lat": 45.7609203,
+  "lon": 21.2211323,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Escape Underground Hub"
+  }
+},
+{
+  "type": "node",
+  "id": 6047253286,
+  "lat": 44.1960988,
+  "lon": 28.6325433,
+  "tags": {
+    "addr:housenumber": "235",
+    "addr:street": "Bulevardul Tomis",
+    "amenity": "nightclub",
+    "name": "Regal Manele"
+  }
+},
+{
+  "type": "node",
+  "id": 6129421439,
+  "lat": 46.5558256,
+  "lon": 26.9133229,
+  "tags": {
+    "addr:city": "Bacău",
+    "amenity": "nightclub",
+    "name": "Time's  Live Music",
+    "opening_hours": "Mo-Sa 22:00-05:00",
+    "smoking": "outside"
+  }
+},
+{
+  "type": "node",
+  "id": 6129421440,
+  "lat": 46.5558657,
+  "lon": 26.9133147,
+  "tags": {
+    "addr:city": "Bacău",
+    "amenity": "nightclub",
+    "name": "The One",
+    "smoking": "outside"
+  }
+},
+{
+  "type": "node",
+  "id": 6131341056,
+  "lat": 46.9585847,
+  "lon": 27.9384024,
+  "tags": {
+    "addr:street": "DN28",
+    "amenity": "nightclub",
+    "name": "Club Quatro"
+  }
+},
+{
+  "type": "node",
+  "id": 6131341067,
+  "lat": 46.9585074,
+  "lon": 27.9383688,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Club Quatro"
+  }
+},
+{
+  "type": "node",
+  "id": 6346121346,
+  "lat": 44.2339902,
+  "lon": 24.7888202,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Disco Evrika"
+  }
+},
+{
+  "type": "node",
+  "id": 6400138908,
+  "lat": 45.6682344,
+  "lon": 24.2607526,
+  "tags": {
+    "addr:city": "Tălmaciu",
+    "addr:housenumber": "25",
+    "addr:postcode": "555700",
+    "addr:street": "Bulevardul Unirii",
+    "amenity": "nightclub",
+    "name": "Insomnia"
+  }
+},
+{
+  "type": "node",
+  "id": 6467742723,
+  "lat": 45.0175611,
+  "lon": 24.0116674,
+  "tags": {
+    "addr:city": "Armășești",
+    "addr:street": "Strada Principală",
+    "amenity": "nightclub",
+    "name": "Club Trakia"
+  }
+},
+{
+  "type": "node",
+  "id": 6515252956,
+  "lat": 44.3964094,
+  "lon": 24.2782081,
+  "tags": {
+    "addr:city": "Găneasa",
+    "amenity": "nightclub",
+    "name": "El Passo Club"
+  }
+},
+{
+  "type": "node",
+  "id": 6581597428,
+  "lat": 44.2631651,
+  "lon": 27.6039079,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Disco bar No Limit"
+  }
+},
+{
+  "type": "node",
+  "id": 6687631796,
+  "lat": 45.3844971,
+  "lon": 26.7642199,
+  "tags": {
+    "addr:city": "Beceni",
+    "amenity": "nightclub",
+    "name": "Play Club Beceni"
+  }
+},
+{
+  "type": "node",
+  "id": 7022341924,
+  "lat": 45.4144440,
+  "lon": 23.3735086,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Revival"
+  }
+},
+{
+  "type": "node",
+  "id": 7090625151,
+  "lat": 45.7450849,
+  "lon": 21.2275048,
+  "tags": {
+    "addr:city": "Timișoara",
+    "addr:housenumber": "1B",
+    "addr:street": "Bulevardul Mihai Viteazu",
+    "amenity": "nightclub",
+    "name": "Park Place"
+  }
+},
+{
+  "type": "node",
+  "id": 7613023091,
+  "lat": 44.4318758,
+  "lon": 26.1003621,
+  "tags": {
+    "addr:city": "București",
+    "addr:housenumber": "28",
+    "addr:postcode": "030036",
+    "addr:street": "Strada Lipscani",
+    "amenity": "nightclub",
+    "check_date": "2023-03-31",
+    "name": "Beluga Music & Cocktails",
+    "opening_hours": "Th-Sa 21:30-02:00",
+    "phone": "+40 752 525 353",
+    "source:addr:street": "survey",
+    "website": "https://www.belugamc.ro/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7613023095,
+  "lat": 44.4324227,
+  "lon": 26.1010477,
+  "tags": {
+    "addr:city": "București",
+    "addr:housenumber": "21",
+    "addr:postcode": "030061",
+    "addr:street": "Strada Blănari",
+    "amenity": "nightclub",
+    "name": "El Comandante Junior",
+    "opening_hours": "Tu-Su 22:00-05:00",
+    "phone": "+40 728 555 043",
+    "source": "survey",
+    "source:addr:street": "survey",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7613023097,
+  "lat": 44.4321634,
+  "lon": 26.1009742,
+  "tags": {
+    "addr:city": "București",
+    "addr:housenumber": "43",
+    "addr:postcode": "030061",
+    "addr:street": "Intrarea Nicolae Șelari",
+    "amenity": "nightclub",
+    "email": "officedictador@gmail.com",
+    "name": "El Dictador",
+    "phone": "+40 729 041 043",
+    "source": "survey",
+    "source:addr:street": "survey",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7826698274,
+  "lat": 44.4776188,
+  "lon": 26.0860684,
+  "tags": {
+    "addr:city": "București",
+    "addr:housenumber": "7-9",
+    "addr:street": "Șoseaua Nordului",
+    "amenity": "nightclub",
+    "cuisine": "Asian Fusion",
+    "name": "Nuba Summervibes",
+    "source:addr:housenumber": "survey",
+    "website": "https://www.nuba.ro/"
+  }
+},
+{
+  "type": "node",
+  "id": 7846201962,
+  "lat": 43.9502944,
+  "lon": 28.6367680,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Mega Discoteca Tineretului",
+    "opening_hours": "Mo-Su 23:00-06:00"
+  }
+},
+{
+  "type": "node",
+  "id": 7846242903,
+  "lat": 43.9415226,
+  "lon": 28.6366597,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Vox Maris Disco"
+  }
+},
+{
+  "type": "node",
+  "id": 7846943090,
+  "lat": 43.9452230,
+  "lon": 28.6368489,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Disco Club Max"
+  }
+},
+{
+  "type": "node",
+  "id": 8951597276,
+  "lat": 46.7682884,
+  "lon": 23.5712154,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Cluj Arena VIP Lounge"
+  }
+},
+{
+  "type": "node",
+  "id": 9003549108,
+  "lat": 44.4767760,
+  "lon": 26.0883560,
+  "tags": {
+    "addr:city": "București",
+    "addr:housenumber": "1",
+    "addr:street": "Șoseaua Nordului",
+    "amenity": "nightclub",
+    "name": "KAYO Club",
+    "source:addr:housenumber": "survey",
+    "website": "https://www.kayo.ro/"
+  }
+},
+{
+  "type": "node",
+  "id": 9014986686,
+  "lat": 46.7273487,
+  "lon": 23.5551891,
+  "tags": {
+    "addr:city": "Cluj-Napoca",
+    "addr:street": "Drumul Sfântul Ioan",
+    "amenity": "nightclub",
+    "name": "The Wild Garden by After Eight"
+  }
+},
+{
+  "type": "node",
+  "id": 9217791384,
+  "lat": 46.7705553,
+  "lon": 23.5887107,
+  "tags": {
+    "addr:city": "Cluj-Napoca",
+    "addr:housenumber": "21",
+    "addr:street": "Piața Unirii",
+    "alt_name": "Flying Circus Cluj",
+    "amenity": "nightclub",
+    "name": "Flying Circus",
+    "phone": "0757 714 922",
+    "sport": "table_soccer",
+    "website": "flyingcircus.ro"
+  }
+},
+{
+  "type": "node",
+  "id": 9422684494,
+  "lat": 44.4367837,
+  "lon": 26.1013136,
+  "tags": {
+    "addr:city": "București",
+    "addr:country": "RO",
+    "addr:housenumber": "3-5",
+    "addr:postcode": "010042",
+    "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+    "addr:street": "Bulevardul Nicolae Bălcescu",
+    "amenity": "nightclub",
+    "name": "Club Mono",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 9643248317,
+  "lat": 44.4243989,
+  "lon": 26.1184091,
+  "tags": {
+    "addr:city": "București",
+    "addr:housenumber": "4",
+    "addr:street": "Strada Nerva Traian",
+    "amenity": "nightclub",
+    "name": "Comics Club",
+    "opening_hours": "Su-Fr 19:00-00:00; Sa 16:30-00:00",
+    "phone": "+4 0741 426 426",
+    "website": "https://comicsclub.ro/"
+  }
+},
+{
+  "type": "node",
+  "id": 9711421104,
+  "lat": 44.4495298,
+  "lon": 26.1116340,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Joy Club"
+  }
+},
+{
+  "type": "node",
+  "id": 9741747451,
+  "lat": 46.7773375,
+  "lon": 23.6143598,
+  "tags": {
+    "addr:city": "Cluj-Napoca",
+    "addr:housenumber": "10",
+    "addr:street": "Aleea Bibliotecii",
+    "amenity": "nightclub",
+    "contact:facebook": "https://www.facebook.com/clubdiamondcluj",
+    "name": "Club Diamond",
+    "website": "https://diamondclub.ro/"
+  }
+},
+{
+  "type": "node",
+  "id": 9891739456,
+  "lat": 44.9736826,
+  "lon": 25.9322967,
+  "tags": {
+    "addr:city": "Păulești",
+    "addr:postcode": "107400",
+    "amenity": "nightclub",
+    "name": "Ramatuelle by MRS"
+  }
+},
+{
+  "type": "node",
+  "id": 10044851612,
+  "lat": 46.5337039,
+  "lon": 24.7997727,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Club Mirage"
+  }
+},
+{
+  "type": "node",
+  "id": 10775260905,
+  "lat": 44.4306672,
+  "lon": 26.1013188,
+  "tags": {
+    "addr:city": "București",
+    "addr:housenumber": "1",
+    "addr:postcode": "030068",
+    "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+    "addr:street": "Strada Soarelui",
+    "amenity": "nightclub",
+    "name": "Agartha Club",
+    "opening_hours": "Th-Sa 21:00-06:00",
+    "phone": "+40 773 806 484",
+    "source:addr:street": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 10775260923,
+  "lat": 44.4317160,
+  "lon": 26.1022620,
+  "tags": {
+    "addr:city": "București",
+    "addr:housenumber": "82",
+    "addr:postcode": "030037",
+    "addr:postcode:source": "Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana",
+    "addr:street": "Strada Lipscani",
+    "amenity": "nightclub",
+    "check_date": "2023-03-31",
+    "name": "Limoncello Club",
+    "opening_hours": "Su-Th 12:30-03:00; Fr-Sa 12:30-06:00",
+    "outdoor_seating": "yes",
+    "phone": "+40 746 285 959",
+    "source:addr:street": "survey",
+    "website": "https://limoncelloclub.ro/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 10951113281,
+  "lat": 43.8716593,
+  "lon": 28.5996671,
+  "tags": {
+    "addr:city": "Neptun",
+    "amenity": "nightclub",
+    "name": "Club Topaz"
+  }
+},
+{
+  "type": "node",
+  "id": 11132273327,
+  "lat": 45.4175410,
+  "lon": 26.3018307,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "ERA Club"
+  }
+},
+{
+  "type": "node",
+  "id": 11208070638,
+  "lat": 44.4335510,
+  "lon": 26.0978154,
+  "tags": {
+    "addr:city": "București",
+    "addr:housenumber": "21-23",
+    "addr:postcode": "030023",
+    "addr:street": "Calea Victoriei",
+    "amenity": "nightclub",
+    "name": "Victoriei Ballroom",
+    "name:en": "Victory Ballroom",
+    "website": "http://www.victoriei-ballroom.ro",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 11553390069,
+  "lat": 46.7695628,
+  "lon": 23.5874558,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Revolution"
+  }
+},
+{
+  "type": "node",
+  "id": 11630179169,
+  "lat": 44.8907877,
+  "lon": 24.2305480,
+  "tags": {
+    "addr:postcode": "247278",
+    "addr:street": "Marcea",
+    "amenity": "nightclub",
+    "name": "Bar&Club Perla Nopții"
+  }
+},
+{
+  "type": "node",
+  "id": 11928474685,
+  "lat": 46.3610791,
+  "lon": 25.8036715,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "ANT"
+  }
+},
+{
+  "type": "node",
+  "id": 11929170252,
+  "lat": 45.6536027,
+  "lon": 25.6106330,
+  "tags": {
+    "amenity": "nightclub",
+    "contact:facebook": "https://www.facebook.com/aftarhours/?locale=ro_RO",
+    "name": "Aftăr Hours"
+  }
+},
+{
+  "type": "node",
+  "id": 11941798813,
+  "lat": 45.6478626,
+  "lon": 25.6076556,
+  "tags": {
+    "addr:city": "Brașov",
+    "addr:housenumber": "2",
+    "addr:postcode": "500010",
+    "addr:street": "Strada Nicolae Titulescu",
+    "amenity": "nightclub",
+    "mobile": "+40 799 958 537",
+    "name": "Kruhnen Musik Halle",
+    "website": "https://facebook.com/kruhnenmusikhalle"
+  }
+},
+{
+  "type": "node",
+  "id": 12031745889,
+  "lat": 44.0898340,
+  "lon": 26.6521737,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Eden Club"
+  }
+},
+{
+  "type": "node",
+  "id": 12141787955,
+  "lat": 47.7888665,
+  "lon": 22.8713126,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "NOX Club"
+  }
+},
+{
+  "type": "node",
+  "id": 12945130805,
+  "lat": 47.7906648,
+  "lon": 22.8743074,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Revolution Club"
+  }
+},
+{
+  "type": "node",
+  "id": 13243153890,
+  "lat": 45.7586097,
+  "lon": 21.2285280,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Copacabana"
+  }
+},
+{
+  "type": "node",
+  "id": 13308353074,
+  "lat": 44.4194287,
+  "lon": 26.1090773,
+  "tags": {
+    "addr:housenumber": "21",
+    "addr:street": "Strada Verzișori",
+    "amenity": "nightclub",
+    "check_date": "2025-11-16",
+    "name": "Q Club",
+    "opening_hours": "Th-Sa 23:00-06:00",
+    "phone": "+40 725 682 944",
+    "website": "https://theqclub.ro"
+  }
+},
+{
+  "type": "node",
+  "id": 13343004309,
+  "lat": 44.6169005,
+  "lon": 23.9393309,
+  "tags": {
+    "addr:city": "Bălcești",
+    "addr:housenumber": "6",
+    "addr:street": "Strada 1 Decembrie",
+    "amenity": "nightclub",
+    "name": "Amazonic Club"
+  }
+},
+{
+  "type": "node",
+  "id": 13366617028,
+  "lat": 45.7438802,
+  "lon": 21.2061629,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Marianes's Club"
+  }
+},
+{
+  "type": "node",
+  "id": 13522478476,
+  "lat": 44.4348238,
+  "lon": 26.0958209,
+  "tags": {
+    "addr:city": "București",
+    "addr:housenumber": "32",
+    "addr:postcode": "050017",
+    "addr:street": "Bulevardul Regina Elisabeta",
+    "amenity": "nightclub",
+    "name": "Kristal Glam Club",
+    "phone": "+40 722 795 184",
+    "website": "https://clubkristal.ro"
+  }
+},
+{
+  "type": "node",
+  "id": 13595632972,
+  "lat": 45.7551223,
+  "lon": 21.2329791,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Gentlemen's Poker Club"
+  }
+},
+{
+  "type": "node",
+  "id": 13932248303,
+  "lat": 46.1732681,
+  "lon": 21.3240562,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2026-06-13",
+    "name": "Flex"
+  }
+},
+{
+  "type": "way",
+  "id": 48380854,
+  "center": {
+    "lat": 45.7035095,
+    "lon": 21.2391120
+  },
+  "tags": {
+    "addr:housenumber": "2",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Club DAF"
+  }
+},
+{
+  "type": "way",
+  "id": 92925109,
+  "center": {
+    "lat": 45.2600796,
+    "lon": 27.9556083
+  },
+  "tags": {
+    "addr:housenumber": "5",
+    "addr:street": "Aleea Cinematografului",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Chandelier Bamboo",
+    "website": "clubchandelier.ro/"
+  }
+},
+{
+  "type": "way",
+  "id": 153452086,
+  "center": {
+    "lat": 44.4457026,
+    "lon": 26.0572727
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "building:levels": "1",
+    "name": "Club 24"
+  }
+},
+{
+  "type": "way",
+  "id": 153452101,
+  "center": {
+    "lat": 44.4457987,
+    "lon": 26.0596243
+  },
+  "tags": {
+    "addr:city": "București",
+    "addr:housenumber": "1",
+    "addr:postcode": "060071",
+    "addr:street": "Șoseaua Orhideelor",
+    "amenity": "nightclub",
+    "building": "commercial",
+    "building:levels": "1",
+    "height": "10",
+    "name": "One Club",
+    "old_name": "One Club;La Mia Music;R2",
+    "opening_hours": "Mo-We 11:00-00:00; Th-Fr 11:00-04:00",
+    "operator": "Imperial One",
+    "phone": "+40 749 637 368",
+    "source:addr:housenumber": "survey",
+    "source:addr:street": "survey",
+    "website": "https://imperialone.ro/"
+  }
+},
+{
+  "type": "way",
+  "id": 202689090,
+  "center": {
+    "lat": 44.4780808,
+    "lon": 26.0695406
+  },
+  "tags": {
+    "addr:city": "București",
+    "addr:housenumber": "3-5",
+    "addr:postcode": "013701",
+    "addr:street": "Piața Presei Libere",
+    "alt_name": "Club Face",
+    "amenity": "nightclub",
+    "building": "yes",
+    "height": "11",
+    "name": "Face Club",
+    "opening_hours": "Fr-Sa 23:00-06:00",
+    "website": "https://www.faceclubbucharest.com/"
+  }
+},
+{
+  "type": "way",
+  "id": 210922635,
+  "center": {
+    "lat": 45.4202031,
+    "lon": 25.5382504
+  },
+  "tags": {
+    "addr:city": "Bușteni",
+    "addr:street": "Strada Clăbucetului",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Magic club"
+  }
+},
+{
+  "type": "way",
+  "id": 222033855,
+  "center": {
+    "lat": 44.9882599,
+    "lon": 23.8681128
+  },
+  "tags": {
+    "addr:housenumber": "260",
+    "addr:street": "Strada Principală",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Maxi Club"
+  }
+},
+{
+  "type": "way",
+  "id": 243923627,
+  "center": {
+    "lat": 45.4433270,
+    "lon": 25.5854686
+  },
+  "tags": {
+    "addr:city": "Azuga",
+    "addr:housenumber": "Lot 3",
+    "addr:postcode": "105100",
+    "addr:street": "Strada Sorica",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Nu-mă-uita"
+  }
+},
+{
+  "type": "way",
+  "id": 263512468,
+  "center": {
+    "lat": 47.0325314,
+    "lon": 23.9028188
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Discoteca Ring",
+    "source": "Bing"
+  }
+},
+{
+  "type": "way",
+  "id": 263973102,
+  "center": {
+    "lat": 44.8926611,
+    "lon": 29.6038006
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "building:levels": "1",
+    "name": "Blanquita Club"
+  }
+},
+{
+  "type": "way",
+  "id": 272887112,
+  "center": {
+    "lat": 45.6538329,
+    "lon": 25.5938380
+  },
+  "tags": {
+    "addr:city": "Brașov",
+    "addr:housenumber": "14",
+    "addr:postcode": "500086",
+    "addr:street": "Strada Avram Iancu",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Malibu",
+    "source": "http://www.pug-puz.ro/ ; legea544/2001"
+  }
+},
+{
+  "type": "way",
+  "id": 296741094,
+  "center": {
+    "lat": 44.2663615,
+    "lon": 28.6205856
+  },
+  "tags": {
+    "addr:city": "Mamaia",
+    "addr:street": "Aleea Argos",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Club Crazybeach"
+  }
+},
+{
+  "type": "way",
+  "id": 332480525,
+  "center": {
+    "lat": 45.7239752,
+    "lon": 24.7000553
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "SAGA"
+  }
+},
+{
+  "type": "way",
+  "id": 344365052,
+  "center": {
+    "lat": 45.1399292,
+    "lon": 28.8890397
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "D.F.N",
+    "phone": "+40 743 929 134"
+  }
+},
+{
+  "type": "way",
+  "id": 414686434,
+  "center": {
+    "lat": 45.6962321,
+    "lon": 27.1867378
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "exxod"
+  }
+},
+{
+  "type": "way",
+  "id": 460596717,
+  "center": {
+    "lat": 45.7405968,
+    "lon": 21.2493988
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Heaven Club",
+    "website": "https://heaventimisoara.ro/"
+  }
+},
+{
+  "type": "way",
+  "id": 479046110,
+  "center": {
+    "lat": 46.7139067,
+    "lon": 25.5682773
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Retro"
+  }
+},
+{
+  "type": "way",
+  "id": 481644069,
+  "center": {
+    "lat": 44.4296007,
+    "lon": 24.3668657
+  },
+  "tags": {
+    "addr:city": "Slatina",
+    "addr:housenumber": "3A",
+    "addr:street": "Strada Libertății",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Club Viena"
+  }
+},
+{
+  "type": "way",
+  "id": 506216108,
+  "center": {
+    "lat": 46.9834513,
+    "lon": 23.8086354
+  },
+  "tags": {
+    "addr:city": "Iclod",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Clubul Iclod",
+    "name:ro": "Clubul Iclod"
+  }
+},
+{
+  "type": "way",
+  "id": 536046458,
+  "center": {
+    "lat": 47.1023384,
+    "lon": 27.5199632
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "LeGaga"
+  }
+},
+{
+  "type": "way",
+  "id": 598284789,
+  "center": {
+    "lat": 45.5314249,
+    "lon": 22.8486804
+  },
+  "tags": {
+    "addr:city": "Ostrov",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Road Patrol Motorcycle Clubhouse Hunedoara",
+    "operator": "Road Patrol MC",
+    "smoking": "outside"
+  }
+},
+{
+  "type": "way",
+  "id": 654319025,
+  "center": {
+    "lat": 46.9585122,
+    "lon": 27.9383582
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Club Quatro"
+  }
+},
+{
+  "type": "way",
+  "id": 732574354,
+  "center": {
+    "lat": 44.8047318,
+    "lon": 22.9689290
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "La Academie"
+  }
+},
+{
+  "type": "way",
+  "id": 751136837,
+  "center": {
+    "lat": 45.4090000,
+    "lon": 23.3765820
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Clubul Keops"
+  }
+},
+{
+  "type": "way",
+  "id": 757411366,
+  "center": {
+    "lat": 44.4750681,
+    "lon": 26.0759669
+  },
+  "tags": {
+    "addr:city": "București",
+    "addr:housenumber": "32",
+    "addr:postcode": "011343",
+    "addr:street": "Șoseaua Pavel Dimitrievici Kiseleff",
+    "alt_name": "Club Boa",
+    "amenity": "nightclub",
+    "building": "yes",
+    "email": "office@boa-beatofangels.com",
+    "height": "8",
+    "name": "Boa Club",
+    "name:en": "Boa Club",
+    "opening_hours": "Fr-Sa 23:00-06:00",
+    "website": "https://www.boa-beatofangels.com/"
+  }
+},
+{
+  "type": "way",
+  "id": 793485873,
+  "center": {
+    "lat": 44.1172236,
+    "lon": 24.3309410
+  },
+  "tags": {
+    "addr:city": "Caracal",
+    "addr:housenumber": "8",
+    "addr:postcode": "235200",
+    "addr:street": "Aleea Bibian",
+    "amenity": "nightclub",
+    "building": "yes",
+    "min_age": "14",
+    "name": "New Age Club",
+    "opening_hours": "Mo-Fr 09:00-00:00, Sa-Su 09:00-05:00",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "phone": "+40771 779 287",
+    "smoking": "separated"
+  }
+},
+{
+  "type": "way",
+  "id": 883982099,
+  "center": {
+    "lat": 47.0709813,
+    "lon": 21.9293306
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Crazy Bubble"
+  }
+},
+{
+  "type": "way",
+  "id": 972767822,
+  "center": {
+    "lat": 44.2707070,
+    "lon": 28.6205236
+  },
+  "tags": {
+    "addr:city": "Mamaia",
+    "addr:street": "Aleea Salamina",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Nuba Beach Club",
+    "website": "http://mamaia.bambooclub.ro"
+  }
+},
+{
+  "type": "way",
+  "id": 972767823,
+  "center": {
+    "lat": 44.2711752,
+    "lon": 28.6214496
+  },
+  "tags": {
+    "addr:city": "Mamaia",
+    "addr:street": "Aleea Salamina",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Bamboo Beach"
+  }
+},
+{
+  "type": "way",
+  "id": 1071361880,
+  "center": {
+    "lat": 44.9260329,
+    "lon": 25.4086266
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "DASO CADO"
+  }
+},
+{
+  "type": "way",
+  "id": 1126741680,
+  "center": {
+    "lat": 44.6328628,
+    "lon": 22.2694561
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "La Vella Yachting Club",
+    "website": "https://lavella.ro/"
+  }
+},
+{
+  "type": "way",
+  "id": 1160016215,
+  "center": {
+    "lat": 44.2490024,
+    "lon": 28.6224026
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Cucaracha",
+    "old_name": "Bar Caracatița"
+  }
+},
+{
+  "type": "way",
+  "id": 1163810524,
+  "center": {
+    "lat": 46.5161328,
+    "lon": 22.6678697
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "house",
+    "name": "Season Club"
+  }
+},
+{
+  "type": "way",
+  "id": 1278278703,
+  "center": {
+    "lat": 45.0690568,
+    "lon": 26.6001554
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "email": "mcjohnok@yahoo.com",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "min_age": "18",
+    "name": "Club OK",
+    "phone": "0765 638 697",
+    "smoking": "outside",
+    "website": "https://www.facebook.com/profile.php?id=100064366704696"
+  }
+},
+{
+  "type": "way",
+  "id": 1278870482,
+  "center": {
+    "lat": 45.0777678,
+    "lon": 26.6300250
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "facebook": "https://www.facebook.com/PiscinaZen/?locale=ro_RO",
+    "name": "Zen Club & Pool"
+  }
+},
+{
+  "type": "way",
+  "id": 1305768994,
+  "center": {
+    "lat": 46.8370988,
+    "lon": 27.4596254
+  },
+  "tags": {
+    "addr:city": "Negrești",
+    "addr:housenumber": "1",
+    "addr:street": "Strada Unirii",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Fellas",
+    "opening_hours": "Mo-Su 08:00-04:00"
+  }
+},
+{
+  "type": "way",
+  "id": 1550912050,
+  "center": {
+    "lat": 46.4028599,
+    "lon": 26.9434420
+  },
+  "tags": {
+    "addr:city": "Cleja",
+    "addr:housenumber": "4",
+    "addr:postcode": "607105",
+    "addr:street": "Strada Unirii",
+    "amenity": "nightclub",
+    "bar": "yes",
+    "brand": "Emma",
+    "brand:wikidata": "Q110952031",
+    "building": "retail",
+    "name": "Emma"
+  }
+},
+{
+  "type": "relation",
+  "id": 5971481,
+  "center": {
+    "lat": 46.5601132,
+    "lon": 24.5700475
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Astoria",
+    "type": "building"
+  }
+}
+
+  ]
+}

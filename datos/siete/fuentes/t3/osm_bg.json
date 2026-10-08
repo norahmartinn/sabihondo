@@ -1,0 +1,1618 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-10-08T23:20:35Z",
+    "timestamp_areas_base": "2026-10-08T05:09:19Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 266574877,
+  "lat": 43.2045502,
+  "lon": 27.9262285,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2023-07-03",
+    "name": "Култ",
+    "name:en": "Cult",
+    "toilets:wheelchair": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 414641068,
+  "lat": 42.4826772,
+  "lon": 26.5033467,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Гранд"
+  }
+},
+{
+  "type": "node",
+  "id": 830989636,
+  "lat": 42.9073664,
+  "lon": 23.7911047,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "City Club"
+  }
+},
+{
+  "type": "node",
+  "id": 1347588829,
+  "lat": 42.4227654,
+  "lon": 25.6270772,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "5-th Avenue"
+  }
+},
+{
+  "type": "node",
+  "id": 1347589237,
+  "lat": 42.4241597,
+  "lon": 25.6296675,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Абсолют",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1383527079,
+  "lat": 42.2651960,
+  "lon": 23.6060423,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Red Lion"
+  }
+},
+{
+  "type": "node",
+  "id": 1867170911,
+  "lat": 42.8652432,
+  "lon": 25.4874226,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Червения тайфун"
+  }
+},
+{
+  "type": "node",
+  "id": 2108667699,
+  "lat": 43.3421779,
+  "lon": 28.0602591,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Амазонка"
+  }
+},
+{
+  "type": "node",
+  "id": 2268630258,
+  "lat": 42.2343955,
+  "lon": 27.7716395,
+  "tags": {
+    "amenity": "nightclub",
+    "designation": "Disco",
+    "int_name": "Nai Klub",
+    "name": "Най Клуб"
+  }
+},
+{
+  "type": "node",
+  "id": 2268631789,
+  "lat": 42.2432957,
+  "lon": 27.7720163,
+  "tags": {
+    "amenity": "nightclub",
+    "designation": "Disco",
+    "int_name": "Zangador",
+    "name": "Зангадор"
+  }
+},
+{
+  "type": "node",
+  "id": 2268635217,
+  "lat": 42.2409168,
+  "lon": 27.7715980,
+  "tags": {
+    "alt_name": "Caribbean",
+    "amenity": "nightclub",
+    "designation": "Disco",
+    "int_name": "Karibi",
+    "name": "Кариби"
+  }
+},
+{
+  "type": "node",
+  "id": 2343407961,
+  "lat": 42.6866669,
+  "lon": 26.3423612,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Брилянтин"
+  }
+},
+{
+  "type": "node",
+  "id": 2343485516,
+  "lat": 42.6761725,
+  "lon": 26.3293699,
+  "tags": {
+    "addr:street": "бул. Бургаско шосе",
+    "amenity": "nightclub",
+    "name": "Phoenix Bar Club",
+    "name:bg": "Феникс Бар Клуб",
+    "opening_hours": "Fr-Sa 23:00-06:00"
+  }
+},
+{
+  "type": "node",
+  "id": 2432279957,
+  "lat": 42.6747867,
+  "lon": 26.3447505,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Piano Bar Bacardi"
+  }
+},
+{
+  "type": "node",
+  "id": 2456849139,
+  "lat": 43.9834702,
+  "lon": 22.8764918,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Силует",
+    "name:en": "Silouet",
+    "name:ro": "Siluet",
+    "smoking": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2519240625,
+  "lat": 42.1472248,
+  "lon": 24.7474778,
+  "tags": {
+    "addr:housenumber": "5",
+    "addr:postcode": "4000",
+    "addr:street": "Лейди Странгфорд",
+    "amenity": "nightclub",
+    "name": "Rock Bar Download",
+    "website": "https://www.facebook.com/clubbibliotekata"
+  }
+},
+{
+  "type": "node",
+  "id": 2598416182,
+  "lat": 42.2638190,
+  "lon": 27.7526115,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Disco Club \"LUXOR\""
+  }
+},
+{
+  "type": "node",
+  "id": 2912541950,
+  "lat": 42.6941040,
+  "lon": 23.3184641,
+  "tags": {
+    "amenity": "nightclub",
+    "indoor_seating": "yes",
+    "name": "Euphoria",
+    "opening_hours": "Fr,Sa 22:00-06:00",
+    "outdoor_seating": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2936049437,
+  "lat": 42.6931827,
+  "lon": 23.3225474,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "DOM",
+    "not:name": "club dom;клуб дом;club don"
+  }
+},
+{
+  "type": "node",
+  "id": 2939276750,
+  "lat": 42.6767756,
+  "lon": 26.3214198,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Клуб 23"
+  }
+},
+{
+  "type": "node",
+  "id": 2949137914,
+  "lat": 42.6785611,
+  "lon": 26.3375826,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Мулти Палас"
+  }
+},
+{
+  "type": "node",
+  "id": 2956860325,
+  "lat": 42.6830352,
+  "lon": 26.3465828,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Клуб Модерно"
+  }
+},
+{
+  "type": "node",
+  "id": 2956882862,
+  "lat": 42.6793716,
+  "lon": 26.3231779,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Studio 54"
+  }
+},
+{
+  "type": "node",
+  "id": 2956889028,
+  "lat": 42.6814518,
+  "lon": 26.3134883,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2026-06-29",
+    "name": "Backstage"
+  }
+},
+{
+  "type": "node",
+  "id": 3057982296,
+  "lat": 42.7087947,
+  "lon": 27.7657869,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Galaktika"
+  }
+},
+{
+  "type": "node",
+  "id": 3267559310,
+  "lat": 43.0212310,
+  "lon": 25.1104986,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Бобруиск"
+  }
+},
+{
+  "type": "node",
+  "id": 3457211990,
+  "lat": 41.7425151,
+  "lon": 24.3992008,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Роял",
+    "name:en": "Royal"
+  }
+},
+{
+  "type": "node",
+  "id": 3532693237,
+  "lat": 42.6939632,
+  "lon": 23.3285625,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date:opening_hours": "2026-02-13",
+    "contact:facebook": "https://www.facebook.com/piano.bar.Silicone/",
+    "contact:phone": "+359 88 872 7797",
+    "indoor_seating": "yes",
+    "name": "Silicone",
+    "opening_hours": "Mo-Su 12:00-24:00",
+    "opening_hours:signed": "no",
+    "outdoor_seating": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3619643138,
+  "lat": 43.2048283,
+  "lon": 27.9212373,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Bar 911",
+    "name:bg": "Бар 911"
+  }
+},
+{
+  "type": "node",
+  "id": 3688638403,
+  "lat": 42.6932205,
+  "lon": 23.3325317,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Provocateur"
+  }
+},
+{
+  "type": "node",
+  "id": 3809674932,
+  "lat": 42.7013117,
+  "lon": 24.1798063,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Night Club Masquarade"
+  }
+},
+{
+  "type": "node",
+  "id": 3901905487,
+  "lat": 42.2007753,
+  "lon": 24.3327430,
+  "tags": {
+    "addr:city": "Пазарджик",
+    "addr:housenumber": "2",
+    "addr:postcode": "4400",
+    "addr:street": "Евлоги и Хр. Георгиеви",
+    "amenity": "nightclub",
+    "name": "Café Club Paradise"
+  }
+},
+{
+  "type": "node",
+  "id": 3930069486,
+  "lat": 42.6952894,
+  "lon": 23.3237975,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Bedroom Premium Club",
+    "opening_hours": "Tu-Sa 22:00-06:00",
+    "phone": "+359 88 886 0666",
+    "smoking": "no",
+    "website": "https://bedroom.bg/"
+  }
+},
+{
+  "type": "node",
+  "id": 4064037411,
+  "lat": 42.4942394,
+  "lon": 27.4698007,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Бар Без Име"
+  }
+},
+{
+  "type": "node",
+  "id": 4100073190,
+  "lat": 42.4932405,
+  "lon": 27.4744559,
+  "tags": {
+    "addr:housenumber": "11",
+    "addr:street": "Генерал майор Лермонтов",
+    "amenity": "nightclub",
+    "name": "Хамелеон",
+    "opening_hours": "Mo-Su 22:00-22:00"
+  }
+},
+{
+  "type": "node",
+  "id": 4142382790,
+  "lat": 41.6385749,
+  "lon": 25.3692212,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "The Hole"
+  }
+},
+{
+  "type": "node",
+  "id": 4234599305,
+  "lat": 41.6366972,
+  "lon": 25.3677464,
+  "tags": {
+    "addr:city": "Кърджали",
+    "addr:postcode": "6600",
+    "amenity": "nightclub",
+    "name": "iONYX Nightclub"
+  }
+},
+{
+  "type": "node",
+  "id": 4234613321,
+  "lat": 41.6395021,
+  "lon": 25.3706410,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Aura"
+  }
+},
+{
+  "type": "node",
+  "id": 4269534195,
+  "lat": 42.5092558,
+  "lon": 27.4843383,
+  "tags": {
+    "amenity": "nightclub",
+    "internet_access": "wlan",
+    "name": "Saxa beach summer club",
+    "opening_hours": "24/7"
+  }
+},
+{
+  "type": "node",
+  "id": 4306294093,
+  "lat": 42.6997117,
+  "lon": 27.7184329,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Bla-Bla Beach Club",
+    "opening_hours": "Mo-Su 11:00-02:00"
+  }
+},
+{
+  "type": "node",
+  "id": 4311557596,
+  "lat": 42.5021764,
+  "lon": 27.4676635,
+  "tags": {
+    "amenity": "nightclub",
+    "internet_access": "wlan",
+    "name": "Taboo club"
+  }
+},
+{
+  "type": "node",
+  "id": 4445371805,
+  "lat": 43.5684125,
+  "lon": 27.8258562,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Рок клуб Maze"
+  }
+},
+{
+  "type": "node",
+  "id": 4445371806,
+  "lat": 43.5700676,
+  "lon": 27.8288109,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Рок клуб Джорджи"
+  }
+},
+{
+  "type": "node",
+  "id": 4467123189,
+  "lat": 43.4105607,
+  "lon": 24.6162010,
+  "tags": {
+    "addr:housenumber": "150",
+    "addr:postcode": "5800",
+    "addr:street": "Васил Левски",
+    "amenity": "nightclub",
+    "internet_access": "wlan",
+    "name": "Клуб Ъндърграунд",
+    "name:en": "Underground Club",
+    "opening_hours": "Th-Sa 22:30-04:30",
+    "phone": "+359 88 733 5255"
+  }
+},
+{
+  "type": "node",
+  "id": 4484433793,
+  "lat": 42.6721016,
+  "lon": 23.3175065,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date:opening_hours": "2023-03-06",
+    "contact:website": "https://hotel-marinela.com/dining/megami-club/",
+    "int_name": "Megami",
+    "name": "Мегами",
+    "name:ja": "女神",
+    "opening_hours": "Th-Sa 23:30-04:00"
+  }
+},
+{
+  "type": "node",
+  "id": 4511759591,
+  "lat": 42.4980133,
+  "lon": 26.0222140,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Хали Гали",
+    "name:bg": "Хали Гали"
+  }
+},
+{
+  "type": "node",
+  "id": 4610512792,
+  "lat": 42.6829861,
+  "lon": 23.3211480,
+  "tags": {
+    "addr:street": "бул. България",
+    "amenity": "nightclub",
+    "check_date:opening_hours": "2023-01-11",
+    "email": "gigs@mixtape5.com",
+    "internet_access": "wlan",
+    "level": "-1",
+    "name": "Mixtape 5",
+    "name:bg": "Mixtape 5",
+    "name:en": "Mixtape 5",
+    "opening_hours:signed": "no",
+    "phone": "+359 88 983 8348",
+    "website": "https://mixtape5.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 4697969967,
+  "lat": 42.1420780,
+  "lon": 24.7807016,
+  "tags": {
+    "amenity": "nightclub",
+    "contact:facebook": "https://www.facebook.com/bushido.club.plovdiv",
+    "name": "Bushido",
+    "opening_hours": "Mo-Su 23:30-06:00"
+  }
+},
+{
+  "type": "node",
+  "id": 4697969969,
+  "lat": 42.1422249,
+  "lon": 24.7874654,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Palms"
+  }
+},
+{
+  "type": "node",
+  "id": 4800512981,
+  "lat": 43.1312944,
+  "lon": 24.7149017,
+  "tags": {
+    "addr:city": "Ловеч",
+    "addr:housenumber": "2",
+    "addr:postcode": "5500",
+    "addr:street": "Търговска",
+    "amenity": "nightclub",
+    "name": "Версай"
+  }
+},
+{
+  "type": "node",
+  "id": 4800513820,
+  "lat": 43.1358250,
+  "lon": 24.7182749,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Ilit"
+  }
+},
+{
+  "type": "node",
+  "id": 4854455421,
+  "lat": 42.6960345,
+  "lon": 23.3202690,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date:opening_hours": "2024-10-28",
+    "name": "Live and Loud",
+    "opening_hours:signed": "no",
+    "phone": "+359 87 684 2283",
+    "website": "http://liveandloud.net/"
+  }
+},
+{
+  "type": "node",
+  "id": 4994022045,
+  "lat": 43.0823094,
+  "lon": 25.6413646,
+  "tags": {
+    "addr:city": "Велико Търново",
+    "addr:housenumber": "16",
+    "addr:street": "Велчо Джамджията",
+    "amenity": "nightclub",
+    "name": "ТаМ",
+    "name:bg": "ТаМ",
+    "name:en": "TaM",
+    "opening_hours": "Fr-Sa 19:00-23:00",
+    "operator": "TaM Veliko Tarnovo"
+  }
+},
+{
+  "type": "node",
+  "id": 5269063852,
+  "lat": 41.5661221,
+  "lon": 23.2817029,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Intriga Night Club"
+  }
+},
+{
+  "type": "node",
+  "id": 5565744573,
+  "lat": 43.2095081,
+  "lon": 27.9207217,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2023-04-05",
+    "name": "SM live cub",
+    "smoking": "outside"
+  }
+},
+{
+  "type": "node",
+  "id": 5687109821,
+  "lat": 42.5662278,
+  "lon": 27.6386472,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Атриум"
+  }
+},
+{
+  "type": "node",
+  "id": 5714634246,
+  "lat": 42.7072993,
+  "lon": 27.7668009,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "PLANET Club",
+    "phone": "+359 89 439 0449",
+    "website": "http://www.planetclub-bg.com/bg/?changeCity=3"
+  }
+},
+{
+  "type": "node",
+  "id": 5820721985,
+  "lat": 41.7439420,
+  "lon": 24.3986734,
+  "tags": {
+    "amenity": "nightclub",
+    "level": "-1",
+    "name": "Downtown",
+    "opening_hours": "Mo-Su 16:00-04:00"
+  }
+},
+{
+  "type": "node",
+  "id": 5821258989,
+  "lat": 41.7428347,
+  "lon": 24.3999654,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Blitz"
+  }
+},
+{
+  "type": "node",
+  "id": 5904333217,
+  "lat": 43.0165280,
+  "lon": 23.0473938,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Енигма"
+  }
+},
+{
+  "type": "node",
+  "id": 5998908574,
+  "lat": 43.2048838,
+  "lon": 27.9197386,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2026-06-20",
+    "name": "Sinatra",
+    "smoking": "outside"
+  }
+},
+{
+  "type": "node",
+  "id": 6181345244,
+  "lat": 42.2689889,
+  "lon": 23.6042236,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Dance club Iceberg"
+  }
+},
+{
+  "type": "node",
+  "id": 6397100474,
+  "lat": 43.0833144,
+  "lon": 25.6335369,
+  "tags": {
+    "addr:housenumber": "31",
+    "addr:street": "бул. Независимост",
+    "amenity": "nightclub",
+    "name": "Deep",
+    "phone": "+359 87 926 6970",
+    "website": "https://deepclub.bg/"
+  }
+},
+{
+  "type": "node",
+  "id": 6512153707,
+  "lat": 42.6964599,
+  "lon": 23.3179484,
+  "tags": {
+    "amenity": "nightclub",
+    "contact:facebook": "https://www.facebook.com/ClubOneToOne/",
+    "name": "One To One",
+    "phone": "+359 87 718 1343"
+  }
+},
+{
+  "type": "node",
+  "id": 6512550237,
+  "lat": 42.6968137,
+  "lon": 23.3178739,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date:opening_hours": "2025-03-13",
+    "contact:facebook": "https://www.facebook.com/club.destiny.official/",
+    "name": "Destiny",
+    "opening_hours:signed": "no",
+    "phone": "+359 87 601 1518",
+    "website": "https://club-destiny.business.site/"
+  }
+},
+{
+  "type": "node",
+  "id": 6539246845,
+  "lat": 42.6952384,
+  "lon": 23.3222581,
+  "tags": {
+    "amenity": "nightclub",
+    "contact:facebook": "https://www.facebook.com/theatroclubsf/",
+    "name": "Theatro",
+    "opening_hours": "Mo-Su 23:00-06:00",
+    "phone": "+359 87 688 6666",
+    "website": "https://theatroclub.bg/"
+  }
+},
+{
+  "type": "node",
+  "id": 6546822663,
+  "lat": 42.6939040,
+  "lon": 23.3362716,
+  "tags": {
+    "addr:city": "София",
+    "addr:housenumber": "6",
+    "addr:postcode": "1504",
+    "addr:street": "Шипка",
+    "amenity": "nightclub",
+    "contact:facebook": "https://www.facebook.com/execlub.bg",
+    "name": "EXE Club",
+    "opening_hours": "Th-Sa 22:30-06:00",
+    "phone": "+359 88 233 2222",
+    "website": "https://www.execlub.bg/"
+  }
+},
+{
+  "type": "node",
+  "id": 6578711818,
+  "lat": 42.6946394,
+  "lon": 27.7111765,
+  "tags": {
+    "addr:city": "Слънчев бряг",
+    "addr:postcode": "8240",
+    "amenity": "nightclub",
+    "description": "men's club and gambling hall",
+    "email": "info@vc-bg.com",
+    "name": "VICE CITY",
+    "opening_hours": "24/7",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "payment:notes": "yes",
+    "phone": "+359 89 980 0100",
+    "smoking": "isolated",
+    "source": "local knowledge",
+    "website": "http://vc-bg.com"
+  }
+},
+{
+  "type": "node",
+  "id": 6670013290,
+  "lat": 42.6976640,
+  "lon": 23.3282748,
+  "tags": {
+    "addr:housenumber": "6",
+    "addr:postcode": "1000",
+    "addr:street": "Будапеща",
+    "amenity": "nightclub",
+    "name": "Грамофон",
+    "name:en": "Gramophone",
+    "opening_hours": "Mo-Su 22:00-18:00",
+    "phone": "+359 87 814 6353"
+  }
+},
+{
+  "type": "node",
+  "id": 7167823198,
+  "lat": 42.7026887,
+  "lon": 23.3004464,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Детски парти клуб Елмо"
+  }
+},
+{
+  "type": "node",
+  "id": 7208811887,
+  "lat": 41.8361817,
+  "lon": 23.4871273,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "The Club",
+    "name:en": "The Club"
+  }
+},
+{
+  "type": "node",
+  "id": 7640111152,
+  "lat": 43.2042550,
+  "lon": 27.9220748,
+  "tags": {
+    "amenity": "nightclub",
+    "level": "-1",
+    "name": "Retro Club"
+  }
+},
+{
+  "type": "node",
+  "id": 7728090757,
+  "lat": 42.4222415,
+  "lon": 25.6308272,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "The Hoot"
+  }
+},
+{
+  "type": "node",
+  "id": 8792106147,
+  "lat": 42.6204494,
+  "lon": 25.3929360,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "NOIR CLUB"
+  }
+},
+{
+  "type": "node",
+  "id": 8814981269,
+  "lat": 43.2089627,
+  "lon": 27.9095558,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Paradise"
+  }
+},
+{
+  "type": "node",
+  "id": 8814981270,
+  "lat": 43.2089537,
+  "lon": 27.9095098,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Opium"
+  }
+},
+{
+  "type": "node",
+  "id": 9424552516,
+  "lat": 43.1962951,
+  "lon": 27.9172984,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Theatro"
+  }
+},
+{
+  "type": "node",
+  "id": 10078999012,
+  "lat": 43.2240186,
+  "lon": 27.9326483,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "PLAZZA"
+  }
+},
+{
+  "type": "node",
+  "id": 10314706059,
+  "lat": 42.1417130,
+  "lon": 24.7801231,
+  "tags": {
+    "addr:housenumber": "131",
+    "addr:street": "бул. Санкт Петербург",
+    "amenity": "nightclub",
+    "contact:facebook": "https://www.facebook.com/Piano.bar.Allure/",
+    "name": "Allure",
+    "opening_hours": "Fr-Sa 22:00-05:00"
+  }
+},
+{
+  "type": "node",
+  "id": 10314706061,
+  "lat": 42.1426021,
+  "lon": 24.7801735,
+  "tags": {
+    "amenity": "nightclub",
+    "contact:facebook": "https://www.facebook.com/CosmoClubPlovdiv",
+    "name": "Cosmo",
+    "opening_hours": "Fr-Sa 23:30-06:00"
+  }
+},
+{
+  "type": "node",
+  "id": 10962627349,
+  "lat": 42.6934244,
+  "lon": 27.7127740,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "The Bounce"
+  }
+},
+{
+  "type": "node",
+  "id": 11015030092,
+  "lat": 42.6947241,
+  "lon": 27.7129525,
+  "tags": {
+    "amenity": "nightclub",
+    "level": "1",
+    "name": "Gabana"
+  }
+},
+{
+  "type": "node",
+  "id": 11015030093,
+  "lat": 42.6945811,
+  "lon": 27.7132017,
+  "tags": {
+    "amenity": "nightclub",
+    "level": "-1",
+    "name": "Underground"
+  }
+},
+{
+  "type": "node",
+  "id": 11015030108,
+  "lat": 42.6941385,
+  "lon": 27.7091316,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Secrets"
+  }
+},
+{
+  "type": "node",
+  "id": 11778651145,
+  "lat": 43.2475543,
+  "lon": 26.5769025,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Planeta Payner Targovishte"
+  }
+},
+{
+  "type": "node",
+  "id": 12045346328,
+  "lat": 42.6826258,
+  "lon": 23.3211503,
+  "tags": {
+    "addr:city": "София",
+    "addr:housenumber": "1",
+    "addr:postcode": "1421",
+    "addr:street": "бул. Черни връх",
+    "amenity": "nightclub",
+    "contact:facebook": "https://www.facebook.com/bunkerclub.bg",
+    "description": "The new venue in the heart of Sofia for underground culture, music and events.\n#ENTERTHEBUNKER",
+    "email": "entertainedbg@gmail.com",
+    "image": "https://www.facebook.com/photo?fbid=122100687884499615&set=a.122100679196499615",
+    "level": "-1",
+    "min_age": "18",
+    "name": "Bunker Club",
+    "opening_hours": "Th-Sa 22:00-06:00",
+    "operator": "ENTERTAINED LTD",
+    "smoking": "no",
+    "start_date": "2024-09-13",
+    "website": "https://www.bunkerclub.bg"
+  }
+},
+{
+  "type": "node",
+  "id": 12194828581,
+  "lat": 42.8848058,
+  "lon": 24.7115337,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Riverside"
+  }
+},
+{
+  "type": "node",
+  "id": 12269093228,
+  "lat": 42.6958006,
+  "lon": 23.3239987,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date:opening_hours": "2024-10-19",
+    "name": "Tarantino",
+    "opening_hours:signed": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 12314975461,
+  "lat": 42.6955250,
+  "lon": 23.3231306,
+  "tags": {
+    "amenity": "nightclub",
+    "contact:facebook": "https://www.facebook.com/fomo.the.club/",
+    "min_age": "18",
+    "name": "FOMO the club",
+    "opening_hours": "Th-Su 22:00-05:00"
+  }
+},
+{
+  "type": "node",
+  "id": 12381999839,
+  "lat": 42.6853314,
+  "lon": 23.3190244,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2026-04-22",
+    "contact:facebook": "https://www.facebook.com/SOFIALIVECLUBBG",
+    "contact:instagram": "sofialiveclub",
+    "email": "info@sofialiveclub.com",
+    "level": "-1",
+    "name": "Sofia Live Club",
+    "name:bg": "София Лайв Клуб",
+    "name:de": "Sofia Live Club",
+    "name:en": "Sofia Live Club",
+    "name:fr": "Sofia Live Club",
+    "opening_hours": "20:00-07:00",
+    "phone": "+359 88 666 0720",
+    "smoking": "outside",
+    "start_date": "2019",
+    "website": "https://www.sofialiveclub.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 12397928146,
+  "lat": 42.6983572,
+  "lon": 23.3285875,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Kama Sutra",
+    "opening_hours": "Mo-Su,PH 22:00-05:00"
+  }
+},
+{
+  "type": "node",
+  "id": 12553447908,
+  "lat": 42.5055494,
+  "lon": 27.4696331,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Fabric"
+  }
+},
+{
+  "type": "node",
+  "id": 12741046269,
+  "lat": 42.6880023,
+  "lon": 23.3282118,
+  "tags": {
+    "amenity": "nightclub",
+    "contact:facebook": "https://www.facebook.com/barbezkrai",
+    "email": "bar.bezkrai@gmail.com",
+    "name": "Бар Безкрай",
+    "opening_hours": "17:30-02:00"
+  }
+},
+{
+  "type": "node",
+  "id": 12747334221,
+  "lat": 42.4256312,
+  "lon": 25.6298823,
+  "tags": {
+    "addr:city": "Стара Загора",
+    "addr:housenumber": "13",
+    "addr:postcode": "6000",
+    "addr:street": "Пазарска",
+    "amenity": "nightclub",
+    "contact:instagram": "https://www.instagram.com/CavalliClubStzagora",
+    "name": "Cavalli Club",
+    "opening_hours": "We-Sa 23:00-05:00",
+    "phone": "+359 89 588 8686",
+    "smoking": "outside"
+  }
+},
+{
+  "type": "node",
+  "id": 12754637123,
+  "lat": 43.8464048,
+  "lon": 25.9543077,
+  "tags": {
+    "amenity": "nightclub",
+    "contact:facebook": "https://www.facebook.com/liveclubcanto",
+    "name": "Клуб Канто"
+  }
+},
+{
+  "type": "node",
+  "id": 12981848919,
+  "lat": 42.6862260,
+  "lon": 23.3212224,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2026-04-22",
+    "level": "-1",
+    "name": "Mesmeric",
+    "opening_hours": "24/7"
+  }
+},
+{
+  "type": "node",
+  "id": 13041145916,
+  "lat": 42.6526694,
+  "lon": 23.3422989,
+  "tags": {
+    "addr:city": "София",
+    "addr:housenumber": "4",
+    "addr:postcode": "1700",
+    "addr:street": "Акад. Борис Стефанов",
+    "amenity": "nightclub",
+    "check_date": "2026-01-30",
+    "name": "Ego Resto Club",
+    "opening_hours": "Mo-Su 09:00-01:00",
+    "smoking": "separated"
+  }
+},
+{
+  "type": "node",
+  "id": 13070531130,
+  "lat": 42.6825195,
+  "lon": 23.3205986,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date:opening_hours": "2025-08-14",
+    "level": "-1",
+    "name": "БГ Ритъм",
+    "opening_hours:signed": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13104274655,
+  "lat": 43.2094148,
+  "lon": 27.9209937,
+  "tags": {
+    "addr:city": "Варна",
+    "addr:housenumber": "25",
+    "addr:postcode": "9000",
+    "addr:street": "бул. Цар Освободител",
+    "amenity": "nightclub",
+    "min_age": "18",
+    "name": "Истерия",
+    "name:en": "Isteria",
+    "note": "Horrible reviews online about no ventilation, extremely expensive prices and bad service. Visit at your own risk."
+  }
+},
+{
+  "type": "node",
+  "id": 13477927722,
+  "lat": 43.2108482,
+  "lon": 27.9320557,
+  "tags": {
+    "addr:city": "Варна",
+    "addr:housenumber": "115",
+    "addr:street": "бул. Княз Борис I",
+    "amenity": "nightclub",
+    "name": "MAZE",
+    "name:bg": "Мейз"
+  }
+},
+{
+  "type": "node",
+  "id": 13528566283,
+  "lat": 42.7303248,
+  "lon": 23.3217721,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Etage 8",
+    "name:bg": "Етаж 8"
+  }
+},
+{
+  "type": "node",
+  "id": 13528582683,
+  "lat": 42.7092969,
+  "lon": 23.3313659,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "ZOKI’s Warehouse",
+    "name:bg": "Склада на Зоки"
+  }
+},
+{
+  "type": "node",
+  "id": 13591414556,
+  "lat": 42.6383035,
+  "lon": 23.3111591,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2026-02-22",
+    "name": "C’est la Vie"
+  }
+},
+{
+  "type": "node",
+  "id": 13593167559,
+  "lat": 42.6540172,
+  "lon": 23.3452548,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date:opening_hours": "2026-02-23",
+    "name": "Modera",
+    "opening_hours:signed": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13682193952,
+  "lat": 42.6497461,
+  "lon": 23.3436899,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date:opening_hours": "2026-03-26",
+    "name": "Viral Club",
+    "opening_hours:signed": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13845386224,
+  "lat": 42.6441692,
+  "lon": 23.3427480,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Mazzo Club & Restaurant",
+    "opening_hours": "19:00-06:00"
+  }
+},
+{
+  "type": "way",
+  "id": 65622804,
+  "center": {
+    "lat": 42.6498264,
+    "lon": 23.3448857
+  },
+  "tags": {
+    "addr:city": "София",
+    "addr:housenumber": "1",
+    "addr:street": "Атанас Манчев",
+    "amenity": "nightclub",
+    "building": "commercial",
+    "building:levels": "1",
+    "name": "Ritual",
+    "opening_hours": "Mo-Su,PH 23:00-06:00",
+    "roof:shape": "flat"
+  }
+},
+{
+  "type": "way",
+  "id": 65622818,
+  "center": {
+    "lat": 42.6492679,
+    "lon": 23.3442949
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "commercial",
+    "facebook": "clubilluzion",
+    "name": "Illuzion",
+    "opening_hours": "23:00-06:00",
+    "smoking": "yes",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 66479462,
+  "center": {
+    "lat": 42.6491015,
+    "lon": 23.3449805
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "commercial",
+    "contact:facebook": "Club33Sofia",
+    "name": "Club 33",
+    "opening_hours": "24/7",
+    "phone": "+359 87 733 3033",
+    "roof:levels": "3",
+    "roof:shape": "flat",
+    "toilets:wheelchair": "yes",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "way",
+  "id": 119694738,
+  "center": {
+    "lat": 42.6861502,
+    "lon": 27.7120053
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Лазур",
+    "name:en": "Lazur",
+    "phone": "+359 87 882 0817",
+    "website": "https://www.facebook.com/DanceClubLazur/"
+  }
+},
+{
+  "type": "way",
+  "id": 146238705,
+  "center": {
+    "lat": 42.4391138,
+    "lon": 25.6994516
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Дискотека \"Terradance\""
+  }
+},
+{
+  "type": "way",
+  "id": 154904990,
+  "center": {
+    "lat": 43.3674282,
+    "lon": 28.0679223
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Вариете театър",
+    "name:en": "Variety theatre"
+  }
+},
+{
+  "type": "way",
+  "id": 166109607,
+  "center": {
+    "lat": 42.6495326,
+    "lon": 23.3435388
+  },
+  "tags": {
+    "addr:housenumber": "1А",
+    "addr:street": "Атанас Манчев",
+    "amenity": "nightclub",
+    "building": "retail",
+    "check_date:opening_hours": "2026-03-26",
+    "contact:facebook": "https://www.facebook.com/ElevenClubSofia",
+    "contact:instagram": "https://www.instagram.com/eleven_club_sofia",
+    "name": "Eleven Club",
+    "opening_hours:signed": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 242988979,
+  "center": {
+    "lat": 42.2412346,
+    "lon": 27.7732225
+  },
+  "tags": {
+    "addr:city": "Китен",
+    "addr:housenumber": "4",
+    "addr:postcode": "8183",
+    "addr:street": "Корал",
+    "amenity": "nightclub",
+    "building": "yes",
+    "building:levels": "1",
+    "name": "Версай",
+    "name:en": "Versai"
+  }
+},
+{
+  "type": "way",
+  "id": 251113667,
+  "center": {
+    "lat": 43.2832765,
+    "lon": 28.0436787
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "commercial",
+    "building:levels": "2",
+    "name": "Pr. Club",
+    "seasonal": "summer"
+  }
+},
+{
+  "type": "way",
+  "id": 252212830,
+  "center": {
+    "lat": 43.8503789,
+    "lon": 25.9583870
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Конти",
+    "opening_hours": "24/7"
+  }
+},
+{
+  "type": "way",
+  "id": 297988108,
+  "center": {
+    "lat": 42.6934646,
+    "lon": 27.7140339
+  },
+  "tags": {
+    "addr:city": "Слънчев бряг",
+    "addr:postcode": "8240",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "DGV",
+    "smoking": "outside"
+  }
+},
+{
+  "type": "way",
+  "id": 330427038,
+  "center": {
+    "lat": 42.4951101,
+    "lon": 27.4702470
+  },
+  "tags": {
+    "addr:city": "Бургас",
+    "addr:housenumber": "13",
+    "addr:street": "Христо Ботов",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Vogue"
+  }
+},
+{
+  "type": "way",
+  "id": 340053586,
+  "center": {
+    "lat": 42.4969017,
+    "lon": 27.4813281
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "description:bg": "Чалгa",
+    "image": "https://photos.app.goo.gl/18TFJNusZeKh7G7i9",
+    "name": "Плаза",
+    "name:en": "Plazza"
+  }
+},
+{
+  "type": "way",
+  "id": 458079311,
+  "center": {
+    "lat": 42.1780730,
+    "lon": 26.5650406
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "facebook": "https://www.facebook.com/TundzhaPremiumClubb/",
+    "name": "Tundzha"
+  }
+},
+{
+  "type": "way",
+  "id": 469937196,
+  "center": {
+    "lat": 43.2352592,
+    "lon": 23.1253930
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Дискотека \"Торнадо\""
+  }
+},
+{
+  "type": "way",
+  "id": 554849609,
+  "center": {
+    "lat": 42.6723563,
+    "lon": 27.7117573
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Bedroom"
+  }
+},
+{
+  "type": "way",
+  "id": 633478298,
+  "center": {
+    "lat": 43.1940489,
+    "lon": 27.9213040
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "check_date": "2025-08-20",
+    "min_age": "18",
+    "name": "TheLine"
+  }
+},
+{
+  "type": "way",
+  "id": 685967436,
+  "center": {
+    "lat": 43.4091804,
+    "lon": 23.2265210
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Дискотека Клеопатра"
+  }
+},
+{
+  "type": "way",
+  "id": 1229166254,
+  "center": {
+    "lat": 44.1650767,
+    "lon": 22.7848602
+  },
+  "tags": {
+    "addr:city": "Ново село",
+    "addr:housenumber": "21",
+    "addr:postcode": "3784",
+    "addr:street": "Пристанищна",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Дискотека \"Чайка\"",
+    "opening_hours": "off \"Не работи\""
+  }
+},
+{
+  "type": "way",
+  "id": 1339008725,
+  "center": {
+    "lat": 42.6860743,
+    "lon": 23.3336958
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "check_date:opening_hours": "2025-08-06",
+    "name": "Строежа",
+    "opening_hours:signed": "no"
+  }
+}
+
+  ]
+}

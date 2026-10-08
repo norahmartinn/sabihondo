@@ -1,0 +1,3676 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-10-08T23:20:35Z",
+    "timestamp_areas_base": "2026-10-07T10:19:21Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 281612642,
+  "lat": 37.1451236,
+  "lon": 24.5112795,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Εδεμ"
+  }
+},
+{
+  "type": "node",
+  "id": 1039936258,
+  "lat": 37.1034349,
+  "lon": 25.3748431,
+  "tags": {
+    "addr:city": "Naxos Chora",
+    "addr:postcode": "84300",
+    "air_conditioning": "yes",
+    "amenity": "nightclub",
+    "min_age": "16",
+    "name": "ocean",
+    "smoking": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1756485095,
+  "lat": 39.6903021,
+  "lon": 22.3818914,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Αστέρας"
+  }
+},
+{
+  "type": "node",
+  "id": 1756485096,
+  "lat": 39.6887770,
+  "lon": 22.3813168,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Κτήμα Βερσαλίες"
+  }
+},
+{
+  "type": "node",
+  "id": 1763287851,
+  "lat": 37.4958522,
+  "lon": 23.4632526,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Scirocco Club"
+  }
+},
+{
+  "type": "node",
+  "id": 1770458786,
+  "lat": 38.0036283,
+  "lon": 23.7217356,
+  "tags": {
+    "addr:city": "Αθήνα",
+    "addr:floor": "0",
+    "addr:housenumber": "205",
+    "addr:postcode": "10445",
+    "addr:street": "Λιοσίων",
+    "amenity": "nightclub",
+    "check_date": "2026-07-31",
+    "email": "booking@gagarin205.gr",
+    "level": "0",
+    "name": "Gagarin 205",
+    "phone": "+302114112500",
+    "website": "https://gagarin205.gr/"
+  }
+},
+{
+  "type": "node",
+  "id": 1970352884,
+  "lat": 35.5314815,
+  "lon": 27.1964417,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Fever"
+  }
+},
+{
+  "type": "node",
+  "id": 2049878988,
+  "lat": 37.9792448,
+  "lon": 23.7297700,
+  "tags": {
+    "addr:city": "Αθήνα",
+    "addr:country": "GR",
+    "addr:housenumber": "2",
+    "addr:postcode": "10561",
+    "addr:street": "Σκουλενίου",
+    "amenity": "nightclub",
+    "level": "1",
+    "name": "Χοροστάσιο"
+  }
+},
+{
+  "type": "node",
+  "id": 2051252244,
+  "lat": 37.9864123,
+  "lon": 23.7332983,
+  "tags": {
+    "addr:housenumber": "13-15",
+    "addr:street": "Σολωμού",
+    "amenity": "nightclub",
+    "name": "Αν Club"
+  }
+},
+{
+  "type": "node",
+  "id": 2055576751,
+  "lat": 39.1515683,
+  "lon": 20.9740677,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Prestige"
+  }
+},
+{
+  "type": "node",
+  "id": 2056005926,
+  "lat": 37.9764330,
+  "lon": 23.7515360,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Nostos"
+  }
+},
+{
+  "type": "node",
+  "id": 2085799291,
+  "lat": 37.0737839,
+  "lon": 22.4286924,
+  "tags": {
+    "amenity": "nightclub",
+    "level": "0",
+    "name": "G"
+  }
+},
+{
+  "type": "node",
+  "id": 2144885562,
+  "lat": 38.2450436,
+  "lon": 21.7376179,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Downtown Rock Bar"
+  }
+},
+{
+  "type": "node",
+  "id": 2171183182,
+  "lat": 35.5154503,
+  "lon": 24.0209733,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Monastiri Tou Karolou",
+    "name:en": "Monastery of Carol"
+  }
+},
+{
+  "type": "node",
+  "id": 2202493421,
+  "lat": 39.3483956,
+  "lon": 22.9396784,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Μπούρτζι"
+  }
+},
+{
+  "type": "node",
+  "id": 2237754937,
+  "lat": 38.2440674,
+  "lon": 21.7367682,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Mods",
+    "smoking": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2260059318,
+  "lat": 40.6427385,
+  "lon": 22.9151609,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "ASTRA"
+  }
+},
+{
+  "type": "node",
+  "id": 2260059735,
+  "lat": 40.6427959,
+  "lon": 22.9146268,
+  "tags": {
+    "addr:city": "Θεσσαλονίκη",
+    "addr:housenumber": "3",
+    "addr:postcode": "54627",
+    "addr:street": "Φρίξου",
+    "amenity": "nightclub",
+    "name": "W CLUB"
+  }
+},
+{
+  "type": "node",
+  "id": 2260059740,
+  "lat": 40.6411592,
+  "lon": 22.9188623,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "MAMOYNIA"
+  }
+},
+{
+  "type": "node",
+  "id": 2260064181,
+  "lat": 40.5116231,
+  "lon": 22.9345371,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "PORTO AKRI"
+  }
+},
+{
+  "type": "node",
+  "id": 2305370277,
+  "lat": 35.0078260,
+  "lon": 25.7390495,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "NUEVO"
+  }
+},
+{
+  "type": "node",
+  "id": 2305370295,
+  "lat": 35.0076788,
+  "lon": 25.7390602,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "SEVEN"
+  }
+},
+{
+  "type": "node",
+  "id": 2363258545,
+  "lat": 40.2670506,
+  "lon": 22.5902286,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "GOLD"
+  }
+},
+{
+  "type": "node",
+  "id": 2365856388,
+  "lat": 36.3407376,
+  "lon": 28.2017433,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Liquid",
+    "opening_hours:signed": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2371053802,
+  "lat": 36.3408500,
+  "lon": 28.2002325,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Sting-Fabric Club"
+  }
+},
+{
+  "type": "node",
+  "id": 2387962070,
+  "lat": 36.3444495,
+  "lon": 28.2010079,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Nirvana"
+  }
+},
+{
+  "type": "node",
+  "id": 2388279148,
+  "lat": 40.7896641,
+  "lon": 22.4095610,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Queen club",
+    "name:el": "Mavra Mesanuxta",
+    "name:en": "Mavra Mesanuxta"
+  }
+},
+{
+  "type": "node",
+  "id": 2388279152,
+  "lat": 40.7893148,
+  "lon": 22.4096898,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Sueno"
+  }
+},
+{
+  "type": "node",
+  "id": 2388279153,
+  "lat": 40.7893208,
+  "lon": 22.4095423,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Cafe-Bar Depo"
+  }
+},
+{
+  "type": "node",
+  "id": 2388279154,
+  "lat": 40.7891279,
+  "lon": 22.4093036,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "My Club"
+  }
+},
+{
+  "type": "node",
+  "id": 2388279160,
+  "lat": 40.7890975,
+  "lon": 22.4098159,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Destil"
+  }
+},
+{
+  "type": "node",
+  "id": 2388934125,
+  "lat": 36.3470622,
+  "lon": 28.2018255,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Music Boxx"
+  }
+},
+{
+  "type": "node",
+  "id": 2393704849,
+  "lat": 40.6364023,
+  "lon": 22.9348693,
+  "tags": {
+    "addr:city": "Θεσσαλονίκη",
+    "addr:country": "GR",
+    "addr:postcode": "54626",
+    "addr:street": "Χάψα",
+    "addr:street:source": "survey",
+    "amenity": "nightclub",
+    "name": "La Rosa Negre",
+    "website": "https://m.facebook.com/pages/La-Rosa-Negra-Latin-Club-Official/281215025252296"
+  }
+},
+{
+  "type": "node",
+  "id": 2558149371,
+  "lat": 39.0410287,
+  "lon": 20.7104568,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Nicopolis Club"
+  }
+},
+{
+  "type": "node",
+  "id": 2607589137,
+  "lat": 36.4519793,
+  "lon": 28.2169692,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Colorado"
+  }
+},
+{
+  "type": "node",
+  "id": 2707944714,
+  "lat": 38.3218117,
+  "lon": 23.7832168,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Atlantis"
+  }
+},
+{
+  "type": "node",
+  "id": 2771248937,
+  "lat": 37.9339813,
+  "lon": 23.7307321,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Ώρες ώρες"
+  }
+},
+{
+  "type": "node",
+  "id": 2925167719,
+  "lat": 39.7927044,
+  "lon": 19.8168032,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Cube"
+  }
+},
+{
+  "type": "node",
+  "id": 3001108529,
+  "lat": 37.9836049,
+  "lon": 23.7334014,
+  "tags": {
+    "addr:city": "Αθήνα",
+    "addr:country": "GR",
+    "addr:housenumber": "3",
+    "addr:postcode": "10678",
+    "addr:street": "Ζωοδόχου Πηγής",
+    "amenity": "nightclub",
+    "name": "Lido"
+  }
+},
+{
+  "type": "node",
+  "id": 3043565652,
+  "lat": 40.5214526,
+  "lon": 22.2242443,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Κτήμα Αλέξανδρος"
+  }
+},
+{
+  "type": "node",
+  "id": 3205777337,
+  "lat": 37.9822833,
+  "lon": 23.7087809,
+  "tags": {
+    "addr:city": "Αθήνα",
+    "addr:country": "GR",
+    "addr:housename": "Βοτανικός",
+    "addr:housenumber": "72",
+    "addr:postcode": "10442",
+    "addr:street": "Ιερά Οδός",
+    "amenity": "nightclub",
+    "designation": "Βοτανικός",
+    "internet_access": "wlan",
+    "name": "Βοτανικός",
+    "website": "https://votanikos.gr/"
+  }
+},
+{
+  "type": "node",
+  "id": 3205780118,
+  "lat": 37.9824525,
+  "lon": 23.7083895,
+  "tags": {
+    "addr:city": "Αθήνα",
+    "addr:country": "GR",
+    "addr:housenumber": "76",
+    "addr:postcode": "10442",
+    "addr:street": "Ιερά Οδός",
+    "amenity": "nightclub",
+    "contact:mobile": "+30 694 083 6002",
+    "facebook": "https://www.facebook.com/p/Smash-Music-Hall-61552781817522/",
+    "name": "Smash"
+  }
+},
+{
+  "type": "node",
+  "id": 3205784415,
+  "lat": 37.9780042,
+  "lon": 23.7119569,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Βήτα Ψυχιατρική"
+  }
+},
+{
+  "type": "node",
+  "id": 3205831915,
+  "lat": 37.9711118,
+  "lon": 23.7045141,
+  "tags": {
+    "addr:city": "Αθήνα",
+    "addr:housenumber": "183",
+    "addr:postcode": "11853",
+    "addr:street": "Πειραιώς",
+    "amenity": "nightclub",
+    "internet_access": "wlan",
+    "name": "Anodos",
+    "opening_hours": "23:00 - 05:00",
+    "phone": "+30 210 3468100",
+    "smoking": "isolated",
+    "source": "www.anodoslivestage.gr",
+    "website": "https://anodoslivestage.gr/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3227977251,
+  "lat": 37.9452498,
+  "lon": 23.7012296,
+  "tags": {
+    "addr:city": "Καλλιθέα",
+    "addr:country": "GR",
+    "addr:housenumber": "338",
+    "addr:postcode": "17673",
+    "addr:street": "Λεωφόρος Ανδρέα Συγγρού",
+    "amenity": "nightclub",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "name": "La Μπουάτ",
+    "operator": "La Μπουάτ",
+    "phone": "+30 210 9570 400; +30 210 3424 299",
+    "smoking": "isolated",
+    "source": "La Μπουάτ",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3283394359,
+  "lat": 37.8809672,
+  "lon": 23.7303968,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Posidonio Music Hall",
+    "website": "https://www.posidoniomusichall.gr/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3285564687,
+  "lat": 36.4520099,
+  "lon": 28.2172711,
+  "tags": {
+    "addr:housenumber": "1",
+    "addr:street": "barstreet",
+    "amenity": "nightclub",
+    "check_date": "2024-09-18",
+    "name": "Kinky",
+    "smoking": "outside"
+  }
+},
+{
+  "type": "node",
+  "id": 3304165518,
+  "lat": 36.4499894,
+  "lon": 28.2173210,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Alcatraz"
+  }
+},
+{
+  "type": "node",
+  "id": 3374664786,
+  "lat": 40.9386246,
+  "lon": 24.4075034,
+  "tags": {
+    "addr:city": "Καβάλα",
+    "addr:housenumber": "5",
+    "addr:postcode": "65403",
+    "addr:street": "Νίκης",
+    "amenity": "nightclub",
+    "name": "Motel",
+    "opening_hours": "23:30-8:00",
+    "phone": "+306947549599"
+  }
+},
+{
+  "type": "node",
+  "id": 3375277348,
+  "lat": 37.4249953,
+  "lon": 24.9430734,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "MESANYXTA"
+  }
+},
+{
+  "type": "node",
+  "id": 3523190674,
+  "lat": 37.9858103,
+  "lon": 23.7201699,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "The apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 3550978600,
+  "lat": 37.9430470,
+  "lon": 23.6845772,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Boom Boom",
+    "opening_hours": "Fr,Sa,PH,PH -1 day 23:00+"
+  }
+},
+{
+  "type": "node",
+  "id": 3623221313,
+  "lat": 39.6537827,
+  "lon": 19.8424994,
+  "tags": {
+    "amenity": "nightclub",
+    "internet_access": "yes",
+    "name": "Whispers",
+    "smoking": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3631839297,
+  "lat": 35.2099026,
+  "lon": 26.1077383,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Black Hole"
+  }
+},
+{
+  "type": "node",
+  "id": 3639581930,
+  "lat": 39.6537949,
+  "lon": 19.8416226,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Loco",
+    "smoking": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3645165573,
+  "lat": 35.5176040,
+  "lon": 23.9038930,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Mylos Club"
+  }
+},
+{
+  "type": "node",
+  "id": 3684357986,
+  "lat": 40.6356164,
+  "lon": 22.9364402,
+  "tags": {
+    "addr:housenumber": "1",
+    "addr:postcode": "546 25",
+    "addr:street": "Πίνδου",
+    "amenity": "nightclub",
+    "contact:facebook": "eightballclub2",
+    "contact:instagram": "eightballclub",
+    "email": "eightballclub@yahoo.gr",
+    "name": "eightball",
+    "phone": "+30 6937176490",
+    "website": "https://eightballclub.gr/"
+  }
+},
+{
+  "type": "node",
+  "id": 3709760853,
+  "lat": 40.3284612,
+  "lon": 23.9244135,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Matala"
+  }
+},
+{
+  "type": "node",
+  "id": 3721561371,
+  "lat": 35.5323072,
+  "lon": 27.1875149,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Heaven"
+  }
+},
+{
+  "type": "node",
+  "id": 3761379320,
+  "lat": 36.9930485,
+  "lon": 26.9324030,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Club Loca",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 3768682520,
+  "lat": 37.9398419,
+  "lon": 23.6421089,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2026-02-10",
+    "name": "Αγιονέρι"
+  }
+},
+{
+  "type": "node",
+  "id": 3793382411,
+  "lat": 37.9775541,
+  "lon": 23.7253723,
+  "tags": {
+    "addr:housenumber": "13",
+    "addr:street": "Μιαούλη",
+    "amenity": "nightclub",
+    "check_date": "2023-09-14",
+    "name": "7 times",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3830995357,
+  "lat": 36.4191020,
+  "lon": 25.4316693,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Mamounia",
+    "website": "https://m.facebook.com/mamouniaclub.santorini"
+  }
+},
+{
+  "type": "node",
+  "id": 3841534942,
+  "lat": 41.1398972,
+  "lon": 24.1690331,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "HUBU Summer Club"
+  }
+},
+{
+  "type": "node",
+  "id": 3960522393,
+  "lat": 37.9404038,
+  "lon": 23.6423264,
+  "tags": {
+    "addr:city": "Πειραιάς",
+    "addr:housenumber": "75",
+    "addr:street": "Φίλωνος",
+    "amenity": "nightclub",
+    "check_date": "2023-03-08",
+    "name": "Loco stage"
+  }
+},
+{
+  "type": "node",
+  "id": 4024903173,
+  "lat": 37.9428779,
+  "lon": 23.6599372,
+  "tags": {
+    "addr:city": "Πειραιάς",
+    "addr:housenumber": "14",
+    "addr:street": "Φιλίππου",
+    "amenity": "nightclub",
+    "name": "Barato"
+  }
+},
+{
+  "type": "node",
+  "id": 4032078332,
+  "lat": 37.9483873,
+  "lon": 23.6797671,
+  "tags": {
+    "addr:city": "Μοσχάτο",
+    "addr:housenumber": "57",
+    "addr:street": "Χρυσοστόμου Σμύρνης",
+    "amenity": "nightclub",
+    "name": "Koursaros",
+    "phone": "+30 21 0940 9712"
+  }
+},
+{
+  "type": "node",
+  "id": 4054342602,
+  "lat": 37.7482997,
+  "lon": 23.9104007,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Oltre"
+  }
+},
+{
+  "type": "node",
+  "id": 4103280572,
+  "lat": 41.1440263,
+  "lon": 24.1738100,
+  "tags": {
+    "addr:city": "Δράμα",
+    "addr:postcode": "66100",
+    "amenity": "nightclub",
+    "name": "Απλά Ελληνικά"
+  }
+},
+{
+  "type": "node",
+  "id": 4308055889,
+  "lat": 37.9431642,
+  "lon": 23.6846437,
+  "tags": {
+    "addr:city": "Καλλιθέα",
+    "addr:housenumber": "344",
+    "addr:postcode": "176 75",
+    "addr:street": "Ελευθερίου Βενιζέλου",
+    "amenity": "nightclub",
+    "min_age": "18",
+    "name": "Trust Club",
+    "opening_hours": "Mo-Su 05:00-00:00",
+    "phone": "+306987184508",
+    "website": "https://www.facebook.com/cristalplus.trust/"
+  }
+},
+{
+  "type": "node",
+  "id": 4323680395,
+  "lat": 40.0682333,
+  "lon": 23.4528304,
+  "tags": {
+    "addr:floor": "G",
+    "amenity": "nightclub",
+    "check_date": "2026-07-16",
+    "level": "0",
+    "name": "Angels Club"
+  }
+},
+{
+  "type": "node",
+  "id": 4335468070,
+  "lat": 40.0646866,
+  "lon": 23.4507910,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Ahoy Night Club Kallithea"
+  }
+},
+{
+  "type": "node",
+  "id": 4351786772,
+  "lat": 36.4186843,
+  "lon": 25.4317225,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Town Club"
+  }
+},
+{
+  "type": "node",
+  "id": 4406077827,
+  "lat": 35.3187367,
+  "lon": 25.3913774,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Cameo"
+  }
+},
+{
+  "type": "node",
+  "id": 4435697301,
+  "lat": 37.9870782,
+  "lon": 23.7603914,
+  "tags": {
+    "amenity": "nightclub",
+    "facebook": "https://facebook.com/FolieLatinClub",
+    "music": "latin",
+    "name": "Folie"
+  }
+},
+{
+  "type": "node",
+  "id": 4442897901,
+  "lat": 37.4343168,
+  "lon": 25.3417574,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Magas cafe bar",
+    "name:el": "Magas cafe bar"
+  }
+},
+{
+  "type": "node",
+  "id": 4460642697,
+  "lat": 37.9789774,
+  "lon": 23.7149519,
+  "tags": {
+    "addr:city": "Αθήνα",
+    "addr:street": "Ιερά Οδός",
+    "amenity": "nightclub",
+    "name": "Gazi Music Hall",
+    "name:en": "Gazi Music Hall"
+  }
+},
+{
+  "type": "node",
+  "id": 4460648895,
+  "lat": 37.9795746,
+  "lon": 23.7155354,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Vox",
+    "name:en": "Iera Odos",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4536651293,
+  "lat": 41.1303828,
+  "lon": 25.1929487,
+  "tags": {
+    "addr:housenumber": "2534 770066",
+    "addr:postcode": "69200",
+    "addr:street": "Komotini - Iasmos",
+    "amenity": "nightclub",
+    "email": "info@astraia.com.gr",
+    "name": "Αστραία",
+    "name:el": "Αστραία",
+    "name:en": "Astraia",
+    "name:tr": "Astraia",
+    "opening_hours": "Mo-Su 10:00-22:00",
+    "operator": "ΓΙΩΡΓΟΣ ΠΑΧΟΥΜΗΣ",
+    "phone": "+30 693 240 0010",
+    "website": "https://astraia.com.gr/"
+  }
+},
+{
+  "type": "node",
+  "id": 4539176692,
+  "lat": 37.9859104,
+  "lon": 23.7342283,
+  "tags": {
+    "addr:city": "Αθήνα",
+    "addr:country": "GR",
+    "addr:housenumber": "64",
+    "addr:postcode": "10681",
+    "addr:street": "Θεμιστοκλέους",
+    "amenity": "nightclub",
+    "internet_access": "wlan",
+    "name": "Ρεμπετάδικο ΚΑΒΟΥΡΑΣ",
+    "name:el": "Ρεμπετάδικο ΚΑΒΟΥΡΑΣ",
+    "name:en": "KAVOURAS Rempetika Laika",
+    "opening_hours": "Fr-Sa 22:00-05:30",
+    "phone": "+30 21 0381 0202",
+    "website": "http://kavouras-rempetika.blogspot.gr"
+  }
+},
+{
+  "type": "node",
+  "id": 4543015739,
+  "lat": 40.6355214,
+  "lon": 22.9367346,
+  "tags": {
+    "addr:place": "Πλατεία Μοριχόβου",
+    "amenity": "nightclub",
+    "name": "Casper"
+  }
+},
+{
+  "type": "node",
+  "id": 4710257426,
+  "lat": 37.7298818,
+  "lon": 20.9752587,
+  "tags": {
+    "addr:city": "Zakynthos",
+    "addr:postcode": "29100",
+    "addr:street": "Ζάκυνθος - Βασιλικός",
+    "amenity": "nightclub",
+    "name": "\"Logos Dancing Bar\"",
+    "opening_hours": "22:00 till...late in the morning",
+    "operator": "Kosatas Amanatidis"
+  }
+},
+{
+  "type": "node",
+  "id": 4739904428,
+  "lat": 37.4375578,
+  "lon": 22.7469018,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Actus"
+  }
+},
+{
+  "type": "node",
+  "id": 4788185628,
+  "lat": 39.6398411,
+  "lon": 22.4159438,
+  "tags": {
+    "addr:city": "Λάρισα",
+    "addr:housenumber": "91",
+    "addr:street": "Ελευθέριου Βενιζέλου",
+    "amenity": "nightclub",
+    "name": "Hamam",
+    "seasonal": "winter"
+  }
+},
+{
+  "type": "node",
+  "id": 4794628821,
+  "lat": 40.8661676,
+  "lon": 26.0007049,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Μεγαρο",
+    "name:el": "Μεγαρο"
+  }
+},
+{
+  "type": "node",
+  "id": 4842686921,
+  "lat": 40.2703578,
+  "lon": 22.5091687,
+  "tags": {
+    "addr:city": "Κατερίνη",
+    "addr:housenumber": "8",
+    "addr:postcode": "601 32",
+    "addr:street": "Σολωμού",
+    "amenity": "nightclub",
+    "check_date": "2026-09-22",
+    "name": "Vibe",
+    "operator": "Προκοπίδης Κωνσταντίνος"
+  }
+},
+{
+  "type": "node",
+  "id": 4848029443,
+  "lat": 35.4125611,
+  "lon": 24.7822149,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Crazy Town",
+    "opening_hours": "22:30+"
+  }
+},
+{
+  "type": "node",
+  "id": 4892917958,
+  "lat": 37.9819466,
+  "lon": 23.7120817,
+  "tags": {
+    "addr:housenumber": "113",
+    "addr:street": "Κωνσταντινουπόλεως",
+    "amenity": "nightclub",
+    "name": "Γραμμές"
+  }
+},
+{
+  "type": "node",
+  "id": 4931271133,
+  "lat": 38.2454618,
+  "lon": 21.7302163,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Moulin Rouge"
+  }
+},
+{
+  "type": "node",
+  "id": 4931296710,
+  "lat": 38.2444029,
+  "lon": 21.7300909,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "ΧΑΡΑΜΑ"
+  }
+},
+{
+  "type": "node",
+  "id": 4944716521,
+  "lat": 35.3698974,
+  "lon": 24.4764908,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Minibar"
+  }
+},
+{
+  "type": "node",
+  "id": 4944718729,
+  "lat": 35.3703280,
+  "lon": 24.4761390,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Metropolis club"
+  }
+},
+{
+  "type": "node",
+  "id": 4952914127,
+  "lat": 38.2442988,
+  "lon": 21.7274729,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "ΑΣΤΕΡΙΑ live"
+  }
+},
+{
+  "type": "node",
+  "id": 4963865264,
+  "lat": 37.8571811,
+  "lon": 24.7864770,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Σκάλα"
+  }
+},
+{
+  "type": "node",
+  "id": 5106015483,
+  "lat": 35.0962055,
+  "lon": 24.6882668,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Prison Club",
+    "opening_hours": "Fr, Sa 22:30-05:00"
+  }
+},
+{
+  "type": "node",
+  "id": 5274163887,
+  "lat": 40.2700775,
+  "lon": 22.5081568,
+  "tags": {
+    "addr:city": "Κατερίνη",
+    "addr:housenumber": "15",
+    "addr:postcode": "601 32",
+    "addr:street": "Γεωργάκη Ολυμπίου",
+    "amenity": "nightclub",
+    "name": "Star Dust Club"
+  }
+},
+{
+  "type": "node",
+  "id": 5274908434,
+  "lat": 38.8354243,
+  "lon": 20.7091664,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2024-05-25",
+    "name": "Lagoon"
+  }
+},
+{
+  "type": "node",
+  "id": 5274908435,
+  "lat": 38.8354279,
+  "lon": 20.7090303,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Pure"
+  }
+},
+{
+  "type": "node",
+  "id": 5290773921,
+  "lat": 37.9775348,
+  "lon": 23.6823847,
+  "tags": {
+    "addr:city": "Αιγάλεω",
+    "addr:country": "GR",
+    "addr:housenumber": "38",
+    "addr:postcode": "12241",
+    "addr:street": "Πέτρου Ράλλη",
+    "air_conditioning": "yes",
+    "amenity": "nightclub",
+    "email": "info@yton.gr",
+    "name": "YTON the music show",
+    "payment:cards": "yes",
+    "payment:cash": "yes",
+    "payment:contactless": "yes",
+    "payment:debit_cards": "yes",
+    "payment:maestro": "yes",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "payment:visa_debit": "yes",
+    "payment:visa_electron": "yes",
+    "phone": "+302103453139",
+    "smoking": "outside",
+    "website": "https://yton.gr/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5290865922,
+  "lat": 37.9741924,
+  "lon": 23.7074761,
+  "tags": {
+    "addr:city": "Αθήνα",
+    "addr:housenumber": "3-5",
+    "addr:street": "Ανδρόνικου",
+    "amenity": "nightclub",
+    "email": "info@estateathens.com",
+    "facebook": "https://el-gr.facebook.com/EstateAthens/",
+    "name": "ESTATE",
+    "name:en": "ESTATE ATHENS",
+    "phone": "+30 21 0345 0345",
+    "website": "https://www.estateathens.com"
+  }
+},
+{
+  "type": "node",
+  "id": 5290865923,
+  "lat": 37.9751670,
+  "lon": 23.7095861,
+  "tags": {
+    "addr:city": "Αθήνα",
+    "addr:housenumber": "130",
+    "addr:street": "Πειραιώς",
+    "amenity": "nightclub",
+    "email": "info@boxathens.com",
+    "facebook": "boxathensofficial",
+    "name": "BOX Athens",
+    "phone": "+30 694 811 1273",
+    "website": "http://boxathens.com",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5347709862,
+  "lat": 38.8343949,
+  "lon": 20.7102508,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Barbarossa"
+  }
+},
+{
+  "type": "node",
+  "id": 5468279870,
+  "lat": 37.9625923,
+  "lon": 23.7244627,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Like Music Club"
+  }
+},
+{
+  "type": "node",
+  "id": 5564208631,
+  "lat": 40.5012048,
+  "lon": 22.9859086,
+  "tags": {
+    "addr:postcode": "57001",
+    "amenity": "nightclub",
+    "email": "aplakaiellinika@gmail.com",
+    "name": "Απλά και Ελληνικά",
+    "name:el": "Απλά και Ελληνικά",
+    "name:en": "Apla kai ellinika",
+    "operator": "Θεοδωράνος Θεόδωρος",
+    "phone": "+30 697 449 2942",
+    "website": "http://www/Facebook.com/aplakaiellinika"
+  }
+},
+{
+  "type": "node",
+  "id": 5642451774,
+  "lat": 37.9784597,
+  "lon": 23.7226487,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Venti",
+    "phone": "+302103254504"
+  }
+},
+{
+  "type": "node",
+  "id": 5642451776,
+  "lat": 37.9783971,
+  "lon": 23.7224080,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2025-10-16",
+    "name": "Death Disco"
+  }
+},
+{
+  "type": "node",
+  "id": 5642502818,
+  "lat": 37.9790033,
+  "lon": 23.7107425,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Bokan",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5642537866,
+  "lat": 37.9800425,
+  "lon": 23.7130783,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2024-09-06",
+    "name": "Tokyo",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 5642537867,
+  "lat": 37.9801275,
+  "lon": 23.7141224,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Lohan",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5642537870,
+  "lat": 37.9792217,
+  "lon": 23.7134367,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Blast",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5642537871,
+  "lat": 37.9777242,
+  "lon": 23.7099656,
+  "tags": {
+    "addr:housenumber": "24",
+    "addr:street": "Δεκελέων",
+    "amenity": "nightclub",
+    "check_date": "2025-12-17",
+    "name": "Studio 24",
+    "note": "Προσωρινά κλειστό",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5672998521,
+  "lat": 41.1022576,
+  "lon": 23.6194162,
+  "tags": {
+    "amenity": "nightclub",
+    "email": "mylos97@gmail.com",
+    "name": "Κτήμα μύλος",
+    "opening_hours": "Mo-Su 19:00-22:30",
+    "phone": "+30 2321 091156"
+  }
+},
+{
+  "type": "node",
+  "id": 5852060085,
+  "lat": 37.4474168,
+  "lon": 25.3297931,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "@54"
+  }
+},
+{
+  "type": "node",
+  "id": 5856976686,
+  "lat": 37.4138913,
+  "lon": 25.3677853,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2026-09-22",
+    "name": "JackieO'",
+    "name:en": "JackieO'",
+    "website": "https://www.jackieomykonos.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 5857620287,
+  "lat": 35.3412326,
+  "lon": 25.1228881,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Island of Desire"
+  }
+},
+{
+  "type": "node",
+  "id": 5928675737,
+  "lat": 36.4188909,
+  "lon": 25.4316865,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Enigma Club"
+  }
+},
+{
+  "type": "node",
+  "id": 5934437741,
+  "lat": 39.5895897,
+  "lon": 22.4460705,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Popeye",
+    "seasonal": "summer"
+  }
+},
+{
+  "type": "node",
+  "id": 5964910332,
+  "lat": 36.4189659,
+  "lon": 25.4313682,
+  "tags": {
+    "amenity": "nightclub",
+    "contact:facebook": "KooOfficialPage",
+    "name": "Koo Club"
+  }
+},
+{
+  "type": "node",
+  "id": 5964910337,
+  "lat": 36.4190008,
+  "lon": 25.4315913,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Koo Club",
+    "website": "https://m.facebook.com/KooOfficialPage"
+  }
+},
+{
+  "type": "node",
+  "id": 5975338208,
+  "lat": 36.4191986,
+  "lon": 25.4321029,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Mamounia",
+    "website": "https://m.facebook.com/mamouniaclub.santorini"
+  }
+},
+{
+  "type": "node",
+  "id": 5980747781,
+  "lat": 37.9792092,
+  "lon": 23.7152325,
+  "tags": {
+    "addr:city": "Αθήνα",
+    "addr:housenumber": "13",
+    "addr:street": "Ιερά Οδός",
+    "amenity": "nightclub",
+    "name": "Acro"
+  }
+},
+{
+  "type": "node",
+  "id": 5994307441,
+  "lat": 37.9524799,
+  "lon": 23.6952640,
+  "tags": {
+    "addr:city": "Καλλιθέα",
+    "addr:housenumber": "2Α",
+    "addr:postcode": "17675",
+    "addr:street": "Μπουμπουλίνας",
+    "amenity": "nightclub",
+    "name": "Kouros club"
+  }
+},
+{
+  "type": "node",
+  "id": 6032526186,
+  "lat": 37.9655980,
+  "lon": 23.7484117,
+  "tags": {
+    "addr:housenumber": "78",
+    "addr:street": "Δαμάρεως",
+    "amenity": "nightclub",
+    "name": "Alabasyron (jazz, latino...)"
+  }
+},
+{
+  "type": "node",
+  "id": 6093165802,
+  "lat": 37.9744822,
+  "lon": 23.6561058,
+  "tags": {
+    "addr:housenumber": "26A",
+    "addr:street": "Ποσειδώνος",
+    "amenity": "nightclub",
+    "name": "Tunnel Club"
+  }
+},
+{
+  "type": "node",
+  "id": 6294634465,
+  "lat": 37.9908037,
+  "lon": 23.7360381,
+  "tags": {
+    "addr:city": "Αθήνα",
+    "addr:housenumber": "34",
+    "addr:street": "Αλεξάνδρας",
+    "amenity": "nightclub",
+    "check_date": "2025-01-17",
+    "check_date:opening_hours": "2025-01-17",
+    "email": "nkaberos@gmail.com",
+    "facebook": "https://el-gr.facebook.com/capone.club.sociale.athens/",
+    "name": "Capone",
+    "opening_hours:signed": "no",
+    "website": "https://clubcapone.gr/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6302434583,
+  "lat": 38.0197290,
+  "lon": 23.7364581,
+  "tags": {
+    "addr:housenumber": "5",
+    "addr:street": "Λασκαράτου",
+    "amenity": "nightclub",
+    "check_date": "2025-12-10",
+    "check_date:opening_hours": "2025-12-10",
+    "name": "Art club",
+    "opening_hours:signed": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6434632387,
+  "lat": 37.9385260,
+  "lon": 23.6415414,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2023-03-03",
+    "name": "Europa club"
+  }
+},
+{
+  "type": "node",
+  "id": 6443652074,
+  "lat": 39.6744525,
+  "lon": 20.8506390,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "LT"
+  }
+},
+{
+  "type": "node",
+  "id": 6525042853,
+  "lat": 35.2087501,
+  "lon": 26.1065056,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Boutique"
+  }
+},
+{
+  "type": "node",
+  "id": 6615861585,
+  "lat": 39.6856635,
+  "lon": 19.8425681,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2024-06-16",
+    "name": "Edem Beach Club"
+  }
+},
+{
+  "type": "node",
+  "id": 6615861685,
+  "lat": 39.7019947,
+  "lon": 19.8406210,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2024-09-04",
+    "name": "Monte Cristo"
+  }
+},
+{
+  "type": "node",
+  "id": 6656178485,
+  "lat": 39.6270793,
+  "lon": 19.9153852,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Onyx"
+  }
+},
+{
+  "type": "node",
+  "id": 6656188893,
+  "lat": 37.4103020,
+  "lon": 25.3554507,
+  "tags": {
+    "amenity": "nightclub",
+    "internet_access": "wlan",
+    "name": "Paradise Beach Club Mykonos",
+    "name:en": "Paradise Club Mikonos"
+  }
+},
+{
+  "type": "node",
+  "id": 6734849855,
+  "lat": 37.9781305,
+  "lon": 23.7094249,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Shamone"
+  }
+},
+{
+  "type": "node",
+  "id": 6734945331,
+  "lat": 37.9773688,
+  "lon": 23.7122722,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Nuba"
+  }
+},
+{
+  "type": "node",
+  "id": 6734951999,
+  "lat": 37.9776853,
+  "lon": 23.7116366,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Size"
+  }
+},
+{
+  "type": "node",
+  "id": 6743228425,
+  "lat": 37.9795476,
+  "lon": 23.7129311,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Appartment"
+  }
+},
+{
+  "type": "node",
+  "id": 6788416191,
+  "lat": 35.3191201,
+  "lon": 25.3913566,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Enigma"
+  }
+},
+{
+  "type": "node",
+  "id": 6946703129,
+  "lat": 37.9625284,
+  "lon": 23.7235077,
+  "tags": {
+    "addr:city": "Αθήνα",
+    "addr:housenumber": "32",
+    "addr:street": "Ζαν Μωρέας",
+    "amenity": "nightclub",
+    "facebook": "https://www.facebook.com/Kouklesclubathens",
+    "name": "Κούκλες",
+    "opening_hours": "Sa-Su 01:00+",
+    "phone": "+30 694 755 7443"
+  }
+},
+{
+  "type": "node",
+  "id": 7086042601,
+  "lat": 40.6281207,
+  "lon": 22.9473061,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2025-11-13",
+    "name": "The Residents"
+  }
+},
+{
+  "type": "node",
+  "id": 7091803264,
+  "lat": 40.6372450,
+  "lon": 22.9392537,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Diamond Club"
+  }
+},
+{
+  "type": "node",
+  "id": 7178720831,
+  "lat": 37.9776060,
+  "lon": 23.7356469,
+  "tags": {
+    "addr:city": "Αθήνα",
+    "addr:country": "GR",
+    "addr:housenumber": "10",
+    "addr:postcode": "10564",
+    "addr:street": "Πανεπιστημίου",
+    "amenity": "nightclub",
+    "email": "toyroomathens@semeligroup.com",
+    "facebook": "https://el-gr.facebook.com/toyroomathens/",
+    "name": "Toy Room",
+    "website": "https://toyroomathens.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 7205883265,
+  "lat": 37.9777151,
+  "lon": 23.7564218,
+  "tags": {
+    "addr:city": "Αθήνα",
+    "addr:country": "GR",
+    "addr:housenumber": "23",
+    "addr:postcode": "11528",
+    "addr:street": "Ποταμιάνου Ηλ.",
+    "amenity": "nightclub",
+    "name": "Red Sea Reggae House"
+  }
+},
+{
+  "type": "node",
+  "id": 7233525239,
+  "lat": 37.9516894,
+  "lon": 23.6384987,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Market Night Club"
+  }
+},
+{
+  "type": "node",
+  "id": 7451228139,
+  "lat": 38.0940407,
+  "lon": 23.7757176,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Κτήμα Ιγγλέση | The Courtyard",
+    "opening_hours": "Mo-Su 10:00-22:00",
+    "phone": "+302106254308",
+    "website": "https://www.tatoiou392.gr"
+  }
+},
+{
+  "type": "node",
+  "id": 7503128573,
+  "lat": 37.6332756,
+  "lon": 22.7280134,
+  "tags": {
+    "addr:postcode": "21232",
+    "amenity": "nightclub",
+    "level": "-1",
+    "name": "Gazi Club"
+  }
+},
+{
+  "type": "node",
+  "id": 7553394438,
+  "lat": 37.8936158,
+  "lon": 23.8817883,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Γοργόνες Και Μάγκες Plus"
+  }
+},
+{
+  "type": "node",
+  "id": 7694894109,
+  "lat": 37.9766796,
+  "lon": 23.7097929,
+  "tags": {
+    "addr:housenumber": "40",
+    "addr:street": "Δεκελέων",
+    "amenity": "nightclub",
+    "contact:facebook": "https://www.facebook.com/Rainbow.Metal.Club.Athens/",
+    "name": "Rainbow Metal Club"
+  }
+},
+{
+  "type": "node",
+  "id": 7845182386,
+  "lat": 37.9777957,
+  "lon": 23.7121527,
+  "tags": {
+    "amenity": "nightclub",
+    "level": "5",
+    "name": "Gazziview"
+  }
+},
+{
+  "type": "node",
+  "id": 8221770475,
+  "lat": 38.2475685,
+  "lon": 21.7331702,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Eiffel Nightclub"
+  }
+},
+{
+  "type": "node",
+  "id": 8221770484,
+  "lat": 38.2468931,
+  "lon": 21.7345303,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Magenta"
+  }
+},
+{
+  "type": "node",
+  "id": 8593461580,
+  "lat": 39.9013292,
+  "lon": 22.1808171,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Blaze night club"
+  }
+},
+{
+  "type": "node",
+  "id": 8805338825,
+  "lat": 38.2442329,
+  "lon": 21.7357212,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "MONO"
+  }
+},
+{
+  "type": "node",
+  "id": 8805392033,
+  "lat": 38.2469777,
+  "lon": 21.7343553,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Α' Ψυχιατρική Κλινική"
+  }
+},
+{
+  "type": "node",
+  "id": 8805458090,
+  "lat": 38.2503357,
+  "lon": 21.7370603,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Arxaion"
+  }
+},
+{
+  "type": "node",
+  "id": 8806545132,
+  "lat": 38.2419539,
+  "lon": 21.7345882,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "ΓΙΑΦΚΑ"
+  }
+},
+{
+  "type": "node",
+  "id": 8806580017,
+  "lat": 38.2445919,
+  "lon": 21.7352372,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Νότος"
+  }
+},
+{
+  "type": "node",
+  "id": 8806587227,
+  "lat": 38.2431336,
+  "lon": 21.7328575,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "K105K Club Oriental",
+    "smoking": "dedicated"
+  }
+},
+{
+  "type": "node",
+  "id": 8808573659,
+  "lat": 38.2400784,
+  "lon": 21.7269175,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Ghetto"
+  }
+},
+{
+  "type": "node",
+  "id": 8996545531,
+  "lat": 37.5127184,
+  "lon": 22.3746484,
+  "tags": {
+    "addr:housenumber": "47",
+    "amenity": "nightclub",
+    "name": "Ρολόι"
+  }
+},
+{
+  "type": "node",
+  "id": 9006976821,
+  "lat": 36.5503341,
+  "lon": 26.3571847,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Karabo"
+  }
+},
+{
+  "type": "node",
+  "id": 9161942724,
+  "lat": 37.9867824,
+  "lon": 23.7324634,
+  "tags": {
+    "addr:city": "Αθήνα",
+    "addr:housenumber": "30",
+    "addr:postcode": "10682",
+    "addr:street": "Σολωμού",
+    "amenity": "nightclub",
+    "contact:facebook": "https://www.facebook.com/Itathens/",
+    "contact:instagram": "https://www.instagram.com/itathensexarcheia/",
+    "name": "IT Athens"
+  }
+},
+{
+  "type": "node",
+  "id": 9674317818,
+  "lat": 39.7043904,
+  "lon": 19.8422492,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2024-09-10",
+    "name": "Vidi Vici"
+  }
+},
+{
+  "type": "node",
+  "id": 10064123591,
+  "lat": 39.6634624,
+  "lon": 20.8512395,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2025-11-29",
+    "name": "Τάιγκα"
+  }
+},
+{
+  "type": "node",
+  "id": 10075856790,
+  "lat": 38.0142234,
+  "lon": 23.7192861,
+  "tags": {
+    "addr:city": "Αθήνα",
+    "addr:street": "Λιοσίων",
+    "amenity": "nightclub",
+    "check_date": "2025-10-01",
+    "email": "grigoristouf1980@gmail.com",
+    "name": "Athens Stage",
+    "phone": "+302108313006"
+  }
+},
+{
+  "type": "node",
+  "id": 10102235468,
+  "lat": 41.2598123,
+  "lon": 22.8384226,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Dimitra"
+  }
+},
+{
+  "type": "node",
+  "id": 10220240947,
+  "lat": 40.6429704,
+  "lon": 22.9147185,
+  "tags": {
+    "addr:city": "Θεσσαλονίκη",
+    "addr:housenumber": "5",
+    "addr:postcode": "54627",
+    "addr:street": "Φρίξου",
+    "amenity": "nightclub",
+    "name": "Ape nightclub"
+  }
+},
+{
+  "type": "node",
+  "id": 10721095325,
+  "lat": 37.9405055,
+  "lon": 23.6423921,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2026-02-10",
+    "name": "Bellagio"
+  }
+},
+{
+  "type": "node",
+  "id": 10763322470,
+  "lat": 37.9801193,
+  "lon": 23.7112636,
+  "tags": {
+    "addr:city": "Αθήνα",
+    "addr:housenumber": "141",
+    "addr:street": "Μεγάλου Αλεξάνδρου",
+    "amenity": "nightclub",
+    "contact:mobile": "+30 694 277 0709",
+    "email": "platformathens@gmail.com",
+    "facebook": "https://www.facebook.com/people/The-Platform-Athens/100086728431838/",
+    "name": "The Platform Athens"
+  }
+},
+{
+  "type": "node",
+  "id": 10798759764,
+  "lat": 37.9758297,
+  "lon": 23.7523582,
+  "tags": {
+    "addr:city": "Αθήνα",
+    "addr:housenumber": "29",
+    "addr:street": "Μιχαλακοπούλου",
+    "amenity": "nightclub",
+    "contact:mobile": "+30 694 052 7605",
+    "email": "kavosclubathens@gmail.com",
+    "facebook": "https://www.facebook.com/kabosbar/?locale=el_GR",
+    "name": "Kabos club Athens"
+  }
+},
+{
+  "type": "node",
+  "id": 10823609964,
+  "lat": 36.4324860,
+  "lon": 28.2022997,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Astra Live"
+  }
+},
+{
+  "type": "node",
+  "id": 10935068604,
+  "lat": 35.0042128,
+  "lon": 25.8139923,
+  "tags": {
+    "amenity": "nightclub",
+    "level": "-1",
+    "name": "Nite Club"
+  }
+},
+{
+  "type": "node",
+  "id": 11004106615,
+  "lat": 37.3499722,
+  "lon": 23.4648699,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Red Club",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11042034264,
+  "lat": 38.0037605,
+  "lon": 23.6870907,
+  "tags": {
+    "addr:housenumber": "42",
+    "addr:street": "Θηβών",
+    "amenity": "nightclub",
+    "contact:facebook": "https://www.facebook.com/darksunclubathens",
+    "contact:phone": "+306977092853",
+    "name": "Dark Sun"
+  }
+},
+{
+  "type": "node",
+  "id": 11048969674,
+  "lat": 35.2882754,
+  "lon": 25.4618092,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Apollo Club"
+  }
+},
+{
+  "type": "node",
+  "id": 11048969675,
+  "lat": 35.2885967,
+  "lon": 25.4616857,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Candy Club"
+  }
+},
+{
+  "type": "node",
+  "id": 11048969677,
+  "lat": 35.2879470,
+  "lon": 25.4616229,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Lux Club"
+  }
+},
+{
+  "type": "node",
+  "id": 11112106747,
+  "lat": 40.0615985,
+  "lon": 23.4558632,
+  "tags": {
+    "addr:city": "Σωλήνα",
+    "addr:postcode": "63077",
+    "amenity": "nightclub",
+    "check_date": "2026-07-16",
+    "name": "Eden Of Shaka",
+    "opening_hours": "Mo-Su 23:00-04:00",
+    "phone": "+30 23740 23567"
+  }
+},
+{
+  "type": "node",
+  "id": 11123356305,
+  "lat": 35.4172930,
+  "lon": 26.9284833,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "ΕΝ ΠΛΩ",
+    "phone": "+30 22450 41849"
+  }
+},
+{
+  "type": "node",
+  "id": 11210861737,
+  "lat": 40.6422298,
+  "lon": 22.9339385,
+  "tags": {
+    "addr:city": "Θεσσαλονίκη",
+    "addr:housenumber": "6",
+    "addr:postcode": "54629",
+    "addr:street": "Αφροδίτης",
+    "amenity": "nightclub",
+    "lgbtq": "primary",
+    "name": "ID Club",
+    "name:en": "ID Club"
+  }
+},
+{
+  "type": "node",
+  "id": 11285962630,
+  "lat": 39.8989637,
+  "lon": 25.0717490,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2023-10-24",
+    "name": "Kinky night club"
+  }
+},
+{
+  "type": "node",
+  "id": 11465361667,
+  "lat": 40.6354785,
+  "lon": 22.9365938,
+  "tags": {
+    "addr:place": "Πλατεία Μοριχόβου",
+    "amenity": "nightclub",
+    "check_date": "2026-07-25",
+    "name": "Nhaos"
+  }
+},
+{
+  "type": "node",
+  "id": 11506584287,
+  "lat": 40.6429682,
+  "lon": 22.9107703,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Barbarella Live",
+    "name:el": "Barbarella Live",
+    "name:en": "Barbarella Live"
+  }
+},
+{
+  "type": "node",
+  "id": 11527647163,
+  "lat": 40.6411872,
+  "lon": 22.9160296,
+  "tags": {
+    "addr:city": "Θεσσαλονίκη",
+    "addr:postcode": "54627",
+    "addr:street": "26ης Οκτωβρίου",
+    "amenity": "nightclub",
+    "name": "Fix Factory Of sound",
+    "name:el": "Fix Factory Of sound",
+    "name:en": "Fix Factory Of sound"
+  }
+},
+{
+  "type": "node",
+  "id": 11734510573,
+  "lat": 40.6366804,
+  "lon": 22.9372107,
+  "tags": {
+    "addr:city": "Θεσσαλονίκη",
+    "addr:housenumber": "13",
+    "addr:street": "Ερνέστου Εμπράρ",
+    "amenity": "nightclub",
+    "facebook": "https://www.facebook.com/clubsixtysixcrew?locale=el_GR",
+    "name": "Sixty Six Crew"
+  }
+},
+{
+  "type": "node",
+  "id": 11840741454,
+  "lat": 37.9836460,
+  "lon": 23.7332032,
+  "tags": {
+    "addr:city": "Αθήνα",
+    "addr:housenumber": "13",
+    "addr:street": "Κιάφας",
+    "amenity": "nightclub",
+    "email": "sfigamusic@gmail.com",
+    "facebook": "https://www.facebook.com/sfigamusictheatre/",
+    "mobile": "+30 698 784 4845",
+    "name": "Σφίγγα"
+  }
+},
+{
+  "type": "node",
+  "id": 11945917473,
+  "lat": 35.4801909,
+  "lon": 23.9420983,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Barrelledakio"
+  }
+},
+{
+  "type": "node",
+  "id": 12036442678,
+  "lat": 37.8864142,
+  "lon": 23.7270201,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2025-11-05",
+    "name": "Ciroc"
+  }
+},
+{
+  "type": "node",
+  "id": 12138800724,
+  "lat": 37.9810047,
+  "lon": 23.7122694,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Bequeer"
+  }
+},
+{
+  "type": "node",
+  "id": 12155017442,
+  "lat": 35.2882505,
+  "lon": 25.4616611,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Zig Zag"
+  }
+},
+{
+  "type": "node",
+  "id": 12169873967,
+  "lat": 36.0621416,
+  "lon": 27.9870963,
+  "tags": {
+    "access": "customers",
+    "air_conditioning": "yes",
+    "amenity": "nightclub",
+    "indoor_seating": "yes",
+    "name": "Bo Nightclub",
+    "operator": "Mayia Resort"
+  }
+},
+{
+  "type": "node",
+  "id": 12179834899,
+  "lat": 40.6352225,
+  "lon": 22.9354592,
+  "tags": {
+    "addr:city": "Θεσσαλονίκη",
+    "addr:housenumber": "3",
+    "addr:postcode": "54625",
+    "addr:street": "Ναυάρχου Κουντουριώτου",
+    "amenity": "nightclub",
+    "name": "Bagallan Club"
+  }
+},
+{
+  "type": "node",
+  "id": 12231751415,
+  "lat": 36.2535466,
+  "lon": 28.1647587,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date:opening_hours": "2024-10-07",
+    "name": "Statues Club Cocktail & Shisha Bar",
+    "opening_hours:signed": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 12288324271,
+  "lat": 37.8804741,
+  "lon": 23.7307183,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2024-10-25",
+    "name": "Romeo"
+  }
+},
+{
+  "type": "node",
+  "id": 12294000037,
+  "lat": 35.2851674,
+  "lon": 25.4625625,
+  "tags": {
+    "addr:city": "Μάλια",
+    "addr:postcode": "70007",
+    "addr:street": "Δημοκρατίας",
+    "amenity": "nightclub",
+    "name": "Flares"
+  }
+},
+{
+  "type": "node",
+  "id": 12387928719,
+  "lat": 37.9984700,
+  "lon": 23.7314595,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Comple pub"
+  }
+},
+{
+  "type": "node",
+  "id": 12387973924,
+  "lat": 37.9983146,
+  "lon": 23.7314207,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Club"
+  }
+},
+{
+  "type": "node",
+  "id": 12408451116,
+  "lat": 37.9658566,
+  "lon": 23.7328324,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "COZMO"
+  }
+},
+{
+  "type": "node",
+  "id": 12465351800,
+  "lat": 40.3017158,
+  "lon": 21.7860377,
+  "tags": {
+    "addr:city": "Κοζάνη",
+    "addr:housenumber": "6",
+    "addr:street": "Ειρήνης",
+    "amenity": "nightclub",
+    "contact:facebook": "https://www.facebook.com/dadanightclub/",
+    "name": "D.a.d.a. nightclub",
+    "phone": "+30 2461 027177",
+    "website": "https://dadaclub.gr/"
+  }
+},
+{
+  "type": "node",
+  "id": 12567678380,
+  "lat": 37.9411855,
+  "lon": 23.6432468,
+  "tags": {
+    "addr:housenumber": "9",
+    "addr:street": "Δευτέρας Μεραρχίας",
+    "amenity": "nightclub",
+    "check_date": "2025-02-08",
+    "name": "Azael"
+  }
+},
+{
+  "type": "node",
+  "id": 12628476501,
+  "lat": 40.6476523,
+  "lon": 22.9069721,
+  "tags": {
+    "addr:housenumber": "104",
+    "addr:street": "26ης Οκτωβρίου",
+    "amenity": "nightclub",
+    "contact:instagram": "soulskg",
+    "name": "Soul"
+  }
+},
+{
+  "type": "node",
+  "id": 12643822101,
+  "lat": 40.6436786,
+  "lon": 22.9092494,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Block 33"
+  }
+},
+{
+  "type": "node",
+  "id": 12734624620,
+  "lat": 38.9030226,
+  "lon": 22.4321202,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Vitrine"
+  }
+},
+{
+  "type": "node",
+  "id": 12794051524,
+  "lat": 38.0163151,
+  "lon": 23.7304027,
+  "tags": {
+    "addr:city": "Αθήνα",
+    "addr:housenumber": "46",
+    "addr:street": "Καυτατζόγλου",
+    "amenity": "nightclub",
+    "check_date": "2026-10-02",
+    "email": "cabanalivestage@gmail.com",
+    "facebook": "https://www.facebook.com/CabanaLiveStageOfficial/?locale=el_GR",
+    "name": "Cabana",
+    "phone": "+30 21 0201 3311"
+  }
+},
+{
+  "type": "node",
+  "id": 12898819273,
+  "lat": 37.9758752,
+  "lon": 23.7518243,
+  "tags": {
+    "addr:city": "Αθήνα",
+    "addr:housenumber": "9",
+    "addr:street": "Χατζηγιάννη Μέξη",
+    "amenity": "nightclub",
+    "email": "athensdiscojackyo@gmail.com",
+    "facebook": "https://www.facebook.com/p/JackyO-Athens-Disco-61556656145156/",
+    "name": "Jacky.O.",
+    "phone": "+30 21 1218 1996"
+  }
+},
+{
+  "type": "node",
+  "id": 12964918320,
+  "lat": 37.9767361,
+  "lon": 23.6760844,
+  "tags": {
+    "addr:city": "Αιγάλεω",
+    "addr:housenumber": "62",
+    "addr:postcode": "12241",
+    "addr:street": "Πέτρου Ράλλη",
+    "amenity": "nightclub",
+    "instagram": "https://www.instagram.com/cancan_musichall/",
+    "name": "Can can"
+  }
+},
+{
+  "type": "node",
+  "id": 13197999432,
+  "lat": 38.0302557,
+  "lon": 23.7351269,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "D Side"
+  }
+},
+{
+  "type": "node",
+  "id": 13204828873,
+  "lat": 37.9516316,
+  "lon": 23.6949932,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Rumours",
+    "outdoor_seating": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13271137415,
+  "lat": 40.6377260,
+  "lon": 22.9397742,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "90 Music Point"
+  }
+},
+{
+  "type": "node",
+  "id": 13309516344,
+  "lat": 39.6270429,
+  "lon": 19.9155155,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Cabal"
+  }
+},
+{
+  "type": "node",
+  "id": 13770402741,
+  "lat": 37.9621709,
+  "lon": 23.7239702,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Ariana"
+  }
+},
+{
+  "type": "node",
+  "id": 13776685825,
+  "lat": 40.3015889,
+  "lon": 21.7852530,
+  "tags": {
+    "addr:city": "Κοζάνη",
+    "addr:housenumber": "7",
+    "addr:postcode": "50100",
+    "addr:street": "Βασιλείου Φόρη",
+    "amenity": "nightclub",
+    "contact:facebook": "cenariokozani",
+    "contact:instagram": "cenario_kozani",
+    "name": "Cenário"
+  }
+},
+{
+  "type": "node",
+  "id": 13830731607,
+  "lat": 38.0107411,
+  "lon": 23.7055769,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Opa Opa"
+  }
+},
+{
+  "type": "node",
+  "id": 14129035418,
+  "lat": 41.1422815,
+  "lon": 24.2706934,
+  "tags": {
+    "addr:city": "Αδριανή",
+    "addr:postcode": "66037",
+    "addr:street": "7ο χλμ Δράμας - Αδριανής",
+    "amenity": "nightclub",
+    "email": "rockhall.gr@gmail.com",
+    "name": "Rock Hall, Αίθουσα Εκδηλώσεων",
+    "phone": "+30 699 520 3000",
+    "website": "https://www.rockhall.gr/"
+  }
+},
+{
+  "type": "node",
+  "id": 14178442901,
+  "lat": 40.6286408,
+  "lon": 22.9471573,
+  "tags": {
+    "addr:housenumber": "5",
+    "addr:street": "Λώρη Μαργαρίτη",
+    "amenity": "nightclub",
+    "check_date": "2026-09-13",
+    "name": "Μπλέντερ",
+    "name:en": "Blender Bar"
+  }
+},
+{
+  "type": "node",
+  "id": 14257541408,
+  "lat": 35.3175165,
+  "lon": 25.3912530,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Club Sensation"
+  }
+},
+{
+  "type": "node",
+  "id": 14257543521,
+  "lat": 35.3175037,
+  "lon": 25.3914500,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Club IVI"
+  }
+},
+{
+  "type": "way",
+  "id": 22051399,
+  "center": {
+    "lat": 40.5269952,
+    "lon": 22.9905095
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Πολιτεία Live Clubbing"
+  }
+},
+{
+  "type": "way",
+  "id": 22731884,
+  "center": {
+    "lat": 40.5271633,
+    "lon": 22.9924396
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "landuse": "retail",
+    "name": "Mamounia live"
+  }
+},
+{
+  "type": "way",
+  "id": 22731885,
+  "center": {
+    "lat": 40.5271633,
+    "lon": 22.9933475
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "name": "ΟΡΑΜΑ LIVE"
+  }
+},
+{
+  "type": "way",
+  "id": 142062927,
+  "center": {
+    "lat": 39.6427806,
+    "lon": 22.4183184
+  },
+  "tags": {
+    "addr:city": "Λάρισα",
+    "addr:housenumber": "53",
+    "addr:postcode": "41221",
+    "addr:street": "Γεωργιάδου",
+    "amenity": "nightclub",
+    "building": "yes",
+    "contact:facebook": "https://www.facebook.com/pages/%CE%9C%CE%A5%CE%9B%CE%9F%CE%A3-1927-Mylos-1927/210760702332713",
+    "contact:phone": "+30 2410 254888",
+    "int_name": "Mylos 1927",
+    "name": "Μύλος 1927",
+    "name:el": "Μυλος 1927",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 158832470,
+  "center": {
+    "lat": 40.7821515,
+    "lon": 21.4044953
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Αέροινο"
+  }
+},
+{
+  "type": "way",
+  "id": 163371983,
+  "center": {
+    "lat": 40.5271599,
+    "lon": 22.9942572
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "name": "LIDO Paradise club"
+  }
+},
+{
+  "type": "way",
+  "id": 184290470,
+  "center": {
+    "lat": 36.2081326,
+    "lon": 28.1396217
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "check_date:opening_hours": "2025-08-30",
+    "name": "Karnagio Club",
+    "opening_hours:signed": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 219302376,
+  "center": {
+    "lat": 37.9776794,
+    "lon": 23.7206977
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Mezzo"
+  }
+},
+{
+  "type": "way",
+  "id": 219472248,
+  "center": {
+    "lat": 37.9778844,
+    "lon": 23.7161909
+  },
+  "tags": {
+    "addr:city": "Αθήνα",
+    "addr:country": "GR",
+    "addr:housenumber": "152",
+    "addr:postcode": "10553",
+    "addr:street": "Ερμού",
+    "amenity": "nightclub",
+    "building": "commercial",
+    "name": "Hotel Ερμού",
+    "seasonal": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 226004221,
+  "center": {
+    "lat": 36.3447091,
+    "lon": 28.2019157
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Bed Club"
+  }
+},
+{
+  "type": "way",
+  "id": 243066456,
+  "center": {
+    "lat": 38.6878373,
+    "lon": 21.3568264
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Κτήμα Μαρή"
+  }
+},
+{
+  "type": "way",
+  "id": 247056774,
+  "center": {
+    "lat": 37.9117646,
+    "lon": 23.7108108
+  },
+  "tags": {
+    "addr:city": "Άλιμος",
+    "addr:country": "GR",
+    "addr:housenumber": "35",
+    "addr:postcode": "17455",
+    "addr:street": "Λεωφόρος Ποσειδώνος",
+    "amenity": "nightclub",
+    "building": "yes",
+    "check_date": "2024-05-22",
+    "name": "VOG Vlub"
+  }
+},
+{
+  "type": "way",
+  "id": 258167642,
+  "center": {
+    "lat": 37.9739434,
+    "lon": 23.7077902
+  },
+  "tags": {
+    "addr:city": "Αθήνα",
+    "addr:country": "GR",
+    "addr:housenumber": "142",
+    "addr:postcode": "11854",
+    "addr:street": "Πειραιώς",
+    "amenity": "nightclub",
+    "building": "yes",
+    "contact:phone": "+30 21 03454108; +30 21 03454888",
+    "name": "ΚΕΝΤΡΟ ΑΘΗΝΩΝ",
+    "name:el": "ΚΕΝΤΡΟ ΑΘΗΝΩΝ",
+    "name:en": "ATHENS CENTER",
+    "opening_hours": "22:00-05:00",
+    "operator": "Γιάννης Τσακουμάκος",
+    "smoking": "separated"
+  }
+},
+{
+  "type": "way",
+  "id": 263048318,
+  "center": {
+    "lat": 41.2562267,
+    "lon": 23.0239384
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Event Club"
+  }
+},
+{
+  "type": "way",
+  "id": 274506222,
+  "center": {
+    "lat": 37.4101277,
+    "lon": 24.9511386
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "building:levels": "2",
+    "name": "Νεράιδα"
+  }
+},
+{
+  "type": "way",
+  "id": 288827455,
+  "center": {
+    "lat": 37.7245791,
+    "lon": 20.8645363
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Sin City"
+  }
+},
+{
+  "type": "way",
+  "id": 289002414,
+  "center": {
+    "lat": 37.7232341,
+    "lon": 20.8644047
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Waikiki"
+  }
+},
+{
+  "type": "way",
+  "id": 289174641,
+  "center": {
+    "lat": 37.7254104,
+    "lon": 20.8643838
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Sizzle"
+  }
+},
+{
+  "type": "way",
+  "id": 289174655,
+  "center": {
+    "lat": 37.7275250,
+    "lon": 20.8639310
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Fishbowl"
+  }
+},
+{
+  "type": "way",
+  "id": 289174665,
+  "center": {
+    "lat": 37.7259051,
+    "lon": 20.8643987
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Zeros"
+  }
+},
+{
+  "type": "way",
+  "id": 308093490,
+  "center": {
+    "lat": 39.5908145,
+    "lon": 21.6842953
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Αθηνάς Παλλάς"
+  }
+},
+{
+  "type": "way",
+  "id": 311406100,
+  "center": {
+    "lat": 38.3477529,
+    "lon": 21.6209522
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "ICONS"
+  }
+},
+{
+  "type": "way",
+  "id": 317927723,
+  "center": {
+    "lat": 37.9740075,
+    "lon": 23.7036626
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2026-08-20",
+    "name": "Το τρένο στο ρούφ"
+  }
+},
+{
+  "type": "way",
+  "id": 320684370,
+  "center": {
+    "lat": 40.9367137,
+    "lon": 24.4044386
+  },
+  "tags": {
+    "addr:city": "Καβάλα",
+    "addr:housenumber": "53",
+    "addr:postcode": "65403",
+    "addr:street": "Ελευθερίου Βενιζέλου",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "IDOL",
+    "opening_hours": "Th-Sa 23:00-08:00",
+    "phone": "+306945175981"
+  }
+},
+{
+  "type": "way",
+  "id": 330668822,
+  "center": {
+    "lat": 37.9702224,
+    "lon": 23.7017848
+  },
+  "tags": {
+    "addr:city": "Ταύρος",
+    "addr:housenumber": "178",
+    "addr:street": "Πειραιώς",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Έναστρον"
+  }
+},
+{
+  "type": "way",
+  "id": 357198072,
+  "center": {
+    "lat": 36.1010702,
+    "lon": 28.0804524
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Amphitheatre Night Club"
+  }
+},
+{
+  "type": "way",
+  "id": 360645068,
+  "center": {
+    "lat": 37.9422802,
+    "lon": 23.6865129
+  },
+  "tags": {
+    "addr:city": "Καλλιθέα",
+    "addr:housenumber": "26",
+    "addr:street": "Ποσειδώνος",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Teatro Music Hall"
+  }
+},
+{
+  "type": "way",
+  "id": 362753994,
+  "center": {
+    "lat": 35.4055950,
+    "lon": 25.0181390
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "detached",
+    "building:levels": "1",
+    "name": "Paradise Club"
+  }
+},
+{
+  "type": "way",
+  "id": 368025707,
+  "center": {
+    "lat": 37.4082301,
+    "lon": 25.3602613
+  },
+  "tags": {
+    "addr:city": "Mykonos",
+    "addr:postcode": "846 00",
+    "addr:street": "Cavo Paradiso, Paradise Beach",
+    "amenity": "nightclub",
+    "building": "night_club",
+    "layer": "1",
+    "min_age": "18",
+    "name": "Cavo Paradiso Club Mykonos",
+    "opening_hours": "23:00-07:00",
+    "website": "https://www.cavoparadiso.gr/",
+    "wikidata": "Q123419106"
+  }
+},
+{
+  "type": "way",
+  "id": 371382776,
+  "center": {
+    "lat": 35.3058478,
+    "lon": 25.5148755
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Aquarium"
+  }
+},
+{
+  "type": "way",
+  "id": 396642463,
+  "center": {
+    "lat": 39.6395229,
+    "lon": 22.4091905
+  },
+  "tags": {
+    "addr:city": "Λάρισα",
+    "addr:housenumber": "8",
+    "addr:street": "Φιλίππου",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Stage",
+    "note": "Live Music"
+  }
+},
+{
+  "type": "way",
+  "id": 424730290,
+  "center": {
+    "lat": 39.0450685,
+    "lon": 26.6114422
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Kismet"
+  }
+},
+{
+  "type": "way",
+  "id": 425222965,
+  "center": {
+    "lat": 40.6155648,
+    "lon": 22.9520456
+  },
+  "tags": {
+    "addr:city": "Θεσσαλονίκη",
+    "addr:housenumber": "6",
+    "addr:postcode": "54642",
+    "addr:street": "Μεγάλου Αλεξάνδρου",
+    "amenity": "nightclub",
+    "building": "yes",
+    "building:levels": "1",
+    "name": "Maison Crystal"
+  }
+},
+{
+  "type": "way",
+  "id": 428852157,
+  "center": {
+    "lat": 36.8146969,
+    "lon": 27.1806423
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "internet_access": "wlan",
+    "name": "Disco & Bar",
+    "operator": "Mitsis"
+  }
+},
+{
+  "type": "way",
+  "id": 436094864,
+  "center": {
+    "lat": 36.7806706,
+    "lon": 27.1414968
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Sarai"
+  }
+},
+{
+  "type": "way",
+  "id": 436689018,
+  "center": {
+    "lat": 36.7854151,
+    "lon": 27.1404537
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Starlight"
+  }
+},
+{
+  "type": "way",
+  "id": 437267099,
+  "center": {
+    "lat": 36.7851624,
+    "lon": 27.1469110
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Qube"
+  }
+},
+{
+  "type": "way",
+  "id": 449490854,
+  "center": {
+    "lat": 37.9844496,
+    "lon": 23.7349957
+  },
+  "tags": {
+    "addr:city": "Αθήνα",
+    "addr:housenumber": "25",
+    "addr:street": "Ζωοδόχου Πηγής",
+    "amenity": "nightclub",
+    "building": "yes",
+    "check_date": "2026-04-19",
+    "facebook": "https://www.facebook.com/OffTheChainClub?locale=el_GR",
+    "name": "Off the chain",
+    "phone": "+30 21 3040 0369",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 450571066,
+  "center": {
+    "lat": 37.9603295,
+    "lon": 23.7200504
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Fever"
+  }
+},
+{
+  "type": "way",
+  "id": 456412366,
+  "center": {
+    "lat": 37.9790123,
+    "lon": 23.7130439
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Temple"
+  }
+},
+{
+  "type": "way",
+  "id": 456423074,
+  "center": {
+    "lat": 37.9792748,
+    "lon": 23.7110496
+  },
+  "tags": {
+    "addr:city": "Αθήνα",
+    "addr:housenumber": "8",
+    "addr:street": "Δαμοκλέους",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "2nd skin"
+  }
+},
+{
+  "type": "way",
+  "id": 456579727,
+  "center": {
+    "lat": 37.9777415,
+    "lon": 23.7117607
+  },
+  "tags": {
+    "addr:city": "Αθήνα",
+    "addr:housenumber": "33",
+    "addr:postcode": "11854",
+    "addr:street": "Τριπτολέμου",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Odyssey."
+  }
+},
+{
+  "type": "way",
+  "id": 491172988,
+  "center": {
+    "lat": 38.0096449,
+    "lon": 23.7359080
+  },
+  "tags": {
+    "addr:city": "Αθήνα",
+    "addr:housenumber": "183",
+    "addr:street": "Ιωάννου Δροσοπούλου",
+    "amenity": "nightclub",
+    "building": "yes",
+    "check_date": "2024-06-19",
+    "name": "Axum",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 502833652,
+  "center": {
+    "lat": 38.9771956,
+    "lon": 26.3548120
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Island"
+  }
+},
+{
+  "type": "way",
+  "id": 507949426,
+  "center": {
+    "lat": 38.9054823,
+    "lon": 21.0158975
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "name": "ΚΤΗΜΑ ΠΑΛΟΥΚΗ"
+  }
+},
+{
+  "type": "way",
+  "id": 530411825,
+  "center": {
+    "lat": 37.7087970,
+    "lon": 23.3587062
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Taboo Cocktail Club",
+    "website": "https://www.tabooclub-agistri.gr/en-index.html"
+  }
+},
+{
+  "type": "way",
+  "id": 549224206,
+  "center": {
+    "lat": 38.4627015,
+    "lon": 23.5889303
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Mostar Cafe",
+    "name:el": "Mostar Cafe"
+  }
+},
+{
+  "type": "way",
+  "id": 560584449,
+  "center": {
+    "lat": 40.0633278,
+    "lon": 23.4500102
+  },
+  "tags": {
+    "addr:postcode": "63077",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Markiz Night Club"
+  }
+},
+{
+  "type": "way",
+  "id": 560584450,
+  "center": {
+    "lat": 40.0637651,
+    "lon": 23.4521641
+  },
+  "tags": {
+    "addr:postcode": "63077",
+    "amenity": "nightclub",
+    "building": "yes",
+    "check_date": "2026-07-16",
+    "name": "Numa"
+  }
+},
+{
+  "type": "way",
+  "id": 582389085,
+  "center": {
+    "lat": 39.3643141,
+    "lon": 22.9311772
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Lab Art"
+  }
+},
+{
+  "type": "way",
+  "id": 608541163,
+  "center": {
+    "lat": 40.2834002,
+    "lon": 23.3878846
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Crazy Horse"
+  }
+},
+{
+  "type": "way",
+  "id": 642203578,
+  "center": {
+    "lat": 39.6379673,
+    "lon": 22.4123027
+  },
+  "tags": {
+    "addr:city": "Λάρισα",
+    "addr:housenumber": "6",
+    "addr:postcode": "41222",
+    "addr:street": "Φαρμακίδου",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Animal"
+  }
+},
+{
+  "type": "way",
+  "id": 646054315,
+  "center": {
+    "lat": 40.5117199,
+    "lon": 22.9857864
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Πρώην \"Κοσμοδρόμιο\""
+  }
+},
+{
+  "type": "way",
+  "id": 718844265,
+  "center": {
+    "lat": 40.2621149,
+    "lon": 22.5959223
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "OMILOS"
+  }
+},
+{
+  "type": "way",
+  "id": 720119368,
+  "center": {
+    "lat": 40.2755540,
+    "lon": 22.6010035
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Cocus"
+  }
+},
+{
+  "type": "way",
+  "id": 729336833,
+  "center": {
+    "lat": 38.0710983,
+    "lon": 22.6483385
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Idol Club"
+  }
+},
+{
+  "type": "way",
+  "id": 761007593,
+  "center": {
+    "lat": 38.0015990,
+    "lon": 23.6629097
+  },
+  "tags": {
+    "addr:city": "Χαϊδάρι",
+    "addr:housenumber": "3",
+    "addr:street": "Καραϊσκάκη",
+    "amenity": "nightclub",
+    "building": "yes",
+    "email": "npap.politics@gmail.com",
+    "facebook": "https://el-gr.facebook.com/iridalive.xaidari/",
+    "name": "Ίριδα live",
+    "phone": "+30 21 0581 2682",
+    "website": "https://www.iridahall.gr/"
+  }
+},
+{
+  "type": "way",
+  "id": 799106988,
+  "center": {
+    "lat": 37.0328430,
+    "lon": 22.4297664
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Κτήμα Νερόμυλος"
+  }
+},
+{
+  "type": "way",
+  "id": 970017518,
+  "center": {
+    "lat": 40.5391994,
+    "lon": 23.0162706
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "dance:style": "disco",
+    "name": "Bluesky"
+  }
+},
+{
+  "type": "way",
+  "id": 978883638,
+  "center": {
+    "lat": 40.5623976,
+    "lon": 23.0009346
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Caesars Club"
+  }
+},
+{
+  "type": "way",
+  "id": 982768376,
+  "center": {
+    "lat": 38.0301195,
+    "lon": 23.7355295
+  },
+  "tags": {
+    "addr:housenumber": "54",
+    "addr:street": "Δεκελείας",
+    "amenity": "nightclub",
+    "building": "retail",
+    "name": "Terra"
+  }
+},
+{
+  "type": "way",
+  "id": 1179208337,
+  "center": {
+    "lat": 39.6295828,
+    "lon": 19.8912429
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "area": "yes",
+    "building": "yes",
+    "building:part": "roof",
+    "name": "54 Dreamy Nights",
+    "ref": "54"
+  }
+},
+{
+  "type": "way",
+  "id": 1179759803,
+  "center": {
+    "lat": 39.6296799,
+    "lon": 19.8909055
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "building:part": "roof",
+    "name": "Elite"
+  }
+},
+{
+  "type": "way",
+  "id": 1182590576,
+  "center": {
+    "lat": 36.4978772,
+    "lon": 22.9824298
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Akrotiri summer club"
+  }
+},
+{
+  "type": "way",
+  "id": 1195558119,
+  "center": {
+    "lat": 37.0473162,
+    "lon": 25.0800945
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "check_date": "2025-09-21",
+    "name": "Disco La Luna"
+  }
+},
+{
+  "type": "way",
+  "id": 1197714080,
+  "center": {
+    "lat": 40.0624170,
+    "lon": 23.4547442
+  },
+  "tags": {
+    "addr:postcode": "63077",
+    "amenity": "nightclub",
+    "building": "yes",
+    "check_date": "2026-07-10",
+    "name": "Fiji Island"
+  }
+},
+{
+  "type": "way",
+  "id": 1197714083,
+  "center": {
+    "lat": 40.0656315,
+    "lon": 23.4513776
+  },
+  "tags": {
+    "addr:city": "Kallithea",
+    "addr:postcode": "63077",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Pearl Night Club"
+  }
+},
+{
+  "type": "way",
+  "id": 1237845615,
+  "center": {
+    "lat": 40.6623205,
+    "lon": 21.5573586
+  },
+  "tags": {
+    "addr:city": "Αετός",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "No Name Club",
+    "name:el": "No Name Club",
+    "name:en": "No Name Club"
+  }
+},
+{
+  "type": "way",
+  "id": 1463697621,
+  "center": {
+    "lat": 37.9758013,
+    "lon": 23.7127026
+  },
+  "tags": {
+    "addr:city": "Αθήνα",
+    "addr:housenumber": "61",
+    "addr:street": "Ηρακλειδών",
+    "amenity": "nightclub",
+    "building": "yes",
+    "contact:mobile": "+30 697 036 7684",
+    "email": "info@oddityclub.gr",
+    "facebook": "https://www.facebook.com/oddityathens/",
+    "name": "Oddity Club"
+  }
+},
+{
+  "type": "way",
+  "id": 1467532342,
+  "center": {
+    "lat": 38.0362733,
+    "lon": 23.5394662
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "residential",
+    "building:levels": "2",
+    "name": "College Club"
+  }
+},
+{
+  "type": "relation",
+  "id": 18959459,
+  "center": {
+    "lat": 40.6568686,
+    "lon": 22.9623544
+  },
+  "tags": {
+    "addr:city": "Θεσσαλονίκη",
+    "addr:postcode": "56532",
+    "addr:street": "Ανδρέα Παπανδρέου",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Scorpios",
+    "type": "multipolygon"
+  }
+}
+
+  ]
+}

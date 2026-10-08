@@ -1,0 +1,24 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-10-08T23:38:14Z",
+    "timestamp_areas_base": "2026-10-08T05:09:19Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 4457620290,
+  "lat": 42.5004905,
+  "lon": 1.5131063,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Buda Andorra",
+    "name:ca": "Buda Andorra"
+  }
+}
+
+  ]
+}

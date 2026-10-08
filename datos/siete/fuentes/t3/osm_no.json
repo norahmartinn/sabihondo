@@ -1,0 +1,720 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-10-08T23:13:21Z",
+    "timestamp_areas_base": "2026-10-07T10:19:21Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 255236290,
+  "lat": 60.8624741,
+  "lon": 8.5222671,
+  "tags": {
+    "amenity": "nightclub",
+    "contact:website": "https://www.stavkroa.com",
+    "name": "Stavkroa"
+  }
+},
+{
+  "type": "node",
+  "id": 263710835,
+  "lat": 59.9220628,
+  "lon": 10.7594146,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2025-05-10",
+    "name": "Rebell",
+    "opening_hours": "Tu 16:00-23:30; We 16:00-01:30, Th 15:00-02:00, Fr 15:00-03:00, Sa 14:00-03:00, Su 14:00-23:30",
+    "website": "https://www.facebook.com/80sRebell/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 278465184,
+  "lat": 62.4713670,
+  "lon": 6.1569850,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Bacchus",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 356306289,
+  "lat": 58.9736440,
+  "lon": 5.7294820,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Heidi’s Bier Bar",
+    "opening_hours": "We-Sa 22:00-03:00",
+    "smoking": "outside",
+    "website": "https://www.heidisbierbar.no/byer/stavanger/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 365286717,
+  "lat": 63.4318655,
+  "lon": 10.3930157,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Me nightclub",
+    "opening_hours": "Fr-Sa 22:00-02:00",
+    "website": "http://me-nightclub.com/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 441895724,
+  "lat": 69.6511170,
+  "lon": 18.9584020,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Heidis Bier Bar",
+    "opening_hours": "Mo-Th,Su 12:00-01:30; Fr-Sa 12:00-03:00",
+    "website": "https://www.heidisbierbar.no/byer/tromso/"
+  }
+},
+{
+  "type": "node",
+  "id": 441895725,
+  "lat": 69.6511300,
+  "lon": 18.9582810,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Lola",
+    "opening_hours": "Fr-Sa 22:00-03:00",
+    "website": "https://lolaclub.no/tromsoe/"
+  }
+},
+{
+  "type": "node",
+  "id": 496646797,
+  "lat": 58.9713898,
+  "lon": 5.7315445,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Hexagon",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 826827545,
+  "lat": 59.4143426,
+  "lon": 5.2676548,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Bytunet Nattklubb",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 956343630,
+  "lat": 63.4330880,
+  "lon": 10.3975860,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Circus",
+    "opening_hours": "Tu-Sa 20:00-02:30; Su 22:00-02:30",
+    "phone": "+47 93 46 11 00",
+    "website": "https://www.barcircus.no/",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 1103678192,
+  "lat": 61.2299654,
+  "lon": 7.0981570,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Soho"
+  }
+},
+{
+  "type": "node",
+  "id": 1404297649,
+  "lat": 60.3922040,
+  "lon": 5.3224690,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Feliz",
+    "opening_hours": "Fr-Sa 23:00-02:30",
+    "website": "https://www.feliz.no/"
+  }
+},
+{
+  "type": "node",
+  "id": 1404299330,
+  "lat": 60.3902060,
+  "lon": 5.3204520,
+  "tags": {
+    "amenity": "nightclub",
+    "email": "bergen@heidisbierbar.no",
+    "level": "0",
+    "min_age": "20",
+    "name": "Heidi's Bier Bar Bergen",
+    "opening_hours": "Mo-Sa 17:00-02:30; Su 20:00-02:30",
+    "website": "https://www.heidisbierbar.no/byer/bergen/"
+  }
+},
+{
+  "type": "node",
+  "id": 1988631732,
+  "lat": 59.9143690,
+  "lon": 10.7187470,
+  "tags": {
+    "amenity": "nightclub",
+    "email": "post@clubnox.no",
+    "facebook": "https://www.facebook.com/NoxOslo",
+    "min_age": "20",
+    "name": "Nox",
+    "opening_hours": "We-Sa 23:00-03:00",
+    "website": "https://clubnox.no"
+  }
+},
+{
+  "type": "node",
+  "id": 1988991449,
+  "lat": 59.9162410,
+  "lon": 10.7115280,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Hippo Social",
+    "website": "https://www.hipposocial.no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2045497212,
+  "lat": 59.9212475,
+  "lon": 10.7272045,
+  "tags": {
+    "alt_name": "Mabou Café & Bar",
+    "amenity": "nightclub",
+    "check_date": "2026-10-05",
+    "check_date:opening_hours": "2026-10-05",
+    "facebook": "http://www.facebook.com/pages/Mabou-Cafe-Mabou-As/181928325166967",
+    "name": "Mabou",
+    "opening_hours:signed": "no",
+    "phone": "+47 22564590",
+    "website": "https://www.instagram.com/mabou.oslo/"
+  }
+},
+{
+  "type": "node",
+  "id": 2153218798,
+  "lat": 67.2844874,
+  "lon": 14.3801355,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2023-05-12",
+    "level": "-1",
+    "name": "Public",
+    "opening_hours": "20:00-03:30"
+  }
+},
+{
+  "type": "node",
+  "id": 2153218833,
+  "lat": 67.2838934,
+  "lon": 14.3809567,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2025-01-10",
+    "name": "Norlænningen",
+    "website": "https://www.facebook.com/Norlenningen/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2275943674,
+  "lat": 63.4340440,
+  "lon": 10.3968470,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Studio 26",
+    "opening_hours": "Th-Sa 22:00-02:30",
+    "website": "https://studio26.no/"
+  }
+},
+{
+  "type": "node",
+  "id": 3052351994,
+  "lat": 63.4336681,
+  "lon": 10.3915971,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date:opening_hours": "2022-05-23",
+    "name": "Dreams Showbar Trondheim",
+    "opening_hours": "Mo-Sa 22:00-04:00",
+    "operator": "Dreams Showbar",
+    "website": "http://www.dreams.no/trondheim",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3056289080,
+  "lat": 63.4343806,
+  "lon": 10.3974573,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Wildside",
+    "website": "http://thewildside.no/"
+  }
+},
+{
+  "type": "node",
+  "id": 3402830030,
+  "lat": 60.8808108,
+  "lon": 11.5635219,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Central Scene",
+    "operator": "Elgstua",
+    "website": "https://elgstua.no/central-scene/"
+  }
+},
+{
+  "type": "node",
+  "id": 3697116538,
+  "lat": 59.2132036,
+  "lon": 10.9344565,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Alibi"
+  }
+},
+{
+  "type": "node",
+  "id": 3834083060,
+  "lat": 63.4330161,
+  "lon": 10.4071141,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Fire Fine",
+    "opening_hours": "Fr-Su 20:00-02:00",
+    "website": "https://www.facebook.com/firefinesolsiden"
+  }
+},
+{
+  "type": "node",
+  "id": 3946005945,
+  "lat": 60.3911350,
+  "lon": 5.3220250,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Lille",
+    "opening_hours": "Tu 20:00-03:00; Th-Sa 20:00-03:00",
+    "outdoor_seating": "yes",
+    "phone": "+47 414 22 222",
+    "website": "https://www.facebook.com/lillebar/"
+  }
+},
+{
+  "type": "node",
+  "id": 3964625281,
+  "lat": 60.3975360,
+  "lon": 5.3224780,
+  "tags": {
+    "amenity": "nightclub",
+    "contact:facebook": "https://www.facebook.com/BryggenNightclub/",
+    "email": "post@bryggennightclub.no",
+    "name": "Bryggen Nightclub",
+    "opening_hours": "Fr-Sa 22:00-03:00",
+    "phone": "+47 55 96 15 00",
+    "website": "https://www.bryggennightclub.no/"
+  }
+},
+{
+  "type": "node",
+  "id": 4099980700,
+  "lat": 60.3937370,
+  "lon": 5.3280990,
+  "tags": {
+    "amenity": "nightclub",
+    "email": "post@oestre.no",
+    "name": "Østre",
+    "website": "www.oestre.no"
+  }
+},
+{
+  "type": "node",
+  "id": 4109872705,
+  "lat": 60.3922270,
+  "lon": 5.3224030,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Lille Ole Bull",
+    "opening_hours": "23:00-03:30",
+    "website": "https://www.olebullhuset.no/nattklubben/",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 4312299494,
+  "lat": 59.9201590,
+  "lon": 10.7528430,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2023-01-28",
+    "contact:instagram": "blaaoslo",
+    "email": "dl@blaaoslo.no",
+    "live_music": "yes",
+    "name": "Blå",
+    "smoking": "outside",
+    "toilets:wheelchair": "yes",
+    "website": "https://blaaoslo.no",
+    "wheelchair": "yes",
+    "wikidata": "Q2907430"
+  }
+},
+{
+  "type": "node",
+  "id": 4566940681,
+  "lat": 59.9199330,
+  "lon": 10.7527420,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2023-01-28",
+    "email": "post@ingensteds.no",
+    "name": "Ingensteds",
+    "smoking": "outside",
+    "website": "https://www.ingensteds.no"
+  }
+},
+{
+  "type": "node",
+  "id": 4859046721,
+  "lat": 59.2653660,
+  "lon": 10.4066880,
+  "tags": {
+    "amenity": "nightclub",
+    "contact:instagram": "foynhagen",
+    "live_music": "yes",
+    "name": "Foynhagen"
+  }
+},
+{
+  "type": "node",
+  "id": 5137307839,
+  "lat": 60.3943941,
+  "lon": 5.3232886,
+  "tags": {
+    "amenity": "nightclub",
+    "email": "booking@kavaroofgarden.no",
+    "name": "Kava Roofgarden",
+    "phone": "+47 995 82 008",
+    "website": "https://www.kavaroofgarden.no/"
+  }
+},
+{
+  "type": "node",
+  "id": 5648267137,
+  "lat": 62.3074051,
+  "lon": 6.9464868,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Lokalet"
+  }
+},
+{
+  "type": "node",
+  "id": 5692014538,
+  "lat": 58.9713881,
+  "lon": 5.7305362,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Villa 22 - Bar Negroni",
+    "opening_hours": "Mo 00:00-02:00; Tu 17:45-24:00; We,Th 00:00-01:00,17:45-24:00; Fr 00:00-02:00,17:45-24:00; Sa 00:00-02:00,12:45-24:00; Su 00:00-02:00,19:00-24:00"
+  }
+},
+{
+  "type": "node",
+  "id": 5692014539,
+  "lat": 58.9713914,
+  "lon": 5.7305449,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Villa 22 - Nattbar",
+    "opening_hours": "Fr 23:30-24:00; Sa 00:00-03:00,23:30-24:00; Su 00:00-03:00"
+  }
+},
+{
+  "type": "node",
+  "id": 5913464485,
+  "lat": 67.2847805,
+  "lon": 14.3825506,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2025-01-11",
+    "name": "Dama di",
+    "opening_hours": "20:00-03:30",
+    "website": "https://damadi.no"
+  }
+},
+{
+  "type": "node",
+  "id": 6181101621,
+  "lat": 58.1437206,
+  "lon": 7.9923794,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Barbarossa"
+  }
+},
+{
+  "type": "node",
+  "id": 6379628329,
+  "lat": 60.3913796,
+  "lon": 5.3237488,
+  "tags": {
+    "amenity": "nightclub",
+    "contact:facebook": "https://www.facebook.com/LouLou-Bergen-253898218640355/",
+    "min_age": "20",
+    "name": "Lou Lou",
+    "website": "https://loulou.no/bergen"
+  }
+},
+{
+  "type": "node",
+  "id": 6743015068,
+  "lat": 58.8674260,
+  "lon": 9.4116480,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Galeien",
+    "opening_hours": "Fr-Sa 20:00-03:00",
+    "smoking": "outside"
+  }
+},
+{
+  "type": "node",
+  "id": 6833199604,
+  "lat": 59.9121480,
+  "lon": 10.7364410,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2026-06-28",
+    "email": "mail@subscene.no",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "level": "0",
+    "name": "sub.scene",
+    "opening_hours": "Tu 16:00-21:00; Th 16:00-22:00; We,Fr 17:00-21:00",
+    "payment:coins": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "payment:maestro": "yes",
+    "payment:notes": "yes",
+    "smoking": "outside",
+    "website": "https://www.subscene.no/"
+  }
+},
+{
+  "type": "node",
+  "id": 6874391718,
+  "lat": 59.9556333,
+  "lon": 11.0480778,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2024-01-26",
+    "name": "Ellies",
+    "opening_hours": "Fr-Sa 21:00-03:00"
+  }
+},
+{
+  "type": "node",
+  "id": 7106704185,
+  "lat": 59.5836906,
+  "lon": 11.1598752,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Club Kaos"
+  }
+},
+{
+  "type": "node",
+  "id": 9557812431,
+  "lat": 59.9111750,
+  "lon": 10.7420360,
+  "tags": {
+    "amenity": "nightclub",
+    "min_age": "23",
+    "name": "Faksen Bar",
+    "opening_hours": "Thu - Sat",
+    "smoking": "outside"
+  }
+},
+{
+  "type": "node",
+  "id": 10727602011,
+  "lat": 59.9150358,
+  "lon": 10.7217478,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2023-06-02",
+    "name": "IVY",
+    "website": "https://www.ivyoslo.no"
+  }
+},
+{
+  "type": "node",
+  "id": 10933957569,
+  "lat": 59.9149186,
+  "lon": 10.7368002,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2023-05-28",
+    "contact:facebook": "https://www.facebook.com/lawooslo/",
+    "name": "Lawo",
+    "opening_hours": "Th-Sa 22:00-03:00",
+    "website": "https://www.lawooslo.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 11728268739,
+  "lat": 59.4121576,
+  "lon": 5.2681765,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Heidi's Bier Bar",
+    "website": "https://heidisbierbar.no/haugesund"
+  }
+},
+{
+  "type": "node",
+  "id": 11848415261,
+  "lat": 62.7378273,
+  "lon": 7.1578607,
+  "tags": {
+    "amenity": "nightclub",
+    "contact:facebook": "infinitymolde",
+    "contact:instagram": "infinitymolde",
+    "name": "Club Infinity",
+    "website": "https://clubinfinity.no/"
+  }
+},
+{
+  "type": "node",
+  "id": 12057480403,
+  "lat": 60.1876474,
+  "lon": 11.9996077,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "ElgElg"
+  }
+},
+{
+  "type": "node",
+  "id": 12076823521,
+  "lat": 59.1401484,
+  "lon": 9.6548972,
+  "tags": {
+    "amenity": "nightclub",
+    "contact:instagram": "rockeklubbeniporsgrunn",
+    "live_music": "yes",
+    "name": "Rockeklubben I Porsgrunn"
+  }
+},
+{
+  "type": "node",
+  "id": 12433354557,
+  "lat": 60.3910775,
+  "lon": 5.3219197,
+  "tags": {
+    "amenity": "nightclub",
+    "contact:facebook": "https://www.facebook.com/rebelbergen/",
+    "contact:instagram": "https://www.instagram.com/rebelbergen/",
+    "contact:phone": "+47 55 09 00 44",
+    "contact:website": "https://rebelsk.no/",
+    "name": "Rebel",
+    "opening_hours": "Tu-Sa 11:30-23:00"
+  }
+},
+{
+  "type": "node",
+  "id": 12749752010,
+  "lat": 59.9163635,
+  "lon": 10.7384768,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2025-04-12",
+    "name": "Justisen"
+  }
+},
+{
+  "type": "node",
+  "id": 13390655526,
+  "lat": 59.9139218,
+  "lon": 10.7519933,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Labyrinth"
+  }
+},
+{
+  "type": "node",
+  "id": 13515486601,
+  "lat": 59.9141608,
+  "lon": 10.7607982,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Oslo BDSM - Nonna",
+    "website": "https://oslobdsm.no/"
+  }
+},
+{
+  "type": "way",
+  "id": 111845747,
+  "center": {
+    "lat": 59.9154295,
+    "lon": 10.7379370
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building:part": "yes",
+    "check_date": "2023-05-28",
+    "lgbtq": "primary",
+    "min_age": "21",
+    "name": "Elsker",
+    "opening_hours:covid19": "closed",
+    "smoking": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 268586598,
+  "center": {
+    "lat": 58.3346755,
+    "lon": 8.5775165
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "university",
+    "building:levels": "2",
+    "name": "Bluebox",
+    "opening_hours": "Tu 16:00-22:00, Th,Fr 16:00-24:00, Sa 21:00-02:00",
+    "ref:bygningsnr": "300555322",
+    "website": "https://bluebox.no/",
+    "wheelchair": "yes"
+  }
+}
+
+  ]
+}

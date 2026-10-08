@@ -1,0 +1,4913 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-10-08T23:04:06Z",
+    "timestamp_areas_base": "2026-10-07T10:19:21Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 31238560,
+  "lat": 47.1745217,
+  "lon": 14.4288147,
+  "tags": {
+    "addr:city": "Unzmarkt-Frauenburg",
+    "addr:country": "AT",
+    "addr:housenumber": "6c",
+    "addr:place": "Hirschfeld",
+    "addr:postcode": "8800",
+    "amenity": "nightclub",
+    "name": "Club Calypso",
+    "phone": "+43 3583 2217"
+  }
+},
+{
+  "type": "node",
+  "id": 47803152,
+  "lat": 48.0439014,
+  "lon": 13.9844026,
+  "tags": {
+    "amenity": "nightclub",
+    "entrance": "yes",
+    "name": "CC-Club",
+    "official_name": "Castle Cellar Club",
+    "operator": "Irmi Starl"
+  }
+},
+{
+  "type": "node",
+  "id": 246656196,
+  "lat": 47.2790558,
+  "lon": 11.1551115,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Real"
+  }
+},
+{
+  "type": "node",
+  "id": 269209069,
+  "lat": 48.2072721,
+  "lon": 16.3727859,
+  "tags": {
+    "addr:city": "Wien",
+    "addr:country": "AT",
+    "addr:housenumber": "2",
+    "addr:postcode": "1010",
+    "addr:street": "Liliengasse",
+    "amenity": "nightclub",
+    "name": "Eden Bar",
+    "name:ja": "エデン・バー",
+    "opening_hours": "We-Sa 20:00+",
+    "website": "https://www.edenbar.at",
+    "wheelchair": "limited",
+    "wikidata": "Q1283530"
+  }
+},
+{
+  "type": "node",
+  "id": 282253234,
+  "lat": 48.6444185,
+  "lon": 16.7974176,
+  "tags": {
+    "addr:city": "Altlichtenwarth",
+    "addr:housenumber": "26",
+    "addr:street": "Hauptstraße",
+    "amenity": "nightclub",
+    "name": "Sachs"
+  }
+},
+{
+  "type": "node",
+  "id": 288168974,
+  "lat": 48.0238157,
+  "lon": 16.7789307,
+  "tags": {
+    "addr:city": "Bruck an der Leitha",
+    "addr:country": "AT",
+    "addr:postcode": "2460",
+    "addr:street": "Schmerlinggasse",
+    "amenity": "nightclub",
+    "name": "Stanglbar"
+  }
+},
+{
+  "type": "node",
+  "id": 295730959,
+  "lat": 47.4642874,
+  "lon": 9.7222996,
+  "tags": {
+    "addr:city": "Lauterach",
+    "addr:country": "AT",
+    "addr:housenumber": "25",
+    "addr:postcode": "6923",
+    "addr:street": "Scheibenstraße",
+    "amenity": "nightclub",
+    "contact:email": "info@club-blue.at",
+    "contact:mobile": "+43 664 971 20 57",
+    "contact:website": "http://www.club-blue.at",
+    "name": "Club Blue"
+  }
+},
+{
+  "type": "node",
+  "id": 297783442,
+  "lat": 48.1986473,
+  "lon": 16.3660000,
+  "tags": {
+    "addr:city": "Wien",
+    "addr:country": "AT",
+    "addr:housenumber": "2",
+    "addr:postcode": "1040",
+    "addr:street": "Faulmanngasse",
+    "amenity": "nightclub",
+    "check_date": "2026-05-14",
+    "check_date:opening_hours": "2026-05-14",
+    "name": "Club Roxy",
+    "opening_hours": "Mo-Su,PH 11:00-22:00"
+  }
+},
+{
+  "type": "node",
+  "id": 331802379,
+  "lat": 48.5042117,
+  "lon": 14.5041683,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Partymaus"
+  }
+},
+{
+  "type": "node",
+  "id": 337947392,
+  "lat": 48.2187080,
+  "lon": 16.3810931,
+  "tags": {
+    "addr:city": "Wien",
+    "addr:country": "AT",
+    "addr:housenumber": "38",
+    "addr:postcode": "1020",
+    "addr:street": "Taborstraße",
+    "amenity": "nightclub",
+    "layer": "-1",
+    "name": "Bricks",
+    "tunnel": "yes",
+    "website": "https://www.bricks.co.at/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 339640565,
+  "lat": 48.2185463,
+  "lon": 14.4196694,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date:opening_hours": "2025-04-23",
+    "contact:phone": "+43 681 81781993",
+    "name": "\"O\" die Tanzbar",
+    "opening_hours": "Th-Sa 20:00-04:00",
+    "operator": "Gregor Raml",
+    "outdoor_seating": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 340123293,
+  "lat": 47.3446362,
+  "lon": 13.3918443,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Bergwerk"
+  }
+},
+{
+  "type": "node",
+  "id": 340193040,
+  "lat": 48.0296214,
+  "lon": 16.7184721,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "B10"
+  }
+},
+{
+  "type": "node",
+  "id": 350646644,
+  "lat": 48.2023556,
+  "lon": 16.3577603,
+  "tags": {
+    "addr:city": "Wien",
+    "addr:country": "AT",
+    "addr:housenumber": "10",
+    "addr:postcode": "1070",
+    "addr:street": "Karl-Schweighofer-Gasse",
+    "amenity": "nightclub",
+    "indoor_seating": "yes",
+    "music_genre": "electro;techno",
+    "name": "DonauTechno",
+    "opening_hours": "Mo-Th 20:00-04:00; Fr-Sa 20:00-06:00; Su 20:00-02:00",
+    "outdoor_seating": "no",
+    "smoking": "no",
+    "website": "https://www.donautechno.com/",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 353282827,
+  "lat": 48.2125187,
+  "lon": 16.3685735,
+  "tags": {
+    "addr:city": "Wien",
+    "addr:country": "AT",
+    "addr:housenumber": "22",
+    "addr:postcode": "1010",
+    "addr:street": "Tiefer Graben",
+    "amenity": "nightclub",
+    "lgbtq": "primary",
+    "name": "Why Not - Clubdiskothek",
+    "website": "https://www.why-not.at/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 360041116,
+  "lat": 47.2685401,
+  "lon": 11.3938291,
+  "tags": {
+    "addr:city": "Innsbruck",
+    "addr:country": "AT",
+    "addr:street": "Hofgasse",
+    "amenity": "nightclub",
+    "check_date": "2026-05-04",
+    "contact:facebook": "proml",
+    "contact:instagram": "prometheus_innsbruck",
+    "email": "prometheus.innsbruck@gmail.com",
+    "name": "Prometheus",
+    "opening_hours": "Mo-Sa 19:00-02:00",
+    "phone": "+43 512 5148132",
+    "website": "https://www.prometheuskeller.com/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 370358446,
+  "lat": 48.2033608,
+  "lon": 16.3894581,
+  "tags": {
+    "addr:city": "Wien",
+    "addr:country": "AT",
+    "addr:housenumber": "38",
+    "addr:postcode": "1030",
+    "addr:street": "Landstraßer Hauptstraße",
+    "amenity": "nightclub",
+    "check_date": "2024-10-12",
+    "check_date:opening_hours": "2024-04-24",
+    "check_date:smoking": "2024-10-12",
+    "music_genre": "metal",
+    "name": "Viper Room Vienna",
+    "old_name": "The Monastery",
+    "opening_hours": "Fr-Sa 22:00-05:00",
+    "opening_hours:signed": "no",
+    "smoking": "outside",
+    "sport": "table_soccer",
+    "website": "https://www.viper-room.at/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 373252104,
+  "lat": 47.2676216,
+  "lon": 11.4021792,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2026-07-22",
+    "check_date:opening_hours": "2025-06-12",
+    "name": "AZTEC Club",
+    "old_name": "Plan B",
+    "opening_hours": "Fr,Sa 00:00-06:00"
+  }
+},
+{
+  "type": "node",
+  "id": 380840764,
+  "lat": 48.2149967,
+  "lon": 16.3399859,
+  "tags": {
+    "addr:housenumber": "5",
+    "addr:street": "Ottakringer Straße",
+    "alt_name": "55 Club",
+    "amenity": "nightclub",
+    "check_date": "2024-01-29",
+    "name": "Fifty Five Club",
+    "opening_hours": "Fr-Sa 00:00-04:00"
+  }
+},
+{
+  "type": "node",
+  "id": 436905218,
+  "lat": 48.1032675,
+  "lon": 17.0406550,
+  "tags": {
+    "amenity": "nightclub",
+    "closed": "yes",
+    "cuisine": "regional",
+    "name": "C2",
+    "operator": "Burkhart"
+  }
+},
+{
+  "type": "node",
+  "id": 441587150,
+  "lat": 48.1807996,
+  "lon": 15.6179755,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Ballegro",
+    "website": "https://www.ballegro.at/",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 444543169,
+  "lat": 46.6036064,
+  "lon": 13.8633668,
+  "tags": {
+    "addr:city": "Villach",
+    "addr:housenumber": "33",
+    "addr:postcode": "9500",
+    "addr:street": "Bruno-Kreisky-Straße",
+    "amenity": "nightclub",
+    "fee": "yes",
+    "name": "V-Club",
+    "operator": "V-Club Gastro GmbH",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 478701714,
+  "lat": 48.1985911,
+  "lon": 16.3500550,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Camera Club",
+    "opening_hours": "Fr,Sa 23:00-06:00",
+    "website": "https://www.camera-club.at/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 528202005,
+  "lat": 46.6204484,
+  "lon": 14.3072427,
+  "tags": {
+    "addr:city": "Klagenfurt am Wörthersee",
+    "addr:country": "AT",
+    "addr:housenumber": "37",
+    "addr:postcode": "9020",
+    "addr:street": "Viktringer Ring",
+    "amenity": "nightclub",
+    "check_date:opening_hours": "2024-07-30",
+    "club": "music",
+    "name": "fritz! Club",
+    "opening_hours:signed": "no",
+    "payment:coins": "yes",
+    "payment:credit_cards": "no",
+    "payment:cryptocurrencies": "no",
+    "payment:debit_cards": "no",
+    "payment:electronic_purses": "no",
+    "payment:notes": "yes",
+    "smoking": "outside",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 587759706,
+  "lat": 47.2640526,
+  "lon": 11.3970574,
+  "tags": {
+    "addr:city": "Innsbruck",
+    "addr:country": "AT",
+    "addr:housenumber": "17",
+    "addr:postcode": "6020",
+    "addr:street": "Wilhelm-Greil-Straße",
+    "amenity": "nightclub",
+    "name": "Blue Chip",
+    "opening_hours": "We-Sa 22:00-04:00",
+    "operator": "INNGAST Gastronomie Gesellschaft m.b.H.",
+    "phone": "+43 699 17157407",
+    "website": "https://www.chip-ibk.com/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 599581800,
+  "lat": 47.2629445,
+  "lon": 11.3955554,
+  "tags": {
+    "addr:city": "Innsbruck",
+    "addr:country": "AT",
+    "addr:housenumber": "18",
+    "addr:postcode": "6020",
+    "addr:street": "Salurner Straße",
+    "amenity": "nightclub",
+    "check_date": "2023-07-26",
+    "loc_name": "Bachuskeller;Bacchuskeller;Bachus Club Innsbruck",
+    "name": "Easy-Bacchus",
+    "opening_hours": "Mo-Th 10:00-01:00; Fr-Sa 19:00-03:00",
+    "website": "http://www.bacchus-tirol.at",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 605216835,
+  "lat": 48.2293434,
+  "lon": 16.3586297,
+  "tags": {
+    "addr:city": "Wien",
+    "addr:country": "AT",
+    "addr:housenumber": "12",
+    "addr:postcode": "1090",
+    "addr:street": "Althanstraße",
+    "amenity": "nightclub",
+    "check_date": "2025-11-05",
+    "name": "Club 1019",
+    "opening_hours": "We-Su 19:00-02:00",
+    "website": "https://www.1019jazzclub.at/"
+  }
+},
+{
+  "type": "node",
+  "id": 613530655,
+  "lat": 47.2649115,
+  "lon": 11.4036563,
+  "tags": {
+    "addr:city": "Innsbruck",
+    "addr:country": "AT",
+    "addr:housenumber": "6",
+    "addr:postcode": "6020",
+    "addr:street": "Amraser Straße",
+    "amenity": "nightclub",
+    "name": "Queens Club",
+    "opening_hours": "Mo-Su 09:00-01:00",
+    "phone": "+43 664 4346786",
+    "source": "website",
+    "website": "https://www.queens-club.at/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 661033313,
+  "lat": 47.3237201,
+  "lon": 12.7983610,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Sensation"
+  }
+},
+{
+  "type": "node",
+  "id": 664933208,
+  "lat": 48.4126590,
+  "lon": 15.5974233,
+  "tags": {
+    "addr:city": "Krems an der Donau",
+    "addr:country": "AT",
+    "addr:housenumber": "17",
+    "addr:postcode": "3500",
+    "addr:street": "Stadtgraben",
+    "amenity": "nightclub",
+    "description": "Alternative, electronica, rock",
+    "name": "Jimmy's Krems",
+    "opening_hours": "Th-Sa 21:00+",
+    "phone": "+43 2732 703 53",
+    "website": "http://www.jimmyskrems.at",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 702000408,
+  "lat": 46.6148594,
+  "lon": 13.8458297,
+  "tags": {
+    "addr:city": "Villach",
+    "addr:country": "AT",
+    "addr:housenumber": "10",
+    "addr:postcode": "9500",
+    "addr:street": "Karlgasse",
+    "amenity": "nightclub",
+    "name": "P2",
+    "wheelchair:access": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 735117133,
+  "lat": 47.4937741,
+  "lon": 12.0800890,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Disco Joy",
+    "opening_hours": "Fr-Sa 22:00-06:00",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 765039955,
+  "lat": 46.6275017,
+  "lon": 14.0906900,
+  "tags": {
+    "addr:city": "Techelsberg am Wörther See",
+    "addr:country": "AT",
+    "addr:housenumber": "5",
+    "addr:place": "Saag",
+    "addr:postcode": "9212",
+    "amenity": "nightclub",
+    "name": "Fabrik",
+    "website": "https://www.fabrik.at/"
+  }
+},
+{
+  "type": "node",
+  "id": 791236467,
+  "lat": 48.3069509,
+  "lon": 14.2907520,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Villa Ostende"
+  }
+},
+{
+  "type": "node",
+  "id": 794262802,
+  "lat": 47.4850068,
+  "lon": 9.7143201,
+  "tags": {
+    "addr:city": "Hard",
+    "addr:country": "AT",
+    "addr:housenumber": "179",
+    "addr:postcode": "6971",
+    "addr:street": "Hofsteigstraße",
+    "amenity": "nightclub",
+    "name": "Le Billard",
+    "opening_hours": "Mo-Fr 16:00-02:00; Sa 14:00-02:00; Su 14:00-01:00",
+    "phone": "+43 5574 77144"
+  }
+},
+{
+  "type": "node",
+  "id": 814276666,
+  "lat": 47.8006169,
+  "lon": 13.0390549,
+  "tags": {
+    "addr:housenumber": "7",
+    "addr:street": "Gstättengasse",
+    "amenity": "nightclub",
+    "check_date:opening_hours": "2026-08-19",
+    "contact:facebook": "100093800532944",
+    "contact:instagram": "balboa_salzburg",
+    "email": "info@club-balboa.at",
+    "name": "Balboa",
+    "opening_hours": "Th-Sa 19:00-04:00",
+    "opening_hours:signed": "no",
+    "phone": "+436607770401",
+    "website": "https://www.club-balboa.at/"
+  }
+},
+{
+  "type": "node",
+  "id": 827204477,
+  "lat": 47.8031194,
+  "lon": 13.0465128,
+  "tags": {
+    "addr:housenumber": "23",
+    "addr:street": "Linzer Gasse",
+    "amenity": "nightclub",
+    "check_date": "2023-07-19",
+    "name": "Casanova",
+    "opening_hours": "Mo-Su 22:00-06:00",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 847798967,
+  "lat": 47.2672067,
+  "lon": 11.4232537,
+  "tags": {
+    "addr:city": "Innsbruck",
+    "addr:country": "AT",
+    "addr:housenumber": "67a",
+    "addr:postcode": "6020",
+    "addr:street": "Andechsstraße",
+    "addr:suburb": "Pradl",
+    "amenity": "nightclub",
+    "check_date": "2022-10-31",
+    "level": "1",
+    "name": "Livestage",
+    "operator": "Tiroler Jugend-Förderungsprojekt \"LiveStage\"",
+    "website": "https://www.livestage-tirol.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 891022151,
+  "lat": 48.7540790,
+  "lon": 15.1754480,
+  "tags": {
+    "amenity": "nightclub",
+    "contact:instagram": "levelvitis",
+    "name": "LEVEL",
+    "website": "https://www.evebar.at/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 900967345,
+  "lat": 47.0367120,
+  "lon": 15.4299646,
+  "tags": {
+    "addr:city": "Graz",
+    "addr:country": "AT",
+    "addr:housenumber": "1",
+    "addr:postcode": "8055",
+    "addr:street": "Wagner-Jauregg-Straße",
+    "amenity": "nightclub",
+    "name": "Mon Cherie",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 901058104,
+  "lat": 48.2043504,
+  "lon": 16.3745967,
+  "tags": {
+    "addr:city": "Wien",
+    "addr:country": "AT",
+    "addr:housenumber": "21",
+    "addr:postcode": "1010",
+    "addr:street": "Johannesgasse",
+    "amenity": "nightclub",
+    "name": "El Dorado",
+    "website": "http://www.club-eldorado.at/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 917960317,
+  "lat": 48.4168853,
+  "lon": 14.0603628,
+  "tags": {
+    "addr:city": "St. Martin im Mühlkreis",
+    "addr:country": "AT",
+    "addr:housenumber": "20",
+    "addr:place": "Allersdorf",
+    "addr:postcode": "4113",
+    "amenity": "nightclub",
+    "name": "Empire St. Martin",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 943705190,
+  "lat": 47.1592947,
+  "lon": 16.1626492,
+  "tags": {
+    "addr:housenumber": "15",
+    "addr:postcode": "7551",
+    "addr:street": "Grazer Straße",
+    "amenity": "nightclub",
+    "name": "Disco P3",
+    "opening_hours": "Fr-Sa 21:00-05:00",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 950535972,
+  "lat": 48.2060827,
+  "lon": 16.3834496,
+  "tags": {
+    "addr:city": "Wien",
+    "addr:country": "AT",
+    "addr:housenumber": "2",
+    "addr:postcode": "1030",
+    "addr:street": "Landstraßer Hauptstraße",
+    "amenity": "nightclub",
+    "name": "The Box"
+  }
+},
+{
+  "type": "node",
+  "id": 954416948,
+  "lat": 48.2996846,
+  "lon": 14.2942029,
+  "tags": {
+    "addr:city": "Linz",
+    "addr:housenumber": "3",
+    "addr:postcode": "4020",
+    "addr:street": "Humboldtstraße",
+    "amenity": "nightclub",
+    "name": "Volcano"
+  }
+},
+{
+  "type": "node",
+  "id": 956159222,
+  "lat": 48.2044841,
+  "lon": 16.3716917,
+  "tags": {
+    "addr:city": "Wien",
+    "addr:country": "AT",
+    "addr:housenumber": "3a",
+    "addr:postcode": "1010",
+    "addr:street": "Annagasse",
+    "amenity": "nightclub",
+    "name": "Club Take 5",
+    "website": "https://www.club-take5.at/"
+  }
+},
+{
+  "type": "node",
+  "id": 960136293,
+  "lat": 46.9871911,
+  "lon": 10.0268941,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Heuboda",
+    "opening_hours": "We-Sa 18:00+"
+  }
+},
+{
+  "type": "node",
+  "id": 960136311,
+  "lat": 46.9880525,
+  "lon": 10.0247925,
+  "tags": {
+    "amenity": "nightclub",
+    "fixme": "website;nightclub im heurigen?",
+    "name": "Mühle",
+    "opening_hours": "We-Su 13:00+",
+    "website": "https://www.muehle.cc"
+  }
+},
+{
+  "type": "node",
+  "id": 968532281,
+  "lat": 47.0747467,
+  "lon": 15.4515410,
+  "tags": {
+    "addr:city": "Graz",
+    "addr:country": "AT",
+    "addr:housenumber": "30",
+    "addr:postcode": "8010",
+    "addr:street": "Elisabethstraße",
+    "amenity": "nightclub",
+    "min_age": "18",
+    "name": "Kulturhauskeller",
+    "opening_hours": "We,Fr,Sa 22:00-06:00",
+    "payment:cash": "yes",
+    "payment:contactless": "yes",
+    "reg_name": "Kultus",
+    "smoking": "outside",
+    "source": "survey",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 990848554,
+  "lat": 48.2535235,
+  "lon": 14.2798412,
+  "tags": {
+    "amenity": "nightclub",
+    "contact:email": "office@mausefalle-linz.at",
+    "contact:fax": "+43 732 380888 88",
+    "contact:phone": "+43 732 380888",
+    "contact:website": "http://www.mausefalle-linz.at",
+    "name": "Mausefalle Linz",
+    "opening_hours": "We,Th 19:00-03:00, Fr,Sa 21:00-06:00",
+    "operator": "Hehn Betriebs GmbH & Co KG",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1044801542,
+  "lat": 47.3913215,
+  "lon": 13.6863019,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Hanglbar und Angels' Club"
+  }
+},
+{
+  "type": "node",
+  "id": 1044924021,
+  "lat": 47.3922716,
+  "lon": 13.6892056,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Club V2"
+  }
+},
+{
+  "type": "node",
+  "id": 1100487243,
+  "lat": 47.0753281,
+  "lon": 15.4511855,
+  "tags": {
+    "addr:city": "Graz",
+    "addr:country": "AT",
+    "addr:housenumber": "9a",
+    "addr:postcode": "8010",
+    "addr:street": "Beethovenstraße",
+    "air_conditioning": "yes",
+    "amenity": "nightclub",
+    "check_date": "2024-11-13",
+    "min_age": "18",
+    "name": "Revolution",
+    "opening_hours": "We 21:00-06:00; Fr,Sa 22:00-06:00",
+    "reg_name": "Revo",
+    "smoking": "outside",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 1115544710,
+  "lat": 48.4761468,
+  "lon": 15.3091204,
+  "tags": {
+    "amenity": "nightclub",
+    "email": "h.preiser@preiser.cc",
+    "fax": "+43 2877 8361-20",
+    "name": "Discothek APOLLON",
+    "phone": "+43 2877 8361",
+    "website": "https://www.disco-apollon.at/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1167217975,
+  "lat": 48.3149063,
+  "lon": 13.9038578,
+  "tags": {
+    "addr:city": "Prambachkirchen",
+    "addr:country": "AT",
+    "addr:housenumber": "27",
+    "addr:postcode": "4731",
+    "addr:street": "Hauptstraße",
+    "amenity": "nightclub",
+    "name": "Club Fly 2.0",
+    "phone": "+43 676 82521124",
+    "smoking": "yes",
+    "website": "www.fly.at",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1233106567,
+  "lat": 48.2405995,
+  "lon": 16.3850641,
+  "tags": {
+    "addr:city": "Wien",
+    "addr:country": "AT",
+    "addr:housenumber": "94-96",
+    "addr:postcode": "1200",
+    "addr:street": "Handelskai",
+    "amenity": "nightclub",
+    "email": "office@a-danceclub.at",
+    "layer": "-1",
+    "level": "-1",
+    "min_age": "21",
+    "name": "A Danceclub",
+    "opening_hours": "Th 22:00-04:00; Fr-Sa 22:00-06:00",
+    "phone": "+43 1 2530800",
+    "smoking": "separated",
+    "website": "https://www.a-danceclub.at/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1272038671,
+  "lat": 46.6289736,
+  "lon": 13.8766049,
+  "tags": {
+    "amenity": "nightclub",
+    "check": "opening_hours",
+    "name": "Wellness Club by La Coccotte",
+    "opening_hours": "Mo-Su,PH 11:00-03:00",
+    "smoking": "yes",
+    "website": "http://www.lacocotte.at/wellnessclub_lacocotte.php"
+  }
+},
+{
+  "type": "node",
+  "id": 1350366989,
+  "lat": 48.2344117,
+  "lon": 16.3610602,
+  "tags": {
+    "addr:city": "Wien",
+    "addr:country": "AT",
+    "addr:housenumber": "12",
+    "addr:postcode": "1090",
+    "addr:street": "Spittelauer Lände",
+    "amenity": "nightclub",
+    "contact:instagram": "grelle_forelle",
+    "live_music": "yes",
+    "min_age": "21",
+    "name": "Grelle Forelle",
+    "smoking": "yes",
+    "surveillance": "indoor;outdoor",
+    "toilets:wheelchair": "yes",
+    "website": "https://www.grelleforelle.com/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1363128983,
+  "lat": 47.0685915,
+  "lon": 15.4439590,
+  "tags": {
+    "addr:city": "Graz",
+    "addr:country": "AT",
+    "addr:housenumber": "1",
+    "addr:postcode": "8010",
+    "addr:street": "Girardigasse",
+    "amenity": "nightclub",
+    "check_date:opening_hours": "2022-10-24",
+    "contact:facebook": "MausefalleGraz",
+    "description": "Discostadl, Clublouge",
+    "email": "celine@mausefalle-graz.com",
+    "name": "Mausefalle",
+    "opening_hours:signed": "no",
+    "phone": "+43 664 3627070",
+    "smoking": "isolated",
+    "website": "https://mausefalle-graz.com/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1369216387,
+  "lat": 47.0662423,
+  "lon": 15.4446610,
+  "tags": {
+    "addr:city": "Graz",
+    "addr:country": "AT",
+    "addr:housenumber": "9",
+    "addr:postcode": "8010",
+    "addr:street": "Mondscheingasse",
+    "amenity": "nightclub",
+    "contact:facebook": "MusicHouseGraz",
+    "email": "musichousegraz@gmail.com",
+    "fee": "no",
+    "name": "Music-House",
+    "opening_hours": "We-Sa 21:00-05:00",
+    "phone": "+43 316 832 316",
+    "smoking": "outside",
+    "source": "survey",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1375331007,
+  "lat": 47.0660814,
+  "lon": 15.4283666,
+  "tags": {
+    "addr:city": "Graz",
+    "addr:country": "AT",
+    "addr:housenumber": "42",
+    "addr:postcode": "8020",
+    "addr:street": "Dreihackengasse",
+    "amenity": "nightclub",
+    "name": "Postgarage",
+    "note": "Opening hours are usual opening times, special events may have different opening hours.",
+    "opening_hours": "Fr,Sa 23:00-06:00",
+    "smoking": "dedicated",
+    "toilets:wheelchair": "yes",
+    "website": "https://www.postgarage.at/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1430299435,
+  "lat": 46.6184188,
+  "lon": 14.3173606,
+  "tags": {
+    "addr:city": "Klagenfurt am Wörthersee",
+    "addr:country": "AT",
+    "addr:housenumber": "11",
+    "addr:postcode": "9020",
+    "addr:street": "Lastenstraße",
+    "amenity": "nightclub",
+    "min_age": "18",
+    "name": "Bar Carmen",
+    "opening_hours": "Mo 18:00-04:00; Tu-Fr 11:00-04:00; Sa 18:00-04:00",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1433830935,
+  "lat": 46.6164782,
+  "lon": 14.2933097,
+  "tags": {
+    "addr:city": "Klagenfurt am Wörthersee",
+    "addr:country": "AT",
+    "addr:housenumber": "56",
+    "addr:postcode": "9020",
+    "addr:street": "Waidmannsdorfer Straße",
+    "amenity": "nightclub",
+    "name": "Casino Joker",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1484741920,
+  "lat": 47.1521416,
+  "lon": 9.8089518,
+  "tags": {
+    "addr:city": "Bürs",
+    "addr:country": "AT",
+    "addr:housenumber": "4",
+    "addr:postcode": "6706",
+    "addr:street": "Hauptstraße",
+    "amenity": "nightclub",
+    "contact:email": "office-mauerwerk@gmx.at",
+    "level": "1",
+    "name": "Mauerwerk",
+    "opening_hours": "Th 21:00-24:00; Fr,Sa 00:00-06:00,21:00-24:00; Su 00:00-06:00",
+    "wifi": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1485418685,
+  "lat": 48.8746227,
+  "lon": 15.4314183,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Discothek"
+  }
+},
+{
+  "type": "node",
+  "id": 1536753835,
+  "lat": 47.0724266,
+  "lon": 15.4475303,
+  "tags": {
+    "addr:city": "Graz",
+    "addr:housenumber": "43a",
+    "addr:postcode": "8010",
+    "addr:street": "Glacisstraße",
+    "amenity": "nightclub",
+    "contact:phone": "+43 664 2454200",
+    "contact:website": "https://www.clubmotion.at/",
+    "level": "-1",
+    "name": "Club Motion",
+    "old_name:2": "Grüne Spinne",
+    "opening_hours": "We 20:00-04:00; Fr 21:00-06:00; Sa 21:00-06:00",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1540097806,
+  "lat": 48.2311333,
+  "lon": 16.3520954,
+  "tags": {
+    "addr:city": "Wien",
+    "addr:country": "AT",
+    "addr:housenumber": "175-176",
+    "addr:place": "Stadtbahnbogen",
+    "addr:postcode": "1090",
+    "amenity": "nightclub",
+    "check_date": "2025-06-27",
+    "contact:facebook": "https://www.facebook.com/rideclubvienna/",
+    "contact:phone": "+43 676 3334500",
+    "contact:website": "http://www.rideclub.at/",
+    "name": "CellaVie Aviation Club",
+    "note": "Closing 1.1.2018, Vormals: Ride Club, Buddha Club, Kaiko",
+    "old_name": "Ride Club, Buddha Club, Kaiko",
+    "website": "https://www.cellavie.at/de/"
+  }
+},
+{
+  "type": "node",
+  "id": 1545712600,
+  "lat": 47.2794042,
+  "lon": 15.9681787,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "COCO Discostadl"
+  }
+},
+{
+  "type": "node",
+  "id": 1570022044,
+  "lat": 48.3067131,
+  "lon": 14.2872110,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Café Niveau - Nachtclub"
+  }
+},
+{
+  "type": "node",
+  "id": 1578088584,
+  "lat": 47.9064877,
+  "lon": 16.3908944,
+  "tags": {
+    "addr:city": "Pottendorf",
+    "addr:country": "AT",
+    "addr:housenumber": "16",
+    "addr:postcode": "2486",
+    "addr:street": "Hartlgasse",
+    "amenity": "nightclub",
+    "name": "Diskothek Blow Up",
+    "website": "www.disco-blowup.at",
+    "wifi": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1587023626,
+  "lat": 47.9909981,
+  "lon": 13.8089264,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Gentlemen´s Club"
+  }
+},
+{
+  "type": "node",
+  "id": 1593559337,
+  "lat": 47.9198104,
+  "lon": 16.2149508,
+  "tags": {
+    "addr:city": "Leobersdorf",
+    "addr:country": "AT",
+    "addr:housenumber": "2",
+    "addr:postcode": "2544",
+    "addr:street": "Ziegelofengasse",
+    "amenity": "nightclub",
+    "contact:email": "office@melibar-tanzcafe.at",
+    "contact:phone": "+43 1 9623 2558 4597",
+    "contact:website": "https://www.melibar-tanzcafe.at/",
+    "name": "Melibar Tanzcafe",
+    "old_name": "Pendl's Tanzbar",
+    "opening_hours": "Fr 21:00-06:00, Sa 22:00-06:00"
+  }
+},
+{
+  "type": "node",
+  "id": 1654459048,
+  "lat": 48.2036832,
+  "lon": 16.3638462,
+  "tags": {
+    "addr:city": "Wien",
+    "addr:country": "AT",
+    "addr:housenumber": "3A",
+    "addr:postcode": "1010",
+    "addr:street": "Burgring",
+    "amenity": "nightclub",
+    "at_bev:addr_date": "2017-10-01",
+    "check_date:opening_hours": "2024-05-04",
+    "name": "Passage Vanity",
+    "opening_hours:signed": "no",
+    "phone": "+43 1 9618800",
+    "smoking": "outside",
+    "source": "wheelmap.org",
+    "website": "https://sunshine.at/",
+    "wheelchair": "limited",
+    "wheelchair:description": "Lift für Handrollstühle vorhanden. Es existiert zwar ein Behindertenwc, allerdings wird diese als Lager benutzt und das Waschbecken wurde direkt vor die Toilette gebaut, sodass diese so nur von der zugestellten Seite und ohne Handgriffe zugänglich ist."
+  }
+},
+{
+  "type": "node",
+  "id": 1676767990,
+  "lat": 48.1987692,
+  "lon": 16.3880155,
+  "tags": {
+    "addr:city": "Wien",
+    "addr:country": "AT",
+    "addr:housenumber": "2",
+    "addr:postcode": "1030",
+    "addr:street": "Engelsberggasse",
+    "amenity": "nightclub",
+    "name": "Deja-Vu",
+    "opening_hours": "We-Sa 20:00-04:00"
+  }
+},
+{
+  "type": "node",
+  "id": 1681559577,
+  "lat": 47.3934566,
+  "lon": 13.6943662,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Hohenhaustenne"
+  }
+},
+{
+  "type": "node",
+  "id": 1715395456,
+  "lat": 46.8198341,
+  "lon": 14.8369547,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Studio 24"
+  }
+},
+{
+  "type": "node",
+  "id": 1715395459,
+  "lat": 46.8201141,
+  "lon": 14.8372791,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Tollhaus"
+  }
+},
+{
+  "type": "node",
+  "id": 1721036248,
+  "lat": 48.3561131,
+  "lon": 16.5995743,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Barbarossa the Club"
+  }
+},
+{
+  "type": "node",
+  "id": 1721585002,
+  "lat": 47.9737939,
+  "lon": 14.1495205,
+  "tags": {
+    "addr:city": "Nußbach",
+    "addr:housenumber": "7",
+    "addr:place": "Göritz",
+    "addr:postcode": "4542",
+    "alt_name": "LA Noisette",
+    "amenity": "nightclub",
+    "name": "Hailife",
+    "website": "https://www.genussschmiedn.at/hailife/"
+  }
+},
+{
+  "type": "node",
+  "id": 1729647382,
+  "lat": 47.2677358,
+  "lon": 11.4022131,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2026-08-19",
+    "name": "Tante Emma",
+    "opening_hours": "Sa 23:00-09:00; Fr 23:00-06:00; We 21:00-06:00",
+    "toilets:wheelchair": "no",
+    "website": "http://deinetante.at/",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 1760411638,
+  "lat": 48.1984755,
+  "lon": 16.3519179,
+  "tags": {
+    "addr:city": "Wien",
+    "addr:country": "AT",
+    "addr:housenumber": "3",
+    "addr:postcode": "1060",
+    "addr:street": "Nelkengasse",
+    "amenity": "nightclub",
+    "name": "Tanzcafe Jenseits",
+    "opening_hours": "Tu-Sa 21:00-04:00",
+    "phone": "+43 1 5871233",
+    "website": "http://www.tanzcafe-jenseits.com",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 1765880728,
+  "lat": 46.8067475,
+  "lon": 15.5619148,
+  "tags": {
+    "addr:postcode": "8431",
+    "addr:street": "Gewerbepark Nord",
+    "amenity": "nightclub",
+    "name": "La Noche - Disco",
+    "opening_hours": "Th-Sa,PH -1 day 21:00+",
+    "website": "http://www.lanoche.at/"
+  }
+},
+{
+  "type": "node",
+  "id": 1773901163,
+  "lat": 46.8055513,
+  "lon": 15.5587453,
+  "tags": {
+    "addr:housename": "NiteFlight",
+    "addr:housenumber": "9",
+    "addr:place": "Gralla",
+    "addr:postcode": "8431",
+    "addr:street": "Gewerbepark Nord",
+    "amenity": "nightclub",
+    "level": "1",
+    "name": "NiteFlight - Cocktailbar, Disco, Lounge",
+    "website": "http://www.niteflight.at",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1773903849,
+  "lat": 46.8054652,
+  "lon": 15.5653016,
+  "tags": {
+    "addr:housename": "Number One",
+    "addr:housenumber": "26",
+    "addr:postcode": "8431",
+    "addr:street": "Gewerbepark Süd",
+    "amenity": "nightclub",
+    "name": "N1 - Disco",
+    "note": "Diskothek, Tanzclub",
+    "operator": "Number One - Discoteca Gralla",
+    "website": "http://www.discoteca.at/"
+  }
+},
+{
+  "type": "node",
+  "id": 1775070493,
+  "lat": 48.2295413,
+  "lon": 16.3709281,
+  "tags": {
+    "addr:city": "Wien",
+    "addr:country": "AT",
+    "addr:housenumber": "8",
+    "addr:postcode": "1200",
+    "addr:street": "Wallensteinplatz",
+    "amenity": "nightclub",
+    "check_date": "2026-07-08",
+    "check_date:opening_hours": "2026-07-08",
+    "email": "shelter@mycity.at",
+    "name": "Shelter",
+    "opening_hours": "Su, Tu-Th 20:00-02:00; Fr-Sa 20:00-04:00",
+    "source": "http://shelter.at",
+    "sport": "table_soccer",
+    "website": "http://shelter.at"
+  }
+},
+{
+  "type": "node",
+  "id": 1785315520,
+  "lat": 48.2067764,
+  "lon": 16.3610780,
+  "tags": {
+    "addr:city": "Wien",
+    "addr:postcode": "1010",
+    "addr:street": "Heldenplatz",
+    "amenity": "nightclub",
+    "contact:facebook": "https://www.facebook.com/dervolksgarten/",
+    "contact:instagram": "https://www.instagram.com/volksgarten/",
+    "email": "office@volksgarten.at",
+    "level": "0",
+    "loc_name": "Voga",
+    "min_age": "21",
+    "name": "Diskothek Volksgarten",
+    "opening_hours": "Th-Sa 23:00-06:00",
+    "ref:vatin": "ATU41713106",
+    "smoking": "outside",
+    "toilets:wheelchair": "yes",
+    "website": "https://volksgarten.at/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1835782877,
+  "lat": 47.2692933,
+  "lon": 11.3926448,
+  "tags": {
+    "addr:city": "Innsbruck",
+    "addr:country": "AT",
+    "addr:housenumber": "8",
+    "addr:postcode": "6020",
+    "addr:street": "Herzog-Otto-Straße",
+    "amenity": "nightclub",
+    "check_date": "2026-05-02",
+    "name": "Das Otto",
+    "old_name": "Dachsbau",
+    "website": "https://www.facebook.com/das.otto.ibk",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2014217792,
+  "lat": 47.2656743,
+  "lon": 11.4011049,
+  "tags": {
+    "addr:city": "Innsbruck",
+    "addr:country": "AT",
+    "addr:housenumber": "3",
+    "addr:postcode": "6020",
+    "addr:street": "Brunecker Straße",
+    "amenity": "nightclub",
+    "name": "Luna",
+    "old_name": "Felix",
+    "opening_hours": "Th 22:00-04:00, Fr,Sa 23:00-05:00",
+    "website": "https://luna.tirol/"
+  }
+},
+{
+  "type": "node",
+  "id": 2029955433,
+  "lat": 47.9028470,
+  "lon": 13.1421106,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Lifestyle",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2034853154,
+  "lat": 46.6622762,
+  "lon": 13.0006133,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Poschi Bar"
+  }
+},
+{
+  "type": "node",
+  "id": 2042576239,
+  "lat": 48.2123236,
+  "lon": 14.4764132,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Palmenstadl"
+  }
+},
+{
+  "type": "node",
+  "id": 2069965892,
+  "lat": 47.3241137,
+  "lon": 12.7986842,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Greens XL"
+  }
+},
+{
+  "type": "node",
+  "id": 2077641436,
+  "lat": 47.1141836,
+  "lon": 13.1320070,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Wührers"
+  }
+},
+{
+  "type": "node",
+  "id": 2095184777,
+  "lat": 47.2368472,
+  "lon": 9.5959297,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2026-05-02",
+    "contact:email": "info@rauchgastronomie.at",
+    "contact:facebook": "https://www.facebook.com/rauchclub",
+    "contact:website": "http://www.rauchclub.at",
+    "name": "Rauch Club",
+    "opening_hours": "We, Th 21:00-02:00; Fr, Sa 21:00-04:00",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2115590614,
+  "lat": 48.1649798,
+  "lon": 16.3756939,
+  "tags": {
+    "addr:city": "Wien",
+    "addr:country": "AT",
+    "addr:housenumber": "14",
+    "addr:postcode": "1100",
+    "addr:street": "Favoritner Gewerbering",
+    "amenity": "nightclub",
+    "contact:facebook": "http://www.facebook.com/ClubVillageVienna",
+    "contact:instagram": "http://www.instagram.com/club_village_vienna/",
+    "email": "office@club-village.at",
+    "level": "0",
+    "min_age": "18",
+    "name": "Club Village",
+    "opening_hours": "Fr 22:00-06:00; Sa 23:00-06:00",
+    "smoking": "outside",
+    "website": "http://www.club-village.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 2138644909,
+  "lat": 48.2472639,
+  "lon": 14.6350378,
+  "tags": {
+    "amenity": "nightclub",
+    "min_age": "18",
+    "name": "El Profesor Night Club",
+    "website": "https://nightclubpro.at/"
+  }
+},
+{
+  "type": "node",
+  "id": 2139240928,
+  "lat": 47.0620956,
+  "lon": 15.4440670,
+  "tags": {
+    "addr:city": "Graz",
+    "addr:country": "AT",
+    "addr:housenumber": "87",
+    "addr:postcode": "8010",
+    "addr:street": "Brockmanngasse",
+    "amenity": "nightclub",
+    "capacity": "120",
+    "level": "-1",
+    "name": "baseMENt 2.0",
+    "smoking": "yes",
+    "website": "https://basement-graz.at/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2163639084,
+  "lat": 48.2500172,
+  "lon": 16.4691393,
+  "tags": {
+    "addr:city": "Wien",
+    "addr:country": "AT",
+    "addr:housenumber": "20-26",
+    "addr:postcode": "1220",
+    "addr:street": "Zwerchäckerweg",
+    "amenity": "nightclub",
+    "name": "K3"
+  }
+},
+{
+  "type": "node",
+  "id": 2211573971,
+  "lat": 46.7379032,
+  "lon": 14.2868029,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Discostadl Auer"
+  }
+},
+{
+  "type": "node",
+  "id": 2261282154,
+  "lat": 48.1833039,
+  "lon": 16.3281646,
+  "tags": {
+    "addr:city": "Wien",
+    "addr:country": "AT",
+    "addr:housenumber": "222-228",
+    "addr:postcode": "1120",
+    "addr:street": "Schönbrunner Straße",
+    "amenity": "nightclub",
+    "check_date": "2025-03-26",
+    "check_date:opening_hours": "2025-03-26",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/eb/U4_%28Club%29_7810_M%C3%B61997.jpg",
+    "min_age": "18",
+    "name": "U4 Discothek",
+    "opening_hours:signed": "no",
+    "smoking": "outside",
+    "source": "+43 01 81711920",
+    "toilets:wheelchair": "no",
+    "website": "https://www.u4.at/",
+    "wheelchair": "no",
+    "wikidata": "Q2466442",
+    "wikipedia": "de:U4 (Club)"
+  }
+},
+{
+  "type": "node",
+  "id": 2291762258,
+  "lat": 47.7601093,
+  "lon": 16.7979018,
+  "tags": {
+    "amenity": "nightclub",
+    "contact:website": "www.kathisworld.com",
+    "name": "Kathi's World"
+  }
+},
+{
+  "type": "node",
+  "id": 2331020783,
+  "lat": 48.2490254,
+  "lon": 14.6414610,
+  "tags": {
+    "amenity": "nightclub",
+    "email": "info@jederzeit.net",
+    "name": "jederzeit",
+    "opening_hours": "Th 20:00-01:00; Fr,Sa 20:00-04:00",
+    "operator": "Gerhard Surböck",
+    "phone": "+43 664 3551598",
+    "website": "https://www.jederzeit.net/"
+  }
+},
+{
+  "type": "node",
+  "id": 2366205823,
+  "lat": 47.9482887,
+  "lon": 12.9355967,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Johnny's Disco",
+    "old_name": "Mairoll",
+    "toilets:wheelchair": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2465362860,
+  "lat": 48.7028787,
+  "lon": 14.8981578,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Party Box"
+  }
+},
+{
+  "type": "node",
+  "id": 2476576889,
+  "lat": 48.2069427,
+  "lon": 16.3612497,
+  "tags": {
+    "addr:city": "Wien",
+    "addr:country": "AT",
+    "addr:housename": "Heldenplatz 1",
+    "addr:housenumber": "1",
+    "addr:postcode": "1010",
+    "addr:street": "Heldenplatz",
+    "amenity": "nightclub",
+    "check_date": "2025-07-10",
+    "name": "Säulenhalle",
+    "source": "http://www.saeulenhalle.at/"
+  }
+},
+{
+  "type": "node",
+  "id": 2538461739,
+  "lat": 48.2013324,
+  "lon": 16.3694064,
+  "tags": {
+    "addr:city": "Wien",
+    "addr:country": "AT",
+    "addr:housenumber": "61",
+    "addr:postcode": "1010",
+    "addr:street": "Kärntner Straße",
+    "amenity": "nightclub",
+    "brothel:club": "yes",
+    "brothel:escort_services": "yes",
+    "brothel:stripclub": "yes",
+    "description": "Brothel and Stripclub",
+    "email": "office@maxim-wien.com",
+    "name": "Maxim",
+    "old_name": "Aristokrat, Emanuelle, Planet",
+    "opening_hours": "Mo-Su 20:00-05:00",
+    "phone": "+43 1 5031620",
+    "website": "https://maxim-wien.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 2603089447,
+  "lat": 47.0686945,
+  "lon": 15.4442598,
+  "tags": {
+    "addr:city": "Graz",
+    "addr:country": "AT",
+    "addr:housenumber": "5a",
+    "addr:postcode": "8010",
+    "addr:street": "Opernring",
+    "amenity": "nightclub",
+    "contact:email": "office@club-circle.at",
+    "dance:opening_hours": "Th: 21:00+",
+    "leisure": "dance",
+    "level": "1",
+    "min_age": "21",
+    "name": "Circle Thalia",
+    "opening_hours": "We-Sa 22:00+",
+    "operator": "Studio 5a GmbH",
+    "smoking": "no",
+    "source": "survey",
+    "website": "https://www.club-circle.at/"
+  }
+},
+{
+  "type": "node",
+  "id": 2605273046,
+  "lat": 48.2112210,
+  "lon": 16.3392118,
+  "tags": {
+    "addr:city": "Wien",
+    "addr:housenumber": "84",
+    "addr:postcode": "1080",
+    "addr:street": "Josefstädter Straße",
+    "amenity": "nightclub",
+    "check_date:opening_hours": "2026-05-09",
+    "email": "mail@cafe-carina.at",
+    "fax": "+43 1 4064322",
+    "level": "0",
+    "name": "Café Carina",
+    "opening_hours": "Mo-Th 18:00-02:00, Fr,Sa 18:00-06:00",
+    "phone": "+43 1 4064322",
+    "smoking": "no",
+    "website": "http://www.cafe-carina.at",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2606922896,
+  "lat": 46.6166891,
+  "lon": 14.3028420,
+  "tags": {
+    "addr:city": "Klagenfurt am Wörthersee",
+    "addr:country": "AT",
+    "addr:housenumber": "39",
+    "addr:postcode": "9020",
+    "addr:street": "Florian-Gröger-Straße",
+    "amenity": "nightclub",
+    "check_date": "2022-12-28",
+    "level": "0",
+    "name": "IMSÜDEN Club",
+    "operator": "Lippitz"
+  }
+},
+{
+  "type": "node",
+  "id": 2627682502,
+  "lat": 47.2513201,
+  "lon": 12.1223307,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "K1"
+  }
+},
+{
+  "type": "node",
+  "id": 2656240330,
+  "lat": 47.1344115,
+  "lon": 13.6791590,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Treffpunkt"
+  }
+},
+{
+  "type": "node",
+  "id": 2667578962,
+  "lat": 47.0476509,
+  "lon": 16.0807739,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Mammamia",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2688556878,
+  "lat": 47.3587201,
+  "lon": 10.1899700,
+  "tags": {
+    "addr:city": "Riezlern",
+    "addr:country": "AT",
+    "addr:housenumber": "31",
+    "addr:postcode": "6991",
+    "addr:street": "Walserstraße",
+    "amenity": "nightclub",
+    "email": "events.kleinwalsertal@casinos.at",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "name": "Diskothek Tanzbar",
+    "opening_hours": "Fr-Sa 23:00-04:00",
+    "website": "https://www.kleinwalsertal.casinos.at"
+  }
+},
+{
+  "type": "node",
+  "id": 2785377436,
+  "lat": 47.4449538,
+  "lon": 12.3953512,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Lions Bar"
+  }
+},
+{
+  "type": "node",
+  "id": 2794882105,
+  "lat": 48.1727802,
+  "lon": 14.5190609,
+  "tags": {
+    "addr:city": "St. Valentin",
+    "addr:country": "AT",
+    "addr:housenumber": "34",
+    "addr:postcode": "4300",
+    "addr:street": "Langenharterstraße",
+    "amenity": "nightclub",
+    "name": "James Bar",
+    "website": "http://www.james-bar.com"
+  }
+},
+{
+  "type": "node",
+  "id": 3103368391,
+  "lat": 48.3448458,
+  "lon": 16.3312852,
+  "tags": {
+    "addr:city": "Korneuburg",
+    "addr:country": "AT",
+    "addr:housenumber": "19",
+    "addr:postcode": "2100",
+    "addr:street": "Stockerauer Straße",
+    "amenity": "nightclub",
+    "name": "Qube",
+    "old_name": "Donna Rosas",
+    "toilets:wheelchair": "no",
+    "website": "https://qubemusiclounge.at",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 3134827873,
+  "lat": 48.2026574,
+  "lon": 16.3669203,
+  "tags": {
+    "addr:city": "Wien",
+    "addr:country": "AT",
+    "addr:housenumber": "11",
+    "addr:postcode": "1010",
+    "addr:street": "Opernring",
+    "amenity": "nightclub",
+    "name": "Platzhirsch",
+    "old_name": "Maxim",
+    "website": "http://www.platz-hirsch.at"
+  }
+},
+{
+  "type": "node",
+  "id": 3215857487,
+  "lat": 48.2117504,
+  "lon": 16.3749551,
+  "tags": {
+    "addr:city": "Wien",
+    "addr:country": "AT",
+    "addr:housenumber": "5",
+    "addr:postcode": "1010",
+    "addr:street": "Seitenstettengasse",
+    "amenity": "nightclub",
+    "name": "Kaktus Club"
+  }
+},
+{
+  "type": "node",
+  "id": 3255811316,
+  "lat": 48.2062569,
+  "lon": 16.3520765,
+  "tags": {
+    "addr:city": "Wien",
+    "addr:country": "AT",
+    "addr:housenumber": "23",
+    "addr:postcode": "1070",
+    "addr:street": "Lerchenfelder Straße",
+    "amenity": "nightclub",
+    "name": "Live Music Club Replugged",
+    "phone": "+43 676 6943954",
+    "sport": "table_soccer",
+    "website": "https://www.replugged.at/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3260499254,
+  "lat": 47.1084145,
+  "lon": 11.2998406,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Nachtkastl"
+  }
+},
+{
+  "type": "node",
+  "id": 3284639978,
+  "lat": 47.4457194,
+  "lon": 9.6959335,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2024-06-27",
+    "name": "SENDER Club",
+    "opening_hours": "Fr 21:00-04:30;Sa 22:00-04:30",
+    "phone": "+436643402347",
+    "website": "https://www.clubsender.com/",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 3340419984,
+  "lat": 48.1494086,
+  "lon": 13.9920568,
+  "tags": {
+    "addr:city": "Wels",
+    "addr:country": "AT",
+    "addr:housenumber": "51",
+    "addr:postcode": "4600",
+    "addr:street": "Europastraße",
+    "amenity": "nightclub",
+    "name": "Club Escape",
+    "source": "geoimage.at"
+  }
+},
+{
+  "type": "node",
+  "id": 3360863629,
+  "lat": 48.2336085,
+  "lon": 16.3607977,
+  "tags": {
+    "addr:city": "Wien",
+    "addr:country": "AT",
+    "addr:housenumber": "12",
+    "addr:postcode": "1090",
+    "addr:street": "Spittelauer Lände",
+    "addr:unit": "Stadtbahnbogen 331-333",
+    "amenity": "nightclub",
+    "contact:facebook": "https://www.facebook.com/daswerkwien",
+    "contact:instagram": "https://www.instagram.com/daswerk_wien/",
+    "name": "Das Werk",
+    "smoking": "outside",
+    "sport": "table_soccer",
+    "website": "https://www.daswerk.org/"
+  }
+},
+{
+  "type": "node",
+  "id": 3366160125,
+  "lat": 47.9340069,
+  "lon": 13.0796343,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Kum Eina"
+  }
+},
+{
+  "type": "node",
+  "id": 3371227224,
+  "lat": 48.2001050,
+  "lon": 16.3708399,
+  "tags": {
+    "addr:city": "Wien",
+    "addr:country": "AT",
+    "addr:housenumber": "Obj. U26",
+    "addr:postcode": "1040",
+    "addr:street": "Karlsplatz",
+    "amenity": "nightclub",
+    "check_date:opening_hours": "2024-04-11",
+    "name": "Club U",
+    "opening_hours": "We,Th 12:00-02:00, Fr,Sa 09:30-04:00, Su 09:30-16:00",
+    "toilets:wheelchair": "yes",
+    "website": "https://club-u.at/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3372126133,
+  "lat": 47.2546106,
+  "lon": 12.2822855,
+  "tags": {
+    "addr:city": "Neukirchen am Großvenediger",
+    "addr:country": "AT",
+    "addr:housenumber": "315",
+    "addr:postcode": "5741",
+    "addr:street": "Wildkogelbahnstraße",
+    "amenity": "nightclub",
+    "name": "Kanne Disco",
+    "opening_hours": "We-Sa 15:00-03:00",
+    "phone": "+43 6565 64660",
+    "website": "https://www.pinzgauerkanne.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 3423689601,
+  "lat": 47.5036835,
+  "lon": 9.7439934,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Calypso",
+    "website": "https://www.calypso.at/"
+  }
+},
+{
+  "type": "node",
+  "id": 3512342460,
+  "lat": 47.5830190,
+  "lon": 15.4766011,
+  "tags": {
+    "addr:city": "Sankt Barbara im Mürztal",
+    "addr:housename": "Highlander Veitsch",
+    "addr:housenumber": "48",
+    "addr:postcode": "8664",
+    "addr:street": "Veitscher Straße",
+    "amenity": "nightclub",
+    "name": "Showbar Highland",
+    "smoking": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3608742202,
+  "lat": 47.3119687,
+  "lon": 14.9912531,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Maurer's"
+  }
+},
+{
+  "type": "node",
+  "id": 3611133869,
+  "lat": 46.8129428,
+  "lon": 13.7979926,
+  "tags": {
+    "addr:housenumber": "6",
+    "addr:street": "Schneerosenweg",
+    "amenity": "nightclub",
+    "name": "Take Five",
+    "note": "Opened seasonally"
+  }
+},
+{
+  "type": "node",
+  "id": 3636472610,
+  "lat": 48.2130442,
+  "lon": 16.3403399,
+  "tags": {
+    "addr:city": "Wien",
+    "addr:country": "AT",
+    "addr:housenumber": "4",
+    "addr:postcode": "1080",
+    "addr:street": "Hernalser Gürtel",
+    "amenity": "nightclub",
+    "check_date:opening_hours": "2026-06-23",
+    "contact:website": "http://www.estrada-bec.at",
+    "name": "Estrada",
+    "opening_hours:signed": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3754664959,
+  "lat": 48.1900504,
+  "lon": 16.3367790,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Studio 37",
+    "operator": "Koziarczyk KG",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 3889143834,
+  "lat": 46.6086791,
+  "lon": 14.3292140,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Eventstage"
+  }
+},
+{
+  "type": "node",
+  "id": 3954880398,
+  "lat": 46.9707265,
+  "lon": 11.0088904,
+  "tags": {
+    "addr:city": "Sölden",
+    "addr:country": "AT",
+    "addr:housenumber": "9",
+    "addr:street": "Dorfstraße",
+    "amenity": "nightclub",
+    "name": "Katapult",
+    "opening_hours": "Su, Mo-Th 20:00-04:00; Fr-Sa 20:00-05:00",
+    "website": "https://www.katapult-soelden.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 3962549146,
+  "lat": 48.4119745,
+  "lon": 15.6020828,
+  "tags": {
+    "addr:city": "Krems an der Donau",
+    "addr:country": "AT",
+    "addr:housenumber": "11",
+    "addr:postcode": "3500",
+    "addr:street": "Hoher Markt",
+    "amenity": "nightclub",
+    "min_age": "18",
+    "name": "Marquée",
+    "opening_hours": "Th-Sa 20:00+",
+    "phone": "+436641078000",
+    "smoking": "outside",
+    "website": "https://marquee-krems.at/"
+  }
+},
+{
+  "type": "node",
+  "id": 3964798768,
+  "lat": 46.8282827,
+  "lon": 12.7682761,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Stadtkeller Disco - Bar"
+  }
+},
+{
+  "type": "node",
+  "id": 4009335915,
+  "lat": 48.0808743,
+  "lon": 15.4807226,
+  "tags": {
+    "addr:city": "Hofstetten-Grünau",
+    "addr:country": "AT",
+    "addr:housenumber": "8",
+    "addr:postcode": "3202",
+    "addr:street": "Mainburgstraße",
+    "addr:suburb": "Mainburg",
+    "amenity": "nightclub",
+    "at_bev:addr_date": "2023-04-15",
+    "name": "Bolleros"
+  }
+},
+{
+  "type": "node",
+  "id": 4019425312,
+  "lat": 48.2003030,
+  "lon": 16.3600510,
+  "tags": {
+    "addr:city": "Wien",
+    "addr:country": "AT",
+    "addr:housenumber": "11",
+    "addr:postcode": "1060",
+    "addr:street": "Theobaldgasse",
+    "amenity": "nightclub",
+    "contact:website": "http://www.titanic.at",
+    "name": "Titanic",
+    "opening_hours": "Fr, Sa 11:00-06:00"
+  }
+},
+{
+  "type": "node",
+  "id": 4061168339,
+  "lat": 46.9989871,
+  "lon": 15.7735952,
+  "tags": {
+    "addr:city": "Kirchberg an der Raab",
+    "addr:housenumber": "222",
+    "addr:place": "Fladnitz im Raabtal",
+    "addr:postcode": "8322",
+    "amenity": "nightclub",
+    "name": "Die Rote Villa",
+    "operator": "Weber Gastronomiebetriebs KG",
+    "website": "http://www.rotevilla.at"
+  }
+},
+{
+  "type": "node",
+  "id": 4106513189,
+  "lat": 47.2193136,
+  "lon": 15.6276397,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Tollhaus Weiz"
+  }
+},
+{
+  "type": "node",
+  "id": 4106513190,
+  "lat": 47.2204697,
+  "lon": 15.6248573,
+  "tags": {
+    "addr:city": "Weiz",
+    "addr:country": "AT",
+    "addr:housenumber": "12",
+    "addr:postcode": "8160",
+    "addr:street": "Dr.-Karl-Widdmann-Straße",
+    "amenity": "nightclub",
+    "check_date": "2026-06-07",
+    "name": "Kokomo",
+    "opening_hours": "Fr,Sa,PH -1 day 21:00+",
+    "smoking": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4142411052,
+  "lat": 48.3099324,
+  "lon": 14.2840483,
+  "tags": {
+    "amenity": "nightclub",
+    "level": "-1",
+    "min_age": "18",
+    "name": "PRYSMA",
+    "note": "wheelchair: Da gleich nach dem Eingang eine Treppe ohne Rampe, Lift etc. sich befindet, ist es für Rollstuhlfahrer eher ungeeignet.",
+    "old_name": "Club Cube, Spielplatz",
+    "phone": "+43 650 841 1221",
+    "website": "http://www.prysmaclub.at/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4143596299,
+  "lat": 48.1792934,
+  "lon": 16.3266492,
+  "tags": {
+    "addr:city": "Wien",
+    "addr:country": "AT",
+    "addr:housenumber": "30-32",
+    "addr:postcode": "1120",
+    "addr:street": "Ruckergasse",
+    "amenity": "nightclub",
+    "check_date:opening_hours": "2026-05-02",
+    "name": "Club UTOPIA",
+    "opening_hours:signed": "no",
+    "phone": "+43 664 1244794",
+    "smoking": "outside",
+    "toilets:wheelchair": "yes",
+    "website": "https://www.utopia.co.at/",
+    "wheelchair": "yes",
+    "wheelchair:description": "ebenerdiger Zugang"
+  }
+},
+{
+  "type": "node",
+  "id": 4305619993,
+  "lat": 47.4464961,
+  "lon": 12.3133105,
+  "tags": {
+    "addr:city": "Kirchberg in Tirol",
+    "addr:country": "AT",
+    "addr:housenumber": "18",
+    "addr:postcode": "6365",
+    "addr:street": "Lendstraße",
+    "amenity": "nightclub",
+    "name": "Der kleine Tiroler"
+  }
+},
+{
+  "type": "node",
+  "id": 4305620102,
+  "lat": 47.4469492,
+  "lon": 12.3165571,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2024-08-20",
+    "name": "Eisbar",
+    "opening_hours": "Mo-Su,PH 15:00-23:45",
+    "website": "https://www.eisbar.at/"
+  }
+},
+{
+  "type": "node",
+  "id": 4305633594,
+  "lat": 47.4481794,
+  "lon": 12.3148135,
+  "tags": {
+    "alt_name": "Servus Bar",
+    "amenity": "nightclub",
+    "check_date": "2024-08-22",
+    "name": "Fuchslöchl",
+    "opening_hours": "Mo-Su 21:30-24:00+"
+  }
+},
+{
+  "type": "node",
+  "id": 4441162756,
+  "lat": 46.9677868,
+  "lon": 11.0083139,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Mirage"
+  }
+},
+{
+  "type": "node",
+  "id": 4578048955,
+  "lat": 48.1589886,
+  "lon": 15.1046312,
+  "tags": {
+    "amenity": "nightclub",
+    "email": "info@pulverfass.at",
+    "fax": "+43 7412 20164",
+    "name": "Pulverfass",
+    "opening_hours": "Fr,Sa 21:00+",
+    "phone": "+43 7412 56982",
+    "website": "https://www.pulverfass.at/"
+  }
+},
+{
+  "type": "node",
+  "id": 4722814075,
+  "lat": 46.7656855,
+  "lon": 14.3578563,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Das Brauhaus"
+  }
+},
+{
+  "type": "node",
+  "id": 4767738740,
+  "lat": 47.0883254,
+  "lon": 15.9267810,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Ilzer Tenne"
+  }
+},
+{
+  "type": "node",
+  "id": 4800506913,
+  "lat": 46.6126360,
+  "lon": 14.0427336,
+  "tags": {
+    "addr:city": "Velden am Wörther See",
+    "addr:housenumber": "8",
+    "addr:postcode": "9220",
+    "addr:street": "Seecorso",
+    "amenity": "nightclub",
+    "contact:email": "info@laspalmasclub.at",
+    "contact:phone": "+43 650 8002851",
+    "contact:website": "https://www.laspalmasclub.at/",
+    "name": "Las Palmas Latin Club",
+    "opening_hours": "Mo-Su 19:00-04:00"
+  }
+},
+{
+  "type": "node",
+  "id": 4840981413,
+  "lat": 47.9904838,
+  "lon": 13.6823176,
+  "tags": {
+    "addr:city": "Regau",
+    "addr:country": "AT",
+    "addr:housenumber": "15",
+    "addr:postcode": "4844",
+    "addr:street": "Betriebsstraße",
+    "amenity": "nightclub",
+    "at_bev:addr_date": "2016-10-02",
+    "name": "Max & Moritz Bar & Disco",
+    "phone": "+43 676 5801815",
+    "website": "http://www.mmregau.at/"
+  }
+},
+{
+  "type": "node",
+  "id": 4869297853,
+  "lat": 48.2052748,
+  "lon": 16.3715137,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2023-05-11",
+    "name": "Danzon",
+    "opening_hours": "We-Th 20:00-06:00; Fr-Sa 20:00-06:00",
+    "website": "https://www.danzon.club/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4876661693,
+  "lat": 47.0883832,
+  "lon": 11.4608203,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Vogelnest"
+  }
+},
+{
+  "type": "node",
+  "id": 4910074561,
+  "lat": 48.2096962,
+  "lon": 16.3754804,
+  "tags": {
+    "addr:city": "Wien",
+    "addr:country": "AT",
+    "addr:housenumber": "2",
+    "addr:postcode": "1010",
+    "addr:street": "Sonnenfelsgasse",
+    "amenity": "nightclub",
+    "check_date": "2025-08-12",
+    "name": "Bettel-Alm am Lugeck",
+    "name:de": "Lugeck Alm",
+    "opening_hours": "Mo,We-Sa 21:00-04:00",
+    "smoking": "no",
+    "website": "https://www.bettelalm-lugeck.at/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5095778536,
+  "lat": 48.2129527,
+  "lon": 16.3732325,
+  "tags": {
+    "addr:city": "Wien",
+    "addr:country": "AT",
+    "addr:housenumber": "4",
+    "addr:postcode": "1010",
+    "addr:street": "Salzgries",
+    "amenity": "nightclub",
+    "check_date": "2022-09-10",
+    "name": "fashiontv"
+  }
+},
+{
+  "type": "node",
+  "id": 5101362469,
+  "lat": 47.7965229,
+  "lon": 13.0492682,
+  "tags": {
+    "addr:city": "Salzburg",
+    "addr:country": "AT",
+    "addr:housenumber": "28a",
+    "addr:postcode": "5020",
+    "addr:street": "Herrengasse",
+    "amenity": "nightclub",
+    "check_date:opening_hours": "2026-04-01",
+    "contact:facebook": "https://www.facebook.com/clubanalog/",
+    "contact:phone": "+43 662 840130",
+    "contact:website": "http://www.gardenfreshgrooves.eu/club-analog/",
+    "description": "Jazz & blues club",
+    "name": "Club Analog",
+    "opening_hours:signed": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5184042865,
+  "lat": 48.2310728,
+  "lon": 16.3518953,
+  "tags": {
+    "addr:city": "Wien",
+    "addr:country": "AT",
+    "addr:housenumber": "172-174",
+    "addr:postcode": "1090",
+    "addr:street": "Währinger Gürtel",
+    "amenity": "nightclub",
+    "contact:facebook": "https://www.facebook.com/Club.Loco/",
+    "email": "office@locobar.at",
+    "name": "Loco Bar",
+    "note": "Vormals: 'Soho-Vienna 2.'",
+    "old_name": "Soho-Vienna 2.",
+    "opening_hours": "Mo-Su 19:00-24:00,00:00-04:00",
+    "smoking": "isolated",
+    "website": "https://www.locobar.at/",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 5185694142,
+  "lat": 48.2064782,
+  "lon": 16.3680156,
+  "tags": {
+    "addr:city": "Wien",
+    "addr:country": "AT",
+    "addr:housenumber": "6",
+    "addr:postcode": "1010",
+    "addr:street": "Josefsplatz",
+    "amenity": "nightclub",
+    "name": "Club Alice",
+    "old_name": "Palffy Club",
+    "opening_hours": "Fr-Sa 23:00-06:00",
+    "phone": "+43 664 2236999"
+  }
+},
+{
+  "type": "node",
+  "id": 5185694143,
+  "lat": 48.1977980,
+  "lon": 16.3629161,
+  "tags": {
+    "addr:city": "Wien",
+    "addr:country": "AT",
+    "addr:housenumber": "23",
+    "addr:postcode": "1040",
+    "addr:street": "Rechte Wienzeile",
+    "amenity": "nightclub",
+    "brewery": "various",
+    "check_date:opening_hours": "2025-06-19",
+    "cuisine": "regional",
+    "distillery": "various",
+    "food": "yes",
+    "name": "Goodman",
+    "opening_hours": "Tu-Su 03:00-10:00"
+  }
+},
+{
+  "type": "node",
+  "id": 5188605997,
+  "lat": 48.2134332,
+  "lon": 16.4045916,
+  "tags": {
+    "addr:city": "Wien",
+    "addr:country": "AT",
+    "addr:housenumber": "135",
+    "addr:postcode": "1020",
+    "addr:street": "Waldsteingartenstraße",
+    "amenity": "nightclub",
+    "description": "Soul, Funk, Jazz, R’n’B, Rap, Hip Hop",
+    "name": "VIE i PEE",
+    "operator": "Tuan Ho Anh",
+    "website": "https://pratersauna.tv/"
+  }
+},
+{
+  "type": "node",
+  "id": 5202979006,
+  "lat": 48.2037428,
+  "lon": 16.3713575,
+  "tags": {
+    "addr:city": "Wien",
+    "addr:country": "AT",
+    "addr:housenumber": "8",
+    "addr:postcode": "1010",
+    "addr:street": "Krugerstraße",
+    "amenity": "nightclub",
+    "contact:facebook": "https://www.facebook.com/No99Vienna/",
+    "contact:phone": "+43 699 10457783",
+    "contact:website": "https://no99.at/",
+    "email": "office@no99.at",
+    "name": "No. 99",
+    "opening_hours": "Fr-Sa 23:00-04:00",
+    "operator": "Hardi Mohammad"
+  }
+},
+{
+  "type": "node",
+  "id": 5213570367,
+  "lat": 48.1475597,
+  "lon": 16.9431210,
+  "tags": {
+    "addr:city": "Hainburg an der Donau",
+    "addr:country": "AT",
+    "addr:housenumber": "12",
+    "addr:postcode": "2410",
+    "addr:street": "Ungarstraße",
+    "amenity": "nightclub",
+    "contact:facebook": "https://www.facebook.com/easybarhainburg/",
+    "min_age": "16",
+    "name": "Easy Bar",
+    "opening_hours": "Mo off; Tu,We 19:00-01:00; Th 19:00-02:00; Fr,Sa 20:00-04:00; Su off",
+    "payment:cash": "yes",
+    "payment:credit_cards": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5224877088,
+  "lat": 48.2109545,
+  "lon": 16.3743143,
+  "tags": {
+    "addr:city": "Wien",
+    "addr:country": "AT",
+    "addr:housenumber": "9",
+    "addr:postcode": "1010",
+    "addr:street": "Rotgasse",
+    "amenity": "nightclub",
+    "email": "table@horst.wtf",
+    "name": "Horst",
+    "old_name": "Empire;P1;Olympia Studios",
+    "operator": "KNE Gastro",
+    "website": "http://www.horst.wtf"
+  }
+},
+{
+  "type": "node",
+  "id": 5286688011,
+  "lat": 47.4830487,
+  "lon": 12.1292770,
+  "tags": {
+    "addr:city": "Kirchbichl",
+    "addr:country": "AT",
+    "addr:housenumber": "17",
+    "addr:postcode": "6322",
+    "addr:street": "Luechstraße",
+    "amenity": "nightclub",
+    "name": "Party Stadl - Luech Keller"
+  }
+},
+{
+  "type": "node",
+  "id": 5305192502,
+  "lat": 48.2144528,
+  "lon": 16.3405534,
+  "tags": {
+    "addr:city": "Wien",
+    "addr:country": "AT",
+    "addr:housenumber": "70-71",
+    "addr:place": "Stadtbahnbogen",
+    "addr:postcode": "1080",
+    "amenity": "nightclub",
+    "check_date": "2024-08-31",
+    "contact:facebook": "noxbarvienna",
+    "name": "NOX",
+    "opening_hours": "Th,Fr,Sa 21:00-05:00",
+    "operator": "Nagy Romana",
+    "payment:cash": "yes",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "phone": "+43 699 19567461"
+  }
+},
+{
+  "type": "node",
+  "id": 5338796205,
+  "lat": 48.7028334,
+  "lon": 15.2232112,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2026-03-22",
+    "email": "willibald.schindler@a1.net",
+    "min_age": "16",
+    "name": "Tanzcafe Schindler",
+    "phone": "+43 2849 3180",
+    "website": "http://www.rockonschindler.at/"
+  }
+},
+{
+  "type": "node",
+  "id": 5351504896,
+  "lat": 47.4468012,
+  "lon": 12.3916933,
+  "tags": {
+    "addr:city": "Kitzbühel",
+    "addr:country": "AT",
+    "addr:housenumber": "20",
+    "addr:postcode": "6370",
+    "addr:street": "Im Gries",
+    "amenity": "nightclub",
+    "name": "Slab Kitz",
+    "operator": "Kitz Stone Handels GmbH",
+    "phone": "+43 664 4880669",
+    "source": "website",
+    "website": "http://www.slab-kitz.com"
+  }
+},
+{
+  "type": "node",
+  "id": 5438524825,
+  "lat": 48.1622667,
+  "lon": 14.0443736,
+  "tags": {
+    "addr:city": "Wels",
+    "addr:country": "AT",
+    "addr:housenumber": "60",
+    "addr:postcode": "4600",
+    "addr:street": "Wiesenstraße",
+    "amenity": "nightclub",
+    "name": "Feeling club",
+    "opening_hours": "Fr, Sa, Su 22:00-02:00",
+    "website": "https://www.facebook.com/feelingclubdiscowels/"
+  }
+},
+{
+  "type": "node",
+  "id": 5438524923,
+  "lat": 48.1546323,
+  "lon": 13.9939417,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Dinos Partyhaus"
+  }
+},
+{
+  "type": "node",
+  "id": 5486813784,
+  "lat": 47.2675970,
+  "lon": 11.3943861,
+  "tags": {
+    "addr:city": "Innsbruck",
+    "addr:country": "AT",
+    "addr:housenumber": "12",
+    "addr:postcode": "6020",
+    "addr:street": "Stiftgasse",
+    "amenity": "nightclub",
+    "check_date": "2026-08-24",
+    "check_date:opening_hours": "2023-09-28",
+    "name": "Filou",
+    "opening_hours": "Fr-Sa 22:00-04:00",
+    "website": "https://www.filou-club.at/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5659469882,
+  "lat": 47.5826277,
+  "lon": 12.1682263,
+  "tags": {
+    "addr:city": "Kufstein",
+    "addr:country": "AT",
+    "addr:housenumber": "2",
+    "addr:postcode": "6330",
+    "addr:street": "Unterer Stadtplatz",
+    "amenity": "nightclub",
+    "name": "Sega Bar",
+    "website": "https://kufstein.segabar.at/"
+  }
+},
+{
+  "type": "node",
+  "id": 5842166786,
+  "lat": 48.2174564,
+  "lon": 16.3421870,
+  "tags": {
+    "addr:city": "Wien",
+    "addr:country": "AT",
+    "addr:housenumber": "90-91",
+    "addr:place": "Stadtbahnbogen",
+    "addr:postcode": "1090",
+    "amenity": "nightclub",
+    "check_date": "2024-08-31",
+    "name": "all in"
+  }
+},
+{
+  "type": "node",
+  "id": 5849710156,
+  "lat": 47.1106632,
+  "lon": 11.3057793,
+  "tags": {
+    "addr:city": "Neustift im Stubaital",
+    "addr:housenumber": "16",
+    "addr:postcode": "6167",
+    "addr:street": "Dorf",
+    "amenity": "nightclub",
+    "name": "Dorfalm",
+    "opening_hours": "Fr-Sa 21:00-04:00",
+    "phone": "+436642120014",
+    "smoking": "yes",
+    "website": "https://www.rumpl.rocks/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5875499622,
+  "lat": 46.5871635,
+  "lon": 13.9151447,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Drop In"
+  }
+},
+{
+  "type": "node",
+  "id": 6067034324,
+  "lat": 47.0512597,
+  "lon": 15.4343896,
+  "tags": {
+    "addr:city": "Graz",
+    "addr:country": "AT",
+    "addr:housenumber": "23",
+    "addr:postcode": "8020",
+    "addr:street": "Puchstraße",
+    "amenity": "nightclub",
+    "name": "Taggerwerk"
+  }
+},
+{
+  "type": "node",
+  "id": 6080581951,
+  "lat": 47.9438430,
+  "lon": 16.8492460,
+  "tags": {
+    "addr:city": "Neusiedl am See",
+    "addr:housenumber": "92",
+    "addr:postcode": "7100",
+    "addr:street": "Untere Hauptstraße",
+    "amenity": "nightclub",
+    "name": "Confetti Bar"
+  }
+},
+{
+  "type": "node",
+  "id": 6090899947,
+  "lat": 48.2010683,
+  "lon": 16.3695108,
+  "tags": {
+    "addr:city": "Wien",
+    "addr:country": "AT",
+    "addr:housenumber": "1",
+    "addr:postcode": "1010",
+    "addr:street": "Karlsplatz",
+    "amenity": "nightclub",
+    "contact:facebook": "sassmusicclubvienna",
+    "contact:instagram": "sassmusicclub",
+    "email": "sebastian.schatz@sassvienna.com",
+    "name": "SASS Music Club",
+    "opening_hours": "Th-Fr 23:00-06:00; Sa 23:00-05:00; Su 06:00-11:00",
+    "phone": "+436765390441",
+    "website": "https://sassvienna.com/en/"
+  }
+},
+{
+  "type": "node",
+  "id": 6310206984,
+  "lat": 48.2150338,
+  "lon": 16.3414338,
+  "tags": {
+    "addr:city": "Wien",
+    "addr:country": "AT",
+    "addr:housenumber": "22",
+    "addr:postcode": "1080",
+    "addr:street": "Hernalser Gürtel",
+    "amenity": "nightclub",
+    "check_date": "2026-10-03",
+    "check_date:opening_hours": "2026-10-03",
+    "name": "Porto",
+    "opening_hours": "Fr 22:00-04:00, Sa 22:00-04:00"
+  }
+},
+{
+  "type": "node",
+  "id": 6467123785,
+  "lat": 47.4317414,
+  "lon": 12.2142554,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2025-03-08",
+    "name": "Karat"
+  }
+},
+{
+  "type": "node",
+  "id": 6486280919,
+  "lat": 48.2270028,
+  "lon": 14.2543832,
+  "tags": {
+    "addr:housenumber": "109",
+    "addr:street": "Johann Roithner-Straße",
+    "amenity": "nightclub",
+    "name": "FOX - Die Tanzbar",
+    "opening_hours": "Th 19:00-01:00; Tu, Fr, Sa 20:00-03:00"
+  }
+},
+{
+  "type": "node",
+  "id": 6495194862,
+  "lat": 48.3029044,
+  "lon": 14.2902709,
+  "tags": {
+    "addr:city": "Linz",
+    "addr:housenumber": "17-25",
+    "addr:postcode": "4020",
+    "addr:street": "Landstraße",
+    "amenity": "nightclub",
+    "dance:style": "salsa",
+    "name": "Remembar",
+    "website": "https://www.remembar.club"
+  }
+},
+{
+  "type": "node",
+  "id": 7020629865,
+  "lat": 48.1992217,
+  "lon": 16.3320536,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "SFRJ",
+    "opening_hours": "Mo,Tu 10:00-24:00, Th 10:00-00:15, Fr,Sa 10:00-04:00, We,Su 10:00-02:00"
+  }
+},
+{
+  "type": "node",
+  "id": 7022739182,
+  "lat": 47.0120020,
+  "lon": 10.2903607,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Trofana Tenne",
+    "opening_hours": "Mo-Su 18:00-02:00"
+  }
+},
+{
+  "type": "node",
+  "id": 7325157937,
+  "lat": 47.2673857,
+  "lon": 11.4313868,
+  "tags": {
+    "addr:city": "Innsbruck",
+    "addr:housenumber": "23",
+    "addr:postcode": "6020",
+    "addr:street": "Stadlweg",
+    "amenity": "nightclub",
+    "description": "Salsa Tanz Club seit 2001",
+    "email": "info@salsalibre.at",
+    "level": "0",
+    "name": "Club Salsa Libre",
+    "operator": "Verein Salsa Libre Tirol",
+    "payment:cash": "yes",
+    "smoking": "no",
+    "website": "https://www.salsalibre.at"
+  }
+},
+{
+  "type": "node",
+  "id": 7389057228,
+  "lat": 47.8022368,
+  "lon": 13.4729838,
+  "tags": {
+    "addr:city": "Sankt Gilgen",
+    "addr:housenumber": "10",
+    "addr:postcode": "4866",
+    "addr:street": "Unterburgau",
+    "amenity": "nightclub",
+    "club": "yes",
+    "contact:facebook": "https://www.facebook.com/lovehousesalzburg/",
+    "contact:phone": "+43 660 6662490",
+    "contact:website": "https://www.nachtclub-salzburg.com/",
+    "name": "Love House",
+    "opening_hours": "Mo-Su 14:00-05:00"
+  }
+},
+{
+  "type": "node",
+  "id": 7762497327,
+  "lat": 47.4950583,
+  "lon": 9.7140927,
+  "tags": {
+    "addr:city": "Bregenz",
+    "addr:country": "AT",
+    "addr:housenumber": "74",
+    "addr:postcode": "6900",
+    "addr:street": "Rheinstraße",
+    "amenity": "nightclub",
+    "contact:phone": "+43 5574 705 65",
+    "name": "Tanzbar Nachtigall",
+    "opening_hours": "Th-Sa 20:30-06:00",
+    "website": "http://www.nachtigall.at"
+  }
+},
+{
+  "type": "node",
+  "id": 7902484946,
+  "lat": 47.2732829,
+  "lon": 11.2418797,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Nachtschicht",
+    "old_name": "Löwengrube"
+  }
+},
+{
+  "type": "node",
+  "id": 8094306955,
+  "lat": 48.0431773,
+  "lon": 14.4198954,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Maxim"
+  }
+},
+{
+  "type": "node",
+  "id": 8536922753,
+  "lat": 47.0106505,
+  "lon": 10.2908360,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "PostHorndl",
+    "operator": "Post Hotel",
+    "website": "https://www.post-ischgl.com/posthoerndl/"
+  }
+},
+{
+  "type": "node",
+  "id": 8595967621,
+  "lat": 48.0082131,
+  "lon": 15.1647634,
+  "tags": {
+    "addr:city": "Scheibbs",
+    "addr:housenumber": "1",
+    "addr:postcode": "3270",
+    "addr:street": "Feldgasse",
+    "amenity": "nightclub",
+    "name": "Proberaum Scheibbs",
+    "operator": "Verein Proberaum Scheibbs",
+    "smoking": "outside",
+    "website": "https://www.proberaumscheibbs.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 8624737817,
+  "lat": 47.2052575,
+  "lon": 11.8705828,
+  "tags": {
+    "amenity": "nightclub",
+    "cuisine": "pizza;kebab",
+    "name": "Fuchslöchl"
+  }
+},
+{
+  "type": "node",
+  "id": 8721657365,
+  "lat": 46.6254503,
+  "lon": 14.3061761,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date:opening_hours": "2023-11-12",
+    "contact:tiktok": "https://www.tiktok.com/@club_st.tropez",
+    "name": "Saint Tropez",
+    "opening_hours:signed": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 8773851787,
+  "lat": 46.9291681,
+  "lon": 14.5471141,
+  "tags": {
+    "amenity": "nightclub",
+    "contact:facebook": "https://de-de.facebook.com/pages/category/Dance---Night-Club/Tanzcafe-Wenzel-538137693035582",
+    "name": "Tanzcafe Wenzel"
+  }
+},
+{
+  "type": "node",
+  "id": 8927964550,
+  "lat": 47.5138049,
+  "lon": 12.3062265,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "KaiserDisco Ellmau",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 9160762159,
+  "lat": 46.6118636,
+  "lon": 13.8470709,
+  "tags": {
+    "addr:city": "Villach",
+    "addr:housenumber": "2a",
+    "addr:postcode": "9500",
+    "addr:street": "Moritschstraße",
+    "amenity": "nightclub",
+    "min_age": "18",
+    "name": "Frühbar04"
+  }
+},
+{
+  "type": "node",
+  "id": 9229402917,
+  "lat": 48.2025668,
+  "lon": 16.3726908,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "BallCanCan"
+  }
+},
+{
+  "type": "node",
+  "id": 9792243140,
+  "lat": 48.2150070,
+  "lon": 16.3370042,
+  "tags": {
+    "addr:city": "Wien",
+    "addr:country": "AT",
+    "addr:housenumber": "32",
+    "addr:postcode": "1170",
+    "addr:street": "Ottakringer Straße",
+    "amenity": "nightclub",
+    "at_bev:addr_date": "2022-04-01",
+    "check_date": "2025-07-03",
+    "name": "FACE"
+  }
+},
+{
+  "type": "node",
+  "id": 9999380320,
+  "lat": 47.2570711,
+  "lon": 11.3965914,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Mausefalle",
+    "opening_hours": "Tu-Th 20:30-04:00; Fr-Sa 20:30-06:00",
+    "website": "http://www.mause-falle.at/"
+  }
+},
+{
+  "type": "node",
+  "id": 10538768866,
+  "lat": 47.4905126,
+  "lon": 12.0618861,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Gleis 9",
+    "website": "https://www.gleis9.at/"
+  }
+},
+{
+  "type": "node",
+  "id": 10556657200,
+  "lat": 47.3917019,
+  "lon": 13.6877029,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "cultclub",
+    "opening_hours": "Fr-Sa 21:00-04:00"
+  }
+},
+{
+  "type": "node",
+  "id": 10718298333,
+  "lat": 47.2569968,
+  "lon": 11.3963236,
+  "tags": {
+    "amenity": "nightclub",
+    "contact:instagram": "office@minki-innsbruck.at",
+    "name": "minki",
+    "opening_hours": "We,Fr,Sa",
+    "website": "https://www.minki-innsbruck.at/"
+  }
+},
+{
+  "type": "node",
+  "id": 10723905465,
+  "lat": 47.1693896,
+  "lon": 13.1091882,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2026-03-04",
+    "check_date:opening_hours": "2026-03-04",
+    "name": "Paradise",
+    "opening_hours:signed": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 10753095254,
+  "lat": 48.1886361,
+  "lon": 14.1853572,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Club Nero",
+    "opening_hours": "Fr,Sa 22:00-05:00",
+    "operator": "Familie Mayr",
+    "website": "https://www.gasthof-mayr.at/clubnero"
+  }
+},
+{
+  "type": "node",
+  "id": 11061773120,
+  "lat": 47.3907512,
+  "lon": 12.6349245,
+  "tags": {
+    "amenity": "nightclub",
+    "level": "-1",
+    "name": "Schwips Ladies Dancing"
+  }
+},
+{
+  "type": "node",
+  "id": 11185170049,
+  "lat": 47.4885226,
+  "lon": 10.7159521,
+  "tags": {
+    "addr:city": "Reutte",
+    "addr:housenumber": "10",
+    "addr:postcode": "6600",
+    "addr:street": "Lindenstraße",
+    "alt_name": "Disco 194;Nachtclub 194",
+    "amenity": "nightclub",
+    "min_age": "18",
+    "name": "Nachtclub Nineteen:four",
+    "operator": "Christian Dienewald",
+    "smoking": "outside",
+    "website": "http://www.dienewald.at/nineteenfour"
+  }
+},
+{
+  "type": "node",
+  "id": 11347336325,
+  "lat": 47.0493708,
+  "lon": 15.4346677,
+  "tags": {
+    "addr:city": "Graz",
+    "addr:country": "AT",
+    "addr:housenumber": "47",
+    "addr:postcode": "8020",
+    "addr:street": "Puchstraße",
+    "amenity": "nightclub",
+    "facebook": "https://www.facebook.com/p/Thelux-Graz-100054271790653/?locale=de_DE",
+    "name": "The Lux",
+    "phone": "+43 676 67 73 012"
+  }
+},
+{
+  "type": "node",
+  "id": 11397551018,
+  "lat": 48.2541403,
+  "lon": 14.2806159,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "elite Club Linz",
+    "opening_hours": "Sa 21:00-04:00"
+  }
+},
+{
+  "type": "node",
+  "id": 11408055442,
+  "lat": 47.0750150,
+  "lon": 15.4511675,
+  "tags": {
+    "addr:city": "Graz",
+    "addr:country": "AT",
+    "addr:housenumber": "9",
+    "addr:postcode": "8010",
+    "addr:street": "Beethovenstraße",
+    "amenity": "nightclub",
+    "min_age": "21",
+    "name": "Kottulinsky",
+    "website": "https://kottulinsky.club/"
+  }
+},
+{
+  "type": "node",
+  "id": 11459677331,
+  "lat": 48.1375647,
+  "lon": 16.3174286,
+  "tags": {
+    "air_conditioning": "yes",
+    "amenity": "nightclub",
+    "mobile": "+4368181711706",
+    "name": "Bloom",
+    "opening_hours": "Mo-Su 15:00-00:00",
+    "smoking": "no",
+    "website": "http://www.instagram.com/bloom_vienna/"
+  }
+},
+{
+  "type": "node",
+  "id": 11622649764,
+  "lat": 47.0792521,
+  "lon": 9.9202133,
+  "tags": {
+    "amenity": "nightclub",
+    "min_age": "18",
+    "name": "Löwengrube",
+    "operator": "Hotel Löwen"
+  }
+},
+{
+  "type": "node",
+  "id": 11844635736,
+  "lat": 47.0081388,
+  "lon": 10.2855661,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Livingroom - Table Dance Bar",
+    "opening_hours": "Mo-Su 21:00+"
+  }
+},
+{
+  "type": "node",
+  "id": 11874537605,
+  "lat": 48.2987812,
+  "lon": 14.2909092,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Phantom Club",
+    "opening_hours": "Mo-Th 14:00-04:00; Fr-Su 20:00-04:00; PH 00:00-04:00,20:00-24:00"
+  }
+},
+{
+  "type": "node",
+  "id": 11938909449,
+  "lat": 47.3720619,
+  "lon": 16.1228155,
+  "tags": {
+    "amenity": "nightclub",
+    "min_age": "16",
+    "name": "Vino en Paso",
+    "smoking": "isolated"
+  }
+},
+{
+  "type": "node",
+  "id": 11938921526,
+  "lat": 47.3709633,
+  "lon": 16.1223496,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Südsee"
+  }
+},
+{
+  "type": "node",
+  "id": 12023707694,
+  "lat": 47.5833287,
+  "lon": 12.1686131,
+  "tags": {
+    "amenity": "nightclub",
+    "min_age": "18",
+    "name": "Tschin Dancefloor"
+  }
+},
+{
+  "type": "node",
+  "id": 12046631567,
+  "lat": 48.0435561,
+  "lon": 14.4182481,
+  "tags": {
+    "addr:housenumber": "10",
+    "addr:street": "Fabrikstraße",
+    "amenity": "nightclub",
+    "name": "Bar Madame",
+    "opening_hours": "Mo-Su 08:00-05:00"
+  }
+},
+{
+  "type": "node",
+  "id": 12145585481,
+  "lat": 47.0681934,
+  "lon": 15.4333355,
+  "tags": {
+    "addr:city": "Graz",
+    "addr:housenumber": "25",
+    "addr:postcode": "8020",
+    "addr:street": "Griesgasse",
+    "amenity": "nightclub",
+    "level": "-1",
+    "name": "Club Bunker",
+    "note": "Usual opening hours (may vary depending on the events taking place) Events are regularly posted here: (Non Official) https://events.graz.social/",
+    "opening_hours": "Fr, Sa 23:00 - 07:00",
+    "smoking": "outside"
+  }
+},
+{
+  "type": "node",
+  "id": 12373640407,
+  "lat": 47.0763771,
+  "lon": 15.4498176,
+  "tags": {
+    "addr:city": "Graz",
+    "addr:housenumber": "14",
+    "addr:postcode": "8010",
+    "addr:street": "Halbärthgasse",
+    "amenity": "nightclub",
+    "min_age": "18",
+    "name": "Der Klub",
+    "note": "Opening-Hours depend on events taking place",
+    "smoking": "no",
+    "website": "https://derklub.at/"
+  }
+},
+{
+  "type": "node",
+  "id": 12454283570,
+  "lat": 47.3293138,
+  "lon": 11.1860889,
+  "tags": {
+    "addr:city": "Seefeld in Tirol",
+    "addr:housenumber": "276",
+    "addr:postcode": "6100",
+    "addr:street": "Klosterstraße",
+    "amenity": "nightclub",
+    "brewery": "Stiegl",
+    "check_date": "2026-02-26",
+    "email": "kaltschmid@kaltschmid.info",
+    "name": "Westernsaloon Buffalo",
+    "opening_hours": "We-Sa 23:00-04:00",
+    "phone": "+43 5212 2191"
+  }
+},
+{
+  "type": "node",
+  "id": 12692785227,
+  "lat": 47.1552828,
+  "lon": 11.7259556,
+  "tags": {
+    "addr:city": "Tux",
+    "addr:housenumber": "463",
+    "addr:postcode": "6293",
+    "addr:street": "Lanersbach",
+    "amenity": "nightclub",
+    "contact:email": "info@tenne.com",
+    "contact:facebook": "kleinetenne",
+    "contact:phone": "+4352878501",
+    "contact:website": "https://www.tenne.com/kleine-tenne-lanersbach/",
+    "name": "Kleine Tenne",
+    "opening_hours": "Mo-Sa 21:00-04:00"
+  }
+},
+{
+  "type": "node",
+  "id": 12803695852,
+  "lat": 47.0754947,
+  "lon": 15.4285535,
+  "tags": {
+    "addr:city": "Graz",
+    "addr:housenumber": "45-47",
+    "addr:postcode": "8020",
+    "addr:street": "Josefigasse",
+    "amenity": "nightclub",
+    "check_date": "2025-05-02",
+    "contact:facebook": "https://www.facebook.com/eule.koffeinbier/",
+    "name": "GRNGR",
+    "note": "Alternative Event-Location von Eule Bier.\nFreiluft-Areal mit Bühne, Indoor mit mehreren Floors",
+    "operator": "Eule Bier",
+    "smoking": "outside"
+  }
+},
+{
+  "type": "node",
+  "id": 12919953455,
+  "lat": 47.0503431,
+  "lon": 15.1443116,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "UP&DOWN"
+  }
+},
+{
+  "type": "node",
+  "id": 13033488019,
+  "lat": 47.4116974,
+  "lon": 9.7426109,
+  "tags": {
+    "addr:housenumber": "33",
+    "addr:street": "Marktstraße",
+    "amenity": "nightclub",
+    "contact:email": "CLUB@MARKET33.AT",
+    "name": "Market33",
+    "website": "https://www.market33.at/"
+  }
+},
+{
+  "type": "node",
+  "id": 13894918141,
+  "lat": 48.1281188,
+  "lon": 16.3221032,
+  "tags": {
+    "addr:city": "Vösendorf",
+    "addr:housenumber": "13",
+    "addr:postcode": "2331",
+    "addr:street": "Marktstraße",
+    "amenity": "nightclub",
+    "check_date": "2026-05-30",
+    "name": "Exil",
+    "website": "https://www.club-exil.at/"
+  }
+},
+{
+  "type": "node",
+  "id": 14017504477,
+  "lat": 47.4420113,
+  "lon": 15.6515411,
+  "tags": {
+    "addr:city": "Fischbach",
+    "addr:housenumber": "44",
+    "addr:postcode": "8654",
+    "addr:street": "Dorfstraße",
+    "amenity": "nightclub",
+    "contact:facebook": "www.facebook.com/discostadlschurl/",
+    "contact:instagram": "https://www.instagram.com/discostadl/",
+    "email": "info@disco-stadl.at",
+    "name": "Disco-STADL Schurl – Tanzcafé",
+    "opening_hours": "Mar-Dec \"Nur zu den Events ab 21:00\"",
+    "operator": "Klaus Zink",
+    "website": "https://www.disco-stadl.at/"
+  }
+},
+{
+  "type": "node",
+  "id": 14017778595,
+  "lat": 47.2173791,
+  "lon": 15.6235546,
+  "tags": {
+    "addr:housenumber": "3",
+    "addr:street": "Dr.-Karl-Renner-Gasse",
+    "amenity": "nightclub",
+    "check_date": "2026-07-15",
+    "level": "0",
+    "name": "LA"
+  }
+},
+{
+  "type": "way",
+  "id": 44525221,
+  "center": {
+    "lat": 48.4568700,
+    "lon": 15.7151042
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Saustall Hadersdorf",
+    "source": "Bing",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 84141235,
+  "center": {
+    "lat": 47.0758422,
+    "lon": 15.4314436
+  },
+  "tags": {
+    "addr:city": "Graz",
+    "addr:country": "AT",
+    "addr:housenumber": "6",
+    "addr:postcode": "8020",
+    "addr:street": "Neubaugasse",
+    "alt_name": "ProjektPopCulture;Project Pop Culture;ppc",
+    "amenity": "nightclub",
+    "building": "industrial",
+    "building:levels": "1",
+    "check_date": "2023-02-21",
+    "email": "ppc@ppc.st",
+    "fax": "+43 316 814141-331",
+    "mobile": "+43 650 8141418",
+    "name": "p.p.c.",
+    "phone": "+43 316 814141-33",
+    "smoking": "outside",
+    "source": "GeoImage.at",
+    "website": "https://popculture.at/",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "way",
+  "id": 88268016,
+  "center": {
+    "lat": 48.4568733,
+    "lon": 15.7212268
+  },
+  "tags": {
+    "addr:city": "Haderdorf",
+    "addr:country": "AT",
+    "addr:housename": "Restaurant zur Linde",
+    "addr:housenumber": "9",
+    "addr:postcode": "3493",
+    "addr:street": "Mühlgasse",
+    "amenity": "nightclub",
+    "building": "house",
+    "name": "Bar 1900",
+    "source": "Bing"
+  }
+},
+{
+  "type": "way",
+  "id": 89004603,
+  "center": {
+    "lat": 47.3156656,
+    "lon": 15.9818042
+  },
+  "tags": {
+    "addr:city": "Greinbach",
+    "addr:country": "AT",
+    "addr:housenumber": "242",
+    "addr:postcode": "8230",
+    "addr:street": "Gewerbepark Greinbach West",
+    "amenity": "nightclub",
+    "at_bev:addr_date": "2019-10-01",
+    "building": "yes",
+    "name": "Disco Excalibur - Hartberg",
+    "website": "https://www.disco-excalibur.at/hartberg/"
+  }
+},
+{
+  "type": "way",
+  "id": 93947816,
+  "center": {
+    "lat": 48.0366099,
+    "lon": 14.4176026
+  },
+  "tags": {
+    "addr:city": "Steyr",
+    "addr:housenumber": "1",
+    "addr:postcode": "4400",
+    "addr:street": "Unterer Schiffweg",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Nachtclub Stadt Wien",
+    "name:en": "Nightclub Stadt Wien",
+    "phone": "+43 699 1717 2001",
+    "website": "http://www.nachtclub-steyr.at/"
+  }
+},
+{
+  "type": "way",
+  "id": 98011792,
+  "center": {
+    "lat": 48.0059480,
+    "lon": 16.2199392
+  },
+  "tags": {
+    "addr:city": "Baden",
+    "addr:country": "AT",
+    "addr:housenumber": "19",
+    "addr:postcode": "2500",
+    "addr:street": "Helenenstraße",
+    "alt_name": "Villa Aichelburg",
+    "amenity": "nightclub",
+    "building": "yes",
+    "heritage": "2",
+    "heritage:operator": "bda",
+    "name": "Zone 21",
+    "ref:at:bda": "77465",
+    "wikidata": "Q20170610",
+    "wikipedia": "de:Villa Aichelburg"
+  }
+},
+{
+  "type": "way",
+  "id": 102161624,
+  "center": {
+    "lat": 48.2557236,
+    "lon": 14.2774010
+  },
+  "tags": {
+    "addr:city": "Linz",
+    "addr:country": "AT",
+    "addr:housenumber": "48",
+    "addr:postcode": "4020",
+    "addr:street": "Helmholtzstraße",
+    "amenity": "nightclub",
+    "building": "yes",
+    "check_date:opening_hours": "2024-09-02",
+    "name": "Imperial Club",
+    "opening_hours:signed": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 102418871,
+  "center": {
+    "lat": 48.2464932,
+    "lon": 14.2656409
+  },
+  "tags": {
+    "addr:city": "Linz",
+    "addr:country": "AT",
+    "addr:housenumber": "6",
+    "addr:postcode": "4030",
+    "addr:street": "Wattstraße",
+    "amenity": "nightclub",
+    "building": "yes",
+    "description": "The new pool generation",
+    "name": "Poolhall Linz",
+    "website": "https://www.poolhall.at/"
+  }
+},
+{
+  "type": "way",
+  "id": 108842604,
+  "center": {
+    "lat": 48.1955109,
+    "lon": 16.3554692
+  },
+  "tags": {
+    "addr:city": "Wien",
+    "addr:country": "AT",
+    "addr:housenumber": "18",
+    "addr:postcode": "1050",
+    "addr:street": "Hamburgerstraße",
+    "amenity": "nightclub",
+    "building": "apartments",
+    "building:levels": "4",
+    "name": "Celeste",
+    "note": "Auch im Nichtraucherbereich sind Aschenbecher bereitgestellt und es wird geraucht!",
+    "opening_hours": "Fr,Sa 18:00-06:00; Mo,Th 18:00-24:00",
+    "roof:levels": "0",
+    "smoking": "yes",
+    "source": "wien.at",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 122431966,
+  "center": {
+    "lat": 47.3026933,
+    "lon": 9.6223000
+  },
+  "tags": {
+    "addr:city": "Röthis",
+    "addr:country": "AT",
+    "addr:housenumber": "8",
+    "addr:postcode": "6832",
+    "addr:street": "Industriezone",
+    "amenity": "nightclub",
+    "building": "yes",
+    "check_date": "2022-11-30",
+    "description": "Club & Concerts",
+    "email": "vabrik@gmx.at",
+    "name": "Vabrik",
+    "opening_hours": "Mo-Th,Su off; Fr 21:00-02:00; Sa 21:00-03:00",
+    "website": "http://www.vabrik.at/"
+  }
+},
+{
+  "type": "way",
+  "id": 122576319,
+  "center": {
+    "lat": 48.8584574,
+    "lon": 15.1135657
+  },
+  "tags": {
+    "addr:city": "Heidenreichstein",
+    "addr:country": "AT",
+    "addr:housenumber": "88",
+    "addr:place": "Kleinpertholz",
+    "addr:postcode": "3860",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Ypsilon Eventhall",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 123863550,
+  "center": {
+    "lat": 46.9518321,
+    "lon": 15.3319621
+  },
+  "tags": {
+    "addr:city": "Lannach",
+    "addr:country": "AT",
+    "addr:housenumber": "4",
+    "addr:postcode": "8502",
+    "addr:street": "Industriezeile",
+    "amenity": "nightclub",
+    "building": "yes",
+    "contact:mobile": "+43 699 1799 7733",
+    "name": "Almrausch",
+    "opening_hours": "Fr 21:00-03:00; Sa 21:00-05:00",
+    "website": "https://www.almrauschlannach.at/"
+  }
+},
+{
+  "type": "way",
+  "id": 131856165,
+  "center": {
+    "lat": 48.1605007,
+    "lon": 15.1082847
+  },
+  "tags": {
+    "addr:city": "Bergland",
+    "addr:country": "AT",
+    "addr:housenumber": "11",
+    "addr:postcode": "3254",
+    "addr:street": "Bergland Center",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Excalibur"
+  }
+},
+{
+  "type": "way",
+  "id": 133677620,
+  "center": {
+    "lat": 48.2177723,
+    "lon": 16.3708840
+  },
+  "tags": {
+    "addr:city": "Wien",
+    "addr:country": "AT",
+    "addr:housenumber": "1",
+    "addr:postcode": "1010",
+    "addr:street": "Augartenbrücke",
+    "amenity": "nightclub",
+    "building": "retail",
+    "building:levels": "1",
+    "contact:facebook": "FlexVienna",
+    "contact:instagram": "flexvienna_official",
+    "contact:twitter": "flexvienna",
+    "email": "thomas@flex.at",
+    "layer": "-1",
+    "location": "surface",
+    "min_age": "16",
+    "name": "Flex",
+    "opening_hours": "Th-Sa 23:00-06:00",
+    "phone": "+4315337525",
+    "roof:levels": "0",
+    "roof:shape": "flat",
+    "toilets:wheelchair": "yes",
+    "website": "https://flex.at/",
+    "wheelchair": "yes",
+    "wikidata": "Q1288474",
+    "wikipedia": "de:Flex (Club)"
+  }
+},
+{
+  "type": "way",
+  "id": 140645041,
+  "center": {
+    "lat": 47.7400265,
+    "lon": 16.8327395
+  },
+  "tags": {
+    "addr:city": "Apetlon",
+    "addr:country": "AT",
+    "addr:housenumber": "24a",
+    "addr:postcode": "7143",
+    "addr:street": "Sportplatzgasse",
+    "amenity": "nightclub",
+    "at_bev:addr_date": "2020-10-01",
+    "building": "yes",
+    "name": "\" Back to the Roots\"",
+    "phone": "+43 699 11180135"
+  }
+},
+{
+  "type": "way",
+  "id": 143362126,
+  "center": {
+    "lat": 47.3659165,
+    "lon": 16.1208436
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Disko Haleluja"
+  }
+},
+{
+  "type": "way",
+  "id": 146901914,
+  "center": {
+    "lat": 47.5631071,
+    "lon": 14.2572949
+  },
+  "tags": {
+    "addr:city": "Liezen",
+    "addr:housenumber": "17",
+    "addr:postcode": "8940",
+    "addr:street": "Niederfeldstraße",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Base",
+    "opening_hours": "Fr, Sa & vor Feiertagen 21:00-05:00",
+    "operator": "P&T Eventmanagement GmbH",
+    "website": "http://base-liezen.at"
+  }
+},
+{
+  "type": "way",
+  "id": 148114789,
+  "center": {
+    "lat": 48.1370247,
+    "lon": 14.2466155
+  },
+  "tags": {
+    "addr:city": "Neuhofen an der Krems",
+    "addr:country": "AT",
+    "addr:housenumber": "34",
+    "addr:place": "Lining",
+    "addr:postcode": "4501",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Spessart",
+    "source": "geoimage.at"
+  }
+},
+{
+  "type": "way",
+  "id": 151069479,
+  "center": {
+    "lat": 47.1481572,
+    "lon": 13.7302194
+  },
+  "tags": {
+    "addr:city": "Mariapfarr",
+    "addr:country": "AT",
+    "addr:housenumber": "469",
+    "addr:place": "Bruckdorf",
+    "addr:postcode": "5571",
+    "amenity": "nightclub",
+    "at_bev:addr_date": "2017-10-01",
+    "building": "yes",
+    "email": "info@disco-villa.at",
+    "name": "Discothek Villa",
+    "note": "\"In der Villa brennt noch Licht, nach Hause geh'ma sicher nicht!\"",
+    "operator": "Marco Wirnsperger",
+    "phone": "+43 664 1350300",
+    "website": "http://disco-villa.at/"
+  }
+},
+{
+  "type": "way",
+  "id": 155724751,
+  "center": {
+    "lat": 48.1561139,
+    "lon": 14.0243902
+  },
+  "tags": {
+    "addr:city": "Wels",
+    "addr:country": "AT",
+    "addr:housenumber": "5",
+    "addr:postcode": "4600",
+    "addr:street": "Minoritenplatz",
+    "amenity": "nightclub",
+    "building": "yes",
+    "min_age": "18",
+    "name": "G&D Grande Dame Music Club",
+    "website": "http://www.grande-dame.at"
+  }
+},
+{
+  "type": "way",
+  "id": 156476710,
+  "center": {
+    "lat": 47.2008780,
+    "lon": 14.7782510
+  },
+  "tags": {
+    "addr:city": "Spielberg",
+    "addr:country": "AT",
+    "addr:housenumber": "1",
+    "addr:postcode": "8724",
+    "addr:street": "Burgstraße",
+    "amenity": "nightclub",
+    "building": "discotheque",
+    "name": "Die Burg",
+    "phone": "+43 3577 221675",
+    "source": "basemap.at Orthhofoto",
+    "website": "https://burg.st/"
+  }
+},
+{
+  "type": "way",
+  "id": 163944355,
+  "center": {
+    "lat": 47.7753948,
+    "lon": 14.1735516
+  },
+  "tags": {
+    "addr:city": "St. Pankraz",
+    "addr:country": "AT",
+    "addr:housenumber": "93",
+    "addr:place": "St. Pankraz",
+    "addr:postcode": "4572",
+    "amenity": "nightclub",
+    "at_bev:addr_date": "2016-10-02",
+    "building": "yes",
+    "email": "info@club-valentina.at",
+    "name": "Nightclub Valentina",
+    "operator": "Hubert Morhart;Sandra Fuchs",
+    "phone": "+43 7565 27476; +43 681 20921359",
+    "source": "geoimage.at",
+    "website": "http://www.club-valentina.at"
+  }
+},
+{
+  "type": "way",
+  "id": 169146962,
+  "center": {
+    "lat": 47.8431535,
+    "lon": 15.0138553
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "internet_access": "no",
+    "min_age": "16",
+    "name": "Discothek Schistadl",
+    "opening_hours": "Sa 20:00-sunrise",
+    "operator": "Christine & Franz Helmel",
+    "smoking": "outside",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "way",
+  "id": 169640263,
+  "center": {
+    "lat": 48.4347836,
+    "lon": 14.2945830
+  },
+  "tags": {
+    "addr:city": "Hellmonsödt",
+    "addr:country": "AT",
+    "addr:housenumber": "3",
+    "addr:postcode": "4202",
+    "addr:street": "Gewerbezeile",
+    "amenity": "nightclub",
+    "building": "yes",
+    "cuisine": "regional",
+    "name": "Partyhaus Cabrio",
+    "website": "https://www.cabrio.cc/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 170595563,
+  "center": {
+    "lat": 48.7012042,
+    "lon": 15.2232392
+  },
+  "tags": {
+    "addr:city": "Echsenbach",
+    "addr:country": "AT",
+    "addr:housenumber": "40",
+    "addr:place": "Gerweis",
+    "addr:postcode": "3903",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Disco Concorde"
+  }
+},
+{
+  "type": "way",
+  "id": 171450145,
+  "center": {
+    "lat": 48.0020154,
+    "lon": 13.6764690
+  },
+  "tags": {
+    "addr:city": "Vöcklabruck",
+    "addr:country": "AT",
+    "addr:housenumber": "18",
+    "addr:postcode": "4840",
+    "addr:street": "Telefunkenstraße",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "G'spusi - dein Tanz & Flirtlokal"
+  }
+},
+{
+  "type": "way",
+  "id": 177385052,
+  "center": {
+    "lat": 48.1410367,
+    "lon": 15.0664285
+  },
+  "tags": {
+    "addr:city": "Neumarkt an der Ybbs",
+    "addr:country": "AT",
+    "addr:housenumber": "2",
+    "addr:postcode": "3371",
+    "addr:street": "Auweg",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Herrenhaus"
+  }
+},
+{
+  "type": "way",
+  "id": 178858832,
+  "center": {
+    "lat": 48.2177301,
+    "lon": 16.3931922
+  },
+  "tags": {
+    "addr:city": "Wien",
+    "addr:country": "AT",
+    "addr:housenumber": "5",
+    "addr:postcode": "1020",
+    "addr:street": "Praterstern",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Flucc",
+    "old_name": "Fluc",
+    "opening_hours": "Mo-Su 20:00-06:00",
+    "smoking": "outside",
+    "sport": "table_soccer",
+    "toilets:wheelchair": "yes",
+    "website": "https://flucc.at/",
+    "wheelchair": "limited",
+    "wheelchair:description": "only upper level is wheelchair accessible, and bathroom hard to reach when full",
+    "wikidata": "Q27829539"
+  }
+},
+{
+  "type": "way",
+  "id": 178866371,
+  "center": {
+    "lat": 47.0775980,
+    "lon": 15.4176375
+  },
+  "tags": {
+    "addr:city": "Graz",
+    "addr:country": "AT",
+    "addr:housenumber": "55a",
+    "addr:postcode": "8020",
+    "addr:street": "Bahnhofgürtel",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Explosiv"
+  }
+},
+{
+  "type": "way",
+  "id": 195661114,
+  "center": {
+    "lat": 47.9158426,
+    "lon": 16.6929542
+  },
+  "tags": {
+    "addr:city": "Purbach am Neusiedler See",
+    "addr:country": "AT",
+    "addr:housenumber": "7",
+    "addr:postcode": "7083",
+    "addr:street": "Am Kellerplatz",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Wyborowa"
+  }
+},
+{
+  "type": "way",
+  "id": 196794026,
+  "center": {
+    "lat": 47.7457745,
+    "lon": 16.4909260
+  },
+  "tags": {
+    "addr:city": "Draßburg",
+    "addr:country": "AT",
+    "addr:housenumber": "13",
+    "addr:postcode": "7021",
+    "addr:street": "Marienplatz",
+    "amenity": "nightclub",
+    "at_bev:addr_date": "2017-10-01",
+    "building": "yes",
+    "name": "Frankies Musik-Treff"
+  }
+},
+{
+  "type": "way",
+  "id": 198445273,
+  "center": {
+    "lat": 48.1992264,
+    "lon": 13.6430392
+  },
+  "tags": {
+    "addr:city": "Haag am Hausruck",
+    "addr:country": "AT",
+    "addr:housenumber": "6",
+    "addr:place": "Geierau",
+    "addr:postcode": "4680",
+    "amenity": "nightclub",
+    "at_bev:addr_date": "2017-10-01",
+    "building": "yes",
+    "contact:website": "http://www.lusthouse.at",
+    "name": "Lusthouse",
+    "source": "geoimage.at"
+  }
+},
+{
+  "type": "way",
+  "id": 198487091,
+  "center": {
+    "lat": 47.7391873,
+    "lon": 15.9748730
+  },
+  "tags": {
+    "addr:city": "Ternitz",
+    "addr:hamlet": "Sieding",
+    "addr:housenumber": "35",
+    "addr:street": "Siedinger Straße",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Tanzcafé La Bamba",
+    "short_name": "La Bamba"
+  }
+},
+{
+  "type": "way",
+  "id": 204028047,
+  "center": {
+    "lat": 48.6556454,
+    "lon": 15.6458845
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Brooklyn-Disco",
+    "website": "https://www.brooklyn.at/"
+  }
+},
+{
+  "type": "way",
+  "id": 208868927,
+  "center": {
+    "lat": 47.3474141,
+    "lon": 9.6372741
+  },
+  "tags": {
+    "addr:city": "Altach",
+    "addr:country": "AT",
+    "addr:housenumber": "9",
+    "addr:postcode": "6844",
+    "addr:street": "Sennemahd",
+    "amenity": "nightclub",
+    "building": "commercial",
+    "name": "N-JOY"
+  }
+},
+{
+  "type": "way",
+  "id": 220725442,
+  "center": {
+    "lat": 48.3615091,
+    "lon": 14.7965183
+  },
+  "tags": {
+    "addr:city": "Königswiesen",
+    "addr:country": "AT",
+    "addr:housenumber": "10",
+    "addr:postcode": "4281",
+    "addr:street": "Hauptstraße",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "FH Gastro GmbH",
+    "website": "https://www.mywirtshouse.at/"
+  }
+},
+{
+  "type": "way",
+  "id": 225781170,
+  "center": {
+    "lat": 46.9465323,
+    "lon": 15.3761098
+  },
+  "tags": {
+    "addr:city": "Dobl-Zwaring",
+    "addr:housenumber": "46",
+    "addr:postcode": "8043",
+    "addr:street": "Unterberg",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Tanzbar Schiwago",
+    "opening_hours": "We-Sa 19:00-04:00"
+  }
+},
+{
+  "type": "way",
+  "id": 228979090,
+  "center": {
+    "lat": 46.7751863,
+    "lon": 14.4268579
+  },
+  "tags": {
+    "addr:city": "St. Georgen am Längsee",
+    "addr:country": "AT",
+    "addr:housenumber": "9",
+    "addr:postcode": "9313",
+    "addr:street": "Otwinusstraße",
+    "amenity": "nightclub",
+    "at_bev:addr_date": "2017-10-01",
+    "building": "yes",
+    "name": "Tanzcafé Erni",
+    "short_name": "Erni",
+    "website": "https://erni-bar.at/"
+  }
+},
+{
+  "type": "way",
+  "id": 254076073,
+  "center": {
+    "lat": 48.6700406,
+    "lon": 15.6706864
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "house",
+    "building:levels": "2",
+    "name": "Alte Molkerei"
+  }
+},
+{
+  "type": "way",
+  "id": 254095042,
+  "center": {
+    "lat": 46.8918280,
+    "lon": 10.4984002
+  },
+  "tags": {
+    "addr:city": "Nauders",
+    "addr:country": "AT",
+    "addr:housenumber": "531",
+    "addr:place": "Nauders",
+    "addr:postcode": "6543",
+    "amenity": "nightclub",
+    "at_bev:addr_date": "2017-10-01",
+    "building": "commercial",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "name": "Ibex Restaurant Musikbar",
+    "operator": "Unterrainer KG",
+    "source": "http://www.ibex-club.at/"
+  }
+},
+{
+  "type": "way",
+  "id": 259458098,
+  "center": {
+    "lat": 47.8021368,
+    "lon": 13.4728397
+  },
+  "tags": {
+    "addr:city": "Sankt Gilgen",
+    "addr:country": "AT",
+    "addr:housenumber": "10",
+    "addr:place": "Unterburgau",
+    "addr:postcode": "4866",
+    "amenity": "nightclub",
+    "at_bev:addr_date": "2017-10-01",
+    "building": "house",
+    "name": "Jaguar",
+    "source": "geoimage.at"
+  }
+},
+{
+  "type": "way",
+  "id": 262130969,
+  "center": {
+    "lat": 47.9496897,
+    "lon": 14.3599059
+  },
+  "tags": {
+    "addr:city": "Ternberg",
+    "addr:country": "AT",
+    "addr:housenumber": "20",
+    "addr:postcode": "4452",
+    "addr:street": "Eisenstraße",
+    "amenity": "nightclub",
+    "brewery": "Zipfer",
+    "building": "yes",
+    "min_age": "16",
+    "name": "Club Werkstatt Ternberg",
+    "opening_hours": "Fr-Sa 20:00-04:00",
+    "opening_hours:covid19": "Fr-Sa 20:00-01:00",
+    "operator": "S.T.L. Gastro GmbH",
+    "smoking": "outside",
+    "website": "http://club-werkstatt.at"
+  }
+},
+{
+  "type": "way",
+  "id": 281333791,
+  "center": {
+    "lat": 48.2235900,
+    "lon": 15.9163778
+  },
+  "tags": {
+    "addr2:conscriptionnumber": "103",
+    "addr2:place": "Markersdorf",
+    "addr:city": "Markersdorf",
+    "addr:country": "AT",
+    "addr:housenumber": "182",
+    "addr:postcode": "3040",
+    "addr:street": "Tullner Straße",
+    "amenity": "nightclub",
+    "at_bev:addr_date": "2020-10-01",
+    "building": "yes",
+    "contact:website": "https://till-eulenspiegel.at",
+    "name": "Diskothek Till Eulenspiegel"
+  }
+},
+{
+  "type": "way",
+  "id": 288197845,
+  "center": {
+    "lat": 47.3119003,
+    "lon": 14.9913178
+  },
+  "tags": {
+    "addr:city": "Sankt Stefan ob Leoben",
+    "addr:country": "AT",
+    "addr:housenumber": "36",
+    "addr:place": "Vorlobming",
+    "addr:postcode": "8713",
+    "amenity": "nightclub",
+    "at_bev:addr_date": "2016-10-02",
+    "building": "yes",
+    "min_age": "16",
+    "name": "Maurer",
+    "source": "geoimage.at;local knowledge"
+  }
+},
+{
+  "type": "way",
+  "id": 292621746,
+  "center": {
+    "lat": 47.7964524,
+    "lon": 16.2222037
+  },
+  "tags": {
+    "addr:city": "Wiener Neustadt",
+    "addr:country": "AT",
+    "addr:housenumber": "127",
+    "addr:postcode": "2700",
+    "addr:street": "Neunkirchner Straße",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Hühnerstall",
+    "toilets:wheelchair": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 311990002,
+  "center": {
+    "lat": 48.0863739,
+    "lon": 13.8739529
+  },
+  "tags": {
+    "addr:city": "Stadl-Paura",
+    "addr:country": "AT",
+    "addr:housenumber": "15",
+    "addr:postcode": "4651",
+    "addr:street": "Gmundner Straße",
+    "amenity": "nightclub",
+    "brewery": "Zipfer",
+    "building": "yes",
+    "building:levels": "2",
+    "name": "Scarlett",
+    "roof:levels": "1",
+    "roof:shape": "gabled"
+  }
+},
+{
+  "type": "way",
+  "id": 312760214,
+  "center": {
+    "lat": 46.9985865,
+    "lon": 15.7738569
+  },
+  "tags": {
+    "addr:city": "Kirchberg an der Raab",
+    "addr:country": "AT",
+    "addr:housenumber": "79",
+    "addr:place": "Fladnitz im Raabtal",
+    "addr:postcode": "8322",
+    "addr:street": "Fladnitz",
+    "amenity": "nightclub",
+    "building": "house",
+    "name": "Night Club Dolce Vita"
+  }
+},
+{
+  "type": "way",
+  "id": 315254112,
+  "center": {
+    "lat": 46.7972450,
+    "lon": 15.5611487
+  },
+  "tags": {
+    "addr:housenumber": "5",
+    "addr:postcode": "8430",
+    "addr:street": "Neufeldstraße",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Erotik Laufhaus Leibnitz",
+    "opening_hours": "Mo-Su 10:00-01:00",
+    "website": "https://www.laufhaus-leibnitz.com/"
+  }
+},
+{
+  "type": "way",
+  "id": 317905383,
+  "center": {
+    "lat": 48.5990284,
+    "lon": 13.9434270
+  },
+  "tags": {
+    "addr:city": "Oepping",
+    "addr:country": "AT",
+    "addr:housenumber": "3",
+    "addr:place": "Starling",
+    "addr:postcode": "4151",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Diskothek be HAPPY",
+    "source": "geoimage.at"
+  }
+},
+{
+  "type": "way",
+  "id": 317908609,
+  "center": {
+    "lat": 48.6029197,
+    "lon": 13.9461112
+  },
+  "tags": {
+    "addr:city": "Oepping",
+    "addr:country": "AT",
+    "addr:housenumber": "5",
+    "addr:postcode": "4151",
+    "addr:street": "Ortsplatz",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Diskothek Erika",
+    "source": "geoimage.at"
+  }
+},
+{
+  "type": "way",
+  "id": 320376074,
+  "center": {
+    "lat": 47.9605545,
+    "lon": 16.8350284
+  },
+  "tags": {
+    "addr:city": "Neusiedl am See",
+    "addr:country": "AT",
+    "addr:housenumber": "101",
+    "addr:postcode": "7100",
+    "addr:street": "Berggasse",
+    "amenity": "nightclub",
+    "building": "yes",
+    "lgbtq": "primary",
+    "min_age": "18",
+    "name": "Maxim"
+  }
+},
+{
+  "type": "way",
+  "id": 325103766,
+  "center": {
+    "lat": 47.8339069,
+    "lon": 16.5231003
+  },
+  "tags": {
+    "addr:city": "Eisenstadt",
+    "addr:housenumber": "26",
+    "addr:postcode": "7000",
+    "addr:street": "Mattersburger Straße",
+    "amenity": "nightclub",
+    "building": "yes",
+    "min_age": "18",
+    "name": "Jackson Club",
+    "smoking": "outside",
+    "source": "basemap.at"
+  }
+},
+{
+  "type": "way",
+  "id": 326472944,
+  "center": {
+    "lat": 48.2029143,
+    "lon": 16.3682987
+  },
+  "tags": {
+    "addr:city": "Wien",
+    "addr:country": "AT",
+    "addr:housenumber": "4",
+    "addr:postcode": "1010",
+    "addr:street": "Opernring",
+    "alt_name": "Albertinapassage;O the Club;O Vienna;O Klub",
+    "amenity": "nightclub",
+    "check_date": "2026-01-20",
+    "facebook": "https://www.facebook.com/O.Vienna/",
+    "layer": "-1",
+    "level": "-1",
+    "min_age": "19",
+    "name": "O der Klub",
+    "phone": "+43 676 9701545",
+    "smoking": "outside",
+    "website": "https://o-klub.at/"
+  }
+},
+{
+  "type": "way",
+  "id": 337330633,
+  "center": {
+    "lat": 46.9667951,
+    "lon": 15.8432991
+  },
+  "tags": {
+    "addr:city": "Feldbach",
+    "addr:housenumber": "285",
+    "addr:place": "Gniebing",
+    "addr:postcode": "8330",
+    "amenity": "nightclub",
+    "building": "commercial",
+    "internet_access": "wlan",
+    "min_age": "18",
+    "name": "Das Günter's",
+    "website": "https://www.günters.at/"
+  }
+},
+{
+  "type": "way",
+  "id": 338209993,
+  "center": {
+    "lat": 48.2277409,
+    "lon": 13.9262104
+  },
+  "tags": {
+    "addr:city": "Bad Schallerbach",
+    "addr:country": "AT",
+    "addr:housenumber": "3",
+    "addr:postcode": "4701",
+    "addr:street": "Welser Straße",
+    "amenity": "nightclub",
+    "at_bev:addr_date": "2017-10-01",
+    "brewery": "Stiegl",
+    "building": "yes",
+    "name": "Highlife"
+  }
+},
+{
+  "type": "way",
+  "id": 357369077,
+  "center": {
+    "lat": 46.6182963,
+    "lon": 14.0504124
+  },
+  "tags": {
+    "addr:city": "Velden am Wörther See",
+    "addr:housenumber": "17",
+    "addr:postcode": "9220",
+    "addr:street": "Klagenfurter Straße",
+    "amenity": "nightclub",
+    "building": "yes",
+    "building:levels": "2",
+    "email": "thomas@crazy-bull.com",
+    "name": "Disco Bull",
+    "opening_hours": "We-Sa 21:00-04:00",
+    "phone": "+43 650 337 69 79",
+    "website": "https://www.crazy-bull.com/"
+  }
+},
+{
+  "type": "way",
+  "id": 370826340,
+  "center": {
+    "lat": 47.8297716,
+    "lon": 16.5256433
+  },
+  "tags": {
+    "addr:city": "Eisenstadt",
+    "addr:country": "AT",
+    "addr:housenumber": "37A",
+    "addr:postcode": "7000",
+    "addr:street": "Mattersburger Straße",
+    "amenity": "nightclub",
+    "brewery": "various",
+    "building": "yes",
+    "contact:facebook": "https://www.instagram.com/g_club_eisenstadt",
+    "min_age": "16",
+    "name": "The G-Club",
+    "official_name": "The G-Club",
+    "opening_hours": "Fr-Sa 20:00-06:00",
+    "smoking": "outside"
+  }
+},
+{
+  "type": "way",
+  "id": 383368721,
+  "center": {
+    "lat": 47.9564404,
+    "lon": 16.2185860
+  },
+  "tags": {
+    "addr:city": "Bad Vöslau",
+    "addr:housenumber": "97",
+    "addr:postcode": "2540",
+    "addr:street": "Wiener Neustädter Straße",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Room Forty",
+    "operator": "SAHBOZ KG"
+  }
+},
+{
+  "type": "way",
+  "id": 388868185,
+  "center": {
+    "lat": 47.9915976,
+    "lon": 13.9578464
+  },
+  "tags": {
+    "addr:city": "Vorchdorf",
+    "addr:country": "AT",
+    "addr:housenumber": "26",
+    "addr:postcode": "4655",
+    "addr:street": "Adlhaming",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Fuzzy"
+  }
+},
+{
+  "type": "way",
+  "id": 409867305,
+  "center": {
+    "lat": 47.0825007,
+    "lon": 15.9530507
+  },
+  "tags": {
+    "addr:city": "Ilz",
+    "addr:country": "AT",
+    "addr:housenumber": "160",
+    "addr:place": "Neudorf bei Ilz",
+    "addr:postcode": "8262",
+    "amenity": "nightclub",
+    "building": "commercial",
+    "name": "Baby'O"
+  }
+},
+{
+  "type": "way",
+  "id": 409867439,
+  "center": {
+    "lat": 47.0789902,
+    "lon": 15.9605001
+  },
+  "tags": {
+    "addr:city": "Großwilfersdorf",
+    "addr:country": "AT",
+    "addr:housenumber": "67",
+    "addr:place": "Hainfeld",
+    "addr:postcode": "8262",
+    "amenity": "nightclub",
+    "building": "commercial",
+    "name": "Lady O"
+  }
+},
+{
+  "type": "way",
+  "id": 444182608,
+  "center": {
+    "lat": 46.7250504,
+    "lon": 14.1050537
+  },
+  "tags": {
+    "addr:housenumber": "30",
+    "addr:street": "St. Ruprechter Straße",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Wigo"
+  }
+},
+{
+  "type": "way",
+  "id": 446912869,
+  "center": {
+    "lat": 48.2674246,
+    "lon": 15.9489642
+  },
+  "tags": {
+    "addr:city": "Plankenberg",
+    "addr:housenumber": "6",
+    "addr:postcode": "3451",
+    "addr:street": "Tullner Straße",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Bermuda",
+    "source": "basemap.at;geoimage.at"
+  }
+},
+{
+  "type": "way",
+  "id": 481405819,
+  "center": {
+    "lat": 48.0151660,
+    "lon": 16.2522858
+  },
+  "tags": {
+    "addr:city": "Baden",
+    "addr:country": "AT",
+    "addr:housenumber": "79",
+    "addr:postcode": "2500",
+    "addr:street": "Germergasse",
+    "amenity": "nightclub",
+    "building": "yes",
+    "contact:website": "http://www.melkerkeller.at",
+    "name": "Melkerkeller",
+    "opening_hours": "Fr,Sa 22:00-07:00"
+  }
+},
+{
+  "type": "way",
+  "id": 843231801,
+  "center": {
+    "lat": 47.3383459,
+    "lon": 11.8412745
+  },
+  "tags": {
+    "addr:city": "Fügenberg",
+    "addr:country": "AT",
+    "addr:housenumber": "1a",
+    "addr:postcode": "6264",
+    "addr:street": "Waldfriedenweg",
+    "amenity": "nightclub",
+    "at_bev:addr_date": "2020-04-01",
+    "building": "yes",
+    "name": "Apres Ski Spieljochstadl"
+  }
+},
+{
+  "type": "way",
+  "id": 1056561283,
+  "center": {
+    "lat": 47.4738432,
+    "lon": 9.6723647
+  },
+  "tags": {
+    "addr:city": "Hard",
+    "addr:housenumber": "27",
+    "addr:postcode": "6971",
+    "addr:street": "Lustenauer Straße",
+    "amenity": "nightclub",
+    "building": "yes",
+    "description": "aus der Nachtschicht wurde seit Oktober 2023 ein Club. Upgrade der LED-Beleuchtung und eine Neugestaltung des DJ-Pults und der Bars sorgen für eine zeitgemäße Atmosphäre. \"Gold Night\" mit türkischer Musik, Ü30-Partys und \"Black Balkan\"-Abende.",
+    "name": "Art of Night",
+    "old_name": "Nachtschicht",
+    "operator": "Volkan Aksoy",
+    "smoking": "outside"
+  }
+},
+{
+  "type": "way",
+  "id": 1469473478,
+  "center": {
+    "lat": 48.2039762,
+    "lon": 16.3637038
+  },
+  "tags": {
+    "addr:full": "Burgring 3/ Babenbergerstraße 1",
+    "amenity": "nightclub",
+    "check_date": "2022-12-14",
+    "check_date:opening_hours": "2023-07-03",
+    "indoor": "room",
+    "internet_access": "wlan",
+    "level": "-1",
+    "name": "Babenberger Passage",
+    "source": "+43 01 9618800",
+    "website": "https://www.club-passage.at/"
+  }
+}
+
+  ]
+}

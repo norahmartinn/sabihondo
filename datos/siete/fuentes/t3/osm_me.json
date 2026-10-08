@@ -1,0 +1,276 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-10-08T23:24:34Z",
+    "timestamp_areas_base": "2026-10-07T10:19:21Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 1766728585,
+  "lat": 42.4580869,
+  "lon": 18.5204659,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "La Bamba"
+  }
+},
+{
+  "type": "node",
+  "id": 2178745447,
+  "lat": 42.4255396,
+  "lon": 18.7692821,
+  "tags": {
+    "addr:city": "Kotor",
+    "addr:housenumber": "232",
+    "addr:postcode": "85330",
+    "addr:street": "Trg od Oružja",
+    "amenity": "nightclub",
+    "check_date": "2024-08-26",
+    "email": "info@discomaximus.me",
+    "name": "MAXIMUS",
+    "opening_hours": "Mo-Su 23:00-05:00",
+    "phone": "+38267217101",
+    "smoking": "yes",
+    "website": "http://discomaximus.me/"
+  }
+},
+{
+  "type": "node",
+  "id": 2273511482,
+  "lat": 42.2937626,
+  "lon": 18.8222487,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Top Hill"
+  }
+},
+{
+  "type": "node",
+  "id": 2290544946,
+  "lat": 41.9239240,
+  "lon": 19.2054509,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Buddha Bar"
+  }
+},
+{
+  "type": "node",
+  "id": 2489212605,
+  "lat": 43.3579860,
+  "lon": 19.3597240,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Club Municipium S"
+  }
+},
+{
+  "type": "node",
+  "id": 3044065835,
+  "lat": 43.0355265,
+  "lon": 19.7494310,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "KARMIN"
+  }
+},
+{
+  "type": "node",
+  "id": 4173307969,
+  "lat": 43.0353355,
+  "lon": 19.7507452,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Discoteka Sparta"
+  }
+},
+{
+  "type": "node",
+  "id": 4201937746,
+  "lat": 42.4496891,
+  "lon": 18.5327582,
+  "tags": {
+    "amenity": "nightclub",
+    "description": "Admiral nightclub is located on the main dock in Herceg Novi and is known for its great atmosphere and night life. \n\nSurrounded by the Adriatic on three sides, Admiral has unmatchable beautiful view of the sea and the city of Herceg Novi. Protected by the",
+    "name": "Admiral Club",
+    "phone": "069 214 504",
+    "smoking": "yes",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4407539293,
+  "lat": 42.2847270,
+  "lon": 18.8384486,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2026-04-02",
+    "name": "Palazzo"
+  }
+},
+{
+  "type": "node",
+  "id": 4448370989,
+  "lat": 42.4423430,
+  "lon": 19.2610937,
+  "tags": {
+    "addr:postcode": "81000",
+    "addr:street": "Bokeška",
+    "amenity": "nightclub",
+    "name": "Taqueria",
+    "name:cnr": "Taqueria",
+    "name:cnr-Latn": "Taqueria"
+  }
+},
+{
+  "type": "node",
+  "id": 4852861320,
+  "lat": 43.1507640,
+  "lon": 19.1280301,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "City"
+  }
+},
+{
+  "type": "node",
+  "id": 5890629482,
+  "lat": 42.9484229,
+  "lon": 19.5742304,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Boss",
+    "opening_hours": "Mo-Su 07:00-02:00"
+  }
+},
+{
+  "type": "node",
+  "id": 7359433077,
+  "lat": 42.4302120,
+  "lon": 18.6985933,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Admiral",
+    "opening_hours": "24/7"
+  }
+},
+{
+  "type": "node",
+  "id": 9964651317,
+  "lat": 42.2979671,
+  "lon": 18.8432037,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Maine Terrazza"
+  }
+},
+{
+  "type": "node",
+  "id": 10860682305,
+  "lat": 42.2854310,
+  "lon": 18.8502532,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Ambiente",
+    "opening_hours": "Mo-Su 00:00-03:00"
+  }
+},
+{
+  "type": "node",
+  "id": 11030114605,
+  "lat": 42.2788649,
+  "lon": 18.8374089,
+  "tags": {
+    "addr:street": "Vrzdak",
+    "amenity": "nightclub",
+    "name": "El Mundo",
+    "opening_hours": "Su-Sa 20:00-01:00",
+    "phone": "+38268050000",
+    "website": "https://instagram.com/elmundobudva?igshid=MmIzYWVlNDQ5Yg=="
+  }
+},
+{
+  "type": "node",
+  "id": 11174921814,
+  "lat": 42.4410324,
+  "lon": 19.2641135,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Automata Club",
+    "name:cnr": "Automata Club",
+    "name:cnr-Latn": "Automata Club"
+  }
+},
+{
+  "type": "node",
+  "id": 11227488602,
+  "lat": 42.4428653,
+  "lon": 19.2621104,
+  "tags": {
+    "addr:street": "Hercegovačka",
+    "amenity": "nightclub",
+    "name": "Laka",
+    "name:cnr": "Laka",
+    "name:cnr-Latn": "Laka"
+  }
+},
+{
+  "type": "node",
+  "id": 12256228642,
+  "lat": 42.2852331,
+  "lon": 18.8396415,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2024-10-16",
+    "name": "Admiral"
+  }
+},
+{
+  "type": "node",
+  "id": 13713341790,
+  "lat": 42.2853606,
+  "lon": 18.8541027,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2026-04-07",
+    "name": "Hide"
+  }
+},
+{
+  "type": "way",
+  "id": 169092211,
+  "center": {
+    "lat": 42.0101174,
+    "lon": 19.1511997
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Paradiso",
+    "name:sr": "Парадизо"
+  }
+},
+{
+  "type": "way",
+  "id": 188148097,
+  "center": {
+    "lat": 42.4518511,
+    "lon": 18.5321552
+  },
+  "tags": {
+    "addr:housenumber": "17",
+    "addr:street": "ulica Vrankovića",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Tondo",
+    "name:sr": "Тондо"
+  }
+}
+
+  ]
+}

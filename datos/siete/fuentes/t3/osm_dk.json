@@ -1,0 +1,1404 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-10-08T23:14:20Z",
+    "timestamp_areas_base": "2026-10-08T05:09:19Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 250354071,
+  "lat": 55.6727304,
+  "lon": 12.5616092,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2023-04-02",
+    "created_by": "Potlatch 0.10b",
+    "name": "Kakadu Bar",
+    "note": "adult_entertainment"
+  }
+},
+{
+  "type": "node",
+  "id": 280464811,
+  "lat": 55.6750928,
+  "lon": 12.5721856,
+  "tags": {
+    "amenity": "nightclub",
+    "fvst:navnelbnr": "118742",
+    "name": "Club Mambo",
+    "payment:credit_cards": "yes",
+    "phone": "+45 33 11 97 66",
+    "ref:DK:cvr": "28100019",
+    "ref:DK:cvr:pnummer": "1013141491",
+    "toilets": "yes",
+    "website": "https://www.clubmambo.dk/"
+  }
+},
+{
+  "type": "node",
+  "id": 280530603,
+  "lat": 55.6719610,
+  "lon": 12.5555508,
+  "tags": {
+    "amenity": "nightclub",
+    "fvst:navnelbnr": "114082",
+    "name": "Maxims",
+    "opening_hours": "14:00-24:00, Th-Sa 14:00-02:00",
+    "ref:DK:cvr": "16707678",
+    "ref:DK:cvr:pnummer": "1007567797",
+    "website": "https://maxims.dk/",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 307415716,
+  "lat": 55.2471831,
+  "lon": 9.3064695,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Mirage"
+  }
+},
+{
+  "type": "node",
+  "id": 310583155,
+  "lat": 55.3978796,
+  "lon": 10.3889127,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2026-06-19",
+    "name": "Boogie Dance Cafe",
+    "ref:DK:cvr": "31054125",
+    "ref:DK:cvr:pnummer": "1013762127",
+    "smoking": "yes",
+    "website": "http://www.boogiedance.dk/"
+  }
+},
+{
+  "type": "node",
+  "id": 310586703,
+  "lat": 55.3948141,
+  "lon": 10.3871676,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Club Treasure"
+  }
+},
+{
+  "type": "node",
+  "id": 332990346,
+  "lat": 55.2502890,
+  "lon": 9.4850297,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Månen"
+  }
+},
+{
+  "type": "node",
+  "id": 415434071,
+  "lat": 55.4901750,
+  "lon": 9.4734720,
+  "tags": {
+    "alt_name": "Tordenskiold Kolding",
+    "amenity": "nightclub",
+    "fvst:navnelbnr": "1459048",
+    "name": "Tordenskjold Kolding",
+    "ref:DK:cvr": "27449972",
+    "ref:DK:cvr:pnummer": "1030804127",
+    "website": "http://www.tordenskiold.nu/"
+  }
+},
+{
+  "type": "node",
+  "id": 450882221,
+  "lat": 54.8870914,
+  "lon": 10.4118735,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Andelen"
+  }
+},
+{
+  "type": "node",
+  "id": 506305577,
+  "lat": 55.8635849,
+  "lon": 9.8462282,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Crazy Daisy",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 567867798,
+  "lat": 55.6740214,
+  "lon": 12.5973242,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Loppen",
+    "website": "https://www.loppen.dk/",
+    "wikidata": "Q12324876",
+    "wikipedia": "da:Loppen"
+  }
+},
+{
+  "type": "node",
+  "id": 674801748,
+  "lat": 55.6677986,
+  "lon": 12.5441914,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2023-04-03",
+    "live_music": "yes",
+    "name": "Ideal bar"
+  }
+},
+{
+  "type": "node",
+  "id": 705923959,
+  "lat": 55.6912247,
+  "lon": 12.5592520,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date:opening_hours": "2026-07-05",
+    "fvst:name": "RUST APS",
+    "fvst:navnelbnr": "113134",
+    "name": "Rust",
+    "opening_hours": "Fr,Sa 23:00-04:00",
+    "opening_hours:signed": "no",
+    "ref:DK:cvr": "17150138",
+    "website": "https://rust.dk/",
+    "wheelchair": "no",
+    "wikidata": "Q11998701"
+  }
+},
+{
+  "type": "node",
+  "id": 898917987,
+  "lat": 55.6822504,
+  "lon": 12.5853881,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Den Røde Baron",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 898920753,
+  "lat": 55.6816072,
+  "lon": 12.5841215,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Duke"
+  }
+},
+{
+  "type": "node",
+  "id": 1350626816,
+  "lat": 57.7206851,
+  "lon": 10.5896938,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2024-09-03",
+    "fvst:name": "BUDDY HOLLY SKAGEN APS",
+    "fvst:navnelbnr": "23452",
+    "name": "Buddy Holly",
+    "phone": "+45 20257111",
+    "ref:DK:cvr": "10053218",
+    "ref:DK:cvr:pnummer": "1004683295"
+  }
+},
+{
+  "type": "node",
+  "id": 1509488304,
+  "lat": 55.8502075,
+  "lon": 12.5689162,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Submarina",
+    "phone": "+45 45891019"
+  }
+},
+{
+  "type": "node",
+  "id": 1590836108,
+  "lat": 55.6776068,
+  "lon": 12.5812287,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Copenhagen Coyote Club"
+  }
+},
+{
+  "type": "node",
+  "id": 1608830245,
+  "lat": 55.6795446,
+  "lon": 12.5833150,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Karel van Mander",
+    "wikidata": "Q12321297",
+    "wikipedia": "da:Karel van Mander (natklub)"
+  }
+},
+{
+  "type": "node",
+  "id": 1629986053,
+  "lat": 55.6806992,
+  "lon": 12.5885806,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Copenhagen Redlight",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1777238191,
+  "lat": 56.1600698,
+  "lon": 10.2094267,
+  "tags": {
+    "alt_name": "Den Sidste",
+    "amenity": "nightclub",
+    "contact:facebook": "https://www.facebook.com/cafeparadisdensidste/",
+    "fvst:navnelbnr": "545636",
+    "name": "Café Paradis",
+    "opening_hours": "Th 22:00-03:00; Fr,Sa 22:00-05:00",
+    "ref:DK:cvr": "34738572",
+    "ref:DK:cvr:pnummer": "1018163744",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2020615652,
+  "lat": 55.6687256,
+  "lon": 12.5597010,
+  "tags": {
+    "amenity": "nightclub",
+    "fvst:navnelbnr": "118305",
+    "name": "Baggen",
+    "opening_hours": "Th 21:00-05:00; Fr-Sa 20:00-05:00",
+    "ref:DK:cvr": "32656587",
+    "ref:DK:cvr:pnummer": "1015720626",
+    "website": "http://bakkenkbh.dk"
+  }
+},
+{
+  "type": "node",
+  "id": 2346118016,
+  "lat": 55.6864699,
+  "lon": 12.5839679,
+  "tags": {
+    "alt_name": "Cocktail Box",
+    "amenity": "nightclub",
+    "fax": "+45 3332 5054",
+    "fvst:navnelbnr": "115800",
+    "name": "Box54",
+    "opening_hours": "Fr-Sa 21:00+",
+    "operator": "Culture Box",
+    "phone": "+45 33325050",
+    "ref:DK:cvr": "28292457",
+    "ref:DK:cvr:pnummer": "1010986172",
+    "website": "https://culture-box.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 2773990127,
+  "lat": 55.6576981,
+  "lon": 12.6094634,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Amager Bio",
+    "smoking": "no",
+    "website": "https://amagerbio.dk/",
+    "wikidata": "Q12301215",
+    "wikipedia": "da:Amager Bio"
+  }
+},
+{
+  "type": "node",
+  "id": 2818253806,
+  "lat": 57.0500363,
+  "lon": 9.9187599,
+  "tags": {
+    "amenity": "nightclub",
+    "fvst:navnelbnr": "23564",
+    "name": "Pigen og Trompeten",
+    "opening_hours": "Fr-Sa 21:00-06:00",
+    "outdoor_seating": "yes",
+    "owner": "Rekom Group",
+    "owner:wikidata": "Q68454062",
+    "ref:DK:cvr": "25482093",
+    "website": "https://pigenogtrompeten.dk/",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 2818253813,
+  "lat": 57.0497985,
+  "lon": 9.9188523,
+  "tags": {
+    "alt_name": "Zwei Große",
+    "amenity": "nightclub",
+    "branch": "Aalborg",
+    "brand:website": "https://zweigrosse.dk/",
+    "fvst:navnelbnr": "546420",
+    "name": "Zwei Grosse",
+    "opening_hours": "15:00+; Fr 12:00+; Su off",
+    "operator": "Rekom",
+    "outdoor_seating": "yes",
+    "owner": "Rekom Group",
+    "owner:wikidata": "Q68454062",
+    "ref:DK:cvr": "34225974",
+    "smoking": "separated",
+    "website": "https://zweigrosse.dk/lokationer/aalborg.aspx",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 3735293923,
+  "lat": 55.2536810,
+  "lon": 11.2931173,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Gårdhave"
+  }
+},
+{
+  "type": "node",
+  "id": 3766429781,
+  "lat": 55.6728978,
+  "lon": 12.4738757,
+  "tags": {
+    "amenity": "nightclub",
+    "branch": "Damhuskroen",
+    "check_date": "2026-09-09",
+    "fvst:navnelbnr": "1111700",
+    "name": "Damhus Kroen",
+    "ref:DK:cvr": "35028692",
+    "ref:DK:cvr:pnummer": "1025945650",
+    "website": "https://www.damhuskroen.dk/natklub.php"
+  }
+},
+{
+  "type": "node",
+  "id": 4150773899,
+  "lat": 56.1552100,
+  "lon": 10.2116400,
+  "tags": {
+    "amenity": "nightclub",
+    "contact:facebook": "https://www.facebook.com/profile.php?id=61585835800275",
+    "name": "Glitch",
+    "ref:DK:cvr": "46269888",
+    "ref:DK:cvr:pnummer": "1032148723"
+  }
+},
+{
+  "type": "node",
+  "id": 4334129753,
+  "lat": 55.4665342,
+  "lon": 8.4541708,
+  "tags": {
+    "amenity": "nightclub",
+    "facebook": "https://www.facebook.com/RustikBar",
+    "fvst:navnelbnr": "661313",
+    "name": "Rustik - Bar & Natklub",
+    "opening_hours": "Th 22:00-05:00, Fr-Sa 22:00-06:00",
+    "ref:DK:cvr": "37077429",
+    "ref:DK:cvr:pnummer": "1020716904",
+    "website": "https://rustikbar.dk/"
+  }
+},
+{
+  "type": "node",
+  "id": 4460697690,
+  "lat": 55.6672660,
+  "lon": 12.5612030,
+  "tags": {
+    "amenity": "nightclub",
+    "brewery": "no",
+    "fvst:navnelbnr": "1342469",
+    "name": "Jolene",
+    "opening_hours": "Su-Th 17:00-02:00, Fr-Sa 17:00-03:00",
+    "operator": "The Double Ds Bar",
+    "outdoor_seating": "yes",
+    "ref:DK:cvr": "43854178",
+    "ref:DK:cvr:pnummer": "1029191367",
+    "smoking": "separated",
+    "website": "https://www.jolene.dk/"
+  }
+},
+{
+  "type": "node",
+  "id": 4617344415,
+  "lat": 55.6820021,
+  "lon": 12.5824601,
+  "tags": {
+    "amenity": "nightclub",
+    "fvst:name": "JAZZHUS MONTMARTRE ApS Køkken",
+    "fvst:navnelbnr": "1361181",
+    "genre": "jazz",
+    "live_music": "yes",
+    "music": "live",
+    "music_genre": "jazz",
+    "name": "Jazzhus Montmartre",
+    "ref:DK:cvr": "32667716",
+    "ref:DK:cvr:pnummer": "1015752366",
+    "start_date": "2024-11-28",
+    "website": "https://www.jazzhusmontmartre.dk/",
+    "wikidata": "Q1684536"
+  }
+},
+{
+  "type": "node",
+  "id": 4874678157,
+  "lat": 55.6387800,
+  "lon": 12.0876990,
+  "tags": {
+    "alt_name": "SOHO Roskilde",
+    "amenity": "nightclub",
+    "check_date": "2025-10-17",
+    "cuisine": "international;cocktails",
+    "fvst:navnelbnr": "707081",
+    "name": "SOHO Food Lounge Music",
+    "outdoor_seating": "yes",
+    "phone": "+45 30 74 14 48",
+    "ref:DK:cvr": "37583448",
+    "ref:DK:cvr:pnummer": "1022311383",
+    "takeaway": "yes",
+    "website": "https://soho-lounge.dk/roskilde/"
+  }
+},
+{
+  "type": "node",
+  "id": 5682665985,
+  "lat": 56.1579526,
+  "lon": 10.2005354,
+  "tags": {
+    "amenity": "nightclub",
+    "live_music": "yes",
+    "name": "CasaV58",
+    "website": "https://www.casacarola.dk/"
+  }
+},
+{
+  "type": "node",
+  "id": 5753671310,
+  "lat": 56.4135718,
+  "lon": 10.8803650,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Beta House",
+    "opening_hours": "Fr,Sa 18:00+"
+  }
+},
+{
+  "type": "node",
+  "id": 6820200681,
+  "lat": 56.5504600,
+  "lon": 8.3080547,
+  "tags": {
+    "alt_name": "Restaurant Gl. Havn",
+    "amenity": "nightclub",
+    "fvst:navnelbnr": "41382",
+    "name": "Gl havn",
+    "ref:DK:cvr": "31230179",
+    "ref:DK:cvr:pnummer": "1014264759",
+    "smoking": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6837307185,
+  "lat": 55.6780283,
+  "lon": 12.5743937,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Chateau Motel",
+    "opening_hours": "Fr-Sa 22:00-05:00",
+    "website": "https://www.chateaumotel.dk/"
+  }
+},
+{
+  "type": "node",
+  "id": 6858009985,
+  "lat": 55.6620079,
+  "lon": 12.5409009,
+  "tags": {
+    "amenity": "nightclub",
+    "email": "cph.deep@gmail.com",
+    "name": "CPH DEEP"
+  }
+},
+{
+  "type": "node",
+  "id": 8110000749,
+  "lat": 55.7037116,
+  "lon": 12.5552978,
+  "tags": {
+    "amenity": "nightclub",
+    "fvst:name": "Sigurdsgade Event",
+    "fvst:navnelbnr": "761585",
+    "name": "Sigurdsgade",
+    "ref:DK:cvr": "37490369"
+  }
+},
+{
+  "type": "node",
+  "id": 8111970341,
+  "lat": 55.6386364,
+  "lon": 12.0865755,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2025-10-17",
+    "email": "roskilde@dansebar.nu",
+    "fvst:navnelbnr": "91731",
+    "name": "Dansebar Roskilde",
+    "ref:DK:cvr": "20219270",
+    "website": "https://dansebarroskilde.dk/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8117602442,
+  "lat": 55.6779580,
+  "lon": 12.5744440,
+  "tags": {
+    "amenity": "nightclub",
+    "fvst:navnelbnr": "653584",
+    "name": "Chateau Motel Natclub",
+    "ref:DK:cvr": "37670286",
+    "website": "https://chateaumotel.dk/"
+  }
+},
+{
+  "type": "node",
+  "id": 8117602534,
+  "lat": 55.9291550,
+  "lon": 12.3031800,
+  "tags": {
+    "amenity": "nightclub",
+    "fvst:navnelbnr": "774353",
+    "name": "Haze Nightclub",
+    "ref:DK:cvr": "39964066"
+  }
+},
+{
+  "type": "node",
+  "id": 8127065800,
+  "lat": 55.6389500,
+  "lon": 12.0855820,
+  "tags": {
+    "amenity": "nightclub",
+    "fvst:navnelbnr": "109503",
+    "name": "Garbos",
+    "ref:DK:cvr": "29836299",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 8127622603,
+  "lat": 55.4030020,
+  "lon": 11.3550780,
+  "tags": {
+    "amenity": "nightclub",
+    "description": "Voksensted med dans",
+    "fvst:navnelbnr": "550887",
+    "name": "Gammel Torv",
+    "opening_hours": "Fr-Sa 20:00-02:00",
+    "phone": "+45 42230134",
+    "ref:DK:cvr": "35669698",
+    "website": "https://www.gammeltorv.dk/"
+  }
+},
+{
+  "type": "node",
+  "id": 8130178144,
+  "lat": 55.2309120,
+  "lon": 11.7616990,
+  "tags": {
+    "amenity": "nightclub",
+    "branch": "Næstved",
+    "fvst:navnelbnr": "84618",
+    "name": "Crazy Daisy",
+    "ref:DK:cvr": "20385073"
+  }
+},
+{
+  "type": "node",
+  "id": 8133047665,
+  "lat": 54.8334450,
+  "lon": 11.1311650,
+  "tags": {
+    "amenity": "nightclub",
+    "fvst:navnelbnr": "1340405",
+    "name": "Club Zanzi",
+    "ref:DK:cvr": "37183199",
+    "ref:DK:cvr:pnummer": "1029275854"
+  }
+},
+{
+  "type": "node",
+  "id": 8141496992,
+  "lat": 55.6795643,
+  "lon": 12.5835663,
+  "tags": {
+    "amenity": "nightclub",
+    "fvst:navnelbnr": "530860",
+    "name": "Museo",
+    "opening_hours": "Fr-Sa 23:00-05:00",
+    "ref:DK:cvr": "35242139",
+    "ref:DK:cvr:pnummer": "1018629409",
+    "website": "https://www.museoclub.com"
+  }
+},
+{
+  "type": "node",
+  "id": 8141496994,
+  "lat": 55.6785650,
+  "lon": 12.5730360,
+  "tags": {
+    "amenity": "nightclub",
+    "fvst:navnelbnr": "512674",
+    "name": "Hive",
+    "opening_hours": "Th-Sa 23:00+",
+    "ref:DK:cvr": "34590265",
+    "ref:DK:cvr:pnummer": "1017782238",
+    "website": "https://hivecph.dk/"
+  }
+},
+{
+  "type": "node",
+  "id": 8141496997,
+  "lat": 55.6773690,
+  "lon": 12.5705870,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2024-02-16",
+    "fvst:name": "ReKom Vest Drift 9 - Dorsia",
+    "fvst:navnelbnr": "737577",
+    "name": "Dorsia",
+    "opening_hours": "11:00-05:00, Su off",
+    "ref:DK:cvr": "38544241",
+    "ref:DK:cvr:pnummer": "1022333255",
+    "website": "https://dorsia.dk/"
+  }
+},
+{
+  "type": "node",
+  "id": 8144238934,
+  "lat": 55.6760304,
+  "lon": 12.5633556,
+  "tags": {
+    "amenity": "nightclub",
+    "fvst:navnelbnr": "718276",
+    "name": "Panama",
+    "ref:DK:cvr": "38973363",
+    "ref:DK:cvr:pnummer": "1022901717"
+  }
+},
+{
+  "type": "node",
+  "id": 8148514769,
+  "lat": 55.8110610,
+  "lon": 8.6220130,
+  "tags": {
+    "amenity": "nightclub",
+    "fvst:navnelbnr": "923401",
+    "name": "Shakespeare Nightclub",
+    "phone": "+45 53541719",
+    "ref:DK:cvr": "36117508",
+    "ref:DK:cvr:pnummer": "1025237532"
+  }
+},
+{
+  "type": "node",
+  "id": 8152164423,
+  "lat": 55.2504700,
+  "lon": 9.4879090,
+  "tags": {
+    "amenity": "nightclub",
+    "fvst:navnelbnr": "79466",
+    "name": "Crazy Daisy",
+    "phone": "+45 74535300",
+    "ref:DK:cvr": "27586473",
+    "ref:DK:cvr:pnummer": "1004804276"
+  }
+},
+{
+  "type": "node",
+  "id": 8158016883,
+  "lat": 55.8636780,
+  "lon": 9.8462070,
+  "tags": {
+    "amenity": "nightclub",
+    "fvst:navnelbnr": "69630",
+    "name": "Sölibat Horsens Diskotek & Bar",
+    "ref:DK:cvr": "20742801",
+    "ref:DK:cvr:pnummer": "1007925774"
+  }
+},
+{
+  "type": "node",
+  "id": 8162445345,
+  "lat": 55.4661511,
+  "lon": 8.4524383,
+  "tags": {
+    "amenity": "nightclub",
+    "branch": "Esbjerg",
+    "facebook": "https://www.facebook.com/pioneresbjerg",
+    "fvst:name": "Pioner Bar Esbjerg - diskotek",
+    "fvst:navnelbnr": "661311",
+    "karaoke": "yes",
+    "level": "-1",
+    "min_age": "18",
+    "name": "Pioner Bar",
+    "opening_hours": "Fr-Sa 19:00+",
+    "phone": "+45 30831339",
+    "ref:DK:cvr": "35649093",
+    "ref:DK:cvr:pnummer": "1019126729",
+    "website": "https://pionerbar.dk/esbjerg/"
+  }
+},
+{
+  "type": "node",
+  "id": 8162798837,
+  "lat": 55.4893150,
+  "lon": 9.4777530,
+  "tags": {
+    "amenity": "nightclub",
+    "drink:cocktail": "yes",
+    "fvst:navnelbnr": "741341",
+    "min_age": "18",
+    "name": "M6 cocktailbar",
+    "phone": "+45 71375901",
+    "ref:DK:cvr": "38139339",
+    "ref:DK:cvr:pnummer": "1021876417",
+    "website": "https://www.dopo-cena.com/en/m6-cocktailbar_s266979880452964.htm"
+  }
+},
+{
+  "type": "node",
+  "id": 8170322262,
+  "lat": 55.3993420,
+  "lon": 10.3767200,
+  "tags": {
+    "amenity": "nightclub",
+    "fvst:navnelbnr": "529043",
+    "name": "Slagteriet Nat",
+    "ref:DK:cvr": "35391932",
+    "ref:DK:cvr:pnummer": "1018607278",
+    "website": "https://slagteriet.com/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 8170960200,
+  "lat": 55.0592771,
+  "lon": 10.6131834,
+  "tags": {
+    "amenity": "nightclub",
+    "branch": "Svendborg",
+    "fee": "yes",
+    "fvst:navnelbnr": "81469",
+    "name": "Crazy Daisy",
+    "ref:DK:cvr": "27389317",
+    "ref:DK:cvr:pnummer": "1002559349",
+    "smoking": "separated"
+  }
+},
+{
+  "type": "node",
+  "id": 8188121280,
+  "lat": 56.1521050,
+  "lon": 10.1993700,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2026-09-06",
+    "fvst:navnelbnr": "123398",
+    "name": "HeadQuarters",
+    "ref:DK:cvr": "33351488",
+    "ref:DK:cvr:pnummer": "1016459972",
+    "website": "https://hq.dk/"
+  }
+},
+{
+  "type": "node",
+  "id": 8202137130,
+  "lat": 56.5680005,
+  "lon": 9.0329696,
+  "tags": {
+    "amenity": "nightclub",
+    "fvst:navnelbnr": "661295",
+    "name": "Havana Skive",
+    "phone": "+45 60243181",
+    "ref:DK:cvr": "35392742",
+    "ref:DK:cvr:pnummer": "1018625780"
+  }
+},
+{
+  "type": "node",
+  "id": 8206006777,
+  "lat": 55.6864814,
+  "lon": 12.5839772,
+  "tags": {
+    "amenity": "nightclub",
+    "fax": "+45 3332 5054",
+    "fvst:navnelbnr": "117578",
+    "name": "Culture Box",
+    "opening_hours": "Fr-Sa 21:00+",
+    "operator": "Culture Box",
+    "phone": "+45 33325050",
+    "ref:DK:cvr": "28292457",
+    "ref:DK:cvr:pnummer": "1010986172",
+    "website": "https://culture-box.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 9407970406,
+  "lat": 56.7175405,
+  "lon": 10.1156948,
+  "tags": {
+    "alt_name": "Nattergalen Hadsund",
+    "amenity": "nightclub",
+    "brewery": "yes",
+    "check_date": "2022-03-31",
+    "fvst:navnelbnr": "1145177",
+    "min_age": "18",
+    "name": "Diskotek Nattergalen",
+    "ref:DK:cvr": "42749176",
+    "ref:DK:cvr:pnummer": "1027620147"
+  }
+},
+{
+  "type": "node",
+  "id": 9645254582,
+  "lat": 55.6785340,
+  "lon": 12.5720955,
+  "tags": {
+    "amenity": "nightclub",
+    "fvst:navnelbnr": "1519184",
+    "name": "Alexandra",
+    "ref:DK:cvr": "45673960",
+    "ref:DK:cvr:pnummer": "1031413407",
+    "website": "https://alexandrahus.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 9652077590,
+  "lat": 57.0502314,
+  "lon": 9.9190483,
+  "tags": {
+    "amenity": "nightclub",
+    "fvst:navnelbnr": "1218685",
+    "name": "Storm P",
+    "outdoor_seating": "yes",
+    "ref:DK:cvr": "41246847",
+    "ref:DK:cvr:pnummer": "1025688526"
+  }
+},
+{
+  "type": "node",
+  "id": 9654241980,
+  "lat": 56.1526670,
+  "lon": 10.0891920,
+  "tags": {
+    "amenity": "nightclub",
+    "fvst:navnelbnr": "550775",
+    "live_music": "yes",
+    "name": "Musikklubben Jazzværket",
+    "ref:DK:cvr": "30305329",
+    "ref:DK:cvr:pnummer": "1019333767",
+    "website": "http://www.jazzvaerket.dk/"
+  }
+},
+{
+  "type": "node",
+  "id": 9659449387,
+  "lat": 55.6821918,
+  "lon": 12.5821285,
+  "tags": {
+    "amenity": "nightclub",
+    "fvst:navnelbnr": "1010648",
+    "name": "High Voltage Copenhagen",
+    "opening_hours": "Fr-Sa 19:00-04:00",
+    "ref:DK:cvr": "40507248",
+    "ref:DK:cvr:pnummer": "1024690462",
+    "website": "https://highvoltagecph.dk/"
+  }
+},
+{
+  "type": "node",
+  "id": 9662350848,
+  "lat": 55.6816331,
+  "lon": 12.5841715,
+  "tags": {
+    "amenity": "nightclub",
+    "fvst:navnelbnr": "1486278",
+    "name": "Lola",
+    "opening_hours": "We-Su 22:00-05:00",
+    "website": "https://lolaclub.dk/kobenhavn/"
+  }
+},
+{
+  "type": "node",
+  "id": 9944333538,
+  "lat": 57.7208027,
+  "lon": 10.5896230,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2025-07-10",
+    "name": "Kælderen"
+  }
+},
+{
+  "type": "node",
+  "id": 10296922378,
+  "lat": 56.1671043,
+  "lon": 9.5450310,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Butchers",
+    "opening_hours": "Fr 22:00-24:00; Sa 00:00-05:00,22:00-24:00; Su 00:00-05:00",
+    "website": "https://butchersclub.dk/silkeborg"
+  }
+},
+{
+  "type": "node",
+  "id": 10537516886,
+  "lat": 55.4009515,
+  "lon": 10.3840578,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Posten",
+    "smoking": "no",
+    "website": "https://www.postenlive.dk/"
+  }
+},
+{
+  "type": "node",
+  "id": 10542552286,
+  "lat": 55.3784713,
+  "lon": 10.4095489,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Kansas City"
+  }
+},
+{
+  "type": "node",
+  "id": 10724120698,
+  "lat": 55.4438895,
+  "lon": 11.7920944,
+  "tags": {
+    "amenity": "nightclub",
+    "fvst:navnelbnr": "1119916",
+    "name": "Infinity Club",
+    "phone": "+45 22619461",
+    "ref:DK:cvr": "40108262",
+    "ref:DK:cvr:pnummer": "1024232391"
+  }
+},
+{
+  "type": "node",
+  "id": 10747940417,
+  "lat": 55.3946292,
+  "lon": 10.3834141,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Proud Mary Pub",
+    "website": "https://proudmarypub.dk/odense"
+  }
+},
+{
+  "type": "node",
+  "id": 10840065681,
+  "lat": 55.6677390,
+  "lon": 12.5441568,
+  "tags": {
+    "amenity": "nightclub",
+    "fvst:navnelbnr": "1239258",
+    "name": "Basement",
+    "ref:DK:cvr": "64942212",
+    "ref:DK:cvr:pnummer": "1024280523",
+    "website": "https://basement.kk.dk/"
+  }
+},
+{
+  "type": "node",
+  "id": 11410423431,
+  "lat": 55.6686196,
+  "lon": 12.6106579,
+  "tags": {
+    "amenity": "nightclub",
+    "email": "info@motopol.dk",
+    "name": "Motopol",
+    "website": "http://www.motopol.dk"
+  }
+},
+{
+  "type": "node",
+  "id": 11462201969,
+  "lat": 57.0505798,
+  "lon": 9.9196308,
+  "tags": {
+    "amenity": "nightclub",
+    "contact:facebook": "rocken9000",
+    "contact:instagram": "rocken_aalborg",
+    "fvst:navnelbnr": "942032",
+    "level": "-1",
+    "name": "Rocken",
+    "old_name": "Musikkælderen",
+    "opening_hours": "Fr-Sa 21:00-06:00",
+    "ref:DK:cvr": "41241640",
+    "ref:DK:cvr:pnummer": "1025665054",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11529188890,
+  "lat": 55.4667118,
+  "lon": 8.4514866,
+  "tags": {
+    "amenity": "nightclub",
+    "description": "Nightclub - Gastro sportsbar",
+    "fvst:navnelbnr": "697614",
+    "level": "1",
+    "name": "HomeRun",
+    "note": "Restaurant Posten, Delekonceptet, HomeRun, Ganens Fryd & Butcher på Loftet share fvst:navnelbnr but are branded separately",
+    "official_name": "Restaurant Posten",
+    "opening_hours": "Tu-Th 16:00-24:00; Sa-Su 12:00+",
+    "phone": "+45 69136018",
+    "ref:DK:cvr": "37642681",
+    "ref:DK:cvr:pnummer": "1021371072",
+    "website": "https://www.homerunesbjerg.dk/"
+  }
+},
+{
+  "type": "node",
+  "id": 11809334228,
+  "lat": 54.7657344,
+  "lon": 11.8752977,
+  "tags": {
+    "alt_name": "Kalas Nightclub",
+    "amenity": "nightclub",
+    "fvst:navnelbnr": "1415431",
+    "name": "Kalas",
+    "operator": "N.Y.K. Event",
+    "ref:DK:cvr": "44580179",
+    "ref:DK:cvr:pnummer": "1030024970"
+  }
+},
+{
+  "type": "node",
+  "id": 11848572696,
+  "lat": 55.6795829,
+  "lon": 11.0937891,
+  "tags": {
+    "amenity": "nightclub",
+    "fvst:navnelbnr": "1423288",
+    "name": "Club K52",
+    "ref:DK:cvr": "44264366",
+    "ref:DK:cvr:pnummer": "1030041174"
+  }
+},
+{
+  "type": "node",
+  "id": 11850144616,
+  "lat": 56.7964172,
+  "lon": 8.8618220,
+  "tags": {
+    "amenity": "nightclub",
+    "fvst:navnelbnr": "1340972",
+    "name": "Zebra Bar",
+    "ref:DK:cvr": "43536575",
+    "ref:DK:cvr:pnummer": "1028606806"
+  }
+},
+{
+  "type": "node",
+  "id": 12075574020,
+  "lat": 57.0498504,
+  "lon": 9.9186788,
+  "tags": {
+    "amenity": "nightclub",
+    "brewery": "Carlsberg",
+    "fvst:navnelbnr": "1405174",
+    "name": "Under Buret",
+    "opening_hours": "We-Th 18:00-26:00, Fr-Sa 18:00-29:00; Mo,Tu,Su off",
+    "outdoor_seating": "pedestrian_zone",
+    "ref:DK:cvr": "40096779",
+    "ref:DK:cvr:pnummer": "1029268793",
+    "smoking": "outside",
+    "website": "https://www.facebook.com/underburet/",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 12726523260,
+  "lat": 55.5638933,
+  "lon": 9.7577681,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2026-01-31",
+    "facebook": "https://www.facebook.com/profile.php/?id=61553853956922",
+    "name": "Freddies",
+    "opening_hours": "Fr-Sa 21:00-05:00",
+    "website": "https://www.freddies-bar.dk/"
+  }
+},
+{
+  "type": "node",
+  "id": 12800164327,
+  "lat": 55.0592622,
+  "lon": 10.6112690,
+  "tags": {
+    "amenity": "nightclub",
+    "fvst:navnelbnr": "1447319",
+    "name": "Hemingways Svendborg",
+    "opening_hours": "Fr-Sa 22:00+",
+    "ref:DK:cvr": "42446637",
+    "ref:DK:cvr:pnummer": "1027237432",
+    "website": "https://www.hemingways-svendborg.dk/"
+  }
+},
+{
+  "type": "node",
+  "id": 12828617317,
+  "lat": 56.5656578,
+  "lon": 9.0292922,
+  "tags": {
+    "amenity": "nightclub",
+    "fvst:navnelbnr": "1449779",
+    "name": "Mantra Club&Bar",
+    "opening_hours": "Th-Sa 22:00+",
+    "ref:DK:cvr": "44901536",
+    "ref:DK:cvr:pnummer": "1030446417",
+    "website": "https://mantraclub.dk/"
+  }
+},
+{
+  "type": "node",
+  "id": 12849216330,
+  "lat": 57.0498319,
+  "lon": 9.9188618,
+  "tags": {
+    "amenity": "nightclub",
+    "facebook": "https://www.facebook.com/people/Escape-Night-Club/61561544444338/",
+    "fvst:name": "DH Handel og Investering Escape Club",
+    "fvst:navnelbnr": "1456382",
+    "level": "2",
+    "name": "Escape",
+    "ref:DK:cvr": "37229768",
+    "ref:DK:cvr:pnummer": "1020897410"
+  }
+},
+{
+  "type": "node",
+  "id": 12920684397,
+  "lat": 55.6755829,
+  "lon": 12.5665614,
+  "tags": {
+    "amenity": "nightclub",
+    "min_age": "20",
+    "name": "Module",
+    "smoking": "isolated"
+  }
+},
+{
+  "type": "node",
+  "id": 12920685071,
+  "lat": 55.6914193,
+  "lon": 12.6170443,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Hangaren"
+  }
+},
+{
+  "type": "node",
+  "id": 12950339019,
+  "lat": 55.6815738,
+  "lon": 12.5709844,
+  "tags": {
+    "amenity": "nightclub",
+    "fvst:navnelbnr": "645885",
+    "name": "A R C H Copenhagen",
+    "opening_hours": "We 23:00-04:00,Fr-Sa 23:00-05:00",
+    "phone": "+45 41141433",
+    "ref:DK:cvr": "27581870",
+    "ref:DK:cvr:pnummer": "1010377451",
+    "website": "https://www.archcph.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 13121368431,
+  "lat": 55.7583133,
+  "lon": 11.6888823,
+  "tags": {
+    "access": "private",
+    "alt_name": "El-Diablo",
+    "amenity": "nightclub",
+    "check_date": "2025-09-05",
+    "contact:email": "info@eldiablo.dk",
+    "description": "Natklub/voksenklub med wellness (spa, hot tub, sauna) og tema-aftener. Tilmelding via web/kalender. Kilde: eldiablo.dk",
+    "name": "El Diablo",
+    "note": "Voksennatklub med voksenarrangementer (swinger/erotiske temaer); åben for voksne (tilmelding/medlemskab til nogle events).",
+    "opening_hours": "Fr 19:00-02:00; Sa 19:00-02:00",
+    "phone": "+45 27 76 66 66",
+    "source": "eldiablo.dk",
+    "website": "https://eldiablo.dk/"
+  }
+},
+{
+  "type": "node",
+  "id": 13619947062,
+  "lat": 55.7171572,
+  "lon": 11.7093447,
+  "tags": {
+    "alt_name": "The Bank Entertainment",
+    "amenity": "nightclub",
+    "fvst:navnelbnr": "1513413",
+    "name": "The Bank",
+    "opening_hours": "Fr-Sa 23:00-04:00",
+    "ref:DK:cvr": "45750590",
+    "ref:DK:cvr:pnummer": "1031508165",
+    "start_date": "2025-10-17",
+    "website": "https://www.the-bank.dk/"
+  }
+},
+{
+  "type": "node",
+  "id": 13787224503,
+  "lat": 55.7767163,
+  "lon": 12.5070080,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Camp Idiot"
+  }
+},
+{
+  "type": "node",
+  "id": 14254563579,
+  "lat": 55.7078680,
+  "lon": 9.5359721,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Zwei Grosse Bier Bar"
+  }
+},
+{
+  "type": "node",
+  "id": 14261479818,
+  "lat": 55.7082188,
+  "lon": 9.5360456,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date:opening_hours": "2026-10-05",
+    "contact:facebook": "barmixvejle",
+    "contact:instagram": "barmix.vejle",
+    "min_age": "20",
+    "name": "BarMix",
+    "opening_hours": "Fr-Sa 23:00+; Su-Th off",
+    "website": "https://barmix.dk/vejle"
+  }
+},
+{
+  "type": "way",
+  "id": 36881682,
+  "center": {
+    "lat": 55.6992704,
+    "lon": 12.5588737
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "mBAR",
+    "url": "http://www.mbar.dk"
+  }
+},
+{
+  "type": "way",
+  "id": 152626747,
+  "center": {
+    "lat": 55.7087717,
+    "lon": 12.5235044
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Dødsmaskinen",
+    "outdoor_seating": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 313942037,
+  "center": {
+    "lat": 57.4596799,
+    "lon": 9.9852492
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Buddy Holly Hjørring",
+    "opening_hours": "Th-Sa \"nights\"",
+    "operator": "NOX Network",
+    "smoking": "outside"
+  }
+},
+{
+  "type": "way",
+  "id": 697729024,
+  "center": {
+    "lat": 54.6945009,
+    "lon": 11.9613555
+  },
+  "tags": {
+    "alt_name": "Dr. Emil's Laboratorium",
+    "amenity": "nightclub",
+    "building": "yes",
+    "fvst:navnelbnr": "1581430",
+    "name": "Doktor Emil Laboratorium",
+    "ref:DK:cvr": "46512022",
+    "ref:DK:cvr:pnummer": "1032450233",
+    "seasonal": "summer"
+  }
+},
+{
+  "type": "relation",
+  "id": 2169552,
+  "center": {
+    "lat": 55.6784732,
+    "lon": 12.5731558
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "The Rock",
+    "type": "multipolygon"
+  }
+}
+
+  ]
+}

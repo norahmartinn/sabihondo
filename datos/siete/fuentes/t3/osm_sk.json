@@ -1,0 +1,1640 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-10-08T23:17:24Z",
+    "timestamp_areas_base": "2026-10-07T10:19:21Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 298685042,
+  "lat": 48.7201799,
+  "lon": 21.2535634,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Collosseum",
+    "website": "https://collosseum.sk/"
+  }
+},
+{
+  "type": "node",
+  "id": 310660332,
+  "lat": 48.7197894,
+  "lon": 21.2561760,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Live Club",
+    "opening_hours:signed": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 432597958,
+  "lat": 48.1421012,
+  "lon": 17.1060919,
+  "tags": {
+    "addr:city": "Bratislava",
+    "addr:housenumber": "1",
+    "addr:postcode": "81101",
+    "addr:street": "Ventúrska",
+    "addr:streetnumber": "1",
+    "addr:suburb": "Staré Mesto",
+    "amenity": "nightclub",
+    "bar": "yes",
+    "min_age": "18",
+    "name": "trafo.",
+    "operator": "Medusa Group",
+    "phone": "+421907 704 849",
+    "website": "https://www.trafo.sk/"
+  }
+},
+{
+  "type": "node",
+  "id": 576735662,
+  "lat": 48.1478786,
+  "lon": 17.1113352,
+  "tags": {
+    "addr:city": "Bratislava",
+    "addr:conscriptionnumber": "528",
+    "addr:country": "SK",
+    "addr:housenumber": "48",
+    "addr:postcode": "81106",
+    "addr:street": "Obchodná",
+    "addr:streetnumber": "48",
+    "amenity": "nightclub",
+    "name": "Radosť",
+    "website": "http://www.mojaradost.sk/"
+  }
+},
+{
+  "type": "node",
+  "id": 583272436,
+  "lat": 48.3153449,
+  "lon": 18.0900114,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Barracuda"
+  }
+},
+{
+  "type": "node",
+  "id": 583275726,
+  "lat": 48.3151395,
+  "lon": 18.0904259,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Devil's Pub",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 680055827,
+  "lat": 49.0846956,
+  "lon": 19.6098914,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Admiral"
+  }
+},
+{
+  "type": "node",
+  "id": 725243773,
+  "lat": 48.5958076,
+  "lon": 17.8161083,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Herňa FP club"
+  }
+},
+{
+  "type": "node",
+  "id": 725243783,
+  "lat": 48.5917461,
+  "lon": 17.8271436,
+  "tags": {
+    "addr:city": "Piešťany",
+    "addr:housenumber": "1",
+    "addr:postcode": "92101",
+    "addr:street": "Rastislavova",
+    "amenity": "nightclub",
+    "facebook": "https://www.facebook.com/mangomusicclubbar",
+    "name": "MANGO Music Club & Lounge Bar",
+    "opening_hours": "Fr,Sa 21:00-04:00"
+  }
+},
+{
+  "type": "node",
+  "id": 725243797,
+  "lat": 48.5946686,
+  "lon": 17.8211380,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Royal herňa"
+  }
+},
+{
+  "type": "node",
+  "id": 726173000,
+  "lat": 48.5888539,
+  "lon": 17.8372450,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Casino"
+  }
+},
+{
+  "type": "node",
+  "id": 727343284,
+  "lat": 47.7618174,
+  "lon": 18.1266978,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Herňa Vabank"
+  }
+},
+{
+  "type": "node",
+  "id": 727371034,
+  "lat": 47.7583952,
+  "lon": 18.1259252,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Jolly club"
+  }
+},
+{
+  "type": "node",
+  "id": 727400741,
+  "lat": 47.7563568,
+  "lon": 18.1256512,
+  "tags": {
+    "amenity": "nightclub",
+    "leisure": "adult_gaming_centre",
+    "name": "Herňa Admiral café"
+  }
+},
+{
+  "type": "node",
+  "id": 727400755,
+  "lat": 47.7582832,
+  "lon": 18.1240409,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Joker"
+  }
+},
+{
+  "type": "node",
+  "id": 833739298,
+  "lat": 48.7577677,
+  "lon": 21.9191417,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Alcatraz"
+  }
+},
+{
+  "type": "node",
+  "id": 838775999,
+  "lat": 48.6978807,
+  "lon": 21.2337166,
+  "tags": {
+    "amenity": "nightclub",
+    "level": "1",
+    "name": "V-Klub",
+    "opening_hours": "Mo 19:00-01:00, Tu 19:00-02:30, We 19:00-01:00, Su 20:00-24:00"
+  }
+},
+{
+  "type": "node",
+  "id": 911042902,
+  "lat": 48.4295330,
+  "lon": 17.8013397,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Slopper"
+  }
+},
+{
+  "type": "node",
+  "id": 995197958,
+  "lat": 49.2988712,
+  "lon": 20.6982752,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Mysterium club"
+  }
+},
+{
+  "type": "node",
+  "id": 1103366278,
+  "lat": 48.3152861,
+  "lon": 18.0898746,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Rio"
+  }
+},
+{
+  "type": "node",
+  "id": 1104420889,
+  "lat": 48.1569556,
+  "lon": 17.1137148,
+  "tags": {
+    "alt_name": "Majestic Music Club",
+    "amenity": "nightclub",
+    "contact:facebook": "http://www.facebook.com/groups/276229510417/",
+    "contact:website": "http://www.majestic.sk/sk",
+    "name": "MMC",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1257802102,
+  "lat": 48.2160445,
+  "lon": 18.6047775,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Klub 89",
+    "smoking": "isolated",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1257802117,
+  "lat": 48.2185126,
+  "lon": 18.6044020,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Biliard",
+    "smoking": "yes",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1278618490,
+  "lat": 48.3127743,
+  "lon": 18.0878326,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Mexiko",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1431883441,
+  "lat": 49.0574093,
+  "lon": 20.2951811,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Eros Night Club"
+  }
+},
+{
+  "type": "node",
+  "id": 1471795626,
+  "lat": 49.0650963,
+  "lon": 21.6607007,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2024-12-28",
+    "name": "Kotva"
+  }
+},
+{
+  "type": "node",
+  "id": 1510043595,
+  "lat": 49.1410381,
+  "lon": 20.2984430,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Erotic Nigh Club efekt"
+  }
+},
+{
+  "type": "node",
+  "id": 1733882367,
+  "lat": 49.0663510,
+  "lon": 18.9229379,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Groove club"
+  }
+},
+{
+  "type": "node",
+  "id": 2018771304,
+  "lat": 49.1195624,
+  "lon": 18.4416563,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Life"
+  }
+},
+{
+  "type": "node",
+  "id": 2062384134,
+  "lat": 48.1307722,
+  "lon": 17.1807491,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Baracuda disco bar",
+    "opening_hours": "Mo-Su 18:00-01:00",
+    "website": "http://www.baracuda.sk/"
+  }
+},
+{
+  "type": "node",
+  "id": 2109835021,
+  "lat": 48.1475834,
+  "lon": 17.1085513,
+  "tags": {
+    "addr:city": "Bratislava",
+    "addr:country": "SK",
+    "addr:postcode": "81106",
+    "amenity": "nightclub",
+    "name": "The Plaza Club Bratislava"
+  }
+},
+{
+  "type": "node",
+  "id": 2132944842,
+  "lat": 49.2226808,
+  "lon": 18.7407306,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Centauri",
+    "website": "https://centauri.sk/"
+  }
+},
+{
+  "type": "node",
+  "id": 2168888217,
+  "lat": 49.0569602,
+  "lon": 20.3022872,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Surprise"
+  }
+},
+{
+  "type": "node",
+  "id": 2175142566,
+  "lat": 47.9871826,
+  "lon": 18.1657671,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "W Club"
+  }
+},
+{
+  "type": "node",
+  "id": 2201589578,
+  "lat": 49.0266030,
+  "lon": 20.5904023,
+  "tags": {
+    "amenity": "nightclub",
+    "internet_access": "no",
+    "name": "Admiral",
+    "source": "local knowledge - baramat"
+  }
+},
+{
+  "type": "node",
+  "id": 2208726244,
+  "lat": 48.9677569,
+  "lon": 19.5761888,
+  "tags": {
+    "addr:floor": "2",
+    "amenity": "nightclub",
+    "name": "Retro bar"
+  }
+},
+{
+  "type": "node",
+  "id": 2210835768,
+  "lat": 48.7381900,
+  "lon": 19.1495361,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Stará ponorka"
+  }
+},
+{
+  "type": "node",
+  "id": 2278795593,
+  "lat": 48.6259728,
+  "lon": 18.3731020,
+  "tags": {
+    "addr:housenumber": "143/3",
+    "addr:street": "Námestie SNP",
+    "amenity": "nightclub",
+    "check_date": "2026-04-26",
+    "internet_access": "wlan",
+    "name": "Infinity club",
+    "opening_hours": "Fr-Sa 22:00-04:00",
+    "source": "local knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 2278868122,
+  "lat": 48.5334269,
+  "lon": 17.3221213,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Disco club Perla",
+    "source": "lokal knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 2306651991,
+  "lat": 48.6794039,
+  "lon": 17.3604458,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Ipon",
+    "website": "http://www.iponclub.tym.sk/"
+  }
+},
+{
+  "type": "node",
+  "id": 2342574560,
+  "lat": 48.1405310,
+  "lon": 17.1059931,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "The Club",
+    "website": "https://www.theclubbratislava.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 2384140445,
+  "lat": 49.4021771,
+  "lon": 18.6248964,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Admiral"
+  }
+},
+{
+  "type": "node",
+  "id": 2639814425,
+  "lat": 48.3151485,
+  "lon": 18.0907857,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Luna",
+    "website": "http://www.discoluna.sk/"
+  }
+},
+{
+  "type": "node",
+  "id": 2703045620,
+  "lat": 48.9338562,
+  "lon": 20.6312435,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Ladanza"
+  }
+},
+{
+  "type": "node",
+  "id": 2713271885,
+  "lat": 48.9156464,
+  "lon": 20.8732597,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Casino"
+  }
+},
+{
+  "type": "node",
+  "id": 2902617437,
+  "lat": 48.9983468,
+  "lon": 20.3625860,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Jamajka",
+    "smoking": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2902621439,
+  "lat": 48.9978459,
+  "lon": 20.3634497,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Ihrisko",
+    "smoking": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2989676100,
+  "lat": 48.1544635,
+  "lon": 17.1059556,
+  "tags": {
+    "amenity": "nightclub",
+    "contact:instagram": "https://www.instagram.com/zalar666/",
+    "level": "-1",
+    "name": "ŽALÁR",
+    "old_name": "Kulturák klub;FLAME MUSIC BAR",
+    "opening_hours": "We,Th 17:00-24:00; Fr 19:00-24:00; Sa 00:00-03:00,19:00-24:00; Su 00:00-03:00",
+    "operator": "Žalár Unlimited, s. r. o.",
+    "phone": "+421 904 906 052",
+    "source": "survey",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3116428516,
+  "lat": 48.1409544,
+  "lon": 17.1172652,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Kumelka",
+    "opening_hours": "Mo-Sa 15:00-01:00"
+  }
+},
+{
+  "type": "node",
+  "id": 3116455080,
+  "lat": 48.1416974,
+  "lon": 17.1154144,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2026-03-01",
+    "contact:facebook": "https://www.facebook.com/safkoklub",
+    "contact:instagram": "https://www.instagram.com/safkoklub/",
+    "name": "ŠAFKO",
+    "official_name": "ŠAFKO Klub",
+    "old_name": "UHU Club",
+    "opening_hours": "We 21:00-24:00; Th,Fr 00:00-03:00,21:00-24:00; Sa 00:00-03:00,20:00-24:00; Su 00:00-03:00",
+    "operator": "J&Y s.r.o.",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "smoking": "yes",
+    "website": "https://www.safkoklub.sk/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3166341045,
+  "lat": 48.7585323,
+  "lon": 21.9179114,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Laguna"
+  }
+},
+{
+  "type": "node",
+  "id": 3288237565,
+  "lat": 47.8567789,
+  "lon": 17.7746909,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Harlem",
+    "opening_hours": "Mo-Su 14:00-05:00"
+  }
+},
+{
+  "type": "node",
+  "id": 3561960763,
+  "lat": 48.1444692,
+  "lon": 17.1120434,
+  "tags": {
+    "amenity": "nightclub",
+    "contact:facebook": "https://www.facebook.com/fuga.ba",
+    "contact:website": "http://fuga.forumabsurdum.sk/",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "name": "Fuga",
+    "opening_hours": "Mo-Fr 16:00-24:00; Sa,Su 00:00-03:00,15:00-24:00",
+    "operator": "Manko",
+    "toilets:wheelchair": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3754158706,
+  "lat": 48.7505902,
+  "lon": 17.6636417,
+  "tags": {
+    "amenity": "nightclub",
+    "email": "marketing@erotickysalon.sk",
+    "min_age": "18",
+    "name": "Erotický salón Hrašné",
+    "opening_hours": "Mo-Su 17:00-06:00",
+    "website": "https://erotickysalon.sk/"
+  }
+},
+{
+  "type": "node",
+  "id": 3796828265,
+  "lat": 48.1858307,
+  "lon": 17.2526376,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Enjoy Music Club",
+    "opening_hours": "Mo-Th 17:00-24:00; Fr-Sa 17:00-03:00, Su 16:00-24:00",
+    "smoking": "yes",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3884627442,
+  "lat": 48.6277571,
+  "lon": 18.3711614,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Magic club"
+  }
+},
+{
+  "type": "node",
+  "id": 4153062186,
+  "lat": 48.7295632,
+  "lon": 19.1350717,
+  "tags": {
+    "addr:city": "Banská Bystrica",
+    "addr:housenumber": "25",
+    "addr:postcode": "97401",
+    "addr:street": "Na Troskách",
+    "amenity": "nightclub",
+    "contact:instagram": "ministryoffunbb",
+    "live_music": "yes",
+    "name": "Ministry of Fun",
+    "opening_hours": "Fr,Sa 21:00-04:45",
+    "smoking": "isolated",
+    "website": "https://ministry.sk/"
+  }
+},
+{
+  "type": "node",
+  "id": 4196045943,
+  "lat": 49.0804914,
+  "lon": 19.3041942,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Metropola"
+  }
+},
+{
+  "type": "node",
+  "id": 4426732090,
+  "lat": 48.9901843,
+  "lon": 21.2358495,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Hviezda Cocktail & Shisha Bar",
+    "opening_hours": "Mo-Th 17:00-01:00, Fr-Sa 17:00-03:00, Su 17:00-03:00",
+    "phone": "+421 950 487 891",
+    "website": "https://www.instagram.com/hviezda.presov/"
+  }
+},
+{
+  "type": "node",
+  "id": 4518892755,
+  "lat": 49.4380493,
+  "lon": 18.7851937,
+  "tags": {
+    "amenity": "nightclub",
+    "level": "-1",
+    "name": "Clip Bar",
+    "opening_hours": "Fr 14:00-05:00, Sa 17:00-05:00",
+    "website": "https://www.lunacadca.sk/clip-bar-cadca"
+  }
+},
+{
+  "type": "node",
+  "id": 4523898646,
+  "lat": 48.1478255,
+  "lon": 17.1042053,
+  "tags": {
+    "addr:city": "Bratislava",
+    "addr:housenumber": "24",
+    "addr:postcode": "81103",
+    "addr:street": "Panenská",
+    "amenity": "nightclub",
+    "check_date": "2025-09-17",
+    "name": "Apollon Gay Club"
+  }
+},
+{
+  "type": "node",
+  "id": 4645787190,
+  "lat": 48.1461084,
+  "lon": 17.1148509,
+  "tags": {
+    "addr:housenumber": "2",
+    "addr:postcode": "81108",
+    "addr:street": "Rajská",
+    "amenity": "nightclub",
+    "email": "info@lunabar.sk",
+    "internet_access": "wlan",
+    "level": "0",
+    "min_age": "21",
+    "name": "Luna bar",
+    "opening_hours": "Fr,Sa 20:00-05:00",
+    "operator": "Partymaker",
+    "phone": "+421911872672",
+    "smoking": "isolated",
+    "website": "https://www.lunabar.sk/"
+  }
+},
+{
+  "type": "node",
+  "id": 4789113535,
+  "lat": 48.3766418,
+  "lon": 17.5844362,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Monkey Club",
+    "phone": "+421 901 711 469",
+    "smoking": "separated"
+  }
+},
+{
+  "type": "node",
+  "id": 4798963424,
+  "lat": 49.1168028,
+  "lon": 18.4510818,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Subway club",
+    "name:sk": "Subway club"
+  }
+},
+{
+  "type": "node",
+  "id": 4800834421,
+  "lat": 48.7158439,
+  "lon": 21.2622212,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "RR Club"
+  }
+},
+{
+  "type": "node",
+  "id": 4800835321,
+  "lat": 48.7186500,
+  "lon": 21.2566572,
+  "tags": {
+    "amenity": "nightclub",
+    "min_age": "18",
+    "name": "Crystal Gentleman night club",
+    "opening_hours": "Mo-Su 21:00-05:00",
+    "phone": "+421 915 560 398",
+    "website": "https://crystalkosice.sk/"
+  }
+},
+{
+  "type": "node",
+  "id": 4813427654,
+  "lat": 49.1165233,
+  "lon": 18.4456840,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Sabrina"
+  }
+},
+{
+  "type": "node",
+  "id": 4883497721,
+  "lat": 48.7276932,
+  "lon": 21.2647363,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Visteria club"
+  }
+},
+{
+  "type": "node",
+  "id": 4888205563,
+  "lat": 49.0829096,
+  "lon": 19.3014899,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "AS Club"
+  }
+},
+{
+  "type": "node",
+  "id": 5052153623,
+  "lat": 48.7774197,
+  "lon": 18.6035081,
+  "tags": {
+    "amenity": "nightclub",
+    "contact:facebook": "https://www.facebook.com/club333.sk",
+    "name": "Club 333",
+    "opening_hours": "Fr21:00-24:00; Sa 00:00-05:00,21:00-24:00; Su 00:00-05:00",
+    "phone": "+421 911 816 124",
+    "website": "https://www.club333.sk/"
+  }
+},
+{
+  "type": "node",
+  "id": 5151623528,
+  "lat": 48.7810301,
+  "lon": 18.6218800,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "JN Club",
+    "opening_hours": "Fr 20:00-24:00; Sa 00:00-06:00,20:00-24:00; Su 00:00-06:00"
+  }
+},
+{
+  "type": "node",
+  "id": 5224400262,
+  "lat": 48.8941003,
+  "lon": 18.0399504,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Steps club",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5548531937,
+  "lat": 49.1160878,
+  "lon": 19.0362851,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Kriváň"
+  }
+},
+{
+  "type": "node",
+  "id": 5798250128,
+  "lat": 49.2268696,
+  "lon": 18.7444072,
+  "tags": {
+    "amenity": "nightclub",
+    "email": "za@lifeclub.sk",
+    "min_age": "16",
+    "name": "Life Music Club",
+    "opening_hours": "Fr 21:30-24:00; Sa 00:00-04:00,21:30-24:00; Su 00:00-04:00",
+    "phone": "+421 915 250 833",
+    "smoking": "yes",
+    "website": "https://www.lifeclub.sk/ZA/index.php"
+  }
+},
+{
+  "type": "node",
+  "id": 5864462321,
+  "lat": 49.2077164,
+  "lon": 19.2958627,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "KC Ilúzia",
+    "opening_hours": "Th 13:00-00:00; Fr 13:00-03:00; Sa 16:00-03:00",
+    "website": "https://www.facebook.com/p/KC-iluzia-61581425496478/"
+  }
+},
+{
+  "type": "node",
+  "id": 6053335832,
+  "lat": 48.9952905,
+  "lon": 21.2419178,
+  "tags": {
+    "amenity": "nightclub",
+    "level": "-1",
+    "min_age": "18",
+    "name": "Archa Pub",
+    "opening_hours": "Mo-Su 18:00-03:00",
+    "smoking": "dedicated"
+  }
+},
+{
+  "type": "node",
+  "id": 6061730816,
+  "lat": 48.0287548,
+  "lon": 17.3135278,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "ARENA",
+    "opening_hours": "Mo-Fr 00:00-02:00,17:00-24:00; Sa,Su 00:00-04:00,17:00-24:00",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 6444096486,
+  "lat": 49.0021320,
+  "lon": 21.2386781,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "ENCORE the Club",
+    "opening_hours": "Tu-Th 12:00-24:00; Fr 14:00-04:00, Sa 18:00-02:00",
+    "phone": "+421908400200",
+    "website": "https://www.encoretheclub.sk/"
+  }
+},
+{
+  "type": "node",
+  "id": 6600283613,
+  "lat": 49.0682022,
+  "lon": 19.3863306,
+  "tags": {
+    "addr:city": "Liptovské Sliače",
+    "amenity": "nightclub",
+    "name": "Bar Kalambur",
+    "source": "local knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 6865000709,
+  "lat": 48.6421130,
+  "lon": 17.1442080,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Riverside",
+    "wheelchair": "no;stairs"
+  }
+},
+{
+  "type": "node",
+  "id": 7039273467,
+  "lat": 48.1648380,
+  "lon": 17.1536080,
+  "tags": {
+    "addr:city": "Bratislava",
+    "addr:housenumber": "34",
+    "addr:postcode": "821 01",
+    "addr:street": "Tomášikova",
+    "amenity": "nightclub",
+    "name": "Salsa by Norika",
+    "opening_hours": "Mo-Th 18:00-23:00; Fr 21:00-04:00",
+    "smoking": "outside",
+    "website": "https://www.norika.sk/sk/kluby/dance-club-salsa-by-norika"
+  }
+},
+{
+  "type": "node",
+  "id": 7090807420,
+  "lat": 48.6910881,
+  "lon": 18.5298277,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "LaStriga",
+    "website": "https://lastriga.sk/"
+  }
+},
+{
+  "type": "node",
+  "id": 7806709862,
+  "lat": 48.7533270,
+  "lon": 21.9001120,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Icon Club"
+  }
+},
+{
+  "type": "node",
+  "id": 7903716200,
+  "lat": 49.0008186,
+  "lon": 21.2389780,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "R2 Music Club",
+    "opening_hours": "Fr-Sa 20:00-04:00"
+  }
+},
+{
+  "type": "node",
+  "id": 7903716210,
+  "lat": 49.0020717,
+  "lon": 21.2385423,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Encore Lounge Bar",
+    "opening_hours": "Mo-Th 18:00-24:00, Fr-Sa 18:00-03:00",
+    "phone": "+421 908 800 200",
+    "website": "https://www.encorepoker.sk/"
+  }
+},
+{
+  "type": "node",
+  "id": 7911459253,
+  "lat": 48.9935054,
+  "lon": 21.2440959,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Infinity Bar - Live poker & Billiard",
+    "opening_hours": "Mo-Su 20:00-02:00"
+  }
+},
+{
+  "type": "node",
+  "id": 7911459265,
+  "lat": 48.9946627,
+  "lon": 21.2422364,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Ponorka Music Pub",
+    "opening_hours": "Mo-Th 20:00-02:00, Fr-Sa 20:00-04:00, Su 20:00-02:00"
+  }
+},
+{
+  "type": "node",
+  "id": 9235193538,
+  "lat": 48.9997722,
+  "lon": 21.2399061,
+  "tags": {
+    "amenity": "nightclub",
+    "contact:facebook": "100064084801442",
+    "name": "Continental Club",
+    "opening_hours": "Mo-Th 16:00-22:00; Fr 16:00-02:00, Sa 18:00-02:00"
+  }
+},
+{
+  "type": "node",
+  "id": 9530154242,
+  "lat": 49.0841038,
+  "lon": 19.3009709,
+  "tags": {
+    "amenity": "nightclub",
+    "min_age": "18",
+    "name": "Café Club Caracas",
+    "website": "https://www.facebook.com/CafeClubCaracas/"
+  }
+},
+{
+  "type": "node",
+  "id": 9708070983,
+  "lat": 48.0103234,
+  "lon": 17.3079595,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Lagúna",
+    "opening_hours": "Fr 20:00-24:00; Sa 00:00-03:00,20:00-24:00; Su 00:00-03:00",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 9841394994,
+  "lat": 48.8126306,
+  "lon": 18.5827746,
+  "tags": {
+    "amenity": "nightclub",
+    "contact:facebook": "https://www.facebook.com/moment.club.kanianka/",
+    "level": "1",
+    "name": "Moment club",
+    "opening_hours": "Mo-Fr 00:00-01:00,18:00-24:00; Sa-Su 00:00-03:00,18:00-24:00",
+    "website": "https://www.momentclub.sk/"
+  }
+},
+{
+  "type": "node",
+  "id": 9874825040,
+  "lat": 49.2238571,
+  "lon": 18.7398158,
+  "tags": {
+    "amenity": "nightclub",
+    "contact:facebook": "EnjoyClubZilina",
+    "contact:instagram": "enjoyclub_za",
+    "contact:tiktok": "enjoyclub_za",
+    "contact:youtube": "ZetLife",
+    "delivery": "no",
+    "email": "enjoyrezervacie@gmail.com",
+    "indoor_seating": "yes",
+    "internet_access": "wlan",
+    "min_age": "16",
+    "name": "EnjoyClub",
+    "opening_hours": "Fr,Sa 20:00-04:00",
+    "payment:cash": "yes",
+    "payment:contactless": "yes",
+    "phone": "+421 904 341 904",
+    "reservation": "yes",
+    "smoking": "yes",
+    "takeaway": "no",
+    "website": "https://www.enjoyclub.sk",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 9949226669,
+  "lat": 48.3803294,
+  "lon": 17.5844264,
+  "tags": {
+    "amenity": "nightclub",
+    "contact:facebook": "https://www.facebook.com/mananapubnalivaren",
+    "email": "clubfunpoint@gmail.com",
+    "name": "Maňana pub - nalíváreň",
+    "opening_hours": "We-Th 17:00-00:00; Fr-Sa 17:00-02:00",
+    "phone": "+421 917 200 706"
+  }
+},
+{
+  "type": "node",
+  "id": 9958050673,
+  "lat": 48.1489277,
+  "lon": 17.1111059,
+  "tags": {
+    "amenity": "nightclub",
+    "branch": "Vysoká",
+    "contact:facebook": "https://www.facebook.com/100karaokeBA",
+    "contact:instagram": "https://www.instagram.com/100.karaoke",
+    "name": "100Karaoke",
+    "opening_hours": "Mo-Fr 18:00-24:00; Sa,Su 00:00-03:00,18:00-24:00",
+    "operator": "100 karaoke, s.r.o.",
+    "phone": "+421 910 133 337",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 10076613452,
+  "lat": 49.2118012,
+  "lon": 18.7379108,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "K2",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 10289119293,
+  "lat": 48.7154771,
+  "lon": 21.2621329,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Boba Bar",
+    "website": "https://www.boba.sk/"
+  }
+},
+{
+  "type": "node",
+  "id": 10580334659,
+  "lat": 49.0020534,
+  "lon": 21.2386595,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "ENCORE the Game Club",
+    "opening_hours": "Mo-Sa 10:00-03:00, Su 14:00-03:00",
+    "website": "http://www.encoretheclub.sk/"
+  }
+},
+{
+  "type": "node",
+  "id": 10860455602,
+  "lat": 48.9958762,
+  "lon": 21.2414658,
+  "tags": {
+    "amenity": "nightclub",
+    "brewery": "yes",
+    "name": "we_Ganek",
+    "opening_hours": "Mo-Su 19:00-24:00",
+    "smoking": "isolated",
+    "website": "https://www.instagram.com/we_ganek/"
+  }
+},
+{
+  "type": "node",
+  "id": 11215181271,
+  "lat": 48.8942797,
+  "lon": 18.0368647,
+  "tags": {
+    "amenity": "nightclub",
+    "contact:email": "info@klubluc.sk",
+    "contact:phone": "+421 903 027 910",
+    "contact:website": "http://www.klubluc.sk",
+    "name": "Klub Lúč - otvorený kultúrny priestor"
+  }
+},
+{
+  "type": "node",
+  "id": 11657252460,
+  "lat": 48.6616443,
+  "lon": 20.5336329,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Bakatu",
+    "opening_hours": "Mo-Th 10:00-22:00; Fr 10:00-23:59; Sa 00:00-02:00,11:00-23:59; Su 00:00-02:00,11:00-22:00"
+  }
+},
+{
+  "type": "node",
+  "id": 11842499144,
+  "lat": 48.1471171,
+  "lon": 17.1066959,
+  "tags": {
+    "amenity": "nightclub",
+    "email": "club@greatbratislava.sk",
+    "name": "GREAT",
+    "opening_hours": "Fr 22:00-24:00; Sa 00:00-05:00,22:00-24:00; Su 00:00-05:00",
+    "operator": "Hudobný klub METRO, spol. s r.o.",
+    "phone": "+421 905 887 887",
+    "website": "https://www.greatbratislava.sk/"
+  }
+},
+{
+  "type": "node",
+  "id": 11888605823,
+  "lat": 48.6612464,
+  "lon": 20.5319805,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Times"
+  }
+},
+{
+  "type": "node",
+  "id": 11928621286,
+  "lat": 48.9946760,
+  "lon": 21.2411882,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Secret Night Club",
+    "opening_hours": "Mo-Su 20:00-04:00",
+    "phone": "+421 907 657 069",
+    "website": "https://secret-night-club.business.site"
+  }
+},
+{
+  "type": "node",
+  "id": 12013036969,
+  "lat": 48.9098509,
+  "lon": 18.1700141,
+  "tags": {
+    "amenity": "nightclub",
+    "bar": "yes",
+    "fee": "yes",
+    "level": "-1",
+    "name": "Club Krym",
+    "opening_hours": "Mo-Fr 00:00-02:00,21:00-24:00; Sa,Su 00:00-03:00,21:00-24:00",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 12204896793,
+  "lat": 48.1435323,
+  "lon": 17.1133146,
+  "tags": {
+    "addr:city": "Bratislava",
+    "addr:housenumber": "3",
+    "addr:street": "Štúrova",
+    "amenity": "nightclub",
+    "check_date": "2026-03-01",
+    "name": "WAX2",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "smoking": "separated",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 12394635661,
+  "lat": 48.1602745,
+  "lon": 17.0666045,
+  "tags": {
+    "addr:city": "Bratislava",
+    "addr:housenumber": "36",
+    "addr:postcode": "84104",
+    "addr:street": "Staré Grunty",
+    "amenity": "nightclub",
+    "contact:facebook": "https://www.facebook.com/unikmlyny",
+    "email": "info@unikmlyny.sk",
+    "name": "UniK Mlyny",
+    "opening_hours": "Mo-Fr 16:00-01:00, Sa-Su 18:00-01:00",
+    "smoking": "outside",
+    "website": "https://www.kacecko.sk/"
+  }
+},
+{
+  "type": "node",
+  "id": 12691959766,
+  "lat": 48.9437071,
+  "lon": 20.5663805,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Downtown"
+  }
+},
+{
+  "type": "node",
+  "id": 12691979301,
+  "lat": 48.9438030,
+  "lon": 20.5660955,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Áčko"
+  }
+},
+{
+  "type": "node",
+  "id": 12861419668,
+  "lat": 48.9915332,
+  "lon": 21.2450898,
+  "tags": {
+    "amenity": "nightclub",
+    "contact:facebook": "https://www.facebook.com/profile.php?id=61571673876549&mibextid=wwXIfr&rdid=0FJHX3YOU5ZRNMs3&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F15Z9kEexZr%2F%3Fmibextid%3DwwXIfr#",
+    "email": "castingclubpresov@gmail.com",
+    "name": "Casting Club",
+    "opening_hours": "Mo-Th off; Fr 18:00-02:00; Sa-Su off",
+    "phone": "+421 940 700 850",
+    "website": "https://www.instagram.com/casting_club_presov/"
+  }
+},
+{
+  "type": "node",
+  "id": 12986641880,
+  "lat": 48.9912120,
+  "lon": 21.2462161,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "CITY music club",
+    "opening_hours": "Fr-Sa 21:00-04:00; Su-Th off",
+    "phone": "+421915863187"
+  }
+},
+{
+  "type": "node",
+  "id": 13690641869,
+  "lat": 48.7215806,
+  "lon": 21.2612781,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Meduza",
+    "opening_hours": "Fr,Sa 19:00-04:00, Su-Th \"Na objednávku\""
+  }
+},
+{
+  "type": "node",
+  "id": 13709722383,
+  "lat": 49.0597518,
+  "lon": 20.1937741,
+  "tags": {
+    "amenity": "nightclub",
+    "min_age": "18",
+    "name": "Srdiečko",
+    "opening_hours": "Mo-Su 20:00-04:00",
+    "smoking": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 47853660,
+  "center": {
+    "lat": 48.3620695,
+    "lon": 16.9710860
+  },
+  "tags": {
+    "addr:city": "Láb",
+    "addr:conscriptionnumber": "336",
+    "addr:country": "SK",
+    "addr:housenumber": "336/2",
+    "addr:postcode": "90067",
+    "addr:street": "Grínava",
+    "addr:streetnumber": "2",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Club History",
+    "ref:minvskaddress": "700153970A",
+    "source": "kapor2",
+    "source:addr": "minvskaddress 2021-02",
+    "source:conscriptionnumber": "kapor2"
+  }
+},
+{
+  "type": "way",
+  "id": 58495985,
+  "center": {
+    "lat": 47.9915086,
+    "lon": 18.2701845
+  },
+  "tags": {
+    "addr:city": "Dvory nad Žitavou",
+    "addr:conscriptionnumber": "905",
+    "addr:country": "SK",
+    "addr:housenumber": "905/2",
+    "addr:postcode": "94131",
+    "addr:street": "Dubová cesta",
+    "addr:streetnumber": "2",
+    "amenity": "nightclub",
+    "building": "yes",
+    "import": "budovy201004",
+    "name": "Bar Cowboy",
+    "ref:minvskaddress": "18789331",
+    "source": "kapor2",
+    "source:addr": "minvskaddress 2022-09"
+  }
+},
+{
+  "type": "way",
+  "id": 59270875,
+  "center": {
+    "lat": 48.3847665,
+    "lon": 18.3908249
+  },
+  "tags": {
+    "addr:city": "Zlaté Moravce",
+    "addr:conscriptionnumber": "293",
+    "addr:country": "SK",
+    "addr:housenumber": "293/4",
+    "addr:postcode": "95301",
+    "addr:street": "Námestie hrdinov",
+    "addr:streetnumber": "4",
+    "addr:suburb": "Zlaté Moravce",
+    "amenity": "nightclub",
+    "building": "yes",
+    "import": "budovy201004",
+    "name": "Ponorka Disco Bar",
+    "ref:minvskaddress": "35622939",
+    "source": "local knowledge",
+    "source:addr": "minvskaddress 2025-01"
+  }
+},
+{
+  "type": "way",
+  "id": 79872763,
+  "center": {
+    "lat": 48.1580292,
+    "lon": 17.0665406
+  },
+  "tags": {
+    "addr:city": "Bratislava",
+    "addr:conscriptionnumber": "3180",
+    "addr:country": "SK",
+    "addr:housenumber": "3180/51A",
+    "addr:postcode": "84104",
+    "addr:street": "Staré Grunty",
+    "addr:streetnumber": "51A",
+    "addr:suburb": "Karlova Ves",
+    "amenity": "nightclub",
+    "building": "yes",
+    "contact:instagram": "https://www.instagram.com/klub39.mlyny",
+    "name": "Klub 39",
+    "ref:minvskaddress": "7100768169",
+    "source": "kapor2",
+    "source:addr": "minvskaddress 2022-01",
+    "website": "https://www.instagram.com/klub39.mlyny"
+  }
+},
+{
+  "type": "way",
+  "id": 82143096,
+  "center": {
+    "lat": 48.9971333,
+    "lon": 21.2420283
+  },
+  "tags": {
+    "addr:city": "Prešov",
+    "addr:housenumber": "62A",
+    "addr:postcode": "08001",
+    "addr:street": "Hlavná",
+    "amenity": "nightclub",
+    "building": "yes",
+    "contact:facebook": "263Pub",
+    "contact:instagram": "263_club",
+    "email": "263pub@gmail.com",
+    "name": "263 Pub",
+    "opening_hours": "Tu-Th 17:00-23:00; Fr-Sa 17:00-01:00; Su off",
+    "smoking": "outside",
+    "source": "kapor2",
+    "website": "https://www.facebook.com/263Pub"
+  }
+},
+{
+  "type": "way",
+  "id": 117107120,
+  "center": {
+    "lat": 48.1479785,
+    "lon": 17.0681472
+  },
+  "tags": {
+    "addr:city": "Bratislava",
+    "addr:conscriptionnumber": "6197",
+    "addr:country": "SK",
+    "addr:housenumber": "6197/35",
+    "addr:postcode": "841 04",
+    "addr:street": "Botanická",
+    "addr:streetnumber": "35",
+    "addr:suburb": "Karlova Ves",
+    "amenity": "nightclub",
+    "building": "yes",
+    "check_date:opening_hours": "2024-04-08",
+    "name": "Casey",
+    "opening_hours": "Tu-Sa 21:00-05:00",
+    "opening_hours:signed": "no",
+    "phone": "+421 907 290 111",
+    "ref:minvskaddress": "6240619",
+    "source": "kapor2",
+    "source:addr": "minvskaddress 2021-10"
+  }
+},
+{
+  "type": "way",
+  "id": 155827322,
+  "center": {
+    "lat": 49.2041223,
+    "lon": 18.7408020
+  },
+  "tags": {
+    "addr:city": "Žilina",
+    "addr:conscriptionnumber": "2353",
+    "addr:housenumber": "2353/79",
+    "addr:postcode": "01001",
+    "addr:street": "Alexandra Rudnaya",
+    "addr:streetnumber": "79",
+    "addr:suburb": "Bôrik",
+    "amenity": "nightclub",
+    "building": "yes",
+    "contact:facebook": "https://www.facebook.com/divokianjeli1",
+    "email": "divokianjeli.zilina@gmail.com",
+    "min_age": "18",
+    "mobile": "+421 944 999 393",
+    "name": "Divokí anjeli",
+    "opening_hours": "Mo-Th 19:00-05:00; Fr-Su 19:00-06:00",
+    "source": "kapor2",
+    "source:conscriptionnumber": "kapor2",
+    "website": "http://www.divokianjeli1.sk/"
+  }
+},
+{
+  "type": "way",
+  "id": 346626679,
+  "center": {
+    "lat": 48.4459687,
+    "lon": 19.5567919
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Hangár"
+  }
+},
+{
+  "type": "way",
+  "id": 376681707,
+  "center": {
+    "lat": 48.3827484,
+    "lon": 17.5851476
+  },
+  "tags": {
+    "addr:city": "Trnava",
+    "addr:postcode": "91701",
+    "addr:street": "Rybníková",
+    "amenity": "nightclub",
+    "building": "yes",
+    "fixme": "overit, mal by tu byt aquapark",
+    "name": "Relax",
+    "smoking": "separated"
+  }
+},
+{
+  "type": "way",
+  "id": 807921824,
+  "center": {
+    "lat": 49.1903309,
+    "lon": 18.5085633
+  },
+  "tags": {
+    "addr:city": "Bytča",
+    "addr:conscriptionnumber": "169",
+    "addr:country": "SK",
+    "addr:housenumber": "169",
+    "addr:place": "Mikšová",
+    "addr:postcode": "01401",
+    "amenity": "nightclub",
+    "building": "industrial",
+    "contact:facebook": "https://www.facebook.com/SwayClub/",
+    "name": "SWAY",
+    "opening_hours": "Sa 22:00-24:00; Su 00:00-05:00",
+    "ref:minvskaddress": "7001564735",
+    "smoking": "yes",
+    "source": "kapor2",
+    "source:addr": "minvskaddress 2024-02"
+  }
+}
+
+  ]
+}

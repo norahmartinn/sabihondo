@@ -1,0 +1,2113 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-10-08T23:15:21Z",
+    "timestamp_areas_base": "2026-10-07T10:19:21Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 26110335,
+  "lat": 60.4500934,
+  "lon": 22.2595962,
+  "tags": {
+    "addr:city": "Turku",
+    "addr:country": "FI",
+    "addr:full": "Humalistonkatu 6 A, 20100 Turku, Finland",
+    "addr:housenumber": "6 A",
+    "addr:postcode": "20100",
+    "addr:street": "Humalistonkatu",
+    "amenity": "nightclub",
+    "check_date:opening_hours": "2025-05-29",
+    "name": "Apollo",
+    "opening_hours": "Fr,Sa 23:00-04:30; Su-Th off"
+  }
+},
+{
+  "type": "node",
+  "id": 26110343,
+  "lat": 60.4494262,
+  "lon": 22.2625162,
+  "tags": {
+    "addr:city": "Turku",
+    "addr:country": "FI",
+    "addr:full": "Eerikinkatu 19, 20100 Turku, Finland",
+    "addr:housenumber": "19",
+    "addr:postcode": "20100",
+    "addr:street": "Eerikinkatu",
+    "amenity": "nightclub",
+    "level": "1",
+    "loc_name": "Lyni",
+    "name": "Marilyn",
+    "opening_hours": "Tu-Sa 22:00-04:00"
+  }
+},
+{
+  "type": "node",
+  "id": 26110344,
+  "lat": 60.4494400,
+  "lon": 22.2625584,
+  "tags": {
+    "addr:city": "Turku",
+    "addr:country": "FI",
+    "amenity": "nightclub",
+    "check_date": "2026-08-29",
+    "level": "-1",
+    "name": "Vegas"
+  }
+},
+{
+  "type": "node",
+  "id": 26110361,
+  "lat": 60.4508288,
+  "lon": 22.2710524,
+  "tags": {
+    "addr:city": "Turku",
+    "addr:country": "FI",
+    "addr:full": "Linnankatu 7, 20100 Turku, Finland",
+    "addr:housenumber": "7",
+    "addr:postcode": "20100",
+    "addr:street": "Linnankatu",
+    "amenity": "nightclub",
+    "check_date": "2023-02-03",
+    "loc_name": "Dynkky",
+    "name": "Dynamo",
+    "opening_hours": "We-Sa 21:00-05:00",
+    "wheelchair": "no",
+    "wheelchair:description": "Narrow door and steep steps at the entrance. No wheelchair accessible toilet."
+  }
+},
+{
+  "type": "node",
+  "id": 139598473,
+  "lat": 61.4981832,
+  "lon": 23.7558784,
+  "tags": {
+    "addr:city": "Tampere",
+    "addr:country": "FI",
+    "addr:housenumber": "10",
+    "addr:postcode": "33210",
+    "addr:street": "Kauppakatu",
+    "amenity": "nightclub",
+    "name": "Yo-talo",
+    "smoking": "outside",
+    "website": "https://yo-talo.fi/",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 207728702,
+  "lat": 63.8387763,
+  "lon": 23.1317775,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Socis",
+    "postal_code": "67100"
+  }
+},
+{
+  "type": "node",
+  "id": 222225559,
+  "lat": 63.8395273,
+  "lon": 23.1349455,
+  "tags": {
+    "addr:city": "Kokkola",
+    "addr:housenumber": "4",
+    "addr:postcode": "67100",
+    "addr:street": "Kauppatori",
+    "amenity": "nightclub",
+    "fax": "+358 6 8266490",
+    "name": "Calle",
+    "phone": "+358 6 8266111"
+  }
+},
+{
+  "type": "node",
+  "id": 247155970,
+  "lat": 60.1677068,
+  "lon": 24.9363589,
+  "tags": {
+    "addr:city": "Helsinki",
+    "addr:country": "FI",
+    "addr:housenumber": "3",
+    "addr:postcode": "00100",
+    "addr:street": "Eerikinkatu",
+    "amenity": "nightclub",
+    "check_date": "2023-07-11",
+    "erotic": "yes",
+    "name": "Alcatraz Club",
+    "opening_hours": "Mo-Su 20:00-04:00",
+    "website": "https://www.alcatraz.fi/"
+  }
+},
+{
+  "type": "node",
+  "id": 249883316,
+  "lat": 63.0964183,
+  "lon": 21.6143126,
+  "tags": {
+    "addr:city": "Vaasa",
+    "addr:full": "Hovioikeudenpuistikko 15, 65100 Vaasa, Finland",
+    "addr:housenumber": "15",
+    "addr:postcode": "65100",
+    "addr:street": "Hovioikeudenpuistikko",
+    "amenity": "nightclub",
+    "check_date": "2025-08-22",
+    "name": "Fontanaclub",
+    "opening_hours:covid19": "off"
+  }
+},
+{
+  "type": "node",
+  "id": 250278324,
+  "lat": 62.4385381,
+  "lon": 28.2523714,
+  "tags": {
+    "addr:city": "Heinävesi",
+    "addr:housenumber": "30",
+    "addr:street": "Jylhäntie",
+    "amenity": "nightclub",
+    "dance:style": "ballroom",
+    "leisure": "dance",
+    "name": "Tulenliekki"
+  }
+},
+{
+  "type": "node",
+  "id": 253949365,
+  "lat": 67.8079691,
+  "lon": 24.8124510,
+  "tags": {
+    "addr:city": "Levi",
+    "addr:country": "FI",
+    "amenity": "nightclub",
+    "name": "Hullu Poro"
+  }
+},
+{
+  "type": "node",
+  "id": 256542105,
+  "lat": 68.6600903,
+  "lon": 27.5405097,
+  "tags": {
+    "addr:city": "Ivalo",
+    "addr:country": "FI",
+    "addr:housenumber": "1",
+    "addr:postcode": "99800",
+    "addr:street": "Petsamontie",
+    "amenity": "nightclub",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "name": "Hipun kellari",
+    "phone": "+358 16 320 8800"
+  }
+},
+{
+  "type": "node",
+  "id": 256725846,
+  "lat": 61.5046582,
+  "lon": 23.7118084,
+  "tags": {
+    "addr:city": "Tampere",
+    "addr:country": "FI",
+    "addr:housenumber": "39",
+    "addr:postcode": "33250",
+    "addr:street": "Pispalan valtatie",
+    "alt_name": "Vastavirtaklubi;Vastis",
+    "amenity": "nightclub",
+    "music_genre": "alternative",
+    "name": "Vastavirta",
+    "operator": "Rokata Oy",
+    "phone": "+358 50 5160644",
+    "smoking": "outside",
+    "website": "https://vastavirta.net/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 260109001,
+  "lat": 62.6019531,
+  "lon": 29.7617694,
+  "tags": {
+    "addr:city": "Joensuu",
+    "addr:housenumber": "25",
+    "addr:postcode": "80100",
+    "addr:street": "Kauppakatu",
+    "amenity": "nightclub",
+    "name": "Viihdemaailma Ilona",
+    "opening_hours": "We 23:00-05:00; Fr,Sa 22:00-05:00",
+    "website": "https://www.ravintola.fi/ravintola/viihdemaailma-ilona-joensuu/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 268763929,
+  "lat": 65.0126591,
+  "lon": 25.4664128,
+  "tags": {
+    "addr:city": "Oulu",
+    "addr:country": "FI",
+    "addr:housenumber": "6",
+    "addr:postcode": "90100",
+    "addr:street": "Kauppurienkatu",
+    "amenity": "nightclub",
+    "check_date": "2025-07-21",
+    "name": "Kaarlenholvi",
+    "opening_hours": "We-Th 00:00-04:30; Fr-Su 22:00-04:30",
+    "website": "https://www.jumpru.fi/"
+  }
+},
+{
+  "type": "node",
+  "id": 277378568,
+  "lat": 63.8384619,
+  "lon": 23.1326425,
+  "tags": {
+    "addr:city": "Kokkola",
+    "addr:housenumber": "16",
+    "addr:postcode": "67100",
+    "addr:street": "Rantakatu",
+    "amenity": "nightclub",
+    "name": "West Coast",
+    "opening_hours": "Mo-Tu off; We 18:00-01:00; Th 18:00-24:00; Fr-Sa 18:00-03:00; Su off",
+    "url": "http://www.westcoastbar.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 303691785,
+  "lat": 65.0108401,
+  "lon": 25.4664222,
+  "tags": {
+    "addr:city": "Oulu",
+    "addr:country": "FI",
+    "amenity": "nightclub",
+    "name": "Ilona",
+    "opening_hours": "Fr-Su 23:00-05:00"
+  }
+},
+{
+  "type": "node",
+  "id": 321375067,
+  "lat": 62.7900005,
+  "lon": 22.8438155,
+  "tags": {
+    "addr:city": "Seinäjoki",
+    "addr:housenumber": "1",
+    "addr:postcode": "60100",
+    "addr:street": "Kauppakatu",
+    "alt_name": "Nightclub Lumo",
+    "amenity": "nightclub",
+    "min_age": "22",
+    "name": "Lumo Nightclub",
+    "opening_hours": "We 22:00-05:00; Fr-Sa 22:00-05:00",
+    "smoking": "outside",
+    "website": "https://clublumo.fi/"
+  }
+},
+{
+  "type": "node",
+  "id": 331112168,
+  "lat": 60.1687396,
+  "lon": 24.9389090,
+  "tags": {
+    "addr:city": "Helsinki",
+    "addr:country": "FI",
+    "addr:housename": "Forum",
+    "addr:housenumber": "16",
+    "addr:postcode": "00100",
+    "addr:street": "Mannerheimintie",
+    "amenity": "nightclub",
+    "check_date": "2025-07-21",
+    "email": "info@apolloliveclub.fi",
+    "level": "0;1",
+    "live_music": "yes",
+    "name": "Apollo Live Club",
+    "opening_hours": "Fr-Sa 22:00-04:00",
+    "website": "https://www.apolloliveclub.fi/apollo-live-club/"
+  }
+},
+{
+  "type": "node",
+  "id": 402076569,
+  "lat": 63.6753663,
+  "lon": 22.7049633,
+  "tags": {
+    "addr:city": "Jakobstad",
+    "addr:housenumber": "1",
+    "addr:postcode": "68600",
+    "addr:street": "Alholmsgatan",
+    "amenity": "nightclub",
+    "name": "Melody Nightclub",
+    "opening_hours": "Fr-Sa 23:00-04:00"
+  }
+},
+{
+  "type": "node",
+  "id": 423747735,
+  "lat": 61.1303878,
+  "lon": 21.5022695,
+  "tags": {
+    "addr:city": "Rauma",
+    "addr:housenumber": "5",
+    "addr:postcode": "26100",
+    "addr:street": "Valtakatu",
+    "amenity": "nightclub",
+    "name": "Domino Nightclub",
+    "website": "https://www.ravintola.fi/ravintola/domino/"
+  }
+},
+{
+  "type": "node",
+  "id": 434134009,
+  "lat": 66.5015358,
+  "lon": 25.7305710,
+  "tags": {
+    "addr:housenumber": "24",
+    "addr:postcode": "96200",
+    "addr:street": "Maakuntakatu",
+    "alt_name": "Roippari",
+    "amenity": "nightclub",
+    "check_date:opening_hours": "2025-11-18",
+    "contact:instagram": "royclubrovaniemi",
+    "description": "A nightclub in Rovaniemi that was founded in 1985. Ground floor has chill bar atmosphere and in the basement they have a night club. Both floors have dedicated spaces for smoking. Locals also call it with a nickname \"Roippari\".",
+    "email": "info@royclub.fi",
+    "loc_name": "Roippari",
+    "name": "Roy Club",
+    "opening_hours": "Mo-Su 22:00-04:00",
+    "payment:cash": "yes",
+    "phone": "+358 16 313705",
+    "smoking": "separated",
+    "takeaway": "no",
+    "website": "https://www.royclub.fi/",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 443689001,
+  "lat": 60.2518512,
+  "lon": 25.0078888,
+  "tags": {
+    "addr:city": "Helsinki",
+    "addr:country": "FI",
+    "amenity": "nightclub",
+    "check_date": "2025-10-04",
+    "name": "Luck Lady",
+    "opening_hours": "Tu-Th 15:00-04:00, Fr,Sa 15:00-05:00, Su,Mo 15:00-04:00"
+  }
+},
+{
+  "type": "node",
+  "id": 443689004,
+  "lat": 60.2523510,
+  "lon": 25.0052762,
+  "tags": {
+    "addr:city": "Helsinki",
+    "addr:housenumber": "12",
+    "addr:postcode": "00700",
+    "addr:street": "Kirkonkyläntie",
+    "amenity": "nightclub",
+    "name": "Crazy Horse",
+    "opening_hours": "Su-Th 18:00-02:00, Fr,Sa 18:00-04:00",
+    "website": "https://www.crazyhorse.fi/"
+  }
+},
+{
+  "type": "node",
+  "id": 512453815,
+  "lat": 64.2277576,
+  "lon": 27.7297867,
+  "tags": {
+    "addr:city": "Kajaani",
+    "addr:country": "FI",
+    "amenity": "nightclub",
+    "name": "Onnela"
+  }
+},
+{
+  "type": "node",
+  "id": 515885311,
+  "lat": 60.9835953,
+  "lon": 25.6600938,
+  "tags": {
+    "addr:city": "Lahti",
+    "addr:country": "FI",
+    "addr:housenumber": "13",
+    "addr:postcode": "15100",
+    "addr:street": "Vapaudenkatu",
+    "amenity": "nightclub",
+    "name": "Armas",
+    "opening_hours": "We,Th,Su 22:00-04:00 \"K18\"; Fr 22:00-04:30 \"K22\"; Sa 22:00-04:30 \"K24\"",
+    "phone": "+358 40 9360164",
+    "website": "https://npg.fi/ravintolat/armas/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 588432928,
+  "lat": 60.9829050,
+  "lon": 25.6601476,
+  "tags": {
+    "addr:city": "Lahti",
+    "addr:country": "FI",
+    "amenity": "nightclub",
+    "name": "Lahden Seurahuone"
+  }
+},
+{
+  "type": "node",
+  "id": 590345532,
+  "lat": 61.6888839,
+  "lon": 27.2750328,
+  "tags": {
+    "addr:city": "Mikkeli",
+    "addr:country": "FI",
+    "addr:postcode": "50100",
+    "addr:street": "Porrassalmenkatu",
+    "amenity": "nightclub",
+    "contact:facebook": "dommikkeli",
+    "contact:instagram": "dommikkeli",
+    "email": "info@dommikkeli.fi",
+    "name": "DOM Mikkeli",
+    "phone": "+358 50 3362949",
+    "was:website": "http://www.nightclubchoco.fi/",
+    "website": "https://dommikkeli.fi/"
+  }
+},
+{
+  "type": "node",
+  "id": 600393104,
+  "lat": 67.6040455,
+  "lon": 24.1721493,
+  "tags": {
+    "addr:city": "Äkäslompolo",
+    "addr:country": "FI",
+    "amenity": "nightclub",
+    "name": "Night Club Pirtukellari",
+    "opening_hours": "Mo-Su 22:00-04:00"
+  }
+},
+{
+  "type": "node",
+  "id": 618354128,
+  "lat": 63.6753952,
+  "lon": 22.7051806,
+  "tags": {
+    "addr:city": "Jakobstad",
+    "addr:housenumber": "1",
+    "addr:postcode": "68600",
+    "addr:street": "Alholmsgatan",
+    "amenity": "nightclub",
+    "name": "Moody Music & Dancing",
+    "opening_hours": "Fr-Sa 22:00-04:00"
+  }
+},
+{
+  "type": "node",
+  "id": 648525100,
+  "lat": 60.1636148,
+  "lon": 24.9430007,
+  "tags": {
+    "addr:city": "Helsinki",
+    "addr:country": "FI",
+    "addr:housenumber": "10",
+    "addr:postcode": "00120",
+    "addr:street": "Iso Roobertinkatu",
+    "amenity": "nightclub",
+    "karaoke": "yes",
+    "name": "Karaoke Nighclub Swengi",
+    "opening_hours": "We-Sa 19:00-04:00",
+    "website": "https://swengi.fi/"
+  }
+},
+{
+  "type": "node",
+  "id": 656297542,
+  "lat": 60.1186308,
+  "lon": 24.4399300,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Club Mambo",
+    "opening_hours": "Fr,Sa 21:00-04:30"
+  }
+},
+{
+  "type": "node",
+  "id": 835483144,
+  "lat": 60.4637827,
+  "lon": 26.9366286,
+  "tags": {
+    "addr:city": "Kotka",
+    "addr:country": "FI",
+    "addr:housenumber": "16",
+    "addr:postcode": "48100",
+    "addr:street": "Kotkankatu",
+    "amenity": "nightclub",
+    "contact:email": "oispakaljaaoy@gmail.com",
+    "contact:phone": "+358 504715645",
+    "min_age": "18",
+    "name": "Crocodile bar",
+    "smoking": "outside"
+  }
+},
+{
+  "type": "node",
+  "id": 848590998,
+  "lat": 60.1837327,
+  "lon": 24.9595500,
+  "tags": {
+    "addr:city": "Helsinki",
+    "addr:housenumber": "13b",
+    "addr:postcode": "00530",
+    "addr:street": "Hämeentie",
+    "amenity": "nightclub",
+    "live_music": "yes",
+    "name": "Kuudes linja",
+    "website": "https://www.kuudeslinja.com/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 848591001,
+  "lat": 60.1841252,
+  "lon": 24.9602884,
+  "tags": {
+    "amenity": "nightclub",
+    "live_music": "yes",
+    "lunch": "yes",
+    "name": "Siltanen",
+    "website": "https://www.siltanen.org/"
+  }
+},
+{
+  "type": "node",
+  "id": 925653141,
+  "lat": 66.5020916,
+  "lon": 25.7353269,
+  "tags": {
+    "addr:city": "Rovaniemi",
+    "addr:housenumber": "2",
+    "addr:postcode": "96200",
+    "addr:street": "Koskikatu",
+    "amenity": "nightclub",
+    "facebook": "https://www.facebook.com/backtodoris.fi/",
+    "instagram": "https://www.instagram.com/backtodoris.fi/",
+    "min_age": "18",
+    "name": "Doris",
+    "opening_hours": "\"Satunnaisesti, esim varauksella tai tapahtumien aikaan.\"",
+    "payment:cash": "yes",
+    "smoking": "outside",
+    "website": "https://backtodoris.fi/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 946387586,
+  "lat": 60.1656206,
+  "lon": 24.9474862,
+  "tags": {
+    "addr:city": "Helsinki",
+    "addr:housenumber": "40",
+    "addr:postcode": "00130",
+    "addr:street": "Kasarmikatu",
+    "amenity": "nightclub",
+    "email": "kaarleXII@restel.fi",
+    "min_age": "24",
+    "name": "Kaarle XII",
+    "opening_hours": "Th-Sa 21:00-04:00",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+358 40 536 0103",
+    "smoking": "outside",
+    "website": "http://www.kaarle.com",
+    "wikidata": "Q123416919",
+    "wikipedia": "fi:Kaarle XII (yökerho)"
+  }
+},
+{
+  "type": "node",
+  "id": 1022461304,
+  "lat": 65.0124992,
+  "lon": 25.4802547,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Karaoke Bar"
+  }
+},
+{
+  "type": "node",
+  "id": 1033289630,
+  "lat": 61.4784922,
+  "lon": 23.5112851,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Yökerho Iisoppi"
+  }
+},
+{
+  "type": "node",
+  "id": 1035933212,
+  "lat": 60.4646270,
+  "lon": 26.9423290,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Honey",
+    "opening_hours": "Fr, Sa 22:00-05:00"
+  }
+},
+{
+  "type": "node",
+  "id": 1142335265,
+  "lat": 60.8142774,
+  "lon": 23.6220673,
+  "tags": {
+    "addr:city": "Forssa",
+    "addr:housenumber": "4A",
+    "addr:postcode": "30100",
+    "addr:street": "Wahreninkatu",
+    "amenity": "nightclub",
+    "name": "Status",
+    "website": "https://ravintolastatus.fi/"
+  }
+},
+{
+  "type": "node",
+  "id": 1286777503,
+  "lat": 60.3791261,
+  "lon": 24.7564838,
+  "tags": {
+    "addr:city": "Klaukkala",
+    "addr:country": "FI",
+    "addr:housenumber": "3",
+    "addr:postcode": "01800",
+    "addr:street": "Viirintie",
+    "amenity": "nightclub",
+    "name": "Charlotta",
+    "website": "https://www.club-charlotta.com"
+  }
+},
+{
+  "type": "node",
+  "id": 1371747507,
+  "lat": 60.1682571,
+  "lon": 24.9328535,
+  "tags": {
+    "addr:city": "Helsinki",
+    "addr:country": "FI",
+    "addr:housenumber": "6, sisäpiha/inner yard",
+    "addr:postcode": "00100",
+    "addr:street": "Urho Kekkosen katu",
+    "amenity": "nightclub",
+    "name": "Semifinal",
+    "opening_hours": "Su-Th 20:00-01:00, Fr 20:00-03:00, Sa 20:00-04:00",
+    "website": "http://www.semifinal.fi/"
+  }
+},
+{
+  "type": "node",
+  "id": 1371747508,
+  "lat": 60.1685036,
+  "lon": 24.9329693,
+  "tags": {
+    "addr:city": "Helsinki",
+    "addr:country": "FI",
+    "addr:housenumber": "4-6",
+    "addr:postcode": "00100",
+    "addr:street": "Urho Kekkosen katu",
+    "amenity": "nightclub",
+    "check_date": "2023-12-28",
+    "email": "info@tavastiaklubi.fi",
+    "live_music": "yes",
+    "music": "live",
+    "music_genre": "rock",
+    "name": "Tavastia Klubi",
+    "opening_hours": "Su-Th 20:00-01:00, Fr 20:00-03:00, Sa 20:00-04:00",
+    "phone": "+358 9 85676601",
+    "website": "https://tavastiaklubi.fi/",
+    "wheelchair": "limited",
+    "wikidata": "Q3290475",
+    "wikipedia": "fi:Tavastia-klubi"
+  }
+},
+{
+  "type": "node",
+  "id": 1381017808,
+  "lat": 60.1692743,
+  "lon": 24.9371717,
+  "tags": {
+    "addr:city": "Helsinki",
+    "addr:country": "FI",
+    "addr:housename": "Forum",
+    "addr:housenumber": "6",
+    "addr:postcode": "00100",
+    "addr:street": "Simonkatu",
+    "amenity": "nightclub",
+    "check_date": "2024-09-16",
+    "contact:facebook": "https://www.facebook.com/ElpatronHelsinki/",
+    "name": "El Patron",
+    "opening_hours": "Mo-Th,Su off; Fr-Sa 22:00-04:30",
+    "phone": "+358 44 763 7752",
+    "website": "https://www.elpatron.fi/"
+  }
+},
+{
+  "type": "node",
+  "id": 1432009708,
+  "lat": 60.4026203,
+  "lon": 25.1021621,
+  "tags": {
+    "addr:city": "Kerava",
+    "addr:housenumber": "4",
+    "addr:postcode": "04200",
+    "addr:street": "Kauppakaari",
+    "amenity": "nightclub",
+    "level": "0",
+    "min_age": "18",
+    "name": "Panama Bar & K-Night Club",
+    "opening_hours": "Mo-Su 09:00-05:00",
+    "smoking": "outside"
+  }
+},
+{
+  "type": "node",
+  "id": 1618018213,
+  "lat": 60.1674407,
+  "lon": 24.9391505,
+  "tags": {
+    "addr:city": "Helsinki",
+    "addr:country": "FI",
+    "addr:housenumber": "24",
+    "addr:postcode": "00100",
+    "addr:street": "Yrjönkatu",
+    "amenity": "nightclub",
+    "check_date": "2025-07-29",
+    "email": "helsinki@heidisbierbar.fi",
+    "name": "Heidi’s Bier Bar Helsinki",
+    "old_name": "LeBonk",
+    "opening_hours": "Tu 20:00-02:00; We-Th 17:00-04:30; Fr-Sa 17:00-05:00",
+    "operator": "Rekom Group",
+    "smoking": "outside",
+    "website": "https://www.heidisbierbar.fi/"
+  }
+},
+{
+  "type": "node",
+  "id": 2058671578,
+  "lat": 62.2442390,
+  "lon": 25.7488025,
+  "tags": {
+    "addr:city": "Jyväskylä",
+    "addr:housenumber": "28",
+    "addr:postcode": "40100",
+    "addr:street": "Väinönkatu",
+    "amenity": "nightclub",
+    "check_date": "2022-06-06",
+    "name": "Punainen Lyhty",
+    "survey:date": "2022-06-06",
+    "website": "https://www.punainenlyhty.fi/"
+  }
+},
+{
+  "type": "node",
+  "id": 2285959821,
+  "lat": 60.1837586,
+  "lon": 24.9599029,
+  "tags": {
+    "addr:city": "Helsinki",
+    "addr:housenumber": "4",
+    "addr:postcode": "00530",
+    "addr:street": "Kaikukatu",
+    "amenity": "nightclub",
+    "live_music": "yes",
+    "name": "Kaiku",
+    "website": "https://clubkaiku.fi/"
+  }
+},
+{
+  "type": "node",
+  "id": 2346331544,
+  "lat": 61.4972349,
+  "lon": 23.7675042,
+  "tags": {
+    "addr:city": "Tampere",
+    "addr:housenumber": "3",
+    "addr:postcode": "33100",
+    "addr:street": "Verkatehtaankatu",
+    "amenity": "nightclub",
+    "name": "Viihdemaailma Ilona",
+    "opening_hours": "Tu-Th 22:00-04:00; Fr-Sa 21:00-04:00",
+    "operator": "NoHo Partners",
+    "website": "https://www.ravintola.fi/ravintola/ilona-tampere/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2617596277,
+  "lat": 61.0779527,
+  "lon": 25.0114268,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Lammin Hovi"
+  }
+},
+{
+  "type": "node",
+  "id": 2627779853,
+  "lat": 67.8037501,
+  "lon": 24.8003999,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Taika"
+  }
+},
+{
+  "type": "node",
+  "id": 2674299692,
+  "lat": 60.1001263,
+  "lon": 19.9425565,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Kino"
+  }
+},
+{
+  "type": "node",
+  "id": 2684088112,
+  "lat": 62.7883168,
+  "lon": 22.8401084,
+  "tags": {
+    "addr:city": "Seinäjoki",
+    "addr:housenumber": "3",
+    "addr:postcode": "60100",
+    "addr:street": "Kauppatori",
+    "amenity": "nightclub",
+    "name": "Karma"
+  }
+},
+{
+  "type": "node",
+  "id": 3446587580,
+  "lat": 60.4499242,
+  "lon": 22.2630384,
+  "tags": {
+    "addr:city": "Turku",
+    "addr:full": "Kristiinankatu 8, 20100 Turku, Finland",
+    "addr:housenumber": "8",
+    "addr:postcode": "20100",
+    "addr:street": "Kristiinankatu",
+    "amenity": "nightclub",
+    "name": "Forte",
+    "toilets:wheelchair": "yes",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 3458647536,
+  "lat": 60.4511017,
+  "lon": 22.2695843,
+  "tags": {
+    "addr:city": "Turku",
+    "addr:country": "FI",
+    "addr:housenumber": "5a",
+    "addr:postcode": "20100",
+    "addr:street": "Kauppiaskatu",
+    "amenity": "nightclub",
+    "name": "Bar Ihku",
+    "website": "https://barihku.fi/turku"
+  }
+},
+{
+  "type": "node",
+  "id": 3475493860,
+  "lat": 60.1952946,
+  "lon": 24.9497129,
+  "tags": {
+    "addr:city": "Helsinki",
+    "addr:housenumber": "13 B",
+    "addr:postcode": "00510",
+    "addr:street": "Pälkäneentie",
+    "amenity": "nightclub",
+    "check_date": "2026-05-09",
+    "contact:facebook": "Aaniwalli",
+    "contact:instagram": "aaniwalli",
+    "email": "INFO@AANIWALLI.FI",
+    "live_music": "yes",
+    "name": "Ääniwalli",
+    "website": "https://www.aaniwalli.fi/"
+  }
+},
+{
+  "type": "node",
+  "id": 3656637980,
+  "lat": 64.6841545,
+  "lon": 24.4774167,
+  "tags": {
+    "addr:city": "Raahe",
+    "addr:housenumber": "18",
+    "addr:postcode": "92100",
+    "addr:street": "Laivurinkatu",
+    "amenity": "nightclub",
+    "name": "Yökerho Bluesmoon",
+    "was:website": "http://www.jpravintolat.net"
+  }
+},
+{
+  "type": "node",
+  "id": 3885206793,
+  "lat": 61.4991052,
+  "lon": 23.7790004,
+  "tags": {
+    "addr:city": "Tampere",
+    "addr:housenumber": "7-9",
+    "addr:postcode": "33100",
+    "addr:street": "Itsenäisyydenkatu",
+    "amenity": "nightclub",
+    "check_date": "2025-09-08",
+    "email": "info@mixei.com",
+    "level": "0",
+    "lgbtq": "primary",
+    "min_age": "18",
+    "name": "Nightclub Mixei",
+    "opening_hours": "We 18:00-24:00; Fr,Sa 21:00-04:00",
+    "phone": "+358 3 222 0364",
+    "smoking": "outside",
+    "website": "https://mixei.com/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4079194438,
+  "lat": 60.4618504,
+  "lon": 24.8073747,
+  "tags": {
+    "addr:city": "Nurmijärvi",
+    "addr:housenumber": "6",
+    "addr:postcode": "01900",
+    "addr:street": "Keskustie",
+    "amenity": "nightclub",
+    "contact:email": "laura@clubvenla.fi",
+    "name": "Club Venla",
+    "opening_hours": "Su-Th 10:00-24:00; Fr-Sa 10:00-04:00",
+    "phone": "+358 9 2509700",
+    "website": "https://clubvenla.fi/"
+  }
+},
+{
+  "type": "node",
+  "id": 4128204401,
+  "lat": 62.5994602,
+  "lon": 29.7712813,
+  "tags": {
+    "addr:housenumber": "1",
+    "addr:postcode": "80100",
+    "addr:street": "Siltakatu",
+    "amenity": "nightclub",
+    "name": "Kerubi",
+    "name:en": "Kerubi",
+    "name:fi": "Kerubi",
+    "name:ru": "Керуби",
+    "name:sv": "Kerubi",
+    "phone": "+358 13 129377",
+    "website": "https://kerubi.fi/"
+  }
+},
+{
+  "type": "node",
+  "id": 4128205237,
+  "lat": 62.6010660,
+  "lon": 29.7644087,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Bepop",
+    "opening_hours": "We,Fr,Sa 16:00-04:30; Su 18:00-04:30"
+  }
+},
+{
+  "type": "node",
+  "id": 4151919889,
+  "lat": 62.6020037,
+  "lon": 29.7625724,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Marks Rock Club",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4380840903,
+  "lat": 63.0960480,
+  "lon": 21.6143786,
+  "tags": {
+    "addr:city": "Vaasa",
+    "addr:housenumber": "2",
+    "addr:postcode": "65100",
+    "addr:street": "Ylätori",
+    "addr:street:sv": "Övretorget",
+    "amenity": "nightclub",
+    "check_date": "2026-06-09",
+    "name": "Cella Nova",
+    "opening_hours": "\"Varattavissa\"",
+    "operator": "Studentföreningen vid Svenska handelshögskolan i Vasa r.f.",
+    "website": "http://cellanova.fi"
+  }
+},
+{
+  "type": "node",
+  "id": 4470067863,
+  "lat": 60.2906428,
+  "lon": 25.0416570,
+  "tags": {
+    "addr:city": "Vantaa",
+    "addr:housenumber": "2",
+    "addr:postcode": "01300",
+    "addr:street": "Hertaksentie",
+    "amenity": "nightclub",
+    "diet:halal": "no",
+    "diet:kosher": "no",
+    "name": "Tulisuudelma",
+    "opening_hours": "Fr,Sa 22:00-04:30",
+    "website": "https://tulisuudelma.fi/"
+  }
+},
+{
+  "type": "node",
+  "id": 4675433986,
+  "lat": 60.1640543,
+  "lon": 24.9445715,
+  "tags": {
+    "addr:city": "Helsinki",
+    "addr:housenumber": "3",
+    "addr:postcode": "00120",
+    "addr:street": "Yrjönkatu",
+    "amenity": "nightclub",
+    "check_date:opening_hours": "2023-03-18",
+    "live_music": "yes",
+    "name": "G Livelab",
+    "opening_hours:signed": "no",
+    "toilets:wheelchair": "yes",
+    "website": "https://www.glivelab.fi/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4756333505,
+  "lat": 60.1670462,
+  "lon": 24.9478613,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Le Bloom",
+    "opening_hours": "Mo,Tu 17:00-23:00, We,Th 16:00-24:00, Fr 17:00-04:30, Sa 16:00-04:30"
+  }
+},
+{
+  "type": "node",
+  "id": 4899658899,
+  "lat": 65.8512662,
+  "lon": 24.1522653,
+  "tags": {
+    "addr:city": "Tornio",
+    "addr:housenumber": "1",
+    "addr:postcode": "95400",
+    "addr:street": "Vesaisenkatu",
+    "amenity": "nightclub",
+    "name": "Club Teatria"
+  }
+},
+{
+  "type": "node",
+  "id": 5194242433,
+  "lat": 61.5014920,
+  "lon": 23.7679485,
+  "tags": {
+    "addr:city": "Tampere",
+    "addr:housenumber": "10",
+    "addr:postcode": "33100",
+    "addr:street": "Satakunnankatu",
+    "amenity": "nightclub",
+    "name": "Olympia Kortteli",
+    "website": "https://olympiakortteli.fi/"
+  }
+},
+{
+  "type": "node",
+  "id": 5259583773,
+  "lat": 63.0946006,
+  "lon": 21.6176479,
+  "tags": {
+    "addr:city": "Vaasa",
+    "addr:full": "Kauppapuistikko 15, 65100 Vaasa, Finland",
+    "addr:housenumber": "15",
+    "addr:postcode": "65100",
+    "addr:street": "Kauppapuistikko",
+    "amenity": "nightclub",
+    "check_date": "2026-01-18",
+    "name": "Teatro",
+    "smoking": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5398551134,
+  "lat": 61.0229920,
+  "lon": 24.4424441,
+  "tags": {
+    "addr:city": "Hämeenlinna",
+    "addr:housenumber": "1",
+    "addr:postcode": "13210",
+    "addr:street": "Aulangonkuja",
+    "addr:unit": "b",
+    "amenity": "nightclub",
+    "check_date": "2026-07-17",
+    "name": "Aulanko Areena"
+  }
+},
+{
+  "type": "node",
+  "id": 5554563118,
+  "lat": 64.2260592,
+  "lon": 27.7299325,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Club 96"
+  }
+},
+{
+  "type": "node",
+  "id": 5799452482,
+  "lat": 60.9955437,
+  "lon": 24.4629326,
+  "tags": {
+    "addr:city": "Hämeenlinna",
+    "addr:housenumber": "23",
+    "addr:postcode": "13100",
+    "addr:street": "Raatihuoneenkatu",
+    "amenity": "nightclub",
+    "name": "Emilia Klubi",
+    "opening_hours": "Fr 23:00-04:00; Sa 23:00-04:00",
+    "operator": "Hotelli Emilia",
+    "website": "https://hotelliemilia.fi/emilia-klubi"
+  }
+},
+{
+  "type": "node",
+  "id": 6037713095,
+  "lat": 60.9956921,
+  "lon": 24.4643063,
+  "tags": {
+    "addr:city": "Hämeenlinna",
+    "addr:housenumber": "5",
+    "addr:postcode": "13100",
+    "addr:street": "Sibeliuksenkatu",
+    "amenity": "nightclub",
+    "contact:facebook": "https://www.facebook.com/CremeBarNightclub/",
+    "min_age": "18",
+    "name": "Iskelmäbaari",
+    "name:fi": "Iskelmäbaari Hämeenlinna",
+    "old_name": "Crème Bar & Nightclub",
+    "opening_hours": "Fr-Sa 22:00-04:30",
+    "operator": "Hotel Seurahuone",
+    "website": "https://seurahuone.fi/ravintolat/iskelmabaarihml/"
+  }
+},
+{
+  "type": "node",
+  "id": 6140924493,
+  "lat": 60.8162547,
+  "lon": 23.6272093,
+  "tags": {
+    "addr:city": "Forssa",
+    "addr:housenumber": "9",
+    "addr:postcode": "30100",
+    "addr:street": "Kartanonkatu",
+    "amenity": "nightclub",
+    "name": "The Black Hole",
+    "old_name": "Club Tequila Sunrise",
+    "outdoor_seating": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6255654108,
+  "lat": 60.1694236,
+  "lon": 24.9340685,
+  "tags": {
+    "addr:city": "Helsinki",
+    "addr:housenumber": "1",
+    "addr:postcode": "00100",
+    "addr:street": "Urho Kekkosen katu",
+    "amenity": "nightclub",
+    "check_date": "2025-03-23",
+    "level": "6",
+    "name": "Maxine",
+    "website": "https://maxine.fi/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6266679085,
+  "lat": 60.1701239,
+  "lon": 24.9424496,
+  "tags": {
+    "addr:city": "Helsinki",
+    "addr:housenumber": "8",
+    "addr:postcode": "00100",
+    "addr:street": "Keskuskatu",
+    "air_conditioning": "yes",
+    "amenity": "nightclub",
+    "check_date": "2023-09-23",
+    "fee": "yes",
+    "level": "2",
+    "lgbtq": "primary",
+    "name": "Hercules",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "smoking": "separated",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 6647087756,
+  "lat": 66.5021474,
+  "lon": 25.7329535,
+  "tags": {
+    "addr:housenumber": "9",
+    "addr:street": "Koskikatu",
+    "amenity": "nightclub",
+    "contact:instagram": "oliverscorner_rovaniemi",
+    "name": "Oliver's Corner",
+    "opening_hours": "We-Sa 22:00-04:00",
+    "phone": "+358 40 6865000",
+    "website": "https://oliverscorner.fi/"
+  }
+},
+{
+  "type": "node",
+  "id": 7049778088,
+  "lat": 60.1542053,
+  "lon": 24.6354561,
+  "tags": {
+    "addr:city": "Espoo",
+    "addr:housenumber": "2",
+    "addr:postcode": "02320",
+    "addr:street": "Merivalkama",
+    "amenity": "nightclub",
+    "level": "1",
+    "name": "Smile"
+  }
+},
+{
+  "type": "node",
+  "id": 7129194240,
+  "lat": 67.4167475,
+  "lon": 26.5940969,
+  "tags": {
+    "amenity": "nightclub",
+    "min_age": "18",
+    "name": "Disco Paradise"
+  }
+},
+{
+  "type": "node",
+  "id": 7192069769,
+  "lat": 60.4518557,
+  "lon": 22.2646684,
+  "tags": {
+    "addr:city": "Turku",
+    "addr:housenumber": "14",
+    "addr:postcode": "20100",
+    "addr:street": "Aurakatu",
+    "amenity": "nightclub",
+    "indoor_seating": "yes",
+    "name": "Duetto",
+    "outdoor_seating": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7714283578,
+  "lat": 64.1483794,
+  "lon": 28.2350508,
+  "tags": {
+    "addr:city": "Vuokatti",
+    "addr:housenumber": "15",
+    "addr:postcode": "88610",
+    "addr:street": "Katinkullantie",
+    "amenity": "nightclub",
+    "name": "NightCat"
+  }
+},
+{
+  "type": "node",
+  "id": 7720654743,
+  "lat": 63.3183884,
+  "lon": 30.0258031,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date:opening_hours": "2026-08-12",
+    "name": "Jatkoaika",
+    "opening_hours": "Fr,Sa 22:00-04:00"
+  }
+},
+{
+  "type": "node",
+  "id": 8375535948,
+  "lat": 62.3151186,
+  "lon": 27.8923099,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Z-one"
+  }
+},
+{
+  "type": "node",
+  "id": 8375535949,
+  "lat": 62.3151410,
+  "lon": 27.8922131,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "O'harrys"
+  }
+},
+{
+  "type": "node",
+  "id": 9244242536,
+  "lat": 61.4968184,
+  "lon": 23.7599966,
+  "tags": {
+    "addr:city": "Tampere",
+    "addr:housenumber": "8",
+    "addr:postcode": "33200",
+    "addr:street": "Hallituskatu",
+    "amenity": "nightclub",
+    "check_date:opening_hours": "2022-08-26",
+    "email": "tampere@lolaclub.fi",
+    "name": "Lola Club",
+    "opening_hours:signed": "no",
+    "website": "https://lolaclub.fi/"
+  }
+},
+{
+  "type": "node",
+  "id": 9550619927,
+  "lat": 60.5343288,
+  "lon": 24.2090253,
+  "tags": {
+    "addr:city": "Karkkila",
+    "addr:housenumber": "10",
+    "addr:postcode": "03600",
+    "addr:street": "Koulukatu",
+    "amenity": "nightclub",
+    "min_age": "18",
+    "name": "Arena Club Karkkila",
+    "opening_hours": "We 18:00-02:00; Fr-Sa 18:00-05:00; Su 16:00-24:00"
+  }
+},
+{
+  "type": "node",
+  "id": 9816725583,
+  "lat": 60.4749918,
+  "lon": 22.0326783,
+  "tags": {
+    "addr:city": "Naantali",
+    "addr:housenumber": "2",
+    "addr:postcode": "21100",
+    "addr:street": "Matkailijantie",
+    "amenity": "nightclub",
+    "description:en": "Paviljonki acts both as a restaurant for private functions as well as alocation for gigs and dancing.",
+    "name": "Paviljonki Dance Restaurant",
+    "website": "https://www.naantalispa.fi/paviljonki/"
+  }
+},
+{
+  "type": "node",
+  "id": 9839728076,
+  "lat": 60.4049576,
+  "lon": 25.1040355,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Ravintola Fennia"
+  }
+},
+{
+  "type": "node",
+  "id": 9857468783,
+  "lat": 60.4678863,
+  "lon": 22.0258674,
+  "tags": {
+    "addr:city": "Naantali",
+    "addr:housenumber": "25",
+    "addr:postcode": "21100",
+    "addr:street": "Luostarinkatu",
+    "amenity": "nightclub",
+    "check_date": "2025-07-18",
+    "description": "Viikonloppuisin auki oleva yöklubi.",
+    "name": "SunTown Night Club",
+    "website": "https://www.suntown.fi/nightclub/"
+  }
+},
+{
+  "type": "node",
+  "id": 9925587210,
+  "lat": 65.0596570,
+  "lon": 25.4771617,
+  "tags": {
+    "addr:city": "Oulu",
+    "addr:housenumber": "8",
+    "addr:postcode": "90570",
+    "addr:street": "Sammonkatu",
+    "amenity": "nightclub",
+    "name": "Club Labra"
+  }
+},
+{
+  "type": "node",
+  "id": 10028870999,
+  "lat": 62.6010910,
+  "lon": 29.7737856,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Las Palmas",
+    "opening_hours": "Fr-Sa 21:00-04:00",
+    "phone": "+358 20 1234 663",
+    "website": "https://www.raflaamo.fi/fi/ravintola/joensuu/las-palmas-kimmel"
+  }
+},
+{
+  "type": "node",
+  "id": 10097547485,
+  "lat": 60.2514247,
+  "lon": 24.0674602,
+  "tags": {
+    "addr:city": "Lohja",
+    "addr:housenumber": "4",
+    "addr:postcode": "08100",
+    "addr:street": "Suurlohjankatu",
+    "amenity": "nightclub",
+    "contact:facebook": "https://www.facebook.com/monacolohja",
+    "contact:instagram": "https://www.instagram.com/monaconightclub",
+    "email": "info@happyjoeravintolat.fi",
+    "name": "Monaco",
+    "opening_hours": "Fr-Sa 22:00-04:00",
+    "phone": "+358451148632"
+  }
+},
+{
+  "type": "node",
+  "id": 10159436093,
+  "lat": 60.8798198,
+  "lon": 21.6944425,
+  "tags": {
+    "addr:housenumber": "11",
+    "addr:street": "Keskuskatu",
+    "amenity": "nightclub",
+    "name": "Kukonkulma Laila nightclub"
+  }
+},
+{
+  "type": "node",
+  "id": 10179301274,
+  "lat": 62.3005112,
+  "lon": 27.1592760,
+  "tags": {
+    "addr:housenumber": "16",
+    "addr:street": "Keskuskatu",
+    "amenity": "nightclub",
+    "name": "Beats Club",
+    "opening_hours": "We,Th 21:00-02:00, Fr,Sa 21:00-05:00",
+    "website": "https://www.beatsclub.fi"
+  }
+},
+{
+  "type": "node",
+  "id": 10682639181,
+  "lat": 62.8925683,
+  "lon": 27.6820206,
+  "tags": {
+    "addr:city": "Kuopio",
+    "addr:housenumber": "24",
+    "addr:postcode": "70100",
+    "addr:street": "Vuorikatu",
+    "amenity": "nightclub",
+    "name": "Apteekkari",
+    "opening_hours": "Mo-Th 16:00-02:00, Fr,Sa 16:00-05:00, Su 16:00-02:00",
+    "operator": "Osuuskauppa PeeÄssä",
+    "website": "https://www.raflaamo.fi/fi/ravintola/kuopio/apteekkari-kuopio"
+  }
+},
+{
+  "type": "node",
+  "id": 10682639182,
+  "lat": 62.8924515,
+  "lon": 27.6824911,
+  "tags": {
+    "addr:city": "Kuopio",
+    "addr:housenumber": "19",
+    "addr:postcode": "70100",
+    "addr:street": "Vuorikatu",
+    "amenity": "nightclub",
+    "check_date:opening_hours": "2025-09-29",
+    "name": "Circus Live",
+    "opening_hours:signed": "no",
+    "website": "https://www.circuslive.fi/"
+  }
+},
+{
+  "type": "node",
+  "id": 10696774912,
+  "lat": 67.8045391,
+  "lon": 24.8036113,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Lift Après Ski & Night Club",
+    "website": "https://www.levi.fi/en/services/lift-apres-ski-and-night-club"
+  }
+},
+{
+  "type": "node",
+  "id": 10875602528,
+  "lat": 65.0106234,
+  "lon": 25.4700821,
+  "tags": {
+    "addr:city": "Oulu",
+    "addr:country": "FI",
+    "addr:housenumber": "14",
+    "addr:postcode": "90100",
+    "addr:street": "Saaristonkatu",
+    "amenity": "nightclub",
+    "name": "Yölento",
+    "operator": "Formia-Future Oy"
+  }
+},
+{
+  "type": "node",
+  "id": 10887503186,
+  "lat": 60.1704453,
+  "lon": 24.9316915,
+  "tags": {
+    "addr:city": "Helsinki",
+    "addr:country": "FI",
+    "addr:housenumber": "1",
+    "addr:postcode": "00100",
+    "addr:street": "Antinkatu",
+    "amenity": "nightclub",
+    "name": "Bar Ihku",
+    "opening_hours": "Su-Th 21:00-05:00, Fr,Sa 16:00-05:00",
+    "website": "https://barihku.fi/"
+  }
+},
+{
+  "type": "node",
+  "id": 10889372270,
+  "lat": 61.4993847,
+  "lon": 23.7622650,
+  "tags": {
+    "addr:city": "Tampere",
+    "addr:housenumber": "1",
+    "addr:postcode": "33100",
+    "addr:street": "Puutarhakatu",
+    "amenity": "nightclub",
+    "name": "G Livelab",
+    "operator": "Livelaboratorio Tampere Oy",
+    "phone": "+358 50 590 5628",
+    "website": "https://glivelab.fi/tampere/",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 10977146705,
+  "lat": 62.5856913,
+  "lon": 23.6187476,
+  "tags": {
+    "addr:city": "Alavus",
+    "addr:housenumber": "4",
+    "addr:postcode": "63300",
+    "addr:street": "Järviluomantie",
+    "amenity": "nightclub",
+    "level": "-1",
+    "min_age": "18",
+    "name": "Hotelli Alavus, Yökerho",
+    "operator": "Hotelli Alavus",
+    "smoking": "outside",
+    "website": "https://hotellialavus.fi/viihde/"
+  }
+},
+{
+  "type": "node",
+  "id": 11146525197,
+  "lat": 61.0593880,
+  "lon": 28.1928723,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2024-07-01",
+    "name": "Valta"
+  }
+},
+{
+  "type": "node",
+  "id": 11254615155,
+  "lat": 62.4146613,
+  "lon": 25.9530880,
+  "tags": {
+    "addr:city": "Laukaa",
+    "addr:housenumber": "22-24",
+    "addr:postcode": "41340",
+    "addr:street": "Laukaantie",
+    "amenity": "nightclub",
+    "check_date": "2023-10-02",
+    "contact:facebook": "https://www.facebook.com/nightclubrosanne/",
+    "name": "Nightclub Rosanne",
+    "phone": "+35814833030"
+  }
+},
+{
+  "type": "node",
+  "id": 11659822615,
+  "lat": 61.5011518,
+  "lon": 23.7606450,
+  "tags": {
+    "addr:city": "Tampere",
+    "addr:housenumber": "18",
+    "addr:postcode": "33210",
+    "addr:street": "Satakunnankatu",
+    "amenity": "nightclub",
+    "name": "Fame Club",
+    "website": "https://kauppa.votu.fi/fame-club/"
+  }
+},
+{
+  "type": "node",
+  "id": 11746037019,
+  "lat": 60.1880691,
+  "lon": 24.9442120,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Kult",
+    "website": "https://kulttuuritalo.fi/kult/"
+  }
+},
+{
+  "type": "node",
+  "id": 11794085832,
+  "lat": 60.1675932,
+  "lon": 24.9390911,
+  "tags": {
+    "addr:city": "Helsinki",
+    "addr:housenumber": "6",
+    "addr:postcode": "00100",
+    "addr:street": "Kalevankatu",
+    "amenity": "nightclub",
+    "min_age": "20",
+    "name": "Noname Bar & Nightclub",
+    "opening_hours": "Tu 18:00-02:00; We-Fr 18:00-05:00; Sa 16:00-05:00",
+    "website": "https://nonamehki.fi/"
+  }
+},
+{
+  "type": "node",
+  "id": 11832922181,
+  "lat": 61.5165931,
+  "lon": 23.6759493,
+  "tags": {
+    "addr:city": "Tampere",
+    "amenity": "nightclub",
+    "check_date:opening_hours": "2026-09-27",
+    "name": "Muovitehdas",
+    "opening_hours:signed": "no",
+    "operator": "Swäg Ry"
+  }
+},
+{
+  "type": "node",
+  "id": 12000505642,
+  "lat": 60.1683654,
+  "lon": 24.9448904,
+  "tags": {
+    "amenity": "nightclub",
+    "live_music": "yes",
+    "name": "Mummotunneli"
+  }
+},
+{
+  "type": "node",
+  "id": 12104201016,
+  "lat": 60.9833721,
+  "lon": 25.6612257,
+  "tags": {
+    "amenity": "nightclub",
+    "contact:instagram": "https://www.instagram.com/aleklubilahti/",
+    "name": "ALE klubi"
+  }
+},
+{
+  "type": "node",
+  "id": 12108005230,
+  "lat": 60.9832558,
+  "lon": 25.6523585,
+  "tags": {
+    "addr:city": "Lahti",
+    "addr:housenumber": "3",
+    "addr:postcode": "15110",
+    "addr:street": "Aleksanterinkatu",
+    "amenity": "nightclub",
+    "name": "Club May Day",
+    "website": "https://www.facebook.com/nightclubmayday/"
+  }
+},
+{
+  "type": "node",
+  "id": 12282188092,
+  "lat": 62.3142529,
+  "lon": 27.8476657,
+  "tags": {
+    "addr:city": "Varkaus",
+    "addr:housenumber": "2",
+    "addr:postcode": "78870",
+    "addr:street": "Sammonkatu",
+    "amenity": "nightclub",
+    "name": "Rammari",
+    "opening_hours": "Mo-Tu,Su 23:00-05:00; We-Sa 22:00-05:00",
+    "website": "https://rammari.fi/"
+  }
+},
+{
+  "type": "node",
+  "id": 13270952094,
+  "lat": 61.8680681,
+  "lon": 28.8866255,
+  "tags": {
+    "addr:city": "Savonlinna",
+    "addr:housenumber": "40",
+    "addr:postcode": "57100",
+    "addr:street": "Olavinkatu",
+    "amenity": "nightclub",
+    "email": "henna.villikka@tulikuuma.fi",
+    "name": "Höyry Co.",
+    "opening_hours": "Fr,Sa 22:00-05:00",
+    "phone": "+358 50 338 5314",
+    "website": "https://www.tulikuuma.fi/restaurant/hoyryco/"
+  }
+},
+{
+  "type": "node",
+  "id": 13270952095,
+  "lat": 61.8687128,
+  "lon": 28.8868904,
+  "tags": {
+    "addr:city": "Savonlinna",
+    "addr:housenumber": "35",
+    "addr:postcode": "57130",
+    "addr:street": "Olavinkatu",
+    "amenity": "nightclub",
+    "email": "beatssln@saimaarestaurants.fi",
+    "facebook": "https://www.facebook.com/Beatsclubsavonlinna/",
+    "instagram": "https://www.instagram.com/beatsclub.fi/",
+    "name": "Beats Club",
+    "opening_hours": "Fr,Sa 22:00-05:00",
+    "phone": "+358 40 552 1477",
+    "website": "https://www.beatsclub.fi/savonlinna"
+  }
+},
+{
+  "type": "node",
+  "id": 13271898479,
+  "lat": 60.1869050,
+  "lon": 24.9286240,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Club Stadion",
+    "website": "https://clubstadion.fi/"
+  }
+},
+{
+  "type": "node",
+  "id": 13308837048,
+  "lat": 60.4022275,
+  "lon": 25.1022976,
+  "tags": {
+    "addr:city": "Kerava",
+    "addr:housenumber": "1",
+    "addr:postcode": "04200",
+    "addr:street": "Puuvalonaukio",
+    "amenity": "nightclub",
+    "level": "1",
+    "min_age": "18",
+    "name": "Club Cosmopoli",
+    "opening_hours": "Fr-Sa 22:00-05:00",
+    "smoking": "outside"
+  }
+},
+{
+  "type": "node",
+  "id": 13334345561,
+  "lat": 60.2211193,
+  "lon": 24.8125532,
+  "tags": {
+    "addr:city": "Espoo",
+    "addr:housenumber": "4",
+    "addr:postcode": "02650",
+    "addr:street": "Läkkisepänkuja",
+    "addr:unit": "a",
+    "amenity": "nightclub",
+    "name": "Lepuski bar & nightclub",
+    "opening_hours": "Mo-Su 08:00-05:00",
+    "outdoor_seating": "terrace",
+    "smoking": "outside",
+    "website": "https://www.lepuskibarnightclub.fi/"
+  }
+},
+{
+  "type": "node",
+  "id": 13415369402,
+  "lat": 60.1842327,
+  "lon": 24.9602854,
+  "tags": {
+    "addr:city": "Helsinki",
+    "addr:housenumber": "4",
+    "addr:postcode": "00530",
+    "addr:street": "Kaikukatu",
+    "amenity": "nightclub",
+    "cocktails": "yes",
+    "contact:instagram": "https://www.instagram.com/h2o2.bar",
+    "indoor_seating": "yes",
+    "level": "-1",
+    "lgbtq": "primary",
+    "lgbtq:men": "primary",
+    "lgbtq:trans": "primary",
+    "lgbtq:women": "primary",
+    "min_age": "20",
+    "name": "H₂O₂ Bar",
+    "opening_hours": "Fr-Sa 21:00-04:30",
+    "outdoor_seating": "yes",
+    "smoking": "outside",
+    "toilets": "yes",
+    "toilets:access": "customers",
+    "website": "https://h2o2.bar/"
+  }
+},
+{
+  "type": "node",
+  "id": 13443826824,
+  "lat": 60.1668944,
+  "lon": 24.9450091,
+  "tags": {
+    "addr:city": "Helsinki",
+    "addr:housenumber": "22",
+    "addr:postcode": "00130",
+    "addr:street": "Eteläesplanadi",
+    "amenity": "nightclub",
+    "name": "Charm",
+    "opening_hours": "Fr-Sa 21:00-04:00"
+  }
+},
+{
+  "type": "node",
+  "id": 13784837802,
+  "lat": 60.4503632,
+  "lon": 22.2584559,
+  "tags": {
+    "addr:housenumber": "8a",
+    "addr:postcode": "20100",
+    "addr:street": "Humalistonkatu",
+    "amenity": "nightclub",
+    "contact:facebook": "fuusioturku",
+    "contact:instagram": "fuusioturku",
+    "email": "contact@fuusioturku.fi",
+    "name": "Fuusio",
+    "website": "https://fuusioturku.fi/"
+  }
+},
+{
+  "type": "node",
+  "id": 14184443678,
+  "lat": 63.3185792,
+  "lon": 30.0280772,
+  "tags": {
+    "amenity": "nightclub",
+    "contact:facebook": "clubvisitorsLieksa",
+    "level": "1",
+    "name": "Club Visitors",
+    "opening_hours": "Fr-Sa 23:00-04:00"
+  }
+},
+{
+  "type": "node",
+  "id": 14211580301,
+  "lat": 64.2278827,
+  "lon": 27.7301535,
+  "tags": {
+    "addr:housenumber": "18",
+    "addr:postcode": "87100",
+    "addr:street": "Linnankatu",
+    "amenity": "nightclub",
+    "check_date": "2026-09-24",
+    "email": "info@linnaclub.com",
+    "name": "Linna Club",
+    "website": "https://www.linnaclub.com"
+  }
+},
+{
+  "type": "way",
+  "id": 22563578,
+  "center": {
+    "lat": 60.1575514,
+    "lon": 24.9559444
+  },
+  "tags": {
+    "addr:city": "Helsinki",
+    "addr:country": "FI",
+    "addr:housenumber": "1",
+    "addr:postcode": "00140",
+    "addr:street": "Iso Puistotie",
+    "amenity": "nightclub",
+    "architect": "Carl Ludvig Engel",
+    "building": "yes",
+    "name": "Kaivohuone",
+    "name:fi": "Kaivohuone",
+    "name:sv": "Brunnshuset",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "start_date": "1838",
+    "website": "https://www.kaivohuone.fi/"
+  }
+},
+{
+  "type": "way",
+  "id": 44729420,
+  "center": {
+    "lat": 65.8483072,
+    "lon": 24.1520138
+  },
+  "tags": {
+    "addr:housenumber": "6",
+    "addr:postcode": "95400",
+    "addr:street": "Itäranta",
+    "alt_name": "Tornion VPK",
+    "amenity": "nightclub",
+    "building": "yes",
+    "building:levels:aboveground": "3",
+    "name": "Tornion vapaapalokunta",
+    "url": "http://www.cultcinema.fi/"
+  }
+},
+{
+  "type": "way",
+  "id": 171408550,
+  "center": {
+    "lat": 61.4861355,
+    "lon": 21.7928229
+  },
+  "tags": {
+    "addr:city": "Pori",
+    "addr:housenumber": "13",
+    "addr:postcode": "28100",
+    "addr:street": "Itäpuisto",
+    "amenity": "nightclub",
+    "building": "yes",
+    "building:levels": "2",
+    "name": "Punainen Kukko",
+    "short_name": "PK"
+  }
+},
+{
+  "type": "way",
+  "id": 291974644,
+  "center": {
+    "lat": 61.8823903,
+    "lon": 25.2867504
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "check_date": "2024-01-27",
+    "name": "Himos Areena"
+  }
+},
+{
+  "type": "way",
+  "id": 385245598,
+  "center": {
+    "lat": 67.8061611,
+    "lon": 24.8129117
+  },
+  "tags": {
+    "addr:city": "Sirkka",
+    "addr:country": "FI",
+    "addr:housenumber": "12",
+    "addr:postcode": "99130",
+    "addr:street": "Hissitie",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Hullu Poro Areena",
+    "url": "http://www.hulluporo.fi/poro/esivu.php?id=32"
+  }
+},
+{
+  "type": "way",
+  "id": 658529512,
+  "center": {
+    "lat": 64.3375372,
+    "lon": 28.1094505
+  },
+  "tags": {
+    "addr:housenumber": "13",
+    "addr:postcode": "88470",
+    "addr:street": "Kontiomäentie",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Sound Factory Nightclub"
+  }
+},
+{
+  "type": "way",
+  "id": 1482430572,
+  "center": {
+    "lat": 62.5486569,
+    "lon": 24.0755149
+  },
+  "tags": {
+    "addr:city": "Ähtäri",
+    "addr:housenumber": "4",
+    "addr:postcode": "63700",
+    "addr:street": "Ostolantie",
+    "air_conditioning": "yes",
+    "alt_name": "Viihteen Tähden Ry",
+    "amenity": "nightclub",
+    "contact:facebook": "https://www.facebook.com/viihteentahdenry",
+    "email": "viihteentahden@gmail.com",
+    "fee": "yes",
+    "indoor": "shop",
+    "level": "1",
+    "min_age": "18",
+    "name": "Yökerho Club B52",
+    "not:name": "Ä-klubi;Äx-klubi;Ä-live;Äx-live;Mesiklubi;Mesiclub;Ähtärin club;Ähtärin klubi",
+    "opening_hours": "Ilmoitetun mukaan",
+    "operator": "Viihteen Tähden Ry",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "short_name": "Club B52",
+    "smoking": "isolated",
+    "wheelchair": "limited"
+  }
+}
+
+  ]
+}

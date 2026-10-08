@@ -1,0 +1,1086 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-10-08T23:29:50Z",
+    "timestamp_areas_base": "2026-10-08T05:09:19Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 116999192,
+  "lat": 34.7564443,
+  "lon": 32.4197724,
+  "tags": {
+    "addr:city": "Paphos",
+    "addr:housenumber": "1",
+    "addr:postcode": "8041",
+    "addr:street": "Archimidous",
+    "amenity": "nightclub",
+    "email": "info@loftclub.eu",
+    "name": "LOFT",
+    "phone": "+357 77777742",
+    "website": "https://www.loftclub.eu"
+  }
+},
+{
+  "type": "node",
+  "id": 310168221,
+  "lat": 34.7025871,
+  "lon": 33.1066075,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Silk and Velvet"
+  }
+},
+{
+  "type": "node",
+  "id": 313374962,
+  "lat": 34.7030344,
+  "lon": 33.1076221,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Mirage: Gentleman's Club"
+  }
+},
+{
+  "type": "node",
+  "id": 761334163,
+  "lat": 34.6974897,
+  "lon": 33.0924217,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Bar Rumours"
+  }
+},
+{
+  "type": "node",
+  "id": 761334269,
+  "lat": 34.6973056,
+  "lon": 33.0922751,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "The Basement Club"
+  }
+},
+{
+  "type": "node",
+  "id": 761364452,
+  "lat": 34.6750710,
+  "lon": 33.0456370,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Metropole Retro Music Club"
+  }
+},
+{
+  "type": "node",
+  "id": 863272738,
+  "lat": 34.7098102,
+  "lon": 33.1375423,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Theama"
+  }
+},
+{
+  "type": "node",
+  "id": 963644055,
+  "lat": 34.9902935,
+  "lon": 33.9500767,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Ideal"
+  }
+},
+{
+  "type": "node",
+  "id": 1127763791,
+  "lat": 35.3496059,
+  "lon": 33.0824716,
+  "tags": {
+    "amenity": "nightclub",
+    "contact:mobile": "+90 539 117 89 39",
+    "contact:whatsapp": "+90 539 117 89 39",
+    "mobile": "+90 539 117 89 39",
+    "name": "Titanic Night CLub"
+  }
+},
+{
+  "type": "node",
+  "id": 1765492368,
+  "lat": 34.9898271,
+  "lon": 33.9977366,
+  "tags": {
+    "addr:street": "G. Afxentiou",
+    "amenity": "nightclub",
+    "name": "Starsky's Club",
+    "source": "Kaart Ground Survey 2017"
+  }
+},
+{
+  "type": "node",
+  "id": 1925249207,
+  "lat": 34.6772232,
+  "lon": 33.0480045,
+  "tags": {
+    "addr:housename": "Columbia Plaza",
+    "addr:housenumber": "223",
+    "addr:postcode": "3730",
+    "addr:street": "Agiou Andreou",
+    "amenity": "nightclub",
+    "name": "Columbia Plaza"
+  }
+},
+{
+  "type": "node",
+  "id": 3729811788,
+  "lat": 34.9849164,
+  "lon": 34.0008123,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Priva"
+  }
+},
+{
+  "type": "node",
+  "id": 4270800505,
+  "lat": 34.9898848,
+  "lon": 33.9977363,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2026-09-28",
+    "name": "4play"
+  }
+},
+{
+  "type": "node",
+  "id": 4297480795,
+  "lat": 34.7577033,
+  "lon": 32.4162096,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Glamuor"
+  }
+},
+{
+  "type": "node",
+  "id": 4297551989,
+  "lat": 34.7573976,
+  "lon": 32.4176705,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2022-11-09",
+    "name": "Flairs",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4326504191,
+  "lat": 35.2128251,
+  "lon": 33.2706089,
+  "tags": {
+    "amenity": "nightclub",
+    "min_age": "18",
+    "mobile": "+90 539 109 24 47",
+    "name": "Almahara Gece Kulübü",
+    "name:en": "Almahara Night Clup",
+    "name:tr": "Almahara Gece Kulübü",
+    "opening_hours": "24/7",
+    "phone": "+90 539 109 24 47",
+    "smoking": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4382665092,
+  "lat": 34.9897383,
+  "lon": 33.9975203,
+  "tags": {
+    "addr:housenumber": "1",
+    "addr:postcode": "5330",
+    "addr:street": "Agias Mavris",
+    "amenity": "nightclub",
+    "name": "The Pirates",
+    "name:en": "The Pirates",
+    "name:ru": "Pirates inn",
+    "opening_hours": "24/7"
+  }
+},
+{
+  "type": "node",
+  "id": 4382690189,
+  "lat": 34.9893866,
+  "lon": 33.9983475,
+  "tags": {
+    "addr:street": "G. Afxentiou",
+    "amenity": "nightclub",
+    "name": "The Bell",
+    "name:ru": "Bell",
+    "source": "Kaart Ground Survey 2017"
+  }
+},
+{
+  "type": "node",
+  "id": 4503724289,
+  "lat": 34.6735906,
+  "lon": 33.0418140,
+  "tags": {
+    "addr:city": "Limassol",
+    "addr:housenumber": "5",
+    "addr:postcode": "3042",
+    "addr:street": "Eleftherias",
+    "amenity": "nightclub",
+    "contact:facebook": "https://www.facebook.com/notesmusichall",
+    "name": "Notes Live",
+    "phone": "+357 25 344344",
+    "website": "https://noteslivecy.com"
+  }
+},
+{
+  "type": "node",
+  "id": 4776996721,
+  "lat": 34.9901577,
+  "lon": 33.9978994,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Bedrock Cafe",
+    "name:en": "Bedrock Cafe",
+    "name:ru": "бэдрок клуб"
+  }
+},
+{
+  "type": "node",
+  "id": 5044361523,
+  "lat": 34.7025601,
+  "lon": 33.1076885,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Guaba",
+    "name:en": "Guaba",
+    "name:tr": "Guaba"
+  }
+},
+{
+  "type": "node",
+  "id": 5945467385,
+  "lat": 34.9898434,
+  "lon": 33.9973928,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Encore",
+    "name:en": "Encore"
+  }
+},
+{
+  "type": "node",
+  "id": 6408255886,
+  "lat": 35.1685869,
+  "lon": 33.3591956,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Versus Club",
+    "name:en": "Versus Club"
+  }
+},
+{
+  "type": "node",
+  "id": 6415364085,
+  "lat": 34.9047025,
+  "lon": 33.6302918,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Night Elements Club",
+    "name:en": "Night Elements Club"
+  }
+},
+{
+  "type": "node",
+  "id": 6498318698,
+  "lat": 34.6997452,
+  "lon": 33.1010895,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Breeze",
+    "name:en": "Breeze"
+  }
+},
+{
+  "type": "node",
+  "id": 7776234688,
+  "lat": 34.7000173,
+  "lon": 33.1015715,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Breeze Club",
+    "name:en": "Breeze Club"
+  }
+},
+{
+  "type": "node",
+  "id": 8529316417,
+  "lat": 35.1748120,
+  "lon": 33.3700428,
+  "tags": {
+    "addr:housenumber": "38",
+    "addr:postcode": "1016",
+    "addr:street": "Ammochostou",
+    "amenity": "nightclub",
+    "name": "Klubd",
+    "name:en": "Klubd",
+    "website": "https://m.facebook.com/klubdnicosia/"
+  }
+},
+{
+  "type": "node",
+  "id": 8645436204,
+  "lat": 35.1773872,
+  "lon": 33.3653300,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Berlin"
+  }
+},
+{
+  "type": "node",
+  "id": 9037472754,
+  "lat": 35.1653480,
+  "lon": 33.3241247,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Αντιπεινα live"
+  }
+},
+{
+  "type": "node",
+  "id": 9247910359,
+  "lat": 34.9898202,
+  "lon": 33.9983589,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Titanic"
+  }
+},
+{
+  "type": "node",
+  "id": 9247910366,
+  "lat": 34.9899354,
+  "lon": 33.9991614,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Black & White"
+  }
+},
+{
+  "type": "node",
+  "id": 10870997358,
+  "lat": 34.6958735,
+  "lon": 33.0891320,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Maxi club"
+  }
+},
+{
+  "type": "node",
+  "id": 10905851805,
+  "lat": 35.3436789,
+  "lon": 33.2639471,
+  "tags": {
+    "addr:housenumber": "99320",
+    "addr:street": "Karaoğlanoğlu Caddesi",
+    "amenity": "nightclub",
+    "internet_access": "wlan",
+    "name": "Las Vegas club",
+    "name:en": "Las Vegas club",
+    "phone": "+905338884788",
+    "website": "https://linktr.ee/lasvegasclub"
+  }
+},
+{
+  "type": "node",
+  "id": 11405660319,
+  "lat": 34.6603709,
+  "lon": 33.0091533,
+  "tags": {
+    "amenity": "nightclub",
+    "min_age": "18",
+    "name": "Crystal"
+  }
+},
+{
+  "type": "node",
+  "id": 11434766858,
+  "lat": 35.2144363,
+  "lon": 33.2394525,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Florida Gece Kulübü",
+    "opening_hours": "Mo-Su 11:00-23:00",
+    "operator": "+90 548 855 34 20",
+    "smoking": "yes",
+    "whatsapp": "+90 533 853 33 38"
+  }
+},
+{
+  "type": "node",
+  "id": 11434814488,
+  "lat": 35.2176316,
+  "lon": 33.2402212,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Miss Me Gece Kulübü",
+    "opening_hours": "11:00-23:00",
+    "operator": "+90 533 849 44 97",
+    "smoking": "yes",
+    "whatsapp": "+90 533 862 58 10"
+  }
+},
+{
+  "type": "node",
+  "id": 11434826906,
+  "lat": 35.2184591,
+  "lon": 33.2402162,
+  "tags": {
+    "amenity": "nightclub",
+    "contact:whatsapp": "+90 539 117 89 46",
+    "min_age": "18",
+    "mobile": "+90 539 117 89 46",
+    "name": "Faraon Gece Kulübü",
+    "opening_hours": "11:00-23:00",
+    "operator": "night club",
+    "smoking": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11434835921,
+  "lat": 35.2118135,
+  "lon": 33.2336795,
+  "tags": {
+    "amenity": "nightclub",
+    "contact:mobile": "+90 548 855 70 44",
+    "contact:whatsapp": "+90 548 855 34 20",
+    "name": "Harem Night Club",
+    "opening_hours": "Mo-Su 11:00-01:00",
+    "operator": "Striptiz Kulübü",
+    "phone": "+90 548 855 70 44",
+    "smoking": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11434860873,
+  "lat": 35.2073834,
+  "lon": 33.2308082,
+  "tags": {
+    "amenity": "nightclub",
+    "contact:whatsapp": "+90 533 849 44 97",
+    "mobile": "+90 58 855 70 44",
+    "name": "Freedom Girls Night Club",
+    "opening_hours": "11:00-23:00",
+    "operator": "+90 58 855 70 44",
+    "smoking": "yes",
+    "website": "https://www.kibrisgecehayati.vip/girls-freedom-night-club/"
+  }
+},
+{
+  "type": "node",
+  "id": 11434861167,
+  "lat": 35.2126389,
+  "lon": 33.2466869,
+  "tags": {
+    "amenity": "nightclub",
+    "contact:whatsapp": "+90 548 855 70 44",
+    "name": "İmparator Night Club",
+    "phone:mobile": "+90 548 855 70 44"
+  }
+},
+{
+  "type": "node",
+  "id": 11434861465,
+  "lat": 35.2168960,
+  "lon": 33.2438971,
+  "tags": {
+    "amenity": "nightclub",
+    "contact:whatsapp": "+90 539 117 89 39",
+    "min_age": "18",
+    "name": "Prenses Night Club",
+    "opening_hours": "10:00-02:00",
+    "operator": "+90 539 117 89 39",
+    "smoking": "yes",
+    "website": "https://www.prensesnightclub.org/"
+  }
+},
+{
+  "type": "node",
+  "id": 11434861779,
+  "lat": 35.2073535,
+  "lon": 33.2319515,
+  "tags": {
+    "amenity": "nightclub",
+    "contact:whatsapp": "+905391092447",
+    "min_age": "18",
+    "mobile": "+90 548 855 70 44",
+    "name": "Malişka Gece Kulübü",
+    "opening_hours": "7/24",
+    "phone": "+90 548 855 70 44",
+    "smoking": "yes",
+    "website": "https://www.kibrisgecehayati.vip/girls-freedom-night-club/"
+  }
+},
+{
+  "type": "node",
+  "id": 11434861882,
+  "lat": 35.2174139,
+  "lon": 33.2496754,
+  "tags": {
+    "amenity": "nightclub",
+    "contact:whatsapp": "+90 533 875 70 31",
+    "email": "info@biyaxnightclub.net",
+    "min_age": "18",
+    "mobile": "+90 533 875 70 31",
+    "name": "Biyax Gece Kulübü",
+    "opening_hours": "11:00-23:00",
+    "operator": "+90 533 875 70 31",
+    "smoking": "yes",
+    "website": "https://biyaxnightclub.net/"
+  }
+},
+{
+  "type": "node",
+  "id": 11434863986,
+  "lat": 35.2117928,
+  "lon": 33.2345122,
+  "tags": {
+    "amenity": "nightclub",
+    "mobile": "+90 533 875 70 31",
+    "name": "Hanedan Gece Kulübü",
+    "operator": "+90 533 875 70 31",
+    "smoking": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11434864586,
+  "lat": 35.3470783,
+  "lon": 33.0804741,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Golden Girls Gece Kulübü",
+    "operator": "+90 533 875 70 31"
+  }
+},
+{
+  "type": "node",
+  "id": 11434870184,
+  "lat": 35.2135094,
+  "lon": 33.2382729,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Monamour Gece Kulübü",
+    "operator": "+90 548 855 34 20",
+    "smoking": "yes",
+    "website": "https://monamournightclub.org/"
+  }
+},
+{
+  "type": "node",
+  "id": 11434877617,
+  "lat": 35.2120478,
+  "lon": 33.2311225,
+  "tags": {
+    "amenity": "nightclub",
+    "mobile": "+90 533 829 41 35",
+    "name": "Playboy Gece Kulübü",
+    "operator": "+90 533 829 41 35",
+    "phone": "+90 533 829 41 35"
+  }
+},
+{
+  "type": "node",
+  "id": 11434883787,
+  "lat": 35.3491428,
+  "lon": 33.0828651,
+  "tags": {
+    "amenity": "nightclub",
+    "mobile": "+90 539 117 89 46",
+    "name": "Yakamoz Gece Kulübü",
+    "opening_hours": "11:00-02:00",
+    "operator": "+90 539 117 89 46",
+    "smoking": "outside",
+    "website": "https://www.yakamoznightclub.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 11434906572,
+  "lat": 35.2673854,
+  "lon": 33.4650371,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Rose Afrodit Gece Kulübü",
+    "opening_hours": "11:00-23:00",
+    "operator": "+90 539 109 24 47",
+    "smoking": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11774679387,
+  "lat": 34.7782776,
+  "lon": 32.4202707,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Bank"
+  }
+},
+{
+  "type": "node",
+  "id": 12840566596,
+  "lat": 34.9190664,
+  "lon": 33.6370753,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Expression"
+  }
+},
+{
+  "type": "node",
+  "id": 13046496901,
+  "lat": 34.8883906,
+  "lon": 32.8641012,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "The Flintstones"
+  }
+},
+{
+  "type": "node",
+  "id": 13315916040,
+  "lat": 34.7091245,
+  "lon": 33.1876044,
+  "tags": {
+    "addr:city": "Limassol",
+    "addr:housenumber": "1",
+    "addr:place": "Κύπρος - Kıbrıs",
+    "addr:postcode": "4534",
+    "amenity": "nightclub",
+    "name": "Sacret Garden",
+    "opening_hours": "unknown \"per events schedule\""
+  }
+},
+{
+  "type": "node",
+  "id": 13773950787,
+  "lat": 34.6748460,
+  "lon": 33.0433605,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Ravens Music Hall"
+  }
+},
+{
+  "type": "node",
+  "id": 13984792958,
+  "lat": 35.2150740,
+  "lon": 33.2486215,
+  "tags": {
+    "amenity": "nightclub",
+    "contact:whatsapp": "+90 533 875 70 31",
+    "min_age": "18",
+    "mobile": "+90 533 875 70 31",
+    "name": "Kıbrıs Escort -  Kıbrıs Escort Katalog",
+    "opening_hours": "24/7",
+    "phone": "+90 533 875 70 31"
+  }
+},
+{
+  "type": "node",
+  "id": 13984802288,
+  "lat": 35.2098333,
+  "lon": 33.2434875,
+  "tags": {
+    "amenity": "nightclub",
+    "min_age": "18",
+    "mobile": "+90 533 875 70 31",
+    "name": "Dolls Night Club",
+    "opening_hours": "24/7",
+    "smoking": "yes",
+    "website": "https://www.dollsnightclub.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 14226155383,
+  "lat": 34.8042098,
+  "lon": 32.3980953,
+  "tags": {
+    "addr:housenumber": "56",
+    "addr:street": "Chlorakas Avenue",
+    "amenity": "nightclub",
+    "check_date": "2026-09-28",
+    "level": "-1",
+    "name": "Studio 54"
+  }
+},
+{
+  "type": "node",
+  "id": 14231612300,
+  "lat": 35.2131746,
+  "lon": 33.2458021,
+  "tags": {
+    "amenity": "nightclub",
+    "min_age": "18",
+    "name": "Ibiza Night Club"
+  }
+},
+{
+  "type": "way",
+  "id": 81309608,
+  "center": {
+    "lat": 35.0156264,
+    "lon": 34.0519027
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "check_date": "2025-09-03",
+    "check_date:opening_hours": "2024-10-03",
+    "name": "Q Cocktail Bar",
+    "opening_hours:signed": "no",
+    "phone": "+357 99 861 071",
+    "website": "https://www.facebook.com/abcdefjgijk/"
+  }
+},
+{
+  "type": "way",
+  "id": 199520715,
+  "center": {
+    "lat": 34.9752620,
+    "lon": 33.6787441
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "building:levels": "3",
+    "email": "nfo@dollpalace.info",
+    "name": "Doll Palace",
+    "phone": "+357 96410876",
+    "website": "http://www.dollpalace.info/"
+  }
+},
+{
+  "type": "way",
+  "id": 202593314,
+  "center": {
+    "lat": 35.1280081,
+    "lon": 33.3208997
+  },
+  "tags": {
+    "addr:housenumber": "2",
+    "addr:street": "Avraam Antoniou",
+    "amenity": "nightclub",
+    "building": "retail",
+    "fax": "+357 22328181",
+    "name": "Pavilion Hall",
+    "opening_hours": "Tu-Sa 11:00-19:00",
+    "phone": "+357 22322222",
+    "website": "https://www.pavilionhall.com/"
+  }
+},
+{
+  "type": "way",
+  "id": 204998417,
+  "center": {
+    "lat": 35.3409038,
+    "lon": 33.3204540
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "building:levels": "4",
+    "mobile": "+90 539 117 89 39",
+    "name": "Girne Escort Kataloğu"
+  }
+},
+{
+  "type": "way",
+  "id": 205275707,
+  "center": {
+    "lat": 35.3405871,
+    "lon": 33.3196454
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "building:levels": "5",
+    "mobile": "+90 539 117 89 39",
+    "name": "Girne Escort Fiyatları",
+    "website": "https://girneescort.org"
+  }
+},
+{
+  "type": "way",
+  "id": 205281549,
+  "center": {
+    "lat": 35.3377715,
+    "lon": 33.3199056
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "service",
+    "building:levels": "3",
+    "min_age": "18",
+    "mobile": "+90 539 117 89 39",
+    "name": "Girne Escort Katalog",
+    "opening_hours": "24:00"
+  }
+},
+{
+  "type": "way",
+  "id": 455555411,
+  "center": {
+    "lat": 35.3415143,
+    "lon": 33.3179780
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "building:levels": "7",
+    "mobile": "+90 533 875 70 31",
+    "name": "Girne Escort - Kıbrıs Escort",
+    "website": "https://girneesc.com"
+  }
+},
+{
+  "type": "way",
+  "id": 545109107,
+  "center": {
+    "lat": 34.9897644,
+    "lon": 33.9980805
+  },
+  "tags": {
+    "addr:housenumber": "20/22",
+    "addr:street": "Louka Louka",
+    "amenity": "nightclub",
+    "building": "yes",
+    "building:levels": "3",
+    "name": "Castle Club",
+    "opening_hours": "Mo-Su 23:00-05:00",
+    "source": "Kaart Ground Survey 2017"
+  }
+},
+{
+  "type": "way",
+  "id": 577700002,
+  "center": {
+    "lat": 35.3408065,
+    "lon": 33.3151952
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "mobile": "+90 539 117 89 46",
+    "name": "Girne VIP Escort",
+    "website": "https://kibrisescortbayan.org"
+  }
+},
+{
+  "type": "way",
+  "id": 666349266,
+  "center": {
+    "lat": 35.2140607,
+    "lon": 33.2388085
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "mobile": "+90 539 117 89 46",
+    "name": "Monamour Night Club"
+  }
+},
+{
+  "type": "way",
+  "id": 666349274,
+  "center": {
+    "lat": 35.2119084,
+    "lon": 33.2291391
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "contact:whatsapp": "+90 533 849 44 97",
+    "mobile": "+90 533 829 41 35",
+    "name": "Tuttu Frutti Gece Kulübü",
+    "opening_hours": "Mo-Su 11:00-01:00",
+    "operator": "Gece Kulübü",
+    "phone": "+90 533 829 41 35",
+    "smoking": "isolated",
+    "website": "https://clubcatalog.pro/tutti-frutti-night-club-katalog/"
+  }
+},
+{
+  "type": "way",
+  "id": 666349275,
+  "center": {
+    "lat": 35.2138175,
+    "lon": 33.2331592
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "mobile": "+90 539 117 89 46",
+    "name": "Rio Night Club",
+    "website": "https://www.kibrisgecehayati.vip/rio-night-club/"
+  }
+},
+{
+  "type": "way",
+  "id": 971242809,
+  "center": {
+    "lat": 35.1615496,
+    "lon": 33.9125497
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "min_age": "18",
+    "name": "Vibes City",
+    "opening_hours": "13:00-07:00",
+    "opening_hours:covid19": "Mo-Sa 04:30-00:00",
+    "payment:cards": "yes",
+    "payment:cash": "yes",
+    "phone": "+905338759124",
+    "smoking": "isolated"
+  }
+},
+{
+  "type": "way",
+  "id": 1152222336,
+  "center": {
+    "lat": 35.0223422,
+    "lon": 34.0397392
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "email": "apolon1945@gmail.com",
+    "name": "Apolon",
+    "phone": "+357 96 310088",
+    "website": "https://www.facebook.com/Membersclublarnaca/"
+  }
+},
+{
+  "type": "way",
+  "id": 1210719878,
+  "center": {
+    "lat": 34.6612551,
+    "lon": 33.0209488
+  },
+  "tags": {
+    "addr:postcode": "3011",
+    "amenity": "nightclub",
+    "building": "yes",
+    "building:levels": "2",
+    "name": "Hangar",
+    "operator": "ETKO Winery"
+  }
+},
+{
+  "type": "way",
+  "id": 1271472666,
+  "center": {
+    "lat": 35.3510076,
+    "lon": 33.0809905
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Anemon Gece Kulübü",
+    "operator": "+90 539 117 89 39",
+    "source": "microsoft/BuildingFootprints",
+    "website": "https://gececlub.com"
+  }
+},
+{
+  "type": "way",
+  "id": 1271491404,
+  "center": {
+    "lat": 35.3479735,
+    "lon": 33.0818568
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "contact:whatsapp": "+90 533 875 70 31",
+    "min_age": "18",
+    "mobile": "+90 533 875 70 31",
+    "name": "Midnight Club",
+    "opening_hours": "10:00-02:00",
+    "operator": "Gece Kulübü",
+    "smoking": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1271491405,
+  "center": {
+    "lat": 35.3478048,
+    "lon": 33.0816265
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "contact:whatsapp": "+90 533 875 70 31",
+    "mobile": "+90 533 875 70 31",
+    "name": "Mid Night Gece Kulübü",
+    "name:en": "Golden Girls"
+  }
+},
+{
+  "type": "way",
+  "id": 1275048124,
+  "center": {
+    "lat": 35.2067957,
+    "lon": 33.2272461
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "min_age": "18",
+    "mobile": "+90 533 829 41 35",
+    "name": "Blue Night Club",
+    "opening_hours": "10:00-02:00",
+    "smoking": "yes",
+    "website": "https://clubcatalog.pro/maliska-night-club-katalog/"
+  }
+},
+{
+  "type": "way",
+  "id": 1309929969,
+  "center": {
+    "lat": 35.2108243,
+    "lon": 33.2426233
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "contact:whatsapp": "+905338757031",
+    "description": "Lipstick Gece Kulübü Kıbrıs'ın en iyisiyiz",
+    "min_age": "18",
+    "mobile": "+90 548 855 70 44",
+    "name": "Lipstick Night Club",
+    "opening_hours": "11:00-23:00; Mo-Su 11:00-01:00",
+    "smoking": "yes",
+    "telegram": "+90 548 855 70 44",
+    "website": "https://lipsticknightclub.gen.tr/",
+    "whatsapp": "+90 548 855 70 44"
+  }
+}
+
+  ]
+}

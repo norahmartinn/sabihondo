@@ -397,6 +397,8 @@ Groove;;4;2
 Santôs Club;Santôs;4;2
 Cova Santa;;4;2
 Discoteca Penélope;;4;2
+Mamajuana;;4;2
+Freedom;;4;2
 El Casco;;5;1000000000
 Hanoi;;5;999999999
 Cue;;5;999999998
@@ -1432,7 +1434,7 @@ El Altar;;5;1
 Sala Totem Aretoa;Totem Aretoa;5;1
 Flanagans;;5;1
 Hache;;5;1
-Mambo Club;;5;1
+Mambo Club;Jaleo;5;1
 Dondiavolo;;5;1
 Rock Museum;;5;1
 Ocean León;;5;1
@@ -1966,6 +1968,31 @@ D8 Sorkuntza Faktoria;;5;1
 Sala KS;;5;1
 Coliseum Sala;;5;1
 Omaha Chic;;5;1
+Disco Mary's;Mary's;5;1
+Cum Laude;;5;1
+Winter;;5;1
+El Duende;;5;1
+Pub Whisky;Whisky;5;1
+Sala DeVizio;DeVizio;5;1
+Sala Tango Noches;Tango Noches;5;1
+Aire / Arena Clàssic;Aire;5;1
+Metro Disco BCN;;5;1
+Candy Warhol;;5;1
+Veto Social Club;Veto;5;1
+Wamba;;5;1
+Zurich;;5;1
+Sala Héroe;Héroe;5;1
+Mediterrania Disco L'Ampolla;;5;1
+Charlot;;5;1
+Campvs;Campus;5;1
+Golden Box;;5;1
+Antiga Discoteca Supernova;;5;1
+Hill Lleida;;5;1
+Discoteca Lingunde;Lingunde;5;1
+Karibú;;5;1
+Discoteca Louie Vega;Louie Vega;5;1
+Waikiki;;5;1
+Antiga Discoteca Chrysalis;Discoteca Chrysalis|Chrysalis|Chrysalis Discotheque Valls;5;1
 XtraLrge Playground;;5;1
 Unic Daily Goodness;;5;1
 Marmarela;;5;1
@@ -2093,7 +2120,6 @@ THE ACADEMY Urban Music;ACADEMY Urban Music;5;1
 Electrona Club;Electrona;5;1
 Octan Ibiza;;5;1
 Palmetum Santa Cruz;;5;1
-Freedom Nightclub;Freedom;5;1
 Craws Nest;;5;1
 Seven Club Manresa;;5;1
 Flaherty's;;5;1
@@ -2187,7 +2213,6 @@ Salinas de Chiclana;;5;1
 Marbella Arena;;5;1
 Sun Ray;;5;1
 Casino La Floresta;;5;1
-Mamajuana;;5;1
 Toy House;;5;1
 Aqua Ocean Club;Aqua Ocean;5;1
 Ocean Club Maspalomas;;5;1
@@ -2260,7 +2285,7 @@ Scarlett Girona;Scarlett;5;1
 Salón Multiusos de Bejís;Salón Multiusos de;5;1
 Jacqueline Barcelona;Jacqueline;5;1
 Tresaeme Club;Tresaeme;5;1
-Club Jaleo;Jaleo;5;1
+Club Jaleo;;5;1
 Intruso Bar;;5;1
 PULSE - Isla Tortuga;;5;1
 Imposible Club;Imposible;5;1
@@ -3638,7 +3663,7 @@ L’Insolite;;5;0
 Mamy Rose;;5;0
 Bul Club;Bul;5;0
 Au bout du Monde;;5;0
-Karibu Club;Karibu;5;0
+Karibu Club;;5;0
 Sambahia;;5;0
 La Kwai;;5;0
 B19;;5;0
@@ -4976,6 +5001,4112 @@ Sciarra Party Festivita;;5;0
 Il Dollaro;;5;0
 Real Dance;;5;0
 "Circolo Tunnel ""Bombon3ra""";;5;0
+Club Calypso;Calypso;5;0
+CC-Club;;5;0
+Real;;5;0
+Eden Bar;;5;0
+Sachs;;5;0
+Stanglbar;;5;0
+Club Blue;;5;0
+Club Roxy;;5;0
+Partymaus;;5;0
+Bricks;;5;0
+"""O"" die Tanzbar";;5;0
+Bergwerk;;5;0
+B10;;5;0
+DonauTechno;;5;0
+Why Not - Clubdiskothek;;5;0
+Prometheus;;5;0
+Viper Room Vienna;The Monastery;5;0
+AZTEC Club;AZTEC|Plan B;5;0
+Fifty Five Club;Fifty Five|55 Club;5;0
+C2;;5;0
+Ballegro;;5;0
+V-Club;;5;0
+Camera Club;Camera;5;0
+fritz! Club;fritz!;5;0
+Blue Chip;;5;0
+Easy-Bacchus;;5;0
+Club 1019;1019;5;0
+Sensation;;5;0
+Jimmy's Krems;;5;0
+P2;;5;0
+Disco Joy;;5;0
+Villa Ostende;;5;0
+Le Billard;;5;0
+Balboa;;5;0
+Casanova;;5;0
+Livestage;;5;0
+Mon Cherie;;5;0
+El Dorado;;5;0
+Empire St. Martin;;5;0
+Disco P3;;5;0
+The Box;Box;5;0
+Volcano;;5;0
+Club Take 5;Take 5;5;0
+Heuboda;;5;0
+Mühle;;5;0
+Kulturhauskeller;;5;0
+Mausefalle Linz;;5;0
+Hanglbar und Angels' Club;Hanglbar und Angels';5;0
+Club V2;;5;0
+Discothek APOLLON;;5;0
+Club Fly 2.0;Fly 2.0;5;0
+A Danceclub;;5;0
+Wellness Club by La Coccotte;Wellness Club|Wellness;5;0
+Grelle Forelle;;5;0
+Mausefalle;;5;0
+Music-House;;5;0
+Postgarage;;5;0
+Bar Carmen;;5;0
+Casino Joker;;5;0
+Mauerwerk;;5;0
+Discothek;;5;0
+Club Motion;Motion;5;0
+CellaVie Aviation Club;CellaVie Aviation|Ride Club, Buddha Club, Kaiko;5;0
+COCO Discostadl;;5;0
+Café Niveau - Nachtclub;Café Niveau;5;0
+Diskothek Blow Up;;5;0
+Melibar Tanzcafe;Pendl's Tanzbar;5;0
+Passage Vanity;;5;0
+Deja-Vu;;5;0
+Hohenhaustenne;;5;0
+Studio 24;;5;0
+Tollhaus;;5;0
+Barbarossa the Club;Barbarossa;5;0
+Hailife;LA Noisette;5;0
+Tante Emma;;5;0
+Tanzcafe Jenseits;;5;0
+La Noche - Disco;;5;0
+NiteFlight - Cocktailbar, Disco, Lounge;NiteFlight;5;0
+N1 - Disco;;5;0
+Diskothek Volksgarten;Volksgarten;5;0
+Das Otto;Dachsbau;5;0
+Lifestyle;;5;0
+Poschi Bar;;5;0
+Palmenstadl;;5;0
+Greens XL;;5;0
+Wührers;;5;0
+Rauch Club;Rauch;5;0
+Club Village;;5;0
+El Profesor Night Club;El Profesor;5;0
+baseMENt 2.0;;5;0
+K3;;5;0
+Discostadl Auer;;5;0
+U4 Discothek;;5;0
+Kathi's World;;5;0
+jederzeit;;5;0
+Johnny's Disco;Johnny's|Mairoll;5;0
+Party Box;;5;0
+Säulenhalle;;5;0
+Circle Thalia;;5;0
+Café Carina;;5;0
+IMSÜDEN Club;IMSÜDEN;5;0
+K1;;5;0
+Treffpunkt;;5;0
+Mammamia;;5;0
+Diskothek Tanzbar;Tanzbar;5;0
+Lions Bar;;5;0
+James Bar;;5;0
+Platzhirsch;;5;0
+Kaktus Club;Kaktus;5;0
+Live Music Club Replugged;;5;0
+Nachtkastl;;5;0
+SENDER Club;SENDER;5;0
+Club Escape;Escape;5;0
+Das Werk;;5;0
+Kum Eina;;5;0
+Club U;;5;0
+Kanne Disco;Kanne;5;0
+Showbar Highland;;5;0
+Maurer's;;5;0
+Take Five;;5;0
+Estrada;;5;0
+Studio 37;;5;0
+Eventstage;;5;0
+Katapult;;5;0
+Stadtkeller Disco - Bar;Stadtkeller Disco|Stadtkeller;5;0
+Bolleros;;5;0
+Die Rote Villa;;5;0
+Tollhaus Weiz;;5;0
+Kokomo;;5;0
+Prysma;Club Cube, Spielplatz;5;0
+Club UTOPIA;UTOPIA;5;0
+Der kleine Tiroler;;5;0
+Eisbar;;5;0
+Fuchslöchl;Servus Bar;5;0
+Mirage;;5;0
+Pulverfass;;5;0
+Das Brauhaus;;5;0
+Ilzer Tenne;;5;0
+Las Palmas Latin Club;Las Palmas Latin;5;0
+Max & Moritz Bar & Disco;Max & Moritz Bar &;5;0
+Danzon;;5;0
+Vogelnest;;5;0
+Bettel-Alm am Lugeck;;5;0
+fashiontv;;5;0
+Club Analog;Analog;5;0
+Loco Bar;Soho-Vienna 2.;5;0
+Club Alice;Alice|Palffy Club;5;0
+Goodman;;5;0
+VIE i PEE;;5;0
+No. 99;;5;0
+Easy Bar;;5;0
+Horst;;5;0
+Party Stadl - Luech Keller;Party Stadl;5;0
+Tanzcafe Schindler;;5;0
+Slab Kitz;;5;0
+Feeling club;;5;0
+Dinos Partyhaus;;5;0
+Filou;;5;0
+Sega Bar;;5;0
+all in;;5;0
+Dorfalm;;5;0
+Drop In;;5;0
+Taggerwerk;;5;0
+Confetti Bar;;5;0
+SASS Music Club;SASS;5;0
+Porto;;5;0
+Karat;;5;0
+FOX - Die Tanzbar;FOX;5;0
+Remembar;;5;0
+SFRJ;;5;0
+Trofana Tenne;;5;0
+Club Salsa Libre;Salsa Libre;5;0
+Love House;;5;0
+Tanzbar Nachtigall;;5;0
+Nachtschicht;Löwengrube;5;0
+PostHorndl;;5;0
+Proberaum Scheibbs;Proberaum;5;0
+Saint Tropez;;5;0
+Tanzcafe Wenzel;;5;0
+KaiserDisco Ellmau;;5;0
+Frühbar04;;5;0
+BallCanCan;;5;0
+FACE;;5;0
+Gleis 9;;5;0
+cultclub;;5;0
+minki;;5;0
+Club Nero;Nero;5;0
+Schwips Ladies Dancing;;5;0
+Nachtclub Nineteen:four;;5;0
+The Lux;;5;0
+elite Club Linz;;5;0
+Kottulinsky;;5;0
+Bloom;;5;0
+Phantom Club;Phantom;5;0
+Vino en Paso;;5;0
+Südsee;;5;0
+Tschin Dancefloor;;5;0
+Bar Madame;;5;0
+Club Bunker;;5;0
+Der Klub;;5;0
+Westernsaloon Buffalo;;5;0
+Kleine Tenne;;5;0
+Grngr;;5;0
+Up&Down;;5;0
+Market33;;5;0
+Exil;;5;0
+Saustall Hadersdorf;;5;0
+p.p.c;;5;0
+Bar 1900;;5;0
+Disco Excalibur - Hartberg;Disco Excalibur|Excalibur - Hartberg|Excalibur;5;0
+Nachtclub Stadt Wien;;5;0
+Zone 21;Villa Aichelburg;5;0
+Imperial Club;;5;0
+Poolhall Linz;Poolhall;5;0
+Celeste;;5;0
+Vabrik;;5;0
+Ypsilon Eventhall;;5;0
+Almrausch;;5;0
+Flex;;5;0
+""" Back to the Roots""";;5;0
+Disko Haleluja;;5;0
+Spessart;;5;0
+Discothek Villa;;5;0
+G&D Grande Dame Music Club;G&D Grande Dame;5;0
+Die Burg;;5;0
+Nightclub Valentina;Valentina;5;0
+Discothek Schistadl;;5;0
+Partyhaus Cabrio;;5;0
+Disco Concorde;Concorde;5;0
+G'spusi - dein Tanz & Flirtlokal;G'spusi;5;0
+Herrenhaus;;5;0
+Flucc;Fluc;5;0
+Explosiv;;5;0
+Wyborowa;;5;0
+Frankies Musik-Treff;;5;0
+Lusthouse;;5;0
+Tanzcafé La Bamba;;5;0
+Brooklyn-Disco;;5;0
+N-Joy;;5;0
+FH Gastro GmbH;;5;0
+Tanzbar Schiwago;;5;0
+Tanzcafé Erni;Erni;5;0
+Alte Molkerei;;5;0
+Jaguar;;5;0
+Club Werkstatt Ternberg;Werkstatt Ternberg|Werkstatt;5;0
+Diskothek Till Eulenspiegel;Till Eulenspiegel;5;0
+Maurer;;5;0
+Hühnerstall;;5;0
+Night Club Dolce Vita;;5;0
+Erotik Laufhaus Leibnitz;;5;0
+Diskothek be HAPPY;be HAPPY;5;0
+Diskothek Erika;Erika;5;0
+Jackson Club;Jackson;5;0
+Das Günter's;;5;0
+Highlife;;5;0
+Disco Bull;Bull;5;0
+The G-Club;G-Club;5;0
+Room Forty;;5;0
+Fuzzy;;5;0
+Lady O;;5;0
+Wigo;;5;0
+Bermuda;;5;0
+Melkerkeller;;5;0
+Apres Ski Spieljochstadl;;5;0
+Art of Night;;5;0
+Babenberger Passage;;5;0
+Salzhaus;;5;0
+Kammgarn;;5;0
+Livingroom;;5;0
+Bierhübeli;;5;0
+Labor5 Bar;;5;0
+Heimat;;5;0
+Das Zimmer;Silo-Bar;5;0
+Palais Mascotte;;5;0
+Kaufleuten Klubsaal;;5;0
+Courage Club;Courage;5;0
+Bolgenschanze;;5;0
+Kauz;;5;0
+Werk 21;Kaufleuten Dynamo;5;0
+Night Bird;;5;0
+Club number one;;5;0
+Le Quai;;5;0
+unerge;;5;0
+Bronx;;5;0
+Vegas Club Luzern;;5;0
+Sherpa;;5;0
+Sherlock Club;Sherlock;5;0
+Arrasta o pé;;5;0
+Z1;;5;0
+Peer 56;;5;0
+Cube Club;Cube.Club.Bern|Shakira;5;0
+ISC Club;ISC|ISC Club Bern;5;0
+Dachstock;;5;0
+provitreff;;5;0
+Downtown K;;5;0
+Blue Lagoon;;5;0
+Athena Club;;5;0
+New Port;;5;0
+Cafete;;5;0
+Le Prive Club;;5;0
+Aktionshalle;;5;0
+The Grail;Grail;5;0
+Heaven Club;Gayclub Oz;5;0
+Move Club;Move;5;0
+Orient;;5;0
+Einspruch Diskothek;;5;0
+Belmondo;Belmondo Club Events Bar;5;0
+Night bar Chiquita;;5;0
+Dead End;;5;0
+Stellwerk;;5;0
+L'Amalgame;;5;0
+Privé;;5;0
+Jagger's;;5;0
+LE7 Club / Seven Club;LE7 Club|LE7 Club / Seven;5;0
+Firehouse;;5;0
+D! Club;;5;0
+Rondel;Club Rondel|Liquid;5;0
+Locarno 2000;;5;0
+kerri;;5;0
+Princesse;;5;0
+Club Mundwerk;Mundwerk|Mundwerk Kulturbiotop;5;0
+Farm club;Farm;5;0
+Casbah;;5;0
+Disco L'Underground;L'Underground;5;0
+Das Viertel;;5;0
+Giada Night Club;Giada;5;0
+Amadeus;;5;0
+Das schwarze Schaf;;5;0
+Chorus;;5;0
+Globull;;5;0
+Galaxy;;5;0
+Hidén Harlekin;;5;0
+iPub night;;5;0
+Jugendkulturhaus OXIL;;5;0
+Jenny's;;5;0
+Club 3000;3000;5;0
+Schönbrunnen;;5;0
+Apéro & Weinbar Wyva;;5;0
+LWB Löschwasserbecken;;5;0
+Löwen;;5;0
+G's;;5;0
+Club Atlantic;Atlantic;5;0
+Five Roses;;5;0
+Chäller;;5;0
+i45 (industrie 45);i45;5;0
+Club Goldwand;Goldwand;5;0
+Studio Club Bern;;5;0
+Octopussy;;5;0
+Roadhouse;;5;0
+Liquors;;5;0
+Mica Club Ze Code;;5;0
+Le Ciel;Le Ciel Bar Lounge Club;5;0
+B-Side;;5;0
+Zuma Disco Pub;;5;0
+Turinotte;;5;0
+Mauz Music-Club;;5;0
+Marians Jazzroom;;5;0
+BeJazz;;5;0
+Silo Lounge;;5;0
+Perosa;;5;0
+Le Zoo;;5;0
+AMR;;5;0
+Five Night Club;Five;5;0
+Utopia Club;;5;0
+Les Prisons;;5;0
+Morandi Club;Morandi;5;0
+Le Romandie;Le Romandie Club;5;0
+UMBO;;5;0
+Elfida;;5;0
+Club Obsession;Obsession;5;0
+New Crazy Horse;;5;0
+TapTab;;5;0
+A2 - The Club;;5;0
+Jade Club;;5;0
+Le Rez;;5;0
+Java Club;;5;0
+Le Palladium;;5;0
+Prime;;5;0
+Rinora Events AG;;5;0
+Club Bar Aura;Bar Aura;5;0
+Heile Welt;;5;0
+Sabor Latino;;5;0
+Gonzo;;5;0
+Kulturfabrik Kofmehl;;5;0
+Village du Soir;;5;0
+Triebwerk;;5;0
+Kulturspinnerei;;5;0
+L'After;;5;0
+Jaja;;5;0
+Pöstli Club;Pöstli;5;0
+modus;;5;0
+Palazzo Beat Club (Livemusik);Palazzo Beat Club|Palazzo Beat;5;0
+Frieda's Büxe;;5;0
+Wild Hogs;;5;0
+Alte Landi;;5;0
+Weetamix;;5;0
+Gleiswerk - Die Eventfabrik;Gleiswerk;5;0
+Club Wunderbox;Wunderbox|Perle;5;0
+Léo's Bar;;5;0
+Caverne;;5;0
+Kulturzentrum Holästei;;5;0
+Alte Kaserne;;5;0
+Audio Club;Audio;5;0
+Schlosskeller;;5;0
+Balz;;5;0
+Eventhalle Bülach;Eventhalle;5;0
+Elysia;;5;0
+Fantasio Recada;;5;0
+Café des Arts;;5;0
+Kaschemme;;5;0
+Citrons Masqués;;5;0
+Duo Club;Duo;5;0
+Décal'Quai;;5;0
+Petit Prince;;5;0
+Saxophon Bar;;5;0
+Hall of Fame;;5;0
+Widder Garage;;5;0
+Helsinki;;5;0
+Bogen F;;5;0
+Floor Club;Floor;5;0
+Flora;;5;0
+Döner Bude;;5;0
+CHIC Latino club;CHIC Latino;5;0
+Motel Campo;;5;0
+Trischli Club;Trischli;5;0
+By-pass;;5;0
+Dilaila;;5;0
+Pipe Cafè - Salone Massage Delicious;Pipe Cafè;5;0
+WOODSTOCK Music Pub;;5;0
+Undertown;;5;0
+Chauderon 18 / No Name;Chauderon 18;5;0
+Gletscherspalte;;5;0
+El Presidente;;5;0
+B&B Sportsbar;;5;0
+BlueBox;;5;0
+CULT;;5;0
+Club Paradiso;;5;0
+Taxi;Taxi Bar & Club;5;0
+Club Joy;;5;0
+Ryva Dancing;;5;0
+Salle des fêtes;;5;0
+The Roots Club;Roots;5;0
+Le Singe;;5;0
+Mythic Club;Mythic;5;0
+Darling Club;;5;0
+Tante Pinte;;5;0
+El Secreto Club;;5;0
+Mazazique;;5;0
+Dancing Moonlight - Axxon;Dancing Moonlight;5;0
+Cinema Music Club;Cinema;5;0
+Club Skenderbeu;Skenderbeu;5;0
+Face Club;;5;0
+Riders Club;Riders;5;0
+Club Palace;Palace;5;0
+Discoteca Ermellino;Ermellino;5;0
+Folklor club;Folklor;5;0
+Tellenbar;;5;0
+Heldenbar;;5;0
+La Cave du Bleu Lézard;;5;0
+Mansion Club;;5;0
+Les Jumeaux Jazz Club;Les Jumeaux Jazz|Jumeaux Jazz Club;5;0
+Salle du Cercle du Mail;;5;0
+Rampe 52;;5;0
+Auberge Lugano;Auberge;5;0
+Case-à-chocs;;5;0
+Sektor 11 | Eventhalle Zürich Nord;Sektor 11;5;0
+VIVA Club;VIVA;5;0
+Mad Club;Mad;5;0
+Chez Maxime;;5;0
+Tunnel Glarus;;5;0
+La Gravière;;5;0
+La Brèche;;5;0
+Kuppel;;5;0
+Nest;;5;0
+J Club;;5;0
+Jugi Simplon;;5;0
+Moshpit;;5;0
+Millésime Club;Millésime;5;0
+Chupito;;5;0
+Schneiderei;Schneiderei Club;5;0
+Club Bellevue;Bellevue;5;0
+Dezent Club;Dezent;5;0
+Klain;;5;0
+Sous Soul;;5;0
+Miam;;5;0
+Story Club Dancing Vevey;Story Club Dancing;5;0
+Caprizzi Sportsbar;;5;0
+Décor Penché;;5;0
+La Kave;;5;0
+Miami Latin Club;Miami Latin;5;0
+Enjoy;;5;0
+Gaswerk;;5;0
+Les Docks;;5;0
+Komplex 457;;5;0
+Kanzlei Turnhalle;Kanzlei;5;0
+Studio INSOMNIA;;5;0
+Jugendhaus Flösserplatz;;5;0
+Konzerthaus Schüür;;5;0
+Bikini Test;;5;0
+Fri-Son;;5;0
+En Scred;;5;0
+Nordstern;;5;0
+Galvanik;;5;0
+Dilaila Club;;5;0
+Rocking Chair;;5;0
+Senkel;;5;0
+Treize Etoiles;;5;0
+Sphinx (ex-Kheops);Sphinx;5;0
+Ema Spielparadies / AWESO AG;Ema Spielparadies;5;0
+New Goggeien;;5;0
+Penthouse 9;;5;0
+Club Borderline;;5;0
+Isla Club;;5;0
+Le Groove;;5;0
+Ziggy's;;5;0
+Tap 'n' Tin;;5;0
+NYT;;5;0
+Central Station Venue;;5;0
+The Shack;;5;0
+Orange Rooms;;5;0
+Flares;;5;0
+Aaron P Stone's Casino Rooms;;5;0
+The Irish;Irish|Golden Shamrock Club;5;0
+Digital;;5;0
+World Headquarters;;5;0
+Gorgeous;;5;0
+Ivory;The Devonshire;5;0
+Popworld;;5;0
+Labyrinth;;5;0
+Y Bar;;5;0
+Vauxhall Sports and Social Club;Vauxhall Sports and;5;0
+Club Aquarium;;5;0
+Spiders Nightclub;Spiders;5;0
+The Garage;;5;0
+Thursdays;;5;0
+Chelmsley and District Conservative Club;Chelmsley and District Conservative;5;0
+Parker McMillan;;5;0
+Lakota;;5;0
+Bar Monsta;;5;0
+Broadway Boulevard;;5;0
+Mint XL;Pryzm;5;0
+Rubix;;5;0
+Polly Esthers;;5;0
+Superstar Boudoir;;5;0
+ATIK;;5;0
+Club Retro;;5;0
+100 Club;100;5;0
+Camel Club;Camel;5;0
+101 Nightclub;;5;0
+Scarlets;;5;0
+Barnt Green Social Club;Barnt Green;5;0
+Scene;;5;0
+Fever & Boutique Macclesfield;Fever & Boutique;5;0
+Mariscos;;5;0
+Lucky Voice;;5;0
+The Famous Cocktail Bar;Famous Cocktail Bar;5;0
+42nd Street;;5;0
+Springfield Social Club;Springfield;5;0
+Rowley & Blackheath Labour Club Ltd;;5;0
+Venue;;5;0
+King VN;;5;0
+Wave Bar;;5;0
+The Purple Door;Purple Door;5;0
+Brick Works Nightclub;Brick Works;5;0
+Hill & Cakemore Conservative Club;Hill & Cakemore Conservative;5;0
+Lightbox;;5;0
+Copper Ceylon;;5;0
+Surya;;5;0
+Esquires;;5;0
+The Underworld;Underworld;5;0
+Stone Chair Variety Club;Stone Chair Variety;5;0
+Millfields Social Club;Millfields;5;0
+The Copper Rooms;Copper Rooms;5;0
+The Boardwalk;;5;0
+The Cove;Cove;5;0
+Second Bridge;;5;0
+Alcester Unionist Club;Alcester Unionist;5;0
+Legends;;5;0
+Sneaky Pete's;;5;0
+The Rec Rooms;Rec Rooms|Shelley's;5;0
+Demons;;5;0
+Spirit;;5;0
+Hangar 5;;5;0
+Club Lomah;Lomah;5;0
+Cradley Heath Labour Club;Cradley Heath Labour;5;0
+Spring Meadow Social Club;Spring Meadow;5;0
+Applejax;;5;0
+Viennas;;5;0
+O2 Academy Islington;;5;0
+Level Two;;5;0
+The Triangle;Triangle;5;0
+Hasbury Conservative Club;Hasbury Conservative;5;0
+Charlie's Angels and Club Oops!;;5;0
+Quarry Bank Labour Club;Quarry Bank Labour;5;0
+The Treehouse;Treehouse|Fusion;5;0
+The Basement;Basement|Room 1;5;0
+The Pigalle Club;Pigalle;5;0
+Ansty Club;Ansty;5;0
+Troy 22;;5;0
+Brandon Club 1885;;5;0
+Toy Room Club;;5;0
+Echos;;5;0
+CoCo bar & lounge;;5;0
+The Warehouse;;5;0
+Elbow Room;;5;0
+Ghost Nightclub;Ghost;5;0
+Ikonic;;5;0
+Cameo;;5;0
+Trilogy;;5;0
+Casablanca Jazz Club;Casablanca Jazz;5;0
+Assembly Rooms;;5;0
+Squares;;5;0
+The Ark Nightclub;Ark;5;0
+Warehouse Night Club;;5;0
+Six's;;5;0
+The Core;;5;0
+Club Tropicana;;5;0
+Wedgewood Rooms;;5;0
+Savoy;;5;0
+Astons;;5;0
+The Classic Grand;Classic Grand;5;0
+Cathouse;;5;0
+Royal Cellar Nightclub;Royal Cellar;5;0
+Level 4;Flamingo;5;0
+The Pearl Nightclub;Pearl;5;0
+The Assembly;Assembly;5;0
+The Blue Note Club;;5;0
+Metric;;5;0
+Coalition;;5;0
+Oculist;;5;0
+Polo Lounge;Polo;5;0
+The Lounge;Lounge;5;0
+Ivory Blacks;;5;0
+Club Salvation;Salvation;5;0
+Arizona Lounge;;5;0
+anjo;;5;0
+Hamilton Palace;;5;0
+K1 Metal Club;K1 Metal;5;0
+The Hatch Club;Hatch;5;0
+The Welly Club;Welly;5;0
+Buff Club;Buff;5;0
+The Steel Yard;Steel Yard;5;0
+Sky Bar Nightclub;;5;0
+Lynroys;;5;0
+Zinc;;5;0
+Purple Turtle;;5;0
+Summerhall;;5;0
+Shooshh;;5;0
+Rumba;;5;0
+Garibaldi's;;5;0
+Energy;;5;0
+Soulful Cellar;;5;0
+2one2;;5;0
+Great Barr Conservative Club;Great Barr Conservative;5;0
+The HiFi Club;;5;0
+Amber Bar;;5;0
+Rafters;;5;0
+Unit 13;Pom Pom;5;0
+Fusion Sports Bar & Night Club;Fusion Sports Bar &;5;0
+The Agincourt;Agincourt|Agincourt Lodge;5;0
+District;;5;0
+Blush;;5;0
+The Model;Model;5;0
+Apartment 58;;5;0
+Smokey Joe's;;5;0
+funkymojoe;;5;0
+Mash;;5;0
+Vinyl;;5;0
+Kioki;;5;0
+Regency Room;;5;0
+Labyrith;;5;0
+Bedbury Hall;;5;0
+Bushwackers;Bush Birmingham;5;0
+Tabu Lounge;;5;0
+King Tut's Wah Wah Hut;;5;0
+Glamorous;;5;0
+Woo Woo;;5;0
+TFM Soundworks;;5;0
+West Kirby Social Club;West Kirby;5;0
+Tru;;5;0
+Kolis;;5;0
+The Essex Lounge;Essex Lounge|ESX Lounge|King Du Noodle Bar;5;0
+Cargo;;5;0
+Union;;5;0
+Paradise London;;5;0
+Fat Cats Night Club And Bar;;5;0
+Regis Hall and Resturant;;5;0
+Promarco Promotions;;5;0
+The Revolution;;5;0
+The Mask and Magma;Mask and Magma;5;0
+Venue 229;229;5;0
+Chasers;;5;0
+Saint Patricks Private Members Club;Saint Patricks Private Members;5;0
+Donzai sports bar & cuisine;;5;0
+The Bowery;Bowery;5;0
+The Mill;Mill|The Mill Digbeth;5;0
+Jazzy Kex;;5;0
+The Liquid Room;Liquid Room;5;0
+Kasi Lounge;;5;0
+NUX;;5;0
+Snobs;Snobs Birmingham;5;0
+The Venue;;5;0
+Studio 1 Nightclub;Studio 1;5;0
+El Barrio;;5;0
+The Tunnels;Tunnels;5;0
+OGV Podium;;5;0
+Subway Cowgate;Movement;5;0
+Home Botanic;;5;0
+Fat Sams;;5;0
+The Vaults;Vaults;5;0
+The Mash House;Mash House;5;0
+La Belle Angèle;;5;0
+The Bridge London;Bridge London|Bridge;5;0
+Mosh;;5;0
+Club Unique;Unique;5;0
+Q's Entertainment;;5;0
+Love 2 Love;;5;0
+Yardbirds Rockclub;;5;0
+SophistiCats;;5;0
+The Duke Box;Duke Box;5;0
+Venue 38;;5;0
+Panacea;;5;0
+Club 601;601;5;0
+University Pitt Club;University Pitt;5;0
+Bacchus;;5;0
+Bedrocks;;5;0
+Holy Diver;;5;0
+The Road House;;5;0
+Villa Mercedes;;5;0
+sleight;;5;0
+The Key Club;Key;5;0
+Stramash;;5;0
+Sub Club;Sub;5;0
+7even;;5;0
+Jako London;Jako;5;0
+Soho Rooms;;5;0
+Chambers;;5;0
+Club Rock;Rock;5;0
+The Tache;Tache;5;0
+Live at Hoots;;5;0
+Decadence;;5;0
+Rascals;;5;0
+The Music Room;Music Room;5;0
+The Level;;5;0
+The Trades;Trades;5;0
+Steph's;;5;0
+Bridge House 2;;5;0
+QI;;5;0
+The Bongo Club;;5;0
+Bodo's Schloss;;5;0
+Flame;;5;0
+Diamond Club;;5;0
+Jps Pat Testing;;5;0
+Nubu;;5;0
+Sixxis;;5;0
+Alpine;;5;0
+Wiggle;;5;0
+The Ranch;Ranch;5;0
+The Astoria;;5;0
+Nocturno;Kooky;5;0
+Golden Bee;Golden Bee Shoreditch;5;0
+The Marcus Garvey Ballroom;Marcus Garvey Ballroom|MG Ballroom;5;0
+Powerhouse;;5;0
+Cavern Club;;5;0
+The Kremlin;;5;0
+Howlers;Madame Koo Hidden Bar;5;0
+Tonteria;;5;0
+Dreadnought Rock;;5;0
+Nu Blu;;5;0
+The Vault;Vault;5;0
+Rendezvous Nightclub;;5;0
+Armstrongs Social Club;Armstrongs;5;0
+The Late Bar;Late Bar;5;0
+Emma's;;5;0
+Studio 9294;;5;0
+Mr Kyps;;5;0
+VFD;;5;0
+0° North;;5;0
+Chichester Jazz Club;Chichester Jazz;5;0
+Milligans Cavern Club;Milligans Cavern;5;0
+The SU;;5;0
+Circuit;Kuda;5;0
+Unit Nine;;5;0
+JD's Nightclub;JD's;5;0
+The Curzon Club;Curzon;5;0
+Piccadilly Institute;;5;0
+Slim Jim's;;5;0
+EVA's;;5;0
+Canvas;;5;0
+Venue Dumfries;;5;0
+Phonox;;5;0
+The Wheelhouse;Wheelhouse;5;0
+Firewater;;5;0
+Beat Generator Live!;;5;0
+Empire;;5;0
+Ko-ko Lounge;;5;0
+Grand Central;;5;0
+Frank & Stein;;5;0
+The Red Room;Red Room|The Ealing club;5;0
+Love and Death Inc;;5;0
+The Dome;Dome;5;0
+Republic;;5;0
+AXM;;5;0
+Truth;;5;0
+Fiction;;5;0
+Envy;;5;0
+Plush;;5;0
+Loco Klub;;5;0
+Always 21;21 Club;5;0
+Club Reina;;5;0
+Vicky Show Bar;;5;0
+The Cuckoo Club;Cuckoo;5;0
+MooMoo;;5;0
+Mint Warehouse;;5;0
+Rosies;Rosies Birmingham;5;0
+Cirque Le Soir;;5;0
+Lennon's Bar;;5;0
+Blackheath Coronation Social Club;Blackheath Coronation;5;0
+Tape London;;5;0
+Trilogy Nightclub;;5;0
+No4 Mayfair;;5;0
+Sugarmill;;5;0
+Reflex;;5;0
+JNX;;5;0
+Pink!;;5;0
+Pulse51;;5;0
+Mirage Club;St James Nightclub;5;0
+Kadie's Club;Kadie's;5;0
+La Vida;;5;0
+Charlie;;5;0
+Queens Hall;;5;0
+V Bar;;5;0
+Brasshouse;;5;0
+Treble;;5;0
+Tup Tup Palace;;5;0
+LRV;;5;0
+Little Buildings;;5;0
+Eastside Jazz Club;Eastside Jazz;5;0
+BEAT London;;5;0
+The Vine;Vine;5;0
+Lola Lo;;5;0
+Solstice;;5;0
+Claptrap;;5;0
+Mama Roux’s;;5;0
+Wulfrun Hall;;5;0
+Blossoms Jungle;;5;0
+The Berkeley Suite;Berkeley Suite;5;0
+La Cheetah Club;La Cheetah;5;0
+2 Pigs;;5;0
+Room 2;;5;0
+Shades;;5;0
+Joe's;;5;0
+Glitter Ball;;5;0
+Cococure;;5;0
+The Fickle Pickle Club;Fickle Pickle;5;0
+The Bridge;;5;0
+Egg London Nightclub;Egg London|Egg;5;0
+Winkers Nightclub;Winkers;5;0
+Y Plas;;5;0
+Legacy Lounge;Greyhound Nightclub;5;0
+200bar;;5;0
+Night Tales;;5;0
+The Ice Factory;Ice Factory;5;0
+Brighton Music Hall;;5;0
+Ma Dame;;5;0
+Tazmental Promotions;;5;0
+The Brickworks;;5;0
+The Exchange;Exchange;5;0
+After 8 Entertainments;;5;0
+The Globe;;5;0
+The Deck;Deck;5;0
+Venue Central;;5;0
+Switch;;5;0
+The View;View;5;0
+Pirana Nightclub;Pirana;5;0
+blagclub Kensington;;5;0
+Halo;;5;0
+Zoo Bar & Club;Zoo Bar &;5;0
+The Engine Shed;Engine Shed;5;0
+LA1;;5;0
+Afrobeats;;5;0
+Dolce Kensington Club;Dolce Kensington;5;0
+Pearl Banqueting Suite;;5;0
+Quarters;;5;0
+Planet;;5;0
+Your Union;;5;0
+Little Civic;;5;0
+Voxa;;5;0
+Pier Pressure;;5;0
+Jimmy Allens;;5;0
+The Hub;Hub;5;0
+FM Karaoke and Disco Club;FM Karaoke and Disco;5;0
+Greys Club;Greys;5;0
+The Foundry;Foundry;5;0
+Le Fez;;5;0
+The Waiting Room;Waiting Room;5;0
+Club Replay;Replay;5;0
+MOTH Club;MOTH;5;0
+Mandarin;;5;0
+Village Later;;5;0
+Samuels Nightclub;Samuels;5;0
+Carbon Nightclub;Carbon;5;0
+Konig;;5;0
+The Roof Club;Bloc;5;0
+YES;;5;0
+Satan's Hollow;;5;0
+The Brink;Brink;5;0
+Roller Nation;;5;0
+Jak's;;5;0
+Void;;5;0
+Baby Platinum;;5;0
+D2;;5;0
+Unit 51;;5;0
+Thirty3Hz;;5;0
+Night Tales Loft;NT's Loft;5;0
+o2 Academy;;5;0
+NME;;5;0
+The Office Nightclub;Office;5;0
+491 Union Street;;5;0
+HMV Empire;;5;0
+Mexborough Civic Hall;;5;0
+Hush Silent Disco;Hush Silent;5;0
+Lafayette;;5;0
+Slay;;5;0
+The Social Club;La Fée;5;0
+Digz;;5;0
+Jungle Nightclub;;5;0
+The Crypt;Crypt;5;0
+One Hundred;;5;0
+ReVA;;5;0
+Stereo;;5;0
+Hazy Club;Hazy|Code;5;0
+Club 701;701|MDM Club;5;0
+Smade Lounge;;5;0
+Diamonds Nightclub;Diamonds;5;0
+54 Liverpool;;5;0
+The Bunker;;5;0
+Arch 12;;5;0
+Ignite Darlington;;5;0
+Jaloux;;5;0
+Dorothy's Showbar;;5;0
+Vybe Bar & Nightclub;Vybe Bar &;5;0
+She Soho;;5;0
+Yokos Nightclub;Yokos;5;0
+Shanghai Club;Shanghai;5;0
+Cocktail Academia;;5;0
+Club Ice Lounge;Ice Lounge;5;0
+Clb Blk;;5;0
+Tide Club;Tide;5;0
+ORB;;5;0
+Hero's Sports Bar & Grill;;5;0
+Venga;;5;0
+Ocean House;;5;0
+baroque bar and nightclub;baroque bar and;5;0
+G82 The Club;G82;5;0
+Project House;;5;0
+Club Era;Era;5;0
+Venue MOT;;5;0
+Firefly;;5;0
+Purple Nightclub;;5;0
+Bistro Live;;5;0
+Alaska - Waterloo;Alaska;5;0
+Chancer's;;5;0
+Club 66;;5;0
+Hush;;5;0
+The Embankment;Embankment;5;0
+Club International;International;5;0
+The Cornish Bank;Cornish Bank;5;0
+Secrets Nightclub;Secrets;5;0
+FOLD;;5;0
+The Poetry Club;Poetry;5;0
+Minds Eye;;5;0
+Green House;;5;0
+La Pollera Colora;;5;0
+The Grace;Grace;5;0
+The Flag;Flag;5;0
+Doncaster Warehouse;;5;0
+Ego Nightclub;;5;0
+Rewind;;5;0
+The Grove;Grove;5;0
+Mojo’s;;5;0
+AK;Above Kerry's;5;0
+Top Secret Comedy Club (23 Kingsway);Top Secret Comedy Club|Top Secret Comedy;5;0
+Talk;;5;0
+Partyland;;5;0
+Sheiks;;5;0
+The Pulpit;Pulpit;5;0
+Bomba;;5;0
+Downstairs at The Dome;;5;0
+Off the Square;;5;0
+Hidden;;5;0
+1520 Studios;;5;0
+Aatma;;5;0
+Beaver Works;;5;0
+Low Profile Studios;;5;0
+Club KA;;5;0
+Freedom Mills;;5;0
+E1;;5;0
+404 Club Not Found;;5;0
+Liquid Club & Lava Lounge;;5;0
+Club ZarZar;ZarZar;5;0
+Houston's Pool Party Pizza;;5;0
+N/OM;;5;0
+Wilton Fields;;5;0
+De Vito’s;;5;0
+Kudos;;5;0
+Zues;;5;0
+The Attic;Attic;5;0
+People's Leisure Club;People's Leisure;5;0
+The Blue Note;;5;0
+Club 49;;5;0
+Fire London;;5;0
+idra;;5;0
+Prism;;5;0
+Pasha;;5;0
+Under the Prom;;5;0
+Mainstreet Nightclub;Mainstreet;5;0
+Borondo;;5;0
+Orangutan Bunker;;5;0
+Palais;;5;0
+Angel;;5;0
+Casa Ultima;;5;0
+Home;;5;0
+Quarter25;;5;0
+Ronnie Scott's Jazz Club;Ronnie Scott's Jazz;5;0
+Milk and Honey;;5;0
+The Jazz Cafe;Jazz Cafe;5;0
+Chicago's;;5;0
+Club 051;051;5;0
+Venom;;5;0
+Bournbrook and Selly Oak Social Club;Bournbrook and Selly Oak;5;0
+Langley Hall Social Club;Langley Hall;5;0
+Grange Social Club;;5;0
+Lea Hall Sports and Social Club;Lea Hall Sports and;5;0
+Pussycat Nightclub;Pussycat;5;0
+Network;;5;0
+Moseley All Services Club;Moseley All Services;5;0
+Ivy Leaf Sports & Social Club;Ivy Leaf Sports &;5;0
+The Embassy;Embassy;5;0
+The Laurels;Laurels;5;0
+53 Degrees;;5;0
+Air;;5;0
+The Night Owl;Night Owl;5;0
+Maitland Hall;;5;0
+Playhouse Gentlmens Club;Playhouse Gentlmens;5;0
+Kings Heath Cricket and Sports Club;Kings Heath Cricket and Sports;5;0
+Bordesley Labour Club;Bordesley Labour;5;0
+Circus Tavern;;5;0
+Genting Casino;;5;0
+HGCC Social Club;HGCC;5;0
+Vaughan's Private Members Club;Vaughan's Private Members;5;0
+Station Inn;;5;0
+Royal British Legion;;5;0
+Thekla;;5;0
+Corporation;Corp;5;0
+The Jam House;Jam House;5;0
+The Wobbly Goblin;Wobbly Goblin;5;0
+Ku Bar;;5;0
+Rock City;;5;0
+Suede;;5;0
+Dempsey's;;5;0
+Electric Studios;;5;0
+Klute;;5;0
+Viper Rooms;;5;0
+Crystal Bar;CNTRL;5;0
+E57 Social Club;E57;5;0
+Capones;;5;0
+Kings Norton Ex-Servicemens Club;Kings Norton Ex-Servicemens;5;0
+Cotteridge Social Club;Cotteridge;5;0
+Status Party Rooms;;5;0
+Shirley Royal British Legion Club;Shirley Royal British Legion;5;0
+Jynx Bar & Nightclub;Jynx Bar &;5;0
+Gemini;;5;0
+Stirchley United;;5;0
+Harborne Village Social Club;Harborne Village;5;0
+Albany Social Club Ltd;;5;0
+Unit 7;;5;0
+Astons Late Bar;;5;0
+Ng-One;;5;0
+XOXO;;5;0
+Nine;Revolución de Cuba;5;0
+Shard End No 1 Royal British Legion Club;Shard End No 1 Royal British Legion;5;0
+Fiddlers Club;Fiddlers;5;0
+Shard End Social Club;Shard End;5;0
+BLISS Bridgwater;BLISS;5;0
+The Palace;;5;0
+The Emperors Lounge;Emperors Lounge;5;0
+The Platform (UoN Student Union);The Platform|Platform (UoN Student Union)|Platform;5;0
+Golf Fang;;5;0
+Club Revenge;Revenge;5;0
+Avenue Members Club;Avenue Members;5;0
+Hay Mills Social Club;Hay Mills;5;0
+Maniqui;;5;0
+Club Chemistry;Chemistry;5;0
+Coton & Hopwas Social Club;Coton & Hopwas;5;0
+Brannigans;;5;0
+Manhattans;;5;0
+Jacks Club;Jacks;5;0
+Kooky Nightclub;;5;0
+XOYO;;5;0
+Bartley Green Social Club;Bartley Green;5;0
+Basement Club;;5;0
+5 Rivers;;5;0
+West Heath Snooker Club;West Heath Snooker;5;0
+The Remembrance Club Ltd;Remembrance Club Ltd;5;0
+York Road Sport & Social Club;York Road Sport &;5;0
+The Firs Members Club;Firs Members;5;0
+Bromford Residents Club;Bromford Residents;5;0
+Bromford Bridge Members Club;Bromford Bridge Members;5;0
+Club Veeda;Veeda;5;0
+Basing House;;5;0
+Wunderbar;Wunderbar West End|The Sanctuary;5;0
+Jesters;;5;0
+Warehouse 34;;5;0
+Cafe Parfait;;5;0
+Budda Lounge;;5;0
+Ink;;5;0
+Bar & Beyond;;5;0
+Gibsons;;5;0
+Shoreditch Townhouse;;5;0
+Coleshill & District Social Club;Coleshill & District;5;0
+Brookvale Social Club;Brookvale;5;0
+Desire Nightclub;Desire;5;0
+Reel Nightclub;Reel;5;0
+Suburbia;;5;0
+Victory Club;Victory;5;0
+The White Swan;White Swan;5;0
+Troxy;;5;0
+Timepiece;;5;0
+Deco;;5;0
+Chelmsley Wood Royal British Legion Club;Chelmsley Wood Royal British Legion;5;0
+Camp and Furnace;;5;0
+The Granaries;Granaries;5;0
+Palm Beach Club;Palm Beach;5;0
+The Buttermarket;Buttermarket;5;0
+Village Underground;;5;0
+Living Room (At the Chiswick);;5;0
+Kasbah;;5;0
+Stealth;;5;0
+Club 147;147;5;0
+Alvechurch Sports & Social Club;Alvechurch Sports &;5;0
+The Arcadia;Arcadia;5;0
+Moka and Shack;;5;0
+The Hanbury;Hanbury|Sassoon Mausoleum;5;0
+Old School House;;5;0
+Shakers;;5;0
+Level 33;;5;0
+The Depo;Depo;5;0
+Warwick Conservative Club;Warwick Conservative;5;0
+Fillongley Social Club;Fillongley;5;0
+La Rocca;;5;0
+Club LQD;LQD;5;0
+Sense Nightclub;Sense;5;0
+The Limelight;;5;0
+WS1;;5;0
+Lizard Lounge;;5;0
+Pink Toothbrush;;5;0
+24 Kitchen Street;;5;0
+Café 1001;;5;0
+Redland Club;Redland;5;0
+Independence;;5;0
+Moochers;;5;0
+Red Door;Cruise Chester;5;0
+PST;;5;0
+The Mayfair Club;Mayfair;5;0
+Blame Gloria;;5;0
+Marilyns;Crown Hotel;5;0
+The Chapel;Chapel;5;0
+Basement 45;;5;0
+The Music Box;;5;0
+The Electric Club;Electric;5;0
+Jones Road WMC;;5;0
+Kayote Bar;;5;0
+The Finkle;Finkle;5;0
+Club Atomic;Atomic;5;0
+Machen Workingmen's Club;Machen Workingmen's;5;0
+kukui;;5;0
+North Shore;;5;0
+Level 2 Nightclub;Level 2;5;0
+Vivaz;;5;0
+Lexis;;5;0
+The Asylum;Asylum;5;0
+Priory;;5;0
+Pavilion;;5;0
+The Knights;Knights;5;0
+Townsend Social Club;Townsend;5;0
+Bar Boujie;;5;0
+CoCo Che Bar;;5;0
+Obsession Club;;5;0
+Sandy Cove Club;Sandy Cove;5;0
+Natitude;;5;0
+Tudor Rose;;5;0
+La Sureña;;5;0
+Ski Bar;;5;0
+Fire;;5;0
+Elegance;;5;0
+The Glasshouse;Glasshouse;5;0
+The Waterfront;Waterfront;5;0
+The Portland Club;Portland;5;0
+Middlesbrough Empire;;5;0
+Illuminati;Mauretania;5;0
+industry;;5;0
+The Association;Association;5;0
+Alibi;;5;0
+Parkes Hall Social Club;Parkes Hall;5;0
+The Emporium;Emporium;5;0
+Tubes;;5;0
+The Sugarhouse;Sugarhouse;5;0
+Labyrinth Nightclub;;5;0
+Queenshilling;The Shilling;5;0
+Wootton Wawen Social Club;Wootton Wawen;5;0
+Clock Factory;;5;0
+Decades Bar & Club;Decades Bar &;5;0
+Dalston Superstore;;5;0
+Ruby's Bar and Nightclub;Ruby's Bar and|Ruby's;5;0
+Engine Rooms;;5;0
+Apollo Bingo;;5;0
+Patterns;;5;0
+The Foxy;Foxy;5;0
+West Indian Club;West Indian;5;0
+The Broadway;Broadway;5;0
+Chalk;;5;0
+Studio 338;;5;0
+Scholars;;5;0
+Boom Box;;5;0
+United Services Club;United Services;5;0
+Afterdark;;5;0
+Delaney's;;5;0
+Strange Brew;;5;0
+CMYK;;5;0
+Molto;;5;0
+Dare To;;5;0
+TIME Bar & Venue;;5;0
+Toyko Lincoln;Toyko;5;0
+Gabs;;5;0
+Zed Alley;;5;0
+Twilight;;5;0
+Redon;;5;0
+The Glove That Fits;Glove That Fits;5;0
+Adam's Lounge;;5;0
+Skinandi's;;5;0
+Rivals;;5;0
+ViViD Nightclub;ViViD;5;0
+Harbury Village Club;Harbury Village;5;0
+Bar Diva;;5;0
+The Boogie Lounge;Boogie Lounge;5;0
+Sugarcubes;;5;0
+Club Cassius;Cassius;5;0
+Trebles;;5;0
+Afrobeats Bar Nightclub;Afrobeats Bar;5;0
+Tabu;;5;0
+The Scene;;5;0
+Mojito;;5;0
+Bigfellas;;5;0
+Ocean Rooms;;5;0
+Arts Club;Arts;5;0
+The Pheasantry;Pheasantry;5;0
+Raffles Chelsea;;5;0
+Sync Nghtclub;;5;0
+Temptations;;5;0
+Aria's Nightclub;Aria's;5;0
+Images;;5;0
+Nightingale Club;Nightingale;5;0
+Boltz;Amusement 13;5;0
+Pure Lounge Club;Pure Lounge;5;0
+PJ's;DV8;5;0
+Studio 27;;5;0
+The Kings;;5;0
+Hooley's;;5;0
+Club Inferno;;5;0
+The Association Nightclub;Cock Hotel/Association;5;0
+Platform 11;;5;0
+The Closet;Closet;5;0
+Sound Circus Alternative Bar;;5;0
+Lexx Jerkz Bar & Grill;;5;0
+Plot 22;;5;0
+Havanna Club;Havanna;5;0
+Joanna's Nightclub;Joanna's;5;0
+Downtown USA;;5;0
+GBar;;5;0
+Sin City;;5;0
+Zambezi Lounge;;5;0
+Renoirs;Renoirs & Rouge;5;0
+Eric's;;5;0
+Yellow Arch Studios;;5;0
+Red Buddha;;5;0
+Flares / Popworld;;5;0
+Club XS;;5;0
+Lagos Lounge;;5;0
+Lemonshed;;5;0
+Fuel;;5;0
+Discoteca No Problem;No Problem;5;0
+Birdies;;5;0
+Roxy Ballroom Digbeth;;5;0
+Palace Nightclub;;5;0
+Ebgbs;;5;0
+Ink Bar;;5;0
+Haus;;5;0
+Club Mambo;;5;0
+Kellys Complex;;5;0
+Power Lounge;;5;0
+Reids;;5;0
+Club Eden;;5;0
+West Street Live;;5;0
+Sage;;5;0
+Out out Ibiza;;5;0
+Gloves Off;;5;0
+Sky Lounge;;5;0
+Bar Republiq;;5;0
+Camel Bar;;5;0
+Sonny's Speakeasy;;5;0
+Disgraceland;;5;0
+The Academy;Academy;5;0
+Electrik Warehouse;;5;0
+Crafty Cove;;5;0
+The Tivoli;Tivoli;5;0
+The Bear Club;Bear;5;0
+Ruby Lounge;;5;0
+The Foyer;Foyer;5;0
+Liberty Club (Grill & Bistro);Liberty Club|648;5;0
+Villa Nightclub;;5;0
+Party Bar;;5;0
+Sugar Hut;;5;0
+The Keys Nightclub;Keys;5;0
+Cheekiez;;5;0
+Suki10c;;5;0
+Club M;;5;0
+Secrets Lapdancing;;5;0
+Angels Lapdancing;;5;0
+The Claremount;Claremount;5;0
+Creation;;5;0
+Toffs;;5;0
+HMV Soundgarden;;5;0
+D-Two;;5;0
+Rain;;5;0
+Tamango;;5;0
+Vibe The Courtyard;;5;0
+Nightowls;;5;0
+Molly's;;5;0
+Sixth;;5;0
+Jumpin' Jacks;;5;0
+Cartown;;5;0
+Sinnotts;;5;0
+Angel Lane Night Club;Angel Lane;5;0
+The Purty Loft;Purty Loft;5;0
+Benedicts;;5;0
+The Avenue;Avenue;5;0
+Everleigh Garden;;5;0
+The Factory Nightclub;;5;0
+Masons;;5;0
+SG1 Nightclub;SG1;5;0
+Smyth’s Bar;;5;0
+House Dublin;;5;0
+Switch Nightclub;;5;0
+Queens NightClub;;5;0
+Voodoo Rooms;;5;0
+The Phoenix;;5;0
+Fitzsimons;;5;0
+The Clubhouse;;5;0
+DNA;;5;0
+Fitzgerald's;;5;0
+Paddy Sheehan's Bar;;5;0
+Project;;5;0
+The Tower and Foundry;Tower and Foundry;5;0
+Rev Discos;;5;0
+Glow;;5;0
+The Beacon;Beacon;5;0
+Melba's Nightclub;Melba's;5;0
+Spy;;5;0
+Angel's;;5;0
+Keanes Music Venue;;5;0
+Cyprus Avenue;;5;0
+Wilde;;5;0
+The Secret Garden;;5;0
+Index Dublin;;5;0
+Yamamori Tengu;;5;0
+Tul na Rí;;5;0
+Social15;Sºcial15;5;0
+McSorleys;;5;0
+The Grill Nightclub;Grill;5;0
+The Pulse Niteclub;Pulse Niteclub;5;0
+Planxty Maguires;;5;0
+Silent;;5;0
+The Lane Club;Lane;5;0
+Tabu Nightclub and Venue;;5;0
+Smugglers;;5;0
+The Farnham Venue;Farnham Venue;5;0
+Panama;;5;0
+Club Gossip;;5;0
+Lorre;;5;0
+Winston;;5;0
+Café 't Centrum - van Melzen;Café 't Centrum;5;0
+De Hut van Ome Henne;;5;0
+Campo Alegre;;5;0
+Callisto;;5;0
+K-Sjot;;5;0
+Heeren van Aemstel;;5;0
+De Carrousel;;5;0
+Babbels;;5;0
+G-Spot;;5;0
+Club 24;;5;0
+El Punto Latino;;5;0
+Suprise Bar;;5;0
+Brasil Music Bar;;5;0
+Cooldown Cafe Rembrandtplein;;5;0
+Jantjes Verjaardag;;5;0
+Club Bordeaux;Bordeaux;5;0
+History;;5;0
+De Trut;;5;0
+Club Church;Church;5;0
+Studentendiscotheek Bikini;;5;0
+Jimmy Woo;;5;0
+The Pilot;Pilot;5;0
+Club Candela;Candela;5;0
+Kafe Domburg;Kafe;5;0
+Amused;;5;0
+Club Poema;Poema;5;0
+Club Puck;Puck;5;0
+Still Desire;;5;0
+Club Clare;Clare;5;0
+Munch;;5;0
+The VIP Room;VIP Room;5;0
+zaax;;5;0
+After Nine;;5;0
+Lucky The Feel Good Provider;;5;0
+22-24 Club & Event;;5;0
+The Old Irish Pub;Old Irish Pub;5;0
+Partypub 'De Albatros';;5;0
+Basis;;5;0
+De Vriendenclub;;5;0
+Woolloomooloo;;5;0
+De Overkant;;5;0
+Lounge Li;;5;0
+Club Gewoon;Gewoon;5;0
+Danzig;;5;0
+Paard;;5;0
+Kabul à GoGo;;5;0
+Magistrat;;5;0
+27;;5;0
+Willemeen;;5;0
+Club Reeperbahn;Reeperbahn;5;0
+Poppodium WPC Nederland Drie;;5;0
+Club Westwood;Westwood;5;0
+Club Baron Breda;Baron Breda|Baron;5;0
+Flavours Lounge;;5;0
+Toekomstmuziek;;5;0
+De Speye;;5;0
+Poppodium De Beuk;;5;0
+Poppodium Simplon;;5;0
+FIXY;;5;0
+Donovan's;;5;0
+Pitchers Bar;;5;0
+Wyb;;5;0
+Club Famous;Famous;5;0
+Petticoat;;5;0
+Thomas;;5;0
+Club Blush;;5;0
+Sgt Peppers;;5;0
+Club Xi;;5;0
+Antia;;5;0
+Danscafé High5 Enschede;Danscafé High5;5;0
+So What!;;5;0
+Radio Radio;;5;0
+Dieka;;5;0
+De Nul;;5;0
+Club dancing Karma;dancing Karma;5;0
+Studio Gonz;;5;0
+Lunenburg;;5;0
+Café Cliniq;;5;0
+La Costera;;5;0
+Pinky;;5;0
+Complex Maastricht;;5;0
+Elsom;;5;0
+D'n Bonn;;5;0
+The Saloon;Saloon;5;0
+El Corazon;;5;0
+Dancing Housmans;;5;0
+Club LV;;5;0
+Jeugdsociëteit Meddle;;5;0
+Bon Bini;;5;0
+Cul de Sac;;5;0
+The Dance Factory;Dance Factory;5;0
+Club Smederij;Smederij;5;0
+Club Jack;Jack;5;0
+De Mona;;5;0
+'t Honk;;5;0
+Club The Safe;The Safe;5;0
+The Spot;;5;0
+Partycentrum De Ster;;5;0
+Discotheek Oscarson;Oscarson;5;0
+Cafe 't Schuttershof;;5;0
+Casino Sassenheim;Casino;5;0
+Fissa Uden;Fissa;5;0
+International Club;;5;0
+Time Out;;5;0
+Club Adam en Eva;Adam en Eva;5;0
+SHOTS Hilversum;;5;0
+Disco Xinix;Xinix;5;0
+Club Façade;Façade;5;0
+Spetters;;5;0
+Arcade;;5;0
+Storm;;5;0
+Club Lustig;Lustig;5;0
+Annabel;;5;0
+Excelsior;;5;0
+Club Bright;Bright;5;0
+The Pleasure Zone;Pleasure Zone;5;0
+Oka 18;;5;0
+Radion;;5;0
+Champino;;5;0
+Feu;;5;0
+De Swetser;;5;0
+De Olde Beth;;5;0
+Cage Night Club;;5;0
+De Lantaarn;;5;0
+Iduna Poppodium;;5;0
+Club NYX;;5;0
+Mahogany Hall;;5;0
+Odessa;;5;0
+Club Dims;Dims;5;0
+Wolter Wolthers;;5;0
+De Peppel;;5;0
+Sur;;5;0
+PIP Den Haag;;5;0
+Ruby;;5;0
+Sissi's Amsterdam;Sissi's;5;0
+Bruins;;5;0
+Club Hifi;;5;0
+Fluor;;5;0
+EM2;;5;0
+Villa Thalia;;5;0
+Theater 97;;5;0
+The Underground;;5;0
+ClubNL;;5;0
+tuftuf;;5;0
+Garage Noord;;5;0
+Danscafé Molly's;;5;0
+Kaya Kaya Latin Bodega;;5;0
+Super Disco;;5;0
+Ferry;;5;0
+Doma Club;Doma;5;0
+Dnice;;5;0
+Za;;5;0
+Hoop;;5;0
+Party Centrum Rendering;;5;0
+Golden Dolls;;5;0
+Club Up;;5;0
+John Doe;;5;0
+Roto Maastricht;;5;0
+Chin Chin Club;Chin Chin;5;0
+Club Laak;Laak;5;0
+Let's Play Live;;5;0
+Parallel;;5;0
+The Other Side;Other Side;5;0
+The All Out;All Out;5;0
+Club RAUM;RAUM;5;0
+Aspen Valley;;5;0
+5th Avenue;;5;0
+Freaky Pianobar;;5;0
+RGB Bar Enschede;;5;0
+Gusto;;5;0
+Club Silva;Silva;5;0
+Metropool;;5;0
+Discotheek El Toro;El Toro;5;0
+Bada Bing Adult Entertainment;;5;0
+Son Latino;;5;0
+Club Carolina Adult Entertainment;Carolina Adult Entertainment;5;0
+El Capitan Adult Entertainment;;5;0
+Latin Caribbean Night;;5;0
+Tumazu;;5;0
+Tituana;;5;0
+Kiss Me Nightclub;Kiss Me;5;0
+Caracas Medellin Cali;;5;0
+Bimbo Place;;5;0
+Sabor y Rumba;;5;0
+Café Capri;;5;0
+Club Double Play;Double Play;5;0
+TMF Music Cafe;;5;0
+Club Elevate;Elevate;5;0
+Hofi Bill;;5;0
+Bananas Nightclub;;5;0
+Shofo Pet House;;5;0
+Club de Leglo;de Leglo;5;0
+Gimmy's Place;;5;0
+Casablanca / Mirage;;5;0
+Emporio Curaçao;;5;0
+Mirano Brussels;;5;0
+Oud België;;5;0
+Star;;5;0
+Jimmy's Club;Jimmy's;5;0
+Willy's Moustache;;5;0
+Discotheek Millenium;;5;0
+L'Edel, lounge bar;;5;0
+Doktor Jack;;5;0
+Napoleon Games;;5;0
+Club Donna;Donna;5;0
+Club Royal;;5;0
+Boccaccio East;;5;0
+Exxit;;5;0
+Flight 90;;5;0
+Club Riba;Riba;5;0
+JH Zenith;;5;0
+Cercle Industriel;CI;5;0
+Danscentrum Salsa Azúcar;;5;0
+Budha Beach;;5;0
+White Cat;;5;0
+Cap'tain;;5;0
+Rumba & Co;;5;0
+Carrément Lounge;;5;0
+The Boys;Boys;5;0
+Fuifzaal Albatros;;5;0
+Lindbergh Club;Lindbergh;5;0
+Premium;;5;0
+Club Montreal;Montreal;5;0
+'t Archief;;5;0
+Nostalgia;;5;0
+Cargo Club;Red&Blue;5;0
+Dancing Alphorn;;5;0
+Bunker (UNamur);;5;0
+The Villa;The Villa Antwerp;5;0
+Cercle Agro;Agro;5;0
+Maison des Sciences;MdS;5;0
+Club Vaag;Vaag;5;0
+Jeugdhuis Opsenter;;5;0
+Birdy;Le Birdy Brussel;5;0
+The UpClub;UpClub;5;0
+'t Nivo;;5;0
+Cuba Bella;;5;0
+Oude Vismijn Feestzalen;;5;0
+Club Central;;5;0
+La Loco Discothèque;;5;0
+Bunker 98;;5;0
+The Boots;Boots;5;0
+Ampere Antwerpen;Ampere;5;0
+Le 144;;5;0
+Enfin;;5;0
+Club 40 Antwerp;40 Antwerp;5;0
+Le You;;5;0
+Hells Angels Mc Ghent;;5;0
+Le Come-Back;;5;0
+The Possé;Possé;5;0
+Tipsy's;;5;0
+Club 69;;5;0
+B-Bar;;5;0
+Circosia;;5;0
+Cercle FLTR;Philo et Lettres;5;0
+Cercle Mémé;Royal Cercle Médical Saint-Luc|Mémé;5;0
+Cercle Pharma;Pharma;5;0
+Cercle Spix;Spix;5;0
+Scoop;;5;0
+L'Interdit;;5;0
+Bloody Louis;;5;0
+Di Borgia;;5;0
+Jome;;5;0
+Stelplaats;;5;0
+C12;;5;0
+Mani;;5;0
+Chez Adèle;Adèle;5;0
+Cesec;;5;0
+Coq Hardy;Petite Casa;5;0
+Cercle Carolo;Carolo;5;0
+Grand-Ducale;;5;0
+Cercle Psycho;Psycho;5;0
+Vanity Club Lounge;;5;0
+Marmite;;5;0
+UMI;;5;0
+After Room;;5;0
+Twilight Cafe;;5;0
+Bazaar;;5;0
+Blu Bruxelles;;5;0
+Fuse;;5;0
+Dulci;;5;0
+Bar Linni;;5;0
+Society Boiler Club;Society Boiler;5;0
+Rotana Club;Rotana;5;0
+Decadance;;5;0
+D'Olierave;;5;0
+Cactus Club;;5;0
+Claridge;Chez Jonny;5;0
+Le Grand Mambo;;5;0
+B21;;5;0
+Comme ça;;5;0
+LIFT;;5;0
+Les Jeux d'Hiver;;5;0
+Mac Queen;;5;0
+Club Xendo;Xendo;5;0
+Fabriekspand;;5;0
+Cosmo;;5;0
+Nijdrop;;5;0
+Flagrant Delire;;5;0
+Cap30;;5;0
+Club Lautrec;Lautrec;5;0
+Acte 6;;5;0
+Dancehall Diest;Dancehall;5;0
+Le Rockerill;;5;0
+Kress Club;Kress;5;0
+Cobra-deluxe;;5;0
+Het Veerhuis;;5;0
+Dancing Grand prix;;5;0
+Dancing Astrid;;5;0
+Madame Moustache;;5;0
+D-Clic;;5;0
+Discotheek De Kroon;De Kroon;5;0
+Futur;;5;0
+Only 4 You;;5;0
+Sotto's;;5;0
+Quinta-Club;;5;0
+Hoeve Bornedries Parenclub;;5;0
+Carré;;5;0
+Kokorico;;5;0
+Discotheek t Raedtshof;t Raedtshof;5;0
+Club Amai;Amai;5;0
+'t Fortuin;;5;0
+The missing link;missing link;5;0
+The Legend;;5;0
+De Chardon;;5;0
+Casa 32;;5;0
+Mabuhay Privaat Club;Mabuhay Privaat;5;0
+Le Blé d'Or;;5;0
+Ikona;;5;0
+Le Trébuchet;;5;0
+Chapter 4;;5;0
+Dancing Le Rianfra;;5;0
+Dancing Karrewiel;;5;0
+Melusina;;5;0
+New Oldie;;5;0
+Gotham;;5;0
+Le Mouton Noir;;5;0
+El Chapito;;5;0
+Lenox;;5;0
+Joya Club & Restaurznt;;5;0
+Les Bains Luxembourg;Les Bains;5;0
+Verso;;5;0
+Jacob's;;5;0
+Encore;;5;0
+Apoteca;;5;0
+Zulu;;5;0
+Terrassen;;5;0
+Hits For You;;5;0
+Bilagan;;5;0
+Cinco;;5;0
+Rose;;5;0
+Berns;;5;0
+Spy Bar;;5;0
+Fasching;;5;0
+Arbis;;5;0
+Hummelgrund;;5;0
+Kulturbolaget;;5;0
+Golden Hits;;5;0
+Nivå 22;;5;0
+Södra Bar;;5;0
+Guldapan;;5;0
+Wallmans Golden Hits;;5;0
+Klubb Blå;;5;0
+Olivia;;5;0
+Sandra;;5;0
+Patricia;;5;0
+Lotus;;5;0
+Slakthuset;;5;0
+Baras ställe;;5;0
+Puls;Otten;5;0
+Solo;;5;0
+Staybar;;5;0
+T-Bar;;5;0
+Bar á Bar;;5;0
+Niteclub Oscar;;5;0
+Kolingen;;5;0
+Trädgården;;5;0
+Fou;;5;0
+The Parlour;Parlour;5;0
+8Ight;;5;0
+Excet;;5;0
+Valand;;5;0
+Etage Kök & Bar;;5;0
+Stuk;;5;0
+Babel;;5;0
+Insikten;;5;0
+Ritz;;5;0
+Karlssons salonger;;5;0
+Breeze bar & nightclub;Breeze bar &;5;0
+Sigges loge;;5;0
+SLM Stockholm;;5;0
+Plantis;;5;0
+Inkonst;;5;0
+Solidaritet Arema;;5;0
+Publik;;5;0
+Strandpaviljongen;;5;0
+Halmstad Live;;5;0
+Push;;5;0
+Millners;;5;0
+Lounge(s);;5;0
+Vävaren;;5;0
+Rouge;;5;0
+Verandan;;5;0
+Backdoor;;5;0
+Debaser;;5;0
+Zatine;;5;0
+Kullaberg;;5;0
+Nefertiti Jazz Club;Nefertiti Jazz;5;0
+Slaktkyrkan;;5;0
+Boom Boom Room;;5;0
+babar;;5;0
+Stage;;5;0
+Smålands Nation;;5;0
+Mr French;;5;0
+Club Deluxe;;5;0
+Hus 7;;5;0
+Moriska Paviljongen;;5;0
+S2;;5;0
+Kårhuset Boulogner;;5;0
+Etage;;5;0
+Balders Hage Nöje;;5;0
+House of Q;;5;0
+Nya Vall;;5;0
+Trädgår'n;;5;0
+Birger Jarl;;5;0
+Jägersbo;;5;0
+Slottsstallarna;;5;0
+Sivans Studentpub;;5;0
+Flustret;Flurran;5;0
+Göteborgs nation nattklubb nummer femton;;5;0
+Stavkroa;;5;0
+Rebell;;5;0
+Heidi’s Bier Bar;;5;0
+Me nightclub;;5;0
+Hexagon;;5;0
+Bytunet Nattklubb;;5;0
+Feliz;;5;0
+Heidi's Bier Bar Bergen;;5;0
+Hippo Social;;5;0
+Mabou;Mabou Café & Bar;5;0
+Public;;5;0
+Norlænningen;;5;0
+Studio 26;;5;0
+Dreams Showbar Trondheim;;5;0
+Wildside;;5;0
+Central Scene;;5;0
+Fire Fine;;5;0
+Lille;;5;0
+Bryggen Nightclub;Bryggen;5;0
+Østre;;5;0
+Lille Ole Bull;;5;0
+Blå;;5;0
+Ingensteds;;5;0
+Foynhagen;;5;0
+Kava Roofgarden;;5;0
+Lokalet;;5;0
+Villa 22 - Bar Negroni;Villa 22;5;0
+Villa 22 - Nattbar;;5;0
+Dama di;;5;0
+Lou Lou;;5;0
+Galeien;;5;0
+sub.scene;;5;0
+Ellies;;5;0
+Club Kaos;Kaos;5;0
+Faksen Bar;;5;0
+IVY;;5;0
+Lawo;;5;0
+Club Infinity;;5;0
+ElgElg;;5;0
+Rockeklubben I Porsgrunn;;5;0
+Rebel;;5;0
+Justisen;;5;0
+Oslo BDSM - Nonna;Oslo BDSM;5;0
+Elsker;;5;0
+Kakadu Bar;;5;0
+Maxims;;5;0
+Boogie Dance Cafe;;5;0
+Club Treasure;Treasure;5;0
+Månen;;5;0
+Tordenskjold Kolding;Tordenskiold Kolding;5;0
+Andelen;;5;0
+Crazy Daisy;;5;0
+Loppen;;5;0
+Ideal bar;;5;0
+Rust;;5;0
+Den Røde Baron;;5;0
+Duke;;5;0
+Buddy Holly;;5;0
+Submarina;;5;0
+Copenhagen Coyote Club;Copenhagen Coyote;5;0
+Karel van Mander;;5;0
+Copenhagen Redlight;;5;0
+Café Paradis;Den Sidste;5;0
+Baggen;;5;0
+Box54;Cocktail Box;5;0
+Amager Bio;;5;0
+Pigen og Trompeten;;5;0
+Zwei Grosse;Zwei Große;5;0
+Gårdhave;;5;0
+Damhus Kroen;;5;0
+Rustik - Bar & Natklub;Rustik;5;0
+Jolene;;5;0
+SOHO Food Lounge Music;SOHO Roskilde;5;0
+CasaV58;;5;0
+Beta House;;5;0
+Gl havn;Restaurant Gl. Havn;5;0
+Chateau Motel;;5;0
+Cph Deep;;5;0
+Sigurdsgade;;5;0
+Dansebar Roskilde;;5;0
+Chateau Motel Natclub;;5;0
+Haze Nightclub;Haze;5;0
+Garbos;;5;0
+Gammel Torv;;5;0
+Club Zanzi;Zanzi;5;0
+Dorsia;;5;0
+Shakespeare Nightclub;;5;0
+Sölibat Horsens Diskotek & Bar;;5;0
+Pioner Bar;;5;0
+M6 cocktailbar;;5;0
+Slagteriet Nat;;5;0
+HeadQuarters;;5;0
+Havana Skive;;5;0
+Culture Box;;5;0
+Diskotek Nattergalen;Nattergalen Hadsund;5;0
+Alexandra;;5;0
+Storm P;;5;0
+Musikklubben Jazzværket;;5;0
+High Voltage Copenhagen;;5;0
+Kælderen;;5;0
+Butchers;;5;0
+Posten;;5;0
+Kansas City;;5;0
+Infinity Club;;5;0
+Proud Mary Pub;;5;0
+Motopol;;5;0
+Rocken;Musikkælderen;5;0
+HomeRun;;5;0
+Kalas;Kalas Nightclub;5;0
+Club K52;K52;5;0
+Zebra Bar;;5;0
+Under Buret;;5;0
+Freddies;;5;0
+Hemingways Svendborg;;5;0
+Mantra Club&Bar;;5;0
+Module;;5;0
+Hangaren;;5;0
+A R C H Copenhagen;;5;0
+The Bank;Bank|The Bank Entertainment;5;0
+Camp Idiot;;5;0
+Zwei Grosse Bier Bar;;5;0
+BarMix;;5;0
+mBAR;;5;0
+Dødsmaskinen;;5;0
+Buddy Holly Hjørring;;5;0
+Doktor Emil Laboratorium;Dr. Emil's Laboratorium;5;0
+The Rock;;5;0
+Marilyn;;5;0
+Dynamo;;5;0
+Yo-talo;;5;0
+Socis;;5;0
+Alcatraz Club;;5;0
+Fontanaclub;;5;0
+Tulenliekki;;5;0
+Hullu Poro;;5;0
+Hipun kellari;;5;0
+Vastavirta;;5;0
+Viihdemaailma Ilona;;5;0
+Kaarlenholvi;;5;0
+West Coast;;5;0
+Ilona;;5;0
+Lumo Nightclub;Lumo|Nightclub Lumo;5;0
+Apollo Live Club;Apollo Live;5;0
+Domino Nightclub;Domino;5;0
+Roy Club;Roy|Roippari;5;0
+Luck Lady;;5;0
+Onnela;;5;0
+Armas;;5;0
+Lahden Seurahuone;;5;0
+DOM Mikkeli;DOM;5;0
+Night Club Pirtukellari;Pirtukellari;5;0
+Moody Music & Dancing;;5;0
+Karaoke Nighclub Swengi;;5;0
+Crocodile bar;;5;0
+Kuudes linja;;5;0
+Siltanen;;5;0
+Doris;;5;0
+Kaarle XII;;5;0
+Karaoke Bar;;5;0
+Yökerho Iisoppi;;5;0
+Status;;5;0
+Charlotta;;5;0
+Semifinal;;5;0
+Tavastia Klubi;;5;0
+El Patron;;5;0
+Panama Bar & K-Night Club;Panama Bar & K-Night;5;0
+Heidi’s Bier Bar Helsinki;LeBonk;5;0
+Punainen Lyhty;;5;0
+Kaiku;;5;0
+Lammin Hovi;;5;0
+Taika;;5;0
+Kino;;5;0
+Forte;;5;0
+Bar Ihku;;5;0
+Ääniwalli;;5;0
+Yökerho Bluesmoon;;5;0
+Nightclub Mixei;Mixei;5;0
+Club Venla;Venla;5;0
+Kerubi;;5;0
+Bepop;;5;0
+Marks Rock Club;Marks Rock;5;0
+Cella Nova;;5;0
+Tulisuudelma;;5;0
+G Livelab;;5;0
+Le Bloom;;5;0
+Olympia Kortteli;;5;0
+Teatro;;5;0
+Aulanko Areena;;5;0
+Club 96;;5;0
+Emilia Klubi;;5;0
+Iskelmäbaari;Crème Bar & Nightclub;5;0
+The Black Hole;Black Hole|Club Tequila Sunrise;5;0
+Maxine;;5;0
+Oliver's Corner;;5;0
+Disco Paradise;;5;0
+Duetto;;5;0
+NightCat;;5;0
+Jatkoaika;;5;0
+Z-one;;5;0
+O'harrys;;5;0
+Lola Club;;5;0
+Arena Club Karkkila;Arena Club;5;0
+Ravintola Fennia;;5;0
+SunTown Night Club;SunTown;5;0
+Club Labra;Labra;5;0
+Las Palmas;;5;0
+Kukonkulma Laila nightclub;Kukonkulma Laila;5;0
+Beats Club;Beats;5;0
+Apteekkari;;5;0
+Circus Live;;5;0
+Lift Après Ski & Night Club;Lift Après Ski &;5;0
+Yölento;;5;0
+Hotelli Alavus, Yökerho;;5;0
+Valta;;5;0
+Nightclub Rosanne;Rosanne;5;0
+Fame Club;Fame;5;0
+Kult;;5;0
+Noname Bar & Nightclub;Noname Bar &;5;0
+Muovitehdas;;5;0
+Mummotunneli;;5;0
+ALE klubi;;5;0
+Club May Day;May Day;5;0
+Rammari;;5;0
+Höyry Co;;5;0
+Club Stadion;Stadion;5;0
+Club Cosmopoli;Cosmopoli;5;0
+Lepuski bar & nightclub;Lepuski bar &;5;0
+Charm;;5;0
+Fuusio;;5;0
+Club Visitors;Visitors;5;0
+Linna Club;Linna;5;0
+Kaivohuone;;5;0
+Tornion vapaapalokunta;Tornion VPK;5;0
+Punainen Kukko;PK;5;0
+Himos Areena;;5;0
+Hullu Poro Areena;;5;0
+Sound Factory Nightclub;;5;0
+Yökerho Club B52;Viihteen Tähden Ry|Club B52;5;0
+Vamos;;5;0
+Sjallinn;;5;0
+Hvítahúsið sportbar;;5;0
+HAX;;5;0
+Mengi;;5;0
+Radar Reykjavik;;5;0
+Auto;;5;0
+Sviðið;;5;0
+Top of the Rock;;5;0
+Frón;;5;0
+Remont;;5;0
+Hormon;;5;0
+Hybrydy;;5;0
+Pinokio;;5;0
+Sfinks700;;5;0
+Klub Atelier;;5;0
+Soho Klubogaleria;;5;0
+Klub Medyka;Medyk;5;0
+Van Diesel;;5;0
+Club Havana;;5;0
+Czekolada;;5;0
+Cuba Libre;;5;0
+Neferetete;;5;0
+Gorzko Gorzko;;5;0
+The Legends;;5;0
+Piwnice Gorywodów;;5;0
+Społem Deluxe;;5;0
+Jazz Club U Muniaka;;5;0
+Stalowe Magnolie;;5;0
+Balzac;;5;0
+Blueberry Bar;;5;0
+Museum Music Republic;;5;0
+Regres Club;Regres;5;0
+"Night Club ""Stara Kotłownia""";"""Stara Kotłownia""";5;0
+Allure Club;Allure;5;0
+Just!;;5;0
+Kotwica;;5;0
+Grandial;;5;0
+High Heels;;5;0
+Lokomotywa;;5;0
+Klub Rokoko 2.0 Białystok;Klub Rokoko 2.0;5;0
+"Dyskoteka ""Holidays""";;5;0
+Indeks;;5;0
+Kabaret Rewia & Show;;5;0
+Klub Laguna;;5;0
+4 Rano;;5;0
+Klub Nevada;;5;0
+Tama;;5;0
+Club Mango;;5;0
+Klub Muzyczny Faust;;5;0
+Cherry Club;Cherry;5;0
+Disco Club;;5;0
+Randewu;;5;0
+Bahia Club;Bahia;5;0
+Strych;;5;0
+Explosion;;5;0
+Hasta la Vista;;5;0
+Energy 2000 Katowice;Energy 2000;5;0
+Klub Garage;;5;0
+Sens Club;Metro Express Bydgoszcz;5;0
+Stara Platforma;;5;0
+Rokoko 2.0;;5;0
+Klub SPATiF;;5;0
+Lordi's Club & FooFoo Bar;;5;0
+Bowling Bilard Kręgielnia;;5;0
+"Dom Weselny ""Belweder""";;5;0
+Klub Kwadrat;;5;0
+Alternatywa;;5;0
+Klub Kometa;;5;0
+DSO Projekt;;5;0
+24h <3;;5;0
+Kamienica Klub & Bar;;5;0
+Chacharnia;;5;0
+Lulu Club;Lulu;5;0
+Rocker Club;Rocker;5;0
+Awocado Dance Club;Awocado;5;0
+Hades;;5;0
+Rutyna Art;;5;0
+Klub Ambasador;;5;0
+Aqarium;;5;0
+U Papy Musioła;;5;0
+Wściekły Pies;;5;0
+Mundo 71;;5;0
+Single Scena Music Bar;;5;0
+Vehikuł Czasu;;5;0
+ATVA;;5;0
+Bosco;;5;0
+Tina;;5;0
+Sfinks;;5;0
+MarinGo;;5;0
+"Sala bankietowa ""Nova""";"bankietowa ""Nova""";5;0
+Klub Pomarańcza Katowice;Klub Pomarańcza;5;0
+The Q Club;;5;0
+Iguana Music Club;;5;0
+Nikodem Club;Nikodem;5;0
+Joker Club;;5;0
+Coyote Club;;5;0
+Dobra Nocka;;5;0
+Broadway18;;5;0
+Klub Vinyl;;5;0
+PLR;;5;0
+Blue Berry;;5;0
+Mienta Klub;;5;0
+Klub HAH;;5;0
+Klubogaleria Bunkier;;5;0
+Parlament;Klub muzyczny Parlament;5;0
+Antidotum;;5;0
+Centrala;;5;0
+Kitsch;;5;0
+OFF Centrum;;5;0
+Królik;;5;0
+Rokoko Club;Rokoko;5;0
+Love Club;;5;0
+Skład Butelek;;5;0
+Klub30;;5;0
+"Jazz Klub ""Pod Filarami""";;5;0
+Pralnia;;5;0
+Klubogaleria PlanBe;;5;0
+Japa bowling club;Japa bowling;5;0
+Afera. Klub muzyczny;;5;0
+YOYO bowling & club;YOYO bowling &;5;0
+Venus Club;;5;0
+Witches;;5;0
+Avatar;;5;0
+Energy 2000 Przytkowice;;5;0
+Tygmont;;5;0
+Club 94;;5;0
+Sztygarka Hetmańska;;5;0
+Klub DOM;;5;0
+Klub Na Fali;;5;0
+Delta Pieruchy;;5;0
+Club Heaven;;5;0
+Pacha Poznań;;5;0
+Roxi;;5;0
+Hot Shots;;5;0
+Ucho;;5;0
+Zagłoba;;5;0
+Klub u Bazyla;U Bazyla;5;0
+Stereo Live Music Club;Stereo Live;5;0
+Klub Studencki Cicibór;;5;0
+Helium Club;Helium;5;0
+One Love;;5;0
+Harem Club;Harem;5;0
+"Klub ""Gorzelnia""";;5;0
+Club 27;;5;0
+Senso Beach;;5;0
+Elefunk The Club;Elefunk;5;0
+Arsenał Centrum Rozrywki;;5;0
+Relax;;5;0
+Gospoda Głogowska;;5;0
+Pandemia;;5;0
+Bajka;;5;0
+Lips;;5;0
+Enklawa;;5;0
+Bank Club;;5;0
+Sketch Nite;;5;0
+Next Club Wiele;;5;0
+La Bodega Del Ron;;5;0
+Red Pub;;5;0
+VooDoo Club;VooDoo;5;0
+Street 23;;5;0
+Komitet;;5;0
+Rotunda Północna;;5;0
+Abracadabra Da Club;Abracadabra Da;5;0
+Soda Underground Stage;;5;0
+Baker Street;;5;0
+Crackhouse;;5;0
+B90;;5;0
+Extravagance;;5;0
+Progresja Music Zone;;5;0
+Champion;;5;0
+Coco Club;;5;0
+Protector Prestige Club;Protector Prestige;5;0
+Faktoria;Restauracja Fabryka;5;0
+Fregata;;5;0
+Brand Music Club;Brand;5;0
+Zilion Club Wrzelowiec;Zilion Club;5;0
+Kolorowa Club;Kolorowa;5;0
+Czekolada Club;;5;0
+Villa Royal;;5;0
+Largo Club Toruń;;5;0
+Zakład;;5;0
+Crime Story;;5;0
+Herkulesy;;5;0
+Fanaberia;;5;0
+Twenty Club Bydgoszcz;Twenty Club;5;0
+Pod 13;;5;0
+Zmiana Klimatu;;5;0
+CodeRED;;5;0
+Poziom 1;;5;0
+Forty Kraków;;5;0
+Prozak 2.0;;5;0
+2Be Club;2Be;5;0
+Dom Kultury;;5;0
+Koyot;;5;0
+Grey Club;Grey;5;0
+Chicas;;5;0
+U Bulka;;5;0
+Cooltura;;5;0
+Bracka 4;;5;0
+Piec Art;;5;0
+Grand Club;Grand;5;0
+Teatro Cubano;Cubano;5;0
+City Club & Bowling;;5;0
+Klub Dołek;;5;0
+Mięta;;5;0
+"Klub Studencki ""Bajer""";;5;0
+Amnezja;;5;0
+Disco na deptaku;na deptaku;5;0
+Coraz Lepiej;;5;0
+Czarna Owca;;5;0
+Hydrozagadka;Klub Hydrozagadka;5;0
+Club 13.13;13.13;5;0
+Labirynt;;5;0
+Emporium Music Club;;5;0
+Club Magic;;5;0
+Stacja 1 Night Club;Stacja 1;5;0
+Riviera, Klub Plażowy;;5;0
+The Moon;;5;0
+Klub NOC;;5;0
+Klub Muzyczny B17;;5;0
+Jamaica;;5;0
+Campari;;5;0
+Bunuba Klub;;5;0
+Frame;;5;0
+Lambert Music Club;Lambert;5;0
+Gryfna Lama;;5;0
+RO;;5;0
+Stara Gazownia;;5;0
+Arena Korsze;;5;0
+Arena Club Mielno;;5;0
+Prywatka Poznań;Prywatka;5;0
+Eclipse Club;;5;0
+Club Teatr;Teatr;5;0
+Piwnica;;5;0
+Extazy;;5;0
+Mañana 2.0;;5;0
+Club Pralnia88;Pralnia88;5;0
+Klub Kino;;5;0
+Klub Nadzieja;;5;0
+Arka;;5;0
+Trops;;5;0
+Mango Music Club;;5;0
+Night Club Galactica;Galactica;5;0
+Sizar;;5;0
+Tka;;5;0
+Viva Disco;;5;0
+Protector Dobramyśl;;5;0
+Awaria;;5;0
+Bada bing;;5;0
+Four Music Club;Four;5;0
+Guapo;;5;0
+Świstak;;5;0
+The Whiskey Jar;Whiskey Jar;5;0
+Explosion Club Borkowo;;5;0
+Czuła jest noc;Uczulenie;5;0
+Klub Mechanik;;5;0
+Dragon;;5;0
+Dram Whisky Explorers Bar;;5;0
+Skeleton MC Poznań;;5;0
+Kiosk Events;;5;0
+Schron;;5;0
+Hyćka Klub;;5;0
+Ciało;;5;0
+Room 13;;5;0
+Klub Muzyczny Scena;;5;0
+SPATiF;;5;0
+Elektrownia;;5;0
+Pub no 9;no 9;5;0
+Pasaż Club&Food;;5;0
+Zajezdnia;;5;0
+Klub Studencki Żaczek;;5;0
+Arkady;;5;0
+Sassy;Sassy Prive;5;0
+Maska;;5;0
+Prorock;;5;0
+The Queen;;5;0
+Obiekt;;5;0
+Muzyka na nowo;Muchos;5;0
+Niebo;;5;0
+Klub Czekolada Łódź;Klub Czekolada;5;0
+Runway club;Runway;5;0
+Transformator;;5;0
+DON Kichot;;5;0
+2Progi Club;2Progi|klub 2Progi;5;0
+Finezja;;5;0
+LUKR club;LUKR;5;0
+Mirage Music Club;;5;0
+Tusa;;5;0
+Dark Angels;;5;0
+HAH Poznań;HAH;5;0
+Piętro;;5;0
+Prywatka Dance Club;;5;0
+The Mist Club;Mist;5;0
+Rin;;5;0
+The Club No 1;Club No 1;5;0
+Golden Moon;;5;0
+X-Demon Poznań;X-Demon;5;0
+Karova;;5;0
+Drukarnia Jazz Pub;;5;0
+Gorzko Gorzko Szczecin;;5;0
+Gold Night Club;;5;0
+Luzztro;;5;0
+Casablanka;;5;0
+Klub muzyczny Trokadero;;5;0
+Easy;;5;0
+Papuga;;5;0
+Melina;;5;0
+Czerwony Fortepian;;5;0
+Astra - Słubice;Astra;5;0
+Smolna;;5;0
+Podwórko Sezam;;5;0
+Skylab;;5;0
+Sen;Sen Events;5;0
+Villa Rosa;;5;0
+Bukszpryt;;5;0
+Dancing Club Remis;;5;0
+Venus Planet;;5;0
+Gomola;;5;0
+Drugie Dno;;5;0
+Beyond;;5;0
+TAN;;5;0
+Klub Próżność;;5;0
+Projekt LAB;;5;0
+Wesele;;5;0
+Kosmos;;5;0
+Tawerna Pod Różą Wiatrów;;5;0
+Klub Gramofon;;5;0
+NOC;;5;0
+Szepty;;5;0
+Klub Alternatywy;;5;0
+Hocki Klocki w Lunaparku;;5;0
+Magnes;;5;0
+Rokoko Cubano;;5;0
+Piekiełko;;5;0
+Havana CLUB;;5;0
+Blu Club;Blu;5;0
+La Pose;;5;0
+Chillin;;5;0
+Klub Kancelaria;;5;0
+Sydney;;5;0
+Choice;;5;0
+Black Club Bytów;Black Club;5;0
+Sekta Selekta;;5;0
+Zoo Klub;;5;0
+Arena Bierzwnica;;5;0
+Klub Studencki Spirala;;5;0
+Mięta disco;;5;0
+Grawitacja;;5;0
+SkrClub;Skr;5;0
+Show Music Club;Show;5;0
+Jassmine;;5;0
+Gościniec;;5;0
+na językach;;5;0
+Klub Rogate Serce;;5;0
+Story Sopot;Story|Disco Club Story;5;0
+Fantasy Club;Fantasy;5;0
+Jasna 1;;5;0
+Szalony kapelusznik;;5;0
+Cool Club;;5;0
+Zazen;;5;0
+DoSopotu;;5;0
+Bavitto;;5;0
+STK 47 Warehouse;;5;0
+Bardzo Bardzo;;5;0
+Princesa;;5;0
+UltraViolet Exclusive Club;UltraViolet Exclusive;5;0
+Klub Euforia;;5;0
+Alibi Club;;5;0
+Rura;;5;0
+Sikalafą Freaky Neon Bar;;5;0
+Balance Klub;;5;0
+Beatka;;5;0
+BlueXL;;5;0
+Alisa;;5;0
+Disco-Bar 5;;5;0
+Elixir;;5;0
+Pieprz Club;Pieprz;5;0
+Club Disco Jama;Disco Jama;5;0
+7th Heaven;;5;0
+House Tęczowa;;5;0
+Scena54 by Feiim;Scena54;5;0
+Disco Shot's;Shot's;5;0
+Gatsby Warsaw;;5;0
+Chaton;;5;0
+Club Underground;;5;0
+Magiczna Plaża - Buków;Magiczna Plaża;5;0
+Face 2 Face;;5;0
+Klub Stars;;5;0
+Mojitos Casa Latina;;5;0
+Club N°51;N°51;5;0
+Laguna;;5;0
+Inna Kultura;;5;0
+G38;;5;0
+Pod Muzami;;5;0
+Villa Incognito;;5;0
+Mario;;5;0
+Royal Night Club Katowice;Royal Night Club;5;0
+Halo Lola;;5;0
+Łącznik;Klub Łącznik;5;0
+Chicago;;5;0
+Królestwo;;5;0
+Level 27;;5;0
+Viva Dance Club;;5;0
+Klub Rewiry;;5;0
+Mercedess;;5;0
+Glow Club;;5;0
+Blue Velvet Club;Blue Velvet;5;0
+Klub Akumulatory;;5;0
+Mewa Towarzyska;;5;0
+Monroe Club;Monroe;5;0
+KOT art bar;;5;0
+Kalejdoskop;;5;0
+Odyseja;;5;0
+Plot Social Club;Plot;5;0
+Vegas Piaskowa Góra;;5;0
+Głębia;;5;0
+Vegas Stara Piwnica;;5;0
+Klub Studio;;5;0
+Fahrenheit Music Club;Fahrenheit;5;0
+Ślina;;5;0
+Posen Club;Posen;5;0
+MagnetOffOn;;5;0
+Klub Plastelina;;5;0
+Svera;;5;0
+Pub & Club Nafta;& Club Nafta;5;0
+Wartownia - Błonia nadwarciańskie;Wartownia;5;0
+Noce & Dnie;;5;0
+Party.Hub;;5;0
+Momenty;;5;0
+Scity;;5;0
+Trzy Gie;;5;0
+Narraganset;;5;0
+Club Amsterdam;;5;0
+Proxima;;5;0
+Młyn;;5;0
+Bohema;;5;0
+klub Casino;;5;0
+Limonka;;5;0
+XOXO Music & Cocktail Bar;;5;0
+Ava 3.0;;5;0
+Point Club;;5;0
+Ramzes Club Pro Fusion;;5;0
+Czarna pantera;;5;0
+Night Club Riviera;;5;0
+Klub Pod Palmą;;5;0
+Klub Gatsby;;5;0
+Alfa Club;Alfa;5;0
+Night Club Play+;;5;0
+Club Kenzo Czeladź;Kenzo Czeladź|Kenzo;5;0
+Żaklin - Klub nocny;Żaklin;5;0
+Nitro;;5;0
+Kamienna 12;;5;0
+Night Club Exit;;5;0
+Milano;;5;0
+Ekwador Manieczki;Ekwador;5;0
+Klub Stara Przepompownia;;5;0
+Afterek;;5;0
+NEXUS Music Club;;5;0
+Nurt;;5;0
+Marion;;5;0
+Euforia;;5;0
+Stylowa;;5;0
+Bajlando;;5;0
+Klub Black&White;;5;0
+Music Club Blue Star;;5;0
+Eden. PHU. Karaś H;;5;0
+Magnum CLUB Wachów;;5;0
+Club Insomnia;;5;0
+139 multi club;139 multi;5;0
+Mono Club;Mono;5;0
+Stary grant;;5;0
+Piąta Klepka;;5;0
+Klub Cafe-Del-Mar;;5;0
+Klub Muzyczny Lawa;;5;0
+Księżyc;;5;0
+Discoplex A4;;5;0
+Imprezy Patelnia;;5;0
+Club Viva Truskolasy;Viva Truskolasy;5;0
+Klub Scorpio;;5;0
+Palma de Mirette;;5;0
+Magnes Club;;5;0
+Klub A1;;5;0
+Stodoła;;5;0
+Klub Angello;Angello;5;0
+Manhattan Club;;5;0
+IGLOO Club;;5;0
+BelAmi 2;;5;0
+Oaza;;5;0
+La Palma;;5;0
+LOFT Music Club;;5;0
+S klub;;5;0
+7. nebe;;5;0
+Our Place Music Club;Our Place;5;0
+Jazz Republic;;5;0
+Two Faces Music Club;Two Faces;5;0
+Metro music club;;5;0
+Pantheon Music Club;Pantheon;5;0
+Maka bar;;5;0
+U Rafa;;5;0
+Klub lávka;;5;0
+Klub Újezd;;5;0
+U Živce;;5;0
+Znojemka;;5;0
+Disko Kavárna;;5;0
+Labelle;;5;0
+Golem;;5;0
+Cross Club;Cross;5;0
+Futurum;;5;0
+R3 Bar;;5;0
+ZIP;;5;0
+Továrna;;5;0
+Ignis Club;Ignis;5;0
+Dělňák;;5;0
+Ponorka;;5;0
+Disco Split;Split;5;0
+Semafor;;5;0
+Flip;;5;0
+Bílý Kámen;;5;0
+Shaker Bar;;5;0
+AghaRTA Jazz Centrum;;5;0
+Aloha Wave Lounge;Aloha Bar;5;0
+Harley's bar;;5;0
+Chapeau Rouge;;5;0
+Popocafepetl;;5;0
+Baronka;;5;0
+La Fuente;;5;0
+Music Club V.I.P;;5;0
+Klub 007 Strahov;;5;0
+Karlovy lázně;;5;0
+Rock Café;;5;0
+Club Roxy Prague;;5;0
+Kamenný most music club;Kamenný most;5;0
+Občanská plovárna;;5;0
+Cafe - Cafe;Cafe;5;0
+Club Sabotage;;5;0
+Le Clan;;5;0
+Radost Fx;;5;0
+Jampa Dampa;;5;0
+Le Mirage;;5;0
+La Pantera;;5;0
+MATRIX club;;5;0
+El Mágico;;5;0
+Dogs Bollocks;;5;0
+Misch Masch;;5;0
+Mecca;;5;0
+Prostor Abaton;;5;0
+Modrá Vopice;;5;0
+Crazy Club;;5;0
+Dance Klub U Kolji;;5;0
+La Habaňero;;5;0
+Roxbury;;5;0
+Hudební Club Nautilus;;5;0
+Klub Luxor;;5;0
+Retro music Club;;5;0
+Bat. Music Space;;5;0
+Rampa;;5;0
+Staré lázně;;5;0
+Klub Mlýn;;5;0
+Lifestyle Karaoke;;5;0
+Roxet;;5;0
+TA-BU music club;;5;0
+Tropic Club;Tropic;5;0
+DukuDuku;;5;0
+Nightclub Music;Music;5;0
+Matahari night club;Matahari;5;0
+AMD;;5;0
+Typos;;5;0
+Abajo;;5;0
+Cabras;;5;0
+Lenfer sound club;Lenfer sound;5;0
+Hrad;;5;0
+Pražanka;;5;0
+Shabo;;5;0
+Nigth Club Luna - Diskrete Zone;Nigth Club Luna;5;0
+KC Jitka;;5;0
+Dejavu Music Club Prague;;5;0
+Fine club;Fine;5;0
+Jupík;;5;0
+Xanadu;;5;0
+Oldies disco Club;Oldies disco;5;0
+Klub Šatlava;;5;0
+Majnl Dance Hall;;5;0
+Theremin;;5;0
+Jízdárna;;5;0
+DCM;;5;0
+Music Bar Kravín;;5;0
+Nightclub Piranha;Piranha;5;0
+Nightclub Paris;Paris;5;0
+Disco Chihuahua;Chihuahua;5;0
+Lucerna Music Bar;Kino Lucerna Praha;5;0
+Klub Oko;;5;0
+Roxor;;5;0
+Kontrast Bar;;5;0
+WATT Club;WATT;5;0
+Mersey Music Club;Mersey;5;0
+Vagon Music Club;Vagon|Vagon Music Pub Club;5;0
+Milenium Tábor;;5;0
+Kotnov;;5;0
+Zlatý strom;;5;0
+Disco Safari Jince;Safari Jince;5;0
+Klub Netopýr;;5;0
+Light Music Club;Light;5;0
+Jazzová zahrada;;5;0
+Dance bar PARADOX;;5;0
+Rokáč;;5;0
+Disco Era;;5;0
+Barrák;;5;0
+Euphoria Music Club;;5;0
+OX Club;OX club Prague;5;0
+Kavárna;;5;0
+Heaven-gay cinema bar;;5;0
+Alexandria Loď;;5;0
+Night Club Na Zámečku;Na Zámečku;5;0
+Tančák club;Tančák;5;0
+RICCO bar;;5;0
+Gogoklub;;5;0
+Blues sklep;;5;0
+Palác Akropolis;;5;0
+Maddox;;5;0
+Typos cz;;5;0
+Dance Pivovar;;5;0
+Balkan Bar;;5;0
+Night Gym;;5;0
+Bella Vista;;5;0
+Vibe Club;;5;0
+Repro bar & music club;Repro bar &;5;0
+Winx;;5;0
+Moo;;5;0
+Factory Club;;5;0
+Lemon Music Club;Lemon;5;0
+Noční bar Dallas;;5;0
+Hudební klub Altán;;5;0
+Music Club No. 1;;5;0
+Club No.6;No.6;5;0
+Nová Chmelnice;;5;0
+Fleapit;;5;0
+URBEX Club;URBEX;5;0
+Music Club Jižák;;5;0
+Disco Porto;;5;0
+Dance bar Hvězda;;5;0
+Moštárna club;Moštárna;5;0
+Klub Alternativa;;5;0
+Anděl Music Bar;;5;0
+Mabuhay;;5;0
+Elektra;;5;0
+Heligonka;;5;0
+KlonDike music club;KlonDike;5;0
+Alibaba;;5;0
+Club Museum Czech underground;Museum Czech underground;5;0
+Tresor club;;5;0
+Jáma Music Club;Jáma;5;0
+Vanesa;;5;0
+K2 Music Club;;5;0
+Bar Broukárna;;5;0
+Marley;;5;0
+Kravín;;5;0
+Havana Club Aš;;5;0
+Music Club U Bubáka;;5;0
+Disco Rock Club Merklín;Rock Club Merklín;5;0
+retro 69;;5;0
+Salsita Club;Salsita;5;0
+night club AMBRA;;5;0
+Multižánrový Klub Živák;;5;0
+Retro CENTO Music Club;Retro CENTO;5;0
+Turbo Music Club;Turbo;5;0
+Music club eMko;;5;0
+exit2;;5;0
+Cobra;;5;0
+Klub ART;;5;0
+U Vočka;;5;0
+ÁČKO;;5;0
+Club Náves;Náves;5;0
+Rock Club Barák;;5;0
+EPIC;;5;0
+SaSaZu club;SaSaZu;5;0
+Varna Club;Varna;5;0
+Retro Club Fénix;;5;0
+Watt Music Club;;5;0
+Urbex Cafe;;5;0
+Lípa;;5;0
+La Rutika;;5;0
+Mefisto;;5;0
+Lobby hifi bar;;5;0
+Patro;;5;0
+JammClub;;5;0
+Hoodbar;;5;0
+Mko After Club & Lounge;;5;0
+Kleopatra;;5;0
+Club88;;5;0
+Jameson Rock Club;Jameson Rock;5;0
+Le Valmont;;5;0
+Marlboro club;Marlboro|Klub Máčko;5;0
+Moon club;;5;0
+Lady Marion;;5;0
+Kiss club;;5;0
+Belvedere;;5;0
+Absolut;;5;0
+Music club Severka;;5;0
+FreeClub;;5;0
+Mad Music Hall;;5;0
+Zenith Lounge & Bar;;5;0
+X Bar Prague;;5;0
+Red devil;;5;0
+Diskotéka Cabras;;5;0
+DON;;5;0
+Roxy Club;;5;0
+Buena Vista Club;Buena Vista;5;0
+Nová Melodka;;5;0
+Divadlo pod Lampou;;5;0
+Klub Dlouhé Záhony;;5;0
+Disco Forum;Forum;5;0
+Aura Club;;5;0
+music club Inferno;;5;0
+Refresh Music Bar;;5;0
+Stew Club Vimperk;Stew Club;5;0
+Porto Rico;;5;0
+La Corte;;5;0
+Vila;;5;0
+Kulturní dům;;5;0
+Fuchs 2 / Bike Jesus;Fuchs 2;5;0
+Admirál;;5;0
+Club Bonver;Bonver;5;0
+Disco Veset;Veset;5;0
+Klub Kravín;;5;0
+Collosseum;;5;0
+trafo;;5;0
+Radosť;;5;0
+Devil's Pub;;5;0
+Herňa FP club;Herňa FP;5;0
+MANGO Music Club & Lounge Bar;;5;0
+Royal herňa;;5;0
+Herňa Vabank;;5;0
+Jolly club;;5;0
+Herňa Admiral café;;5;0
+V-Klub;;5;0
+Slopper;;5;0
+Mysterium club;Mysterium;5;0
+MMC;Majestic Music Club;5;0
+Klub 89;;5;0
+Biliard;;5;0
+Mexiko;;5;0
+Eros Night Club;;5;0
+Kotva;;5;0
+Groove club;;5;0
+Baracuda disco bar;;5;0
+Centauri;;5;0
+Surprise;;5;0
+W Club;;5;0
+Retro bar;;5;0
+Stará ponorka;;5;0
+Disco club Perla;club Perla;5;0
+Ipon;;5;0
+Ladanza;;5;0
+Jamajka;;5;0
+Ihrisko;;5;0
+Žalár;;5;0
+Kumelka;;5;0
+Šafko;UHU Club;5;0
+Fuga;;5;0
+Enjoy Music Club;;5;0
+Magic club;;5;0
+Ministry of Fun;;5;0
+Metropola;;5;0
+Hviezda Cocktail & Shisha Bar;;5;0
+Clip Bar;;5;0
+Apollon Gay Club;Apollon Gay;5;0
+Luna bar;;5;0
+RR Club;;5;0
+Sabrina;;5;0
+Visteria club;Visteria;5;0
+AS Club;;5;0
+Club 333;333;5;0
+JN Club;;5;0
+Steps club;Steps;5;0
+Kriváň;;5;0
+Life Music Club;;5;0
+KC Ilúzia;;5;0
+Archa Pub;;5;0
+ENCORE the Club;;5;0
+Bar Kalambur;;5;0
+Salsa by Norika;;5;0
+LaStriga;;5;0
+Icon Club;;5;0
+R2 Music Club;;5;0
+Encore Lounge Bar;;5;0
+Infinity Bar - Live poker & Billiard;Infinity Bar;5;0
+Ponorka Music Pub;;5;0
+Continental Club;;5;0
+Café Club Caracas;;5;0
+Moment club;Moment;5;0
+EnjoyClub;;5;0
+Maňana pub - nalíváreň;Maňana pub;5;0
+100Karaoke;;5;0
+Boba Bar;;5;0
+ENCORE the Game Club;ENCORE the Game;5;0
+we_Ganek;;5;0
+Klub Lúč - otvorený kultúrny priestor;Klub Lúč;5;0
+Bakatu;;5;0
+Great;;5;0
+Secret Night Club;Secret;5;0
+Club Krym;Krym;5;0
+WAX2;;5;0
+UniK Mlyny;;5;0
+Casting Club;Casting;5;0
+CITY music club;;5;0
+Meduza;;5;0
+Srdiečko;;5;0
+Club History;;5;0
+Bar Cowboy;;5;0
+Ponorka Disco Bar;;5;0
+Klub 39;;5;0
+263 Pub;;5;0
+Casey;;5;0
+Divokí anjeli;;5;0
+SWAY;;5;0
+Peaches and Cream;;5;0
+Relax Club;;5;0
+Fezen Klub;;5;0
+Stone Club;Stone;5;0
+Instant;Fogasház;5;0
+Doboz;;5;0
+Est café;;5;0
+Remix;;5;0
+Morrison's 2;;5;0
+Cat;;5;0
+Retro Klub;;5;0
+Ifjúsági Ház;IH;5;0
+UV;;5;0
+Casino Étterem és Music Pub;;5;0
+Petőfi Kultúrtanszék;;5;0
+Playa Dance Club;Nomád Travelers' Bar;5;0
+Ötkert;;5;0
+Glob Royal Club;Glob Royal;5;0
+JATE Klub;;5;0
+B9 Club;;5;0
+Hangár Music Garden;;5;0
+Absollult 2.0;;5;0
+Club Mirage;;5;0
+Club Hollywood;;5;0
+Mama Mia;;5;0
+Club 41;;5;0
+Hell Music X-Cafe;;5;0
+Delta;;5;0
+Trafik Lokál;;5;0
+Casino Bellami;;5;0
+DF Klub;;5;0
+Viadukt Center (kávézó);Viadukt Center;5;0
+Butterfly Night Club;Butterfly;5;0
+Graft-et Dance Club;Graft-et;5;0
+Aladin diszkó;;5;0
+Glass House Disco;;5;0
+Sakáltanya;;5;0
+El Toro pub;;5;0
+Cabana Garden;;5;0
+Hemo;;5;0
+Akvárium Klub;;5;0
+101 Klub;;5;0
+Toldi Klub;;5;0
+Fogas;Fogaskert;5;0
+Aether Club;Aether;5;0
+Mamma Africa Club;Mamma Africa;5;0
+Trió bár;;5;0
+Tisza River;;5;0
+Udvarrom;;5;0
+Füge Udvar;;5;0
+Fosters Udvar;;5;0
+Vadorzó club;Vadorzó;5;0
+Party Zóna;;5;0
+Erdélyi Udvarház;;5;0
+Duna Fitt;;5;0
+Robot;;5;0
+Cege Parti Étterem;;5;0
+S-Club;;5;0
+Mandarin Bár;;5;0
+Dolce Vita Night Club;;5;0
+Chameleon Music Club;Chameleon;5;0
+Penna;;5;0
+Albabar;;5;0
+Xoxo Extra;;5;0
+Santa Fé Music Club & Hajóclub;;5;0
+Central Palace;;5;0
+Casablanca Night Club;;5;0
+Diamond Night Club;;5;0
+Sárkány udvar;;5;0
+Kis Színpad;;5;0
+Pirate Dance Club;Pirate;5;0
+Turbina Kulturális Központ;;5;0
+Retro2;;5;0
+Gödör Klub;;5;0
+The Vajas Club;Vajas;5;0
+Underground Zone;;5;0
+Ápoló Klub;;5;0
+Black Magic;;5;0
+Sörház;;5;0
+Flow;;5;0
+The Print;Print;5;0
+Ambyss;;5;0
+Sparty;;5;0
+SPOTx Club;SPOTx;5;0
+Lock;;5;0
+Unterwelt;;5;0
+Füge Play;;5;0
+Rom-Bar;;5;0
+Palazzo Permanens;;5;0
+Bazaar klub;;5;0
+Vörös Neon;;5;0
+Kispál Életmód és Borház;;5;0
+after 6 lounge;;5;0
+Mámor Bár (Night Club);Mámor Bár;5;0
+A38 Hajó;A38;5;0
+Sing Sing Music Hall;;5;0
+DC;;5;0
+Club Nova;;5;0
+Dürer Kert;;5;0
+Romkert;;5;0
+Kobuci Kert;;5;0
+Dream's Cafe;Bár-Mi;5;0
+Club M47 Hungary;M47 Hungary;5;0
+Analog Music Hall;;5;0
+Nagyszínpad;;5;0
+Brickhouse;;5;0
+Mediterran Club Disco;Mediterran Club;5;0
+Mambo Club & Cafe;;5;0
+Inside Fashion Club;Inside Fashion;5;0
+Highlander;;5;0
+Cinema Hall;;5;0
+Kanizsa Klub;;5;0
+Arzenál;;5;0
+Kazánház;;5;0
+Club Bastille;Bastille;5;0
+Club Neo;Neo;5;0
+Panzio Music Club;Panzio;5;0
+Agárdi Popstrand;;5;0
+Monster Beach;;5;0
+Club 1001;1001;5;0
+Rózsa Disco;Rózsa;5;0
+Kassa;;5;0
+Budapest Park;;5;0
+Barba Negra;;5;0
+Las Vegas Discotech;Róna;5;0
+Zsiráf Pest;;5;0
+Instant-Fogas Komplexum;;5;0
+Discoteka Nicșeni;;5;0
+Discoteca Ring;Ring;5;0
+After 8;After Eight - Cocktail Club;5;0
+Ursus Cotton Pub;;5;0
+Jazz & Blues Club;Jazz & Blues;5;0
+St. Patrick;;5;0
+Luv Constanța;Luv;5;0
+Club NOA (Nest of Angels);Club NOA|NOA (Nest of Angels);5;0
+Control Club;Control;5;0
+Fratelli;;5;0
+Million Dollars Club;Million Dollars;5;0
+Enigma;;5;0
+Club Amnesia;;5;0
+Club Keops;;5;0
+Oxigen Club;Oxigen;5;0
+Club Sandro;Sandro;5;0
+Bamboo by OXYA;Bamboo;5;0
+Exotic Cigars Club The Buddhist;;5;0
+Fratelli Social Club;;5;0
+True Social Club;True;5;0
+Ice Cube;;5;0
+Club Bamboo;;5;0
+Club Daimon;Daimon;5;0
+Urbana;;5;0
+Taverna Music-Pub;;5;0
+La bază;;5;0
+Dovinot;;5;0
+Disco la Rudaru din Olt;la Rudaru din Olt;5;0
+Club 300;300;5;0
+Club de noapte;de noapte;5;0
+Club Agronomia;Agronomia;5;0
+Queens Bucharest Club;Queens Bucharest;5;0
+El Comandante Grande;;5;0
+Club Paradis;Paradis;5;0
+Club Flamingo;;5;0
+Club Ambasador Saes;Ambasador Saes;5;0
+Yoyo's Irish Pub;;5;0
+Astera;;5;0
+Club Andu;Andu;5;0
+Club Angy;Angy;5;0
+Club Crush;Crush;5;0
+Club Stephany;Stephany;5;0
+Crema Summer Club Mamaia;Crema Summer Club;5;0
+J'adore Mamaia;;5;0
+Megalos Club;Megalos;5;0
+Colonial club Cernica;Colonial club;5;0
+La Pescărie;;5;0
+La Feroviari;;5;0
+OZN Club;OZN;5;0
+Fratelli Lounge & Club;Fratelli Lounge &;5;0
+Fratelli Beach & Club;Fratelli Beach &;5;0
+Monarch;;5;0
+Alexander;;5;0
+The Queens;;5;0
+Disco Latino Ring;Latino Ring;5;0
+Atmosphere the CLUB;Atmosphere;5;0
+Joy Club;;5;0
+Plaja H2O;;5;0
+Crazy Beach;;5;0
+IpaNera;;5;0
+Club EGO;;5;0
+Princess Summer Club;Princess Summer;5;0
+La Lăutarii;;5;0
+Coyote Ugli;;5;0
+Princess Summer Club & Beach;;5;0
+Nefertiti Club;;5;0
+Podz Musicpub;;5;0
+L'Exces Simeria;;5;0
+Insieme Club;Insieme;5;0
+Insieme Bar;;5;0
+Zion;;5;0
+Club Miorița;Miorița;5;0
+Club Edi;Edi|Clubo Edi;5;0
+/Form Space;;5;0
+Club King;King;5;0
+Picnic;;5;0
+Clubul Fetelor;;5;0
+Salon Onix;;5;0
+Club R;;5;0
+Retro- Bistro;;5;0
+Baha Club & Lounge;;5;0
+Liquid The Club;;5;0
+database;;5;0
+Club-Come;;5;0
+Fratelli Studios;;5;0
+Club Spartacus;Spartacus;5;0
+Aqua Club Elatis;;5;0
+Club Forest;Forest;5;0
+Studio 80;;5;0
+Night Club Pussy Cat;;5;0
+Imperium Society Club;Imperium Society;5;0
+Tao Masaj;;5;0
+Escape Underground Hub;;5;0
+Regal Manele;;5;0
+Time's Live Music;;5;0
+Club Quatro;Quatro;5;0
+Disco Evrika;Evrika;5;0
+Club Trakia;Trakia;5;0
+El Passo Club;El Passo;5;0
+Disco bar No Limit;;5;0
+Play Club Beceni;;5;0
+Revival;;5;0
+Park Place;;5;0
+Beluga Music & Cocktails;;5;0
+El Comandante Junior;;5;0
+El Dictador;;5;0
+Nuba Summervibes;;5;0
+Mega Discoteca Tineretului;;5;0
+Vox Maris Disco;Vox Maris;5;0
+Disco Club Max;;5;0
+Cluj Arena VIP Lounge;;5;0
+KAYO Club;KAYO;5;0
+The Wild Garden by After Eight;The Wild Garden|Wild Garden by After Eight|Wild Garden;5;0
+Flying Circus;Flying Circus Cluj;5;0
+Club Mono;;5;0
+Comics Club;Comics;5;0
+Club Diamond;;5;0
+Ramatuelle by MRS;Ramatuelle;5;0
+Agartha Club;Agartha;5;0
+Limoncello Club;Limoncello;5;0
+Club Topaz;Topaz;5;0
+ERA Club;;5;0
+Victoriei Ballroom;;5;0
+Bar&Club Perla Nopții;;5;0
+ANT;;5;0
+Aftăr Hours;;5;0
+Kruhnen Musik Halle;;5;0
+Revolution Club;;5;0
+Amazonic Club;Amazonic;5;0
+Marianes's Club;Marianes's;5;0
+Kristal Glam Club;Kristal Glam;5;0
+Club DAF;DAF;5;0
+Chandelier Bamboo;;5;0
+One Club;;5;0
+Maxi Club;Maxi;5;0
+Nu-mă-uita;;5;0
+Blanquita Club;Blanquita;5;0
+Club Crazybeach;;5;0
+SAGA;;5;0
+D.F.N;;5;0
+exxod;;5;0
+Club Viena;Viena;5;0
+Clubul Iclod;Clubul;5;0
+LeGaga;;5;0
+La Academie;;5;0
+Clubul Keops;;5;0
+Boa Club;Boa|Club Boa;5;0
+Crazy Bubble;;5;0
+Nuba Beach Club;Nuba Beach;5;0
+Bamboo Beach;;5;0
+Daso Cado;;5;0
+La Vella Yachting Club;La Vella Yachting;5;0
+Cucaracha;Bar Caracatița;5;0
+Season Club;;5;0
+Club OK;;5;0
+Zen Club & Pool;;5;0
+Fellas;;5;0
+Emma;;5;0
+City Club;;5;0
+Red Lion;;5;0
+Nai Klub;;5;0
+Zangador;;5;0
+Karibi;Caribbean;5;0
+Phoenix Bar Club;Phoenix Bar;5;0
+Piano Bar Bacardi;;5;0
+Silouet;;5;0
+Rock Bar Download;;5;0
+"Disco Club ""LUXOR""";"Club ""LUXOR""";5;0
+Galaktika;;5;0
+Silicone;;5;0
+Bar 911;;5;0
+Provocateur;;5;0
+Night Club Masquarade;Masquarade;5;0
+Café Club Paradise;;5;0
+Bedroom Premium Club;Bedroom Premium;5;0
+The Hole;Hole;5;0
+iONYX Nightclub;iONYX;5;0
+Saxa beach summer club;Saxa beach summer;5;0
+Bla-Bla Beach Club;Bla-Bla Beach;5;0
+Taboo club;;5;0
+Underground Club;;5;0
+Megami;;5;0
+Mixtape 5;;5;0
+Bushido;;5;0
+Palms;;5;0
+Ilit;;5;0
+Live and Loud;;5;0
+Intriga Night Club;Intriga;5;0
+SM live cub;;5;0
+PLANET Club;;5;0
+Blitz;;5;0
+Dance club Iceberg;;5;0
+Deep;;5;0
+One To One;;5;0
+Destiny;;5;0
+EXE Club;;5;0
+Vice City;;5;0
+Gramophone;;5;0
+The Hoot;Hoot;5;0
+Plazza;;5;0
+The Bounce;Bounce;5;0
+Planeta Payner Targovishte;;5;0
+Bunker Club;;5;0
+Tarantino;;5;0
+FOMO the club;;5;0
+Sofia Live Club;Sofia Live;5;0
+Kama Sutra;;5;0
+Mesmeric;;5;0
+Ego Resto Club;Ego Resto;5;0
+Isteria;;5;0
+MAZE;;5;0
+Etage 8;;5;0
+ZOKI’s Warehouse;;5;0
+C’est la Vie;;5;0
+Modera;;5;0
+Viral Club;Viral;5;0
+Illuzion;;5;0
+Club 33;;5;0
+Lazur;;5;0
+Variety theatre;;5;0
+Eleven Club;;5;0
+Versai;;5;0
+Pr. Club;;5;0
+DGV;;5;0
+Tundzha;;5;0
+Bedroom;;5;0
+TheLine;;5;0
+Scirocco Club;Scirocco;5;0
+Gagarin 205;;5;0
+Nostos;;5;0
+Downtown Rock Bar;;5;0
+Monastiri Tou Karolou;;5;0
+Mods;;5;0
+Mamoynia;;5;0
+Porto Akri;;5;0
+Nuevo;;5;0
+Sting-Fabric Club;Sting-Fabric;5;0
+Sueno;;5;0
+Cafe-Bar Depo;;5;0
+My Club;;5;0
+Destil;;5;0
+Music Boxx;;5;0
+La Rosa Negre;;5;0
+Nicopolis Club;Nicopolis;5;0
+Colorado;;5;0
+Atlantis;;5;0
+Lido;;5;0
+Smash;;5;0
+Anodos;;5;0
+Posidonio Music Hall;;5;0
+Kinky;;5;0
+Motel;;5;0
+Mesanyxta;;5;0
+The apartment;apartment;5;0
+Whispers;;5;0
+Mylos Club;Mylos;5;0
+eightball;;5;0
+Matala;;5;0
+Club Loca;;5;0
+7 times;;5;0
+Mamounia;;5;0
+HUBU Summer Club;HUBU Summer;5;0
+Loco stage;;5;0
+Barato;;5;0
+Koursaros;;5;0
+Oltre;;5;0
+Trust Club;Trust;5;0
+Angels Club;;5;0
+Ahoy Night Club Kallithea;;5;0
+Town Club;Town;5;0
+Folie;;5;0
+Magas cafe bar;;5;0
+Gazi Music Hall;;5;0
+Astraia;;5;0
+KAVOURAS Rempetika Laika;;5;0
+Casper;;5;0
+"""Logos Dancing Bar""";;5;0
+Actus;;5;0
+Hamam;;5;0
+Crazy Town;;5;0
+Minibar;;5;0
+Metropolis club;;5;0
+Prison Club;Prison;5;0
+Lagoon;;5;0
+YTON the music show;;5;0
+Estate;;5;0
+BOX Athens;;5;0
+Like Music Club;Like;5;0
+Apla kai ellinika;;5;0
+Venti;;5;0
+Death Disco;Death;5;0
+Bokan;;5;0
+Tokyo;;5;0
+Lohan;;5;0
+Blast;;5;0
+@54;;5;0
+JackieO';;5;0
+Island of Desire;;5;0
+Enigma Club;;5;0
+Popeye;;5;0
+Koo Club;Koo;5;0
+Acro;;5;0
+Kouros club;Kouros;5;0
+Alabasyron (jazz, latino...);Alabasyron;5;0
+Capone;;5;0
+Europa club;;5;0
+LT;;5;0
+Boutique;;5;0
+Edem Beach Club;Edem Beach;5;0
+Paradise Beach Club Mykonos;;5;0
+Shamone;;5;0
+Nuba;;5;0
+Size;;5;0
+Appartment;;5;0
+The Residents;Residents;5;0
+Red Sea Reggae House;;5;0
+Market Night Club;Market;5;0
+Gazi Club;Gazi;5;0
+Rainbow Metal Club;Rainbow Metal;5;0
+Gazziview;;5;0
+Eiffel Nightclub;Eiffel;5;0
+Magenta;;5;0
+Blaze night club;Blaze;5;0
+Arxaion;;5;0
+K105K Club Oriental;;5;0
+Ghetto;;5;0
+Karabo;;5;0
+IT Athens;;5;0
+Vidi Vici;;5;0
+Athens Stage;;5;0
+Dimitra;;5;0
+Ape nightclub;Ape;5;0
+The Platform Athens;Platform Athens;5;0
+Kabos club Athens;;5;0
+Astra Live;;5;0
+Nite Club;Nite;5;0
+Dark Sun;;5;0
+Apollo Club;;5;0
+Candy Club;;5;0
+Lux Club;;5;0
+Eden Of Shaka;;5;0
+ID Club;;5;0
+Kinky night club;;5;0
+Nhaos;;5;0
+Barbarella Live;;5;0
+Fix Factory Of sound;;5;0
+Sixty Six Crew;;5;0
+Barrelledakio;;5;0
+Ciroc;;5;0
+Bequeer;;5;0
+Bo Nightclub;;5;0
+Bagallan Club;Bagallan;5;0
+Statues Club Cocktail & Shisha Bar;;5;0
+Comple pub;;5;0
+Cozmo;;5;0
+D.a.d.a. nightclub;;5;0
+Azael;;5;0
+Soul;;5;0
+Block 33;;5;0
+Vitrine;;5;0
+Jacky.O;;5;0
+Can can;;5;0
+D Side;;5;0
+Rumours;;5;0
+90 Music Point;;5;0
+Cabal;;5;0
+Ariana;;5;0
+Cenário;;5;0
+Opa Opa;;5;0
+Blender Bar;;5;0
+Club Sensation;;5;0
+Club IVI;IVI;5;0
+Mamounia live;;5;0
+Mylos 1927;;5;0
+LIDO Paradise club;LIDO Paradise;5;0
+Karnagio Club;Karnagio;5;0
+Mezzo;;5;0
+Bed Club;Bed;5;0
+VOG Vlub;;5;0
+Athens Center;;5;0
+Event Club;Event;5;0
+Sizzle;;5;0
+Fishbowl;;5;0
+Zeros;;5;0
+Icons;;5;0
+IDOL;;5;0
+Amphitheatre Night Club;Amphitheatre;5;0
+Teatro Music Hall;Music Hall;5;0
+Cavo Paradiso Club Mykonos;Cavo Paradiso Club;5;0
+Kismet;;5;0
+Maison Crystal;;5;0
+Disco & Bar;;5;0
+Sarai;;5;0
+Off the chain;;5;0
+Temple;;5;0
+2nd skin;;5;0
+Odyssey;;5;0
+Axum;;5;0
+Island;;5;0
+Taboo Cocktail Club;Taboo Cocktail;5;0
+Mostar Cafe;;5;0
+Markiz Night Club;Markiz;5;0
+Lab Art;;5;0
+Animal;;5;0
+Omilos;;5;0
+Cocus;;5;0
+Idol Club;;5;0
+Bluesky;;5;0
+Caesars Club;Caesars;5;0
+54 Dreamy Nights;;5;0
+Akrotiri summer club;Akrotiri summer;5;0
+Disco La Luna;;5;0
+Fiji Island;;5;0
+Pearl Night Club;;5;0
+No Name Club;No Name;5;0
+Oddity Club;Oddity;5;0
+College Club;;5;0
+Scorpios;;5;0
+Dubioza rent a bar;;5;0
+Stara hiža;;5;0
+Dom kulture;;5;0
+INFINITY Club Bjelovar;;5;0
+Plus;;5;0
+The Red Apple Pub;Red Apple Pub|Crvena Jabuka;5;0
+Pocco Locco cocktail bar;;5;0
+Queen bar;;5;0
+Aquarius;;5;0
+Regenerator;;5;0
+Dolls;;5;0
+Sax;;5;0
+Klub Kocka;;5;0
+Club Quasimodo;;5;0
+Hemingway Bar;;5;0
+Vetro bar & bites;;5;0
+Kontesa music & cabare;;5;0
+Jedinica;;5;0
+Pub na kraju svijeta;na kraju svijeta;5;0
+Stereo (club);;5;0
+Palach;;5;0
+Aurora;;5;0
+Elyx;;5;0
+Salvador Dali;;5;0
+Cezar;;5;0
+Disco Club Monaco;Club Monaco;5;0
+Thriller;;5;0
+BBS;;5;0
+Club H2O;;5;0
+Dioniz;;5;0
+Automat Club;Automat;5;0
+Sokol klub Zagreb;;5;0
+Colapis;;5;0
+Paparazzo;;5;0
+Svarog Bar;;5;0
+Big Mama;;5;0
+Beertija;;5;0
+News;;5;0
+Madhouse;;5;0
+Noćni Club M7;;5;0
+San Marco;;5;0
+Night club BOSS;;5;0
+Disco Bar Jungle;;5;0
+Klub Uljanik;;5;0
+El ron de Cuba;;5;0
+Judino drvo;;5;0
+Disco Summer Club;Summer;5;0
+Temple Night Club;;5;0
+Boogie Jungle Night Club;Boogie Jungle;5;0
+River Pub;;5;0
+Banana Club;;5;0
+Night Club Montana;Montana;5;0
+Malex;;5;0
+BlueOne;;5;0
+American Bar;;5;0
+Crkva;;5;0
+Masters Klub;;5;0
+Noštromo;;5;0
+Ritam Grada;;5;0
+Adris Old Tobacco Factory;;5;0
+The Beat Beach Club;Beat Beach;5;0
+Admiral Club;;5;0
+Marvil;;5;0
+Vintage Industrial Bar;;5;0
+Revelin;;5;0
+Močvara;;5;0
+Feniks;;5;0
+Bench;;5;0
+Museum Katran;Katran;5;0
+Palazzo;;5;0
+Limb;;5;0
+Tower;;5;0
+Barbarella's Discotheque;Barbarella's;5;0
+Lord of the Pubs;;5;0
+Podrum;;5;0
+Magnus;;5;0
+Konoba;;5;0
+Horti;;5;0
+"Noćni klub ""M""";;5;0
+Platinum Bar & Discotheque;Platinum Bar &;5;0
+Inside;;5;0
+Element;;5;0
+Club EXIT Osijek;EXIT Osijek;5;0
+Makarana;;5;0
+Tunel;;5;0
+Diamont Club;Diamont;5;0
+Ilir Bar;;5;0
+Jack Daniels;;5;0
+Lost and found;LAF - Lost & Found nightclub;5;0
+Nord;;5;0
+Kuka;;5;0
+Ludnica;;5;0
+Allegro;;5;0
+Caffe & Night Barr Šampion;;5;0
+Ledana;;5;0
+By the way;;5;0
+Mint club & more;;5;0
+Central The Club;;5;0
+Boiler Club & Dining;;5;0
+Modesto;;5;0
+Bang night club and caffe bar;;5;0
+EPIC - Alternativni klub Osijek;;5;0
+Disco klub 69 INTIM;klub 69 INTIM;5;0
+Kuglana;;5;0
+Rock Beer Club Alcatraz;;5;0
+Deep Makarska (Cave Bar);Deep Makarska;5;0
+X Night Club;;5;0
+Brodway;;5;0
+Sagapo bar;;5;0
+Veliki Arsenal;;5;0
+Luda Koka;;5;0
+Veneranda;;5;0
+Disco Saturnus;Saturnus;5;0
+Discoteque Planet;;5;0
+Teens Club;Teens;5;0
+Armus;;5;0
+Vagabundo;;5;0
+Porta Salina;;5;0
+Best life;;5;0
+Život;;5;0
+Petar Pan;;5;0
+Disco bar Zelendvor;Zelendvor;5;0
+Drago Club;Drago;5;0
+Dva osam;;5;0
+KMŠ;;5;0
+xTime;;5;0
+Klub KGB Maribor;Klub KGB;5;0
+Balkan club Podroom;;5;0
+nočni klub Spartacus;;5;0
+Night Club Mamut;Mamut;5;0
+Planet Party diskoteka;;5;0
+Club Pergola;Pergola;5;0
+MKNŽ (Mladinski Klub Nade Žagar);MKNŽ;5;0
+Monaliza;;5;0
+Cirkus;;5;0
+Monokel;;5;0
+Publika bar;;5;0
+K4;;5;0
+Cvetličarna Mediapark;;5;0
+Channel Zero;;5;0
+Gala Hala;;5;0
+Klub Gromka;;5;0
+Jalla Jalla;;5;0
+Menza pri koritu;;5;0
+Casino Belvedere;;5;0
+Bar M-NITE klub;;5;0
+Klub Bazen Kranj;Klub Bazen;5;0
+Diskoteka Oxygen;;5;0
+Yucatan;;5;0
+Nočni lokal erotik;;5;0
+Club Sky Light;Sky Light;5;0
+Otard;;5;0
+Lazino tele;;5;0
+Diskoooo;;5;0
+Kućerak;;5;0
+Super Bistrica;;5;0
+Klub Anki;;5;0
+Paradigma Night Club;Paradigma;5;0
+Club Cinema;;5;0
+Mr Stefan Braun;;5;0
+Haaï;;5;0
+Klub studenata tehnike;;5;0
+Rock Club Revolution;;5;0
+Kućerda BalkanBeatBar;;5;0
+Tarapana;;5;0
+Feedback;;5;0
+Half;;5;0
+Gradska Kafana Beograd;;5;0
+Cvetković;;5;0
+Hangar 3;;5;0
+Dionis Club;Dionis;5;0
+Level night Club;;5;0
+Drugstore;;5;0
+Hugo's;;5;0
+Ambar;;5;0
+NanaCubana;;5;0
+Kruzer;;5;0
+Barutana;;5;0
+Brodarac;;5;0
+Nexus Club;;5;0
+Lazin Sokak;;5;0
+Djava;;5;0
+Etiko;;5;0
+Secer;;5;0
+Jazbina;;5;0
+Kafana Limun zut;;5;0
+Soul Society;;5;0
+Geto;;5;0
+Tarapanna;;5;0
+Čokolada;;5;0
+Midnight express;;5;0
+Trik;;5;0
+Klub Garaza;;5;0
+klub skala;;5;0
+Club Tunnel;;5;0
+Gradska kafana Sinđelić;;5;0
+Esco;;5;0
+Dzek;;5;0
+Caffe Car;;5;0
+Sparta;;5;0
+Ei Letnji Klub;;5;0
+Terrarosa;;5;0
+Zappa baza;;5;0
+Mala Scena 011;;5;0
+Ulica;;5;0
+501 Club;501;5;0
+Amor;;5;0
+Johnnie;;5;0
+Kafana Bulevar;;5;0
+Joly;;5;0
+Matinée;;5;0
+Fest;;5;0
+20/44;;5;0
+Gypsy Jazz club;Gypsy Jazz;5;0
+Klub Gradska kafana;;5;0
+Karmakoma;;5;0
+Masqarade;;5;0
+Cajger;;5;0
+Beli jelen;;5;0
+Lasta;;5;0
+Baraka;;5;0
+Elektropionir;;5;0
+DC Arena Negotin;;5;0
+Castello;;5;0
+Pajin konak;;5;0
+Disko bar Bumerang;;5;0
+N Public Summer Club;N Public Summer;5;0
+Dva galeba;;5;0
+Kod Bizona;;5;0
+Caffe Venezia;;5;0
+Zappa Barka;;5;0
+Moja Kafanica;;5;0
+Mayer’s;;5;0
+CAPO;;5;0
+Bistro OpenAir;;5;0
+Monako;;5;0
+disco club Borboleta;club Borboleta;5;0
+Zlatna Pećina;;5;0
+Diskoteka;;5;0
+"Diskoteka ""Rodeo""";;5;0
+Casino Lutrija BiH;;5;0
+Night Club Tron;Tron;5;0
+Sloga;;5;0
+"Disco club ""Virus""";"club ""Virus""";5;0
+"Kafana ""Da me nije""";;5;0
+Caffe Bar Vegas;;5;0
+"Club ""New Star""";"""New Star""";5;0
+Adi;;5;0
+SvarogInDoor;;5;0
+Absolute;;5;0
+Diskoteka BM Trsic;;5;0
+Aquarius Vils;;5;0
+Elements;;5;0
+"Noćni klub ""ART""";;5;0
+"Noćni klub ""Time Square""";;5;0
+Club Palma;;5;0
+Gaudeamus disco club;Gaudeamus disco;5;0
+Ali Baba (Pećina);;5;0
+"Noćni klub ""Druga priča""";;5;0
+Mr. Stefan Browne;;5;0
+Nocni club Sindikat;;5;0
+Fine Life;;5;0
+BUMERANG disco club;BUMERANG disco;5;0
+Das ist Walter;;5;0
+Pacific;;5;0
+River;;5;0
+Night club Opera;;5;0
+Lukas;;5;0
+Night Club Diamond;;5;0
+Diskoteka Alien;;5;0
+Sunce;;5;0
+Imperija;;5;0
+MyFace;;5;0
+Moment Night Club;;5;0
+Club Studio;;5;0
+GoldenCube - pub 'n club;GoldenCube|GoldenCube - pub 'n;5;0
+Score;;5;0
+Drugi Način;;5;0
+Caffe CLUB Ćićko;;5;0
+Grand Saloon;;5;0
+Black and white;;5;0
+Cristal S. Club;Cristal S.;5;0
+K.U.K;;5;0
+Zub;;5;0
+Silver and smoke;;5;0
+Club 17;;5;0
+Diskoteka Alkazar;;5;0
+Sri sela;;5;0
+Zvono;;5;0
+Gradski bazen;;5;0
+"Splav ""Sveti Nikola""";;5;0
+Alkatraz;;5;0
+Together;;5;0
+Daleka Obala;;5;0
+Galaksija;;5;0
+Splav Element;;5;0
+Top Hill;;5;0
+Buddha Bar;;5;0
+Club Municipium S;Municipium S;5;0
+Karmin;;5;0
+Discoteka Sparta;;5;0
+Taqueria;;5;0
+Maine Terrazza;;5;0
+Ambiente;;5;0
+Automata Club;Automata;5;0
+Laka;;5;0
+Tondo;;5;0
+Planet Discoteque;;5;0
+Sektor909;;5;0
+Privilege Cliub;;5;0
+River - Night Club;;5;0
+Balet;;5;0
+Dominus;;5;0
+Disco Club VIP;Club VIP;5;0
+Mezo Club;Mezo;5;0
+Station 26;;5;0
+Jazz Inn;;5;0
+Mamas;;5;0
+The Harbour Club;Harbour;5;0
+Club Pulse;;5;0
+Raschekor;;5;0
+Havana Summer Club;Havana Summer;5;0
+Pure Night Club;;5;0
+Ratrak Club;Ratrak;5;0
+Magic Club Tirana;;5;0
+Brayan;;5;0
+Big Love;;5;0
+Maximus Club;;5;0
+Geri Beach Club;Geri Beach;5;0
+Tymi;;5;0
+Opium Club;;5;0
+Club Shqiponja 2;Shqiponja 2;5;0
+Kompleksi Havanna;;5;0
+Cavaliero club;Cavaliero;5;0
+Bizarre Lounge;;5;0
+Babylon Club;;5;0
+Club te Tapeti Kuq;te Tapeti Kuq;5;0
+Ballkan Club;Ballkan;5;0
+Club Butterfly;;5;0
+Diaspor Club;Diaspor;5;0
+4Elements;;5;0
+Hotspot Tirana;;5;0
+Oro Bianco;;5;0
+Goat;;5;0
+Tunel Music Venue;;5;0
+Club Buda;;5;0
+VA Club;;5;0
+Crazy Calvin;;5;0
+Cinco Club;;5;0
+Silk and Velvet;;5;0
+Bar Rumours;;5;0
+The Basement Club;;5;0
+Metropole Retro Music Club;Metropole Retro;5;0
+Theama;;5;0
+Ideal;;5;0
+Titanic Night CLub;;5;0
+Starsky's Club;Starsky's;5;0
+Priva;;5;0
+4play;;5;0
+Glamuor;;5;0
+Flairs;;5;0
+Almahara Gece Kulübü;;5;0
+The Pirates;Pirates;5;0
+The Bell;Bell;5;0
+Notes Live;;5;0
+Bedrock Cafe;;5;0
+Guaba;;5;0
+Versus Club;Versus;5;0
+Night Elements Club;Night Elements;5;0
+Breeze;;5;0
+Breeze Club;;5;0
+Klubd;;5;0
+Las Vegas club;;5;0
+Florida Gece Kulübü;;5;0
+Miss Me Gece Kulübü;;5;0
+Faraon Gece Kulübü;;5;0
+Harem Night Club;;5;0
+Freedom Girls Night Club;Freedom Girls;5;0
+İmparator Night Club;İmparator;5;0
+Prenses Night Club;Prenses;5;0
+Malişka Gece Kulübü;;5;0
+Biyax Gece Kulübü;;5;0
+Hanedan Gece Kulübü;;5;0
+Golden Girls Gece Kulübü;;5;0
+Monamour Gece Kulübü;;5;0
+Playboy Gece Kulübü;;5;0
+Yakamoz Gece Kulübü;;5;0
+Rose Afrodit Gece Kulübü;;5;0
+Expression;;5;0
+The Flintstones;Flintstones;5;0
+Sacret Garden;;5;0
+Ravens Music Hall;;5;0
+Kıbrıs Escort - Kıbrıs Escort Katalog;Kıbrıs Escort;5;0
+Dolls Night Club;;5;0
+Ibiza Night Club;;5;0
+Q Cocktail Bar;;5;0
+Doll Palace;;5;0
+Pavilion Hall;;5;0
+Girne Escort Kataloğu;;5;0
+Girne Escort Fiyatları;;5;0
+Girne Escort Katalog;;5;0
+Girne Escort - Kıbrıs Escort;Girne Escort;5;0
+Castle Club;Castle;5;0
+Girne VIP Escort;;5;0
+Monamour Night Club;Monamour;5;0
+Tuttu Frutti Gece Kulübü;;5;0
+Rio Night Club;;5;0
+Vibes City;;5;0
+Apolon;;5;0
+Anemon Gece Kulübü;;5;0
+Midnight Club;Midnight;5;0
+Mid Night Gece Kulübü;;5;0
+Blue Night Club;;5;0
+Lipstick Night Club;Lipstick;5;0
+Club 22;;5;0
+Footloose;;5;0
+Gianpula;;5;0
+Tigullio;;5;0
+Club RED;;5;0
+Ööklubi Ibiza;;5;0
+Rock & Roll;;5;0
+Geneva Club;Geneva;5;0
+Crisis;;5;0
+Club Münt;Münt;5;0
+Öökubi;;5;0
+Vaarikas;;5;0
+Sugar;;5;0
+Cocoloco Snack Bar;;5;0
+Str&;;5;0
+Kohvik-baar Püramiid;;5;0
+Helitehas;;5;0
+Sossi Klubi;;5;0
+Club Tartu;Tartu;5;0
+Klubi Võhandu;;5;0
+Ööklubi Ööliblikas;;5;0
+Hi-Fi Boutique;;5;0
+Piidivabrik;;5;0
+Tonu's pub;;5;0
+Lekker;;5;0
+Ööklubi Café Amigo;;5;0
+Aptek;;5;0
+CatHouse Club;;5;0
+Golden Time;;5;0
+Klubi Neli;;5;0
+Kompanii klubi;;5;0
+Lounge Miäli;;5;0
+Paparazzi;;5;0
+Hall;;5;0
+Next Level;;5;0
+Sapphire;;5;0
+Maasikas;;5;0
+Klondaik;;5;0
+D3;;5;0
+Mjau;;5;0
+Laisholm Pub;;5;0
+Call Me;;5;0
+Fonoklubs;;5;0
+Melnā piektdiena;;5;0
+Sapņi un kokteiļi;;5;0
+One More Club;One More;5;0
+OneOne;;5;0
+Big 7;;5;0
+Fontaine Palace;;5;0
+Fontaine GypsyCamp;;5;0
+Rigonda;;5;0
+Radio bar;;5;0
+First;;5;0
+Top;;5;0
+Piji;;5;0
+Kursas Putni;;5;0
+Vagonu zāle;Vagonu halle;5;0
+Hot-Rio;;5;0
+Artilērijas pagrabi;;5;0
+Taller;;5;0
+Tonuss;;5;0
+Bastīlija;;5;0
+The Blow;;5;0
+Republika;;5;0
+Multiklubs;;5;0
+de flou;;5;0
+Luiize;;5;0
+Silrak;;5;0
+Pandemonium;;5;0
+Valknut;;5;0
+Klubs Depo;;5;0
+Coyote Fly;;5;0
+Tamsta Klubas;;5;0
+Soho naktinis klubas;;5;0
+Lithuanian wild;;5;0
+Salento Disco Pub;;5;0
+Loftas;;5;0
+Disco 311 Buddha;311 Buddha;5;0
+POSH Cocktail Club;POSH Cocktail;5;0
+Mix Bar;;5;0
+nArauti;;5;0
+Trinity;;5;0
+Opalocka;;5;0
+Materialiste;;5;0
+Red Cat;;5;0
+Havana social club;;5;0
+Puntukas;;5;0
+Vakaris Vilnius;Vakaris;5;0
+Kablys;;5;0
+Jazzpilis;;5;0
+Naktinis Tbilisis;;5;0
+Naktinis klubas-baras;;5;0
+Naktinis Klubas 30;;5;0
+Opera CLub;;5;0
+Crystal Show Club;Crystal Show;5;0
+Nasa Club;Nasa;5;0
+Metelica Naktinis Klubas;;5;0
+Mazzor Night Club;Mazzor;5;0
+Lizdas;;5;0
+Marushka;;5;0
+Mojito Nights;;5;0
+Honeycomb;Golden Room;5;0
+2 po 50;;5;0
+Mega pramogos;;5;0
+Laukinių Vakarų salūnas;;5;0
+Pramogų bankas;;5;0
+Lemmy;;5;0
+Vizbaro Disco;Vizbaro;5;0
+Cursal;;5;0
+San Remo;;5;0
+111;;5;0
+Poseidon;;5;0
+Panorama Lounge;;5;0
+Soho Terrace;;5;0
+Rezus+;;5;0
+Jazz;;5;0
+Berushi;;5;0
+Litca;;5;0
+Sfera;;5;0
+Vip 77;;5;0
+Orange;;5;0
+Rasputin;;5;0
+Romantic;;5;0
+Magnet;;5;0
+Good Zone;;5;0
+Freedom Party Bar;;5;0
+Rasputin Club;;5;0
+Candies;;5;0
+Sentrum;;5;0
+Good one;;5;0
+PurPur;;5;0
+Rafinad People;;5;0
+Átlas;;5;0
+Alchemist;;5;0
+Limon;;5;0
+Galaktika Club;;5;0
+Nc Dinamit;;5;0
+Disel;;5;0
+Versal;;5;0
+True Man Club;True Man;5;0
+Sova;;5;0
+Siqueiros;;5;0
+Aqua Dance Beach Club;Aqua Dance Beach;5;0
+Manufactura;;5;0
+Room 59;;5;0
+Black and Wite;;5;0
+Aqua Dance;;5;0
+Ankas;;5;0
+Kazanova;;5;0
+Hranat;;5;0
+Lavanda;;5;0
+Romen;;5;0
+BROD WAY Concert Hall;;5;0
+Axis;;5;0
+Manhattan NC;;5;0
+Lacy;;5;0
+Serebro;;5;0
+Caribbean Club;;5;0
+Kanyra;;5;0
+B'Fly night club;B'Fly;5;0
+Eila Night Club;Eila;5;0
+Asham;;5;0
+Globus;;5;0
+RIA;;5;0
+Galicia Disco Club;Galicia Disco;5;0
+Samba;;5;0
+De Luxe cafe;;5;0
+Bali;;5;0
+Alladin;;5;0
+Golden fish;;5;0
+The LasVegas;LasVegas;5;0
+Diesel Club;Diesel;5;0
+Hiresh;;5;0
+Barbaris;;5;0
+Adrenaline;;5;0
+Monte Ray;;5;0
+Brasil;;5;0
+Jet;;5;0
+LEX Lounge Bar;;5;0
+Vintage;;5;0
+Papa De More;;5;0
+Silentium;;5;0
+Black Wood;;5;0
+IceBerg;;5;0
+Power;;5;0
+Extreme;;5;0
+Pravda club;Pravda;5;0
+Maximum;;5;0
+Arena Lounge Karaoke Club;Arena Lounge Karaoke;5;0
+Reflection;;5;0
+Cheshirskiy kot;;5;0
+Juice Bar;;5;0
+Skyroom;;5;0
+Dolce Club;;5;0
+Orbita;;5;0
+Ozon Club;Ozon;5;0
+Chesterfield;;5;0
+Voda;;5;0
+Humpback Polish;;5;0
+Monti;;5;0
+Casa de cultură;;5;0
+Volume Club;Volume;5;0
+Monkey House;;5;0
+Caprica;;5;0
+General;;5;0
+Kontrabass;;5;0
+Panorama club;;5;0
+Faberge;;5;0
+Iznanka BDSM Bar;;5;0
+Versailles;;5;0
+Catarsis;;5;0
+Princess Men’s club;Princess Men’s;5;0
+Radmir;;5;0
+Pahanini;;5;0
+Freeman;;5;0
+Meduza.if;;5;0
+Zoloto;;5;0
+Vegas Night club;;5;0
+LF Club;;5;0
+Open Kitchen;;5;0
+Shade;;5;0
+Young;;5;0
+Nice Club;;5;0
+Senator;;5;0
+Kotelnia Ruïn Bar;;5;0
+Misto;;5;0
+Collider;;5;0
+Casta Men's Club;Casta Men's;5;0
+Bigme;;5;0
+Fortetsia;;5;0
+Forsage;;5;0
+Rayon;;5;0
+Fort Knox;;5;0
+NC Magnat;;5;0
+Daktus;;5;0
+Shark;;5;0
+"""mariopark""";;5;0
+"Night club ""White""";"""White""";5;0
+Madisan rock club;Madisan rock;5;0
+Saxon;;5;0
+Fun Park;;5;0
+Barocco;;5;0
+Seven Eleven;;5;0
+XLevel;;5;0
+Jennifer;;5;0
+Queen Kyiv;;5;0
+party bar Salvador Dali;;5;0
+Pelikan Beach Club;Pelikan Beach;5;0
+1+1;;5;0
+Intense;;5;0
+Chocolate Project;;5;0
+Exotic park;;5;0
+Disco radio hall;radio hall;5;0
+Red Line;;5;0
+!Fest Republic;;5;0
+Elite Club;;5;0
+"Nightclub ""Rich""";"""Rich""";5;0
+Liberty of the seas;;5;0
+True Man Hot Boat;;5;0
+Malevich;;5;0
+Mantra Beach Club;Mantra Beach;5;0
+S&S Project;;5;0
+Platinum 999 club;Platinum 999;5;0
+Ibiza Beach Club;Ibiza Beach;5;0
+Park Club;Park;5;0
+Portofino Beach Resort;;5;0
+Lemonade;;5;0
+Den Hall;;5;0
+Sam Feri;;5;0
+Zephyr;;5;0
+"""Inout""";;5;0
+Buda Andorra;;5;0
 Galleria 149;;5;0
 Heat Club;Heat;5;0
 L'Antirouille;;5;0
@@ -5016,7 +9147,7 @@ Calcione Castle;;5;0
 Kamerlengo Fortress;;5;0
 Minimal Club;Minimal;5;0
 Reykjavík - Travel;Reykjavík;5;0
-Split - Travel;Split;5;0
+Split - Travel;;5;0
 Ocean Inn Club;Ocean Inn;5;0
 Chantier 109;;5;0
 Clorophilla Club;Clorophilla;5;0
@@ -5028,11 +9159,9 @@ Officine Farneto;;5;0
 K-Beachclub;;5;0
 Andrea Doria;;5;0
 Justme Porto Cervo;Justme;5;0
-Fuse;;5;0
 Arena del Mare;;5;0
 Pyrex Arena;;5;0
 Villa Bianco - Old;Villa Bianco;5;0
-Black Hole;;5;0
 Sporting Club;Sporting;5;0
 909 Club;;5;0
 Lido El Caribe;;5;0
@@ -5040,9 +9169,7 @@ Lido Emily's;;5;0
 Gate Milano;;5;0
 Sesto Senso;;5;0
 Q35 Warehouse;;5;0
-Bloody Louis;;5;0
 A Voz do Operário;;5;0
-Magic Club;;5;0
 LXFactory;;5;0
 Tenuta Villa Rosa;;5;0
 Castello di San Giorgio Canavese;;5;0
@@ -5052,7 +9179,6 @@ Club 89;;5;0
 Cinecittà World;;5;0
 CoffingHouse Dipartimento Di Ingegneria;;5;0
 Stazione Leopolda;;5;0
-C12;;5;0
 FIL - Feira Internacional de Lisboa;FIL;5;0
 Pala DuchessaLia;;5;0
 Mediterraneo Club;;5;0
@@ -5075,13 +9201,13 @@ Aux Grands Enfants Tennis Clubbing;;5;0
 Fell In Love;;5;0
 Ginjal Terrasse;;5;0
 Orizzonte Discoteque;;5;0
-Lido Ascona;Lido;5;0
+Lido Ascona;;5;0
 Al Ponte;;5;0
 Ippodromo San Siro Galoppo;;5;0
 Praia de Ribeira d´Ilhas;;5;0
-Waikiki - Praia da Sereia;Waikiki;5;0
+Waikiki - Praia da Sereia;;5;0
 Anfiteatro delle Cascine;;5;0
-Bamboo Club;Bamboo;5;0
+Bamboo Club;;5;0
 Castelo de Sesimbra;Castelo de;5;0
 Fluo Run - Cavriana;;5;0
 Sottovento Club;Sottovento;5;0
@@ -5111,7 +9237,6 @@ Land;;5;0
 Pavilhão Carlos Lopes;;5;0
 Papessa Club;Papessa;5;0
 São Mamede CAE;;5;0
-Egg London;Egg;5;0
 Lisboa Rio Club;Lisboa Rio;5;0
 THE BOAT by Unreleased;THE BOAT|BOAT by Unreleased|BOAT;5;0
 Caprice d'Ambiance;;5;0
@@ -5120,11 +9245,9 @@ Combo Social Club;Combo;5;0
 Fluo Run - Castello di Desenzano;;5;0
 Touch Club;;5;0
 Joy & Joy;;5;0
-Hall;;5;0
 Primo Piano;;5;0
 District 272 Milano;;5;0
 Fluo Run - Genova;;5;0
-Rebel;;5;0
 The Class;Class;5;0
 Il Ruscello Disco Clubbing;;5;0
 El Trò;;5;0
@@ -5134,10 +9257,10 @@ Tatanka Club;Tatanka;5;0
 Not In Club;Not In;5;0
 Fluo Run - Jesolo;;5;0
 Lisb-ON Jardim Sonoro;;5;0
-Lenox Club;Lenox;5;0
+Lenox Club;;5;0
 Affekt Club;Affekt;5;0
 Nora Rotterdam;Nora;5;0
-Jazz Club;Jazz;5;0
+Jazz Club;;5;0
 Jeux d'Hiver;;5;0
 Tuscany Hall;;5;0
 Pink Woman;;5;0
@@ -5156,7 +9279,6 @@ Faktory Basement;;5;0
 Phi Beach;;5;0
 Ambra Night;;5;0
 SuperNatural;;5;0
-Madame Moustache;;5;0
 ŌKAH Rooftop;;5;0
 Trumps;;5;0
 Discoteca Florida;;5;0
@@ -5172,7 +9294,7 @@ Nf-34;;5;0
 California Dream;;5;0
 Parco Delle Cascine;;5;0
 Porto Di Forio;;5;0
-à la folie paris;à la folie;5;0
+à la folie paris;;5;0
 Arroz Estúdios;;5;0
 Prince Club;;5;0
 Billionaire Porto Cervo;Billionaire;5;0
@@ -5186,7 +9308,7 @@ LaPéniche;;5;0
 Le Club Santa Eulália;;5;0
 NB Club Figueira;;5;0
 Ophelia Catamaran;;5;0
-One O One (101);One O One;5;0
+One O One (101);;5;0
 Rimini Beach Arena;;5;0
 Mirano;;5;0
 Loft 58;;5;0
@@ -5200,7 +9322,7 @@ Village Underground Lisboa;;5;0
 Pérola Negra Club;;5;0
 Palazzo Lepri;;5;0
 Castello di Barolo;Castello di;5;0
-The KEY;KEY;5;0
+The KEY;;5;0
 Sport Village Club;Sport Village;5;0
 Biko;;5;0
 Veneto Cable Park;;5;0
@@ -5255,15 +9377,12 @@ Palamondo;;5;0
 After Ego;;5;0
 Palabarton;;5;0
 Focus;;5;0
-Mamamia;;5;0
 O'Club Toulouse;;5;0
 Le Bikini;;5;0
-Opium Club;;5;0
 Connexion Live;;5;0
 L’Envol Côté Plage;;5;0
 Follow Me;;5;0
 L'Arena;;5;0
-Nine;;5;0
 Plaisir Hippique d'Hiver;;5;0
 MIND - Milan Innovation District;;5;0
 Dock des Suds;;5;0
@@ -5274,10 +9393,10 @@ Orange Vélodrome;;5;0
 Full Up Club;Full Up;5;0
 Cala Felice;;5;0
 RM Club;;5;0
-Lounge - Kursaal;Lounge;5;0
+Lounge - Kursaal;;5;0
 Hippodrome Vivaux Marseille;Hippodrome Vivaux;5;0
 Gate 13;;5;0
-Enjoy Social Club;Enjoy;5;0
+Enjoy Social Club;;5;0
 DO NOT DISTURB by Unreleased;DO NOT DISTURB;5;0
 Evergreen;;5;0
 La Vela Punta Ala;;5;0
@@ -5313,19 +9432,11 @@ Mensch Meier;;5;0
 Else;;5;0
 Suicide Circus;;5;0
 Beate Uwe;;5;0
-Studio 338;;5;0
-Cargo;;5;0
 Electric Brixton;;5;0
-E1;;5;0
-XOYO;;5;0
-Village Underground London;Village Underground;5;0
-Phonox;;5;0
+Village Underground London;;5;0
 93 Feet East;;5;0
 Tobacco Dock;;5;0
 Toy Room London;;5;0
-Night Tales;;5;0
-Tonteria;;5;0
-Cirque le Soir;;5;0
 Junction House;;5;0
 Docks Dôme;;5;0
 Bahia Beach Club;Bahia Beach;5;0
@@ -5336,8 +9447,6 @@ Aula Magna Unitelma Sapienza;;5;0
 Istituto Svizzero Villa Maraini;;5;0
 Quinta da Pimenteira;;5;0
 Théâtre Piccolo;;5;0
-AIR;;5;0
-Jimmy Woo;;5;0
 Naada 3.0;;5;0
 Lisboa à Vista;;5;0
 Harbour Music Shelter;;5;0
@@ -5391,7 +9500,6 @@ Upper Place;;5;0
 Palacastellotti;;5;0
 Super Bock Arena - Pavilhão Rosa Mota;Super Bock Arena;5;0
 Jump in Bastille;;5;0
-Bellavista;;5;0
 Nu Bahia;;5;0
 Play Club Milano;;5;0
 Cargo 111;;5;0
@@ -5410,7 +9518,6 @@ L'Industrie;;5;0
 Cafè BLOOM;;5;0
 Le Concept;;5;0
 The Sanctuary Eco Retreat;Sanctuary Eco Retreat;5;0
-Flow;;5;0
 Club Life;;5;0
 Bay Club;Bay;5;0
 Palapaternesi;;5;0
@@ -5420,10 +9527,9 @@ Villa Sanquirico;;5;0
 Monoski Klub;;5;0
 La Boum;;5;0
 RCA Club;RCA;5;0
-Karlovy Lazne - Nightclub;Karlovy Lazne;5;0
-Radost FX Club;Radost FX;5;0
+Karlovy Lazne - Nightclub;;5;0
+Radost FX Club;;5;0
 Teatro da Luz;da Luz;5;0
-Cube Club;;5;0
 Folador;;5;0
 Mau Maria Discoteca;;5;0
 NADA Temple Madeira;;5;0
@@ -5436,7 +9542,6 @@ Little Chelsea Experience;;5;0
 Spacy Bar & Disco;Spacy Bar &;5;0
 Seven Infinity;;5;0
 Guest'S;;5;0
-Doktor Jack;;5;0
 Main Club;Main;5;0
 Le Cirque;;5;0
 Mélomane Club;Mélomane;5;0
@@ -5451,7 +9556,7 @@ The Sanctuary Milano;Sanctuary Milano;5;0
 Aria Club Milano;;5;0
 Kapital Andorra Discoteca;Kapital Andorra;5;0
 VIP Uliveto Terme;;5;0
-Panama Amsterdam;Panama;5;0
+Panama Amsterdam;;5;0
 La Baraque Originelle;;5;0
 AgaveMi;;5;0
 Ciné Club;Ciné;5;0
@@ -5480,7 +9585,6 @@ Vivi La Villa;;5;0
 Tapada Spot;;5;0
 Miss Penelope;;5;0
 Villa Glicini;;5;0
-Discoclub;;5;0
 Navitas Coliving;;5;0
 AMPHITHEATRE, Kirchberg Central park;;5;0
 Justme Versilia - Club;Justme Versilia;5;0
@@ -5547,7 +9651,6 @@ Carmo Rooftop;;5;0
 Maika'i (58 Shop);Maika'i;5;0
 Bagni Hilton - Bajda Club;Bagni Hilton|Bagni Hilton - Bajda;5;0
 Fundbureau;;5;0
-Claridge;;5;0
 Nucleo Club;Nucleo;5;0
 Valenciana Bar;;5;0
 Sole Pool Club;Sole Pool;5;0
@@ -5575,7 +9678,7 @@ Officina Giovani;;5;0
 Birmingham Palace;;5;0
 The Butcher Social Club;Butcher;5;0
 Loft Segreto;;5;0
-Silicone Club;Silicone;5;0
+Silicone Club;;5;0
 Barabba;;5;0
 Dandy Club;Dandy;5;0
 Officina Milano;;5;0
@@ -5590,7 +9693,7 @@ RSO Berlin;RSO;5;0
 Fondazione Sandretto Re Rebaudengo;;5;0
 Lio London;;5;0
 Moya Club;Moya;5;0
-Opera Club Conthey;Opera Club;5;0
+Opera Club Conthey;;5;0
 Ippodromo di Montebello;;5;0
 Carré Montparnasse;;5;0
 Jupiter;;5;0
@@ -5613,7 +9716,6 @@ Edelfettwerk;;5;0
 Anomalie Art Club;Anomalie Art;5;0
 PHYD;;5;0
 Barabar;;5;0
-Bliss;;5;0
 The Sneakers Café;Sneakers Café;5;0
 IKKI Luxembourg;IKKI;5;0
 PAL;;5;0
@@ -5622,8 +9724,7 @@ Südpol;;5;0
 Casale Dell'Arte;;5;0
 PAN;;5;0
 Gianca - Underground Club;Gianca|Gianca - Underground;5;0
-Birdy;;5;0
-Mani Club;Mani;5;0
+Mani Club;;5;0
 Prince Charles;;5;0
 ÆDEN;;5;0
 Torre Palazzelle;;5;0
@@ -5631,11 +9732,7 @@ On Sunday;;5;0
 Polo del '900;;5;0
 Frau Holle;;5;0
 Subtonic Dancing Club;Subtonic Dancing;5;0
-Apollo Live Club;Apollo Live;5;0
 Baarikärpänen;;5;0
-Kaivohuone;;5;0
-Maxine;;5;0
-Blu Bruxelles;;5;0
 Magma Club;;5;0
 Go A Lisboa;;5;0
 Jolie;;5;0
@@ -5643,8 +9740,6 @@ Baalsaal;;5;0
 Micro Music Club;Micro;5;0
 Clubino I Am Summer;;5;0
 HANGAR The Club;;5;0
-John Doe;;5;0
-Der Klub;;5;0
 Hbtoo;;5;0
 Goorilla Club;Goorilla;5;0
 Movida Club;;5;0
@@ -5654,17 +9749,14 @@ Cinema Zenith;;5;0
 L'Estaminet Matinal;;5;0
 KSTL Events;;5;0
 Cafe Van Bommel;;5;0
-Belvedere;;5;0
 Lian Club;Lian;5;0
 Estufa Fria;;5;0
 Zapata;;5;0
 Circolo Del Design;;5;0
 Portao Bar;;5;0
 Ribbon Club Culture;;5;0
-De Haus;;5;0
 Binario Dance Club;Binario;5;0
 KUBO Lisbon;;5;0
-HOME;;5;0
 Cap de la Hève;;5;0
 Odysseum;;5;0
 Cirque Micheletty;;5;0
@@ -5675,7 +9767,7 @@ Karoline;;5;0
 Espace 7;;5;0
 Mind House;;5;0
 Jungla Urbana;;5;0
-Secret Legnano;Secret;5;0
+Secret Legnano;;5;0
 Twentyfive Club;Twentyfive;5;0
 NAV - Nunca Antes Visto;NAV;5;0
 W Algarve;;5;0
@@ -5693,13 +9785,11 @@ Chiesetta della Misericordia;;5;0
 Café au Lait;;5;0
 NU Rooftop;;5;0
 Le Ciminiere;;5;0
-The View;View;5;0
 The Eight Rooftop Cocktail Bar;Eight Rooftop Cocktail Bar;5;0
 The Social Hub;Social Hub;5;0
 Flying House Lisboa;;5;0
 Quinta do Joinal;;5;0
 Justme Versilia - Beach;;5;0
-Cactus Club;;5;0
 Estoril Garden;;5;0
 Arena del Sound;;5;0
 Heaven's Door;;5;0
@@ -5716,7 +9806,6 @@ Sound Milano;;5;0
 San Lorenzo in da Wood;;5;0
 The Hospital;Hospital;5;0
 Angie's;;5;0
-Together;;5;0
 Traffic Club;Traffic;5;0
 Passos Manuel;;5;0
 Les Chais des Moulins - Dancing;Les Chais des Moulins;5;0
@@ -5820,10 +9909,9 @@ Vulcano Beach Club;Vulcano Beach;5;0
 MOI Concept Club;MOI Concept;5;0
 Teatro Jordão;Jordão;5;0
 Discoteca Gilda;;5;0
-Club IKONA;IKONA;5;0
+Club IKONA;;5;0
 Café-Concerto RUM by Mavy;Café-Concerto RUM;5;0
 Mundet Factory;;5;0
-The Garage;;5;0
 Juniper Club;Juniper;5;0
 Distretto Industriale 4;;5;0
 Vestigius Club;Vestigius;5;0
@@ -5881,12 +9969,11 @@ Cratere;;5;0
 Atmosfera Discoteca;;5;0
 Fiera di Padova;;5;0
 Théâtre Mercelis;;5;0
-Infinity Club;;5;0
 AEVE;;5;0
 WonderKlube;;5;0
 Basicvillage;;5;0
 Opera Music Forum;;5;0
-The Maze;Maze;5;0
+The Maze;;5;0
 Lido di Gozzano;;5;0
 Salle Java;;5;0
 Quilha Mar;;5;0
@@ -5895,7 +9982,6 @@ Salle La Maélia;;5;0
 Steintorwall 4;;5;0
 PalaBattisti;;5;0
 Discoteca Sombrero;;5;0
-Darling Club;;5;0
 Aforisma & Toy Room;;5;0
 Spazio Diaz;;5;0
 Docks Event Hall;;5;0
@@ -5922,7 +10008,6 @@ Bota Club;Bota;5;0
 Tank East;;5;0
 Quartier Général Oberkampf;;5;0
 H2NO;;5;0
-Lux Club;;5;0
 Detroit Nantes;;5;0
 Baleal Parking;;5;0
 Chez Jean-Luc;;5;0
@@ -5940,7 +10025,6 @@ Jolie Club;;5;0
 Higher Ground;;5;0
 Villa Castelletti;;5;0
 Mine Club;Mine;5;0
-Elite Club;;5;0
 Industrie Catania;Industrie;5;0
 Principino Eventi;;5;0
 Grüner Jäger;;5;0
@@ -5965,9 +10049,8 @@ Nur Bar;;5;0
 Formula Discoteque;;5;0
 Golden Pudel;;5;0
 Club Industria;;5;0
-Encore Luxembourg;Encore;5;0
+Encore Luxembourg;;5;0
 This Club Mirano;This Club;5;0
-Wunder Box;;5;0
 Maison Plénitude;;5;0
 REC Club;REC;5;0
 Mya Club;;5;0
@@ -5983,7 +10066,7 @@ Gotec;;5;0
 Caffè Batavia;;5;0
 Skones;;5;0
 Afrobar;;5;0
-Inside Club;Inside;5;0
+Inside Club;;5;0
 Plan B Cocktail Bar;;5;0
 Enfer Club;Enfer;5;0
 8Marvila;;5;0
@@ -5998,7 +10081,7 @@ T-Bone Station Trastevere;;5;0
 T-Bone Station Prati;;5;0
 T-Bone Station Gianicolense;;5;0
 Golf Club Due Ponti;;5;0
-Bridge Paris;Bridge;5;0
+Bridge Paris;;5;0
 Bamboo Club Pescara;;5;0
 La Bush;;5;0
 Villa Ada;;5;0
@@ -6054,13 +10137,12 @@ SAN PIETRO IN VINCOLI Spazio Teatro;;5;0
 PERFORMATORIO - spazio predefinito;PERFORMATORIO;5;0
 Botanic Gozzano;Botanic;5;0
 Company Club;Company;5;0
-Temple Club;Temple;5;0
+Temple Club;;5;0
 Carpintarias de São Lázaro;;5;0
 Il Palio di Taranto;Il Palio di;5;0
 Palazzetto di Carbonia;Palazzetto di;5;0
 Archivio Tipografico;;5;0
 Tenuta Pavoncelli;;5;0
-Vegas Club;;5;0
 Les Galeries Montparnasse;;5;0
 gg;;5;0
 Moe Beach;;5;0
@@ -6129,7 +10211,7 @@ Macramè;;5;0
 Azienda Agraria Scacciadiavoli;;5;0
 Azienda Agricola Raína;;5;0
 Mudder Schulten Neubrandenburg;;5;0
-Stellwerk Hamburg;Stellwerk;5;0
+Stellwerk Hamburg;;5;0
 Sundance Sunday;;5;0
 Complesso Zeno;;5;0
 Mamaluna;;5;0
@@ -6195,7 +10277,6 @@ Noctilio;;5;0
 Soul Family Gatherings;;5;0
 Solum;;5;0
 Amano East Side Rooftop;;5;0
-Dorado;;5;0
 Sopravento;;5;0
 Giardino Palazzo Bruni - Roccia;Giardino Palazzo Bruni;5;0
 Rotonda del Lungomare;;5;0
@@ -6239,7 +10320,6 @@ Clouds;;5;0
 Le BLOCK;;5;0
 El Chiringuito - Monteluco;;5;0
 Doha Pool Club;Doha Pool;5;0
-Scirocco;;5;0
 MS Solar;;5;0
 Place de Brouckère;;5;0
 Rifugio Laugiane;;5;0
@@ -6264,7 +10344,6 @@ Twist Theatro;;5;0
 Villa Maresca Resort & Sport;;5;0
 Plein Publiek Antwerp;;5;0
 Tarantella;;5;0
-Jimmy's;;5;0
 Nhow Amsterdam;;5;0
 Schwedlersee Frankfurt;Schwedlersee;5;0
 Coco Brussels;;5;0
@@ -6272,7 +10351,6 @@ La Palazzina Sporting Club;La Palazzina Sporting;5;0
 Four Viertel;;5;0
 The Country Club;;5;0
 The Sanctuary Beach House - Itria Valley;The Sanctuary Beach House|Sanctuary Beach House - Itria Valley|Sanctuary Beach House;5;0
-Venue MOT;;5;0
 Esplanade;;5;0
 Nachtasyl;;5;0
 Music Station;;5;0
@@ -6283,7 +10361,6 @@ Playa Del Sol;;5;0
 Schlosshotel Berlin by Patrick Hellmann;Schlosshotel Berlin|Schlosshotel;5;0
 Ehemaliges Hauptzollamt;;5;0
 Süllberg;;5;0
-Utopia;;5;0
 The Lisbon Pub Crawl - Discover Lisbon;The Lisbon Pub Crawl|Lisbon Pub Crawl - Discover Lisbon|Lisbon Pub Crawl - Discover|Lisbon Pub Crawl;5;0
 Mad Club Milano;;5;0
 Shed Summer Club;Shed Summer;5;0
@@ -6301,7 +10378,6 @@ Club-035;;5;0
 Collisioni Circus;;5;0
 L'Espace 111;;5;0
 Nu Park;;5;0
-Cosmo;;5;0
 Talea - Orto Botanico;Talea;5;0
 Cinema Esedra;;5;0
 Chateau de Châteauneuf du Pape;;5;0
@@ -6327,7 +10403,6 @@ Micro Burger Music;;5;0
 Ballroom;;5;0
 Badehaus Berlin;Badehaus;5;0
 Forma;;5;0
-No Name Club;No Name;5;0
 I Giardini di San Giacinto;;5;0
 Nova Sbe;;5;0
 Mercado dos Lavradores;;5;0
@@ -6343,20 +10418,18 @@ Tao Disco Club;Tao Disco;5;0
 MAAT Central;;5;0
 Cinema Teatro Monterosa;;5;0
 Parallel22;;5;0
-Grey Club;Grey;5;0
 Canava House Club;Canava House;5;0
 Afrobar Indoor;;5;0
 The Random;;5;0
 Gli Aromi;;5;0
 Ex-Barbra Brussels;Ex-Barbra;5;0
 Terrazza Flegrea;;5;0
-The Other Side;Other Side;5;0
 Spazio Oretea;;5;0
 Volta;;5;0
 M' Amoa Club;M' Amoa;5;0
 Spirito Brussels;;5;0
 Yves Frankfurt;;5;0
-Re-Mix Club;Re-Mix;5;0
+Re-Mix Club;;5;0
 Roof 175;;5;0
 Villa Castelnuovo;;5;0
 Khoros Club;Khoros;5;0
@@ -6381,7 +10454,6 @@ Contrada Murazzi;;5;0
 Nu Doganae;;5;0
 Topo Sul;;5;0
 Teatro Juvarra;Juvarra;5;0
-Basement Club;Basement;5;0
 Arvad;;5;0
 Mitra Social Club;Mitra;5;0
 Thyme;;5;0
@@ -6492,7 +10564,6 @@ Sportzone Schlums;;5;0
 Sturmhaube;;5;0
 Victory Morgana;;5;0
 EYBA Spring Conference 2025;;5;0
-Moon Club;;5;0
 nhow Milano;;5;0
 The Kitchen;Kitchen;5;0
 Hangar DS;;5;0
@@ -6528,11 +10599,10 @@ PushTheButton;;5;0
 L'Argenteria;;5;0
 Schrotty;;5;0
 Soundscapes Garbicz;Soundscapes;5;0
-MOVE - Food & Cocktail;MOVE;5;0
+MOVE - Food & Cocktail;;5;0
 Rooftop 105;;5;0
 Gazometro;;5;0
 Alpexpo;;5;0
-Dürer Kert;;5;0
 AMP;;5;0
 Hamptons Scharbeutz;Hamptons;5;0
 Le Café du Commerce;;5;0
@@ -6547,7 +10617,6 @@ Maison M;;5;0
 Kingston Live;;5;0
 Lux Disco Club;Lux Disco;5;0
 Terrazza Martini Firenze;;5;0
-Four Music Club;Four;5;0
 le labo st Rémy;;5;0
 The Door Club;Door;5;0
 Festwiese Partschins;;5;0
@@ -6557,7 +10626,6 @@ LAASLOS LEITENCUP || Fußballplatz Laas;;5;0
 Fortuna Irgendwo;;5;0
 Casa Giardino;;5;0
 Ms Koi Greifswald;;5;0
-Mantra Beach Club;Mantra Beach;5;0
 Cinema Delle Provincie;;5;0
 Piazza 1275;;5;0
 Il Trappetello;;5;0
@@ -6585,7 +10653,6 @@ Archeolido Egnazia;;5;0
 Mokka Mitte;;5;0
 Cascina Lago Scuro;;5;0
 Hangar No.5;;5;0
-The Vault;Vault;5;0
 Ikon Antwerpen;;5;0
 Bellatrix Club;Bellatrix;5;0
 Levante Beach Club;Levante Beach;5;0
@@ -6640,7 +10707,6 @@ Yamore Disco;Yamore;5;0
 Terrazza - Rooftop de La Dune;;5;0
 The Flat by Macan Roma;Flat by Macan Roma;5;0
 La Rondine;;5;0
-One Club;;5;0
 EVENTS - Villa Pigne;EVENTS;5;0
 Casa da Praia - Carcavelos;;5;0
 Kuta Roma;;5;0
@@ -6709,7 +10775,7 @@ Ex Copertificio Sonnino;;5;0
 Villa Molina;;5;0
 Parco di Via Milano a Besozzo;;5;0
 Forte Trionfale;;5;0
-Lift Brussels;Lift;5;0
+Lift Brussels;;5;0
 Hood;;5;0
 Traouc;;5;0
 Quinta de Santa Bárbara;;5;0
@@ -6718,7 +10784,7 @@ Lido Piscina Conca d'Oro;;5;0
 Aria Complex Malta;;5;0
 The View Summer Terrace;View Summer Terrace;5;0
 Laurus rooftop;;5;0
-Scene Brussels;Scene;5;0
+Scene Brussels;;5;0
 Quinta Santo António;;5;0
 Area Eventi;;5;0
 Agriturismo Posta Mangieri;;5;0
@@ -6732,7 +10798,6 @@ Nereidi Natural Beach;;5;0
 Palazzo Re Enzo;;5;0
 Cinema Teatro Medica Palace;;5;0
 SEEN by Olivier, Rome;SEEN|SEEN by Olivier,;5;0
-Bunker Club;;5;0
 Li Neuli Country Club;Li Neuli Country;5;0
 Justme Garda Lake;;5;0
 Nimbus - Cloud Club;Nimbus|Nimbus - Cloud;5;0
@@ -6768,7 +10833,7 @@ Karo Beach;;5;0
 Teatro Ponteromito;Ponteromito;5;0
 La Cascina;;5;0
 Back Yard Tolentino;Back Yard;5;0
-Treehouse Berlin;Treehouse;5;0
+Treehouse Berlin;;5;0
 Paint It Black;;5;0
 Molo Speca;;5;0
 Garden Club Roma;;5;0
@@ -6782,7 +10847,6 @@ Contado degli Ulivi;;5;0
 Lido di Lugano;;5;0
 The Standard, Brussels;Standard, Brussels;5;0
 Thalguter Haus Algund;;5;0
-PULS;;5;0
 LALUNA I Kellerei Kurtatsch;;5;0
 Pineta Porto Rotondo;;5;0
 UpsideDown Kiosk Bar;;5;0
@@ -6812,18 +10876,15 @@ Viar Beach Club;Viar Beach;5;0
 Beach Club SO[U]L;;5;0
 Thomas Read;;5;0
 Luna Springs;;5;0
-Ghost Nightclub;Ghost;5;0
 Zama Beach Club;Zama Beach;5;0
 Le Tavernelle;;5;0
 Sigurd CPH;;5;0
 OVERHEAD I Festung Franzensfeste;;5;0
 Giardini del Fierale - Acquaviva (SI);Giardini del Fierale;5;0
-Continental Club;;5;0
 Lungomare Falcone Borsellino;;5;0
 Philiaz;;5;0
 Tag Culture;;5;0
 Chalet Sul Lago;;5;0
-Aether;;5;0
 Poggio Ridente;;5;0
 LALUNA I Kränzelhof;;5;0
 Torre Caffè;;5;0
@@ -6871,7 +10932,7 @@ Vivant, Social Club;Vivant,;5;0
 Aeródromo da Maia;;5;0
 Astra Kulturhaus;;5;0
 Oblivium Sunset;;5;0
-Electric Paris;Electric;5;0
+Electric Paris;;5;0
 Mondojuve Shopping Village;;5;0
 San Paolo District;;5;0
 You Summer Club Vilamoura;You Summer Club;5;0
@@ -6907,7 +10968,7 @@ Bada Li';;5;0
 Onder Hans;;5;0
 Colorais;;5;0
 IDB;;5;0
-Arzenal Budapest;Arzenal;5;0
+Arzenal Budapest;;5;0
 Molo Sant'Eligio;;5;0
 Vice Versa;;5;0
 Salle Georges Brassens;;5;0
@@ -6927,8 +10988,6 @@ Crazy For Vasco;;5;0
 Malcandrino;;5;0
 Visionnaire Club;Visionnaire;5;0
 Balagan Roma;;5;0
-Project;;5;0
-La Rampa;;5;0
 Pineta Napoli;;5;0
 Palaghiaccio;;5;0
 Six Bar;;5;0
@@ -6960,7 +11019,6 @@ Casa Vestita;;5;0
 Myra Ostraria;;5;0
 Angelineria;;5;0
 Terzo Tempo;;5;0
-Skyroom;;5;0
 Edicola Contemporanea Emporio;;5;0
 Pizza Social Club;Pizza;5;0
 Manège Fonck;;5;0
@@ -6968,7 +11026,7 @@ Salle L’Alhambra;;5;0
 Drilling;;5;0
 Les Halles 5;;5;0
 Metropolita;;5;0
-Void Club;Void;5;0
+Void Club;;5;0
 Ost Club;Ost;5;0
 Loma Liege;Loma;5;0
 Sophia Pizzoteca & Bar;;5;0
@@ -6985,7 +11043,7 @@ Art de Vie;;5;0
 Sabajo Concept Bar;;5;0
 Floor 17;;5;0
 Studio Samen;;5;0
-Hub - Casa della Cultura;Hub;5;0
+Hub - Casa della Cultura;;5;0
 TRUCYS Café Winterhude;;5;0
 Postale Feste & Eventi;;5;0
 Kantine - Am Berghain;Kantine;5;0
@@ -7010,7 +11068,7 @@ Santuário;;5;0
 Z Point;;5;0
 Le Dream Club;Le Dream;5;0
 Luna Bar at Parkhotel Mondschein;;5;0
-The Pantheon;Pantheon;5;0
+The Pantheon;;5;0
 Altes Postlager;;5;0
 LOUD;;5;0
 Pôle Image;;5;0
@@ -7024,7 +11082,6 @@ Trader Hifi;;5;0
 Messe Bozen I Fiera Bolzano;Messe Bozen I Fiera;5;0
 Mense;;5;0
 Puzzle Bar;;5;0
-Alibi Club;Alibi;5;0
 Amare;;5;0
 Nieuwe Kerk Den Haag;;5;0
 Casa della Contadinanza;;5;0
@@ -7049,7 +11106,6 @@ Batschkapp;;5;0
 Live Music Hall;;5;0
 Technikum;;5;0
 Kulturzentrum Faust;;5;0
-Mono;;5;0
 Badawi;;5;0
 Bürgersaal Rathaus Naturns;;5;0
 Masseria Torrelonga;;5;0
@@ -7068,7 +11124,7 @@ Lusebar - Domobianca 365;Lusebar;5;0
 Laurins Lounge Carezza;;5;0
 OVERHEAD I Bolzano;OVERHEAD I;5;0
 Ponyhof Club Frankfurt;;5;0
-Club Exil;Exil;5;0
+Club Exil;;5;0
 Microfase Home;;5;0
 Schiefer Areal Dormettingen;;5;0
 Palazzo Caracciolo;;5;0
@@ -7082,7 +11138,7 @@ Dogana Catania;Dogana;5;0
 Noxis Club Hamburg;Noxis Club;5;0
 Bread House;;5;0
 TUO;;5;0
-Fusion Münster;Fusion;5;0
+Fusion Münster;;5;0
 Teatro Il Piccolo;Il Piccolo;5;0
 Ossola Events;;5;0
 Teatrino di Piazza Marsala;;5;0
@@ -7097,7 +11153,6 @@ Aos Season Opening;;5;0
 Bar Tabac;;5;0
 Parco Archeologico di Egnazia;;5;0
 Strandhafer Sylt;Strandhafer;5;0
-Heaven Club;;5;0
 Maxi Discoteca il Globo;;5;0
 Stadio Fonte dell'olmo;;5;0
 Pavillon Tilsitt;;5;0
@@ -7122,7 +11177,7 @@ Palazzo Brancaccio - Spazio Africano;Palazzo Brancaccio;5;0
 San Bernardino Mountain Leisure;;5;0
 Cibivacco;;5;0
 Malzfabrik;;5;0
-Le Valmont Club;Le Valmont;5;0
+Le Valmont Club;;5;0
 Officine Bellotti;;5;0
 Foyer Cafe;;5;0
 Georg Elser Halle;;5;0
@@ -7167,9 +11222,8 @@ Ristorante Al Caiceto;;5;0
 Type Club;Type;5;0
 Cappella della Madonna della Rosa;;5;0
 Arena Villa Peripato;;5;0
-DNA Club;DNA;5;0
+DNA Club;;5;0
 Lido Genova, lato Caravella;;5;0
-ICON Club;;5;0
 Chiesa Valdese di Roma;;5;0
 Ubique - Jabal Winery, Tenuta Casella;Ubique;5;0
 Aduem Eo;;5;0
@@ -7194,7 +11248,7 @@ Seven Alma;;5;0
 Taverna del grillo;;5;0
 AMMOT beachclub;;5;0
 Ginarteria;;5;0
-En Scred Club;En Scred;5;0
+En Scred Club;;5;0
 Orchideenwelt Gargazon;;5;0
 mOtown;;5;0
 Necci dal 1924;;5;0
@@ -7203,7 +11257,6 @@ Folador di Villa Rubini;;5;0
 Place du Congres;;5;0
 Graf Karl;;5;0
 Cantina Rosè;;5;0
-Club Up;;5;0
 Baia San Giorgio;;5;0
 Dhārā;;5;0
 salmastra & spazio dei pescatori;;5;0
@@ -7232,7 +11285,6 @@ Favola;;5;0
 Brauhaus Knallhütte;;5;0
 Sport- und Golf-Resort Gut Wissmannshof;;5;0
 Herbsthäuschen;;5;0
-Arcadia;;5;0
 Blanco Garden;;5;0
 Café Leinpfad;;5;0
 Torre Domini;;5;0
@@ -7241,7 +11293,6 @@ Eco Express Waschsalon;;5;0
 Lentisco;;5;0
 Parco Delle Cave Di Marco Vito;;5;0
 Lucky Who;;5;0
-Night Tales Loft;;5;0
 Ledera;;5;0
 Ex Ma.Ter;;5;0
 Suara Beach Club;Suara Beach;5;0
@@ -7258,7 +11309,6 @@ The Cornershop Bar;Cornershop Bar;5;0
 Burglehenpark Dorf Tirol;;5;0
 El Tiki By Lazo;;5;0
 Bugasee;;5;0
-Toekomstmuziek;;5;0
 Villa Cenci;;5;0
 Twiga Milano;;5;0
 Twiga Porto Cervo;Twiga;5;0
@@ -7283,7 +11333,7 @@ Vispo;;5;0
 Goldberg Studios;;5;0
 Kaleido experience;;5;0
 PadelX Cremona;PadelX;5;0
-O’bar Brussels;O’bar;5;0
+O’bar Brussels;;5;0
 Kesselhaus München;;5;0
 La Voile Bleue - Plage privée;La Voile Bleue;5;0
 Bourse/Beurs Rooftop Brussels;Bourse/Beurs Rooftop;5;0
@@ -7326,7 +11376,6 @@ Cap 3000;;5;0
 Birrificio Lametus;;5;0
 Baia Nhà;;5;0
 La Romita Summer Club;La Romita Summer;5;0
-Aura Club;;5;0
 Castello Sangineto;;5;0
 Modular Studio;;5;0
 Villa Dei Carrubi;;5;0
@@ -7357,7 +11406,6 @@ Cheery on Top;;5;0
 Comedy Club Frankfurt;Comedy Club;5;0
 Casa Chizo Zé;;5;0
 C Beach;;5;0
-Kaktus Club;Kaktus;5;0
 FIKO By The Beach;;5;0
 Sunset vila fest;;5;0
 TAK Hannover;TAK;5;0
@@ -7368,7 +11416,6 @@ La Polveriera;;5;0
 Levante Fregene;Levante;5;0
 Villa Ulpia;;5;0
 Soundgasm;;5;0
-Club Xendo;Xendo;5;0
 Cantina Mario Bagella;;5;0
 Ficus;;5;0
 Chiosco Civitanova;;5;0
@@ -7424,7 +11471,7 @@ Corte del Medioevo;;5;0
 Baia Papaya;;5;0
 Heat Beat;;5;0
 Elephant Park;;5;0
-SAGE Berlin;SAGE;5;0
+SAGE Berlin;;5;0
 Chiosco by Il Faro;Chiosco;5;0
 MyFarini;;5;0
 Giardini del Fuenti;;5;0
@@ -7453,9 +11500,8 @@ Terrazzo ~ Rooftop;;5;0
 Indra Musikclub;;5;0
 LALUNA I Kellerei Bozen;;5;0
 VRHQ - Virtual Reality Headquarters;VRHQ;5;0
-The Bench Novara;Bench Novara|Bench;5;0
+The Bench Novara;Bench Novara;5;0
 Albaia;;5;0
-Carré;;5;0
 Grotta di San Michele;;5;0
 Carnesa;;5;0
 Kleiner Schlossplatz;;5;0
@@ -7521,7 +11567,6 @@ Vju im Energiebunker;;5;0
 Agrifestival Tarquinia;;5;0
 Cobertura da Trindade;;5;0
 La Madia;;5;0
-La MAD;;5;0
 Green Heart @ Cloque;;5;0
 Sciatt Club;Sciatt;5;0
 QB Sestriere;;5;0
@@ -7546,11 +11591,10 @@ The Bay Porto Rotondo;Bay Porto Rotondo;5;0
 Palazzo La Marmora;;5;0
 Mitte - Highline | Boutique Padel Club;Mitte - Highline | Boutique Padel;5;0
 Toca Do Sadhu;;5;0
-Pink Club;Pink;5;0
+Pink Club;;5;0
 Cank;;5;0
 Rederij Stiphout;;5;0
 I Vigneri di Salvo Foti;;5;0
-Chateau Motel;;5;0
 CHI CHI Lounge Fulda;CHI CHI Lounge;5;0
 Anfiteatro La Billellera;;5;0
 Greenwood Rooftop;;5;0
@@ -7611,7 +11655,6 @@ Die Pumpe;;5;0
 DamDam;;5;0
 PrimaLinea Studio;;5;0
 Praia de Carcavelos;;5;0
-Fire;;5;0
 Metropolinks Commisary;;5;0
 Alta Beach;;5;0
 Brasserie 36;;5;0
@@ -7639,7 +11682,6 @@ The Range;Range;5;0
 Palazzo Gromo Losa;;5;0
 Forte Marghera;;5;0
 Avanti Garden;;5;0
-Move Club;;5;0
 Real Albergo Dei Poveri Napoli;;5;0
 Money Club Milano;;5;0
 Flusso;;5;0
@@ -7650,7 +11692,6 @@ Salone Comunale Arch. Franco Paglia;;5;0
 CLAY;;5;0
 Bosco Parrasio;;5;0
 Helga;;5;0
-V-Club;;5;0
 Fountain of Justice;;5;0
 Piazzale Ankara;;5;0
 Area 17 Club;Area 17;5;0
@@ -7664,13 +11705,11 @@ Art Concept;;5;0
 THE ORIGINALS Listening Bar;ORIGINALS Listening Bar;5;0
 Caos Fest;;5;0
 Yellow House Amsterdam;Yellow House;5;0
-Kokorico;;5;0
 Il Broletto Food & Drinks;;5;0
 Mama Shelter;;5;0
 Hiboo Club;;5;0
 Minna Thiel;;5;0
 Agrobistrot;;5;0
-Jimmy's Club;;5;0
 Ballsaal;;5;0
 Villa Bria;;5;0
 TONO Metzger;;5;0
@@ -7681,7 +11720,6 @@ Palazzo dei Congressi;;5;0
 Le Moulin de la Solières;;5;0
 LAVITA Camp Capitana;;5;0
 Elbschmiede;;5;0
-UMI;;5;0
 Theater des Friedens;;5;0
 Hier!;;5;0
 Akhnaton;;5;0

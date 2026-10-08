@@ -1,0 +1,122 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-06-01T08:52:28Z",
+    "timestamp_areas_base": "2026-06-01T08:52:28Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 324401518,
+  "lat": 36.0329602,
+  "lon": 14.2253934,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Club Paradiso",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 3572332099,
+  "lat": 35.9221301,
+  "lon": 14.4923768,
+  "tags": {
+    "addr:city": "San Ġiljan",
+    "addr:street": "Vjal Portomaso",
+    "amenity": "nightclub",
+    "name": "Club 22"
+  }
+},
+{
+  "type": "node",
+  "id": 4771440821,
+  "lat": 35.9478414,
+  "lon": 14.4140004,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Velvet",
+    "name:en": "Velvet"
+  }
+},
+{
+  "type": "node",
+  "id": 7659591685,
+  "lat": 35.9121822,
+  "lon": 14.4625710,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Liquid"
+  }
+},
+{
+  "type": "node",
+  "id": 11148515506,
+  "lat": 35.9239851,
+  "lon": 14.4896935,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2025-06-19",
+    "name": "Footloose"
+  }
+},
+{
+  "type": "node",
+  "id": 13264535097,
+  "lat": 35.9239690,
+  "lon": 14.4896859,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Havana"
+  }
+},
+{
+  "type": "way",
+  "id": 46895049,
+  "center": {
+    "lat": 35.8756784,
+    "lon": 14.4179060
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Gianpula"
+  }
+},
+{
+  "type": "way",
+  "id": 1510513434,
+  "center": {
+    "lat": 35.9591285,
+    "lon": 14.4238907
+  },
+  "tags": {
+    "addr:street": "Triq it-Trunċiera",
+    "amenity": "nightclub",
+    "area": "yes",
+    "check_date": "2026-05-08",
+    "internet_access": "wlan",
+    "name": "Cafe Del Mar",
+    "smoking": "outside"
+  }
+},
+{
+  "type": "relation",
+  "id": 20145836,
+  "center": {
+    "lat": 35.9176950,
+    "lon": 14.4888320
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "building:part": "yes",
+    "name": "Tigullio",
+    "type": "multipolygon"
+  }
+}
+
+  ]
+}

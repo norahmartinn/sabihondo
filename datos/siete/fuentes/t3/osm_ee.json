@@ -1,0 +1,740 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-10-08T23:45:20Z",
+    "timestamp_areas_base": "2026-10-07T10:19:21Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 267098929,
+  "lat": 58.3674802,
+  "lon": 25.5918974,
+  "tags": {
+    "addr:city": "Viljandi",
+    "addr:housenumber": "14A",
+    "addr:postcode": "71012",
+    "addr:street": "Leola",
+    "amenity": "nightclub",
+    "contact:email": "redclubviljandi@gmail.com",
+    "name": "Club RED",
+    "opening_hours": "Fr-Su 23:00-04:30"
+  }
+},
+{
+  "type": "node",
+  "id": 294438132,
+  "lat": 59.4302885,
+  "lon": 24.7467544,
+  "tags": {
+    "addr:city": "Tallinn",
+    "addr:country": "EE",
+    "addr:housenumber": "23a",
+    "addr:postcode": "10141",
+    "addr:street": "Sakala",
+    "amenity": "nightclub",
+    "club": "yes",
+    "description": "Ööklubi Ibiza on turvaline, lihtne ja hubane koht,  muusika.Ibiza klubi on avatud pikemalt kui teised Tallinna ööklubid - Reedeti ja Laupäeviti 23:00 - 11:00. Tule ja veendu ise, et siin on lõbus!",
+    "email": "ibizatallinn@gmail.com",
+    "fixme": "Verify. Website is not working,",
+    "name": "Ööklubi Ibiza",
+    "name:en": "Nightclub Ibiza",
+    "name:et": "Ööklubi Ibiza",
+    "phone": "+372 5807 2507",
+    "website": "https://ibiza.ee/"
+  }
+},
+{
+  "type": "node",
+  "id": 354472456,
+  "lat": 58.3738910,
+  "lon": 26.7116401,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2025-08-14",
+    "check_date:opening_hours": "2025-08-14",
+    "check_date:smoking": "2025-08-14",
+    "name": "Rock & Roll",
+    "opening_hours": "\"its only open, when there is a eventm not regularly open bar/venue.\"",
+    "smoking": "outside",
+    "url": "http://www.rocknroll.ee"
+  }
+},
+{
+  "type": "node",
+  "id": 417980917,
+  "lat": 59.3798052,
+  "lon": 28.1759784,
+  "tags": {
+    "addr:city": "Narva",
+    "addr:country": "EE",
+    "addr:housenumber": "2",
+    "addr:postcode": "21006",
+    "addr:street": "Võidu prospekt",
+    "amenity": "nightclub",
+    "contact:email": "info@geneva.ee",
+    "contact:phone": "+372 3599421",
+    "contact:website": "https://geneva.ee/",
+    "name": "Geneva Club"
+  }
+},
+{
+  "type": "node",
+  "id": 436184056,
+  "lat": 59.4351515,
+  "lon": 24.7455099,
+  "tags": {
+    "addr:housenumber": "8",
+    "addr:street": "Vana-Posti",
+    "amenity": "nightclub",
+    "check_date": "2024-04-07",
+    "name": "Club Hollywood",
+    "opening_hours": "Fr-Sa 23:00-05:00",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "website": "https://clubhollywood.ee/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 479159934,
+  "lat": 59.3867309,
+  "lon": 28.1714020,
+  "tags": {
+    "addr:city": "Narva",
+    "amenity": "nightclub",
+    "name": "LUX"
+  }
+},
+{
+  "type": "node",
+  "id": 560519242,
+  "lat": 59.3795197,
+  "lon": 28.1883828,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Crisis"
+  }
+},
+{
+  "type": "node",
+  "id": 732804537,
+  "lat": 59.4354098,
+  "lon": 24.7474924,
+  "tags": {
+    "addr:city": "Tallinn",
+    "addr:housenumber": "22",
+    "addr:street": "Müürivahe",
+    "amenity": "nightclub",
+    "check_date": "2024-03-24",
+    "name": "Club Münt",
+    "opening_hours": "We-Th 23:00-03:00; Fr-Sa 23:00-04:00",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 745640280,
+  "lat": 59.4386668,
+  "lon": 24.7438941,
+  "tags": {
+    "addr:city": "Tallinn",
+    "addr:street": "Lai",
+    "amenity": "nightclub",
+    "check_date": "2026-06-07",
+    "name": "Öökubi"
+  }
+},
+{
+  "type": "node",
+  "id": 746347839,
+  "lat": 59.4343916,
+  "lon": 24.7434365,
+  "tags": {
+    "addr:housenumber": "6",
+    "addr:street": "Harju",
+    "amenity": "nightclub",
+    "check_date": "2024-04-07",
+    "name": "Privé",
+    "opening_hours": "Fr,Sa 00:00-05:00",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 850637527,
+  "lat": 58.3859163,
+  "lon": 24.5028404,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Vaarikas",
+    "url": "http://www.bravoclub.ee/"
+  }
+},
+{
+  "type": "node",
+  "id": 876306876,
+  "lat": 58.3841127,
+  "lon": 24.4981369,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Sugar",
+    "url": "http://www.sugarclub.ee/"
+  }
+},
+{
+  "type": "node",
+  "id": 878469329,
+  "lat": 58.3846450,
+  "lon": 24.5037303,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Cocoloco Snack Bar",
+    "opening_hours": "Mo-Th, Su 19:00-03:00; Fr, Sa 19:00-05:00",
+    "panoramax": "a67793e9-5bbf-4e42-9bbf-ae0bb8efbdd8"
+  }
+},
+{
+  "type": "node",
+  "id": 894307596,
+  "lat": 58.3734208,
+  "lon": 24.5206097,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Str&",
+    "opening_hours": "Fr,Sa 22:00-04:00",
+    "url": "http://www.strand.ee"
+  }
+},
+{
+  "type": "node",
+  "id": 894307699,
+  "lat": 58.3742408,
+  "lon": 24.4981542,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2026-08-28",
+    "name": "SunSet",
+    "url": "http://www.sunset.ee/"
+  }
+},
+{
+  "type": "node",
+  "id": 908652302,
+  "lat": 58.2221319,
+  "lon": 26.4126740,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Kohvik-baar Püramiid",
+    "opening_hours": "11:00-04:00"
+  }
+},
+{
+  "type": "node",
+  "id": 1103341078,
+  "lat": 59.4308696,
+  "lon": 24.7212409,
+  "tags": {
+    "addr:city": "Tallinn",
+    "addr:housenumber": "22a",
+    "addr:postcode": "10613",
+    "addr:street": "Madara",
+    "amenity": "nightclub",
+    "email": "info@helitehas.ee",
+    "name": "Helitehas",
+    "opening_hours": "Fr-Sa 23:00-04:00",
+    "operator": "Helitehas OÜ",
+    "phone": "+372 5597 5040",
+    "smoking": "isolated",
+    "website": "https://helitehas.ee/"
+  }
+},
+{
+  "type": "node",
+  "id": 1138939446,
+  "lat": 58.0716902,
+  "lon": 27.0481396,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "LIFE"
+  }
+},
+{
+  "type": "node",
+  "id": 1378987016,
+  "lat": 58.3652211,
+  "lon": 25.6000052,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "City Club"
+  }
+},
+{
+  "type": "node",
+  "id": 1946038470,
+  "lat": 59.4257834,
+  "lon": 24.7808628,
+  "tags": {
+    "amenity": "nightclub",
+    "min_age": "18",
+    "name": "Sossi Klubi",
+    "opening_hours": "Fr-Sa 20:00-03:00"
+  }
+},
+{
+  "type": "node",
+  "id": 2057630947,
+  "lat": 57.8482944,
+  "lon": 26.9936495,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date:opening_hours": "2025-05-02",
+    "email": "info@clubtartu.ee",
+    "name": "Club Tartu",
+    "opening_hours": "Fr,Sa 23:00-04:00",
+    "phone": "+372 5561 0544",
+    "smoking": "outside",
+    "website": "https://clubtartu.ee/",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 2402659233,
+  "lat": 58.0984339,
+  "lon": 27.4646720,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Klubi Võhandu",
+    "website": "http://www.klubivohandu.ee/"
+  }
+},
+{
+  "type": "node",
+  "id": 2578140656,
+  "lat": 58.0533497,
+  "lon": 27.0543120,
+  "tags": {
+    "addr:city": "Põlva",
+    "addr:housenumber": "17",
+    "addr:postcode": "63308",
+    "addr:street": "Kesk",
+    "amenity": "nightclub",
+    "name": "Ööklubi Ööliblikas"
+  }
+},
+{
+  "type": "node",
+  "id": 3665274959,
+  "lat": 59.3587040,
+  "lon": 27.4083873,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Hi-Fi Boutique"
+  }
+},
+{
+  "type": "node",
+  "id": 4116295090,
+  "lat": 58.3849327,
+  "lon": 24.5041994,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Kassa"
+  }
+},
+{
+  "type": "node",
+  "id": 4235561993,
+  "lat": 58.5626865,
+  "lon": 23.0901341,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Piidivabrik"
+  }
+},
+{
+  "type": "node",
+  "id": 4306976921,
+  "lat": 59.3433191,
+  "lon": 24.2485808,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Tonu's pub"
+  }
+},
+{
+  "type": "node",
+  "id": 4727774804,
+  "lat": 59.4344273,
+  "lon": 24.7441650,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Lekker",
+    "opening_hours": "Mo-Su 23:00-05:00"
+  }
+},
+{
+  "type": "node",
+  "id": 7143388891,
+  "lat": 59.3794499,
+  "lon": 28.1932524,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date:opening_hours": "2026-06-15",
+    "name": "De Luna",
+    "name:en": "De Luna Striptease Club",
+    "opening_hours": "Mo-Sa 21:00-04:00"
+  }
+},
+{
+  "type": "node",
+  "id": 7335082256,
+  "lat": 59.4365625,
+  "lon": 24.7545715,
+  "tags": {
+    "addr:city": "Tallinn",
+    "addr:housenumber": "4",
+    "addr:postcode": "10111",
+    "addr:street": "Viru väljak",
+    "amenity": "nightclub",
+    "email": "amigo@amigo.ee",
+    "name": "Ööklubi Café Amigo",
+    "opening_hours": "Fr-Sa 23:00-04:00",
+    "phone": "+372 680 9380",
+    "website": "https://www.amigo.ee/"
+  }
+},
+{
+  "type": "node",
+  "id": 8271550719,
+  "lat": 58.3848799,
+  "lon": 24.5036648,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "APTEK"
+  }
+},
+{
+  "type": "node",
+  "id": 9675673617,
+  "lat": 59.4338491,
+  "lon": 24.7621863,
+  "tags": {
+    "amenity": "nightclub",
+    "email": "info@cathouse.ee",
+    "name": "CatHouse",
+    "website": "https://cathouse.ee/"
+  }
+},
+{
+  "type": "node",
+  "id": 9680318564,
+  "lat": 59.4338821,
+  "lon": 24.7622126,
+  "tags": {
+    "addr:housenumber": "17",
+    "addr:street": "Tartu mnt",
+    "amenity": "nightclub",
+    "check_date": "2025-08-04",
+    "name": "CatHouse Club",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10083406026,
+  "lat": 59.4371268,
+  "lon": 24.7525822,
+  "tags": {
+    "addr:housenumber": "14",
+    "addr:street": "Vana-Viru",
+    "amenity": "nightclub",
+    "check_date": "2023-07-09",
+    "name": "Venus Club",
+    "opening_hours": "Mo-Th,Su 23:00-04:00; Fr-Sa 23:00-05:00",
+    "phone": "+372 551 9999",
+    "website": "https://www.venusclub.ee",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 10083406035,
+  "lat": 59.4385375,
+  "lon": 24.7522462,
+  "tags": {
+    "addr:housenumber": "10a",
+    "addr:street": "Aia",
+    "amenity": "nightclub",
+    "check_date": "2022-10-08",
+    "name": "Golden Time",
+    "opening_hours": "Mo-Th,Su 21:00-06:00; Fr-Sa 21:00-08:00",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10280643833,
+  "lat": 58.3779336,
+  "lon": 26.7226937,
+  "tags": {
+    "addr:housenumber": "4",
+    "addr:street": "Vallikraavi",
+    "amenity": "nightclub",
+    "check_date": "2026-10-04",
+    "check_date:opening_hours": "2025-08-14",
+    "contact:facebook": "https://www.facebook.com/klubineli/",
+    "contact:instagram": "https://www.instagram.com/klubi_neli",
+    "email": "info@klubineli.ee",
+    "name": "Klubi Neli",
+    "opening_hours": "We-Sa 19:00+",
+    "opening_hours:signed": "no",
+    "operator": "Music Academy OÜ",
+    "website": "https://klubineli.ee",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 10305485924,
+  "lat": 58.3809011,
+  "lon": 26.7237152,
+  "tags": {
+    "addr:housenumber": "2",
+    "addr:street": "Kompanii",
+    "amenity": "nightclub",
+    "check_date": "2023-01-04",
+    "name": "Kompanii klubi",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 10816023441,
+  "lat": 59.4289672,
+  "lon": 24.7558740,
+  "tags": {
+    "addr:housenumber": "32",
+    "addr:street": "Liivalaia",
+    "amenity": "nightclub",
+    "check_date": "2025-07-23",
+    "name": "Lounge Miäli",
+    "website": "https://goodvibe.ee",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 10875199495,
+  "lat": 59.4343495,
+  "lon": 24.7562312,
+  "tags": {
+    "addr:housenumber": "6",
+    "addr:street": "Rävala pst",
+    "amenity": "nightclub",
+    "check_date": "2023-05-07",
+    "name": "SOHO",
+    "opening_hours": "21:00-06:00"
+  }
+},
+{
+  "type": "node",
+  "id": 11276786198,
+  "lat": 59.0057262,
+  "lon": 24.7923715,
+  "tags": {
+    "addr:city": "Rapla",
+    "addr:housenumber": "2",
+    "addr:postcode": "79513",
+    "addr:street": "Kauba",
+    "amenity": "nightclub",
+    "check_date": "2023-10-20",
+    "contact:facebook": "https://www.facebook.com/clubmadhouse",
+    "email": "raplamadhouse@gmail.com",
+    "level": "1",
+    "mobile": "+372 58414455",
+    "name": "Madhouse",
+    "opening_hours": "Fr-Sa 23:00-05:00",
+    "operator": "Carestote OÜ",
+    "website": "https://clubmadhouse.ee/"
+  }
+},
+{
+  "type": "node",
+  "id": 11758318805,
+  "lat": 59.4365523,
+  "lon": 24.7489734,
+  "tags": {
+    "addr:housenumber": "18",
+    "addr:street": "Viru",
+    "amenity": "nightclub",
+    "check_date": "2024-03-24",
+    "contact:facebook": "https://www.facebook.com/paparazziviru",
+    "contact:instagram": "https://www.instagram.com/paparazziviru",
+    "name": "Paparazzi",
+    "opening_hours": "Th 22:00-04:00; Fr-Sa 22:00-05:00",
+    "phone": "+372 5333 3899",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 12076320769,
+  "lat": 59.4507225,
+  "lon": 24.7288949,
+  "tags": {
+    "amenity": "nightclub",
+    "contact:facebook": "halltallinn",
+    "name": "Hall",
+    "opening_hours": "Sa-Su 00:00-09:00"
+  }
+},
+{
+  "type": "node",
+  "id": 13118760486,
+  "lat": 58.3780498,
+  "lon": 26.7236281,
+  "tags": {
+    "addr:housenumber": "6a",
+    "addr:street": "Ülikooli",
+    "amenity": "nightclub",
+    "check_date": "2026-10-04",
+    "check_date:opening_hours": "2026-05-07",
+    "contact:facebook": "https://www.facebook.com/leveltartu/",
+    "contact:instagram": "https://www.instagram.com/nextleveltartu",
+    "email": "info@levelclub.ee",
+    "name": "Next Level",
+    "opening_hours:signed": "no",
+    "operator": "Hea Õhtu OÜ"
+  }
+},
+{
+  "type": "node",
+  "id": 13118781480,
+  "lat": 58.3790746,
+  "lon": 26.7223965,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Sapphire",
+    "opening_hours": "Su-Th 23:00-03:00, Fr,Sa 23:00-07:00"
+  }
+},
+{
+  "type": "node",
+  "id": 14248339882,
+  "lat": 58.3779356,
+  "lon": 26.7244204,
+  "tags": {
+    "addr:housenumber": "7",
+    "addr:street": "Küüni",
+    "amenity": "nightclub",
+    "check_date": "2026-10-04",
+    "email": "maasikas@maasikas.com",
+    "min_age": "21",
+    "name": "Maasikas",
+    "opening_hours": "Fr-Sa 23:00-04:30",
+    "phone": "+372 736 6273",
+    "website": "https://maasikas.com"
+  }
+},
+{
+  "type": "way",
+  "id": 26887409,
+  "center": {
+    "lat": 59.4372895,
+    "lon": 24.8078171
+  },
+  "tags": {
+    "addr:city": "Tallinn",
+    "addr:country": "EE",
+    "addr:housenumber": "11",
+    "addr:street": "Uuslinna",
+    "amenity": "nightclub",
+    "building": "yes",
+    "building:levels": "2",
+    "height": "14",
+    "maaamet:ETAK": "578797",
+    "name": "Klondaik",
+    "roof:height": "4",
+    "roof:orientation": "along",
+    "roof:shape": "round",
+    "source:addr": "Maa-amet 2012"
+  }
+},
+{
+  "type": "way",
+  "id": 26901252,
+  "center": {
+    "lat": 59.4406340,
+    "lon": 24.7331192
+  },
+  "tags": {
+    "addr:city": "Tallinn",
+    "addr:country": "EE",
+    "addr:housenumber": "62/2",
+    "addr:postcode": "10412",
+    "addr:street": "Telliskivi",
+    "amenity": "nightclub",
+    "building": "industrial",
+    "check_date": "2025-05-24",
+    "height": "9",
+    "maaamet:ETAK": "7109975",
+    "name": "D3",
+    "opening_hours": "Fr-Sa 23:00-04:00",
+    "source:addr": "Maa- ja Ruumiamet 2025",
+    "website": "https://www.d-3.ee/"
+  }
+},
+{
+  "type": "way",
+  "id": 38352772,
+  "center": {
+    "lat": 59.3496301,
+    "lon": 26.3508950
+  },
+  "tags": {
+    "addr:city": "Rakvere",
+    "addr:country": "EE",
+    "addr:housenumber": "1",
+    "addr:postcode": "44314",
+    "addr:street": "Friedrich Reinhold Kreutzwaldi",
+    "amenity": "nightclub",
+    "building": "yes",
+    "height": "10",
+    "maaamet:ETAK": "276236",
+    "name": "Mjau",
+    "source:addr": "Maa- ja Ruumiamet 2025"
+  }
+},
+{
+  "type": "way",
+  "id": 215051005,
+  "center": {
+    "lat": 58.7428730,
+    "lon": 26.4017915
+  },
+  "tags": {
+    "addr:city": "Jõgeva",
+    "addr:country": "EE",
+    "addr:housenumber": "10",
+    "addr:postcode": "48303",
+    "addr:street": "Estakaadi",
+    "amenity": "nightclub",
+    "building": "yes",
+    "building:levels": "2",
+    "height": "9",
+    "maaamet:ETAK": "397897",
+    "name": "Laisholm Pub",
+    "source": "Maa-amet 2024",
+    "source:addr": "Maa- ja Ruumiamet 2025"
+  }
+}
+
+  ]
+}

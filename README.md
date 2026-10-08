@@ -47,5 +47,6 @@ Desde octubre de 2026 el juego tiene siete preguntas fijas. Cada una tiene su sc
 | Marca de cerveza | Wikidata + marcas del mercado español | A mano las conocidas en España; el resto, ediciones de Wikipedia |
 | Marca de relojes | Categorías de Wikipedia en inglés + marcas de joyería española | A mano las conocidas en España; el resto, visitas en Wikipedia |
 | Algo que hay en una boda | Hecha a mano | A mano |
+| Discoteca | OpenStreetMap (`amenity=nightclub`, España y resto de Europa) + locales de Xceed + Wikidata; se bajan con `baja_discotecas.py` | A mano las conocidas en España; las españolas que están en las dos fuentes, nivel 4; el resto, nivel 5 |
 
 Los CSV se pueden corregir a mano (cambiar un nivel, añadir un alias) y volver a lanzar `monta.py`; si se relanza el script de una pregunta, su CSV se regenera y se pierden esos retoques.

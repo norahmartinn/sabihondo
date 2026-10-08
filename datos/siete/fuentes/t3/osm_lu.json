@@ -1,0 +1,292 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-10-08T23:11:18Z",
+    "timestamp_areas_base": "2026-10-07T10:19:21Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 621818102,
+  "lat": 49.6112497,
+  "lon": 6.1414282,
+  "tags": {
+    "addr:city": "Luxembourg",
+    "addr:country": "LU",
+    "addr:housenumber": "145",
+    "addr:postcode": "1831",
+    "addr:street": "Rue de la Tour Jacob",
+    "amenity": "nightclub",
+    "name": "Melusina",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 651946441,
+  "lat": 49.7942763,
+  "lon": 5.9378955,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "New Oldie"
+  }
+},
+{
+  "type": "node",
+  "id": 1984329734,
+  "lat": 49.6041141,
+  "lon": 6.1299469,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2026-05-04",
+    "name": "Crystal club",
+    "opening_hours": "Mo-Fr 20:00-08:00; Sa,Su 20:00-10:00"
+  }
+},
+{
+  "type": "node",
+  "id": 2635242806,
+  "lat": 49.5171460,
+  "lon": 6.0642722,
+  "tags": {
+    "addr:city": "Huncherange",
+    "addr:housenumber": "5",
+    "addr:postcode": "3341",
+    "addr:street": "Route de Noertzange",
+    "amenity": "nightclub",
+    "name": "Joy"
+  }
+},
+{
+  "type": "node",
+  "id": 3761667517,
+  "lat": 49.6170666,
+  "lon": 6.1213590,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Gotham",
+    "phone": "+352 691 28 28 28",
+    "smoking": "outside",
+    "website": "https://www.gotham.lu/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5354319233,
+  "lat": 49.8330836,
+  "lon": 5.7407602,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2023-12-26",
+    "name": "Le Mouton Noir",
+    "opening_hours": "Mo-Su 07:30-23:00",
+    "operator": "Le Mouton Noir",
+    "website": "https://lemoutonnoir.lu/"
+  }
+},
+{
+  "type": "node",
+  "id": 5773201318,
+  "lat": 49.8544430,
+  "lon": 6.1325097,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "El Chapito"
+  }
+},
+{
+  "type": "node",
+  "id": 8078313797,
+  "lat": 49.6016089,
+  "lon": 6.1342564,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2024-08-27",
+    "name": "LENOX",
+    "opening_hours": "Sa 11:00-06:00"
+  }
+},
+{
+  "type": "node",
+  "id": 12985215613,
+  "lat": 49.6048316,
+  "lon": 6.1296803,
+  "tags": {
+    "addr:city": "Luxembourg",
+    "addr:housenumber": "20",
+    "addr:postcode": "1930",
+    "addr:street": "Avenue de la Liberté",
+    "amenity": "nightclub",
+    "name": "Joya Club & Restaurznt",
+    "opening_hours": "Mo-Th 22:00-06:00; Fr-Su 22:00-07:00",
+    "phone": "+352 621 781 100",
+    "website": "https://www.joya-club.lu/"
+  }
+},
+{
+  "type": "node",
+  "id": 13283611732,
+  "lat": 49.6130893,
+  "lon": 6.1274638,
+  "tags": {
+    "addr:city": "Luxembourg",
+    "addr:housenumber": "17B",
+    "addr:postcode": "1212",
+    "addr:street": "Rue des Bains",
+    "amenity": "nightclub",
+    "name": "Les Bains Luxembourg",
+    "website": "http://www.secrethouse.lu/"
+  }
+},
+{
+  "type": "node",
+  "id": 14098641574,
+  "lat": 49.7851099,
+  "lon": 6.1653114,
+  "tags": {
+    "access": "customers",
+    "amenity": "nightclub",
+    "name": "Bunker",
+    "opening_hours": "Mo-Su,PH 23:00-01:00",
+    "operator": "Camping Nommerlayen"
+  }
+},
+{
+  "type": "way",
+  "id": 48993127,
+  "center": {
+    "lat": 49.6124508,
+    "lon": 6.1425465
+  },
+  "tags": {
+    "addr:city": "Luxembourg",
+    "addr:housenumber": "17",
+    "addr:postcode": "2165",
+    "addr:street": "Rives de Clausen",
+    "amenity": "nightclub",
+    "building": "yes",
+    "contact:facebook": "https://www.facebook.com/versoluxembourg/",
+    "contact:tiktok": "https://www.tiktok.com/@versoluxembourg",
+    "indoor_seating": "yes",
+    "layer": "1",
+    "name": "Verso",
+    "opening_hours": "Fr,Sa 22:00-03:00; PH off",
+    "outdoor_seating": "yes",
+    "phone": "+352 621 277 487",
+    "website": "https://www.verso.lu/"
+  }
+},
+{
+  "type": "way",
+  "id": 48993286,
+  "center": {
+    "lat": 49.6128636,
+    "lon": 6.1429015
+  },
+  "tags": {
+    "addr:city": "Luxembourg",
+    "addr:country": "LU",
+    "addr:housenumber": "9",
+    "addr:postcode": "2165",
+    "addr:street": "Rives de Clausen",
+    "amenity": "nightclub",
+    "building": "yes",
+    "contact:facebook": "https://www.facebook.com/jakobshouse",
+    "contact:instagram": "https://www.instagram.com/jakobs_luxembourg/",
+    "email": "info@jakobs.lu",
+    "indoor_seating": "yes",
+    "layer": "1",
+    "name": "Jacob's",
+    "opening_hours": "We,Th 16:00-01:00, Fr,Sa 16:00 - 03:00; PH off",
+    "outdoor_seating": "yes",
+    "phone": "+352 621 277 487",
+    "website": "https://www.jakobs.lu/"
+  }
+},
+{
+  "type": "way",
+  "id": 164340658,
+  "center": {
+    "lat": 49.5984322,
+    "lon": 6.1124491
+  },
+  "tags": {
+    "addr:city": "Luxembourg",
+    "addr:country": "LU",
+    "addr:housenumber": "41",
+    "addr:postcode": "1248",
+    "addr:street": "Rue de Bouillon",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Encore",
+    "operator": "BUTLER & MORE SÀRL",
+    "source": "bing",
+    "website": "https://www.encoreluxembourg.lu/"
+  }
+},
+{
+  "type": "way",
+  "id": 169042260,
+  "center": {
+    "lat": 49.6123512,
+    "lon": 6.1312107
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "no",
+    "indoor": "yes",
+    "name": "Limbo"
+  }
+},
+{
+  "type": "way",
+  "id": 171829851,
+  "center": {
+    "lat": 49.6113720,
+    "lon": 6.1329394
+  },
+  "tags": {
+    "addr:city": "Luxembourg",
+    "addr:country": "LU",
+    "addr:housenumber": "12",
+    "addr:postcode": "1247",
+    "addr:street": "Rue de la Boucherie",
+    "amenity": "nightclub",
+    "building": "yes",
+    "check_date": "2026-09-21",
+    "name": "Apoteca",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 1467794790,
+  "center": {
+    "lat": 49.6126208,
+    "lon": 6.1420878
+  },
+  "tags": {
+    "addr:city": "Luxembourg",
+    "addr:housenumber": "16",
+    "addr:postcode": "2165",
+    "addr:street": "Rives de Clausen",
+    "amenity": "nightclub",
+    "building": "yes",
+    "contact:facebook": "https://www.facebook.com/zuluclausen/",
+    "contact:instagram": "https://www.instagram.com/zulu_clausen/",
+    "email": "info@zulu-blanc.lu",
+    "layer": "1",
+    "name": "Zulu",
+    "opening_hours": "Fr,Sa 22:00-03:00",
+    "phone": "+352 691 619 632",
+    "ref:caclr": "222927",
+    "website": "https://zulu-blanc.lu/"
+  }
+}
+
+  ]
+}

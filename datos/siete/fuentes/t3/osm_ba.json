@@ -1,0 +1,1041 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-10-08T23:23:35Z",
+    "timestamp_areas_base": "2026-10-07T10:19:21Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 634736101,
+  "lat": 44.7665777,
+  "lon": 16.6595385,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Camel"
+  }
+},
+{
+  "type": "node",
+  "id": 1371990305,
+  "lat": 44.7553469,
+  "lon": 19.2297057,
+  "tags": {
+    "addr:postcode": "76300",
+    "amenity": "nightclub",
+    "name": "Moja Kafanica"
+  }
+},
+{
+  "type": "node",
+  "id": 1485048413,
+  "lat": 43.8566089,
+  "lon": 18.4036456,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Mayer’s"
+  }
+},
+{
+  "type": "node",
+  "id": 1834662049,
+  "lat": 44.7690582,
+  "lon": 17.1934898,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "CAPO"
+  }
+},
+{
+  "type": "node",
+  "id": 1950631636,
+  "lat": 44.8137386,
+  "lon": 15.8733105,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Bistro OpenAir",
+    "smoking": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2024647157,
+  "lat": 44.1749008,
+  "lon": 17.6562567,
+  "tags": {
+    "amenity": "nightclub",
+    "internet_access": "wlan",
+    "name": "Monako"
+  }
+},
+{
+  "type": "node",
+  "id": 2024862840,
+  "lat": 44.6060670,
+  "lon": 17.8600345,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Havana"
+  }
+},
+{
+  "type": "node",
+  "id": 2036865228,
+  "lat": 44.6080794,
+  "lon": 17.8526299,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Bolero"
+  }
+},
+{
+  "type": "node",
+  "id": 2069532794,
+  "lat": 43.3686698,
+  "lon": 17.6272619,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "disco club Borboleta",
+    "wifi": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2071257617,
+  "lat": 43.3820896,
+  "lon": 17.5900932,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Zlatna Pećina"
+  }
+},
+{
+  "type": "node",
+  "id": 2121912047,
+  "lat": 43.9020688,
+  "lon": 18.3431339,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Diskoteka",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2128246585,
+  "lat": 43.8265104,
+  "lon": 18.3698783,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Diskoteka \"Rodeo\"",
+    "name:sr": "Дискотека \"Родео\"",
+    "name:sr-Latn": "Diskoteka \"Rodeo\""
+  }
+},
+{
+  "type": "node",
+  "id": 2144044879,
+  "lat": 44.4147013,
+  "lon": 17.0834508,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Delta"
+  }
+},
+{
+  "type": "node",
+  "id": 2177344823,
+  "lat": 45.1423447,
+  "lon": 17.2557259,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Utopia",
+    "smoking": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2177344837,
+  "lat": 45.1420940,
+  "lon": 17.2557904,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Amnesia",
+    "smoking": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2187096648,
+  "lat": 43.8480354,
+  "lon": 18.3696713,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Casino Lutrija BiH"
+  }
+},
+{
+  "type": "node",
+  "id": 2201476075,
+  "lat": 44.2068560,
+  "lon": 17.7152335,
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Night Club Tron",
+    "smoking": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2306113290,
+  "lat": 45.1834066,
+  "lon": 16.8084428,
+  "tags": {
+    "addr:postcode": "79240",
+    "addr:street": "Svetosavska",
+    "amenity": "nightclub",
+    "name": "Central",
+    "website": "https://www.facebook.com/central.club.9?fref=ts",
+    "wifi": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2322214798,
+  "lat": 43.8597239,
+  "lon": 18.4187145,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Sloga"
+  }
+},
+{
+  "type": "node",
+  "id": 2352878464,
+  "lat": 44.4225886,
+  "lon": 18.0400288,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Disco club \"Virus\""
+  }
+},
+{
+  "type": "node",
+  "id": 2360831378,
+  "lat": 43.8585150,
+  "lon": 18.4212864,
+  "tags": {
+    "addr:housenumber": "56",
+    "addr:street": "Maršala Tita",
+    "amenity": "nightclub",
+    "name": "UNDERGROUND"
+  }
+},
+{
+  "type": "node",
+  "id": 3001095251,
+  "lat": 45.1461378,
+  "lon": 17.2498007,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Kafana \"Da me nije\"",
+    "phone": "+387 65 335 787",
+    "smoking": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3112662329,
+  "lat": 44.0188432,
+  "lon": 18.2610086,
+  "tags": {
+    "addr:street": "Podlugovi - Breza - Vareš",
+    "amenity": "nightclub",
+    "name": "Caffe Bar Vegas"
+  }
+},
+{
+  "type": "node",
+  "id": 3391707348,
+  "lat": 44.0176089,
+  "lon": 18.2610451,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Club \"New Star\""
+  }
+},
+{
+  "type": "node",
+  "id": 3621546846,
+  "lat": 44.8098625,
+  "lon": 15.8657695,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Adi"
+  }
+},
+{
+  "type": "node",
+  "id": 3629304808,
+  "lat": 44.9667836,
+  "lon": 15.9412851,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "XL"
+  }
+},
+{
+  "type": "node",
+  "id": 3641672119,
+  "lat": 44.8117993,
+  "lon": 15.8722477,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "SvarogInDoor"
+  }
+},
+{
+  "type": "node",
+  "id": 3646721099,
+  "lat": 43.1130263,
+  "lon": 17.7014387,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Absolute"
+  }
+},
+{
+  "type": "node",
+  "id": 3783132157,
+  "lat": 44.4663223,
+  "lon": 19.1260188,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Diskoteka BM Trsic"
+  }
+},
+{
+  "type": "node",
+  "id": 3783274876,
+  "lat": 43.8540171,
+  "lon": 18.3980987,
+  "tags": {
+    "addr:city": "Sarajevo",
+    "addr:housenumber": "13",
+    "addr:postcode": "71000",
+    "addr:street": "Zmaja od Bosne",
+    "amenity": "nightclub",
+    "name": "Aquarius Vils"
+  }
+},
+{
+  "type": "node",
+  "id": 3786143134,
+  "lat": 44.6928879,
+  "lon": 18.2902985,
+  "tags": {
+    "addr:city": "Gračanica",
+    "addr:street": "Lipinac",
+    "amenity": "nightclub",
+    "name": "VIP"
+  }
+},
+{
+  "type": "node",
+  "id": 3795879489,
+  "lat": 43.8246316,
+  "lon": 17.6070608,
+  "tags": {
+    "addr:city": "Prozor",
+    "addr:street": "Ulica kralja Tomislava",
+    "amenity": "nightclub",
+    "internet_access": "wlan",
+    "name": "Miami",
+    "smoking": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3795938759,
+  "lat": 43.8270555,
+  "lon": 17.6068555,
+  "tags": {
+    "addr:city": "Prozor",
+    "addr:street": "Ulica kralja Tomislava",
+    "amenity": "nightclub",
+    "internet_access": "wlan",
+    "name": "Pulse"
+  }
+},
+{
+  "type": "node",
+  "id": 3798149742,
+  "lat": 43.7153861,
+  "lon": 17.2308085,
+  "tags": {
+    "addr:city": "Tomislavgrad",
+    "addr:street": "Brigade kralja Tomislava",
+    "amenity": "nightclub",
+    "contact:phone": "+387 34 354660",
+    "internet_access": "wlan",
+    "name": "Elements",
+    "opening_hours": "07:00-02:00",
+    "website": "http://www.elements-club.com"
+  }
+},
+{
+  "type": "node",
+  "id": 3885405936,
+  "lat": 43.3543887,
+  "lon": 17.8082387,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Noćni klub \"ART\""
+  }
+},
+{
+  "type": "node",
+  "id": 3890968404,
+  "lat": 43.3436816,
+  "lon": 17.8122257,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Noćni klub \"Time Square\""
+  }
+},
+{
+  "type": "node",
+  "id": 3931863691,
+  "lat": 43.3368201,
+  "lon": 17.8157477,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Ali Baba"
+  }
+},
+{
+  "type": "node",
+  "id": 4017066087,
+  "lat": 44.2403930,
+  "lon": 17.5731771,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Iguana"
+  }
+},
+{
+  "type": "node",
+  "id": 4099690384,
+  "lat": 44.5360638,
+  "lon": 18.6867246,
+  "tags": {
+    "addr:city": "Tuzla",
+    "addr:housenumber": "2",
+    "addr:street": "Dragiše Trifkovića",
+    "amenity": "nightclub",
+    "name": "Club Palma"
+  }
+},
+{
+  "type": "node",
+  "id": 4122863692,
+  "lat": 43.4635821,
+  "lon": 17.3238132,
+  "tags": {
+    "addr:street": "Vukovarska",
+    "amenity": "nightclub",
+    "email": "gaudeamus.disco@gmail.com",
+    "internet_access": "wlan",
+    "name": "Gaudeamus disco club",
+    "opening_hours": "Fr-Sa 21:00-03:00; Su-Th off",
+    "phone": "+387 63944444",
+    "website": "http://www.labirint.ba"
+  }
+},
+{
+  "type": "node",
+  "id": 4124001491,
+  "lat": 43.3376436,
+  "lon": 17.8155735,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2022-10-05",
+    "name": "Ali Baba (Pećina)"
+  }
+},
+{
+  "type": "node",
+  "id": 4248533946,
+  "lat": 43.6520561,
+  "lon": 17.9637454,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Noćni klub \"Druga priča\""
+  }
+},
+{
+  "type": "node",
+  "id": 4352783030,
+  "lat": 44.7740432,
+  "lon": 17.2023529,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Mr. Stefan Browne"
+  }
+},
+{
+  "type": "node",
+  "id": 4417337348,
+  "lat": 44.1814304,
+  "lon": 18.9386618,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Sky"
+  }
+},
+{
+  "type": "node",
+  "id": 4550698599,
+  "lat": 44.6174405,
+  "lon": 16.6498944,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Nocni club Sindikat",
+    "name:hr": "Nocni club Sindikat"
+  }
+},
+{
+  "type": "node",
+  "id": 4561870789,
+  "lat": 44.5518224,
+  "lon": 18.0988959,
+  "tags": {
+    "addr:street": "Aleja ljiljana",
+    "amenity": "nightclub",
+    "name": "FINE LIFE",
+    "name:hr": "FINE LIFE"
+  }
+},
+{
+  "type": "node",
+  "id": 4644271591,
+  "lat": 43.2111620,
+  "lon": 17.6776500,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "BUMERANG disco club",
+    "name:hr": "BUMERANG disco club"
+  }
+},
+{
+  "type": "node",
+  "id": 4664747989,
+  "lat": 43.8562745,
+  "lon": 18.4115228,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Das ist Walter",
+    "opening_hours": "We 22:00-05:00; Fr 22:00-06:00; Sa 22:00-06:00"
+  }
+},
+{
+  "type": "node",
+  "id": 4715909090,
+  "lat": 44.9733573,
+  "lon": 16.7060295,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Pacific",
+    "name:en": "Pacific"
+  }
+},
+{
+  "type": "node",
+  "id": 4715921491,
+  "lat": 44.9732995,
+  "lon": 16.7055741,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "River",
+    "name:en": "River"
+  }
+},
+{
+  "type": "node",
+  "id": 5226492722,
+  "lat": 45.1833264,
+  "lon": 16.8082386,
+  "tags": {
+    "addr:housenumber": "1",
+    "addr:street": "Svetosavska ulica",
+    "amenity": "nightclub",
+    "internet_access": "wlan",
+    "name": "Night club Opera",
+    "operator": "Dragan Majkic"
+  }
+},
+{
+  "type": "node",
+  "id": 5281560889,
+  "lat": 43.8299854,
+  "lon": 17.6063110,
+  "tags": {
+    "addr:city": "Prozor",
+    "addr:postcode": "88440",
+    "amenity": "nightclub",
+    "name": "Lukas",
+    "phone": "+387 63 644 890",
+    "smoking": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5318143077,
+  "lat": 44.4245331,
+  "lon": 18.0372822,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Pub"
+  }
+},
+{
+  "type": "node",
+  "id": 5330091379,
+  "lat": 43.1906002,
+  "lon": 17.5377213,
+  "tags": {
+    "addr:city": "Ljubuški",
+    "amenity": "nightclub",
+    "name": "Night Club Diamond",
+    "opening_hours": "Su-Th 08:00-23:00, Fr-Sa 08:00-04:00"
+  }
+},
+{
+  "type": "node",
+  "id": 5614839602,
+  "lat": 44.5326899,
+  "lon": 16.7757484,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Diskoteka Alien",
+    "phone": "+387 61 602 472"
+  }
+},
+{
+  "type": "node",
+  "id": 5747984738,
+  "lat": 44.4364612,
+  "lon": 18.6552796,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Sunce"
+  }
+},
+{
+  "type": "node",
+  "id": 5761690313,
+  "lat": 44.9763118,
+  "lon": 17.9062732,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Imperija"
+  }
+},
+{
+  "type": "node",
+  "id": 6097099185,
+  "lat": 43.8539910,
+  "lon": 18.3973291,
+  "tags": {
+    "addr:housenumber": "8",
+    "addr:postcode": "71000",
+    "addr:street": "Vilsonovo šetalište",
+    "amenity": "nightclub",
+    "internet_access": "wlan",
+    "name": "MyFace",
+    "opening_hours": "Fr 22:00-05:00",
+    "phone": "+38762993934",
+    "website": "https://www.facebook.com/myfacesarajevo/"
+  }
+},
+{
+  "type": "node",
+  "id": 6158812206,
+  "lat": 44.9766681,
+  "lon": 17.9059540,
+  "tags": {
+    "addr:street": "Trg pravoslavlja",
+    "amenity": "nightclub",
+    "name": "Moment Night Club"
+  }
+},
+{
+  "type": "node",
+  "id": 6380060874,
+  "lat": 44.8676523,
+  "lon": 17.6605656,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Industry Bar"
+  }
+},
+{
+  "type": "node",
+  "id": 6839834919,
+  "lat": 44.7292347,
+  "lon": 18.0879607,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Club Studio"
+  }
+},
+{
+  "type": "node",
+  "id": 7033762517,
+  "lat": 43.3429021,
+  "lon": 17.8023309,
+  "tags": {
+    "addr:city": "Mostar",
+    "addr:housenumber": "bb",
+    "addr:postcode": "88000",
+    "addr:street": "Trg Hrvatskih velikana - Rondo",
+    "air_conditioning": "yes",
+    "amenity": "nightclub",
+    "email": "info@goldencube.ba",
+    "level": "0",
+    "min_age": "18",
+    "name": "GoldenCube - pub 'n club",
+    "name:hr": "GoldenCube - pub 'n club",
+    "opening_hours": "Mo-Sa 22:00-04:00",
+    "payment:cash": "yes",
+    "phone": "+387 63 100 400",
+    "smoking": "yes",
+    "website": "https://goldencube.ba",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 7056826605,
+  "lat": 45.0529046,
+  "lon": 17.3096755,
+  "tags": {
+    "addr:street": "Mladena Stojanovića",
+    "amenity": "nightclub",
+    "min_age": "18",
+    "name": "Score",
+    "opening_hours": "Sa 20:00-03:00; Th 20:00-02:00"
+  }
+},
+{
+  "type": "node",
+  "id": 7103325885,
+  "lat": 43.8579958,
+  "lon": 18.4118762,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Dorian Gray"
+  }
+},
+{
+  "type": "node",
+  "id": 7190961643,
+  "lat": 43.3417595,
+  "lon": 17.8019573,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Drugi Način"
+  }
+},
+{
+  "type": "node",
+  "id": 7282934477,
+  "lat": 43.7170366,
+  "lon": 17.2321980,
+  "tags": {
+    "addr:city": "Tomislavgrad",
+    "addr:housenumber": "bb",
+    "addr:postcode": "80240",
+    "addr:street": "Trg dr. Franje Tuđmana",
+    "amenity": "nightclub",
+    "name": "Caffe CLUB Ćićko",
+    "opening_hours": "Mo-Su 5:30-23:59",
+    "smoking": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7601089505,
+  "lat": 43.3662528,
+  "lon": 17.8134835,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Grand Saloon"
+  }
+},
+{
+  "type": "node",
+  "id": 7770048885,
+  "lat": 44.6018975,
+  "lon": 18.4333619,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Diskoteka"
+  }
+},
+{
+  "type": "node",
+  "id": 9315129397,
+  "lat": 43.8173185,
+  "lon": 17.0001784,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Monarch"
+  }
+},
+{
+  "type": "node",
+  "id": 9315129398,
+  "lat": 43.8247543,
+  "lon": 17.0003159,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Elite"
+  }
+},
+{
+  "type": "node",
+  "id": 10549110821,
+  "lat": 44.9798083,
+  "lon": 16.7089788,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Black and white",
+    "smoking": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10597467405,
+  "lat": 43.8539323,
+  "lon": 18.4171048,
+  "tags": {
+    "addr:housenumber": "4",
+    "addr:street": "Soukbunar",
+    "amenity": "nightclub",
+    "name": "Cristal S. Club"
+  }
+},
+{
+  "type": "node",
+  "id": 10958541770,
+  "lat": 43.8654580,
+  "lon": 18.4136247,
+  "tags": {
+    "addr:city": "Sarajevo",
+    "addr:postcode": "71000",
+    "addr:street": "Čekaluša",
+    "amenity": "nightclub",
+    "name": "K.U.K."
+  }
+},
+{
+  "type": "node",
+  "id": 10958576827,
+  "lat": 43.8646885,
+  "lon": 18.4138117,
+  "tags": {
+    "addr:city": "Sarajevo",
+    "addr:postcode": "71000",
+    "addr:street": "Hazima Šabanovića",
+    "amenity": "nightclub",
+    "name": "Zub"
+  }
+},
+{
+  "type": "node",
+  "id": 11014173206,
+  "lat": 43.8578979,
+  "lon": 18.4250738,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Silver and smoke"
+  }
+},
+{
+  "type": "node",
+  "id": 12973408874,
+  "lat": 44.7716247,
+  "lon": 17.1901107,
+  "tags": {
+    "addr:city": "Banja Luka",
+    "addr:housenumber": "1",
+    "addr:place": "Trg srpskih junaka",
+    "addr:postcode": "78000",
+    "amenity": "nightclub",
+    "name": "Club 17"
+  }
+},
+{
+  "type": "node",
+  "id": 13202048233,
+  "lat": 44.7411593,
+  "lon": 18.8235649,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Diskoteka Alkazar"
+  }
+},
+{
+  "type": "node",
+  "id": 13426113680,
+  "lat": 44.7044399,
+  "lon": 18.4910150,
+  "tags": {
+    "addr:city": "Srebrenik",
+    "addr:street": "Trg Alije Izetbegovića",
+    "amenity": "nightclub",
+    "name": "Trocadero",
+    "opening_hours": "07:00-00:00",
+    "outdoor_seating": "yes",
+    "phone": "+387 035 643-431"
+  }
+},
+{
+  "type": "node",
+  "id": 13436091601,
+  "lat": 43.7868953,
+  "lon": 17.1053670,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Sri sela"
+  }
+},
+{
+  "type": "node",
+  "id": 14246471591,
+  "lat": 44.7691992,
+  "lon": 17.1896274,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "space",
+    "opening_hours": "Th 22:00-03:00, Fr,Sa 22:00-04:00"
+  }
+},
+{
+  "type": "way",
+  "id": 190115331,
+  "center": {
+    "lat": 43.8556596,
+    "lon": 18.4187407
+  },
+  "tags": {
+    "addr:housenumber": "17",
+    "addr:postcode": "71000",
+    "addr:street": "Hamdije Kreševljakovića",
+    "amenity": "nightclub",
+    "building": "yes",
+    "description": "cafe and gallery",
+    "name": "Zvono"
+  }
+},
+{
+  "type": "way",
+  "id": 196920578,
+  "center": {
+    "lat": 43.3861984,
+    "lon": 17.5938872
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "leisure": "sports_centre",
+    "name": "Gradski bazen"
+  }
+},
+{
+  "type": "way",
+  "id": 228664146,
+  "center": {
+    "lat": 45.1841936,
+    "lon": 16.8115037
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "boat",
+    "name": "Splav \"Sveti Nikola\""
+  }
+},
+{
+  "type": "way",
+  "id": 238010131,
+  "center": {
+    "lat": 45.0622471,
+    "lon": 18.4706035
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "building:levels": "2",
+    "name": "Alkatraz"
+  }
+},
+{
+  "type": "way",
+  "id": 301569160,
+  "center": {
+    "lat": 44.8292077,
+    "lon": 15.8956387
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Together"
+  }
+},
+{
+  "type": "way",
+  "id": 631309556,
+  "center": {
+    "lat": 43.3495917,
+    "lon": 17.8097158
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Daleka Obala"
+  }
+},
+{
+  "type": "way",
+  "id": 1136637853,
+  "center": {
+    "lat": 44.6987207,
+    "lon": 17.9750200
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Galaksija"
+  }
+},
+{
+  "type": "way",
+  "id": 1304574330,
+  "center": {
+    "lat": 44.8805698,
+    "lon": 18.8077434
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Splav Element",
+    "opening_hours": "Fr-Sa 22:00-03:00"
+  }
+}
+
+  ]
+}

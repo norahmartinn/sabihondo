@@ -22,6 +22,7 @@ def overpass(nombre, consulta):
             pide = urllib.request.Request(ESPEJOS[intento % len(ESPEJOS)], data=urllib.parse.urlencode({"data": consulta}).encode(), headers=UA)
             datos = urllib.request.urlopen(pide, timeout=200).read()
             n = len(json.loads(datos)["elements"])
+            if not n: raise ValueError("vacío")   # algún espejo no tiene las áreas y devuelve cero sin dar error
             ruta.write_bytes(datos); print(nombre, n, flush=True); time.sleep(4); return
         except Exception as e:
             print(nombre, "reintento", e, flush=True); time.sleep(10 * (intento + 1))

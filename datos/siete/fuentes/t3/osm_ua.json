@@ -1,0 +1,6541 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-10-08T23:37:09Z",
+    "timestamp_areas_base": "2026-10-07T10:19:21Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 278618135,
+  "lat": 48.0056273,
+  "lon": 37.8056166,
+  "tags": {
+    "amenity": "nightclub",
+    "email": "office@chicago-club.com.ua",
+    "name": "Chicago",
+    "name:en": "Chicago",
+    "name:ru": "Chicago",
+    "name:uk": "Chicago",
+    "phone": "+380 623 35 6977",
+    "website": "http://chicago-club.com.ua/"
+  }
+},
+{
+  "type": "node",
+  "id": 515728155,
+  "lat": 49.2315932,
+  "lon": 28.4519285,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Курсаль",
+    "name:en": "Cursal",
+    "name:ru": "Курсаль",
+    "name:uk": "Курсаль",
+    "opening_hours": "Mo-Su 00:00-05:00,19:00-24:00",
+    "phone": "+380 432 66 0659",
+    "website": "https://www.facebook.com/Cursalclub/"
+  }
+},
+{
+  "type": "node",
+  "id": 544925658,
+  "lat": 50.4321106,
+  "lon": 30.3853439,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Молотов",
+    "name:uk": "Молотов"
+  }
+},
+{
+  "type": "node",
+  "id": 567449471,
+  "lat": 50.9072838,
+  "lon": 34.8001805,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "San Remo",
+    "name:ru": "Сан Ремо",
+    "name:uk": "San Remo",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 637034139,
+  "lat": 50.4229289,
+  "lon": 30.4692914,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Зірковий Носорог",
+    "name:uk": "Зірковий Носорог"
+  }
+},
+{
+  "type": "node",
+  "id": 669706037,
+  "lat": 50.4193360,
+  "lon": 30.5220568,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "М'ятний Носоріг",
+    "name:ru": "Мятный Носорог",
+    "name:uk": "М'ятний Носоріг",
+    "opening_hours": "Th-Su 16:00-23:00",
+    "phone": "+380 44 529 2000",
+    "website": "http://mint.nosorog.com.ua/"
+  }
+},
+{
+  "type": "node",
+  "id": 708643961,
+  "lat": 50.3990841,
+  "lon": 30.5100846,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Мир Show",
+    "name:uk": "Мир Show"
+  }
+},
+{
+  "type": "node",
+  "id": 740568345,
+  "lat": 51.4936275,
+  "lon": 31.2920280,
+  "tags": {
+    "addr:postcode": "14000",
+    "addr:street": "Ринкова вулиця",
+    "amenity": "nightclub",
+    "name": "Ангкор",
+    "name:uk": "Ангкор",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 907813841,
+  "lat": 48.4616537,
+  "lon": 35.0506065,
+  "tags": {
+    "amenity": "nightclub",
+    "internet_access": "wlan",
+    "name": "Сливки",
+    "name:uk": "Сливки"
+  }
+},
+{
+  "type": "node",
+  "id": 1196596928,
+  "lat": 49.4453663,
+  "lon": 32.0628044,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "111",
+    "name:uk": "111",
+    "smoking": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1274181476,
+  "lat": 46.7342416,
+  "lon": 36.3488884,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Марічка",
+    "name:ru": "Маричка",
+    "name:uk": "Марічка"
+  }
+},
+{
+  "type": "node",
+  "id": 1295820201,
+  "lat": 48.0418843,
+  "lon": 37.7451937,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Галактіка",
+    "name:ru": "Галактика",
+    "name:uk": "Галактіка"
+  }
+},
+{
+  "type": "node",
+  "id": 1309953545,
+  "lat": 49.9735850,
+  "lon": 36.2578386,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Холідей",
+    "name:en": "Holiday",
+    "name:ru": "Холидей",
+    "name:uk": "Холідей"
+  }
+},
+{
+  "type": "node",
+  "id": 1315572838,
+  "lat": 50.2609920,
+  "lon": 30.9409758,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Диско",
+    "name:uk": "Диско"
+  }
+},
+{
+  "type": "node",
+  "id": 1332028088,
+  "lat": 46.0670748,
+  "lon": 30.4573395,
+  "tags": {
+    "addr:city": "Затока",
+    "amenity": "nightclub",
+    "name": "Poseidon",
+    "name:uk": "Poseidon"
+  }
+},
+{
+  "type": "node",
+  "id": 1355496720,
+  "lat": 44.8433515,
+  "lon": 34.9736778,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Гурман"
+  }
+},
+{
+  "type": "node",
+  "id": 1357146676,
+  "lat": 44.8410330,
+  "lon": 34.9747288,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Эгоист"
+  }
+},
+{
+  "type": "node",
+  "id": 1358159833,
+  "lat": 44.8406380,
+  "lon": 34.9730400,
+  "tags": {
+    "addr:street": "Набережная улица",
+    "amenity": "nightclub",
+    "internet_access": "wlan",
+    "name": "Прибой"
+  }
+},
+{
+  "type": "node",
+  "id": 1363364790,
+  "lat": 49.8775765,
+  "lon": 36.1700353,
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Сохо",
+    "name:en": "Soho",
+    "name:ru": "Сохо",
+    "name:uk": "Сохо",
+    "website": "https://sohoresort.com"
+  }
+},
+{
+  "type": "node",
+  "id": 1393907579,
+  "lat": 47.9646094,
+  "lon": 33.4381566,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Шелтер",
+    "name:uk": "Шелтер"
+  }
+},
+{
+  "type": "node",
+  "id": 1427237366,
+  "lat": 49.9882771,
+  "lon": 36.2333078,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Panorama Lounge",
+    "name:uk": "Panorama Lounge",
+    "opening_hours": "24/7",
+    "phone": "+380 57 731 1002",
+    "website": "http://www.panorama-lounge.com.ua"
+  }
+},
+{
+  "type": "node",
+  "id": 1447665490,
+  "lat": 48.0143073,
+  "lon": 37.8101085,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Хамелеон",
+    "name:uk": "Хамелеон"
+  }
+},
+{
+  "type": "node",
+  "id": 1589651351,
+  "lat": 50.8504434,
+  "lon": 24.3034435,
+  "tags": {
+    "amenity": "nightclub",
+    "fax": "+380 3342 31 200",
+    "name": "ДвижОК",
+    "name:uk": "ДвижОК",
+    "phone": "+380 93 120 3737",
+    "website": "http://dvuzh-ok.com.ua"
+  }
+},
+{
+  "type": "node",
+  "id": 1669434015,
+  "lat": 51.2169963,
+  "lon": 24.7072086,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Кіно",
+    "name:uk": "Кіно"
+  }
+},
+{
+  "type": "node",
+  "id": 1700037687,
+  "lat": 48.6030682,
+  "lon": 34.5617899,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Бомба",
+    "name:uk": "Бомба"
+  }
+},
+{
+  "type": "node",
+  "id": 1740602061,
+  "lat": 49.2808160,
+  "lon": 23.5023850,
+  "tags": {
+    "amenity": "nightclub",
+    "cuisine": "asian;barbecue;coffee_shop;french;grill;ice_cream;international;kebab;sandwich;sushi;tea;thai",
+    "diet:vegan": "yes",
+    "email": "sohoterrace@gmail.com",
+    "internet_access": "wlan",
+    "name": "Soho Terrace",
+    "name:en": "Soho Terrace",
+    "name:ru": "Soho Terrace",
+    "name:uk": "Soho Terrace",
+    "opening_hours": "24/7",
+    "operator": "Soho Terra",
+    "phone": "+380 93 502 8666",
+    "website": "https://sohoterrace.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 1740602960,
+  "lat": 49.2688420,
+  "lon": 23.4947830,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "REZUS+",
+    "name:en": "REZUS+",
+    "name:ru": "REZUS+",
+    "name:uk": "REZUS+",
+    "website": "https://rezusnightclub.co.cc/"
+  }
+},
+{
+  "type": "node",
+  "id": 1843607158,
+  "lat": 48.4496080,
+  "lon": 37.0692314,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "\"Lux\"",
+    "name:uk": "\"Lux\""
+  }
+},
+{
+  "type": "node",
+  "id": 1894769913,
+  "lat": 45.0318012,
+  "lon": 35.3828239,
+  "tags": {
+    "addr:housenumber": "1",
+    "addr:street": "Галерейная улица",
+    "amenity": "nightclub",
+    "description": "Сайт: http://arkadia-club.ru/\nИнстаграм: arkadia.feo\nВК: https://vk.com/arkadiafeo",
+    "name": "Аркадия",
+    "phone": "+7 978 058 73 76"
+  }
+},
+{
+  "type": "node",
+  "id": 1976730489,
+  "lat": 48.6251289,
+  "lon": 38.3660520,
+  "tags": {
+    "addr:housenumber": "16",
+    "addr:street": "Чехова вулиця",
+    "amenity": "nightclub",
+    "name": "Zigana (Не работает)",
+    "name:uk": "Zigana (Не работает)"
+  }
+},
+{
+  "type": "node",
+  "id": 2058293095,
+  "lat": 49.0283244,
+  "lon": 38.3699735,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Джаз",
+    "name:en": "Jazz",
+    "name:uk": "Джаз"
+  }
+},
+{
+  "type": "node",
+  "id": 2072271860,
+  "lat": 46.5810451,
+  "lon": 30.8008794,
+  "tags": {
+    "addr:housenumber": "2а",
+    "addr:street": "вулиця Ярослава Баїса",
+    "amenity": "nightclub",
+    "description": "Караоке-клуб",
+    "email": "karaokeberushi@gmail.com",
+    "name": "Berushi",
+    "name:uk": "Berushi",
+    "opening_hours": "Mo-Su 18:00-04:00",
+    "phone": "+380 63 722 0416",
+    "website": "https://karaokeberushi.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 2080577006,
+  "lat": 48.5050438,
+  "lon": 35.0771302,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Августін",
+    "name:uk": "Августін"
+  }
+},
+{
+  "type": "node",
+  "id": 2093770746,
+  "lat": 50.1623846,
+  "lon": 35.5260486,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "\"Pulse\"",
+    "name:uk": "\"Pulse\""
+  }
+},
+{
+  "type": "node",
+  "id": 2101408331,
+  "lat": 48.0016004,
+  "lon": 37.8397840,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Лица",
+    "name:en": "Litca",
+    "name:ru": "Лица",
+    "name:uk": "Ліца",
+    "phone": "+380 623 85 9944"
+  }
+},
+{
+  "type": "node",
+  "id": 2133770936,
+  "lat": 49.9572726,
+  "lon": 34.6033544,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Гламур",
+    "name:uk": "Гламур"
+  }
+},
+{
+  "type": "node",
+  "id": 2144067082,
+  "lat": 49.5883446,
+  "lon": 34.5461300,
+  "tags": {
+    "amenity": "nightclub",
+    "club": "sport",
+    "description": "Боулінг-клуб",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "name": "Ніагара",
+    "name:uk": "Ніагара",
+    "opening_hours": "13:00-24:00; 00:00-04:00",
+    "sport": "bowls",
+    "website": "http://niagara-club.com.ua/"
+  }
+},
+{
+  "type": "node",
+  "id": 2155032135,
+  "lat": 48.5122865,
+  "lon": 32.2642244,
+  "tags": {
+    "amenity": "nightclub",
+    "internet_access": "wlan",
+    "name": "Fusion",
+    "name:uk": "Fusion",
+    "phone": "+380 95 018 3828",
+    "website": "http://fusion-night.com"
+  }
+},
+{
+  "type": "node",
+  "id": 2157302531,
+  "lat": 48.4298936,
+  "lon": 35.0651707,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Berlin",
+    "name:uk": "Berlin"
+  }
+},
+{
+  "type": "node",
+  "id": 2157302537,
+  "lat": 48.4298591,
+  "lon": 35.0653414,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Sfera",
+    "name:uk": "Sfera"
+  }
+},
+{
+  "type": "node",
+  "id": 2185348828,
+  "lat": 48.5237753,
+  "lon": 39.2714139,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Фараон"
+  }
+},
+{
+  "type": "node",
+  "id": 2191533067,
+  "lat": 47.7279769,
+  "lon": 33.6200293,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Олимп",
+    "name:uk": "Олимп"
+  }
+},
+{
+  "type": "node",
+  "id": 2191553453,
+  "lat": 47.7261395,
+  "lon": 33.6205567,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Святковий зал",
+    "name:ru": "Праздничный зал",
+    "name:uk": "Святковий зал"
+  }
+},
+{
+  "type": "node",
+  "id": 2211944169,
+  "lat": 49.5580985,
+  "lon": 25.6329323,
+  "tags": {
+    "addr:housenumber": "45",
+    "addr:postcode": "46023",
+    "addr:street": "проспект Злуки",
+    "amenity": "nightclub",
+    "name": "Нічний клуб \"Алюр\"",
+    "name:en": "Allure club",
+    "name:ru": "Ночной клуб „Аллюр“",
+    "name:uk": "Нічний клуб \"Алюр\"",
+    "short_name": "Алюр",
+    "website": "https://allureclub.com.ua/"
+  }
+},
+{
+  "type": "node",
+  "id": 2225610310,
+  "lat": 50.3291905,
+  "lon": 26.5313204,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Східна брама",
+    "name:uk": "Східна брама"
+  }
+},
+{
+  "type": "node",
+  "id": 2247265821,
+  "lat": 48.6316051,
+  "lon": 35.2567360,
+  "tags": {
+    "addr:housenumber": "7-А",
+    "addr:street": "Українська вулиця",
+    "amenity": "nightclub",
+    "name": "VIP 77",
+    "name:uk": "VIP 77"
+  }
+},
+{
+  "type": "node",
+  "id": 2277301395,
+  "lat": 51.4991611,
+  "lon": 31.2905576,
+  "tags": {
+    "addr:housenumber": "50",
+    "addr:street": "Пʼятницька вулиця",
+    "amenity": "nightclub",
+    "contact:instagram": "https://www.instagram.com/orange.bar_club/",
+    "contact:phone": "+380 93 9179177",
+    "name": "Orange",
+    "name:uk": "Orange"
+  }
+},
+{
+  "type": "node",
+  "id": 2285138698,
+  "lat": 49.0549027,
+  "lon": 33.2080788,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "КлубНічка",
+    "name:uk": "КлубНічка"
+  }
+},
+{
+  "type": "node",
+  "id": 2285196530,
+  "lat": 49.0569179,
+  "lon": 33.2281354,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Фреш",
+    "name:uk": "Фреш"
+  }
+},
+{
+  "type": "node",
+  "id": 2324856933,
+  "lat": 48.4686952,
+  "lon": 35.0548258,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Rasputin",
+    "name:uk": "Rasputin",
+    "smoking": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2330757377,
+  "lat": 47.8812769,
+  "lon": 35.0170598,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Магазин петрікивка",
+    "name:uk": "Магазин петрікивка"
+  }
+},
+{
+  "type": "node",
+  "id": 2370359699,
+  "lat": 48.4949481,
+  "lon": 32.2061389,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Romantic",
+    "opening_hours": "23:00-sunrise",
+    "phone": "+380 522 38 0926;+380 522 30 0559",
+    "website": "http://romantic.kr.ua"
+  }
+},
+{
+  "type": "node",
+  "id": 2377424195,
+  "lat": 48.4616453,
+  "lon": 35.0602066,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date:opening_hours": "2022-12-28",
+    "name": "Opera",
+    "name:uk": "Opera",
+    "opening_hours:signed": "no",
+    "smoking": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2394777962,
+  "lat": 47.8112181,
+  "lon": 35.0511291,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Розважальний комплекс \"Район\"",
+    "name:uk": "Розважальний комплекс \"Район\""
+  }
+},
+{
+  "type": "node",
+  "id": 2491245033,
+  "lat": 49.3336200,
+  "lon": 22.9882239,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Левада",
+    "name:uk": "Левада"
+  }
+},
+{
+  "type": "node",
+  "id": 2505836186,
+  "lat": 50.4428380,
+  "lon": 30.4975760,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Ротор",
+    "name:uk": "Ротор"
+  }
+},
+{
+  "type": "node",
+  "id": 2510788742,
+  "lat": 44.8405934,
+  "lon": 34.9752311,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Ковбой клуб"
+  }
+},
+{
+  "type": "node",
+  "id": 2635108766,
+  "lat": 47.0106911,
+  "lon": 33.7238384,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Дискотека",
+    "name:uk": "Дискотека"
+  }
+},
+{
+  "type": "node",
+  "id": 2760133175,
+  "lat": 50.7552442,
+  "lon": 25.3324381,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Магніт",
+    "name:en": "Magnet",
+    "name:ru": "Магнит",
+    "name:uk": "Магніт"
+  }
+},
+{
+  "type": "node",
+  "id": 2919308321,
+  "lat": 48.5473655,
+  "lon": 22.9892179,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Європа",
+    "name:uk": "Європа"
+  }
+},
+{
+  "type": "node",
+  "id": 2974513300,
+  "lat": 48.9958401,
+  "lon": 24.1881943,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "НК «Максі»",
+    "name:uk": "НК «Максі»"
+  }
+},
+{
+  "type": "node",
+  "id": 2978903884,
+  "lat": 48.3173448,
+  "lon": 38.0528491,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Дискотека \"Жара\"",
+    "name:uk": "Дискотека \"Жара\""
+  }
+},
+{
+  "type": "node",
+  "id": 3008199949,
+  "lat": 44.9662693,
+  "lon": 35.2620182,
+  "tags": {
+    "addr:city": "Коктебель",
+    "addr:housenumber": "2",
+    "addr:postcode": "298186",
+    "addr:street": "Арматлукская улица",
+    "amenity": "nightclub",
+    "name": "Как ты бель",
+    "smoking": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3037872700,
+  "lat": 48.5569553,
+  "lon": 39.3169507,
+  "tags": {
+    "addr:housenumber": "16",
+    "addr:postcode": "91000",
+    "addr:street": "Челюскінців вулиця",
+    "amenity": "nightclub",
+    "internet_access": "wlan",
+    "name": "Good Zone",
+    "name:uk": "Good Zone",
+    "phone": "+380 642 59 9200",
+    "website": "www.goodzone.lg.ua"
+  }
+},
+{
+  "type": "node",
+  "id": 3072511515,
+  "lat": 49.9593371,
+  "lon": 36.3264255,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Freedom Party Bar",
+    "name:uk": "Freedom Party Bar"
+  }
+},
+{
+  "type": "node",
+  "id": 3091939957,
+  "lat": 49.0636754,
+  "lon": 33.4026653,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Джос",
+    "name:uk": "Джос",
+    "toilets:wheelchair": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3091939959,
+  "lat": 49.0679724,
+  "lon": 33.4114659,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Зебра",
+    "name:uk": "Зебра"
+  }
+},
+{
+  "type": "node",
+  "id": 3180418017,
+  "lat": 48.5077324,
+  "lon": 32.2610643,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Rasputin Club",
+    "name:uk": "Rasputin Club",
+    "opening_hours": "closed",
+    "phone": "+380 50 321 0688"
+  }
+},
+{
+  "type": "node",
+  "id": 3212155990,
+  "lat": 45.5838297,
+  "lon": 32.8388875,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Дорада"
+  }
+},
+{
+  "type": "node",
+  "id": 3244593918,
+  "lat": 44.6711379,
+  "lon": 34.4093782,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Киви-Киви"
+  }
+},
+{
+  "type": "node",
+  "id": 3254558852,
+  "lat": 48.4601022,
+  "lon": 35.0465288,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Candies",
+    "name:uk": "Candies",
+    "opening_hours": "21:00-05:00",
+    "smoking": "outside",
+    "website": "http://candies-club.com"
+  }
+},
+{
+  "type": "node",
+  "id": 3273038494,
+  "lat": 49.2107436,
+  "lon": 25.9246566,
+  "tags": {
+    "addr:city": "Хоростків",
+    "amenity": "nightclub",
+    "name": "Кактус",
+    "name:uk": "Кактус"
+  }
+},
+{
+  "type": "node",
+  "id": 3378411188,
+  "lat": 48.5019368,
+  "lon": 32.2553423,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Provocateur",
+    "name:uk": "Provocateur",
+    "opening_hours": "21:00-05:00",
+    "phone": "+380 99 789 1519"
+  }
+},
+{
+  "type": "node",
+  "id": 3451068093,
+  "lat": 50.4389143,
+  "lon": 30.5209790,
+  "tags": {
+    "amenity": "nightclub",
+    "fixme": "name and name:en are different",
+    "internet_access": "wlan",
+    "name": "Sentrum",
+    "name:en": "Coffee Box",
+    "website": "http://sentrum.com.ua",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3472664871,
+  "lat": 49.5534225,
+  "lon": 25.5715622,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2025-09-21",
+    "description": "Нічний клуб Riverpool є саме тим закладом відпочинку, потрапляючи куди, одразу ж поринаєш у музичний космос щастя та задоволення.",
+    "email": "info@riverpool.com.ua",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "name": "Нічний клуб \"Good one\"",
+    "name:en": "Good one",
+    "name:uk": "Нічний клуб „Ріверпул“",
+    "opening_hours": "13:00-05:00",
+    "phone": "+380 352 53 4113",
+    "short_name": "Ріверпул",
+    "short_name:en": "Riverpool",
+    "short_name:uk": "Ріверпул",
+    "website": "http://riverpool.com.ua/"
+  }
+},
+{
+  "type": "node",
+  "id": 3476289042,
+  "lat": 49.9924616,
+  "lon": 36.2393967,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Живот",
+    "name:uk": "Живот"
+  }
+},
+{
+  "type": "node",
+  "id": 3506039271,
+  "lat": 49.2301941,
+  "lon": 28.4548297,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Феріде",
+    "name:uk": "Феріде"
+  }
+},
+{
+  "type": "node",
+  "id": 3601256075,
+  "lat": 47.0932016,
+  "lon": 37.5570458,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "PurPur",
+    "name:uk": "PurPur"
+  }
+},
+{
+  "type": "node",
+  "id": 3619935603,
+  "lat": 44.7710464,
+  "lon": 33.5423556,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Пикник"
+  }
+},
+{
+  "type": "node",
+  "id": 3619936918,
+  "lat": 44.7709282,
+  "lon": 33.5421658,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Развлекательный комплекс"
+  }
+},
+{
+  "type": "node",
+  "id": 3625968246,
+  "lat": 49.8275811,
+  "lon": 24.0456948,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Picasso",
+    "name:uk": "Picasso",
+    "website": "https://picasso.lviv.ua/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3625974616,
+  "lat": 49.8383461,
+  "lon": 24.0307586,
+  "tags": {
+    "amenity": "nightclub",
+    "email": "office@rafinad-club.com",
+    "internet_access": "wlan",
+    "name": "Rafinad People",
+    "opening_hours": "24/7",
+    "phone": "+380 66 400 0888",
+    "website": "https://www.rafinad-club.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 3625984578,
+  "lat": 49.8334887,
+  "lon": 24.0379462,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Метро",
+    "name:uk": "Metro Clup",
+    "website": "http://www.metroclub.com.ua",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3668265402,
+  "lat": 48.2898005,
+  "lon": 25.9337934,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Андеграунд",
+    "name:uk": "Андеграунд"
+  }
+},
+{
+  "type": "node",
+  "id": 3725183400,
+  "lat": 48.5166250,
+  "lon": 36.0735954,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "1001 Ніч",
+    "name:ru": "1001 Ночь",
+    "name:uk": "1001 Ніч"
+  }
+},
+{
+  "type": "node",
+  "id": 3736884732,
+  "lat": 44.9680213,
+  "lon": 33.6028360,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Вавилон",
+    "name:ru": "Вавилон"
+  }
+},
+{
+  "type": "node",
+  "id": 3741057251,
+  "lat": 50.4561598,
+  "lon": 30.4969156,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Átlas",
+    "opening_hours": "Fr-Sa 23:00-06:00",
+    "phone": "+380 67 155 2255",
+    "website": "https://m.facebook.com/Atlas37"
+  }
+},
+{
+  "type": "node",
+  "id": 3745483266,
+  "lat": 48.7420787,
+  "lon": 37.5877298,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Alchemist",
+    "name:ru": "Алхимик",
+    "name:uk": "Alchemist"
+  }
+},
+{
+  "type": "node",
+  "id": 3787565579,
+  "lat": 49.2403523,
+  "lon": 28.4834008,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Планета Мода-Бар",
+    "name:uk": "Планета Мода-Бар",
+    "phone": "+380 432 69 0440"
+  }
+},
+{
+  "type": "node",
+  "id": 3817396373,
+  "lat": 46.5523141,
+  "lon": 30.7655880,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Лимон",
+    "name:en": "Limon",
+    "name:ru": "Лимон",
+    "name:uk": "Лимон"
+  }
+},
+{
+  "type": "node",
+  "id": 3817396374,
+  "lat": 46.5524339,
+  "lon": 30.7661021,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Флорида",
+    "name:en": "Florida",
+    "name:ru": "Флорида",
+    "name:uk": "Флорида"
+  }
+},
+{
+  "type": "node",
+  "id": 3946820964,
+  "lat": 50.0334577,
+  "lon": 36.2141552,
+  "tags": {
+    "addr:housenumber": "12а",
+    "addr:street": "вулиця 23 Серпня",
+    "amenity": "nightclub",
+    "name": "Galaktika Club",
+    "name:uk": "Galaktika Club",
+    "phone": "+380673412112"
+  }
+},
+{
+  "type": "node",
+  "id": 3993823214,
+  "lat": 47.1049079,
+  "lon": 37.5495201,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Maxim",
+    "name:uk": "Maxim"
+  }
+},
+{
+  "type": "node",
+  "id": 3993866757,
+  "lat": 51.4425487,
+  "lon": 24.4350358,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Люкс",
+    "name:uk": "Люкс",
+    "opening_hours": "10:00-24:00",
+    "operator": "ФОП Редькович О.П.",
+    "smoking": "outside",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4024000647,
+  "lat": 48.8108821,
+  "lon": 24.1955178,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "NC DINAMIT",
+    "name:uk": "NC DINAMIT",
+    "opening_hours": "22:00 - 02:00",
+    "smoking": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4087744862,
+  "lat": 50.5223696,
+  "lon": 30.2478348,
+  "tags": {
+    "addr:housenumber": "3-А",
+    "addr:street": "вулиця Авіаконструктора Антонова",
+    "amenity": "nightclub",
+    "name": "Централ",
+    "name:uk": "Централ"
+  }
+},
+{
+  "type": "node",
+  "id": 4087959831,
+  "lat": 50.1750950,
+  "lon": 30.3152086,
+  "tags": {
+    "addr:postcode": "08600",
+    "addr:street": "Соборна вулиця",
+    "amenity": "nightclub",
+    "name": "Disel",
+    "name:uk": "Дизель"
+  }
+},
+{
+  "type": "node",
+  "id": 4096883094,
+  "lat": 50.1650975,
+  "lon": 30.3398121,
+  "tags": {
+    "addr:postcode": "08600",
+    "amenity": "nightclub",
+    "name": "Cosmos",
+    "name:uk": "Cosmos"
+  }
+},
+{
+  "type": "node",
+  "id": 4109582896,
+  "lat": 45.1894392,
+  "lon": 33.3569833,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Versal",
+    "opening_hours": "Fr-Sa 21:00-05:00"
+  }
+},
+{
+  "type": "node",
+  "id": 4109719192,
+  "lat": 46.4709045,
+  "lon": 30.7413731,
+  "tags": {
+    "addr:housenumber": "75",
+    "addr:postcode": "65000",
+    "addr:street": "Італійська вулиця",
+    "amenity": "nightclub",
+    "internet_access": "wlan",
+    "name": "True Man Club",
+    "name:uk": "True Man Club",
+    "phone": "+380 93 702 1178"
+  }
+},
+{
+  "type": "node",
+  "id": 4123061620,
+  "lat": 44.9680907,
+  "lon": 33.6017693,
+  "tags": {
+    "addr:housenumber": "12",
+    "addr:street": "Набережная улица",
+    "amenity": "nightclub",
+    "name": "Байконур"
+  }
+},
+{
+  "type": "node",
+  "id": 4142171689,
+  "lat": 50.0124710,
+  "lon": 36.2295167,
+  "tags": {
+    "addr:housenumber": "26",
+    "addr:street": "Культури вулиця",
+    "amenity": "nightclub",
+    "internet_access": "wlan",
+    "name": "Sova",
+    "name:uk": "Sova",
+    "opening_hours": "Mo-Su 11:00-06:00"
+  }
+},
+{
+  "type": "node",
+  "id": 4144620892,
+  "lat": 48.5150176,
+  "lon": 34.5717193,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Україна",
+    "name:uk": "Україна"
+  }
+},
+{
+  "type": "node",
+  "id": 4146913091,
+  "lat": 48.0540930,
+  "lon": 24.2016137,
+  "tags": {
+    "addr:street": "вулиця Івана Франка",
+    "amenity": "nightclub",
+    "name": "Скрат",
+    "name:uk": "Скрат"
+  }
+},
+{
+  "type": "node",
+  "id": 4157625298,
+  "lat": 44.7496431,
+  "lon": 33.8779833,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Boss"
+  }
+},
+{
+  "type": "node",
+  "id": 4178051906,
+  "lat": 48.8698200,
+  "lon": 37.6314522,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Скорпион",
+    "name:uk": "Скорпион"
+  }
+},
+{
+  "type": "node",
+  "id": 4185574196,
+  "lat": 44.5980185,
+  "lon": 33.5164114,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Siqueiros"
+  }
+},
+{
+  "type": "node",
+  "id": 4187313017,
+  "lat": 44.6141108,
+  "lon": 33.5182668,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Калипсо"
+  }
+},
+{
+  "type": "node",
+  "id": 4187513689,
+  "lat": 44.6085991,
+  "lon": 33.4589561,
+  "tags": {
+    "addr:housenumber": "11",
+    "addr:street": "Парковая улица",
+    "amenity": "nightclub",
+    "name": "Aqua Dance Beach Club",
+    "phone": "+79787300093"
+  }
+},
+{
+  "type": "node",
+  "id": 4194026596,
+  "lat": 48.9222158,
+  "lon": 24.7151383,
+  "tags": {
+    "amenity": "nightclub",
+    "internet_access": "wlan",
+    "level": "0",
+    "name": "Біле і чорне",
+    "name:uk": "Біле і чорне",
+    "opening_hours": "24/7",
+    "phone": "+380 66 722 1405",
+    "website": "https://blackwhite.com.ua/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4196399390,
+  "lat": 44.6149864,
+  "lon": 33.5177434,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Распутин",
+    "phone": "+7(978)788-23-30",
+    "website": "http://rasputin-club.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 4196400089,
+  "lat": 44.6132656,
+  "lon": 33.5162802,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Manufactura"
+  }
+},
+{
+  "type": "node",
+  "id": 4198169600,
+  "lat": 48.5186026,
+  "lon": 34.6129432,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Монро",
+    "name:uk": "Монро"
+  }
+},
+{
+  "type": "node",
+  "id": 4203003102,
+  "lat": 46.6697077,
+  "lon": 32.6156443,
+  "tags": {
+    "amenity": "nightclub",
+    "internet_access": "wlan",
+    "name": "Рест",
+    "name:ru": "Рэст",
+    "name:uk": "Рест"
+  }
+},
+{
+  "type": "node",
+  "id": 4215703519,
+  "lat": 46.9689376,
+  "lon": 32.0044345,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Шторм",
+    "name:en": "Storm",
+    "name:ru": "Шторм",
+    "name:uk": "Шторм"
+  }
+},
+{
+  "type": "node",
+  "id": 4218594093,
+  "lat": 46.9693610,
+  "lon": 31.9899649,
+  "tags": {
+    "addr:housenumber": "59-А",
+    "addr:street": "вулиця Шевченка",
+    "amenity": "nightclub",
+    "name": "Room 59",
+    "name:ru": "Ёж",
+    "name:uk": "Room 59",
+    "opening_hours": "Fr-Su 19:00-05:30"
+  }
+},
+{
+  "type": "node",
+  "id": 4228243398,
+  "lat": 49.6739578,
+  "lon": 24.5538902,
+  "tags": {
+    "addr:street": "Галицька вулиця",
+    "amenity": "nightclub",
+    "name": "Black and Wite",
+    "name:uk": "Black and Wite"
+  }
+},
+{
+  "type": "node",
+  "id": 4230389392,
+  "lat": 44.6063973,
+  "lon": 33.4602276,
+  "tags": {
+    "addr:housenumber": "11",
+    "addr:street": "Парковая улица",
+    "amenity": "nightclub",
+    "name": "Aqua Dance",
+    "phone": "+79787300093"
+  }
+},
+{
+  "type": "node",
+  "id": 4233382593,
+  "lat": 47.8440988,
+  "lon": 35.1364936,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Музичний зал",
+    "name:en": "Music Hall",
+    "name:uk": "Музичний зал"
+  }
+},
+{
+  "type": "node",
+  "id": 4235877692,
+  "lat": 50.1516315,
+  "lon": 35.2133081,
+  "tags": {
+    "addr:street": "Слобожанська вулиця",
+    "amenity": "nightclub",
+    "name": "Ankas ",
+    "name:uk": "Ankas "
+  }
+},
+{
+  "type": "node",
+  "id": 4240984490,
+  "lat": 47.0667776,
+  "lon": 38.1557655,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Майами",
+    "name:ru": "Майами",
+    "name:uk": "Майами"
+  }
+},
+{
+  "type": "node",
+  "id": 4271810958,
+  "lat": 46.6270088,
+  "lon": 31.1644583,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Тростина",
+    "name:uk": "Тростина"
+  }
+},
+{
+  "type": "node",
+  "id": 4296821040,
+  "lat": 49.0745859,
+  "lon": 33.4191823,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Всі Свої",
+    "name:uk": "Всі Свої",
+    "toilets:wheelchair": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4298847590,
+  "lat": 46.0898777,
+  "lon": 30.4848138,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Kazanova",
+    "name:uk": "Kazanova"
+  }
+},
+{
+  "type": "node",
+  "id": 4304670494,
+  "lat": 50.3011434,
+  "lon": 26.8649112,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Vegas",
+    "name:uk": "Vegas"
+  }
+},
+{
+  "type": "node",
+  "id": 4304682589,
+  "lat": 50.2881081,
+  "lon": 26.8599705,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Статус",
+    "name:uk": "Статус"
+  }
+},
+{
+  "type": "node",
+  "id": 4317178990,
+  "lat": 48.1520309,
+  "lon": 38.9305051,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Париж",
+    "name:uk": "Париж"
+  }
+},
+{
+  "type": "node",
+  "id": 4321170797,
+  "lat": 48.5919020,
+  "lon": 37.9775915,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Політ",
+    "name:uk": "Політ"
+  }
+},
+{
+  "type": "node",
+  "id": 4326903195,
+  "lat": 45.0802029,
+  "lon": 35.4177074,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Beach club"
+  }
+},
+{
+  "type": "node",
+  "id": 4331753495,
+  "lat": 48.6856624,
+  "lon": 28.2703711,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Брояк",
+    "name:uk": "Брояк",
+    "opening_hours": "Sa 22:00-06:00",
+    "operator": "Брояк Ігор"
+  }
+},
+{
+  "type": "node",
+  "id": 4331925491,
+  "lat": 46.4867853,
+  "lon": 30.7393610,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Гранат",
+    "name:en": "Hranat",
+    "name:uk": "Гранат"
+  }
+},
+{
+  "type": "node",
+  "id": 4340637891,
+  "lat": 49.9276090,
+  "lon": 23.5706452,
+  "tags": {
+    "addr:housenumber": "16",
+    "addr:postcode": "81054",
+    "addr:street": "вулиця Січових Стрільців",
+    "amenity": "nightclub",
+    "name": "Lavanda",
+    "name:uk": "Lavanda",
+    "website": "https://lavanda.com.ua/"
+  }
+},
+{
+  "type": "node",
+  "id": 4341144092,
+  "lat": 50.7521554,
+  "lon": 33.4798977,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "ROMEN",
+    "name:uk": "ROMEN"
+  }
+},
+{
+  "type": "node",
+  "id": 4341167589,
+  "lat": 50.7484657,
+  "lon": 33.4702390,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Вояж",
+    "name:uk": "Вояж"
+  }
+},
+{
+  "type": "node",
+  "id": 4342791695,
+  "lat": 50.7505213,
+  "lon": 33.4708671,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Пасаж",
+    "name:ru": "Пассаж",
+    "name:uk": "Пасаж"
+  }
+},
+{
+  "type": "node",
+  "id": 4344824500,
+  "lat": 49.8341722,
+  "lon": 35.6104098,
+  "tags": {
+    "addr:city": "Валки",
+    "addr:street": "Радянської Армії проспект",
+    "amenity": "nightclub",
+    "name": "Фери",
+    "name:uk": "Фери",
+    "smoking": "isolated"
+  }
+},
+{
+  "type": "node",
+  "id": 4365485058,
+  "lat": 50.0893418,
+  "lon": 25.1433711,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "BROD WAY Concert Hall",
+    "name:uk": "BROD WAY Concert Hall"
+  }
+},
+{
+  "type": "node",
+  "id": 4371893392,
+  "lat": 48.7302755,
+  "lon": 37.6075480,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Віват",
+    "name:ru": "Виват",
+    "name:uk": "Віват"
+  }
+},
+{
+  "type": "node",
+  "id": 4373153992,
+  "lat": 48.9675705,
+  "lon": 32.2404805,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Патріот",
+    "name:uk": "Патріот"
+  }
+},
+{
+  "type": "node",
+  "id": 4374905894,
+  "lat": 49.8398395,
+  "lon": 24.0318953,
+  "tags": {
+    "amenity": "nightclub",
+    "internet_access": "wlan",
+    "name": "Білий Кролик",
+    "name:en": "White Rabbit",
+    "name:ru": "Белый Кролик",
+    "name:uk": "Білий Кролик",
+    "opening_hours": "24/7",
+    "website": "http://www.whiterabbitxxx.com"
+  }
+},
+{
+  "type": "node",
+  "id": 4378077691,
+  "lat": 48.2506168,
+  "lon": 25.1772040,
+  "tags": {
+    "addr:postcode": "78665",
+    "addr:street": "Вижницька вулиця",
+    "amenity": "nightclub",
+    "name": "Галерея",
+    "name:uk": "Галерея"
+  }
+},
+{
+  "type": "node",
+  "id": 4383747191,
+  "lat": 44.5855459,
+  "lon": 33.4433130,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Кадилак",
+    "name:ru": "Кадилак"
+  }
+},
+{
+  "type": "node",
+  "id": 4386344190,
+  "lat": 48.8574112,
+  "lon": 36.5488532,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Лион",
+    "name:uk": "Лион"
+  }
+},
+{
+  "type": "node",
+  "id": 4397629392,
+  "lat": 47.9390026,
+  "lon": 33.4251115,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Динар",
+    "name:ru": "Динар",
+    "name:uk": "Динар"
+  }
+},
+{
+  "type": "node",
+  "id": 4397681391,
+  "lat": 47.8972100,
+  "lon": 33.3961868,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Асторія",
+    "name:ru": "Астория",
+    "name:uk": "Асторія"
+  }
+},
+{
+  "type": "node",
+  "id": 4399545589,
+  "lat": 46.9767898,
+  "lon": 31.9611732,
+  "tags": {
+    "amenity": "nightclub",
+    "internet_access": "wlan",
+    "name": "Ushuaia",
+    "name:ru": "Ushuaia",
+    "name:uk": "Ushuaia",
+    "phone": "+380 93 034 3434",
+    "website": "http://qimpo.com/ExternalReference/https___www.facebook.com/ushuaia.club"
+  }
+},
+{
+  "type": "node",
+  "id": 4401322991,
+  "lat": 49.7859399,
+  "lon": 36.3991119,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Краснополянський сільський клуб",
+    "name:ru": "Краснополянский сельский клуб",
+    "name:uk": "Краснополянський сільський клуб"
+  }
+},
+{
+  "type": "node",
+  "id": 4404672490,
+  "lat": 44.8691829,
+  "lon": 34.2401905,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Сельский клуб",
+    "name:ru": "Сельский клуб"
+  }
+},
+{
+  "type": "node",
+  "id": 4406521593,
+  "lat": 47.2603890,
+  "lon": 35.7061766,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Кардаш",
+    "name:ru": "Кардаш",
+    "name:uk": "Кардаш"
+  }
+},
+{
+  "type": "node",
+  "id": 4406864908,
+  "lat": 46.4813225,
+  "lon": 30.7387788,
+  "tags": {
+    "addr:housenumber": "24",
+    "addr:street": "вулиця Ніни Строкатої",
+    "amenity": "nightclub",
+    "name": "Axis",
+    "name:en": "Axis",
+    "name:uk": "Axis",
+    "website": "http://strip-club.od.ua/"
+  }
+},
+{
+  "type": "node",
+  "id": 4415378989,
+  "lat": 47.9420420,
+  "lon": 33.4186786,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Music room",
+    "name:ru": "music room",
+    "name:uk": "Music room"
+  }
+},
+{
+  "type": "node",
+  "id": 4423260102,
+  "lat": 48.9295853,
+  "lon": 24.7074379,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Панорама",
+    "name:uk": "Панорама",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4450711589,
+  "lat": 48.6144257,
+  "lon": 24.5831297,
+  "tags": {
+    "addr:street": "вулиця Комарова",
+    "amenity": "nightclub",
+    "internet_access": "wlan",
+    "name": "Manhattan NC",
+    "name:en": "Manhattan NC",
+    "name:uk": "Manhattan NC",
+    "opening_hours": "Tu-Su 20:00-04:00"
+  }
+},
+{
+  "type": "node",
+  "id": 4453120991,
+  "lat": 48.9082499,
+  "lon": 24.6827628,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Атмофера",
+    "name:en": "Atmosfera",
+    "name:uk": "Атмофера",
+    "opening_hours": "We-Su 22:00-5:00",
+    "wheelchair": "limited",
+    "wheelchair:description": "невелика сходинка на вході"
+  }
+},
+{
+  "type": "node",
+  "id": 4455918389,
+  "lat": 49.9661309,
+  "lon": 31.0428724,
+  "tags": {
+    "addr:street": "вулиця Тараса Шевченка",
+    "amenity": "nightclub",
+    "name": "Lacy",
+    "name:uk": "Lacy"
+  }
+},
+{
+  "type": "node",
+  "id": 4459090091,
+  "lat": 48.8464707,
+  "lon": 24.1552077,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Клуб",
+    "name:uk": "Клуб"
+  }
+},
+{
+  "type": "node",
+  "id": 4463602258,
+  "lat": 48.9342347,
+  "lon": 24.7422921,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Б-52",
+    "name:uk": "Б-52",
+    "wheelchair": "limited",
+    "wheelchair:description": "невелика сходинка на вході"
+  }
+},
+{
+  "type": "node",
+  "id": 4477926495,
+  "lat": 45.1999041,
+  "lon": 33.3568081,
+  "tags": {
+    "amenity": "nightclub",
+    "internet_access": "wlan",
+    "name": "Серебро",
+    "name:en": "Serebro",
+    "opening_hours": "Mo-Su 18:00-06:00",
+    "phone": "+7-978-0140600"
+  }
+},
+{
+  "type": "node",
+  "id": 4492886691,
+  "lat": 49.3996109,
+  "lon": 31.0961375,
+  "tags": {
+    "amenity": "nightclub",
+    "charge": "10 UAH",
+    "fee": "yes",
+    "name": "Дискотека",
+    "name:uk": "Дискотека",
+    "opening_hours": "Fr-Sa 22:00-01:00"
+  }
+},
+{
+  "type": "node",
+  "id": 4495854501,
+  "lat": 49.5092102,
+  "lon": 36.5649114,
+  "tags": {
+    "addr:postcode": "64250",
+    "addr:street": "Спортивна вулиця",
+    "amenity": "nightclub",
+    "internet_access": "wlan",
+    "name": "\"Торнадо\"",
+    "name:ru": "\"Торнадо\"",
+    "name:uk": "\"Торнадо\"",
+    "opening_hours": "Mo-Su 14:00-05:00"
+  }
+},
+{
+  "type": "node",
+  "id": 4504854092,
+  "lat": 50.4451714,
+  "lon": 30.4990249,
+  "tags": {
+    "amenity": "nightclub",
+    "contact:facebook": "https://www.facebook.com/CaribbeanClub/",
+    "contact:instagram": "https://www.instagram.com/caribbean_club/",
+    "contact:tripadvisor": "https://www.tripadvisor.ru/Attraction_Review-g294474-d3201165-Reviews-Caribbean_Club-Kiev.html",
+    "contact:youtube": "https://www.youtube.com/user/ClubCaribbean",
+    "name": "Caribbean Club",
+    "name:en": "Caribbean Club",
+    "opening_hours": "18:00-06:00",
+    "phone": "+380 67 224 4111",
+    "website": "https://caribbean.com.ua/"
+  }
+},
+{
+  "type": "node",
+  "id": 4506808997,
+  "lat": 51.5223083,
+  "lon": 30.7540436,
+  "tags": {
+    "addr:housenumber": "88",
+    "addr:postcode": "07101",
+    "addr:street": "Центральна площа",
+    "amenity": "nightclub",
+    "name": "Канура",
+    "name:en": "Kanyra",
+    "name:uk": "Канура",
+    "opening_hours": "Mo-Su 16:00-03:00",
+    "website": "http://vk.com/club133239207"
+  }
+},
+{
+  "type": "node",
+  "id": 4525508291,
+  "lat": 51.7482771,
+  "lon": 25.4950313,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Штольня",
+    "name:uk": "Штольня"
+  }
+},
+{
+  "type": "node",
+  "id": 4529187007,
+  "lat": 48.6019849,
+  "lon": 22.2853798,
+  "tags": {
+    "addr:street": "Минайська вулиця",
+    "amenity": "nightclub",
+    "name": "B'Fly night club",
+    "name:uk": "B'Fly night club",
+    "opening_hours": "00:00-04:00,10:00-24:00",
+    "smoking": "isolated"
+  }
+},
+{
+  "type": "node",
+  "id": 4529187021,
+  "lat": 48.6183436,
+  "lon": 22.2888872,
+  "tags": {
+    "addr:street": "Капушанська вулиця",
+    "amenity": "nightclub",
+    "name": "Eila Night Club",
+    "name:uk": "Eila Night Club",
+    "opening_hours": "00:00-04:00,21:00-24:00",
+    "smoking": "isolated"
+  }
+},
+{
+  "type": "node",
+  "id": 4529187023,
+  "lat": 48.6199356,
+  "lon": 22.2944636,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Panorama",
+    "name:en": "Panorama",
+    "opening_hours": "00:00-04:00,22:00-24:00",
+    "smoking": "outside"
+  }
+},
+{
+  "type": "node",
+  "id": 4530499991,
+  "lat": 48.4605537,
+  "lon": 35.0436916,
+  "tags": {
+    "amenity": "nightclub",
+    "internet_access": "wlan",
+    "name": "АШАМ",
+    "name:en": "ASHAM",
+    "name:ru": "АШАМ",
+    "name:uk": "АШАМ",
+    "opening_hours": "Mo-Su 20:00-06:00",
+    "phone": "+380 98 717 7470"
+  }
+},
+{
+  "type": "node",
+  "id": 4548473308,
+  "lat": 50.1760634,
+  "lon": 30.3153679,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Третій Поверх",
+    "name:uk": "Третій Поверх"
+  }
+},
+{
+  "type": "node",
+  "id": 4555541890,
+  "lat": 44.9491229,
+  "lon": 34.1000029,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Глобус",
+    "name:en": "Globus",
+    "name:ru": "Глобус"
+  }
+},
+{
+  "type": "node",
+  "id": 4559478694,
+  "lat": 48.7354409,
+  "lon": 37.5868235,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "РІА",
+    "name:en": "RIA",
+    "name:ru": "РИА",
+    "name:uk": "РІА"
+  }
+},
+{
+  "type": "node",
+  "id": 4577201251,
+  "lat": 48.2252009,
+  "lon": 22.8895940,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Galicia Disco Club",
+    "name:uk": "Galicia Disco Club"
+  }
+},
+{
+  "type": "node",
+  "id": 4584421913,
+  "lat": 49.2979615,
+  "lon": 25.6968288,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Аурум",
+    "name:uk": "Аурум"
+  }
+},
+{
+  "type": "node",
+  "id": 4594331193,
+  "lat": 48.4551842,
+  "lon": 35.0230292,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Самба",
+    "name:en": "Samba",
+    "name:uk": "Самба"
+  }
+},
+{
+  "type": "node",
+  "id": 4608137589,
+  "lat": 46.6166672,
+  "lon": 31.1083538,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Остров",
+    "name:ru": "Остров",
+    "name:uk": "Остров"
+  }
+},
+{
+  "type": "node",
+  "id": 4614718903,
+  "lat": 48.8109340,
+  "lon": 24.1962051,
+  "tags": {
+    "addr:city": "Перегінське",
+    "addr:housenumber": "4б",
+    "addr:postcode": "77662",
+    "addr:street": "вулиця Січових Стрільців",
+    "amenity": "nightclub",
+    "name": "Нічний клуб Динаміт",
+    "name:uk": "Нічний клуб Динаміт",
+    "opening_hours": "22:00-03:00",
+    "smoking": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4615930789,
+  "lat": 49.8086484,
+  "lon": 24.0178578,
+  "tags": {
+    "addr:street": "вулиця Володимира Великого",
+    "amenity": "nightclub",
+    "name": "Кафе Де Люкс",
+    "name:en": "De Luxe cafe",
+    "name:uk": "Кафе Де Люкс"
+  }
+},
+{
+  "type": "node",
+  "id": 4625198341,
+  "lat": 46.0660151,
+  "lon": 30.4584088,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Бали",
+    "name:en": "Bali",
+    "name:uk": "Бали"
+  }
+},
+{
+  "type": "node",
+  "id": 4639524794,
+  "lat": 50.6209951,
+  "lon": 26.2500772,
+  "tags": {
+    "addr:housenumber": "11",
+    "addr:street": "Поштова вулиця",
+    "amenity": "nightclub",
+    "name": "Аладін",
+    "name:en": "Alladin",
+    "name:ru": "Аладин",
+    "name:uk": "Аладін"
+  }
+},
+{
+  "type": "node",
+  "id": 4640025590,
+  "lat": 44.9691140,
+  "lon": 34.1002248,
+  "tags": {
+    "amenity": "nightclub",
+    "internet_access": "wlan",
+    "name": "Магма",
+    "name:ru": "Магма"
+  }
+},
+{
+  "type": "node",
+  "id": 4663176490,
+  "lat": 46.5360931,
+  "lon": 32.5373829,
+  "tags": {
+    "amenity": "nightclub",
+    "internet_access": "wlan",
+    "name": "РК \"Статус\"",
+    "name:en": "РК \"Status\"",
+    "name:uk": "РК \"Статус\""
+  }
+},
+{
+  "type": "node",
+  "id": 4663176491,
+  "lat": 46.5359327,
+  "lon": 32.5351766,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "АРГО",
+    "name:ru": "АРГО",
+    "name:uk": "АРГО"
+  }
+},
+{
+  "type": "node",
+  "id": 4672176594,
+  "lat": 49.8865237,
+  "lon": 25.9834241,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "VIP",
+    "name:uk": "VIP"
+  }
+},
+{
+  "type": "node",
+  "id": 4681563786,
+  "lat": 46.1670246,
+  "lon": 34.8174727,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Золота рибка",
+    "name:en": "Golden fish",
+    "name:ru": "Золотая рыбка",
+    "name:uk": "Золота рибка"
+  }
+},
+{
+  "type": "node",
+  "id": 4683130510,
+  "lat": 47.4066240,
+  "lon": 32.2773304,
+  "tags": {
+    "addr:street": "вулиця Мальцева",
+    "amenity": "nightclub",
+    "name": "The LasVegas",
+    "name:en": "Night club The Las Vegas",
+    "name:ru": "Ночной клуб The LasVegas",
+    "name:uk": "The LasVegas",
+    "operator": "Привільнянська сільрада",
+    "smoking": "outside"
+  }
+},
+{
+  "type": "node",
+  "id": 4692046689,
+  "lat": 48.9662429,
+  "lon": 23.9641322,
+  "tags": {
+    "addr:housenumber": "38",
+    "addr:postcode": "77503",
+    "addr:street": "вулиця Обліски",
+    "amenity": "nightclub",
+    "internet_access": "wlan",
+    "name": "DIESEL CLUB",
+    "name:en": "DIESEL CLUB",
+    "name:ru": "DIESEL CLUB",
+    "name:uk": "DIESEL CLUB",
+    "opening_hours": "Fr-Sa 22:00-04:00",
+    "phone": "+380 99 173 5050"
+  }
+},
+{
+  "type": "node",
+  "id": 4699279193,
+  "lat": 48.5635167,
+  "lon": 39.3896682,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Таис"
+  }
+},
+{
+  "type": "node",
+  "id": 4707459695,
+  "lat": 48.5149091,
+  "lon": 37.7017623,
+  "tags": {
+    "addr:street": "Калініна вулиця",
+    "amenity": "nightclub",
+    "name": "Аль Капоне",
+    "name:en": "Al Capone",
+    "name:uk": "Аль Капоне"
+  }
+},
+{
+  "type": "node",
+  "id": 4719627327,
+  "lat": 50.5047915,
+  "lon": 30.7851265,
+  "tags": {
+    "addr:housenumber": "9/1",
+    "addr:street": "вулиця Грушевського",
+    "amenity": "nightclub",
+    "name": "Адреналін",
+    "name:uk": "Адреналін"
+  }
+},
+{
+  "type": "node",
+  "id": 4723500014,
+  "lat": 46.5896381,
+  "lon": 30.7975947,
+  "tags": {
+    "addr:housenumber": "118А",
+    "addr:street": "проспект Князя Володимира Великого",
+    "amenity": "nightclub",
+    "name": "Авеню",
+    "name:ru": "Авеню",
+    "name:uk": "Авеню"
+  }
+},
+{
+  "type": "node",
+  "id": 4727254390,
+  "lat": 49.8324974,
+  "lon": 24.0371959,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Хіреш",
+    "name:en": "Hiresh",
+    "name:uk": "Хіреш"
+  }
+},
+{
+  "type": "node",
+  "id": 4730274359,
+  "lat": 50.5285934,
+  "lon": 30.7937662,
+  "tags": {
+    "addr:housenumber": "2",
+    "addr:street": "вулиця Драгоманова",
+    "amenity": "nightclub",
+    "name": "Форест",
+    "name:uk": "Форест"
+  }
+},
+{
+  "type": "node",
+  "id": 4730393789,
+  "lat": 50.9117181,
+  "lon": 34.8290508,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Луна",
+    "name:ru": "Луна",
+    "name:uk": "Луна"
+  }
+},
+{
+  "type": "node",
+  "id": 4732141180,
+  "lat": 47.0748882,
+  "lon": 37.5218366,
+  "tags": {
+    "amenity": "nightclub",
+    "internet_access": "wlan",
+    "name": "Barbaris",
+    "name:en": "Barbaris",
+    "name:ru": "Barbaris",
+    "name:uk": "Barbaris",
+    "opening_hours": "Fr-Sa 09:00-05:00",
+    "phone": "+380 97 784 3334",
+    "website": "https://barbaris.0629.com.ua/"
+  }
+},
+{
+  "type": "node",
+  "id": 4735972623,
+  "lat": 50.5219434,
+  "lon": 30.8026172,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Бібліотека",
+    "name:uk": "Бібліотека"
+  }
+},
+{
+  "type": "node",
+  "id": 4736341023,
+  "lat": 50.5183341,
+  "lon": 30.8031194,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Друїд",
+    "name:uk": "Друїд",
+    "sport": "billiards"
+  }
+},
+{
+  "type": "node",
+  "id": 4739381935,
+  "lat": 46.2986643,
+  "lon": 30.6629760,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "\"Метрополіс\"",
+    "name:ru": "\"Метрополис\"",
+    "name:uk": "\"Метрополіс\""
+  }
+},
+{
+  "type": "node",
+  "id": 4742716723,
+  "lat": 51.3044178,
+  "lon": 27.0692090,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Казка",
+    "name:uk": "Казка"
+  }
+},
+{
+  "type": "node",
+  "id": 4742716728,
+  "lat": 51.3027444,
+  "lon": 27.0665596,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Плай",
+    "name:uk": "Плай"
+  }
+},
+{
+  "type": "node",
+  "id": 4742716729,
+  "lat": 51.3006581,
+  "lon": 27.0679882,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Фаворит",
+    "name:uk": "Фаворит"
+  }
+},
+{
+  "type": "node",
+  "id": 4743448800,
+  "lat": 50.5010513,
+  "lon": 30.7889919,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Гранд",
+    "name:uk": "Гранд"
+  }
+},
+{
+  "type": "node",
+  "id": 4787616421,
+  "lat": 50.0788966,
+  "lon": 31.4823582,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Адреналін",
+    "name:en": "Adrenaline",
+    "name:uk": "Адреналін"
+  }
+},
+{
+  "type": "node",
+  "id": 4789461380,
+  "lat": 46.9560358,
+  "lon": 31.9558497,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Coco Bongo",
+    "name:uk": "Coco Bongo"
+  }
+},
+{
+  "type": "node",
+  "id": 4790296921,
+  "lat": 49.7988221,
+  "lon": 36.3128533,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Клуб",
+    "name:ru": "Клуб",
+    "name:uk": "Клуб"
+  }
+},
+{
+  "type": "node",
+  "id": 4797079221,
+  "lat": 50.4486115,
+  "lon": 30.5199919,
+  "tags": {
+    "amenity": "nightclub",
+    "email": "monteray.info@gmail.com",
+    "internet_access": "wlan",
+    "name": "Monte Ray",
+    "name:en": "Monte Ray",
+    "phone": "+380 44 223 0644",
+    "website": "http://monteray.kiev.ua/"
+  }
+},
+{
+  "type": "node",
+  "id": 4809855223,
+  "lat": 50.4326393,
+  "lon": 30.5147880,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Лифт",
+    "name:en": "Lift",
+    "name:ru": "Лифт",
+    "name:uk": "Лiфт"
+  }
+},
+{
+  "type": "node",
+  "id": 4811775123,
+  "lat": 46.6278937,
+  "lon": 31.1848776,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Бразіл",
+    "name:en": "Brasil",
+    "name:ru": "Бразил",
+    "name:uk": "Бразіл"
+  }
+},
+{
+  "type": "node",
+  "id": 4811775124,
+  "lat": 46.6277662,
+  "lon": 31.1849642,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "AQUA",
+    "name:en": "AQUA",
+    "name:ru": "AQUA",
+    "name:uk": "AQUA"
+  }
+},
+{
+  "type": "node",
+  "id": 4824790431,
+  "lat": 50.2582699,
+  "lon": 28.6559036,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Miami",
+    "name:en": "Miami"
+  }
+},
+{
+  "type": "node",
+  "id": 4833621421,
+  "lat": 44.9490158,
+  "lon": 34.0979992,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Кальянная Теплица",
+    "name:ru": "Кальянная Теплица"
+  }
+},
+{
+  "type": "node",
+  "id": 4838445625,
+  "lat": 50.2557342,
+  "lon": 28.6590972,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Тік-Так",
+    "name:uk": "Тік-Так"
+  }
+},
+{
+  "type": "node",
+  "id": 4839798926,
+  "lat": 48.5760115,
+  "lon": 39.3879588,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Эгоист",
+    "name:ru": "Эгоист",
+    "name:uk": "Эгоист"
+  }
+},
+{
+  "type": "node",
+  "id": 4842287341,
+  "lat": 48.4353729,
+  "lon": 38.2101443,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Нептун",
+    "name:ru": "Нептун",
+    "name:uk": "Нептун"
+  }
+},
+{
+  "type": "node",
+  "id": 4881170221,
+  "lat": 47.8225944,
+  "lon": 35.1719929,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Реактивний",
+    "name:en": "Jet",
+    "name:uk": "Реактивний"
+  }
+},
+{
+  "type": "node",
+  "id": 4905641422,
+  "lat": 47.6850907,
+  "lon": 33.1662351,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Нічна варта",
+    "name:ru": "Ночной дозор",
+    "name:uk": "Нічна варта",
+    "smoking": "separated",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4910768725,
+  "lat": 45.3541623,
+  "lon": 36.4733702,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Лайм",
+    "name:ru": "Лайм"
+  }
+},
+{
+  "type": "node",
+  "id": 4959853327,
+  "lat": 44.9449939,
+  "lon": 34.1002670,
+  "tags": {
+    "addr:housenumber": "28",
+    "addr:street": "Турецкая улица",
+    "amenity": "nightclub",
+    "internet_access": "wlan",
+    "name": "LEX Lounge Bar",
+    "opening_hours": "Mo-Su 12:00-02:00",
+    "phone": "+79782783080",
+    "website": "http://vk.com/lexlounge"
+  }
+},
+{
+  "type": "node",
+  "id": 5000282902,
+  "lat": 49.0190563,
+  "lon": 24.3502234,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Vintage",
+    "name:uk": "Vintage"
+  }
+},
+{
+  "type": "node",
+  "id": 5001972522,
+  "lat": 46.0897313,
+  "lon": 34.8297711,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Папа де Мор",
+    "name:en": "Papa De More",
+    "name:uk": "Папа де Мор"
+  }
+},
+{
+  "type": "node",
+  "id": 5008752723,
+  "lat": 44.5504537,
+  "lon": 33.4348899,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Ночной клуб",
+    "name:ru": "Ночной клуб"
+  }
+},
+{
+  "type": "node",
+  "id": 5018983421,
+  "lat": 49.8387204,
+  "lon": 24.0272437,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Silentium",
+    "name:la": "Silentium",
+    "opening_hours": "Mo-Su 19:00-21:00",
+    "phone": "+380 66 731 6593",
+    "website": "http://kinovedy.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 5051340500,
+  "lat": 48.7578399,
+  "lon": 30.2216928,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Чорне дерево",
+    "name:en": "Black Wood",
+    "name:uk": "Чорне дерево"
+  }
+},
+{
+  "type": "node",
+  "id": 5126605421,
+  "lat": 48.4263492,
+  "lon": 35.0041833,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Молінарі",
+    "name:ru": "Молинари",
+    "name:uk": "Молінарі"
+  }
+},
+{
+  "type": "node",
+  "id": 5126913523,
+  "lat": 44.9485032,
+  "lon": 34.0992841,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Кокос"
+  }
+},
+{
+  "type": "node",
+  "id": 5159133084,
+  "lat": 50.4832058,
+  "lon": 24.2766386,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Едем",
+    "name:uk": "Едем"
+  }
+},
+{
+  "type": "node",
+  "id": 5175188824,
+  "lat": 49.9321888,
+  "lon": 23.5633752,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "IceBerg",
+    "name:uk": "IceBerg"
+  }
+},
+{
+  "type": "node",
+  "id": 5208028989,
+  "lat": 47.9032103,
+  "lon": 33.2940459,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Power",
+    "name:uk": "Power"
+  }
+},
+{
+  "type": "node",
+  "id": 5238883974,
+  "lat": 47.8085775,
+  "lon": 38.0255338,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Extreme",
+    "name:uk": "Extreme",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5246244122,
+  "lat": 47.8416688,
+  "lon": 35.1250738,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Правда",
+    "name:en": "Pravda club",
+    "name:uk": "Правда"
+  }
+},
+{
+  "type": "node",
+  "id": 5270570722,
+  "lat": 52.1560491,
+  "lon": 33.0711556,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Полюшкинський клуб",
+    "name:uk": "Полюшкинський клуб"
+  }
+},
+{
+  "type": "node",
+  "id": 5276966021,
+  "lat": 48.9784292,
+  "lon": 37.8118172,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Еллада",
+    "name:ru": "Эллада",
+    "name:uk": "Еллада"
+  }
+},
+{
+  "type": "node",
+  "id": 5278779621,
+  "lat": 50.2526610,
+  "lon": 28.6683903,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Максимум",
+    "name:en": "Maximum",
+    "name:uk": "Максимум",
+    "phone": "+380 412 42 0766"
+  }
+},
+{
+  "type": "node",
+  "id": 5290619022,
+  "lat": 44.9497903,
+  "lon": 34.1006735,
+  "tags": {
+    "addr:housenumber": "36",
+    "addr:postcode": "295000",
+    "addr:street": "проспект Кирова",
+    "amenity": "nightclub",
+    "internet_access": "wlan",
+    "name": "Арена Lounge Karaoke Club",
+    "name:en": "Arena Lounge Karaoke Club",
+    "opening_hours": "Mo-Su 10:00-06:00",
+    "phone": "+79782125505"
+  }
+},
+{
+  "type": "node",
+  "id": 5299009468,
+  "lat": 52.1686444,
+  "lon": 32.9987950,
+  "tags": {
+    "addr:housenumber": "22",
+    "addr:postcode": "16014",
+    "addr:street": "вулиця Л. Кучми",
+    "amenity": "nightclub",
+    "name": "Чайкинський клуб",
+    "name:uk": "Чайкинський клуб"
+  }
+},
+{
+  "type": "node",
+  "id": 5331085921,
+  "lat": 44.9498335,
+  "lon": 34.1005887,
+  "tags": {
+    "addr:housenumber": "36",
+    "addr:street": "проспект Кирова",
+    "amenity": "nightclub",
+    "internet_access": "wlan",
+    "name": "Арена лаунж караоке клуб",
+    "name:en": "ARENA lounge karaoke club",
+    "opening_hours": "24/7",
+    "phone": "+79782125505",
+    "website": "https://www.instagram.com/arenasimf"
+  }
+},
+{
+  "type": "node",
+  "id": 5356424553,
+  "lat": 49.4486786,
+  "lon": 32.0524213,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Reflection",
+    "name:en": "Reflection"
+  }
+},
+{
+  "type": "node",
+  "id": 5400845621,
+  "lat": 44.9472326,
+  "lon": 34.0872479,
+  "tags": {
+    "amenity": "nightclub",
+    "internet_access": "wlan",
+    "name": "Чеширский кот",
+    "name:en": "Cheshirskiy kot",
+    "opening_hours": "Mo-Th 16:00-01:00; Fr-Su 16:00-05:00",
+    "phone": "+79789513030",
+    "website": "http://vk.com/hookah_krym"
+  }
+},
+{
+  "type": "node",
+  "id": 5414045421,
+  "lat": 50.4415141,
+  "lon": 30.5213630,
+  "tags": {
+    "addr:housenumber": "5",
+    "addr:street": "Велика Васильківська вулиця",
+    "amenity": "nightclub",
+    "check_date": "2026-05-09",
+    "check_date:opening_hours": "2026-05-09",
+    "contact:instagram": "juice.nocap",
+    "internet_access": "wlan",
+    "name": "Juice Bar",
+    "name:en": "Juice Bar",
+    "name:uk": "Джус бар",
+    "opening_hours": "Fr-Sa 18:00-23:00",
+    "website": "https://t.me/iseejuice"
+  }
+},
+{
+  "type": "node",
+  "id": 5432893421,
+  "lat": 49.2265263,
+  "lon": 28.4484893,
+  "tags": {
+    "amenity": "nightclub",
+    "internet_access": "wlan",
+    "name": "Skyroom",
+    "name:uk": "Skyroom",
+    "opening_hours": "Th-Su 21:00-06:00",
+    "phone": "+380 93 886 9393"
+  }
+},
+{
+  "type": "node",
+  "id": 5501829021,
+  "lat": 48.2750841,
+  "lon": 25.9880545,
+  "tags": {
+    "addr:housenumber": "244-А",
+    "addr:street": "Руська вулиця",
+    "amenity": "nightclub",
+    "name": "Dolce Club",
+    "name:uk": "Dolce Club"
+  }
+},
+{
+  "type": "node",
+  "id": 5518748422,
+  "lat": 47.8406440,
+  "lon": 35.1278637,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Орбіта",
+    "name:en": "Orbita",
+    "name:ru": "Орбита",
+    "name:uk": "Орбіта"
+  }
+},
+{
+  "type": "node",
+  "id": 5538694533,
+  "lat": 50.1039234,
+  "lon": 24.3458516,
+  "tags": {
+    "amenity": "nightclub",
+    "level": "2",
+    "name": "Ozon Club",
+    "name:uk": "Ozon Club"
+  }
+},
+{
+  "type": "node",
+  "id": 5539721441,
+  "lat": 48.6252098,
+  "lon": 22.2763937,
+  "tags": {
+    "amenity": "nightclub",
+    "internet_access": "wlan",
+    "name": "Максимус",
+    "name:uk": "Максимус",
+    "opening_hours": "Th-Mo 22:00-05:00"
+  }
+},
+{
+  "type": "node",
+  "id": 5566445638,
+  "lat": 47.8972249,
+  "lon": 33.2958677,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Chesterfield",
+    "name:uk": "Chesterfield"
+  }
+},
+{
+  "type": "node",
+  "id": 5586732274,
+  "lat": 49.0118229,
+  "lon": 24.3826477,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Клуб",
+    "name:uk": "Клуб"
+  }
+},
+{
+  "type": "node",
+  "id": 5598469721,
+  "lat": 48.3631318,
+  "lon": 24.4048561,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Voda",
+    "name:uk": "Voda"
+  }
+},
+{
+  "type": "node",
+  "id": 5627246821,
+  "lat": 51.4205320,
+  "lon": 29.8464869,
+  "tags": {
+    "amenity": "nightclub",
+    "lgbtq": "primary",
+    "min_age": "18",
+    "name": "Гей-клуб \"Горбатий поліщук\"",
+    "name:cs": "Gay klub Hrbatý Poleščuk",
+    "name:en": "Humpback Polish",
+    "name:uk": "Гей-клуб \"Горбатий поліщук\""
+  }
+},
+{
+  "type": "node",
+  "id": 5636832273,
+  "lat": 49.4016082,
+  "lon": 26.9907391,
+  "tags": {
+    "addr:street": "провулок Петлюри",
+    "amenity": "nightclub",
+    "name": "Сахар",
+    "name:uk": "Сахар"
+  }
+},
+{
+  "type": "node",
+  "id": 5640078764,
+  "lat": 50.9099754,
+  "lon": 34.7987082,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Monti",
+    "name:uk": "Monti"
+  }
+},
+{
+  "type": "node",
+  "id": 5646328739,
+  "lat": 48.0777156,
+  "lon": 38.0752156,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Спектр",
+    "name:uk": "Спектр"
+  }
+},
+{
+  "type": "node",
+  "id": 5679458621,
+  "lat": 45.6357403,
+  "lon": 29.0774750,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Casa de cultură",
+    "name:uk": "Casa de cultură"
+  }
+},
+{
+  "type": "node",
+  "id": 5687768221,
+  "lat": 48.5292930,
+  "lon": 25.0216277,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Amsterdam",
+    "name:uk": "Amsterdam"
+  }
+},
+{
+  "type": "node",
+  "id": 5708031369,
+  "lat": 47.9041843,
+  "lon": 33.3424346,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Гараж",
+    "name:en": "GarAge",
+    "name:uk": "Гараж",
+    "phone": "+380 68 270 2702",
+    "website": "http://garageclub.club/"
+  }
+},
+{
+  "type": "node",
+  "id": 5710117222,
+  "lat": 47.7718973,
+  "lon": 32.3325692,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Клуб",
+    "name:uk": "Клуб"
+  }
+},
+{
+  "type": "node",
+  "id": 5758896089,
+  "lat": 50.1814008,
+  "lon": 27.0709486,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Fashion",
+    "name:uk": "Fashion"
+  }
+},
+{
+  "type": "node",
+  "id": 5797055953,
+  "lat": 48.1525319,
+  "lon": 23.1366472,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Релакс",
+    "name:en": "Relax",
+    "name:uk": "Релакс"
+  }
+},
+{
+  "type": "node",
+  "id": 5817614153,
+  "lat": 50.4470464,
+  "lon": 30.4320443,
+  "tags": {
+    "addr:housenumber": "26/2",
+    "addr:postcode": "03067",
+    "addr:street": "Гарматна вулиця",
+    "amenity": "nightclub",
+    "description": "https://volume-club.business.site/",
+    "internet_access": "wlan",
+    "name": "Volume Club",
+    "name:en": "Volume Club",
+    "name:uk": "Volume Club",
+    "opening_hours": "Fr-Su 17:00-23:00",
+    "website": "https://www.facebook.com/volumeconcertclub"
+  }
+},
+{
+  "type": "node",
+  "id": 5828838507,
+  "lat": 50.1170275,
+  "lon": 27.5138764,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Європа",
+    "name:uk": "Європа"
+  }
+},
+{
+  "type": "node",
+  "id": 6005577129,
+  "lat": 49.8092239,
+  "lon": 36.0548276,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Сідонія",
+    "name:uk": "Сідонія"
+  }
+},
+{
+  "type": "node",
+  "id": 6031497820,
+  "lat": 49.3734850,
+  "lon": 26.7158753,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Клуб",
+    "name:uk": "Клуб",
+    "smoking": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6051489571,
+  "lat": 51.3380652,
+  "lon": 26.6008648,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Monkey House",
+    "name:uk": "Манкі Хаус"
+  }
+},
+{
+  "type": "node",
+  "id": 6088755945,
+  "lat": 50.2136411,
+  "lon": 34.3508986,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Сюрприз",
+    "name:uk": "Сюрприз"
+  }
+},
+{
+  "type": "node",
+  "id": 6120227203,
+  "lat": 46.9658338,
+  "lon": 32.0110556,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Сутінки Нічний клуб / Sumerki Disco club",
+    "name:uk": "Сутінки Нічний клуб / Sumerki Disco club",
+    "opening_hours": "21:00 - 05:00",
+    "payment:cards": "yes",
+    "payment:cash": "yes",
+    "phone": "+380 51 709 2618",
+    "smoking": "outside"
+  }
+},
+{
+  "type": "node",
+  "id": 6166478285,
+  "lat": 50.4661376,
+  "lon": 30.4999904,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Otel’",
+    "name:ru-Latn": "Otel’",
+    "opening_hours": "Fr-Sa 23:00-11:00"
+  }
+},
+{
+  "type": "node",
+  "id": 6229609019,
+  "lat": 49.5883264,
+  "lon": 34.5576952,
+  "tags": {
+    "addr:housenumber": "1/27",
+    "addr:postcode": "36000",
+    "addr:street": "вулиця Котляревського",
+    "air_conditioning": "yes",
+    "amenity": "nightclub",
+    "check_date:opening_hours": "2021-11-22",
+    "level": "-1",
+    "min_age": "21",
+    "name": "Шаляпин",
+    "name:uk": "Шаляпин",
+    "opening_hours": "12:00-04:00",
+    "outdoor_seating": "yes",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "phone": "+380 95 257 7347",
+    "smoking": "outside",
+    "website": "https://instagram.com/shalyapin_karaoke",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6247327745,
+  "lat": 49.5847475,
+  "lon": 34.5575327,
+  "tags": {
+    "amenity": "nightclub",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "min_age": "18",
+    "name": "\"Робин Гуд\"",
+    "name:uk": "\"Робин Гуд\"",
+    "opening_hours": "24/7",
+    "smoking": "yes",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6260900785,
+  "lat": 50.0234884,
+  "lon": 36.3360672,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Нічний клуб \"Компас\"",
+    "name:uk": "Нічний клуб \"Компас\""
+  }
+},
+{
+  "type": "node",
+  "id": 6334949941,
+  "lat": 46.9596451,
+  "lon": 31.9848758,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Caprica",
+    "name:uk": "Caprica"
+  }
+},
+{
+  "type": "node",
+  "id": 6341182185,
+  "lat": 45.9590910,
+  "lon": 29.4176198,
+  "tags": {
+    "addr:street": "вулиця Калмикова",
+    "amenity": "nightclub",
+    "name": "Майамі",
+    "name:en": "Miami Club",
+    "name:ru": "Майами",
+    "name:uk": "Майамі"
+  }
+},
+{
+  "type": "node",
+  "id": 6389515120,
+  "lat": 46.6697500,
+  "lon": 32.6275111,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "General",
+    "name:uk": "General"
+  }
+},
+{
+  "type": "node",
+  "id": 6452307553,
+  "lat": 48.6414519,
+  "lon": 22.2681043,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Kontrabass",
+    "name:uk": "Kontrabass"
+  }
+},
+{
+  "type": "node",
+  "id": 6477986192,
+  "lat": 48.9295491,
+  "lon": 24.7069626,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Panorama club",
+    "name:uk": "Panorama club"
+  }
+},
+{
+  "type": "node",
+  "id": 6478048186,
+  "lat": 49.4241800,
+  "lon": 26.9855859,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Faberge",
+    "name:uk": "Faberge"
+  }
+},
+{
+  "type": "node",
+  "id": 6515292198,
+  "lat": 46.4827707,
+  "lon": 30.7393675,
+  "tags": {
+    "addr:housenumber": "30",
+    "addr:postcode": "65026",
+    "addr:street": "Грецька вулиця",
+    "amenity": "nightclub",
+    "name": "Iznanka BDSM Bar",
+    "name:uk": "Iznanka BDSM Bar",
+    "opening_hours": "Mo-Su 18:00-03:00",
+    "phone": "+380 67 289 1089",
+    "smoking": "yes",
+    "website": "https://iznanka.com.ua/"
+  }
+},
+{
+  "type": "node",
+  "id": 6533647802,
+  "lat": 50.9079640,
+  "lon": 34.7983080,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Modjo",
+    "name:uk": "Modjo",
+    "opening_hours": "Fr, Sa 21:00-06:00; We, Th, Su 18:00-03:00",
+    "phone": "+380 95 546 5324"
+  }
+},
+{
+  "type": "node",
+  "id": 6539630583,
+  "lat": 47.9054577,
+  "lon": 33.3423559,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Забой",
+    "name:uk": "Забой"
+  }
+},
+{
+  "type": "node",
+  "id": 6557555630,
+  "lat": 44.9594365,
+  "lon": 35.2515046,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Феникс"
+  }
+},
+{
+  "type": "node",
+  "id": 6557555632,
+  "lat": 44.9591214,
+  "lon": 35.2512699,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Медведь"
+  }
+},
+{
+  "type": "node",
+  "id": 6557966287,
+  "lat": 50.7451332,
+  "lon": 25.3398508,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Королева",
+    "name:en": "Queen",
+    "name:uk": "Королева"
+  }
+},
+{
+  "type": "node",
+  "id": 6618992313,
+  "lat": 50.7536595,
+  "lon": 25.3328804,
+  "tags": {
+    "amenity": "nightclub",
+    "contact:phone": "+380 99 432 7535",
+    "entrance": "main",
+    "name": "Versailles",
+    "name:en": "Versailles",
+    "name:uk": "Versailles",
+    "website": "https://www.versailles.lutsk.ua"
+  }
+},
+{
+  "type": "node",
+  "id": 6648067197,
+  "lat": 45.5133987,
+  "lon": 32.7043731,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Laguna",
+    "name:en": "L NIGHT CLUB"
+  }
+},
+{
+  "type": "node",
+  "id": 6662674098,
+  "lat": 50.1156138,
+  "lon": 25.7201173,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Aqua",
+    "name:uk": "Aqua"
+  }
+},
+{
+  "type": "node",
+  "id": 6668086373,
+  "lat": 50.6219228,
+  "lon": 26.2305848,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Catarsis",
+    "name:uk": "Catarsis",
+    "opening_hours": "Su-Th 18:00-03:00, Fr,Sa 18:00-06:00"
+  }
+},
+{
+  "type": "node",
+  "id": 6688272685,
+  "lat": 48.3152068,
+  "lon": 25.0893522,
+  "tags": {
+    "addr:housenumber": "15",
+    "addr:street": "вулиця Небесної Сотні",
+    "amenity": "nightclub",
+    "name": "Більярд",
+    "name:uk": "Більярд"
+  }
+},
+{
+  "type": "node",
+  "id": 6708413987,
+  "lat": 44.5763174,
+  "lon": 34.3488143,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Дискотека"
+  }
+},
+{
+  "type": "node",
+  "id": 6715656662,
+  "lat": 44.7553627,
+  "lon": 34.5593107,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Кураж",
+    "name:ru": "Кураж"
+  }
+},
+{
+  "type": "node",
+  "id": 6795963385,
+  "lat": 50.4513717,
+  "lon": 30.5253093,
+  "tags": {
+    "addr:housenumber": "14",
+    "addr:postcode": "01001",
+    "addr:street": "вулиця Хрещатик",
+    "amenity": "nightclub",
+    "internet_access": "wlan",
+    "min_age": "18",
+    "name": "Принцес Клуб",
+    "name:en": "Princess Men’s club",
+    "name:ru": "Принцесс клуб",
+    "name:uk": "Принцес Клуб",
+    "opening_hours": "Mo-Su 20:00-06:00",
+    "phone": "+380 66 525 6004",
+    "website": "https://princessclub.com.ua"
+  }
+},
+{
+  "type": "node",
+  "id": 6796853211,
+  "lat": 50.0098186,
+  "lon": 36.3175476,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Radmir",
+    "name:uk": "Radmir",
+    "smoking": "isolated"
+  }
+},
+{
+  "type": "node",
+  "id": 6801428786,
+  "lat": 48.4604905,
+  "lon": 35.0482153,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Модуль",
+    "name:ru": "Модуль",
+    "name:uk": "Модуль"
+  }
+},
+{
+  "type": "node",
+  "id": 7013539393,
+  "lat": 50.7400377,
+  "lon": 25.3783241,
+  "tags": {
+    "amenity": "nightclub",
+    "fee": "yes",
+    "layer": "1",
+    "name": "Паганіні",
+    "name:en": "Pahanini",
+    "name:uk": "Паганіні",
+    "opening_hours": "21:00-05:00",
+    "phone": "+380 95 931 7070",
+    "website": "http://melodija.com.ua/karaoke-lutsk/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7025916188,
+  "lat": 45.6130772,
+  "lon": 34.3200162,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Диско-бар Арзы"
+  }
+},
+{
+  "type": "node",
+  "id": 7052276710,
+  "lat": 50.3637331,
+  "lon": 33.2724874,
+  "tags": {
+    "amenity": "nightclub",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "min_age": "18",
+    "name": "НК \"Абриколь\"",
+    "name:uk": "НК \"Абриколь\"",
+    "opening_hours": "08:30-12:30,15:30-20:00",
+    "smoking": "yes",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7117697684,
+  "lat": 47.0890159,
+  "lon": 37.5288404,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Freeman",
+    "name:uk": "Freeman"
+  }
+},
+{
+  "type": "node",
+  "id": 7147544387,
+  "lat": 48.3455410,
+  "lon": 33.5098828,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Старе місто",
+    "name:uk": "Старе місто"
+  }
+},
+{
+  "type": "node",
+  "id": 7155306885,
+  "lat": 48.9192992,
+  "lon": 24.7122178,
+  "tags": {
+    "amenity": "nightclub",
+    "email": "meduza.if@gmail.com",
+    "internet_access": "wlan",
+    "name": "Медуза",
+    "name:en": "Meduza.if",
+    "name:uk": "Медуза",
+    "opening_hours": "Su-Th 13:00-02:00; Fr-Sa 13:00-04:00",
+    "operator": "+380 95 141 3134",
+    "phone": "+380 97 141 3134",
+    "website": "http://Meduza.if"
+  }
+},
+{
+  "type": "node",
+  "id": 7431156344,
+  "lat": 50.2647376,
+  "lon": 28.6856369,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Рафінад",
+    "name:uk": "Рафінад"
+  }
+},
+{
+  "type": "node",
+  "id": 7545935077,
+  "lat": 48.6317174,
+  "lon": 38.3798227,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Нічний клуб \"Схід",
+    "name:uk": "Нічний клуб \"Схід"
+  }
+},
+{
+  "type": "node",
+  "id": 7690204030,
+  "lat": 50.4687602,
+  "lon": 30.6327488,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Zoloto",
+    "name:uk": "Zoloto",
+    "opening_hours": "Su-We 11:00-24:00; Th-Sa 11:00-04:00",
+    "phone": "+380 63 515 8393",
+    "website": "http://zoloto.co.ua/"
+  }
+},
+{
+  "type": "node",
+  "id": 7778715937,
+  "lat": 48.8988948,
+  "lon": 33.4499198,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Клюб",
+    "name:uk": "Клюб"
+  }
+},
+{
+  "type": "node",
+  "id": 7843529790,
+  "lat": 50.3567835,
+  "lon": 33.2720344,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Vegas Night club",
+    "name:uk": "Vegas Night club"
+  }
+},
+{
+  "type": "node",
+  "id": 7949075185,
+  "lat": 49.9907487,
+  "lon": 36.2402127,
+  "tags": {
+    "addr:housenumber": "2/2",
+    "addr:street": "Харківська набережна",
+    "amenity": "nightclub",
+    "name": "LF Club",
+    "name:uk": "LF Club"
+  }
+},
+{
+  "type": "node",
+  "id": 7970448085,
+  "lat": 49.5570562,
+  "lon": 34.5225994,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Open Kitchen",
+    "name:uk": "Open Kitchen"
+  }
+},
+{
+  "type": "node",
+  "id": 8019707960,
+  "lat": 46.6555687,
+  "lon": 32.6505002,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Shade",
+    "name:uk": "Shade"
+  }
+},
+{
+  "type": "node",
+  "id": 8295661617,
+  "lat": 44.9135481,
+  "lon": 33.8417019,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Деревенское дискотека"
+  }
+},
+{
+  "type": "node",
+  "id": 8298531665,
+  "lat": 49.5522397,
+  "lon": 25.5959946,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Young",
+    "name:uk": "Young"
+  }
+},
+{
+  "type": "node",
+  "id": 8524003919,
+  "lat": 48.5617736,
+  "lon": 39.3730311,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Айсберг",
+    "name:uk": "Айсберг"
+  }
+},
+{
+  "type": "node",
+  "id": 8547538830,
+  "lat": 50.0596938,
+  "lon": 36.1978247,
+  "tags": {
+    "amenity": "nightclub",
+    "min_age": "16",
+    "name": "Паприка",
+    "name:uk": "Паприка",
+    "opening_hours": "Mo-Th 22:00-06:00; Fr-Sa 22:00-07:00; Su 22:00-06:00"
+  }
+},
+{
+  "type": "node",
+  "id": 8631131893,
+  "lat": 46.4868014,
+  "lon": 30.7393620,
+  "tags": {
+    "addr:housenumber": "1",
+    "addr:street": "Європейська вулиця",
+    "amenity": "nightclub",
+    "name": "Гранат",
+    "name:uk": "Гранат"
+  }
+},
+{
+  "type": "node",
+  "id": 8637719219,
+  "lat": 50.4358175,
+  "lon": 30.4897518,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Концерт-холл \"Оазис\"",
+    "name:uk": "Концерт-холл \"Оазис\""
+  }
+},
+{
+  "type": "node",
+  "id": 8644086012,
+  "lat": 46.4794989,
+  "lon": 30.7548929,
+  "tags": {
+    "addr:housenumber": "1/20",
+    "addr:street": "Маразліївська вулиця",
+    "amenity": "nightclub",
+    "name": "Найс Клаб",
+    "name:en": "Nice Club",
+    "name:uk": "Найс Клаб"
+  }
+},
+{
+  "type": "node",
+  "id": 8688224100,
+  "lat": 48.3803480,
+  "lon": 22.5652408,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Senator",
+    "name:uk": "Senator"
+  }
+},
+{
+  "type": "node",
+  "id": 8863262317,
+  "lat": 49.8550631,
+  "lon": 24.0324991,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Котельня Руїн Бар",
+    "name:en": "Kotelnia Ruïn Bar",
+    "name:uk": "Котельня Руїн Бар"
+  }
+},
+{
+  "type": "node",
+  "id": 9894462159,
+  "lat": 49.4383413,
+  "lon": 27.0030963,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "СВ",
+    "name:uk": "СВ"
+  }
+},
+{
+  "type": "node",
+  "id": 9902718347,
+  "lat": 49.2800132,
+  "lon": 23.5053783,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Insomnia",
+    "name:uk": "Insomnia"
+  }
+},
+{
+  "type": "node",
+  "id": 9968874270,
+  "lat": 45.5562026,
+  "lon": 29.3381902,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Нічний клуб",
+    "name:uk": "Нічний клуб"
+  }
+},
+{
+  "type": "node",
+  "id": 10050869218,
+  "lat": 50.4123322,
+  "lon": 30.6601931,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Егоїст",
+    "name:uk": "Егоїст"
+  }
+},
+{
+  "type": "node",
+  "id": 10557673497,
+  "lat": 49.8785794,
+  "lon": 27.1957412,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Клуб",
+    "name:uk": "Клуб"
+  }
+},
+{
+  "type": "node",
+  "id": 11010390078,
+  "lat": 47.8930627,
+  "lon": 37.6836348,
+  "tags": {
+    "amenity": "nightclub",
+    "level": "2",
+    "name": "Клуб",
+    "name:uk": "Клуб",
+    "opening_hours": "08:30-12:30,15:30-20:00",
+    "smoking": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11066281474,
+  "lat": 48.1949717,
+  "lon": 22.6552704,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Галактика",
+    "name:hu": "Galaktika",
+    "name:uk": "Галактика"
+  }
+},
+{
+  "type": "node",
+  "id": 11761808669,
+  "lat": 51.5362926,
+  "lon": 30.9073072,
+  "tags": {
+    "addr:street": "Центральна вулиця",
+    "amenity": "nightclub",
+    "internet_access": "wlan",
+    "name": "Клуб Пльохів",
+    "name:ru": "Клуб Плехов",
+    "name:uk": "Клуб Пльохів"
+  }
+},
+{
+  "type": "node",
+  "id": 12304045447,
+  "lat": 48.5220387,
+  "lon": 38.7724540,
+  "tags": {
+    "amenity": "nightclub",
+    "contact:vk": "club206444995",
+    "internet_access": "wlan",
+    "name": "Сельский клуб",
+    "opening_hours": "Mo-Sa 08:00-17:00"
+  }
+},
+{
+  "type": "node",
+  "id": 12324107801,
+  "lat": 49.9960484,
+  "lon": 36.3381185,
+  "tags": {
+    "addr:housenumber": "56",
+    "addr:street": "Ювілейний проспект",
+    "amenity": "nightclub",
+    "min_age": "18",
+    "name": "Болеро",
+    "name:en": "Bolero"
+  }
+},
+{
+  "type": "node",
+  "id": 12829790807,
+  "lat": 50.4716392,
+  "lon": 30.4985562,
+  "tags": {
+    "addr:housenumber": "41",
+    "addr:street": "Кирилівська вулиця",
+    "amenity": "nightclub",
+    "min_age": "21",
+    "name": "∄"
+  }
+},
+{
+  "type": "node",
+  "id": 13481998792,
+  "lat": 50.0213261,
+  "lon": 36.2125369,
+  "tags": {
+    "addr:housenumber": "190А",
+    "addr:street": "Клочківська вулиця",
+    "amenity": "nightclub",
+    "name": "Misto"
+  }
+},
+{
+  "type": "node",
+  "id": 13533815601,
+  "lat": 48.4666487,
+  "lon": 35.0471355,
+  "tags": {
+    "addr:housenumber": "18",
+    "addr:street": "вулиця Королеви Єлизавети ІІ",
+    "amenity": "nightclub",
+    "contact:instagram": "core.dnipro",
+    "name": "КОР"
+  }
+},
+{
+  "type": "node",
+  "id": 13654998370,
+  "lat": 50.0043808,
+  "lon": 36.2463800,
+  "tags": {
+    "addr:housenumber": "37",
+    "addr:street": "вулиця Ярослава Мудрого",
+    "amenity": "nightclub",
+    "name": "Корова",
+    "phone": "+380577141611"
+  }
+},
+{
+  "type": "node",
+  "id": 13806324301,
+  "lat": 50.4738348,
+  "lon": 30.4964203,
+  "tags": {
+    "addr:housenumber": "60",
+    "addr:street": "Кирилівська вулиця",
+    "amenity": "nightclub",
+    "check_date": "2026-05-07",
+    "contact:instagram": "collider_kyiv",
+    "name": "Коллайдер",
+    "name:en": "Collider"
+  }
+},
+{
+  "type": "node",
+  "id": 13848625936,
+  "lat": 49.9882742,
+  "lon": 36.2332769,
+  "tags": {
+    "addr:housenumber": "2",
+    "addr:postcode": "61005",
+    "addr:street": "Костюринський провулок",
+    "amenity": "nightclub",
+    "min_age": "18",
+    "name": "Casta Men's Club",
+    "opening_hours": "20:00-...",
+    "phone:mobile": "+38 (077) 000-69-22",
+    "smoking": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 14155467469,
+  "lat": 49.3541971,
+  "lon": 23.5394769,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Bigme",
+    "official_name": "Музичний простір \"Bigme\"",
+    "official_name:uk": "Музичний простір \"Bigme\"",
+    "operator": "Олександр Сердюк",
+    "start_date": "2024-11-03"
+  }
+},
+{
+  "type": "way",
+  "id": 23674737,
+  "center": {
+    "lat": 50.4601130,
+    "lon": 30.6075438
+  },
+  "tags": {
+    "addr:housenumber": "2",
+    "addr:postcode": "02192",
+    "addr:street": "Воскресенський проспект",
+    "amenity": "nightclub",
+    "building": "yes",
+    "building:levels": "2",
+    "name": "Перемога",
+    "name:uk": "Перемога"
+  }
+},
+{
+  "type": "way",
+  "id": 36881810,
+  "center": {
+    "lat": 51.3464674,
+    "lon": 25.8556031
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "barrier": "wall",
+    "building": "yes",
+    "name": "Фортеця",
+    "name:en": "Fortetsia",
+    "name:ru": "Фортэця",
+    "name:uk": "Фортеця"
+  }
+},
+{
+  "type": "way",
+  "id": 56141963,
+  "center": {
+    "lat": 48.5368539,
+    "lon": 25.0517888
+  },
+  "tags": {
+    "addr:housenumber": "8",
+    "addr:street": "вулиця Богдана Хмельницького",
+    "amenity": "nightclub",
+    "building": "residential",
+    "building:levels": "2",
+    "name": "Троя",
+    "name:uk": "Троя"
+  }
+},
+{
+  "type": "way",
+  "id": 81231644,
+  "center": {
+    "lat": 50.4393841,
+    "lon": 30.4347603
+  },
+  "tags": {
+    "addr:housenumber": "51-А",
+    "addr:postcode": "03058",
+    "addr:street": "Гарматна вулиця",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Форсаж",
+    "name:en": "Forsage",
+    "name:uk": "Форсаж",
+    "phone": "+380 44 232 6780",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "way",
+  "id": 85311343,
+  "center": {
+    "lat": 49.9704584,
+    "lon": 36.2955122
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Жара",
+    "name:uk": "Жара"
+  }
+},
+{
+  "type": "way",
+  "id": 101960703,
+  "center": {
+    "lat": 50.4215454,
+    "lon": 30.6397063
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "building:levels": "2",
+    "name": "Rayon",
+    "name:uk": "Rayon"
+  }
+},
+{
+  "type": "way",
+  "id": 102870467,
+  "center": {
+    "lat": 47.9890835,
+    "lon": 37.9212635
+  },
+  "tags": {
+    "addr:housenumber": "37",
+    "addr:postcode": "83092",
+    "addr:street": "230-ї Стрілецької Дивізії вулиця",
+    "amenity": "nightclub",
+    "building": "yes",
+    "building:levels": "2",
+    "name": "Fort Knox",
+    "name:uk": "Fort Knox"
+  }
+},
+{
+  "type": "way",
+  "id": 103209739,
+  "center": {
+    "lat": 47.9814524,
+    "lon": 37.9179314
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "building:levels": "2",
+    "name": "Opera",
+    "name:uk": "Opera"
+  }
+},
+{
+  "type": "way",
+  "id": 103991803,
+  "center": {
+    "lat": 49.5536823,
+    "lon": 25.5875263
+  },
+  "tags": {
+    "addr:housenumber": "12",
+    "addr:postcode": "46001",
+    "addr:street": "Замкова вулиця",
+    "amenity": "nightclub",
+    "building": "yes",
+    "image": "https://photos.app.goo.gl/YBxdAugUYR7Z7wDy5",
+    "mapillary": "1002959520444869",
+    "name": "Maxim",
+    "name:uk": "Maxim",
+    "smoking": "separated",
+    "website": "https://www.maxim.te.ua/"
+  }
+},
+{
+  "type": "way",
+  "id": 104438294,
+  "center": {
+    "lat": 50.3642728,
+    "lon": 30.9248843
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Саквояж",
+    "name:uk": "Саквояж",
+    "opening_hours": "24/7",
+    "smoking": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 105647015,
+  "center": {
+    "lat": 50.6122539,
+    "lon": 26.2711588
+  },
+  "tags": {
+    "addr:housenumber": "61",
+    "amenity": "nightclub",
+    "building": "yes",
+    "int_name": "NC Magnat",
+    "name": "Магнат",
+    "name:uk": "Магнат"
+  }
+},
+{
+  "type": "way",
+  "id": 108255718,
+  "center": {
+    "lat": 50.8453698,
+    "lon": 24.3141032
+  },
+  "tags": {
+    "addr:housenumber": "1б",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Метелик",
+    "name:uk": "Метелик",
+    "phone": "+380 3342 35 847"
+  }
+},
+{
+  "type": "way",
+  "id": 112505535,
+  "center": {
+    "lat": 47.9686023,
+    "lon": 37.7684354
+  },
+  "tags": {
+    "addr:housenumber": "76а",
+    "addr:street": "Кірова вулиця",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Монарх (Остров сокровищ)",
+    "name:uk": "Монарх (Остров сокровищ)"
+  }
+},
+{
+  "type": "way",
+  "id": 113062733,
+  "center": {
+    "lat": 46.7545979,
+    "lon": 36.7852969
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "building:levels": "2",
+    "name": "RIO",
+    "name:uk": "RIO",
+    "roof:shape": "gabled",
+    "website": "http://rio.berdyansk.net/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 113062748,
+  "center": {
+    "lat": 46.7535220,
+    "lon": 36.7824952
+  },
+  "tags": {
+    "addr:housenumber": "17а",
+    "addr:postcode": "71100",
+    "amenity": "nightclub",
+    "building": "yes",
+    "building:levels": "2",
+    "name": "Daktus",
+    "name:ru": "Дактус",
+    "name:uk": "Дактус",
+    "opening_hours": "09:00-05:00"
+  }
+},
+{
+  "type": "way",
+  "id": 113199747,
+  "center": {
+    "lat": 47.7830395,
+    "lon": 35.1756875
+  },
+  "tags": {
+    "addr:housenumber": "31",
+    "addr:postcode": "69118",
+    "addr:street": "проспект Героїв Національної Гвардії України",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Shark",
+    "name:uk": "Shark"
+  }
+},
+{
+  "type": "way",
+  "id": 119478815,
+  "center": {
+    "lat": 48.0540776,
+    "lon": 37.7802999
+  },
+  "tags": {
+    "addr:housenumber": "3а",
+    "amenity": "nightclub",
+    "building": "yes",
+    "building:levels": "2",
+    "name": "Black and White",
+    "name:uk": "Black and White"
+  }
+},
+{
+  "type": "way",
+  "id": 120819954,
+  "center": {
+    "lat": 50.6206202,
+    "lon": 26.2326028
+  },
+  "tags": {
+    "addr:housenumber": "191",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Лагуна",
+    "name:uk": "Лагуна"
+  }
+},
+{
+  "type": "way",
+  "id": 124799159,
+  "center": {
+    "lat": 45.1820735,
+    "lon": 33.3596259
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "roof",
+    "name": "XO",
+    "name:uk": "XO"
+  }
+},
+{
+  "type": "way",
+  "id": 124800487,
+  "center": {
+    "lat": 45.1829817,
+    "lon": 33.3607292
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "roof",
+    "name": "\"mariopark\"",
+    "name:uk": "\"mariopark\""
+  }
+},
+{
+  "type": "way",
+  "id": 124802782,
+  "center": {
+    "lat": 45.1833754,
+    "lon": 33.3595379
+  },
+  "tags": {
+    "addr:housenumber": "1А",
+    "addr:street": "улица Фрунзе",
+    "amenity": "nightclub",
+    "building": "yes",
+    "email": "beliyclub@mail.ru",
+    "internet_access": "wlan",
+    "name": "Клуб \"Белый\"",
+    "name:en": "Night club \"White\"",
+    "name:ru": "Клуб \"Белый\"",
+    "name:uk": "Клуб \"Білий\"",
+    "opening_hours": "Mo-Su 18:00-06:00",
+    "phone": "+79780140600",
+    "website": "https://www.instagram.com/beliygram"
+  }
+},
+{
+  "type": "way",
+  "id": 124804415,
+  "center": {
+    "lat": 45.1818283,
+    "lon": 33.3567413
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Amsterdam",
+    "name:uk": "Amsterdam"
+  }
+},
+{
+  "type": "way",
+  "id": 125664512,
+  "center": {
+    "lat": 47.9625472,
+    "lon": 33.4271054
+  },
+  "tags": {
+    "addr:housenumber": "19а",
+    "amenity": "nightclub",
+    "building": "yes",
+    "building:levels": "2",
+    "internet_access": "wlan",
+    "name": "Фенікс діско-клуб",
+    "name:en": "Monaco",
+    "name:ru": "Монако",
+    "name:uk": "Монако"
+  }
+},
+{
+  "type": "way",
+  "id": 126375582,
+  "center": {
+    "lat": 45.1805905,
+    "lon": 33.3535667
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Малибу",
+    "name:uk": "Малібу"
+  }
+},
+{
+  "type": "way",
+  "id": 128996673,
+  "center": {
+    "lat": 50.5245662,
+    "lon": 26.2348763
+  },
+  "tags": {
+    "addr:street": "Паркова вулиця",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Шайба",
+    "name:uk": "Шайба"
+  }
+},
+{
+  "type": "way",
+  "id": 130863400,
+  "center": {
+    "lat": 47.8949592,
+    "lon": 33.3960974
+  },
+  "tags": {
+    "addr:housenumber": "12",
+    "addr:postcode": "50006",
+    "amenity": "nightclub",
+    "building": "yes",
+    "building:levels": "2",
+    "name": "Madisan rock club",
+    "name:uk": "Madisan rock club"
+  }
+},
+{
+  "type": "way",
+  "id": 134064340,
+  "center": {
+    "lat": 45.1615700,
+    "lon": 33.2899065
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "description": "Не работает.",
+    "name": "Фараон",
+    "name:uk": "Фараон"
+  }
+},
+{
+  "type": "way",
+  "id": 135302117,
+  "center": {
+    "lat": 50.3933130,
+    "lon": 30.4809502
+  },
+  "tags": {
+    "addr:housenumber": "4",
+    "addr:street": "вулиця Михайла Максимовича",
+    "amenity": "nightclub",
+    "building": "yes",
+    "building:levels": "3",
+    "internet_access": "wlan",
+    "name": "Саксон",
+    "name:en": "Saxon",
+    "name:uk": "Саксон",
+    "opening_hours": "24/7",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 135730544,
+  "center": {
+    "lat": 47.9115469,
+    "lon": 33.3977173
+  },
+  "tags": {
+    "addr:housenumber": "16",
+    "amenity": "nightclub",
+    "building": "yes",
+    "building:levels": "4",
+    "name": "Fun Park",
+    "name:uk": "Fun Park",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 144224452,
+  "center": {
+    "lat": 47.6618551,
+    "lon": 33.7186638
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Арбат",
+    "name:uk": "Арбат",
+    "smoking": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 144526241,
+  "center": {
+    "lat": 48.6506881,
+    "lon": 25.7343936
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Гранд",
+    "name:uk": "Гранд",
+    "smoking": "yes",
+    "website": "http://grand.te.ua"
+  }
+},
+{
+  "type": "way",
+  "id": 146436513,
+  "center": {
+    "lat": 47.8971234,
+    "lon": 33.3902165
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Екстрім",
+    "name:ru": "Экстрим",
+    "name:uk": "Екстрім"
+  }
+},
+{
+  "type": "way",
+  "id": 150213061,
+  "center": {
+    "lat": 50.0159175,
+    "lon": 33.0036216
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "НЛО",
+    "name:uk": "НЛО"
+  }
+},
+{
+  "type": "way",
+  "id": 151987006,
+  "center": {
+    "lat": 48.1305294,
+    "lon": 37.7440251
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "building:colour": "#F2F2F2",
+    "building:levels": "2",
+    "level": "1",
+    "name": "Barocco",
+    "name:uk": "Barocco"
+  }
+},
+{
+  "type": "way",
+  "id": 152359377,
+  "center": {
+    "lat": 50.1618940,
+    "lon": 35.5286830
+  },
+  "tags": {
+    "addr:housenumber": "8",
+    "amenity": "nightclub",
+    "building": "public",
+    "name": "Jam",
+    "name:uk": "Jam"
+  }
+},
+{
+  "type": "way",
+  "id": 154386221,
+  "center": {
+    "lat": 48.0423325,
+    "lon": 37.8677112
+  },
+  "tags": {
+    "addr:housenumber": "9",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Seven Eleven",
+    "name:uk": "Seven Eleven"
+  }
+},
+{
+  "type": "way",
+  "id": 156848898,
+  "center": {
+    "lat": 49.4407912,
+    "lon": 32.0600044
+  },
+  "tags": {
+    "addr:housenumber": "246",
+    "addr:street": "вулиця Гоголя",
+    "alt_name:ru": "Икслевел",
+    "amenity": "nightclub",
+    "building": "commercial",
+    "name": "XLevel",
+    "name:en": "XLevel",
+    "old_name": "Ультра",
+    "old_name:en": "Ultra",
+    "phone": "+380 93 029 6261",
+    "website": "http://xlevel.ck.ua/"
+  }
+},
+{
+  "type": "way",
+  "id": 159181089,
+  "center": {
+    "lat": 50.4192309,
+    "lon": 30.6634375
+  },
+  "tags": {
+    "addr:housenumber": "47",
+    "addr:street": "вулиця Дениса Антіпова",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Конунг",
+    "name:ru": "Ночной клуб «Конунг»",
+    "name:uk": "Конунг"
+  }
+},
+{
+  "type": "way",
+  "id": 160442946,
+  "center": {
+    "lat": 46.4167986,
+    "lon": 30.7217742
+  },
+  "tags": {
+    "addr:housenumber": "96а",
+    "addr:postcode": "65088",
+    "addr:street": "Люстдорфська дорога",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Jennifer",
+    "name:uk": "Jennifer",
+    "website": "https://jenniferclub.com"
+  }
+},
+{
+  "type": "way",
+  "id": 160684707,
+  "center": {
+    "lat": 50.4405482,
+    "lon": 30.5590626
+  },
+  "tags": {
+    "addr:housenumber": "25",
+    "addr:street": "Набережне шосе",
+    "amenity": "nightclub",
+    "building": "yes",
+    "building:levels": "3",
+    "name": "Queen Kyiv",
+    "name:uk": "Queen Kyiv",
+    "phone": "+380 67 011 1115",
+    "website": "https://queenkyiv.com/"
+  }
+},
+{
+  "type": "way",
+  "id": 161028210,
+  "center": {
+    "lat": 46.4680503,
+    "lon": 30.7461141
+  },
+  "tags": {
+    "addr:housenumber": "4",
+    "addr:postcode": "65012",
+    "addr:street": "Італійський бульвар",
+    "amenity": "nightclub",
+    "building": "yes",
+    "building:levels": "2",
+    "internet_access": "wlan",
+    "name": "Паладіум",
+    "name:en": "Palladium",
+    "name:ru": "Палладиум",
+    "name:uk": "Паладіум",
+    "opening_hours": "24/7",
+    "website": "https://www.palladium.com.ua/",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "way",
+  "id": 164141526,
+  "center": {
+    "lat": 47.9122838,
+    "lon": 33.4550100
+  },
+  "tags": {
+    "addr:housenumber": "87б",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Ібіца",
+    "name:ru": "Ибица",
+    "name:uk": "Ібіца"
+  }
+},
+{
+  "type": "way",
+  "id": 167432784,
+  "center": {
+    "lat": 46.3772691,
+    "lon": 35.3774145
+  },
+  "tags": {
+    "addr:city": "Кирилівка",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Рио",
+    "name:en": "Rio",
+    "name:ru": "Рио",
+    "name:uk": "Ріо",
+    "opening_hours": "22:00-05:00"
+  }
+},
+{
+  "type": "way",
+  "id": 168115834,
+  "center": {
+    "lat": 50.9100762,
+    "lon": 34.7995396
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "commercial",
+    "building:levels": "2",
+    "name": "Асторія",
+    "name:uk": "Асторія",
+    "opening_hours": "Th-Su 20:00-04:00"
+  }
+},
+{
+  "type": "way",
+  "id": 168170112,
+  "center": {
+    "lat": 46.3762483,
+    "lon": 35.3772371
+  },
+  "tags": {
+    "addr:city": "Кирилівка",
+    "amenity": "nightclub",
+    "building": "yes",
+    "building:levels": "2",
+    "name": "Галактика",
+    "name:en": "Galaktika",
+    "name:uk": "Галактика",
+    "smoking": "separated"
+  }
+},
+{
+  "type": "way",
+  "id": 168419277,
+  "center": {
+    "lat": 46.3725534,
+    "lon": 35.3753871
+  },
+  "tags": {
+    "addr:city": "Кирилівка",
+    "amenity": "nightclub",
+    "building": "yes",
+    "building:levels": "1",
+    "name": "пати-бар Сальвадор Дали",
+    "name:en": "party bar Salvador Dali",
+    "name:ru": "пати-бар Сальвадор Дали",
+    "name:uk": "паті-бар Сальвадор Далі"
+  }
+},
+{
+  "type": "way",
+  "id": 168419425,
+  "center": {
+    "lat": 46.3727802,
+    "lon": 35.3758165
+  },
+  "tags": {
+    "addr:city": "Кирилівка",
+    "amenity": "nightclub",
+    "building": "yes",
+    "building:levels": "1",
+    "name": "Pelikan Beach Club",
+    "name:en": "Pelikan Beach Club",
+    "name:ru": "ночной клуб Пеликан",
+    "name:uk": "нічний клуб Пелікан"
+  }
+},
+{
+  "type": "way",
+  "id": 168712043,
+  "center": {
+    "lat": 44.7551668,
+    "lon": 33.8571245
+  },
+  "tags": {
+    "addr:housenumber": "15",
+    "addr:postcode": "98400",
+    "addr:street": "Симферопольская улица",
+    "alt_name": "Еденица",
+    "amenity": "nightclub",
+    "building": "public",
+    "int_name": "1+1",
+    "name": "1+1",
+    "name:uk": "1+1"
+  }
+},
+{
+  "type": "way",
+  "id": 172617331,
+  "center": {
+    "lat": 50.2607997,
+    "lon": 28.6548527
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Каньйон",
+    "name:uk": "Каньйон"
+  }
+},
+{
+  "type": "way",
+  "id": 173096154,
+  "center": {
+    "lat": 48.4615408,
+    "lon": 37.0882293
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "City-club",
+    "name:uk": "City-club",
+    "smoking": "yes",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 174581738,
+  "center": {
+    "lat": 50.9070644,
+    "lon": 34.8448846
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "\"Олександрія\"",
+    "name:uk": "\"Олександрія\""
+  }
+},
+{
+  "type": "way",
+  "id": 188148426,
+  "center": {
+    "lat": 49.5548073,
+    "lon": 25.5975381
+  },
+  "tags": {
+    "addr:housenumber": "10",
+    "addr:postcode": "46001",
+    "addr:street": "вулиця Івана Франка",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Диско-клуб „Громада“",
+    "name:uk": "Диско-клуб „Громада“",
+    "phone": "+380 352 52 2069",
+    "short_name": "Громада",
+    "start_date": "1935"
+  }
+},
+{
+  "type": "way",
+  "id": 194903763,
+  "center": {
+    "lat": 46.5044597,
+    "lon": 30.3187479
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Карамель",
+    "name:uk": "Карамель",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "way",
+  "id": 196830944,
+  "center": {
+    "lat": 47.9955676,
+    "lon": 37.7916661
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Танцмайданчик «Вечірні ритми»",
+    "name:ru": "Танцплощадка «Вечерние ритмы»",
+    "name:uk": "Танцмайданчик «Вечірні ритми»"
+  }
+},
+{
+  "type": "way",
+  "id": 200300335,
+  "center": {
+    "lat": 49.2489085,
+    "lon": 30.1008790
+  },
+  "tags": {
+    "addr:postcode": "19200",
+    "addr:street": "Соборна вулиця",
+    "amenity": "nightclub",
+    "building": "yes",
+    "building:levels": "1",
+    "name": "Форас",
+    "name:uk": "Форас"
+  }
+},
+{
+  "type": "way",
+  "id": 201399631,
+  "center": {
+    "lat": 50.1102602,
+    "lon": 30.6250165
+  },
+  "tags": {
+    "addr:housenumber": "5а",
+    "addr:street": "вулиця Малишка",
+    "amenity": "nightclub",
+    "building": "yes",
+    "building:levels": "3",
+    "fixme": "check opening_hours",
+    "name": "Нічний клуб Гудвін",
+    "name:uk": "Нічний клуб Гудвін",
+    "opening_hours": "21:00-07:00"
+  }
+},
+{
+  "type": "way",
+  "id": 201580178,
+  "center": {
+    "lat": 50.3008328,
+    "lon": 34.8921166
+  },
+  "tags": {
+    "addr:housenumber": "31",
+    "addr:street": "вулиця Незалежності",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Палац",
+    "name:uk": "Палац"
+  }
+},
+{
+  "type": "way",
+  "id": 205726859,
+  "center": {
+    "lat": 50.4349509,
+    "lon": 30.4905879
+  },
+  "tags": {
+    "addr:housenumber": "3",
+    "addr:street": "Мокра вулиця",
+    "amenity": "nightclub",
+    "building": "commercial",
+    "check_date": "2026-07-21",
+    "level": "5",
+    "name": "Intense",
+    "name:uk": "Intense"
+  }
+},
+{
+  "type": "way",
+  "id": 211286195,
+  "center": {
+    "lat": 49.5973132,
+    "lon": 33.1809339
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "barrier": "wall",
+    "name": "Клетка",
+    "name:uk": "Клетка"
+  }
+},
+{
+  "type": "way",
+  "id": 215026562,
+  "center": {
+    "lat": 48.0296657,
+    "lon": 37.9347363
+  },
+  "tags": {
+    "addr:housenumber": "85",
+    "addr:postcode": "86156",
+    "addr:street": "250-річчя Донбасу проспект",
+    "amenity": "nightclub",
+    "building": "yes",
+    "building:levels": "2",
+    "internet_access": "wlan",
+    "name": "Chocolate Project",
+    "name:ru": "Шоколад Проект",
+    "name:uk": "Chocolate Project",
+    "opening_hours": "Th-Mo 11:00-22:00",
+    "phone": "380714157598",
+    "website": "https://m.vk.com/choclolate_project?from=groups"
+  }
+},
+{
+  "type": "way",
+  "id": 217428835,
+  "center": {
+    "lat": 48.5082303,
+    "lon": 32.2709224
+  },
+  "tags": {
+    "addr:housenumber": "43а",
+    "addr:street": "вулиця Арсенія Тарковського",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Джунглі",
+    "name:uk": "Джунглі",
+    "opening_hours": "11:00-06:00",
+    "phone": "+380 522 24 7963"
+  }
+},
+{
+  "type": "way",
+  "id": 221601761,
+  "center": {
+    "lat": 48.5130465,
+    "lon": 32.2568039
+  },
+  "tags": {
+    "addr:housenumber": "19/26",
+    "addr:street": "Кавалерійська вулиця",
+    "amenity": "nightclub",
+    "building": "yes",
+    "building:levels": "3",
+    "name": "Velvet",
+    "name:uk": "Velvet",
+    "opening_hours": "11:00-04:00",
+    "phone": "+380 522 35 1155;+380 66 412 3486",
+    "roof:colour": "#808080",
+    "website": "http://velvet.kr.ua"
+  }
+},
+{
+  "type": "way",
+  "id": 233208900,
+  "center": {
+    "lat": 49.9409160,
+    "lon": 33.6171205
+  },
+  "tags": {
+    "addr:housenumber": "10",
+    "addr:street": "Петрівська вулиця",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Фаворіт",
+    "name:uk": "Фаворіт"
+  }
+},
+{
+  "type": "way",
+  "id": 241129333,
+  "center": {
+    "lat": 45.5114799,
+    "lon": 32.7050349
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Диско-бар \"Крепость\"",
+    "name:uk": "Диско-бар \"Фортеця\""
+  }
+},
+{
+  "type": "way",
+  "id": 241129340,
+  "center": {
+    "lat": 45.5126490,
+    "lon": 32.7044877
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Экзотик-парк",
+    "name:en": "Exotic park",
+    "name:uk": "Екзотик-парк"
+  }
+},
+{
+  "type": "way",
+  "id": 246308201,
+  "center": {
+    "lat": 50.4864856,
+    "lon": 30.5336853
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "houseboat",
+    "name": "Disco radio hall",
+    "name:uk": "Disco radio hall"
+  }
+},
+{
+  "type": "way",
+  "id": 251243004,
+  "center": {
+    "lat": 50.9116245,
+    "lon": 31.1160349
+  },
+  "tags": {
+    "addr:housenumber": "1",
+    "addr:postcode": "17000",
+    "addr:street": "бульвар Івана Франка",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Торнадо",
+    "name:uk": "Торнадо"
+  }
+},
+{
+  "type": "way",
+  "id": 251525001,
+  "center": {
+    "lat": 49.3956894,
+    "lon": 36.2211300
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Нічний клуб \"Імперія\"",
+    "name:uk": "Нічний клуб \"Імперія\"",
+    "smoking": "outside"
+  }
+},
+{
+  "type": "way",
+  "id": 257909308,
+  "center": {
+    "lat": 45.4291322,
+    "lon": 28.4138849
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "height": "5",
+    "name": "Ірина",
+    "name:uk": "Ірина"
+  }
+},
+{
+  "type": "way",
+  "id": 260735974,
+  "center": {
+    "lat": 51.8598889,
+    "lon": 33.5028435
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Red Line",
+    "name:uk": "Red Line",
+    "toilets:wheelchair": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 263818194,
+  "center": {
+    "lat": 47.6667812,
+    "lon": 38.0757397
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Траса",
+    "name:uk": "Траса"
+  }
+},
+{
+  "type": "way",
+  "id": 277035917,
+  "center": {
+    "lat": 51.2476032,
+    "lon": 33.1802735
+  },
+  "tags": {
+    "addr:city": "Конотоп",
+    "addr:housenumber": "119в",
+    "addr:street": "Клубна вулиця",
+    "amenity": "nightclub",
+    "building": "commercial",
+    "building:levels": "2",
+    "description": "Электронные кальяны на любой вкус, скидки на суши, подарочное пиво и многое другое. Для девушек до 23:00 вход свободен, каждому вошедшему до 23:00 – коктейль в подарок. После 23:00 вход девушкам 20 грн., мужчинам – 30 грн. Заказ столиков по телеф",
+    "name": "Разгуляй",
+    "name:ru": "Разгуляй",
+    "name:uk": "Разгуляй",
+    "phone": "+380 97 629 2694"
+  }
+},
+{
+  "type": "way",
+  "id": 278026381,
+  "center": {
+    "lat": 48.6022059,
+    "lon": 37.5353479
+  },
+  "tags": {
+    "addr:city": "Дружківка",
+    "addr:housenumber": "118",
+    "addr:street": "Енгельса вулиця",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Роял",
+    "name:uk": "Роял"
+  }
+},
+{
+  "type": "way",
+  "id": 279198629,
+  "center": {
+    "lat": 49.8508062,
+    "lon": 24.0524884
+  },
+  "tags": {
+    "addr:housenumber": "24-26",
+    "addr:street": "Старознесенська вулиця",
+    "alt_name": "FestRepublic",
+    "amenity": "nightclub",
+    "building": "yes",
+    "internet_access": "wlan",
+    "name": "!Фест Репаблік",
+    "name:en": "!Fest Republic",
+    "name:uk": "!Фест Репаблік",
+    "opening_hours": "Mo-Su 22:00-05:00",
+    "website": "https://www.facebook.com/FESTrepublic.club/"
+  }
+},
+{
+  "type": "way",
+  "id": 279967741,
+  "center": {
+    "lat": 47.5754123,
+    "lon": 34.3690459
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "commercial",
+    "name": "Еліт Клуб",
+    "name:en": "Elite Club",
+    "name:ru": "Элит Клуб",
+    "name:uk": "Еліт Клуб"
+  }
+},
+{
+  "type": "way",
+  "id": 284503435,
+  "center": {
+    "lat": 49.7930688,
+    "lon": 30.1081985
+  },
+  "tags": {
+    "addr:housenumber": "13",
+    "addr:street": "вулиця Героїв 72-ї Бригади",
+    "amenity": "nightclub",
+    "building": "public",
+    "name": "Cabaret",
+    "name:uk": "Cabaret"
+  }
+},
+{
+  "type": "way",
+  "id": 287358269,
+  "center": {
+    "lat": 49.7960287,
+    "lon": 30.1186376
+  },
+  "tags": {
+    "addr:housenumber": "24",
+    "addr:street": "вулиця Ярослава Мудрого",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Каліпсо",
+    "name:uk": "Каліпсо"
+  }
+},
+{
+  "type": "way",
+  "id": 288343809,
+  "center": {
+    "lat": 49.1858157,
+    "lon": 31.8971928
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Підкова",
+    "name:uk": "Підкова"
+  }
+},
+{
+  "type": "way",
+  "id": 289544788,
+  "center": {
+    "lat": 48.7579331,
+    "lon": 30.2077123
+  },
+  "tags": {
+    "addr:housenumber": "1",
+    "addr:street": "вулиця Тищика",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Сага",
+    "name:uk": "Сага"
+  }
+},
+{
+  "type": "way",
+  "id": 300601890,
+  "center": {
+    "lat": 47.8297418,
+    "lon": 35.1605895
+  },
+  "tags": {
+    "addr:housenumber": "109",
+    "addr:street": "Соборний проспект",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Banana",
+    "name:uk": "Banana",
+    "opening_hours": "11:00-24:00,00:00-04:00",
+    "smoking": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 310682095,
+  "center": {
+    "lat": 49.1806992,
+    "lon": 26.5632180
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Нічний клуб",
+    "name:uk": "Нічний клуб"
+  }
+},
+{
+  "type": "way",
+  "id": 310855650,
+  "center": {
+    "lat": 48.5908598,
+    "lon": 25.8849997
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Дискотека",
+    "name:uk": "Дискотека"
+  }
+},
+{
+  "type": "way",
+  "id": 326351300,
+  "center": {
+    "lat": 49.3833542,
+    "lon": 27.6229272
+  },
+  "tags": {
+    "addr:housenumber": "12",
+    "addr:postcode": "31500",
+    "addr:street": "вулиця Панасюка",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Нічний клуб \"Rich\"",
+    "name:en": "Nightclub \"Rich\"",
+    "name:uk": "Нічний клуб \"Rich\"",
+    "phone": "+380 98 006 5022",
+    "website": "http://vk.com/club27483282"
+  }
+},
+{
+  "type": "way",
+  "id": 333468804,
+  "center": {
+    "lat": 48.8802196,
+    "lon": 36.3014391
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Нічний клуб \"Клітка\"",
+    "name:ru": "Ночной клуб \"Клетка\"",
+    "name:uk": "Нічний клуб \"Клітка\""
+  }
+},
+{
+  "type": "way",
+  "id": 335008521,
+  "center": {
+    "lat": 46.4288384,
+    "lon": 30.7677843
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "image": "https://photos.app.goo.gl/VhujhoDXr8uDytDT9",
+    "name": "Ітака",
+    "name:ru": "Итака",
+    "name:uk": "Ітака"
+  }
+},
+{
+  "type": "way",
+  "id": 335333045,
+  "center": {
+    "lat": 46.4542051,
+    "lon": 30.7680601
+  },
+  "tags": {
+    "addr:housenumber": "3",
+    "addr:postcode": "65044",
+    "addr:street": "Пляж Дельфін",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Liberty of the seas"
+  }
+},
+{
+  "type": "way",
+  "id": 335333046,
+  "center": {
+    "lat": 46.4550327,
+    "lon": 30.7681221
+  },
+  "tags": {
+    "addr:housenumber": "3/2",
+    "addr:postcode": "65044",
+    "amenity": "nightclub",
+    "building": "yes",
+    "building:levels": "1",
+    "internet_access": "yes",
+    "internet_access:fee": "no",
+    "name": "True Man Hot Boat",
+    "opening_hours": "24/7",
+    "outdoor_seating": "yes",
+    "website": "https://www.facebook.com/truemanodessa/"
+  }
+},
+{
+  "type": "way",
+  "id": 335336739,
+  "center": {
+    "lat": 46.4305183,
+    "lon": 30.7675620
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Вестерн",
+    "name:uk": "Вестерн"
+  }
+},
+{
+  "type": "way",
+  "id": 337891650,
+  "center": {
+    "lat": 46.4298333,
+    "lon": 30.7672646
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Паго",
+    "name:uk": "Паго"
+  }
+},
+{
+  "type": "way",
+  "id": 343992133,
+  "center": {
+    "lat": 46.4276428,
+    "lon": 30.7664211
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "internet_access": "wlan",
+    "name": "Секрет",
+    "name:uk": "Секрет"
+  }
+},
+{
+  "type": "way",
+  "id": 344497036,
+  "center": {
+    "lat": 46.4300886,
+    "lon": 30.7682471
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "commercial",
+    "name": "Red Line",
+    "name:ru": "Редлайн",
+    "name:uk": "Red Line"
+  }
+},
+{
+  "type": "way",
+  "id": 346159912,
+  "center": {
+    "lat": 48.2500012,
+    "lon": 37.7951789
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Сільський клуб",
+    "name:uk": "Сільський клуб"
+  }
+},
+{
+  "type": "way",
+  "id": 346803623,
+  "center": {
+    "lat": 49.8475262,
+    "lon": 24.0263091
+  },
+  "tags": {
+    "addr:housenumber": "2",
+    "addr:postcode": "79000",
+    "addr:street": "проспект Вʼячеслава Чорновола",
+    "amenity": "nightclub",
+    "building": "yes",
+    "building:levels": "3",
+    "email": "info@malevich-club.com",
+    "fax": "+380 50 555 5195;+380 97 555 5195",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "name": "Малевич",
+    "name:en": "Malevich",
+    "name:uk": "Малевич",
+    "opening_hours": "21:00-06:00",
+    "phone": "+380 67 713 3078",
+    "smoking": "outside",
+    "website": "https://malevich-club.com/",
+    "wikidata": "Q59356758"
+  }
+},
+{
+  "type": "way",
+  "id": 360337254,
+  "center": {
+    "lat": 45.9392546,
+    "lon": 30.3048744
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Лагуна",
+    "name:en": "Lagoon",
+    "name:ru": "Лагуна",
+    "name:uk": "Лагуна"
+  }
+},
+{
+  "type": "way",
+  "id": 362048416,
+  "center": {
+    "lat": 47.8047479,
+    "lon": 35.3665602
+  },
+  "tags": {
+    "addr:postcode": "70431",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Вегас",
+    "name:uk": "Вегас",
+    "smoking": "outside"
+  }
+},
+{
+  "type": "way",
+  "id": 366136140,
+  "center": {
+    "lat": 50.7256026,
+    "lon": 26.0288670
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Клітка",
+    "name:uk": "Клітка"
+  }
+},
+{
+  "type": "way",
+  "id": 366850740,
+  "center": {
+    "lat": 49.2980117,
+    "lon": 25.6967710
+  },
+  "tags": {
+    "addr:housenumber": "119-Б",
+    "addr:street": "вулиця Князя Василька",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Аурум",
+    "name:uk": "Аурум",
+    "sport": "billiards"
+  }
+},
+{
+  "type": "way",
+  "id": 370451605,
+  "center": {
+    "lat": 50.3926501,
+    "lon": 30.3804009
+  },
+  "tags": {
+    "addr:housenumber": "45",
+    "addr:street": "Європейська вулиця",
+    "amenity": "nightclub",
+    "building": "commercial",
+    "name": "Мультихолл",
+    "name:uk": "Мультихолл"
+  }
+},
+{
+  "type": "way",
+  "id": 371462301,
+  "center": {
+    "lat": 48.6389237,
+    "lon": 24.5639254
+  },
+  "tags": {
+    "addr:housenumber": "33",
+    "addr:postcode": "78405",
+    "addr:street": "вулиця Княгині Ольги",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Відпочинок",
+    "name:uk": "Відпочінок"
+  }
+},
+{
+  "type": "way",
+  "id": 375234973,
+  "center": {
+    "lat": 46.4948653,
+    "lon": 30.7280904
+  },
+  "tags": {
+    "addr:housenumber": "47/2",
+    "addr:postcode": "65026",
+    "amenity": "nightclub",
+    "building": "yes",
+    "building:levels": "3",
+    "name": "Палац сучасної культури \"Порт\"",
+    "name:ru": "Дворец современной культуры \"Порт\"",
+    "name:uk": "Палац сучасної культури \"Порт\""
+  }
+},
+{
+  "type": "way",
+  "id": 378951123,
+  "center": {
+    "lat": 46.4321368,
+    "lon": 30.7701087
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "commercial",
+    "email": "welcome@mantrabeach.com",
+    "name": "Mantra Beach Club",
+    "name:uk": "Mantra Beach Club",
+    "opening_hours": "Mo-Th 9:00-24:00;Fr-Sa 9:00-6:00; Su 9:00-24:00",
+    "phone": "+380 68 108 0011",
+    "website": "http://www.mantrabeach.com/"
+  }
+},
+{
+  "type": "way",
+  "id": 379552915,
+  "center": {
+    "lat": 48.5051921,
+    "lon": 25.0634474
+  },
+  "tags": {
+    "addr:postcode": "78213",
+    "amenity": "nightclub",
+    "building": "yes",
+    "building:levels": "3",
+    "name": "Клуб",
+    "name:uk": "Клуб"
+  }
+},
+{
+  "type": "way",
+  "id": 380585574,
+  "center": {
+    "lat": 48.7257106,
+    "lon": 37.5873383
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Танці",
+    "name:uk": "Танці"
+  }
+},
+{
+  "type": "way",
+  "id": 383328377,
+  "center": {
+    "lat": 48.4494746,
+    "lon": 27.4095533
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Будинок культури",
+    "name:uk": "Будинок культури"
+  }
+},
+{
+  "type": "way",
+  "id": 385850497,
+  "center": {
+    "lat": 48.4056744,
+    "lon": 29.2477063
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Cosmo",
+    "name:uk": "Cosmo",
+    "source": "Bing"
+  }
+},
+{
+  "type": "way",
+  "id": 386508515,
+  "center": {
+    "lat": 46.4883112,
+    "lon": 30.7351179
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Нічний клуб \"Міністеріум\"",
+    "name:ru": "Ночной клуб \"Министериум\"",
+    "name:uk": "Нічний клуб \"Міністеріум\""
+  }
+},
+{
+  "type": "way",
+  "id": 389366028,
+  "center": {
+    "lat": 49.9945465,
+    "lon": 31.9460249
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Копанка",
+    "name:uk": "Копанка"
+  }
+},
+{
+  "type": "way",
+  "id": 396264138,
+  "center": {
+    "lat": 49.8065720,
+    "lon": 35.9553492
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Клуб",
+    "name:uk": "Клуб"
+  }
+},
+{
+  "type": "way",
+  "id": 404258195,
+  "center": {
+    "lat": 48.0214719,
+    "lon": 37.8047823
+  },
+  "tags": {
+    "addr:housenumber": "15А",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "S&S Project",
+    "name:uk": "S&S Project"
+  }
+},
+{
+  "type": "way",
+  "id": 409846042,
+  "center": {
+    "lat": 50.9440945,
+    "lon": 34.7760753
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "commercial",
+    "building:levels": "2",
+    "name": "Біль-Боу",
+    "name:ru": "Биль-Боу",
+    "name:uk": "Біль-Боу",
+    "opening_hours": "Mo-Tu 14:00-02:00; Fr 14:00-04:00; Sa 12:00-04:00; Su 12:00-02:00",
+    "roof:colour": "blue",
+    "roof:shape": "double_saltbox"
+  }
+},
+{
+  "type": "way",
+  "id": 426755034,
+  "center": {
+    "lat": 46.0790518,
+    "lon": 34.8318132
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Дискотека",
+    "name:uk": "Дискотека"
+  }
+},
+{
+  "type": "way",
+  "id": 427343054,
+  "center": {
+    "lat": 46.1661990,
+    "lon": 34.8173919
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "roof",
+    "name": "La Costa",
+    "name:uk": "La Costa"
+  }
+},
+{
+  "type": "way",
+  "id": 428178368,
+  "center": {
+    "lat": 48.1734263,
+    "lon": 23.2948839
+  },
+  "tags": {
+    "addr:city": "Хуст",
+    "addr:street": "вулиця Карпатської Січі",
+    "amenity": "nightclub",
+    "brand": "Аврора",
+    "brand:wikidata": "Q117669095",
+    "building": "yes",
+    "name": "Дискобар \"Дружба\";Аврора",
+    "name:uk": "Дискобар \"Дружба\";Аврора",
+    "shop": "variety_store"
+  }
+},
+{
+  "type": "way",
+  "id": 435697944,
+  "center": {
+    "lat": 48.4929463,
+    "lon": 32.2700084
+  },
+  "tags": {
+    "addr:housenumber": "88",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Імперія",
+    "name:uk": "Імперія"
+  }
+},
+{
+  "type": "way",
+  "id": 435951861,
+  "center": {
+    "lat": 45.1803822,
+    "lon": 33.3571271
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Танцплощадка",
+    "name:uk": "Танцмайданчик"
+  }
+},
+{
+  "type": "way",
+  "id": 450019072,
+  "center": {
+    "lat": 44.7308227,
+    "lon": 33.5485930
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Platinum 999 club",
+    "name:uk": "Platinum 999 club"
+  }
+},
+{
+  "type": "way",
+  "id": 458587762,
+  "center": {
+    "lat": 46.7530031,
+    "lon": 36.7888823
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "building:levels": "2",
+    "name": "Кристал",
+    "name:uk": "Кристал"
+  }
+},
+{
+  "type": "way",
+  "id": 469058665,
+  "center": {
+    "lat": 47.8656796,
+    "lon": 35.0959549
+  },
+  "tags": {
+    "addr:housenumber": "14",
+    "addr:postcode": "69000",
+    "addr:street": "Парковий бульвар",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Платінум",
+    "name:uk": "Платінум",
+    "opening_hours": "24/7",
+    "smoking": "isolated"
+  }
+},
+{
+  "type": "way",
+  "id": 505747170,
+  "center": {
+    "lat": 46.4281935,
+    "lon": 30.7666136
+  },
+  "tags": {
+    "addr:street": "Аркадійська алея",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Ibiza Beach Club",
+    "name:ru": "Ибица",
+    "name:uk": "Ibiza Beach Club"
+  }
+},
+{
+  "type": "way",
+  "id": 542824662,
+  "center": {
+    "lat": 44.9875213,
+    "lon": 34.0749499
+  },
+  "tags": {
+    "addr:housenumber": "22Б",
+    "addr:street": "Степная улица",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Рыбица",
+    "name:uk": "Рибиця"
+  }
+},
+{
+  "type": "way",
+  "id": 569112838,
+  "center": {
+    "lat": 47.8199539,
+    "lon": 31.1861029
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Танцювальний майданчик \"Клєтка\"",
+    "name:uk": "Танцювальний майданчик \"Клєтка\""
+  }
+},
+{
+  "type": "way",
+  "id": 583149587,
+  "center": {
+    "lat": 49.0093926,
+    "lon": 25.7948607
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Park Club",
+    "name:uk": "Park Club"
+  }
+},
+{
+  "type": "way",
+  "id": 610625627,
+  "center": {
+    "lat": 49.7173503,
+    "lon": 29.2036625
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Диско-бар \"13\"",
+    "name:uk": "Диско-бар \"13\""
+  }
+},
+{
+  "type": "way",
+  "id": 611604266,
+  "center": {
+    "lat": 48.6328532,
+    "lon": 35.2656317
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Голивуд",
+    "name:uk": "Голивуд"
+  }
+},
+{
+  "type": "way",
+  "id": 612510980,
+  "center": {
+    "lat": 49.5351514,
+    "lon": 36.6139639
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Клуб \"Respect\"",
+    "name:uk": "Клуб \"Respect\""
+  }
+},
+{
+  "type": "way",
+  "id": 627407723,
+  "center": {
+    "lat": 49.9265124,
+    "lon": 24.6265062
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Діамант",
+    "name:uk": "Діамант"
+  }
+},
+{
+  "type": "way",
+  "id": 632726286,
+  "center": {
+    "lat": 46.1179235,
+    "lon": 32.2903415
+  },
+  "tags": {
+    "addr:housenumber": "3",
+    "addr:postcode": "75653",
+    "addr:street": "Морська вулиця",
+    "amenity": "nightclub",
+    "building": "yes",
+    "description": "night club",
+    "name": "TARANTINO",
+    "name:uk": "TARANTINO",
+    "opening_hours": "Jun-Aug 21:00-4:00",
+    "operator": "TARANTINO",
+    "payment:cash": "yes",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "smoking": "dedicated"
+  }
+},
+{
+  "type": "way",
+  "id": 633904251,
+  "center": {
+    "lat": 46.4308683,
+    "lon": 30.7688869
+  },
+  "tags": {
+    "addr:housenumber": "12",
+    "addr:street": "Аркадія пляж",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Portofino Beach Resort",
+    "name:uk": "Portofino Beach Resort"
+  }
+},
+{
+  "type": "way",
+  "id": 658691430,
+  "center": {
+    "lat": 51.4180180,
+    "lon": 26.1454267
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Lemonade",
+    "name:uk": "Lemonade"
+  }
+},
+{
+  "type": "way",
+  "id": 667925190,
+  "center": {
+    "lat": 48.3774507,
+    "lon": 28.8762578
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Дискотека в парку",
+    "name:uk": "Дискотека в парку"
+  }
+},
+{
+  "type": "way",
+  "id": 696196439,
+  "center": {
+    "lat": 50.7265001,
+    "lon": 25.3083838
+  },
+  "tags": {
+    "addr:housenumber": "62",
+    "amenity": "nightclub",
+    "building": "commercial",
+    "building:levels": "2",
+    "name": "Ден Хол",
+    "name:en": "Den Hall",
+    "name:uk": "Ден Хол",
+    "old_name": "Наталка",
+    "old_name:en": "Natalka",
+    "old_name:uk": "Наталка",
+    "opening_hours": "22:00-04:00",
+    "roof:shape": "hipped"
+  }
+},
+{
+  "type": "way",
+  "id": 700140264,
+  "center": {
+    "lat": 45.1295281,
+    "lon": 33.5206424
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "\"ЛЕТО\"",
+    "name:uk": "\"ЛІТО\""
+  }
+},
+{
+  "type": "way",
+  "id": 707054916,
+  "center": {
+    "lat": 48.2207489,
+    "lon": 38.2644343
+  },
+  "tags": {
+    "addr:housenumber": "1",
+    "addr:street": "улица Готвальда",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Корсар",
+    "name:uk": "Корсар"
+  }
+},
+{
+  "type": "way",
+  "id": 711927896,
+  "center": {
+    "lat": 46.9049095,
+    "lon": 37.1159621
+  },
+  "tags": {
+    "addr:housenumber": "58б",
+    "addr:street": "Набережна вулиця",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Aurora",
+    "name:uk": "Aurora"
+  }
+},
+{
+  "type": "way",
+  "id": 718843793,
+  "center": {
+    "lat": 51.3087606,
+    "lon": 26.0015122
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Дискобар",
+    "name:uk": "Дискобар",
+    "smoking": "outside"
+  }
+},
+{
+  "type": "way",
+  "id": 823435269,
+  "center": {
+    "lat": 49.4301457,
+    "lon": 31.3086244
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "\"Мир\"",
+    "name:uk": "\"Мир\"",
+    "opening_hours": "\"Closed since Covid and nobody maintains it\""
+  }
+},
+{
+  "type": "way",
+  "id": 839825728,
+  "center": {
+    "lat": 49.7248770,
+    "lon": 37.6088450
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "service",
+    "name": "Sam Feri",
+    "name:uk": "Sam Feri"
+  }
+},
+{
+  "type": "way",
+  "id": 903113100,
+  "center": {
+    "lat": 47.8176333,
+    "lon": 31.1865112
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Паркова",
+    "name:uk": "Паркова"
+  }
+},
+{
+  "type": "way",
+  "id": 905615142,
+  "center": {
+    "lat": 47.8239615,
+    "lon": 31.1286409
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Плавні",
+    "name:uk": "Плавні",
+    "opening_hours": "Mo-Th 10:00-23:00; PH,Fr,Sa 10:00-04:00"
+  }
+},
+{
+  "type": "way",
+  "id": 926241357,
+  "center": {
+    "lat": 51.1659536,
+    "lon": 34.2212555
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "lgbtq": "primary",
+    "name": "Клуб залізничників",
+    "name:uk": "Клуб залізничників"
+  }
+},
+{
+  "type": "way",
+  "id": 941426316,
+  "center": {
+    "lat": 46.1155359,
+    "lon": 32.3014103
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Jamaica",
+    "name:uk": "Jamaica"
+  }
+},
+{
+  "type": "way",
+  "id": 1006935561,
+  "center": {
+    "lat": 48.1465822,
+    "lon": 38.3686619
+  },
+  "tags": {
+    "addr:housenumber": "16А",
+    "addr:postcode": "86300",
+    "addr:street": "улица Шевченко",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Клуб",
+    "name:uk": "Клуб",
+    "opening_hours": "closed"
+  }
+},
+{
+  "type": "way",
+  "id": 1160534957,
+  "center": {
+    "lat": 50.4581176,
+    "lon": 27.2241025
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "building:levels": "1",
+    "name": "Клуб",
+    "name:uk": "Клуб"
+  }
+},
+{
+  "type": "way",
+  "id": 1421011355,
+  "center": {
+    "lat": 48.3621646,
+    "lon": 32.6537376
+  },
+  "tags": {
+    "addr:housenumber": "2-А",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Еней",
+    "name:uk": "Еней"
+  }
+},
+{
+  "type": "way",
+  "id": 1512521961,
+  "center": {
+    "lat": 46.6553099,
+    "lon": 32.6491938
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Zephyr",
+    "opening_hours": "closed"
+  }
+},
+{
+  "type": "relation",
+  "id": 9743636,
+  "center": {
+    "lat": 45.1856729,
+    "lon": 33.3405567
+  },
+  "tags": {
+    "addr:housenumber": "25А",
+    "addr:street": "улица Полупанова",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "\"INOUT\"",
+    "name:uk": "\"INOUT\"",
+    "type": "multipolygon"
+  }
+}
+
+  ]
+}

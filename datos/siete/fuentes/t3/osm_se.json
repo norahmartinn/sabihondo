@@ -1,0 +1,1343 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-05-31T22:37:44Z",
+    "timestamp_areas_base": "2026-05-31T22:37:44Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 205115451,
+  "lat": 58.1731811,
+  "lon": 13.5517641,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Terrassen"
+  }
+},
+{
+  "type": "node",
+  "id": 220643652,
+  "lat": 60.6751335,
+  "lon": 17.1424648,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Hits For You",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 220657887,
+  "lat": 60.6775263,
+  "lon": 17.1458875,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Bilagan"
+  }
+},
+{
+  "type": "node",
+  "id": 292640642,
+  "lat": 63.8263889,
+  "lon": 20.2593025,
+  "tags": {
+    "addr:city": "Umeå",
+    "addr:country": "SE",
+    "addr:housenumber": "48",
+    "addr:postcode": "903 26",
+    "addr:street": "Kungsgatan",
+    "amenity": "nightclub",
+    "level": "0",
+    "name": "Cinco",
+    "outdoor_seating": "yes",
+    "website": "https://cincoumea.se/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 360759275,
+  "lat": 59.3330999,
+  "lon": 18.0749378,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2025-12-04",
+    "check_date:opening_hours": "2025-12-04",
+    "contact:email": "info@roseclub.se",
+    "contact:phone": "+4684405630",
+    "contact:website": "https://www.roseclub.se/",
+    "name": "Rose",
+    "opening_hours": "Mo-Tu closed; We 22:00-03:00; Th closed; Sa-Su 23:00-05:00"
+  }
+},
+{
+  "type": "node",
+  "id": 369976808,
+  "lat": 59.3321771,
+  "lon": 18.0738967,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Berns",
+    "operator": "Stureplansgrupper",
+    "payment:cash": "no",
+    "website": "https://www.berns.se/",
+    "wheelchair": "yes",
+    "wikidata": "Q826740",
+    "wikimedia_commons": "Category:Berns salonger",
+    "wikipedia": "sv:Berns"
+  }
+},
+{
+  "type": "node",
+  "id": 410545369,
+  "lat": 59.3365547,
+  "lon": 18.0721376,
+  "tags": {
+    "amenity": "nightclub",
+    "contact:email": "info@stureplansgruppen.se",
+    "contact:website": "https://www.stureplansgruppen.se/the-spy-bar-1.aspx",
+    "name": "Spy Bar",
+    "opening_hours": "We-Sa 22:00-05:00",
+    "operator": "Stureplansgruppen",
+    "wikidata": "Q10676675",
+    "wikipedia": "sv:Spy Bar"
+  }
+},
+{
+  "type": "node",
+  "id": 415981774,
+  "lat": 59.3333991,
+  "lon": 18.0557611,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Fasching",
+    "website": "https://www.fasching.se/",
+    "wheelchair": "no",
+    "wikidata": "Q10494245",
+    "wikipedia": "sv:Fasching"
+  }
+},
+{
+  "type": "node",
+  "id": 424257121,
+  "lat": 58.5900321,
+  "lon": 16.1749247,
+  "tags": {
+    "addr:city": "Norrköping",
+    "addr:country": "SE",
+    "addr:housenumber": "54",
+    "addr:street": "Bredgatan",
+    "amenity": "nightclub",
+    "name": "Arbis",
+    "opening_hours": "Fr, Sa 17:00-27:00",
+    "website": "https://www.arbis.se/"
+  }
+},
+{
+  "type": "node",
+  "id": 444870281,
+  "lat": 60.3385897,
+  "lon": 18.4425534,
+  "tags": {
+    "amenity": "nightclub",
+    "contact:phone": "+46 173 314 26",
+    "name": "Hummelgrund"
+  }
+},
+{
+  "type": "node",
+  "id": 445847413,
+  "lat": 55.5947563,
+  "lon": 13.0088178,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Kulturbolaget",
+    "toilets:wheelchair": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 449884326,
+  "lat": 59.3357978,
+  "lon": 18.0668629,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2024-07-11",
+    "name": "Golden Hits",
+    "opening_hours": "We 17:30-01:00, Th 17:30-02:00, Fr,Sa 17:30-03:00; Su-Tu off",
+    "website": "https://goldenhits.se/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 454221014,
+  "lat": 59.3324168,
+  "lon": 18.0285348,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2025-11-28",
+    "check_date:opening_hours": "2025-11-28",
+    "contact:email": "info@niva22.se",
+    "contact:phone": "+4686532790",
+    "contact:website": "https://www.niva22.se/",
+    "name": "Nivå 22",
+    "opening_hours": "Mo-Fr 15:00-01:00; Sa 14:00-01:00; Su 15:00-01:00"
+  }
+},
+{
+  "type": "node",
+  "id": 462630509,
+  "lat": 59.3183691,
+  "lon": 18.0742598,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Södra Bar"
+  }
+},
+{
+  "type": "node",
+  "id": 640305033,
+  "lat": 59.3188061,
+  "lon": 18.0633685,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Guldapan",
+    "opening_hours": "We,Fr-Sa 22:00-03:00",
+    "opening_hours:signed": "no",
+    "phone": "+46 8 644 54 18",
+    "website": "http://guldapan.nu"
+  }
+},
+{
+  "type": "node",
+  "id": 648309284,
+  "lat": 56.0417026,
+  "lon": 12.6988590,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Wallmans Golden Hits"
+  }
+},
+{
+  "type": "node",
+  "id": 684792595,
+  "lat": 59.3350278,
+  "lon": 18.0332663,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2025-11-16",
+    "contact:email": "info@klubbbla.se",
+    "contact:phone": "+46707912662",
+    "contact:website": "https://klubbbla.se",
+    "name": "Klubb Blå"
+  }
+},
+{
+  "type": "node",
+  "id": 702372671,
+  "lat": 60.6749564,
+  "lon": 17.1433517,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Olivia"
+  }
+},
+{
+  "type": "node",
+  "id": 1067357934,
+  "lat": 56.6645414,
+  "lon": 16.3345257,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Sandra"
+  }
+},
+{
+  "type": "node",
+  "id": 1186968935,
+  "lat": 59.3213969,
+  "lon": 18.0527645,
+  "tags": {
+    "addr:city": "Stockholm",
+    "addr:postcode": "11825",
+    "addr:street": "Söder Mälarstrand",
+    "addr:unit": "Kajplats 19",
+    "amenity": "nightclub",
+    "email": "info@patricia.st",
+    "fax": "+46 8 641 19 76",
+    "name": "Patricia",
+    "opening_hours": "Mo-Tu off; We-Th 17:00-00:00; Fr-Su 18:00-05:00",
+    "phone": "+46 8 743 05 70",
+    "smoking": "separated",
+    "website": "http://www.patricia.st/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1295332317,
+  "lat": 65.8256868,
+  "lon": 21.6956235,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Lotus"
+  }
+},
+{
+  "type": "node",
+  "id": 1352870825,
+  "lat": 59.2916408,
+  "lon": 18.0795017,
+  "tags": {
+    "addr:country": "SE",
+    "addr:housenumber": "6",
+    "addr:street": "Slakthusgatan",
+    "amenity": "nightclub",
+    "name": "Slakthuset"
+  }
+},
+{
+  "type": "node",
+  "id": 1393925985,
+  "lat": 59.3364918,
+  "lon": 18.0734568,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Sturecompagniet",
+    "opening_hours": "Th-Sa 22:00-03:00",
+    "operator": "Stureplansgruppen",
+    "website": "https://www.sturecompagniet.se/",
+    "wikidata": "Q10682450",
+    "wikimedia_commons": "Category:Sturecompagniet",
+    "wikipedia": "sv:Sturecompagniet"
+  }
+},
+{
+  "type": "node",
+  "id": 1422123882,
+  "lat": 59.3133231,
+  "lon": 18.0705651,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2024-08-16",
+    "name": "Baras ställe",
+    "opening_hours": "Fr,Sa 20:00-03:00",
+    "smoking": "outside",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1424342934,
+  "lat": 58.5952237,
+  "lon": 16.1818423,
+  "tags": {
+    "addr:city": "Norrköping",
+    "addr:country": "SE",
+    "addr:housenumber": "118",
+    "addr:street": "Slottsgatan",
+    "amenity": "nightclub",
+    "name": "Puls",
+    "old_name": "Otten"
+  }
+},
+{
+  "type": "node",
+  "id": 1471185136,
+  "lat": 60.1507114,
+  "lon": 15.1866416,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Solo",
+    "source": "local_knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 1541177382,
+  "lat": 59.3073459,
+  "lon": 18.0770682,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Staybar"
+  }
+},
+{
+  "type": "node",
+  "id": 1612437242,
+  "lat": 55.7055105,
+  "lon": 13.1956479,
+  "tags": {
+    "amenity": "nightclub",
+    "contact:website": "http://www.t-bar.nu/",
+    "name": "T-Bar",
+    "website": "http://www.t-bar.nu/",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 1680808358,
+  "lat": 55.4296660,
+  "lon": 13.8212913,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Bar á Bar",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1704718183,
+  "lat": 57.1069056,
+  "lon": 12.2514805,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Niteclub Oscar"
+  }
+},
+{
+  "type": "node",
+  "id": 1778361749,
+  "lat": 59.3225079,
+  "lon": 18.0721631,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2025-06-26",
+    "name": "Kolingen",
+    "opening_hours": "Mo-Th off; Fr-Sa 22:00-03:00; Su 03:00-24:00 off"
+  }
+},
+{
+  "type": "node",
+  "id": 1844498178,
+  "lat": 59.3044996,
+  "lon": 18.0787038,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Trädgården",
+    "smoking": "yes",
+    "website": "https://www.tradgarden.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 1937145796,
+  "lat": 59.3331022,
+  "lon": 18.0751904,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Fou",
+    "phone": "+46 8 440 56 30",
+    "website": "https://fouclub.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 2033520022,
+  "lat": 57.7018604,
+  "lon": 11.9731805,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2024-05-01",
+    "fixme": "fix opening hours",
+    "name": "The Parlour",
+    "opening_hours": "Tu-Fr 16:00+; Sa-Su 12:00+",
+    "smoking": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2033520146,
+  "lat": 57.7013990,
+  "lon": 11.9739970,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "8IGHT",
+    "smoking": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2078806850,
+  "lat": 57.7011680,
+  "lon": 11.9733380,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "nau"
+  }
+},
+{
+  "type": "node",
+  "id": 2168909659,
+  "lat": 57.7005065,
+  "lon": 11.9735422,
+  "tags": {
+    "air_conditioning": "yes",
+    "amenity": "nightclub",
+    "check_date": "2023-05-24",
+    "internet_access": "wlan",
+    "internet_access:fee": "customers",
+    "name": "Excet",
+    "opening_hours": "Fr 21:00-24:00; Sa 00:00-05:00,22:00-24:00; Su 00:00-05:00",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "smoking": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2168909932,
+  "lat": 57.7003267,
+  "lon": 11.9741734,
+  "tags": {
+    "addr:city": "Göteborg",
+    "addr:country": "SE",
+    "addr:housenumber": "41",
+    "addr:postcode": "411 37",
+    "addr:street": "Vasagatan",
+    "amenity": "nightclub",
+    "name": "Valand",
+    "smoking": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2208623612,
+  "lat": 59.8589840,
+  "lon": 17.6405754,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2025-08-09",
+    "level": "0",
+    "name": "Etage Kök & Bar",
+    "opening_hours": "Mo off; Tu 21:00-03:00; We-Sa 16:00-03:00; Su 22:00-03:00",
+    "url": "http://www.etagebar.se/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2227520764,
+  "lat": 65.6178513,
+  "lon": 22.1436225,
+  "tags": {
+    "addr:city": "Luleå",
+    "addr:country": "SE",
+    "addr:housenumber": "11",
+    "addr:postcode": "97187",
+    "addr:street": "Universitetsvägen",
+    "amenity": "nightclub",
+    "internet_access": "yes",
+    "min_age": "18",
+    "name": "Stuk",
+    "opening_hours": "We 21:00-01:00; Fr-Sa 21:00-03:00",
+    "operator": "Stuk",
+    "smoking": "outside",
+    "website": "https://www.stuk.nu/"
+  }
+},
+{
+  "type": "node",
+  "id": 2266097331,
+  "lat": 55.5961035,
+  "lon": 13.0108846,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2024-07-07",
+    "name": "Babel",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2271417357,
+  "lat": 57.7854795,
+  "lon": 14.1570161,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Insikten"
+  }
+},
+{
+  "type": "node",
+  "id": 2271645710,
+  "lat": 59.6549295,
+  "lon": 12.5956750,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Ritz"
+  }
+},
+{
+  "type": "node",
+  "id": 2271777049,
+  "lat": 57.7833660,
+  "lon": 14.1626460,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2024-07-19",
+    "name": "Karlssons salonger"
+  }
+},
+{
+  "type": "node",
+  "id": 2293728903,
+  "lat": 55.6050328,
+  "lon": 13.0015136,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Breeze bar & nightclub"
+  }
+},
+{
+  "type": "node",
+  "id": 2304036049,
+  "lat": 57.3743269,
+  "lon": 13.6059695,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Sigges loge"
+  }
+},
+{
+  "type": "node",
+  "id": 2336793891,
+  "lat": 59.3300067,
+  "lon": 18.0710838,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Café Opera",
+    "opening_hours": "Mo-Tu off; We-Su 22:00-03:00",
+    "payment:cash": "no",
+    "website": "https://www.cafeopera.se/",
+    "wikidata": "Q1025651",
+    "wikimedia_commons": "Category:Café Opera",
+    "wikipedia": "sv:Café Opera"
+  }
+},
+{
+  "type": "node",
+  "id": 2407774345,
+  "lat": 59.3167371,
+  "lon": 18.0614786,
+  "tags": {
+    "amenity": "nightclub",
+    "email": "info@slmstockholm.se",
+    "fetish": "bears",
+    "fetish:bdsm": "yes",
+    "fetish:bears": "yes",
+    "fetish:leather": "yes",
+    "fetish:rubber": "yes",
+    "fetish:uniform": "yes",
+    "floor": "-1",
+    "lgbtq:men": "only",
+    "membership": "required",
+    "min_age": "18",
+    "name": "SLM Stockholm",
+    "opening_hours:signed": "no",
+    "smoking": "isolated",
+    "smoking:outside": "no",
+    "source:lgbtq": "website",
+    "website": "https://slmstockholm.se"
+  }
+},
+{
+  "type": "node",
+  "id": 2440130449,
+  "lat": 58.1673972,
+  "lon": 13.5526798,
+  "tags": {
+    "amenity": "nightclub",
+    "email": "kontakt@plantis.se",
+    "name": "Plantis",
+    "phone": "+46 515 821 80",
+    "website": "https://plantis.se/"
+  }
+},
+{
+  "type": "node",
+  "id": 2511321069,
+  "lat": 55.5940452,
+  "lon": 13.0078512,
+  "tags": {
+    "addr:city": "Malmö",
+    "addr:country": "SE",
+    "addr:housenumber": "29",
+    "addr:postcode": "214 22",
+    "addr:street": "Bergsgatan",
+    "amenity": "nightclub",
+    "contact:instagram": "Inkonst",
+    "email": "info@inkonst.com",
+    "internet_access": "wlan",
+    "level": "1",
+    "name": "Inkonst",
+    "phone": "+46707547764",
+    "website": "https://inkonst.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 2516118059,
+  "lat": 59.2907368,
+  "lon": 18.0848609,
+  "tags": {
+    "addr:country": "SE",
+    "addr:housenumber": "69",
+    "addr:postcode": "121 77",
+    "addr:street": "Arenavägen",
+    "amenity": "nightclub",
+    "name": "Solidaritet Arema"
+  }
+},
+{
+  "type": "node",
+  "id": 2582011052,
+  "lat": 59.6105553,
+  "lon": 16.5440523,
+  "tags": {
+    "addr:city": "Västerås",
+    "addr:country": "SE",
+    "addr:housenumber": "1",
+    "addr:postcode": "722 15",
+    "addr:street": "Torggatan",
+    "amenity": "nightclub",
+    "check_date": "2023-10-03",
+    "name": "Publik",
+    "website": "https://www.pblk.se/"
+  }
+},
+{
+  "type": "node",
+  "id": 2930977802,
+  "lat": 55.5622584,
+  "lon": 14.3471795,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Strandpaviljongen"
+  }
+},
+{
+  "type": "node",
+  "id": 3063887538,
+  "lat": 56.6749623,
+  "lon": 12.8531893,
+  "tags": {
+    "addr:city": "Halmstad",
+    "addr:country": "SE",
+    "addr:housenumber": "47",
+    "addr:postcode": "302 95",
+    "addr:street": "Karl XI:s väg",
+    "amenity": "nightclub",
+    "email": "info@halmstadlive.se",
+    "name": "Halmstad Live",
+    "phone": "+46 357108890",
+    "source": "Survey",
+    "website": "https://halmstadlive.se"
+  }
+},
+{
+  "type": "node",
+  "id": 3243182773,
+  "lat": 57.7009630,
+  "lon": 11.9736290,
+  "tags": {
+    "addr:city": "Göteborg",
+    "addr:country": "SE",
+    "addr:housenumber": "11",
+    "addr:postcode": "411 36",
+    "addr:street": "Kungsportsavenyen",
+    "amenity": "nightclub",
+    "contact:facebook": "https://www.facebook.com/pushgbg/",
+    "contact:instagram": "https://www.instagram.com/pushgbg",
+    "contact:website": "https://www.push.se/",
+    "name": "Push",
+    "opening_hours": "Mo-Th,Su off; Fr 22:00-03:00; Sa 22:00-04:00",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "smoking": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3798022838,
+  "lat": 58.4312763,
+  "lon": 14.1605023,
+  "tags": {
+    "addr:city": "Tibro",
+    "addr:country": "SE",
+    "addr:housenumber": "26",
+    "addr:postcode": "54330",
+    "addr:street": "Mariestadsvägen",
+    "amenity": "nightclub",
+    "name": "Millners",
+    "phone": "+46709900465",
+    "website": "https://www.millners.nu/"
+  }
+},
+{
+  "type": "node",
+  "id": 3833491532,
+  "lat": 57.7012171,
+  "lon": 11.9731593,
+  "tags": {
+    "addr:city": "Göteborg",
+    "addr:country": "SE",
+    "addr:housenumber": "5",
+    "addr:postcode": "411 36",
+    "addr:street": "Kungsportsavenyen",
+    "amenity": "nightclub",
+    "name": "Lounge(s)",
+    "smoking": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4695138810,
+  "lat": 60.6989030,
+  "lon": 17.1604520,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Vävaren"
+  }
+},
+{
+  "type": "node",
+  "id": 6140937992,
+  "lat": 63.8120095,
+  "lon": 20.3146689,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Rouge",
+    "opening_hours": "\"Beroende på event\""
+  }
+},
+{
+  "type": "node",
+  "id": 6343741016,
+  "lat": 63.4000245,
+  "lon": 13.0752675,
+  "tags": {
+    "addr:city": "Åre",
+    "addr:country": "SE",
+    "addr:housenumber": "40",
+    "addr:postcode": "83752",
+    "addr:street": "Sankt Olavs väg",
+    "amenity": "nightclub",
+    "name": "Verandan",
+    "website": "https://verandanare.se/"
+  }
+},
+{
+  "type": "node",
+  "id": 6488829904,
+  "lat": 59.2908192,
+  "lon": 18.0839438,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Backdoor",
+    "name:en": "Backdoor"
+  }
+},
+{
+  "type": "node",
+  "id": 6863422794,
+  "lat": 59.3144592,
+  "lon": 18.0324384,
+  "tags": {
+    "amenity": "nightclub",
+    "contact:email": "info@debaser.se",
+    "contact:phone": "+4684629860",
+    "contact:website": "https://www.debaser.se",
+    "name": "Debaser"
+  }
+},
+{
+  "type": "node",
+  "id": 7246975485,
+  "lat": 55.5839411,
+  "lon": 13.0272499,
+  "tags": {
+    "addr:city": "Malmö",
+    "addr:country": "SE",
+    "addr:housenumber": "26B",
+    "addr:postcode": "214 50",
+    "addr:street": "Norra Grängesbergsgatan",
+    "amenity": "nightclub",
+    "bar": "yes",
+    "check_date": "2026-05-14",
+    "cloakroom": "yes",
+    "contact:email": "INFO@PLANBMALMO.COM",
+    "cuisine": "burger",
+    "diet:vegetarian": "yes",
+    "food": "yes",
+    "live_music": "yes",
+    "name": "Plan B",
+    "opening_hours": "18:00-01:00",
+    "website": "https://www.planbmalmo.com/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8676893853,
+  "lat": 59.3777546,
+  "lon": 17.0076848,
+  "tags": {
+    "addr:city": "Strängnäs",
+    "addr:country": "SE",
+    "addr:housenumber": "34",
+    "addr:postcode": "64534",
+    "addr:street": "Eskilstunavägen",
+    "amenity": "nightclub",
+    "name": "Zatine",
+    "phone": "+46 152 189 55"
+  }
+},
+{
+  "type": "node",
+  "id": 8917795430,
+  "lat": 57.3508249,
+  "lon": 12.8860603,
+  "tags": {
+    "amenity": "nightclub",
+    "description:en": "Nightclub operating since 1937",
+    "name": "Kullaberg"
+  }
+},
+{
+  "type": "node",
+  "id": 9340380842,
+  "lat": 57.7013972,
+  "lon": 11.9618002,
+  "tags": {
+    "access": "yes",
+    "addr:city": "Göteborg",
+    "addr:country": "SE",
+    "addr:housenumber": "6",
+    "addr:postcode": "41120",
+    "addr:street": "Hvitfeldtsplatsen",
+    "air_conditioning": "yes",
+    "amenity": "nightclub",
+    "club": "jazz",
+    "contact:email": "info@nefertiti.se",
+    "contact:facebook": "https://www.facebook.com/NefertitiGBG/",
+    "contact:instagram": "https://www.instagram.com/nefertiti.se",
+    "contact:phone": "+46 31 711 40 76",
+    "contact:website": "http://www.nefertiti.se/",
+    "entrance": "yes",
+    "live_music": "yes",
+    "music": "live;recorded",
+    "music_genre": "jazz",
+    "name": "Nefertiti Jazz Club",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "short_name": "Nefertiti",
+    "smoking": "no",
+    "wikidata": "Q10595714",
+    "wikipedia": "sv:Nefertiti (jazzklubb)"
+  }
+},
+{
+  "type": "node",
+  "id": 9380291439,
+  "lat": 59.2924230,
+  "lon": 18.0801310,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Slaktkyrkan"
+  }
+},
+{
+  "type": "node",
+  "id": 9900438611,
+  "lat": 56.6754044,
+  "lon": 12.8533091,
+  "tags": {
+    "addr:city": "Halmstad",
+    "addr:country": "SE",
+    "addr:housenumber": "49",
+    "addr:postcode": "30236",
+    "addr:street": "Karl XI:s väg",
+    "amenity": "nightclub",
+    "email": "info@boomboomroom.se",
+    "name": "Boom Boom Room",
+    "phone": "+46 35120331",
+    "website": "https://boomboomroom.se"
+  }
+},
+{
+  "type": "node",
+  "id": 11051909439,
+  "lat": 58.0347331,
+  "lon": 14.9744477,
+  "tags": {
+    "addr:country": "SE",
+    "addr:housenumber": "1",
+    "addr:street": "Bankgatan",
+    "amenity": "nightclub",
+    "check_date": "2023-07-18",
+    "name": "babar",
+    "opening_hours": "Mo-Th off; Fr 18:00-24:00; Sa 00:00-01:00,13:00-24:00; Su 00:00-01:00",
+    "website": "https://babar-nightclub.se/"
+  }
+},
+{
+  "type": "node",
+  "id": 11528270727,
+  "lat": 57.7225766,
+  "lon": 12.9407824,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Stage"
+  }
+},
+{
+  "type": "node",
+  "id": 11765934965,
+  "lat": 56.8337156,
+  "lon": 13.9399365,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Club Bunker"
+  }
+},
+{
+  "type": "node",
+  "id": 11919635369,
+  "lat": 56.6668102,
+  "lon": 12.8785910,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Smålands Nation",
+    "opening_hours": "We 20:00-00:00"
+  }
+},
+{
+  "type": "node",
+  "id": 12018700697,
+  "lat": 63.4002808,
+  "lon": 13.0791153,
+  "tags": {
+    "amenity": "nightclub",
+    "contact:facebook": "https://www.facebook.com/mrfrenchare/",
+    "name": "Mr French"
+  }
+},
+{
+  "type": "node",
+  "id": 12020155269,
+  "lat": 57.7483964,
+  "lon": 11.9966940,
+  "tags": {
+    "addr:city": "Hisings Backa",
+    "addr:country": "SE",
+    "addr:housenumber": "2",
+    "addr:postcode": "42246",
+    "addr:street": "Backa Bergögata",
+    "amenity": "nightclub",
+    "check_date": "2026-04-04",
+    "email": "info@clubdeluxe.se",
+    "name": "Club Deluxe",
+    "opening_hours": "Mo-Th,Su 11:00-20:00; Fr-Sa 11:00-23:30",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+46 31 583 21 4",
+    "website": "https://clubdeluxe.se/"
+  }
+},
+{
+  "type": "node",
+  "id": 12496741844,
+  "lat": 59.2925699,
+  "lon": 18.0799038,
+  "tags": {
+    "addr:city": "Johanneshov",
+    "addr:housenumber": "10",
+    "addr:postcode": "12162",
+    "addr:street": "Styckmästargatan",
+    "amenity": "nightclub",
+    "name": "Hus 7",
+    "operator": "Slakthusen"
+  }
+},
+{
+  "type": "node",
+  "id": 12532773279,
+  "lat": 55.5937841,
+  "lon": 13.0135015,
+  "tags": {
+    "amenity": "nightclub",
+    "min_age": "18",
+    "name": "Moriska Paviljongen",
+    "payment:cash": "no",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13009181039,
+  "lat": 57.5069874,
+  "lon": 12.6949194,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "S2"
+  }
+},
+{
+  "type": "node",
+  "id": 13165830901,
+  "lat": 58.3916635,
+  "lon": 13.8568364,
+  "tags": {
+    "access": "yes",
+    "access:conditional": "students @ Fr 21:00-02:00",
+    "addr:housenumber": "2",
+    "addr:postcode": "54137",
+    "addr:street": "Boulognergränd",
+    "amenity": "nightclub",
+    "check_date:opening_hours": "2026-04-10",
+    "club": "student",
+    "contact:facebook": "boulogner",
+    "contact:instagram": "karhusetboulogner;skovdesexmasteri",
+    "email": "info@boulogner.se",
+    "fee": "yes",
+    "fee:conditional": "no @ We 18:30-23:00",
+    "min_age": "18",
+    "name": "Kårhuset Boulogner",
+    "opening_hours": "We 18:30-23:00; Fr 21:00-02:00",
+    "opening_hours:office": "Tu-Fr 08:00-17:00",
+    "operator": "Skövde Sexmästeri",
+    "operator:type": "association",
+    "phone": "+46707103729",
+    "website": "https://www.boulogner.se/"
+  }
+},
+{
+  "type": "node",
+  "id": 13433135707,
+  "lat": 55.6058686,
+  "lon": 13.0014527,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Etage"
+  }
+},
+{
+  "type": "node",
+  "id": 13620874246,
+  "lat": 56.5309822,
+  "lon": 14.4509268,
+  "tags": {
+    "alcohol": "yes",
+    "amenity": "nightclub",
+    "beer": "yes",
+    "dance": "yes",
+    "delivery": "no",
+    "email": "info@baldershagenoje.se",
+    "food": "yes",
+    "live_music": "yes",
+    "name": "Balders Hage Nöje",
+    "operator": "Balders Hage Nöje AB",
+    "parking": "yes",
+    "parking:fee": "no",
+    "payment:debit_cards": "yes",
+    "phone": "+46 70 868 07 82",
+    "reservation": "yes",
+    "takeaway": "no",
+    "toilets": "yes",
+    "toilets:wheelchair": "yes",
+    "website": "https://baldershagenoje.se/",
+    "wheelchair": "yes",
+    "wine": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13878924901,
+  "lat": 59.3474553,
+  "lon": 18.1107759,
+  "tags": {
+    "addr:housenumber": "1",
+    "addr:postcode": "11541",
+    "addr:street": "Malmvägen",
+    "amenity": "nightclub",
+    "check_date": "2026-05-21",
+    "check_date:opening_hours": "2026-05-21",
+    "contact:instagram": "houseofq.se",
+    "level": "0",
+    "name": "House of Q",
+    "opening_hours": "Tu-Fr 10:00-18:00",
+    "website": "http://houseofq.se"
+  }
+},
+{
+  "type": "way",
+  "id": 26414558,
+  "center": {
+    "lat": 60.6683851,
+    "lon": 17.1133701
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Nya Vall",
+    "operator": "Gavlecon",
+    "source": "local knowledge"
+  }
+},
+{
+  "type": "way",
+  "id": 33608817,
+  "center": {
+    "lat": 57.7044398,
+    "lon": 11.9757352
+  },
+  "tags": {
+    "addr:housenumber": "11",
+    "addr:street": "Nya Allén",
+    "air_conditioning": "yes",
+    "amenity": "nightclub",
+    "building": "yes",
+    "contact:email": "info@tradgarn.se",
+    "contact:instagram": "https://www.instagram.com/tradgarn_gbg",
+    "contact:phone": "+46 31 102 08 0",
+    "contact:website": "https://www.tradgarn.se/",
+    "name": "Trädgår'n",
+    "payment:cash": "no",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "smoking": "no",
+    "source": "outline: Yahoo"
+  }
+},
+{
+  "type": "way",
+  "id": 88432432,
+  "center": {
+    "lat": 59.8543076,
+    "lon": 17.6376586
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "building:colour": "yellow",
+    "building:levels": "1",
+    "building:material": "wood",
+    "name": "Birger Jarl",
+    "source": "Bing",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 104306341,
+  "center": {
+    "lat": 55.9032109,
+    "lon": 13.5637982
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Jägersbo"
+  }
+},
+{
+  "type": "way",
+  "id": 116123085,
+  "center": {
+    "lat": 56.8556939,
+    "lon": 14.8331204
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Slottsstallarna"
+  }
+},
+{
+  "type": "way",
+  "id": 149966364,
+  "center": {
+    "lat": 56.8529379,
+    "lon": 14.8302034
+  },
+  "tags": {
+    "addr:city": "Växjö",
+    "addr:country": "SE",
+    "addr:housenumber": "12",
+    "addr:postcode": "352 52",
+    "addr:street": "Gerorg Lückligs väg",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Sivans Studentpub"
+  }
+},
+{
+  "type": "way",
+  "id": 436726949,
+  "center": {
+    "lat": 59.8539664,
+    "lon": 17.6410156
+  },
+  "tags": {
+    "addr:city": "Uppsala",
+    "addr:country": "SE",
+    "addr:housenumber": "5",
+    "addr:postcode": "75309",
+    "addr:street": "Flustergränd",
+    "alt_name": "Flurran",
+    "amenity": "nightclub",
+    "building": "yes",
+    "building:colour": "yellow",
+    "building:levels": "2",
+    "building:material": "wood",
+    "email": "info@flustret.se",
+    "name": "Flustret",
+    "phone": "+46 18 100444",
+    "roof:colour": "green",
+    "roof:material": "metal",
+    "start_date": "1842",
+    "website": "https://www.flustret.se",
+    "wikidata": "Q10497033",
+    "wikipedia": "sv:Flustret"
+  }
+},
+{
+  "type": "way",
+  "id": 1028945173,
+  "center": {
+    "lat": 55.7014748,
+    "lon": 13.1998547
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2025-09-19",
+    "name": "Göteborgs nation nattklubb nummer femton"
+  }
+},
+{
+  "type": "way",
+  "id": 1093128514,
+  "center": {
+    "lat": 55.6049905,
+    "lon": 13.0015968
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Breeze bar & nightclub"
+  }
+}
+
+  ]
+}

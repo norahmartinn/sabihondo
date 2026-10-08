@@ -1,0 +1,2334 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-10-08T23:10:16Z",
+    "timestamp_areas_base": "2026-10-08T05:09:19Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 247432461,
+  "lat": 50.8493415,
+  "lon": 4.3714294,
+  "tags": {
+    "amenity": "nightclub",
+    "contact:website": "https://www.miranobrussels.com/",
+    "name": "Mirano Brussels",
+    "wikidata": "Q3224581",
+    "wikimedia_commons": "Category:Cinema Mirano",
+    "wikipedia": "fr:Le Mirano"
+  }
+},
+{
+  "type": "node",
+  "id": 519835927,
+  "lat": 50.9919094,
+  "lon": 4.5285467,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Oud België"
+  }
+},
+{
+  "type": "node",
+  "id": 527007419,
+  "lat": 50.9349464,
+  "lon": 4.6248063,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Star"
+  }
+},
+{
+  "type": "node",
+  "id": 721211746,
+  "lat": 50.7158570,
+  "lon": 4.6067500,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Jimmy's Club"
+  }
+},
+{
+  "type": "node",
+  "id": 799254914,
+  "lat": 51.0494416,
+  "lon": 4.3733593,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Willy's Moustache"
+  }
+},
+{
+  "type": "node",
+  "id": 1041364457,
+  "lat": 51.0683679,
+  "lon": 4.8711667,
+  "tags": {
+    "addr:housenumber": "14",
+    "addr:street": "Provinciebaan",
+    "amenity": "nightclub",
+    "email": "info@discotheek-millennium.be",
+    "name": "Discotheek Millenium",
+    "opening_hours": "Sa 22:00-06:00",
+    "phone": "+32 475 23 36 08",
+    "website": "https://www.discotheek-millennium.be/"
+  }
+},
+{
+  "type": "node",
+  "id": 1116270253,
+  "lat": 50.4707985,
+  "lon": 3.9564894,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "L'Edel, lounge bar"
+  }
+},
+{
+  "type": "node",
+  "id": 1222412850,
+  "lat": 50.6861366,
+  "lon": 4.4058415,
+  "tags": {
+    "amenity": "nightclub",
+    "contact:email": "Info@drjack.be",
+    "contact:facebook": "https://www.facebook.com/doktorjack/",
+    "contact:mobile": "+32 496 26 72 65",
+    "contact:website": "https://www.drjack.be/",
+    "min_age": "18",
+    "name": "Doktor Jack",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1469283047,
+  "lat": 50.9708869,
+  "lon": 4.4971040,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Napoleon Games"
+  }
+},
+{
+  "type": "node",
+  "id": 1519400225,
+  "lat": 50.9009307,
+  "lon": 4.8447583,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Club Donna"
+  }
+},
+{
+  "type": "node",
+  "id": 1628528009,
+  "lat": 51.1774991,
+  "lon": 4.1911990,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Club Royal"
+  }
+},
+{
+  "type": "node",
+  "id": 1641068319,
+  "lat": 51.2180534,
+  "lon": 4.4196891,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Dance club"
+  }
+},
+{
+  "type": "node",
+  "id": 1990869102,
+  "lat": 50.9487456,
+  "lon": 5.1095953,
+  "tags": {
+    "addr:city": "Halen",
+    "addr:housenumber": "16",
+    "addr:postcode": "3545",
+    "addr:street": "Singellaan",
+    "amenity": "nightclub",
+    "name": "Boccaccio East"
+  }
+},
+{
+  "type": "node",
+  "id": 2004989413,
+  "lat": 50.6407726,
+  "lon": 5.5693170,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Exxit"
+  }
+},
+{
+  "type": "node",
+  "id": 2032585655,
+  "lat": 50.9388733,
+  "lon": 4.0337403,
+  "tags": {
+    "amenity": "nightclub",
+    "internet_access": "wlan",
+    "name": "Njoy",
+    "smoking": "outside"
+  }
+},
+{
+  "type": "node",
+  "id": 2038408826,
+  "lat": 51.2314763,
+  "lon": 2.9123159,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Flight 90"
+  }
+},
+{
+  "type": "node",
+  "id": 2404590241,
+  "lat": 50.8498318,
+  "lon": 2.8841322,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Club Riba"
+  }
+},
+{
+  "type": "node",
+  "id": 2460626303,
+  "lat": 51.0223465,
+  "lon": 4.1090316,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "JH Zenith",
+    "phone": "+32 52 21 28 23",
+    "website": "https://www.jhzenith.be/"
+  }
+},
+{
+  "type": "node",
+  "id": 2622904586,
+  "lat": 50.6680821,
+  "lon": 4.6176070,
+  "tags": {
+    "alt_name": "CI",
+    "amenity": "nightclub",
+    "name": "Cercle Industriel",
+    "operator": "Cercle Industriel",
+    "social_centre": "fraternity",
+    "website": "https://www.cercle-industriel.be/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2631039880,
+  "lat": 51.2260480,
+  "lon": 3.2312865,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Danscentrum Salsa Azúcar"
+  }
+},
+{
+  "type": "node",
+  "id": 2952209632,
+  "lat": 50.3921011,
+  "lon": 3.9647381,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Budha Beach"
+  }
+},
+{
+  "type": "node",
+  "id": 3028562276,
+  "lat": 51.0594106,
+  "lon": 3.7235499,
+  "tags": {
+    "addr:city": "Gent",
+    "addr:housenumber": "40",
+    "addr:postcode": "9000",
+    "addr:street": "Drongenhof",
+    "amenity": "nightclub",
+    "check_date": "2026-04-21",
+    "description:en": "BallRisque sometimes organises events here, e.g. https://www.eventbrite.be/e/k-t-tickets-1986803340274",
+    "fetish:bdsm": "no",
+    "fetish:bdsm:conditional": "yes @ specific events",
+    "name": "White Cat",
+    "payment:cash": "no",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3190861871,
+  "lat": 50.5325878,
+  "lon": 3.2882502,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Cap'tain"
+  }
+},
+{
+  "type": "node",
+  "id": 3663114386,
+  "lat": 50.8787225,
+  "lon": 4.7004796,
+  "tags": {
+    "addr:city": "Leuven",
+    "addr:housenumber": "16",
+    "addr:postcode": "3000",
+    "addr:street": "Kiekenstraat",
+    "amenity": "nightclub",
+    "name": "Rumba & Co",
+    "website": "http://www.rumbaentadisco.be"
+  }
+},
+{
+  "type": "node",
+  "id": 3837439374,
+  "lat": 50.8281099,
+  "lon": 3.2638189,
+  "tags": {
+    "addr:city": "Kortrijk",
+    "addr:country": "BE",
+    "addr:housenumber": "5",
+    "addr:postcode": "8500",
+    "addr:street": "Papenstraat",
+    "amenity": "nightclub",
+    "name": "Carrément Lounge",
+    "website": "https://carrementlounge.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 3837459806,
+  "lat": 50.8281795,
+  "lon": 3.2637682,
+  "tags": {
+    "addr:city": "Kortrijk",
+    "addr:country": "BE",
+    "addr:housenumber": "9",
+    "addr:postcode": "8500",
+    "addr:street": "Papenstraat",
+    "amenity": "nightclub",
+    "name": "The Boys",
+    "website": "http://users.skynet.be/fc189807/default.htm"
+  }
+},
+{
+  "type": "node",
+  "id": 3906566204,
+  "lat": 50.8793036,
+  "lon": 4.6992410,
+  "tags": {
+    "addr:city": "Leuven",
+    "addr:housenumber": "17",
+    "addr:postcode": "3000",
+    "addr:street": "Brusselsestraat",
+    "amenity": "nightclub",
+    "changing_table": "no",
+    "entrance:kerb:height": "0.08",
+    "entrance:ramp": "yes",
+    "entrance:step_count": "1",
+    "entrance:width": "1.66",
+    "name": "Fuifzaal Albatros",
+    "toilets:wheelchair": "no",
+    "website": "https://loko.be/albatros",
+    "wheelchair:turning_circle": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4111728708,
+  "lat": 50.0526469,
+  "lon": 4.4954381,
+  "tags": {
+    "addr:city": "Couvin",
+    "addr:housename": "Lindbergh Club",
+    "addr:housenumber": "10",
+    "addr:postcode": "5660",
+    "addr:street": "Rue du Bercet",
+    "amenity": "nightclub",
+    "name": "Lindbergh Club",
+    "website": "https://www.lindberghclub.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 4302310150,
+  "lat": 50.4522999,
+  "lon": 3.9169914,
+  "tags": {
+    "addr:housenumber": "147",
+    "addr:street": "Grand Route",
+    "amenity": "nightclub",
+    "name": "Premium"
+  }
+},
+{
+  "type": "node",
+  "id": 4502597309,
+  "lat": 50.8772469,
+  "lon": 4.7004289,
+  "tags": {
+    "addr:city": "Leuven",
+    "addr:housenumber": "34",
+    "addr:postcode": "3000",
+    "addr:street": "Naamsestraat",
+    "amenity": "nightclub",
+    "name": "Club Montreal"
+  }
+},
+{
+  "type": "node",
+  "id": 4502597435,
+  "lat": 50.8782407,
+  "lon": 4.7001088,
+  "tags": {
+    "addr:city": "Leuven",
+    "addr:housenumber": "1",
+    "addr:postcode": "3000",
+    "addr:street": "Zeelstraat",
+    "amenity": "nightclub",
+    "contact:facebook": "https://www.facebook.com/pg/tarchiefleuven/",
+    "level": "0",
+    "name": "'t Archief",
+    "opening_hours": "Mo-Sa 20:00-30:00; Su 20:00-28:00",
+    "phone": "+32 476 91 21 75"
+  }
+},
+{
+  "type": "node",
+  "id": 4539678381,
+  "lat": 50.8487550,
+  "lon": 4.3537844,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2026-05-23",
+    "contact:website": "https://www.nostalgia-club.be/",
+    "level": "-1",
+    "name": "Nostalgia",
+    "opening_hours": "Fr-Sa 22:00-dawn"
+  }
+},
+{
+  "type": "node",
+  "id": 4756142221,
+  "lat": 51.2261141,
+  "lon": 4.4013926,
+  "tags": {
+    "addr:housenumber": "11-13",
+    "addr:postcode": "2000",
+    "addr:street": "Lange Schipperskapelstraat",
+    "alt_name": "Red&Blue",
+    "amenity": "nightclub",
+    "email": "info@cargoclub.be",
+    "name": "Cargo Club",
+    "phone": "+32 3 213 05 55",
+    "website": "http://www.cargoclub.be",
+    "wikidata": "Q28528220"
+  }
+},
+{
+  "type": "node",
+  "id": 4795794885,
+  "lat": 51.0654143,
+  "lon": 5.7495128,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2026-06-17",
+    "fixme": "is this place still open?",
+    "name": "Dancing Alphorn",
+    "website": "https://alphorn.be/"
+  }
+},
+{
+  "type": "node",
+  "id": 4830367183,
+  "lat": 50.4655018,
+  "lon": 4.8600659,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Bunker (UNamur)"
+  }
+},
+{
+  "type": "node",
+  "id": 4881923249,
+  "lat": 51.2388111,
+  "lon": 4.4093212,
+  "tags": {
+    "addr:city": "Antwerpen",
+    "addr:country": "BE",
+    "addr:housenumber": "1",
+    "addr:postcode": "2030",
+    "addr:street": "Limbastraat",
+    "alt_name": "The Villa Antwerp",
+    "amenity": "nightclub",
+    "contact:facebook": "https://www.facebook.com/TheVillaAntwerp",
+    "email": "junior@thevilla-antwerp.be",
+    "name": "The Villa",
+    "opening_hours": "Mo,We,Th off, Tu,Fr,Sa,Su 23:00-06:00",
+    "phone": "+32 477 81 36 36",
+    "website": "https://www.thevilla-antwerp.be/"
+  }
+},
+{
+  "type": "node",
+  "id": 4919145654,
+  "lat": 50.6678259,
+  "lon": 4.6189218,
+  "tags": {
+    "alt_name": "Agro",
+    "amenity": "nightclub",
+    "name": "Cercle Agro",
+    "operator": "Cercle d'Agronomie de Louvain-la-Neuve",
+    "social_centre": "fraternity"
+  }
+},
+{
+  "type": "node",
+  "id": 4919145655,
+  "lat": 50.6676972,
+  "lon": 4.6190200,
+  "tags": {
+    "alt_name": "Grande Casa",
+    "amenity": "nightclub",
+    "contact:facebook": "https://www.facebook.com/people/Grande-Casa/100069987243677/",
+    "level": "-1",
+    "name": "Casa",
+    "operator": "Groupement des Cercles Louvanistes",
+    "social_centre": "fraternity"
+  }
+},
+{
+  "type": "node",
+  "id": 4919145657,
+  "lat": 50.6682044,
+  "lon": 4.6184659,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Maison des Sciences",
+    "operator": "Maison des Sciences",
+    "short_name": "MdS",
+    "social_centre": "fraternity"
+  }
+},
+{
+  "type": "node",
+  "id": 4935674425,
+  "lat": 51.2337413,
+  "lon": 4.4034725,
+  "tags": {
+    "addr:city": "Antwerpen",
+    "addr:country": "BE",
+    "addr:housenumber": "4",
+    "addr:postcode": "2000",
+    "addr:street": "Rijnkaai",
+    "amenity": "nightclub",
+    "contact:facebook": "https://www.facebook.com/clubvaag",
+    "email": "info@clubvaag.com",
+    "name": "Club Vaag",
+    "website": "https://www.clubvaag.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 4935674428,
+  "lat": 51.2342695,
+  "lon": 4.4036460,
+  "tags": {
+    "addr:city": "Antwerpen",
+    "addr:country": "BE",
+    "addr:housenumber": "3",
+    "addr:postcode": "2000",
+    "addr:street": "Rijnkaai",
+    "alt_name": "Roxy Antwerp",
+    "amenity": "nightclub",
+    "contact:facebook": "https://www.facebook.com/pg/ROXY-ANTWERP-175724632506647",
+    "email": "info@roxy-antwerp.be",
+    "name": "Roxy",
+    "opening_hours": "Tu,Sa 23:00-06:00",
+    "phone": "+32 485 98 09 83",
+    "website": "http://www.roxy-antwerp.be/"
+  }
+},
+{
+  "type": "node",
+  "id": 4974099893,
+  "lat": 51.2402795,
+  "lon": 3.5252256,
+  "tags": {
+    "addr:city": "Sint-Laureins",
+    "addr:housenumber": "24",
+    "addr:postcode": "9980",
+    "addr:street": "Leemweg",
+    "amenity": "nightclub",
+    "email": "bestuuur@jeugdhuisopsenter.be",
+    "name": "Jeugdhuis Opsenter",
+    "opening_hours": "Fr 20:30-03:00",
+    "phone": "+32 498 16 19 37",
+    "smoking": "isolated",
+    "website": "http://www.jeugdhuisopsenter.be"
+  }
+},
+{
+  "type": "node",
+  "id": 5115659181,
+  "lat": 50.8374904,
+  "lon": 4.3575990,
+  "tags": {
+    "alt_name": "Le Birdy Brussel",
+    "amenity": "nightclub",
+    "check_date:opening_hours": "2025-10-31",
+    "contact:instagram": "birdy.brussels",
+    "contact:phone": "+32 2 503 00 07",
+    "contact:website": "https://www.birdybrussels.com/",
+    "live_music": "yes",
+    "name": "Birdy",
+    "opening_hours": "Sa,Su 00:00-06:00"
+  }
+},
+{
+  "type": "node",
+  "id": 5146193123,
+  "lat": 50.8452634,
+  "lon": 4.3532051,
+  "tags": {
+    "amenity": "nightclub",
+    "contact:mobile": "+32 496 30 70 86",
+    "name": "The UpClub"
+  }
+},
+{
+  "type": "node",
+  "id": 5184758851,
+  "lat": 51.2202878,
+  "lon": 4.3967295,
+  "tags": {
+    "addr:housenumber": "21",
+    "addr:street": "Ernest Van Dijckkaai",
+    "amenity": "nightclub",
+    "name": "El dorado"
+  }
+},
+{
+  "type": "node",
+  "id": 5184758852,
+  "lat": 51.2207569,
+  "lon": 4.3976105,
+  "tags": {
+    "addr:housenumber": "3",
+    "addr:street": "Grote Pieter Potstraat",
+    "amenity": "nightclub",
+    "name": "'t Nivo"
+  }
+},
+{
+  "type": "node",
+  "id": 5184758853,
+  "lat": 51.2207989,
+  "lon": 4.3975048,
+  "tags": {
+    "addr:housenumber": "8",
+    "addr:street": "Grote Pieter Potstraat",
+    "amenity": "nightclub",
+    "check_date": "2024-06-08",
+    "name": "Cuba Bella"
+  }
+},
+{
+  "type": "node",
+  "id": 5216234638,
+  "lat": 51.0565088,
+  "lon": 3.7203620,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2023-11-15",
+    "name": "Oude Vismijn Feestzalen"
+  }
+},
+{
+  "type": "node",
+  "id": 5239136158,
+  "lat": 50.6683446,
+  "lon": 4.6179719,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2025-08-04",
+    "name": "Lux",
+    "operator": "Société Royale Luxembourgeoise des Etudiants de l'UCL",
+    "social_centre": "fraternity"
+  }
+},
+{
+  "type": "node",
+  "id": 5249332222,
+  "lat": 51.0551416,
+  "lon": 3.7234272,
+  "tags": {
+    "amenity": "nightclub",
+    "changing_table": "no",
+    "entrance:kerb:height": "0.54",
+    "entrance:ramp": "no",
+    "entrance:step_count": "3",
+    "entrance:width": "1.04",
+    "name": "Club Central",
+    "toilets:wheelchair": "no",
+    "wheelchair:turning_circle": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5301463226,
+  "lat": 50.2236175,
+  "lon": 4.2844842,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "La Loco Discothèque"
+  }
+},
+{
+  "type": "node",
+  "id": 5306815408,
+  "lat": 50.8493038,
+  "lon": 4.3531244,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Bunker 98",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5419817924,
+  "lat": 51.2275268,
+  "lon": 4.4156837,
+  "tags": {
+    "addr:housenumber": "22",
+    "addr:street": "Van Aerdtstraat",
+    "amenity": "nightclub",
+    "description": "Gay cruise bar",
+    "ele": "0",
+    "fee": "yes",
+    "lgbtq": "primary",
+    "lgbtq:men": "only",
+    "min_age": "18",
+    "name": "The Boots",
+    "opening_hours": "Fr 22:30-04:00; Sa 22:30-05:00; Su 17:00-22:00",
+    "outdoor_seating": "no",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:visa": "yes",
+    "smoking": "isolated",
+    "website": "https://www.the-boots.com"
+  }
+},
+{
+  "type": "node",
+  "id": 5473046322,
+  "lat": 51.2115069,
+  "lon": 4.4218590,
+  "tags": {
+    "addr:city": "Antwerpen",
+    "addr:housenumber": "21",
+    "addr:street": "Simonsstraat",
+    "amenity": "nightclub",
+    "fetish:bdsm": "no",
+    "fetish:bdsm:conditional": "yes @ specific events",
+    "name": "Ampere Antwerpen",
+    "website": "https://ampere-antwerp.com"
+  }
+},
+{
+  "type": "node",
+  "id": 5978131955,
+  "lat": 50.8294781,
+  "lon": 4.3621198,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Le 144"
+  }
+},
+{
+  "type": "node",
+  "id": 6039999301,
+  "lat": 50.7454525,
+  "lon": 3.6083356,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Enfin",
+    "website": "https://clubenfin.be/"
+  }
+},
+{
+  "type": "node",
+  "id": 6188059482,
+  "lat": 51.2211044,
+  "lon": 4.4006374,
+  "tags": {
+    "amenity": "nightclub",
+    "changing_table": "no",
+    "changing_table:adult": "no",
+    "entrance:kerb:height": "0.02",
+    "entrance:step_count": "1",
+    "entrance:width": "1.3",
+    "level": "0",
+    "name": "Club 40 Antwerp",
+    "ramp:wheelchair": "no",
+    "wheelchair:turning_circle": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6254463049,
+  "lat": 50.8448662,
+  "lon": 4.3540333,
+  "tags": {
+    "amenity": "nightclub",
+    "contact:instagram": "https://www.instagram.com/dyoukesclub",
+    "live_music": "yes",
+    "name": "Le You",
+    "opening_hours": "Sa 22:00+",
+    "start_date": "2024-09",
+    "was:name": "Volt"
+  }
+},
+{
+  "type": "node",
+  "id": 6603901032,
+  "lat": 51.0339440,
+  "lon": 3.7579115,
+  "tags": {
+    "amenity": "nightclub",
+    "mapillary": "956912685112113",
+    "name": "Hells Angels Mc Ghent",
+    "website": "https://www.hellsangels.be/"
+  }
+},
+{
+  "type": "node",
+  "id": 6651343713,
+  "lat": 50.6011879,
+  "lon": 3.4374958,
+  "tags": {
+    "addr:housenumber": "238",
+    "addr:street": "Chaussée de Bruxelles",
+    "amenity": "nightclub",
+    "name": "Le Come-Back"
+  }
+},
+{
+  "type": "node",
+  "id": 6651435022,
+  "lat": 50.6078177,
+  "lon": 3.2721856,
+  "tags": {
+    "addr:housenumber": "952",
+    "addr:street": "Chaussée de Lille",
+    "amenity": "nightclub",
+    "name": "L'Etrier"
+  }
+},
+{
+  "type": "node",
+  "id": 6979368822,
+  "lat": 51.1324836,
+  "lon": 2.6722958,
+  "tags": {
+    "addr:city": "Koksijde",
+    "addr:country": "BE",
+    "addr:housenumber": "71",
+    "addr:postcode": "8670",
+    "addr:street": "Albert I Laan",
+    "addr:suburb": "Oostduinkerke",
+    "amenity": "nightclub",
+    "name": "The Possé"
+  }
+},
+{
+  "type": "node",
+  "id": 7746502756,
+  "lat": 51.0974319,
+  "lon": 4.9448533,
+  "tags": {
+    "addr:city": "Geel",
+    "addr:housenumber": "150",
+    "addr:postcode": "2440",
+    "addr:street": "Grotesteenweg",
+    "amenity": "nightclub",
+    "name": "Tipsy's",
+    "opening_hours:covid19": "closed",
+    "operator": "Dega BVBA",
+    "smoking": "outside"
+  }
+},
+{
+  "type": "node",
+  "id": 7771946487,
+  "lat": 51.0543718,
+  "lon": 3.7311722,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Club 69",
+    "website": "https://www.club-69.be/"
+  }
+},
+{
+  "type": "node",
+  "id": 8108495402,
+  "lat": 50.4323458,
+  "lon": 3.8048034,
+  "tags": {
+    "addr:city": "Boussu",
+    "addr:housenumber": "487",
+    "addr:postcode": "7300",
+    "addr:street": "Rue de Valenciennes",
+    "amenity": "nightclub",
+    "min_age": "18",
+    "name": "B-Bar",
+    "opening_hours": "Fr-Sa 21:00-01:00",
+    "opening_hours:covid19": "closed",
+    "smoking": "outside"
+  }
+},
+{
+  "type": "node",
+  "id": 8238740497,
+  "lat": 51.3147953,
+  "lon": 3.1252363,
+  "tags": {
+    "amenity": "nightclub",
+    "level": "0",
+    "loc_name": "De Cirque",
+    "name": "Circosia",
+    "smoking": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 8461388864,
+  "lat": 50.6705823,
+  "lon": 4.6090864,
+  "tags": {
+    "alt_name": "Philo et Lettres",
+    "amenity": "nightclub",
+    "name": "Cercle FLTR",
+    "operator": "Cercle de Philo et Lettres",
+    "social_centre": "fraternity"
+  }
+},
+{
+  "type": "node",
+  "id": 8592691472,
+  "lat": 50.3578209,
+  "lon": 6.3346866,
+  "tags": {
+    "addr:city": "Lanzerath",
+    "addr:housenumber": "94",
+    "addr:postcode": "4760",
+    "addr:street": "Lanzerath",
+    "amenity": "nightclub",
+    "contact:facebook": "https://www.facebook.com/disco.calypso/",
+    "name": "Calypso"
+  }
+},
+{
+  "type": "node",
+  "id": 8675702412,
+  "lat": 50.8504779,
+  "lon": 4.4533930,
+  "tags": {
+    "alt_name": "Royal Cercle Médical Saint-Luc",
+    "amenity": "nightclub",
+    "contact:website": "https://www.cerclememe.be/accueil",
+    "fraternity:network": "Cercles étudiants de l'UCLouvain",
+    "level": "0;1",
+    "name": "Cercle Mémé",
+    "short_name": "Mémé",
+    "social_centre": "fraternity",
+    "wikipedia": "fr:Cercles étudiants de l'UCLouvain"
+  }
+},
+{
+  "type": "node",
+  "id": 8675702413,
+  "lat": 50.8506541,
+  "lon": 4.4528368,
+  "tags": {
+    "amenity": "nightclub",
+    "fraternity:network": "Cercles étudiants de l'UCLouvain",
+    "level": "-1",
+    "name": "Cercle Pharma",
+    "short_name": "Pharma",
+    "social_centre": "fraternity",
+    "wikipedia": "fr:Cercles étudiants de l'UCLouvain"
+  }
+},
+{
+  "type": "node",
+  "id": 8692882105,
+  "lat": 50.8505506,
+  "lon": 4.4527922,
+  "tags": {
+    "amenity": "nightclub",
+    "fraternity:network": "Cercles étudiants de l'UCLouvain",
+    "level": "-1",
+    "name": "Cercle Spix",
+    "short_name": "Spix",
+    "social_centre": "fraternity",
+    "wikipedia": "fr:Cercles étudiants de l'UCLouvain"
+  }
+},
+{
+  "type": "node",
+  "id": 9648456257,
+  "lat": 51.3528209,
+  "lon": 3.2881971,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Scoop"
+  }
+},
+{
+  "type": "node",
+  "id": 9654650708,
+  "lat": 50.8301917,
+  "lon": 4.3585937,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2025-09-29",
+    "name": "L'Interdit"
+  }
+},
+{
+  "type": "node",
+  "id": 9762478271,
+  "lat": 50.8345531,
+  "lon": 4.3568015,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date:opening_hours": "2025-10-31",
+    "contact:instagram": "bloodylouisgram",
+    "contact:mobile": "+32 474 40 56 82",
+    "contact:website": "https://www.bloodylouis.be/",
+    "live_music": "yes",
+    "name": "Bloody Louis",
+    "opening_hours:signed": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 9804685396,
+  "lat": 50.9230965,
+  "lon": 3.2118865,
+  "tags": {
+    "addr:city": "Izegem",
+    "addr:housenumber": "22",
+    "addr:postcode": "8870",
+    "addr:street": "Zuidkaai",
+    "amenity": "nightclub",
+    "min_age": "18",
+    "name": "Di Borgia",
+    "smoking": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 9966853080,
+  "lat": 50.9833078,
+  "lon": 4.0544593,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Jome"
+  }
+},
+{
+  "type": "node",
+  "id": 10049929027,
+  "lat": 51.0681519,
+  "lon": 3.7226254,
+  "tags": {
+    "amenity": "nightclub",
+    "contact:facebook": "https://www.facebook.com/kompassklub",
+    "contact:instagram": "https://www.instagram.com/kompassklub/",
+    "email": "info@kompassklub.com",
+    "name": "Kompass Klub",
+    "website": "https://kompassklub.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 10097925217,
+  "lat": 50.8841042,
+  "lon": 4.7133788,
+  "tags": {
+    "addr:housenumber": "15",
+    "addr:postcode": "3000",
+    "addr:street": "Diestsepoort",
+    "amenity": "nightclub",
+    "name": "Stelplaats",
+    "website": "https://stelplaats.be/"
+  }
+},
+{
+  "type": "node",
+  "id": 10295323314,
+  "lat": 50.8460786,
+  "lon": 4.3560967,
+  "tags": {
+    "amenity": "nightclub",
+    "changing_table": "no",
+    "check_date:opening_hours": "2025-10-29",
+    "contact:email": "c12brussels@gmail.com",
+    "contact:website": "https://c12space.com/",
+    "entrance:kerb:height": "0",
+    "entrance:step_count": "0",
+    "entrance:width": "1.24",
+    "min_age": "21",
+    "name": "C12",
+    "opening_hours:signed": "no",
+    "operator": "Deep in House",
+    "toilets:wheelchair": "yes",
+    "toilets:wheelchair:accessible_via": "ground floor",
+    "toilets:wheelchair:door_width": "0.93",
+    "wheelchair:turning_circle": "yes",
+    "wikidata": "Q121298080"
+  }
+},
+{
+  "type": "node",
+  "id": 10300102653,
+  "lat": 50.8486892,
+  "lon": 4.3537477,
+  "tags": {
+    "alt_name": "La Clave Latino’s Club",
+    "amenity": "nightclub",
+    "name": "La Clave"
+  }
+},
+{
+  "type": "node",
+  "id": 10621845989,
+  "lat": 50.8098853,
+  "lon": 4.3164602,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Mani"
+  }
+},
+{
+  "type": "node",
+  "id": 10751769210,
+  "lat": 50.6669089,
+  "lon": 4.6103461,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2026-08-04",
+    "name": "Chez Adèle",
+    "operator": "Cercle de Droit UCL",
+    "short_name": "Adèle",
+    "social_centre": "fraternity"
+  }
+},
+{
+  "type": "node",
+  "id": 10751769211,
+  "lat": 50.6675016,
+  "lon": 4.6112733,
+  "tags": {
+    "addr:postcode": "1348",
+    "amenity": "nightclub",
+    "check_date": "2026-08-18",
+    "contact:facebook": "cercle.cesec",
+    "contact:instagram": "cerclecesec",
+    "email": "president@cesec.be",
+    "name": "CESEC",
+    "operator": "Cercle des Étudiants en Sciences Économiques, Sociales, Politiques et de Communication",
+    "social_centre": "fraternity",
+    "website": "https://cesec.be"
+  }
+},
+{
+  "type": "node",
+  "id": 10751769214,
+  "lat": 50.6677815,
+  "lon": 4.6191040,
+  "tags": {
+    "alt_name": "Petite Casa",
+    "amenity": "nightclub",
+    "contact:facebook": "https://www.facebook.com/CoqHardyLLN/",
+    "name": "Coq Hardy",
+    "operator": "Fédération Wallonne des Régionales de l'UCL",
+    "social_centre": "fraternity"
+  }
+},
+{
+  "type": "node",
+  "id": 10751769215,
+  "lat": 50.6677792,
+  "lon": 4.6192221,
+  "tags": {
+    "alt_name": "Carolo",
+    "amenity": "nightclub",
+    "name": "Cercle Carolo",
+    "operator": "Société Royale des Etudiants Carolorégiens de Louvain-la-Neuve",
+    "social_centre": "fraternity"
+  }
+},
+{
+  "type": "node",
+  "id": 10751769220,
+  "lat": 50.6713834,
+  "lon": 4.6109139,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Grand-Ducale",
+    "operator": "D’Letzebuerger zu Léiwen",
+    "social_centre": "fraternity"
+  }
+},
+{
+  "type": "node",
+  "id": 10751769221,
+  "lat": 50.6708519,
+  "lon": 4.6095071,
+  "tags": {
+    "alt_name": "Psycho",
+    "amenity": "nightclub",
+    "name": "Cercle Psycho",
+    "operator": "Cercle de psychologie et des sciences de l'éducation",
+    "social_centre": "fraternity",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11101408653,
+  "lat": 50.4671665,
+  "lon": 4.1972789,
+  "tags": {
+    "addr:city": "La Louvière",
+    "addr:housenumber": "2",
+    "addr:postcode": "7100",
+    "addr:street": "Rue Léopold",
+    "amenity": "nightclub",
+    "contact:facebook": "https://www.facebook.com/VanityClubLounge7100",
+    "name": "Vanity Club Lounge"
+  }
+},
+{
+  "type": "node",
+  "id": 11124053705,
+  "lat": 51.2208617,
+  "lon": 4.4014902,
+  "tags": {
+    "addr:housenumber": "8",
+    "addr:street": "Torfbrug",
+    "amenity": "nightclub",
+    "check_date": "2024-03-05",
+    "name": "Marmite"
+  }
+},
+{
+  "type": "node",
+  "id": 11215795834,
+  "lat": 50.5017460,
+  "lon": 4.7122835,
+  "tags": {
+    "amenity": "nightclub",
+    "email": "info@cocogrill.be",
+    "name": "Le Rétro",
+    "opening_hours": "Sa 21:00-04:00; Su 18:00-23:59",
+    "phone": "+32 81 43 33 43",
+    "website": "http://www.cocogrill.be/"
+  }
+},
+{
+  "type": "node",
+  "id": 11302383342,
+  "lat": 50.8459284,
+  "lon": 4.3531277,
+  "tags": {
+    "amenity": "nightclub",
+    "contact:instagram": "https://www.instagram.com/umibrussels/",
+    "contact:website": "https://umibrussels.art/",
+    "fee": "yes",
+    "min_age": "21",
+    "name": "UMI",
+    "start_date": "2023-10-20",
+    "wikidata": "Q123256011"
+  }
+},
+{
+  "type": "node",
+  "id": 11513913840,
+  "lat": 50.8520853,
+  "lon": 4.3860905,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "After Room"
+  }
+},
+{
+  "type": "node",
+  "id": 11710936148,
+  "lat": 50.4579345,
+  "lon": 6.1961048,
+  "tags": {
+    "addr:city": "Butgenbach",
+    "addr:housenumber": "20",
+    "addr:postcode": "4750",
+    "addr:street": "Zosterbach",
+    "amenity": "nightclub",
+    "name": "Twilight Cafe",
+    "website": "https://twilightcafe.be/about"
+  }
+},
+{
+  "type": "node",
+  "id": 11734945055,
+  "lat": 50.8376007,
+  "lon": 4.3484965,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Bazaar"
+  }
+},
+{
+  "type": "node",
+  "id": 11816542728,
+  "lat": 50.8411363,
+  "lon": 4.3504309,
+  "tags": {
+    "amenity": "nightclub",
+    "contact:website": "https://www.barrio-brussels.be/",
+    "name": "Barrio",
+    "start_date": "2018"
+  }
+},
+{
+  "type": "node",
+  "id": 11953289450,
+  "lat": 50.8161494,
+  "lon": 4.3060075,
+  "tags": {
+    "amenity": "nightclub",
+    "contact:website": "https://blubruxelles.com/",
+    "name": "Blu Bruxelles"
+  }
+},
+{
+  "type": "node",
+  "id": 12140099647,
+  "lat": 50.8353591,
+  "lon": 4.3447628,
+  "tags": {
+    "amenity": "nightclub",
+    "contact:email": "info@fuse.be",
+    "contact:facebook": "fusebrussels",
+    "contact:instagram": "fusebrussels",
+    "contact:website": "https://fuse.be/",
+    "fee": "yes",
+    "live_music": "yes",
+    "name": "Fuse",
+    "operator": "THICO",
+    "operator:wikidata": "Q130525932",
+    "start_date": "1994-04-16",
+    "wikidata": "Q3091103",
+    "wikimedia_commons": "Category:Fuse"
+  }
+},
+{
+  "type": "node",
+  "id": 12205677601,
+  "lat": 50.8782796,
+  "lon": 4.7021300,
+  "tags": {
+    "amenity": "nightclub",
+    "contact:email": "dulci@ekonomika.be",
+    "contact:facebook": "https://www.facebook.com/fakbardulci",
+    "contact:instagram": "https://www.instagram.com/fakbardulci",
+    "contact:mobile": "+32 483 14 10 99",
+    "contact:website": "https://dulci.be",
+    "min_age": "18",
+    "name": "Dulci",
+    "operator": "Ekonomika"
+  }
+},
+{
+  "type": "node",
+  "id": 12236296291,
+  "lat": 50.9469274,
+  "lon": 3.2468879,
+  "tags": {
+    "amenity": "nightclub",
+    "contact:facebook": "https://www.facebook.com/people/BarLinni/61558540290355",
+    "name": "Bar Linni"
+  }
+},
+{
+  "type": "node",
+  "id": 12551469672,
+  "lat": 50.8413735,
+  "lon": 4.3558813,
+  "tags": {
+    "amenity": "nightclub",
+    "contact:facebook": "https://www.facebook.com/Society.BoilerClub/",
+    "name": "Society Boiler Club",
+    "opening_hours": "Fr,Sa 22:00-04:00",
+    "start_date": "2024-12"
+  }
+},
+{
+  "type": "node",
+  "id": 12567509075,
+  "lat": 50.8790219,
+  "lon": 4.3465701,
+  "tags": {
+    "amenity": "nightclub",
+    "contact:facebook": "https://www.facebook.com/people/Rotana-CLUB/100063523361656/",
+    "contact:mobile": "+32 485 75 62 24",
+    "name": "Rotana Club",
+    "opening_hours": "Fr-Su 23:30-07:00"
+  }
+},
+{
+  "type": "node",
+  "id": 12688225925,
+  "lat": 51.0397051,
+  "lon": 3.7255353,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Decadance"
+  }
+},
+{
+  "type": "node",
+  "id": 12706712278,
+  "lat": 50.6048733,
+  "lon": 3.3961146,
+  "tags": {
+    "addr:city": "Tournai",
+    "addr:housenumber": "3c",
+    "addr:postcode": "7500",
+    "addr:street": "Quai Taille-Pierres",
+    "amenity": "nightclub",
+    "name": "D'Olierave"
+  }
+},
+{
+  "type": "node",
+  "id": 12843562780,
+  "lat": 51.0534915,
+  "lon": 3.7215430,
+  "tags": {
+    "addr:housenumber": "2",
+    "addr:street": "schuurkenstraat",
+    "amenity": "nightclub",
+    "email": "info@clubsauvage.be",
+    "entrance:kerb:height": "0.06",
+    "entrance:step_count": "1",
+    "entrance:width": "0.85",
+    "name": "Club Sauvage",
+    "opening_hours": "Fr 22:30-00:00; Sa 00:00-04:30, 22:30-00:00; Su 00:00-04:30",
+    "website": "https://www.clubsauvage.be/"
+  }
+},
+{
+  "type": "node",
+  "id": 12862491100,
+  "lat": 50.8157247,
+  "lon": 4.4264576,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Cactus Club"
+  }
+},
+{
+  "type": "node",
+  "id": 12895325282,
+  "lat": 50.8491636,
+  "lon": 4.3711243,
+  "tags": {
+    "alt_name": "Chez Jonny",
+    "amenity": "nightclub",
+    "name": "Claridge"
+  }
+},
+{
+  "type": "node",
+  "id": 13318891122,
+  "lat": 50.2470119,
+  "lon": 5.3366602,
+  "tags": {
+    "addr:city": "Marche-en-Famenne",
+    "addr:housenumber": "1",
+    "addr:postcode": "6900",
+    "addr:street": "Rue des Deux Provinces",
+    "amenity": "nightclub",
+    "email": "info@metropolis.be",
+    "name": "Metropolis",
+    "opening_hours": "Mo-Su 21:00-04:00",
+    "phone": "+32 84 44 59 00",
+    "website": "http://www.metropolis.be/"
+  }
+},
+{
+  "type": "node",
+  "id": 13379157567,
+  "lat": 50.8368719,
+  "lon": 4.3655346,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Le Grand Mambo"
+  }
+},
+{
+  "type": "node",
+  "id": 13527843601,
+  "lat": 50.8279815,
+  "lon": 4.3297760,
+  "tags": {
+    "amenity": "nightclub",
+    "contact:instagram": "b21_brussels",
+    "name": "B21"
+  }
+},
+{
+  "type": "node",
+  "id": 13744451904,
+  "lat": 50.9376304,
+  "lon": 4.0400711,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Comme ça"
+  }
+},
+{
+  "type": "node",
+  "id": 14074593859,
+  "lat": 50.8750562,
+  "lon": 4.3639757,
+  "tags": {
+    "access": "no",
+    "amenity": "nightclub",
+    "name": "LIFT",
+    "opening_hours": "closed"
+  }
+},
+{
+  "type": "way",
+  "id": 31364129,
+  "center": {
+    "lat": 50.8174729,
+    "lon": 4.3980108
+  },
+  "tags": {
+    "addr:street": "du Triomphe, Université libre de Bruxelles Campus de la Plaine Boulevard, Accès 2, 1050 Ixelles",
+    "alt_name": "ULB Plaine bâtiment J P.J",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "ULB Plaine - Bâtiment J - Salle Jefke Zaal Jefke",
+    "opening_hours": "Mo-Th 22:00-03:00",
+    "operator": "Université Libre de Bruxelles",
+    "ref:UrbIS": "5079233",
+    "short_name": "La Jefke",
+    "smoking": "outside",
+    "website": "http://ulb.be"
+  }
+},
+{
+  "type": "way",
+  "id": 36506610,
+  "center": {
+    "lat": 50.8115869,
+    "lon": 4.3731712
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "check_date:opening_hours": "2024-05-07",
+    "contact:instagram": "jeuxdhiver",
+    "live_music": "yes",
+    "name": "Les Jeux d'Hiver",
+    "opening_hours:signed": "no",
+    "ref:UrbIS": "8594998"
+  }
+},
+{
+  "type": "way",
+  "id": 42793222,
+  "center": {
+    "lat": 50.7879165,
+    "lon": 5.3900284
+  },
+  "tags": {
+    "addr:city": "Borgloon",
+    "addr:housenumber": "338",
+    "addr:postcode": "3840",
+    "addr:street": "Tongersesteenweg",
+    "amenity": "nightclub",
+    "building": "yes",
+    "contact:facebook": "MacQueenBelgie",
+    "name": "Mac Queen",
+    "phone": "+32 475 68 24 24",
+    "source:geometry:date": "2013-04-15",
+    "source:geometry:ref": "Gbg/4054110",
+    "website": "https://www.macqueen.be"
+  }
+},
+{
+  "type": "way",
+  "id": 54148154,
+  "center": {
+    "lat": 51.1080451,
+    "lon": 4.4512787
+  },
+  "tags": {
+    "addr:housenumber": "39",
+    "addr:street": "Grote Steenweg",
+    "amenity": "nightclub",
+    "building": "commercial",
+    "name": "Copacabana",
+    "source:geometry:date": "2008-12-19",
+    "source:geometry:ref": "Gbg/939027"
+  }
+},
+{
+  "type": "way",
+  "id": 80044990,
+  "center": {
+    "lat": 51.1005577,
+    "lon": 5.3747288
+  },
+  "tags": {
+    "addr:city": "Hechtel-Eksel",
+    "addr:housenumber": "179",
+    "addr:postcode": "3940",
+    "addr:street": "Hasseltsebaan",
+    "amenity": "nightclub",
+    "building": "yes",
+    "email": "info@club-xendo.be",
+    "name": "Club Xendo",
+    "website": "https://club-xendo.be/"
+  }
+},
+{
+  "type": "way",
+  "id": 87950165,
+  "center": {
+    "lat": 50.9430610,
+    "lon": 3.1332122
+  },
+  "tags": {
+    "addr:housenumber": "59",
+    "addr:street": "Veldstraat",
+    "amenity": "nightclub",
+    "building": "yes",
+    "email": "info@fabriekspand.be",
+    "name": "Fabriekspand",
+    "phone": "+32 51 20 08 88",
+    "website": "https://www.fabriekspand.be/"
+  }
+},
+{
+  "type": "way",
+  "id": 96986493,
+  "center": {
+    "lat": 50.9421910,
+    "lon": 4.9031551
+  },
+  "tags": {
+    "addr:city": "Tielt-Winge",
+    "addr:housenumber": "31",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Cosmo"
+  }
+},
+{
+  "type": "way",
+  "id": 98723671,
+  "center": {
+    "lat": 50.9673569,
+    "lon": 4.1866076
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "description": "het oudste jeugdhuis van Belgie, meerde malen uitgeroepen tot beste jeugdhuis van Europa.",
+    "name": "Nijdrop"
+  }
+},
+{
+  "type": "way",
+  "id": 108511689,
+  "center": {
+    "lat": 50.4782735,
+    "lon": 4.8034294
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Flagrant Delire"
+  }
+},
+{
+  "type": "way",
+  "id": 108511690,
+  "center": {
+    "lat": 50.4781583,
+    "lon": 4.8028325
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Cap30"
+  }
+},
+{
+  "type": "way",
+  "id": 118702039,
+  "center": {
+    "lat": 50.8791918,
+    "lon": 4.5102594
+  },
+  "tags": {
+    "addr:housenumber": "701",
+    "addr:street": "Leuvensesteenweg",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Club Lautrec"
+  }
+},
+{
+  "type": "way",
+  "id": 148857933,
+  "center": {
+    "lat": 50.6741780,
+    "lon": 5.9147948
+  },
+  "tags": {
+    "addr:housenumber": "51",
+    "addr:street": "Chaussée de Liège",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Acte 6"
+  }
+},
+{
+  "type": "way",
+  "id": 160529775,
+  "center": {
+    "lat": 50.9888134,
+    "lon": 5.0416812
+  },
+  "tags": {
+    "addr:city": "Diest",
+    "addr:housenumber": "18",
+    "addr:postcode": "3290",
+    "addr:street": "Nijverheidslaan",
+    "amenity": "nightclub",
+    "building": "yes",
+    "email": "info@dancehall-diest.be",
+    "name": "Dancehall Diest",
+    "website": "https://www.dancehall-diest.be/"
+  }
+},
+{
+  "type": "way",
+  "id": 166058652,
+  "center": {
+    "lat": 50.4132422,
+    "lon": 4.4048065
+  },
+  "tags": {
+    "addr:city": "Marchienne-au-Pont",
+    "addr:housenumber": "136",
+    "addr:postcode": "6030",
+    "addr:street": "Rue de la Providence",
+    "amenity": "nightclub",
+    "building": "industrial",
+    "historic": "industrial",
+    "name": "Le Rockerill",
+    "source:geometry:date": "20160609170515",
+    "source:geometry:ref": "Picc/1900417",
+    "theatre:type": "concert_hall",
+    "website": "https://www.rockerill.com/"
+  }
+},
+{
+  "type": "way",
+  "id": 166513346,
+  "center": {
+    "lat": 49.6381788,
+    "lon": 5.8158331
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Kress Club"
+  }
+},
+{
+  "type": "way",
+  "id": 182836198,
+  "center": {
+    "lat": 51.2003356,
+    "lon": 4.9008610
+  },
+  "tags": {
+    "addr:housenumber": "40",
+    "addr:street": "Olensteenweg",
+    "amenity": "nightclub",
+    "building": "yes",
+    "email": "Info@cobra-deluxe.be",
+    "name": "Cobra-deluxe",
+    "phone": "+32 475 25 00 09",
+    "smoking": "no",
+    "website": "https://www.cobra-deluxe.be/"
+  }
+},
+{
+  "type": "way",
+  "id": 224783023,
+  "center": {
+    "lat": 51.0814135,
+    "lon": 4.3677245
+  },
+  "tags": {
+    "addr:housenumber": "2",
+    "addr:street": "Oostvaartdijk",
+    "amenity": "nightclub",
+    "building": "house",
+    "name": "Het Veerhuis",
+    "source": "AGIV"
+  }
+},
+{
+  "type": "way",
+  "id": 232211932,
+  "center": {
+    "lat": 50.9877394,
+    "lon": 5.2540952
+  },
+  "tags": {
+    "addr:city": "Heusden-Zolder",
+    "addr:country": "BE",
+    "addr:housenumber": "149",
+    "addr:postcode": "3550",
+    "addr:state": "Limburg",
+    "addr:street": "Sterrenwacht",
+    "amenity": "nightclub",
+    "building": "commercial",
+    "name": "Dancing Grand prix"
+  }
+},
+{
+  "type": "way",
+  "id": 237920336,
+  "center": {
+    "lat": 50.9805298,
+    "lon": 5.0969324
+  },
+  "tags": {
+    "addr:city": "Zelem",
+    "addr:housenumber": "9",
+    "addr:postcode": "3545",
+    "addr:street": "Van Zurpeledijk",
+    "amenity": "nightclub",
+    "building": "yes",
+    "email": "info@dancingastrid.be",
+    "leisure": "dance",
+    "name": "Dancing Astrid",
+    "opening_hours": "Sa 19:30+; Su 14:00-23:00",
+    "phone": "+32 13 31 25 64",
+    "website": "https://www.dancingastrid.be/"
+  }
+},
+{
+  "type": "way",
+  "id": 243559866,
+  "center": {
+    "lat": 50.8514909,
+    "lon": 4.3489671
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "contact:instagram": "madamemoustachebrussels",
+    "contact:website": "https://www.madamemoustache.be/",
+    "name": "Madame Moustache",
+    "opening_hours": "Mo off; Tu-Sa 20:00-04:00; Su off",
+    "smoking": "isolated",
+    "wikidata": "Q42416762",
+    "wikimedia_commons": "Category:Madame Moustache (Brussels)"
+  }
+},
+{
+  "type": "way",
+  "id": 244729650,
+  "center": {
+    "lat": 50.4770941,
+    "lon": 4.4413115
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "public",
+    "name": "D-Clic",
+    "source:geometry:date": "20170612173914",
+    "source:geometry:ref": "Picc/533659"
+  }
+},
+{
+  "type": "way",
+  "id": 246426421,
+  "center": {
+    "lat": 50.9776111,
+    "lon": 4.9470085
+  },
+  "tags": {
+    "addr:city": "Scherpenheuvel",
+    "addr:housenumber": "2",
+    "addr:postcode": "3271",
+    "addr:street": "Koestraat",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Discotheek De Kroon",
+    "phone": "+32 13 77 30 14",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 263099421,
+  "center": {
+    "lat": 51.3249471,
+    "lon": 4.9428791
+  },
+  "tags": {
+    "addr:housenumber": "6",
+    "addr:street": "Wezenstraat",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Futur",
+    "website": "https://www.futur.be",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 272526938,
+  "center": {
+    "lat": 50.2823031,
+    "lon": 4.2186750
+  },
+  "tags": {
+    "addr:city": "Fontaine-Valmont",
+    "addr:housenumber": "3",
+    "addr:postcode": "6567",
+    "addr:street": "Rue Fonds de Nos Bois",
+    "amenity": "nightclub",
+    "building": "house",
+    "name": "Only 4 You",
+    "source:geometry:date": "2016-07-15"
+  }
+},
+{
+  "type": "way",
+  "id": 301522118,
+  "center": {
+    "lat": 50.8834340,
+    "lon": 3.8287142
+  },
+  "tags": {
+    "addr:housenumber": "4",
+    "addr:street": "Ter Kameren",
+    "amenity": "nightclub",
+    "building": "yes",
+    "contact:facebook": "https://www.facebook.com/sottoszottegem/",
+    "contact:instagram": "https://www.instagram.com/sottos.co/",
+    "name": "Sotto's",
+    "source:geometry:date": "2014-12-15",
+    "source:geometry:ref": "Gbg/4933575"
+  }
+},
+{
+  "type": "way",
+  "id": 307130624,
+  "center": {
+    "lat": 50.7013903,
+    "lon": 6.0860946
+  },
+  "tags": {
+    "addr:city": "Raeren",
+    "addr:housenumber": "94",
+    "addr:postcode": "4731",
+    "addr:street": "Aachener Straße",
+    "amenity": "nightclub",
+    "building": "yes",
+    "description": "Tauchen Sie in das Konzept vom Quinta-Club ein.  Zwei Räume: einen Raum für angesagte \"Musik & Dance\" bei der großen Bühne, ein anderer für entspannte Momente bei einem guten Glas in unserer \"Lounge\". Super Bar und Bedienung an den Tischen.",
+    "name": "Quinta-Club",
+    "operator": "Joël Pelzer aus Sippenaeken und Jordan Hennen  aus Kelmis",
+    "phone": "+32 472 91 85 18",
+    "source": "https://ostbelgiendirekt.be/quinta-eynatten-109352",
+    "website": "http://www.quinta-club.com/"
+  }
+},
+{
+  "type": "way",
+  "id": 336145500,
+  "center": {
+    "lat": 50.8454928,
+    "lon": 5.2008791
+  },
+  "tags": {
+    "addr:housenumber": "25",
+    "addr:street": "Bornedries",
+    "amenity": "nightclub",
+    "building": "commercial",
+    "name": "Hoeve Bornedries Parenclub",
+    "source:geometry:date": "2016-09-16",
+    "source:geometry:ref": "Gbg/5686958"
+  }
+},
+{
+  "type": "way",
+  "id": 342268369,
+  "center": {
+    "lat": 51.0705884,
+    "lon": 4.5310094
+  },
+  "tags": {
+    "addr:housenumber": "8",
+    "addr:street": "Stationsstraat",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Rio"
+  }
+},
+{
+  "type": "way",
+  "id": 346473016,
+  "center": {
+    "lat": 51.0289054,
+    "lon": 4.3250547
+  },
+  "tags": {
+    "addr:city": "Willebroek",
+    "addr:housenumber": "2",
+    "addr:postcode": "2830",
+    "addr:street": "Koning Leopoldlaan",
+    "amenity": "nightclub",
+    "building": "yes",
+    "min_age": "17",
+    "name": "Carré",
+    "website": "https://www.carre.be/",
+    "wikidata": "Q2740503",
+    "wikipedia": "nl:Carré (discotheek)"
+  }
+},
+{
+  "type": "way",
+  "id": 346473773,
+  "center": {
+    "lat": 51.1269807,
+    "lon": 3.6077356
+  },
+  "tags": {
+    "addr:city": "Lievegem",
+    "addr:housenumber": "271",
+    "addr:postcode": "9930",
+    "addr:street": "Grote Baan",
+    "amenity": "nightclub",
+    "building": "yes",
+    "min_age": "16",
+    "name": "Kokorico",
+    "smoking": "outside",
+    "source:geometry:date": "2012-04-13",
+    "source:geometry:ref": "Gbg/3284130",
+    "website": "https://www.kokorico.be/"
+  }
+},
+{
+  "type": "way",
+  "id": 360080751,
+  "center": {
+    "lat": 50.7853536,
+    "lon": 5.5957066
+  },
+  "tags": {
+    "addr:housenumber": "64",
+    "addr:street": "Grote Straat",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Discotheek t Raedtshof",
+    "source:geometry:date": "2016-03-18",
+    "source:geometry:ref": "Gbg/3206432"
+  }
+},
+{
+  "type": "way",
+  "id": 366485443,
+  "center": {
+    "lat": 51.4499049,
+    "lon": 4.7308459
+  },
+  "tags": {
+    "addr:city": "Meer",
+    "addr:housenumber": "26",
+    "addr:postcode": "2321",
+    "addr:street": "John Lijsenstraat",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Club Amai",
+    "website": "https://www.clubamai.be"
+  }
+},
+{
+  "type": "way",
+  "id": 366632180,
+  "center": {
+    "lat": 51.4434640,
+    "lon": 4.7378685
+  },
+  "tags": {
+    "addr:city": "Meer",
+    "addr:housenumber": "13",
+    "addr:postcode": "2321",
+    "addr:street": "Meerdorp",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "'t Fortuin",
+    "phone": "+32 3 315 71 53",
+    "website": "https://www.hetfortuin.be"
+  }
+},
+{
+  "type": "way",
+  "id": 383179596,
+  "center": {
+    "lat": 51.2968858,
+    "lon": 4.6901336
+  },
+  "tags": {
+    "addr:city": "Westmalle",
+    "addr:housenumber": "297",
+    "addr:postcode": "2390",
+    "addr:street": "Antwerpsesteenweg",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "The missing link",
+    "website": "http://www.themissinglinkmalle.be/"
+  }
+},
+{
+  "type": "way",
+  "id": 383179642,
+  "center": {
+    "lat": 51.2970971,
+    "lon": 4.6862573
+  },
+  "tags": {
+    "addr:city": "Westmalle",
+    "addr:housenumber": "341",
+    "addr:postcode": "2390",
+    "addr:street": "Antwerpsesteenweg",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "The Legend"
+  }
+},
+{
+  "type": "way",
+  "id": 383953168,
+  "center": {
+    "lat": 51.1763646,
+    "lon": 4.7726312
+  },
+  "tags": {
+    "addr:housenumber": "60",
+    "addr:street": "Herentalse steenweg",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "De Chardon"
+  }
+},
+{
+  "type": "way",
+  "id": 508616643,
+  "center": {
+    "lat": 51.2170623,
+    "lon": 4.4447637
+  },
+  "tags": {
+    "addr:housename": "Casa Carmen",
+    "addr:housenumber": "32",
+    "addr:street": "Zendelingenstraat",
+    "amenity": "nightclub",
+    "building": "yes",
+    "internet_access": "no",
+    "name": "Casa 32",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 555192106,
+  "center": {
+    "lat": 51.0560720,
+    "lon": 5.3809160
+  },
+  "tags": {
+    "addr:city": "Houthalen-Helchteren",
+    "addr:country": "BE",
+    "addr:housenumber": "11",
+    "addr:postcode": "3530",
+    "addr:street": "Helzoldstraat",
+    "amenity": "nightclub",
+    "building": "yes",
+    "email": "info@club-mabuhay.com",
+    "name": "Mabuhay Privaat Club",
+    "opening_hours": "Mo-Sa 11:00-24:00; Su 14:00-24:00; PH 14:00-24:00",
+    "phone": "+32 11 60 27 31",
+    "source:geometry:date": "2013-05-13",
+    "source:geometry:ref": "Gbg/4377194"
+  }
+},
+{
+  "type": "way",
+  "id": 586688049,
+  "center": {
+    "lat": 50.6573879,
+    "lon": 3.8898943
+  },
+  "tags": {
+    "addr:housenumber": "164",
+    "addr:street": "Pavé d'Ath",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Le Blé d'Or"
+  }
+},
+{
+  "type": "way",
+  "id": 683700400,
+  "center": {
+    "lat": 50.6571908,
+    "lon": 3.3427799
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "IKONA"
+  }
+},
+{
+  "type": "way",
+  "id": 719041448,
+  "center": {
+    "lat": 50.2804334,
+    "lon": 5.2090219
+  },
+  "tags": {
+    "addr:city": "Jannée",
+    "addr:country": "BE",
+    "addr:postcode": "5590",
+    "addr:street": "Route Nationale 4",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Le Trébuchet"
+  }
+},
+{
+  "type": "way",
+  "id": 820203213,
+  "center": {
+    "lat": 50.9304549,
+    "lon": 5.3418781
+  },
+  "tags": {
+    "addr:housenumber": "40",
+    "addr:street": "Persoonstraat",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Chapter 4",
+    "source:geometry": "outdated",
+    "source:geometry:date": "2021-07-12",
+    "website": "https://www.chapter4.club"
+  }
+},
+{
+  "type": "way",
+  "id": 866594795,
+  "center": {
+    "lat": 50.6919867,
+    "lon": 4.8008844
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Dancing Le Rianfra"
+  }
+},
+{
+  "type": "way",
+  "id": 943183147,
+  "center": {
+    "lat": 50.9027063,
+    "lon": 5.4682891
+  },
+  "tags": {
+    "addr:city": "Bilzen",
+    "addr:country": "BE",
+    "addr:housenumber": "60",
+    "addr:postcode": "3740",
+    "addr:street": "Nieuwmolenweg",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Deja Vu"
+  }
+},
+{
+  "type": "way",
+  "id": 1047140523,
+  "center": {
+    "lat": 50.8466147,
+    "lon": 5.4921036
+  },
+  "tags": {
+    "addr:housenumber": "40",
+    "addr:street": "Grote Zapstraat",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Dancing Karrewiel",
+    "source:geometry:date": "2011-03-22",
+    "source:geometry:ref": "Gbg/2501016"
+  }
+},
+{
+  "type": "way",
+  "id": 1473651427,
+  "center": {
+    "lat": 50.5928472,
+    "lon": 3.5469034
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Zoo Club"
+  }
+}
+
+  ]
+}

@@ -1,0 +1,3968 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-10-08T23:17:24Z",
+    "timestamp_areas_base": "2026-10-07T10:19:21Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 153065291,
+  "lat": 49.5938580,
+  "lon": 17.2623000,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2024-04-20",
+    "name": "S klub",
+    "phone": "+420 777 799 107",
+    "smoking": "no",
+    "website": "https://www.s-klub.cz/"
+  }
+},
+{
+  "type": "node",
+  "id": 296446060,
+  "lat": 49.1943570,
+  "lon": 16.6099774,
+  "tags": {
+    "addr:city": "Brno",
+    "addr:conscriptionnumber": "453",
+    "addr:housenumber": "453/9",
+    "addr:postcode": "60200",
+    "addr:street": "Jánská",
+    "addr:streetnumber": "9",
+    "amenity": "nightclub",
+    "fee": "100",
+    "name": "7. nebe",
+    "website": "https://7nebe.cz/"
+  }
+},
+{
+  "type": "node",
+  "id": 296487048,
+  "lat": 50.0868992,
+  "lon": 14.4518108,
+  "tags": {
+    "addr:city": "Prague",
+    "addr:conscriptionnumber": "147",
+    "addr:housenumber": "147/18",
+    "addr:postcode": "13000",
+    "addr:street": "Prokopova",
+    "addr:streetnumber": "18",
+    "amenity": "nightclub",
+    "name": "Our Place Music Club",
+    "ref:ruian:addr": "21768501",
+    "smoking": "outside",
+    "source:addr": "cuzk:ruian"
+  }
+},
+{
+  "type": "node",
+  "id": 296585828,
+  "lat": 50.0843795,
+  "lon": 14.4187539,
+  "tags": {
+    "addr:conscriptionnumber": "361",
+    "addr:housenumber": "361/1",
+    "addr:postcode": "11000",
+    "addr:street": "Jilská",
+    "addr:streetnumber": "1",
+    "amenity": "nightclub",
+    "email": "info@JazzRepublic.cz",
+    "internet_access": "wlan",
+    "name": "Jazz Republic",
+    "opening_hours": "Mo-Su 20:00-00:00",
+    "phone": "+420 221 183 552",
+    "source:addr": "cuzk:ruian",
+    "website": "https://www.jazzrepublic.cz/"
+  }
+},
+{
+  "type": "node",
+  "id": 296638137,
+  "lat": 49.1921173,
+  "lon": 16.6059704,
+  "tags": {
+    "addr:city": "Brno",
+    "addr:conscriptionnumber": "283",
+    "addr:housenumber": "283/1",
+    "addr:postcode": "60200",
+    "addr:street": "Biskupská",
+    "addr:streetnumber": "1",
+    "amenity": "nightclub",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "name": "Two Faces Music Club",
+    "opening_hours": "Tu-Th 22:00-03:00, Fr,Sa 22:00-05:00",
+    "website": "http://www.twofaces.cz",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 296654245,
+  "lat": 49.1947190,
+  "lon": 16.6100114,
+  "tags": {
+    "addr:city": "Brno",
+    "addr:conscriptionnumber": "450",
+    "addr:housenumber": "450/6",
+    "addr:postcode": "60200",
+    "addr:street": "Poštovská",
+    "addr:streetnumber": "6",
+    "amenity": "nightclub",
+    "check_date": "2026-04-01",
+    "level": "-1",
+    "name": "Metro music club",
+    "opening_hours": "Mo-Sa 19:00-05:00",
+    "phone": "+420 739 616 594",
+    "ref:ruian:addr": "19098324",
+    "source:addr": "cuzk:ruian",
+    "website": "https://www.metromusic.cz/"
+  }
+},
+{
+  "type": "node",
+  "id": 296774771,
+  "lat": 49.7414538,
+  "lon": 13.3799302,
+  "tags": {
+    "addr:conscriptionnumber": "2744",
+    "addr:housenumber": "2744/17",
+    "addr:postcode": "30100",
+    "addr:street": "Anglické nábřeží",
+    "addr:streetnumber": "17",
+    "amenity": "nightclub",
+    "name": "Pantheon Music Club",
+    "name:cs": "Pantheon Music Club",
+    "ref:ruian:addr": "24557323",
+    "source:addr": "cuzk:ruian"
+  }
+},
+{
+  "type": "node",
+  "id": 309257247,
+  "lat": 49.9928898,
+  "lon": 14.6588299,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Maka bar"
+  }
+},
+{
+  "type": "node",
+  "id": 330200788,
+  "lat": 50.1060541,
+  "lon": 14.3691117,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "U Rafa"
+  }
+},
+{
+  "type": "node",
+  "id": 331956704,
+  "lat": 50.0854385,
+  "lon": 14.4130786,
+  "tags": {
+    "addr:city": "Praha",
+    "addr:housenumber": "1",
+    "addr:postcode": "11000",
+    "addr:street": "Novotného lávka",
+    "amenity": "nightclub",
+    "name": "Klub lávka",
+    "name:fr": "Café lávka",
+    "phone": "+420 608 713 306",
+    "website": "https://lavka.cz/en/"
+  }
+},
+{
+  "type": "node",
+  "id": 334363004,
+  "lat": 50.0815953,
+  "lon": 14.4047388,
+  "tags": {
+    "addr:city": "Praha",
+    "addr:conscriptionnumber": "422",
+    "addr:country": "CZ",
+    "addr:housenumber": "422/18",
+    "addr:place": "Malá Strana",
+    "addr:postcode": "11800",
+    "addr:street": "Újezd",
+    "addr:streetnumber": "18",
+    "addr:suburb": "Praha 1",
+    "amenity": "nightclub",
+    "check_date": "2023-06-01",
+    "facebook": "https://www.facebook.com/Klub-Újezd-45884353772/",
+    "name": "Klub Újezd",
+    "opening_hours": "Mo-Su 00:00-04:00,14:00-24:00",
+    "phone": "+420 251 510 873",
+    "source:addr": "cuzk:ruian",
+    "toilets:wheelchair": "no",
+    "website": "https://www.klubujezd.cz/",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 340388651,
+  "lat": 50.2503384,
+  "lon": 14.3154449,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "U Živce"
+  }
+},
+{
+  "type": "node",
+  "id": 360764853,
+  "lat": 49.5912164,
+  "lon": 17.2509238,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2026-02-14",
+    "name": "Belmondo",
+    "opening_hours": "We, Fr, Sa 22:00-05:00",
+    "website": "https://www.belmondo.cz/"
+  }
+},
+{
+  "type": "node",
+  "id": 360975472,
+  "lat": 49.2130395,
+  "lon": 15.8850556,
+  "tags": {
+    "amenity": "nightclub",
+    "created_by": "Merkaartor 0.12",
+    "name": "SEN",
+    "source": "cuzk:km",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 360976044,
+  "lat": 49.2120102,
+  "lon": 15.8847874,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Znojemka",
+    "source": "cuzk:km",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 363825690,
+  "lat": 49.2187754,
+  "lon": 15.8933160,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Disko Kavárna",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 370681704,
+  "lat": 50.2191132,
+  "lon": 12.1814910,
+  "tags": {
+    "amenity": "nightclub",
+    "created_by": "Potlatch 0.10f",
+    "name": "Labelle"
+  }
+},
+{
+  "type": "node",
+  "id": 451798326,
+  "lat": 49.2163360,
+  "lon": 15.8805817,
+  "tags": {
+    "addr:city": "Třebíč",
+    "addr:housenumber": "19/13",
+    "addr:postcode": "67401",
+    "addr:street": "Karlovo nám.",
+    "amenity": "nightclub",
+    "name": "Golem",
+    "smoking": "yes",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 475379711,
+  "lat": 50.1082927,
+  "lon": 14.4432281,
+  "tags": {
+    "addr:city": "Praha",
+    "addr:conscriptionnumber": "1096",
+    "addr:country": "CZ",
+    "addr:housenumber": "1096/23",
+    "addr:place": "Holešovice",
+    "addr:postcode": "17000",
+    "addr:street": "Plynární",
+    "addr:streetnumber": "23",
+    "addr:suburb": "Praha 7",
+    "amenity": "nightclub",
+    "check_date": "2025-08-10",
+    "contact:facebook": "http://www.facebook.com/pages/_/197705090250861",
+    "contact:foursquare": "https://foursquare.com/v/_/4b055110f964a520b75722e3",
+    "contact:website": "http://www.crossclub.cz/",
+    "contact:yelp": "http://www.qype.co.uk/place/1588216",
+    "name": "Cross Club",
+    "name:cs": "Klubu Cross",
+    "opening_hours": "Mo-Su 00:00-05:00, 18:00-24:00; Fr, Sa 00:00-07:00, 18:00-24:00",
+    "payment:cash": "yes",
+    "smoking": "yes",
+    "source:addr": "cuzk:ruian",
+    "source:loc": "survey",
+    "wikidata": "Q19902165",
+    "wikimedia_commons": "Category:Cross Club",
+    "wikipedia": "en:Cross Club"
+  }
+},
+{
+  "type": "node",
+  "id": 534367670,
+  "lat": 50.0739755,
+  "lon": 14.4078157,
+  "tags": {
+    "addr:city": "Praha",
+    "addr:conscriptionnumber": "82",
+    "addr:country": "CZ",
+    "addr:housenumber": "82/7",
+    "addr:place": "Smíchov",
+    "addr:postcode": "15000",
+    "addr:street": "Zborovská",
+    "addr:streetnumber": "7",
+    "addr:suburb": "Praha 5",
+    "amenity": "nightclub",
+    "name": "Futurum",
+    "opening_hours": "Mo-Su 00:00-01:00,20:00-24:00",
+    "phone": "+420 257 328 571",
+    "source:addr": "cuzk:ruian",
+    "source:loc": "survey",
+    "website": "https://futurum.musicbar.cz/"
+  }
+},
+{
+  "type": "node",
+  "id": 623126619,
+  "lat": 50.0863067,
+  "lon": 14.4465116,
+  "tags": {
+    "addr:housenumber": "5",
+    "addr:street": "Orebitská",
+    "amenity": "nightclub",
+    "name": "R3 Bar",
+    "name:en": "R3 Bar"
+  }
+},
+{
+  "type": "node",
+  "id": 625125416,
+  "lat": 50.6042367,
+  "lon": 15.5127653,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "ZIP"
+  }
+},
+{
+  "type": "node",
+  "id": 640389820,
+  "lat": 50.6060627,
+  "lon": 15.5098184,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Továrna"
+  }
+},
+{
+  "type": "node",
+  "id": 670215924,
+  "lat": 49.1963133,
+  "lon": 16.6089000,
+  "tags": {
+    "addr:city": "Brno",
+    "addr:housenumber": "9",
+    "addr:postcode": "60200",
+    "addr:street": "Běhounská",
+    "amenity": "nightclub",
+    "name": "Ignis Club"
+  }
+},
+{
+  "type": "node",
+  "id": 671322347,
+  "lat": 49.3942745,
+  "lon": 15.5842250,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Dělňák",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 702023473,
+  "lat": 49.4051192,
+  "lon": 15.5834701,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Ponorka",
+    "source": "knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 879347698,
+  "lat": 48.8664378,
+  "lon": 16.0890873,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Disco Split"
+  }
+},
+{
+  "type": "node",
+  "id": 895743096,
+  "lat": 50.5341996,
+  "lon": 14.1241750,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Semafor"
+  }
+},
+{
+  "type": "node",
+  "id": 904803256,
+  "lat": 49.2244380,
+  "lon": 17.6605863,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Flip",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 911988892,
+  "lat": 50.5344736,
+  "lon": 14.1268309,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Dynamo"
+  }
+},
+{
+  "type": "node",
+  "id": 981634485,
+  "lat": 50.5710851,
+  "lon": 14.6690966,
+  "tags": {
+    "addr:city": "Doksy",
+    "addr:postcode": "47201",
+    "amenity": "nightclub",
+    "name": "Bílý Kámen",
+    "phone": "+420 487 872 489",
+    "ref:ruian:addr": "26871076",
+    "website": "http://www.bilykamen.net"
+  }
+},
+{
+  "type": "node",
+  "id": 1187014880,
+  "lat": 50.5365266,
+  "lon": 14.1286339,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Shaker Bar",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1229052820,
+  "lat": 50.0863674,
+  "lon": 14.4220734,
+  "tags": {
+    "addr:city": "Praha",
+    "addr:conscriptionnumber": "491",
+    "addr:country": "CZ",
+    "addr:housenumber": "491/16",
+    "addr:place": "Staré Město",
+    "addr:postcode": "11000",
+    "addr:street": "Železná",
+    "addr:streetnumber": "16",
+    "addr:suburb": "Praha 1",
+    "amenity": "nightclub",
+    "check_date": "2023-06-01",
+    "name": "AghaRTA Jazz Centrum",
+    "opening_hours": "Mo-Su 00:00-01:00,19:00-24:00",
+    "phone": "+420 222 211 275",
+    "source:addr": "cuzk:ruian",
+    "source:loc": "survey",
+    "website": "https://www.agharta.cz/"
+  }
+},
+{
+  "type": "node",
+  "id": 1229057545,
+  "lat": 50.0905163,
+  "lon": 14.4202726,
+  "tags": {
+    "addr:city": "Praha",
+    "alt_name": "Aloha Bar",
+    "amenity": "nightclub",
+    "artwork_type": "music",
+    "name": "Aloha Wave Lounge",
+    "phone": "+420 602 251 392",
+    "website": "https://www.alohapraha.cz/"
+  }
+},
+{
+  "type": "node",
+  "id": 1229086344,
+  "lat": 50.0896854,
+  "lon": 14.4235127,
+  "tags": {
+    "addr:city": "Praha 1",
+    "addr:housenumber": "18",
+    "addr:postcode": "11000",
+    "addr:street": "Dlouhá",
+    "amenity": "nightclub",
+    "artwork_type": "music",
+    "name": "Harley's bar",
+    "phone": "+420 602 419 111",
+    "website": "https://www.harleys.cz",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1229108524,
+  "lat": 50.0880421,
+  "lon": 14.4246270,
+  "tags": {
+    "addr:city": "Praha",
+    "addr:conscriptionnumber": "647",
+    "addr:country": "CZ",
+    "addr:housenumber": "647/2",
+    "addr:place": "Staré Město",
+    "addr:postcode": "11000",
+    "addr:street": "Jakubská",
+    "addr:streetnumber": "2",
+    "addr:suburb": "Praha 1",
+    "amenity": "nightclub",
+    "check_date": "2024-11-28",
+    "music_genre": "RnB, hip hop",
+    "name": "Chapeau Rouge",
+    "opening_hours": "Mo-Th 12:00-04:00, Fr 12:00-06:00",
+    "phone": "+420 222 316 328",
+    "source:addr": "cuzk:ruian",
+    "source:loc": "survey",
+    "website": "https://www.chapeaurouge.cz/"
+  }
+},
+{
+  "type": "node",
+  "id": 1229108525,
+  "lat": 50.0857063,
+  "lon": 14.4209226,
+  "tags": {
+    "addr:city": "Praha",
+    "addr:housenumber": "10",
+    "addr:postcode": "11000",
+    "addr:street": "Melantrichova",
+    "amenity": "nightclub",
+    "artwork_type": "music",
+    "music_genre": "pop",
+    "name": "Popocafepetl",
+    "phone": "+420 224 248 594",
+    "website": "https://www.popocafepetl.eu"
+  }
+},
+{
+  "type": "node",
+  "id": 1229108526,
+  "lat": 50.0853237,
+  "lon": 14.4198327,
+  "tags": {
+    "addr:city": "Praha",
+    "addr:housenumber": "15",
+    "addr:postcode": "11000",
+    "addr:street": "Michalská",
+    "amenity": "nightclub",
+    "artwork_type": "music",
+    "contact:facebook": "https://facebook.com/popomichalska/",
+    "contact:instagram": "https://www.instagram.com/explore/locations/371908189/popocafepetl-michalska",
+    "email": "rezervace@popocafepetl.cz",
+    "name": "Popocafepetl",
+    "opening_hours": "Mo,Su 17:00-02:30; Tu-Sa 17:00-04:00",
+    "phone": "+420 224 240 637",
+    "website": "http://www.popocafepetl.eu/"
+  }
+},
+{
+  "type": "node",
+  "id": 1232845928,
+  "lat": 50.5354910,
+  "lon": 14.1302046,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Baronka"
+  }
+},
+{
+  "type": "node",
+  "id": 1268808455,
+  "lat": 50.0995054,
+  "lon": 14.3998824,
+  "tags": {
+    "addr:city": "Praha 6",
+    "addr:postcode": "16000",
+    "addr:street": "Národní obrany",
+    "addr:streetnumber": "13",
+    "amenity": "nightclub",
+    "name": "La Fuente",
+    "opening_hours": "Fr,Sa 21:00-04:00; Tu 19:00-02:00",
+    "phone": "+420 739 400 918",
+    "website": "https://www.lafuente.cz/"
+  }
+},
+{
+  "type": "node",
+  "id": 1268819683,
+  "lat": 50.0724457,
+  "lon": 14.3191020,
+  "tags": {
+    "addr:city": "Praha 6",
+    "amenity": "nightclub",
+    "name": "Music Club V.I.P.",
+    "phone": "+420 722 664 234",
+    "website": "www.musicclubvip.cz"
+  }
+},
+{
+  "type": "node",
+  "id": 1268889585,
+  "lat": 50.0809467,
+  "lon": 14.3925650,
+  "tags": {
+    "addr:city": "Praha 6",
+    "addr:postcode": "16900",
+    "addr:street": "Chaloupeckého",
+    "addr:streetnumber": "7",
+    "amenity": "nightclub",
+    "check_date:opening_hours": "2026-07-08",
+    "name": "Klub 007 Strahov",
+    "opening_hours": "Fr,Sa 19:00-01:00, Su-Th 19:00-24:00",
+    "phone": "+420 775 260 071",
+    "smoking": "outside",
+    "website": "https://www.klub007strahov.cz/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1270663146,
+  "lat": 50.0853954,
+  "lon": 14.4138645,
+  "tags": {
+    "addr:city": "Praha",
+    "addr:housenumber": "1",
+    "addr:postcode": "11000",
+    "addr:street": "Smetanovo nábřeží",
+    "amenity": "nightclub",
+    "name": "Karlovy lázně",
+    "phone": "+420 222 220 502",
+    "website": "https://www.karlovylazne.cz/",
+    "wikidata": "Q6372564",
+    "wikimedia_commons": "Category:Karlovy lázně",
+    "wikipedia": "en:Karlovy lázně"
+  }
+},
+{
+  "type": "node",
+  "id": 1270697652,
+  "lat": 50.0820382,
+  "lon": 14.4186455,
+  "tags": {
+    "addr:city": "Praha",
+    "addr:conscriptionnumber": "116",
+    "addr:country": "CZ",
+    "addr:housenumber": "116/20",
+    "addr:place": "Nové Město",
+    "addr:postcode": "11000",
+    "addr:street": "Národní",
+    "addr:streetnumber": "20",
+    "addr:suburb": "Praha 1",
+    "amenity": "nightclub",
+    "email": "tereza@rockcafe.cz",
+    "facebook": "https://www.facebook.com/rockcafepragueofficial/",
+    "name": "Rock Café",
+    "opening_hours": "Mo-Th 00:00-03:00,12:00-24:00; Fr 00:00-04:00,12:00-24:00; Sa 00:00-04:00,17:00-24:00; Su 00:00-01:00,17:00-24:00",
+    "phone": "+420 224 933 947",
+    "source:addr": "cuzk:ruian",
+    "source:loc": "survey",
+    "website": "https://www.rockcafe.cz/"
+  }
+},
+{
+  "type": "node",
+  "id": 1271002097,
+  "lat": 50.0907169,
+  "lon": 14.4259055,
+  "tags": {
+    "addr:city": "Praha 1",
+    "addr:housenumber": "33",
+    "addr:postcode": "110 00",
+    "addr:street": "Dlouhá",
+    "amenity": "nightclub",
+    "check_date": "2025-01-01",
+    "email": "info@roxy.cz",
+    "name": "Club Roxy Prague",
+    "name:fr": "Roxy",
+    "phone": "+420 608 060 745",
+    "website": "https://www.roxy.cz/"
+  }
+},
+{
+  "type": "node",
+  "id": 1271002105,
+  "lat": 50.0824067,
+  "lon": 14.4268404,
+  "tags": {
+    "addr:city": "Praha",
+    "addr:housenumber": "21",
+    "addr:postcode": "11000",
+    "addr:street": "Václavské náměstí",
+    "alt_name": "Duplex the rooftop venue;DupleX Club Prague",
+    "amenity": "nightclub",
+    "contact:facebook": "DuplexPragueClub",
+    "contact:instagram": "duplexprague",
+    "contact:twitter": "duplexprague",
+    "email": "info@duplex.cz",
+    "name": "DUPLEX",
+    "opening_hours": "Mo-Su 22:00-05:00",
+    "phone": "+420 732 221 111",
+    "website": "https://www.duplex.cz/",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 1271002121,
+  "lat": 50.0858267,
+  "lon": 14.4140017,
+  "tags": {
+    "addr:city": "Praha",
+    "addr:housenumber": "5",
+    "addr:postcode": "11000",
+    "addr:street": "Smetanovo nábřeží",
+    "amenity": "nightclub",
+    "email": "kamennymost@m-club.cz",
+    "name": "Kamenný most music club",
+    "opening_hours": "18:00-04:00",
+    "phone": "+420 224 097 100",
+    "website": "https://www.kamennymost.cz/"
+  }
+},
+{
+  "type": "node",
+  "id": 1271444214,
+  "lat": 50.0930167,
+  "lon": 14.4147692,
+  "tags": {
+    "addr:city": "Praha 1",
+    "addr:conscriptionnumber": "337",
+    "addr:housenumber": "337/8",
+    "addr:street": "U Plovárny",
+    "addr:streetnumber": "8",
+    "amenity": "nightclub",
+    "name": "Občanská plovárna",
+    "website": "https://www.obcanskaplovarna.cz/"
+  }
+},
+{
+  "type": "node",
+  "id": 1271444224,
+  "lat": 50.0844665,
+  "lon": 14.4218491,
+  "tags": {
+    "addr:city": "Praha",
+    "addr:conscriptionnumber": "406",
+    "addr:country": "CZ",
+    "addr:housenumber": "406/10",
+    "addr:place": "Staré Město",
+    "addr:postcode": "11000",
+    "addr:street": "Rytířská",
+    "addr:streetnumber": "10",
+    "addr:suburb": "Praha 1",
+    "amenity": "nightclub",
+    "email": "info@cafe-cafe.cz",
+    "internet_access": "wlan",
+    "name": "Cafe - Cafe",
+    "opening_hours": "Su-Th 10:00-23:00, Fr,Sa 10:00-24:00",
+    "phone": "+420 224 210 597",
+    "source": "local knowledge",
+    "source:addr": "cuzk:ruian",
+    "website": "http://www.cafe-cafe.cz",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 1314039385,
+  "lat": 50.0734161,
+  "lon": 14.4306958,
+  "tags": {
+    "amenity": "nightclub",
+    "email": "legerova@club-sabotage.cz",
+    "name": "Club Sabotage",
+    "website": "http://www.club-sabotage.cz"
+  }
+},
+{
+  "type": "node",
+  "id": 1314039386,
+  "lat": 50.0790847,
+  "lon": 14.4352957,
+  "tags": {
+    "addr:city": "Praha 2",
+    "addr:conscriptionnumber": "752",
+    "addr:housenumber": "752/23",
+    "addr:street": "Balbínova",
+    "addr:streetnumber": "23",
+    "amenity": "nightclub",
+    "email": "leclanprague@gmail.com",
+    "name": "Le Clan",
+    "opening_hours": "Th-Sa 23:00-08:00",
+    "website": "https://www.leclan.cz/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1314039389,
+  "lat": 50.0759012,
+  "lon": 14.4323598,
+  "tags": {
+    "addr:city": "Praha 2",
+    "addr:conscriptionnumber": "234",
+    "addr:housenumber": "234/120",
+    "addr:postcode": "12000",
+    "addr:street": "Bělehradská",
+    "addr:streetnumber": "120",
+    "amenity": "nightclub",
+    "check_date": "2023-08-29",
+    "email": "vectif@vectif.cz",
+    "name": "Radost Fx",
+    "website": "https://radostfx.cz/"
+  }
+},
+{
+  "type": "node",
+  "id": 1314039390,
+  "lat": 50.0765976,
+  "lon": 14.4271008,
+  "tags": {
+    "amenity": "nightclub",
+    "email": "info@jampadampa.cz",
+    "name": "Jampa Dampa",
+    "opening_hours": "Mo-Tu 16:00-03:00; Fr-Sa 18:00-06:00; Su 18:00-01:00",
+    "phone": "+420 739 592 099;+420 603 260 678",
+    "website": "http://www.jampadampa.cz"
+  }
+},
+{
+  "type": "node",
+  "id": 1314039392,
+  "lat": 50.0747509,
+  "lon": 14.4313936,
+  "tags": {
+    "addr:city": "Praha 2",
+    "addr:conscriptionnumber": "647",
+    "addr:housenumber": "647/48",
+    "addr:postcode": "12000",
+    "addr:street": "Lublaňská",
+    "addr:streetnumber": "48",
+    "amenity": "nightclub",
+    "email": "lemirage@centrum.cz",
+    "name": "Le Mirage",
+    "opening_hours": "Mo-Sa 17:00-02:00; Su 17:00-24:00",
+    "phone": "+420 222511186",
+    "website": "https://www.lemirage.cz"
+  }
+},
+{
+  "type": "node",
+  "id": 1314084711,
+  "lat": 50.0845116,
+  "lon": 14.4506383,
+  "tags": {
+    "addr:city": "Praha 3",
+    "addr:conscriptionnumber": "413",
+    "addr:housenumber": "413/1",
+    "addr:postcode": "13000",
+    "addr:street": "Milíčova",
+    "addr:streetnumber": "1",
+    "amenity": "nightclub",
+    "email": "lapantera.musicbar@seznam.cz",
+    "name": "La Pantera",
+    "opening_hours": "Mo,Tu 20:00-03:00; We 20:00-05:00, Tu-Sa 20:00-06:00; Su 21:00+",
+    "phone": "+420 603 293 107",
+    "website": "https://www.lapantera.cz/"
+  }
+},
+{
+  "type": "node",
+  "id": 1314084713,
+  "lat": 50.0875412,
+  "lon": 14.4548586,
+  "tags": {
+    "addr:city": "Praha 3",
+    "addr:conscriptionnumber": "1730",
+    "addr:housenumber": "1730/13",
+    "addr:street": "Hartigova",
+    "addr:streetnumber": "13",
+    "amenity": "nightclub",
+    "email": "matrixklub@centrum.cz",
+    "name": "MATRIX club",
+    "old_addr:street": "Koněvova",
+    "phone": "+420 776 611042",
+    "website": "https://www.matrixklub.cz/"
+  }
+},
+{
+  "type": "node",
+  "id": 1316889817,
+  "lat": 50.0195872,
+  "lon": 14.4961050,
+  "tags": {
+    "addr:city": "Praha 4",
+    "addr:housenumber": "953",
+    "addr:postcode": "14800",
+    "addr:street": "Chemická",
+    "amenity": "nightclub",
+    "email": "elmagico@elmagico.cz",
+    "name": "El Mágico",
+    "opening_hours": "Mo-Tu 11:00-02:00;Fr-Su 11:00-03:00",
+    "website": "https://www.elmagico.cz/"
+  }
+},
+{
+  "type": "node",
+  "id": 1316908986,
+  "lat": 50.0675527,
+  "lon": 14.4071904,
+  "tags": {
+    "addr:city": "Praha 5",
+    "addr:conscriptionnumber": "42",
+    "addr:housenumber": "42/82",
+    "addr:street": "Nádražní",
+    "addr:streetnumber": "82",
+    "amenity": "nightclub",
+    "email": "nadrazni@dogsbollocks.cz",
+    "name": "Dogs Bollocks",
+    "opening_hours": "Fr-Sa 17:00-04:00",
+    "phone": "+420 775 736 030",
+    "website": "https://www.dogsbollocks.cz/"
+  }
+},
+{
+  "type": "node",
+  "id": 1317040210,
+  "lat": 50.1007685,
+  "lon": 14.4261400,
+  "tags": {
+    "addr:city": "Praha 7",
+    "addr:conscriptionnumber": "826",
+    "addr:housenumber": "826/61",
+    "addr:street": "Veletržní",
+    "addr:streetnumber": "61",
+    "amenity": "nightclub",
+    "email": "info@mischmasch.cz",
+    "name": "Misch Masch",
+    "opening_hours": "We-Tu 20:00-04:00; Fr-Sa 20:00-06:00",
+    "phone": "+420 603 272 227"
+  }
+},
+{
+  "type": "node",
+  "id": 1317040213,
+  "lat": 50.1052347,
+  "lon": 14.4476912,
+  "tags": {
+    "amenity": "nightclub",
+    "contact:facebook": "https://www.facebook.com/mecca.club",
+    "contact:twitter": "https://twitter.com/MeccaClubPrague",
+    "email": "mecca@mecca.cz",
+    "name": "Mecca",
+    "opening_hours": "Fr-Sa 22:00-06:00",
+    "phone": "+420 283 870 522",
+    "website": "https://www.mecca.cz/"
+  }
+},
+{
+  "type": "node",
+  "id": 1317072361,
+  "lat": 50.1113419,
+  "lon": 14.4654724,
+  "tags": {
+    "addr:city": "Praha",
+    "addr:conscriptionnumber": "2175",
+    "addr:country": "CZ",
+    "addr:housenumber": "2175/8",
+    "addr:place": "Libeň",
+    "addr:postcode": "18000",
+    "addr:street": "Na Košince",
+    "addr:streetnumber": "8",
+    "amenity": "nightclub",
+    "email": "abatonproduction@seznam.cz",
+    "name": "Prostor Abaton",
+    "website": "www.prostorabaton.cz"
+  }
+},
+{
+  "type": "node",
+  "id": 1340065902,
+  "lat": 50.0994670,
+  "lon": 14.4938795,
+  "tags": {
+    "addr:city": "Praha 9",
+    "addr:postcode": "190 00",
+    "addr:street": "K Žižkovu",
+    "amenity": "nightclub",
+    "email": "produkce@modravopice.eu",
+    "name": "Modrá Vopice",
+    "website": "http://www.modravopice.eu/"
+  }
+},
+{
+  "type": "node",
+  "id": 1360442564,
+  "lat": 49.6663350,
+  "lon": 18.6746923,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Crazy Club"
+  }
+},
+{
+  "type": "node",
+  "id": 1462354482,
+  "lat": 49.8648188,
+  "lon": 16.3091450,
+  "tags": {
+    "addr:conscriptionnumber": "364",
+    "addr:country": "CZ",
+    "addr:housenumber": "364",
+    "addr:street": "Mařákova",
+    "amenity": "nightclub",
+    "name": "Dance Klub U Kolji",
+    "note": "Adresa: v RÚIAN AM zrušeno.",
+    "ref:ruian:addr": "1904400"
+  }
+},
+{
+  "type": "node",
+  "id": 1589492752,
+  "lat": 50.5361653,
+  "lon": 14.1296457,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "La Habaňero"
+  }
+},
+{
+  "type": "node",
+  "id": 1589492753,
+  "lat": 50.5446245,
+  "lon": 14.1235248,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Roxbury"
+  }
+},
+{
+  "type": "node",
+  "id": 1695240431,
+  "lat": 48.8501438,
+  "lon": 17.1279000,
+  "tags": {
+    "addr:conscriptionnumber": "263",
+    "addr:country": "CZ",
+    "addr:housename": "Hudební Club Nautilus",
+    "addr:housenumber": "263/6",
+    "addr:place": "Hodonín",
+    "addr:postcode": "69501",
+    "addr:street": "Národní třída",
+    "addr:streetnumber": "6",
+    "amenity": "nightclub",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "name": "Hudební Club Nautilus",
+    "source": "local knowledge",
+    "source:loc": "cuzk:km"
+  }
+},
+{
+  "type": "node",
+  "id": 1848018721,
+  "lat": 50.6914488,
+  "lon": 14.5340344,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Klub Luxor",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2020248959,
+  "lat": 48.8698517,
+  "lon": 16.7511524,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Retro music Club"
+  }
+},
+{
+  "type": "node",
+  "id": 2021418032,
+  "lat": 50.0826785,
+  "lon": 12.3826593,
+  "tags": {
+    "addr:city": "Cheb",
+    "addr:conscriptionnumber": "1721",
+    "addr:country": "CZ",
+    "addr:housenumber": "1721/2",
+    "addr:place": "Cheb",
+    "addr:postcode": "35002",
+    "addr:street": "Truhlářská",
+    "addr:streetnumber": "2",
+    "amenity": "nightclub",
+    "name": "Luna",
+    "opening_hours": "17:00-05:00",
+    "ref:ruian:addr": "20909861"
+  }
+},
+{
+  "type": "node",
+  "id": 2043644996,
+  "lat": 50.2313244,
+  "lon": 14.0822737,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Bat. Music Space",
+    "wifi": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2060220362,
+  "lat": 49.3863447,
+  "lon": 14.6847458,
+  "tags": {
+    "amenity": "nightclub",
+    "email": "info@apollo-centrum.cz",
+    "mobile": "+420 775 341 174",
+    "name": "Apollo",
+    "opening_hours": "We,Th 17:00-23:00; Fr,Sa 18:00-02:00",
+    "phone": "+420 381 261 999",
+    "website": "https://www.discoapollo.cz/"
+  }
+},
+{
+  "type": "node",
+  "id": 2070481531,
+  "lat": 49.4654770,
+  "lon": 18.1369336,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Rampa"
+  }
+},
+{
+  "type": "node",
+  "id": 2113059182,
+  "lat": 50.0281000,
+  "lon": 15.2069342,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Staré lázně"
+  }
+},
+{
+  "type": "node",
+  "id": 2142835394,
+  "lat": 49.3860544,
+  "lon": 16.6322452,
+  "tags": {
+    "addr:conscriptionnumber": "123",
+    "addr:housenumber": "123",
+    "addr:place": "Dolní Lhota",
+    "addr:postcode": "67801",
+    "amenity": "nightclub",
+    "contact:instagram": "@klubmlyn",
+    "email": "info@klubmlyn.cz",
+    "mobile": "+420 776 076 776",
+    "name": "Klub Mlýn",
+    "opening_hours": "Fr 23:00-24:00; Sa 00:00-05:00,23:00-24:00; Su 00:00-05:00",
+    "phone": "+420 516 414 344",
+    "ref:ruian:addr": "15188311",
+    "website": "http://klubmlyn.cz/"
+  }
+},
+{
+  "type": "node",
+  "id": 2166048749,
+  "lat": 50.0038971,
+  "lon": 14.4663907,
+  "tags": {
+    "addr:city": "Praha",
+    "addr:housenumber": "1",
+    "addr:postcode": "14200",
+    "addr:street": "V Lužích",
+    "amenity": "nightclub",
+    "designation": "****",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "name": "Lifestyle Karaoke"
+  }
+},
+{
+  "type": "node",
+  "id": 2169009349,
+  "lat": 50.0290152,
+  "lon": 16.2226712,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "ROXET"
+  }
+},
+{
+  "type": "node",
+  "id": 2180926242,
+  "lat": 49.8441447,
+  "lon": 18.2775808,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Fabric",
+    "operator": "Fatalerr Production s.r.o.",
+    "website": "https://www.fabric.cz/"
+  }
+},
+{
+  "type": "node",
+  "id": 2181215162,
+  "lat": 49.2977979,
+  "lon": 17.3943186,
+  "tags": {
+    "addr:postcode": "76701",
+    "addr:street": "Křižná",
+    "amenity": "nightclub",
+    "internet_access": "wlan",
+    "name": "TA-BU music club",
+    "website": "www.tabuclub.cz"
+  }
+},
+{
+  "type": "node",
+  "id": 2183930119,
+  "lat": 49.0263535,
+  "lon": 17.6410689,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Tropic Club",
+    "opening_hours": "Fr-Sa 21:00-05:00"
+  }
+},
+{
+  "type": "node",
+  "id": 2194606149,
+  "lat": 50.5119894,
+  "lon": 13.2495299,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Sauna Superclub"
+  }
+},
+{
+  "type": "node",
+  "id": 2195924759,
+  "lat": 49.7615522,
+  "lon": 16.6621526,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date:opening_hours": "2025-07-26",
+    "name": "DukuDuku",
+    "opening_hours:signed": "no",
+    "smoking": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2206586415,
+  "lat": 50.3685986,
+  "lon": 15.6320049,
+  "tags": {
+    "addr:housenumber": "154",
+    "addr:postcode": "508 01",
+    "addr:street": "Husova",
+    "amenity": "nightclub",
+    "name": "Nightclub Music",
+    "source": "local knowledge",
+    "wifi": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2242731864,
+  "lat": 49.2143006,
+  "lon": 16.5734337,
+  "tags": {
+    "addr:housename": "Matahari night club",
+    "addr:housenumber": "3091/2",
+    "addr:postcode": "616 00",
+    "addr:street": "Blatného",
+    "amenity": "nightclub",
+    "name": "Matahari night club",
+    "website": "https://www.matahariclub.cz/"
+  }
+},
+{
+  "type": "node",
+  "id": 2244997602,
+  "lat": 49.7557389,
+  "lon": 16.4660862,
+  "tags": {
+    "amenity": "nightclub",
+    "designation": "bar, bowling",
+    "name": "AMD",
+    "source": "local knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 2257922973,
+  "lat": 49.1973751,
+  "lon": 16.6096091,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Typos"
+  }
+},
+{
+  "type": "node",
+  "id": 2261574309,
+  "lat": 49.1942184,
+  "lon": 16.6084256,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Abajo"
+  }
+},
+{
+  "type": "node",
+  "id": 2272067464,
+  "lat": 49.2967389,
+  "lon": 17.4013572,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Cabras"
+  }
+},
+{
+  "type": "node",
+  "id": 2286007879,
+  "lat": 49.2056016,
+  "lon": 16.6609697,
+  "tags": {
+    "addr:city": "Brno",
+    "addr:housenumber": "5",
+    "addr:postcode": "62800",
+    "addr:street": "Pálavské náměstí",
+    "amenity": "nightclub",
+    "level": "1",
+    "name": "Lenfer sound club"
+  }
+},
+{
+  "type": "node",
+  "id": 2322640828,
+  "lat": 50.4063971,
+  "lon": 14.0458749,
+  "tags": {
+    "addr:city": "Libochovice",
+    "addr:conscriptionnumber": "123",
+    "addr:country": "CZ",
+    "addr:housenumber": "123",
+    "addr:postcode": "41117",
+    "addr:street": "Riegrova",
+    "amenity": "nightclub",
+    "name": "Hrad",
+    "ref:ruian:addr": "16716027",
+    "source:addr": "cuzk:ruian"
+  }
+},
+{
+  "type": "node",
+  "id": 2327744190,
+  "lat": 50.5418373,
+  "lon": 13.7771037,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Pražanka"
+  }
+},
+{
+  "type": "node",
+  "id": 2348333455,
+  "lat": 49.8846750,
+  "lon": 15.0576920,
+  "tags": {
+    "addr:city": "Uhlířské Janovice",
+    "addr:conscriptionnumber": "787",
+    "addr:country": "CZ",
+    "addr:housenumber": "787",
+    "addr:postcode": "28504",
+    "addr:street": "28. října",
+    "amenity": "nightclub",
+    "name": "Shabo",
+    "ref:ruian:addr": "11550660",
+    "source:addr": "cuzk:ruian"
+  }
+},
+{
+  "type": "node",
+  "id": 2388237402,
+  "lat": 50.8798453,
+  "lon": 14.5944169,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Eva"
+  }
+},
+{
+  "type": "node",
+  "id": 2411699501,
+  "lat": 48.9026836,
+  "lon": 13.7180647,
+  "tags": {
+    "addr:city": "Strážný",
+    "addr:conscriptionnumber": "29",
+    "addr:country": "CZ",
+    "addr:housenumber": "29",
+    "addr:place": "Strážný",
+    "addr:postcode": "38443",
+    "amenity": "nightclub",
+    "lgbtq": "primary",
+    "name": "Nigth Club Luna - Diskrete Zone",
+    "ref:ruian:addr": "25295446"
+  }
+},
+{
+  "type": "node",
+  "id": 2422190123,
+  "lat": 49.1429399,
+  "lon": 15.0349975,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "KC Jitka"
+  }
+},
+{
+  "type": "node",
+  "id": 2459457882,
+  "lat": 50.0881174,
+  "lon": 14.4252451,
+  "tags": {
+    "amenity": "nightclub",
+    "email": "info@dejavuclub.cz",
+    "name": "Dejavu Music Club Prague",
+    "opening_hours": "Tu-Th 20:00-03:00 open \"Club and bar\"; Fr-Sa 20:00-04:00 open \"Club and bar\" || Su-Mo 18:00-02:00 open \"bar\" || Tu-Th 18:00-03:00 open \"bar\" || Fr-Sa 18:00-04:00 open \"bar\"",
+    "phone": "+420222311743",
+    "website": "https://www.dejavuclub.cz/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2498780671,
+  "lat": 49.4022045,
+  "lon": 15.6018768,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Fine club"
+  }
+},
+{
+  "type": "node",
+  "id": 2498780693,
+  "lat": 49.4017338,
+  "lon": 15.6018966,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Jupík",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2498780733,
+  "lat": 49.4017151,
+  "lon": 15.6013656,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Xanadu",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2616104991,
+  "lat": 49.7458634,
+  "lon": 13.3793968,
+  "tags": {
+    "addr:city": "Plzeň",
+    "addr:country": "CZ",
+    "addr:housenumber": "312/8",
+    "addr:postcode": "30100",
+    "addr:street": "Zbrojnická",
+    "amenity": "nightclub",
+    "dance:style": "disco",
+    "name": "Oldies disco Club",
+    "opening_hours": "Fr 21:00-03:30, Sa 21:00-03:30",
+    "phone": "+420 723 106 565",
+    "website": "http://www.oldiesdiscoclub.cz/"
+  }
+},
+{
+  "type": "node",
+  "id": 2624594858,
+  "lat": 49.7942183,
+  "lon": 17.6268736,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Klub Šatlava"
+  }
+},
+{
+  "type": "node",
+  "id": 2633868240,
+  "lat": 49.5933664,
+  "lon": 18.0128685,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Majnl Dance Hall"
+  }
+},
+{
+  "type": "node",
+  "id": 2821281212,
+  "lat": 50.0844832,
+  "lon": 14.4774708,
+  "tags": {
+    "addr:city": "Praha",
+    "addr:conscriptionnumber": "2702",
+    "addr:housenumber": "2702",
+    "addr:place": "Žižkov",
+    "addr:postcode": "13000",
+    "addr:street": "Jana Želivského",
+    "amenity": "nightclub",
+    "name": "Theremin",
+    "ref:ruian:addr": "22704264",
+    "website": "http://theremin.cz/"
+  }
+},
+{
+  "type": "node",
+  "id": 2848838070,
+  "lat": 49.4844420,
+  "lon": 16.6626166,
+  "tags": {
+    "addr:housenumber": "5",
+    "addr:postcode": "68001",
+    "addr:street": "Hradní",
+    "amenity": "nightclub",
+    "contact:facebook": "klubjizdarna",
+    "contact:instagram": "klubjizdarna/%3Fhl%3Dcs&ved=2ahUKEwiWz-q9heGNAxVHhf0HHRN8IQYQjjh6BAhREAE&usg=AOvVaw0KKeqtfBtY1ZTGwUwiSD4f",
+    "email": "info@klubjizdarna.cz",
+    "name": "Jízdárna",
+    "opening_hours": "Fr-Sa 21:00-04:00",
+    "phone": "774435434",
+    "website": "https://www.facebook.com/klubjizdarna"
+  }
+},
+{
+  "type": "node",
+  "id": 2848848829,
+  "lat": 49.4765164,
+  "lon": 17.1170418,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "DCM"
+  }
+},
+{
+  "type": "node",
+  "id": 3132699714,
+  "lat": 49.9812362,
+  "lon": 14.7412395,
+  "tags": {
+    "addr:city": "Srbín",
+    "addr:housenumber": "1",
+    "addr:postcode": "25162",
+    "addr:street": "Na Dolách",
+    "amenity": "nightclub",
+    "name": "Music Bar Kravín",
+    "phone": "+420 602 551 242",
+    "website": "https://kravin-srbin.cz/"
+  }
+},
+{
+  "type": "node",
+  "id": 3221039436,
+  "lat": 49.2235161,
+  "lon": 16.5932700,
+  "tags": {
+    "addr:city": "Brno",
+    "addr:housenumber": "11",
+    "addr:postcode": "61200",
+    "addr:street": "Husitská",
+    "amenity": "nightclub",
+    "check_date:opening_hours": "2025-02-27",
+    "name": "Nightclub Piranha",
+    "opening_hours": "Mo-Su 21:00-06:00",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3253806185,
+  "lat": 49.2080846,
+  "lon": 16.6044152,
+  "tags": {
+    "addr:city": "Brno",
+    "addr:housenumber": "4",
+    "addr:postcode": "60200",
+    "addr:street": "Štefánikova",
+    "amenity": "nightclub",
+    "check_date": "2026-04-14",
+    "name": "Nightclub Paris"
+  }
+},
+{
+  "type": "node",
+  "id": 3253806186,
+  "lat": 49.2080671,
+  "lon": 16.6044716,
+  "tags": {
+    "addr:city": "Brno",
+    "addr:housenumber": "4",
+    "addr:postcode": "60200",
+    "addr:street": "Štefánikova",
+    "amenity": "nightclub",
+    "contact:phone": "+4520 733 284 330",
+    "name": "Disco Chihuahua",
+    "opening_hours": "Tu-Th 19:00-04:00, Fr-Sa 19:00-06:00"
+  }
+},
+{
+  "type": "node",
+  "id": 3274424038,
+  "lat": 50.0812690,
+  "lon": 14.4253203,
+  "tags": {
+    "addr:city": "Praha",
+    "addr:conscriptionnumber": "704",
+    "addr:country": "CZ",
+    "addr:housenumber": "704/36",
+    "addr:place": "Nové Město",
+    "addr:postcode": "11000",
+    "addr:street": "Vodičkova",
+    "addr:streetnumber": "36",
+    "addr:suburb": "Praha 1",
+    "alt_name": "Kino Lucerna Praha",
+    "amenity": "nightclub",
+    "email": "tickets@musicbar.cz",
+    "facebook": "https://www.facebook.com/lucernamusicbar",
+    "name": "Lucerna Music Bar",
+    "phone": "+420 224 217 108",
+    "source:loc": "survey",
+    "url": "http://www.lucerna.cz/",
+    "website": "https://www.musicbar.cz/",
+    "website:en": "https://www.kinolucerna.cz/",
+    "wikidata": "Q42422181",
+    "wikimedia_commons": "Category:Lucerna Music Bar",
+    "wikipedia": "en:Lucerna Music Bar"
+  }
+},
+{
+  "type": "node",
+  "id": 3291151973,
+  "lat": 49.6082930,
+  "lon": 15.5776230,
+  "tags": {
+    "addr:city": "Havlíčkův Brod",
+    "addr:conscriptionnumber": "30",
+    "addr:country": "CZ",
+    "addr:housenumber": "30",
+    "addr:place": "Havlíčkův Brod",
+    "addr:postcode": "58001",
+    "addr:street": "Smetanovo náměstí",
+    "amenity": "nightclub",
+    "name": "Klub Oko"
+  }
+},
+{
+  "type": "node",
+  "id": 3291239963,
+  "lat": 49.6023749,
+  "lon": 15.5771494,
+  "tags": {
+    "addr:city": "Havlíčkův Brod",
+    "addr:housenumber": "1283",
+    "addr:postcode": "58001",
+    "addr:street": "Masarykova",
+    "amenity": "nightclub",
+    "name": "Roxor"
+  }
+},
+{
+  "type": "node",
+  "id": 3357371150,
+  "lat": 50.1021184,
+  "lon": 14.4254177,
+  "tags": {
+    "addr:city": "Praha 7",
+    "addr:housenumber": "14",
+    "addr:postcode": "17000",
+    "addr:street": "Malířská",
+    "amenity": "nightclub",
+    "name": "Kontrast Bar",
+    "opening_hours": "Mo-Su 17:00-03:00",
+    "website": "http://www.kontrast-bar.cz"
+  }
+},
+{
+  "type": "node",
+  "id": 3389998002,
+  "lat": 49.1947203,
+  "lon": 16.6113496,
+  "tags": {
+    "addr:city": "Brno",
+    "addr:housenumber": "14",
+    "addr:postcode": "60200",
+    "addr:street": "Jánská",
+    "amenity": "nightclub",
+    "name": "WATT Club",
+    "smoking": "no",
+    "website": "http://www.wattclub.cz/"
+  }
+},
+{
+  "type": "node",
+  "id": 3449468786,
+  "lat": 49.2103987,
+  "lon": 16.5856578,
+  "tags": {
+    "addr:city": "Brno",
+    "addr:housenumber": "15",
+    "addr:postcode": "61600",
+    "addr:street": "Minská",
+    "amenity": "nightclub",
+    "check_date": "2026-02-26",
+    "name": "Mersey Music Club"
+  }
+},
+{
+  "type": "node",
+  "id": 3535207221,
+  "lat": 50.0822912,
+  "lon": 14.4182136,
+  "tags": {
+    "addr:city": "Praha",
+    "addr:conscriptionnumber": "961",
+    "addr:country": "CZ",
+    "addr:housenumber": "961/25",
+    "addr:place": "Staré Město",
+    "addr:postcode": "11000",
+    "addr:street": "Národní",
+    "addr:streetnumber": "25",
+    "addr:suburb": "Praha 1",
+    "alt_name": "Vagon Music Pub Club",
+    "amenity": "nightclub",
+    "facebook": "https://www.facebook.com/klubvagon/",
+    "name": "Vagon Music Club",
+    "opening_hours": "Mo-Th 00:00-05:00,19:00-24:00; Fr,Sa 00:00-06:00,19:00-24:00; Su 00:00-01:00,19:00-24:00",
+    "phone": "+420 733 737 301",
+    "source:addr": "cuzk:ruian",
+    "source:loc": "survey",
+    "website": "http://www.vagon.cz/"
+  }
+},
+{
+  "type": "node",
+  "id": 3587738554,
+  "lat": 49.4200989,
+  "lon": 14.6505594,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Milenium Tábor"
+  }
+},
+{
+  "type": "node",
+  "id": 3607696494,
+  "lat": 49.4116773,
+  "lon": 14.6557362,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Kotnov"
+  }
+},
+{
+  "type": "node",
+  "id": 3620123113,
+  "lat": 50.0858300,
+  "lon": 14.4149664,
+  "tags": {
+    "addr:city": "Praha",
+    "addr:housenumber": "6",
+    "addr:postcode": "11000",
+    "addr:street": "Karlova",
+    "amenity": "nightclub",
+    "min_age": "18",
+    "name": "Zlatý strom",
+    "opening_hours": "Mo-Su 19:00-04:00",
+    "operator": "BHG Strom s.r.o.",
+    "smoking": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3667876809,
+  "lat": 48.8012420,
+  "lon": 16.6296347,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Cabaret",
+    "opening_hours": "Mo-Su 00:00-05:00,19:00-24:00",
+    "source": "survey",
+    "website": "https://cabaret-mikulov.cz/"
+  }
+},
+{
+  "type": "node",
+  "id": 3707143770,
+  "lat": 49.7919884,
+  "lon": 13.9786804,
+  "tags": {
+    "addr:city": "Jince",
+    "addr:conscriptionnumber": "86",
+    "addr:country": "CZ",
+    "addr:housenumber": "86",
+    "addr:place": "Jince",
+    "addr:postcode": "26223",
+    "amenity": "nightclub",
+    "facebook": "https://www.facebook.com/Disco-Safari-Jince-215663725204122/",
+    "name": "Disco Safari Jince",
+    "source:addr": "cuzk:ruian"
+  }
+},
+{
+  "type": "node",
+  "id": 3715523833,
+  "lat": 49.2098583,
+  "lon": 16.6036326,
+  "tags": {
+    "addr:city": "Brno",
+    "addr:housenumber": "24",
+    "addr:postcode": "60200",
+    "addr:street": "Štefánikova",
+    "amenity": "nightclub",
+    "internet_access": "wlan",
+    "name": "Klub Netopýr",
+    "opening_hours": "Mo-Su 20:00-03:30"
+  }
+},
+{
+  "type": "node",
+  "id": 3722044221,
+  "lat": 50.0723106,
+  "lon": 14.4081866,
+  "tags": {
+    "addr:city": "Praha 5",
+    "addr:housenumber": "37",
+    "addr:postcode": "15000",
+    "addr:street": "Svornosti",
+    "amenity": "nightclub",
+    "name": "Light Music Club",
+    "opening_hours": "Mo-Sa 18:00-05:00",
+    "operator": "Light Music Club",
+    "smoking": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3782258988,
+  "lat": 50.0757122,
+  "lon": 12.3734946,
+  "tags": {
+    "addr:city": "Cheb",
+    "addr:housenumber": "23",
+    "addr:postcode": "35002",
+    "addr:street": "Svobody",
+    "amenity": "nightclub",
+    "name": "Amnesia Club"
+  }
+},
+{
+  "type": "node",
+  "id": 3894973228,
+  "lat": 50.2680419,
+  "lon": 14.4922621,
+  "tags": {
+    "amenity": "nightclub",
+    "email": "revival.swing@seznam.cz",
+    "name": "Jazzová zahrada",
+    "phone": "+420603441769;+420603477801",
+    "website": "https://www.jazzova-zahrada.cz/"
+  }
+},
+{
+  "type": "node",
+  "id": 3899636828,
+  "lat": 48.9756217,
+  "lon": 14.4734960,
+  "tags": {
+    "addr:city": "České Budějovice",
+    "addr:housenumber": "5",
+    "addr:postcode": "37001",
+    "addr:street": "Krajinská",
+    "amenity": "nightclub",
+    "fixme": "Dle Locak Knowledge místo již neexistuje. Buď se měnil název, nebo tam nyní nic není",
+    "name": "Dance bar PARADOX",
+    "phone": "+420 602 443 170",
+    "website": "https://www.bar-paradox.cz"
+  }
+},
+{
+  "type": "node",
+  "id": 3926243571,
+  "lat": 49.5621323,
+  "lon": 13.1973858,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Rokáč"
+  }
+},
+{
+  "type": "node",
+  "id": 3973326072,
+  "lat": 50.3539597,
+  "lon": 14.4728791,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Disco Era",
+    "opening_hours": "Fr-Sa 19:00-05:00",
+    "phone": "+420 603 382 895",
+    "website": "http://www.disco-era.cz/"
+  }
+},
+{
+  "type": "node",
+  "id": 3993267005,
+  "lat": 49.8537534,
+  "lon": 18.2758116,
+  "tags": {
+    "addr:city": "Ostrava",
+    "addr:housenumber": "595/1",
+    "addr:postcode": "70200",
+    "addr:street": "Fügnerova",
+    "amenity": "nightclub",
+    "description": "Přesídleno od září 2023",
+    "name": "Barrák",
+    "operator": "Barrák music club",
+    "smoking": "yes",
+    "start_date": "2023-09-01",
+    "website": "https://www.barrak-club.cz/"
+  }
+},
+{
+  "type": "node",
+  "id": 4171015386,
+  "lat": 50.0986181,
+  "lon": 14.4429154,
+  "tags": {
+    "addr:city": "Praha",
+    "addr:housenumber": "1",
+    "addr:postcode": "17000",
+    "addr:street": "Argentinská",
+    "amenity": "nightclub",
+    "internet_access": "wlan",
+    "name": "Euphoria Music Club",
+    "opening_hours": "We-Th 21:00-01:00; Fr-Sa 21:00-05:00",
+    "phone": "+420 728 722 185",
+    "smoking": "no",
+    "wikidata": "Q22074725",
+    "wikimedia_commons": "Category:Argentinská 1"
+  }
+},
+{
+  "type": "node",
+  "id": 4171120558,
+  "lat": 50.0859437,
+  "lon": 14.4394840,
+  "tags": {
+    "addr:city": "Praha",
+    "addr:housenumber": "3",
+    "addr:postcode": "13000",
+    "addr:street": "Seifertova",
+    "amenity": "nightclub",
+    "check_date": "2026-08-24",
+    "check_date:opening_hours": "2026-08-24",
+    "lgbtq": "primary",
+    "name": "UP & DOWN",
+    "opening_hours": "Mo-Su 21:30-02:00+",
+    "phone": "+420 777 106 308",
+    "website": "http://www.updownbarprague.cz/"
+  }
+},
+{
+  "type": "node",
+  "id": 4188207902,
+  "lat": 50.0744673,
+  "lon": 14.4377735,
+  "tags": {
+    "addr:city": "Praha 2",
+    "addr:housenumber": "75/4",
+    "addr:postcode": "12000",
+    "addr:street": "Francouzská",
+    "alt_name": "OX club Prague",
+    "amenity": "nightclub",
+    "email": "info@oxprague.com",
+    "name": "OX Club",
+    "phone": "+420 606 824 005",
+    "source": "https://www.oxclubprague.com/",
+    "website": "https://www.oxclubprague.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 4263188196,
+  "lat": 49.8708828,
+  "lon": 18.4278472,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Kavárna"
+  }
+},
+{
+  "type": "node",
+  "id": 4280807012,
+  "lat": 50.0746312,
+  "lon": 14.4147552,
+  "tags": {
+    "addr:housenumber": "11",
+    "addr:postcode": "12800",
+    "addr:street": "Gorazdova",
+    "amenity": "nightclub",
+    "name": "Heaven-gay cinema bar",
+    "website": "http://www.heaven.cz"
+  }
+},
+{
+  "type": "node",
+  "id": 4305967882,
+  "lat": 49.7886275,
+  "lon": 18.2252025,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Alexandria Loď",
+    "opening_hours": "Fr 20:00-24:00; Sa 00:00-05:30,20:00-24:00; Su 00:00-05:30",
+    "website": "https://www.facebook.com/AlexandriaLodOv"
+  }
+},
+{
+  "type": "node",
+  "id": 4312616918,
+  "lat": 50.4658764,
+  "lon": 14.9439659,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Night Club Na Zámečku"
+  }
+},
+{
+  "type": "node",
+  "id": 4319319089,
+  "lat": 50.4340947,
+  "lon": 15.3587540,
+  "tags": {
+    "addr:housenumber": "504",
+    "addr:postcode": "50601",
+    "addr:street": "Denisova",
+    "amenity": "nightclub",
+    "email": "tancak@tancak.cz",
+    "name": "Tančák club",
+    "opening_hours": "Fr-Sa 21:00-04:00",
+    "phone": "+420724312137",
+    "website": "http://www.tancak.cz"
+  }
+},
+{
+  "type": "node",
+  "id": 4347123090,
+  "lat": 49.5631999,
+  "lon": 15.9390567,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2025-05-26",
+    "name": "RICCO bar"
+  }
+},
+{
+  "type": "node",
+  "id": 4359106991,
+  "lat": 48.8614085,
+  "lon": 16.0449599,
+  "tags": {
+    "addr:city": "Znojmo",
+    "addr:housenumber": "1599/19",
+    "addr:postcode": "66902",
+    "addr:street": "Pražská",
+    "amenity": "nightclub",
+    "name": "Gogoklub",
+    "name:cs": "Gogoklub",
+    "name:de": "Gogoklub",
+    "website": "http://www.gogoklub.com"
+  }
+},
+{
+  "type": "node",
+  "id": 4451906434,
+  "lat": 50.0850893,
+  "lon": 14.4167381,
+  "tags": {
+    "addr:city": "Praha",
+    "addr:conscriptionnumber": "247",
+    "addr:country": "CZ",
+    "addr:housenumber": "247/10",
+    "addr:place": "Staré Město",
+    "addr:postcode": "11000",
+    "addr:street": "Liliová",
+    "addr:streetnumber": "10",
+    "addr:suburb": "Praha 1",
+    "amenity": "nightclub",
+    "name": "Blues sklep",
+    "opening_hours": "Mo-Su 00:00-02:30,19:00-24:00",
+    "phone": "+420 608 848 074",
+    "source:addr": "cuzk:ruian",
+    "website": "https://bluessklep.cz/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4451906441,
+  "lat": 50.0823577,
+  "lon": 14.4488616,
+  "tags": {
+    "addr:city": "Praha",
+    "addr:conscriptionnumber": "1548",
+    "addr:country": "CZ",
+    "addr:housenumber": "1548/27",
+    "addr:place": "Žižkov",
+    "addr:postcode": "13000",
+    "addr:street": "Kubelíkova",
+    "addr:streetnumber": "27",
+    "addr:suburb": "Praha 3",
+    "amenity": "nightclub",
+    "description": "Pokladna v Kavárně Paláce Akropolis",
+    "facebook": "https://www.facebook.com/Palac.Akropolis.klub/",
+    "name": "Palác Akropolis",
+    "phone": "+420 296 330 913",
+    "source:addr": "cuzk:ruian",
+    "source:loc": "survey",
+    "website": "https://www.palacakropolis.cz/"
+  }
+},
+{
+  "type": "node",
+  "id": 4496885689,
+  "lat": 50.7659653,
+  "lon": 15.0517704,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Maddox",
+    "name:cs": "Maddox",
+    "name:en": "Maddox"
+  }
+},
+{
+  "type": "node",
+  "id": 4580240177,
+  "lat": 49.9576551,
+  "lon": 12.7003697,
+  "tags": {
+    "amenity": "nightclub",
+    "level": "-1",
+    "name": "D-club",
+    "operator": "FLASHDANCE CLUB s.r.o.",
+    "outdoor_seating": "no",
+    "smoking": "yes",
+    "source": "survey",
+    "website": "https://www.d-club.cz/"
+  }
+},
+{
+  "type": "node",
+  "id": 4621961397,
+  "lat": 49.3545621,
+  "lon": 12.8516792,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Club",
+    "name:cs": "Club"
+  }
+},
+{
+  "type": "node",
+  "id": 4704469264,
+  "lat": 50.1586817,
+  "lon": 16.2763227,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Typos cz"
+  }
+},
+{
+  "type": "node",
+  "id": 4705276922,
+  "lat": 50.1717795,
+  "lon": 16.2784219,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Dance Pivovar",
+    "smoking": "separated"
+  }
+},
+{
+  "type": "node",
+  "id": 4742235382,
+  "lat": 49.2100919,
+  "lon": 16.6033277,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2026-06-02",
+    "name": "Balkan Bar"
+  }
+},
+{
+  "type": "node",
+  "id": 4799904802,
+  "lat": 50.0853068,
+  "lon": 14.4140363,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Night Gym"
+  }
+},
+{
+  "type": "node",
+  "id": 4809680221,
+  "lat": 49.2205214,
+  "lon": 16.6532773,
+  "tags": {
+    "addr:housenumber": "27/54",
+    "addr:street": "Jarní",
+    "amenity": "nightclub",
+    "name": "Bella Vista"
+  }
+},
+{
+  "type": "node",
+  "id": 4850534028,
+  "lat": 49.1925285,
+  "lon": 16.6061610,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date:opening_hours": "2025-11-27",
+    "contact:facebook": "https://www.facebook.com/VibeClubBrno/",
+    "contact:phone": "+420 725 355 237",
+    "name": "Vibe Club",
+    "opening_hours:signed": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4853548738,
+  "lat": 50.0686757,
+  "lon": 14.4938526,
+  "tags": {
+    "amenity": "nightclub",
+    "internet_access": "wlan",
+    "name": "Repro bar & music club",
+    "opening_hours": "Mo-Th 20:00-04:00, Fr-Sa 20:00-06:00",
+    "smoking": "yes",
+    "website": "http://www.reproclub.cz/"
+  }
+},
+{
+  "type": "node",
+  "id": 4907150022,
+  "lat": 49.7573892,
+  "lon": 16.4672074,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Winx",
+    "name:cs": "Winx"
+  }
+},
+{
+  "type": "node",
+  "id": 4907150821,
+  "lat": 49.7575949,
+  "lon": 16.4695567,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Moo",
+    "name:cs": "Moo"
+  }
+},
+{
+  "type": "node",
+  "id": 4997465840,
+  "lat": 50.0771133,
+  "lon": 14.4429056,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2024-06-26",
+    "check_date:opening_hours": "2023-05-06",
+    "name": "Factory Club",
+    "opening_hours": "Mo-Th 21:00-07:00, Fr,Sa 21:00-09:00, Su 21:00-05:00"
+  }
+},
+{
+  "type": "node",
+  "id": 5019922223,
+  "lat": 49.1920178,
+  "lon": 16.6039821,
+  "tags": {
+    "addr:housenumber": "7",
+    "addr:postcode": "60200",
+    "addr:street": "Pekařská",
+    "amenity": "nightclub",
+    "check_date": "2026-06-18",
+    "lgbtq": "primary",
+    "name": "Lemon Music Club",
+    "opening_hours": "Fr-Sa 20:00-05:00",
+    "phone": "+420 777 951 619"
+  }
+},
+{
+  "type": "node",
+  "id": 5031035123,
+  "lat": 50.1375098,
+  "lon": 15.9114341,
+  "tags": {
+    "addr:housenumber": "183",
+    "addr:place": "Býšť",
+    "addr:postcode": "53322",
+    "amenity": "nightclub",
+    "name": "Noční bar Dallas",
+    "name:cs": "Noční bar Dallas",
+    "name:en": "Night bar Dallas",
+    "opening_hours": "Mo-Su 21:00-05:00",
+    "phone": "+420 608 507 705",
+    "website": "http://www.penziondallas.cz"
+  }
+},
+{
+  "type": "node",
+  "id": 5043628023,
+  "lat": 49.6034892,
+  "lon": 13.8681013,
+  "tags": {
+    "addr:city": "Rožmitál pod Třemšínem",
+    "addr:country": "CZ",
+    "addr:housenumber": "299",
+    "addr:postcode": "26242",
+    "addr:street": "Komenského",
+    "amenity": "nightclub",
+    "email": "info@klub-altan.cz",
+    "facebook": "https://www.facebook.com/Music-club-ALTÁN-1653666671571459/",
+    "name": "Hudební klub Altán",
+    "opening_hours": "Fr,Sa 00:00-06:00,21:00-24:00",
+    "phone": "+420 318 666 121",
+    "website": "http://www.klub-altan.cz/"
+  }
+},
+{
+  "type": "node",
+  "id": 5043723777,
+  "lat": 49.7407643,
+  "lon": 13.5989438,
+  "tags": {
+    "addr:city": "Rokycany",
+    "addr:conscriptionnumber": "1",
+    "addr:country": "CZ",
+    "addr:housenumber": "1",
+    "addr:place": "Nové Město",
+    "addr:postcode": "33701",
+    "addr:street": "Jiráskova",
+    "amenity": "nightclub",
+    "facebook": "https://www.facebook.com/Music-Club-No-1-162186493804476/",
+    "name": "Music Club No. 1",
+    "opening_hours": "Fr,Sa 00:00-05:00,21:00-24:00",
+    "phone": "+420 775 934 585",
+    "source:addr": "cuzk:ruian",
+    "website": "http://no-1.cz/"
+  }
+},
+{
+  "type": "node",
+  "id": 5107062900,
+  "lat": 49.0673693,
+  "lon": 17.4618740,
+  "tags": {
+    "amenity": "nightclub",
+    "internet_access:fee": "no",
+    "name": "Club No.6",
+    "opening_hours": "We 21:00-03:00, Fr,Sa 21:00-06:00"
+  }
+},
+{
+  "type": "node",
+  "id": 5153705531,
+  "lat": 48.8353878,
+  "lon": 16.0690092,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "show girls",
+    "name:cs": "show girls",
+    "name:en": "show girls"
+  }
+},
+{
+  "type": "node",
+  "id": 5243468784,
+  "lat": 50.0925935,
+  "lon": 14.4897903,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Nová Chmelnice",
+    "phone": "+420602172830",
+    "source": "survey",
+    "website": "https://www.novachmelnice.cz/"
+  }
+},
+{
+  "type": "node",
+  "id": 5327756608,
+  "lat": 50.1298002,
+  "lon": 14.4514912,
+  "tags": {
+    "addr:housenumber": "1772/53",
+    "addr:postcode": "182 00",
+    "addr:street": "Třeboradická",
+    "amenity": "nightclub",
+    "email": "fleapit@post.cz",
+    "name": "Fleapit",
+    "opening_hours": "Mo-Th 18:00-04:00; Fr-Sa 19:00-05:00",
+    "outdoor_seating": "no",
+    "phone": "+420 284 681 299;+420 776 000 018",
+    "website": "http://fleapit.cz"
+  }
+},
+{
+  "type": "node",
+  "id": 5533592374,
+  "lat": 49.7448812,
+  "lon": 13.3728686,
+  "tags": {
+    "addr:city": "Plzeň",
+    "addr:housenumber": "4/3",
+    "addr:postcode": "30100",
+    "addr:street": "Klatovská třída",
+    "amenity": "nightclub",
+    "check_date:opening_hours": "2026-05-25",
+    "contact:instagram": "https://www.instagram.com/urbex_club_plzen",
+    "email": "urbex.club.plzen@gmail.com",
+    "facebook": "https://www.facebook.com/urbexpilsenteam",
+    "name": "URBEX Club",
+    "opening_hours": "We-Th 19:00-01:00, Fr-Sa 19:00-02:00",
+    "phone": "+420 733 723 603"
+  }
+},
+{
+  "type": "node",
+  "id": 5566466940,
+  "lat": 50.0754938,
+  "lon": 14.4625595,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "EXCLUSIVE Cabaret Club",
+    "name:en": "AAA Exclusive Club"
+  }
+},
+{
+  "type": "node",
+  "id": 5678915774,
+  "lat": 50.0372787,
+  "lon": 14.5151160,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Music Club Jižák"
+  }
+},
+{
+  "type": "node",
+  "id": 5793613608,
+  "lat": 49.9656627,
+  "lon": 16.9737100,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Apsara"
+  }
+},
+{
+  "type": "node",
+  "id": 5969573579,
+  "lat": 49.4578048,
+  "lon": 17.4498387,
+  "tags": {
+    "addr:city": "Přerov",
+    "addr:housenumber": "602/2",
+    "addr:postcode": "75002",
+    "addr:street": "Za Mlýnem",
+    "amenity": "nightclub",
+    "email": "discoportocz@gmail.com",
+    "name": "Disco Porto",
+    "opening_hours": "Fr-Sa 21:00-06:00",
+    "phone": "+420 604 308 624",
+    "website": "https://www.discoporto.cz/"
+  }
+},
+{
+  "type": "node",
+  "id": 5983966300,
+  "lat": 49.0672682,
+  "lon": 17.4690192,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Dance bar Hvězda"
+  }
+},
+{
+  "type": "node",
+  "id": 6151073059,
+  "lat": 49.3181768,
+  "lon": 18.1470713,
+  "tags": {
+    "addr:city": "Halenkov",
+    "addr:housenumber": "24",
+    "addr:postcode": "75603",
+    "amenity": "nightclub",
+    "email": "club.mostarna@seznam.cz",
+    "name": "Moštárna club"
+  }
+},
+{
+  "type": "node",
+  "id": 6519019887,
+  "lat": 50.0864175,
+  "lon": 12.3828016,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Klub Alternativa"
+  }
+},
+{
+  "type": "node",
+  "id": 6595122985,
+  "lat": 49.7453920,
+  "lon": 13.3772759,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Anděl Music Bar",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 6680293446,
+  "lat": 50.1546759,
+  "lon": 12.2800543,
+  "tags": {
+    "addr:city": "Hazlov",
+    "addr:housenumber": "494",
+    "addr:postcode": "35132",
+    "amenity": "nightclub",
+    "name": "Mabuhay",
+    "opening_hours": "24/7"
+  }
+},
+{
+  "type": "node",
+  "id": 6801723552,
+  "lat": 49.1011847,
+  "lon": 17.7590373,
+  "tags": {
+    "addr:city": "Luhačovice",
+    "addr:housenumber": "950",
+    "addr:postcode": "763 26",
+    "addr:street": "Masarykova",
+    "amenity": "nightclub",
+    "check_date": "2024-07-09",
+    "level": "1",
+    "name": "Elektra",
+    "payment:cash": "yes",
+    "phone": "+420 577 134 335",
+    "smoking": "outside",
+    "website": "https://elektra.luhacovice.cz/"
+  }
+},
+{
+  "type": "node",
+  "id": 7804667531,
+  "lat": 49.8224983,
+  "lon": 18.2781158,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Heligonka",
+    "smoking": "outside"
+  }
+},
+{
+  "type": "node",
+  "id": 8039404685,
+  "lat": 50.6957427,
+  "lon": 15.7378193,
+  "tags": {
+    "addr:housenumber": "139",
+    "addr:postcode": "54221",
+    "addr:street": "Pec pod Sněžkou",
+    "amenity": "nightclub",
+    "email": "info@klondikeklub.cz",
+    "internet_access": "wlan",
+    "name": "KlonDike music club",
+    "phone": "+420 728502738",
+    "website": "https://klondikeklub.cz/html/index.html"
+  }
+},
+{
+  "type": "node",
+  "id": 8298717017,
+  "lat": 49.1909088,
+  "lon": 16.6155244,
+  "tags": {
+    "addr:housenumber": "322/7",
+    "addr:postcode": "60200",
+    "addr:street": "Mlýnská",
+    "amenity": "nightclub",
+    "contact:phone": "+420 732 968 255",
+    "contact:website": "https://alibaba.cz/",
+    "name": "Alibaba",
+    "opening_hours": "Mo-Th 21:00-04:00; Fr-Sa 21:00-05:00"
+  }
+},
+{
+  "type": "node",
+  "id": 9025228894,
+  "lat": 48.8170045,
+  "lon": 14.3046013,
+  "tags": {
+    "addr:city": "Český Krumlov",
+    "addr:postcode": "381 01",
+    "addr:street": "Chvalšinská",
+    "amenity": "nightclub",
+    "name": "Club Museum Czech underground"
+  }
+},
+{
+  "type": "node",
+  "id": 9135837493,
+  "lat": 50.0783036,
+  "lon": 14.4360586,
+  "tags": {
+    "addr:city": "Praha 2",
+    "addr:housenumber": "25",
+    "addr:postcode": "12000",
+    "addr:street": "Vinohradská",
+    "amenity": "nightclub",
+    "check_date": "2024-01-31",
+    "description": "Provozujeme klub. Nabízíme alkoholické a nealkoholické nápoje a koktejly. Je u nás možné pořádat soukromé firemní akce nebo oslavy.",
+    "email": "info@tresorclub.cz",
+    "name": "Tresor club",
+    "phone": "+420 777 789 992",
+    "website": "https://www.tresorclub.cz"
+  }
+},
+{
+  "type": "node",
+  "id": 9190628405,
+  "lat": 49.9501185,
+  "lon": 15.2686016,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Jáma Music Club",
+    "phone": "+420 733 704 092"
+  }
+},
+{
+  "type": "node",
+  "id": 9247046760,
+  "lat": 50.2066063,
+  "lon": 12.7674121,
+  "tags": {
+    "addr:city": "Nové Sedlo",
+    "addr:housenumber": "58",
+    "addr:postcode": "35735",
+    "addr:street": "Jalový Dvůr",
+    "amenity": "nightclub",
+    "name": "Vanesa"
+  }
+},
+{
+  "type": "node",
+  "id": 9399721140,
+  "lat": 48.9750038,
+  "lon": 14.4701470,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "K2 Music Club"
+  }
+},
+{
+  "type": "node",
+  "id": 9423661975,
+  "lat": 48.9734086,
+  "lon": 14.4732114,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Maxim",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 9423714771,
+  "lat": 48.9730097,
+  "lon": 14.4746277,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Bar Broukárna",
+    "opening_hours": "We-Sa 21:00-05:00",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 9704547092,
+  "lat": 49.8340291,
+  "lon": 18.2940246,
+  "tags": {
+    "addr:housenumber": "3187",
+    "addr:street": "Černá louka",
+    "amenity": "nightclub",
+    "email": "valachmi@seznam.cz",
+    "min_age": "18",
+    "name": "Marley",
+    "opening_hours": "Fr-Sa 20:00-06:00",
+    "website": "https://www.facebook.com/marley.club/"
+  }
+},
+{
+  "type": "node",
+  "id": 9845493184,
+  "lat": 49.9154544,
+  "lon": 18.1315832,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Kravín",
+    "website": "https://kravin.info/;https://www.facebook.com/KlubKravin"
+  }
+},
+{
+  "type": "node",
+  "id": 10065744490,
+  "lat": 50.2229929,
+  "lon": 12.1918738,
+  "tags": {
+    "amenity": "nightclub",
+    "contact:email": "lipanclubas@email.cz",
+    "contact:facebook": "https://www.facebook.com/LipanClubAs",
+    "disused": "yes",
+    "name": "Havana Club Aš"
+  }
+},
+{
+  "type": "node",
+  "id": 10246893666,
+  "lat": 49.7759927,
+  "lon": 13.3601740,
+  "tags": {
+    "addr:city": "Plzeň",
+    "addr:housenumber": "1840/9a",
+    "addr:postcode": "32300",
+    "addr:street": "Žlutická",
+    "amenity": "nightclub",
+    "name": "Runway club",
+    "opening_hours": "Mo-Th 16:00-02:00; Fr 17:00-05:00; Sa 17:00-04:00; Su 17:00-12:00",
+    "phone": "+420773528574",
+    "website": "http://www.facebook.com/runwayplzen"
+  }
+},
+{
+  "type": "node",
+  "id": 10885933620,
+  "lat": 49.2168187,
+  "lon": 17.5161041,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Music Club U Bubáka"
+  }
+},
+{
+  "type": "node",
+  "id": 10923635361,
+  "lat": 49.5592848,
+  "lon": 13.1938739,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Disco Rock Club Merklín"
+  }
+},
+{
+  "type": "node",
+  "id": 10936182813,
+  "lat": 49.3949678,
+  "lon": 13.2915486,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "retro 69"
+  }
+},
+{
+  "type": "node",
+  "id": 11053074706,
+  "lat": 50.0746210,
+  "lon": 14.4036010,
+  "tags": {
+    "addr:housenumber": "25",
+    "addr:postcode": "15000",
+    "addr:street": "Štefánikova",
+    "amenity": "nightclub",
+    "name": "Salsita Club"
+  }
+},
+{
+  "type": "node",
+  "id": 11090339316,
+  "lat": 50.5120518,
+  "lon": 13.2501617,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Relax"
+  }
+},
+{
+  "type": "node",
+  "id": 11090339319,
+  "lat": 50.5093159,
+  "lon": 13.2488758,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "night club AMBRA",
+    "phone": "+420776011888"
+  }
+},
+{
+  "type": "node",
+  "id": 11173379819,
+  "lat": 50.1078638,
+  "lon": 13.7307946,
+  "tags": {
+    "addr:city": "Rakovník",
+    "addr:housenumber": "2479",
+    "addr:postcode": "26901",
+    "addr:street": "V Jamce",
+    "amenity": "nightclub",
+    "brewery": "mustang;guinness",
+    "check_date": "2026-09-12",
+    "level": "2",
+    "name": "Multižánrový Klub Živák",
+    "opening_hours": "off",
+    "payment:cards": "no",
+    "payment:cash": "yes",
+    "payment:credit_cards": "no",
+    "payment:debit_cards": "no",
+    "smoking": "outside",
+    "website": "https://www.facebook.com/klubzivak",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 11173440693,
+  "lat": 50.1030161,
+  "lon": 13.7351635,
+  "tags": {
+    "addr:city": "Rakovník",
+    "addr:housenumber": "2327",
+    "addr:postcode": "26901",
+    "addr:street": "Pražská",
+    "alt_name": "Retro Čento",
+    "amenity": "nightclub",
+    "brewery": "yes",
+    "check_date": "2024-10-05",
+    "contact:facebook": "https://www.facebook.com/profile.php?id=61566501640711",
+    "dog": "no",
+    "level": "-1",
+    "min_age": "18",
+    "name": "Retro CENTO Music Club",
+    "opening_hours": "Fr-Sa 22:00-05:00",
+    "payment:cards": "no",
+    "payment:cash": "yes",
+    "payment:credit_cards": "no",
+    "payment:debit_cards": "no",
+    "service:electricity": "no",
+    "short_name": "Retro Cento",
+    "smoking": "outside",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 11241293576,
+  "lat": 50.1462725,
+  "lon": 14.1018189,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Turbo Music Club"
+  }
+},
+{
+  "type": "node",
+  "id": 11297561956,
+  "lat": 50.4415473,
+  "lon": 15.3637782,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Music club eMko",
+    "opening_hours": "Fr,Sa 22:00-04:00; Su-Th off"
+  }
+},
+{
+  "type": "node",
+  "id": 11490212955,
+  "lat": 49.9880716,
+  "lon": 18.0521605,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "exit2",
+    "operator": "Miloslava Gadačová",
+    "website": "https://www.facebook.com/people/Exit2-retro-club-Kobe%C5%99ice/100063562691333/"
+  }
+},
+{
+  "type": "node",
+  "id": 11490213033,
+  "lat": 49.9520328,
+  "lon": 18.0342273,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Cobra",
+    "website": "https://www.facebook.com/cobrastepankovice/"
+  }
+},
+{
+  "type": "node",
+  "id": 11490213034,
+  "lat": 49.9363596,
+  "lon": 17.9010404,
+  "tags": {
+    "amenity": "nightclub",
+    "description": "Tančírna - Klub ART",
+    "name": "Klub ART",
+    "website": "https://www.facebook.com/people/Tan%C4%8D%C3%ADrna-Klub-ART/100089717060984/"
+  }
+},
+{
+  "type": "node",
+  "id": 11490213038,
+  "lat": 49.9415785,
+  "lon": 17.8967291,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "U Vočka",
+    "website": "https://www.facebook.com/people/U-Vo%C4%8Dka/100057464019351/"
+  }
+},
+{
+  "type": "node",
+  "id": 11490213039,
+  "lat": 49.7759432,
+  "lon": 18.2569521,
+  "tags": {
+    "amenity": "nightclub",
+    "description": "ÁČKO - Luxury Music Club",
+    "name": "ÁČKO",
+    "website": "https://www.facebook.com/luxuryACKO"
+  }
+},
+{
+  "type": "node",
+  "id": 11836591524,
+  "lat": 50.0882521,
+  "lon": 13.6291228,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Club Náves"
+  }
+},
+{
+  "type": "node",
+  "id": 11895657490,
+  "lat": 49.9948874,
+  "lon": 14.8621880,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Rock Club Barák"
+  }
+},
+{
+  "type": "node",
+  "id": 11966793994,
+  "lat": 50.0898192,
+  "lon": 14.4275736,
+  "tags": {
+    "addr:city": "Staré Město",
+    "addr:housenumber": "1003/3",
+    "addr:postcode": "110 00",
+    "addr:street": "Revoluční",
+    "amenity": "nightclub",
+    "description": "Od roku 2017",
+    "name": "EPIC",
+    "opening_hours": "We-Sa 22:00-05:00",
+    "website": "https://www.epicprague.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 12117301916,
+  "lat": 50.0993805,
+  "lon": 14.4439989,
+  "tags": {
+    "addr:city": "Praha",
+    "addr:conscriptionnumber": "306",
+    "addr:housenumber": "306/13",
+    "addr:postcode": "17000",
+    "addr:street": "Bubenské nábřeží",
+    "addr:streetnumber": "13",
+    "amenity": "nightclub",
+    "contact:facebook": "https://www.facebook.com/sasazuclub",
+    "email": "club@sasazu.com",
+    "name": "SaSaZu club",
+    "smoking": "outside"
+  }
+},
+{
+  "type": "node",
+  "id": 12134515682,
+  "lat": 50.3004233,
+  "lon": 17.3245264,
+  "tags": {
+    "amenity": "nightclub",
+    "description": "Centrum club Mikulovice",
+    "name": "Centrum",
+    "website": "https://www.facebook.com/profile.php?id=100057516645142"
+  }
+},
+{
+  "type": "node",
+  "id": 12273008343,
+  "lat": 49.5944150,
+  "lon": 17.2491263,
+  "tags": {
+    "addr:postcode": "77200",
+    "amenity": "nightclub",
+    "check_date": "2026-07-21",
+    "contact:facebook": "varnaclubolomouc",
+    "contact:instagram": "varnaclubolomouc",
+    "name": "Varna Club",
+    "opening_hours": "Th-Sa 22:00-05:00",
+    "smoking": "outside",
+    "website": "https://www.varnaclub.cz/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 12543274662,
+  "lat": 49.7417940,
+  "lon": 13.3792504,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Retro Club Fénix",
+    "opening_hours": "Fr, Sa 21:00-04:00"
+  }
+},
+{
+  "type": "node",
+  "id": 12543442645,
+  "lat": 49.7435468,
+  "lon": 13.3742662,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date:opening_hours": "2026-05-25",
+    "name": "Watt Music Club",
+    "opening_hours": "Fr,Sa 21:00-05:00"
+  }
+},
+{
+  "type": "node",
+  "id": 12546055552,
+  "lat": 49.7446574,
+  "lon": 13.3728079,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Urbex Cafe"
+  }
+},
+{
+  "type": "node",
+  "id": 12616090607,
+  "lat": 50.7665130,
+  "lon": 15.0540070,
+  "tags": {
+    "amenity": "nightclub",
+    "fee": "yes",
+    "name": "Lípa",
+    "smoking": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 12638559958,
+  "lat": 48.8556754,
+  "lon": 16.0553248,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "La Rutika"
+  }
+},
+{
+  "type": "node",
+  "id": 13031932688,
+  "lat": 49.7445341,
+  "lon": 13.3780729,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Mefisto",
+    "opening_hours": "Fr,Sa 21:00-05:00",
+    "website": "https://www.mefistoplzen.cz"
+  }
+},
+{
+  "type": "node",
+  "id": 13032349450,
+  "lat": 49.7425123,
+  "lon": 13.3794846,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "21 Club",
+    "website": "https://www.21club.cz"
+  }
+},
+{
+  "type": "node",
+  "id": 13110018111,
+  "lat": 49.5914166,
+  "lon": 17.2508295,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Lobby hifi bar",
+    "opening_hours": "Fr,Sa 19:00-01:00"
+  }
+},
+{
+  "type": "node",
+  "id": 13122994602,
+  "lat": 49.1927173,
+  "lon": 16.6058874,
+  "tags": {
+    "addr:housenumber": "342/19",
+    "addr:street": "Dominikánská",
+    "amenity": "nightclub",
+    "level": "1",
+    "name": "Patro",
+    "website": "https://patrobrno.cz/"
+  }
+},
+{
+  "type": "node",
+  "id": 13155222151,
+  "lat": 50.0981884,
+  "lon": 14.4050693,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "JammClub",
+    "opening_hours": "Mo-Th 18:00-24:00; Fr-Sa 18:00-24:00; Sa-Su 00:00-01:00"
+  }
+},
+{
+  "type": "node",
+  "id": 13404060578,
+  "lat": 49.1503483,
+  "lon": 17.0011384,
+  "tags": {
+    "amenity": "nightclub",
+    "facebook": "https://www.facebook.com/hoodbarbucovice",
+    "instagram": "https://www.instagram.com/hoodbar_bucovice/",
+    "name": "Hoodbar",
+    "url": "https://goout.net/cs/hoodbar/vzjygg/"
+  }
+},
+{
+  "type": "node",
+  "id": 13533302712,
+  "lat": 49.7459830,
+  "lon": 13.3726575,
+  "tags": {
+    "addr:city": "Plzeň",
+    "addr:housenumber": "203/2",
+    "addr:postcode": "30100",
+    "addr:street": "Divadelní",
+    "amenity": "nightclub",
+    "contact:email": "jiri.kaas@gmail.com",
+    "contact:facebook": "https://www.facebook.com/mkoclubplzen",
+    "contact:instagram": "https://www.instagram.com/mkoclub",
+    "contact:phone": "+420 720 162 801",
+    "name": "Mko After Club & Lounge",
+    "opening_hours": "Sa-Su 00:00-09:00"
+  }
+},
+{
+  "type": "node",
+  "id": 13628776501,
+  "lat": 49.5870292,
+  "lon": 17.2250877,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Kleopatra",
+    "opening_hours": "Mo-Su 21:00-05:00"
+  }
+},
+{
+  "type": "node",
+  "id": 13648435230,
+  "lat": 49.7436782,
+  "lon": 13.3734114,
+  "tags": {
+    "amenity": "nightclub",
+    "level": "1",
+    "name": "Club88",
+    "opening_hours": "Mo-Th 22:00-01:30;Fr-Sa 22:00-04:30"
+  }
+},
+{
+  "type": "node",
+  "id": 13648435231,
+  "lat": 49.7436467,
+  "lon": 13.3734018,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Jameson Rock Club",
+    "opening_hours": "Tu-Th 17:00-01:00;Fr-Sa 17:00-03:00;Su 17:00-01:00",
+    "phone": "+420734153135"
+  }
+},
+{
+  "type": "node",
+  "id": 13659159961,
+  "lat": 50.0836773,
+  "lon": 14.4205560,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Le Valmont"
+  }
+},
+{
+  "type": "node",
+  "id": 13712225650,
+  "lat": 50.2339437,
+  "lon": 12.8898594,
+  "tags": {
+    "addr:city": "Karlovy Vary",
+    "addr:housenumber": "580/61",
+    "addr:street": "Lidická",
+    "alt_name": "Klub Máčko",
+    "amenity": "nightclub",
+    "name": "Marlboro club"
+  }
+},
+{
+  "type": "node",
+  "id": 13712242251,
+  "lat": 50.2445990,
+  "lon": 12.8324883,
+  "tags": {
+    "addr:city": "Karlovy Vary",
+    "addr:housenumber": "841/79",
+    "addr:postcode": "36017",
+    "addr:street": "Závodu míru",
+    "alt_name": "Brooklyn club",
+    "amenity": "nightclub",
+    "name": "Moon club"
+  }
+},
+{
+  "type": "node",
+  "id": 13770795265,
+  "lat": 50.2345084,
+  "lon": 12.8768766,
+  "tags": {
+    "addr:city": "Karlovy Vary",
+    "addr:housenumber": "517/28",
+    "addr:postcode": "36001",
+    "addr:street": "Ondříčkova",
+    "amenity": "nightclub",
+    "min_age": "18",
+    "mobile": "+420 605 278 004",
+    "name": "Lady Marion",
+    "opening_hours": "Mo-Su 20:00-04:00"
+  }
+},
+{
+  "type": "node",
+  "id": 13770795266,
+  "lat": 50.4287326,
+  "lon": 12.7335088,
+  "tags": {
+    "addr:city": "Potůčky",
+    "addr:housenumber": "131",
+    "addr:postcode": "36335",
+    "addr:street": "Potůčky",
+    "amenity": "nightclub",
+    "min_age": "18",
+    "name": "Kiss club",
+    "opening_hours": "Mo-Su 15:00-04:00"
+  }
+},
+{
+  "type": "node",
+  "id": 13793868400,
+  "lat": 48.9076532,
+  "lon": 15.8201372,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Belvedere"
+  }
+},
+{
+  "type": "node",
+  "id": 13793868408,
+  "lat": 48.9087008,
+  "lon": 15.8211437,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Absolut"
+  }
+},
+{
+  "type": "node",
+  "id": 13938921423,
+  "lat": 50.3334969,
+  "lon": 12.5041358,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date:opening_hours": "2026-06-23",
+    "contact:facebook": "https://www.facebook.com/musicclubseverka",
+    "email": "severka.kraslice@gmail.com",
+    "name": "Music club Severka",
+    "opening_hours:signed": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13953207692,
+  "lat": 49.1915093,
+  "lon": 16.6092363,
+  "tags": {
+    "amenity": "nightclub",
+    "level": "-1",
+    "name": "pul.pit",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "smoking": "separated",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 14015844793,
+  "lat": 50.3292989,
+  "lon": 12.5114075,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "FreeClub",
+    "opening_hours": "Mo-Th 17:00-02:00; Fr-Sa 17:00-04:00; Su off",
+    "phone": "+420 728 375 361"
+  }
+},
+{
+  "type": "node",
+  "id": 14095695263,
+  "lat": 50.1708606,
+  "lon": 12.6689961,
+  "tags": {
+    "addr:city": "Sokolov",
+    "addr:housenumber": "2039",
+    "addr:postcode": "35601",
+    "addr:street": "Lipová",
+    "amenity": "nightclub",
+    "name": "Mad Music Hall"
+  }
+},
+{
+  "type": "node",
+  "id": 14137419292,
+  "lat": 50.9078271,
+  "lon": 14.6262773,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Zenith Lounge & Bar"
+  }
+},
+{
+  "type": "node",
+  "id": 14179699501,
+  "lat": 50.0993318,
+  "lon": 14.4703678,
+  "tags": {
+    "addr:housenumber": "1274/5",
+    "addr:postcode": "18000",
+    "addr:street": "Pod Plynojemem",
+    "amenity": "nightclub",
+    "check_date": "2026-09-14",
+    "check_date:opening_hours": "2026-09-14",
+    "contact:instagram": "xbar.prague",
+    "contact:twitter": "xbarprague",
+    "email": "xbarprague@icloud.com",
+    "lgbtq": "primary",
+    "name": "X Bar Prague",
+    "opening_hours": "Mo-Su 21:00-04:00",
+    "phone": "+420 775 520 797",
+    "website": "https://www.xbarprague.eu/"
+  }
+},
+{
+  "type": "node",
+  "id": 14206998561,
+  "lat": 49.1866340,
+  "lon": 16.5860201,
+  "tags": {
+    "addr:housenumber": "220/37",
+    "addr:place": "Staré Brno",
+    "addr:postcode": "60300",
+    "addr:street": "Křížkovského",
+    "amenity": "nightclub",
+    "contact:phone": "+420 778 559 449",
+    "contact:website": "https://www.reddevilnc.cz/",
+    "name": "Red devil",
+    "opening_hours": "21:00-05:00",
+    "operator": "Red Devil NC Group s.r.o."
+  }
+},
+{
+  "type": "way",
+  "id": 30707908,
+  "center": {
+    "lat": 49.2968786,
+    "lon": 17.4008496
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "residential",
+    "building:flats": "92",
+    "building:levels": "10",
+    "building:ruian:type": "3",
+    "name": "Diskotéka Cabras",
+    "ref:ruian:building": "10321047",
+    "source": "cuzk:ruian"
+  }
+},
+{
+  "type": "way",
+  "id": 31858185,
+  "center": {
+    "lat": 49.2186992,
+    "lon": 15.8935236
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "civic",
+    "building:levels": "1",
+    "building:ruian:type": "5",
+    "name": "DON",
+    "ref:ruian:building": "18626777",
+    "source": "cuzk:ruian",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "way",
+  "id": 31902106,
+  "center": {
+    "lat": 49.2223543,
+    "lon": 15.8844033
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "civic",
+    "building:levels": "2",
+    "building:ruian:type": "5",
+    "name": "Roxy Club",
+    "ref:ruian:building": "18628117",
+    "source": "cuzk:ruian",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 47585759,
+  "center": {
+    "lat": 49.7478530,
+    "lon": 13.3689507
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "building:flats": "13",
+    "building:ruian:type": "19",
+    "name": "Buena Vista Club",
+    "opening_hours": "Tu-Th 10:30-18:30; Fr 14:30-22:00; Sa 18:00-23:00",
+    "ref:ruian:building": "24108235",
+    "source": "cuzk:ruian"
+  }
+},
+{
+  "type": "way",
+  "id": 50676040,
+  "center": {
+    "lat": 49.2298003,
+    "lon": 16.5916455
+  },
+  "tags": {
+    "addr:city": "Brno",
+    "addr:housenumber": "148",
+    "addr:postcode": "61200",
+    "addr:street": "Palackého třída",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Nová Melodka",
+    "opening_hours": "\"nebo dle koncertů\"",
+    "source": "cuzk:km",
+    "website": "https://www.melodka.cz/"
+  }
+},
+{
+  "type": "way",
+  "id": 51207632,
+  "center": {
+    "lat": 49.7385532,
+    "lon": 13.3695780
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "residential",
+    "building:ruian:type": "3",
+    "name": "Divadlo pod Lampou",
+    "ref:ruian:building": "24113301",
+    "source": "cuzk:ruian"
+  }
+},
+{
+  "type": "way",
+  "id": 69909329,
+  "center": {
+    "lat": 49.8443114,
+    "lon": 18.2777588
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "building:flats": "1",
+    "building:ruian:type": "19",
+    "name": "Fabric",
+    "ref:ruian:building": "3165124",
+    "source": "cuzk:ruian"
+  }
+},
+{
+  "type": "way",
+  "id": 74863913,
+  "center": {
+    "lat": 50.5146332,
+    "lon": 16.0207455
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "civic",
+    "building:flats": "2",
+    "building:levels": "1",
+    "building:ruian:type": "5",
+    "name": "Klub Dlouhé Záhony",
+    "ref:ruian:building": "15070956",
+    "source": "cuzk:ruian"
+  }
+},
+{
+  "type": "way",
+  "id": 77497162,
+  "center": {
+    "lat": 50.4310706,
+    "lon": 14.9220516
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "civic",
+    "building:levels": "1",
+    "building:ruian:type": "5",
+    "name": "Disco Forum",
+    "ref:ruian:building": "21011729",
+    "source": "cuzk:ruian"
+  }
+},
+{
+  "type": "way",
+  "id": 77682457,
+  "center": {
+    "lat": 51.0032595,
+    "lon": 14.4643614
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "industrial",
+    "building:levels": "1",
+    "building:ruian:type": "16",
+    "min_age": "18",
+    "name": "Aura Club",
+    "ref:ruian:building": "254533",
+    "roof:shape": "saltbox",
+    "source": "cuzk:ruian"
+  }
+},
+{
+  "type": "way",
+  "id": 93656778,
+  "center": {
+    "lat": 49.2618088,
+    "lon": 13.8940198
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "civic",
+    "building:levels": "1",
+    "building:ruian:type": "5",
+    "name": "music club Inferno",
+    "opening_hours": "Sa 21:00-04:00",
+    "phone": "+420 608 065 685",
+    "ref:ruian:building": "25308726",
+    "source": "cuzk:ruian",
+    "start_date": "2003-07-01",
+    "website": "http://www.haistrakonice.cz/music-club-inferno"
+  }
+},
+{
+  "type": "way",
+  "id": 95118269,
+  "center": {
+    "lat": 50.5853678,
+    "lon": 15.1500091
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "building:ruian:type": "19",
+    "email": "refresh-club@seznam.cz",
+    "name": "Refresh Music Bar",
+    "opening_hours:covid19": "closed",
+    "phone": "+420 605 860 927",
+    "ref:ruian:building": "44751672",
+    "smoking": "outside",
+    "source": "cuzk:ruian",
+    "website": "http://refresh-bar.cz/"
+  }
+},
+{
+  "type": "way",
+  "id": 122542341,
+  "center": {
+    "lat": 49.0183175,
+    "lon": 15.5690955
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Cotton Club",
+    "source": "cuzk:km"
+  }
+},
+{
+  "type": "way",
+  "id": 124241303,
+  "center": {
+    "lat": 49.0556328,
+    "lon": 13.7861758
+  },
+  "tags": {
+    "addr:city": "Vimperk",
+    "addr:housenumber": "83",
+    "addr:postcode": "385 01",
+    "addr:street": "Nádražní",
+    "amenity": "nightclub",
+    "building": "yes",
+    "contact:instagram": "https://www.instagram.com/stew_club/",
+    "name": "Stew Club Vimperk",
+    "source": "cuzk:km"
+  }
+},
+{
+  "type": "way",
+  "id": 143142869,
+  "center": {
+    "lat": 49.4562346,
+    "lon": 17.1117564
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "hotel",
+    "building:flats": "1",
+    "building:ruian:type": "11",
+    "email": "club.portorico@seznam.cz",
+    "name": "Porto Rico",
+    "opening_hours": "20:00-5:00",
+    "phone": "+420733202001",
+    "ref:ruian:building": "30671728",
+    "source": "cuzk:ruian",
+    "website": "http://www.clubportorico.cz/"
+  }
+},
+{
+  "type": "way",
+  "id": 182195841,
+  "center": {
+    "lat": 49.6745221,
+    "lon": 12.5585562
+  },
+  "tags": {
+    "addr:city": "Rozvadov",
+    "amenity": "nightclub",
+    "building": "hotel",
+    "building:levels": "1",
+    "building:ruian:type": "11",
+    "email": "info@lacorte.cz",
+    "name": "La Corte",
+    "opening_hours": "17:00-05:00",
+    "phone": "+420 773 177 060",
+    "ref:ruian:building": "20572051",
+    "roof:shape": "gabled",
+    "source": "cuzk:ruian",
+    "website": "http://www.lacorte.cz/"
+  }
+},
+{
+  "type": "way",
+  "id": 216287861,
+  "center": {
+    "lat": 50.5833171,
+    "lon": 14.3273199
+  },
+  "tags": {
+    "addr:conscriptionnumber": "135",
+    "addr:housenumber": "135",
+    "addr:place": "Úštěk-České Předměstí",
+    "addr:postcode": "41145",
+    "addr:street": "Levínská",
+    "amenity": "nightclub",
+    "building": "civic",
+    "building:levels": "1",
+    "building:ruian:type": "15",
+    "name": "Laguna",
+    "ref:ruian:addr": "72573163",
+    "ref:ruian:building": "23918489",
+    "source": "cuzk:ruian",
+    "start_date": "1994-07-19"
+  }
+},
+{
+  "type": "way",
+  "id": 249908241,
+  "center": {
+    "lat": 48.8467478,
+    "lon": 17.1259538
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "civic",
+    "building:flats": "1",
+    "building:levels": "2",
+    "building:ruian:type": "5",
+    "name": "Palladium",
+    "ref:ruian:building": "22837078",
+    "smoking": "yes",
+    "source": "cuzk:ruian",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 258094860,
+  "center": {
+    "lat": 50.0994999,
+    "lon": 12.3176821
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "building:ruian:type": "7",
+    "name": "Vila",
+    "ref:ruian:building": "20616040",
+    "source": "cuzk:ruian"
+  }
+},
+{
+  "type": "way",
+  "id": 263087495,
+  "center": {
+    "lat": 49.1250411,
+    "lon": 13.8836427
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "civic",
+    "building:flats": "1",
+    "name": "Kulturní dům",
+    "ref:ruian:building": "18248918",
+    "source": "cuzk:ruian"
+  }
+},
+{
+  "type": "way",
+  "id": 274617182,
+  "center": {
+    "lat": 50.0952222,
+    "lon": 14.4363506
+  },
+  "tags": {
+    "addr:city": "Praha 7",
+    "addr:housenumber": "1125",
+    "addr:postcode": "17000",
+    "addr:street": "Ostrov Štvanice",
+    "amenity": "nightclub",
+    "building": "yes",
+    "building:levels": "2",
+    "building:ruian:type": "19",
+    "check_date": "2026-08-02",
+    "name": "Fuchs 2 / Bike Jesus",
+    "ref:ruian:building": "22144536",
+    "roof:colour": "darkgray",
+    "roof:material": "tar_paper",
+    "roof:shape": "flat",
+    "source": "cuzk:ruian",
+    "website": "https://www.fuchs2.cz/"
+  }
+},
+{
+  "type": "way",
+  "id": 311433308,
+  "center": {
+    "lat": 48.7969851,
+    "lon": 16.6322336
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building:part": "yes",
+    "name": "Admirál"
+  }
+},
+{
+  "type": "way",
+  "id": 311433328,
+  "center": {
+    "lat": 48.8004406,
+    "lon": 16.6302435
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "retail",
+    "name": "Casanova",
+    "website": "http://casanova-mikulov.cz/"
+  }
+},
+{
+  "type": "way",
+  "id": 325942800,
+  "center": {
+    "lat": 48.9519105,
+    "lon": 14.4542023
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "retail",
+    "building:levels": "1",
+    "building:ruian:type": "19",
+    "name": "Club Bonver",
+    "ref:ruian:building": "16385497",
+    "roof:shape": "skillion",
+    "source": "cuzk:ruian",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 530047110,
+  "center": {
+    "lat": 48.8196796,
+    "lon": 16.3993634
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "commercial",
+    "building:ruian:type": "19",
+    "name": "Disco Veset",
+    "ref:ruian:building": "42483573",
+    "source": "cuzk:ruian"
+  }
+},
+{
+  "type": "way",
+  "id": 1073219442,
+  "center": {
+    "lat": 49.9151628,
+    "lon": 18.1311467
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Klub Kravín",
+    "operator": "Klub Kravín"
+  }
+}
+
+  ]
+}

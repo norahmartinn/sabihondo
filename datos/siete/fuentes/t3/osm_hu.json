@@ -1,0 +1,2518 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-10-08T23:42:21Z",
+    "timestamp_areas_base": "2026-10-07T10:19:21Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 275474045,
+  "lat": 47.5053384,
+  "lon": 19.0573706,
+  "tags": {
+    "addr:city": "Budapest",
+    "addr:housenumber": "46-48",
+    "addr:postcode": "1065",
+    "addr:street": "Nagymező utca",
+    "amenity": "nightclub",
+    "capacity": "550",
+    "check_date": "2022-09-07",
+    "email": "pappgergely@gmx.com",
+    "facebook": "https://www.facebook.com/thepeachesandcream",
+    "name": "Peaches and Cream",
+    "opening_hours": "Th-Sa 22:00-05:00",
+    "operator": "H & S Corporation Kft.",
+    "phone": "+36 70 381 8380",
+    "website": "https://peachesandcream.hu/"
+  }
+},
+{
+  "type": "node",
+  "id": 293565295,
+  "lat": 45.9628317,
+  "lon": 17.4659907,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Relax Club"
+  }
+},
+{
+  "type": "node",
+  "id": 412161599,
+  "lat": 47.1852636,
+  "lon": 18.4344574,
+  "tags": {
+    "addr:city": "Székesfehérvár",
+    "addr:housenumber": "1",
+    "addr:postcode": "8000",
+    "addr:street": "Takarodó út",
+    "amenity": "nightclub",
+    "capacity": "779",
+    "contact:email": "info@fezen.hu",
+    "contact:facebook": "111984075528783",
+    "contact:phone": "+36 20 849 5526",
+    "contact:website": "https://fezen.hu/fezen-klub/",
+    "internet_access:ssid": "Fezen_Guest;FEZEN_VIP;FEZEN_BACKSTAGE",
+    "name": "Fezen Klub",
+    "operator": "Fehérvári Fesztivál Kft.",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 607391962,
+  "lat": 47.0206155,
+  "lon": 21.1758884,
+  "tags": {
+    "addr:city": "Szeghalom",
+    "addr:housenumber": "37",
+    "addr:postcode": "5520",
+    "addr:street": "Tildy Zoltán utca",
+    "amenity": "nightclub",
+    "contact:email": "stoneclub@freemail.hu",
+    "contact:facebook": "https://www.facebook.com/StoneSzeghalom",
+    "contact:mobile": "+36 30 985 5735",
+    "contact:phone": "+36 66 371 831;+36 66 473 452",
+    "food": "yes",
+    "name": "Stone Club",
+    "opening_hours": "Mo-Th 12:00-21:00; Fr 12:00-23:00; Sa 12:00-24:00; Su 00:00-01:00,12:00-21:00"
+  }
+},
+{
+  "type": "node",
+  "id": 1434210993,
+  "lat": 47.5005601,
+  "lon": 19.0651613,
+  "tags": {
+    "addr:city": "Budapest",
+    "addr:housenumber": "49-51",
+    "addr:postcode": "1073",
+    "addr:street": "Akácfa utca",
+    "alt_name": "Fogasház",
+    "amenity": "nightclub",
+    "capacity": "950",
+    "contact:email": "info@instant-fogas.com",
+    "contact:facebook": "https://www.facebook.com/fogashaz",
+    "contact:phone": "+36 70 638 5040",
+    "contact:website": "https://instant-fogas.com/",
+    "dog": "yes",
+    "internet_access": "wlan",
+    "name": "Instant",
+    "opening_hours": "16:00-06:00",
+    "operator": "Planterinbox Kft.",
+    "smoking": "separated",
+    "wheelchair": "yes",
+    "wheelchair:description": "A fő tér akadálymentes és van rokkant wc"
+  }
+},
+{
+  "type": "node",
+  "id": 1497299916,
+  "lat": 47.5298969,
+  "lon": 19.0375622,
+  "tags": {
+    "addr:city": "Budapest",
+    "addr:housenumber": "56",
+    "addr:postcode": "1036",
+    "addr:street": "Bécsi út",
+    "amenity": "nightclub",
+    "capacity": "268",
+    "contact:email": "info@symbolbudapest.hu",
+    "contact:facebook": "https://www.facebook.com/symbolbudapest",
+    "contact:phone": "+36 1 333 5656",
+    "contact:website": "https://www.symbolbudapest.hu/",
+    "name": "Symbol",
+    "opening_hours": "Oct 03-Apr 25: Sa 22:00-05:00",
+    "operator": "Symbol Üzemeltető Kft.",
+    "ref:HU:company": "01-09-209470",
+    "ref:HU:vatin": "25341005-2-41",
+    "ref:vatin": "HU25341005",
+    "source": "survey:block-ends"
+  }
+},
+{
+  "type": "node",
+  "id": 1702464652,
+  "lat": 47.4977953,
+  "lon": 19.0667504,
+  "tags": {
+    "addr:city": "Budapest",
+    "addr:housenumber": "10",
+    "addr:postcode": "1072",
+    "addr:street": "Klauzál utca",
+    "amenity": "nightclub",
+    "capacity": "1450",
+    "email": "bandoh.daniel@doboz.pm",
+    "facebook": "https://www.facebook.com/doboz",
+    "name": "Doboz",
+    "opening_hours": "Tu-Sa 20:00-06:00",
+    "operator": "Gold Global Trade Kft.",
+    "phone": "+36 20 449 4801",
+    "website": "http://doboz.pm/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1749838912,
+  "lat": 46.0724368,
+  "lon": 18.2281237,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2024-06-24",
+    "name": "Est café"
+  }
+},
+{
+  "type": "node",
+  "id": 1754516586,
+  "lat": 47.5098689,
+  "lon": 19.0581841,
+  "tags": {
+    "addr:city": "Budapest",
+    "addr:housenumber": "55",
+    "addr:postcode": "1062",
+    "addr:street": "Teréz körút",
+    "amenity": "nightclub",
+    "capacity": "637",
+    "contact:email": "clubremix.hu@gmail.com",
+    "contact:facebook": "RemixDanceClub",
+    "contact:mobile": "+36 20 776 0760",
+    "contact:website": "http://www.clubremix.hu/",
+    "level": "-1",
+    "name": "Remix",
+    "opening_hours": "Fr 20:00-05:00; Sa 20:00-05:30",
+    "operator": "REMIX CATERING Kft."
+  }
+},
+{
+  "type": "node",
+  "id": 1769066487,
+  "lat": 47.5120928,
+  "lon": 19.0503904,
+  "tags": {
+    "addr:city": "Budapest",
+    "addr:housenumber": "11",
+    "addr:postcode": "1055",
+    "addr:street": "Szent István körút",
+    "amenity": "nightclub",
+    "capacity": "299",
+    "check_date": "2026-06-26",
+    "contact:email": "info@morrisons.hu",
+    "contact:facebook": "1375833602641478",
+    "contact:foursquare": "4bd7274e4e32d13a4cd4c380",
+    "contact:phone": "+36 1 374 3329",
+    "contact:tripadvisor": "4008183",
+    "contact:website": "https://www.morrisons2.hu/",
+    "internet_access": "wlan",
+    "name": "Morrison's 2",
+    "opening_hours": "Mo-Sa 17:00-05:00",
+    "operator": "\"Becsületes\" Kft.",
+    "operator:addr": "1055 Budapest, Szent István körút 11.",
+    "ref:HU:vatin": "12253913-2-41",
+    "ref:google": "/g/1thhj8p0",
+    "ref:vatin": "HU12253913",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1919590855,
+  "lat": 47.4983827,
+  "lon": 19.0591739,
+  "tags": {
+    "addr:city": "Budapest",
+    "addr:housename": "Gozsdu Udvar",
+    "addr:housenumber": "13",
+    "addr:postcode": "1075",
+    "addr:street": "Király utca",
+    "amenity": "nightclub",
+    "capacity": "298",
+    "check_date": "2026-03-25",
+    "contact:email": "mail@catbudapest.hu",
+    "contact:facebook": "1801683966727237",
+    "contact:phone": "+36 70 425 9770",
+    "contact:tripadvisor": "23978950",
+    "contact:website": "https://catbudapest.hu/",
+    "name": "Cat",
+    "opening_hours": "Th-Sa 23:00-05:00",
+    "operator": "Gozsdu Club Kft.",
+    "ref:google": "/g/11h04pb5yw"
+  }
+},
+{
+  "type": "node",
+  "id": 1940781737,
+  "lat": 46.2536743,
+  "lon": 20.1503312,
+  "tags": {
+    "addr:city": "Szeged",
+    "addr:housenumber": "3",
+    "addr:postcode": "6720",
+    "addr:street": "Széchenyi tér",
+    "amenity": "nightclub",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "name": "Retro Klub",
+    "opening_hours:signed": "no",
+    "website": "https://retroklub.hu/"
+  }
+},
+{
+  "type": "node",
+  "id": 2045926751,
+  "lat": 47.6831497,
+  "lon": 17.5698053,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Mundo"
+  }
+},
+{
+  "type": "node",
+  "id": 2103314591,
+  "lat": 47.5055222,
+  "lon": 19.0576041,
+  "tags": {
+    "addr:city": "Budapest",
+    "addr:housenumber": "33",
+    "addr:postcode": "1066",
+    "addr:street": "Dessewffy utca",
+    "amenity": "nightclub",
+    "check_date": "2022-09-07",
+    "email": "info@alteregoclub.hu",
+    "facebook": "https://www.facebook.com/AlterEgoBudapest",
+    "lgbtq": "primary",
+    "name": "Alterego",
+    "opening_hours": "Fr,Sa 22:00-06:00",
+    "operator": "Nagymező-Duo Kft.",
+    "phone": "+36 70 345 4302",
+    "website": "http://alteregoclub.hu/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2146710617,
+  "lat": 46.4142408,
+  "lon": 20.3161926,
+  "tags": {
+    "alt_name": "IH",
+    "amenity": "nightclub",
+    "name": "Ifjúsági Ház"
+  }
+},
+{
+  "type": "node",
+  "id": 2146710623,
+  "lat": 46.4165370,
+  "lon": 20.3231834,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "UV",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2185806372,
+  "lat": 46.4129411,
+  "lon": 20.3156236,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Casino Étterem és Music Pub"
+  }
+},
+{
+  "type": "node",
+  "id": 2313592051,
+  "lat": 47.1893202,
+  "lon": 18.4109349,
+  "tags": {
+    "addr:city": "Székesfehérvár",
+    "addr:housenumber": "22",
+    "addr:postcode": "8000",
+    "addr:street": "Arany János utca",
+    "amenity": "nightclub",
+    "capacity": "298",
+    "check_date": "2023-10-06",
+    "contact:email": "info@fezen.hu",
+    "contact:facebook": "1719163151685025",
+    "contact:phone": "+36 20 849 5526",
+    "contact:website": "https://fezen.hu/petofi/",
+    "name": "Petőfi Kultúrtanszék",
+    "operator": "Fehérvári Fesztivál Kft.",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2385680018,
+  "lat": 47.4987973,
+  "lon": 19.0658160,
+  "tags": {
+    "addr:city": "Budapest",
+    "addr:housenumber": "32",
+    "addr:postcode": "1077",
+    "addr:street": "Wesselényi utca",
+    "amenity": "nightclub",
+    "contact:email": "playadanceclub1@freemail.hu",
+    "contact:facebook": "61570228295012",
+    "contact:instagram": "playabudapest",
+    "contact:phone": "+36 70 219 7115",
+    "name": "Playa Dance Club",
+    "old_name": "Nomád Travelers' Bar"
+  }
+},
+{
+  "type": "node",
+  "id": 2504292587,
+  "lat": 47.5003797,
+  "lon": 19.0485730,
+  "tags": {
+    "addr:city": "Budapest",
+    "addr:housenumber": "4",
+    "addr:postcode": "1051",
+    "addr:street": "Zrínyi utca",
+    "amenity": "nightclub",
+    "capacity": "697",
+    "contact:email": "info@otkert.hu",
+    "contact:facebook": "121837364511324",
+    "contact:foursquare": "4bed67d691380f4701d29f18",
+    "contact:phone": "+36 70 330 8652",
+    "contact:tripadvisor": "2422722",
+    "contact:website": "https://otkert.hu/",
+    "internet_access": "wlan",
+    "name": "Ötkert",
+    "opening_hours": "Tu-Sa 23:00-05:00",
+    "operator": "Ötkert Kft.",
+    "ref:google": "/g/1tdcq963",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2576558239,
+  "lat": 47.5288303,
+  "lon": 19.0383439,
+  "tags": {
+    "addr:city": "Budapest",
+    "addr:housenumber": "5",
+    "addr:postcode": "1036",
+    "addr:street": "Csemete utca",
+    "amenity": "nightclub",
+    "billiards:pool": "6",
+    "contact:email": "info@globroyal.com",
+    "contact:facebook": "globroyalclub",
+    "contact:phone": "+36 1 250 8930",
+    "contact:website": "https://globroyalclub.hu",
+    "darts": "2",
+    "dog": "yes",
+    "name": "Glob Royal Club",
+    "opening_hours": "Mo-Su 16:00-24:00",
+    "operator": "Óbuda Gastro Royal Bt.",
+    "smoking": "outside",
+    "sport": "billiards;darts;table_soccer"
+  }
+},
+{
+  "type": "node",
+  "id": 3009235458,
+  "lat": 46.2498135,
+  "lon": 20.1464972,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date:opening_hours": "2023-11-09",
+    "contact:email": "info@jateklub.com",
+    "contact:facebook": "jateklubszeged",
+    "contact:instagram": "jate.klub",
+    "contact:website": "https://jateklub.com/hu",
+    "level": "-1",
+    "name": "JATE Klub",
+    "opening_hours:signed": "no",
+    "outdoor_seating": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3021688175,
+  "lat": 46.1248307,
+  "lon": 19.3327245,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "B9 Club",
+    "toilets:wheelchair": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3030118528,
+  "lat": 47.6905955,
+  "lon": 16.5671464,
+  "tags": {
+    "addr:city": "Sopron",
+    "addr:postcode": "9400",
+    "addr:street": "Vándor Sándor utca",
+    "amenity": "nightclub",
+    "capacity": "287",
+    "contact:email": "hangarmusicgarden@hotmail.com",
+    "contact:facebook": "301891379376",
+    "contact:phone": "+36 20 912 4064",
+    "contact:website": "https://www.hangarmusicgarden.com/",
+    "name": "Hangár Music Garden",
+    "operator": "Hangár MG Kft."
+  }
+},
+{
+  "type": "node",
+  "id": 3045114602,
+  "lat": 47.9608630,
+  "lon": 21.7101119,
+  "tags": {
+    "addr:city": "Nyíregyháza",
+    "addr:housenumber": "2",
+    "addr:postcode": "4400",
+    "addr:street": "Őz köz",
+    "amenity": "nightclub",
+    "name": "Absollult 2.0",
+    "smoking": "outside"
+  }
+},
+{
+  "type": "node",
+  "id": 3066576724,
+  "lat": 47.6851443,
+  "lon": 16.5740702,
+  "tags": {
+    "addr:city": "Sopron",
+    "addr:housenumber": "3",
+    "addr:postcode": "9400",
+    "addr:street": "Baross út",
+    "amenity": "nightclub",
+    "capacity": "240",
+    "contact:email": "tabusopron@gmail.com",
+    "contact:facebook": "228740043664562",
+    "contact:phone": "+36 70 617 3826",
+    "name": "Tabu",
+    "opening_hours": "Sa 22:00-04:00",
+    "operator": "Central Palace SPRN Kft."
+  }
+},
+{
+  "type": "node",
+  "id": 3115067277,
+  "lat": 46.9093039,
+  "lon": 19.6897330,
+  "tags": {
+    "addr:city": "Kecskemét",
+    "addr:housenumber": "3",
+    "addr:postcode": "6000",
+    "addr:street": "Kápolna utca",
+    "amenity": "nightclub",
+    "check_date": "2026-04-08",
+    "check_date:opening_hours": "2026-04-08",
+    "contact:phone": "+36 30 460 7757",
+    "contact:website": "http://clubcentral.hu/",
+    "min_age": "18",
+    "name": "Club Mirage",
+    "opening_hours": "Sa 22:00-05:00",
+    "source": "http://clubcentral.hu/index.php?f=kapcsolat",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3159365850,
+  "lat": 47.9595646,
+  "lon": 21.7111802,
+  "tags": {
+    "addr:city": "Nyíregyháza",
+    "addr:housenumber": "1-2",
+    "addr:postcode": "4400",
+    "addr:street": "Búza tér",
+    "amenity": "nightclub",
+    "name": "Soho Club"
+  }
+},
+{
+  "type": "node",
+  "id": 3159378168,
+  "lat": 47.9551358,
+  "lon": 21.7094956,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Club Hollywood"
+  }
+},
+{
+  "type": "node",
+  "id": 3159384957,
+  "lat": 47.9716798,
+  "lon": 21.7124097,
+  "tags": {
+    "addr:city": "Nyíregyháza",
+    "addr:housenumber": "24",
+    "addr:postcode": "4400",
+    "addr:street": "Sóstói út",
+    "amenity": "nightclub",
+    "name": "Mama Mia"
+  }
+},
+{
+  "type": "node",
+  "id": 3165491631,
+  "lat": 47.9558374,
+  "lon": 21.9182137,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Club 41"
+  }
+},
+{
+  "type": "node",
+  "id": 3218450140,
+  "lat": 47.9561822,
+  "lon": 21.7173157,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Hell Music X-Cafe",
+    "toilets:wheelchair": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3365987907,
+  "lat": 46.7053949,
+  "lon": 17.3713418,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Delta",
+    "seasonal": "spring;summer;autumn"
+  }
+},
+{
+  "type": "node",
+  "id": 3440860255,
+  "lat": 46.0758864,
+  "lon": 18.2318332,
+  "tags": {
+    "addr:city": "Pécs",
+    "addr:housenumber": "22",
+    "addr:postcode": "7621",
+    "addr:street": "Perczel Miklós utca",
+    "amenity": "nightclub",
+    "name": "Trafik Lokál",
+    "opening_hours": "Mo-Fr 12:00-02:00; Sa 18:00-02:00",
+    "phone": "+36 72 212 672",
+    "source": "turistautak.hu",
+    "source:date": "2011-09-08",
+    "toilets:wheelchair": "no",
+    "url": "http://turistautak.hu/poi.php?id=27548",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3445403483,
+  "lat": 45.8504170,
+  "lon": 18.2356000,
+  "tags": {
+    "amenity": "nightclub",
+    "fixme": "is the tagging correct?",
+    "name": "Casino Bellami",
+    "source": "turistautak.hu",
+    "source:date": "2011-09-08",
+    "url": "http://turistautak.hu/poi.php?id=14469"
+  }
+},
+{
+  "type": "node",
+  "id": 3446755184,
+  "lat": 46.6749870,
+  "lon": 16.8542080,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Disco",
+    "source": "turistautak.hu",
+    "source:date": "2011-09-19",
+    "toilets:wheelchair": "yes",
+    "url": "http://turistautak.hu/poi.php?id=33721",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3454478329,
+  "lat": 46.9588500,
+  "lon": 18.9354170,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "DF Klub",
+    "source": "turistautak.hu",
+    "source:date": "2010-01-26",
+    "url": "http://turistautak.hu/poi.php?id=66990"
+  }
+},
+{
+  "type": "node",
+  "id": 3454542592,
+  "lat": 47.4709168,
+  "lon": 18.8309275,
+  "tags": {
+    "amenity": "nightclub",
+    "fixme": "position",
+    "internet_access:ssid": "KAVEZO",
+    "name": "Viadukt Center (kávézó)",
+    "source": "turistautak.hu",
+    "source:date": "2014-04-22",
+    "url": "http://turistautak.hu/poi.php?id=167871"
+  }
+},
+{
+  "type": "node",
+  "id": 3458341466,
+  "lat": 46.8892770,
+  "lon": 17.8878670,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Butterfly Night Club",
+    "source": "turistautak.hu",
+    "source:date": "2011-05-26",
+    "url": "http://turistautak.hu/poi.php?id=51929"
+  }
+},
+{
+  "type": "node",
+  "id": 3458341599,
+  "lat": 46.8792270,
+  "lon": 17.7055540,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Graft-et Dance Club",
+    "source": "turistautak.hu",
+    "source:date": "2013-03-31",
+    "url": "http://turistautak.hu/poi.php?id=119479"
+  }
+},
+{
+  "type": "node",
+  "id": 3470060775,
+  "lat": 48.0384010,
+  "lon": 19.9818410,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Aladin diszkó",
+    "source": "turistautak.hu",
+    "source:date": "2012-07-06",
+    "url": "http://turistautak.hu/poi.php?id=78855"
+  }
+},
+{
+  "type": "node",
+  "id": 3470101903,
+  "lat": 46.6971027,
+  "lon": 19.0334578,
+  "tags": {
+    "amenity": "nightclub",
+    "contact:mobile": "+36703390394",
+    "name": "Glass House Disco",
+    "opening_hours": "Fr 20:00-05:00"
+  }
+},
+{
+  "type": "node",
+  "id": 3471930773,
+  "lat": 47.2457070,
+  "lon": 19.3428142,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Sakáltanya",
+    "source": "turistautak.hu",
+    "source:date": "2014-08-16",
+    "url": "http://turistautak.hu/poi.php?id=170937"
+  }
+},
+{
+  "type": "node",
+  "id": 3589134489,
+  "lat": 47.3834412,
+  "lon": 18.9243376,
+  "tags": {
+    "addr:city": "Érd",
+    "addr:postcode": "2030",
+    "addr:street": "Diósdi út",
+    "amenity": "nightclub",
+    "name": "El Toro pub",
+    "opening_hours": "Mo-Th 14:00-22:00; Fr-Sa 14:00-02:00; Su 00:00-02:00,16:00-22:00",
+    "website": "http://eltoropizza.uw.hu/pub.htm"
+  }
+},
+{
+  "type": "node",
+  "id": 3665247755,
+  "lat": 47.2332686,
+  "lon": 16.6360007,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Cabana Garden"
+  }
+},
+{
+  "type": "node",
+  "id": 3841856807,
+  "lat": 47.3162587,
+  "lon": 20.9250762,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Hemo"
+  }
+},
+{
+  "type": "node",
+  "id": 3988608199,
+  "lat": 47.4986747,
+  "lon": 19.0541621,
+  "tags": {
+    "addr:city": "Budapest",
+    "addr:housenumber": "12",
+    "addr:postcode": "1051",
+    "addr:street": "Erzsébet tér",
+    "amenity": "nightclub",
+    "capacity": "2070",
+    "capacity:description": "NagyHall: 1320, KisHall: 778",
+    "check_date": "2024-11-12",
+    "contact:email": "info@akvariumklub.hu",
+    "contact:facebook": "100064734214537",
+    "contact:foursquare": "52fbb202498ebfa06326ef27",
+    "contact:phone": "+36 30 860 3368",
+    "contact:tripadvisor": "3932556",
+    "contact:website": "https://akvariumklub.hu/",
+    "layer": "-1",
+    "name": "Akvárium Klub",
+    "opening_hours": "Mo,Tu 15:00-02:00, We,Th,Su 15:00-04:00; Fr,Sa 15:00-06:00",
+    "operator": "Akvárium Klub Üzemeltető Kft.",
+    "ref:google": "/g/1q663lkhf",
+    "toilets:wheelchair": "yes",
+    "wheelchair": "yes",
+    "wheelchair:description": "club"
+  }
+},
+{
+  "type": "node",
+  "id": 3991023266,
+  "lat": 47.4993636,
+  "lon": 19.0553103,
+  "tags": {
+    "addr:city": "Budapest",
+    "addr:housenumber": "2",
+    "addr:postcode": "1061",
+    "addr:street": "Paulay Ede utca",
+    "amenity": "nightclub",
+    "contact:email": "101klub@mail.com",
+    "contact:facebook": "290819453359",
+    "name": "101 Klub",
+    "opening_hours": "Fr,Sa 20:00-04:00",
+    "operator": "Ultra Viola Management Kft."
+  }
+},
+{
+  "type": "node",
+  "id": 3991277524,
+  "lat": 47.5359098,
+  "lon": 19.0415123,
+  "tags": {
+    "addr:city": "Budapest",
+    "addr:housenumber": "28",
+    "addr:postcode": "1036",
+    "addr:street": "Fényes Adolf utca",
+    "amenity": "nightclub",
+    "capacity": "480",
+    "capacity:description": "Kék Yuk: 220: Vörös Yuk: 260",
+    "contact:facebook": "https://www.facebook.com/yukbudapest",
+    "email": "info@yuk.hu",
+    "name": "Supersonic",
+    "opening_hours": "Fr-Sa 19:00-03:00",
+    "operator": "UNI-ROCKTEAM Kft.",
+    "phone": "+36 70 771 6666",
+    "website": "http://yuk.hu/"
+  }
+},
+{
+  "type": "node",
+  "id": 4001674212,
+  "lat": 47.5038568,
+  "lon": 19.0546739,
+  "tags": {
+    "addr:city": "Budapest",
+    "addr:housenumber": "36-38",
+    "addr:postcode": "1054",
+    "addr:street": "Bajcsy-Zsilinszky út",
+    "amenity": "nightclub",
+    "capacity": "350",
+    "check_date": "2023-07-04",
+    "contact:email": "info@toldiklub.hu",
+    "contact:facebook": "2078274195735718",
+    "contact:foursquare": "4ee11c5fb8f7413830ee5295",
+    "contact:phone": "+36 30 666 3456",
+    "contact:tripadvisor": "4154046",
+    "contact:website": "http://toldiklub.hu/",
+    "dog": "yes",
+    "name": "Toldi Klub",
+    "opening_hours": "Mo-We 11:00-24:00; Th 11:00-02:00; Fr 11:00-04:00; Sa 12:00-04:00; Su 12:00-24:00",
+    "operator": "Toldi Malomkő Kft.",
+    "outdoor_seating": "yes",
+    "ref:google": "/g/11bx2kpn84"
+  }
+},
+{
+  "type": "node",
+  "id": 4004583574,
+  "lat": 47.5003892,
+  "lon": 19.0653721,
+  "tags": {
+    "addr:city": "Budapest",
+    "addr:housenumber": "49",
+    "addr:postcode": "1073",
+    "addr:street": "Akácfa utca",
+    "alt_name": "Fogaskert",
+    "amenity": "nightclub",
+    "capacity": "450",
+    "dog": "yes",
+    "email": "info@instant-fogas.com",
+    "facebook": "https://www.facebook.com/fogashaz",
+    "internet_access": "wlan",
+    "name": "Fogas",
+    "opening_hours": "Mo-Su 16:00-06:00",
+    "operator": "Planterinbox Kft.",
+    "phone": "+36 70 638 5040",
+    "smoking": "separated",
+    "toilets:wheelchair": "yes",
+    "website": "https://instant-fogas.com/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4014750895,
+  "lat": 47.4989966,
+  "lon": 19.0586420,
+  "tags": {
+    "addr:city": "Budapest",
+    "addr:housenumber": "13",
+    "addr:postcode": "1075",
+    "addr:street": "Király utca",
+    "amenity": "nightclub",
+    "contact:email": "info@aetherclub.com",
+    "contact:facebook": "1499482573712952",
+    "contact:phone": "+36 70 953 5617",
+    "name": "Aether Club",
+    "opening_hours": "Fr,Sa 23:00-06:00",
+    "operator": "Magyar Szórakoztatás-Fejlesztési Zrt.",
+    "website": "http://aetherclub.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 4077109519,
+  "lat": 46.8450558,
+  "lon": 16.8456576,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Mamma Africa Club",
+    "opening_hours": "Sa 22:00-05:00"
+  }
+},
+{
+  "type": "node",
+  "id": 4132905978,
+  "lat": 46.6670209,
+  "lon": 21.1186545,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Trió bár"
+  }
+},
+{
+  "type": "node",
+  "id": 4197863856,
+  "lat": 46.2560372,
+  "lon": 20.1604094,
+  "tags": {
+    "amenity": "nightclub",
+    "contact:email": "info@tiszariver.hu",
+    "contact:facebook": "TiszaRiver",
+    "contact:mobile": "+36 70 413 4203",
+    "contact:website": "https://tiszariver.hu",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "name": "Tisza River",
+    "opening_hours": "Mo-Tu 13:00-22:00; We 13:00-05:00; Th 13:00-22:00; Fr-Sa 13:00-05:00; Su 13:00-22:00"
+  }
+},
+{
+  "type": "node",
+  "id": 4404672494,
+  "lat": 47.4983739,
+  "lon": 19.0662889,
+  "tags": {
+    "addr:city": "Budapest",
+    "addr:housenumber": "21",
+    "addr:postcode": "1072",
+    "addr:street": "Klauzál utca",
+    "amenity": "nightclub",
+    "capacity": "280",
+    "contact:facebook": "339269586138843",
+    "contact:mobile": "+36 20 200 1000",
+    "contact:website": "https://fugeudvar.hu/",
+    "name": "Udvarrom",
+    "opening_hours": "16:00-04:00",
+    "operator": "Hello Vendég Zrt.",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4404702693,
+  "lat": 47.4982430,
+  "lon": 19.0664907,
+  "tags": {
+    "addr:city": "Budapest",
+    "addr:housenumber": "19",
+    "addr:postcode": "1072",
+    "addr:street": "Klauzál utca",
+    "amenity": "nightclub",
+    "capacity": "300",
+    "contact:facebook": "339269586138843",
+    "contact:mobile": "+36 20 200 1000",
+    "contact:website": "https://fugeudvar.hu/",
+    "name": "Füge Udvar",
+    "opening_hours": "16:00-04:00",
+    "operator": "Hello Vendég Zrt.",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 4549559936,
+  "lat": 47.6457352,
+  "lon": 19.1325798,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Fosters Udvar"
+  }
+},
+{
+  "type": "node",
+  "id": 4558015989,
+  "lat": 47.5837032,
+  "lon": 18.3984778,
+  "tags": {
+    "addr:city": "Tatabánya",
+    "addr:housenumber": "20",
+    "addr:postcode": "2800",
+    "addr:street": "Fő tér",
+    "amenity": "nightclub",
+    "name": "Vadorzó club",
+    "name:hu": "Vadorzó club",
+    "name:it": "Vadorzó Club",
+    "opening_hours": "Sa 22:00-05:00",
+    "toilets:wheelchair": "limited",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 4796214226,
+  "lat": 47.5299826,
+  "lon": 21.6233121,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Club Manhattan"
+  }
+},
+{
+  "type": "node",
+  "id": 4807842468,
+  "lat": 46.3122179,
+  "lon": 20.8192263,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Party Zóna"
+  }
+},
+{
+  "type": "node",
+  "id": 4807842469,
+  "lat": 46.3111712,
+  "lon": 20.8103375,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Erdélyi Udvarház"
+  }
+},
+{
+  "type": "node",
+  "id": 4826749433,
+  "lat": 46.9575316,
+  "lon": 18.9353255,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Duna Fitt",
+    "smoking": "isolated"
+  }
+},
+{
+  "type": "node",
+  "id": 4836702468,
+  "lat": 47.5006080,
+  "lon": 19.0654269,
+  "tags": {
+    "addr:city": "Budapest",
+    "addr:housenumber": "49",
+    "addr:postcode": "1073",
+    "addr:street": "Akácfa utca",
+    "amenity": "nightclub",
+    "email": "info@instant-fogas.com",
+    "name": "Frame",
+    "opening_hours": "22:00-06:00",
+    "operator": "Planterinbox Kft.",
+    "phone": "+36 70 638 5040",
+    "website": "https://instant-fogas.com/frame/"
+  }
+},
+{
+  "type": "node",
+  "id": 4836702469,
+  "lat": 47.5003205,
+  "lon": 19.0654580,
+  "tags": {
+    "addr:city": "Budapest",
+    "addr:housenumber": "49",
+    "addr:postcode": "1073",
+    "addr:street": "Akácfa utca",
+    "amenity": "nightclub",
+    "email": "info@instant-fogas.com",
+    "facebook": "https://www.facebook.com/robotbudapest",
+    "name": "Robot",
+    "opening_hours": "Mo-Sa 18:00-06:00",
+    "operator": "Kék Padlizsán Kft.",
+    "phone": "+36 30 830 8747",
+    "website": "https://instant-fogas.com/robot/"
+  }
+},
+{
+  "type": "node",
+  "id": 4933471843,
+  "lat": 46.9418084,
+  "lon": 20.1244194,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Cege Parti Étterem",
+    "source": "route4u",
+    "toilets:wheelchair": "limited",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4933476684,
+  "lat": 47.9180627,
+  "lon": 19.6977232,
+  "tags": {
+    "addr:city": "Pásztó",
+    "addr:housenumber": "48",
+    "addr:postcode": "3060",
+    "addr:street": "Fő utca",
+    "amenity": "nightclub",
+    "contact:facebook": "https://www.facebook.com/Paszto.S.Club/",
+    "name": "S-Club",
+    "opening_hours": "Sa 22:00-24:00; Su 00:00-05:00",
+    "payment:cash": "yes",
+    "payment:maestro": "yes",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "phone": "+36-20-508-0778",
+    "source": "route4u",
+    "toilets:wheelchair": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4939176932,
+  "lat": 48.1054968,
+  "lon": 20.7722692,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Mandarin Bár"
+  }
+},
+{
+  "type": "node",
+  "id": 4977213966,
+  "lat": 47.2474068,
+  "lon": 16.9537503,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Dolce Vita Night Club"
+  }
+},
+{
+  "type": "node",
+  "id": 5046224600,
+  "lat": 47.5932060,
+  "lon": 18.6456844,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Chameleon Music Club"
+  }
+},
+{
+  "type": "node",
+  "id": 5272270227,
+  "lat": 46.4150225,
+  "lon": 20.3191965,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Penna",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5277801828,
+  "lat": 47.1917283,
+  "lon": 18.4122850,
+  "tags": {
+    "addr:city": "Székesfehérvár",
+    "addr:housenumber": "1",
+    "addr:postcode": "8000",
+    "addr:street": "Rákóczi utca",
+    "amenity": "nightclub",
+    "capacity": "560",
+    "contact:email": "info@albabar.hu",
+    "contact:facebook": "1452565378152341",
+    "contact:phone": "+36 70 455 4566",
+    "contact:website": "https://www.albabar.hu/",
+    "name": "Albabar",
+    "operator": "Albabár Kft."
+  }
+},
+{
+  "type": "node",
+  "id": 5328013256,
+  "lat": 46.4551132,
+  "lon": 16.9960088,
+  "tags": {
+    "addr:city": "Nagykanizsa",
+    "addr:housenumber": "27",
+    "addr:postcode": "8800",
+    "addr:street": "Eötvös tér",
+    "amenity": "nightclub",
+    "name": "XOXO EXTRA",
+    "opening_hours": "Sa 23:00-06:00",
+    "phone": "+36 30 732 1868",
+    "website": "http://xoxoextra.hu"
+  }
+},
+{
+  "type": "node",
+  "id": 5573692422,
+  "lat": 47.9610537,
+  "lon": 21.7248172,
+  "tags": {
+    "addr:city": "Nyíregyháza",
+    "addr:housenumber": "30",
+    "addr:postcode": "4400",
+    "addr:street": "Belső körút",
+    "amenity": "nightclub",
+    "facebook": "http://www.facebook.com/Santa-Fé-Music-club-Hajoclub-549612495082151",
+    "name": "Santa Fé Music Club & Hajóclub",
+    "opening_hours": "Fr-Sa 19:00-04:00",
+    "phone": "+36 42 310 293"
+  }
+},
+{
+  "type": "node",
+  "id": 6204148987,
+  "lat": 47.6852974,
+  "lon": 16.5737776,
+  "tags": {
+    "addr:city": "Sopron",
+    "addr:housenumber": "3",
+    "addr:postcode": "9400",
+    "addr:street": "Baross út",
+    "amenity": "nightclub",
+    "capacity": "300",
+    "contact:email": "info@centralpalace.hu",
+    "contact:facebook": "477534735683965",
+    "contact:phone": "+36 70 617 3826",
+    "contact:website": "https://www.centralpalace.hu/",
+    "name": "Central Palace",
+    "opening_hours": "Sa 22:00-06:00",
+    "operator": "Central Palace SPRN Kft."
+  }
+},
+{
+  "type": "node",
+  "id": 6718624116,
+  "lat": 46.7674310,
+  "lon": 17.2419517,
+  "tags": {
+    "addr:city": "Keszthely",
+    "addr:housenumber": "2",
+    "addr:postcode": "8360",
+    "addr:street": "Bakacs utca",
+    "amenity": "nightclub",
+    "name": "Casablanca Night Club",
+    "opening_hours": "Mo-Su 00:00-05:00,21:00-24:00",
+    "website": "http://www.clubcasablanca.hu"
+  }
+},
+{
+  "type": "node",
+  "id": 7833214100,
+  "lat": 48.0980319,
+  "lon": 20.7843946,
+  "tags": {
+    "addr:city": "Miskolc",
+    "addr:housenumber": "8",
+    "addr:postcode": "3530",
+    "addr:street": "Kisavas, Első sor",
+    "amenity": "nightclub",
+    "contact:website": "http://www.diamondclub.hu/",
+    "name": "Diamond Night Club",
+    "opening_hours": "Tu-Th 21:00-04:00; Fr-Sa 21:00-05:00"
+  }
+},
+{
+  "type": "node",
+  "id": 8996393556,
+  "lat": 46.7705941,
+  "lon": 18.4340833,
+  "tags": {
+    "addr:city": "Igar",
+    "addr:postcode": "7015",
+    "addr:suburb": "Dádpuszta",
+    "amenity": "nightclub",
+    "description": "Az OZORA Fesztivál ideje alatt",
+    "description:en": "During the OZORA Festival",
+    "ele": "135",
+    "name": "Sárkány udvar",
+    "name:en": "Dragon's yard",
+    "operator": "O.Z.O.R.A.",
+    "seasonal": "yes",
+    "start_date": "2012",
+    "surface": "grass",
+    "url": "https://kulturkor.wordpress.com/2020/07/03/ozora-3-ozora-epuletei/",
+    "website": "https://kulturkor.wordpress.com/category/ozora/"
+  }
+},
+{
+  "type": "node",
+  "id": 8996393581,
+  "lat": 46.7719836,
+  "lon": 18.4318041,
+  "tags": {
+    "addr:city": "Igar",
+    "addr:postcode": "7015",
+    "addr:suburb": "Dádpuszta",
+    "amenity": "nightclub",
+    "description": "Az OZORA Fesztivál ideje alatt",
+    "description:en": "During the OZORA Festival",
+    "ele": "135",
+    "name": "Kis Színpad",
+    "name:en": "Small Stage",
+    "operator": "O.Z.O.R.A.",
+    "seasonal": "yes",
+    "start_date": "2012",
+    "surface": "grass",
+    "url": "https://kulturkor.wordpress.com/2020/07/03/ozora-3-ozora-epuletei/",
+    "website": "https://kulturkor.wordpress.com/category/ozora/"
+  }
+},
+{
+  "type": "node",
+  "id": 9198085106,
+  "lat": 47.6859165,
+  "lon": 17.6341882,
+  "tags": {
+    "amenity": "nightclub",
+    "contact:mobile": "+36 20 394 0072",
+    "name": "Pirate Dance Club",
+    "opening_hours:signed": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 9248321119,
+  "lat": 47.4888316,
+  "lon": 19.0733236,
+  "tags": {
+    "addr:city": "Budapest",
+    "addr:housenumber": "4",
+    "addr:postcode": "1082",
+    "addr:street": "Vajdahunyad utca",
+    "amenity": "nightclub",
+    "capacity": "650",
+    "contact:email": "info@turbinabudapest.hu",
+    "contact:facebook": "102676195498352",
+    "contact:phone": "+36 30 501 6410",
+    "contact:website": "https://turbinabudapest.hu/",
+    "name": "Turbina Kulturális Központ",
+    "opening_hours": "Mo-Sa 12:00-24:00; Su 12:00-22:00",
+    "operator": "Bujdosó Srácok Kft."
+  }
+},
+{
+  "type": "node",
+  "id": 9398123314,
+  "lat": 46.5824474,
+  "lon": 19.3724795,
+  "tags": {
+    "amenity": "nightclub",
+    "contact:website": "http://www.retro2.hu/",
+    "name": "Retro2"
+  }
+},
+{
+  "type": "node",
+  "id": 10049849797,
+  "lat": 47.4957245,
+  "lon": 19.0502604,
+  "tags": {
+    "addr:city": "Budapest",
+    "addr:housenumber": "3-5",
+    "addr:postcode": "1052",
+    "addr:street": "Deák Ferenc utca",
+    "amenity": "nightclub",
+    "capacity": "550",
+    "check_date": "2026-06-27",
+    "contact:email": "reservation@clubheavenbudapest.com",
+    "contact:facebook": "2438382416450853",
+    "contact:foursquare": "5d815690c0c5b0000899f62e",
+    "contact:phone": "+36 30 151 2000",
+    "contact:tripadvisor": "19392668",
+    "contact:website": "https://www.clubheavenbudapest.com/",
+    "name": "Heaven Club",
+    "opening_hours": "Th-Sa 23:00-06:00",
+    "operator": "Nyéki Property Kft.",
+    "ref:google": "/g/11fn964_36"
+  }
+},
+{
+  "type": "node",
+  "id": 10114497178,
+  "lat": 47.5015599,
+  "lon": 19.0618820,
+  "tags": {
+    "addr:city": "Budapest",
+    "addr:housenumber": "50",
+    "addr:postcode": "1061",
+    "addr:street": "Király utca",
+    "amenity": "nightclub",
+    "capacity": "295",
+    "contact:email": "godor@godorunderground.hu",
+    "contact:facebook": "110778792289835",
+    "contact:phone": "+36 20 944 0922",
+    "contact:website": "https://godorunderground.hu/",
+    "name": "Gödör Klub",
+    "operator": "Uni-Co Kft."
+  }
+},
+{
+  "type": "node",
+  "id": 10630249393,
+  "lat": 46.3866164,
+  "lon": 18.9580510,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2023-02-09",
+    "name": "The Vajas Club",
+    "website": "http://vajasdance.gportal.hu/"
+  }
+},
+{
+  "type": "node",
+  "id": 11476773263,
+  "lat": 46.2545402,
+  "lon": 20.1508440,
+  "tags": {
+    "addr:city": "Szeged",
+    "addr:housenumber": "5",
+    "addr:postcode": "6720",
+    "addr:street": "Széchenyi tér",
+    "amenity": "nightclub",
+    "check_date": "2026-07-24",
+    "contact:facebook": "underground.szeged01",
+    "name": "Underground Zone",
+    "opening_hours": "Fr-Sa 16:00-03:00",
+    "payment:cash": "yes",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11913913269,
+  "lat": 46.8998864,
+  "lon": 19.6687512,
+  "tags": {
+    "addr:city": "Kecskemét",
+    "addr:housenumber": "14",
+    "addr:postcode": "6000",
+    "addr:street": "Olimpia utca",
+    "amenity": "nightclub",
+    "contact:email": "info@apoloklub.hu",
+    "contact:facebook": "apoloklub",
+    "contact:phone": "+36 70 249 8333",
+    "contact:website": "https://www.apoloklub.com/",
+    "name": "Ápoló Klub"
+  }
+},
+{
+  "type": "node",
+  "id": 12139321797,
+  "lat": 46.7041441,
+  "lon": 17.3720509,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Black Magic"
+  }
+},
+{
+  "type": "node",
+  "id": 12254682824,
+  "lat": 46.0778610,
+  "lon": 18.2130364,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Sörház"
+  }
+},
+{
+  "type": "node",
+  "id": 12369733305,
+  "lat": 46.2516101,
+  "lon": 20.1461783,
+  "tags": {
+    "amenity": "nightclub",
+    "contact:email": "theflowszeged@gmail.com",
+    "contact:facebook": "flowszeged",
+    "contact:mobile": "+36 70 526 6490",
+    "name": "Flow"
+  }
+},
+{
+  "type": "node",
+  "id": 12651998401,
+  "lat": 47.2297451,
+  "lon": 16.6170268,
+  "tags": {
+    "addr:city": "Szombathely",
+    "addr:housenumber": "6",
+    "addr:postcode": "9700",
+    "addr:street": "Kiskar utca",
+    "amenity": "nightclub",
+    "name": "The Print"
+  }
+},
+{
+  "type": "node",
+  "id": 12997316852,
+  "lat": 48.0816212,
+  "lon": 19.5125361,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "stardust"
+  }
+},
+{
+  "type": "node",
+  "id": 13045122501,
+  "lat": 46.7686058,
+  "lon": 18.4377442,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Ambyss"
+  }
+},
+{
+  "type": "node",
+  "id": 13152675016,
+  "lat": 47.5186964,
+  "lon": 19.0820170,
+  "tags": {
+    "addr:city": "Budapest",
+    "addr:housenumber": "9-11",
+    "addr:postcode": "1146",
+    "addr:street": "Állatkerti körút",
+    "amenity": "nightclub",
+    "capacity": "1826",
+    "contact:email": "info@spartybooking.com",
+    "contact:facebook": "381909368565924",
+    "contact:phone": "+36 30 395 8581",
+    "contact:website": "https://spartybooking.com/",
+    "name": "Sparty",
+    "opening_hours": "Sa 21:30-02:00",
+    "operator": "Budapest Gyógyfürdői és Hévizei Zrt."
+  }
+},
+{
+  "type": "node",
+  "id": 13152675017,
+  "lat": 47.4260288,
+  "lon": 19.0542960,
+  "tags": {
+    "addr:city": "Budapest",
+    "addr:housenumber": "1",
+    "addr:postcode": "1212",
+    "addr:street": "Vegyigépgyár utca",
+    "amenity": "nightclub",
+    "capacity": "1100",
+    "contact:email": "spotxclub@gmail.com",
+    "contact:facebook": "347833848420536",
+    "contact:phone": "+36 20 217 0324",
+    "name": "SPOTx Club",
+    "operator": "Sonic Visual Kft."
+  }
+},
+{
+  "type": "node",
+  "id": 13152705174,
+  "lat": 47.5125268,
+  "lon": 19.0360880,
+  "tags": {
+    "addr:city": "Budapest",
+    "addr:housenumber": "1-3",
+    "addr:postcode": "1027",
+    "addr:street": "Tölgyfa utca",
+    "amenity": "nightclub",
+    "capacity": "460",
+    "contact:email": "info@lockbudapest.hu",
+    "contact:facebook": "836843229752660",
+    "contact:phone": "+36 70 336 6866",
+    "contact:website": "https://lockbudapest.hu/",
+    "name": "Lock",
+    "opening_hours": "Fr,Sa 22:00-05:00",
+    "operator": "Lock The Club Kft."
+  }
+},
+{
+  "type": "node",
+  "id": 13152843325,
+  "lat": 47.5004623,
+  "lon": 19.0652762,
+  "tags": {
+    "addr:city": "Budapest",
+    "addr:housenumber": "51",
+    "addr:postcode": "1073",
+    "addr:street": "Akácfa utca",
+    "amenity": "nightclub",
+    "email": "info@instant-fogas.com",
+    "name": "Unterwelt",
+    "opening_hours": "22:00-06:00",
+    "operator": "Planterinbox Kft.",
+    "phone": "+36 70 638 5040",
+    "website": "https://instant-fogas.com/unterwelt/"
+  }
+},
+{
+  "type": "node",
+  "id": 13152945922,
+  "lat": 47.4981920,
+  "lon": 19.0665534,
+  "tags": {
+    "addr:city": "Budapest",
+    "addr:housenumber": "19",
+    "addr:postcode": "1072",
+    "addr:street": "Klauzál utca",
+    "amenity": "nightclub",
+    "capacity": "290",
+    "contact:facebook": "339269586138843",
+    "contact:mobile": "+36 20 200 1000",
+    "contact:website": "https://fugeudvar.hu/",
+    "name": "Füge Play",
+    "opening_hours": "16:00-04:00",
+    "operator": "Hello Vendég Zrt."
+  }
+},
+{
+  "type": "node",
+  "id": 13184147194,
+  "lat": 46.3488684,
+  "lon": 18.7010869,
+  "tags": {
+    "addr:city": "Szekszárd",
+    "addr:housenumber": "2-4",
+    "addr:postcode": "7100",
+    "addr:street": "Garay tér",
+    "amenity": "nightclub",
+    "contact:email": "wertheimshowkft@gmail.com",
+    "contact:facebook": "61580943360732",
+    "contact:mobile": "+36 70 425 2552",
+    "min_age": "18",
+    "name": "Rom-Bar",
+    "opening_hours": "We 19:00-24:00; Th 00:00-02:00, 19:00-24:00; Fr 00:00-02:00, 19:00-24:00; Sa 00:00-04:00, 19:00-24:00; Su 00:00-04:00, 19:00-26:00",
+    "start_date": "2025-07-026"
+  }
+},
+{
+  "type": "node",
+  "id": 13265182843,
+  "lat": 47.5010711,
+  "lon": 19.0659315,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Palazzo Permanens"
+  }
+},
+{
+  "type": "node",
+  "id": 13265182845,
+  "lat": 47.5011508,
+  "lon": 19.0659181,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Havana"
+  }
+},
+{
+  "type": "node",
+  "id": 13343004346,
+  "lat": 46.3509915,
+  "lon": 18.7014435,
+  "tags": {
+    "amenity": "nightclub",
+    "contact:facebook": "bazaarklub",
+    "min_age": "16",
+    "name": "Bazaar klub",
+    "opening_hours": "Sa 21:00-24:00; Su 00:00-04:00; PH off",
+    "start_date": "2025-11-08"
+  }
+},
+{
+  "type": "node",
+  "id": 13452124883,
+  "lat": 47.4961270,
+  "lon": 19.0590611,
+  "tags": {
+    "amenity": "nightclub",
+    "contact:website": "https://vorosneon.hu/voros-neon-live-music/",
+    "live_music": "yes",
+    "name": "Vörös Neon"
+  }
+},
+{
+  "type": "node",
+  "id": 13690835701,
+  "lat": 46.8452972,
+  "lon": 17.4397713,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Kispál Életmód és Borház",
+    "name:en": "Kispál Lifestyle and Winehouse"
+  }
+},
+{
+  "type": "node",
+  "id": 13780517199,
+  "lat": 47.2287593,
+  "lon": 16.6166382,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "after 6 lounge",
+    "opening_hours": "Fr,Sa 19:00-02:00"
+  }
+},
+{
+  "type": "node",
+  "id": 14104950501,
+  "lat": 46.7675495,
+  "lon": 17.2433155,
+  "tags": {
+    "addr:city": "Keszthely",
+    "addr:housenumber": "2",
+    "addr:postcode": "8360",
+    "addr:street": "Fejér György utca",
+    "amenity": "nightclub",
+    "check_date": "2026-08-19",
+    "check_date:opening_hours": "2026-08-19",
+    "contact:facebook": "100054462760904",
+    "name": "Mámor Bár (Night Club)",
+    "opening_hours": "Th-Sa 22:00-03:00",
+    "phone": "+36 30 331 3997"
+  }
+},
+{
+  "type": "way",
+  "id": 58503209,
+  "center": {
+    "lat": 47.4765189,
+    "lon": 19.0629547
+  },
+  "tags": {
+    "addr:full": "1117 Budapest, Petőfi híd, budai hídfő",
+    "amenity": "nightclub",
+    "building": "ship",
+    "capacity": "800",
+    "capacity:description": "Koncertterem: 600, Orrterasz: 60, Tetőterasz: 250, Motorbár: 50, Orrbár: 30",
+    "contact:email": "info@a38.hu",
+    "contact:facebook": "a38.hajo",
+    "contact:instagram": "a38ship",
+    "contact:phone": "+36 1 464 3940",
+    "contact:website": "https://www.a38.hu/",
+    "contact:youtube": "A38Captain",
+    "image": "https://image.ibb.co/gLC3MJ/2018_05_12_13.jpg",
+    "name": "A38 Hajó",
+    "name:en": "A38 Ship",
+    "opening_hours": "08:00-22:00",
+    "operator": "Zászlóshajó Kft.",
+    "operator:addr": "1117 Budapest, Irinyi József utca 36/c",
+    "ref:HU:company": "01-09-697406",
+    "ref:HU:vatin": "12664423-2-43",
+    "ref:vatin": "HU12664423",
+    "ship:type": "cargo_ship",
+    "short_name": "A38",
+    "smoking": "outside",
+    "wheelchair": "yes",
+    "wikidata": "Q429618",
+    "wikimedia_commons": "Category:A38 (ship, 1968)",
+    "wikipedia": "hu:A38 Hajó"
+  }
+},
+{
+  "type": "way",
+  "id": 80751406,
+  "center": {
+    "lat": 46.2568399,
+    "lon": 20.1384751
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "retail",
+    "contact:website": "http://www.sing.hu/",
+    "internet_access": "wlan",
+    "level": "0",
+    "name": "Sing Sing Music Hall"
+  }
+},
+{
+  "type": "way",
+  "id": 105840668,
+  "center": {
+    "lat": 47.6835078,
+    "lon": 17.6266396
+  },
+  "tags": {
+    "addr:city": "Győr",
+    "addr:housenumber": "1",
+    "addr:postcode": "9021",
+    "addr:street": "Benczúr utca",
+    "amenity": "nightclub",
+    "building": "yes",
+    "contact:email": "info@clubmammamia.hu",
+    "contact:mobile": "+36 30 500 4477",
+    "contact:website": "https://www.clubmammamia.hu/",
+    "min_age": "18",
+    "name": "Mamma Mia"
+  }
+},
+{
+  "type": "way",
+  "id": 166068931,
+  "center": {
+    "lat": 47.0857433,
+    "lon": 17.9012471
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "DC"
+  }
+},
+{
+  "type": "way",
+  "id": 168501767,
+  "center": {
+    "lat": 46.9584952,
+    "lon": 18.9317282
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Club Nova",
+    "opening_hours": "24/7",
+    "phone": "+36 25 522 522",
+    "smoking": "no",
+    "website": "http://www.clubnova.hu/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 203252192,
+  "center": {
+    "lat": 47.4599509,
+    "lon": 19.0574844
+  },
+  "tags": {
+    "addr:city": "Budapest",
+    "addr:housenumber": "1",
+    "addr:postcode": "1117",
+    "addr:street": "Öböl utca",
+    "amenity": "nightclub",
+    "brewery": "yes",
+    "building": "yes",
+    "facebook": "https://www.facebook.com/durermusic",
+    "name": "Dürer Kert",
+    "opening_hours": "Mo-Su 16:00-02:00",
+    "outdoor_seating": "yes",
+    "website": "https://www.durerkert.com/",
+    "wikidata": "Q125772531",
+    "wikipedia": "hu:Dürer Kert"
+  }
+},
+{
+  "type": "way",
+  "id": 229748588,
+  "center": {
+    "lat": 47.2323052,
+    "lon": 16.6158956
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Romkert",
+    "opening_hours": "Sa 22:00-05:00"
+  }
+},
+{
+  "type": "way",
+  "id": 237159901,
+  "center": {
+    "lat": 47.5407559,
+    "lon": 19.0462283
+  },
+  "tags": {
+    "addr:city": "Budapest",
+    "addr:housenumber": "1",
+    "addr:postcode": "1033",
+    "addr:street": "Fő tér",
+    "amenity": "nightclub",
+    "capacity": "150",
+    "club": "cinema",
+    "contact:facebook": "https://www.facebook.com/KOBUCI",
+    "dog": "yes",
+    "email": "kobuci@kobuci.hu",
+    "name": "Kobuci Kert",
+    "opening_hours": "Mo-Fr 16:00-04:00; Sa-Su 11:00-04:00; Oct-Apr off",
+    "operator": "Kobuci Kft.",
+    "phone": "+36 70 205 7282",
+    "website": "https://kobuci.hu/"
+  }
+},
+{
+  "type": "way",
+  "id": 281296572,
+  "center": {
+    "lat": 46.9512899,
+    "lon": 17.8739458
+  },
+  "tags": {
+    "addr:city": "Balatonfüred",
+    "addr:housenumber": "24",
+    "addr:postcode": "8230",
+    "addr:street": "Fürdő utca",
+    "amenity": "nightclub",
+    "building": "yes",
+    "contact:email": "dreamscafe.balatonfured@gmail.com",
+    "contact:facebook": "https://www.facebook.com/dreams.balatonfured/",
+    "contact:phone": "+36 30 605 8913",
+    "name": "Dream's Cafe",
+    "old_name": "Bár-Mi"
+  }
+},
+{
+  "type": "way",
+  "id": 290299158,
+  "center": {
+    "lat": 47.4072165,
+    "lon": 21.6205212
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Club M47 Hungary"
+  }
+},
+{
+  "type": "way",
+  "id": 291492247,
+  "center": {
+    "lat": 47.4543786,
+    "lon": 19.0438263
+  },
+  "tags": {
+    "addr:city": "Budapest",
+    "addr:housenumber": "8",
+    "addr:postcode": "1116",
+    "addr:street": "Kondorfa utca",
+    "amenity": "nightclub",
+    "building": "yes",
+    "contact:facebook": "https://www.facebook.com/analogmusichall/",
+    "contact:mobile": "+36 30 999 1151",
+    "contact:website": "http://www.analogmusichall.hu/",
+    "name": "Analog Music Hall",
+    "source": "Bing"
+  }
+},
+{
+  "type": "way",
+  "id": 296951026,
+  "center": {
+    "lat": 46.7731639,
+    "lon": 18.4359426
+  },
+  "tags": {
+    "addr:city": "Igar",
+    "addr:postcode": "7015",
+    "addr:suburb": "Dádpuszta",
+    "amenity": "nightclub",
+    "building": "roof",
+    "building:levels": "1",
+    "description": "Az OZORA Fesztivál ideje alatt",
+    "description:en": "During the OZORA Festival",
+    "ele": "120",
+    "height": "5",
+    "material": "wood",
+    "name": "Nagyszínpad",
+    "name:en": "Main Stage",
+    "operator": "Solipse Fesztivál 1999-tól; O.Z.O.R.A. Fesztivál 2005-től",
+    "seasonal": "yes",
+    "start_date": "1999",
+    "surface": "grass",
+    "url": "https://kulturkor.wordpress.com/2020/07/03/ozora-3-ozora-epuletei/",
+    "website": "https://kulturkor.wordpress.com/category/ozora/"
+  }
+},
+{
+  "type": "way",
+  "id": 297695578,
+  "center": {
+    "lat": 47.9511343,
+    "lon": 21.7266427
+  },
+  "tags": {
+    "addr:city": "Nyíregyháza",
+    "addr:housenumber": "64",
+    "addr:postcode": "4400",
+    "addr:street": "Szent István utca",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Brickhouse",
+    "opening_hours": "We-Th 17:00-24:00; Fr-Sa 17:00-04:00",
+    "phone": "+36 42 400 847",
+    "toilets:wheelchair": "yes",
+    "website": "http://www.brickhouse.hu",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 300971792,
+  "center": {
+    "lat": 46.1264319,
+    "lon": 19.1621541
+  },
+  "tags": {
+    "addr:city": "Bácsbokod",
+    "addr:housenumber": "1",
+    "addr:postcode": "6453",
+    "addr:street": "Hunyadi János utca",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Mediterran Club Disco"
+  }
+},
+{
+  "type": "way",
+  "id": 312860140,
+  "center": {
+    "lat": 47.9282784,
+    "lon": 21.0446186
+  },
+  "tags": {
+    "addr:city": "Tiszaújváros",
+    "addr:housenumber": "4",
+    "addr:postcode": "3580",
+    "addr:street": "Szederkényi út",
+    "amenity": "nightclub",
+    "building": "yes",
+    "building:levels": "1",
+    "contact:email": "mambokft@gmail.com",
+    "contact:facebook": "http://fb.com/clubcafemambo",
+    "name": "Mambo Club & Cafe",
+    "opening_hours": "Sa 22:00-05:00",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 325763886,
+  "center": {
+    "lat": 47.3534286,
+    "lon": 19.7012277
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Inside Fashion Club",
+    "opening_hours": "Sa 22:00-00:00"
+  }
+},
+{
+  "type": "way",
+  "id": 336050893,
+  "center": {
+    "lat": 48.3295165,
+    "lon": 21.5560174
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Highlander"
+  }
+},
+{
+  "type": "way",
+  "id": 340336694,
+  "center": {
+    "lat": 47.4757379,
+    "lon": 19.1030802
+  },
+  "tags": {
+    "addr:city": "Budapest",
+    "addr:housenumber": "2",
+    "addr:postcode": "1101",
+    "addr:street": "Népliget",
+    "amenity": "nightclub",
+    "barrier": "fence",
+    "capacity": "2160",
+    "contact:email": "info@cinemahall.hu",
+    "contact:facebook": "210581925623653",
+    "contact:phone": "+36 30 409 7002",
+    "contact:tripadvisor": "5970964",
+    "name": "Cinema Hall",
+    "operator": "The Debut Rendezvényszervező Kft."
+  }
+},
+{
+  "type": "way",
+  "id": 350357910,
+  "center": {
+    "lat": 46.4577436,
+    "lon": 17.0009230
+  },
+  "tags": {
+    "addr:city": "Nagykanizsa",
+    "addr:housenumber": "2",
+    "addr:postcode": "8800",
+    "addr:street": "Balatoni utca",
+    "amenity": "nightclub",
+    "building": "yes",
+    "min_age": "16",
+    "name": "Kanizsa Klub",
+    "smoking": "outside",
+    "website": "https://kanizsaclub.hu/"
+  }
+},
+{
+  "type": "way",
+  "id": 356216079,
+  "center": {
+    "lat": 47.4475377,
+    "lon": 19.0920491
+  },
+  "tags": {
+    "addr:city": "Budapest",
+    "addr:housenumber": "158/C",
+    "addr:postcode": "1095",
+    "addr:street": "Soroksári út",
+    "amenity": "nightclub",
+    "building": "yes",
+    "capacity": "1580",
+    "contact:email": "info@arzenal.club",
+    "contact:facebook": "108172140579789",
+    "name": "Arzenál",
+    "operator": "Arzenal Club Kft.",
+    "source": "Bing"
+  }
+},
+{
+  "type": "way",
+  "id": 419692889,
+  "center": {
+    "lat": 47.5495693,
+    "lon": 21.6074310
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Kazánház"
+  }
+},
+{
+  "type": "way",
+  "id": 420321183,
+  "center": {
+    "lat": 46.7809460,
+    "lon": 17.6532018
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Club Bastille"
+  }
+},
+{
+  "type": "way",
+  "id": 458356175,
+  "center": {
+    "lat": 47.6789359,
+    "lon": 17.6620018
+  },
+  "tags": {
+    "addr:city": "Győr",
+    "addr:housenumber": "11",
+    "addr:postcode": "9023",
+    "addr:street": "Richter János utca",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Club Vertigo"
+  }
+},
+{
+  "type": "way",
+  "id": 461183193,
+  "center": {
+    "lat": 47.6843691,
+    "lon": 17.6538195
+  },
+  "tags": {
+    "addr:city": "Győr",
+    "addr:housenumber": "11",
+    "addr:postcode": "9023",
+    "addr:street": "Mészáros Lőrinc utca",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Club Neo"
+  }
+},
+{
+  "type": "way",
+  "id": 462404368,
+  "center": {
+    "lat": 47.6032115,
+    "lon": 20.2799903
+  },
+  "tags": {
+    "addr:city": "Heves",
+    "addr:postcode": "3360",
+    "addr:street": "Vértanú utca",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Panzio Music Club"
+  }
+},
+{
+  "type": "way",
+  "id": 501632958,
+  "center": {
+    "lat": 47.1995020,
+    "lon": 18.6050785
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "roof",
+    "contact:facebook": "https://www.facebook.com/agardipopstrand/",
+    "contact:website": "http://agardipopstrand.hu/",
+    "contact:youtube": "https://www.youtube.com/channel/UCMNhEK5nfI9jMc0gKjqSDiA?view_as=subscriber",
+    "internet_access:ssid": "Popstrand",
+    "name": "Agárdi Popstrand"
+  }
+},
+{
+  "type": "way",
+  "id": 542776215,
+  "center": {
+    "lat": 48.2177534,
+    "lon": 20.2979618
+  },
+  "tags": {
+    "addr:city": "Ózd",
+    "addr:postcode": "3600",
+    "addr:street": "Gyár út",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "RIO"
+  }
+},
+{
+  "type": "way",
+  "id": 546037322,
+  "center": {
+    "lat": 48.2205931,
+    "lon": 20.2873042
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Monster Beach"
+  }
+},
+{
+  "type": "way",
+  "id": 676225626,
+  "center": {
+    "lat": 46.3282454,
+    "lon": 19.8968002
+  },
+  "tags": {
+    "addr:city": "Bordány",
+    "addr:postcode": "6795",
+    "addr:street": "Bordány dűlő",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Club 1001"
+  }
+},
+{
+  "type": "way",
+  "id": 694568581,
+  "center": {
+    "lat": 47.0332157,
+    "lon": 18.1137799
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Rózsa Disco"
+  }
+},
+{
+  "type": "way",
+  "id": 704265987,
+  "center": {
+    "lat": 47.4894694,
+    "lon": 19.0472232
+  },
+  "tags": {
+    "addr:city": "Budapest",
+    "addr:housenumber": "9",
+    "addr:postcode": "1013",
+    "addr:street": "Döbrentei tér",
+    "amenity": "nightclub",
+    "building": "yes",
+    "building:colour": "tan",
+    "capacity": "1454",
+    "contact:email": "hello@romkert.eu",
+    "contact:facebook": "1909755232634931",
+    "contact:phone": "+36 30 591 4450",
+    "contact:tripadvisor": "4582253",
+    "contact:website": "https://romkert.eu/",
+    "name": "Romkert",
+    "opening_hours": "May-Sep: We-Sa 23:00-05:00",
+    "operator": "Sunset Angel Kft.",
+    "ref:google": "/g/11bv5t4dc6"
+  }
+},
+{
+  "type": "way",
+  "id": 821632606,
+  "center": {
+    "lat": 47.5040917,
+    "lon": 19.0402628
+  },
+  "tags": {
+    "addr:city": "Budapest",
+    "addr:postcode": "1011",
+    "addr:street": "Szilágyi Dezső tér",
+    "amenity": "nightclub",
+    "building": "ship",
+    "capacity": "540",
+    "contact:email": "email@kassa.hu",
+    "contact:facebook": "404635726064727",
+    "contact:phone": "+36 70 336 0609",
+    "contact:website": "https://kassa.hu/",
+    "historic": "ship",
+    "name": "Kassa",
+    "old_name:-1947": "Kassa",
+    "old_name:1947-1965": "Debrecen",
+    "old_name:1965-1999": "1. sz. műhelyhajó",
+    "old_name:1999-2024": "Debrecen",
+    "operator": "Tripfood Kft.",
+    "start_date": "1939"
+  }
+},
+{
+  "type": "way",
+  "id": 971724807,
+  "center": {
+    "lat": 46.7731021,
+    "lon": 18.4364821
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "description": "Az OZORA Fesztivál ideje alatt",
+    "description:en": "During the OZORA Festival",
+    "name": "Ambyss",
+    "seasonal": "yes",
+    "start_date": "2018"
+  }
+},
+{
+  "type": "way",
+  "id": 1123422916,
+  "center": {
+    "lat": 47.4675460,
+    "lon": 19.0777577
+  },
+  "tags": {
+    "addr:city": "Budapest",
+    "addr:housenumber": "1",
+    "addr:postcode": "1095",
+    "addr:street": "Fábián Juli tér",
+    "amenity": "nightclub",
+    "barrier": "fence",
+    "capacity": "11500",
+    "contact:email": "park@budapestpark.hu",
+    "contact:facebook": "budapestpark",
+    "contact:instagram": "budapestpark",
+    "contact:phone": "+36 1 434 7800",
+    "contact:tiktok": "budapestparkofficial",
+    "contact:website": "https://www.budapestpark.hu/",
+    "landuse": "commercial",
+    "name": "Budapest Park",
+    "old_addr:housenumber": "60",
+    "old_addr:street": "Soroksári út",
+    "opening_hours": "Apr 28-Sep 26 17:00-05:00",
+    "operator": "Kultúrpark Kft.",
+    "operator:addr": "1095 Budapest, Soroksári út 60.",
+    "ref:HU:company": "01-10-140483",
+    "ref:HU:vatin": "27059571-2-43",
+    "ref:vatin": "HU27059571",
+    "toilets:wheelchair": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q127961509"
+  }
+},
+{
+  "type": "way",
+  "id": 1232774257,
+  "center": {
+    "lat": 47.4413863,
+    "lon": 19.0750692
+  },
+  "tags": {
+    "addr:city": "Budapest",
+    "addr:housenumber": "3",
+    "addr:postcode": "1211",
+    "addr:street": "Szállító utca",
+    "amenity": "nightclub",
+    "barrier": "fence",
+    "email": "info@barbanegra.hu",
+    "name": "Barba Negra",
+    "operator": "Barba Negra Kft.",
+    "phone": "+36 20 563 22 54",
+    "website": "https://www.barbanegra.hu/"
+  }
+},
+{
+  "type": "way",
+  "id": 1272870475,
+  "center": {
+    "lat": 47.0019369,
+    "lon": 21.4884529
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Las Vegas Discotech",
+    "short_name": "Róna"
+  }
+},
+{
+  "type": "way",
+  "id": 1328517531,
+  "center": {
+    "lat": 46.8998634,
+    "lon": 19.6687133
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "barrier": "fence",
+    "landuse": "commercial",
+    "name": "Ápoló Klub"
+  }
+},
+{
+  "type": "way",
+  "id": 1540094817,
+  "center": {
+    "lat": 47.5101033,
+    "lon": 19.0581671
+  },
+  "tags": {
+    "addr:city": "Budapest",
+    "addr:housenumber": "53",
+    "addr:postcode": "1062",
+    "addr:street": "Teréz körút",
+    "amenity": "nightclub",
+    "contact:email": "reservation@zsirafpest.hu",
+    "contact:facebook": "zsirafpest",
+    "contact:instagram": "zsirafpest",
+    "contact:phone": "+36 30 602 1947",
+    "contact:website": "https://zsirafpest.hu",
+    "level": "-1",
+    "live_music": "yes",
+    "name": "Zsiráf Pest",
+    "opening_hours": "Mo-We 16:00-00:00; Th-Sa 16:00-04:00; Su 16:00-00:00; Oct 01-Mar 30 off",
+    "reservation": "yes",
+    "reservation:website": "https://reservours.com/zsiraf/tablereservation"
+  }
+},
+{
+  "type": "relation",
+  "id": 19617751,
+  "center": {
+    "lat": 47.5005516,
+    "lon": 19.0654698
+  },
+  "tags": {
+    "addr:city": "Budapest",
+    "addr:housenumber": "49-51",
+    "addr:postcode": "1073",
+    "addr:street": "Akácfa utca",
+    "amenity": "nightclub",
+    "capacity": "2913",
+    "contact:email": "info@instant-fogas.com",
+    "contact:facebook": "182746818942",
+    "contact:phone": "+36 70 638 5040",
+    "contact:website": "https://instant-fogas.com/",
+    "name": "Instant-Fogas Komplexum",
+    "operator": "Planterinbox Kft.",
+    "type": "multipolygon"
+  }
+}
+
+  ]
+}

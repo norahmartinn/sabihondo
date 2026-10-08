@@ -1,0 +1,346 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-10-08T23:44:18Z",
+    "timestamp_areas_base": "2026-10-07T10:19:21Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 2377938355,
+  "lat": 41.1049895,
+  "lon": 20.8144890,
+  "tags": {
+    "amenity": "nightclub",
+    "int_name": "Planet Discoteque",
+    "name": "Дискотека Планета"
+  }
+},
+{
+  "type": "node",
+  "id": 2695392370,
+  "lat": 41.9951965,
+  "lon": 21.4322415,
+  "tags": {
+    "addr:city": "Cкoпje",
+    "addr:housenumber": "3a",
+    "addr:postcode": "1000",
+    "addr:street": "11 Октомври",
+    "amenity": "nightclub",
+    "name": "Сектор909",
+    "name:en": "Sektor909"
+  }
+},
+{
+  "type": "node",
+  "id": 2823030397,
+  "lat": 41.9946394,
+  "lon": 21.4353890,
+  "tags": {
+    "addr:street": "ГТЦ",
+    "amenity": "nightclub",
+    "int_name": "Privilege Cliub",
+    "name": "Клуб „Привилиџ“"
+  }
+},
+{
+  "type": "node",
+  "id": 3688680684,
+  "lat": 42.2070665,
+  "lon": 22.3361554,
+  "tags": {
+    "addr:city": "Kriva Palanka",
+    "addr:postcode": "1330",
+    "addr:street": "Свети Јоаким Осоговски",
+    "amenity": "nightclub",
+    "name": "Santa-Fe / Санта Фе",
+    "opening_hours": "09:00-01:00",
+    "smoking": "isolated"
+  }
+},
+{
+  "type": "node",
+  "id": 3695988846,
+  "lat": 41.9670793,
+  "lon": 22.7760968,
+  "tags": {
+    "addr:city": "Делчево",
+    "addr:postcode": "2320",
+    "addr:street": "Н. Ј. Вапцаров",
+    "amenity": "nightclub",
+    "name": "City Club",
+    "name:en": "City Club"
+  }
+},
+{
+  "type": "node",
+  "id": 3704240315,
+  "lat": 41.9664833,
+  "lon": 22.7730375,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "River - Night Club",
+    "name:en": "River - Night Club"
+  }
+},
+{
+  "type": "node",
+  "id": 3812500134,
+  "lat": 41.9979568,
+  "lon": 21.4240507,
+  "tags": {
+    "addr:street": "Булевар Партизански Одреди",
+    "addr:street:en": "bul.Partizanski Odredi",
+    "amenity": "nightclub",
+    "check_date": "2025-06-14",
+    "name": "Balet",
+    "opening_hours": "23:00-05:00"
+  }
+},
+{
+  "type": "node",
+  "id": 4364363775,
+  "lat": 41.5064312,
+  "lon": 21.2151752,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Dominus"
+  }
+},
+{
+  "type": "node",
+  "id": 5136407121,
+  "lat": 42.1999191,
+  "lon": 22.3330398,
+  "tags": {
+    "addr:postcode": "1330",
+    "addr:street": "Свети Јоаким Осоговски",
+    "amenity": "nightclub",
+    "name": "Дискотека ВИП",
+    "name:en": "Disco Club VIP",
+    "opening_hours": "Sa 11:30-05:00; Fr 11:30-05:00"
+  }
+},
+{
+  "type": "node",
+  "id": 7026834385,
+  "lat": 41.9957510,
+  "lon": 21.4246156,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Mezo Club",
+    "name:en": "Club Epicentar"
+  }
+},
+{
+  "type": "node",
+  "id": 7027089085,
+  "lat": 41.9910739,
+  "lon": 21.4255832,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Станица 26",
+    "name:en": "Station 26"
+  }
+},
+{
+  "type": "node",
+  "id": 13957844040,
+  "lat": 41.1120330,
+  "lon": 20.7949458,
+  "tags": {
+    "addr:city": "Ohrid",
+    "addr:housenumber": "74",
+    "addr:postcode": "6000",
+    "addr:street": "Коста Абраш",
+    "amenity": "nightclub",
+    "int_name": "Jazz Inn",
+    "name": "Џез ин",
+    "opening_hours": "10:00 - 05:00",
+    "smoking": "outside"
+  }
+},
+{
+  "type": "way",
+  "id": 155686284,
+  "center": {
+    "lat": 41.9947157,
+    "lon": 21.5744970
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Millenium"
+  }
+},
+{
+  "type": "way",
+  "id": 190217752,
+  "center": {
+    "lat": 41.9955912,
+    "lon": 21.4246878
+  },
+  "tags": {
+    "addr:city": "Cкoпje",
+    "addr:city:en": "Skopje",
+    "addr:country": "MK",
+    "addr:postcode": "1000",
+    "amenity": "nightclub",
+    "building": "yes",
+    "int_name": "Mamas",
+    "name": "Мамас",
+    "name:en": "Mamas",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 233274286,
+  "center": {
+    "lat": 41.1126203,
+    "lon": 20.8001888
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "check_date": "2024-06-29",
+    "name": "The Harbour Club"
+  }
+},
+{
+  "type": "way",
+  "id": 300510420,
+  "center": {
+    "lat": 41.4829016,
+    "lon": 22.0904261
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Акрополис"
+  }
+},
+{
+  "type": "way",
+  "id": 477325824,
+  "center": {
+    "lat": 42.0013750,
+    "lon": 21.4222715
+  },
+  "tags": {
+    "addr:city": "Cкoпje",
+    "addr:city:en": "Skopje",
+    "addr:country": "MK",
+    "addr:housename": "Џубокс",
+    "addr:housenumber": "99",
+    "addr:postcode": "1000",
+    "addr:street": "Орце Николов",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Џубокс",
+    "name:en": "Jukebox",
+    "opening_hours": "22:00-04:00"
+  }
+},
+{
+  "type": "way",
+  "id": 508498676,
+  "center": {
+    "lat": 42.0066094,
+    "lon": 21.4296748
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Сектор 909"
+  }
+},
+{
+  "type": "way",
+  "id": 581914080,
+  "center": {
+    "lat": 41.1762580,
+    "lon": 20.6719464
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Оаза"
+  }
+},
+{
+  "type": "way",
+  "id": 851855748,
+  "center": {
+    "lat": 41.9048758,
+    "lon": 22.3949351
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Клуб Пулс",
+    "name:en": "Club Pulse",
+    "name:mk": "Клуб Пулс",
+    "note": "Затворен\nClosed"
+  }
+},
+{
+  "type": "way",
+  "id": 1177924639,
+  "center": {
+    "lat": 41.0235442,
+    "lon": 21.3402050
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "int_name": "Rasčekor",
+    "name": "Расчекор",
+    "name:en": "Raschekor"
+  }
+},
+{
+  "type": "way",
+  "id": 1429502547,
+  "center": {
+    "lat": 42.0069613,
+    "lon": 21.4204615
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Havana Summer Club"
+  }
+},
+{
+  "type": "way",
+  "id": 1429502548,
+  "center": {
+    "lat": 42.0068608,
+    "lon": 21.4207288
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Pure Night Club"
+  }
+},
+{
+  "type": "way",
+  "id": 1442807342,
+  "center": {
+    "lat": 41.6531955,
+    "lon": 20.7348327
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Ratrak Club"
+  }
+}
+
+  ]
+}

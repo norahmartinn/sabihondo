@@ -1,0 +1,476 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-10-08T23:22:36Z",
+    "timestamp_areas_base": "2026-10-07T10:19:21Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 2922138833,
+  "lat": 46.5577147,
+  "lon": 15.6409471,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "KMŠ"
+  }
+},
+{
+  "type": "node",
+  "id": 3159101161,
+  "lat": 46.4205826,
+  "lon": 15.8747763,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "xTime",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3621484544,
+  "lat": 46.5574979,
+  "lon": 15.6422299,
+  "tags": {
+    "addr:city": "Maribor",
+    "addr:housenumber": "5",
+    "addr:postcode": "2000",
+    "addr:street": "Vojašniški trg",
+    "amenity": "nightclub",
+    "amenity_1": "pub",
+    "amenity_2": "bar",
+    "contact:facebook": "https://www.facebook.com/klubkgbmaribor/",
+    "email": "info@klub-kgb.si",
+    "level": "-1",
+    "name": "Klub KGB Maribor",
+    "opening_hours": "Mo-Th 19:00-02:00; Fr-Sa 19:00-03:00; Su off",
+    "smoking": "outside",
+    "toilets:wheelchair": "no",
+    "website": "https://klub-kgb.si/",
+    "wheelchair": "no",
+    "wikidata": "Q120073759"
+  }
+},
+{
+  "type": "node",
+  "id": 3671535892,
+  "lat": 46.5630380,
+  "lon": 15.6291919,
+  "tags": {
+    "addr:city": "Maribor",
+    "addr:housenumber": "84",
+    "addr:postcode": "2000",
+    "addr:street": "Gosposvetska cesta",
+    "amenity": "nightclub",
+    "name": "Trust Club"
+  }
+},
+{
+  "type": "node",
+  "id": 4433475389,
+  "lat": 46.5582010,
+  "lon": 15.6408737,
+  "tags": {
+    "addr:housenumber": "4",
+    "addr:postcode": "2000",
+    "addr:street": "Vodnikov trg",
+    "amenity": "nightclub",
+    "name": "Balkan club Podroom",
+    "opening_hours": "Fr-Sa 22:00-05:00"
+  }
+},
+{
+  "type": "node",
+  "id": 4457993891,
+  "lat": 46.6652537,
+  "lon": 16.1608500,
+  "tags": {
+    "addr:city": "Murska Sobota",
+    "addr:postcode": "9000",
+    "addr:street": "Kopališka ulica",
+    "amenity": "nightclub",
+    "email": "info@spartacus.si",
+    "internet_access": "wlan",
+    "name": "nočni klub Spartacus",
+    "name:en": "nightclub Spartacus",
+    "opening_hours": "Fr-Su 22:00-05:00",
+    "phone": "041346777"
+  }
+},
+{
+  "type": "node",
+  "id": 4897852802,
+  "lat": 46.5604335,
+  "lon": 15.6555162,
+  "tags": {
+    "addr:city": "Maribor",
+    "addr:housenumber": "2",
+    "addr:postcode": "2000",
+    "addr:street": "Mlinska ulica",
+    "amenity": "nightclub",
+    "email": "nightclub.mamut@gmail.com",
+    "name": "Night Club Mamut",
+    "opening_hours": "Mo-Su 21:00-4:00",
+    "phone": "+386 41 428 459"
+  }
+},
+{
+  "type": "node",
+  "id": 5235103869,
+  "lat": 46.4987586,
+  "lon": 16.1579393,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Planet Party diskoteka"
+  }
+},
+{
+  "type": "node",
+  "id": 5569696287,
+  "lat": 45.5124831,
+  "lon": 13.5948608,
+  "tags": {
+    "addr:city": "Portorož",
+    "addr:housenumber": "20",
+    "addr:postcode": "6320",
+    "addr:street": "Obala",
+    "amenity": "nightclub",
+    "name": "Club Pergola"
+  }
+},
+{
+  "type": "node",
+  "id": 6857003885,
+  "lat": 45.5622498,
+  "lon": 14.2449236,
+  "tags": {
+    "addr:housenumber": "26",
+    "addr:street": "Bazoviška cesta",
+    "amenity": "nightclub",
+    "email": "mknz@guest.arnes.si",
+    "name": "MKNŽ (Mladinski Klub Nade Žagar)",
+    "phone": "0038657142666",
+    "website": "http://www.drustvo-mknz.si"
+  }
+},
+{
+  "type": "node",
+  "id": 9310285291,
+  "lat": 45.9606747,
+  "lon": 13.6500434,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Monaliza"
+  }
+},
+{
+  "type": "node",
+  "id": 11397887185,
+  "lat": 46.0467760,
+  "lon": 14.4953956,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Cirkus",
+    "opening_hours": "Fr,Sa 23:00-05:00"
+  }
+},
+{
+  "type": "node",
+  "id": 11640076234,
+  "lat": 46.0573208,
+  "lon": 14.5171946,
+  "tags": {
+    "addr:housenumber": "24",
+    "addr:street": "Masarykova cesta",
+    "amenity": "nightclub",
+    "lgbtq": "primary",
+    "name": "Monokel"
+  }
+},
+{
+  "type": "node",
+  "id": 11640076235,
+  "lat": 46.0572947,
+  "lon": 14.5173808,
+  "tags": {
+    "addr:housenumber": "24",
+    "addr:street": "Masarykova cesta",
+    "amenity": "nightclub",
+    "lgbtq": "primary",
+    "name": "Tiffany"
+  }
+},
+{
+  "type": "node",
+  "id": 14105571870,
+  "lat": 46.0611416,
+  "lon": 14.5100830,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Publika bar"
+  }
+},
+{
+  "type": "way",
+  "id": 115607583,
+  "center": {
+    "lat": 46.0556787,
+    "lon": 14.5040240
+  },
+  "tags": {
+    "addr:city": "Ljubljana",
+    "addr:housenumber": "4",
+    "addr:postcode": "1000",
+    "addr:street": "Kersnikova ulica",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "K4",
+    "ref:gurs:hs_mid": "12791437",
+    "smoking": "separated",
+    "source:addr": "GURS",
+    "source:addr:date": "1995-01-01"
+  }
+},
+{
+  "type": "way",
+  "id": 115610970,
+  "center": {
+    "lat": 46.0700777,
+    "lon": 14.5207175
+  },
+  "tags": {
+    "addr:city": "Ljubljana",
+    "addr:housenumber": "20",
+    "addr:postcode": "1000",
+    "addr:street": "Kranjčeva ulica",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Cvetličarna Mediapark",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 115614160,
+  "center": {
+    "lat": 46.0570863,
+    "lon": 14.5167136
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "image": "https://photos.app.goo.gl/3wih2e5WQgaZoAJG7",
+    "name": "Channel Zero",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 115614162,
+  "center": {
+    "lat": 46.0573544,
+    "lon": 14.5167856
+  },
+  "tags": {
+    "addr:city": "Ljubljana",
+    "addr:housenumber": "22",
+    "addr:postcode": "1000",
+    "addr:street": "Masarykova cesta",
+    "amenity": "nightclub",
+    "building": "yes",
+    "image": "https://photos.app.goo.gl/3wih2e5WQgaZoAJG7",
+    "name": "Gala Hala",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 115614163,
+  "center": {
+    "lat": 46.0567844,
+    "lon": 14.5172502
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Klub Gromka",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 115614164,
+  "center": {
+    "lat": 46.0567826,
+    "lon": 14.5168986
+  },
+  "tags": {
+    "addr:city": "Ljubljana",
+    "addr:housenumber": "6",
+    "addr:postcode": "1000",
+    "addr:street": "Metelkova ulica",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Jalla Jalla",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 115614165,
+  "center": {
+    "lat": 46.0564842,
+    "lon": 14.5172519
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "contact:email": "info.menza@gmail.com",
+    "contact:phone": "+38614340345",
+    "name": "Menza pri koritu",
+    "website": "http://www.menzaprikoritu.com/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 180563279,
+  "center": {
+    "lat": 45.5307838,
+    "lon": 13.6336387
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Casino Belvedere"
+  }
+},
+{
+  "type": "way",
+  "id": 307835779,
+  "center": {
+    "lat": 46.6634775,
+    "lon": 16.1758422
+  },
+  "tags": {
+    "addr:city": "Murska Sobota",
+    "addr:housenumber": "4A",
+    "addr:postcode": "9000",
+    "addr:street": "Klavniška ulica",
+    "amenity": "nightclub",
+    "building": "yes",
+    "cuisine": "balkan",
+    "internet_access": "wlan",
+    "name": "Bar M-NITE klub",
+    "opening_hours": "Mo-Th 07:30-20:00; Fr 07:30-22:00; Sa 08:30-17:00",
+    "ref:gurs:hs_mid": "19475174",
+    "ref:gurs:sta_sid": "10119204"
+  }
+},
+{
+  "type": "way",
+  "id": 419696199,
+  "center": {
+    "lat": 46.5701322,
+    "lon": 15.7607167
+  },
+  "tags": {
+    "addr:city": "Lenart v Slov. goricah",
+    "addr:housenumber": "10A",
+    "addr:postcode": "2230",
+    "addr:street": "Močna",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Havana",
+    "operator": "Lea Pšajt s.p."
+  }
+},
+{
+  "type": "way",
+  "id": 445433533,
+  "center": {
+    "lat": 46.2436467,
+    "lon": 14.3515085
+  },
+  "tags": {
+    "addr:city": "Kranj",
+    "addr:housenumber": "25a",
+    "addr:postcode": "4000",
+    "addr:street": "Stara cesta",
+    "amenity": "nightclub",
+    "building": "yes",
+    "capacity": "1000",
+    "construction_date": "1960",
+    "description": "Stari kranjski bazen, nova zgodba: koncerti, partyji, stand up ... Edini pravi klubski plac v Kranju in okolici. Ob klubu je redno odprt tudi bar, ki ponuja tudi hrano.",
+    "email": "info@bazen-kranj.si",
+    "internet_access": "yes",
+    "internet_access:fee": "yes",
+    "name": "Klub Bazen Kranj",
+    "outdoor_seating": "no",
+    "ref:gurs:sta_sid": "22365903",
+    "smoking": "outside",
+    "source:addr": "GURS, 8.11.2016",
+    "source:construction_date": "GURS",
+    "source:geometry": "GURS",
+    "start_date": "2012",
+    "website": "https://bazen-kranj.si/"
+  }
+},
+{
+  "type": "way",
+  "id": 472363307,
+  "center": {
+    "lat": 46.5117896,
+    "lon": 16.2057008
+  },
+  "tags": {
+    "addr:city": "Ljutomer",
+    "addr:housenumber": "13",
+    "addr:postcode": "9240",
+    "addr:street": "Jeruzalemska cesta",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Diskoteka Oxygen"
+  }
+},
+{
+  "type": "way",
+  "id": 1042775111,
+  "center": {
+    "lat": 46.6728087,
+    "lon": 15.6590763
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Yucatan"
+  }
+},
+{
+  "type": "way",
+  "id": 1358101028,
+  "center": {
+    "lat": 46.6416469,
+    "lon": 15.9124796
+  },
+  "tags": {
+    "addr:city": "Gornja Radgona",
+    "addr:housenumber": "1B",
+    "addr:postcode": "9250",
+    "addr:street": "Zagajski Vrh",
+    "amenity": "nightclub",
+    "building": "yes",
+    "construction_date": "1987",
+    "contact:mobile": "+38641 894 848",
+    "name": "Nočni lokal erotik",
+    "operator": "Karolina Perko s.p.",
+    "ref:gurs:hs_mid": "16343820",
+    "ref:gurs:sta_sid": "23278883"
+  }
+}
+
+  ]
+}

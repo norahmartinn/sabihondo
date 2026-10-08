@@ -1,0 +1,4411 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-10-08T23:06:04Z",
+    "timestamp_areas_base": "2026-10-07T10:19:21Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 246781227,
+  "lat": 47.4975025,
+  "lon": 8.7223324,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2023-06-28",
+    "name": "Salzhaus",
+    "opening_hours:signed": "no",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 253409309,
+  "lat": 47.6944226,
+  "lon": 8.6360680,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Kammgarn",
+    "website": "https://kammgarn.ch/"
+  }
+},
+{
+  "type": "node",
+  "id": 259585574,
+  "lat": 47.0682913,
+  "lon": 9.0591947,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Livingroom"
+  }
+},
+{
+  "type": "node",
+  "id": 261966051,
+  "lat": 46.9562551,
+  "lon": 7.4377755,
+  "tags": {
+    "addr:city": "Bern",
+    "addr:country": "CH",
+    "addr:housenumber": "43",
+    "addr:postcode": "3012",
+    "addr:street": "Neubrückstrasse",
+    "amenity": "nightclub",
+    "contact:email": "info@bierhuebeli.ch",
+    "contact:phone": "+41 31 3053150",
+    "name": "Bierhübeli",
+    "opening_hours": "Mo-Fr 16:00+; Sa 17:00+",
+    "operator": "Bierhübeli GmbH",
+    "source": "survey and website",
+    "website": "https://bierhuebeli.ch/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 267345397,
+  "lat": 47.3848740,
+  "lon": 8.5202395,
+  "tags": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:housenumber": "5",
+    "addr:postcode": "8005",
+    "addr:street": "Geroldstrasse",
+    "amenity": "nightclub",
+    "check_date": "2024-03-03",
+    "contact:facebook": "https://www.facebook.com/hivezurich/events",
+    "contact:phone": "+41 44 2711210",
+    "contact:ra": "https://de.ra.co/clubs/4910",
+    "contact:website": "https://www.hiveclub.ch",
+    "contact:website:schedule": "http://www.hiveclub.ch/#programm",
+    "min_age:conditional": "19 @ Th",
+    "min_age:female": "21",
+    "min_age:male": "23",
+    "min_age:note": "Women: 21, Men: 23, (Except Thurday: 19)",
+    "name": "Hive",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 267345652,
+  "lat": 47.3884382,
+  "lon": 8.5189441,
+  "tags": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "3",
+    "addr:postcode": "8005",
+    "addr:street": "Schiffbaustrasse",
+    "amenity": "nightclub",
+    "name": "Labor5 Bar",
+    "website": "https://www.labor5.ch/kontakt"
+  }
+},
+{
+  "type": "node",
+  "id": 273223796,
+  "lat": 47.5689851,
+  "lon": 7.6017649,
+  "tags": {
+    "addr:city": "Basel",
+    "addr:housenumber": "1",
+    "addr:postcode": "4058",
+    "addr:street": "Erlenmattweg",
+    "amenity": "nightclub",
+    "min_age": "18",
+    "name": "Heimat",
+    "smoking": "outside",
+    "toilets:wheelchair": "no",
+    "website": "https://www.heimatbasel.ch/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 286879761,
+  "lat": 46.9475438,
+  "lon": 7.4478006,
+  "tags": {
+    "addr:housenumber": "7",
+    "addr:street": "Theaterplatz",
+    "amenity": "nightclub",
+    "contact:email": "info@maisonbern.ch",
+    "indoor_seating": "yes",
+    "level": "0",
+    "name": "Maison",
+    "opening_hours": "We-Th 10:00-00:30; Fr-Sa 10:00-03:30; Su 10:00-17:00",
+    "operator": "Maison Affairs AG",
+    "source": "survey and website",
+    "website": "https://www.maisonbern.ch/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 288860300,
+  "lat": 46.9468191,
+  "lon": 7.4564506,
+  "tags": {
+    "amenity": "nightclub",
+    "contact:addr": "Mühlenplatz 11, 3011 Bern",
+    "contact:email": "kontakt@das-zimmer.ch",
+    "contact:phone": "+41 76 3998885",
+    "name": "Das Zimmer",
+    "old_name": "Silo-Bar",
+    "opening_hours": "unknown",
+    "operator": "Das Zimmer, Inh. Carmosino (Einzelunternehmen)",
+    "source": "survey and website",
+    "website": "http://www.das-zimmer.ch"
+  }
+},
+{
+  "type": "node",
+  "id": 294906629,
+  "lat": 47.3856235,
+  "lon": 8.5196321,
+  "tags": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "17",
+    "addr:postcode": "8005",
+    "addr:street": "Geroldstrasse",
+    "amenity": "nightclub",
+    "check_date": "2024-03-02",
+    "email": "contact@supermarket.li",
+    "name": "Supermarket",
+    "website": "https://supermarket.li",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 298172592,
+  "lat": 47.3741511,
+  "lon": 8.5247996,
+  "tags": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:housenumber": "109",
+    "addr:postcode": "8004",
+    "addr:street": "Badenerstrasse",
+    "amenity": "nightclub",
+    "check_date": "2026-10-07",
+    "email": "info@plaza-zurich.ch",
+    "min_age": "18",
+    "name": "Plaza Klub",
+    "phone": "+41 44 542 90 90",
+    "smoking": "isolated",
+    "website": "https://www.plaza-zurich.ch/",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 300384722,
+  "lat": 47.3662936,
+  "lon": 8.5467720,
+  "tags": {
+    "amenity": "nightclub",
+    "end_date": "2025-06-14",
+    "name": "Palais Mascotte",
+    "opening_hours": "We-Sa 18:00+",
+    "website": "https://palais-mascotte.club/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 300385017,
+  "lat": 46.6076623,
+  "lon": 7.9208337,
+  "tags": {
+    "addr:postcode": "3823",
+    "amenity": "nightclub",
+    "check_date:opening_hours": "2025-01-29",
+    "name": "Blue Monkey",
+    "opening_hours:signed": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 300744285,
+  "lat": 47.3718100,
+  "lon": 8.5364241,
+  "tags": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:housenumber": "18",
+    "addr:postcode": "8001",
+    "addr:street": "Pelikanstrasse",
+    "amenity": "nightclub",
+    "check_date": "2024-04-15",
+    "name": "Kaufleuten Klubsaal",
+    "toilets:wheelchair": "yes",
+    "website": "https://kaufleuten.ch/",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 320614854,
+  "lat": 46.3778002,
+  "lon": 7.6258587,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Courage Club"
+  }
+},
+{
+  "type": "node",
+  "id": 321757376,
+  "lat": 46.7933207,
+  "lon": 9.8248179,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Bolgenschanze",
+    "tourism": "guest_house"
+  }
+},
+{
+  "type": "node",
+  "id": 338639750,
+  "lat": 47.3815648,
+  "lon": 8.5369701,
+  "tags": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "21",
+    "addr:postcode": "8005",
+    "addr:street": "Ausstellungsstrasse",
+    "amenity": "nightclub",
+    "check_date": "2024-11-03",
+    "contact:email": "uhu@kauzig.ch",
+    "contact:phone": "+41 77 9743476",
+    "contact:ra": "https://ra.co/clubs/95870",
+    "contact:website": "https://www.kauzig.ch",
+    "name": "Kauz",
+    "opening_hours": "22:00+"
+  }
+},
+{
+  "type": "node",
+  "id": 365892147,
+  "lat": 47.3832248,
+  "lon": 8.5394061,
+  "tags": {
+    "addr:city": "Zürich",
+    "alt_name": "Kaufleuten Dynamo",
+    "amenity": "nightclub",
+    "layer": "-1",
+    "name": "Werk 21",
+    "website": "https://www.dynamo.ch/raum/werk-21",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 366889107,
+  "lat": 47.3490813,
+  "lon": 8.7156958,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2025-11-02",
+    "check_date:opening_hours": "2025-11-02",
+    "name": "Night Bird",
+    "opening_hours": "Mo-Th 19:00-04:00; Fr-Sa 19:00-05:00; Su 20:00-04:00"
+  }
+},
+{
+  "type": "node",
+  "id": 369045671,
+  "lat": 46.0068054,
+  "lon": 8.9498322,
+  "tags": {
+    "addr:city": "Lugano",
+    "addr:country": "CH",
+    "addr:housenumber": "1",
+    "addr:postcode": "6900",
+    "addr:street": "Via Cantonale",
+    "amenity": "nightclub",
+    "name": "Club number one"
+  }
+},
+{
+  "type": "node",
+  "id": 369045778,
+  "lat": 46.0052517,
+  "lon": 8.9511097,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date:opening_hours": "2026-01-14",
+    "name": "Privilege",
+    "opening_hours:signed": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 370169481,
+  "lat": 46.7943965,
+  "lon": 7.1540283,
+  "tags": {
+    "addr:city": "Fribourg",
+    "addr:country": "CH",
+    "addr:housenumber": "6",
+    "addr:postcode": "1700",
+    "addr:street": "Route de la Fonderie",
+    "amenity": "nightclub",
+    "contact:email": "lequai@lequai.ch",
+    "contact:fax": "+41 26 4242233",
+    "contact:phone": "+41 26 4242223",
+    "name": "Le Quai",
+    "source": "website",
+    "website": "https://www.lequai.ch/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 373007860,
+  "lat": 46.0051892,
+  "lon": 8.9532717,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Desperados"
+  }
+},
+{
+  "type": "node",
+  "id": 373008087,
+  "lat": 46.0058251,
+  "lon": 8.9537765,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "unerge",
+    "opening_hours": "We 22:00-03:00, Th 22:00-04:00, Fr,Sa 22:00-06:00"
+  }
+},
+{
+  "type": "node",
+  "id": 385419850,
+  "lat": 47.0582974,
+  "lon": 6.7483386,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Bronx"
+  }
+},
+{
+  "type": "node",
+  "id": 414211089,
+  "lat": 47.0244381,
+  "lon": 8.2997981,
+  "tags": {
+    "addr:city": "Kriens",
+    "addr:housenumber": "9",
+    "addr:postcode": "6010",
+    "addr:street": "Industriestrasse",
+    "amenity": "nightclub",
+    "contact:facebook": "https://www.facebook.com/vegasclub.ch",
+    "contact:instagram": "https://www.instagram.com/vegasclublucerne/",
+    "email": "welcome@vegasclub.ch",
+    "name": "Vegas Club Luzern",
+    "phone": "+41413408319",
+    "smoking": "isolated",
+    "website": "https://www.vegasclub.ch/"
+  }
+},
+{
+  "type": "node",
+  "id": 415887933,
+  "lat": 47.4979562,
+  "lon": 8.7220817,
+  "tags": {
+    "addr:city": "Winterthur",
+    "addr:housenumber": "10",
+    "addr:postcode": "8400",
+    "addr:street": "Untere Vogelsangstrasse",
+    "amenity": "nightclub",
+    "name": "Bolero",
+    "opening_hours": "Fr,Sa 21:00-04:00",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 420768746,
+  "lat": 46.7282196,
+  "lon": 8.1855375,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Sherpa"
+  }
+},
+{
+  "type": "node",
+  "id": 420769066,
+  "lat": 46.7254631,
+  "lon": 8.1906493,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Sherlock Club"
+  }
+},
+{
+  "type": "node",
+  "id": 439137452,
+  "lat": 47.0995937,
+  "lon": 6.8236549,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Arrasta o pé"
+  }
+},
+{
+  "type": "node",
+  "id": 441595868,
+  "lat": 47.3502356,
+  "lon": 8.2686776,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Z1"
+  }
+},
+{
+  "type": "node",
+  "id": 441595870,
+  "lat": 47.3501680,
+  "lon": 8.2685918,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Peer 56"
+  }
+},
+{
+  "type": "node",
+  "id": 443705763,
+  "lat": 46.9462294,
+  "lon": 7.4366405,
+  "tags": {
+    "alt_name": "Cube.Club.Bern",
+    "amenity": "nightclub",
+    "contact:addr": "Maulbeerstrasse 3, 3011 Bern",
+    "contact:mobile": "+41 76 5619828",
+    "contact:mobile_1": "+41 79 5110911",
+    "name": "Cube Club",
+    "old_name": "Shakira",
+    "old_name_1": "H24 Club",
+    "opening_hours": "Mo-Th off; Fr-Sa 23:00-05:00; Su off",
+    "website": "https://www.cube.club",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 445313876,
+  "lat": 46.9534063,
+  "lon": 7.4399394,
+  "tags": {
+    "alt_name": "ISC Club Bern",
+    "amenity": "nightclub",
+    "contact:addr": "Neubrückstrasse 10, 3012 Bern",
+    "contact:email": "info@isc-club.ch",
+    "contact:fax": "+41 31 3025226",
+    "contact:phone": "+41 31 3025236",
+    "name": "ISC Club",
+    "opening_hours": "\"by appointment\"",
+    "source": "survey and website",
+    "website": "https://www.isc-club.ch/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 447265775,
+  "lat": 46.9527878,
+  "lon": 7.4405467,
+  "tags": {
+    "addr:city": "Bern",
+    "addr:country": "CH",
+    "addr:housenumber": "8",
+    "addr:postcode": "3012",
+    "addr:street": "Neubrückstrasse",
+    "amenity": "nightclub",
+    "contact:email": "info@dachstock.ch",
+    "contact:phone": "+41 31 3066961",
+    "name": "Dachstock",
+    "opening_hours": "\"by appointment\"",
+    "source": "survey and website",
+    "toilets:wheelchair": "yes",
+    "website": "https://www.dachstock.ch/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 474778383,
+  "lat": 47.3874601,
+  "lon": 8.5302574,
+  "tags": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "240",
+    "addr:postcode": "8005",
+    "addr:street": "Sihlquai",
+    "amenity": "nightclub",
+    "check_date": "2026-04-19",
+    "email": "info@provitreff.ch",
+    "name": "provitreff",
+    "operator": "Verein Provitreff",
+    "phone": "+41 44 271 12 06",
+    "website": "https://provitreff.ch/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 492086981,
+  "lat": 46.9933057,
+  "lon": 6.9276713,
+  "tags": {
+    "addr:housenumber": "27",
+    "addr:street": "rue du Seyon",
+    "amenity": "nightclub",
+    "check_date": "2026-02-21",
+    "name": "Downtown K",
+    "opening_hours": "Th-Sa 23:00-04:00",
+    "website": "http://www.downtownk.ch/"
+  }
+},
+{
+  "type": "node",
+  "id": 499570004,
+  "lat": 46.8217931,
+  "lon": 6.9396020,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Le Prestige"
+  }
+},
+{
+  "type": "node",
+  "id": 499589552,
+  "lat": 46.8197394,
+  "lon": 6.9393797,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Blue Lagoon",
+    "opening_hours": "Tu-Su 20:00+"
+  }
+},
+{
+  "type": "node",
+  "id": 528113424,
+  "lat": 46.8519070,
+  "lon": 6.8385747,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Athena Club"
+  }
+},
+{
+  "type": "node",
+  "id": 528124493,
+  "lat": 46.8497631,
+  "lon": 6.8443626,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "New Port"
+  }
+},
+{
+  "type": "node",
+  "id": 528818174,
+  "lat": 46.9530049,
+  "lon": 7.4401769,
+  "tags": {
+    "addr:city": "Bern",
+    "addr:housenumber": "8",
+    "addr:postcode": "3012",
+    "addr:street": "Neubrückstrasse",
+    "amenity": "nightclub",
+    "name": "Cafete",
+    "opening_hours": "\"by appointment\"",
+    "website": "https://cafete.ch/",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 569316908,
+  "lat": 47.5504220,
+  "lon": 7.5867487,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Le Prive Club",
+    "smoking": "outside"
+  }
+},
+{
+  "type": "node",
+  "id": 596178914,
+  "lat": 47.3433710,
+  "lon": 8.5360600,
+  "tags": {
+    "amenity": "nightclub",
+    "level": "0",
+    "name": "Aktionshalle",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 603714716,
+  "lat": 46.5207083,
+  "lon": 6.6320130,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "The Grail"
+  }
+},
+{
+  "type": "node",
+  "id": 656327506,
+  "lat": 47.3735523,
+  "lon": 8.5441065,
+  "tags": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "5",
+    "addr:postcode": "8001",
+    "addr:street": "Spitalgasse",
+    "alt_name": "Gayclub Oz",
+    "amenity": "nightclub",
+    "lgbtq": "primary",
+    "name": "Heaven Club",
+    "old_name": "Zodiac Club",
+    "opening_hours": "Fr-Sa 22:45-05:00",
+    "website": "https://heavenclub.ch"
+  }
+},
+{
+  "type": "node",
+  "id": 703428248,
+  "lat": 47.4985656,
+  "lon": 8.7251650,
+  "tags": {
+    "addr:city": "Winterthur",
+    "addr:country": "CH",
+    "addr:housenumber": "90",
+    "addr:postcode": "8400",
+    "addr:street": "Technikumstrasse",
+    "amenity": "nightclub",
+    "name": "Move Club",
+    "opening_hours": "Fr-Sa 22:00-05:00",
+    "website": "https://imperialclub.ch/",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 704681605,
+  "lat": 47.6968788,
+  "lon": 8.6348959,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Orient",
+    "opening_hours": "Fr,Sa 22:30-05:00",
+    "website": "https://www.orient.ch/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 761255434,
+  "lat": 46.9494960,
+  "lon": 7.4425041,
+  "tags": {
+    "amenity": "nightclub",
+    "contact:addr": "Aarbergergasse 33-35, 3011 Bern",
+    "name": "Einspruch Diskothek"
+  }
+},
+{
+  "type": "node",
+  "id": 761255436,
+  "lat": 46.9494742,
+  "lon": 7.4424661,
+  "tags": {
+    "alt_name": "Belmondo Club Events Bar",
+    "amenity": "nightclub",
+    "contact:addr": "Aarbergergasse 35, 3011 Bern",
+    "contact:email": "info@divino-bar.ch",
+    "contact:phone": "+41 31 3118803",
+    "contact:website": "http://www.belmondo-bern.ch/kontakt.html",
+    "name": "Belmondo",
+    "opening_hours": "Mo-We off; Th 21:00-01:30; Fr-Sa 22:00-03:30; Su off",
+    "operator": "swiss gastro invent AG",
+    "source": "survey and website",
+    "website": "https://www.belmondo-bern.ch/",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 806437109,
+  "lat": 46.1668848,
+  "lon": 8.7664298,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Night bar Chiquita"
+  }
+},
+{
+  "type": "node",
+  "id": 819454909,
+  "lat": 46.9538111,
+  "lon": 7.4388019,
+  "tags": {
+    "access": "members",
+    "addr:full": "Neubrückstrasse 19, 3012 Bern",
+    "amenity": "nightclub",
+    "name": "Dead End",
+    "opening_hours": "Th-Su 00:00-06:00; Mo-We off",
+    "source": "survey and website",
+    "website": "https://www.dead-end.ch/"
+  }
+},
+{
+  "type": "node",
+  "id": 827199252,
+  "lat": 46.9494038,
+  "lon": 7.4375818,
+  "tags": {
+    "addr:city": "Bern",
+    "addr:housenumber": "16",
+    "addr:postcode": "3012",
+    "addr:street": "Parkterrasse",
+    "amenity": "nightclub",
+    "layer": "4",
+    "name": "Stellwerk",
+    "opening_hours": "Tu-Fr 09:30-22:00",
+    "website": "https://www.stellwerk.be/"
+  }
+},
+{
+  "type": "node",
+  "id": 828168056,
+  "lat": 46.7821756,
+  "lon": 6.6497387,
+  "tags": {
+    "addr:city": "Yverdon-les-Bains",
+    "addr:country": "CH",
+    "addr:housenumber": "5b",
+    "addr:postcode": "1400",
+    "addr:street": "Avenue des Sports",
+    "amenity": "nightclub",
+    "name": "L'Amalgame",
+    "phone": "+41 24 426 15 36",
+    "website": "http://www.amalgameclub.ch/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 828168063,
+  "lat": 46.7824840,
+  "lon": 6.6495917,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Living Room",
+    "toilets:wheelchair": "no",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 869269133,
+  "lat": 47.3768493,
+  "lon": 8.5250528,
+  "tags": {
+    "amenity": "nightclub",
+    "level": "0",
+    "name": "Privé",
+    "note": "possibly basement too",
+    "website": "https://www.club-prive.ch/"
+  }
+},
+{
+  "type": "node",
+  "id": 895287772,
+  "lat": 46.5194677,
+  "lon": 6.6384039,
+  "tags": {
+    "addr:housenumber": "1",
+    "addr:street": "Rue Etraz",
+    "amenity": "nightclub",
+    "contact:facebook": "https://www.facebook.com/p/Jaggers-Lausanne-100048828468502",
+    "name": "Jagger's",
+    "opening_hours": "Mo-Su,PH 23:00-05:00",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1030009210,
+  "lat": 46.9924283,
+  "lon": 6.9304096,
+  "tags": {
+    "addr:city": "Neuchâtel",
+    "addr:country": "CH",
+    "addr:housenumber": "7",
+    "addr:postcode": "2000",
+    "addr:street": "Rue des Terreaux",
+    "amenity": "nightclub",
+    "mobile": "+41786113615",
+    "name": "LE7 Club / Seven Club",
+    "url": "www.paradoxclub.com"
+  }
+},
+{
+  "type": "node",
+  "id": 1111145348,
+  "lat": 47.5629874,
+  "lon": 9.1256513,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "FIREHOUSE",
+    "website": "https://www.firehouse.ch/"
+  }
+},
+{
+  "type": "node",
+  "id": 1122576640,
+  "lat": 47.3881837,
+  "lon": 8.5195257,
+  "tags": {
+    "addr:city": "Zürich",
+    "addr:postcode": "8005",
+    "amenity": "nightclub",
+    "name": "Exil",
+    "website": "https://exil.club",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1186041102,
+  "lat": 46.5209497,
+  "lon": 6.6311380,
+  "tags": {
+    "addr:housenumber": "1",
+    "addr:street": "Place Centrale",
+    "amenity": "nightclub",
+    "check_date:opening_hours": "2023-09-27",
+    "email": "info@dclub.ch",
+    "layer": "-1",
+    "name": "D! Club",
+    "opening_hours:signed": "no",
+    "phone": "+41 21 351 51 40",
+    "smoking": "outside",
+    "website": "https://dclub.ch/"
+  }
+},
+{
+  "type": "node",
+  "id": 1235131818,
+  "lat": 46.9496875,
+  "lon": 7.4410291,
+  "tags": {
+    "alt_name": "Club Rondel",
+    "amenity": "nightclub",
+    "contact:addr": "Genfergasse 10, 3011 Bern",
+    "contact:email": "info@rondelbern.ch",
+    "contact:facebook": "https://www.facebook.com/rondelbern",
+    "contact:phone": "+41 31 9519826",
+    "name": "Rondel",
+    "old_name": "Liquid",
+    "opening_hours": "Mo-Th off; Fr-Sa 23:00-04:00; Su off",
+    "source": "survey and website",
+    "website": "https://www.rondelbern.ch/",
+    "wheelchair": "no",
+    "wheelchair:description": "Steps only, no elevator"
+  }
+},
+{
+  "type": "node",
+  "id": 1241219598,
+  "lat": 47.3785573,
+  "lon": 8.5266914,
+  "tags": {
+    "addr:housenumber": "45",
+    "addr:street": "Dienerstrasse",
+    "amenity": "nightclub",
+    "check_date": "2023-10-27",
+    "name": "Locarno 2000",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1263681755,
+  "lat": 46.5254426,
+  "lon": 6.6360738,
+  "tags": {
+    "addr:city": "Lausanne",
+    "addr:housenumber": "8",
+    "addr:postcode": "1005",
+    "addr:street": "Rue de la Barre",
+    "amenity": "nightclub",
+    "cuisine": "colombian",
+    "name": "kerri.",
+    "old_name": "Harper's; Liberta",
+    "opening_hours": "Tu, We 17:00-00:00; Th 17:00-01:00; Fr, Sa 17:00-02:00",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1295138924,
+  "lat": 47.1919399,
+  "lon": 8.8950809,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Mirage",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 1360149891,
+  "lat": 47.0482121,
+  "lon": 8.3027618,
+  "tags": {
+    "addr:city": "Luzern",
+    "addr:postcode": "6003",
+    "addr:street": "Hallwilerweg",
+    "amenity": "nightclub",
+    "name": "Princesse",
+    "opening_hours": "Fr 22:00-07:00; Sa 22:00-09:00",
+    "smoking": "outside",
+    "website": "https://www.princesse-club.ch",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 1584581185,
+  "lat": 47.4089783,
+  "lon": 8.5505811,
+  "tags": {
+    "alt_name": "Mundwerk Kulturbiotop",
+    "amenity": "nightclub",
+    "name": "Club Mundwerk",
+    "opening_hours": "Sa 22:00-02:00+",
+    "website": "https://mw-club.ch/"
+  }
+},
+{
+  "type": "node",
+  "id": 1635430109,
+  "lat": 46.6821329,
+  "lon": 7.8516170,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "HighLife"
+  }
+},
+{
+  "type": "node",
+  "id": 1699495145,
+  "lat": 46.0962250,
+  "lon": 7.2259557,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Farm club"
+  }
+},
+{
+  "type": "node",
+  "id": 1700022537,
+  "lat": 46.0958890,
+  "lon": 7.2294519,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Casbah"
+  }
+},
+{
+  "type": "node",
+  "id": 1764205553,
+  "lat": 46.1804082,
+  "lon": 7.3847443,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Disco L'Underground"
+  }
+},
+{
+  "type": "node",
+  "id": 1779590781,
+  "lat": 47.5399238,
+  "lon": 7.6067791,
+  "tags": {
+    "addr:city": "Basel",
+    "addr:country": "CH",
+    "addr:housenumber": "81",
+    "addr:postcode": "4052",
+    "addr:street": "Münchensteinerstrasse",
+    "amenity": "nightclub",
+    "contact:facebook": "https://www.facebook.com/viertelklubbasel",
+    "contact:phone": "+41 61 3310400",
+    "contact:ra": "https://ra.co/clubs/164055",
+    "contact:website": "http://www.dasviertel.ch",
+    "historic:website": "http://www.hinterhof.ch",
+    "name": "Das Viertel",
+    "old_name:2010-03--2017-05-20": "Hinterhof Bar",
+    "operator": "Viertel Gastro GmbH",
+    "smoking": "outside"
+  }
+},
+{
+  "type": "node",
+  "id": 1799523348,
+  "lat": 46.3338185,
+  "lon": 8.9660341,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Giada Night Club"
+  }
+},
+{
+  "type": "node",
+  "id": 1913621771,
+  "lat": 46.1091859,
+  "lon": 7.0938706,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Amadeus"
+  }
+},
+{
+  "type": "node",
+  "id": 1939666159,
+  "lat": 47.0495440,
+  "lon": 8.3091066,
+  "tags": {
+    "addr:housenumber": "2",
+    "addr:street": "Frankenstrasse",
+    "amenity": "nightclub",
+    "name": "Das schwarze Schaf",
+    "opening_hours": "Fr,Sa 22:00-04:00; Su-Th off",
+    "website": "https://www.dasschwarzeschaf.ch/",
+    "wifi": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2013504260,
+  "lat": 46.5197345,
+  "lon": 6.6394941,
+  "tags": {
+    "addr:housenumber": "3",
+    "addr:postcode": "1005",
+    "addr:street": "Avenue Mon-Repos",
+    "amenity": "nightclub",
+    "name": "Chorus",
+    "phone": "+41 21 323 22 33",
+    "website": "https://www.chorus.ch/"
+  }
+},
+{
+  "type": "node",
+  "id": 2037274264,
+  "lat": 46.6263938,
+  "lon": 7.0669041,
+  "tags": {
+    "addr:city": "Bulle",
+    "addr:country": "CH",
+    "addr:housenumber": "21",
+    "addr:postcode": "1630",
+    "addr:street": "Rue de l'Etang",
+    "amenity": "nightclub",
+    "name": "Globull",
+    "smoking": "separated",
+    "website": "https://www.globull.ch/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2058692231,
+  "lat": 47.2602378,
+  "lon": 8.8521266,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Galaxy"
+  }
+},
+{
+  "type": "node",
+  "id": 2089849405,
+  "lat": 47.1703119,
+  "lon": 8.5161778,
+  "tags": {
+    "addr:city": "Zug",
+    "addr:housenumber": "30",
+    "addr:postcode": "6300",
+    "addr:street": "Bahnhofstrasse",
+    "amenity": "nightclub",
+    "email": "info@hidenharlekin.com",
+    "name": "Hidén Harlekin",
+    "operator": "Tarō Bicker",
+    "website": "https://hidenharlekin.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 2099429752,
+  "lat": 46.2002503,
+  "lon": 6.1316644,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date:opening_hours": "2025-07-09",
+    "name": "iPub night",
+    "opening_hours:signed": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2184457053,
+  "lat": 47.2848196,
+  "lon": 7.9437041,
+  "tags": {
+    "addr:city": "Zofingen",
+    "addr:housenumber": "6",
+    "addr:postcode": "4800",
+    "addr:street": "Obere Brühlstrasse",
+    "amenity": "nightclub",
+    "description": "Das OXIL ist das Jugendkulturhaus der Stadt Zofingen. Das Programm wird durch verschiedenen Veranstalter organisiert, wobei der Kulturverein OX Kultur als Hauptveranstalter den grössten Teil des Programms organisiert.",
+    "min_age": "0",
+    "name": "Jugendkulturhaus OXIL",
+    "opening_hours": "Fr-Sa 21:00-02:00",
+    "operator": "Stadt Zofingen, OX Kultur, Offene Jugendarbeit Zofinen",
+    "smoking": "isolated",
+    "start_date": "11.09.2015",
+    "website": "https://www.oxil.ch/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2193120696,
+  "lat": 47.2811325,
+  "lon": 7.3870949,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Legend Club"
+  }
+},
+{
+  "type": "node",
+  "id": 2193403644,
+  "lat": 47.2823719,
+  "lon": 7.4421594,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Jenny's"
+  }
+},
+{
+  "type": "node",
+  "id": 2203134476,
+  "lat": 47.2886158,
+  "lon": 7.9429370,
+  "tags": {
+    "addr:postcode": "4800",
+    "addr:street": "Henzmannstrasse",
+    "amenity": "nightclub",
+    "name": "shake"
+  }
+},
+{
+  "type": "node",
+  "id": 2205041423,
+  "lat": 47.3714783,
+  "lon": 8.5399893,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2024-02-12",
+    "name": "ICON",
+    "opening_hours": "Fr 23:00+; Sa 23:00+",
+    "website": "https://www.icon-zurich.ch/"
+  }
+},
+{
+  "type": "node",
+  "id": 2219655502,
+  "lat": 47.0361026,
+  "lon": 7.4327485,
+  "tags": {
+    "addr:housenumber": "2",
+    "addr:postcode": "3053",
+    "addr:street": "Schönbrunnen",
+    "amenity": "nightclub",
+    "name": "Club 3000",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2219670451,
+  "lat": 47.0345634,
+  "lon": 7.4296908,
+  "tags": {
+    "addr:housenumber": "167",
+    "addr:postcode": "3053",
+    "addr:street": "Bielstrasse",
+    "amenity": "nightclub",
+    "name": "Schönbrunnen"
+  }
+},
+{
+  "type": "node",
+  "id": 2238504982,
+  "lat": 46.6893275,
+  "lon": 7.8654984,
+  "tags": {
+    "addr:city": "Interlaken",
+    "addr:housenumber": "92-94",
+    "addr:postcode": "3800",
+    "addr:street": "Höheweg",
+    "amenity": "nightclub",
+    "email": "info@wyva.wine",
+    "name": "Apéro & Weinbar Wyva",
+    "operator": "Corinne Feller",
+    "website": "https://www.wyva.wine/"
+  }
+},
+{
+  "type": "node",
+  "id": 2258244268,
+  "lat": 47.4742724,
+  "lon": 8.3062791,
+  "tags": {
+    "addr:city": "Baden",
+    "addr:country": "CH",
+    "addr:housenumber": "1",
+    "addr:postcode": "5400",
+    "addr:street": "Bruggerstrasse",
+    "amenity": "nightclub",
+    "min_age": "18",
+    "name": "LWB Löschwasserbecken",
+    "website": "https://www.lwbbaden.ch/",
+    "wheelchair": "no",
+    "wifi": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2297683343,
+  "lat": 47.3163752,
+  "lon": 7.6976507,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Löwen"
+  }
+},
+{
+  "type": "node",
+  "id": 2365834095,
+  "lat": 46.6140557,
+  "lon": 9.1765355,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "G's",
+    "source": "knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 2397886306,
+  "lat": 46.8196145,
+  "lon": 6.5030256,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Club Atlantic",
+    "source": "knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 2426801335,
+  "lat": 46.2847130,
+  "lon": 7.5280549,
+  "tags": {
+    "addr:housenumber": "6",
+    "addr:postcode": "3960",
+    "addr:street": "Route de Ancien Sierre",
+    "amenity": "nightclub",
+    "name": "Five Roses"
+  }
+},
+{
+  "type": "node",
+  "id": 2453860594,
+  "lat": 47.6973704,
+  "lon": 8.6353108,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Chäller",
+    "operator": "Kultur im Chäller, Sekretariat Safrangasse 8 8200 Schaffhausen",
+    "phone": "+41 52 624 61 05",
+    "website": "https://www.chaeller.com/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2461917079,
+  "lat": 47.1822060,
+  "lon": 8.5208997,
+  "tags": {
+    "addr:city": "Zug",
+    "addr:housenumber": "45",
+    "addr:postcode": "6300",
+    "addr:street": "Industriestrasse",
+    "amenity": "nightclub",
+    "email": "contact@i45.ch",
+    "name": "i45 (industrie 45)",
+    "website": "https://i45.ch/"
+  }
+},
+{
+  "type": "node",
+  "id": 2504079744,
+  "lat": 47.4828534,
+  "lon": 8.3082335,
+  "tags": {
+    "addr:housenumber": "6",
+    "addr:postcode": "5415",
+    "addr:street": "Landstrasse",
+    "amenity": "nightclub",
+    "email": "info@clubgoldwand.ch",
+    "name": "Club Goldwand",
+    "opening_hours": "14:00-04:00",
+    "phone": "+41 56 282 30 50",
+    "smoking": "yes",
+    "website": "https://www.clubgoldwand.ch/"
+  }
+},
+{
+  "type": "node",
+  "id": 2510284939,
+  "lat": 46.9498070,
+  "lon": 7.4430667,
+  "tags": {
+    "amenity": "nightclub",
+    "contact:addr": "Sternengässchen 1, 3011 Bern",
+    "contact:website": "https://www.studio-club.ch",
+    "name": "Studio Club Bern"
+  }
+},
+{
+  "type": "node",
+  "id": 2524817845,
+  "lat": 46.8477764,
+  "lon": 9.5275203,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Octopussy"
+  }
+},
+{
+  "type": "node",
+  "id": 2677126731,
+  "lat": 47.0497835,
+  "lon": 8.3091664,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Roadhouse",
+    "opening_hours": "Su-Th 09:00-04:00, Sa 09:00-04:00+, Fr 09:00-05:00",
+    "toilets:wheelchair": "no",
+    "website": "http://www.suite-lounge.ch",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2707329753,
+  "lat": 47.4732397,
+  "lon": 8.3077036,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Penthouse",
+    "phone": "+41 56 222 56 06",
+    "website": "https://nightclub-baden.ch/"
+  }
+},
+{
+  "type": "node",
+  "id": 2844026496,
+  "lat": 46.5201830,
+  "lon": 6.6373693,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2025-01-25",
+    "name": "Liquors",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2844026518,
+  "lat": 46.5194669,
+  "lon": 6.6345235,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Mica Club Ze Code"
+  }
+},
+{
+  "type": "node",
+  "id": 2954465476,
+  "lat": 46.9513864,
+  "lon": 7.4412746,
+  "tags": {
+    "alt_name": "Le Ciel Bar Lounge Club",
+    "amenity": "nightclub",
+    "check_date": "2023-04-28",
+    "contact:addr": "Bollwerk 31, 3011 Bern",
+    "contact:email": "info@le-ciel.ch",
+    "contact:phone": "+41 78 7866242",
+    "name": "Le Ciel",
+    "opening_hours": "Fr-Sa 23:00-03:30",
+    "source": "survey and website",
+    "website": "https://le-ciel.ch/"
+  }
+},
+{
+  "type": "node",
+  "id": 3050861203,
+  "lat": 45.8345296,
+  "lon": 9.0190819,
+  "tags": {
+    "addr:city": "Chiasso",
+    "addr:country": "CH",
+    "addr:housenumber": "2",
+    "addr:postcode": "6830",
+    "addr:street": "Via Carlo Pasta",
+    "amenity": "nightclub",
+    "name": "B-Side",
+    "outdoor_seating": "no",
+    "smoking": "outside"
+  }
+},
+{
+  "type": "node",
+  "id": 3051935982,
+  "lat": 45.8454312,
+  "lon": 8.9643082,
+  "tags": {
+    "addr:city": "Novazzano",
+    "addr:country": "CH",
+    "addr:housenumber": "1",
+    "addr:postcode": "6883",
+    "addr:street": "Via Cios",
+    "amenity": "nightclub",
+    "contact:facebook": "https://www.facebook.com/Montezuma-DiscoClub-1665717946973073/",
+    "name": "Zuma Disco Pub"
+  }
+},
+{
+  "type": "node",
+  "id": 3097796230,
+  "lat": 46.4084883,
+  "lon": 8.8698854,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Turinotte"
+  }
+},
+{
+  "type": "node",
+  "id": 3150836046,
+  "lat": 47.1310240,
+  "lon": 8.7449952,
+  "tags": {
+    "addr:city": "Einsiedeln",
+    "addr:country": "CH",
+    "addr:housenumber": "38",
+    "addr:postcode": "8840",
+    "addr:street": "Zürichstrasse",
+    "amenity": "nightclub",
+    "email": "info@ziegelei-einsiedeln.ch",
+    "name": "Mauz Music-Club",
+    "website": "http://www.ziegelei-einsiedeln.ch",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3167534200,
+  "lat": 46.9610233,
+  "lon": 7.4395140,
+  "tags": {
+    "addr:city": "Bern",
+    "addr:country": "CH",
+    "addr:housenumber": "54",
+    "addr:postcode": "3012",
+    "addr:street": "Engestrasse",
+    "amenity": "nightclub",
+    "contact:email": "info@mariansjazzroom.ch",
+    "contact:fax": "+41 31 3096112",
+    "contact:phone": "+41 31 3096111",
+    "name": "Marians Jazzroom",
+    "source": "survey and website",
+    "website": "https://www.mariansjazzroom.ch/",
+    "wikidata": "Q33125927"
+  }
+},
+{
+  "type": "node",
+  "id": 3469236255,
+  "lat": 46.9348845,
+  "lon": 7.4176437,
+  "tags": {
+    "amenity": "nightclub",
+    "contact:email": "info@bejazz.ch",
+    "contact:facebook": "Jenen",
+    "contact:phone": "+41 44 5866266",
+    "name": "BeJazz",
+    "name:en": "BeJazz Club",
+    "operator": "Verein BeJazz",
+    "website": "https://www.bejazz.ch/",
+    "wikidata": "Q812798",
+    "wikipedia": "de:BeJazz"
+  }
+},
+{
+  "type": "node",
+  "id": 3569245423,
+  "lat": 46.9467586,
+  "lon": 7.4563107,
+  "tags": {
+    "amenity": "nightclub",
+    "contact:addr": "Mühlenplatz 11, 3011 Bern",
+    "contact:email": "info@silo-lounge.ch",
+    "contact:facebook": "https://www.facebook.com/SiloLoungeBern",
+    "name": "Silo Lounge",
+    "source": "survey and website",
+    "website": "https://silo-lounge.ch/"
+  }
+},
+{
+  "type": "node",
+  "id": 3608090969,
+  "lat": 47.0474885,
+  "lon": 8.2639936,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Perosa"
+  }
+},
+{
+  "type": "node",
+  "id": 3612965642,
+  "lat": 47.0550605,
+  "lon": 8.3149833,
+  "tags": {
+    "addr:city": "Luzern",
+    "addr:postcode": "6006",
+    "addr:street": "Haldenstrasse",
+    "amenity": "nightclub",
+    "name": "Loft"
+  }
+},
+{
+  "type": "node",
+  "id": 3671276761,
+  "lat": 46.2040077,
+  "lon": 6.1363484,
+  "tags": {
+    "addr:city": "Genève",
+    "addr:housenumber": "4",
+    "addr:postcode": "1204",
+    "addr:street": "Place des Volontaires",
+    "amenity": "nightclub",
+    "name": "Le Zoo",
+    "opening_hours": "Th-Sa 22:00-05:00"
+  }
+},
+{
+  "type": "node",
+  "id": 3671425391,
+  "lat": 46.2097045,
+  "lon": 6.1459119,
+  "tags": {
+    "addr:city": "Genève",
+    "addr:city:en": "Geneva",
+    "addr:country": "CH",
+    "addr:housenumber": "10",
+    "addr:postcode": "1202",
+    "addr:street": "Rue des Alpes",
+    "amenity": "nightclub",
+    "check_date": "2026-01-03",
+    "name": "AMR",
+    "name:fr": "AMR / Jazz Club",
+    "opening_hours": "Mo-Fr 09:00-20:00; Sa 12:00-18:00",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3685272035,
+  "lat": 46.1975977,
+  "lon": 6.1504066,
+  "tags": {
+    "addr:city": "Genève",
+    "addr:housenumber": "10",
+    "addr:street": "Boulevard Helvétique",
+    "amenity": "nightclub",
+    "name": "Five Night Club"
+  }
+},
+{
+  "type": "node",
+  "id": 3709295726,
+  "lat": 47.3899290,
+  "lon": 8.0520295,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2025-12-19",
+    "name": "Utopia Club"
+  }
+},
+{
+  "type": "node",
+  "id": 3761595595,
+  "lat": 46.6694744,
+  "lon": 6.7944985,
+  "tags": {
+    "amenity": "nightclub",
+    "contact:website": "http://www.lesprisons.ch",
+    "name": "Les Prisons"
+  }
+},
+{
+  "type": "node",
+  "id": 3779407402,
+  "lat": 46.0166912,
+  "lon": 8.9559884,
+  "tags": {
+    "amenity": "nightclub",
+    "contact:instagram": "morandiclub",
+    "live_music": "yes",
+    "name": "Morandi Club",
+    "opening_hours": "00:00-05:00",
+    "smoking": "isolated"
+  }
+},
+{
+  "type": "node",
+  "id": 3833399495,
+  "lat": 46.5202199,
+  "lon": 6.6315396,
+  "tags": {
+    "addr:city": "Lausanne",
+    "addr:housenumber": "1A",
+    "addr:postcode": "1003",
+    "addr:street": "Place de l'Europe",
+    "alt_name": "Le Romandie Club",
+    "amenity": "nightclub",
+    "level": "0",
+    "name": "Le Romandie",
+    "operator": "E La Nave Va ...",
+    "smoking": "outside",
+    "website": "https://www.leromandie.ch/",
+    "wheelchair": "yes",
+    "wikidata": "Q3226656",
+    "wikipedia": "fr:Le Romandie"
+  }
+},
+{
+  "type": "node",
+  "id": 3840760484,
+  "lat": 47.3868228,
+  "lon": 8.5339392,
+  "tags": {
+    "addr:housenumber": "89a",
+    "addr:street": "Wasserwerkstrasse",
+    "amenity": "nightclub",
+    "email": "buero@verein-klubi.ch",
+    "name": "UMBO",
+    "smoking": "outside",
+    "website": "https://radar.squat.net/de/zurich/umbo"
+  }
+},
+{
+  "type": "node",
+  "id": 3885237805,
+  "lat": 47.5702570,
+  "lon": 7.5960893,
+  "tags": {
+    "addr:city": "Basel",
+    "addr:housenumber": "20",
+    "addr:postcode": "4057",
+    "addr:street": "Brombacherstrasse",
+    "amenity": "nightclub",
+    "name": "Elfida",
+    "smoking": "outside"
+  }
+},
+{
+  "type": "node",
+  "id": 3890667957,
+  "lat": 47.5631851,
+  "lon": 7.5978828,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Club Obsession",
+    "smoking": "outside"
+  }
+},
+{
+  "type": "node",
+  "id": 3926182141,
+  "lat": 47.3749412,
+  "lon": 8.5298535,
+  "tags": {
+    "addr:housenumber": "37",
+    "addr:street": "Müllerstrasse",
+    "amenity": "nightclub",
+    "min_age": "18",
+    "name": "New Crazy Horse",
+    "opening_hours": "Mo-Th 16:00-03:00, Fr,Sa 16:00-05:00",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3936195105,
+  "lat": 46.9383273,
+  "lon": 7.4423798,
+  "tags": {
+    "addr:city": "Bern",
+    "addr:housenumber": "25",
+    "addr:postcode": "3007",
+    "addr:street": "Sandrainstrasse",
+    "amenity": "nightclub",
+    "name": "Gaskessel",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3941896863,
+  "lat": 47.6944915,
+  "lon": 8.6364235,
+  "tags": {
+    "addr:city": "Schaffhausen",
+    "addr:housenumber": "19",
+    "addr:postcode": "8200",
+    "addr:street": "Baumgartenstrasse",
+    "amenity": "nightclub",
+    "drink:club-mate": "served",
+    "name": "TapTab",
+    "website": "https://www.taptab.ch/"
+  }
+},
+{
+  "type": "node",
+  "id": 3962381346,
+  "lat": 47.1332124,
+  "lon": 8.1970289,
+  "tags": {
+    "addr:city": "Sempach",
+    "addr:country": "CH",
+    "addr:housenumber": "3",
+    "addr:postcode": "6204",
+    "addr:street": "Ebersmoos",
+    "amenity": "nightclub",
+    "brothel:apartment": "yes",
+    "email": "info@a-2.ch",
+    "min_age": "18",
+    "name": "A2 - The Club",
+    "opening_hours": "Mo-Th 12:00-24:00; Fr 12:00-01:00; Sa 14:00-01:00; Su 14:00-22:00",
+    "payment:cards": "yes",
+    "payment:cash": "yes",
+    "payment:coins": "yes",
+    "payment:contactless": "yes",
+    "payment:credit_cards": "yes",
+    "payment:maestro": "yes",
+    "payment:mastercard": "yes",
+    "payment:notes": "yes",
+    "payment:visa": "yes",
+    "phone": "+41 41 460 5757",
+    "website": "https://www.a-2.ch/"
+  }
+},
+{
+  "type": "node",
+  "id": 4012858729,
+  "lat": 47.3716363,
+  "lon": 8.5358977,
+  "tags": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:postcode": "8001",
+    "addr:street": "Pelikanplatz",
+    "amenity": "nightclub",
+    "name": "Jade Club",
+    "website": "https://jade.ch/"
+  }
+},
+{
+  "type": "node",
+  "id": 4159889592,
+  "lat": 46.2040572,
+  "lon": 6.1361966,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Le Rez"
+  }
+},
+{
+  "type": "node",
+  "id": 4159936090,
+  "lat": 46.2099893,
+  "lon": 6.1508932,
+  "tags": {
+    "addr:housenumber": "19",
+    "addr:street": "Quai du Mont-Blanc",
+    "amenity": "nightclub",
+    "name": "Java Club"
+  }
+},
+{
+  "type": "node",
+  "id": 4159936289,
+  "lat": 46.2032398,
+  "lon": 6.1348787,
+  "tags": {
+    "addr:housenumber": "5-7",
+    "addr:street": "Rue du Stand",
+    "amenity": "nightclub",
+    "check_date": "2025-07-07",
+    "name": "Le Palladium",
+    "opening_hours": "\"Event hall for rent\""
+  }
+},
+{
+  "type": "node",
+  "id": 4186002385,
+  "lat": 47.0308195,
+  "lon": 8.2969971,
+  "tags": {
+    "addr:city": "Kriens",
+    "addr:housenumber": "1",
+    "addr:postcode": "6010",
+    "addr:street": "Nidfeldstrasse",
+    "amenity": "nightclub",
+    "name": "Prime"
+  }
+},
+{
+  "type": "node",
+  "id": 4194414289,
+  "lat": 46.0107519,
+  "lon": 8.9470764,
+  "tags": {
+    "amenity": "nightclub",
+    "internet_access": "wlan",
+    "name": "Gothic Sauna",
+    "opening_hours": "Mo-Fr 14:00-23:00; Sa-Su 14:00-01:00",
+    "phone": "+41919675051",
+    "website": "https://www.gothicsauna.ch/"
+  }
+},
+{
+  "type": "node",
+  "id": 4219871120,
+  "lat": 47.4608359,
+  "lon": 8.5248113,
+  "tags": {
+    "addr:housenumber": "7",
+    "addr:postcode": "8153",
+    "addr:street": "Riedmattstrasse",
+    "amenity": "nightclub",
+    "email": "info@rinora4.com",
+    "name": "Rinora Events AG",
+    "opening_hours": "Sa 22:00-05:00",
+    "phone": "+41 43 810 60 71",
+    "website": "https://www.rinora4.com/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4237469793,
+  "lat": 47.3686555,
+  "lon": 8.5377290,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2025-01-14",
+    "level": "0",
+    "name": "Club Bar Aura",
+    "opening_hours": "Mo-Th 17:00-24:00; Fr-Sa 17:00-02:00; PH closed",
+    "outdoor_seating": "yes",
+    "smoking": "separated",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 4280649490,
+  "lat": 47.5618929,
+  "lon": 7.5950720,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Moon",
+    "smoking": "outside"
+  }
+},
+{
+  "type": "node",
+  "id": 4394605603,
+  "lat": 46.2039117,
+  "lon": 6.1455598,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Le Baroque"
+  }
+},
+{
+  "type": "node",
+  "id": 4425335090,
+  "lat": 47.3807846,
+  "lon": 8.5268953,
+  "tags": {
+    "addr:housenumber": "22",
+    "addr:street": "Neufrankengasse",
+    "amenity": "nightclub",
+    "name": "Heile Welt",
+    "website": "https://www.h-w.club/"
+  }
+},
+{
+  "type": "node",
+  "id": 4471606861,
+  "lat": 47.4994711,
+  "lon": 8.7455478,
+  "tags": {
+    "amenity": "nightclub",
+    "email": "saborlatino-club@bluewin.ch",
+    "facebook": "https://www.facebook.com/saborlatinowinterthur/",
+    "name": "Sabor Latino",
+    "opening_hours": "Fr 21:30-02:00, Sa 21:30-03:00",
+    "phone": "+41 79 314 92 01",
+    "smoking": "isolated",
+    "website": "https://saborlatino.ch/"
+  }
+},
+{
+  "type": "node",
+  "id": 4496703517,
+  "lat": 47.3800608,
+  "lon": 8.5277447,
+  "tags": {
+    "addr:housenumber": "135",
+    "addr:postcode": "8004",
+    "addr:street": "Langstrasse",
+    "amenity": "nightclub",
+    "check_date": "2023-09-29",
+    "name": "Gonzo",
+    "name:de": "Gonzo",
+    "opening_hours": "We-Sa 23:00-04:00",
+    "website": "https://gonzoclub.ch/"
+  }
+},
+{
+  "type": "node",
+  "id": 4535202089,
+  "lat": 46.2073511,
+  "lon": 6.1452329,
+  "tags": {
+    "addr:housenumber": "22",
+    "addr:street": "Rue du Cendrier",
+    "amenity": "nightclub",
+    "name": "The Circus"
+  }
+},
+{
+  "type": "node",
+  "id": 4549537654,
+  "lat": 47.2006486,
+  "lon": 7.5281996,
+  "tags": {
+    "addr:housename": "Kulturfabrik Kofmehl",
+    "addr:housenumber": "1",
+    "addr:postcode": "4503",
+    "addr:street": "Kofmehlweg",
+    "amenity": "nightclub",
+    "name": "Kulturfabrik Kofmehl",
+    "toilets:wheelchair": "yes",
+    "website": "https://kofmehl.net/",
+    "wheelchair": "yes",
+    "wifi": "free"
+  }
+},
+{
+  "type": "node",
+  "id": 4572060490,
+  "lat": 46.1764567,
+  "lon": 6.1274311,
+  "tags": {
+    "addr:housenumber": "24",
+    "addr:postcode": "1227",
+    "addr:street": "Route des Jeunes",
+    "amenity": "nightclub",
+    "name": "Village du Soir",
+    "name:pt": "Village du  Soir",
+    "phone": "+41794136039",
+    "website": "https://villagedusoir.com"
+  }
+},
+{
+  "type": "node",
+  "id": 4585665699,
+  "lat": 47.5152420,
+  "lon": 9.4236956,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Triebwerk",
+    "name:de": "Triebwerk"
+  }
+},
+{
+  "type": "node",
+  "id": 4596873902,
+  "lat": 46.9687782,
+  "lon": 7.4415006,
+  "tags": {
+    "addr:city": "Bern",
+    "addr:housenumber": "17",
+    "addr:postcode": "3004",
+    "addr:street": "Spinnereiweg",
+    "amenity": "nightclub",
+    "contact:addr": "Spinnereiweg 17, 3004 Bern",
+    "description": "Partys, Konzerte, Theater, Lesungen. Durch Freiwillige geführt",
+    "level": "-1",
+    "name": "Kulturspinnerei",
+    "operator": "Verein Viva Via",
+    "payment:cash": "yes",
+    "smoking": "outside",
+    "website": "https://kulturspinnerei.ch",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4676983747,
+  "lat": 46.3840539,
+  "lon": 6.2443465,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "L'After"
+  }
+},
+{
+  "type": "node",
+  "id": 4679379178,
+  "lat": 46.5254286,
+  "lon": 6.6357906,
+  "tags": {
+    "addr:housenumber": "1",
+    "addr:street": "Rue de la Barre",
+    "amenity": "nightclub",
+    "cocktails": "yes",
+    "name": "Jaja",
+    "opening_hours": "Tu, We 18:00-01:00; Th 18:00-02:00; Fr, Sa 18:00-03:00",
+    "phone": "+41 21 311 68 40",
+    "start_date": "2013",
+    "website": "https://barlecomptoir.ch/"
+  }
+},
+{
+  "type": "node",
+  "id": 4796544295,
+  "lat": 46.7941305,
+  "lon": 9.8213446,
+  "tags": {
+    "addr:city": "Davos Platz",
+    "addr:country": "CH",
+    "addr:housenumber": "42",
+    "addr:postcode": "7270",
+    "addr:street": "Promenade",
+    "amenity": "nightclub",
+    "name": "Pöstli Club",
+    "website": "https://www.morosani.ch/de/75/postli-club.aspx"
+  }
+},
+{
+  "type": "node",
+  "id": 4867604872,
+  "lat": 47.4908828,
+  "lon": 7.7274591,
+  "tags": {
+    "addr:city": "Liestal",
+    "addr:country": "CH",
+    "addr:housenumber": "1",
+    "addr:postcode": "4410",
+    "addr:street": "Eichenweg",
+    "amenity": "nightclub",
+    "contact:phone": "+41 61 901 55 38",
+    "contact:website": "http://www.modus-liestal.ch",
+    "name": "modus",
+    "smoking": "isolated"
+  }
+},
+{
+  "type": "node",
+  "id": 4967447821,
+  "lat": 46.8472251,
+  "lon": 9.5270946,
+  "tags": {
+    "addr:city": "Chur",
+    "addr:housenumber": "9",
+    "addr:postcode": "7000",
+    "addr:street": "Seilerbahnweg",
+    "amenity": "nightclub",
+    "name": "Palazzo Beat Club (Livemusik)",
+    "wheelchair": "yes",
+    "wheelchair:description": "gibt eine mobile Rampe, fragen und diese wird montiert. tolle Konzerte und super Personal"
+  }
+},
+{
+  "type": "node",
+  "id": 5034470969,
+  "lat": 47.3773718,
+  "lon": 8.5109432,
+  "tags": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:housenumber": "23",
+    "addr:postcode": "8003",
+    "addr:street": "Friedaustrasse",
+    "amenity": "nightclub",
+    "contact:email": "info@friedasbuexe.ch",
+    "contact:facebook": "https://www.facebook.com/friedasbuexe",
+    "contact:ra": "https://de.ra.co/clubs/37019",
+    "contact:website": "http://www.friedasbuexe.ch",
+    "name": "Frieda's Büxe",
+    "opening_hours": "Fr 23:00-08:00, Sa 23:00-10:00",
+    "operator": "Frieda GmbH"
+  }
+},
+{
+  "type": "node",
+  "id": 5061767621,
+  "lat": 47.1295374,
+  "lon": 8.7464698,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Wild Hogs",
+    "name:de": "Wild Hogs",
+    "opening_hours": "Fr-Sa 00:00-04:00"
+  }
+},
+{
+  "type": "node",
+  "id": 5073615365,
+  "lat": 47.0295543,
+  "lon": 7.1074439,
+  "tags": {
+    "addr:city": "Vinelz",
+    "addr:housenumber": "28",
+    "addr:postcode": "3234",
+    "addr:street": "Insstrasse",
+    "amenity": "nightclub",
+    "name": "Alte Landi",
+    "website": "https://www.altelandi.ch/"
+  }
+},
+{
+  "type": "node",
+  "id": 5096535233,
+  "lat": 46.2139995,
+  "lon": 6.1051184,
+  "tags": {
+    "addr:city": "Vernier",
+    "addr:country": "CH",
+    "addr:housenumber": "37",
+    "addr:postcode": "1219",
+    "addr:street": "Chemin Jacques-Philibert-de-Sauvage",
+    "amenity": "nightclub",
+    "contact:facebook": "https://www.facebook.com/weeta.mix.1",
+    "contact:instagram": "https://www.instagram.com/weetamix",
+    "contact:ra": "https://ra.co/clubs/4911",
+    "contact:website": "http://www.weetamix.com",
+    "name": "Weetamix",
+    "start_date": "1994-01-08"
+  }
+},
+{
+  "type": "node",
+  "id": 5111189422,
+  "lat": 46.7512662,
+  "lon": 7.6332414,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Gleiswerk - Die Eventfabrik"
+  }
+},
+{
+  "type": "node",
+  "id": 5128008060,
+  "lat": 47.3777528,
+  "lon": 8.5267229,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2023-06-02",
+    "contact:city": "Zürich",
+    "contact:email": "info@urbanagency.ch",
+    "contact:housenumber": "84",
+    "contact:phone": "+41 79 721 08 61",
+    "contact:postcode": "8004",
+    "contact:street": "Langstrasse",
+    "contact:website": "https://www.wunderboxclub.ch/",
+    "name": "Club Wunderbox",
+    "note": "node was placed in wrong building, therefore its history contains a takeaway that was not in these rooms",
+    "old_name": "Perle",
+    "old_operator": "Hiltl"
+  }
+},
+{
+  "type": "node",
+  "id": 5149146609,
+  "lat": 46.3058309,
+  "lon": 7.4678681,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Le Pacha"
+  }
+},
+{
+  "type": "node",
+  "id": 5151401061,
+  "lat": 46.3065853,
+  "lon": 7.4684688,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Léo's Bar"
+  }
+},
+{
+  "type": "node",
+  "id": 5217120521,
+  "lat": 46.6794197,
+  "lon": 7.8643371,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2025-08-16",
+    "name": "Caverne",
+    "name:de": "Caverne",
+    "name:en": "Cavern"
+  }
+},
+{
+  "type": "node",
+  "id": 5246161331,
+  "lat": 47.3822358,
+  "lon": 8.5345197,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Attica"
+  }
+},
+{
+  "type": "node",
+  "id": 5272069333,
+  "lat": 47.0316274,
+  "lon": 9.0760286,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Kulturzentrum Holästei"
+  }
+},
+{
+  "type": "node",
+  "id": 5297598013,
+  "lat": 47.3768417,
+  "lon": 8.5290425,
+  "tags": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "16",
+    "addr:postcode": "8004",
+    "addr:street": "Kanonengasse",
+    "amenity": "nightclub",
+    "check_date": "2023-10-27",
+    "email": "info@altekaserne.com",
+    "name": "Alte Kaserne",
+    "operator": "Pino Music",
+    "website": "https://www.altekaserne.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 5321075821,
+  "lat": 46.1916490,
+  "lon": 6.1291457,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Audio Club",
+    "name:en": "Audio Club"
+  }
+},
+{
+  "type": "node",
+  "id": 5336491107,
+  "lat": 47.5550540,
+  "lon": 8.8970630,
+  "tags": {
+    "air_conditioning": "yes",
+    "amenity": "nightclub",
+    "indoor_seating": "yes",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "level": "-1",
+    "name": "Schlosskeller",
+    "opening_hours": "Fr-Sa open \"gemäss Eventprogramm\"",
+    "payment:cash": "yes",
+    "payment:cash:change": "no",
+    "payment:gift_card": "yes",
+    "payment:maestro": "yes",
+    "payment:mastercard": "yes",
+    "payment:postfinance_card": "yes",
+    "payment:twint": "yes",
+    "payment:visa": "yes",
+    "website": "https://www.schlosskeller-club.ch/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5341699422,
+  "lat": 47.5522694,
+  "lon": 7.5875154,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Balz",
+    "smoking": "outside",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5364523118,
+  "lat": 47.5285257,
+  "lon": 8.5338017,
+  "tags": {
+    "addr:city": "Bülach",
+    "addr:housenumber": "30",
+    "addr:postcode": "8180",
+    "addr:street": "Schützenmattstrasse",
+    "amenity": "nightclub",
+    "name": "Eventhalle Bülach",
+    "phone": "+41 43 928 22 18",
+    "website": "http://www.eventhallebuelach.ch"
+  }
+},
+{
+  "type": "node",
+  "id": 5374501991,
+  "lat": 47.5316814,
+  "lon": 7.6074516,
+  "tags": {
+    "addr:city": "Münchenstein",
+    "addr:country": "CH",
+    "addr:housenumber": "36",
+    "addr:postcode": "4142",
+    "addr:street": "Frankfurt-Strasse",
+    "amenity": "nightclub",
+    "contact:email": "kontakt@elysia.ch",
+    "contact:facebook": "https://www.facebook.com/elysiabasel",
+    "contact:instagram": "https://www.instagram.com/elysia_basel",
+    "contact:phone": "+41 61 3378200",
+    "contact:ra": "https://ra.co/clubs/119991",
+    "contact:website": "http://elysia.ch",
+    "level": "0",
+    "logo": "https://archive.is/4wSS0",
+    "name": "Elysia",
+    "opening_hours": "Fr 23:00-06:00, Sa 23:00-07:00",
+    "start_date": "2016-05",
+    "toilets:wheelchair": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5434020966,
+  "lat": 47.1372907,
+  "lon": 7.2453022,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Fantasio Recada"
+  }
+},
+{
+  "type": "node",
+  "id": 5484163625,
+  "lat": 47.5549159,
+  "lon": 7.5900216,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2026-07-29",
+    "name": "Café des Arts",
+    "smoking": "outside"
+  }
+},
+{
+  "type": "node",
+  "id": 5552600193,
+  "lat": 47.5435177,
+  "lon": 7.6205119,
+  "tags": {
+    "addr:city": "Basel",
+    "addr:country": "CH",
+    "addr:postcode": "4052",
+    "addr:street": "Lehenmattstrasse",
+    "amenity": "nightclub",
+    "contact:email": "kontakt@kaschemme.ch",
+    "contact:facebook": "https://www.facebook.com/kaschemme.basel",
+    "contact:housenumber": "353",
+    "contact:instagram": "http://instagram.com/kaschemme_basel",
+    "contact:ra": "https://ra.co/clubs/102435",
+    "contact:website": "http://www.kaschemme.ch",
+    "name": "Kaschemme"
+  }
+},
+{
+  "type": "node",
+  "id": 5743615375,
+  "lat": 46.7802275,
+  "lon": 6.6444007,
+  "tags": {
+    "addr:city": "Yverdon-les-Bains",
+    "addr:country": "CH",
+    "addr:housenumber": "4",
+    "addr:postcode": "1400",
+    "addr:street": "Rue des Pêcheurs",
+    "amenity": "nightclub",
+    "name": "Citrons Masqués",
+    "opening_hours": "Fr-Sa 21:00-04:30",
+    "phone": "+41 24 426 56 00",
+    "source": "knowledge",
+    "website": "https://citronsmasques.ch/"
+  }
+},
+{
+  "type": "node",
+  "id": 5792251779,
+  "lat": 47.1357557,
+  "lon": 7.2476238,
+  "tags": {
+    "addr:city": "Biel/Bienne",
+    "addr:housenumber": "54",
+    "addr:postcode": "2502",
+    "addr:street": "Rue Centrale / Zentralstrasse",
+    "amenity": "nightclub",
+    "min_age": "16",
+    "name": "Duo Club",
+    "opening_hours": "Th 22:00-02:30, Fr-Sa 23:00-05:00",
+    "operator": "Duo Entertainment GmbH",
+    "smoking": "isolated",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 5852255785,
+  "lat": 46.4344950,
+  "lon": 6.9112144,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Décal'Quai",
+    "website": "https://decalquai.ch/"
+  }
+},
+{
+  "type": "node",
+  "id": 5961190685,
+  "lat": 47.1014560,
+  "lon": 6.8295991,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Le Centre Africain"
+  }
+},
+{
+  "type": "node",
+  "id": 6033594854,
+  "lat": 47.3676181,
+  "lon": 8.5351455,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2024-01-13",
+    "name": "Petit Prince"
+  }
+},
+{
+  "type": "node",
+  "id": 6086776352,
+  "lat": 47.5537217,
+  "lon": 7.5895928,
+  "tags": {
+    "addr:city": "Basel",
+    "addr:country": "CH",
+    "addr:housenumber": "4",
+    "addr:postcode": "4051",
+    "addr:street": "Theaterstrasse",
+    "amenity": "nightclub",
+    "contact:facebook": "https://www.facebook.com/saxo.afterhours/events",
+    "contact:ra": "https://de.ra.co/clubs/24299",
+    "contact:website": "https://saxophon-bar.business.site",
+    "name": "Saxophon Bar",
+    "opening_hours": "Sa 03:00-08:00; Su 03:00-10:00",
+    "smoking": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6104086030,
+  "lat": 47.3255500,
+  "lon": 8.7845382,
+  "tags": {
+    "addr:housenumber": "49",
+    "addr:street": "Zürcherstrasse",
+    "amenity": "nightclub",
+    "name": "Hall of Fame",
+    "website": "https://www.halloffame.swiss/"
+  }
+},
+{
+  "type": "node",
+  "id": 6136508321,
+  "lat": 47.3716888,
+  "lon": 8.5398052,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2024-02-12",
+    "email": "garage@widderhotel.com",
+    "min_age": "18",
+    "name": "Widder Garage",
+    "opening_hours": "Th 17:15-24:00; Fr 00:00-01:00,17:15-24:00; Sa 00:00-02:00,17:15-24:00; Su 00:00-02:00",
+    "operator": "Hotel Widder",
+    "phone": "+41 44 224 27 72",
+    "website": "https://www.widderhotel.com/essen-trinken/widder-garage/"
+  }
+},
+{
+  "type": "node",
+  "id": 6327716970,
+  "lat": 47.3859281,
+  "lon": 8.5182657,
+  "tags": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "35",
+    "addr:postcode": "8005",
+    "addr:street": "Geroldstrasse",
+    "amenity": "nightclub",
+    "check_date": "2024-03-03",
+    "name": "Helsinki",
+    "website": "https://www.helsinkiklub.ch"
+  }
+},
+{
+  "type": "node",
+  "id": 6327730346,
+  "lat": 47.3847785,
+  "lon": 8.5207695,
+  "tags": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:housenumber": "97",
+    "addr:postcode": "8005",
+    "addr:street": "Viaduktstrasse",
+    "amenity": "nightclub",
+    "check_date:opening_hours": "2026-08-05",
+    "name": "Bogen F",
+    "opening_hours:signed": "no",
+    "toilets:wheelchair": "yes",
+    "website": "https://www.bogenf.ch/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6392757587,
+  "lat": 47.4493374,
+  "lon": 8.5919957,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Floor Club"
+  }
+},
+{
+  "type": "node",
+  "id": 6419146488,
+  "lat": 47.0500429,
+  "lon": 8.3077016,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date:opening_hours": "2022-06-16",
+    "end_date": "2025-05-30",
+    "name": "Flora",
+    "opening_hours:signed": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6419146587,
+  "lat": 47.0526544,
+  "lon": 8.2959523,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Döner Bude"
+  }
+},
+{
+  "type": "node",
+  "id": 6451356121,
+  "lat": 46.5208509,
+  "lon": 6.6319650,
+  "tags": {
+    "addr:housenumber": "5",
+    "addr:street": "Rue Centrale",
+    "amenity": "nightclub",
+    "check_date": "2026-09-23",
+    "name": "CHIC Latino club",
+    "opening_hours": "Th-Sa 22:30-05:00, 09:00-18:00; Su 20:00-05:00",
+    "phone": "+41 76 200 48 29"
+  }
+},
+{
+  "type": "node",
+  "id": 6487454541,
+  "lat": 46.1854019,
+  "lon": 6.1289763,
+  "tags": {
+    "addr:housenumber": "13",
+    "addr:street": "Route des jeunes",
+    "amenity": "nightclub",
+    "name": "Motel Campo",
+    "phone": "+41 76 476 15 49",
+    "website": "https://www.motelcampo.ch/"
+  }
+},
+{
+  "type": "node",
+  "id": 6492949387,
+  "lat": 47.4257600,
+  "lon": 9.3779068,
+  "tags": {
+    "addr:city": "St. Gallen",
+    "addr:housenumber": "15",
+    "addr:postcode": "9000",
+    "addr:street": "Brühlgasse",
+    "amenity": "nightclub",
+    "min_age": "20",
+    "name": "Trischli Club",
+    "opening_hours": "We-Sa 23:00-05:00",
+    "website": "https://www.trischli.ch"
+  }
+},
+{
+  "type": "node",
+  "id": 6555677787,
+  "lat": 46.1873236,
+  "lon": 6.1280731,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "By-pass"
+  }
+},
+{
+  "type": "node",
+  "id": 6649914030,
+  "lat": 47.4418479,
+  "lon": 8.4605734,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Dilaila",
+    "website": "https://www.dilaila.net/"
+  }
+},
+{
+  "type": "node",
+  "id": 6655128969,
+  "lat": 46.1785395,
+  "lon": 6.1817405,
+  "tags": {
+    "addr:city": "Veyrier",
+    "addr:housenumber": "2",
+    "addr:postcode": "1255",
+    "addr:street": "Route du Pas-de-l'Echelle",
+    "amenity": "nightclub",
+    "cuisine": "coffee_shop",
+    "name": "Pipe Cafè - Salone Massage Delicious",
+    "phone": "+41 22 784 07 87",
+    "website": "https://salon-massage.ch/contact-massage-geneve"
+  }
+},
+{
+  "type": "node",
+  "id": 6680342543,
+  "lat": 46.2154106,
+  "lon": 9.0398991,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "WOODSTOCK Music Pub",
+    "opening_hours": "Fr-Sa 21:00-04:00"
+  }
+},
+{
+  "type": "node",
+  "id": 6708309908,
+  "lat": 46.2323407,
+  "lon": 6.0812943,
+  "tags": {
+    "addr:city": "Meyrin",
+    "addr:housenumber": "1",
+    "addr:postcode": "1217",
+    "addr:street": "Place des Cinq-Continents",
+    "amenity": "nightclub",
+    "name": "Undertown",
+    "website": "https://www.undertown.ch/"
+  }
+},
+{
+  "type": "node",
+  "id": 6712571685,
+  "lat": 46.5237518,
+  "lon": 6.6253477,
+  "tags": {
+    "addr:city": "Lausanne",
+    "addr:housenumber": "18",
+    "addr:postcode": "1003",
+    "addr:street": "Place Chauderon",
+    "amenity": "nightclub",
+    "check_date": "2023-08-07",
+    "name": "Chauderon 18 / No Name",
+    "opening_hours": "Th 22:00-04:00; Fr-Sa 22:00-05:00",
+    "website": "https://chauderon18.ch/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6858186693,
+  "lat": 47.0473683,
+  "lon": 8.0659853,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Moulin Rouge",
+    "opening_hours": "Mo-Th 18:00-02:00; Fr-Sa 18:00-04:00; Su 18:00-0:30",
+    "phone": "+41 41 490 00 19",
+    "website": "http://www.barmoulinrouge.ch"
+  }
+},
+{
+  "type": "node",
+  "id": 6942955583,
+  "lat": 46.8211161,
+  "lon": 8.4050714,
+  "tags": {
+    "addr:city": "Engelberg",
+    "addr:housenumber": "21",
+    "addr:postcode": "6390",
+    "addr:street": "Dorfstrasse",
+    "amenity": "nightclub",
+    "check_date": "2025-12-14",
+    "name": "Gletscherspalte",
+    "phone": "+41 79 137 31 66",
+    "website": "https://www.gletscherspalte.ch/"
+  }
+},
+{
+  "type": "node",
+  "id": 7059418846,
+  "lat": 47.3776194,
+  "lon": 8.5266191,
+  "tags": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "80",
+    "addr:postcode": "8004",
+    "addr:street": "Langstrasse",
+    "amenity": "nightclub",
+    "check_date": "2026-07-12",
+    "name": "El Presidente",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7164092724,
+  "lat": 47.1776036,
+  "lon": 8.5142241,
+  "tags": {
+    "addr:city": "Zug",
+    "addr:housenumber": "25",
+    "addr:postcode": "6300",
+    "addr:street": "Dammstrasse",
+    "amenity": "nightclub",
+    "email": "info@bbsportsbar.ch",
+    "name": "B&B Sportsbar",
+    "opening_hours": "Th 18:00-24:00, Fr,Sa 18:00-03:00",
+    "website": "https://bbsportsbar.ch/"
+  }
+},
+{
+  "type": "node",
+  "id": 7164092725,
+  "lat": 47.1777246,
+  "lon": 8.5145825,
+  "tags": {
+    "addr:city": "Zug",
+    "addr:housenumber": "25",
+    "addr:postcode": "6300",
+    "addr:street": "Dammstrasse",
+    "amenity": "nightclub",
+    "email": "welcome@lgclub.ch",
+    "name": "Lounge & Gallery",
+    "opening_hours": "Fr-Sa 23:00-05:00",
+    "website": "https://www.lgclub.ch/"
+  }
+},
+{
+  "type": "node",
+  "id": 7755980249,
+  "lat": 47.1344049,
+  "lon": 9.0436835,
+  "tags": {
+    "addr:city": "Niederurnen",
+    "addr:country": "CH",
+    "addr:housenumber": "11",
+    "addr:postcode": "8872",
+    "addr:street": "Im Fennen",
+    "amenity": "nightclub",
+    "email": "info@blue-box.ch",
+    "name": "BlueBox",
+    "phone": "+41 79 212 99 60",
+    "website": "https://www.blue-box.ch"
+  }
+},
+{
+  "type": "node",
+  "id": 7781783102,
+  "lat": 46.7965312,
+  "lon": 10.2949200,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "CULT.",
+    "website": "https://www.cultpunkt.ch/"
+  }
+},
+{
+  "type": "node",
+  "id": 7978548964,
+  "lat": 47.1067884,
+  "lon": 8.3425092,
+  "tags": {
+    "addr:city": "Buchrain",
+    "addr:postcode": "6033",
+    "addr:street": "Schiltwaldstrasse",
+    "amenity": "nightclub",
+    "name": "CLUB PARADISO",
+    "smoking": "isolated"
+  }
+},
+{
+  "type": "node",
+  "id": 7998229172,
+  "lat": 46.9497669,
+  "lon": 7.4435004,
+  "tags": {
+    "alt_name": "Taxi Bar & Club",
+    "amenity": "nightclub",
+    "contact:addr": "Speichergasse 13, 3011 Bern",
+    "contact:email": "info@taxibarbern.ch",
+    "contact:facebook": "https://www.facebook.com/taxibarbern",
+    "contact:instagram": "http://www.instagram.com/taxibarbern",
+    "name": "Taxi",
+    "source": "survey and website",
+    "website": "https://taxibarbern.ch"
+  }
+},
+{
+  "type": "node",
+  "id": 8450435882,
+  "lat": 47.4790932,
+  "lon": 8.3108047,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2025-05-08",
+    "name": "Club Joy"
+  }
+},
+{
+  "type": "node",
+  "id": 9032721075,
+  "lat": 46.2277363,
+  "lon": 7.3408171,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Jukebox",
+    "opening_hours": "We 21:00-01:00, Th 23:00-04:00, Fr,Sa 23:00-04:00"
+  }
+},
+{
+  "type": "node",
+  "id": 9064272996,
+  "lat": 47.3058109,
+  "lon": 7.9037300,
+  "tags": {
+    "addr:city": "Rothrist",
+    "addr:country": "CH",
+    "addr:housenumber": "2",
+    "addr:postcode": "4852",
+    "addr:street": "Rubernstrasse",
+    "amenity": "nightclub",
+    "name": "Ryva Dancing"
+  }
+},
+{
+  "type": "node",
+  "id": 9230735017,
+  "lat": 46.2158738,
+  "lon": 6.1094431,
+  "tags": {
+    "addr:housenumber": "15",
+    "addr:street": "Avenue du Pailly",
+    "amenity": "nightclub",
+    "name": "Salle des fêtes"
+  }
+},
+{
+  "type": "node",
+  "id": 9391578513,
+  "lat": 47.5289639,
+  "lon": 8.5337355,
+  "tags": {
+    "addr:housenumber": "32",
+    "addr:postcode": "8180",
+    "addr:street": "Schützenmattstrasse",
+    "amenity": "nightclub",
+    "name": "The Roots Club",
+    "office": "association",
+    "website": "https://www.clubtheroots.ch/ueber-uns"
+  }
+},
+{
+  "type": "node",
+  "id": 9393596904,
+  "lat": 47.1416877,
+  "lon": 7.2469257,
+  "tags": {
+    "addr:city": "Biel/Bienne",
+    "addr:city:de": "Biel",
+    "addr:city:fr": "Bienne",
+    "addr:country": "CH",
+    "addr:housenumber": "19",
+    "addr:street": "Rue Basse / Untergasse",
+    "addr:street:de": "Untergasse",
+    "addr:street:fr": "Rue Basse",
+    "amenity": "nightclub",
+    "name": "Le Singe",
+    "opening_hours": "\"Gemäss Programm\"",
+    "start_date": "2015"
+  }
+},
+{
+  "type": "node",
+  "id": 9415620712,
+  "lat": 46.7947527,
+  "lon": 7.1533479,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Mythic Club",
+    "website": "http://mythicclub.ch/"
+  }
+},
+{
+  "type": "node",
+  "id": 9459412694,
+  "lat": 46.5195458,
+  "lon": 6.6347469,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Darling Club"
+  }
+},
+{
+  "type": "node",
+  "id": 9459433792,
+  "lat": 46.5211907,
+  "lon": 6.6270484,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Hype Club"
+  }
+},
+{
+  "type": "node",
+  "id": 9505295829,
+  "lat": 47.4627561,
+  "lon": 7.8137257,
+  "tags": {
+    "addr:city": "Sissach",
+    "addr:country": "CH",
+    "addr:postcode": "4450",
+    "addr:street": "Bahnhofstrasse",
+    "amenity": "nightclub",
+    "name": "Tante Pinte",
+    "operator": "Didi Wanner"
+  }
+},
+{
+  "type": "node",
+  "id": 9583454717,
+  "lat": 46.5222999,
+  "lon": 6.6369566,
+  "tags": {
+    "addr:postcode": "1003",
+    "amenity": "nightclub",
+    "contact:facebook": "El-Secreto-CLUB-433644316973020",
+    "name": "El Secreto Club"
+  }
+},
+{
+  "type": "node",
+  "id": 9794475697,
+  "lat": 46.2072751,
+  "lon": 6.1461404,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Mazazique"
+  }
+},
+{
+  "type": "node",
+  "id": 9856537324,
+  "lat": 46.2461484,
+  "lon": 6.9664161,
+  "tags": {
+    "addr:city": "Monthey",
+    "addr:housenumber": "1",
+    "addr:postcode": "1870",
+    "addr:street": "Route de Pré-Bérard",
+    "amenity": "nightclub",
+    "min_age": "16",
+    "name": "Dancing Moonlight - Axxon"
+  }
+},
+{
+  "type": "node",
+  "id": 9902854182,
+  "lat": 46.6844440,
+  "lon": 7.8505489,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Space"
+  }
+},
+{
+  "type": "node",
+  "id": 9922724103,
+  "lat": 46.7267324,
+  "lon": 9.5582726,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Cinema Music Club",
+    "operator": "Hotel Kurhaus"
+  }
+},
+{
+  "type": "node",
+  "id": 9955867502,
+  "lat": 46.8474112,
+  "lon": 9.5259194,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Club Skenderbeu"
+  }
+},
+{
+  "type": "node",
+  "id": 10035916779,
+  "lat": 47.4125447,
+  "lon": 8.6200474,
+  "tags": {
+    "amenity": "nightclub",
+    "email": "info@faceclub.ch",
+    "name": "Face Club",
+    "opening_hours": "Sa 23:00-24:00; Su 00:00-04:00",
+    "phone": "+41 79 208 63 89",
+    "website": "https://faceclub.ch/homepage"
+  }
+},
+{
+  "type": "node",
+  "id": 10090864982,
+  "lat": 46.8174773,
+  "lon": 9.2652332,
+  "tags": {
+    "addr:city": "Laax GR 2",
+    "addr:country": "CH",
+    "addr:housenumber": "1",
+    "addr:postcode": "7032",
+    "addr:street": "Via Murschetg",
+    "air_conditioning": "yes",
+    "amenity": "nightclub",
+    "email": "riders@laax.com",
+    "fee": "yes",
+    "min_age": "18",
+    "name": "Riders Club",
+    "opening_hours": "Sa 22:00-04:00",
+    "operator": "Riders Hotel",
+    "phone": "+41 81 927 97 00",
+    "smoking": "isolated",
+    "website": "https://www.ridershotel.com/club",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10596226067,
+  "lat": 46.0066830,
+  "lon": 8.9497886,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2025-06-10",
+    "check_date:currency:XBT": "2025-06-10",
+    "currency:XBT": "yes",
+    "name": "Jungle Club",
+    "opening_hours": "Fr-Sa 11:45-30:00",
+    "payment:lightning": "yes",
+    "payment:lightning_contactless": "no",
+    "payment:onchain": "no",
+    "phone": "+41799516265"
+  }
+},
+{
+  "type": "node",
+  "id": 10656422162,
+  "lat": 47.3496315,
+  "lon": 8.3289664,
+  "tags": {
+    "addr:city": "Bremgarten AG",
+    "addr:housenumber": "43",
+    "addr:postcode": "5620",
+    "addr:street": "Oberebenestrasse",
+    "amenity": "nightclub",
+    "capacity": "180",
+    "fee": "yes",
+    "lgbtq": "welcome",
+    "min_age": "18",
+    "music_genre": "goa",
+    "name": "Meraki",
+    "operator": "Kulturverein Meraki",
+    "payment:cards": "yes",
+    "payment:cash": "yes",
+    "smoking": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10678975228,
+  "lat": 47.1189247,
+  "lon": 8.3926959,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Club Palace",
+    "website": "https://www.palace-bar.ch/"
+  }
+},
+{
+  "type": "node",
+  "id": 10749590879,
+  "lat": 46.4622413,
+  "lon": 9.1932172,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Discoteca Ermellino"
+  }
+},
+{
+  "type": "node",
+  "id": 10861648025,
+  "lat": 47.3821845,
+  "lon": 8.5345980,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2025-03-19",
+    "name": "Flamingo Club"
+  }
+},
+{
+  "type": "node",
+  "id": 10906409417,
+  "lat": 46.5242170,
+  "lon": 6.6336643,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Folklor club"
+  }
+},
+{
+  "type": "node",
+  "id": 10930128493,
+  "lat": 46.8825160,
+  "lon": 8.6410379,
+  "tags": {
+    "addr:city": "Altdorf UR",
+    "addr:housenumber": "27",
+    "addr:postcode": "6460",
+    "addr:street": "Tellsgasse",
+    "amenity": "nightclub",
+    "level": "1",
+    "name": "Tellenbar",
+    "opening_hours": "Mo-Th off; Fr, Sa 22:00-05:00; Su off",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 10967400210,
+  "lat": 46.4864685,
+  "lon": 6.8254540,
+  "tags": {
+    "addr:city": "Le Mont-Pèlerin",
+    "addr:housenumber": "13",
+    "addr:postcode": "1801",
+    "addr:street": "Chemin de la Maison Jean",
+    "amenity": "nightclub",
+    "name": "Le Jardin Créatif",
+    "website": "https://www.jardincreatif.ch/"
+  }
+},
+{
+  "type": "node",
+  "id": 11246759770,
+  "lat": 47.3874714,
+  "lon": 8.5301954,
+  "tags": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "240",
+    "addr:postcode": "8005",
+    "addr:street": "Sihlquai",
+    "amenity": "nightclub",
+    "fee": "no",
+    "lgbtq": "primary",
+    "name": "Heldenbar",
+    "opening_hours": "We 20:00+",
+    "payment:cash": "yes",
+    "payment:twint": "yes",
+    "website": "https://www.heldenbar.ch",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11327725204,
+  "lat": 46.5201299,
+  "lon": 6.6376585,
+  "tags": {
+    "addr:city": "Lausanne",
+    "addr:housenumber": "10",
+    "addr:postcode": "1003",
+    "addr:street": "Rue Jenny-Enning",
+    "amenity": "nightclub",
+    "check_date": "2025-01-25",
+    "name": "La Cave du Bleu Lézard",
+    "operator": "Blue Lézard",
+    "smoking": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11336681011,
+  "lat": 46.5259746,
+  "lon": 6.6349412,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Plan B"
+  }
+},
+{
+  "type": "node",
+  "id": 11379725543,
+  "lat": 47.3046542,
+  "lon": 8.8257733,
+  "tags": {
+    "amenity": "nightclub",
+    "email": "info@mansion-club.ch",
+    "name": "Mansion Club",
+    "phone": "+41 44 870 36 36",
+    "website": "https://www.mansion-club.ch"
+  }
+},
+{
+  "type": "node",
+  "id": 11411572656,
+  "lat": 46.5216571,
+  "lon": 6.6279562,
+  "tags": {
+    "addr:city": "Lausanne",
+    "addr:housenumber": "19",
+    "addr:street": "Rue de Genève",
+    "alt_name": "Jumeaux Jazz Club",
+    "amenity": "nightclub",
+    "level": "-2",
+    "music": "jazz",
+    "name": "Les Jumeaux Jazz Club",
+    "start_date": "2024-01-11",
+    "website": "https://www.jumeaux.club/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11478935269,
+  "lat": 46.2008980,
+  "lon": 6.1363014,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Salle du Cercle du Mail"
+  }
+},
+{
+  "type": "node",
+  "id": 11521667619,
+  "lat": 47.4029883,
+  "lon": 8.4386251,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Rampe 52"
+  }
+},
+{
+  "type": "node",
+  "id": 11528060641,
+  "lat": 46.0059219,
+  "lon": 8.9539200,
+  "tags": {
+    "addr:city": "Lugano",
+    "addr:housenumber": "21",
+    "addr:postcode": "6900",
+    "addr:street": "Corso Enrico Pestalozzi",
+    "amenity": "nightclub",
+    "check_date": "2026-06-05",
+    "check_date:currency:XBT": "2025-06-16",
+    "check_date:opening_hours": "2026-06-05",
+    "currency:XBT": "yes",
+    "name": "Auberge Lugano",
+    "opening_hours": "We 22:00-03:00, Th 22:00-04:00, Fr,Sa 22:00-06:00",
+    "payment:lightning": "yes",
+    "payment:lightning_contactless": "no",
+    "payment:onchain": "no",
+    "phone": "+41 91 944 20 20",
+    "website": "https://www.aubergelugano.ch/"
+  }
+},
+{
+  "type": "node",
+  "id": 11581994470,
+  "lat": 46.9892673,
+  "lon": 6.9216791,
+  "tags": {
+    "amenity": "nightclub",
+    "email": "info@case-a-chocs.ch",
+    "name": "Case-à-chocs",
+    "name:fr": "Case à chocs",
+    "phone": "+41 32 544 35 84",
+    "website": "https://case-a-chocs.ch"
+  }
+},
+{
+  "type": "node",
+  "id": 11806441493,
+  "lat": 47.4124633,
+  "lon": 8.5542448,
+  "tags": {
+    "amenity": "nightclub",
+    "email": "info@sektor11.ch",
+    "name": "Sektor 11 | Eventhalle Zürich Nord",
+    "phone": "+41 76 246 12 03",
+    "website": "https://sektor11.ch/"
+  }
+},
+{
+  "type": "node",
+  "id": 11962325965,
+  "lat": 46.8476554,
+  "lon": 9.5276011,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "VIVA Club",
+    "opening_hours": "Th 22:00-02:00; Fr-Sa 22:00-03:00",
+    "website": "https://vivaclubchur.ch/"
+  }
+},
+{
+  "type": "node",
+  "id": 12065992254,
+  "lat": 46.5219961,
+  "lon": 6.6272466,
+  "tags": {
+    "amenity": "nightclub",
+    "contact:instagram": "madlausanne",
+    "live_music": "yes",
+    "name": "MAD CLUB"
+  }
+},
+{
+  "type": "node",
+  "id": 12104735031,
+  "lat": 46.2094620,
+  "lon": 6.1474831,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Chez Maxime"
+  }
+},
+{
+  "type": "node",
+  "id": 12192534679,
+  "lat": 47.0318173,
+  "lon": 9.0757989,
+  "tags": {
+    "addr:city": "Glarus",
+    "addr:postcode": "8750",
+    "amenity": "nightclub",
+    "email": "info@tunnel-glarus.ch",
+    "name": "Tunnel Glarus",
+    "website": "https://tunnel-glarus.ch/"
+  }
+},
+{
+  "type": "node",
+  "id": 12264663401,
+  "lat": 46.1974647,
+  "lon": 6.1299363,
+  "tags": {
+    "addr:postcode": "1227",
+    "amenity": "nightclub",
+    "email": "lebloc@lagraviere.net",
+    "name": "La Gravière",
+    "website": "http://lagraviere.ch"
+  }
+},
+{
+  "type": "node",
+  "id": 12308821101,
+  "lat": 47.0984929,
+  "lon": 6.8222702,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "LUX"
+  }
+},
+{
+  "type": "node",
+  "id": 12527007861,
+  "lat": 46.5202123,
+  "lon": 6.6315100,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "La Brèche",
+    "operator": "Association du Salopard"
+  }
+},
+{
+  "type": "node",
+  "id": 12707627773,
+  "lat": 47.5501203,
+  "lon": 7.5845881,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Kuppel",
+    "operator": "Kuppel Basel",
+    "smoking": "outside",
+    "website": "https://www.kuppel-basel.ch",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12707627774,
+  "lat": 47.5499387,
+  "lon": 7.5846279,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Nest",
+    "operator": "Kuppel Basel",
+    "smoking": "outside",
+    "website": "https://www.kuppel-basel.ch"
+  }
+},
+{
+  "type": "node",
+  "id": 12747320669,
+  "lat": 46.6597313,
+  "lon": 6.7943826,
+  "tags": {
+    "addr:city": "Moudon",
+    "addr:housenumber": "3",
+    "addr:postcode": "1510",
+    "addr:street": "La Pussaz",
+    "amenity": "nightclub",
+    "name": "J Club"
+  }
+},
+{
+  "type": "node",
+  "id": 12817256289,
+  "lat": 46.1956653,
+  "lon": 8.0555688,
+  "tags": {
+    "addr:city": "Simplon Dorf",
+    "addr:housenumber": "7",
+    "addr:postcode": "3907",
+    "addr:street": "Kreuzgasse",
+    "amenity": "nightclub",
+    "min_age": "16",
+    "name": "Jugi Simplon",
+    "operator": "Jugendverein Simplon-Dorf",
+    "smoking": "isolated"
+  }
+},
+{
+  "type": "node",
+  "id": 12883538093,
+  "lat": 46.3192873,
+  "lon": 7.9799163,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Moshpit"
+  }
+},
+{
+  "type": "node",
+  "id": 13232866588,
+  "lat": 46.2143396,
+  "lon": 6.1475162,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Avalon"
+  }
+},
+{
+  "type": "node",
+  "id": 13274806198,
+  "lat": 46.4378624,
+  "lon": 6.9074769,
+  "tags": {
+    "addr:city": "Montreux",
+    "addr:housenumber": "2",
+    "addr:postcode": "1820",
+    "addr:street": "Avenue Claude-Nobs",
+    "amenity": "nightclub",
+    "email": "info@millesime-club.ch",
+    "mobile": "+41 79 509 10 67",
+    "name": "Millésime Club",
+    "website": "https://www.millesime-club.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 13358062835,
+  "lat": 46.1904312,
+  "lon": 9.0221467,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date:opening_hours": "2026-01-12",
+    "name": "Chupito",
+    "opening_hours:signed": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13400753409,
+  "lat": 47.3791838,
+  "lon": 8.5272461,
+  "tags": {
+    "addr:city": "Zürich",
+    "addr:housenumber": "117",
+    "addr:postcode": "8004",
+    "addr:street": "Langstrasse",
+    "alt_name": "Schneiderei Club",
+    "amenity": "nightclub",
+    "contact:facebook": "https://www.facebook.com/vereinschneiderei/",
+    "contact:instagram": "https://www.instagram.com/schneiderei_club/",
+    "email": "info@schneiderei-verein.ch",
+    "min_age": "21",
+    "name": "Schneiderei",
+    "opening_hours": "Fr-Sa 22:00-04:00",
+    "operator": "liegen.schafft.kultur GmbH",
+    "website": "https://schneiderei-club.ch"
+  }
+},
+{
+  "type": "node",
+  "id": 13414054685,
+  "lat": 47.3674891,
+  "lon": 8.5460956,
+  "tags": {
+    "amenity": "nightclub",
+    "internet_access": "wlan",
+    "level": "-1",
+    "name": "Club Bellevue",
+    "operator": "Urban Agency Events",
+    "website": "https://club-bellevue.ch/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13462340704,
+  "lat": 47.4274773,
+  "lon": 9.3769909,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2026-06-18",
+    "name": "Scarlett"
+  }
+},
+{
+  "type": "node",
+  "id": 13481859607,
+  "lat": 47.4253582,
+  "lon": 9.3737474,
+  "tags": {
+    "addr:city": "St.Gallen",
+    "addr:housenumber": "2",
+    "addr:postcode": "9000",
+    "addr:street": "Hintere Poststrasse",
+    "amenity": "nightclub",
+    "name": "Dezent Club",
+    "opening_hours": "Sa 23:00+",
+    "website": "https://dezent.sg"
+  }
+},
+{
+  "type": "node",
+  "id": 13524715591,
+  "lat": 47.4250981,
+  "lon": 9.3721502,
+  "tags": {
+    "addr:city": "St.Gallen",
+    "addr:housenumber": "15",
+    "addr:postcode": "9000",
+    "addr:street": "Bahnhofstrasse",
+    "amenity": "nightclub",
+    "check_date:opening_hours": "2026-10-03",
+    "name": "Klain",
+    "opening_hours:signed": "no",
+    "website": "https://www.klubklain.ch/"
+  }
+},
+{
+  "type": "node",
+  "id": 13871183402,
+  "lat": 46.9484898,
+  "lon": 7.4430463,
+  "tags": {
+    "addr:housenumber": "4",
+    "addr:postcode": "3011",
+    "addr:street": "Spitalgasse",
+    "amenity": "nightclub",
+    "level": "-3",
+    "name": "Sous Soul",
+    "website": "https://www.sous-soul.love"
+  }
+},
+{
+  "type": "node",
+  "id": 13906813401,
+  "lat": 46.8132781,
+  "lon": 7.1573270,
+  "tags": {
+    "amenity": "nightclub",
+    "contact:instagram": "miam.space",
+    "name": "Miam",
+    "website": "https://miam.space"
+  }
+},
+{
+  "type": "node",
+  "id": 13929614651,
+  "lat": 46.4661954,
+  "lon": 6.8412848,
+  "tags": {
+    "addr:city": "Vevey",
+    "addr:housenumber": "3",
+    "addr:postcode": "1800",
+    "addr:street": "Rue du Jura",
+    "amenity": "nightclub",
+    "name": "Story Club Dancing Vevey"
+  }
+},
+{
+  "type": "node",
+  "id": 13946817020,
+  "lat": 46.7945829,
+  "lon": 9.8239237,
+  "tags": {
+    "addr:city": "Davos Platz",
+    "addr:country": "CH",
+    "addr:housenumber": "18",
+    "addr:postcode": "7270",
+    "addr:street": "Talstrasse",
+    "amenity": "nightclub",
+    "name": "Caprizzi Sportsbar",
+    "opening_hours": "Mo-Th 17:00-02:00; Fr-Sa 17:00-04:00; Su 17:00-02:00",
+    "source": "Bing",
+    "website": "https://www.caprizzi.ch/"
+  }
+},
+{
+  "type": "node",
+  "id": 13951871104,
+  "lat": 46.3824788,
+  "lon": 6.2391488,
+  "tags": {
+    "addr:city": "Nyon",
+    "addr:housenumber": "5",
+    "addr:postcode": "1260",
+    "addr:street": "Grand-Rue",
+    "amenity": "nightclub",
+    "name": "Décor Penché"
+  }
+},
+{
+  "type": "node",
+  "id": 13987701036,
+  "lat": 46.4663661,
+  "lon": 6.8409324,
+  "tags": {
+    "addr:city": "Vevey",
+    "addr:housenumber": "2",
+    "addr:postcode": "1800",
+    "addr:street": "Rue de Fribourg",
+    "amenity": "nightclub",
+    "name": "Queen's Club"
+  }
+},
+{
+  "type": "node",
+  "id": 14024373015,
+  "lat": 46.6167918,
+  "lon": 7.0571087,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "La Kave",
+    "website": "https://la-kave.ch/"
+  }
+},
+{
+  "type": "node",
+  "id": 14049048441,
+  "lat": 47.4265633,
+  "lon": 9.3770080,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2026-07-25",
+    "name": "Miami Latin Club"
+  }
+},
+{
+  "type": "node",
+  "id": 14246280729,
+  "lat": 46.8488910,
+  "lon": 9.5308479,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2026-10-03",
+    "name": "Enjoy"
+  }
+},
+{
+  "type": "way",
+  "id": 35409833,
+  "center": {
+    "lat": 47.4945511,
+    "lon": 8.7077224
+  },
+  "tags": {
+    "addr:city": "Winterthur",
+    "addr:housenumber": "19",
+    "addr:postcode": "8406",
+    "addr:street": "Untere Schöntalstrasse",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Gaswerk",
+    "website": "https://gaswerk.ch",
+    "wikidata": "Q1495713"
+  }
+},
+{
+  "type": "way",
+  "id": 44296020,
+  "center": {
+    "lat": 46.5218850,
+    "lon": 6.6272063
+  },
+  "tags": {
+    "addr:city": "Lausanne",
+    "addr:country": "CH",
+    "addr:housenumber": "23",
+    "addr:postcode": "1004",
+    "addr:street": "Rue de Genève",
+    "amenity": "nightclub",
+    "building": "retail",
+    "copyright": "OpenAddresses",
+    "email": "secretariat@mad.ch",
+    "generator:method": "photovoltaic",
+    "generator:output:electricity": "small_installation",
+    "generator:source": "solar",
+    "generator:type": "solar_photovoltaic_panel",
+    "location": "roof",
+    "name": "MAD",
+    "oa:imported_by": "sbrunner",
+    "oa:lat": "46.52196121",
+    "oa:lon": "6.62734175",
+    "oa:version": "oa2osm - 0.2 - sax",
+    "phone": "+41 21 340 69 69",
+    "power": "generator",
+    "source": "orthophoto lausanne 2009",
+    "website": "https://www.madclub.ch/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 44361825,
+  "center": {
+    "lat": 46.5224003,
+    "lon": 6.6192512
+  },
+  "tags": {
+    "addr:city": "Lausanne",
+    "addr:housenumber": "34",
+    "addr:postcode": "1004",
+    "addr:street": "Avenue de Sévelin",
+    "amenity": "nightclub",
+    "building": "yes",
+    "building:colour": "silver",
+    "building:levels": "2",
+    "name": "Les Docks",
+    "roof:colour": "silver",
+    "roof:shape": "flat",
+    "source": "Orthophoto Ville de Lausanne 2008",
+    "toilets:wheelchair": "yes",
+    "website": "http://www.lesdocks.ch",
+    "wheelchair": "yes",
+    "wikidata": "Q3232147",
+    "wikipedia": "fr:Les Docks (Suisse)"
+  }
+},
+{
+  "type": "way",
+  "id": 54055483,
+  "center": {
+    "lat": 47.3872647,
+    "lon": 8.5000001
+  },
+  "tags": {
+    "addr:city": "Zürich",
+    "addr:country": "CH",
+    "addr:housename": "Komplex 457",
+    "addr:housenumber": "457",
+    "addr:postcode": "8048",
+    "addr:street": "Hohlstrasse",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Komplex 457",
+    "owner": "Coop Immobilien",
+    "website": "http://www.komplex457.ch"
+  }
+},
+{
+  "type": "way",
+  "id": 56004913,
+  "center": {
+    "lat": 47.3754967,
+    "lon": 8.5264726
+  },
+  "tags": {
+    "addr:housenumber": "54",
+    "addr:street": "Kanzleistrasse",
+    "alt_name": "Kanzlei",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Kanzlei Turnhalle",
+    "roof:shape": "hipped",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "way",
+  "id": 57903620,
+  "center": {
+    "lat": 47.3536904,
+    "lon": 7.9342186
+  },
+  "tags": {
+    "addr:city": "Dulliken",
+    "addr:country": "CH",
+    "addr:housenumber": "2",
+    "addr:postcode": "4657",
+    "addr:street": "Rosengasse",
+    "amenity": "nightclub",
+    "brothel:apartment": "yes",
+    "building": "yes",
+    "email": "info@studio-insomnia.ch",
+    "min_age": "18",
+    "name": "Studio INSOMNIA",
+    "opening_hours": "Mo-Sa: 11:00 - 24:00; So: 12:00 - 19:00",
+    "payment:cash": "yes",
+    "payment:coins": "yes",
+    "payment:contactless": "yes",
+    "payment:credit_cards": "yes",
+    "payment:maestro": "yes",
+    "payment:mastercard": "yes",
+    "payment:notes": "yes",
+    "payment:visa": "yes",
+    "phone": "+41 62 295 41 41",
+    "website": "https://www.studio-insomnia.ch/"
+  }
+},
+{
+  "type": "way",
+  "id": 74784364,
+  "center": {
+    "lat": 47.3943960,
+    "lon": 8.0414406
+  },
+  "tags": {
+    "addr:city": "Aarau",
+    "addr:country": "CH",
+    "addr:housenumber": "7",
+    "addr:postcode": "5000",
+    "addr:street": "Flösserstrasse",
+    "amenity": "nightclub",
+    "building": "commercial",
+    "email": "info@floesserplatz.ch",
+    "fax": "+41 62 824 67 39",
+    "name": "Jugendhaus Flösserplatz",
+    "phone": "+41 62 824 20 10",
+    "roof:shape": "many",
+    "website": "https://www.floesserplatz.ch/"
+  }
+},
+{
+  "type": "way",
+  "id": 81446421,
+  "center": {
+    "lat": 46.2039652,
+    "lon": 6.1360013
+  },
+  "tags": {
+    "addr:city": "Genève",
+    "addr:housenumber": "4",
+    "addr:postcode": "1204",
+    "addr:street": "Place des Volontaires",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "L'Usine",
+    "website": "https://usine.ch/",
+    "wikidata": "Q3204847"
+  }
+},
+{
+  "type": "way",
+  "id": 92016835,
+  "center": {
+    "lat": 47.0446500,
+    "lon": 8.3112254
+  },
+  "tags": {
+    "addr:city": "Luzern",
+    "addr:housenumber": "1",
+    "addr:postcode": "6005",
+    "addr:street": "Tribschenstrasse",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Konzerthaus Schüür",
+    "website": "https://www.schuur.ch/"
+  }
+},
+{
+  "type": "way",
+  "id": 103987947,
+  "center": {
+    "lat": 47.1130690,
+    "lon": 6.8456031
+  },
+  "tags": {
+    "addr:city": "La Chaux-de-Fonds",
+    "addr:country": "CH",
+    "addr:housenumber": "3",
+    "addr:postcode": "2300",
+    "addr:street": "La Joux-Perret",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Bikini Test",
+    "phone": "+41 32 968 06 66",
+    "roof:orientation": "along",
+    "roof:shape": "hipped",
+    "website": "https://bikinitest.ch/"
+  }
+},
+{
+  "type": "way",
+  "id": 123442187,
+  "center": {
+    "lat": 46.7950137,
+    "lon": 7.1516118
+  },
+  "tags": {
+    "addr:city": "Fribourg",
+    "addr:country": "CH",
+    "addr:housenumber": "13",
+    "addr:postcode": "1700",
+    "addr:street": "Route de la Fonderie",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Fri-Son",
+    "phone": "+41 26 424 36 25",
+    "source": "Orthophoto 2005, Etat de Fribourg",
+    "website": "https://fri-son.ch/fr/programme"
+  }
+},
+{
+  "type": "way",
+  "id": 151277720,
+  "center": {
+    "lat": 47.4107456,
+    "lon": 7.0925187
+  },
+  "tags": {
+    "addr:city": "Porrentruy",
+    "addr:housenumber": "110A",
+    "addr:postcode": "2900",
+    "addr:street": "Route de Courgenay",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "En Scred"
+  }
+},
+{
+  "type": "way",
+  "id": 166011239,
+  "center": {
+    "lat": 47.5837956,
+    "lon": 7.5868160
+  },
+  "tags": {
+    "addr:city": "Basel",
+    "addr:country": "CH",
+    "addr:housenumber": "19",
+    "addr:postcode": "4057",
+    "addr:street": "Westquaistrasse",
+    "amenity": "nightclub",
+    "building": "ship",
+    "contact:facebook": "https://www.facebook.com/nordsternbasel",
+    "contact:instagram": "https://www.instagram.com/nordsternbasel",
+    "contact:phone": "+41 61 383 3030",
+    "contact:ra": "https://ra.co/clubs/8280",
+    "contact:website": "http://www.nordstern.com",
+    "name": "Nordstern",
+    "opening_hours": "Fr 23:00-06:00, Sa 23:00-07:00",
+    "operator": "Nordstern Enterprise GmbH",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 170517783,
+  "center": {
+    "lat": 47.1813382,
+    "lon": 8.4839574
+  },
+  "tags": {
+    "addr:city": "Zug",
+    "addr:housenumber": "173",
+    "addr:postcode": "6300",
+    "addr:street": "Chamerstrasse",
+    "amenity": "nightclub",
+    "building": "yes",
+    "email": "info@galvanik-zug.ch",
+    "name": "Galvanik",
+    "website": "https://www.galvanik-zug.ch/"
+  }
+},
+{
+  "type": "way",
+  "id": 171458007,
+  "center": {
+    "lat": 47.2649093,
+    "lon": 8.1476253
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Dilaila Club",
+    "source": "AGIS2011"
+  }
+},
+{
+  "type": "way",
+  "id": 200192978,
+  "center": {
+    "lat": 46.4720078,
+    "lon": 6.8521933
+  },
+  "tags": {
+    "addr:city": "Vevey",
+    "addr:country": "CH",
+    "addr:housenumber": "60",
+    "addr:postcode": "1800",
+    "addr:street": "Avenue de Gilamont",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Rocking Chair",
+    "name:en": "The Rocking Chair",
+    "name:fr": "RKC",
+    "source": "Orthophoto Cartoriviera 2012",
+    "website": "https://www.rocking-chair.ch/"
+  }
+},
+{
+  "type": "way",
+  "id": 205023323,
+  "center": {
+    "lat": 46.9677743,
+    "lon": 8.3678997
+  },
+  "tags": {
+    "addr:city": "Stans",
+    "addr:housenumber": "4",
+    "addr:place": "Schwibogen",
+    "addr:postcode": "6370",
+    "addr:street": "Schwibogen",
+    "amenity": "nightclub",
+    "building": "yes",
+    "building:colour": "#ff9e6b",
+    "name": "Senkel",
+    "website": "https://www.senkel.ch"
+  }
+},
+{
+  "type": "way",
+  "id": 226346649,
+  "center": {
+    "lat": 47.3247416,
+    "lon": 8.7855831
+  },
+  "tags": {
+    "addr:city": "Wetzikon",
+    "addr:country": "CH",
+    "addr:housenumber": "45",
+    "addr:postcode": "8620",
+    "addr:street": "Zürcherstrasse",
+    "amenity": "nightclub",
+    "building": "yes",
+    "building:levels": "3",
+    "name": "Villa 45 - Erotic-Club",
+    "roof:levels": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 229360310,
+  "center": {
+    "lat": 46.2484858,
+    "lon": 6.9572265
+  },
+  "tags": {
+    "addr:city": "Monthey",
+    "addr:housenumber": "17",
+    "addr:postcode": "1870",
+    "addr:street": "Avenue du Simplon",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Treize Etoiles",
+    "source": "Bing 2013"
+  }
+},
+{
+  "type": "way",
+  "id": 237320741,
+  "center": {
+    "lat": 46.1087326,
+    "lon": 7.0910983
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Sphinx (ex-Kheops)",
+    "opening_hours": "Mo-Fr 00:00-03:00,17:00-24:00; Sa,Su 00:00-04:00,17:00-24:00",
+    "source": "Bing",
+    "website": "http://www.sphinxclubvs.com"
+  }
+},
+{
+  "type": "way",
+  "id": 258868527,
+  "center": {
+    "lat": 47.3231142,
+    "lon": 8.7868954
+  },
+  "tags": {
+    "addr:city": "Wetzikon",
+    "addr:country": "CH",
+    "addr:housenumber": "35b",
+    "addr:postcode": "8620",
+    "addr:street": "Zürcherstrasse",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Ema Spielparadies / AWESO AG",
+    "note": "Ice Cube GmbH in Liquidation?",
+    "website": "https://www.cube-club.ch/"
+  }
+},
+{
+  "type": "way",
+  "id": 383448409,
+  "center": {
+    "lat": 47.0900052,
+    "lon": 9.2992042
+  },
+  "tags": {
+    "addr:city": "Flumserberg Tannenheim",
+    "addr:housenumber": "152",
+    "addr:postcode": "8897",
+    "addr:street": "Flumserbergstrasse",
+    "amenity": "nightclub",
+    "building": "yes",
+    "check_date": "2025-08-16",
+    "email": "info@newgoggeien.ch",
+    "name": "New Goggeien",
+    "opening_hours": "We-Su 16:00-22:00",
+    "operator": "New Goggeien AG",
+    "phone": "+41 81 733 00 13",
+    "website": "https://newgoggeien.ch"
+  }
+},
+{
+  "type": "way",
+  "id": 389589216,
+  "center": {
+    "lat": 47.0340228,
+    "lon": 8.2790000
+  },
+  "tags": {
+    "addr:city": "Kriens",
+    "addr:housenumber": "9",
+    "addr:postcode": "6010",
+    "addr:street": "Luzernerstrasse",
+    "amenity": "nightclub",
+    "building": "yes",
+    "email": "info@penthouse9.ch",
+    "min_age": "18",
+    "name": "Penthouse 9",
+    "opening_hours": "Mo-Fr 12:00-24:00; Sa 12:00-18:00; Su 12:00-18:00",
+    "payment:cash": "yes",
+    "payment:contactless": "yes",
+    "payment:credit_cards": "yes",
+    "payment:maestro": "yes",
+    "payment:mastercard": "yes",
+    "payment:notes": "yes",
+    "payment:visa": "yes",
+    "phone": "+41 41 322 12 66",
+    "website": "https://www.penthouse9.ch/"
+  }
+},
+{
+  "type": "way",
+  "id": 445540319,
+  "center": {
+    "lat": 46.2160314,
+    "lon": 7.2972423
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Opera",
+    "source": "https://opera-conthey.business.site",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 542879913,
+  "center": {
+    "lat": 47.5740363,
+    "lon": 7.5687739
+  },
+  "tags": {
+    "addr:city": "Basel",
+    "addr:country": "CH",
+    "addr:housenumber": "29",
+    "addr:postcode": "4056",
+    "addr:street": "Hagenaustrasse",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Club Borderline",
+    "website": "https://www.clubborderline.ch"
+  }
+},
+{
+  "type": "way",
+  "id": 610500471,
+  "center": {
+    "lat": 46.1429225,
+    "lon": 8.9087991
+  },
+  "tags": {
+    "addr:city": "Rivera",
+    "addr:housenumber": "3",
+    "addr:postcode": "6802",
+    "addr:street": "Via Monte Ceneri",
+    "amenity": "nightclub",
+    "building": "yes",
+    "min_age": "18",
+    "name": "Isla Club"
+  }
+},
+{
+  "type": "way",
+  "id": 648853198,
+  "center": {
+    "lat": 46.2015686,
+    "lon": 6.1339126
+  },
+  "tags": {
+    "addr:city": "Genève",
+    "addr:housenumber": "9",
+    "addr:postcode": "1205",
+    "addr:street": "Rue des Gazomètres",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Le Groove",
+    "website": "https://legroove.ch/"
+  }
+}
+
+  ]
+}

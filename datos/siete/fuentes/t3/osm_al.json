@@ -1,0 +1,435 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-10-08T23:28:50Z",
+    "timestamp_areas_base": "2026-10-07T10:19:21Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 1197408308,
+  "lat": 41.3215459,
+  "lon": 19.8174797,
+  "tags": {
+    "addr:city": "Tirana",
+    "addr:country": "AL",
+    "addr:postcode": "1001",
+    "addr:street": "Rruga Pjetër Bogdani",
+    "amenity": "nightclub",
+    "contact:facebook": "https://www.facebook.com/magicclubtirana",
+    "contact:instagram": "https://www.instagram.com/magic_club_tirana/",
+    "contact:phone": "+355689007194",
+    "contact:tiktok": "https://www.tiktok.com/@magic_club_tirana?lang=en",
+    "min_age": "18",
+    "name": "Magic Club Tirana",
+    "opening_hours": "Mo-Sa 23:00-03:00",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 3974061159,
+  "lat": 42.0703807,
+  "lon": 19.5159842,
+  "tags": {
+    "amenity": "nightclub",
+    "internet_access": "yes",
+    "internet_access:fee": "no",
+    "name": "Brayan",
+    "payment:coins": "yes",
+    "payment:credit_cards": "no",
+    "payment:cryptocurrencies": "no",
+    "payment:debit_cards": "no",
+    "payment:electronic_purses": "no",
+    "payment:notes": "yes",
+    "smoking": "outside",
+    "source": "bing;survey;gps",
+    "source_ref:url": "https://www.flickr.com/photos/134902422@N04/map?&fLat=41.9559&fLon=19.4337&zl=11&order_by=recent",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 3974061167,
+  "lat": 42.0703290,
+  "lon": 19.5160539,
+  "tags": {
+    "amenity": "nightclub",
+    "internet_access": "yes",
+    "internet_access:fee": "no",
+    "name": "Big Love",
+    "payment:coins": "yes",
+    "payment:credit_cards": "no",
+    "payment:cryptocurrencies": "no",
+    "payment:debit_cards": "no",
+    "payment:electronic_purses": "no",
+    "payment:notes": "yes",
+    "smoking": "outside",
+    "source": "bing;survey;gps",
+    "source_ref:url": "https://www.flickr.com/photos/134902422@N04/map?&fLat=41.9559&fLon=19.4337&zl=11&order_by=recent",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 3975533417,
+  "lat": 42.0707327,
+  "lon": 19.5151154,
+  "tags": {
+    "amenity": "nightclub",
+    "internet_access": "yes",
+    "internet_access:fee": "no",
+    "name": "Maximus Club",
+    "payment:coins": "yes",
+    "payment:credit_cards": "no",
+    "payment:cryptocurrencies": "no",
+    "payment:debit_cards": "no",
+    "payment:electronic_purses": "no",
+    "payment:notes": "yes",
+    "smoking": "outside",
+    "source": "bing;survey;gps",
+    "source_ref:url": "https://www.flickr.com/photos/134902422@N04/map?&fLat=41.9559&fLon=19.4337&zl=11&order_by=recent",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 4362590387,
+  "lat": 39.7724914,
+  "lon": 20.0020116,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Geri Beach Club"
+  }
+},
+{
+  "type": "node",
+  "id": 4368030598,
+  "lat": 41.3206698,
+  "lon": 19.4315388,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Tymi",
+    "name:it": "Tymi",
+    "name:sq": "Tymi"
+  }
+},
+{
+  "type": "node",
+  "id": 4631472295,
+  "lat": 41.3176611,
+  "lon": 19.8199931,
+  "tags": {
+    "addr:city": "Tirana",
+    "addr:street": "Rruga Lekë Dukagjini",
+    "amenity": "nightclub",
+    "name": "Opium Club",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4752348026,
+  "lat": 39.8481805,
+  "lon": 20.0253519,
+  "tags": {
+    "amenity": "nightclub",
+    "internet_access": "wlan",
+    "name": "Factory Club",
+    "opening_hours": "Mo-Su 22:00-06:00",
+    "phone": "+355698303002"
+  }
+},
+{
+  "type": "node",
+  "id": 5077363446,
+  "lat": 41.3065810,
+  "lon": 19.4916094,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Club Shqiponja 2",
+    "name:sq": "Club Shqiponja 2"
+  }
+},
+{
+  "type": "node",
+  "id": 5353357021,
+  "lat": 41.1141699,
+  "lon": 20.0871275,
+  "tags": {
+    "addr:city": "Elbasan",
+    "addr:street": "Aqif pasha",
+    "amenity": "nightclub",
+    "name": "Glow Club",
+    "opening_hours": "Mo-Su 16:30-07:00",
+    "phone": "003550698477092",
+    "toilets:wheelchair": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5359703921,
+  "lat": 41.1207820,
+  "lon": 20.1003617,
+  "tags": {
+    "addr:city": "Elbasan",
+    "addr:street": "Rruga Kozma Naska",
+    "amenity": "nightclub",
+    "email": "@kompleksihavanna",
+    "name": "Kompleksi Havanna",
+    "phone": "003550692663665"
+  }
+},
+{
+  "type": "node",
+  "id": 5598533227,
+  "lat": 41.3211498,
+  "lon": 19.7872458,
+  "tags": {
+    "addr:street": "Rruga Konferenca e Pezës",
+    "amenity": "nightclub",
+    "internet_access": "wlan",
+    "name": "Cavaliero club",
+    "opening_hours": "Fr-Sa 22:00-04:00"
+  }
+},
+{
+  "type": "node",
+  "id": 6439387418,
+  "lat": 40.6179952,
+  "lon": 20.7777609,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Bizarre Lounge"
+  }
+},
+{
+  "type": "node",
+  "id": 6806540272,
+  "lat": 41.3449532,
+  "lon": 19.8506051,
+  "tags": {
+    "addr:street": "Rruga Xhanfize Keko",
+    "amenity": "nightclub",
+    "name": "Babylon Club"
+  }
+},
+{
+  "type": "node",
+  "id": 6823471039,
+  "lat": 41.3273032,
+  "lon": 19.4635302,
+  "tags": {
+    "addr:street": "Rruga Adem Jashari",
+    "amenity": "nightclub",
+    "name": "Club te Tapeti Kuq"
+  }
+},
+{
+  "type": "node",
+  "id": 6838666789,
+  "lat": 41.3272518,
+  "lon": 19.4883219,
+  "tags": {
+    "addr:street": "Rruga Bajram Tusha",
+    "amenity": "nightclub",
+    "name": "Ballkan Club"
+  }
+},
+{
+  "type": "node",
+  "id": 6844791159,
+  "lat": 41.3253730,
+  "lon": 19.4573645,
+  "tags": {
+    "addr:street": "Rruga Vëllazërimi",
+    "amenity": "nightclub",
+    "name": "Club Butterfly"
+  }
+},
+{
+  "type": "node",
+  "id": 6861789479,
+  "lat": 41.2658743,
+  "lon": 19.5208557,
+  "tags": {
+    "addr:street": "Rruga Xixa",
+    "amenity": "nightclub",
+    "name": "Diaspor Club"
+  }
+},
+{
+  "type": "node",
+  "id": 6864464611,
+  "lat": 41.3310820,
+  "lon": 19.8206096,
+  "tags": {
+    "addr:city": "Tirana",
+    "addr:street": "Rruga e Barrikadave",
+    "amenity": "nightclub",
+    "name": "4Elements"
+  }
+},
+{
+  "type": "node",
+  "id": 9264662755,
+  "lat": 41.3338284,
+  "lon": 19.8249419,
+  "tags": {
+    "addr:city": "Tirana",
+    "addr:street": "Rruga Xhemal Tafaj",
+    "amenity": "nightclub",
+    "club": "arts_centre",
+    "internet_access": "wlan",
+    "name": "Hotspot Tirana",
+    "office": "coworking",
+    "phone": "+355688321066",
+    "tourism": "gallery",
+    "website": "https://www.instagram.com/hotspot_tirana/"
+  }
+},
+{
+  "type": "node",
+  "id": 9973545533,
+  "lat": 41.7794344,
+  "lon": 19.6327697,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Alcatraz"
+  }
+},
+{
+  "type": "node",
+  "id": 11099801146,
+  "lat": 40.9001144,
+  "lon": 20.6874317,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Oro Bianco"
+  }
+},
+{
+  "type": "node",
+  "id": 11342054586,
+  "lat": 41.3393939,
+  "lon": 19.8187761,
+  "tags": {
+    "addr:city": "Tirana",
+    "addr:street": "Rruga Zenel Bastari",
+    "amenity": "nightclub",
+    "lgbtq": "primary",
+    "name": "Goat"
+  }
+},
+{
+  "type": "node",
+  "id": 11379630865,
+  "lat": 41.3286005,
+  "lon": 19.8202667,
+  "tags": {
+    "addr:city": "Tirana",
+    "addr:street": "Rruga Ludovik Shllaku",
+    "amenity": "nightclub",
+    "name": "Tunel Music Venue"
+  }
+},
+{
+  "type": "node",
+  "id": 11380105100,
+  "lat": 41.1183015,
+  "lon": 20.0827479,
+  "tags": {
+    "addr:city": "Elbasan",
+    "amenity": "nightclub",
+    "name": "Glow"
+  }
+},
+{
+  "type": "node",
+  "id": 11643256275,
+  "lat": 41.3363233,
+  "lon": 19.7975484,
+  "tags": {
+    "addr:city": "Tirana",
+    "addr:street": "Rruga Pandi Dardha",
+    "amenity": "nightclub",
+    "name": "Deja Vu"
+  }
+},
+{
+  "type": "node",
+  "id": 12122731476,
+  "lat": 41.3207927,
+  "lon": 19.8159447,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2024-08-20",
+    "level": "-1",
+    "name": "Club Buda"
+  }
+},
+{
+  "type": "node",
+  "id": 12122731479,
+  "lat": 41.3211599,
+  "lon": 19.8163633,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2024-08-20",
+    "level": "0",
+    "name": "VA Club"
+  }
+},
+{
+  "type": "way",
+  "id": 356918584,
+  "center": {
+    "lat": 41.3176078,
+    "lon": 19.8314519
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "commercial",
+    "name": "Crazy Calvin"
+  }
+},
+{
+  "type": "way",
+  "id": 437127326,
+  "center": {
+    "lat": 39.7802226,
+    "lon": 20.0077245
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "El Dorado Stellplatz oberhalb der Strandbar 10€"
+  }
+},
+{
+  "type": "way",
+  "id": 457030566,
+  "center": {
+    "lat": 41.3061219,
+    "lon": 19.8382072
+  },
+  "tags": {
+    "addr:city": "Tiranë",
+    "addr:street": "Rruga Selim Brahja",
+    "amenity": "nightclub",
+    "building": "yes",
+    "min_age": "18",
+    "name": "Cinco  Club",
+    "note": "Cinco Club\nOfficial Page ©\nDoors Open 23 : 00 Pm.\nFor Vip Reservations\n+355 69 378 4312\nRez 068 555 0861\n📍 Location - Tirane , Sauk.",
+    "phone": "+355685550861",
+    "source": "osm notes",
+    "website": "https://cinco.al/"
+  }
+}
+
+  ]
+}

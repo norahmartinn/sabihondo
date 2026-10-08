@@ -1,0 +1,654 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-10-08T23:35:02Z",
+    "timestamp_areas_base": "2026-10-07T10:19:21Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 569925824,
+  "lat": 56.9488082,
+  "lon": 24.1090494,
+  "tags": {
+    "addr:city": "Rīga",
+    "addr:country": "LV",
+    "addr:housenumber": "12",
+    "addr:postcode": "LV-1050",
+    "addr:street": "Kaļķu iela",
+    "amenity": "nightclub",
+    "check_date": "2025-10-10",
+    "name": "Call Me",
+    "opening_hours": "17:00-05:00",
+    "ref:LV:addr": "101907184",
+    "toilets:wheelchair": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 954574181,
+  "lat": 57.3105219,
+  "lon": 25.2681183,
+  "tags": {
+    "addr:city": "Cēsis",
+    "addr:country": "LV",
+    "addr:district": "Cēsu novads",
+    "addr:housenumber": "47",
+    "addr:postcode": "LV-4101",
+    "addr:street": "Rīgas iela",
+    "amenity": "nightclub",
+    "check_date": "2025-06-03",
+    "name": "Fonoklubs",
+    "opening_hours": "\"It is written on a poster for every month. Seems like the events start at around 21:00 to 22:00.\"",
+    "ref:LV:addr": "101588564"
+  }
+},
+{
+  "type": "node",
+  "id": 1795805153,
+  "lat": 56.9720390,
+  "lon": 24.1542718,
+  "tags": {
+    "addr:city": "Rīga",
+    "addr:country": "LV",
+    "addr:housenumber": "193C",
+    "addr:postcode": "LV-1039",
+    "addr:street": "Brīvības gatve",
+    "amenity": "nightclub",
+    "name": "Melnā piektdiena",
+    "ref:LV:addr": "103331194"
+  }
+},
+{
+  "type": "node",
+  "id": 1806335482,
+  "lat": 56.9521317,
+  "lon": 24.1254031,
+  "tags": {
+    "addr:city": "Rīga",
+    "addr:country": "LV",
+    "addr:housenumber": "32",
+    "addr:postcode": "LV-1011",
+    "addr:street": "Blaumaņa iela",
+    "amenity": "nightclub",
+    "bar": "yes",
+    "check_date": "2026-07-01",
+    "email": "sapniunkokteili@suk.lv",
+    "name": "Sapņi un kokteiļi",
+    "opening_hours": "Mo,Tu 17:00-22:00; We 17:00-24:00; Th,Fr 00:00-01:00,17:00-24:00; Sa 00:00-05:00,17:00-24:00; Su 00:00-05:00",
+    "phone": "+371 220 87298",
+    "ref:LV:addr": "101821717",
+    "website": "https://www.suk.lv"
+  }
+},
+{
+  "type": "node",
+  "id": 2452320678,
+  "lat": 55.8715960,
+  "lon": 26.5233107,
+  "tags": {
+    "addr:city": "Daugavpils",
+    "addr:country": "LV",
+    "addr:housenumber": "53",
+    "addr:postcode": "LV-5401",
+    "addr:street": "Viestura iela",
+    "amenity": "nightclub",
+    "contact:facebook": "https://www.facebook.com/onemoreclub.lv/",
+    "contact:instagram": "https://www.instagram.com/onemoreclub.lv/",
+    "internet_access": "wlan",
+    "name": "One More Club",
+    "ref:LV:addr": "102672658"
+  }
+},
+{
+  "type": "node",
+  "id": 2875118550,
+  "lat": 56.9651460,
+  "lon": 24.1301789,
+  "tags": {
+    "addr:city": "Rīga",
+    "addr:country": "LV",
+    "addr:housenumber": "18A",
+    "addr:postcode": "LV-1001",
+    "addr:street": "Šarlotes iela",
+    "amenity": "nightclub",
+    "check_date": "2025-05-17",
+    "name": "OneOne",
+    "ref:LV:addr": "106472867"
+  }
+},
+{
+  "type": "node",
+  "id": 3647364125,
+  "lat": 56.5085123,
+  "lon": 21.0151134,
+  "tags": {
+    "addr:city": "Liepāja",
+    "addr:country": "LV",
+    "addr:housenumber": "14/16",
+    "addr:postcode": "LV-3401",
+    "addr:street": "Baznīcas iela",
+    "amenity": "nightclub",
+    "name": "Big 7",
+    "opening_hours": "Fr-Sa 22:00-05:00",
+    "ref:LV:addr": "101690881"
+  }
+},
+{
+  "type": "node",
+  "id": 3658678419,
+  "lat": 56.5125801,
+  "lon": 21.0102605,
+  "tags": {
+    "addr:city": "Liepāja",
+    "addr:country": "LV",
+    "addr:housenumber": "4",
+    "addr:postcode": "LV-3401",
+    "addr:street": "Dzirnavu iela",
+    "amenity": "nightclub",
+    "name": "Fontaine Palace",
+    "ref:LV:addr": "104421362"
+  }
+},
+{
+  "type": "node",
+  "id": 3658678424,
+  "lat": 56.5124322,
+  "lon": 21.0082646,
+  "tags": {
+    "addr:city": "Liepāja",
+    "addr:country": "LV",
+    "addr:housenumber": "10",
+    "addr:postcode": "LV-3401",
+    "addr:street": "Dzirnavu iela",
+    "amenity": "nightclub",
+    "name": "Fontaine GypsyCamp",
+    "ref:LV:addr": "102404355"
+  }
+},
+{
+  "type": "node",
+  "id": 4159498389,
+  "lat": 56.9589054,
+  "lon": 24.1766253,
+  "tags": {
+    "addr:city": "Rīga",
+    "addr:country": "LV",
+    "addr:floor": "2",
+    "addr:housenumber": "2A",
+    "addr:postcode": "LV-1035",
+    "addr:street": "Nīcgales iela",
+    "amenity": "nightclub",
+    "check_date": "2025-05-08",
+    "level": "1",
+    "name": "Rigonda",
+    "opening_hours": "Fr,Sa 23:00-07:00",
+    "ref:LV:addr": "101956950"
+  }
+},
+{
+  "type": "node",
+  "id": 4819761796,
+  "lat": 56.9496971,
+  "lon": 24.1069007,
+  "tags": {
+    "addr:city": "Rīga",
+    "addr:country": "LV",
+    "addr:housenumber": "17",
+    "addr:postcode": "LV-1050",
+    "addr:street": "Šķūņu iela",
+    "amenity": "nightclub",
+    "name": "Radio bar",
+    "ref:LV:addr": "101828272"
+  }
+},
+{
+  "type": "node",
+  "id": 4928407021,
+  "lat": 56.9616645,
+  "lon": 24.0962669,
+  "tags": {
+    "addr:city": "Rīga",
+    "addr:country": "LV",
+    "addr:housenumber": "5 k-3",
+    "addr:postcode": "LV-1045",
+    "addr:street": "Andrejostas iela",
+    "amenity": "nightclub",
+    "name": "FIRST",
+    "ref:LV:addr": "106521344"
+  }
+},
+{
+  "type": "node",
+  "id": 4958190321,
+  "lat": 56.9495485,
+  "lon": 24.1209928,
+  "tags": {
+    "addr:city": "Rīga",
+    "addr:country": "LV",
+    "addr:housenumber": "4",
+    "addr:postcode": "LV-1050",
+    "addr:street": "Alfrēda Kalniņa iela",
+    "amenity": "nightclub",
+    "check_date": "2026-07-18",
+    "check_date:opening_hours": "2026-07-18",
+    "internet_access": "wlan",
+    "lgbtq": "welcome",
+    "name": "Top",
+    "opening_hours": "Tu-Th 20:00-02:00, Fr,Sa 21:00-07:00, Su 20:00-02:00",
+    "ref:LV:addr": "101851967",
+    "website": "https://www.topclub.lv/"
+  }
+},
+{
+  "type": "node",
+  "id": 5201654480,
+  "lat": 56.9594609,
+  "lon": 24.1331273,
+  "tags": {
+    "addr:city": "Rīga",
+    "addr:country": "LV",
+    "addr:housenumber": "73",
+    "addr:postcode": "LV-1001",
+    "addr:street": "Tērbatas iela",
+    "amenity": "nightclub",
+    "level": "0",
+    "name": "Piji",
+    "ref:LV:addr": "102005674"
+  }
+},
+{
+  "type": "node",
+  "id": 6617344220,
+  "lat": 56.9476052,
+  "lon": 24.1140769,
+  "tags": {
+    "addr:city": "Rīga",
+    "addr:country": "LV",
+    "addr:housenumber": "32",
+    "addr:postcode": "LV-1050",
+    "addr:street": "Aspazijas bulvāris",
+    "amenity": "nightclub",
+    "check_date": "2026-07-20",
+    "check_date:opening_hours": "2026-07-20",
+    "name": "Gentlemen's Royal Club",
+    "opening_hours": "22:00-06:00",
+    "ref:LV:addr": "101816571"
+  }
+},
+{
+  "type": "node",
+  "id": 8385124717,
+  "lat": 56.5124714,
+  "lon": 21.0073460,
+  "tags": {
+    "addr:city": "Liepāja",
+    "addr:country": "LV",
+    "addr:housenumber": "5",
+    "addr:postcode": "LV-3401",
+    "addr:street": "Kuģinieku iela",
+    "amenity": "nightclub",
+    "name": "Kursas Putni",
+    "ref:LV:addr": "101696185"
+  }
+},
+{
+  "type": "node",
+  "id": 10235109602,
+  "lat": 56.9499030,
+  "lon": 24.1507079,
+  "tags": {
+    "addr:city": "Rīga",
+    "addr:country": "LV",
+    "addr:housenumber": "21",
+    "addr:postcode": "LV-1009",
+    "addr:street": "Vagonu iela",
+    "alt_name": "Vagonu halle",
+    "amenity": "nightclub",
+    "email": "vagonuhall@gmail.com",
+    "name": "Vagonu zāle",
+    "name:en": "Vagonu Hall",
+    "name:lv": "Vagonu zāle",
+    "ref:LV:addr": "104603496"
+  }
+},
+{
+  "type": "node",
+  "id": 10704645476,
+  "lat": 56.9559117,
+  "lon": 24.1310776,
+  "tags": {
+    "addr:city": "Rīga",
+    "addr:country": "LV",
+    "addr:housenumber": "70",
+    "addr:postcode": "LV-1001",
+    "addr:street": "Krišjāņa Barona iela",
+    "amenity": "nightclub",
+    "check_date": "2026-06-10",
+    "level": "0",
+    "min_age": "18",
+    "name": "Hot-Rio",
+    "opening_hours": "Fr-Sa 18:00-27:00",
+    "operator": "Hot-Rio",
+    "ref:LV:addr": "101916730",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 10741652272,
+  "lat": 55.8704141,
+  "lon": 26.5153701,
+  "tags": {
+    "addr:city": "Daugavpils",
+    "addr:country": "LV",
+    "addr:housenumber": "22",
+    "addr:postcode": "LV-5401",
+    "addr:street": "Rīgas iela",
+    "amenity": "nightclub",
+    "name": "Artilērijas pagrabi",
+    "ref:LV:addr": "101805317"
+  }
+},
+{
+  "type": "node",
+  "id": 10741667533,
+  "lat": 55.8723590,
+  "lon": 26.5231435,
+  "tags": {
+    "addr:city": "Daugavpils",
+    "addr:country": "LV",
+    "addr:housenumber": "59",
+    "addr:postcode": "LV-5401",
+    "addr:street": "Viestura iela",
+    "amenity": "nightclub",
+    "name": "Taller",
+    "ref:LV:addr": "102587478"
+  }
+},
+{
+  "type": "node",
+  "id": 10741667895,
+  "lat": 56.6563353,
+  "lon": 23.7233789,
+  "tags": {
+    "addr:city": "Jelgava",
+    "addr:country": "LV",
+    "addr:housenumber": "12",
+    "addr:postcode": "LV-3001",
+    "addr:street": "Uzvaras iela",
+    "amenity": "nightclub",
+    "name": "Tonuss",
+    "ref:LV:addr": "101788208"
+  }
+},
+{
+  "type": "node",
+  "id": 10741668317,
+  "lat": 55.8749971,
+  "lon": 26.5458264,
+  "tags": {
+    "addr:city": "Daugavpils",
+    "addr:country": "LV",
+    "addr:housenumber": "105",
+    "addr:postcode": "LV-5404",
+    "addr:street": "18. novembra iela",
+    "amenity": "nightclub",
+    "name": "Bastīlija",
+    "ref:LV:addr": "102522967"
+  }
+},
+{
+  "type": "node",
+  "id": 10741668625,
+  "lat": 56.6498850,
+  "lon": 23.7181073,
+  "tags": {
+    "addr:city": "Jelgava",
+    "addr:country": "LV",
+    "addr:housenumber": "19A",
+    "addr:postcode": "LV-3001",
+    "addr:street": "Lielā iela",
+    "amenity": "nightclub",
+    "name": "THE BLOW",
+    "ref:LV:addr": "101770231"
+  }
+},
+{
+  "type": "node",
+  "id": 10741676082,
+  "lat": 56.9550400,
+  "lon": 24.1176857,
+  "tags": {
+    "addr:city": "Rīga",
+    "addr:country": "LV",
+    "addr:housenumber": "55",
+    "addr:postcode": "LV-1010",
+    "addr:street": "Elizabetes iela",
+    "amenity": "nightclub",
+    "name": "Friends",
+    "ref:LV:addr": "101131051"
+  }
+},
+{
+  "type": "node",
+  "id": 10747696467,
+  "lat": 56.9503893,
+  "lon": 24.1033793,
+  "tags": {
+    "addr:city": "Rīga",
+    "addr:country": "LV",
+    "addr:housenumber": "11",
+    "addr:postcode": "LV-1050",
+    "addr:street": "Mazā Pils iela",
+    "amenity": "nightclub",
+    "name": "Republika",
+    "ref:LV:addr": "101947716"
+  }
+},
+{
+  "type": "node",
+  "id": 10747715771,
+  "lat": 57.5433878,
+  "lon": 25.4275206,
+  "tags": {
+    "addr:city": "Valmiera",
+    "addr:country": "LV",
+    "addr:district": "Valmieras novads",
+    "addr:housenumber": "5",
+    "addr:postcode": "LV-4202",
+    "addr:street": "Tirgus iela",
+    "amenity": "nightclub",
+    "name": "Multiklubs",
+    "opening_hours": "Fr-Sa 22:00-05:00",
+    "ref:LV:addr": "101035718"
+  }
+},
+{
+  "type": "node",
+  "id": 10747739998,
+  "lat": 56.9653036,
+  "lon": 24.1306928,
+  "tags": {
+    "addr:city": "Rīga",
+    "addr:country": "LV",
+    "addr:housenumber": "9A",
+    "addr:postcode": "LV-1001",
+    "addr:street": "Aristida Briāna iela",
+    "amenity": "nightclub",
+    "check_date": "2025-05-17",
+    "name": "de flou",
+    "ref:LV:addr": "105832117"
+  }
+},
+{
+  "type": "node",
+  "id": 10747874710,
+  "lat": 56.4996697,
+  "lon": 25.8626868,
+  "tags": {
+    "addr:city": "Jēkabpils",
+    "addr:country": "LV",
+    "addr:district": "Jēkabpils novads",
+    "addr:housenumber": "190",
+    "addr:postcode": "LV-5201",
+    "addr:street": "Brīvības iela",
+    "amenity": "nightclub",
+    "name": "Luiize",
+    "ref:LV:addr": "103960314"
+  }
+},
+{
+  "type": "node",
+  "id": 10764408573,
+  "lat": 57.3934699,
+  "lon": 21.5413172,
+  "tags": {
+    "addr:city": "Ventspils",
+    "addr:country": "LV",
+    "addr:housenumber": "40",
+    "addr:postcode": "LV-3601",
+    "addr:street": "Karlīnes iela",
+    "amenity": "nightclub",
+    "name": "Silrak",
+    "opening_hours": "Tu-Th 12:00-21:00; Fr-Sa 13:00-04:00; Su 13:00-21:00",
+    "ref:LV:addr": "101649650"
+  }
+},
+{
+  "type": "node",
+  "id": 10772673585,
+  "lat": 56.9459947,
+  "lon": 24.1077416,
+  "tags": {
+    "addr:city": "Rīga",
+    "addr:country": "LV",
+    "addr:housenumber": "26/28",
+    "addr:postcode": "LV-1050",
+    "addr:street": "Peldu iela",
+    "amenity": "nightclub",
+    "check_date": "2023-10-25",
+    "name": "Pandemonium",
+    "opening_hours": "Fr-Sa 23:00-30:00",
+    "ref:LV:addr": "101964090"
+  }
+},
+{
+  "type": "node",
+  "id": 11681533114,
+  "lat": 56.9705734,
+  "lon": 24.1610275,
+  "tags": {
+    "addr:city": "Rīga",
+    "addr:country": "LV",
+    "addr:housenumber": "214B",
+    "addr:postcode": "LV-1039",
+    "addr:street": "Brīvības gatve",
+    "amenity": "nightclub",
+    "check_date:opening_hours": "2025-10-27",
+    "min_age": "18",
+    "name": "Tower",
+    "opening_hours": "Fr-Sa 23:00-06:00",
+    "ref:LV:addr": "101822542"
+  }
+},
+{
+  "type": "node",
+  "id": 11681533116,
+  "lat": 56.9459240,
+  "lon": 24.1097670,
+  "tags": {
+    "addr:city": "Rīga",
+    "addr:country": "LV",
+    "addr:housenumber": "8",
+    "addr:postcode": "LV-1050",
+    "addr:street": "Kungu iela",
+    "amenity": "nightclub",
+    "check_date": "2025-04-23",
+    "name": "Valhalla",
+    "opening_hours": "Th 23:00-05:00; Fr-Sa 23:00-06:00",
+    "ref:LV:addr": "102614188",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11681533118,
+  "lat": 56.9497970,
+  "lon": 24.1121467,
+  "tags": {
+    "addr:city": "Rīga",
+    "addr:country": "LV",
+    "addr:housenumber": "20",
+    "addr:postcode": "LV-1050",
+    "addr:street": "Aspazijas bulvāris",
+    "amenity": "nightclub",
+    "name": "Valknut",
+    "opening_hours": "Th 20:00-02:00; Fr 20:00-05:00; Sa 20:00-02:00",
+    "ref:LV:addr": "101816506"
+  }
+},
+{
+  "type": "node",
+  "id": 13020634350,
+  "lat": 56.9518554,
+  "lon": 24.1298368,
+  "tags": {
+    "addr:city": "Rīga",
+    "addr:country": "LV",
+    "addr:housenumber": "52",
+    "addr:postcode": "LV-1011",
+    "addr:street": "Lāčplēša iela",
+    "amenity": "nightclub",
+    "contact:facebook": "https://www.facebook.com/crystalclub.lv",
+    "contact:instagram": "https://www.instagram.com/crystal__riga",
+    "name": "Crystal club",
+    "opening_hours": "Fr-Sa 22:00-05:00",
+    "phone": "+37127772424",
+    "ref:LV:addr": "101119390"
+  }
+},
+{
+  "type": "node",
+  "id": 13351517198,
+  "lat": 56.9651537,
+  "lon": 24.1296182,
+  "tags": {
+    "addr:city": "Rīga",
+    "addr:country": "LV",
+    "addr:housenumber": "18A",
+    "addr:postcode": "LV-1001",
+    "addr:street": "Šarlotes iela",
+    "amenity": "nightclub",
+    "name": "Klubs Depo",
+    "name:en": "Club Depo",
+    "name:lv": "Klubs Depo",
+    "ref:LV:addr": "106472867",
+    "website": "http://www.klubsdepo.lv/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 14253570441,
+  "lat": 56.9584926,
+  "lon": 24.0977847,
+  "tags": {
+    "addr:city": "Rīga",
+    "addr:country": "LV",
+    "addr:housenumber": "1A",
+    "addr:postcode": "LV-1010",
+    "addr:street": "Eksporta iela",
+    "amenity": "nightclub",
+    "name": "Coyote Fly",
+    "ref:LV:addr": "101829426",
+    "website": "https://coyotefly.lv/"
+  }
+}
+
+  ]
+}

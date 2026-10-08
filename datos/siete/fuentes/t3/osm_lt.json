@@ -1,0 +1,722 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-10-08T23:36:04Z",
+    "timestamp_areas_base": "2026-10-08T05:09:19Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 494318559,
+  "lat": 54.6758476,
+  "lon": 25.2919446,
+  "tags": {
+    "addr:city": "Vilnius",
+    "addr:contact": "yes",
+    "addr:housenumber": "1",
+    "addr:street": "A. Strazdelio g.",
+    "amenity": "nightclub",
+    "email": "club@tamsta.com",
+    "name": "Tamsta Klubas",
+    "name:en": "Tamsta Club",
+    "name:lt": "Tamsta Klubas",
+    "opening_hours": "We-Th 18:00-23:00; Fr-Sa 18:30-00:00; Su 00:00-15:00",
+    "phone": "+37066949342",
+    "website": "https://www.tamstaclub.lt/"
+  }
+},
+{
+  "type": "node",
+  "id": 1304406714,
+  "lat": 55.9363601,
+  "lon": 23.3100367,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Max"
+  }
+},
+{
+  "type": "node",
+  "id": 1515914865,
+  "lat": 54.6785859,
+  "lon": 25.2668383,
+  "tags": {
+    "addr:city": "Vilnius",
+    "addr:contact": "yes",
+    "addr:housenumber": "7",
+    "addr:postcode": "08215",
+    "addr:street": "Švitrigailos g.",
+    "amenity": "nightclub",
+    "check_date": "2025-11-05",
+    "contact:facebook": "sohoclub.lt",
+    "contact:instagram": "soho_club",
+    "contact:twitter": "soho_club",
+    "email": "info@sohoclub.lt",
+    "internet_access": "no",
+    "lgbtq": "primary",
+    "lgbtq:bisexual": "welcome",
+    "lgbtq:gay": "welcome",
+    "lgbtq:lesbian": "welcome",
+    "lgbtq:men": "welcome",
+    "lgbtq:queer": "welcome",
+    "lgbtq:transgender": "welcome",
+    "lgbtq:women": "welcome",
+    "name": "Soho naktinis klubas",
+    "name:en": "Soho night club",
+    "name:lt": "Soho naktinis klubas",
+    "non_binary": "welcome",
+    "opening_hours": "Fr-Sa 22:00-07:00",
+    "phone": "+370 699 39567",
+    "source:lgbtq": "https://www.sohoclub.lt/",
+    "start_date": "2007",
+    "website": "https://www.sohoclub.lt/",
+    "wheelchair": "yes",
+    "wifi": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1664385134,
+  "lat": 54.6874273,
+  "lon": 25.2769017,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Lithuanian wild",
+    "opening_hours": "Mo-Su 00:00-03:30,19:00-24:00",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2152901489,
+  "lat": 54.6782368,
+  "lon": 25.2881403,
+  "tags": {
+    "addr:city": "Vilnius",
+    "addr:contact": "yes",
+    "addr:housenumber": "28",
+    "addr:postcode": "01128",
+    "addr:street": "Didžioji g.",
+    "amenity": "nightclub",
+    "name": "Salento Disco Pub",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2272699393,
+  "lat": 54.6711758,
+  "lon": 25.2694009,
+  "tags": {
+    "addr:city": "Vilnius",
+    "addr:contact": "yes",
+    "addr:housenumber": "29",
+    "addr:postcode": "03209",
+    "addr:street": "Švitrigailos g.",
+    "amenity": "nightclub",
+    "check_date": "2026-10-03",
+    "name": "Loftas"
+  }
+},
+{
+  "type": "node",
+  "id": 2976898890,
+  "lat": 54.6837076,
+  "lon": 25.2790791,
+  "tags": {
+    "addr:city": "Vilnius",
+    "addr:contact": "yes",
+    "addr:housenumber": "33",
+    "addr:street": "Vilniaus g.",
+    "amenity": "nightclub",
+    "email": "disco311buddha@gmail.com",
+    "name": "Disco 311 Buddha",
+    "phone": "+37068304257",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 3263602157,
+  "lat": 54.6861265,
+  "lon": 25.2750167,
+  "tags": {
+    "addr:city": "Vilnius",
+    "addr:contact": "yes",
+    "addr:housenumber": "8",
+    "addr:street": "A. Stulginskio g.",
+    "amenity": "nightclub",
+    "name": "POSH Cocktail Club",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3269737371,
+  "lat": 54.7261484,
+  "lon": 25.2988111,
+  "tags": {
+    "addr:city": "Vilnius",
+    "addr:contact": "yes",
+    "addr:housenumber": "106D",
+    "addr:street": "Žirmūnų g.",
+    "amenity": "nightclub",
+    "name": "Malibu",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3550489356,
+  "lat": 55.7202653,
+  "lon": 21.1391619,
+  "tags": {
+    "addr:city": "Klaipėda",
+    "addr:contact": "yes",
+    "addr:housenumber": "9",
+    "addr:postcode": "92228",
+    "addr:street": "Priestočio g.",
+    "amenity": "nightclub",
+    "name": "Mix Bar"
+  }
+},
+{
+  "type": "node",
+  "id": 3675095456,
+  "lat": 54.8988734,
+  "lon": 23.8863936,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Taboo",
+    "opening_hours": "Mo-We 11:00-23:00, Th-Sa 11:00-24:00, Su 11:00-22:00",
+    "smoking": "outside",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3735812951,
+  "lat": 54.6939240,
+  "lon": 25.2779134,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date:opening_hours": "2025-01-31",
+    "name": "Eden",
+    "opening_hours": "Mo-Su 21:00-06:00"
+  }
+},
+{
+  "type": "node",
+  "id": 4061889996,
+  "lat": 54.6985079,
+  "lon": 25.2686150,
+  "tags": {
+    "addr:city": "Vilnius",
+    "addr:contact": "yes",
+    "addr:housenumber": "23",
+    "addr:street": "Konstitucijos pr.",
+    "amenity": "nightclub",
+    "check_date": "2024-07-08",
+    "name": "nArauti",
+    "opening_hours": "Mo-Th 7:00-1:30; Fr-Sa 7:00-5:00; Su 7:00-1:30",
+    "phone": "+370 684 59982",
+    "smoking": "outside",
+    "website": "https://narauti.lt/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4068073344,
+  "lat": 54.6820977,
+  "lon": 25.2809537,
+  "tags": {
+    "addr:city": "Vilnius",
+    "addr:contact": "yes",
+    "addr:housenumber": "30",
+    "addr:street": "Vilniaus g.",
+    "amenity": "nightclub",
+    "check_date": "2024-09-18",
+    "email": "info@trinitybar.lt",
+    "facebook": "https://www.facebook.com/TrinityVilnius/",
+    "name": "Trinity",
+    "website": "https://www.trinityvilnius.lt/"
+  }
+},
+{
+  "type": "node",
+  "id": 4107414889,
+  "lat": 54.6799787,
+  "lon": 25.2784347,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Opalocka",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4107442407,
+  "lat": 54.6849846,
+  "lon": 25.2793338,
+  "tags": {
+    "addr:city": "Vilnius",
+    "addr:contact": "yes",
+    "addr:housenumber": "25",
+    "addr:street": "Vilniaus g.",
+    "amenity": "nightclub",
+    "name": "Materialiste",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4140183096,
+  "lat": 54.6842124,
+  "lon": 25.2778599,
+  "tags": {
+    "addr:city": "Vilnius",
+    "addr:contact": "yes",
+    "addr:housenumber": "4",
+    "addr:postcode": "01401",
+    "addr:street": "Islandijos g.",
+    "alt_name": "Opium Club",
+    "amenity": "nightclub",
+    "name": "Opium",
+    "smoking": "outside",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4315004871,
+  "lat": 54.6706262,
+  "lon": 25.2687850,
+  "tags": {
+    "addr:city": "Vilnius",
+    "addr:contact": "yes",
+    "addr:housenumber": "33",
+    "addr:postcode": "03209",
+    "addr:street": "Švitrigailos g.",
+    "amenity": "nightclub",
+    "contact:email": "48cechas@gmail.com",
+    "name": "Red Cat",
+    "opening_hours": "\"Based on events\"",
+    "smoking": "isolated",
+    "website": "http://48cechas.lt"
+  }
+},
+{
+  "type": "node",
+  "id": 4423500052,
+  "lat": 54.6903187,
+  "lon": 25.2746600,
+  "tags": {
+    "addr:city": "Vilnius",
+    "addr:contact": "yes",
+    "addr:housenumber": "4A",
+    "addr:street": "Šermukšnių g.",
+    "amenity": "nightclub",
+    "name": "Havana social club",
+    "website": "http://www.havanasocialclub.lt/"
+  }
+},
+{
+  "type": "node",
+  "id": 4540973989,
+  "lat": 55.7274947,
+  "lon": 24.3604583,
+  "tags": {
+    "addr:city": "Panevėžys",
+    "addr:contact": "yes",
+    "addr:housenumber": "2",
+    "addr:street": "Respublikos g.",
+    "amenity": "nightclub",
+    "name": "Puntukas",
+    "phone": "+370 670 11881"
+  }
+},
+{
+  "type": "node",
+  "id": 4726304080,
+  "lat": 54.6862488,
+  "lon": 25.2751468,
+  "tags": {
+    "addr:city": "Vilnius",
+    "addr:contact": "yes",
+    "addr:housenumber": "8",
+    "addr:street": "A. Stulginskio g.",
+    "amenity": "nightclub",
+    "description": "Pramogų salė",
+    "name": "Vakaris Vilnius",
+    "website": "https://www.vakaris.lt/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4810099522,
+  "lat": 54.6730463,
+  "lon": 25.2776278,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Kablys",
+    "name:lt": "Kablys",
+    "opening_hours": "\"Open only for pre-planned events.\""
+  }
+},
+{
+  "type": "node",
+  "id": 5354917528,
+  "lat": 55.7041999,
+  "lon": 21.1347711,
+  "tags": {
+    "addr:city": "Klaipėda",
+    "addr:contact": "yes",
+    "addr:housenumber": "6",
+    "addr:postcode": "91234",
+    "addr:street": "Pilies g.",
+    "amenity": "nightclub",
+    "name": "Jazzpilis",
+    "opening_hours": "Th 18:00-01:00; Fr-Sa 18:00-04:00",
+    "smoking": "outside",
+    "website": "https://jazzpilis.lt/renginiai/list/"
+  }
+},
+{
+  "type": "node",
+  "id": 5749147829,
+  "lat": 55.7217907,
+  "lon": 24.3301353,
+  "tags": {
+    "addr:city": "Panevėžys",
+    "addr:contact": "yes",
+    "addr:housenumber": "15",
+    "addr:street": "Molainių g.",
+    "amenity": "nightclub",
+    "name": "Naktinis Tbilisis"
+  }
+},
+{
+  "type": "node",
+  "id": 5838830885,
+  "lat": 55.5108017,
+  "lon": 25.5839346,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Naktinis klubas-baras"
+  }
+},
+{
+  "type": "node",
+  "id": 7101063985,
+  "lat": 55.7344052,
+  "lon": 24.3221948,
+  "tags": {
+    "addr:city": "Panevėžys",
+    "addr:contact": "yes",
+    "addr:housenumber": "33",
+    "addr:postcode": "37333",
+    "addr:street": "Dariaus ir Girėno g.",
+    "amenity": "nightclub",
+    "name": "Naktinis Klubas 30"
+  }
+},
+{
+  "type": "node",
+  "id": 7287004848,
+  "lat": 54.6883020,
+  "lon": 25.2788011,
+  "tags": {
+    "addr:city": "Vilnius",
+    "addr:contact": "yes",
+    "addr:housenumber": "4",
+    "addr:postcode": "01102",
+    "addr:street": "J. Lelevelio g.",
+    "air_conditioning": "yes",
+    "amenity": "nightclub",
+    "check_date": "2024-04-19",
+    "level": "-1;1",
+    "name": "Opera CLub",
+    "opening_hours": "24/7",
+    "smoking": "isolated",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 8569856285,
+  "lat": 55.7088845,
+  "lon": 21.1312392,
+  "tags": {
+    "addr:city": "Klaipėda",
+    "addr:housenumber": "10",
+    "addr:street": "Žvejų g.",
+    "amenity": "nightclub",
+    "name": "Crystal Show Club",
+    "website": "https://crystalstripclub.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 9544899025,
+  "lat": 54.5782217,
+  "lon": 23.3754555,
+  "tags": {
+    "addr:city": "Marijampolė",
+    "addr:housenumber": "4",
+    "addr:postcode": "68108",
+    "addr:street": "Statybininkų g.",
+    "amenity": "nightclub",
+    "name": "Nasa Club",
+    "opening_hours": "Fr 23:00-05:00; Sa 23:00-05:00"
+  }
+},
+{
+  "type": "node",
+  "id": 9574213942,
+  "lat": 54.6781689,
+  "lon": 25.2859180,
+  "tags": {
+    "addr:city": "Vilnius",
+    "addr:contact": "yes",
+    "addr:housenumber": "2",
+    "addr:postcode": "01130",
+    "addr:street": "Vokiečių g.",
+    "amenity": "nightclub",
+    "name": "Metelica Naktinis Klubas"
+  }
+},
+{
+  "type": "node",
+  "id": 9574213943,
+  "lat": 54.6763717,
+  "lon": 25.2658117,
+  "tags": {
+    "addr:city": "Vilnius",
+    "addr:contact": "yes",
+    "addr:housenumber": "16I",
+    "addr:postcode": "03111",
+    "addr:street": "T. Ševčenkos g.",
+    "amenity": "nightclub",
+    "name": "Mazzor Night Club"
+  }
+},
+{
+  "type": "node",
+  "id": 9588621766,
+  "lat": 54.8964531,
+  "lon": 23.9205347,
+  "tags": {
+    "addr:city": "Kaunas",
+    "addr:contact": "yes",
+    "addr:housenumber": "12",
+    "addr:street": "Nepriklausomybės a.",
+    "amenity": "nightclub",
+    "internet_access": "no",
+    "min_age": "18",
+    "name": "Lizdas",
+    "opening_hours": "Fr 23:00-24:00; Sa 00:00-07:00,23:15-24:00; Su 00:00-07:00",
+    "payment:coins": "yes",
+    "payment:contactless": "yes",
+    "payment:maestro": "yes",
+    "payment:mastercard": "yes",
+    "payment:notes": "yes",
+    "payment:v_pay": "yes",
+    "payment:visa": "yes",
+    "payment:visa_debit": "yes",
+    "payment:visa_electron": "yes",
+    "smoking": "dedicated",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 9613097948,
+  "lat": 54.6864475,
+  "lon": 25.2759951,
+  "tags": {
+    "addr:city": "Vilnius",
+    "addr:contact": "yes",
+    "addr:housenumber": "5",
+    "addr:postcode": "01115",
+    "addr:street": "A. Smetonos g.",
+    "amenity": "nightclub",
+    "name": "Marushka"
+  }
+},
+{
+  "type": "node",
+  "id": 12015397723,
+  "lat": 54.6824726,
+  "lon": 25.2799004,
+  "tags": {
+    "addr:city": "Vilnius",
+    "addr:contact": "yes",
+    "addr:housenumber": "28",
+    "addr:street": "Vilniaus g.",
+    "amenity": "nightclub",
+    "facebook": "https://www.facebook.com/MojitoNaktysVilnius/",
+    "name": "Mojito Nights",
+    "opening_hours": "Fr-Sa 23:00-08:00"
+  }
+},
+{
+  "type": "node",
+  "id": 12506745939,
+  "lat": 55.3429755,
+  "lon": 21.4616305,
+  "tags": {
+    "addr:city": "Šilutė",
+    "addr:contact": "yes",
+    "addr:housenumber": "7",
+    "addr:postcode": "99132",
+    "addr:street": "Dariaus ir Girėno g.",
+    "amenity": "nightclub",
+    "charge": "5 EUR",
+    "check_date": "2026-04-29",
+    "contact:facebook": "https://www.facebook.com/goldenroon",
+    "drink:cocktail": "yes",
+    "fee": "yes",
+    "level": "1",
+    "min_age": "20",
+    "name": "Honeycomb",
+    "old_name": "Golden Room",
+    "opening_hours": "Fr-Su 23:30-05:00",
+    "payment:cash": "yes",
+    "payment:others": "no",
+    "phone": "+370 639 11028",
+    "smoking": "no",
+    "source:min_age": "LT:alcohol",
+    "violence": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 12793414113,
+  "lat": 55.6833825,
+  "lon": 21.1632604,
+  "tags": {
+    "addr:city": "Klaipėda",
+    "addr:contact": "yes",
+    "addr:housenumber": "81",
+    "addr:postcode": "94114",
+    "addr:street": "Taikos pr.",
+    "amenity": "nightclub",
+    "name": "2 po 50"
+  }
+},
+{
+  "type": "way",
+  "id": 93091664,
+  "center": {
+    "lat": 55.9290345,
+    "lon": 23.3177508
+  },
+  "tags": {
+    "addr:city": "Šiauliai",
+    "addr:housenumber": "27A",
+    "addr:street": "Rūdės g.",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Mega pramogos"
+  }
+},
+{
+  "type": "way",
+  "id": 96193996,
+  "center": {
+    "lat": 55.9179019,
+    "lon": 21.0621231
+  },
+  "tags": {
+    "addr:city": "Palanga",
+    "addr:country": "LT",
+    "addr:housenumber": "16",
+    "addr:postcode": "00135",
+    "addr:street": "J. Basanavičiaus g.",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Laukinių Vakarų salūnas"
+  }
+},
+{
+  "type": "way",
+  "id": 101492592,
+  "center": {
+    "lat": 55.7080096,
+    "lon": 21.1326528
+  },
+  "tags": {
+    "addr:city": "Klaipėda",
+    "addr:housenumber": "1",
+    "addr:postcode": "91247",
+    "addr:street": "Turgaus g.",
+    "amenity": "nightclub",
+    "building": "yes",
+    "check_date": "2024-05-25",
+    "name": "Pramogų bankas",
+    "operator": "Nesė Group",
+    "phone": "+370 700 55 555",
+    "website": "https://www.nesepb.lt/"
+  }
+},
+{
+  "type": "way",
+  "id": 219072470,
+  "center": {
+    "lat": 54.9058677,
+    "lon": 23.9221534
+  },
+  "tags": {
+    "addr:city": "Kaunas",
+    "addr:housenumber": "124",
+    "addr:postcode": "44148",
+    "addr:street": "Savanorių pr.",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Nautilus",
+    "opening_hours": "Mo-Su 22:00-06:00"
+  }
+},
+{
+  "type": "way",
+  "id": 238587547,
+  "center": {
+    "lat": 54.8889128,
+    "lon": 23.9309043
+  },
+  "tags": {
+    "addr:city": "Kaunas",
+    "addr:housenumber": "1",
+    "addr:postcode": "44328",
+    "addr:street": "Girstupio g.",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Lemmy"
+  }
+},
+{
+  "type": "way",
+  "id": 664388818,
+  "center": {
+    "lat": 55.1016714,
+    "lon": 26.0614905
+  },
+  "tags": {
+    "addr:city": "Mėžionys",
+    "addr:housenumber": "2",
+    "addr:postcode": "18120",
+    "addr:street": "Mėžionių g.",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Vizbaro Disco"
+  }
+}
+
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-10-08T23:15:21Z",
+    "timestamp_areas_base": "2026-10-08T05:09:19Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 267059828,
+  "lat": 65.6826659,
+  "lon": -18.0906943,
+  "tags": {
+    "amenity": "nightclub",
+    "min_age": "18",
+    "name": "Vamos",
+    "smoking": "no",
+    "toilets:wheelchair": "no",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 267059950,
+  "lat": 65.6844059,
+  "lon": -18.0911926,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2024-10-08",
+    "name": "Sjallinn",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 322706375,
+  "lat": 63.9479173,
+  "lon": -21.0103776,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Hvítahúsið sportbar",
+    "website": "https://www.hvita.is/"
+  }
+},
+{
+  "type": "node",
+  "id": 1201978379,
+  "lat": 64.1466042,
+  "lon": -21.9306686,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "HAX"
+  }
+},
+{
+  "type": "node",
+  "id": 1207630136,
+  "lat": 64.1478936,
+  "lon": -21.9398432,
+  "tags": {
+    "addr:city": "Reykjavík",
+    "addr:country": "IS",
+    "amenity": "nightclub",
+    "name": "Útópía"
+  }
+},
+{
+  "type": "node",
+  "id": 2906198019,
+  "lat": 64.1485844,
+  "lon": -21.9403003,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Paloma",
+    "website": "https://www.facebook.com/BarPaloma"
+  }
+},
+{
+  "type": "node",
+  "id": 3007770882,
+  "lat": 64.1480913,
+  "lon": -21.9406792,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Exit"
+  }
+},
+{
+  "type": "node",
+  "id": 5133058698,
+  "lat": 64.1449558,
+  "lon": -21.9316947,
+  "tags": {
+    "amenity": "nightclub",
+    "level": "0",
+    "name": "Mengi",
+    "website": "https://mengi.net/"
+  }
+},
+{
+  "type": "node",
+  "id": 7242648951,
+  "lat": 64.1486536,
+  "lon": -21.9402086,
+  "tags": {
+    "amenity": "nightclub",
+    "contact:email": "info@radarclub.is",
+    "contact:facebook": "https://www.facebook.com/radar.reykjavik",
+    "music": "techno",
+    "name": "Radar Reykjavik"
+  }
+},
+{
+  "type": "node",
+  "id": 11166725433,
+  "lat": 64.1469101,
+  "lon": -21.9372464,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Auto",
+    "website": "https://www.autoclub.is/"
+  }
+},
+{
+  "type": "node",
+  "id": 14140683404,
+  "lat": 63.9366858,
+  "lon": -21.0040682,
+  "tags": {
+    "addr:housenumber": "1C",
+    "addr:postcode": "800",
+    "addr:street": "Eyravegur",
+    "amenity": "nightclub",
+    "check_date": "2026-09-01",
+    "email": "svidid@svidid.is",
+    "name": "Sviðið",
+    "website": "https://svidid.is"
+  }
+},
+{
+  "type": "way",
+  "id": 35957083,
+  "center": {
+    "lat": 63.9704414,
+    "lon": -22.5668068
+  },
+  "tags": {
+    "addr:city": "Reykjanesbær",
+    "addr:housenumber": "920",
+    "addr:postcode": "262",
+    "addr:street": "Grænásbraut",
+    "amenity": "nightclub",
+    "building": "commercial",
+    "name": "Top of the Rock",
+    "source": "http://www.asbru.is/resources/Files/asbru_skilti_kort_v6.pdf",
+    "start_date": "1959"
+  }
+},
+{
+  "type": "way",
+  "id": 310265110,
+  "center": {
+    "lat": 63.9335285,
+    "lon": -21.0119677
+  },
+  "tags": {
+    "addr:housenumber": "35",
+    "addr:postcode": "800",
+    "addr:street": "Eyravegur",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Frón",
+    "ref:HNITNUM": "10059281",
+    "source": "Kaart Ground Survey 2017",
+    "source:addr": "Staðfangaskrá",
+    "start_date": "1964"
+  }
+}
+
+  ]
+}
