@@ -1,0 +1,3590 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-10-08T22:56:51Z",
+    "timestamp_areas_base": "2026-10-07T10:19:21Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 321604347,
+  "lat": 38.6891810,
+  "lon": -9.3542902,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Bismark",
+    "website": "http://bismarkbar.no.sapo.pt/"
+  }
+},
+{
+  "type": "node",
+  "id": 452156887,
+  "lat": 39.7489048,
+  "lon": -8.8070101,
+  "tags": {
+    "addr:city": "Leiria",
+    "addr:housenumber": "168",
+    "addr:postcode": "2400",
+    "addr:street": "Rua Capitão Mouzinho de Albuquerque",
+    "amenity": "nightclub",
+    "email": "168@stereogun.com",
+    "name": "Stereogun",
+    "opening_hours": "Fr 23:00-06:00; Sa 23:00-06:00",
+    "website": "https://stereogun.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 698785934,
+  "lat": 41.6255906,
+  "lon": -8.3625470,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2023-05-13",
+    "name": "Discoteca Lagar's"
+  }
+},
+{
+  "type": "node",
+  "id": 877560831,
+  "lat": 39.8418901,
+  "lon": -8.7107456,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Palace Kiay"
+  }
+},
+{
+  "type": "node",
+  "id": 1223740137,
+  "lat": 41.1418192,
+  "lon": -8.6148896,
+  "tags": {
+    "addr:city": "Porto",
+    "addr:country": "PT",
+    "addr:postcode": "4050-252",
+    "addr:street": "Mercado Ferreira Borges",
+    "amenity": "nightclub",
+    "email": "mail@hard-club.com",
+    "name": "Hard Club",
+    "old_name": "Mercado Ferreira Borges",
+    "phone": "+351 707 100021",
+    "website": "https://www.hard-club.com/",
+    "wheelchair": "limited",
+    "wikidata": "Q604296",
+    "wikimedia_commons": "Category:Hard Club (Porto)",
+    "wikipedia": "pt:Hard Club"
+  }
+},
+{
+  "type": "node",
+  "id": 1224611919,
+  "lat": 37.2534972,
+  "lon": -8.2869946,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Lagar",
+    "source": "Survey dcp 29March2011"
+  }
+},
+{
+  "type": "node",
+  "id": 1234666777,
+  "lat": 42.0781149,
+  "lon": -8.4730626,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Oh My God"
+  }
+},
+{
+  "type": "node",
+  "id": 1235996743,
+  "lat": 42.0769660,
+  "lon": -8.4698860,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Chez Manu"
+  }
+},
+{
+  "type": "node",
+  "id": 1235998453,
+  "lat": 42.0608414,
+  "lon": -8.5107517,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Fim do Mundo"
+  }
+},
+{
+  "type": "node",
+  "id": 1238847511,
+  "lat": 40.9340229,
+  "lon": -8.2412593,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "5Club"
+  }
+},
+{
+  "type": "node",
+  "id": 1251618670,
+  "lat": 41.5156754,
+  "lon": -8.7796810,
+  "tags": {
+    "addr:city": "Apúlia e Fão",
+    "addr:street": "Avenida António Veiga",
+    "air_conditioning": "yes",
+    "amenity": "nightclub",
+    "min_age": "18",
+    "name": "Biba Ofir",
+    "opening_hours": "Mo-Su 19:00-06:00",
+    "smoking": "isolated",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1255190865,
+  "lat": 38.0172546,
+  "lon": -7.8594251,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Pandora"
+  }
+},
+{
+  "type": "node",
+  "id": 1302891314,
+  "lat": 38.7059622,
+  "lon": -9.1574585,
+  "tags": {
+    "addr:city": "Lisboa",
+    "addr:housenumber": "68",
+    "addr:postcode": "1200-869",
+    "addr:street": "Avenida 24 de Julho",
+    "alt_name": "Mome Losbon; Mome Dance club & nightclub",
+    "amenity": "nightclub",
+    "facebook": "https://www.facebook.com/momelisbon/",
+    "name": "Mome",
+    "phone": "+351 21 151 0734",
+    "website": "https://www.momelisbon.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 1302891328,
+  "lat": 38.7062335,
+  "lon": -9.1573954,
+  "tags": {
+    "addr:city": "Lisboa",
+    "addr:housenumber": "5",
+    "addr:postcode": "1200",
+    "addr:street": "Escadinhas da Praia",
+    "amenity": "nightclub",
+    "name": "Kremlin",
+    "opening_hours": "Fr-Sa 00:30-07:30",
+    "phone": "+351 21 395 71 01",
+    "website": "https://www.grupo-k.pt/"
+  }
+},
+{
+  "type": "node",
+  "id": 1369504696,
+  "lat": 41.3797595,
+  "lon": -8.3182830,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Eskada",
+    "smoking": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1395821987,
+  "lat": 39.4183426,
+  "lon": -9.2034423,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Solar da Paz"
+  }
+},
+{
+  "type": "node",
+  "id": 1545193311,
+  "lat": 37.7260615,
+  "lon": -8.7845932,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2025-02-10",
+    "name": "Discoteca Sudwest"
+  }
+},
+{
+  "type": "node",
+  "id": 1578861559,
+  "lat": 41.3792629,
+  "lon": -8.7681841,
+  "tags": {
+    "addr:city": "Póvoa de Varzim",
+    "addr:postcode": "4490-595",
+    "addr:street": "Largo do Passeio Alegre",
+    "air_conditioning": "yes",
+    "amenity": "nightclub",
+    "min_age": "18",
+    "name": "Medusa Beach Club",
+    "opening_hours": "Sa 23:30-6:00",
+    "phone": "+351 910 271 783",
+    "smoking": "isolated",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1696148213,
+  "lat": 40.2875106,
+  "lon": -7.5091089,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Kompanhia"
+  }
+},
+{
+  "type": "node",
+  "id": 1749726052,
+  "lat": 38.4432537,
+  "lon": -9.1040949,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Imperial",
+    "smoking": "separated"
+  }
+},
+{
+  "type": "node",
+  "id": 1765625679,
+  "lat": 32.6436148,
+  "lon": -16.9153028,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Marginal"
+  }
+},
+{
+  "type": "node",
+  "id": 1768812440,
+  "lat": 32.7221659,
+  "lon": -16.7675331,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "MUST",
+    "note": "Encerramento Semanal 4ª Feira",
+    "opening_hours": "22:00 - 2:00"
+  }
+},
+{
+  "type": "node",
+  "id": 1770908658,
+  "lat": 32.6438125,
+  "lon": -16.9150903,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Jam"
+  }
+},
+{
+  "type": "node",
+  "id": 1770908673,
+  "lat": 32.6439016,
+  "lon": -16.9149925,
+  "tags": {
+    "amenity": "nightclub",
+    "contact:facebook": "https://www.facebook.com/VespasClub/",
+    "contact:instagram": "https://www.instagram.com/vespasclub/",
+    "contact:phone": "+351 291 234 800",
+    "email": "vespasclubmadeira@gmail.com",
+    "fee": "yes",
+    "name": "Vespas",
+    "opening_hours": "Fr,Sa 00:00-06:00",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1776180045,
+  "lat": 32.7176835,
+  "lon": -16.7655812,
+  "tags": {
+    "amenity": "nightclub",
+    "email": "luismvj@sapo.pt",
+    "name": "La Barca",
+    "phone": "+351 968 073 991",
+    "smoking": "yes",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1799449306,
+  "lat": 40.6398009,
+  "lon": -8.6584315,
+  "tags": {
+    "amenity": "nightclub",
+    "description": "Bar",
+    "name": "Sal"
+  }
+},
+{
+  "type": "node",
+  "id": 1922255866,
+  "lat": 38.8237748,
+  "lon": -9.4671825,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Concha"
+  }
+},
+{
+  "type": "node",
+  "id": 1932443744,
+  "lat": 38.7058547,
+  "lon": -9.3853543,
+  "tags": {
+    "addr:city": "Estoril",
+    "addr:housenumber": "Lt 24",
+    "addr:postcode": "2775-305",
+    "addr:street": "Rua Bartolomeu de Gusmão",
+    "amenity": "nightclub",
+    "name": "Discoteca Rasputine",
+    "phone": "+351 21 467 1253"
+  }
+},
+{
+  "type": "node",
+  "id": 2065122422,
+  "lat": 41.0650451,
+  "lon": -8.5706452,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Feira Belha"
+  }
+},
+{
+  "type": "node",
+  "id": 2113482038,
+  "lat": 38.6569903,
+  "lon": -27.2348985,
+  "tags": {
+    "addr:housename": "Twins Club",
+    "amenity": "nightclub",
+    "name": "Twins Club",
+    "opening_hours": "Fr,Sa 00:00-06:00"
+  }
+},
+{
+  "type": "node",
+  "id": 2125052508,
+  "lat": 39.7925279,
+  "lon": -8.9253854,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Império Romano"
+  }
+},
+{
+  "type": "node",
+  "id": 2134840593,
+  "lat": 39.6021647,
+  "lon": -9.0739373,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Blá Blá "
+  }
+},
+{
+  "type": "node",
+  "id": 2135947858,
+  "lat": 37.0742842,
+  "lon": -8.1214055,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Seven Vilamoura"
+  }
+},
+{
+  "type": "node",
+  "id": 2166978805,
+  "lat": 38.6989960,
+  "lon": -9.4216455,
+  "tags": {
+    "addr:housenumber": "9",
+    "addr:postcode": "2750",
+    "addr:street": "Travessa da Alfarrobeira",
+    "amenity": "nightclub",
+    "name": "Taj Club Cascais",
+    "phone": "+351 967 065 121",
+    "website": "https://www.facebook.com/TajClubCascais"
+  }
+},
+{
+  "type": "node",
+  "id": 2182197273,
+  "lat": 41.6928634,
+  "lon": -8.8481822,
+  "tags": {
+    "amenity": "nightclub",
+    "entertainment": "nightclub",
+    "name": "Fiori Spot",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2194972143,
+  "lat": 41.5528126,
+  "lon": -8.4285773,
+  "tags": {
+    "addr:city": "Braga",
+    "addr:housenumber": "115",
+    "addr:postcode": "4700-312",
+    "addr:street": "Praça Conde Agrolongo",
+    "amenity": "nightclub",
+    "contact:email": "lustrerf@gmail.com",
+    "name": "Lustre",
+    "opening_hours": "Sexta, Sábado, véspera de feriado 23:30-06:00",
+    "phone": "+351 925 210 557",
+    "smoking": "isolated"
+  }
+},
+{
+  "type": "node",
+  "id": 2197470604,
+  "lat": 41.1714909,
+  "lon": -7.0542167,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Discoteca Olimpica"
+  }
+},
+{
+  "type": "node",
+  "id": 2204179798,
+  "lat": 41.1471145,
+  "lon": -8.6081509,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Pitch Club"
+  }
+},
+{
+  "type": "node",
+  "id": 2204179845,
+  "lat": 41.1459986,
+  "lon": -8.6095900,
+  "tags": {
+    "addr:city": "Porto",
+    "addr:country": "PT",
+    "addr:housename": "Estação de São Bento",
+    "addr:street": "Rua da Madeira",
+    "amenity": "nightclub",
+    "name": "Gare Club",
+    "website": "https://shotgun.live/en/venues/gare-porto"
+  }
+},
+{
+  "type": "node",
+  "id": 2218560188,
+  "lat": 40.1521188,
+  "lon": -8.8659438,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Bergantim",
+    "wifi": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2218673257,
+  "lat": 40.1688989,
+  "lon": -8.8512722,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Discoteca Psidónio"
+  }
+},
+{
+  "type": "node",
+  "id": 2313056110,
+  "lat": 40.8489372,
+  "lon": -8.3938043,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Malibu"
+  }
+},
+{
+  "type": "node",
+  "id": 2332756762,
+  "lat": 41.0398323,
+  "lon": -8.2706022,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Canastro"
+  }
+},
+{
+  "type": "node",
+  "id": 2501836316,
+  "lat": 38.7147899,
+  "lon": -9.1498756,
+  "tags": {
+    "addr:city": "Lisboa",
+    "addr:housenumber": "38",
+    "addr:postcode": "1200-313",
+    "addr:street": "Rua da Palmeira",
+    "amenity": "nightclub",
+    "name": "Finalmente Clube",
+    "phone": "+351 213 479 923",
+    "website": "https://www.finalmenteclub.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 2504936274,
+  "lat": 38.7054835,
+  "lon": -9.1473475,
+  "tags": {
+    "addr:city": "Lisboa",
+    "addr:housenumber": "1",
+    "addr:street": "Cais do Gás",
+    "amenity": "nightclub",
+    "name": "B'leza"
+  }
+},
+{
+  "type": "node",
+  "id": 2507387707,
+  "lat": 41.4069528,
+  "lon": -7.4531319,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Titanic"
+  }
+},
+{
+  "type": "node",
+  "id": 2507421217,
+  "lat": 38.7181837,
+  "lon": -9.1446717,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Fontória"
+  }
+},
+{
+  "type": "node",
+  "id": 2507429686,
+  "lat": 38.7274057,
+  "lon": -9.1457673,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Tamila Clube"
+  }
+},
+{
+  "type": "node",
+  "id": 2507444526,
+  "lat": 38.7289341,
+  "lon": -9.1467392,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Black Tie Club"
+  }
+},
+{
+  "type": "node",
+  "id": 2507444530,
+  "lat": 38.7275154,
+  "lon": -9.1455965,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Boîte Gallery"
+  }
+},
+{
+  "type": "node",
+  "id": 2507450821,
+  "lat": 38.7426079,
+  "lon": -9.1429188,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Passerelle"
+  }
+},
+{
+  "type": "node",
+  "id": 2607963678,
+  "lat": 38.7071669,
+  "lon": -9.1434342,
+  "tags": {
+    "addr:city": "Lisboa",
+    "addr:housename": "Musicbox",
+    "addr:housenumber": "24",
+    "addr:postcode": "1249-002",
+    "addr:street": "Rua Nova do Carvalho",
+    "amenity": "nightclub",
+    "name": "Musicbox",
+    "note": "Actually under the bridge, but moved slightly for readability",
+    "phone": "+351 213 473188",
+    "website": "https://www.musicboxlisboa.com"
+  }
+},
+{
+  "type": "node",
+  "id": 2616002805,
+  "lat": 41.1472434,
+  "lon": -8.6142385,
+  "tags": {
+    "addr:city": "Porto",
+    "addr:country": "PT",
+    "addr:housenumber": "80",
+    "addr:postcode": "4050-284",
+    "addr:street": "Rua Galeria de Paris",
+    "alt_name": "More Club Porto; More Dance club & nightclub",
+    "amenity": "nightclub",
+    "name": "More Club",
+    "phone": "+351 22 202 2389",
+    "website": "https://www.facebook.com/MoreClubPorto"
+  }
+},
+{
+  "type": "node",
+  "id": 2714314190,
+  "lat": 41.3100442,
+  "lon": -7.1643835,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Sol da Noite"
+  }
+},
+{
+  "type": "node",
+  "id": 2728585682,
+  "lat": 37.7413906,
+  "lon": -25.6680081,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Karma Privé"
+  }
+},
+{
+  "type": "node",
+  "id": 2740051323,
+  "lat": 40.2116490,
+  "lon": -8.4234950,
+  "tags": {
+    "addr:city": "Coimbra",
+    "addr:housenumber": "33",
+    "addr:postcode": "3000-351",
+    "addr:street": "Avenida Sá da Bandeira",
+    "amenity": "nightclub",
+    "contact:facebook": "LIT-Coimbra-101708962367471",
+    "contact:instagram": "lit.coimbra",
+    "level": "0",
+    "name": "Lit Coimbra",
+    "opening_hours": "Th,Sa 22:00-06:00",
+    "website": "https://litcoimbra.pt/"
+  }
+},
+{
+  "type": "node",
+  "id": 2768222099,
+  "lat": 41.3281117,
+  "lon": -8.4978023,
+  "tags": {
+    "addr:housenumber": "229",
+    "addr:postcode": "4780-222",
+    "addr:street": "Rua de Santo André",
+    "amenity": "nightclub",
+    "name": "Pedra do Couto"
+  }
+},
+{
+  "type": "node",
+  "id": 2773799203,
+  "lat": 32.6432591,
+  "lon": -16.9219616,
+  "tags": {
+    "addr:city": "Funchal",
+    "addr:housenumber": "7",
+    "addr:postcode": "9000-021",
+    "addr:street": "Rua do Favilla",
+    "amenity": "nightclub",
+    "capacity": "199",
+    "contact:instagram": "boatediscoclub",
+    "contact:mobile": "+351 914 758 975",
+    "dog": "no",
+    "min_age": "18",
+    "name": "Böate Disco Club",
+    "opening_hours": "Fr,Sa,PH -1 day 23:30-05:00",
+    "operator": "Grupo Café do Teatro",
+    "operator:website": "https://www.grupocafedoteatro.com",
+    "reservation": "yes",
+    "smoking": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2775877035,
+  "lat": 41.1333705,
+  "lon": -8.5435757,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "5ª Dimensão"
+  }
+},
+{
+  "type": "node",
+  "id": 2780955187,
+  "lat": 41.3233813,
+  "lon": -8.1419881,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Hôtel musique boutique"
+  }
+},
+{
+  "type": "node",
+  "id": 2808848808,
+  "lat": 40.6420659,
+  "lon": -8.6492506,
+  "tags": {
+    "addr:city": "Aveiro",
+    "addr:housenumber": "4",
+    "addr:postcode": "3800-223",
+    "addr:street": "Praça do Mercado",
+    "amenity": "nightclub",
+    "check_date": "2024-03-09",
+    "name": "Maravilhas Café",
+    "opening_hours": "Mo-Su 09:00-03:00",
+    "outdoor_seating": "yes",
+    "phone": "+351 234 351 502"
+  }
+},
+{
+  "type": "node",
+  "id": 2832886133,
+  "lat": 40.2082389,
+  "lon": -8.4181782,
+  "tags": {
+    "addr:city": "Coimbra",
+    "addr:housenumber": "9",
+    "addr:postcode": "3000-021",
+    "addr:street": "Rua Almeida Garrett",
+    "amenity": "nightclub",
+    "name": "Noites Longas",
+    "opening_hours": "Mo-Sa 23:45-06:00",
+    "phone": "+351 936 034342"
+  }
+},
+{
+  "type": "node",
+  "id": 2838822701,
+  "lat": 40.2943891,
+  "lon": -8.7104729,
+  "tags": {
+    "addr:city": "Bunhosa - Arazede",
+    "addr:postcode": "3140-028",
+    "amenity": "nightclub",
+    "name": "Malibu Disco Club",
+    "phone": "+351 919 448 237"
+  }
+},
+{
+  "type": "node",
+  "id": 2852010076,
+  "lat": 39.5662477,
+  "lon": -8.9917085,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Discoteca Sunset"
+  }
+},
+{
+  "type": "node",
+  "id": 2910988782,
+  "lat": 41.6113587,
+  "lon": -8.4506838,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Moínho Club"
+  }
+},
+{
+  "type": "node",
+  "id": 2956015354,
+  "lat": 41.3800153,
+  "lon": -8.4692545,
+  "tags": {
+    "addr:housenumber": "157",
+    "addr:street": "Rua do Fiadeiro",
+    "amenity": "nightclub",
+    "name": "Doop Club",
+    "phone": "+351914370856"
+  }
+},
+{
+  "type": "node",
+  "id": 2970816132,
+  "lat": 39.4189297,
+  "lon": -9.1357688,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Danceteria Aviário"
+  }
+},
+{
+  "type": "node",
+  "id": 3088350163,
+  "lat": 41.5955660,
+  "lon": -8.5232354,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Cervannis"
+  }
+},
+{
+  "type": "node",
+  "id": 3130971512,
+  "lat": 41.5374091,
+  "lon": -6.9596692,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Model's Café",
+    "smoking": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3164961286,
+  "lat": 38.1756651,
+  "lon": -8.5652742,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Wild-West"
+  }
+},
+{
+  "type": "node",
+  "id": 3232312707,
+  "lat": 38.7063538,
+  "lon": -9.1574334,
+  "tags": {
+    "addr:housenumber": "7",
+    "addr:postcode": "1200-769",
+    "addr:street": "Escadinhas da Praia",
+    "amenity": "nightclub",
+    "contact:facebook": "share/1DD667Q771",
+    "contact:instagram": "plateau.lisbonclub",
+    "email": "plateau.lisbonclub@gmail.com",
+    "name": "Plateau disco",
+    "opening_hours": "We 23:00-06:00; Fr-Sa 23:59-06:00",
+    "phone": "+351 911 126 402;+351 213 902 169",
+    "website": "https://www.plateaulisbonclub.pt"
+  }
+},
+{
+  "type": "node",
+  "id": 3232930891,
+  "lat": 39.7441313,
+  "lon": -8.8063191,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Glam"
+  }
+},
+{
+  "type": "node",
+  "id": 3235957848,
+  "lat": 38.7052034,
+  "lon": -9.1446076,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Station"
+  }
+},
+{
+  "type": "node",
+  "id": 3329841334,
+  "lat": 41.6817847,
+  "lon": -8.8077978,
+  "tags": {
+    "amenity": "nightclub",
+    "fixme": "still here?",
+    "name": "Club Postilhão"
+  }
+},
+{
+  "type": "node",
+  "id": 3396748493,
+  "lat": 41.6732915,
+  "lon": -8.7812389,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Moon Light"
+  }
+},
+{
+  "type": "node",
+  "id": 3416772945,
+  "lat": 41.5115384,
+  "lon": -7.1795408,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Divinus Club"
+  }
+},
+{
+  "type": "node",
+  "id": 3471008355,
+  "lat": 37.0758032,
+  "lon": -8.1160575,
+  "tags": {
+    "adult": "yes",
+    "amenity": "nightclub",
+    "name": "Korpus Gentleman's Club"
+  }
+},
+{
+  "type": "node",
+  "id": 3509349153,
+  "lat": 38.7113833,
+  "lon": -9.1427573,
+  "tags": {
+    "addr:city": "Lisboa",
+    "addr:housenumber": "14",
+    "addr:postcode": "1249",
+    "addr:street": "Rua da Misericórdia",
+    "amenity": "nightclub",
+    "name": "Silk Club",
+    "opening_hours": "Tu-Th 19:00-02:00; Fr-Sa 19:00-04:00",
+    "phone": "+351 913 009193",
+    "website": "https://www.silk-club.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 3509402693,
+  "lat": 41.1591887,
+  "lon": -8.6834376,
+  "tags": {
+    "addr:city": "Porto",
+    "addr:housenumber": "835/843",
+    "addr:postcode": "4150-154",
+    "addr:street": "Avenida do Brasil",
+    "amenity": "nightclub",
+    "name": "Indústria Club",
+    "opening_hours": "Th-Sa 00:00-06:00",
+    "phone": "+351 220 962 935",
+    "website": "https://www.industria-club.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 3529435742,
+  "lat": 38.6307430,
+  "lon": -9.1404607,
+  "tags": {
+    "addr:housenumber": "20",
+    "addr:street": "Rua Manuel Ribeiro",
+    "amenity": "nightclub",
+    "name": "Ondeando",
+    "opening_hours": "Th-Su 23:30-06:00",
+    "phone": "+351 212 905 499",
+    "website": "http://www.ondeando.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 3529446167,
+  "lat": 38.6308205,
+  "lon": -9.1406190,
+  "tags": {
+    "addr:housenumber": "22",
+    "addr:street": "Rua Manuel Ribeiro",
+    "amenity": "nightclub",
+    "name": "Jukebox Club",
+    "opening_hours": "Th-Sa 20:30-06:00",
+    "phone": "+351 938 665 566",
+    "website": "http://www.jukeboxclub.pt/"
+  }
+},
+{
+  "type": "node",
+  "id": 3530687934,
+  "lat": 38.6769113,
+  "lon": -9.1614696,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2024-06-10",
+    "name": "Margem Sul Bar",
+    "opening_hours": "Fr-Sa 22:00-04:00"
+  }
+},
+{
+  "type": "node",
+  "id": 3539431744,
+  "lat": 40.6339690,
+  "lon": -8.6368991,
+  "tags": {
+    "addr:city": "Aveiro",
+    "addr:postcode": "3810-167",
+    "addr:street": "Rua Santa Rita",
+    "amenity": "nightclub",
+    "name": "Ria Dreams",
+    "opening_hours": "Fr-Sa 23:00-06:00"
+  }
+},
+{
+  "type": "node",
+  "id": 3541990105,
+  "lat": 40.3421223,
+  "lon": -8.7492942,
+  "tags": {
+    "addr:city": "Caniceira",
+    "addr:postcode": "3060-590",
+    "addr:street": "Avenida Defensores do Pinhal Novo",
+    "amenity": "nightclub",
+    "name": "BOXX"
+  }
+},
+{
+  "type": "node",
+  "id": 3542030850,
+  "lat": 40.0932709,
+  "lon": -8.3314794,
+  "tags": {
+    "addr:city": "Miranda do Corvo",
+    "addr:postcode": "3220",
+    "addr:street": "Rua Dom Afonso Henriques",
+    "amenity": "nightclub",
+    "name": "Discoteca Teia",
+    "opening_hours": "Fr-Sa 23:00-06:00; Su 16:00-20:00",
+    "phone": "+351 913 029 914"
+  }
+},
+{
+  "type": "node",
+  "id": 3548664803,
+  "lat": 41.5392259,
+  "lon": -6.9597862,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Pharmácia",
+    "smoking": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3584605826,
+  "lat": 41.1560741,
+  "lon": -8.6025413,
+  "tags": {
+    "addr:city": "Porto",
+    "addr:country": "PT",
+    "addr:housenumber": "611",
+    "addr:postcode": "4000-046",
+    "addr:street": "Rua da Alegria",
+    "amenity": "nightclub",
+    "name": "Eskada Porto",
+    "phone": "+351 916 676729"
+  }
+},
+{
+  "type": "node",
+  "id": 3616447571,
+  "lat": 41.1491824,
+  "lon": -8.6723202,
+  "tags": {
+    "addr:city": "Porto",
+    "addr:country": "PT",
+    "addr:housenumber": "1000",
+    "addr:postcode": "4150-574",
+    "addr:street": "Rua do Passeio Alegre",
+    "amenity": "nightclub",
+    "name": "Crystal Club",
+    "opening_hours": "Tu-We 12:30-15:00, 20:00-00:00; Th-Fr 12:30-15:00, 20:00-04:00; Sa 20:00-04:00",
+    "website": "http://www.crystalclub.pt/"
+  }
+},
+{
+  "type": "node",
+  "id": 3618613014,
+  "lat": 41.2336822,
+  "lon": -8.6256507,
+  "tags": {
+    "addr:city": "Maia",
+    "addr:housenumber": "135",
+    "addr:postcode": "4470-214",
+    "addr:street": "Rua de Simão Bolívar",
+    "amenity": "nightclub",
+    "name": "New Caffe Gin Club",
+    "opening_hours": "We-Sa 22:00-04:00; Su 21:00-02:00",
+    "phone": "+351 914 911 214"
+  }
+},
+{
+  "type": "node",
+  "id": 3677265367,
+  "lat": 41.8783367,
+  "lon": -8.8381223,
+  "tags": {
+    "addr:city": "Caminha",
+    "addr:housenumber": "162",
+    "addr:street": "Rua Ricardo Joaquim de Sousa",
+    "amenity": "nightclub",
+    "contact:facebook": "https://www.facebook.com/clubalfandega",
+    "contact:phone": "+351 961935297",
+    "name": "Club Alfândega"
+  }
+},
+{
+  "type": "node",
+  "id": 3744268625,
+  "lat": 41.0110009,
+  "lon": -8.6450066,
+  "tags": {
+    "addr:city": "Espinho",
+    "addr:housenumber": "278",
+    "addr:postcode": "4500-198",
+    "addr:street": "Rua 6",
+    "amenity": "nightclub",
+    "name": "Vintage4500",
+    "opening_hours": "Fr-Sa 23:45-06:00"
+  }
+},
+{
+  "type": "node",
+  "id": 3750034937,
+  "lat": 40.3663671,
+  "lon": -7.8800815,
+  "tags": {
+    "addr:city": "Oliveira do Hospital",
+    "addr:postcode": "3405-002",
+    "addr:street": "Pinheiro dos Abraços – Bobadela",
+    "amenity": "nightclub",
+    "name": "Espiritos Club",
+    "opening_hours": "Sa-Su 23:30-07:00",
+    "phone": "+351 964 253 319",
+    "website": "http://www.espiritosclub.com"
+  }
+},
+{
+  "type": "node",
+  "id": 3814277801,
+  "lat": 41.0024372,
+  "lon": -8.5442817,
+  "tags": {
+    "addr:street": "Rua Central",
+    "amenity": "nightclub",
+    "name": "FIGA Club",
+    "opening_hours": "Fr-Sa 00:00-06:00",
+    "phone": "+351 910 439 863"
+  }
+},
+{
+  "type": "node",
+  "id": 3814298428,
+  "lat": 40.5619682,
+  "lon": -8.4576080,
+  "tags": {
+    "addr:city": "Águeda",
+    "addr:housenumber": "31",
+    "addr:postcode": "3750",
+    "addr:street": "Rua de São João",
+    "amenity": "nightclub",
+    "name": "Amazing Club",
+    "opening_hours": "Fr-Su 22:00-04:00"
+  }
+},
+{
+  "type": "node",
+  "id": 3841261501,
+  "lat": 32.6440301,
+  "lon": -16.9160018,
+  "tags": {
+    "addr:city": "Funchal",
+    "addr:floor": "-1",
+    "amenity": "nightclub",
+    "fee": "yes",
+    "level": "-1",
+    "loc_name": "Copa",
+    "min_age": "18",
+    "name": "Copacabana",
+    "payment:cash": "yes",
+    "payment:coins": "yes",
+    "payment:contactless": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "smoking": "outside",
+    "toilets": "yes",
+    "toilets:access": "customers",
+    "toilets:disposal": "flush",
+    "toilets:fee": "no",
+    "toilets:gender_segregated": "yes",
+    "toilets:handwashing": "yes",
+    "toilets:position": "seated;urinal"
+  }
+},
+{
+  "type": "node",
+  "id": 3841347522,
+  "lat": 32.7439518,
+  "lon": -16.7247267,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Traquinas"
+  }
+},
+{
+  "type": "node",
+  "id": 3869862154,
+  "lat": 40.6574970,
+  "lon": -7.9147416,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "NB Club"
+  }
+},
+{
+  "type": "node",
+  "id": 3876693704,
+  "lat": 41.3986717,
+  "lon": -8.6840780,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Club 80"
+  }
+},
+{
+  "type": "node",
+  "id": 3893632341,
+  "lat": 40.2421130,
+  "lon": -8.4410010,
+  "tags": {
+    "amenity": "nightclub",
+    "contact:facebook": "sala8events",
+    "contact:instagram": "sala8_coimbra",
+    "live_music": "yes",
+    "name": "Sala 8",
+    "start_date": "2021-11-13"
+  }
+},
+{
+  "type": "node",
+  "id": 3898882054,
+  "lat": 32.6480708,
+  "lon": -16.8590738,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Babel Diskool"
+  }
+},
+{
+  "type": "node",
+  "id": 3974402415,
+  "lat": 40.1719387,
+  "lon": -8.6781325,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Queens Club",
+    "opening_hours": "Sa-Su 12:00-06:00",
+    "phone": "+351 915 234 832",
+    "website": "http://www.queens-club.pt"
+  }
+},
+{
+  "type": "node",
+  "id": 3982179114,
+  "lat": 41.3158460,
+  "lon": -8.1438544,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Giannini"
+  }
+},
+{
+  "type": "node",
+  "id": 4012919631,
+  "lat": 40.7038395,
+  "lon": -8.4958805,
+  "tags": {
+    "addr:city": "Albergaria-a-Velha",
+    "addr:postcode": "3850-184",
+    "amenity": "nightclub",
+    "email": "geralprestige@hotmail.com",
+    "name": "Prestige",
+    "opening_hours": "Fr-Sa 00:45-07:00",
+    "phone": "+351 912 389 171"
+  }
+},
+{
+  "type": "node",
+  "id": 4020781490,
+  "lat": 41.2539593,
+  "lon": -8.6406437,
+  "tags": {
+    "addr:city": "Maia",
+    "addr:housenumber": "383",
+    "addr:postcode": "4470-034",
+    "addr:street": "Rua Albino José Domingues",
+    "amenity": "nightclub",
+    "name": "Seven Club"
+  }
+},
+{
+  "type": "node",
+  "id": 4025715265,
+  "lat": 41.8080581,
+  "lon": -6.7579226,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "InClub"
+  }
+},
+{
+  "type": "node",
+  "id": 4103060150,
+  "lat": 41.1306083,
+  "lon": -8.6683975,
+  "tags": {
+    "addr:city": "Vila Nova de Gaia",
+    "addr:housenumber": "60",
+    "addr:postcode": "4400-044",
+    "addr:street": "Rua da Bélgica",
+    "amenity": "nightclub",
+    "email": "clubchampagnediscoteca@gmail.com",
+    "name": "Club Champagne",
+    "opening_hours": "Fr-Sa 23:00-04:00",
+    "phone": "+351 919 998 900"
+  }
+},
+{
+  "type": "node",
+  "id": 4103630293,
+  "lat": 41.2336201,
+  "lon": -8.5361576,
+  "tags": {
+    "addr:city": "Alfena",
+    "addr:housenumber": "376",
+    "addr:postcode": "4445-051",
+    "addr:street": "Rua das Passarias",
+    "amenity": "nightclub",
+    "email": "geral@sindicatoclub.com",
+    "name": "Sindicato Club",
+    "opening_hours": "Sa 23:45-06:00",
+    "phone": "+351 229 672 158",
+    "website": "http://www.sindicatoclub.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 4108065155,
+  "lat": 38.6467053,
+  "lon": -9.1604008,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Coiote"
+  }
+},
+{
+  "type": "node",
+  "id": 4241515756,
+  "lat": 40.4815643,
+  "lon": -8.0913030,
+  "tags": {
+    "addr:street": "EN 2",
+    "amenity": "nightclub",
+    "email": "kimikaloungebar@gmail.com",
+    "facebook": "https://www.facebook.com/kimikaloungetondela/",
+    "name": "KimiKa Klub",
+    "opening_hours": "Fr-Sa 23:45-06:00"
+  }
+},
+{
+  "type": "node",
+  "id": 4253056289,
+  "lat": 39.2286207,
+  "lon": -8.6890153,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "FRA Club"
+  }
+},
+{
+  "type": "node",
+  "id": 4283440571,
+  "lat": 41.8049654,
+  "lon": -6.7603536,
+  "tags": {
+    "addr:city": "Bragança",
+    "addr:street": "Avenida Sá Carneiro",
+    "amenity": "nightclub",
+    "name": "Under",
+    "smoking": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4479268961,
+  "lat": 40.1469276,
+  "lon": -8.4622017,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "4Ever Club",
+    "opening_hours": "Fr-Sa 23:30-04:00",
+    "phone": "+351 914 340 273"
+  }
+},
+{
+  "type": "node",
+  "id": 4554247076,
+  "lat": 41.1414395,
+  "lon": -8.6138763,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Real Feitorya"
+  }
+},
+{
+  "type": "node",
+  "id": 4554590988,
+  "lat": 41.1423566,
+  "lon": -8.6078912,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Hot Five Jazz & Blues Club",
+    "opening_hours": "Th-Su 21:30-02:30",
+    "website": "https://hotfive.pt/"
+  }
+},
+{
+  "type": "node",
+  "id": 4572156129,
+  "lat": 40.1103020,
+  "lon": -8.2470355,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "NYX"
+  }
+},
+{
+  "type": "node",
+  "id": 4592674991,
+  "lat": 38.7694137,
+  "lon": -9.2957854,
+  "tags": {
+    "addr:city": "Agualva e Mira-Sintra",
+    "addr:postcode": "2735-435",
+    "amenity": "nightclub",
+    "name": "Kwaz Bar"
+  }
+},
+{
+  "type": "node",
+  "id": 4692271836,
+  "lat": 38.7147589,
+  "lon": -9.1539677,
+  "tags": {
+    "addr:city": "Lisboa",
+    "addr:housenumber": "151",
+    "addr:street": "Rua de São Bento",
+    "amenity": "nightclub",
+    "lgbtq": "primary",
+    "name": "Posh Club Lisbon",
+    "opening_hours": "Mo-Su 20:00-04:00"
+  }
+},
+{
+  "type": "node",
+  "id": 4702114064,
+  "lat": 38.7181486,
+  "lon": -9.1456468,
+  "tags": {
+    "amenity": "nightclub",
+    "live_music": "yes",
+    "music": "jazz",
+    "name": "Hot Club Portugal",
+    "name:pt": "Hot Clube de Portugal",
+    "website": "https://www.hcp.pt/",
+    "wikidata": "Q1343207",
+    "wikimedia_commons": "Category:Hot Clube de Portugal",
+    "wikipedia": "en:Hot Club of Portugal"
+  }
+},
+{
+  "type": "node",
+  "id": 4925132156,
+  "lat": 41.1450808,
+  "lon": -8.6080750,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Top Ten",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5039526502,
+  "lat": 38.7508929,
+  "lon": -8.9676582,
+  "tags": {
+    "addr:city": "Alcochete",
+    "addr:postcode": "2890-014",
+    "addr:street": "Avenida Dom Manuel I",
+    "amenity": "nightclub",
+    "club": "yes",
+    "contact:facebook": "https://www.facebook.com/ClubeNauticoAlfoz",
+    "email": "reservas@alfoz.pt",
+    "name": "Clube Náutico AlFoz",
+    "opening_hours": "Mo 00:00-01:00,09:00-20:00; Tu,We 09:00-20:00; Th 08:45-24:00; Fr-Su 00:00-01:00,08:45-24:00",
+    "phone": "+351 21 2341179",
+    "website": "http://www.clubenauticoalfoz.pt/"
+  }
+},
+{
+  "type": "node",
+  "id": 5103723582,
+  "lat": 38.7059487,
+  "lon": -9.1499859,
+  "tags": {
+    "addr:city": "Lisboa",
+    "addr:postcode": "1200-109",
+    "addr:street": "Rua da Cintura do Porto de Lisboa",
+    "amenity": "nightclub",
+    "name": "Lust in Rio"
+  }
+},
+{
+  "type": "node",
+  "id": 5108117084,
+  "lat": 37.1190937,
+  "lon": -8.5371833,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Villa Mariazinha",
+    "name:pt": "Villa Mariazinha"
+  }
+},
+{
+  "type": "node",
+  "id": 5108120422,
+  "lat": 37.1184220,
+  "lon": -8.5345693,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Oceans Club",
+    "name:pt": "Oceans Club"
+  }
+},
+{
+  "type": "node",
+  "id": 5108137956,
+  "lat": 37.1190106,
+  "lon": -8.5393436,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2023-07-22",
+    "name": "Oceans Club",
+    "name:pt": "Oceans Club",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5125039210,
+  "lat": 37.3150961,
+  "lon": -8.3222133,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Gasolinas Dancing"
+  }
+},
+{
+  "type": "node",
+  "id": 5134097921,
+  "lat": 38.7072496,
+  "lon": -9.1436902,
+  "tags": {
+    "addr:street": "Rua Nova do Carvalho",
+    "amenity": "nightclub",
+    "check_date": "2024-05-05",
+    "name": "The pink street"
+  }
+},
+{
+  "type": "node",
+  "id": 5268858681,
+  "lat": 37.7391424,
+  "lon": -25.6604254,
+  "tags": {
+    "addr:housenumber": "700",
+    "addr:street": "Portas do Mar",
+    "amenity": "nightclub",
+    "contact:facebook": "https://www.facebook.com/ibizaclubportasdomar/",
+    "name": "Ibiza Club Portas do Mar",
+    "opening_hours": "We,Fr 23:00-24:00; Th,Su 00:00-08:00; Sa 00:00-08:00,23:00-24:00"
+  }
+},
+{
+  "type": "node",
+  "id": 5304684725,
+  "lat": 41.6409453,
+  "lon": -8.3721691,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "BestClub"
+  }
+},
+{
+  "type": "node",
+  "id": 5324253067,
+  "lat": 37.6987951,
+  "lon": -8.0807467,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Santa Loucura",
+    "operator": "S Club"
+  }
+},
+{
+  "type": "node",
+  "id": 5324784522,
+  "lat": 38.7058161,
+  "lon": -9.1554158,
+  "tags": {
+    "addr:city": "Lisboa",
+    "addr:postcode": "1399-036",
+    "addr:street": "Avenida de Brasília",
+    "amenity": "nightclub",
+    "name": "Barrio Latino",
+    "phone": "+351 966 660 838",
+    "website": "https://www.facebook.com/BarrioLatinoPT/"
+  }
+},
+{
+  "type": "node",
+  "id": 5335674026,
+  "lat": 39.8019762,
+  "lon": -8.0991614,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Big P"
+  }
+},
+{
+  "type": "node",
+  "id": 5337046306,
+  "lat": 39.8250374,
+  "lon": -7.4929387,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Património",
+    "operator": "Património"
+  }
+},
+{
+  "type": "node",
+  "id": 5341208760,
+  "lat": 39.8187850,
+  "lon": -7.4916640,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "A Metalúrgica"
+  }
+},
+{
+  "type": "node",
+  "id": 5431320690,
+  "lat": 39.7477209,
+  "lon": -8.8054229,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Guilt"
+  }
+},
+{
+  "type": "node",
+  "id": 5779618332,
+  "lat": 39.6930581,
+  "lon": -9.0516493,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "A Mina"
+  }
+},
+{
+  "type": "node",
+  "id": 5842005479,
+  "lat": 38.5424731,
+  "lon": -28.6224586,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Riverside",
+    "smoking": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5852302824,
+  "lat": 37.0174630,
+  "lon": -7.9355658,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Twice",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 5852302825,
+  "lat": 37.0178100,
+  "lon": -7.9359079,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "First Floor",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5852302830,
+  "lat": 37.0179142,
+  "lon": -7.9369366,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Prestige Dance Club",
+    "opening_hours": "Th-Sa 23:00-04:00",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 5854127088,
+  "lat": 37.1277137,
+  "lon": -7.6422315,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Echo"
+  }
+},
+{
+  "type": "node",
+  "id": 5882975953,
+  "lat": 37.0528417,
+  "lon": -7.8439781,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Mistura Sertaneja"
+  }
+},
+{
+  "type": "node",
+  "id": 5900123613,
+  "lat": 41.7407385,
+  "lon": -7.4687632,
+  "tags": {
+    "addr:city": "Chaves",
+    "addr:postcode": "5400-164",
+    "addr:street": "Travessa Cândido dos Reis",
+    "amenity": "nightclub",
+    "name": "Bb Club",
+    "operator": "Grupo BB",
+    "phone": "+351 276 400055"
+  }
+},
+{
+  "type": "node",
+  "id": 5921512489,
+  "lat": 41.7444918,
+  "lon": -7.4712091,
+  "tags": {
+    "addr:city": "Chaves",
+    "addr:housename": "Edifício Nova York",
+    "addr:postcode": "5400-409",
+    "addr:street": "Largo Monumento aos Combatentes da Grande Guerra",
+    "amenity": "nightclub",
+    "contact:facebook": "https://www.facebook.com/amicabarchaves/",
+    "name": "Ámiça Bar",
+    "opening_hours": "Mo 23:00-06:00; We 23:00-06:00; Sa 23:00-06:00"
+  }
+},
+{
+  "type": "node",
+  "id": 6347929885,
+  "lat": 38.7257082,
+  "lon": -9.1462293,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2024-05-02",
+    "name": "Elefante Branco"
+  }
+},
+{
+  "type": "node",
+  "id": 6468985985,
+  "lat": 38.7411374,
+  "lon": -9.1021676,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "LAV"
+  }
+},
+{
+  "type": "node",
+  "id": 6513020648,
+  "lat": 38.0110006,
+  "lon": -8.7229534,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Discoteca Alexander's"
+  }
+},
+{
+  "type": "node",
+  "id": 6542739523,
+  "lat": 37.1518815,
+  "lon": -7.8839231,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Bar Disco Spot"
+  }
+},
+{
+  "type": "node",
+  "id": 6693523101,
+  "lat": 40.2238799,
+  "lon": -8.7387560,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Tentações "
+  }
+},
+{
+  "type": "node",
+  "id": 6813755088,
+  "lat": 37.0179360,
+  "lon": -7.9363544,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Call In",
+    "name:en": "Call In Faro",
+    "name:pt": "Call In Faro",
+    "opening_hours": "Mo-Su 22:30-04:00",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 6859222566,
+  "lat": 41.7171129,
+  "lon": -7.4542247,
+  "tags": {
+    "addr:city": "Chaves",
+    "addr:postcode": "5400-352",
+    "addr:street": "Rua do Lombo",
+    "amenity": "nightclub",
+    "contact:facebook": "https://www.facebook.com/pg/triunfochaves/",
+    "contact:mobile": "+351 93 4419211",
+    "email": "triunfoklub@hotmail.com",
+    "name": "Triunfo Klub"
+  }
+},
+{
+  "type": "node",
+  "id": 6972079331,
+  "lat": 37.1189125,
+  "lon": -8.5389062,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Katedral",
+    "opening_hours": "everyday 18:00-04:00"
+  }
+},
+{
+  "type": "node",
+  "id": 7095212312,
+  "lat": 41.1785051,
+  "lon": -8.6493922,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Mask - Porto"
+  }
+},
+{
+  "type": "node",
+  "id": 7128800889,
+  "lat": 41.1735914,
+  "lon": -8.5897529,
+  "tags": {
+    "addr:housenumber": "38",
+    "addr:postcode": "4200-110",
+    "addr:street": "Rua do Salgueiral",
+    "amenity": "nightclub",
+    "name": "Discoteca Number 1",
+    "name:pt": "Discoteca Number one",
+    "opening_hours": "Fr-Su 00:00-07:00",
+    "phone": "+351 225 095 503"
+  }
+},
+{
+  "type": "node",
+  "id": 7200534698,
+  "lat": 40.6471122,
+  "lon": -7.9171497,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Palha Club Viseu"
+  }
+},
+{
+  "type": "node",
+  "id": 7816359960,
+  "lat": 37.1189900,
+  "lon": -8.5389215,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Mixx",
+    "outdoor_seating": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8066730624,
+  "lat": 38.8749521,
+  "lon": -9.1342010,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Teacher's Pub",
+    "opening_hours": "22:00-04:00; Mo off",
+    "opening_hours:covid19": "18:30-23:00"
+  }
+},
+{
+  "type": "node",
+  "id": 8260332929,
+  "lat": 38.9624604,
+  "lon": -9.4186016,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Ouriço"
+  }
+},
+{
+  "type": "node",
+  "id": 8522671066,
+  "lat": 41.5778517,
+  "lon": -8.2729565,
+  "tags": {
+    "amenity": "nightclub",
+    "min_age": "18",
+    "name": "Swing Crash",
+    "smoking": "separated"
+  }
+},
+{
+  "type": "node",
+  "id": 8635769125,
+  "lat": 41.1521950,
+  "lon": -8.6306849,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2022-12-23",
+    "name": "Shisha bar"
+  }
+},
+{
+  "type": "node",
+  "id": 8677637948,
+  "lat": 41.1462205,
+  "lon": -8.6179817,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Tuareg - Morrocan Shisha Bar"
+  }
+},
+{
+  "type": "node",
+  "id": 8746317982,
+  "lat": 40.3518829,
+  "lon": -7.8288227,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Music Bar"
+  }
+},
+{
+  "type": "node",
+  "id": 8792559796,
+  "lat": 41.1774846,
+  "lon": -8.6781697,
+  "tags": {
+    "addr:city": "Matosinhos",
+    "addr:housenumber": "1059",
+    "addr:postcode": "4450-291",
+    "addr:street": "Rua Sousa Aroso",
+    "amenity": "nightclub",
+    "name": "Amnésia Club",
+    "old_name": "Bar Pegadas"
+  }
+},
+{
+  "type": "node",
+  "id": 8963044485,
+  "lat": 41.3008010,
+  "lon": -7.7503198,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Quilate Lounge"
+  }
+},
+{
+  "type": "node",
+  "id": 8963044494,
+  "lat": 41.3000780,
+  "lon": -7.7486526,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Bclub"
+  }
+},
+{
+  "type": "node",
+  "id": 9208707468,
+  "lat": 38.9120786,
+  "lon": -9.2247035,
+  "tags": {
+    "addr:city": "Lousa",
+    "addr:postcode": "2665-535",
+    "addr:street": "Rua Herois do Ultramar Zona Industrial da Freixeira Amazem U",
+    "addr:unit": "U",
+    "air_conditioning": "yes",
+    "amenity": "nightclub",
+    "contact:facebook": "https://www.facebook.com/flamerdiscofficial",
+    "contact:instagram": "https://www.instagram.com/flamerdiscofficial/?hl=pt",
+    "min_age": "16",
+    "name": "Discoteca Flamer",
+    "operator": "Discoteca Flamer Unipessoal lda",
+    "payment:cash": "yes",
+    "payment:debit_cards": "yes",
+    "smoking": "separated",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9308985768,
+  "lat": 39.5669682,
+  "lon": -8.9978500,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Sunset Disco Bar"
+  }
+},
+{
+  "type": "node",
+  "id": 9592542460,
+  "lat": 38.7060093,
+  "lon": -9.1573478,
+  "tags": {
+    "addr:city": "Lisboa",
+    "addr:housenumber": "66",
+    "addr:postcode": "1200-869",
+    "addr:street": "Avenida 24 de Julho",
+    "amenity": "nightclub",
+    "facebook": "https://www.facebook.com/hypeclublisbon/",
+    "name": "Hype"
+  }
+},
+{
+  "type": "node",
+  "id": 9806755783,
+  "lat": 40.6976256,
+  "lon": -7.9116953,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "AMAZÓNIA"
+  }
+},
+{
+  "type": "node",
+  "id": 9815430515,
+  "lat": 41.0960448,
+  "lon": -7.8063158,
+  "tags": {
+    "addr:city": "Lamego",
+    "addr:postcode": "5100-157",
+    "addr:street": "Rua da Pereira",
+    "amenity": "nightclub",
+    "name": "MauMau Social Club"
+  }
+},
+{
+  "type": "node",
+  "id": 9815449724,
+  "lat": 41.0970577,
+  "lon": -7.8089632,
+  "tags": {
+    "addr:city": "Lamego",
+    "addr:street": "Rua do Teatro",
+    "amenity": "nightclub",
+    "name": "Maria chic"
+  }
+},
+{
+  "type": "node",
+  "id": 9823596017,
+  "lat": 41.1470134,
+  "lon": -8.6138130,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Maomaria"
+  }
+},
+{
+  "type": "node",
+  "id": 9867881418,
+  "lat": 38.7080954,
+  "lon": -9.1354849,
+  "tags": {
+    "addr:city": "Lisboa",
+    "addr:housenumber": "72",
+    "addr:postcode": "1100-148",
+    "addr:street": "Praça Comércio",
+    "amenity": "nightclub",
+    "name": "ministérium club",
+    "phone": "+351 21 888 8454",
+    "website": "http://ministerium.pt/club/"
+  }
+},
+{
+  "type": "node",
+  "id": 9896327595,
+  "lat": 41.3515369,
+  "lon": -7.7242877,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Andrómeda Superclub"
+  }
+},
+{
+  "type": "node",
+  "id": 10726244125,
+  "lat": 41.1468263,
+  "lon": -8.6081635,
+  "tags": {
+    "amenity": "nightclub",
+    "lgbtq": "primary",
+    "name": "Zoom"
+  }
+},
+{
+  "type": "node",
+  "id": 11032215358,
+  "lat": 38.5206350,
+  "lon": -8.9004868,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2024-03-17",
+    "name": "Twelve"
+  }
+},
+{
+  "type": "node",
+  "id": 11032215360,
+  "lat": 38.5204657,
+  "lon": -8.9012689,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2024-03-17",
+    "name": "Decibel"
+  }
+},
+{
+  "type": "node",
+  "id": 11277181714,
+  "lat": 38.7847388,
+  "lon": -9.1301144,
+  "tags": {
+    "addr:city": "Lisboa",
+    "addr:housenumber": "3",
+    "addr:postcode": "2685-327",
+    "addr:street": "Rua Ary dos Santos",
+    "amenity": "nightclub",
+    "min_age": "18",
+    "name": "Nada Temple",
+    "opening_hours": "Fr-Su 23:50-10:00"
+  }
+},
+{
+  "type": "node",
+  "id": 11349053272,
+  "lat": 38.7966470,
+  "lon": -9.1695940,
+  "tags": {
+    "addr:city": "Odivelas",
+    "addr:housenumber": "31",
+    "addr:postcode": "2675-376",
+    "addr:street": "Rua Heróis de Chaimite",
+    "amenity": "nightclub",
+    "email": "geral@miragelounge.pt",
+    "min_age": "18",
+    "mobile": "+351 967 619 769",
+    "name": "Mirage Lounge",
+    "opening_hours": "Fr-Sa 19:00-04:00; Su 16:00-00:00",
+    "website": "http://www.miragelounge.pt/"
+  }
+},
+{
+  "type": "node",
+  "id": 11360225773,
+  "lat": 41.1040308,
+  "lon": -8.6608424,
+  "tags": {
+    "addr:street": "Rua dos Combatentes",
+    "amenity": "nightclub",
+    "name": "Danceteria Doble"
+  }
+},
+{
+  "type": "node",
+  "id": 11417119405,
+  "lat": 41.1476126,
+  "lon": -8.6142131,
+  "tags": {
+    "amenity": "nightclub",
+    "lgbtq": "primary",
+    "name": "Fabrik"
+  }
+},
+{
+  "type": "node",
+  "id": 11417119421,
+  "lat": 41.1474551,
+  "lon": -8.6139348,
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2026-07-12",
+    "name": "Auditório"
+  }
+},
+{
+  "type": "node",
+  "id": 11417119422,
+  "lat": 41.1473076,
+  "lon": -8.6137626,
+  "tags": {
+    "addr:housenumber": "116",
+    "addr:street": "Rua de Cândido dos Reis",
+    "amenity": "nightclub",
+    "name": "Cento e Dezasseis"
+  }
+},
+{
+  "type": "node",
+  "id": 11417119424,
+  "lat": 41.1472068,
+  "lon": -8.6137791,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Wblack"
+  }
+},
+{
+  "type": "node",
+  "id": 11417119437,
+  "lat": 41.1466473,
+  "lon": -8.6138859,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Baixa"
+  }
+},
+{
+  "type": "node",
+  "id": 11417119438,
+  "lat": 41.1467325,
+  "lon": -8.6138701,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Hora Extra Club"
+  }
+},
+{
+  "type": "node",
+  "id": 11417119440,
+  "lat": 41.1467840,
+  "lon": -8.6138622,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Mezzanine"
+  }
+},
+{
+  "type": "node",
+  "id": 11417119441,
+  "lat": 41.1468395,
+  "lon": -8.6138525,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Muda"
+  }
+},
+{
+  "type": "node",
+  "id": 11417119443,
+  "lat": 41.1470708,
+  "lon": -8.6138025,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Wall"
+  }
+},
+{
+  "type": "node",
+  "id": 11417508295,
+  "lat": 41.1483933,
+  "lon": -8.6127509,
+  "tags": {
+    "addr:housenumber": "175",
+    "amenity": "nightclub",
+    "name": "Maria Pistolas"
+  }
+},
+{
+  "type": "node",
+  "id": 11421582669,
+  "lat": 38.7055324,
+  "lon": -9.1526194,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "KUBO"
+  }
+},
+{
+  "type": "node",
+  "id": 11428870839,
+  "lat": 40.1019717,
+  "lon": -8.4967719,
+  "tags": {
+    "addr:housenumber": "33",
+    "addr:street": "Rua da Escola",
+    "amenity": "nightclub",
+    "name": "JD Bar",
+    "opening_hours": "Tu-Th 17:00-02:00; Fr-Su 17:00-04:00",
+    "website": "https://www.instagram.com/jd.bar.oficial_/"
+  }
+},
+{
+  "type": "node",
+  "id": 11496064731,
+  "lat": 41.3001783,
+  "lon": -7.7440590,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Duplex Club"
+  }
+},
+{
+  "type": "node",
+  "id": 11584433282,
+  "lat": 38.7488669,
+  "lon": -9.1462718,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "A Primorosa de Alvalade",
+    "phone": "+351 21 797 1913"
+  }
+},
+{
+  "type": "node",
+  "id": 11816190870,
+  "lat": 41.1537136,
+  "lon": -8.6103291,
+  "tags": {
+    "addr:city": "Porto",
+    "addr:housenumber": "288",
+    "addr:street": "Rua de Gonçalo Cristóvão",
+    "amenity": "nightclub",
+    "contact:instagram": "https://www.instagram.com/perolanegraporto/",
+    "name": "Pérola Negra"
+  }
+},
+{
+  "type": "node",
+  "id": 11895371708,
+  "lat": 38.7072112,
+  "lon": -9.1435758,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Pink Dance"
+  }
+},
+{
+  "type": "node",
+  "id": 11947458604,
+  "lat": 38.8402899,
+  "lon": -9.0817054,
+  "tags": {
+    "amenity": "nightclub",
+    "image": "https://img.restaurantguru.com/rced-Danceteria-Sttore-Cafe-photo.jpg",
+    "name": "Danceteria Sttore Café"
+  }
+},
+{
+  "type": "node",
+  "id": 11967135215,
+  "lat": 41.8068879,
+  "lon": -6.7637846,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Mercado Club"
+  }
+},
+{
+  "type": "node",
+  "id": 12052716269,
+  "lat": 41.1477440,
+  "lon": -8.6079368,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Ideal Club de Fado"
+  }
+},
+{
+  "type": "node",
+  "id": 12138561244,
+  "lat": 38.7495107,
+  "lon": -9.1456630,
+  "tags": {
+    "addr:housenumber": "13 A/B",
+    "addr:street": "Rua António Patrício",
+    "amenity": "nightclub",
+    "description": "New Wave, Synthpop, Electro, Goth, Industrial/ Hard'N'Heavy, Heavy, Power Metal, Symphonic Metal/ Independent/ All-Time Rock Classics",
+    "name": "Noir",
+    "opening_hours": "Fr, Sa 23:00-03:00",
+    "website": "https://www.facebook.com/ClubNoirLisboa/"
+  }
+},
+{
+  "type": "node",
+  "id": 12343664729,
+  "lat": 32.6466427,
+  "lon": -16.9112247,
+  "tags": {
+    "amenity": "nightclub",
+    "level": "-1",
+    "name": "Amnesia"
+  }
+},
+{
+  "type": "node",
+  "id": 12453652314,
+  "lat": 41.1469385,
+  "lon": -8.6059554,
+  "tags": {
+    "addr:housename": "Antigo Cinema Olympia",
+    "addr:housenumber": "131",
+    "addr:street": "Rua de Passos Manuel",
+    "amenity": "nightclub",
+    "name": "Boîte Porto"
+  }
+},
+{
+  "type": "node",
+  "id": 12506891261,
+  "lat": 37.1410951,
+  "lon": -8.5380847,
+  "tags": {
+    "addr:city": "Portimão",
+    "addr:housenumber": "5B",
+    "addr:postcode": "8500-611",
+    "addr:street": "Rua Olivença",
+    "amenity": "nightclub",
+    "lgbtq": "primary",
+    "name": "The Loft",
+    "opening_hours": "Fr-Sa 23:00-04:00; Tu 23:00-04:00",
+    "website": "https://www.theloftgaybar.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 12638805756,
+  "lat": 32.6664346,
+  "lon": -16.8901564,
+  "tags": {
+    "addr:city": "Funchal",
+    "addr:housenumber": "110B",
+    "addr:postcode": "9060-329",
+    "addr:street": "Caminho das Voltas",
+    "amenity": "nightclub",
+    "currency:XBT": "yes",
+    "description": "Pitanga Discos is a cultural association and artistic collective in Madeira, blending curation, music production, sound engineering, graphic arts, and performance.",
+    "name": "Pitanga Discos",
+    "opening_hours": "No opening hours",
+    "payment:lightning": "yes",
+    "payment:lightning_contactless": "yes",
+    "payment:onchain": "no",
+    "survey:date": "2025-03-05",
+    "website": "http://instagram.com/pitanga_discos"
+  }
+},
+{
+  "type": "node",
+  "id": 12681175788,
+  "lat": 41.1459947,
+  "lon": -8.6096162,
+  "tags": {
+    "addr:city": "Porto",
+    "addr:housenumber": "186",
+    "addr:postcode": "4000-330",
+    "addr:street": "Rua da Madeira",
+    "amenity": "nightclub",
+    "min_age": "18",
+    "name": "Barracuda clube de roque",
+    "opening_hours": "Fi-Sa 23:00-07:00"
+  }
+},
+{
+  "type": "node",
+  "id": 12968680167,
+  "lat": 41.2753169,
+  "lon": -7.7117393,
+  "tags": {
+    "addr:city": "Vila Real",
+    "addr:housenumber": "Lote 151",
+    "addr:postcode": "5000-082",
+    "addr:street": "Zona Industrial de Constantim",
+    "amenity": "nightclub",
+    "name": "Mami Dance"
+  }
+},
+{
+  "type": "node",
+  "id": 13167438838,
+  "lat": 40.7789701,
+  "lon": -8.2819833,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Antiga Discoteca Das Lameiras"
+  }
+},
+{
+  "type": "node",
+  "id": 13359385705,
+  "lat": 38.7420360,
+  "lon": -9.1005814,
+  "tags": {
+    "addr:city": "Lisboa",
+    "addr:postcode": "1950-021",
+    "addr:street": "Av. Infante Dom Henrique",
+    "amenity": "nightclub",
+    "description": "Alternative club space located in a former wine warehouse in the outskirts of Lisbon.",
+    "name": "Outra Cena",
+    "website": "https://ra.co/clubs/222133"
+  }
+},
+{
+  "type": "node",
+  "id": 13640879261,
+  "lat": 41.3084117,
+  "lon": -8.7381195,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Clube Atlântico"
+  }
+},
+{
+  "type": "node",
+  "id": 13956179703,
+  "lat": 41.0357027,
+  "lon": -8.2597649,
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Discoteca Absoluta",
+    "opening_hours": "Sa-Su 00:00-06:00",
+    "operator": "Absoluta"
+  }
+},
+{
+  "type": "node",
+  "id": 14023200901,
+  "lat": 38.6633019,
+  "lon": -9.0792346,
+  "tags": {
+    "addr:housenumber": "68A",
+    "addr:street": "Rua Almirante Reis",
+    "amenity": "nightclub",
+    "check_date": "2026-07-17",
+    "check_date:opening_hours": "2026-07-17",
+    "contact:instagram": "masciveclubbar",
+    "min_age": "0",
+    "name": "Mascive Club Bar",
+    "note": "LGBTQ+ Oriented club / Gay bar",
+    "opening_hours": "Tu-Th 21:00-02:00; Fr-Sa 23:00-04:00"
+  }
+},
+{
+  "type": "way",
+  "id": 96378125,
+  "center": {
+    "lat": 37.1156195,
+    "lon": -8.1514659
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "check_date": "2025-02-05",
+    "name": "Lick",
+    "name:en": "kadoc",
+    "name:pt": "kadoc",
+    "source": "Bing"
+  }
+},
+{
+  "type": "way",
+  "id": 96497162,
+  "center": {
+    "lat": 38.7149747,
+    "lon": -9.1205884
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "building:levels": "3",
+    "contact:instagram": "luxfragil",
+    "height": "8.5",
+    "live_music": "yes",
+    "name": "Lux Frágil",
+    "roof:shape": "flat",
+    "website": "https://www.luxfragil.com/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 105466976,
+  "center": {
+    "lat": 33.0612409,
+    "lon": -16.3323704
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "check_date": "2026-01-08",
+    "name": "Challenger",
+    "smoking": "separated",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 109262586,
+  "center": {
+    "lat": 41.5458919,
+    "lon": -8.4155672
+  },
+  "tags": {
+    "addr:city": "Braga",
+    "addr:postcode": "4715-402",
+    "addr:street": "Praça Doutor Cândido da Costa Pires",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Sardinha Biba",
+    "phone": "+ 351 917 984 999;+ 351 918 870 101(dias úteis, das 09h30 às 19h) + 351 253 260 158",
+    "smoking": "yes",
+    "website": "https://www.sardinhabiba.pt/"
+  }
+},
+{
+  "type": "way",
+  "id": 115633952,
+  "center": {
+    "lat": 38.3308016,
+    "lon": -7.9959277
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Zona T"
+  }
+},
+{
+  "type": "way",
+  "id": 135664502,
+  "center": {
+    "lat": 40.6429805,
+    "lon": -8.6099516
+  },
+  "tags": {
+    "addr:city": "Esgueira",
+    "addr:housenumber": "9",
+    "addr:postcode": "3800-115",
+    "addr:street": "Rua da Boavista",
+    "amenity": "nightclub",
+    "building": "yes",
+    "email": "cocoloco-aveiro@hotmail.com",
+    "name": "CocoLoco",
+    "opening_hours": "Fr-Sa 23:30-06:00",
+    "phone": "+351 913965218"
+  }
+},
+{
+  "type": "way",
+  "id": 159074921,
+  "center": {
+    "lat": 40.6658274,
+    "lon": -8.6195738
+  },
+  "tags": {
+    "addr:city": "Mataduços",
+    "addr:housenumber": "56",
+    "addr:postcode": "3800-036",
+    "addr:street": "Travessa do Monte do Paço",
+    "amenity": "nightclub",
+    "contact:facebook": "https://www.facebook.com/pages/category/Bar/Memories-Night-Club-100189528341455/",
+    "mapillary": "372487797502763",
+    "name": "Memories",
+    "phone": "+351 91 2565277"
+  }
+},
+{
+  "type": "way",
+  "id": 180859454,
+  "center": {
+    "lat": 37.0869121,
+    "lon": -8.2310675
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "kiss disco club"
+  }
+},
+{
+  "type": "way",
+  "id": 190064708,
+  "center": {
+    "lat": 40.2019782,
+    "lon": -8.6491674
+  },
+  "tags": {
+    "addr:city": "Carapiheira",
+    "addr:postcode": "3140",
+    "amenity": "nightclub",
+    "building": "warehouse",
+    "name": "Dancetaria Paraíso",
+    "opening_hours": "Fr 22:00-02:30; Sa 22:00-03:00; Su 15:00-19:30; PH 15:00-19:30",
+    "phone": "+351 915 665 190",
+    "website": "https://www.facebook.com/paraisodancepub/"
+  }
+},
+{
+  "type": "way",
+  "id": 202659389,
+  "center": {
+    "lat": 39.7059676,
+    "lon": -8.9452141
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Exotic Club"
+  }
+},
+{
+  "type": "way",
+  "id": 203468512,
+  "center": {
+    "lat": 39.9234473,
+    "lon": -8.9431527
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Stress Less"
+  }
+},
+{
+  "type": "way",
+  "id": 229829771,
+  "center": {
+    "lat": 39.9811498,
+    "lon": -8.6189989
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "check_date": "2023-08-13",
+    "name": "Dancetaria Latinas",
+    "wifi": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 238477331,
+  "center": {
+    "lat": 40.5751404,
+    "lon": -8.6210712
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Estação da Luz",
+    "opening_hours": "Fr-Sa 00:30-06:00, PH 00:30-06:00",
+    "phone": "+351 234 943979",
+    "website": "https://www.facebook.com/estacaodaluz"
+  }
+},
+{
+  "type": "way",
+  "id": 252012532,
+  "center": {
+    "lat": 40.8759645,
+    "lon": -8.6744927
+  },
+  "tags": {
+    "addr:city": "Ovar",
+    "addr:country": "PT",
+    "addr:housenumber": "602",
+    "addr:postcode": "3880-350",
+    "addr:street": "Avenida dos Descobrimentos",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Discoteca Fénix"
+  }
+},
+{
+  "type": "way",
+  "id": 274297227,
+  "center": {
+    "lat": 41.5010863,
+    "lon": -8.7770131
+  },
+  "tags": {
+    "addr:city": "Esposende",
+    "addr:postcode": "4740",
+    "air_conditioning": "yes",
+    "amenity": "nightclub",
+    "building": "yes",
+    "min_age": "16",
+    "name": "Pacha Ofir",
+    "opening_hours": "Mo-Sa 19:00-06:00",
+    "smoking": "isolated",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "way",
+  "id": 276052695,
+  "center": {
+    "lat": 41.5489137,
+    "lon": -7.6049879
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "description": "Bar das piscinas de Pedras Salgadas",
+    "name": "Kool Bar"
+  }
+},
+{
+  "type": "way",
+  "id": 279022089,
+  "center": {
+    "lat": 40.1470926,
+    "lon": -8.4622842
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "building:levels": "1",
+    "name": "El Divino",
+    "phone": "+351 239 946 286"
+  }
+},
+{
+  "type": "way",
+  "id": 279024035,
+  "center": {
+    "lat": 40.2437657,
+    "lon": -8.4417786
+  },
+  "tags": {
+    "addr:city": "Coimbra",
+    "addr:housenumber": "182",
+    "addr:postcode": "3020-307",
+    "addr:street": "Vales da Pedrulha",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Broadway Danceteria",
+    "phone": "+351 239 493 330",
+    "roof:colour": "grey",
+    "roof:shape": "gabled"
+  }
+},
+{
+  "type": "way",
+  "id": 279483369,
+  "center": {
+    "lat": 40.2684616,
+    "lon": -8.4442488
+  },
+  "tags": {
+    "addr:city": "Coimbra",
+    "addr:postcode": "3020",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Danceteria Glamour",
+    "opening_hours": "Tu 15:00-19:30; Th 15:00-19:30; Fr-Sa 22:30-05:00; Su 15:00-19:30",
+    "phone": "+351 916 07 27 31"
+  }
+},
+{
+  "type": "way",
+  "id": 280262070,
+  "center": {
+    "lat": 40.1546033,
+    "lon": -8.8296810
+  },
+  "tags": {
+    "addr:city": "Figueira da Foz",
+    "addr:postcode": "3080-626",
+    "addr:street": "Ribeira de Carritos",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "3 Chaminés Danceteria",
+    "phone": "+351 233 434 318"
+  }
+},
+{
+  "type": "way",
+  "id": 292382916,
+  "center": {
+    "lat": 40.9094818,
+    "lon": -7.5146671
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Via Láctea"
+  }
+},
+{
+  "type": "way",
+  "id": 307156254,
+  "center": {
+    "lat": 39.2698477,
+    "lon": -9.1042246
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Red Night",
+    "opening_hours": "Tu-Sa 22:30-04:00"
+  }
+},
+{
+  "type": "way",
+  "id": 310069427,
+  "center": {
+    "lat": 38.5319703,
+    "lon": -28.6469329
+  },
+  "tags": {
+    "addr:city": "Horta (Angústias)",
+    "addr:postcode": "9900",
+    "addr:street": "Zona Industrial",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "NEXT - NightClub & Lounge",
+    "opening_hours": "Sa,Su 01:00-08:00",
+    "smoking": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 319345327,
+  "center": {
+    "lat": 40.9510695,
+    "lon": -8.5189946
+  },
+  "tags": {
+    "addr:city": "São João de Ver",
+    "addr:street": "Rua do Olival",
+    "amenity": "nightclub",
+    "name": "Big Cansil (desativada)",
+    "smoking": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 330382541,
+  "center": {
+    "lat": 42.0608464,
+    "lon": -8.5107744
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "commercial",
+    "name": "Discoteca Fim do Mundo"
+  }
+},
+{
+  "type": "way",
+  "id": 330382568,
+  "center": {
+    "lat": 42.0630735,
+    "lon": -8.5113465
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "commercial",
+    "name": "Velvet"
+  }
+},
+{
+  "type": "way",
+  "id": 330382703,
+  "center": {
+    "lat": 42.0644467,
+    "lon": -8.5045287
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "commercial",
+    "name": "Fábrika"
+  }
+},
+{
+  "type": "way",
+  "id": 345883016,
+  "center": {
+    "lat": 41.4510539,
+    "lon": -8.2964206
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Século XIX"
+  }
+},
+{
+  "type": "way",
+  "id": 362432088,
+  "center": {
+    "lat": 42.0381885,
+    "lon": -8.4882447
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Pagode"
+  }
+},
+{
+  "type": "way",
+  "id": 424918852,
+  "center": {
+    "lat": 40.5417578,
+    "lon": -8.0410017
+  },
+  "tags": {
+    "addr:city": "Tojal do Moinho",
+    "addr:housenumber": "303",
+    "addr:postcode": "3460-022",
+    "addr:street": "Rua das Tileiras",
+    "amenity": "nightclub",
+    "building": "yes",
+    "email": "havanna.pt@gmail.com",
+    "facebook": "https://www.facebook.com/HAVANNAdanceteria",
+    "name": "Danceteria Havanna",
+    "opening_hours": "Sa 22:00-04:00",
+    "phone": "+351 962 912 619"
+  }
+},
+{
+  "type": "way",
+  "id": 462801468,
+  "center": {
+    "lat": 41.0107417,
+    "lon": -8.5769139
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Kuovadis Club Spot"
+  }
+},
+{
+  "type": "way",
+  "id": 467819283,
+  "center": {
+    "lat": 39.6184394,
+    "lon": -8.8466474
+  },
+  "tags": {
+    "addr:city": "São Jorge",
+    "addr:postcode": "2480-051",
+    "addr:street": "Urbanização da Amarela",
+    "amenity": "nightclub",
+    "internet_access": "wlan",
+    "name": "Danceteria D. Pirata",
+    "phone": "+351 244482292"
+  }
+},
+{
+  "type": "way",
+  "id": 474261863,
+  "center": {
+    "lat": 40.9205875,
+    "lon": -8.5703396
+  },
+  "tags": {
+    "addr:city": "Santa Maria da Feira",
+    "addr:housenumber": "415",
+    "addr:postcode": "4520-105",
+    "addr:street": "Rua 1º de Maio",
+    "amenity": "nightclub",
+    "check_date": "2026-04-02",
+    "name": "COOL Disco",
+    "phone": "+351 917 049 226",
+    "smoking": "no",
+    "website": "http://cooldisco.pt/"
+  }
+},
+{
+  "type": "way",
+  "id": 492618918,
+  "center": {
+    "lat": 40.8697493,
+    "lon": -8.6667811
+  },
+  "tags": {
+    "addr:city": "Ovar",
+    "addr:country": "PT",
+    "addr:housenumber": "1058",
+    "addr:postcode": "3880-351",
+    "addr:street": "Avenida do Emigrante",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Pildrinha Club"
+  }
+},
+{
+  "type": "way",
+  "id": 512924996,
+  "center": {
+    "lat": 40.7173050,
+    "lon": -7.9051257
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Danceteria Mamma Mia"
+  }
+},
+{
+  "type": "way",
+  "id": 540097049,
+  "center": {
+    "lat": 38.5952357,
+    "lon": -7.8517859
+  },
+  "tags": {
+    "addr:city": "Bairro do Degebe",
+    "addr:housename": "Monte do Casão",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Dancemania",
+    "phone": "+351 926 250 372"
+  }
+},
+{
+  "type": "way",
+  "id": 552849657,
+  "center": {
+    "lat": 39.8250412,
+    "lon": -7.4929235
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Komplexo"
+  }
+},
+{
+  "type": "way",
+  "id": 557481594,
+  "center": {
+    "lat": 39.8173970,
+    "lon": -7.4946968
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Alternativa"
+  }
+},
+{
+  "type": "way",
+  "id": 657483713,
+  "center": {
+    "lat": 37.0648460,
+    "lon": -8.0399017
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Medusis Club"
+  }
+},
+{
+  "type": "way",
+  "id": 666941367,
+  "center": {
+    "lat": 40.9086950,
+    "lon": -8.6112618
+  },
+  "tags": {
+    "addr:city": "Arada",
+    "amenity": "nightclub",
+    "building": "retail",
+    "name": "Semáforo"
+  }
+},
+{
+  "type": "way",
+  "id": 693725794,
+  "center": {
+    "lat": 38.0108801,
+    "lon": -8.7229211
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Quinta das Tílias - Valverde"
+  }
+},
+{
+  "type": "way",
+  "id": 717198861,
+  "center": {
+    "lat": 37.5447271,
+    "lon": -8.3168067
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Cisne Branco"
+  }
+},
+{
+  "type": "way",
+  "id": 742032411,
+  "center": {
+    "lat": 39.7423811,
+    "lon": -8.8074734
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "email": "paddockwinebar@gmail.com",
+    "name": "Paddock"
+  }
+},
+{
+  "type": "way",
+  "id": 742032417,
+  "center": {
+    "lat": 39.7429399,
+    "lon": -8.8066642
+  },
+  "tags": {
+    "addr:housenumber": "7",
+    "amenity": "nightclub",
+    "building": "yes",
+    "email": "mandarim.coimbra.comunicacao@gmail.com",
+    "name": "Mandarim Leiria",
+    "phone": "+351 964 808 012"
+  }
+},
+{
+  "type": "way",
+  "id": 751052798,
+  "center": {
+    "lat": 40.9625030,
+    "lon": -8.5986384
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Beladonna Dancetaria",
+    "payment:cash": "yes",
+    "payment:credit_cards": "no",
+    "payment:debit_cards": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 761579480,
+  "center": {
+    "lat": 40.9629387,
+    "lon": -8.5940462
+  },
+  "tags": {
+    "addr:city": "Rio Meão",
+    "addr:street": "Rua 10 Zona Industrial",
+    "amenity": "nightclub",
+    "building": "industrial",
+    "name": "4Ever Club"
+  }
+},
+{
+  "type": "way",
+  "id": 787196537,
+  "center": {
+    "lat": 39.1002914,
+    "lon": -9.2796241
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Discoteca Mau Maria"
+  }
+},
+{
+  "type": "way",
+  "id": 819609686,
+  "center": {
+    "lat": 39.5405904,
+    "lon": -8.9752947
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Casablanca"
+  }
+},
+{
+  "type": "way",
+  "id": 832529479,
+  "center": {
+    "lat": 41.3872965,
+    "lon": -8.7741746
+  },
+  "tags": {
+    "access": "yes",
+    "amenity": "nightclub",
+    "building": "yes",
+    "garden:type": "public",
+    "name": "Honi Beach"
+  }
+},
+{
+  "type": "way",
+  "id": 897755347,
+  "center": {
+    "lat": 40.2078849,
+    "lon": -8.4204321
+  },
+  "tags": {
+    "addr:city": "Coimbra",
+    "addr:housenumber": "11",
+    "addr:postcode": "3000",
+    "addr:street": "Rua Venâncio Rodrigues",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "NB Coimbra",
+    "opening_hours": "Tu 23:45-06:00;Th-Sa 23:45-06:00",
+    "phone": "+351 916 737611",
+    "website": "http://www.noitebiba.pt/coimbra/"
+  }
+},
+{
+  "type": "way",
+  "id": 1022855418,
+  "center": {
+    "lat": 39.5693287,
+    "lon": -8.7964749
+  },
+  "tags": {
+    "addr:city": "Zambujal de Alcaria",
+    "addr:postcode": "2480-012",
+    "addr:street": "Estrada da Bica",
+    "amenity": "nightclub",
+    "building": "yes",
+    "building:levels": "3",
+    "name": "Grafonola - Dancing"
+  }
+},
+{
+  "type": "way",
+  "id": 1056660631,
+  "center": {
+    "lat": 40.9984851,
+    "lon": -8.4810315
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Antiga discoteca \"César Palace\""
+  }
+},
+{
+  "type": "way",
+  "id": 1074794671,
+  "center": {
+    "lat": 39.1289263,
+    "lon": -7.5873156
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Dancetereia Mil Anças"
+  }
+},
+{
+  "type": "way",
+  "id": 1117841801,
+  "center": {
+    "lat": 38.8780369,
+    "lon": -7.1560688
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Discoteca ETC"
+  }
+},
+{
+  "type": "way",
+  "id": 1210866360,
+  "center": {
+    "lat": 41.3577305,
+    "lon": -8.5620806
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "landuse": "commercial",
+    "name": "Zé dos Cães",
+    "old_name": "Discoteca Speed"
+  }
+},
+{
+  "type": "way",
+  "id": 1432087006,
+  "center": {
+    "lat": 38.7262029,
+    "lon": -9.1108297
+  },
+  "tags": {
+    "addr:city": "Lisboa",
+    "addr:housename": "AAFC",
+    "addr:postcode": "1900-320",
+    "addr:street": "Avenida Infante Dom Henrique",
+    "amenity": "nightclub",
+    "contact:email": "info@arrozestudios.pt",
+    "contact:email:events": "events@arrozestudios.pt",
+    "contact:facebook": "ArrozEstudios",
+    "contact:instagram": "arrozestudios",
+    "contact:telegram": "arrozcriativo",
+    "contact:twitter": "ArrozEstudios",
+    "contact:youtube": "arroz.estudios",
+    "name": "Estudio Arroz",
+    "name:pt": "Arroz Estúdios",
+    "operator": "Dynamic Sardine – Associação",
+    "pets": "leashed",
+    "website": "https://www.arrozestudios.pt/",
+    "website:contact": "https://www.arrozestudios.pt/contact",
+    "website:membership": "https://arroz-reg.web.app/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1460158418,
+  "center": {
+    "lat": 41.2327468,
+    "lon": -8.6090076
+  },
+  "tags": {
+    "amenity": "nightclub",
+    "name": "Boite Pigale"
+  }
+},
+{
+  "type": "way",
+  "id": 1471723612,
+  "center": {
+    "lat": 41.3885596,
+    "lon": -8.7676637
+  },
+  "tags": {
+    "air_conditioning": "yes",
+    "amenity": "nightclub",
+    "building": "yes",
+    "name": "Discoteca A Calua",
+    "smoking": "isolated",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "relation",
+  "id": 6474959,
+  "center": {
+    "lat": 38.7021528,
+    "lon": -8.9763535
+  },
+  "tags": {
+    "addr:city": "Montijo",
+    "addr:postcode": "2870-356",
+    "addr:street": "Rua Miguel Pais",
+    "amenity": "nightclub",
+    "building": "yes",
+    "contact:instagram": "https://www.instagram.com/flyclubmontijo/",
+    "name": "Fly Club",
+    "phone": "+351913154488",
+    "start_date": "2024-01-20",
+    "type": "multipolygon",
+    "website": "https://flyclub.pt"
+  }
+},
+{
+  "type": "relation",
+  "id": 17228310,
+  "center": {
+    "lat": 41.5156211,
+    "lon": -8.7791496
+  },
+  "tags": {
+    "addr:street": "Avenida António Veiga",
+    "air_conditioning": "yes",
+    "amenity": "nightclub",
+    "building": "yes",
+    "min_age": "16",
+    "name": "Biba Ofir",
+    "opening_hours": "Mo-Su 19:00-06:00",
+    "payment:cash": "yes",
+    "payment:coins": "yes",
+    "payment:credit_cards": "yes",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "smoking": "isolated",
+    "type": "multipolygon",
+    "wheelchair": "yes"
+  }
+}
+
+  ]
+}

@@ -71,7 +71,7 @@ MANO = {
 },
 "discotecas": {
  1: "Pachá=Pacha, Amnesia, Ushuaïa=Ushuaia, Kapital=Teatro Kapital, Fabrik, Opium, Razzmatazz, Joy Eslava=Joy=Teatro Eslava, Hï Ibiza=Hi Ibiza, Privilege",
- 2: "Space, DC-10=DC10, Es Paradís, Eden, O Beach, Ibiza Rocks, Lío=Lio, Sutton, Bling Bling, Otto Zutz, Apolo=Sala Apolo, Input, Moog, Shôko=Shoko, Pacha Barcelona, Carpe Diem=CDLC, Mondo, Goya Social Club, Gabana, Tiffany's=Tiffanys, Panda Club, Barceló=Teatro Barceló, Pirandello, Macumba, But, Florida Park, Icon, Vandido, Oh My Club, Shoko Madrid, La Riviera, Sala El Sol, Sala But, Independance, Ochoymedio, Tupperware, El Sol, Mitsuki, Marta Cariño, Blackhaus, Cha Chá=Chachá, Lula Club, Istar, Kluster, Mondo Disko, Stardust, Florida 135, Row 14, elrow=Elrow, Monegros=Monegros Desert Festival, Chocolate, Barraca, Spook=Spook Factory, ACTV, Puzzle, NOD, Masía=La Masía, Bananas, The Face, Penélope, KU=Ku, Pont Aeri, Scorpia, Chasis, Xque=Xqué, Radical, Central Rock, Coliseum, Attica, New World, Oh! Madrid, Mae West, Aqua, Sala Mon, Luz de Gas, Bikini, Jamboree, Sidecar, Marula, Titos=Tito's, BCM, Pachá Mallorca, Mega Park=Megapark, Bierkönig, Olivia Valere, Opium Marbella, Tibu=Tibu Banús, Momento, Kiss, Liceo, Indara, Fever, Bataplán=Bataplan, Kafe Antzokia, Back&Stage=Sonora, Moma, Budha, Buddha, Marmara, Mya, Akuarela, Indiana, Barraca, Miniclub, Play, La 3, Mogambo, Dry Martini",
+ 2: "Space, DC-10=DC10, Es Paradís, Eden, O Beach, Ibiza Rocks, Lío=Lio, Sutton, Bling Bling, Otto Zutz, Apolo=Sala Apolo, Input, Moog, Shôko=Shoko, Pacha Barcelona, Carpe Diem=CDLC, Mondo, Goya Social Club=Goya, Gabana, Tiffany's=Tiffanys, Panda Club=Panda, Barceló=Teatro Barceló, Pirandello, Macumba, But, Florida Park, Icon, Vandido, Oh My Club, Shoko Madrid, La Riviera, Sala El Sol, Sala But, Independance, Ochoymedio, Tupperware, El Sol, Mitsuki, Marta Cariño, Blackhaus, Cha Chá=Chachá, Lula Club=Lula, Istar, Kluster, Mondo Disko, Stardust, Florida 135, Row 14, elrow=Elrow, Monegros=Monegros Desert Festival, Chocolate, Barraca, Spook=Spook Factory, ACTV, Puzzle, NOD, Masía=La Masía, Bananas, The Face, Penélope, KU=Ku, Pont Aeri, Scorpia, Chasis, Xque=Xqué, Radical, Central Rock, Coliseum, Attica, New World, Oh! Madrid, Mae West, Aqua, Sala Mon, Luz de Gas, Bikini, Jamboree, Sidecar, Marula, Titos=Tito's, BCM, Pachá Mallorca, Mega Park=Megapark, Bierkönig, Olivia Valere, Opium Marbella, Tibu=Tibu Banús, Momento, Kiss, Liceo, Indara, Fever, Bataplán=Bataplan, Kafe Antzokia, Back&Stage=Sonora, Moma, Budha, Buddha, Marmara, Mya, Akuarela, Indiana, Barraca, Miniclub, Play, La 3, Mogambo, Dry Martini",
  3: "Berghain, Studio 54, Ministry of Sound, Fabric, Tresor, Watergate, Bootshaus, Green Valley, Hakkasan, Omnia, Marquee, Printworks, Tomorrowland, Zouk, Womb, LIV, E11even, Cavo Paradiso, Papaya, Paradise Club, Lux Frágil=Lux, Rex Club, Queen, Cocoricò, Baia Imperiale, Echostage, Warehouse Project, Sisyphos, KitKatClub=KitKat, De School, Shelter, Culture Club Revelin, Noa Beach Club, Sound, Avalon, Output, Pikes, Heart Ibiza=Heart, Sankeys, Booom, Swag, Destino, Benimussa Park, Octan, Club Chinois, 528 Ibiza, Akasha, Underground, Las Dalias, Sunset Ashram, Café del Mar, Café Mambo=Mambo, Blue Marlin, Nikki Beach, Nassau, Ocean Club, Purobeach",
  5: "El Casco=Casco, Hanoi, Cue",
 },
@@ -146,3 +146,15 @@ MANO = {
 },
 "pokemon": {1: "Pikachu, Charizard, Bulbasaur, Charmander, Squirtle, Mewtwo, Eevee, Snorlax, Jigglypuff, Meowth, Psyduck, Mew, Gengar, Magikarp, Gyarados"},
 }
+
+# Discotecas de Madrid y Valencia que casi nadie de allí dejaría fuera y que ni OpenStreetMap ni Xceed traen
+# (o traen con otro nombre). Es lo único de la pregunta que no sale de una base de datos; van al nivel 3.
+DISCOS_ES = """Gunilla, Bardot, Nazca, Graf, Giselle, Archy, Nuit, Space of Sound, LL Bar=LL Show Bar, Toni 2, Maravillas Club=Sala Maravillas,
+Sala Barco=El Barco, Thundercat, Epoka, Fortuny, Ramses, Serrano 41, Green, Snobissimo, Ohm=Sala Bash=Bash, Sala Arena, La Paqui=Sala Heineken,
+Sala Caracol=Caracol, Xenon, Rock-Ola=Rockola, La Vía Láctea=Vía Láctea, El Penta=Pentagrama, Nasti, El Amante, Palacio de Gaviria=Gaviria,
+Pachá Madrid, Bling Bling Madrid, Sala Republik=Republik, Le Boutique, Cuenca Club, Mau Mau, Samsara, Delirio, Wurlitzer Ballroom=Wurlitzer,
+L'Umbracle=Umbracle, Marina Beach Club=Marina Beach, Piccadilly=Picca, Salomé, Johann Sebastian Bach=Juan Sebastian Bach=Bach, Nylon=Nylon Club,
+Caribbean's=Caribbeans, Agenda Club=Agenda, Las Ánimas=Ánimas Puerto=Animas, Bounty, Excuse Me?=Excuse Me, Xtra Lrge=XL=XtraLrge, Murray Club=Murray,
+Fox Congo, Apache, NPI=N.P.I., Arena Auditorium, Villa Adelina, Don Julio, Heaven, Woody, 16 Toneladas, Jerusalem=Jerusalem Club, Vivir sin dormir,
+Guru, Pachá Valencia, Espiral, Dreams Village, Distrito 10, Calcatta, Bacarrá=Bacarra, Coco Loco, Falkata, KM=KM Disco, Mirror, Le Club, Zeus,
+Radio City, La Fábrica de Hielo, Repvblicca=Republicca=Sala Repvblicca"""

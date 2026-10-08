@@ -9,7 +9,7 @@ Lo que está en la fuente y no en la lista a mano cae en los niveles altos segú
 Uso:  python3 scripts/siete/tanda2.py [slug …]     (sin argumentos, las 35)"""
 import sys, html
 from comun import *
-from mano_t2 import MANO
+from mano_t2 import MANO, DISCOS_ES
 
 T2 = FUENTES / "t2"
 QID = re.compile(r"Q\d+$")
@@ -202,9 +202,65 @@ def nombres_vascos():
     filas = sorted(((n, [], frec.get(k, 0)) for k, n in nombres.items()), key=lambda f: -f[2])
     junta("nombres_vascos", por_puesto(filas, [15, 40, 90, 160]), "personas_con_ese_nombre_ine")
 
+# ── discotecas: Wikidata (las que tienen artículo) + OpenStreetMap + Xceed, bajadas por baja_discotecas.py ──
+T3 = FUENTES / "t3"
+LATINO = lambda t: not re.search(r"[^\x00-ɏ‘’´`·]", t)
+# locales que OSM o Xceed mezclan con las discotecas: de alterne, y recintos donde solo se monta alguna fiesta
+NO_DISCO = re.compile(r"swing|strip| en sala |cruising|sauna|alterne|er[oó]tic|\bsex|show ?girls?|lap ?dance|liberal|gentlem[ae]n|table ?dance|cabaret"
+                      r"|\b(hotel|hostel|museo|museu|parque|parc|plaza|pla[cç]a|feria|fira|ifema|jardines|jard[ií]n|falla|festival|gallery|galer[ií]a"
+                      r"|estadio|pabell[oó]n|recinto|auditorio|location|tba|restaurante?|ciutat|centre|centro|camping|polideportivo|ayuntamiento)\b", re.I)
+DIA = r"lunes|martes|mi[eé]rcoles|jueves|viernes|s[aá]bados?|domingos?"
+ANTES = r"(?:discoteca|discoth[eè]que|discoteque|discotheek|diskothek|disco[- ]?pub|disco[- ]?bar|disco|sala|club|pub|teatro|the|night ?club)"
+DESPUES = r"(?:discoteca|discoth[eè]que|discoteque|disco|club|night ?club|the club|music club|social club|dance club)"
+def nombres_disco(nombre, ciudad=""):
+    """Nombre tal como se enseña y las formas en que la gente lo dice: sin «Discoteca», sin «Club», sin la ciudad."""
+    n = re.sub(r"\s+", " ", html.unescape(nombre)).strip(" .·-|")
+    n = re.sub(rf"\s+(?:{DIA})$", "", n, flags=re.I)
+    if n.isupper() and len(n) > 4: n = n.title()
+    formas = [n, re.split(r"\s+[-–|/]\s+|\s+by\s+|\s*\(", n)[0]]
+    for f in list(formas):
+        corto = re.sub(rf"^{ANTES}\s+", "", f, flags=re.I)
+        corto = re.sub(rf"\s+{DESPUES}$", "", corto, flags=re.I)
+        formas.append(corto)
+        if ciudad: formas.append(re.sub(rf"\s+{re.escape(ciudad)}$", "", corto, flags=re.I))
+    return n, [f for f in dict.fromkeys(formas) if f != n and len(clave(f)) >= 3]
+
+def osm_discos(pais):
+    ruta = T3 / f"osm_{pais}.json"
+    for e in json.loads(ruta.read_text(encoding="utf-8"))["elements"] if ruta.exists() else []:
+        t = e["tags"]
+        n = t["name"] if LATINO(t["name"]) else t.get("name:en") or t.get("int_name") or t.get("name:es") or ""
+        if not n or not LATINO(n) or NO_DISCO.search(n) or len(n) > 40: continue
+        yield n, [t[k] for k in ("alt_name", "short_name", "old_name", "name:es") if t.get(k) and LATINO(t[k]) and ";" not in t[k]], t.get("addr:city", "")
+
 def discotecas():
-    junta("discotecas", [(SIN_PAREN(r["n"]), r["alts"][:3], 4 if r["links"] >= 12 else 5, r["links"]) for r in wd("discotecas")
-                         if r["links"] >= 2 and not re.search(r"[^\x00-ɏ]", r["n"])], "ediciones_wikipedia")
+    cola = [(SIN_PAREN(r["n"]), r["alts"][:3], 4 if r["links"] >= 12 else 5, r["links"]) for r in wd("discotecas")
+            if r["links"] >= 2 and not re.search(r"[^\x00-ɏ]", r["n"])]
+    cola += [(n, al, 3, 1) for n, *al in ([p.strip() for p in x.split("=")] for x in DISCOS_ES.replace("\n", " ").split(",") if x.strip())]
+    # España: nivel 4 si la traen las dos fuentes (o es de las cerradas con nombre propio en el mapa), 5 si solo una
+    esp = {}
+    def apunta(nombre, alias, ciudad, fuente):
+        n, formas = nombres_disco(nombre, ciudad)
+        k = min([clave(x) for x in [n] + formas if len(clave(x)) >= 3] or [clave(n)], key=len)
+        if not k: return
+        d = esp.setdefault(k, {"n": n, "al": [], "f": set()})
+        d["al"] += [x for x in formas + alias if x not in d["al"]]; d["f"].add(fuente)
+    for n, al, ciudad in osm_discos("es"): apunta(n, al, ciudad, "osm")
+    for n, al, ciudad in osm_discos("es_cerradas"): apunta(n, al, ciudad, "osm")
+    xceed = json.loads((T3 / "xceed_clubs.json").read_text(encoding="utf-8"))
+    pais = lambda c: ((c.get("city") or {}).get("country") or {}).get("isoCode")
+    xceed = [c for c in xceed if "CLUB" in c["types"] and LATINO(c["name"]) and not NO_DISCO.search(c["name"]) and len(c["name"]) <= 40]
+    for c in xceed:
+        if pais(c) == "ES": apunta(c["name"], [], c["city"]["name"], "xceed")
+    cola += [(d["n"], d["al"], 4 if len(d["f"]) > 1 else 5, len(d["f"])) for d in esp.values()]
+    # resto de Europa: todo al fondo
+    europa = "pt fr it de at ch gb ie nl be lu se no dk fi is pl cz sk hu ro bg gr hr si rs ba me mk al cy mt ee lv lt ua ad".split()
+    fuera = [(n, al, ciudad) for p in europa for n, al, ciudad in osm_discos(p)]
+    fuera += [(c["name"], [], c["city"]["name"]) for c in xceed if (pais(c) or "").lower() in europa]
+    for nombre, alias, ciudad in fuera:
+        n, formas = nombres_disco(nombre, ciudad)
+        cola.append((n, formas + alias, 5, 0))
+    junta("discotecas", cola, "ediciones_wikipedia_o_fuentes")
 
 def cartas():
     cola = [(SIN_PAREN(t), [], 4, 1) for t in categoria("cat_naipes_es") if ":" not in t and t not in ("Baraja", "Juego de naipes")]
