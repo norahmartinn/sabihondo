@@ -28,8 +28,23 @@ def overpass(nombre, consulta):
             print(nombre, "reintento", e, flush=True); time.sleep(10 * (intento + 1))
     print(nombre, "SIN DATOS", flush=True)
 
+LANDER = "BW BY BE BB HB HH HE MV NI NW RP SL SN ST SH TH".split()
+def alemania():
+    """Alemania entera da timeout en Overpass: se pide estado a estado y se junta en osm_de.json."""
+    if (T3 / "osm_de.json").exists(): return
+    todo = {}
+    for l in LANDER:
+        overpass(f"osm_de_{l.lower()}", f'[out:json][timeout:120];area["ISO3166-2"="DE-{l}"]->.a;nwr["amenity"="nightclub"]["name"](area.a);out tags center;')
+        trozo = T3 / f"osm_de_{l.lower()}.json"
+        if not trozo.exists(): print("Alemania incompleta, falta", l); return
+        for e in json.loads(trozo.read_text(encoding="utf-8"))["elements"]: todo[(e["type"], e["id"])] = e
+    (T3 / "osm_de.json").write_text(json.dumps({"elements": list(todo.values())}, ensure_ascii=False), encoding="utf-8")
+    for l in LANDER: (T3 / f"osm_de_{l.lower()}.json").unlink()
+
 def osm():
+    alemania()
     for p in PAISES:
+        if p == "DE": continue
         overpass(f"osm_{p.lower()}", f'[out:json][timeout:180];area["ISO3166-1"="{p}"][admin_level=2]->.a;'
                                      'nwr["amenity"="nightclub"]["name"](area.a);out tags center;')
     overpass("osm_es_cerradas", '[out:json][timeout:180];area["ISO3166-1"="ES"][admin_level=2]->.a;('
