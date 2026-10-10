@@ -101,6 +101,27 @@ $$;
 revoke all on function public.sabihondo_ranking(date) from public;
 grant execute on function public.sabihondo_ranking(date) to anon, authenticated;
 
+-- Lo mejor de la semana: los cinco con cuenta que más metros han bajado entre dos fechas, sumando sus partidas.
+-- Igual que el ranking del día: ni emails ni respuestas. En el empate va antes quien menos días necesitó.
+create or replace function public.sabihondo_semana(desde date, hasta date)
+returns table (puesto bigint, apodo text, metros bigint, dias bigint, eres_tu boolean)
+language sql stable security definer set search_path = ''
+as $$
+  select rank() over (order by sum(p.puntos) desc),
+         left(coalesce(nullif(btrim(u.raw_user_meta_data->>'apodo'), ''), 'Anónimo'), 20),
+         sum(p.puntos),
+         count(*),
+         coalesce(p.user_id = auth.uid(), false)
+  from public.sabihondo_partidas p
+  join auth.users u on u.id = p.user_id
+  where p.fecha between sabihondo_semana.desde and sabihondo_semana.hasta
+  group by p.user_id, u.raw_user_meta_data
+  order by sum(p.puntos) desc, count(*) asc
+  limit 5;
+$$;
+revoke all on function public.sabihondo_semana(date, date) from public;
+grant execute on function public.sabihondo_semana(date, date) to anon, authenticated;
+
 -- Intentos rechazados: todo lo que alguien escribe y no está en el banco, con o sin cuenta.
 -- Nadie puede leerlos desde la web; se revisan aquí para ampliar las listas.
 create table if not exists public.sabihondo_fallos (

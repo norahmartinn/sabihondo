@@ -25,6 +25,12 @@
 .top-resp.recta{font-style:normal}   /* un emoji no se inclina */
 .top-resp.varias{font-size:clamp(25px,6.6vw,31px)}
 .top-quien{margin:0;font-size:18px;font-weight:800;color:#ee6fa3}
+.top-metros{list-style:none;margin:0;padding:0;width:100%;display:grid;gap:8px;text-align:left}
+.top-metros li{display:grid;grid-template-columns:28px minmax(0,1fr) auto;gap:10px;align-items:baseline;padding:11px 14px;border-radius:14px;background:rgba(251,247,242,.08)}
+.top-metros li.tu{background:rgba(238,111,163,.22)}
+.top-metros span{font-family:var(--disp);font-size:22px;color:#ee6fa3}
+.top-metros b{font-size:18px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.top-metros em{font-style:normal;font-weight:800;font-size:17px;font-variant-numeric:tabular-nums;white-space:nowrap}
 .top-pasos{display:flex;gap:10px}
 .top-pasos button{flex:1;font:inherit;font-weight:800;font-size:16px;border-radius:14px;padding:13px 10px;cursor:pointer;
   border:1.5px solid rgba(251,247,242,.4);background:transparent;color:#fbf7f2}
@@ -1165,8 +1171,10 @@ function escalera(r){
    Las respuestas más graciosas (salen de la tabla sabihondo_fallos), una por pantalla. Se enseña una vez,
    al acabar la partida diaria de TOP_SEMANA.fecha. Para otra semana: cambiar la fecha y la lista.
    Cuando alguien probó varias veces lo mismo, `r` es la lista de intentos en el orden en que los escribió.
+   La última pantalla son los cinco que más metros han bajado entre `desde` y `fecha` (función sabihondo_semana de
+   supabase/schema.sql); si la función no está o no hay nadie, esa pantalla no sale.
    Para verlo sin jugar: abrir la página con #top-semana al final de la dirección. */
-const TOP_SEMANA = {fecha:"2026-10-11", lista:[
+const TOP_SEMANA = {fecha:"2026-10-11", desde:"2026-10-05", lista:[
   {q:"Nombra un personaje de Bob Esponja", r:"abuela pasa", de:"Adriana"},
   {q:"Nombra una marca de zapatillas", r:"iphone", de:"el goat"},
   {q:"Nombra algo del menú de McDonald's", r:"mc aitana", de:"Rafel"},
@@ -1175,13 +1183,19 @@ const TOP_SEMANA = {fecha:"2026-10-11", lista:[
   {q:"Nombra una canción de Taylor Swift", r:"🥸", de:"Jaime"}
 ]};
 function topSemana(){
-  const L = TOP_SEMANA.lista, antes = document.activeElement;
+  const L = TOP_SEMANA.lista.slice(), antes = document.activeElement;
   const velo = document.createElement("div");
   velo.className = "top-velo"; velo.setAttribute("role","dialog"); velo.setAttribute("aria-modal","true"); velo.setAttribute("aria-label","Lo mejor de la semana");
   let i = 0;
   const cierra = () => { velo.remove(); document.removeEventListener("keydown", tecla); antes?.focus?.({preventScroll:true}); };
   const pinta = () => {
     const t = L[i], ultimo = i === L.length - 1;
+    const centro = t.filas
+      ? `<p class="top-preg">Quién ha bajado más metros esta semana</p>
+         <ol class="top-metros">${t.filas.map(f => `<li class="${f.eres_tu ? "tu" : ""}"><span>${f.puesto}</span><b>${esc(f.apodo)}${f.eres_tu ? " (tú)" : ""}</b><em>${mil(f.metros)} m</em></li>`).join("")}</ol>`
+      : `<p class="top-preg">${esc(t.q)}</p>
+         ${[].concat(t.r).map(x => `<p class="top-resp${Array.isArray(t.r) ? " varias" : ""}${/[\p{L}\p{N}]/u.test(x) ? "" : " recta"}">"${esc(x)}"</p>`).join("")}
+         <p class="top-quien">de ${esc(t.de)}</p>`;
     velo.innerHTML = `
     <div class="top-carta">
       <div>
@@ -1189,9 +1203,7 @@ function topSemana(){
         <div class="top-cab"><span>Lo mejor de la semana · ${i+1} de ${L.length}</span><button class="top-cerrar" type="button" aria-label="Cerrar">×</button></div>
       </div>
       <div class="top-centro" aria-live="polite">
-        <p class="top-preg">${esc(t.q)}</p>
-        ${[].concat(t.r).map(x => `<p class="top-resp${Array.isArray(t.r) ? " varias" : ""}${/[\p{L}\p{N}]/u.test(x) ? "" : " recta"}">"${esc(x)}"</p>`).join("")}
-        <p class="top-quien">de ${esc(t.de)}</p>
+        ${centro}
       </div>
       <div class="top-pasos">
         <button type="button" class="ant" ${i===0?"disabled":""}>Anterior</button>
@@ -1210,6 +1222,10 @@ function topSemana(){
   };
   document.addEventListener("keydown", tecla);
   document.body.append(velo); pinta();
+  Cuenta.sb?.rpc("sabihondo_semana", {desde:TOP_SEMANA.desde, hasta:TOP_SEMANA.fecha}).then(({data, error}) => {
+    if (error || !data?.length || !velo.isConnected) return;
+    L.push({filas:data}); pinta();
+  }, () => {});
 }
 if (location.hash === "#top-semana") addEventListener("load", () => setTimeout(topSemana, 400));
 
