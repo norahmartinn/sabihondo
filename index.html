@@ -1795,7 +1795,7 @@ async function ranking(vista = "hoy"){
   if (!filas.length) return marco(semana
     ? `<p class="mini"><b>Esta semana todavía no ha jugado nadie con cuenta.</b></p>`
     : `<p class="mini"><b>Todavía no ha jugado nadie con cuenta.</b> El primero que termine la partida de hoy se pone líder.</p>`);
-  marco(`${semana ? `<p class="mini">Metros que ha bajado cada uno de lunes a domingo, sumando todas sus partidas.</p>` : ``}
+  marco(`${semana ? `<p class="mini">Metros totales sumergidos esta semana</p>` : ``}
     <ol class="ranking">${filas.map(f => `<li class="${f.eres_tu ? "tu" : ""}">
       <span class="puesto">${esc(f.puesto)}</span>
       <span class="quien">${esc(f.apodo)}${f.eres_tu ? " (tú)" : ""}</span>
