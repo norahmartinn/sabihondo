@@ -1763,7 +1763,8 @@ $("#bAyuda").addEventListener("click", ()=>ayuda($("#ayuda").hidden));
 
 /* ═════════ ranking del día: quien tiene cuenta, con su apodo ═════════ */
 async function ranking(vista = "hoy"){
-  const haySemanal = hoyMadrid() >= "2026-10-11";          // el podio semanal se estrena el domingo 11
+  // el podio semanal se estrena el domingo 11; antes solo se ve abriendo la página con #podio-semanal
+  const haySemanal = hoyMadrid() >= "2026-10-11" || location.hash === "#podio-semanal";
   const caja = $("#ayuda"), semana = haySemanal && vista === "semana";
   caja.hidden = false; caja.scrollTop = 0;
   const marco = cuerpo => { caja.innerHTML = `
@@ -1803,6 +1804,7 @@ async function ranking(vista = "hoy"){
       <span class="metros">${mil(semana ? f.metros : f.puntos)} m</span></li>`).join("")}</ol>
     ${Cuenta.user ? "" : `<p class="mini">Para salir aquí hace falta una cuenta.</p>`}`);
 }
+if (location.hash === "#podio-semanal") addEventListener("load", () => setTimeout(() => ranking("semana"), 600));
 // el lunes de la semana de una fecha AAAA-MM-DD
 function lunesDe(fecha){
   const [Y,M,D] = fecha.split("-").map(Number), d = new Date(Date.UTC(Y, M-1, D));
