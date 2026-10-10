@@ -10,6 +10,9 @@
 <link rel="manifest" href="manifest.webmanifest?v=2">
 <meta name="apple-mobile-web-app-title" content="Sabihondo">
 <style>[hidden]{display:none!important}/* ── lo mejor de la semana: historias a pantalla completa al acabar la partida del domingo ── */
+.pestanas{display:flex;gap:6px;margin:14px 0 16px;padding:4px;border-radius:14px;background:color-mix(in srgb,var(--tinta) 8%,transparent)}
+.pestanas button{flex:1;font:inherit;font-weight:800;font-size:15px;padding:9px 8px;border:0;border-radius:10px;background:transparent;color:var(--tinta-suave);cursor:pointer}
+.pestanas button[aria-selected="true"]{background:var(--tinta);color:#fbf7f2}
 .top-velo{position:fixed;inset:0;z-index:60;background:rgba(9,24,45,.62);display:grid;place-items:center;
   padding:max(16px,env(safe-area-inset-top)) 16px max(16px,env(safe-area-inset-bottom));animation:top-entra .25s ease-out}
 .top-carta{width:min(400px,100%);height:min(640px,100%);background:#12294b;color:#fbf7f2;border-radius:24px;padding:16px 18px 18px;
@@ -944,7 +947,7 @@ function portada(){
 
   $("#bJugar")?.addEventListener("click", e => empieza("diaria", e.currentTarget));
   trasPintar();
-  $("#bPodio")?.addEventListener("click", ranking);
+  $("#bPodio")?.addEventListener("click", () => ranking());
   $("#bVer")?.addEventListener("click", () => { J = {modo:"diaria", ...hecho, revisita:true}; final(); });
 }
 
@@ -1224,7 +1227,7 @@ function topSemana(){
   document.body.append(velo); pinta();
   Cuenta.sb?.rpc("sabihondo_semana", {desde:TOP_SEMANA.desde, hasta:TOP_SEMANA.fecha}).then(({data, error}) => {
     if (error || !data?.length || !velo.isConnected) return;
-    L.push({filas:data}); pinta();
+    L.push({filas:data.slice(0,5)}); pinta();
   }, () => {});
 }
 if (location.hash === "#top-semana") addEventListener("load", () => setTimeout(topSemana, 400));
@@ -1309,7 +1312,7 @@ function final(){
   $("#bImagen").addEventListener("click", () => compartirImagen(metros, J.res, J.fecha));
   $("#bGuardar")?.addEventListener("click", ()=>abreCuenta(true, "alta"));
   trasPintar();
-  $("#bVerRanking")?.addEventListener("click", ranking);
+  $("#bVerRanking")?.addEventListener("click", () => ranking());
   $("#bIni").addEventListener("click", portada);
 }
 
@@ -1759,31 +1762,51 @@ function ayuda(abrir){
 $("#bAyuda").addEventListener("click", ()=>ayuda($("#ayuda").hidden));
 
 /* ═════════ ranking del día: quien tiene cuenta, con su apodo ═════════ */
-async function ranking(){
-  const caja = $("#ayuda");
+async function ranking(vista = "hoy"){
+  const caja = $("#ayuda"), semana = vista === "semana";
   caja.hidden = false; caja.scrollTop = 0;
   const marco = cuerpo => { caja.innerHTML = `
     <div class="panel">
-      <h2>Podio de hoy</h2>
+      <h2>${semana ? "Podio semanal" : "Podio de hoy"}</h2>
+      <div class="pestanas" role="tablist">
+        <button type="button" role="tab" id="bPodioHoy" aria-selected="${!semana}">Hoy</button>
+        <button type="button" role="tab" id="bPodioSemana" aria-selected="${semana}">Podio semanal</button>
+      </div>
       ${cuerpo}
       <div class="botonera"><button class="btn" id="bCerrar">Volver</button>
         ${Cuenta.user ? "" : `<button class="btn fantasma" id="bRankCuenta">Crear una cuenta</button>`}</div>
     </div>`;
     $("#bCerrar").addEventListener("click", () => ayuda(false));
+    $("#bPodioHoy").addEventListener("click", () => { if (semana) ranking("hoy"); });
+    $("#bPodioSemana").addEventListener("click", () => { if (!semana) ranking("semana"); });
     $("#bRankCuenta")?.addEventListener("click", () => { ayuda(false); abreCuenta(true, "alta"); });
   };
   marco(`<p class="mini">Cargando…</p>`);
-  $("#bCerrar").focus({preventScroll:true});
+  $(semana ? "#bPodioSemana" : "#bCerrar").focus({preventScroll:true});
   let filas = null;
-  try{ const {data, error} = await Cuenta.sb.rpc("sabihondo_ranking", {dia:hoyMadrid()}); if (!error) filas = data; }catch{}
-  if (caja.hidden) return;
+  try{
+    const {data, error} = semana ? await Cuenta.sb.rpc("sabihondo_semana", {desde:lunesDe(hoyMadrid()), hasta:hoyMadrid()})
+                                 : await Cuenta.sb.rpc("sabihondo_ranking", {dia:hoyMadrid()});
+    if (!error) filas = data;
+  }catch{}
+  // si mientras cargaba se ha cerrado o se ha cambiado de pestaña, esta respuesta ya no pinta nada
+  if (caja.hidden || semana !== ($("#bPodioSemana")?.getAttribute("aria-selected") === "true")) return;
   if (!filas) return marco(`<p class="mini">Ahora mismo no se puede cargar el podio. Prueba dentro de un rato.</p>`);
-  if (!filas.length) return marco(`<p class="mini"><b>Todavía no ha jugado nadie con cuenta.</b> El primero que termine la partida de hoy se pone líder.</p>`);
-  marco(`<ol class="ranking">${filas.map(f => `<li class="${f.eres_tu ? "tu" : ""}">
+  if (!filas.length) return marco(semana
+    ? `<p class="mini"><b>Esta semana todavía no ha jugado nadie con cuenta.</b></p>`
+    : `<p class="mini"><b>Todavía no ha jugado nadie con cuenta.</b> El primero que termine la partida de hoy se pone líder.</p>`);
+  marco(`${semana ? `<p class="mini">Metros que ha bajado cada uno de lunes a domingo, sumando todas sus partidas.</p>` : ``}
+    <ol class="ranking">${filas.map(f => `<li class="${f.eres_tu ? "tu" : ""}">
       <span class="puesto">${esc(f.puesto)}</span>
       <span class="quien">${esc(f.apodo)}${f.eres_tu ? " (tú)" : ""}</span>
-      <span class="metros">${mil(f.puntos)} m</span></li>`).join("")}</ol>
+      <span class="metros">${mil(semana ? f.metros : f.puntos)} m</span></li>`).join("")}</ol>
     ${Cuenta.user ? "" : `<p class="mini">Para salir aquí hace falta una cuenta.</p>`}`);
+}
+// el lunes de la semana de una fecha AAAA-MM-DD
+function lunesDe(fecha){
+  const [Y,M,D] = fecha.split("-").map(Number), d = new Date(Date.UTC(Y, M-1, D));
+  d.setUTCDate(d.getUTCDate() - (d.getUTCDay() + 6) % 7);
+  return d.toISOString().slice(0,10);
 }
 $("#bRanking").addEventListener("click", () => $("#ayuda").hidden ? ranking() : ayuda(false));
 addEventListener("keydown", e => { if (e.key === "Escape"){ ayuda(false); abreCuenta(false); } });

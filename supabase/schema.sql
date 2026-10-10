@@ -101,8 +101,10 @@ $$;
 revoke all on function public.sabihondo_ranking(date) from public;
 grant execute on function public.sabihondo_ranking(date) to anon, authenticated;
 
--- Lo mejor de la semana: los cinco con cuenta que más metros han bajado entre dos fechas, sumando sus partidas.
+-- Podio semanal: los metros que ha bajado cada persona con cuenta entre dos fechas, sumando sus partidas (hasta 100).
 -- Igual que el ranking del día: ni emails ni respuestas. En el empate va antes quien menos días necesitó.
+-- Quien tenga fuera_top = true en los datos de su cuenta no sale (la autora del juego). Se pone una vez con:
+--   update auth.users set raw_user_meta_data = coalesce(raw_user_meta_data, '{}'::jsonb) || '{"fuera_top": true}'::jsonb where email = '…';
 create or replace function public.sabihondo_semana(desde date, hasta date)
 returns table (puesto bigint, apodo text, metros bigint, dias bigint, eres_tu boolean)
 language sql stable security definer set search_path = ''
@@ -115,9 +117,10 @@ as $$
   from public.sabihondo_partidas p
   join auth.users u on u.id = p.user_id
   where p.fecha between sabihondo_semana.desde and sabihondo_semana.hasta
+    and coalesce(u.raw_user_meta_data->>'fuera_top', '') <> 'true'
   group by p.user_id, u.raw_user_meta_data
   order by sum(p.puntos) desc, count(*) asc
-  limit 5;
+  limit 100;
 $$;
 revoke all on function public.sabihondo_semana(date, date) from public;
 grant execute on function public.sabihondo_semana(date, date) to anon, authenticated;
