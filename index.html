@@ -1763,22 +1763,23 @@ $("#bAyuda").addEventListener("click", ()=>ayuda($("#ayuda").hidden));
 
 /* ═════════ ranking del día: quien tiene cuenta, con su apodo ═════════ */
 async function ranking(vista = "hoy"){
-  const caja = $("#ayuda"), semana = vista === "semana";
+  const haySemanal = hoyMadrid() >= "2026-10-11";          // el podio semanal se estrena el domingo 11
+  const caja = $("#ayuda"), semana = haySemanal && vista === "semana";
   caja.hidden = false; caja.scrollTop = 0;
   const marco = cuerpo => { caja.innerHTML = `
     <div class="panel">
       <h2>${semana ? "Podio semanal" : "Podio de hoy"}</h2>
-      <div class="pestanas" role="tablist">
+      ${haySemanal ? `<div class="pestanas" role="tablist">
         <button type="button" role="tab" id="bPodioHoy" aria-selected="${!semana}">Hoy</button>
         <button type="button" role="tab" id="bPodioSemana" aria-selected="${semana}">Podio semanal</button>
-      </div>
+      </div>` : ``}
       ${cuerpo}
       <div class="botonera"><button class="btn" id="bCerrar">Volver</button>
         ${Cuenta.user ? "" : `<button class="btn fantasma" id="bRankCuenta">Crear una cuenta</button>`}</div>
     </div>`;
     $("#bCerrar").addEventListener("click", () => ayuda(false));
-    $("#bPodioHoy").addEventListener("click", () => { if (semana) ranking("hoy"); });
-    $("#bPodioSemana").addEventListener("click", () => { if (!semana) ranking("semana"); });
+    $("#bPodioHoy")?.addEventListener("click", () => { if (semana) ranking("hoy"); });
+    $("#bPodioSemana")?.addEventListener("click", () => { if (!semana) ranking("semana"); });
     $("#bRankCuenta")?.addEventListener("click", () => { ayuda(false); abreCuenta(true, "alta"); });
   };
   marco(`<p class="mini">Cargando…</p>`);
