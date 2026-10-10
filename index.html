@@ -21,7 +21,7 @@
 .top-cerrar{font:inherit;font-size:22px;line-height:1;background:none;border:0;color:#fbf7f2;cursor:pointer;padding:4px 8px;margin:-4px -8px -4px 0}
 .top-centro{display:flex;flex-direction:column;gap:16px;align-items:center;min-height:0;overflow:auto}
 .top-preg{margin:0;font-size:16.5px;color:#c9d3e2}
-.top-resp{margin:0;font-family:var(--disp);font-weight:400;font-size:clamp(34px,9vw,44px);line-height:1.1;text-wrap:balance;overflow-wrap:anywhere}
+.top-resp{margin:0;font-family:var(--disp);font-weight:400;font-style:italic;font-size:clamp(34px,9vw,44px);line-height:1.1;text-wrap:balance;overflow-wrap:anywhere}
 .top-resp.varias{font-size:clamp(25px,6.6vw,31px)}
 .top-quien{margin:0;font-size:18px;font-weight:800;color:#ee6fa3}
 .top-pasos{display:flex;gap:10px}
@@ -1189,7 +1189,7 @@ function topSemana(){
       </div>
       <div class="top-centro" aria-live="polite">
         <p class="top-preg">${esc(t.q)}</p>
-        ${[].concat(t.r).map(x => `<p class="top-resp${Array.isArray(t.r) ? " varias" : ""}">«${esc(x)}»</p>`).join("")}
+        ${[].concat(t.r).map(x => `<p class="top-resp${Array.isArray(t.r) ? " varias" : ""}">"${esc(x)}"</p>`).join("")}
         <p class="top-quien">de ${esc(t.de)}</p>
       </div>
       <div class="top-pasos">
