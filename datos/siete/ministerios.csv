@@ -1,0 +1,23 @@
+respuesta;alias;nivel;orden_a_mano
+Hacienda;Ministerio de Hacienda|ministerio Ministerio de Hacienda;1;1000000000
+Sanidad;Ministerio de Sanidad|ministerio Ministerio de Sanidad;1;999999999
+Interior;Ministerio del Interior|ministerio Ministerio del Interior;1;999999998
+Educación;Ministerio de Educación|Educación Formación Profesional y Deportes|Deportes|Deporte|Formación Profesional|ministerio Ministerio de Educación|ministerio Educación Formación Profesional y Deportes|ministerio Deportes|ministerio Deporte|ministerio Formación Profesional;1;999999997
+Defensa;Ministerio de Defensa|ministerio Ministerio de Defensa;2;1000000000
+Trabajo;Ministerio de Trabajo|Trabajo y Economía Social|Economía Social|ministerio Ministerio de Trabajo|ministerio Trabajo y Economía Social|ministerio Economía Social;2;999999999
+Igualdad;Ministerio de Igualdad|ministerio Ministerio de Igualdad;2;999999998
+Cultura;Ministerio de Cultura|ministerio Ministerio de Cultura;2;999999997
+Economía;Ministerio de Economía|Economía Comercio y Empresa|Comercio|ministerio Ministerio de Economía|ministerio Economía Comercio y Empresa|ministerio Comercio;2;999999996
+Exteriores;Asuntos Exteriores|Ministerio de Asuntos Exteriores|Asuntos Exteriores Unión Europea y Cooperación|ministerio Exteriores|ministerio Ministerio de Asuntos Exteriores|ministerio Asuntos Exteriores Unión Europea y Cooperación;2;999999995
+Justicia;Presidencia|Presidencia Justicia y Relaciones con las Cortes|Ministerio de Justicia|Ministerio de la Presidencia|ministerio Presidencia Justicia y Relaciones con las Cortes|ministerio Ministerio de Justicia|ministerio Ministerio de la Presidencia;2;999999994
+Transportes;Transportes y Movilidad Sostenible|Fomento|Movilidad Sostenible|ministerio Transportes|ministerio Transportes y Movilidad Sostenible|ministerio Fomento|ministerio Movilidad Sostenible;3;1000000000
+Vivienda;Vivienda y Agenda Urbana|ministerio Vivienda|ministerio Vivienda y Agenda Urbana;3;999999999
+Agricultura;Agricultura Pesca y Alimentación|Pesca|Alimentación|ministerio Agricultura|ministerio Agricultura Pesca y Alimentación|ministerio Pesca|ministerio Alimentación;3;999999998
+Transición Ecológica;Transición Ecológica y Reto Demográfico|Medio Ambiente|Reto Demográfico|ministerio Transición Ecológica|ministerio Transición Ecológica y Reto Demográfico|ministerio Medio Ambiente|ministerio Reto Demográfico;3;999999997
+Ciencia;Ciencia Innovación y Universidades|Universidades|Innovación|ministerio Ciencia|ministerio Ciencia Innovación y Universidades|ministerio Universidades|ministerio Innovación;3;999999996
+Industria;Industria y Turismo|Turismo|ministerio Industria|ministerio Industria y Turismo|ministerio Turismo;3;999999995
+Seguridad Social;Inclusión Seguridad Social y Migraciones|Inclusión|Migraciones|ministerio Seguridad Social|ministerio Inclusión Seguridad Social y Migraciones|ministerio Inclusión|ministerio Migraciones;4;1000000000
+Derechos Sociales;Derechos Sociales Consumo y Agenda 2030|Consumo|Asuntos Sociales|Agenda 2030|ministerio Derechos Sociales|ministerio Derechos Sociales Consumo y Agenda 2030|ministerio Consumo|ministerio Asuntos Sociales|ministerio Agenda 2030;4;999999999
+Transformación Digital;Transformación Digital y de la Función Pública|Función Pública|ministerio Transformación Digital|ministerio Transformación Digital y de la Función Pública|ministerio Función Pública;5;1000000000
+Juventud e Infancia;Infancia|Juventud|ministerio Juventud e Infancia|ministerio Infancia|ministerio Juventud;5;999999999
+Política Territorial;Política Territorial y Memoria Democrática|Memoria Democrática|ministerio Política Territorial|ministerio Política Territorial y Memoria Democrática|ministerio Memoria Democrática;5;999999998

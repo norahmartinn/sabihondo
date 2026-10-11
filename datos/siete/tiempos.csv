@@ -1,0 +1,26 @@
+respuesta;alias;nivel;orden_a_mano
+presente;presente de indicativo|presente simple;1;1000000000
+pasado;pretérito;1;999999999
+futuro;futuro simple|futuro imperfecto|futuro de indicativo;1;999999998
+pretérito imperfecto;imperfecto|copretérito|pretérito imperfecto de indicativo;2;1000000000
+pretérito perfecto simple;pretérito indefinido|indefinido|perfecto simple;2;999999999
+pretérito perfecto compuesto;pretérito perfecto|perfecto compuesto|antepresente;2;999999998
+condicional;condicional simple|pospretérito;2;999999997
+pretérito pluscuamperfecto;pluscuamperfecto|antecopretérito;2;999999996
+imperativo;;2;999999995
+subjuntivo;presente de subjuntivo;2;999999994
+infinitivo;;2;999999993
+gerundio;;2;999999992
+participio;;2;999999991
+futuro perfecto;futuro compuesto|antefuturo;3;1000000000
+condicional compuesto;condicional perfecto|antepospretérito;3;999999999
+imperfecto de subjuntivo;pretérito imperfecto de subjuntivo;3;999999998
+pretérito anterior;antepretérito;4;1000000000
+pretérito perfecto de subjuntivo;perfecto de subjuntivo;4;999999999
+pluscuamperfecto de subjuntivo;pretérito pluscuamperfecto de subjuntivo;4;999999998
+infinitivo compuesto;;4;999999997
+gerundio compuesto;;4;999999996
+futuro de subjuntivo;futuro simple de subjuntivo|futuro imperfecto de subjuntivo;5;1000000000
+futuro perfecto de subjuntivo;futuro compuesto de subjuntivo;5;999999999
+aoristo;;5;999999998
+presente continuo;presente progresivo;5;999999997

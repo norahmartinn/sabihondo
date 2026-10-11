@@ -1,0 +1,47 @@
+respuesta;alias;nivel;orden_a_mano
+IVA;impuesto sobre el valor añadido;1;1000000000
+IRPF;la renta|impuesto sobre la renta|impuesto de la renta;1;999999999
+IBI;impuesto sobre bienes inmuebles|contribución;2;1000000000
+impuesto de sociedades;sociedades;2;999999999
+impuesto de sucesiones;sucesiones|sucesiones y donaciones|herencias|donaciones;2;999999998
+impuesto de circulación;IVTM|numerito|sello del coche;2;999999997
+impuesto de patrimonio;patrimonio|impuesto sobre el patrimonio;2;999999996
+plusvalía;plusvalía municipal|IIVTNU;2;999999995
+ITP;transmisiones patrimoniales|impuesto de transmisiones patrimoniales;3;1000000000
+impuesto de matriculación;matriculación;3;999999999
+impuesto sobre el tabaco;tabaco|impuesto del tabaco;3;999999998
+impuesto sobre el alcohol;alcohol|impuesto del alcohol;3;999999997
+impuesto de hidrocarburos;hidrocarburos|impuesto de la gasolina|gasolina;3;999999996
+IAE;impuesto de actividades económicas;3;999999995
+aranceles;arancel|aduanas;3;999999994
+tasa turística;impuesto turístico;3;999999993
+tasa de basuras;basuras|tasa de residuos;3;999999992
+impuestos especiales;;3;999999991
+IGIC;;3;999999990
+tasa Google;impuesto digital|impuesto sobre servicios digitales;3;999999989
+impuesto a las grandes fortunas;grandes fortunas|impuesto de solidaridad;3;999999988
+AJD;actos jurídicos documentados;4;1000000000
+ICIO;impuesto de construcciones;4;999999999
+tasa Tobin;impuesto sobre transacciones financieras;4;999999998
+impuesto a la banca;banca;4;999999997
+impuesto a las energéticas;energéticas;4;999999996
+impuesto de la electricidad;electricidad|impuesto eléctrico;4;999999995
+impuesto al plástico;plásticos|impuesto sobre envases de plástico;4;999999994
+impuesto sobre el juego;juego;4;999999993
+IRNR;impuesto de no residentes|renta de no residentes;4;999999992
+impuesto de primas de seguros;seguros;4;999999991
+impuesto al azúcar;bebidas azucaradas;4;999999990
+impuesto sobre la cerveza;cerveza;4;999999989
+canon del agua;canon de saneamiento;4;999999988
+IPSI;;5;1000000000
+gases fluorados;impuesto sobre gases fluorados;5;999999999
+alcabala;;5;999999998
+diezmo;;5;999999997
+portazgo;;5;999999996
+pontazgo;;5;999999995
+canon digital;;5;999999994
+céntimo sanitario;;5;999999993
+IVPEE;;5;999999992
+impuesto al carbón;carbón;5;999999991
+impuesto sobre depósitos bancarios;;5;999999990
+IGTE;;5;999999989

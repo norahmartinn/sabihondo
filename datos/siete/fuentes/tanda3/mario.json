@@ -1,0 +1,456 @@
+{
+  "head" : {
+    "vars" : [ "x", "xLabel", "en", "links", "art", "alts" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q838707"
+      },
+      "xLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mario Kart Wii"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mario Kart Wii"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "43"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Mario_Kart_Wii"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "MK Wii|MKW"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q858564"
+      },
+      "xLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mario Kart DS"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mario Kart DS"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "38"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Mario_Kart_DS"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "MKDS"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1046604"
+      },
+      "xLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mario Kart 64"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mario Kart 64"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "39"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Mario_Kart_64"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1061560"
+      },
+      "xLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Super Mario Kart"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Super Mario Kart"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "36"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Super_Mario_Kart"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Mario Kart saga"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1117024"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Mario Kart 7"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mario Kart 7"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "35"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Mario_Kart_7"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2068675"
+      },
+      "xLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mario Kart: Super Circuit"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mario Kart: Super Circuit"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "28"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Mario_Kart:_Super_Circuit"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "MKSC|Mario Kart Super Circuit|Mario Kart Advance"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2575214"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Mario Kart Arcade GP"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mario Kart Arcade GP"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "13"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Mario_Kart_Arcade_GP"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5721431"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Mario Kart: Double Dash!!"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mario Kart: Double Dash"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "33"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Mario_Kart:_Double_Dash!!"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "MKDD|Mario Kart: Double Dash!|Mario Kart: Double Dash|Mario Kart Double Dash!!|Mario Kart Double Dash!|Mario Kart Double Dash|Maestro Honguito"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9029138"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Mario Kart Arcade GP 2"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mario Kart Arcade GP 2"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "11"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Mario_Kart_Arcade_GP_2"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Mario Kart GP 2"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q13427106"
+      },
+      "xLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mario Kart 8"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mario Kart 8"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "42"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Mario_Kart_8"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16040657"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Mario Kart Arcade GP DX"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mario Kart Arcade GP DX"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "8"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Mario_Kart_Arcade_GP_DX"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q28321447"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Mario Kart 8 Deluxe"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mario Kart 8 Deluxe"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "12"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Mario_Kart_8_Deluxe"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q47530747"
+      },
+      "xLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mario Kart Tour"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mario Kart Tour"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "21"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Mario_Kart_Tour"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q48839359"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Mario Kart Arcade GP VR"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mario Kart Arcade GP VR"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "4"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Mario_Kart_Arcade_GP_VR"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q98844808"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Mario Kart Live: Home Circuit"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mario Kart Live: Home Circuit"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "19"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Mario_Kart_Live:_Home_Circuit"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q131767872"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Mario Kart World"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mario Kart World"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "24"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Mario_Kart_World"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Mario Kart 9"
+      }
+    } ]
+  }
+}

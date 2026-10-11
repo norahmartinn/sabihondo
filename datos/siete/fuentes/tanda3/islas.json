@@ -1,0 +1,5936 @@
+{
+  "head" : {
+    "vars" : [ "x", "xLabel", "en", "links", "art", "alts" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q191697"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Peñón de Alhucemas"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peñón de Alhucemas"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "39"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Pe%C3%B1%C3%B3n_de_Alhucemas"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Peñon de Alhucemas|Penón de Alhucemas|Isla de Alhucemas|Alhucemas"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q191750"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Isla de Perejil"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Perejil Islet"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "50"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Isla_de_Perejil"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Isla del Coral|Islote Perejil|Islote de Perejil|Isla del Perejil|Toura|Leyla"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q192534"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Fuerteventura"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Fuerteventura"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "80"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Fuerteventura"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Maxorata|Majorata|Isla de Fuerteventura|Erbani"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q201689"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "La Palma"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "La Palma"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "74"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/La_Palma"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "San Miguel de La Palma|Junonia|Isla de La Palma|La Isla Bonita|Benahoare"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q202968"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Isla de S'Espalmador"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "S'Espalmador"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "17"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Isla_de_Espalmador"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "S'Espalmador|Isla Espalmador"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q373767"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Isla de los Faisanes"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Pheasant Island"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "42"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Isla_de_los_Faisanes"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5485347"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Isla del Castellar"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "el Castellar"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "4"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Isla_del_Castellar"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5493677"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Isla Encalladora"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "S'Encalladora"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "7"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Isla_Encalladora"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "S'Encalladora"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5679744"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Isla de Las Palomas"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Isla de Las Palomas"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "17"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Isla_de_Las_Palomas"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Isla de Tarifa"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5922192"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Isla de Terreros"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Terreros Island"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "4"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Isla_de_Terreros"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Isla de los Terreros"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5998714"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Illa des Bosc"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Illa des Bosc"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "8"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Illa_des_Bosc"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6077580"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Planesia"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "2"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Planesia"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6078733"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Playa de El Puntal"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Playa de El Puntal"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "3"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Playa_de_El_Puntal_(Asturias)"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6078742"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Playa de España"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Playa de España"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "3"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Playa_de_Espa%C3%B1a"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6081563"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Isla de la Porraza"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Isla de sa Porrassa"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "9"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Isla_de_la_Porraza"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "La Porraza"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9009506"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Isla Ansarón"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "7"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Isla_Ansar%C3%B3n"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Isla Ansaron"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9009513"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Isla Ballota"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "6"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Isla_Ballota"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Isla Castro de Ballota|Castro La Ballota|Castro de La Ballota"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9009561"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Isla Gavoteira"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "2"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Isla_Gavoteira"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9009566"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Isla Guidoiro Areoso"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Illa do Arioso"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "5"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Isla_Guidoiro_Areoso"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Islas Guidoiro Areoso"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9009732"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Isla de Area"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "6"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Isla_de_Area"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Isla de area"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9009738"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "isla de Beiro"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "2"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Isla_de_Beiro"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Islote de Beiro|Islote Beiro|isla de Beiró|Illote Beiro|Illa de Beiro|Illote de Beiró"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9009749"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Isla de La Rúa"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Isla de La Rúa"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "6"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Isla_de_La_R%C3%BAa"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Isla de La Rua|Illa Rúa|Illa da Rúa"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9009753"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Isla de La Toja Pequeña"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "3"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Isla_de_La_Toja_Peque%C3%B1a"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Isla de La Toja Pequena"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9009763"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Isla de Mazarrón"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Isla de Mazarrón"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "3"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Isla_de_Mazarr%C3%B3n"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "La Islica|Isla de Mazarron|La Isla"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q52631"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Ibiza"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ibiza"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "104"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Ibiza"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q52636"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Menorca"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Menorca"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "90"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Menorca"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q52650"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Cabrera"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cabrera"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "43"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Isla_de_Cabrera"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1676124"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Isla de Ízaro"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Izaro Island"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "11"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Isla_de_%C3%8Dzaro"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Izaro|Isla de Izaro"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2344324"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Isla Mayor"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Isla del Barón"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "12"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Isla_Mayor_(Regi%C3%B3n_de_Murcia)"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Isla del Barón|Isla del Baron"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2362886"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Isla de las Palomas"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Isla de las Palomas, Cartagena"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "4"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Isla_de_las_Palomas_(Cartagena)"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2382896"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Illot des Porros"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Illot dels Porros"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "6"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Illot_des_Porros"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Illa d'en Porros"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2616360"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "isla Grosa"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Isla Grosa"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "13"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Isla_Grosa"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2875216"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Islote de La Nube"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "5"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Islote_de_La_Nube"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Isla de las Nubes"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2878849"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Isla de Santa Cruz"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Santa Cruz Island"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "5"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Isla_de_Santa_Cruz_(La_Coru%C3%B1a)"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Isla Santa Cruz|Santa Cruz"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2887433"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Isla de San Pedruco"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "5"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Isla_de_San_Pedruco"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Isla de San Pedro"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2893319"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Isla de Txatxarramendi"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Txatxarramendi"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "8"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Isla_de_Chacharramendi"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2917906"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Isla Massa d'Or"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Massa d'Or"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "7"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Isla_Massa_d%27Or"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3155357"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Isla de Mar"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Isla de Mar"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "12"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Isla_de_Mar"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Islote de Mar|Isla de mar|Islote de Afuera"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3207073"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Isla de la Cartuja"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Isla de La Cartuja"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "11"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Isla_de_la_Cartuja"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3314879"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Isla de Cortegada"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cortegada Island"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "12"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Isla_de_Cortegada"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "isla Cortegada"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3322704"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Isla de Colom"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Colom Island"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "12"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Isla_de_Colom"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Isla de Colón|Isla de Colon|Illa d'en Colom"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3323338"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Isla Villano"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "8"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Isla_Villano"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Isla del Fraile|Billao|Villano"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3324039"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Isla de Sálvora"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Sálvora Island"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "13"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Isla_de_S%C3%A1lvora"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Salvora|Isla Sálvora|Isla de Salvora|Sálvora"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3328059"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Isla de San Simón"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Island of San Simón"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "11"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Isla_de_San_Sim%C3%B3n"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Isla de San Simon"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3329199"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Isla Coelleira"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Coelleira"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "10"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Isla_Coelleira"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3329679"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Ons"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ons Island"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "19"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Isla_de_Ons"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Islas Ons|Isla de Ons|Illa de Ons"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3330183"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "El Bergantín"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "5"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/El_Bergant%C3%ADn"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "El Carallot|El Bergantin"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3330191"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Columbrete Grande"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Columbrete Grande"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "6"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Columbrete_Grande"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Illa Grossa|Columbrete Mayor"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3330227"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "La Horadada"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "La Horadada"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "5"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/La_Horadada"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3330301"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "La Ferrera"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "La Ferrera"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "5"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/La_Ferrera"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3330557"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Islote de Binicodrell"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Islet of Binicodrell"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "6"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Islote_de_Binicodrell"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "islote de Codrell|Escollo Codrell"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3393503"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Isla Perdiguera"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Perdiguera Island"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "8"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Isla_Perdiguera"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3393729"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Islote de Sancti Petri"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Islote de Sancti Petri"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "7"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Islote_de_Sancti_Petri"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Isla de Sancti Petri|Sancti Petri"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3393825"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "isla del Descubridor"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Illa del Descobridor"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "7"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Isla_del_Descubridor"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3393837"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Isla de Toralla"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Illa de Toralla"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "8"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Isla_de_Toralla"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Isla Toralla|Toralla"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3393917"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Isla del Portichol"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Illa del Portitxol"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "7"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Isla_del_Portichol"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Isla del Portitxol|Portichol"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3394373"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Isla de Onza"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Onza Island"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "9"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Isla_de_Onza"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Onzeta|Isla de Onceta"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3394383"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Isla de Escombreras"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Escombreras"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "8"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Isla_de_Escombreras"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Islote de Escombreras"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3394479"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Isla Conejera"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "6"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Isla_Conejera_(Cantabria)"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Isla de los Conejos"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3394490"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Isla de la Virgen del Mar"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Isla Virgen del Mar"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "8"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Isla_de_la_Virgen_del_Mar"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Isla Virgen del Mar"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3394730"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Isla del Castro"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Isla del Castro"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "7"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Isla_del_Castro"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3394734"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Isla de la Torre"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "8"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Isla_de_la_Torre"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Islote de la Torre"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3394732"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Isla del Castril"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "4"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Isla_del_Castril"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Las Lastras de Pechón|Las Lastras de Pechon"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3394741"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Isla Sarnosa"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "4"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Isla_Sarnosa"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Isla del Castru los Carneros|Castru los Carneros"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3394746"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Isla de Santa Marina"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "6"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Isla_de_Santa_Marina"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Isla de Los Jorganes|Santa Marina"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3394750"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Isla de Mouro"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mouro Island"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "13"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Isla_de_Mouro"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Isla de Mogro"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3395750"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Isla de la Deva y Playón de Bayas"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Isla La Deva y el Playón de Bayas"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "6"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Isla_de_La_Deva_y_Play%C3%B3n_de_Bayas"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Playon de Bayas|Isla de la Deva y Playon de Bayas|Isla de la Deva|Isla de Deva|Playón de Bayas"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3395767"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Isla del Forcón"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "4"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Isla_del_Forc%C3%B3n"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Isla del Forcon"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3395792"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Isla de Borizo"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "4"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Isla_de_Borizo"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Isla de Amielles"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3395905"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Isla Herbosa"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Isla Herbosa, Asturias"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "7"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Isla_Herbosa_(Asturias)"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3395913"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "La Islona"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "La Islona"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "8"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/La_Islona"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3399003"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Isla de Vionta"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Isla Vionta"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "4"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Isla_de_Vionta"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Isla Vionta"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3399011"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Isla Pancha"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Pancha island"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "6"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Isla_Pancha"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3399022"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Isla de San Clemente"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Santo do Mar island"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "7"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Isla_de_San_Clemente"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3593238"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Isla Tambo"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Isla Tambo"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "11"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Isla_de_Tambo"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Isla de Tambo"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3593506"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Isla del Rey"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Isla del Rey"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "11"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Isla_del_Rey_(Chafarinas)"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "isla del Rey Francisco (Chafarinas)|isla del Rey Francisco|Isla del Rey (Chafarinas)"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3733066"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Isla de Espardell"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Espardell Island"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "7"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Isla_de_Espardell"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "S'Espardell|Isla de espardell|Isla Espardell|Espardell"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3966585"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Isla da Altura"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "4"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Isla_da_Altura"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Illa da Altura"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4116534"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Isla de Garraitz"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Garraitz"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "8"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Isla_de_Garraitz"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "isla de San Nicolás|Garraitz"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4119050"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Isla Saltés"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Saltes Island"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "9"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Isla_Salt%C3%A9s"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Salthish|Saltés|Saltes|Isla Saltes|Isla de Saltés|Isla de Saltes|Isla de Hércules|Isla de Hercules"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5411542"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Islas Lobeiras"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Islas Lobeiras"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "4"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Islas_Lobeiras"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q417548"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Isla de Aquech"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Aketx"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "11"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Isla_de_Aquech"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Isla de Aqueche|Isla de Aketxe|Aketxe"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q426176"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Isla de León"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Isla de León"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "7"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Isla_de_Le%C3%B3n"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Isla de Leon|Real isla de León|San Fernando"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q490316"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Pantaleu"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Pantaleu"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "8"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Es_Pantaleu"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Es Pantaleu"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q580302"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Alegranza"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Alegranza"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "31"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Alegranza"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Isla de Alegranza"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q581042"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Isla Isabel II"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Isla de Isabel II"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "15"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Isla_de_Isabel_II"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q586819"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Cotinusa"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "3"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Cotinusa_(isla)"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q602960"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Isla de Benidorm"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Benidorm Island"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "13"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Isla_de_Benidorm"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Isla de los Periodistas"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q612237"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Isla Canela"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Isla Canela"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "8"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Isla_Canela"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q635907"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Isla de la Cuarentena"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Illa de la Quarantena"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "5"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Isla_de_la_Cuarentena"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Illa de sa Quarantena"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q647869"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Isla Conejera"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Illa Conillera"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "12"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Isla_Conejera_(Ibiza)"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q743570"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Isla de Alborán"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Alboran Island"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "38"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Isla_de_Albor%C3%A1n"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Isla de Alboran|Isla Alborán|Isla Alboran"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q783573"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Isla de Es Vedrá"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Es Vedrà"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "19"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Isla_de_Es_Vedr%C3%A1"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Isla de Es Vedra"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q849958"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "La Graciosa"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Graciosa"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "40"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/La_Graciosa"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "La Graciosa, Islas Canarias|Isla de La Graciosa"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q935618"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Isla del Rey"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Illa del Rei"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "9"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Isla_del_Rey_(Menorca)"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q966442"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Roque del Este"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Roque del Este"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "25"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Roque_del_Este"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q979836"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Isla del Congreso"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Isla del Congreso"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "16"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Isla_del_Congreso"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1036287"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "El Hierro"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "El Hierro"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "68"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/El_Hierro"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "La Isla Chiquita|Isla El Hierro|Isla del Meridiano|Isla del Hierro|Isla de los mil volcanes|Isla de Hierro|Isla de El Hierro|Hierro (isla)|Hierro|Eseró|Esero"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1051489"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Isla de Lobos"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Lobos Island"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "26"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Islote_de_Lobos_(Canarias)"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Islote de Lobos"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1201500"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Isla de Santa Catalina"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Isla de Santa Catalina"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "20"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Isla_de_Santa_Catalina_(Espa%C3%B1a)"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Santa Catalina"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1232094"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Isla Dragonera"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Dragonera"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "23"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Isla_Dragonera"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Dragonera|Sa Dragonera"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9009764"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Isla de Montehano"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "3"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Isla_de_Montehano"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Isla de montehano"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9009768"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Isla de Os Forcados"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "2"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Isla_de_Os_Forcados"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Isla de os forcados"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9009776"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Isla de Port Lligat"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Illa de Portlligat"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "6"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Isla_de_Port_Lligat"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Isla de Portlligat|Isla de port lligat"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9009788"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Isla de San Antón (La Coruña)"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "4"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Isla_de_San_Ant%C3%B3n_(La_Coru%C3%B1a)"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Isla de San Antón (La Coruna)|Isla de San Anton (La Coruña)|Isla de San Anton (La Coruna)|Isla de San Antón (Coruña)|Isla de San Antón (Coruna)|Isla de San Anton (Coruña)|Isla de San Anton (Coruna)"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9009810"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Isla de Santa Comba"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Santa Comba island"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "5"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Isla_de_Santa_Comba"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Isla de santa comba"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9009817"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Isla de Tapia"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "5"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Isla_de_Tapia"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Isla de tapia"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9009825"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Isla de Veiga"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "3"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Isla_de_Veiga"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Isla de veiga"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9009830"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Isla de la Ladrona"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "4"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Isla_de_la_Ladrona"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Isla de la ladrona"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9009861"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Isla del Fraile"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "El Fraile Island"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "6"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Isla_del_Fraile"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Isla del fraile"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9009865"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Isla del Penedo da Ínsua"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "2"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Isla_del_Penedo_da_%C3%8Dnsua"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Isla del Penedo da Insua"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9009902"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Islas de San Pedro"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "San Pedro islands"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "8"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Islas_de_San_Pedro"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Islas de san pedro|Illas de San Pedro"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9009900"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Islas de Gres"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "2"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Islas_de_Gres"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Islas de gres|Isla de Gres"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9048368"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Na Guardis"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Na Guardis"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "6"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Na_Guardis"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Na guardis|Isla Guardia"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9092002"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Urros de Liencres"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Urros de Liencres"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "4"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Urros_de_Liencres"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Islotes de los Urros"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11030154"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Isla de los Ahorcados"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Illa des Penjat"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "6"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Isla_de_los_Ahorcados"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11683784"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Isla Guidoiro Pedregoso"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Illa Guidoiro"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "5"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Isla_Guidoiro_Pedregoso"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Illa do Guidoiro Pedregoso"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11683789"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Isla Herbosa (La Coruña)"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "2"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Isla_Herbosa_(La_Coru%C3%B1a)"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11683855"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Isla da Marma"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "2"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Isla_da_Marma"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11683865"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Isla de Noro"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Islote Noro"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "4"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Isla_de_Noro"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11683870"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Isla de Pombeiro"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "2"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Isla_de_Pombeiro"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11683876"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Isla de San Antón (Redondela)"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Island of San Antón (Pontevedra)"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "7"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Isla_de_San_Ant%C3%B3n_(Redondela)"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11683885"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Isla de San Vicente (La Coruña)"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Illa de San Vicente"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "6"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Isla_de_San_Vicente_(La_Coru%C3%B1a)"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11683907"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Isla de la Oliva"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "3"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Isla_de_la_Oliva"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Isleta la Oliva"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11683916"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Isla de la Pedrosa"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Illa de la Pedrosa"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "5"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Isla_de_la_Pedrosa_(Gerona)"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Illa de la Pedrosa"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11683925"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Isla del Carmen"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "6"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Isla_del_Carmen_(Asturias)"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11683930"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Isla del Castrón de Santiuste"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "4"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Isla_del_Castr%C3%B3n_de_Santiuste"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Isla del Castron de Santiuste"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11699082"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Peñón del Águila"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "3"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Pe%C3%B1%C3%B3n_del_%C3%81guila"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11699257"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Piedra Salmedina"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "2"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Piedra_Salmedina"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11926511"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Isla Gavina"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Illa Gavina"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "4"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Isla_Gavina"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11926524"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Isla de Sanitja"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Sanitja Island"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "3"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Isla_de_Sanitja"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11926529"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Islote Grande de na Moltona"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Illot gros de na Moltona"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "2"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Islote_Grande_de_na_Moltona"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11938295"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Isla de Na Corberana"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Isla Corberana"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "5"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Na_Corberana"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11938299"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Isla de Na Llarga"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Na Llarga"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "4"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Na_Llarga"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11938301"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Isla de Na Moltona"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Na Moltona island"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "5"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Na_Moltona"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q12253395"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Isla de Amuitz"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Amuitz island"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "4"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Isla_de_Amuitz"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q12258126"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Isla Galera"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "2"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Isla_Galera"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Galera Uhartea"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q12259172"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Isla Hiru Kanale"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "2"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Isla_Hiru_Kanale"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Tres Canales|Iru Kanale|Hirukanale"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q12266957"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Isla Sandindere"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Sandindere island"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "3"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Isla_Sandindere"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q12267023"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Isla Santiago Aurrea"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "2"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Isla_Santiago_Aurrea"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Santiago Aurrea Uhartea|Isla Santiago Aurrera"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q12269473"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Isla de Zuaza"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Zuhatza Island"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "2"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Isla_de_Zuaza"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q12381333"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "A Marola"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "A Marola"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "6"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/A_Marola"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16530160"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Isla de Arosa"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Arousa"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "10"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Isla_de_Arosa"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "A Illa de Arousa"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17505658"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Isla Na Pelada"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Na Pelada"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "4"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Na_Pelada"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q23993486"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "A Creba"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "A Creba"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "6"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Isla_de_A_Creba"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Isla de A Creba|Isla de a creba|Illa da Creba"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q24001127"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "isla de Gracia"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Illa de Gràcia"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "4"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Isla_de_Gracia"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q25510879"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Islote del Castillo"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Castle Islet"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "4"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Islote_del_Castillo"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "islote do Castelo"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50846589"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Isla de los Caballos"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "2"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Isla_de_los_Caballos"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Zaldiak Uhartea"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1396163"
+      },
+      "xLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Faraió d’Aubarca"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Faraió d’Aubarca"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "5"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1658704"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Isla Sargantana"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Illa Sargantana"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "3"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3323311"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Isla de Tosqueta"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Illa d'en Tusqueta"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "4"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Isla de Tusqueta"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3399741"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "San Martiño"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "San Martiño"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "3"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6116394"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Sa Torreta"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Sa Torreta"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "2"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q10870211"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Malgrat"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Es Malgrat"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "3"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Es Malgrat"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11912264"
+      },
+      "xLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Carall Bernat"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Carall Bernat"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "3"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11919676"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Es Vedranell"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Vedranell"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "4"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Vedranell"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11926513"
+      },
+      "xLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Illa Messina"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Illa Messina"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "4"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11926520"
+      },
+      "xLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Illa de ses Bledes"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Illa de ses Bledes"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "3"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11936296"
+      },
+      "xLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Meda Gran"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Meda Gran"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "2"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11938300"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Na Redona"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Na Redona"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "4"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q12390639"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Islas Alvedosas"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "2"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17606733"
+      },
+      "xLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Illa de Caramany"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Illa de Caramany"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "2"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17606746"
+      },
+      "xLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Illes d'Addaia"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Illes d'Addaia"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "2"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17616003"
+      },
+      "xLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "illa Caragol"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "illa Caragol"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "3"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18005107"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Na Foradada"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Na Foradada"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "6"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18019912"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "El Colomer"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "El Colomer"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "4"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18021025"
+      },
+      "xLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Illa de Formentor"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Illa de Formentor"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "5"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18087868"
+      },
+      "xLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ses Margalides"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ses Margalides"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "3"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Ses Margalides"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18170491"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Na Pobra"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Na Pobra"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "4"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18170493"
+      },
+      "xLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Na Plana"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Na Plana"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "3"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18202996"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Isla Esponja"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Illa Esponja"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "4"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q19368025"
+      },
+      "xLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Illa de Sapinya"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Illa de Sapinya"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "2"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q19368031"
+      },
+      "xLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Illa del Freu"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Illa del Freu"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "3"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20546052"
+      },
+      "xLabel" : {
+        "type" : "literal",
+        "value" : "Q20546052"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "2"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20546082"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "islas Negras"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "2"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "isla Negra"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20876631"
+      },
+      "xLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "S'Adolitx"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "S'Adolitx"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "2"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q21044902"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Isla Imperial"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "La Imperial"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "3"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q23980111"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Illa d'en Sales"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Illa d'en Sales"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "4"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q23982424"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "illa de l'Estenedor"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "illa de l'Estenedor"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "3"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Illa del Pas"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q23985016"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "S'Illeta"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "S'Illeta"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "3"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q23985061"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Isletas de la Olla"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Illeta de l'Olla"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "2"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q23986763"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Castellet de Cala Murta"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Castellet de Cala Murta"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "2"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q23987340"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "islote El Farallón"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Islote El Farallón"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "2"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "isla El Farallón"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q23987633"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Illa d'Alcanada"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Illa d'Alcanada"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "3"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q23988130"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Illa de la Caleta"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Illa de la Caleta"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "3"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q23992294"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "isla de San Bartolomeu"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "2"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Isla San Bartolomé|isla de San Bartolomé|isla de San Bartolo"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q23994125"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Archipiélago de Ons"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Illas Ons"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "7"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "islas Ons"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q24001368"
+      },
+      "xLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Illes de la Farriola"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Illes de la Farriola"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "4"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q24002399"
+      },
+      "xLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Illa Grossa"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Illa Grossa"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "2"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q24002402"
+      },
+      "xLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Isla Canosa"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Isla Canosa"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "3"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q24003748"
+      },
+      "xLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Sa Farnera"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Sa Farnera"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "2"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q52720318"
+      },
+      "xLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Es Malvins"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Es Malvins"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "2"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q66436753"
+      },
+      "xLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Illa de la Torre"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Illa de la Torre"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "2"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q97477588"
+      },
+      "xLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Monteagudo Island"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Monteagudo Island"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "2"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q111264633"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "S'Illot"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "S'Illot"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "3"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q123378691"
+      },
+      "xLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Illa des Sortell"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Illa des Sortell"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "2"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q141142213"
+      },
+      "xLabel" : {
+        "type" : "literal",
+        "value" : "Q141142213"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "2"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q8828"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Mallorca"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mallorca"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "124"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Mallorca"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q94725"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Isla Tagomago"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Illa de Tagomago"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "12"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Isla_Tagomago"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Tagomago"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q105967"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "La Gomera"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "La Gomera"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "76"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/La_Gomera"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Isla de La Gomera|Gomeros|Gomera"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q178925"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Gran Canaria"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Gran Canaria"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "91"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Gran_Canaria"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Tamarán|Isla de Gran Canaria|Tamaran"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q182432"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Lanzarote"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Lanzarote"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "81"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Lanzarote"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Tyterogakaet|Isla de los volcanes|Isla de Lanzarote"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q191146"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Peñón de Vélez de la Gomera"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peñón de Vélez de la Gomera"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "53"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Pe%C3%B1%C3%B3n_de_V%C3%A9lez_de_la_Gomera"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Velez de la Gomera|Peñón de Velez de La Gomera|Peñon de Vélez de la Gomera|Penón de Vélez de la Gomera|Penón de Velez de la Gomera|Penon de Velez de La Gomera|Peñón de Velez|Peñon de Velez|Penón de Velez|Penon de Vélez|Penon de Velez|Bades"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q28247"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Santa Clara"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Santa Clara Island"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "18"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Isla_de_Santa_Clara_(Espa%C3%B1a)"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Isla de Santa Clara"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q40846"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Tenerife"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Tenerife"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "131"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Tenerife"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Tinerfeño|Tinerfeno|Tinerfena|Isla de Tenerife|Achinet|Achineche|Achinech|Tinerfeña"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q23986022"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Illot Galera"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Illot Galera"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "4"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Islote_de_La_Galera"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Habitación prehistórica de Illot de Sa Galera"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1232106"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Isla del Aire"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Illa de l'Aire"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "13"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Isla_del_Aire"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Illa de l'Aire"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1354904"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Isla de Tierra"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Isla de Tierra"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "13"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Isla_de_Tierra"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Islote de Adentro"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1486916"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Islas Sisargas"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Sisargas Islands"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "9"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Islas_Sisargas"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Illas Sisargas"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1496690"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Gaztelugatxe"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Gaztelugatxe"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "27"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Gaztelugache"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "San Juan de Gaztelugatxe"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1502006"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Montaña Clara"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Montaña Clara"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "24"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Monta%C3%B1a_Clara"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Montana Clara"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17606783"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Islote pequeño de na Moltona"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Illot Petit de na Moltona"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "2"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Islote_Peque%C3%B1o_de_na_Moltona"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18005106"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Isla de Na Cabot"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Na Cabot"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "4"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Na_Cabot"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20106702"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Illa de s'Espart"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Illa de s'Espartar"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "8"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Illa_de_s%27Espartar"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20542852"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Isla Insuíña"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Insuíña Island"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "4"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Isla_Insu%C3%AD%C3%B1a"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Isla de Medal"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20545650"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Isla de S'Arenella"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "S'Arenella"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "6"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Isla_de_S%27Arenella"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q23980221"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Isla de San Andrés"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Isla de San Andrés"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "5"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Isla_de_San_Andr%C3%A9s_(Espa%C3%B1a)"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "islote de San Andrés"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q23982134"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Isla Negra"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Isla Negra"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "5"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Isla_Negra_(Almer%C3%ADa)"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q23983410"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Isla Rondella"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Isla Redonda"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "4"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Isla_Rondella"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Isla Redonda"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1543681"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Roque del Oeste"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Roque del Oeste"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "24"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Roque_del_Oeste"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1548344"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "isla de Tabarca"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Tabarca"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "26"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Isla_de_Tabarca"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Nueva Tabarca|Nova Tabarca|Islote de Santa Pola|Isla de San Pablo|Tabarca"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1645423"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Isla de La Toja"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Illa da Toxa"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "14"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Isla_de_La_Toja"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "A Toxa|A Illa da Toxa|La Toja"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1648964"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Isla del Trocadero"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Isla del Trocadero"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "13"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Isla_del_Trocadero"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1651038"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Isla de Maians"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Maians"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "4"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Maians"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1658714"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Isla Conejera (archipiélago de Cabrera)"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Illa des Conills"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "12"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Isla_Conejera_(archipi%C3%A9lago_de_Cabrera)"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Parva Hannibalis|Illa des Conills"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50847839"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Isla Alto Echániz"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "2"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Isla_Alto_Ech%C3%A1niz"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Alto Etxaniz"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q99299825"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Isla de la princesa Cristina"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Princess Christina island"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "2"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Isla_de_la_princesa_Cristina"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    } ]
+  }
+}

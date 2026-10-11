@@ -1,0 +1,4032 @@
+{
+  "head" : {
+    "vars" : [ "x", "xLabel", "en", "links", "art", "alts" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3905962"
+      },
+      "xLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deep-fried pizza"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deep-fried pizza"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "3"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5269993"
+      },
+      "xLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "DiGiorno"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "DiGiorno"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "3"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5602039"
+      },
+      "xLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Greek pizza"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Greek pizza"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "5"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5609167"
+      },
+      "xLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Grilled pizza"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Grilled pizza"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "2"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7199982"
+      },
+      "xLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Pizza bagel"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Pizza bagel"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "7"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7199987"
+      },
+      "xLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "pizza in the United States"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "pizza in the United States"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "6"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7199984"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "pizza carbonara"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "pizza carbonara"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "0"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7199990"
+      },
+      "xLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "pizza strips"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "pizza strips"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "1"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7268264"
+      },
+      "xLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Quad City-style pizza"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Quad City-style pizza"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "4"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17083201"
+      },
+      "xLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "New Haven-style pizza"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "New Haven-style pizza"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "5"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17482572"
+      },
+      "xLabel" : {
+        "type" : "literal",
+        "value" : "Q17482572"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "1"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18356332"
+      },
+      "xLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Seafood pizza"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Seafood pizza"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "14"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18388807"
+      },
+      "xLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "pizza pugliese"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "pizza pugliese"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "6"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q19766201"
+      },
+      "xLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "pizza cake"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "pizza cake"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "9"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20501051"
+      },
+      "xLabel" : {
+        "type" : "literal",
+        "value" : "Q20501051"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "1"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20755749"
+      },
+      "xLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Big One"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Big One"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "2"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q24054513"
+      },
+      "xLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Regina pizza"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Regina pizza"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "3"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q24911299"
+      },
+      "xLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "matzah pizza"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "matzah pizza"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "7"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q25067130"
+      },
+      "xLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "pizzetta"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "pizzetta"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "12"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q28043781"
+      },
+      "xLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "jumbo slice"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "jumbo slice"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "6"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q33084088"
+      },
+      "xLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "pizza in China"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "pizza in China"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "3"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q47471931"
+      },
+      "xLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "chorizo pizza"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "chorizo pizza"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "0"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q47471957"
+      },
+      "xLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "tuna pizza"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "tuna pizza"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "0"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q47472171"
+      },
+      "xLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Bolognese pizzas"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Bolognese pizzas"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "0"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q48034588"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "pinsa"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "pinsa"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "8"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q48767364"
+      },
+      "xLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "stuffed crust pizza"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "stuffed crust pizza"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "6"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q48767667"
+      },
+      "xLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "pan pizza"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "pan pizza"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "8"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q48816551"
+      },
+      "xLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "pizza by the slice"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "pizza by the slice"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "6"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q48865290"
+      },
+      "xLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "coal-fired pizza"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "coal-fired pizza"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "2"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q54223338"
+      },
+      "xLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "salmon pizza"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "salmon pizza"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "0"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q62019316"
+      },
+      "xLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Roman pizza"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Roman pizza"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "9"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q65089898"
+      },
+      "xLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "grandma pizza"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "grandma pizza"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "8"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q84458251"
+      },
+      "xLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Sheet pizza"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Sheet pizza"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "2"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q86665833"
+      },
+      "xLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Pizza Rossini"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Pizza Rossini"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "6"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q88359674"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Sfincione PAT"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Sfincione PAT"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "7"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q96050496"
+      },
+      "xLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "pizza funghi"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "pizza funghi"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "0"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q96373297"
+      },
+      "xLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "beach pizza"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "beach pizza"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "5"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q101611276"
+      },
+      "xLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "white pizza"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "white pizza"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "11"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q104381638"
+      },
+      "xLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Indian pizza"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Indian pizza"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "2"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q107175849"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "pizza estilo Altoona"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Altoona-style pizza"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "4"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q107330963"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Brizza"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Brizza"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "0"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q107353507"
+      },
+      "xLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Papa Rafkin"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Papa Rafkin"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "0"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q107718213"
+      },
+      "xLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "pizzas with shrimp or prawns"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "pizzas with shrimp or prawns"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "1"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q108327562"
+      },
+      "xLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "pizza in New York City"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "pizza in New York City"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "1"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q108417752"
+      },
+      "xLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Pizza bianca"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Pizza bianca"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "3"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q110061263"
+      },
+      "xLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Pizza Poro"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Pizza Poro"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "1"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q112042016"
+      },
+      "xLabel" : {
+        "type" : "literal",
+        "value" : "Q112042016"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "2"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q112669702"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "pizza con peperoni"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "pepperoni pizza"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "2"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "pizza de salami|pizza de peperoni|pizza con salami|pizza con pepperoni"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q116168676"
+      },
+      "xLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Chicago Town"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Chicago Town"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "0"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q125167827"
+      },
+      "xLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "frozen pizza"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "frozen pizza"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "3"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q126328858"
+      },
+      "xLabel" : {
+        "type" : "literal",
+        "value" : "Q126328858"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "1"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q126797520"
+      },
+      "xLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Krusty Krab Pizza"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Krusty Krab Pizza"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "1"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q127684031"
+      },
+      "xLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Bacon Cheeseburger"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Bacon Cheeseburger"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "0"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q127684034"
+      },
+      "xLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Chicken Cacciatore"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Chicken Cacciatore"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "0"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q127684035"
+      },
+      "xLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Chicken Caesar"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Chicken Caesar"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "0"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q127684032"
+      },
+      "xLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Buffalo Chicken"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Buffalo Chicken"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "0"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q127684033"
+      },
+      "xLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Buffalo Grinder"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Buffalo Grinder"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "0"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q127684038"
+      },
+      "xLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Fishy Fruit"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Fishy Fruit"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "0"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q127684039"
+      },
+      "xLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Flamin' Fungi"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Flamin' Fungi"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "0"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q127684036"
+      },
+      "xLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Chicken Club"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Chicken Club"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "0"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q127684037"
+      },
+      "xLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Creamy Quiche"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Creamy Quiche"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "0"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q127684042"
+      },
+      "xLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Green Grove"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Green Grove"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "0"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q127684043"
+      },
+      "xLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Hawaiian"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Hawaiian"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "0"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q127684040"
+      },
+      "xLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Fugazza Con Jamón"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Fugazza Con Jamón"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "0"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q127684041"
+      },
+      "xLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Garlic Fury"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Garlic Fury"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "0"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q127684046"
+      },
+      "xLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Meat Amore"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Meat Amore"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "0"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q127684047"
+      },
+      "xLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Neptune's Feast"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Neptune's Feast"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "0"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q127684044"
+      },
+      "xLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Level 4 Meltdown"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Level 4 Meltdown"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "0"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q127684045"
+      },
+      "xLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Lomi-Lomi Bruschetta"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Lomi-Lomi Bruschetta"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "0"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q127684050"
+      },
+      "xLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Philly Cheese Steak"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Philly Cheese Steak"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "0"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q127684051"
+      },
+      "xLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Pizza Margherita"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Pizza Margherita"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "0"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q127684048"
+      },
+      "xLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Olive Bellissimo"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Olive Bellissimo"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "0"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q127684049"
+      },
+      "xLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peppered Bacon"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Peppered Bacon"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "0"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q127684054"
+      },
+      "xLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Romano Quartet Pizza"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Romano Quartet Pizza"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "0"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q127684055"
+      },
+      "xLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Rustic Garden"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Rustic Garden"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "0"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q127684052"
+      },
+      "xLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Portallini Rustico"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Portallini Rustico"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "0"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q127684053"
+      },
+      "xLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Quattro Stagioni"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Quattro Stagioni"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "0"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q127684058"
+      },
+      "xLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Shrimp Scorcher"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Shrimp Scorcher"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "0"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q127684059"
+      },
+      "xLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Sirloin Sizzler"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Sirloin Sizzler"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "0"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q127684056"
+      },
+      "xLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Salsiccia Rustica"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Salsiccia Rustica"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "0"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q127684057"
+      },
+      "xLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Seaside Gumbo"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Seaside Gumbo"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "0"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q127684062"
+      },
+      "xLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Tastyville Trio"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Tastyville Trio"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "0"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q127684063"
+      },
+      "xLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "The BLT"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "The BLT"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "0"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q127684060"
+      },
+      "xLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Spicy Meatball"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Spicy Meatball"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "0"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q127684061"
+      },
+      "xLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Surf and Turf"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Surf and Turf"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "0"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q127684066"
+      },
+      "xLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "The Meateor"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "The Meateor"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "0"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q127684067"
+      },
+      "xLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "The Muffuletta"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "The Muffuletta"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "0"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q127684064"
+      },
+      "xLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "The Californian"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "The Californian"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "0"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q127684065"
+      },
+      "xLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "The Denver"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "The Denver"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "0"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q127684070"
+      },
+      "xLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "The Works"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "The Works"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "0"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q127684068"
+      },
+      "xLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "The Smokehouse"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "The Smokehouse"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "0"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q127684069"
+      },
+      "xLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "The Wildfire"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "The Wildfire"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "0"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q131289477"
+      },
+      "xLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Spicy Sausage"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Spicy Sausage"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "0"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q131295605"
+      },
+      "xLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Beefy Bell Pepper"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Beefy Bell Pepper"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "0"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q131295802"
+      },
+      "xLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Buffalo Bacon"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Buffalo Bacon"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "0"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q131302426"
+      },
+      "xLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Chicken Bacon Ranch"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Chicken Bacon Ranch"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "0"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q131308118"
+      },
+      "xLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ranch BLT"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ranch BLT"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "0"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q500445"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Pizza napolitana"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Neapolitan pizza"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "35"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Pizza napoletana"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Pizza_napolitana"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q500708"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "pizza marinera"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "pizza marinara"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "19"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Pizza Marinera|Pizza Marinara|pizza marinara"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Pizza_marinera"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q500724"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "pizza margarita"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Pizza Margherita"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "40"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Pizza Margherita"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Pizza_margarita"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q129590051"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "pizza en Corea del Norte"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "pizza in North Korea"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "5"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Pizza_en_Corea_del_Norte"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1815839"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "pissaladière"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Pissaladière"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "25"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "pissaladiere|pissaladiera"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Pissaladi%C3%A8re"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2121797"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "pizza siciliana"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Sicilian pizza"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "21"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "pizza de Sicilia"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Pizza_siciliana"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3301197"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Pizza frita"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deep-fried pizza"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "14"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Deep-fried pizza"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Pizza_frita"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3389508"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Pizza de escarola"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "pizza di scarola"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "3"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Pizza_de_escarola"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3844992"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "pizza estilo Nueva York"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "New York-style pizza"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "21"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "pizza neoyorquina|pizza de Nueva York|pizza al estilo neoyorquino|pizza al estilo de Nueva York|New York-style pizza"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Pizza_estilo_Nueva_York"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3905960"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Pizza a metro"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "pizza al metro"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "3"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Pizza_a_metro"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3906050"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Pizzolo"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "pizzolo"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "3"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Pizzolo"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5020186"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Pizza estilo California"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "California-style pizza"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "10"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Pizza_estilo_California"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5265837"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Pizza estilo Detroit"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Detroit-style pizza"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "15"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Detroit-style pizza"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Pizza_estilo_Detroit"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6826082"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "pizza mexicana"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mexican pizza"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "3"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Pizza_mexicana"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7199983"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Pizza al taglio"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "pizza al taglio"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "12"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Pizza_al_taglio"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7589550"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Pizza estilo San Luis"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "St. Louis-style pizza"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "6"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Pizza_estilo_San_Luis"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7648934"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Sushi pizza"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "sushi pizza"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "13"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Toronto Sushi Pizza|Sushi Pizza"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Sushi_pizza"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q10499831"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Fugazza con queso"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Fugazza"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "10"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Fugazza_con_queso"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11168485"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Regañao"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "regañao"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "2"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Rega%C3%B1ao"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q590076"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "pizza hawaiana"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Hawaiian pizza"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "40"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Pizza_hawaiana"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1071808"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Pizza estilo Chicago"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Chicago-style pizza"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "24"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Pizza_estilo_Chicago"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1815560"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "calzone"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "calzone"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "43"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "pizza fritta"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Calzone"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18358623"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Pizza de albóndigas"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "meatball pizza"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "4"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Pizza_de_alb%C3%B3ndigas"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18388803"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Pizza caprichosa"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "pizza capricciosa"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "23"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Pizza_caprichosa"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18542598"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Pizza cuatro estaciones"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "pizza quattro stagioni"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "21"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Pizza_cuatro_estaciones"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q25038426"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Pizza de chocolate"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Chocolate pizza"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "16"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Pizza_de_chocolate"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q26398337"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "pizza iraní"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Iranian pizza"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "10"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "pizza persa"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Pizza_iran%C3%AD"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q55831465"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "U' pastizz rtunnar PAT"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "U' pastizz rtunnar PAT"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "6"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/U%27_pastizz_%27rtunnar"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56493317"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "pizza argentina"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Argentine pizza"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "5"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Pizza porteña|Pizza en Argentina|Pizza de Buenos Aires"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Pizza_en_Argentina"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56512885"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Fugazzetta"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Fugazzetta"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "5"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Fugazzetta"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56669796"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Pizza al tegamino"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deep-dish pizza"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "3"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Pizza_al_tegamino"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q91908928"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "pizza cuatro quesos"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "pizza quattro formaggi"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "25"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Pizza_cuatro_quesos"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q101084341"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Pizza de cancha"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Game field pizza"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "1"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Pizza canchera"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Pizza_de_cancha"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q111705550"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Pizza de taco"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Taco pizza"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "7"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "taco pizza"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Pizza_de_taco"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q115519518"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "pizza de kebab"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "kebab pizza"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "10"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Pizza_de_kebab"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q118727349"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Pizza estilo Colorado"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Colorado-style pizza"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "6"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Pizza_estilo_Colorado"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q123400088"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Pizza carrée"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Pizza carrée"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "2"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "bitza karí"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Pizza_carr%C3%A9e"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q131308724"
+      },
+      "xLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Steakhouse Supreme"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Steakhouse Supreme"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "0"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q131316234"
+      },
+      "xLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Asiago Ranch"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Asiago Ranch"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "0"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q131318830"
+      },
+      "xLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Spicy Ranch"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Spicy Ranch"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "0"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q131421517"
+      },
+      "xLabel" : {
+        "type" : "literal",
+        "value" : "Q131421517"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "0"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q131919776"
+      },
+      "xLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "pizza in Brazil"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "pizza in Brazil"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "1"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q133234631"
+      },
+      "xLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "pizza in Japan"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "pizza in Japan"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "4"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q133856168"
+      },
+      "xLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Roncadin"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Roncadin"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "1"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q135265063"
+      },
+      "xLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "pizza with salami"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "pizza with salami"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "2"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q137581504"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Pizza en México"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "History of pizza in Mexico"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "0"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q137971153"
+      },
+      "xLabel" : {
+        "type" : "literal",
+        "value" : "Q137971153"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "0"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q138011108"
+      },
+      "xLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Baked beans pizza"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Baked beans pizza"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "1"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q138690899"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "pizza de atún con cebolla"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "tuna and onion pizza"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "0"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q138690902"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "pizza de salchicha calabresa"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "calabresa sausage pizza"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "0"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q138690903"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "pizza de carne seca"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "dried meat pizza"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "0"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q138690900"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "pizza baiana"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "baiana pizza"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "0"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q138690901"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "pizza de brócoli con tocino"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "broccoli and bacon pizza"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "0"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q138690906"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "pizza de lomo canadiense"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "canadian loin pizza"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "0"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q138690904"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "pizza de camarón con catupiry"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "shrimp and catupiry pizza"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "0"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q138690905"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "pizza de pollo con catupiry"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "chicken and catupiry pizza"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "0"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q138690910"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "pizza portuguesa"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "portuguese pizza"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "0"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q138690911"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "pizza de stroganoff"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "strogonoff pizza"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "0"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q138690908"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "pizza de maíz con catupiry"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "corn and catupiry pizza"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "0"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q138690909"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "pizza de palmito"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "palm heart pizza"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "0"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q138690914"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "pizza de brigadeiro"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "brigadeiro pizza"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "0"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q138690915"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "pizza de chocolate con fresa"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "chocolate and strawberry pizza"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "0"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q138690913"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "pizza de banana con canela"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "banana and cinnamon pizza"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "0"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q138690916"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "pizza prestigio"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "prestigio pizza"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "0"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q138690917"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "pizza romeo y julieta"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "romeo and juliet pizza"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "0"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q139915904"
+      },
+      "xLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Buffalo-style pizza"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Buffalo-style pizza"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "2"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    } ]
+  }
+}

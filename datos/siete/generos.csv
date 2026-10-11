@@ -1,0 +1,456 @@
+respuesta;alias;nivel;ediciones_wikipedia
+pop;música pop;1;1000000000
+rock;música rock;1;999999999
+reguetón;reggaeton|música reguetón|música reggaeton;1;999999998
+rap;hip hop|música rap|música hip hop;1;999999997
+trap;música trap;1;999999996
+flamenco;música flamenco;1;999999995
+electrónica;música electrónica|música música electrónica;1;999999994
+clásica;música clásica|música música clásica;1;999999993
+jazz;música jazz;1;999999992
+techno;tecno|música techno|música tecno;1;999999991
+reggae;música reggae;2;1000000000
+salsa;música salsa;2;999999999
+bachata;música bachata;2;999999998
+merengue;música merengue;2;999999997
+cumbia;música cumbia;2;999999996
+punk;música punk;2;999999995
+heavy metal;heavy|metal|música heavy metal|música heavy|música metal;2;999999994
+indie;música indie;2;999999993
+blues;música blues;2;999999992
+soul;música soul;2;999999991
+funk;música funk;2;999999990
+country;música country;2;999999989
+house;música house;2;999999988
+disco;música disco;2;999999987
+rumba;música rumba;2;999999986
+copla;música copla;2;999999985
+pasodoble;música pasodoble;2;999999984
+ópera;música ópera;2;999999983
+K-pop;música K-pop;2;999999982
+R&B;rnb|rhythm and blues|música R&B|música rnb|música rhythm and blues;2;999999981
+dembow;música dembow;2;999999980
+drill;música drill;2;999999979
+tango;música tango;2;999999978
+bolero;música bolero;2;999999977
+ranchera;música ranchera;2;999999976
+mariachi;música mariachi;2;999999975
+corridos;corridos tumbados|música corridos|música corridos tumbados;2;999999974
+vallenato;música vallenato;2;999999973
+samba;música samba;2;999999972
+bossa nova;música bossa nova;2;999999971
+folk;música folk;2;999999970
+gospel;música gospel;2;999999969
+ska;música ska;2;999999968
+grunge;música grunge;2;999999967
+hard rock;música hard rock;2;999999966
+rock and roll;rock & roll|rock n roll|música rock and roll|música rock & roll|música rock n roll;2;999999965
+pop rock;música pop rock;2;999999964
+dance;música dance;2;999999963
+EDM;música EDM;3;999999962
+dubstep;música dubstep;3;999999961
+drum and bass;drum & bass|música drum and bass|música drum & bass;3;999999960
+trance;música trance;3;999999959
+hardstyle;música hardstyle;3;999999958
+makina;música makina;3;999999957
+bakalao;música bakalao;3;999999956
+rumba catalana;música rumba catalana;3;999999955
+sevillanas;música sevillanas;3;999999954
+jota;música jota;3;999999953
+zarzuela;música zarzuela;3;999999952
+fado;música fado;3;999999951
+afrobeat;afrobeats|música afrobeat|música afrobeats;3;999999950
+swing;música swing;3;999999949
+new wave;música new wave;3;999999948
+synth-pop;música synth-pop;3;999999947
+emo;música emo;3;999999946
+hardcore;música hardcore;3;999999945
+urbano;música urbana|música urbano|música música urbana;3;999999944
+lo-fi;lofi|música lo-fi|música lofi;3;999999943
+ambient;música ambient;3;999999942
+chill out;música chill out;3;999999941
+fandango;música fandango;3;999999940
+muñeira;música muñeira;3;999999939
+sardana;música sardana;3;999999938
+chotis;música chotis;3;999999937
+villancico;música villancico;3;999999936
+cuplé;música cuplé;3;999999935
+música celta;celta|música música celta;3;999999934
+electro latino;música electro latino;3;999999933
+pop latino;latin pop|música pop latino|música latin pop;3;999999932
+rock alternativo;música rock alternativo;3;999999931
+post-punk;música post-punk;3;999999930
+shoegaze;música shoegaze;3;999999929
+garage;música garage;3;999999928
+psicodelia;rock psicodélico|música psicodelia|música rock psicodélico;3;999999927
+rock progresivo;progresivo|música rock progresivo|música progresivo;3;999999926
+black metal;música black metal;3;999999925
+death metal;música death metal;4;999999924
+thrash metal;música thrash metal;4;999999923
+nu metal;música nu metal;4;999999922
+metalcore;música metalcore;4;999999921
+mambo;música mambo;4;999999920
+chachachá;música chachachá;4;999999919
+son cubano;son|música son cubano|música son;4;999999918
+timba;música timba;4;999999917
+bomba;música bomba;4;999999916
+plena;música plena;4;999999915
+banda;música banda;4;999999914
+norteño;norteña|música norteño|música norteña;4;999999913
+tex-mex;música tex-mex;4;999999912
+bluegrass;música bluegrass;4;999999911
+rockabilly;música rockabilly;4;999999910
+doo-wop;música doo-wop;4;999999909
+eurodance;música eurodance;4;999999908
+italodisco;música italodisco;4;999999907
+hyperpop;música hyperpop;4;999999906
+phonk;música phonk;4;999999905
+amapiano;música amapiano;4;999999904
+grime;música grime;4;999999903
+jungle;música jungle;4;999999902
+breakbeat;música breakbeat;4;999999901
+minimal;música minimal;4;999999900
+electro;música electro;4;999999899
+industrial;música industrial;4;999999898
+canción de autor;cantautor|música canción de autor|música cantautor;4;999999897
+trova;música trova;4;999999896
+chanson;música chanson;4;999999895
+schlager;música schlager;4;999999894
+enka;música enka;4;999999893
+J-pop;música J-pop;4;999999892
+city pop;música city pop;4;999999891
+raï;música raï;4;999999890
+klezmer;música klezmer;4;999999889
+polka;música polka;4;999999888
+vals;música vals;4;999999887
+sinfonía;symphony;4;113
+himno;Himnos|anthem|Hymnus|hymn;4;104
+mantra;Mantras|Mantram|Maha-mantra;4;94
+musical;espectáculo musical|teatro musical|musical play;4;90
+nana;berceuse|cancion de cuna|lullaby;4;83
+música tradicional;música tipica|traditional folk music;4;81
+gazal;ghazal;4;76
+música de cámara;Músico de Cámara|chamber music;4;71
+sonata;Sonatas;4;70
+música del Barroco;música barroca|Baroque music;4;69
+Nō;Teatro no-|noh;4;67
+Cantata;Cantada;4;67
+hardcore punk;;4;65
+oratorio;;4;64
+a capela;A cappella|A capella|Acapella;4;63
+fuga;Fugato|Análisis de una fuga|fugue;4;62
+canto gregoriano;Cantos gregorianos|Gregorian chant;4;61
+Ragtime;;4;60
+polifonía;polifonico|polifonica|polyphony;5;59
+gamelan;;5;59
+folk rock;folk pop|folck-rock;5;58
+obertura;overture;5;57
+madrigal;madrigales;5;57
+metal progresivo;progressive metal|heavy-metal progresivo;5;56
+rock blues;Blues/rock;5;56
+bebop;Bop;5;55
+metal gótico;Gothic Symphonic Metal|Gothic Metal;5;55
+doom metal;metal depresivo;5;55
+música del Renacimiento;Renacimiento musical|música renacentista|Renaissance music;5;55
+música cinematográfica;musica para películas|música para película|film score;5;55
+mazurca;Mazurka;5;55
+metal sinfónico;Symphonic Metal|Metal Symphony;5;54
+metal industrial;industrial metal;5;54
+beatboxing;Sonorosapiens|Human beat box|Beatbox;5;54
+glam rock;rock/glam|glitter rock;5;54
+death metal melódico;melodic death metal;5;54
+música medieval;Música del medioevo|medieval music;5;53
+música del Romanticismo;Romanticismo musical|Música romántica|Romanticismo|Romantic music;5;53
+rock gótico;Rock Siniestro|Rock Industrial Gótico|gothic rock;5;53
+serenata;serenade;5;53
+metal alternativo;alt-metal|alternative metal;5;53
+power metal;;5;53
+música de baile;dance music;5;52
+grindcore;Punk Death;5;51
+motete;motetes|motet;5;51
+música del mundo;músicas del mundo|música universal|música mundial|world music;5;51
+Folk metal;;5;51
+Bel canto;Belcantista|Belcantismo;5;51
+música popular;popular music;5;50
+nocturno;nocturne;5;50
+art rock;;5;50
+concierto;concerto;5;50
+glam metal;;5;49
+marcha;Marcha militar|march;5;49
+Ruba'i;;5;49
+dodecafónico;técnica de los doce tonos|sistema dodecafónico|twelve-tone technique;5;48
+post-rock;;5;48
+raga;Raga indio;5;48
+indie pop;pop indie|pop independiente;5;47
+R&B contemporáneo;rhythm and blues contemporáneo|contemporary R&B;5;47
+britpop;;5;47
+trip hop;Trip rap;5;47
+speed metal;;5;47
+new age;nueva era|música nueva era|new age music;5;47
+Clasicismo musical;música del Clasicismo|Classical period;5;47
+jazz fusión;;5;46
+garage rock;Rock de garaje|Rock de garage;5;46
+atonalidad;Música atonal|Atonalismo|atonality;5;46
+groove metal;post-thrash|neo-thrash;5;46
+estudio (música);étude;5;45
+Concerto grosso;Concierto grosso|Concerti grossi;5;45
+pop-punk;punk-pop;5;45
+música clásica de India;Indian classical music;5;45
+preludio;prelude;5;45
+tarantela;tarantella;5;44
+música árabe;Arabic music;5;44
+country rock;;5;44
+espiritual;negro espiritual|canto espiritual|espirituales|spirituals;5;44
+Viking metal;Metal vikingo;5;44
+misa;mass;5;44
+twist;;5;43
+Barcarola;Barcarole|Barcarolle;5;43
+free jazz;New thing;5;43
+Visual kei;Visual rock;5;43
+qawwali;;5;43
+ditirambo;dithyramb;5;43
+poema sinfónico;suite sinfónica|poemas sinfónicos|symphonic poem;5;42
+Krautrock;Kosmische Musik;5;42
+música instrumental;instrumental|instrumental music;5;42
+Invasión británica;British Invasion|Invasiones inglesas;5;42
+serialismo;postserial|música serial|serialism;5;41
+Nueva ola del heavy metal británico;new wave of British heavy metal;5;41
+dancehall;reggae dancehall;5;41
+dance pop;;5;41
+tocata;Toccata;5;41
+noise rock;noise punk;5;40
+música minimalista;minimalist music;5;40
+antífona;Antiphona|antiphon;5;40
+deathcore;Death Metalcore;5;40
+Música aleatoria;aleatoric music;5;40
+metal extremo;extreme metal;5;40
+música vocal;canto|vocal music;5;40
+zarabanda;sarabande|sarabanda|zarabando;5;40
+dub;música dub|dub music;5;40
+Lied;Lieds|Lieder;5;40
+Post-hardcore;;5;39
+Avant-garde metal;Metal vanguardista|Metal experimental;5;39
+rap rock;hip hop rock;5;39
+Dixieland;Dixieland jazz;5;39
+divertimento;Divertimenti|Divertissement;5;39
+soft rock;Adult oriented rock;5;39
+Rebético;Rebetiko;5;38
+Acid jazz;;5;38
+Calipso;calypso;5;38
+Oi!;;5;38
+Post-grunge;;5;38
+música programática;programme music;5;38
+Ars nova;;5;38
+funk metal;;5;38
+Neue Deutsche Härte;NDH;5;38
+Vaporwave;;5;38
+metal cristiano;white metal|Christian metalcore|Christian metal;5;37
+Lambada;;5;37
+rock electrónico;techno rock|synth-rock|electronic rock;5;37
+romanza;romance;5;37
+bhajan;Kirtan|Bhayan|Bhajanas;5;37
+fanfarria;fanfare;5;37
+stoner rock;Stoner metal;5;37
+Riot grrrl;;5;37
+boogie-woogie;;5;37
+variación;Tema con variaciones|Forma variaciones|theme and variation;5;37
+rock cristiano;Christian rock;5;36
+Gangsta rap;rap gángster|rap de realidad;5;36
+música sacra;música sagrada|religious music;5;36
+canción de protesta;música de protesta|canción social|protest song;5;36
+cool;Cool jazz;5;36
+rima infantil;rima de mamá oca|poema infantil|canción infantil|nursery rhyme;5;36
+música ligera;Musica de ascensor|Lite AC|Light music|easy listening;5;36
+sludge metal;sludge rock|grindcore/doom;5;36
+ópera rock;rock opera;5;36
+música experimental;músicas experimentales|experimental music;5;36
+rock experimental;rock vanguardista|avant-garde rock|experimental rock;5;36
+improvisación musical;musical improvisation;5;35
+música beat;beat|beat music;5;35
+música concreta;musique concrète;5;35
+Crust punk;Crust|Crustcore;5;35
+Monodia;Monódico|monody;5;35
+Minnesang;;5;35
+Morin khuur;morin juur;5;35
+electropop;;5;35
+trance psicodélico;Psytrance|Psychedelic trance;5;35
+Metal neoclásico;Neoclassical metal;5;35
+Mugam;Mugham azerbaiyano|Mugham;5;35
+Intermezzo;;5;35
+No wave;;5;34
+música de China;music of China;5;34
+fantasía;;5;34
+pavana;pavane;5;34
+giga;gigue;5;34
+power pop;;5;34
+rap metal;rap y heavy metal;5;34
+revista;Teatro de revistas|Teatro de revista|Revista musical|revue;5;34
+Krakowiak;;5;34
+gagaku;;5;34
+coral;chorale;5;34
+música de Japón;music of Japan;5;34
+bubblegum pop;música bubblegum|bubblegum rock|bubblegum music;5;34
+Dark wave;Wave oscuro;5;34
+Post-metal;;5;34
+pasacalle;passacaglia|passacagglia;5;33
+electronic body music;Goth-electro|Electro goth|EBM;5;33
+dream pop;;5;33
+música antigua;early music;5;33
+ska punk;Punk-ska;5;33
+noise;noise music;5;33
+Turbo-folk;;5;33
+música culta;música seria|música selecta|art music;5;33
+screamo;;5;33
+pop barroco;rock barroco|pop de cámara|baroque pop;5;33
+Ars antiqua;;5;32
+música de India;music of India;5;32
+funk rock;;5;32
+heavy metal tradicional;metal tradicional|traditional heavy metal;5;32
+rock sureño;Southern rock;5;32
+Skiffle;;5;32
+bourrée;Pas de bourrée|Bouree;5;32
+deep house;;5;32
+rock espacial;Space Rock;5;32
+rock ácido;Acid rock;5;32
+Pasión;passion;5;32
+Nasheed;;5;32
+Música carnática;Música karnática|Carnatic music;5;31
+música acústica;acoustic music;5;31
+Death metal técnico;Technical Death Metal|Death técnico;5;31
+acid house;acid;5;31
+horror punk;Horror rock;5;31
+Hard bop;;5;31
+rocksteady;;5;31
+música psicodélica;rock sicodélico|psychedelic music;5;31
+math rock;;5;31
+New romantic;;5;31
+Órganum;;5;31
+rap alternativo;hip hop alternativo|alternative hip-hop;5;31
+Anarcopunk;Punk libertario|Anarkopunk|Anarcopunks|anarcho-punk;5;31
+intelligent dance music;;5;31
+Arioso;;5;31
+rock sinfónico;Symphonic rock;5;31
+teen pop;teen rock|teen R&B|teen punk;5;31
+Rock industrial;industrial rock;5;31
+synthwave;;5;31
+música gitana;música romaní|Romani music;5;31
+música surf;surf rock|surf pop|surf music;5;30
+raggamuffin;Raggamufin|Ragga|música raggamuffin;5;30
+Black Metal Nacional Socialista;National Socialist black metal;5;30
+Rock Against Communism;Rock contra el comunismo|RAC;5;30
+Música africana;música de Africa|music of Africa;5;30
+Delta blues;Blues del Delta;5;30
+adult contemporary;Hot Adult Contemporary|Hot AC|Adult Contemporany|adult contemporary music;5;30
+música de la Antigua Grecia;musica griega|music of ancient Greece;5;30
+West Coast rap;West Coast hip-hop;5;30
+Dabke;Debkeh|Debke|Debka;5;30
+tema musical;sintonia musical|canción temática|theme music;5;30
+música electroacústica;electroacoustic music;5;30
+indie folk;;5;30
+Klapa;;5;30
+neofolk;;5;30
+chiptune;música keygen|música chip|música 8-bit;5;30
+Downtempo;;5;30
+Doină;;5;30
+djent;Djent metal;5;30
+música cristiana;Christian music;5;30
+salmo de la Biblia;psalm;5;30
+yoik;joik;5;29
+Ricercare;ricercar;5;29
+dark ambient;;5;29
+Gallarda;galliard;5;29
+música absoluta;Música pura|absolute music;5;29
+jazz gitano;Jazz manouche|Gypsy jazz;5;29
+arena rock;Stadium rock|Anthem rock;5;29
+Impromptu;;5;29
+música académica contemporánea;música contemporánea|música clásica contemporánea|contemporary classical music;5;29
+Capricho;Capriccio;5;29
+drone metal;drone doom metal|Drone doom;5;29
+Morna;;5;29
+Canción de trabajo;Work song|Canciones de trabajo;5;29
+Música clásica indostaní;Música indostasní|Hindustani classical music;5;29
+Kizomba;;5;29
+proto-punk;;5;29
+Cavatina;;5;29
+neo soul;;5;28
+música de videojuegos;música para videojuegos|video game music;5;28
+jumpstyle;;5;28
+East Coast rap;East Coast hip hop;5;28
+UK Garage;;5;28
+Bhangra;;5;28
+crunk;;5;28
+eurodisco;;5;28
+música navideña;música de Navidad|Christmas music;5;28
+French house;French groove;5;28
+bagatela;bagatelle;5;28
+Death/doom;Doomdeath metal|Doomdeath;5;28
+black metal sinfónico;Symphonic Black Metal;5;28
+crossover;;5;27
+jingle;;5;27
+G-funk;;5;27
+Chicago blues;blues de Chicago;5;27
+habanera;Havaneres|Habanera cubana|Habaneras;5;27
+Tin Pan Alley;;5;27
+Eurobeat;;5;27
+música incidental;música de escena.|incidental music;5;27
+Pansori;;5;27
+saloma;sea shanty;5;27
+Crossover thrash;;5;27
+expresionismo musical;expressionist music;5;27
+sevdalinka;sevdah;5;27
+Kontakion;;5;27
+música académica del siglo XX;música del siglo XX|música clásica del siglo XX|20th-century classical music;5;27
+milonga;;5;27
+música de América Latina;ritmos latinos|ritmo latino|música latinoamericana|music of Latin America;5;27
+escena de Canterbury;Canterbury scene;5;27
+pagan metal;;5;27
+Stotra;;5;27
+mashup;pop bastardo|bastard pop;5;27
+turntablism;turntables;5;26
+happy hardcore;happycore|happy rave;5;26
+Smooth jazz;;5;26
+New jack swing;;5;26
+cantopop;;5;26
+dangdut;;5;26
+Escuela francoflamenca;Franco-Flemish School;5;26
+electroclash;;5;26
+mathcore;;5;26
+blue-eyed soul;white soul|soul Blanco;5;26
+Jangle pop;;5;26
+country blues;;5;26
+Música de Azerbaiyán;music of Azerbaijan;5;26
+europop;;5;26
+hip hop hardcore;rap hardcore|hardcore hip-hop;5;26
+jazz rap;jazz hop|jazz hip-hop;5;26
+college rock;;5;26
+música de la Antigüedad;música en la Edad Antigua|música en el mundo antiguo|ancient music;5;26
+xöömej;xöömei|Tuvan throat singing;5;26
+gabber;;5;25
+Nueva ola de heavy metal americano;New Wave of American Heavy Metal;5;25
+skate punk;skatecore|skate rock;5;25
+jazz modal;Modal jazz;5;25
+discanto;descant;5;25
+estándar del jazz;jazz standard;5;25
+horrorcore;;5;25
+Hi-NRG;;5;25
+Deathrock;Gotic Punk|Gothic punk;5;25
+freestyle rap;rap estilo libre|pelea de raperos|combate de gallos;5;25
+house progresivo;progressive house;5;25
+music hall;;5;25
+Kagura;kagura (danza)|Danza Kagura;5;25
+canto difónico;canto de armónicos|overtone singing;5;25
+folk punk;pancho folk;5;25
+pub rock;;5;25
+Chastushka;;5;25
+Unblack metal;;5;25
+Avant-garde jazz;;5;25
+Shashmaqam;;5;25
+arte sonoro;sound art;5;25
+Celtic punk;Punk celta;5;25
+shock rock;;5;25
+country pop;urban cowboy|pop country;5;25
+Dance punk;Punk-funk|Disco Punk;5;25
+batalla de rap;battle rap;5;25
+Psychobilly;;5;25
+Hardbass;;5;25
+rondeau;;5;25

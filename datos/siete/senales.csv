@@ -1,0 +1,79 @@
+respuesta;alias;nivel;orden_a_mano
+stop;señal stop;1;1000000000
+ceda el paso;ceda|señal ceda el paso|señal ceda;1;999999999
+prohibido aparcar;prohibido estacionar|estacionamiento prohibido|no aparcar|señal prohibido aparcar|señal prohibido estacionar|señal estacionamiento prohibido|señal no aparcar;1;999999998
+límite de velocidad;velocidad máxima|limitación de velocidad|señal límite de velocidad|señal velocidad máxima|señal limitación de velocidad;1;999999997
+paso de peatones;paso de cebra|señal paso de peatones|señal paso de cebra;1;999999996
+prohibido el paso;dirección prohibida|entrada prohibida|prohibido pasar|señal prohibido el paso|señal dirección prohibida|señal entrada prohibida|señal prohibido pasar;1;999999995
+semáforo;señal semáforo;2;1000000000
+rotonda;glorieta|intersección de sentido giratorio obligatorio|señal rotonda|señal glorieta|señal intersección de sentido giratorio obligatorio;2;999999999
+prohibido adelantar;adelantamiento prohibido|señal prohibido adelantar|señal adelantamiento prohibido;2;999999998
+peligro;otros peligros|señal peligro|señal otros peligros;2;999999997
+curva peligrosa;curva|señal curva peligrosa|señal curva;2;999999996
+obras;señal obras;2;999999995
+sentido obligatorio;dirección obligatoria|señal sentido obligatorio|señal dirección obligatoria;2;999999994
+prohibido girar;prohibido girar a la izquierda|giro prohibido|señal prohibido girar|señal prohibido girar a la izquierda|señal giro prohibido;2;999999993
+prohibido cambiar de sentido;cambio de sentido prohibido|señal prohibido cambiar de sentido|señal cambio de sentido prohibido;2;999999992
+prohibido parar;prohibido parar y estacionar|parada y estacionamiento prohibido|señal prohibido parar|señal prohibido parar y estacionar|señal parada y estacionamiento prohibido;2;999999991
+sentido único;calle de sentido único|señal sentido único|señal calle de sentido único;2;999999990
+autopista;autovía|señal autopista|señal autovía;2;999999989
+niños;peligro niños|zona escolar|colegio|señal niños|señal peligro niños|señal zona escolar|señal colegio;2;999999988
+animales sueltos;animales en libertad|ciervos|paso de animales en libertad|señal animales sueltos|señal animales en libertad|señal ciervos|señal paso de animales en libertad;2;999999987
+paso a nivel;paso a nivel con barreras|señal paso a nivel|señal paso a nivel con barreras;2;999999986
+pavimento deslizante;firme deslizante|señal pavimento deslizante|señal firme deslizante;2;999999985
+desprendimientos;peligro por desprendimientos|señal desprendimientos|señal peligro por desprendimientos;2;999999984
+estrechamiento;estrechamiento de calzada|señal estrechamiento|señal estrechamiento de calzada;2;999999983
+badén;resalto|señal badén|señal resalto;3;999999982
+aparcamiento;parking|estacionamiento|señal aparcamiento|señal parking|señal estacionamiento;3;999999981
+zona peatonal;calle peatonal|señal zona peatonal|señal calle peatonal;3;999999980
+carril bici;vía ciclista|ciclistas|señal carril bici|señal vía ciclista|señal ciclistas;3;999999979
+prioridad;calzada con prioridad|señal prioridad|señal calzada con prioridad;3;999999978
+fin de prohibiciones;señal fin de prohibiciones;3;999999977
+viento;viento transversal|señal viento|señal viento transversal;3;999999976
+carril bus;señal carril bus;3;999999975
+hospital;señal hospital;3;999999974
+gasolinera;surtidor|señal gasolinera|señal surtidor;3;999999973
+taller;señal taller;3;999999972
+zona azul;estacionamiento regulado|señal zona azul|señal estacionamiento regulado;3;999999971
+carga y descarga;señal carga y descarga;3;999999970
+vado;vado permanente|señal vado|señal vado permanente;3;999999969
+prohibido tocar el claxon;prohibido claxon|advertencias acústicas prohibidas|señal prohibido tocar el claxon|señal prohibido claxon|señal advertencias acústicas prohibidas;3;999999968
+cadenas;cadenas para nieve obligatorias|señal cadenas|señal cadenas para nieve obligatorias;3;999999967
+luces obligatorias;alumbrado de corto alcance|luces|señal luces obligatorias|señal alumbrado de corto alcance|señal luces;3;999999966
+velocidad mínima;señal velocidad mínima;3;999999965
+calle sin salida;sin salida|señal calle sin salida|señal sin salida;4;999999964
+cambio de sentido;señal cambio de sentido;4;999999963
+área de descanso;señal área de descanso;4;999999962
+túnel;señal túnel;4;999999961
+salida;señal salida;4;999999960
+peaje;señal peaje;4;999999959
+radar;control de velocidad|señal radar|señal control de velocidad;4;999999958
+zona 30;señal zona 30;4;999999957
+calle residencial;señal calle residencial;4;999999956
+prohibido bicicletas;entrada prohibida a ciclos|señal prohibido bicicletas|señal entrada prohibida a ciclos;4;999999955
+prohibido camiones;entrada prohibida a vehículos de mercancías|señal prohibido camiones|señal entrada prohibida a vehículos de mercancías;4;999999954
+prohibido peatones;entrada prohibida a peatones|señal prohibido peatones|señal entrada prohibida a peatones;4;999999953
+prohibido motos;entrada prohibida a motocicletas|señal prohibido motos|señal entrada prohibida a motocicletas;4;999999952
+limitación de altura;gálibo|señal limitación de altura|señal gálibo;4;999999951
+limitación de peso;limitación de masa|señal limitación de peso|señal limitación de masa;4;999999950
+limitación de anchura;señal limitación de anchura;4;999999949
+separación mínima;señal separación mínima;4;999999948
+intersección;cruce|señal intersección|señal cruce;4;999999947
+doble curva;curvas peligrosas|señal doble curva|señal curvas peligrosas;5;999999946
+pendiente;bajada con fuerte pendiente|bajada peligrosa|señal pendiente|señal bajada con fuerte pendiente|señal bajada peligrosa;5;999999945
+subida con fuerte pendiente;subida|señal subida con fuerte pendiente|señal subida;5;999999944
+puente móvil;señal puente móvil;5;999999943
+muelle;señal muelle;5;999999942
+escalón lateral;señal escalón lateral;5;999999941
+gravilla;proyección de gravilla|señal gravilla|señal proyección de gravilla;5;999999940
+perfil irregular;señal perfil irregular;5;999999939
+niebla;visibilidad reducida|señal niebla|señal visibilidad reducida;5;999999938
+congestión;atasco|señal congestión|señal atasco;5;999999937
+aeropuerto;aeronaves|señal aeropuerto|señal aeronaves;5;999999936
+animales domésticos;ganado|vacas|señal animales domésticos|señal ganado|señal vacas;5;999999935
+tranvía;cruce de tranvía|señal tranvía|señal cruce de tranvía;5;999999934
+doble sentido;circulación en los dos sentidos|señal doble sentido|señal circulación en los dos sentidos;5;999999933
+cruz de San Andrés;señal cruz de San Andrés;5;999999932
+prioridad en sentido contrario;señal prioridad en sentido contrario;5;999999931
+nieve;hielo|pavimento deslizante por hielo o nieve|señal nieve|señal hielo|señal pavimento deslizante por hielo o nieve;5;999999930
+peligro de incendio;incendio|señal peligro de incendio|señal incendio;5;999999929

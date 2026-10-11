@@ -1,0 +1,624 @@
+{
+  "head" : {
+    "vars" : [ "x", "xLabel", "en", "links", "art", "alts" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q589403"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Vicálvaro"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Vicálvaro"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "20"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Vic%C3%A1lvaro"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Distrito de Vicálvaro|Distrito 19"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q656196"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Fuencarral-El Pardo"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Fuencarral-El Pardo"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "21"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Fuencarral-El_Pardo"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Distrito de Fuencarral-El Pardo|Distrito 8"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q794954"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Latina"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Latina"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "21"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Latina_(Madrid)"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Distrito de Latina|Distrito 10"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q807230"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Barajas"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Barajas"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "25"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Barajas"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Distrito de Barajas|Distrito 21"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q919536"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Villaverde"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Villaverde"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "24"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Villaverde"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Distrito de Villaverde|Distrito 17"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1928529"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Hortaleza"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Hortaleza"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "22"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Hortaleza"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Distrito de Hortaleza|Distrito 16"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1947988"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Villa de Vallecas"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Villa de Vallecas"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "21"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Villa_de_Vallecas"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Distrito de Villa de Vallecas|Distrito 18"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2000929"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Arganzuela"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Arganzuela"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "24"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Arganzuela"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Distrito de Arganzuela|Distrito 2"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2001937"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "San Blas-Canillejas"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "San Blas-Canillejas"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "21"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/San_Blas-Canillejas"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Distrito de San Blas-Canillejas|Distrito 20"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2002296"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Retiro"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Retiro"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "26"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Retiro_(Madrid)"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Distrito de Retiro|Distrito 3"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2003054"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Puente de Vallecas"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Puente de Vallecas"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "20"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Puente_de_Vallecas"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Distrito de Puente de Vallecas|Distrito 13"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2017682"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Moncloa-Aravaca"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Moncloa-Aravaca"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "23"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Moncloa-Aravaca"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Distrito de Moncloa-Aravaca|Distrito 9"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2076109"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Moratalaz"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Moratalaz"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "20"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Moratalaz"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Distrito de Moratalaz|Distrito 14"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q48781875"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Mediodía"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mediodía"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "1"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Mediod%C3%ADa_(Madrid)"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q953368"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Usera"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Usera"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "22"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Usera"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Distrito de Usera|Distrito 12"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1001991"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Carabanchel"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Carabanchel"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "24"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Carabanchel"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Distrito de Carabanchel|Distrito 11"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1763370"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Chamberí"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Chamberí"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "25"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Chamber%C3%AD"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Distrito de Chamberí|Distrito 7"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1763376"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Centro"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Centro"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "24"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Centro_(Madrid)"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Distrito Centro|Distrito 1"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1763694"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Ciudad Lineal"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ciudad Lineal"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "24"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Ciudad_Lineal"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Distrito de Ciudad Lineal|Distrito 15"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1766348"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Chamartín"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Chamartín"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "25"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Chamart%C3%ADn"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Distrito de Chamartín|Distrito 5"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1773521"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Salamanca"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Salamanca"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "27"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Salamanca_(Madrid)"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Distrito de Salamanca|Distrito 4"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1773540"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Tetuán"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Tetuán"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "22"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Tetu%C3%A1n_(Madrid)"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Distrito de Tetuán|Distrito 6"
+      }
+    } ]
+  }
+}

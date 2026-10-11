@@ -1,0 +1,2746 @@
+{
+  "head" : {
+    "vars" : [ "x", "xLabel", "en", "links", "art", "alts" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q44578"
+      },
+      "xLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Titanic"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Titanic"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "137"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Titanic_(pel%C3%ADcula_de_1997)"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20456"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Dances with Wolves"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Dances with Wolves"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "69"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Dances_with_Wolves"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Danza con lobos|Bailando con lobos"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q25139"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "American Beauty"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "American Beauty"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "79"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/American_Beauty"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q27178"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Hamlet"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Hamlet"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "45"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Hamlet_(pel%C3%ADcula_de_1948)"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q59653"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Argo"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Argo"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "65"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Argo_(pel%C3%ADcula_de_2012)"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2875"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Lo que el viento se llevó"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Gone with the Wind"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "97"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Lo_que_el_viento_se_llev%C3%B3_(pel%C3%ADcula)"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Gone with the Wind"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q60072"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Sonrisas y Lágrimas"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "The Sound of Music"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "71"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/The_Sound_of_Music"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Sonrisas y Lagrimas|La novicia rebelde"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q61696"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Midnight Cowboy"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Midnight Cowboy"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "58"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Midnight_Cowboy"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Cowboy de medianoche|Perdidos en la noche"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q62665"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "El golpe"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "The Sting"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "55"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/El_golpe_(pel%C3%ADcula_de_1973)"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "The Sting"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q47703"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "El padrino"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "The Godfather"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "132"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/El_padrino_(pel%C3%ADcula)"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "The Godfather"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q134773"
+      },
+      "xLabel" : {
+        "type" : "literal",
+        "value" : "Q134773"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "137"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Forrest_Gump_(pel%C3%ADcula)"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q162729"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Braveheart"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Braveheart"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "92"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Braveheart"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Corazón valiente|Corazon valiente"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q141359"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Oliver"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Oliver!"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "45"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Oliver_(pel%C3%ADcula)"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q160060"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "El discurso del rey"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "The King's Speech"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "78"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/El_discurso_del_rey"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "The King's Speech"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q180098"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Ben-Hur"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ben-Hur"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "78"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Ben-Hur_(pel%C3%ADcula_de_1959)"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Ben hur"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q164103"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "A Beautiful Mind"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "A Beautiful Mind"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "86"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/A_Beautiful_Mind"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Una mente maravillosa|Una Mente Brillante|A Beatiful Mind"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q171669"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Alguien voló sobre el nido del cuco"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "One Flew Over the Cuckoo's Nest"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "78"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/One_Flew_Over_the_Cuckoo%27s_Nest"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Atrapado sin salida|Alguien volo sobre el nido del cuco"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q171861"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "The Artist"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "The Artist"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "73"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/The_Artist"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "El Artista"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q172975"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Los infiltrados"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "The Departed"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "80"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/The_Departed"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Departed|Infiltrados"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q182944"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Shakespeare in Love"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Shakespeare in Love"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "72"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Shakespeare_in_Love"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Shakespeare enamorado|Shakespeare Apasionado"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q183066"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "The Hurt Locker"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "The Hurt Locker"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "69"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/The_Hurt_Locker"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Zona de miedo|Vivir al límite|Vivir al limite|En tierra hostil"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q470218"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "El gran Ziegfeld"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "The Great Ziegfeld"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "49"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/El_gran_Ziegfeld"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "El gran Ziegfield|El gran ziegfeld"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q478371"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "La señora Miniver"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mrs. Miniver"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "51"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/La_se%C3%B1ora_Miniver"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "La senora Miniver"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q104137"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Unforgiven"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Unforgiven"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "64"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Unforgiven_(pel%C3%ADcula)"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Sin Perdón|Sin perdon|Los imperdonables"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q125076"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Slumdog Millionaire"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Slumdog Millionaire"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "89"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Slumdog_Millionaire"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Quisiera ser millonario"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q128518"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Gladiator"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Gladiator"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "108"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Gladiator"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Gladiador|El Gladiador"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q131074"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "El Señor de los Anillos: el retorno del Rey"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "The Lord of the Rings: The Return of the King"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "93"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/El_Se%C3%B1or_de_los_Anillos:_el_retorno_del_Rey"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "El señor de los anillos: el retorno del rey|El retorno del Rey|El retorno del rey"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q132689"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Casablanca"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Casablanca"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "107"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Casablanca_(pel%C3%ADcula)"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q133654"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "The Silence of the Lambs"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "The Silence of the Lambs"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "102"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/The_Silence_of_the_Lambs_(pel%C3%ADcula)"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q63026"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "El paciente inglés"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "The English Patient"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "72"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/El_paciente_ingl%C3%A9s"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "El Paciente Inglés|El Paciente Ingles|El paciente ingles|The English Patient"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q190956"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Amadeus"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Amadeus"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "72"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Amadeus"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q193577"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Kramer vs. Kramer"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kramer vs. Kramer"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "62"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Kramer_vs._Kramer"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Kramer vs Kramer|Kramer versus Kramer|Kramer contra Kramer"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q200299"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Eva al desnudo"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "All About Eve"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "68"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/All_About_Eve"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q201215"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "My Fair Lady"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "My Fair Lady"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "61"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/My_Fair_Lady_(pel%C3%ADcula_de_1964)"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q201674"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "The Deer Hunter"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "The Deer Hunter"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "63"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/The_Deer_Hunter"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "El francotirador|El cazador"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q202211"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Gandhi"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Gandhi"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "68"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Gandhi_(pel%C3%ADcula)"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q204212"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Rebecca"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Rebecca"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "63"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Rebecca_(pel%C3%ADcula_de_1940)"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Rebeca, una mujer inolvidable|Rebeca una mujer inolvidable|Rebeca"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q207588"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "De aquí a la eternidad"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "From Here to Eternity"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "60"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/De_aqu%C3%AD_a_la_eternidad"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "From Here to Eternity|De aqui a la eternidad"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q207921"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Chariots of Fire"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Chariots of Fire"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "60"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Chariots_of_Fire"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Carrozas de fuego|Carros de fuego"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q208266"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Out of Africa"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Out of Africa"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "62"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Out_of_Africa"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "África Mía|África mia|Africa mía|Africa mia|Memorias de África|Memorias de Africa"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q208632"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Sucedió una noche"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "It Happened One Night"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "59"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/It_Happened_One_Night"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Sucedio una noche"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q211372"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "On the Waterfront"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "On the Waterfront"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "62"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/On_the_Waterfront"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Nido de ratas|La ley del silencio"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q211373"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Driving Miss Daisy"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Driving Miss Daisy"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "54"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Driving_Miss_Daisy"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Paseando a Miss Daisy|El chofer y la señora Daisy|El chofer y la senora Daisy|El chófer de la señora Daisy|El chófer de la senora Daisy|El chofer de la señora Daisy|El chofer de la senora Daisy|Conduciendo a Miss Daisy"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q212775"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "El último emperador"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "The Last Emperor"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "64"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/El_%C3%BAltimo_emperador"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "El ultimo emperador|The Last Emperor"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q183081"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "No Country for Old Men"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "No Country for Old Men"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "79"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/No_Country_for_Old_Men"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Sin Lugar para los Débiles|Sin Lugar para los Debiles|No es país para viejos|No es pais para viejos"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q184255"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Million Dollar Baby"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Million Dollar Baby"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "71"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Million_Dollar_Baby"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Golpes del Destino"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q184768"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "The Godfather Part II"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "The Godfather Part II"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "86"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/El_padrino_II"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "The Godfather: Part II|The Godfather II|Mario Puzo's The Godfather: Part II|Mario Puzo's The Godfather Part II|El Padrino, parte II|El Padrino parte II|El padrino II"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q185071"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "La fuerza del cariño"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Terms of Endearment"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "52"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/La_fuerza_del_cari%C3%B1o"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q188000"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Crash"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Crash"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "62"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Crash_(pel%C3%ADcula_de_2004)"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q188652"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Rocky"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Rocky"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "72"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Rocky_(pel%C3%ADcula)"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Rocky I|Rocky 1"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q188718"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "El puente sobre el río Kwai"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "The Bridge on the River Kwai"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "71"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/El_puente_sobre_el_r%C3%ADo_Kwai"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "El puente sobre el rio Kwai"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q188845"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Rain Man"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Rain Man"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "74"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Rain_Man"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Cuando los hermanos se encuentran"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q189889"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Chicago"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Chicago"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "64"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Chicago_(pel%C3%ADcula_de_2002)"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q190643"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Platoon"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Platoon"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "66"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Platoon"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Pelotón|Peloton"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q217220"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Patton"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Patton"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "57"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Patton_(pel%C3%ADcula)"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Discurso de Patton"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q218999"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "A Man for All Seasons"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "A Man for All Seasons"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "52"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/A_Man_for_All_Seasons"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Un hombre para la eternidad|Un hombre de dos reinos"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q220735"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "The French Connection"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "The French Connection"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "56"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/The_French_Connection"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q228186"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Lawrence de Arabia"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Lawrence of Arabia"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "79"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Lawrence_de_Arabia_(pel%C3%ADcula)"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Lawrence of Arabia"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q233464"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Annie Hall"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Annie Hall"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "65"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Annie_Hall"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Dos extraños amantes|Dos extranos amantes"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q237116"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Marty"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Marty"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "49"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Marty"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q237134"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Días sin huella"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "The Lost Weekend"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "52"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/D%C3%ADas_sin_huella"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "The Lost Weekend|Dias sin huella"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q244448"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "¡Qué verde era mi valle!"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "How Green Was My Valley"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "56"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/%C2%A1Qu%C3%A9_verde_era_mi_valle!"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Qué verde era mi valle|Que verde era mi valle|How Green Was My Valley|¡Que verde era mi valle!"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q246656"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Grand Hotel"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Grand Hotel"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "54"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Grand_Hotel_(pel%C3%ADcula_de_1932)"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q251997"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Cimarrón"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cimarron"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "51"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Cimarr%C3%B3n_(pel%C3%ADcula_de_1931)"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Cimarron"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q270510"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "The Apartment"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "The Apartment"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "58"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/The_Apartment"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "The Apartament|El apartamento"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q272036"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Alas"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Wings"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "56"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Alas_(pel%C3%ADcula)"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Alas pelicula|Wings"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q272599"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Sin novedad en el frente"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "All Quiet on the Western Front"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "62"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Sin_novedad_en_el_frente_(pel%C3%ADcula_de_1930)"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q273704"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "West Side Story"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "West Side Story"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "56"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/West_Side_Story_(pel%C3%ADcula_de_1961)"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Amor sin barreras"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q313315"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Tom Jones"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Tom Jones"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "47"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Tom_Jones_(pel%C3%ADcula)"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q329709"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Mutiny on the Bounty"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mutiny on the Bounty"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "54"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Mutiny_on_the_Bounty_(pel%C3%ADcula_de_1935)"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Rebelión a bordo|Rebelion a bordo"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q463620"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "La melodía de Broadway"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "The Broadway Melody"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "53"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Melod%C3%ADas_de_Broadway"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "La melodia de Broadway"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q468877"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Siguiendo mi camino"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Going My Way"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "49"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Going_My_Way"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Going My Way"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q26698156"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "La forma del agua"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "The Shape of Water"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "70"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/La_forma_del_agua"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "The Shape of Water"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q48673898"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Green Book"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Green Book"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "71"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Green_Book_(pel%C3%ADcula)"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q61448040"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Parásitos"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Parasite"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "81"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Par%C3%A1sitos_(pel%C3%ADcula)"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Parasite"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q61740820"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Nomadland"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Nomadland"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "52"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Nomadland"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q83808444"
+      },
+      "xLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Everything Everywhere All at Once"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Everything Everywhere All at Once"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "60"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Everything_Everywhere_All_at_Once"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Todo en todas partes al mismo tiempo|Todo a la vez en todas partes"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q104686893"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Coda"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "CODA"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "46"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/CODA_(pel%C3%ADcula)"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q108839994"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Oppenheimer"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Oppenheimer"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "81"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Oppenheimer_(pel%C3%ADcula)"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q117085614"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Una batalla tras otra"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "One Battle After Another"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "53"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Una_batalla_tras_otra"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q123185887"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Anora"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Anora"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "53"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Anora"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q483941"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "La lista de Schindler"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Schindler's List"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "102"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/La_lista_de_Schindler"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q503313"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Ordinary People"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ordinary People"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "48"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Ordinary_People"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Gente corriente|Gente como uno"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q577757"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Gigi"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Gigi"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "46"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Gigi"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q622240"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "In the Heat of the Night"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "In the Heat of the Night"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "55"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/In_the_Heat_of_the_Night"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "En el calor de la noche|Al calor de la noche"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q637835"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "You can't take it with you"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "You Can't Take It With You"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "47"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/You_Can%27t_Take_It_With_You"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Vive como quieras"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q641061"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "El mayor espectáculo del mundo"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "The Greatest Show on Earth"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "49"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/The_Greatest_Show_on_Earth_(pel%C3%ADcula_de_1952)"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "El mayor espectaculo del mundo"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q645094"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Los mejores años de nuestra vida"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "The Best Years of Our Lives"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "53"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Los_mejores_a%C3%B1os_de_nuestra_vida"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "The best years of our lives|Los mejores anos de nuestra vida|Lo mejor de nuestra vida"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q696057"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "La vuelta al mundo en ochenta días"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Around the World in 80 Days"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "51"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/La_vuelta_al_mundo_en_ochenta_d%C3%ADas_(pel%C3%ADcula_de_1956)"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "La vuelta al mundo en ochenta dias"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q738552"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "The Life of Emile Zola"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "The Life of Emile Zola"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "48"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/The_Life_of_Emile_Zola"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Vida de Emilio Zola|La vida de Émile Zola|La vida de Emile Zola"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q747570"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "An american in Paris"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "An American in Paris"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "59"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Un_americano_en_Par%C3%ADs"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Un americano en París|Un americano en Paris"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q753107"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Cabalgata"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cavalcade"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "47"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Cabalgata_(pel%C3%ADcula)"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q817159"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "All the King's Men"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "All the King's Men"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "50"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/All_the_King%27s_Men"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "El politico|El político|Todos los hombres del rey"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q898840"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Gentleman's Agreement"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Gentleman's Agreement"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "45"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Gentleman%27s_Agreement"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "La barrera invisible"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3023357"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "12 Años de esclavitud"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "12 Years a Slave"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "78"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/12_Years_a_Slave"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q13255497"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Birdman"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Birdman"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "74"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Birdman_o_(la_inesperada_virtud_de_la_ignorancia)"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Birdman o (la inesperada virtud de la ignorancia)"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18154496"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Spotlight"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Spotlight"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "63"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Spotlight"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "En primera plana"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q21527875"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Luz de luna"
+      },
+      "en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Moonlight"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "59"
+      },
+      "art" : {
+        "type" : "uri",
+        "value" : "https://es.wikipedia.org/wiki/Moonlight_(pel%C3%ADcula)"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Moonlight"
+      }
+    } ]
+  }
+}

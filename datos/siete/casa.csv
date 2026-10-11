@@ -1,0 +1,73 @@
+respuesta;alias;nivel;orden_a_mano
+cocina;;1;1000000000
+salón;sala de estar|sala|living|cuarto de estar;1;999999999
+baño;cuarto de baño|aseo|servicio|váter|lavabo;1;999999998
+dormitorio;habitación|cuarto|alcoba;1;999999997
+comedor;salón comedor;1;999999996
+terraza;;1;999999995
+garaje;cochera;1;999999994
+jardín;;1;999999993
+pasillo;;1;999999992
+balcón;;2;1000000000
+entrada;recibidor|hall|vestíbulo;2;999999999
+despacho;estudio|oficina;2;999999998
+trastero;;2;999999997
+sótano;;2;999999996
+buhardilla;ático|desván|altillo;2;999999995
+patio;;2;999999994
+lavadero;cuarto de la lavadora|cuarto de lavado;2;999999993
+despensa;;2;999999992
+escaleras;escalera;2;999999991
+vestidor;;2;999999990
+habitación de invitados;cuarto de invitados;2;999999989
+cuarto de los niños;habitación de los niños|cuarto infantil;2;999999988
+porche;;2;999999987
+azotea;tejado;2;999999986
+piscina;;2;999999985
+galería;;3;1000000000
+tendedero;;3;999999999
+zaguán;;3;999999998
+rellano;descansillo;3;999999997
+bodega;;3;999999996
+cuarto de juegos;sala de juegos;3;999999995
+portal;;3;999999994
+habitación de matrimonio;dormitorio principal|suite;3;999999993
+gimnasio;;3;999999992
+biblioteca;;3;999999991
+huerto;;3;999999990
+cuarto de la plancha;;3;999999989
+cuarto de la caldera;sala de calderas;3;999999988
+solárium;solario;3;999999987
+office;;3;999999986
+distribuidor;;3;999999985
+hueco de la escalera;;4;999999984
+baño en suite;;4;999999983
+aseo de cortesía;;4;999999982
+cuarto de las escobas;escobero;4;999999981
+leñera;;4;999999980
+cobertizo;;4;999999979
+invernadero;;4;999999978
+corral;;4;999999977
+cuadra;establo;4;999999976
+mirador;;4;999999975
+salita;;4;999999974
+antesala;;4;999999973
+recámara;;4;999999972
+tocador;;4;999999971
+sala de cine;;4;999999970
+taller;;4;999999969
+cuarto de costura;;5;999999968
+bajo cubierta;;5;999999967
+entresuelo;;5;999999966
+semisótano;;5;999999965
+sobrado;;5;999999964
+trascocina;;5;999999963
+antecocina;;5;999999962
+patio de luces;;5;999999961
+pérgola;;5;999999960
+cenador;;5;999999959
+zona de barbacoa;barbacoa;5;999999958
+bodeguilla;;5;999999957
+txoko;;5;999999956
+habitación del pánico;;5;999999955
+cuarto oscuro;;5;999999954

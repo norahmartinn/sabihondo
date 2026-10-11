@@ -1,0 +1,590 @@
+[
+{
+"nombre": "Aiguablava",
+"provincia": "Girona",
+"direccion": "Platja D'Aiguablava 17255 Begur (Girona)",
+"ficha": "https://paradores.es/es/parador-de-aiguablava"
+},
+{
+"nombre": "Alarcón",
+"provincia": "Cuenca",
+"direccion": "Avda. Amigos de los Castillos, 3 16214 Alarcón (Cuenca)",
+"ficha": "https://paradores.es/es/parador-de-alarcon"
+},
+{
+"nombre": "Albacete",
+"provincia": "Albacete",
+"direccion": "CN-301, km 251 02080 Albacete",
+"ficha": "https://paradores.es/es/parador-de-albacete"
+},
+{
+"nombre": "Alcalá de Henares",
+"provincia": "Madrid",
+"direccion": "Colegios, 8 28801 Alcalá de Henares (Madrid)",
+"ficha": "https://paradores.es/es/parador-de-alcala-de-henares"
+},
+{
+"nombre": "Alcañiz",
+"provincia": "Teruel",
+"direccion": "Castillo Calatravos, s/n 44600 Alcañiz (Teruel)",
+"ficha": "https://paradores.es/es/parador-de-alcaniz"
+},
+{
+"nombre": "Almagro",
+"provincia": "Ciudad Real",
+"direccion": "Ronda San Francisco, 31 13270 Almagro (Ciudad Real)",
+"ficha": "https://paradores.es/es/parador-de-almagro"
+},
+{
+"nombre": "Antequera",
+"provincia": "Málaga",
+"direccion": "Paseo García del Olmo, 2 29200 Antequera (Málaga)",
+"ficha": "https://paradores.es/es/parador-de-antequera"
+},
+{
+"nombre": "Arcos de la Frontera",
+"provincia": "Cádiz",
+"direccion": "Plaza del Cabildo, s/n 11630 Arcos de la Frontera (Cádiz)",
+"ficha": "https://paradores.es/es/parador-de-arcos-de-la-frontera"
+},
+{
+"nombre": "Argomaniz",
+"provincia": "Álava",
+"direccion": "Ctra. N-1, km 363 01192 Argomaniz (Álava)",
+"ficha": "https://paradores.es/es/parador-de-argomaniz"
+},
+{
+"nombre": "Arties",
+"provincia": "Lleida",
+"direccion": "San Juan, 1 25599 Arties, Naut Arán (Lleida)",
+"ficha": "https://paradores.es/es/parador-de-arties"
+},
+{
+"nombre": "Ávila",
+"provincia": "Ávila",
+"direccion": "Marqués de Canales y Chozas, 2 05001 Ávila",
+"ficha": "https://paradores.es/es/parador-de-avila"
+},
+{
+"nombre": "Ayamonte",
+"provincia": "Huelva",
+"direccion": "Avda. de la Constitución, s/n 21400 Ayamonte (Huelva)",
+"ficha": "https://paradores.es/es/parador-de-ayamonte"
+},
+{
+"nombre": "Baiona",
+"provincia": "Pontevedra",
+"direccion": "Avenida Arquitecto Jesús Valverde, 3 36300 Baiona (Pontevedra)",
+"ficha": "https://paradores.es/es/parador-de-baiona"
+},
+{
+"nombre": "Benavente",
+"provincia": "Zamora",
+"direccion": "Paseo de la Mota, s/n 49600 Benavente (Zamora)",
+"ficha": "https://paradores.es/es/parador-de-benavente"
+},
+{
+"nombre": "Benicarló",
+"provincia": "Castellón",
+"direccion": "Avda. Papa Luna, 5 12580 Benicarló (Castellón)",
+"ficha": "https://paradores.es/es/parador-de-benicarlo"
+},
+{
+"nombre": "Bielsa",
+"provincia": "Huesca",
+"direccion": "Valle de Pineta, s/n 22350 Bielsa (Huesca)",
+"ficha": "https://paradores.es/es/parador-de-bielsa"
+},
+{
+"nombre": "Cáceres",
+"provincia": "Cáceres",
+"direccion": "Calle Ancha, 6 10003 Cáceres",
+"ficha": "https://paradores.es/es/parador-de-caceres"
+},
+{
+"nombre": "Cádiz",
+"provincia": "Cádiz",
+"direccion": "Avda. Duque de Nájera, 9 11002 Cádiz",
+"ficha": "https://paradores.es/es/parador-de-cadiz"
+},
+{
+"nombre": "Calahorra",
+"provincia": "La Rioja",
+"direccion": "Paseo Mercadal, s/n 26500 Calahorra (La Rioja)",
+"ficha": "https://paradores.es/es/parador-de-calahorra"
+},
+{
+"nombre": "Cambados",
+"provincia": "Pontevedra",
+"direccion": "Paseo Calzada, s/n 36630 Cambados (Pontevedra)",
+"ficha": "https://paradores.es/es/parador-de-cambados"
+},
+{
+"nombre": "Cangas de Onís",
+"provincia": "Asturias",
+"direccion": "Monasterio de San Pedro de Villanueva s/n 33550 Villanueva (Cangas de Onís). Principado de Asturias.",
+"ficha": "https://paradores.es/es/parador-de-cangas-de-onis"
+},
+{
+"nombre": "Cardona",
+"provincia": "Barcelona",
+"direccion": "Castell de Cardona, s/n 08261 Cardona (Barcelona)",
+"ficha": "https://paradores.es/es/parador-de-cardona"
+},
+{
+"nombre": "Carmona",
+"provincia": "Sevilla",
+"direccion": "Alcázar, s/n 41410 Carmona (Sevilla)",
+"ficha": "https://paradores.es/es/parador-de-carmona"
+},
+{
+"nombre": "Cazorla",
+"provincia": "Jaén",
+"direccion": "Sierra Cazorla, s/n 23470 Cazorla (Jaén)",
+"ficha": "https://paradores.es/es/parador-de-cazorla"
+},
+{
+"nombre": "Cervera de Pisuerga",
+"provincia": "Palencia",
+"direccion": "Ctra. de Resoba, km 2,5 34840 Cervera de Pisuerga (Palencia)",
+"ficha": "https://paradores.es/es/parador-de-cervera-de-pisuerga"
+},
+{
+"nombre": "Ceuta",
+"provincia": "Ceuta",
+"direccion": "Plaza Ntra. Sra. de África, 15 51001 Ceuta",
+"ficha": "https://paradores.es/es/parador-de-ceuta"
+},
+{
+"nombre": "Chinchón",
+"provincia": "Madrid",
+"direccion": "Los Huertos, 1 28370 Chinchón (Madrid)",
+"ficha": "https://paradores.es/es/parador-de-chinchon"
+},
+{
+"nombre": "Ciudad Rodrigo",
+"provincia": "Salamanca",
+"direccion": "Pza. Castillo, 1 37500 Ciudad Rodrigo (Salamanca)",
+"ficha": "https://paradores.es/es/parador-de-ciudad-rodrigo"
+},
+{
+"nombre": "Córdoba",
+"provincia": "Córdoba",
+"direccion": "Avda. de la Arruzafa, 37 14012 Córdoba",
+"ficha": "https://paradores.es/es/parador-de-cordoba"
+},
+{
+"nombre": "Corias",
+"provincia": "Asturias",
+"direccion": "Monasterio de Corias, s/n 33816 Corias, Cangas del Narcea (Asturias)",
+"ficha": "https://paradores.es/es/parador-de-corias"
+},
+{
+"nombre": "Costa da Morte",
+"provincia": "A Coruña",
+"direccion": "Lugar de Lourido s/n 15125 Muxía (A Coruña)",
+"ficha": "https://paradores.es/es/parador-costa-da-morte"
+},
+{
+"nombre": "Cruz de Tejeda",
+"provincia": "Las Palmas",
+"direccion": "Cruz de Tejeda, s/n 35328 Tejeda (Gran Canaria, Islas Canarias)",
+"ficha": "https://paradores.es/es/parador-de-cruz-de-tejeda"
+},
+{
+"nombre": "Cuenca",
+"provincia": "Cuenca",
+"direccion": "Subida a San Pablo, s/n 16001 Cuenca",
+"ficha": "https://paradores.es/es/parador-de-cuenca"
+},
+{
+"nombre": "Eivissa - Dalt Vila",
+"provincia": "Illes Balears",
+"direccion": "Camí del Calvari, 2 07800 Eivissa",
+"ficha": "https://paradores.es/es/parador-de-ibiza"
+},
+{
+"nombre": "El Hierro",
+"provincia": "Santa Cruz de Tenerife",
+"direccion": "Las Playas, 15 38910 VALVERDE El Hierro (Islas Canarias)",
+"ficha": "https://paradores.es/es/parador-de-el-hierro"
+},
+{
+"nombre": "El Saler",
+"provincia": "Valencia",
+"direccion": "Avda. de los Pinares, 151 46012 El Saler (Valencia)",
+"ficha": "https://paradores.es/es/parador-de-el-saler"
+},
+{
+"nombre": "Ferrol",
+"provincia": "A Coruña",
+"direccion": "Praza do Contralmirante Azarola Gresillón 15401 Ferrol (A Coruña)",
+"ficha": "https://paradores.es/es/parador-de-ferrol"
+},
+{
+"nombre": "Fuente Dé",
+"provincia": "Cantabria",
+"direccion": "Fuente Dé, s/n 39588 Fuente Dé, Camaleño (Cantabria)",
+"ficha": "https://paradores.es/es/parador-de-fuente-de"
+},
+{
+"nombre": "Gijón",
+"provincia": "Asturias",
+"direccion": "Avenida Torcuato Fernández Miranda, 15 33203 Gijón (Asturias)",
+"ficha": "https://paradores.es/es/parador-de-gijon"
+},
+{
+"nombre": "Granada",
+"provincia": "Granada",
+"direccion": "Real de la Alhambra, s/n 18009 Granada",
+"ficha": "https://paradores.es/es/parador-de-granada"
+},
+{
+"nombre": "Gredos",
+"provincia": "Ávila",
+"direccion": "AV-941, km. 10 05635 Navarredonda de Gredos (Ávila)",
+"ficha": "https://paradores.es/es/parador-de-gredos"
+},
+{
+"nombre": "Guadalupe",
+"provincia": "Cáceres",
+"direccion": "C/ Marqués de la Romana, 12 10140 Guadalupe (Cáceres)",
+"ficha": "https://paradores.es/es/parador-de-guadalupe"
+},
+{
+"nombre": "Hondarribia",
+"provincia": "Gipuzkoa",
+"direccion": "Pza. de Armas, 14 20280 Hondarribia (Guipúzcoa)",
+"ficha": "https://paradores.es/es/parador-de-hondarribia"
+},
+{
+"nombre": "Jaén",
+"provincia": "Jaén",
+"direccion": "Castillo de Santa Catalina, s/n 23001 Jaén",
+"ficha": "https://paradores.es/es/parador-de-jaen"
+},
+{
+"nombre": "Jarandilla de la Vera",
+"provincia": "Cáceres",
+"direccion": "Avda. García Prieto, 1 10450 Jarandilla de la Vera (Cáceres)",
+"ficha": "https://paradores.es/es/parador-de-jarandilla-de-la-vera"
+},
+{
+"nombre": "Jávea",
+"provincia": "Alicante",
+"direccion": "Avda. del Mediterráneo, 233. Playa del Arenal 03730 Jávea (Alicante)",
+"ficha": "https://paradores.es/es/parador-de-javea"
+},
+{
+"nombre": "La Gomera",
+"provincia": "Santa Cruz de Tenerife",
+"direccion": "Lomo de la Horca, s/n 38800 San Sebastián de la Gomera (Islas Canarias)",
+"ficha": "https://paradores.es/es/parador-de-la-gomera"
+},
+{
+"nombre": "La Granja",
+"provincia": "Segovia",
+"direccion": "Infantes, 3 40100 Real Sitio de San Ildefonso (Segovia)",
+"ficha": "https://paradores.es/es/parador-de-la-granja"
+},
+{
+"nombre": "La Palma",
+"provincia": "Santa Cruz de Tenerife",
+"direccion": "Ctra. de el Zumacal, s/n 38712 Breña Baja (La Palma, Islas Canarias)",
+"ficha": "https://paradores.es/es/parador-de-la-palma"
+},
+{
+"nombre": "La Seu d’Urgell",
+"provincia": "Lleida",
+"direccion": "Sant Domènec, 6 25700 La Seu d'Urgell (Lleida)",
+"ficha": "https://paradores.es/es/parador-de-la-seu-durgell"
+},
+{
+"nombre": "Las Cañadas del Teide",
+"provincia": "Santa Cruz de Tenerife",
+"direccion": "Las Cañadas del Teide 38300 La Orotava (Tenerife, Islas Canarias)",
+"ficha": "https://paradores.es/es/parador-de-las-canadas-del-teide"
+},
+{
+"nombre": "León",
+"provincia": "León",
+"direccion": "Pza. de San Marcos, 7 24001 León",
+"ficha": "https://paradores.es/es/parador-de-leon"
+},
+{
+"nombre": "Lerma",
+"provincia": "Burgos",
+"direccion": "Plaza Mayor, 1 09340 Lerma (Burgos)",
+"ficha": "https://paradores.es/es/parador-de-lerma"
+},
+{
+"nombre": "Limpias",
+"provincia": "Cantabria",
+"direccion": "Fuente del Amor, 2 39820 Limpias (Cantabria)",
+"ficha": "https://paradores.es/es/parador-de-limpias"
+},
+{
+"nombre": "Lleida",
+"provincia": "Lleida",
+"direccion": "Calle Cavallers, 15 (Acceso peatonal, no circulable) (Parking en C/ La Palma 21-23) 25002 Lleida",
+"ficha": "https://paradores.es/es/parador-de-lleida"
+},
+{
+"nombre": "Lorca",
+"provincia": "Murcia",
+"direccion": "Castillo de Lorca s/n 30800 Lorca (Murcia)",
+"ficha": "https://paradores.es/es/parador-de-lorca"
+},
+{
+"nombre": "Málaga Gibralfaro",
+"provincia": "Málaga",
+"direccion": "Castillo de Gibralfaro, s/n 29016 Málaga",
+"ficha": "https://paradores.es/es/parador-de-malaga-gibralfaro"
+},
+{
+"nombre": "Málaga Golf",
+"provincia": "Málaga",
+"direccion": "Autovía MA-20 (Málaga - Algeciras) Salida Coín 29004 Málaga",
+"ficha": "https://paradores.es/es/parador-de-malaga-golf"
+},
+{
+"nombre": "Manzanares",
+"provincia": "Ciudad Real",
+"direccion": "Autovía Andalucía, km 175 13200 Manzanares (Ciudad Real)",
+"ficha": "https://paradores.es/es/parador-de-manzanares"
+},
+{
+"nombre": "Mazagón",
+"provincia": "Huelva",
+"direccion": "Carretera San Juan del Puerto-Matalascañas km31 21130 Mazagón, Moguer (Huelva)",
+"ficha": "https://paradores.es/es/parador-de-mazagon"
+},
+{
+"nombre": "Melilla",
+"provincia": "Melilla",
+"direccion": "Avda. Cándido Lobera, s/n Melilla 52001 Melilla",
+"ficha": "https://paradores.es/es/parador-de-melilla"
+},
+{
+"nombre": "Mérida",
+"provincia": "Badajoz",
+"direccion": "C/Almendralejo, 58 06800 Mérida (Badajoz)",
+"ficha": "https://paradores.es/es/parador-de-merida"
+},
+{
+"nombre": "Mojácar",
+"provincia": "Almería",
+"direccion": "Paseo del Mediterráneo, 339 04638 Mojácar (Almería)",
+"ficha": "https://paradores.es/es/parador-de-mojacar"
+},
+{
+"nombre": "Molina de Aragón",
+"provincia": "Guadalajara",
+"direccion": "C/ Parador, 12 19300 Molina de Aragón",
+"ficha": "https://paradores.es/es/parador-de-molina-de-aragon"
+},
+{
+"nombre": "Monforte de Lemos",
+"provincia": "Lugo",
+"direccion": "Plaza Luis de Góngora y Argote, s/n 27400 Monforte de Lemos (Lugo)",
+"ficha": "https://paradores.es/es/parador-de-monforte-de-lemos"
+},
+{
+"nombre": "Nerja",
+"provincia": "Málaga",
+"direccion": "Almuñécar, 8 29780 Nerja (Málaga)",
+"ficha": "https://paradores.es/es/parador-de-nerja"
+},
+{
+"nombre": "Olite-Erriberri",
+"provincia": "Navarra",
+"direccion": "Pza. Teobaldos, 2 31390 Olite (Navarra)",
+"ficha": "https://paradores.es/es/parador-de-olite"
+},
+{
+"nombre": "Oropesa",
+"provincia": "Toledo",
+"direccion": "Pza. Palacio, 1 45560 Oropesa (Toledo)",
+"ficha": "https://paradores.es/es/parador-de-oropesa"
+},
+{
+"nombre": "Plasencia",
+"provincia": "Cáceres",
+"direccion": "Plaza San Vicente Ferrer, s/n 10600 Plasencia (Cáceres)",
+"ficha": "https://paradores.es/es/parador-de-plasencia"
+},
+{
+"nombre": "Pontevedra",
+"provincia": "Pontevedra",
+"direccion": "Barón, 19 36002 Pontevedra",
+"ficha": "https://paradores.es/es/parador-de-pontevedra"
+},
+{
+"nombre": "Puebla de Sanabria",
+"provincia": "Zamora",
+"direccion": "Av. Lago de Sanabria, 18 49300 Puebla de Sanabria (Zamora)",
+"ficha": "https://paradores.es/es/parador-de-puebla-de-sanabria"
+},
+{
+"nombre": "Ribadeo",
+"provincia": "Lugo",
+"direccion": "Amador Fernández, 7 27700 Ribadeo (Lugo)",
+"ficha": "https://paradores.es/es/parador-de-ribadeo"
+},
+{
+"nombre": "Ronda",
+"provincia": "Málaga",
+"direccion": "Plaza de España, s/n 29400 Ronda (Málaga)",
+"ficha": "https://paradores.es/es/parador-de-ronda"
+},
+{
+"nombre": "Salamanca",
+"provincia": "Salamanca",
+"direccion": "Teso de la Feria, 2 37008 Salamanca",
+"ficha": "https://paradores.es/es/parador-de-salamanca"
+},
+{
+"nombre": "Santiago de Compostela",
+"provincia": "A Coruña",
+"direccion": "Praza do Obradoiro, 1 15705 Santiago de Compostela (A Coruña)",
+"ficha": "https://paradores.es/es/parador-de-santiago-de-compostela"
+},
+{
+"nombre": "Santillana Altamira",
+"provincia": "Cantabria",
+"direccion": "Plaza Ramón Pelayo, s/n 39330 Santillana del Mar (Cantabria)",
+"ficha": "https://paradores.es/es/parador-de-santillana-del-mar"
+},
+{
+"nombre": "Santillana Gil Blas",
+"provincia": "Cantabria",
+"direccion": "Plaza Ramón Pelayo, 11 39330 Santillana del Mar (Cantabria)",
+"ficha": "https://paradores.es/es/parador-de-santillana-gil-blas"
+},
+{
+"nombre": "Santo Domingo Bernardo de Fresneda",
+"provincia": "La Rioja",
+"direccion": "Plaza de San Francisco, 1 26250 Santo Domingo de la Calzada (La Rioja)",
+"ficha": "https://paradores.es/es/parador-de-santo-domingo-bernardo-de-fresneda"
+},
+{
+"nombre": "Santo Domingo de la Calzada",
+"provincia": "La Rioja",
+"direccion": "Plaza del Santo, 3 26250 Santo Domingo de la Calzada (La Rioja)",
+"ficha": "https://paradores.es/es/parador-de-santo-domingo-de-la-calzada"
+},
+{
+"nombre": "Santo Estevo",
+"provincia": "Ourense",
+"direccion": "Monasterio de Santo Estevo 32162 Nogueira de Ramuín (Ourense)",
+"ficha": "https://paradores.es/es/parador-de-santo-estevo"
+},
+{
+"nombre": "Segovia",
+"provincia": "Segovia",
+"direccion": "Carretera de Valladolid, s/n 40003 Segovia",
+"ficha": "https://paradores.es/es/parador-de-segovia"
+},
+{
+"nombre": "Sigüenza",
+"provincia": "Guadalajara",
+"direccion": "Plaza del Castillo, s/n 19250 Sigüenza (Guadalajara)",
+"ficha": "https://paradores.es/es/parador-de-siguenza"
+},
+{
+"nombre": "Soria",
+"provincia": "Soria",
+"direccion": "Fortún López, s/n - Parque del Castillo 42005 Soria",
+"ficha": "https://paradores.es/es/parador-de-soria"
+},
+{
+"nombre": "Sos del Rey Católico",
+"provincia": "Zaragoza",
+"direccion": "Arquitecto Sainz de Vicuña, s/n 50680 Sos del Rey Católico (Zaragoza)",
+"ficha": "https://paradores.es/es/parador-de-sos-del-rey-catolico"
+},
+{
+"nombre": "Teruel",
+"provincia": "Teruel",
+"direccion": "Carretera Sagunto-Burgos km 122,5 44003 Teruel",
+"ficha": "https://paradores.es/es/parador-de-teruel"
+},
+{
+"nombre": "Toledo",
+"provincia": "Toledo",
+"direccion": "Cerro del Emperador, s/n 45002 Toledo",
+"ficha": "https://paradores.es/es/parador-de-toledo"
+},
+{
+"nombre": "Tordesillas",
+"provincia": "Valladolid",
+"direccion": "Ctra. de Salamanca, 5 47100 Tordesillas (Valladolid)",
+"ficha": "https://paradores.es/es/parador-de-tordesillas"
+},
+{
+"nombre": "Tortosa",
+"provincia": "Tarragona",
+"direccion": "Castillo de la Zuda, s/n 43500 Tortosa (Tarragona)",
+"ficha": "https://paradores.es/es/parador-de-tortosa"
+},
+{
+"nombre": "Trujillo",
+"provincia": "Cáceres",
+"direccion": "Santa Beatriz de Silva, 1 10200 Trujillo (Cáceres)",
+"ficha": "https://paradores.es/es/parador-de-trujillo"
+},
+{
+"nombre": "Tui",
+"provincia": "Pontevedra",
+"direccion": "Avda. Portugal, s/n 36700 Tui (Pontevedra)",
+"ficha": "https://paradores.es/es/parador-de-tui"
+},
+{
+"nombre": "Úbeda",
+"provincia": "Jaén",
+"direccion": "Plaza de Vázquez Molina, s/n 23400 Úbeda (Jaén)",
+"ficha": "https://paradores.es/es/parador-de-ubeda"
+},
+{
+"nombre": "Verín",
+"provincia": "Ourense",
+"direccion": "Subida a Monterrei, s/n 32600 Verín (Ourense)",
+"ficha": "https://paradores.es/es/parador-de-verin"
+},
+{
+"nombre": "Vic-Sau",
+"provincia": "Barcelona",
+"direccion": "Paraje el Bac de Sau | Ctra. de Tavèrnoles km 10 08500 Vic (Barcelona)",
+"ficha": "https://paradores.es/es/parador-de-vic-sau"
+},
+{
+"nombre": "Vielha",
+"provincia": "Lleida",
+"direccion": "Ctra. de Túnel, s/n 25530 Vielha (Lleida)",
+"ficha": "https://paradores.es/es/parador-de-vielha"
+},
+{
+"nombre": "Vilalba",
+"provincia": "Lugo",
+"direccion": "Valeriano Valdesuso, s/n 27800 Vilalba (Lugo)",
+"ficha": "https://paradores.es/es/parador-de-vilalba"
+},
+{
+"nombre": "Villafranca del Bierzo",
+"provincia": "León",
+"direccion": "Avda. Constitución, 28 24500 Villafranca del Bierzo (León)",
+"ficha": "https://paradores.es/es/parador-de-villafranca-del-bierzo"
+},
+{
+"nombre": "Zafra",
+"provincia": "Badajoz",
+"direccion": "Plaza Corazón de María, 7 06300 Zafra (Badajoz)",
+"ficha": "https://paradores.es/es/parador-de-zafra"
+},
+{
+"nombre": "Zamora",
+"provincia": "Zamora",
+"direccion": "Plaza de Viriato, 5 49001 Zamora",
+"ficha": "https://paradores.es/es/parador-de-zamora"
+}
+]

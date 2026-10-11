@@ -1,0 +1,51 @@
+respuesta;alias;nivel;orden_a_mano
+California;;1;1000000000
+Texas;Tejas;1;999999999
+Florida;;1;999999998
+Nueva York;New York;1;999999997
+Hawái;Hawaii;1;999999996
+Alaska;;1;999999995
+Washington;;2;1000000000
+Nevada;;2;999999999
+Arizona;;2;999999998
+Colorado;;2;999999997
+Nuevo México;New Mexico;2;999999996
+Illinois;;2;999999995
+Ohio;;2;999999994
+Kansas;;2;999999993
+Luisiana;Louisiana;2;999999992
+Georgia;;2;999999991
+Virginia;;2;999999990
+Utah;;2;999999989
+Massachusetts;;2;999999988
+Pensilvania;Pennsylvania;2;999999987
+Míchigan;;2;999999986
+Oregón;;2;999999985
+Tennessee;;2;999999984
+Kentucky;;2;999999983
+Carolina del Norte;North Carolina;3;1000000000
+Carolina del Sur;South Carolina;3;999999999
+Dakota del Norte;North Dakota;3;999999998
+Dakota del Sur;South Dakota;3;999999997
+Montana;;3;999999996
+Minnesota;;3;999999995
+Misisipi;Mississippi;3;999999994
+Misuri;Missouri;3;999999993
+Alabama;;3;999999992
+Oklahoma;;3;999999991
+Wisconsin;;3;999999990
+Nueva Jersey;New Jersey;3;999999989
+Indiana;;3;999999988
+Iowa;;3;999999987
+Arkansas;;3;999999986
+Idaho;;4;1000000000
+Wyoming;;4;999999999
+Nebraska;;4;999999998
+Maine;;4;999999997
+Vermont;;4;999999996
+Maryland;;4;999999995
+Connecticut;;4;999999994
+Virginia Occidental;West Virginia;4;999999993
+Delaware;;5;1000000000
+Rhode Island;;5;999999999
+Nuevo Hampshire;New Hampshire|Nueva Hampshire;5;999999998

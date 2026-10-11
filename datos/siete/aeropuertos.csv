@@ -1,0 +1,55 @@
+respuesta;alias;nivel;orden_a_mano
+Barajas;Madrid|Adolfo Suárez|Madrid-Barajas|Adolfo Suárez Madrid-Barajas|aeropuerto Barajas|aeropuerto Madrid|aeropuerto Adolfo Suárez|aeropuerto Madrid-Barajas|aeropuerto Adolfo Suárez Madrid-Barajas;1;1000000000
+El Prat;Barcelona|Josep Tarradellas|Barcelona-El Prat|aeropuerto El Prat|aeropuerto Barcelona|aeropuerto Josep Tarradellas|aeropuerto Barcelona-El Prat;1;999999999
+Palma de Mallorca;Son Sant Joan|Mallorca|Palma|aeropuerto Palma de Mallorca|aeropuerto Son Sant Joan|aeropuerto Mallorca|aeropuerto Palma;1;999999998
+Málaga;Málaga-Costa del Sol|Costa del Sol|aeropuerto Málaga|aeropuerto Málaga-Costa del Sol|aeropuerto Costa del Sol;1;999999997
+Alicante;Alicante-Elche|El Altet|Miguel Hernández|aeropuerto Alicante|aeropuerto Alicante-Elche|aeropuerto El Altet|aeropuerto Miguel Hernández;2;1000000000
+Valencia;Manises|aeropuerto Valencia|aeropuerto Manises;2;999999999
+Sevilla;San Pablo|aeropuerto Sevilla|aeropuerto San Pablo;2;999999998
+Bilbao;Loiu|Sondika|aeropuerto Bilbao|aeropuerto Loiu|aeropuerto Sondika;2;999999997
+Ibiza;Eivissa|aeropuerto Ibiza|aeropuerto Eivissa;2;999999996
+Gran Canaria;Las Palmas|Gando|aeropuerto Gran Canaria|aeropuerto Las Palmas|aeropuerto Gando;2;999999995
+Tenerife Sur;Reina Sofía|aeropuerto Tenerife Sur|aeropuerto Reina Sofía;2;999999994
+Tenerife Norte;Los Rodeos|Tenerife|aeropuerto Tenerife Norte|aeropuerto Los Rodeos|aeropuerto Tenerife;2;999999993
+Lanzarote;César Manrique|aeropuerto Lanzarote|aeropuerto César Manrique;2;999999992
+Fuerteventura;aeropuerto Fuerteventura;2;999999991
+Menorca;Mahón|aeropuerto Menorca|aeropuerto Mahón;2;999999990
+Santiago;Lavacolla|Santiago de Compostela|Rosalía de Castro|aeropuerto Santiago|aeropuerto Lavacolla|aeropuerto Santiago de Compostela|aeropuerto Rosalía de Castro;2;999999989
+Girona;Gerona|Girona-Costa Brava|aeropuerto Girona|aeropuerto Gerona|aeropuerto Girona-Costa Brava;3;1000000000
+Reus;aeropuerto Reus;3;999999999
+Asturias;Ranón|Oviedo|aeropuerto Asturias|aeropuerto Ranón|aeropuerto Oviedo;3;999999998
+Santander;Seve Ballesteros|Parayas|aeropuerto Santander|aeropuerto Seve Ballesteros|aeropuerto Parayas;3;999999997
+Zaragoza;aeropuerto Zaragoza;3;999999996
+Vigo;Peinador|aeropuerto Vigo|aeropuerto Peinador;3;999999995
+A Coruña;Alvedro|aeropuerto A Coruña|aeropuerto Alvedro;3;999999994
+Granada;Federico García Lorca|Granada-Jaén|aeropuerto Granada|aeropuerto Federico García Lorca|aeropuerto Granada-Jaén;3;999999993
+Almería;aeropuerto Almería;3;999999992
+Jerez;Jerez de la Frontera|aeropuerto Jerez|aeropuerto Jerez de la Frontera;3;999999991
+Murcia;Corvera|Región de Murcia|aeropuerto Murcia|aeropuerto Corvera|aeropuerto Región de Murcia;3;999999990
+San Sebastián;Hondarribia|Donostia|aeropuerto San Sebastián|aeropuerto Hondarribia|aeropuerto Donostia;3;999999989
+Pamplona;Noáin|aeropuerto Pamplona|aeropuerto Noáin;3;999999988
+Vitoria;Foronda|aeropuerto Vitoria|aeropuerto Foronda;3;999999987
+Valladolid;Villanubla|aeropuerto Valladolid|aeropuerto Villanubla;3;999999986
+Castellón;aeropuerto Castellón;4;1000000000
+Ciudad Real;aeropuerto Ciudad Real;4;999999999
+León;aeropuerto León;4;999999998
+Salamanca;Matacán|aeropuerto Salamanca|aeropuerto Matacán;4;999999997
+Burgos;Villafría|aeropuerto Burgos|aeropuerto Villafría;4;999999996
+Logroño;Agoncillo|La Rioja|aeropuerto Logroño|aeropuerto Agoncillo|aeropuerto La Rioja;4;999999995
+Badajoz;Talavera la Real|aeropuerto Badajoz|aeropuerto Talavera la Real;4;999999994
+Córdoba;aeropuerto Córdoba;4;999999993
+Albacete;Los Llanos|aeropuerto Albacete|aeropuerto Los Llanos;4;999999992
+Melilla;aeropuerto Melilla;4;999999991
+El Hierro;aeropuerto El Hierro;4;999999990
+La Gomera;aeropuerto La Gomera;4;999999989
+Lleida;Alguaire|Lérida|aeropuerto Lleida|aeropuerto Alguaire|aeropuerto Lérida;4;999999988
+Teruel;aeropuerto Teruel;4;999999987
+Huesca;Huesca-Pirineos|aeropuerto Huesca|aeropuerto Huesca-Pirineos;5;1000000000
+Sabadell;aeropuerto Sabadell;5;999999999
+Cuatro Vientos;Madrid-Cuatro Vientos|aeropuerto Cuatro Vientos|aeropuerto Madrid-Cuatro Vientos;5;999999998
+Son Bonet;aeropuerto Son Bonet;5;999999997
+Andorra-La Seu;La Seu d'Urgell|Seo de Urgel|aeropuerto Andorra-La Seu|aeropuerto La Seu d'Urgell|aeropuerto Seo de Urgel;5;999999996
+helipuerto de Ceuta;Ceuta|aeropuerto helipuerto de Ceuta|aeropuerto Ceuta;5;999999995
+helipuerto de Algeciras;Algeciras|aeropuerto helipuerto de Algeciras|aeropuerto Algeciras;5;999999994
+San Javier;Murcia-San Javier|aeropuerto San Javier|aeropuerto Murcia-San Javier;5;999999993
+Torrejón;aeropuerto Torrejón;5;999999992
