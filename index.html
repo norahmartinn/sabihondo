@@ -23,6 +23,7 @@
 .top-cab{display:flex;justify-content:space-between;align-items:center;gap:10px;margin-top:10px;font-size:14px;color:#c9d3e2;text-align:left}
 .top-cerrar{font:inherit;font-size:22px;line-height:1;background:none;border:0;color:#fbf7f2;cursor:pointer;padding:4px 8px;margin:-4px -8px -4px 0}
 .top-centro{display:flex;flex-direction:column;gap:16px;align-items:center;min-height:0;overflow:auto}
+.top-titulo{margin:0;font-family:var(--disp);font-weight:400;font-size:clamp(38px,10.5vw,50px);line-height:1.06;text-wrap:balance}
 .top-preg{margin:0;font-size:16.5px;color:#c9d3e2}
 .top-resp{margin:0;font-family:var(--disp);font-weight:400;font-style:italic;font-size:clamp(34px,9vw,44px);line-height:1.1;text-wrap:balance;overflow-wrap:anywhere}
 .top-resp.recta{font-style:normal}   /* un emoji no se inclina */
@@ -266,6 +267,12 @@ input[type=text]:focus,input[type=email]:focus,input[type=password]:focus{outlin
 .h-m{font-family:var(--sans);font-size:13px;font-weight:700;font-variant-numeric:tabular-nums}
 
 /* ── ranking ─────────────────────────────────────────── */
+.cab-podio{display:flex;align-items:center;gap:12px;flex-wrap:wrap;margin:0 0 6px}
+.cab-podio h2{margin:0}
+.directo{display:inline-flex;align-items:center;gap:6px;font:inherit;font-size:13px;font-weight:800;line-height:1;padding:6px 11px;border-radius:999px;
+  border:1px solid var(--linea);background:#fff;color:var(--tinta);cursor:pointer}
+.directo i{width:8px;height:8px;border-radius:50%;background:#e5484d;animation:directo 1.4s ease-in-out infinite}
+@keyframes directo{50%{opacity:.25}}
 .ranking{list-style:none;margin:14px 0 0;padding:0;border-top:1px solid var(--linea)}
 .ranking li{display:grid;grid-template-columns:44px 1fr auto;gap:12px;align-items:baseline;padding:11px 10px;border-bottom:1px solid var(--linea)}
 .ranking .puesto{font-family:var(--disp);font-size:20px;font-variant-numeric:lining-nums tabular-nums;color:var(--tinta-suave)}
@@ -1186,14 +1193,16 @@ const TOP_SEMANA = {fecha:"2026-10-11", desde:"2026-10-05", lista:[
   {q:"Nombra una canción de Taylor Swift", r:"🥸", de:"Jaime"}
 ]};
 function topSemana(){
-  const L = TOP_SEMANA.lista.slice(), antes = document.activeElement;
+  const L = [{titulo:true}, ...TOP_SEMANA.lista], antes = document.activeElement;
   const velo = document.createElement("div");
   velo.className = "top-velo"; velo.setAttribute("role","dialog"); velo.setAttribute("aria-modal","true"); velo.setAttribute("aria-label","Lo mejor de la semana");
   let i = 0;
   const cierra = () => { velo.remove(); document.removeEventListener("keydown", tecla); antes?.focus?.({preventScroll:true}); };
   const pinta = () => {
     const t = L[i], ultimo = i === L.length - 1;
-    const centro = t.filas
+    const centro = t.titulo
+      ? `<p class="top-titulo">Top mejores respuestas de la semana</p>`
+      : t.filas
       ? `<p class="top-preg">Quién ha bajado más metros esta semana</p>
          <ol class="top-metros">${t.filas.map(f => `<li class="${f.eres_tu ? "tu" : ""}"><span>${f.puesto}</span><b>${esc(f.apodo)}${f.eres_tu ? " (tú)" : ""}</b><em>${mil(f.metros)} m</em></li>`).join("")}</ol>`
       : `<p class="top-preg">${esc(t.q)}</p>
@@ -1769,7 +1778,8 @@ async function ranking(vista = "hoy"){
   caja.hidden = false; caja.scrollTop = 0;
   const marco = cuerpo => { caja.innerHTML = `
     <div class="panel">
-      <h2>${semana ? "Podio semanal" : "Podio de hoy"}</h2>
+      ${semana ? `<div class="cab-podio"><h2>Podio semanal</h2><button type="button" class="directo" id="bDirecto" title="Actualizar el podio"><i aria-hidden="true"></i>En directo</button></div>`
+               : `<h2>Podio de hoy</h2>`}
       ${haySemanal ? `<div class="pestanas" role="tablist">
         <button type="button" role="tab" id="bPodioHoy" aria-selected="${!semana}">Hoy</button>
         <button type="button" role="tab" id="bPodioSemana" aria-selected="${semana}">Podio semanal</button>
@@ -1779,6 +1789,7 @@ async function ranking(vista = "hoy"){
         ${Cuenta.user ? "" : `<button class="btn fantasma" id="bRankCuenta">Crear una cuenta</button>`}</div>
     </div>`;
     $("#bCerrar").addEventListener("click", () => ayuda(false));
+    $("#bDirecto")?.addEventListener("click", () => ranking("semana"));
     $("#bPodioHoy")?.addEventListener("click", () => { if (semana) ranking("hoy"); });
     $("#bPodioSemana")?.addEventListener("click", () => { if (!semana) ranking("semana"); });
     $("#bRankCuenta")?.addEventListener("click", () => { ayuda(false); abreCuenta(true, "alta"); });
