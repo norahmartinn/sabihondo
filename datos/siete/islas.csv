@@ -57,7 +57,7 @@ Tagomago;isla Tagomago|islas Tagomago|illa Tagomago;4;999999954
 Isla del Fraile;isla Isla del Fraile|islas Isla del Fraile|illa Isla del Fraile;4;999999953
 Roque del Este;isla Roque del Este|islas Roque del Este|illa Roque del Este;4;999999952
 Portichol;isla Portichol|islas Portichol|illa Portichol;4;999999951
-Peñón de Vélez de la Gomera;Velez de la Gomera;5;53
+Peñón de Vélez de la Gomera;Peñón de Velez|Bades|Velez de la Gomera;5;53
 Roque del Oeste;;5;24
 Isla de Santa Catalina;Santa Catalina;5;20
 Isla de Las Palomas;Isla de Tarifa|Palomas;5;17
@@ -65,118 +65,406 @@ Isla del Congreso;Congreso;5;16
 Isla Isabel II;Isabel II;5;15
 Isla del Trocadero;Trocadero;5;13
 Isla Conejera (archipiélago de Cabrera);Parva Hannibalis|Illa des Conills|Conejera (archipiélago de Cabrera);5;12
+Isla Mayor;Mayor;5;12
 Isla de la Cartuja;Cartuja;5;11
 Isla de Aquech;Isla de Aqueche|Isla de Aketxe|Aketxe|Aquech;5;11
 Isla Coelleira;Coelleira;5;10
-Isla de la Porraza;La Porraza;5;9
-Isla de Onza;Onzeta|Isla de Onceta|Onza;5;9
-Isla Saltés;Salthish|Saltés;5;9
+Isla de la Porraza;La Porraza|Isla de sa Porrassa;5;9
+Isla de Onza;Onzeta|Isla de Onceta|Onza|Onza Island;5;9
+Isla Saltés;Salthish|Saltés|Isla de Hércules|Saltes Island;5;9
+Islas de San Pedro;Illas de San Pedro|San Pedro|San Pedro islands;5;8
 Illa des Bosc;Bosc;5;8
+Illa de s'Espart;s'Espart|Illa de s'Espartar;5;8
 Isla de Txatxarramendi;Txatxarramendi;5;8
-Isla Perdiguera;Perdiguera;5;8
-Isla de Toralla;Toralla;5;8
+Isla Villano;Billao|Villano;5;8
+Isla Perdiguera;Perdiguera|Perdiguera Island;5;8
+Isla de Toralla;Toralla|Illa de Toralla;5;8
 Isla de Escombreras;Islote de Escombreras|Escombreras;5;8
 Isla de la Virgen del Mar;Virgen del Mar;5;8
 Isla de la Torre;Islote de la Torre|Torre;5;8
 La Islona;;5;8
 Pantaleu;Es Pantaleu;5;8
 Isla Canela;Canela;5;8
-Islas de San Pedro;Illas de San Pedro|San Pedro;5;8
-Illa de s'Espart;s'Espart;5;8
+Isla de San Antón (Redondela);San Antón (Redondela)|Island of San Antón (Pontevedra);5;7
 Isla Encalladora;S'Encalladora|Encalladora;5;7
 Isla Ansarón;Ansarón;5;7
 Isla Massa d'Or;Massa d'Or;5;7
-isla del Descubridor;Descubridor;5;7
+Islote de Sancti Petri;;5;7
+isla del Descubridor;Descubridor|Illa del Descobridor;5;7
 Isla del Castro;Castro;5;7
-Isla Herbosa;Herbosa;5;7
-Isla de San Clemente;San Clemente;5;7
-Isla de Espardell;S'Espardell|Espardell;5;7
-Isla de San Antón (Redondela);San Antón (Redondela);5;7
+Isla Herbosa;Herbosa|Isla Herbosa, Asturias;5;7
+Isla de San Clemente;San Clemente|Santo do Mar island;5;7
+Isla de Espardell;S'Espardell|Espardell|Espardell Island;5;7
+Archipiélago de Ons;Illas Ons;5;7
+Isla del Carmen;Carmen;5;6
+A Marola;;5;6
+Isla de Port Lligat;Port Lligat|Illa de Portlligat;5;6
+Na Guardis;Isla Guardia;5;6
+Isla de los Ahorcados;Ahorcados|Illa des Penjat;5;6
+Isla de San Vicente (La Coruña);San Vicente (La Coruña)|Illa de San Vicente;5;6
+A Creba;Isla de A Creba|Illa da Creba;5;6
 Isla Ballota;Isla Castro de Ballota|Castro La Ballota|Ballota;5;6
 Isla de Area;Area;5;6
 Isla de La Rúa;Illa Rúa|Illa da Rúa;5;6
-Illot des Porros;Illa d'en Porros|Porros;5;6
+Isla de S'Arenella;S'Arenella;5;6
+Illot des Porros;Illa d'en Porros|Porros|Illot dels Porros;5;6
 Columbrete Grande;Illa Grossa|Columbrete Mayor;5;6
-Islote de Binicodrell;islote de Codrell|Escollo Codrell|Binicodrell;5;6
+Islote de Binicodrell;islote de Codrell|Escollo Codrell|Binicodrell|Islet of Binicodrell;5;6
 Isla de Santa Marina;Isla de Los Jorganes|Santa Marina;5;6
 Isla de la Deva y Playón de Bayas;Playon de Bayas|Isla de la Deva|Deva y Playón de Bayas;5;6
-Isla Pancha;Pancha;5;6
-Isla de Port Lligat;Port Lligat;5;6
-Na Guardis;Isla Guardia;5;6
-Isla de los Ahorcados;Ahorcados;5;6
-Isla de San Vicente (La Coruña);San Vicente (La Coruña);5;6
-Isla del Carmen;Carmen;5;6
-A Marola;;5;6
-A Creba;Isla de A Creba|Illa da Creba;5;6
-Isla de S'Arenella;S'Arenella;5;6
-Isla Guidoiro Areoso;Islas Guidoiro Areoso|Guidoiro Areoso;5;5
+Isla Pancha;Pancha|Pancha island;5;6
+Na Foradada;;5;6
+Isla de la Pedrosa;Illa de la Pedrosa|Pedrosa;5;5
+Isla de Na Corberana;Na Corberana|Isla Corberana;5;5
+Isla de Na Moltona;Na Moltona|Na Moltona island;5;5
+Isla de Santa Comba;Santa Comba|Santa Comba island;5;5
+Isla de Tapia;Tapia;5;5
+Isla Guidoiro Pedregoso;Illa do Guidoiro Pedregoso|Guidoiro Pedregoso|Illa Guidoiro;5;5
+Isla Guidoiro Areoso;Islas Guidoiro Areoso|Guidoiro Areoso|Illa do Arioso;5;5
+Isla de San Andrés;islote de San Andrés|San Andrés;5;5
+Isla Negra;Negra;5;5
 Islote de La Nube;Isla de las Nubes|Nube;5;5
-Isla de Santa Cruz;Santa Cruz;5;5
+Isla de Santa Cruz;Santa Cruz|Santa Cruz Island;5;5
 Isla de San Pedruco;Isla de San Pedro|San Pedruco;5;5
 El Bergantín;El Carallot;5;5
 La Horadada;;5;5
 La Ferrera;;5;5
-Isla de la Cuarentena;Illa de sa Quarantena|Cuarentena;5;5
-Isla de Santa Comba;Santa Comba;5;5
-Isla de Tapia;Tapia;5;5
-Isla Guidoiro Pedregoso;Illa do Guidoiro Pedregoso|Guidoiro Pedregoso;5;5
-Isla de la Pedrosa;Illa de la Pedrosa|Pedrosa;5;5
-Isla de Na Corberana;Na Corberana;5;5
-Isla de Na Moltona;Na Moltona;5;5
-Isla de San Andrés;islote de San Andrés|San Andrés;5;5
-Isla Negra;Negra;5;5
+Faraió d’Aubarca;;5;5
+Illa de Formentor;Formentor;5;5
+Isla de la Cuarentena;Illa de sa Quarantena|Cuarentena|Illa de la Quarantena;5;5
+Isla del Castrón de Santiuste;Castrón de Santiuste;5;4
+Isla Gavina;Gavina|Illa Gavina;5;4
+Isla de Na Llarga;Na Llarga;5;4
+Isla de Amuitz;Amuitz|Amuitz island;5;4
+Isla de San Antón (La Coruña);San Antón (La Coruña);5;4
+Isla de la Ladrona;Ladrona;5;4
+Urros de Liencres;Islotes de los Urros;5;4
+Isla de Noro;Noro|Islote Noro;5;4
+Illot Galera;Galera;5;4
+isla de Gracia;Gracia|Illa de Gràcia;5;4
 Isla del Castellar;Castellar;5;4
-Isla de Terreros;Terreros;5;4
+Isla de Terreros;Terreros|Terreros Island;5;4
+Isla Insuíña;Isla de Medal|Insuíña|Insuíña Island;5;4
+Isla Rondella;Isla Redonda|Rondella;5;4
+Islote del Castillo;islote do Castelo|Castillo|Castle Islet;5;4
+Isla de Maians;Maians;5;4
 Isla del Castril;Las Lastras de Pechón|Castril;5;4
 Isla Sarnosa;Isla del Castru los Carneros|Castru los Carneros|Sarnosa;5;4
 Isla del Forcón;Forcón;5;4
 Isla de Borizo;Isla de Amielles|Borizo;5;4
 Isla de Vionta;Vionta;5;4
 Isla da Altura;Illa da Altura|da Altura;5;4
+Isla de Tosqueta;Isla de Tusqueta|Tosqueta|Illa d'en Tusqueta;5;4
+Es Vedranell;Vedranell;5;4
+Illa Messina;Messina;5;4
+Na Redona;;5;4
+El Colomer;;5;4
+Na Pobra;;5;4
+Isla Esponja;Esponja|Illa Esponja;5;4
+Illa d'en Sales;en Sales;5;4
+Illes de la Farriola;Farriola;5;4
 Islas Lobeiras;Lobeiras;5;4
-Isla de San Antón (La Coruña);San Antón (La Coruña);5;4
-Isla de la Ladrona;Ladrona;5;4
-Urros de Liencres;Islotes de los Urros;5;4
-Isla de Noro;Noro;5;4
-Isla del Castrón de Santiuste;Castrón de Santiuste;5;4
-Isla Gavina;Gavina;5;4
-Isla de Na Llarga;Na Llarga;5;4
-Isla de Amuitz;Amuitz;5;4
 Isla Na Pelada;Na Pelada;5;4
-isla de Gracia;Gracia;5;4
-Islote del Castillo;islote do Castelo|Castillo;5;4
-Illot Galera;Galera;5;4
 Isla de Na Cabot;Na Cabot;5;4
-Isla Insuíña;Isla de Medal|Insuíña;5;4
-Isla Rondella;Isla Redonda|Rondella;5;4
-Isla de Maians;Maians;5;4
+Peñón del Águila;Águila;5;3
+Isla de Sanitja;Sanitja|Sanitja Island;5;3
+Isla Sandindere;Sandindere|Sandindere island;5;3
+Isla de Montehano;Montehano;5;3
+Isla de Veiga;Veiga;5;3
+Isla de la Oliva;Isleta la Oliva|Oliva;5;3
 Playa de El Puntal;;5;3
 Playa de España;;5;3
 Isla de La Toja Pequeña;Toja Pequeña;5;3
 Isla de Mazarrón;La Islica|La Isla|Mazarrón;5;3
+Isla Sargantana;Sargantana|Illa Sargantana;5;3
+San Martiño;;5;3
+Malgrat;Es Malgrat;5;3
+Carall Bernat;;5;3
+Illa de ses Bledes;ses Bledes;5;3
+illa Caragol;Caragol;5;3
+Ses Margalides;;5;3
+Na Plana;;5;3
+Illa del Freu;Freu;5;3
+Isla Imperial;Imperial;5;3
+illa de l'Estenedor;Illa del Pas|l'Estenedor;5;3
+S'Illeta;;5;3
+Illa d'Alcanada;Alcanada;5;3
+Illa de la Caleta;Caleta;5;3
+Isla Canosa;Canosa;5;3
 Cotinusa;;5;3
-Isla de Montehano;Montehano;5;3
-Isla de Veiga;Veiga;5;3
-Isla de la Oliva;Isleta la Oliva|Oliva;5;3
-Peñón del Águila;Águila;5;3
-Isla de Sanitja;Sanitja;5;3
-Isla Sandindere;Sandindere;5;3
-Planesia;;5;2
-Isla Gavoteira;Gavoteira;5;2
-isla de Beiro;Islote de Beiro|Beiro;5;2
+S'Illot;;5;3
+Piedra Salmedina;;5;2
+Islote Grande de na Moltona;Grande de na Moltona|Illot gros de na Moltona;5;2
+Isla Galera;Galera Uhartea;5;2
+Isla Hiru Kanale;Tres Canales|Iru Kanale|Hirukanale;5;2
+Isla Santiago Aurrea;Santiago Aurrea Uhartea|Isla Santiago Aurrera|Santiago Aurrea;5;2
+Isla de Zuaza;Zuaza|Zuhatza Island;5;2
 Isla de Os Forcados;Os Forcados;5;2
 Isla del Penedo da Ínsua;Penedo da Ínsua;5;2
 Islas de Gres;Isla de Gres|Gres;5;2
 Isla Herbosa (La Coruña);Herbosa (La Coruña);5;2
 Isla da Marma;da Marma;5;2
 Isla de Pombeiro;Pombeiro;5;2
-Piedra Salmedina;;5;2
-Islote Grande de na Moltona;Grande de na Moltona;5;2
-Isla Galera;Galera Uhartea;5;2
-Isla Hiru Kanale;Tres Canales|Iru Kanale|Hirukanale;5;2
-Isla Santiago Aurrea;Santiago Aurrea Uhartea|Isla Santiago Aurrera|Santiago Aurrea;5;2
-Isla de Zuaza;Zuaza;5;2
+Planesia;;5;2
+Isla Gavoteira;Gavoteira;5;2
+isla de Beiro;Islote de Beiro|Illote Beiro|Illa de Beiro|Beiro;5;2
 Isla de los Caballos;Zaldiak Uhartea|Caballos;5;2
-Islote pequeño de na Moltona;pequeño de na Moltona;5;2
 Isla Alto Echániz;Alto Etxaniz|Alto Echániz;5;2
-Isla de la princesa Cristina;princesa Cristina;5;2
+Isla de la princesa Cristina;princesa Cristina|Princess Christina island;5;2
+Sa Torreta;;5;2
+Meda Gran;;5;2
+Islas Alvedosas;Alvedosas;5;2
+Illa de Caramany;Caramany;5;2
+Illes d'Addaia;Addaia;5;2
+Illa de Sapinya;Sapinya;5;2
+islas Negras;Negras;5;2
+S'Adolitx;;5;2
+Isletas de la Olla;Illeta de l'Olla;5;2
+Castellet de Cala Murta;;5;2
+islote El Farallón;isla El Farallón|El Farallón;5;2
+isla de San Bartolomeu;Isla San Bartolomé|isla de San Bartolo|San Bartolomeu;5;2
+Sa Farnera;;5;2
+Es Malvins;;5;2
+Illa de la Torre;;5;2
+Monteagudo Island;;5;2
+Islote pequeño de na Moltona;pequeño de na Moltona|Illot Petit de na Moltona;5;2
+Illa des Sortell;Sortell;5;2
+Isla Orenín;Orenin Uhartea|Orenín;5;1
+Isla Iturrarte;Iturrarte|Iturrarte Island;5;1
+Isla del Sech;Sech;5;1
+Isla de Tourís Novo;Tourís Novo;5;1
+Illot d'en Tosqueta;;5;1
+Tiquadra;;5;1
+Bedua;;5;1
+Roque Chico De Salmor;;5;1
+Illa de s'Alga;s'Alga;5;1
+Isla de los cerdos;cerdos|Illa des Porcs;5;1
+Casteví;;5;1
+En Caragoler;;5;1
+Illa des Ravells;Ravells;5;1
+Illes Negres;Negres;5;1
+Illot de Binissafúller;Binissafúller;5;1
+Illot de ses Roquetes;ses Roquetes;5;1
+Illa del Fonoll;Fonoll;5;1
+Estell de Fora;;5;1
+Illa del Vado del Vapor i platja del Molló;Vado del Vapor i platja del Molló;5;1
+Illa i galatxo de Subarrec;i galatxo de Subarrec;5;1
+Illot d'en Mel;;5;1
+Illa de ses Rates;ses Rates;5;1
+En Caragoler Petit;;5;1
+Islote del Ventorrillo;Ventorrillo;5;1
+Isla Verde;Verde;5;1
+Isla Teresa;Teresa;5;1
+Arrecife Topaciegos;;5;1
+Illa del Toro;Toro;5;1
+Isla Trapero;Trapero;5;1
+Baja de Santa Catalina;;5;1
+Illa del Sec;;5;1
+Baja Soler;;5;1
+Islote de San Pedro;;5;1
+Baja Negra;;5;1
+Baja de las Nieves;;5;1
+Isla del Pinto;Pinto;5;1
+Baja de Pulidó;;5;1
+Los Escull de Punta de Algas;;5;1
+Isla Ratas;Ratas;5;1
+Isla Redona;Redona|Illa Redona;5;1
+Isla Menor;Menor;5;1
+Isla Mínima;Mínima;5;1
+Illa Mitjana;Mitjana;5;1
+La Salvaje;;5;1
+Las Breñas;;5;1
+La Ombliguera;;5;1
+Bajo La Zabala;;5;1
+La Ballena;;5;1
+Islote La Galera;;5;1
+La Isleta;;5;1
+La Hormiga;;5;1
+Bajo de La Mancha Blanca;;5;1
+La Nau;;5;1
+La Restinga;;5;1
+Bajo Fernando;;5;1
+Islote del Francés;Islote de Fermina|isla de Fermina|Francés;5;1
+Islote d'en Fret;en Fret|Faralló d'en Fred;5;1
+Bajas del Pedroso;;5;1
+Isla Churruca;Churruca;5;1
+Isla de los Conejos;Conejos|Illa dels Conills;5;1
+Escull de las Cruces;;5;1
+Isla de Cruces;Cruces;5;1
+Isla Cueva de los Lobos;Cueva de los Lobos;5;1
+El Cabo;;5;1
+El Hormigón;;5;1
+Els Farallons;;5;1
+Isla de Enmedio;Enmedio;5;1
+Cabecico de los Aviones;;5;1
+Isla de Bacuta;Bacuta;5;1
+Isleta de los Banets;;5;1
+Isla Cabrita;Cabrita;5;1
+Escull de la Caleta;;5;1
+Isla Viños;Viños;5;1
+Bajo Las Cabezuelas;;5;1
+Bajo Baifora;;5;1
+Laja de la Sal;;5;1
+La Tiñosa;;5;1
+Bajo La Surta;;5;1
+Laja de la Seca;;5;1
+Bajillo Tambor;;5;1
+Bajillo del Cemeterio;;5;1
+Bajo de Escombreras;;5;1
+Islote del Gate;Gate;5;1
+Bajo de Trinca-Botijas;;5;1
+Bajo las Losas;;5;1
+Bajo Susán;;5;1
+Bajo Isabel;;5;1
+Cabezo Patria;;5;1
+Lajas Conil;;5;1
+Bajo Piles;;5;1
+Bajo Aceitera;;5;1
+Arrecife del Canaveral;;5;1
+Bajo de Zahara;;5;1
+Bajo de Santa Ana;;5;1
+Las Bajas;;5;1
+La Perla;;5;1
+El Diamante;;5;1
+El Tabladillo;;5;1
+Bajo El Fraile;;5;1
+Laja de San José;;5;1
+El Cabezo;;5;1
+La Cabezuela;;5;1
+Bajo de la Cabezuela;;5;1
+Isla de Adentro;Adentro;5;1
+Urros;;5;1
+Cabezos de la Vaca;;5;1
+Isla Vaqueriza;Vaqueriza;5;1
+Isla Suaces;Suaces;5;1
+San Anton mendia / Cima San Anton;;5;1
+Piedra de San Justo;;5;1
+Illa Boceiro;Boceiro;5;1
+Bajo Santoñuca;;5;1
+Sisarga Chica;;5;1
+Sisarga Grande;;5;1
+Islote de Rabión de Artedo;Rabión de Artedo;5;1
+Illas Ratas;;5;1
+Illa Redonda;Redonda;5;1
+Romanellas;;5;1
+Banco de Santa Susana;;5;1
+Isla d'els Porros;els Porros;5;1
+Illa de Portaló;Portaló;5;1
+Islote Palo Verde;Palo Verde;5;1
+Pedrona;;5;1
+Illa Negra;;5;1
+Castro de la Olla;;5;1
+Illa de Onza;;5;1
+Islote Orcado de Cuevas;Orcado de Cuevas;5;1
+Islote Orrio de Torres;Orrio de Torres;5;1
+Morraceira;;5;1
+Isla de Monte Agudo;Monte Agudo;5;1
+Lobeira Grande;;5;1
+Lobeira Chica;;5;1
+Bajo Loma de Caranza;;5;1
+Os Farallons;;5;1
+Bajo Los Carreros;;5;1
+Os Netos;;5;1
+Bajos de Malasmañas;;5;1
+Illa Malveira;Malveira;5;1
+Bajo Maruca;;5;1
+Las Callejas;;5;1
+Las Quebrantas;;5;1
+Illa das Serralleiras;das Serralleiras;5;1
+Bajo La Garma;;5;1
+La Lenqüeta;;5;1
+Illa Malante;Malante;5;1
+Juan de Ambojo;;5;1
+La Campanuca;;5;1
+Isla Gabeira;Gabeira|Illa Gabeira;5;1
+Illas Gabeiras;;5;1
+Cabezo de Galizano;;5;1
+Isla del Faro;Faro;5;1
+Arrecife de Feltro;;5;1
+Isla El Palo de Poo;El Palo de Poo;5;1
+Illotes Erbedosas;;5;1
+Bajo de El Calo;;5;1
+Bajo El Castro;;5;1
+O Centulo;;5;1
+Bajo El Mazo;;5;1
+Islote Deshuracado;Deshuracado;5;1
+Bajo el Doble;;5;1
+El Balamo;;5;1
+Boi Pequeno;;5;1
+Boi Grande;;5;1
+O Con do Chirleu;;5;1
+Islote Chouzano;Chouzano;5;1
+Cadramón;;5;1
+Bajo Canto;;5;1
+Isla Carboeira;Carboeira;5;1
+Isla Benencia;Benencia;5;1
+Illa Blanca;Blanca;5;1
+Islote Boeiro;Boeiro;5;1
+Islote Borizo;;5;1
+Cabezo de Cabo Quintres;;5;1
+Isla Almenada;Almenada;5;1
+Banco las Amosucas;;5;1
+illa de Culleró;Culleró;5;1
+Ses Ielles;;5;1
+Illes Sardina;Sardina;5;1
+Illas da Miranda;;5;1
+Illote do Mourón;;5;1
+Baixo Cabaleiro;;5;1
+Baixos Tarracidos;;5;1
+Illa Branca;Branca;5;1
+Illa Erbosa;Erbosa;5;1
+Baixos do Cabalo;;5;1
+Illa Centolo;Centolo;5;1
+Illa Castelo;Castelo;5;1
+Baixos Delgados;;5;1
+Illa Percebelleira;Percebelleira;5;1
+isla Corbeiro;illa Corbeiro|Corbeiro;5;1
+Roca Martín;;5;1
+La Figar;;5;1
+Restinga de Cabo de Torres;;5;1
+Bajo El Castanar;;5;1
+Algortako barra /Restinga de Algorta;;5;1
+El Petón;;5;1
+Banco del Pitorro;;5;1
+Bajo de Tierra;;5;1
+Bajos de la Vaca;;5;1
+Islas de Addaia;;5;1
+Isla de la Liebre;Liebre;5;1
+La Calera;;5;1
+Laja de Dentro;;5;1
+Laja de Fuera;;5;1
+Laja Benítez;;5;1
+Laja del Maíz;;5;1
+Bajo de Benzú;;5;1
+Laja de la Lana;;5;1
+Piedra del Pineo;;5;1
+Laja de la Sirena;;5;1
+Isla El Clavo;El Clavo;5;1
+Farallón de Cala Gat;Faraló de Cala Gat;5;1
+Illot Gros;Gros;5;1
+Illa del Pastisset;Pastisset;5;1
+Molí island;;5;1
+Esculls d'en Ramon;;5;1
+Es Cucurucuc (Cadaqués);;5;1
+Algira;;5;0
+Sa Pedra Negra;;5;0
+Illa d'en Cudera;en Cudera;5;0
+Illa de Francalós;Francalós;5;0
+Illa des Xiulet;Xiulet;5;0
+Illa del Bou;;5;0
+Illot del Faradell Petit;Faradell Petit;5;0
+Illa del Caralló;Caralló;5;0
+Illa del Marquès;Marquès;5;0
+Illa de Portitxó;Portitxó;5;0
+Illa de Sant Andreu;Sant Andreu;5;0
+Illa Rodona;Rodona;5;0
+Illa Plana;Plana;5;0
+Illa de Gatillepis;Gatillepis;5;0
+Illa Petita;Petita;5;0
+Illa del Corb Marí;Corb Marí;5;0
+El gat island;;5;0
+Los arrecifes de Sorbas en Huelí;Geosite EE002b|EE002b|AND061;5;0
+Parc d'esculls submarins;;5;0
+La Cantera;;5;0
+Isleta del Moro Arráez;;5;0
+Isla Carnero;Islote Carnero|Peña Carnero|Carnero|Carnero Islet;5;0

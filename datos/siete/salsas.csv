@@ -75,16 +75,21 @@ mole;salsa mole;4;999999934
 adobo;salsa adobo;4;999999933
 sofrito;salsa sofrito;4;999999932
 hummus;salsa hummus;4;999999931
-salsa de soya;Sillau|Sillao|Shoyu|soy sauce|soya;5;72
+Ghee;;5;73
+salsa de soya;Sillau|Sillao|Shoyu|salsas de soja|Ganjang|Tamari|soy sauce|soya;5;72
 salsa de pescado;fish sauce|pescado;5;53
+ajvar;;5;51
 garo;garum;5;43
-Salsas de la gastronomía mexicana;Salsas de México|Salsas de la cocina mexicana|salsa (food);5;42
 Roux;;5;41
+adjika;adzhika|acıka;5;39
+mantequilla clarificada;clarified butter;5;37
 salsa para mojar;salsas para mojar|dip|para mojar;5;37
 compota de manzana;Puré de manzana|apple sauce;5;36
 Tkemali;;5;31
+Verjus;Verjuice|Agraz;5;31
 Remoulade;;5;30
 Salsa de nogales;Satsivi|nogales;5;28
+Filete Chateaubriand;Chateaubriand steak;5;28
 avgolemono;;5;28
 Salsa mil islas;Thousand Island Dressing|Thousand Island|Aliño mil islas|mil islas;5;27
 kétchup de plátano;Salsa de banana|Kétchup de banana|banana ketchup;5;27
@@ -92,8 +97,14 @@ ragú;;5;26
 aliño;Aliñar|salad dressing;5;26
 Skordalia;;5;25
 Salsa Mornay;Mornay sauce|Mornay;5;24
+salsa marinera;Marinara sauce|marinera;5;24
+powidl;powidel;5;23
+garlic sauce;;5;23
+Aderezo ranchero;ranchero|ranch dressing;5;22
 relish;;5;22
 bagna cauda;;5;21
+chili sauce;;5;21
+Pinđur;;5;20
 rouille;;5;20
 Pecel;;5;19
 Toum;Toom;5;19
@@ -102,10 +113,16 @@ Agliata;;5;19
 Coulis;;5;18
 beurre blanc;;5;18
 Salsa ravigote;sauce ravigote|ravigote;5;18
+crema de fruta;fruit curd;5;18
+Dukkah;Duqqa;5;17
 Ragù napoletano;Ragú napolitano|Neapolitan ragù;5;17
 Salsa andalouse;salsa andaluza|salsa andalús|andalouse sauce|andalouse;5;17
+Piccalilli;Piccalilly;5;17
 aceite de guindilla;aceite picante|aceite de pimiento chile|chili oil;5;17
 tare;salsa tare|tare sauce;5;17
+Indonesian peanut sauces;;5;17
+kecap;;5;17
+chili con queso;queso;5;16
 Salsa genovesa;Genovese sauce|genovesa;5;16
 Salsa Cumberland;Salsa Oxford|Cumberland sauce|Cumberland;5;16
 cacık;;5;16
@@ -114,67 +131,236 @@ salsa de pan;bread sauce|pan;5;16
 Salsa HP;HP Sauce|HP;5;16
 Doubanjiang;;5;15
 salsa de champiñones;mushroom sauce|champiñones;5;15
+salsa soja dulce;soja dulce|kecap manis;5;15
 Amba;;5;14
 Salsa Soubise;Soubise sauce|Soubise;5;14
 salsa shacha;Salsa sa cha|Pasta shacha|Pasta sa cha|shacha sauce|shacha;5;14
 salsa alemana;Allemande sauce|alemana;5;14
 Salsa bordalesa;Bordelaise sauce|bordalesa;5;14
+Lekvár;fruit butter;5;14
 Salsa de judía dulce;tianmianjiang|judía dulce;5;14
 ají;;5;14
 Salsa caruso;Caruso (salsa)|Caruso sauce|caruso;5;14
+Bagoong monamon;bagoong;5;14
 Salsa gribiche;sauce gribiche|gribiche;5;14
+Russian dressing;Aliño ruso;5;13
 Salsa Meunière;A la meunière|meunière sauce;5;13
 salsa criolla;criolla;5;13
 salsa suprema;suprême sauce|suprema;5;13
+Kyopolou;;5;13
+Kashk e badamjan;;5;13
+Lao Gan Ma;;5;13
+Lemon curd;;5;13
 salsa de ciruela;plum sauce|ciruela;5;13
 Mujdei;;5;12
 Salsa Robert;Sauce Robert|Robert;5;12
+Pistou;;5;12
+Salmis;Salmigondis;5;12
+Aliño italiano;Italian dressing;5;12
 Tucupí;;5;11
 Cheez Whiz;;5;11
 Salsa madeira;Madeira sauce|madeira;5;11
 Pesto alla trapanese;;5;11
+salsa verde picante;verde picante;5;11
+brown sauce;;5;11
+sweet chilli sauce;;5;11
+Eggplant Caviar;;5;11
 salsa lionesa;sauce lyonnaise|lionesa;5;11
+Ngapi;;5;11
 Kétchup de hongos;mushroom ketchup;5;11
 Nam chim;;5;10
 Salsa cazadora;Salsa chasseur|Chasseur|sauce chasseur|cazadora;5;10
 Pla raa;Pla ra;5;10
 Salsa Nantua;Nantua sauce|Nantua;5;10
+Krechek;Krecek;5;10
 beurre noisette;;5;10
 Salsa Albufera;Albufera Sauce|Albufera;5;10
 Budu;;5;10
+chamoy;salsa chamoy;5;10
+coconut chutney;;5;10
+onion sauce;;5;10
+Satsebeli;;5;10
 Salsa de café;coffee sauce|café;5;10
 Salsa Café de Paris;Café de Paris sauce|Café de Paris;5;9
 salsa de pato;duck sauce|pato;5;9
 Colatura di alici;;5;9
+picada;majada;5;9
 Persillade;;5;9
-steak sauce;Salsa de carne|Brown sauce;5;9
+steak sauce;Salsa de carne;5;9
 Salsa mousseline;sauce mousseline|mousseline;5;9
 Salsa Khrenovina;khrenovina;5;9
+Chutney de mango;green mango chutney;5;9
+apple horseradish;;5;9
+peppercorn sauce;;5;9
+Heinz Tomato Ketchup;;5;9
+Padaek;;5;9
+tonkatsu sauce;;5;9
+matapa;;5;9
+tarator;;5;9
+Llajua;llajwa;5;9
 Tentsuyu;;5;9
+Guasacaca;Salsa de guasacaca;5;8
 Crema de ensaladas;salad cream;5;8
 Salsa madre;French mother sauces|madre;5;8
 Pebre;Pebre de aji cacho de cabra;5;8
 Mahyawa;Mehyawa;5;8
+Polonaise;;5;8
+French dressing;;5;8
+Shito;;5;8
+sauce Bourguignonne;;5;8
+sauce bercy;;5;8
 Salsa de calçots;calçots;5;8
 Beurre noir;Mantequilla negra;5;7
+Ajoarriero;Ajo arrierro|Ajada;5;7
+Sukalki;;5;7
 Pebrada;sauce poivrade;5;7
+Dersa;Derssa;5;7
+Almodrote;;5;7
+au jus;;5;7
+joppie sauce;;5;7
+Normande sauce;;5;7
+garlic chutney;;5;7
+Pissalat;;5;7
+Cincalok;;5;7
+green goddess dressing;;5;7
+white sauce;;5;7
+Shottsuru;;5;7
+Ezme;;5;7
+blueberry sauce;;5;7
+avocado sauce;;5;7
+marinado;marinade;5;7
 xató;cható;5;7
 Salsa Périgueux;Sauce Périgueux|Périgueux;5;6
+Hogao;;5;6
+Pipián;;5;6
+Chow-chow (gastronomía);Chowchow|Chou chou;5;6
 Salsa diabla;Devilled sauce|diabla;5;6
+curry de Madrás;Madras curry;5;6
 Salsa satay;satay sauce|satay;5;6
+Bostongurka;;5;6
+hard sauce;;5;6
+A.1. Steak Sauce;;5;6
+haydari;;5;6
+Miracle Whip;;5;6
+soup soy sauce;;5;6
+Marie Rose sauce;;5;6
+Venetian sauce;;5;6
+salsa de crema;cream sauce|crema;5;6
+mast o khiar;;5;6
+dessert sauce;;5;6
+nam phrik num;;5;6
 Salsa mantequilla de cangrejo;mantequilla de cangrejo;5;6
 Salsa Choron;Choron;5;6
 Fritessaus;;5;5
+Machito (comida);Tripas;5;5
 Salsa grand veneur;grand veneur;5;5
 Salsa mignonette;mignonette sauce|mignonette;5;5
 Pink sauce;;5;5
 Salsa Albert;Albert sauce|Albert;5;5
+chaudfroid sauce;;5;5
+tamari shoyu;;5;5
+beurre monté;;5;5
+Chocolate gravy;;5;5
+Wafu dressing;;5;5
+dark soy sauce;;5;5
+East Asian sauces and pastes;;5;5
+Sriracha sauce;;5;5
+French onion dip;;5;5
+lobster sauce;;5;5
+Maggi seasoning;;5;5
+nam pla;;5;5
+nam phrik phao;;5;5
+Kasundi;;5;5
+onion gravy;;5;5
+Algérienne sauce;;5;5
 Salsa samurái;samurai sauce|samurái;5;5
+cameline;Cameline sauce;5;5
+Dek Ngor;;5;5
 Salsa Spreewald;Spreewaldsauce|Spreewald;5;4
+Mutabbel;mutabal;5;4
 Salsa africana;Sauce Africaine|africana;5;4
 Salsa zíngara;Gypsy sauce|zíngara;5;4
+chirmol;chismol|chirmole|chirimol|chimol|chilmol|chilmole;5;4
 Salsa Picante Cholula;Cholula Hot Sauce|Picante Cholula;5;4
 Putanesca;sugo alla puttanesca;5;4
+Brandy butter;;5;4
 salsa de nueces;walnut sauce|nueces;5;4
 Ajilimojili;Ajioli;5;4
 Baconnaise;;5;4
+Mus;;5;4
+Rouennaise sauce;;5;4
+Chicken Tonight;;5;4
+cardinal sauce;;5;4
+Dahi chutney;;5;4
+comeback sauce;;5;4
+honey garlic sauce;;5;4
+mushroom gravy;;5;4
+salsa portuguesa;vinagrete|portuguesa;5;4
+light soy sauce;;5;4
+bagnet verd;;5;4
+Scorcolga;;5;4
+fry sauce;;5;4
+wine sauce;;5;4
+spinach dip;;5;4
+fruit ketchup;;5;4
+onion jam;;5;4
+horseradish sauce;;5;4
+pickle relish;;5;4
+Tagalia;;5;4
+Firinda;;5;4
+Viandox;;5;4
+Crème anglaise;;5;0
+pain d'épices;;5;0
+suman;;5;0
+Miti hue;;5;0
+Sauce_andalouse;;5;0
+Sweet bean sauce;;5;0
+Oyster sauce;;5;0
+Fermented bean curd;;5;0
+Douchi;;5;0
+Huangjiu;;5;0
+Black vinegar;;5;0
+Char siu;;5;0
+Chili sauce and paste;;5;0
+Fermented bean paste;;5;0
+Garlic chive flower sauce;;5;0
+Guaiwei;;5;0
+Haixian;;5;0
+Sesame oil;;5;0
+Sesame paste;;5;0
+Sichuan mala;;5;0
+Siu haau sauce;;5;0
+Yongfeng chili sauce;;5;0
+Yuxiang;;5;0
+Mint sauce;;5;0
+Shrewsbury sauce;;5;0
+Worcestershire sauce;;5;0
+Sauce Américaine;;5;0
+Béarnaise sauce;;5;0
+Beurre maître d'hôtel;;5;0
+Sauce_Bordelaise;;5;0
+Bigarade sauce;;5;0
+Breton sauce;;5;0
+Sauce Charcutière;;5;0
+Espagnole sauce;;5;0
+Genevoise sauce;;5;0
+Hollandaise;;5;0
+Mayonnaise;;5;0
+Sauce Nantua;;5;0
+Tartar Sauce;;5;0
+Tomato sauce;;5;0
+Mango Chutney;;5;0
+Coriander;;5;0
+Mint chutney;;5;0
+Tomato chutney;;5;0
+Tamarind;;5;0
+Plum;;5;0
+Date;;5;0
+Pilpelchuma;;5;0
+Salsa macha;;5;0
+Ocopa;;5;0
+Chrain;;5;0
+Escabeche;;5;0
+Henderson's Relish;;5;0
+List of mayonnaises;;5;0
+List of syrups;;5;0

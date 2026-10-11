@@ -90,3 +90,77 @@ baja("podcasts_apple.json", "https://rss.applemarketingtools.com/api/v2/es/podca
 baja("podcasts_itunes.json", "https://itunes.apple.com/es/rss/toppodcasts/limit=200/json")
 baja("frecuencias_es.txt", "https://raw.githubusercontent.com/hermitdave/FrequencyWords/master/content/2018/es/es_50k.txt")
 baja("nombres_fecha_ine.xls", "https://www.ine.es/daco/daco42/nombyapel/nombres_por_fecha.xls")
+
+# ── ampliación del 11 de octubre: que no se quede fuera ninguna respuesta buena ──
+baja("palabras_todas.txt", "https://raw.githubusercontent.com/JorgeDuenasLerin/diccionario-espanol-txt/main/0_palabras_todas.txt")
+for g in (1301, 1321, 1303, 1304, 1483, 1511, 1512, 1487, 1305, 1502, 1310, 1489, 1314, 1533, 1324, 1545, 1309, 1318, 1488):
+    baja(f"podcasts_{g}.json", f"https://itunes.apple.com/es/rss/toppodcasts/limit=200/genre={g}/json"); time.sleep(0.5)
+for n, c in {
+ "estadios_wd": q("?x wdt:P31/wdt:P279* wd:Q1154710 ; wdt:P17 wd:Q29 ."),
+ "islas_todas": q("?x wdt:P31/wdt:P279* wd:Q23442 ; wdt:P17 wd:Q29 ."),
+ "marvel_wd":   q("?x wdt:P1080 wd:Q931597 .", 3),
+ "generos_todos": q("?x wdt:P31 wd:Q188451 .", 4),
+ "doraemon_wd": q("?x wdt:P1441 wd:Q185143 ."),
+ "lqsa_wd":     q("?x wdt:P1441 wd:Q2915669 ."),
+}.items(): sparql(n, c)
+wiki("lqsa_art", "es", action="parse", page="La que se avecina", prop="wikitext", redirects="1")
+wiki("lqsa_pers", "es", action="parse", page="Anexo:Personajes de La que se avecina", prop="wikitext", redirects="1")
+wiki("doraemon_en", "en", action="parse", page="List of Doraemon characters", prop="wikitext", redirects="1")
+wiki("vinos_do", "es", action="parse", page="Anexo:Denominaciones de origen de España", prop="wikitext", redirects="1")
+wiki("anexo_do_vino", "es", action="query", list="categorymembers", cmtitle="Categoría:Vinos de España con denominación de origen", cmlimit="500")
+wiki("figuras_cat", "es", action="query", list="categorymembers", cmtitle="Categoría:Figuras retóricas", cmlimit="500")
+wiki("unidades_cat", "es", action="query", list="categorymembers", cmtitle="Categoría:Unidades de medida", cmlimit="500")
+for cat in ("Unidades de longitud", "Unidades de masa", "Unidades de volumen", "Unidades de tiempo", "Unidades de superficie", "Unidades de medida históricas",
+            "Unidades de energía", "Unidades de presión", "Unidades de potencia", "Unidades de información", "Unidades de velocidad", "Unidades derivadas del Sistema Internacional"):
+    wiki("unidades_" + cat.split()[-1].lower(), "es", action="query", list="categorymembers", cmtitle="Categoría:" + cat, cmlimit="500")
+# Marvel: la categoría de superhéroes con sus subcategorías (dos niveles)
+ruta = D3 / "marvel_cat2.json"
+if not ruta.exists():
+    def miembros(cat, ns):
+        salida, sigue = [], ""
+        while True:
+            kw = dict(action="query", list="categorymembers", cmtitle=cat, cmlimit="500", cmnamespace=ns, format="json")
+            if sigue: kw["cmcontinue"] = sigue
+            d = json.load(urllib.request.urlopen(urllib.request.Request("https://en.wikipedia.org/w/api.php?" + urllib.parse.urlencode(kw), headers=UA), timeout=60))
+            salida += [m["title"] for m in d["query"]["categorymembers"]]; sigue = d.get("continue", {}).get("cmcontinue", "")
+            if not sigue: return salida
+    cats, vistos, tit = ["Category:Marvel Comics superheroes"], set(), set()
+    for nivel in range(3):
+        nuevas = []
+        for c in cats:
+            if c in vistos: continue
+            vistos.add(c); tit |= set(miembros(c, "0")); nuevas += miembros(c, "14")
+        cats = nuevas
+    ruta.write_text(json.dumps(sorted(tit), ensure_ascii=False)); print("marvel_cat2", len(tit))
+# títulos en español: las redirecciones de cada artículo (El silencio de los corderos → The Silence of the Lambs)
+def redirecciones(nombre, lang, titulos):
+    ruta = D3 / f"{nombre}.json"
+    if ruta.exists(): return
+    salida = {}
+    for i in range(0, len(titulos), 40):
+        kw = dict(action="query", prop="redirects", rdlimit="500", titles="|".join(titulos[i:i + 40]), format="json")
+        d = json.load(urllib.request.urlopen(urllib.request.Request(f"https://{lang}.wikipedia.org/w/api.php?" + urllib.parse.urlencode(kw), headers=UA), timeout=60))
+        for p in d["query"]["pages"].values(): salida[p["title"]] = [r["title"] for r in p.get("redirects", [])]
+        time.sleep(0.5)
+    ruta.write_text(json.dumps(salida, ensure_ascii=False)); print(nombre, len(salida))
+def arts(nombre):
+    d = json.loads((D3 / f"{nombre}.json").read_text())["results"]["bindings"]
+    return sorted({urllib.parse.unquote(f["art"]["value"].rsplit("/wiki/", 1)[1]).replace("_", " ") for f in d if "art" in f})
+redirecciones("oscar_red", "es", arts("oscar"))
+redirecciones("mario_red", "es", arts("mario"))
+redirecciones("marvel_red", "es", arts("marvel_wd"))
+# diccionario con formas conjugadas y plurales (para «cinco vocales» y «empieza por K»)
+for u in ("https://raw.githubusercontent.com/JorgeDuenasLerin/diccionario-espanol-txt/master/0_palabras_todas.txt",
+          "https://raw.githubusercontent.com/lorenbrichter/Words/master/Words/es.txt"):
+    baja("palabras_todas.txt", u)
+# nombres en español de los superhéroes de Marvel (enlace a la Wikipedia en español de cada artículo en inglés)
+ruta = D3 / "marvel_es.json"
+if not ruta.exists():
+    tit, salida = json.loads((D3 / "marvel_cat2.json").read_text()), {}
+    for i in range(0, len(tit), 45):
+        kw = dict(action="query", prop="langlinks", lllang="es", lllimit="500", titles="|".join(tit[i:i + 45]), format="json")
+        d = json.load(urllib.request.urlopen(urllib.request.Request("https://en.wikipedia.org/w/api.php?" + urllib.parse.urlencode(kw), headers=UA), timeout=60))
+        for p in d["query"]["pages"].values():
+            if p.get("langlinks"): salida[p["title"]] = p["langlinks"][0]["*"]
+        time.sleep(0.3)
+    ruta.write_text(json.dumps(salida, ensure_ascii=False)); print("marvel_es", len(salida))

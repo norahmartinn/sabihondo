@@ -1,7 +1,7 @@
 respuesta;alias;nivel;orden_a_mano
-stop;señal stop;1;1000000000
+stop;detención obligatoria|parada obligatoria|señal stop|señal detención obligatoria|señal parada obligatoria;1;1000000000
 ceda el paso;ceda|señal ceda el paso|señal ceda;1;999999999
-prohibido aparcar;prohibido estacionar|estacionamiento prohibido|no aparcar|señal prohibido aparcar|señal prohibido estacionar|señal estacionamiento prohibido|señal no aparcar;1;999999998
+prohibido aparcar;prohibido estacionar|estacionamiento prohibido|no aparcar|prohibido estacionamiento|no estacionar|prohibido aparcar y parar|señal prohibido aparcar|señal prohibido estacionar|señal estacionamiento prohibido|señal no aparcar|señal prohibido estacionamiento|señal no estacionar|señal prohibido aparcar y parar;1;999999998
 límite de velocidad;velocidad máxima|limitación de velocidad|señal límite de velocidad|señal velocidad máxima|señal limitación de velocidad;1;999999997
 paso de peatones;paso de cebra|señal paso de peatones|señal paso de cebra;1;999999996
 prohibido el paso;dirección prohibida|entrada prohibida|prohibido pasar|señal prohibido el paso|señal dirección prohibida|señal entrada prohibida|señal prohibido pasar;1;999999995
@@ -12,7 +12,7 @@ peligro;otros peligros|señal peligro|señal otros peligros;2;999999997
 curva peligrosa;curva|señal curva peligrosa|señal curva;2;999999996
 obras;señal obras;2;999999995
 sentido obligatorio;dirección obligatoria|señal sentido obligatorio|señal dirección obligatoria;2;999999994
-prohibido girar;prohibido girar a la izquierda|giro prohibido|señal prohibido girar|señal prohibido girar a la izquierda|señal giro prohibido;2;999999993
+prohibido girar;prohibido girar a la izquierda|giro prohibido|prohibido girar a la derecha|giro a la derecha prohibido|giro a la izquierda prohibido|prohibido torcer|señal prohibido girar|señal prohibido girar a la izquierda|señal giro prohibido|señal prohibido girar a la derecha|señal giro a la derecha prohibido|señal giro a la izquierda prohibido|señal prohibido torcer;2;999999993
 prohibido cambiar de sentido;cambio de sentido prohibido|señal prohibido cambiar de sentido|señal cambio de sentido prohibido;2;999999992
 prohibido parar;prohibido parar y estacionar|parada y estacionamiento prohibido|señal prohibido parar|señal prohibido parar y estacionar|señal parada y estacionamiento prohibido;2;999999991
 sentido único;calle de sentido único|señal sentido único|señal calle de sentido único;2;999999990
@@ -59,6 +59,204 @@ limitación de peso;limitación de masa|señal limitación de peso|señal limita
 limitación de anchura;señal limitación de anchura;4;999999949
 separación mínima;señal separación mínima;4;999999948
 intersección;cruce|señal intersección|señal cruce;4;999999947
+prohibido el paso a peatones;señal prohibido el paso a peatones;4;0
+prohibido el paso a vehículos;señal prohibido el paso a vehículos;4;0
+prohibida la entrada;señal prohibida la entrada;4;0
+sentido contrario;señal sentido contrario;4;0
+dirección única;señal dirección única;4;0
+doble sentido de circulación;señal doble sentido de circulación;4;0
+giro obligatorio;señal giro obligatorio;4;0
+giro a la derecha obligatorio;girar a la derecha|señal giro a la derecha obligatorio;4;0
+giro a la izquierda obligatorio;girar a la izquierda|señal giro a la izquierda obligatorio;4;0
+seguir de frente;de frente obligatorio|señal seguir de frente;4;0
+paso obligatorio;señal paso obligatorio;4;0
+velocidad máxima 50;50|señal velocidad máxima 50;4;0
+velocidad máxima 30;30|señal velocidad máxima 30;4;0
+velocidad máxima 120;120|señal velocidad máxima 120;4;0
+velocidad aconsejada;velocidad recomendada|señal velocidad aconsejada;4;0
+fin de limitación de velocidad;fin de límite de velocidad|señal fin de limitación de velocidad;4;0
+fin de prohibición de adelantar;señal fin de prohibición de adelantar;4;0
+adelantamiento prohibido para camiones;señal adelantamiento prohibido para camiones;4;0
+prohibido adelantar camiones;señal prohibido adelantar camiones;4;0
+paso de ciclistas;señal paso de ciclistas;4;0
+paso de animales;paso de ganado|señal paso de animales;4;0
+paso de peatones elevado;señal paso de peatones elevado;4;0
+zona de obras;señal zona de obras;4;0
+hombres trabajando;obreros|señal hombres trabajando;4;0
+semáforos;señal semáforos;4;0
+estrechamiento por la derecha;señal estrechamiento por la derecha;4;0
+estrechamiento por la izquierda;señal estrechamiento por la izquierda;4;0
+curva a la derecha;curva peligrosa a la derecha|señal curva a la derecha;4;0
+curva a la izquierda;curva peligrosa a la izquierda|señal curva a la izquierda;4;0
+curvas peligrosas hacia la derecha;señal curvas peligrosas hacia la derecha;4;0
+curvas peligrosas hacia la izquierda;señal curvas peligrosas hacia la izquierda;4;0
+calzada resbaladiza;suelo resbaladizo|suelo deslizante|señal calzada resbaladiza;4;0
+firme irregular;señal firme irregular;4;0
+rasante;cambio de rasante|señal rasante;4;0
+descenso peligroso;señal descenso peligroso;4;0
+ascenso;señal ascenso;4;0
+paso a nivel sin barreras;señal paso a nivel sin barreras;4;0
+paso a nivel sin barrera;señal paso a nivel sin barrera;4;0
+intersección con prioridad a la derecha;prioridad a la derecha|señal intersección con prioridad a la derecha;4;0
+intersección con circulación giratoria;señal intersección con circulación giratoria;4;0
+ceda el paso a peatones;señal ceda el paso a peatones;4;0
+fin de prioridad;señal fin de prioridad;4;0
+entrada prohibida a vehículos de motor;señal entrada prohibida a vehículos de motor;4;0
+entrada prohibida a vehículos agrícolas;prohibido tractores|señal entrada prohibida a vehículos agrícolas;4;0
+entrada prohibida a carros;señal entrada prohibida a carros;4;0
+entrada prohibida a vehículos con mercancías peligrosas;mercancías peligrosas|señal entrada prohibida a vehículos con mercancías peligrosas;4;0
+prohibido autobuses;señal prohibido autobuses;4;0
+prohibido caravanas;señal prohibido caravanas;4;0
+prohibido remolques;señal prohibido remolques;4;0
+prohibido animales;señal prohibido animales;4;0
+prohibido perros;señal prohibido perros;4;0
+prohibido el paso sin detenerse;aduana|control policial|señal prohibido el paso sin detenerse;4;0
+estacionamiento prohibido los días impares;señal estacionamiento prohibido los días impares;4;0
+estacionamiento prohibido los días pares;señal estacionamiento prohibido los días pares;4;0
+estacionamiento prohibido la primera quincena;señal estacionamiento prohibido la primera quincena;4;0
+estacionamiento prohibido la segunda quincena;señal estacionamiento prohibido la segunda quincena;4;0
+estacionamiento limitado;zona de estacionamiento limitado|señal estacionamiento limitado;4;0
+zona verde;señal zona verde;4;0
+zona naranja;señal zona naranja;4;0
+zona de bajas emisiones;ZBE|señal zona de bajas emisiones;4;0
+zona de carga y descarga;señal zona de carga y descarga;4;0
+parada de autobús;parada de bus|señal parada de autobús;4;0
+parada de taxis;taxi|señal parada de taxis;4;0
+parada de tranvía;señal parada de tranvía;4;0
+estacionamiento para minusválidos;plaza de minusválidos|minusválidos|señal estacionamiento para minusválidos;4;0
+aparcamiento de motos;señal aparcamiento de motos;4;0
+aparcamiento de bicis;señal aparcamiento de bicis;4;0
+parking de pago;señal parking de pago;4;0
+teléfono;teléfono de emergencia|SOS|señal teléfono;4;0
+puesto de socorro;primeros auxilios|señal puesto de socorro;4;0
+camping;señal camping;4;0
+hotel;albergue|señal hotel;4;0
+restaurante;señal restaurante;4;0
+cafetería;señal cafetería;4;0
+información;información turística|señal información;4;0
+merendero;área de picnic|señal merendero;4;0
+punto limpio;señal punto limpio;4;0
+punto de recarga;cargador eléctrico|señal punto de recarga;4;0
+vía verde;señal vía verde;4;0
+camino de Santiago;señal camino de Santiago;4;0
+mirador;vista panorámica|señal mirador;4;0
+monumento;monumento nacional|señal monumento;4;0
+playa;señal playa;4;0
+estación de tren;señal estación de tren;4;0
+estación de autobuses;señal estación de autobuses;4;0
+puerto;señal puerto;4;0
+helipuerto;señal helipuerto;4;0
+zona de juegos;señal zona de juegos;4;0
+centro ciudad;centro urbano|señal centro ciudad;4;0
+todas direcciones;señal todas direcciones;4;0
+otras direcciones;señal otras direcciones;4;0
+desvío;desvío provisional|señal desvío;4;0
+carretera cortada;calle cortada|señal carretera cortada;4;0
+final de carretera;señal final de carretera;4;0
+vía cortada;señal vía cortada;4;0
+carril reversible;señal carril reversible;4;0
+carril adicional;señal carril adicional;4;0
+carril VAO;VAO|señal carril VAO;4;0
+carril de aceleración;señal carril de aceleración;4;0
+carril de deceleración;señal carril de deceleración;4;0
+carril de vehículos lentos;vehículos lentos|señal carril de vehículos lentos;4;0
+fin de autopista;señal fin de autopista;4;0
+fin de autovía;señal fin de autovía;4;0
+vía rápida;señal vía rápida;4;0
+vía reservada para automóviles;señal vía reservada para automóviles;4;0
+carretera convencional;señal carretera convencional;4;0
+entrada a poblado;inicio de poblado|poblado|señal entrada a poblado;4;0
+fin de poblado;señal fin de poblado;4;0
+cartel de pueblo;señal cartel de pueblo;4;0
+punto kilométrico;hito kilométrico|mojón|señal punto kilométrico;4;0
+panel direccional;chevron|señal panel direccional;4;0
+baliza;señal baliza;4;0
+hito de arista;señal hito de arista;4;0
+cono;señal cono;4;0
+flecha;señal flecha;4;0
+flecha verde;señal flecha verde;4;0
+flecha amarilla;señal flecha amarilla;4;0
+línea continua;señal línea continua;4;0
+línea discontinua;señal línea discontinua;4;0
+marca vial;señal marca vial;4;0
+cebreado;señal cebreado;4;0
+ceda el paso pintado;señal ceda el paso pintado;4;0
+stop pintado;señal stop pintado;4;0
+paso para ciclistas;señal paso para ciclistas;4;0
+semáforo en rojo;señal semáforo en rojo;4;0
+semáforo en ámbar;señal semáforo en ámbar;4;0
+semáforo en verde;señal semáforo en verde;4;0
+luz roja;señal luz roja;4;0
+luz ámbar;señal luz ámbar;4;0
+luz verde;señal luz verde;4;0
+agente;agente de tráfico|señal agente;4;0
+triángulo;triángulo de emergencia|señal triángulo;4;0
+V-16;señal V-16;4;0
+V-19;señal V-19;4;0
+V-20;señal V-20;4;0
+L;L de novato|señal L;4;0
+distintivo ambiental;señal distintivo ambiental;4;0
+peligro indefinido;señal peligro indefinido;4;0
+peligro nieve;señal peligro nieve;4;0
+peligro hielo;señal peligro hielo;4;0
+peligro niebla;señal peligro niebla;4;0
+peligro viento;señal peligro viento;4;0
+peligro lluvia;señal peligro lluvia;4;0
+peligro ciervos;señal peligro ciervos;4;0
+peligro jabalíes;señal peligro jabalíes;4;0
+peligro vacas;señal peligro vacas;4;0
+peligro caballos;señal peligro caballos;4;0
+peligro linces;linces|señal peligro linces;4;0
+peligro osos;osos|señal peligro osos;4;0
+peligro ranas;anfibios|señal peligro ranas;4;0
+peligro patos;señal peligro patos;4;0
+peligro ancianos;ancianos|señal peligro ancianos;4;0
+peligro peatones;peatones|señal peligro peatones;4;0
+peligro ciclistas;señal peligro ciclistas;4;0
+peligro tractores;maquinaria agrícola|señal peligro tractores;4;0
+peligro aviones;señal peligro aviones;4;0
+peligro tren;señal peligro tren;4;0
+peligro tranvía;señal peligro tranvía;4;0
+peligro semáforo;señal peligro semáforo;4;0
+peligro obras;señal peligro obras;4;0
+peligro rotonda;señal peligro rotonda;4;0
+peligro cruce;señal peligro cruce;4;0
+peligro curva;señal peligro curva;4;0
+peligro badén;señal peligro badén;4;0
+peligro estrechamiento;señal peligro estrechamiento;4;0
+peligro desprendimiento;señal peligro desprendimiento;4;0
+peligro escalón;señal peligro escalón;4;0
+peligro gravilla;señal peligro gravilla;4;0
+peligro puente móvil;señal peligro puente móvil;4;0
+peligro muelle;señal peligro muelle;4;0
+peligro paso a nivel;señal peligro paso a nivel;4;0
+peligro circulación en dos sentidos;señal peligro circulación en dos sentidos;4;0
+peligro congestión;señal peligro congestión;4;0
+peligro accidente;accidente|señal peligro accidente;4;0
+peligro túnel;señal peligro túnel;4;0
+peligro zona inundable;zona inundable|señal peligro zona inundable;4;0
+prohibido el paso excepto residentes;excepto residentes|señal prohibido el paso excepto residentes;4;0
+excepto bus;señal excepto bus;4;0
+excepto taxi;señal excepto taxi;4;0
+excepto bicis;señal excepto bicis;4;0
+calle escolar;señal calle escolar;4;0
+camino escolar;señal camino escolar;4;0
+zona 20;señal zona 20;4;0
+zona 10;señal zona 10;4;0
+ciclocalle;señal ciclocalle;4;0
+ciclocarril;señal ciclocarril;4;0
+acera bici;señal acera bici;4;0
+senda peatonal;señal senda peatonal;4;0
+vía pecuaria;señal vía pecuaria;4;0
+cañada;señal cañada;4;0
+prohibido circular;señal prohibido circular;4;0
+circulación prohibida;señal circulación prohibida;4;0
+no pasar;señal no pasar;4;0
+no entrar;señal no entrar;4;0
+alto;señal alto;4;0
+pare;señal pare;4;0
+yield;señal yield;4;0
+give way;señal give way;4;0
 doble curva;curvas peligrosas|señal doble curva|señal curvas peligrosas;5;999999946
 pendiente;bajada con fuerte pendiente|bajada peligrosa|señal pendiente|señal bajada con fuerte pendiente|señal bajada peligrosa;5;999999945
 subida con fuerte pendiente;subida|señal subida con fuerte pendiente|señal subida;5;999999944

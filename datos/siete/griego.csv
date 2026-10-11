@@ -8,20 +8,20 @@ delta;;1;999999995
 épsilon;;2;1000000000
 lambda;;2;999999999
 sigma;;2;999999998
-theta;;2;999999997
+theta;tita|zeta griega;2;999999997
 fi;phi;2;999999996
 kappa;kapa;2;999999995
-mi;mu|my;3;1000000000
-ro;rho;3;999999999
+mi;mu|my|miu;3;1000000000
+ro;rho|rho griega;3;999999999
 tau;;3;999999998
 psi;;3;999999997
 iota;;3;999999996
 ómicron;;3;999999995
 eta;;4;1000000000
-ji;chi;4;999999999
-ípsilon;úpsilon;4;999999998
-ni;nu|ny;4;999999997
-dseta;zeta;4;999999996
+ji;chi|khi|ki;4;999999999
+ípsilon;úpsilon|ypsilon|i griega;4;999999998
+ni;nu|ny|niu;4;999999997
+dseta;zeta|dzeta|zita;4;999999996
 xi;;5;1000000000
 digamma;;5;999999999
 qoppa;koppa;5;999999998

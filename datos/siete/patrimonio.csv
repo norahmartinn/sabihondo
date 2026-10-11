@@ -1,51 +1,51 @@
 respuesta;alias;nivel;orden_a_mano
-la Alhambra;Generalife|Albaicín|Alhambra de Granada;1;1000000000
-la Sagrada Familia;obras de Gaudí|Parque Güell|Casa Batlló|La Pedrera|Casa Milà|Palacio Güell|Casa Vicens|Gaudí|Park Güell;1;999999999
-la Mezquita de Córdoba;centro histórico de Córdoba|Córdoba|Mezquita;1;999999998
-el Camino de Santiago;Caminos de Santiago;1;999999997
-el acueducto de Segovia;Segovia|ciudad vieja de Segovia|acueducto;1;999999996
-la catedral de Burgos;;1;999999995
-Toledo;ciudad histórica de Toledo;2;1000000000
-El Escorial;monasterio de El Escorial|San Lorenzo de El Escorial;2;999999999
-la catedral de Sevilla;Giralda|Alcázar de Sevilla|Archivo de Indias|Reales Alcázares;2;999999998
-la cueva de Altamira;Altamira|cuevas de Altamira;2;999999997
-Santiago de Compostela;catedral de Santiago|ciudad vieja de Santiago de Compostela;2;999999996
-Salamanca;ciudad vieja de Salamanca;2;999999995
-Ávila;murallas de Ávila|muralla de Ávila|ciudad vieja de Ávila;2;999999994
-Cáceres;ciudad vieja de Cáceres;2;999999993
-el Teide;Parque Nacional del Teide;2;999999992
-Doñana;Parque Nacional de Doñana;2;999999991
-Cuenca;casas colgadas|ciudad histórica fortificada de Cuenca;2;999999990
-Mérida;teatro romano de Mérida|conjunto arqueológico de Mérida;2;999999989
-Atapuerca;sierra de Atapuerca|yacimiento de Atapuerca;2;999999988
-la Torre de Hércules;;2;999999987
-el Retiro;Paseo del Prado|Paisaje de la Luz|Paseo del Prado y el Buen Retiro|Buen Retiro;2;999999986
-la muralla de Lugo;muralla romana de Lugo|Lugo;3;1000000000
-Las Médulas;;3;999999999
-Ibiza;Dalt Vila|Eivissa;3;999999998
-Alcalá de Henares;Universidad de Alcalá;3;999999997
-San Cristóbal de La Laguna;La Laguna;3;999999996
-Garajonay;Parque Nacional de Garajonay;3;999999995
-Úbeda y Baeza;Úbeda|Baeza;3;999999994
-Tarraco;Tarragona|conjunto arqueológico de Tarraco;3;999999993
-la Lonja de la Seda;Lonja de Valencia;3;999999992
-el Palau de la Música;Palau de la Música Catalana|Hospital de Sant Pau;3;999999991
-Medina Azahara;Madinat al-Zahra;3;999999990
-Aranjuez;paisaje cultural de Aranjuez;3;999999989
-el monasterio de Guadalupe;Guadalupe;3;999999988
-Ordesa;Monte Perdido|Pirineos-Monte Perdido|Ordesa y Monte Perdido;3;999999987
-el prerrománico asturiano;Santa María del Naranco|monumentos de Oviedo|Oviedo;3;999999986
-el mudéjar de Aragón;mudéjar aragonés|arquitectura mudéjar de Aragón|mudéjar de Teruel|Teruel;3;999999985
-el monasterio de Poblet;Poblet;4;1000000000
-San Millán de la Cogolla;monasterios de Suso y Yuso|Suso y Yuso|San Millán;4;999999999
-las iglesias románicas del Vall de Boí;Vall de Boí|Valle de Bohí|Sant Climent de Taüll;4;999999998
-el Palmeral de Elche;Elche;4;999999997
-el Puente Colgante de Portugalete;Puente de Vizcaya|Puente Colgante;4;999999996
-los dólmenes de Antequera;Antequera;4;999999995
-la Sierra de Tramontana;Serra de Tramuntana|Tramuntana;4;999999994
-la Menorca talayótica;Menorca|talayots;4;999999993
-Almadén;minas de Almadén;5;1000000000
-Siega Verde;;5;999999999
-Risco Caído;Risco Caído y montañas sagradas de Gran Canaria;5;999999998
-los hayedos;hayedo de Montejo|Tejera Negra|bosques de hayas;5;999999997
-el arte rupestre del arco mediterráneo;arte rupestre levantino;5;999999996
+la Alhambra;Generalife|Albaicín|Alhambra de Granada|Granada|Albayzín|Palacio de Carlos V|Patio de los Leones|Sacromonte;1;1000000000
+la Sagrada Familia;obras de Gaudí|Parque Güell|Casa Batlló|La Pedrera|Casa Milà|Palacio Güell|Casa Vicens|Gaudí|Park Güell|Cripta de la Colonia Güell|Colonia Güell|Güell|Antoni Gaudí|Barcelona|templo de la Sagrada Familia|Fachada del Nacimiento|Parc Güell;1;999999999
+la Mezquita de Córdoba;centro histórico de Córdoba|Córdoba|Mezquita|Mezquita-Catedral de Córdoba|Mezquita-Catedral|catedral de Córdoba|judería de Córdoba|casco histórico de Córdoba|puente romano de Córdoba|Alcázar de los Reyes Cristianos;1;999999998
+el Camino de Santiago;Caminos de Santiago|Camino Francés|Camino del Norte|Camino Primitivo|caminos del Norte|Camino de Santiago Francés|ruta jacobea;1;999999997
+el acueducto de Segovia;Segovia|ciudad vieja de Segovia|acueducto|Alcázar de Segovia|catedral de Segovia|casco antiguo de Segovia;1;999999996
+la catedral de Burgos;Burgos;1;999999995
+Toledo;ciudad histórica de Toledo|casco histórico de Toledo|Alcázar de Toledo|catedral de Toledo|ciudad de Toledo|casco antiguo de Toledo;2;1000000000
+El Escorial;monasterio de El Escorial|San Lorenzo de El Escorial|Monasterio y Sitio de El Escorial|Real Monasterio de San Lorenzo de El Escorial;2;999999999
+la catedral de Sevilla;Giralda|Alcázar de Sevilla|Archivo de Indias|Reales Alcázares|Sevilla|Alcázar|Real Alcázar de Sevilla|catedral Alcázar y Archivo de Indias;2;999999998
+la cueva de Altamira;Altamira|cuevas de Altamira|arte rupestre paleolítico del norte de España|arte rupestre del norte de España|cueva de Tito Bustillo|Tito Bustillo|cueva de El Castillo|Covalanas|Ekain|Santimamiñe|Altxerri|cueva del Pindal|Candamo|La Garma|El Pendo|Chufín|Hornos de la Peña|Las Monedas|La Pasiega|Las Chimeneas|Llonín|Covaciella|La Peña de Candamo;2;999999997
+Santiago de Compostela;catedral de Santiago|ciudad vieja de Santiago de Compostela|casco histórico de Santiago|Santiago|ciudad de Santiago de Compostela|plaza del Obradoiro|casco antiguo de Santiago de Compostela;2;999999996
+Salamanca;ciudad vieja de Salamanca|casco histórico de Salamanca|Plaza Mayor de Salamanca|Universidad de Salamanca|catedral de Salamanca|casco antiguo de Salamanca;2;999999995
+Ávila;murallas de Ávila|muralla de Ávila|ciudad vieja de Ávila|casco histórico de Ávila|ciudad amurallada de Ávila|iglesias extramuros de Ávila|casco antiguo de Ávila;2;999999994
+Cáceres;ciudad vieja de Cáceres|casco histórico de Cáceres|casco antiguo de Cáceres|ciudad monumental de Cáceres;2;999999993
+el Teide;Parque Nacional del Teide|Las Cañadas del Teide|Parque del Teide;2;999999992
+Doñana;Parque Nacional de Doñana|Coto de Doñana|Parque de Doñana;2;999999991
+Cuenca;casas colgadas|ciudad histórica fortificada de Cuenca|casco histórico de Cuenca|casco antiguo de Cuenca|hoces de Cuenca|ciudad amurallada de Cuenca;2;999999990
+Mérida;teatro romano de Mérida|conjunto arqueológico de Mérida|anfiteatro de Mérida|Mérida romana|puente romano de Mérida|acueducto de los Milagros|templo de Diana|Emerita Augusta;2;999999989
+Atapuerca;sierra de Atapuerca|yacimiento de Atapuerca|yacimientos de Atapuerca|sitio arqueológico de Atapuerca|Gran Dolina|Sima de los Huesos;2;999999988
+la Torre de Hércules;faro de Hércules|A Coruña;2;999999987
+el Retiro;Paseo del Prado|Paisaje de la Luz|Paseo del Prado y el Buen Retiro|Buen Retiro|Parque del Retiro|El Prado|Museo del Prado|Paseo del Prado y Buen Retiro paisaje de las artes y las ciencias|Madrid|Jardín Botánico|Cibeles;2;999999986
+la muralla de Lugo;muralla romana de Lugo|Lugo|murallas de Lugo|murallas romanas de Lugo;3;1000000000
+Las Médulas;minas de oro de Las Médulas;3;999999999
+Ibiza;Dalt Vila|Eivissa|Ibiza biodiversidad y cultura|posidonia|praderas de posidonia|Sa Caleta|Puig des Molins|Dalt Vila de Ibiza;3;999999998
+Alcalá de Henares;Universidad de Alcalá|Universidad y recinto histórico de Alcalá de Henares|Universidad de Alcalá de Henares|recinto histórico de Alcalá|Alcalá;3;999999997
+San Cristóbal de La Laguna;La Laguna|casco histórico de La Laguna;3;999999996
+Garajonay;Parque Nacional de Garajonay|La Gomera|bosque de Garajonay|laurisilva;3;999999995
+Úbeda y Baeza;Úbeda|Baeza|conjuntos monumentales renacentistas de Úbeda y Baeza|Baeza y Úbeda;3;999999994
+Tarraco;Tarragona|conjunto arqueológico de Tarraco|anfiteatro de Tarragona|Tarragona romana|acueducto de les Ferreres|Pont del Diable|arco de Bará|Arc de Berà;3;999999993
+la Lonja de la Seda;Lonja de Valencia|La Lonja|Llotja de la Seda|Lonja de los Mercaderes|Valencia;3;999999992
+el Palau de la Música;Palau de la Música Catalana|Hospital de Sant Pau|Hospital de la Santa Creu i Sant Pau|Sant Pau|Hospital de San Pablo|Palau de la Música Catalana y Hospital de Sant Pau|Domènech i Montaner;3;999999991
+Medina Azahara;Madinat al-Zahra|ciudad califal de Medina Azahara|Medina Azahara de Córdoba;3;999999990
+Aranjuez;paisaje cultural de Aranjuez|Palacio de Aranjuez|Palacio Real de Aranjuez|jardines de Aranjuez;3;999999989
+el monasterio de Guadalupe;Guadalupe|Real Monasterio de Santa María de Guadalupe|Real Monasterio de Guadalupe|monasterio de Santa María de Guadalupe;3;999999988
+Ordesa;Monte Perdido|Pirineos-Monte Perdido|Ordesa y Monte Perdido|Parque Nacional de Ordesa|Parque Nacional de Ordesa y Monte Perdido|Pirineos|Pirineo;3;999999987
+el prerrománico asturiano;Santa María del Naranco|monumentos de Oviedo|Oviedo|San Miguel de Lillo|Santa Cristina de Lena|Cámara Santa|San Julián de los Prados|Santullano|La Foncalada|monumentos de Oviedo y del Reino de Asturias|prerrománico|arte prerrománico asturiano|Naranco;3;999999986
+el mudéjar de Aragón;mudéjar aragonés|arquitectura mudéjar de Aragón|mudéjar de Teruel|Teruel|arquitectura mudéjar|mudéjar|torres mudéjares de Teruel|torre de El Salvador|torre de San Martín|catedral de Teruel|Aljafería|La Seo|Seo de Zaragoza|San Pablo de Zaragoza|colegiata de Calatayud|Tobed|Cervera de la Cañada;3;999999985
+el monasterio de Poblet;Poblet|Real Monasterio de Santa María de Poblet|monasterio de Santa María de Poblet;4;1000000000
+San Millán de la Cogolla;monasterios de Suso y Yuso|Suso y Yuso|San Millán|monasterio de Yuso|monasterio de Suso|Yuso|Suso|monasterios de San Millán de Yuso y de Suso|San Millán de Yuso y Suso|Yuso y Suso;4;999999999
+las iglesias románicas del Vall de Boí;Vall de Boí|Valle de Bohí|Sant Climent de Taüll|iglesias románicas catalanas del Vall de Boí|románico del Valle de Bohí|románico de la Vall de Boí|Taüll|Sant Climent|Santa Maria de Taüll|Erill la Vall|Boí|románico catalán|iglesias de Boí;4;999999998
+el Palmeral de Elche;Elche|Palmeral|palmerales de Elche;4;999999997
+el Puente Colgante de Portugalete;Puente de Vizcaya|Puente Colgante|Puente Bizkaia|Bizkaiko Zubia|puente de Portugalete|Puente Colgante de Vizcaya|Puente Colgante de Bizkaia|puente transbordador de Vizcaya|Portugalete;4;999999996
+los dólmenes de Antequera;Antequera|dolmen de Menga|Menga|Viera|El Romeral|tholos de El Romeral|El Torcal|Torcal de Antequera|Peña de los Enamorados|sitio de los dólmenes de Antequera;4;999999995
+la Sierra de Tramontana;Serra de Tramuntana|Tramuntana|paisaje cultural de la Serra de Tramuntana|Serra de Tramontana|sierra de Tramuntana|Tramontana|Mallorca;4;999999994
+la Menorca talayótica;Menorca|talayots|Talayótica de Menorca|taulas|navetas|Naveta des Tudons|Torre d'en Galmés|cultura talayótica;4;999999993
+Almadén;minas de Almadén|patrimonio del mercurio|Almadén e Idrija|patrimonio del mercurio Almadén e Idrija|minas de mercurio de Almadén|mercurio;5;1000000000
+Siega Verde;arte rupestre de Siega Verde|Côa y Siega Verde|valle del Côa y Siega Verde|sitios de arte rupestre prehistórico del valle del Côa y Siega Verde;5;999999999
+Risco Caído;Risco Caído y montañas sagradas de Gran Canaria|paisaje cultural de Risco Caído y las montañas sagradas de Gran Canaria|montañas sagradas de Gran Canaria|Roque Bentayga|Gran Canaria|Roque Nublo;5;999999998
+los hayedos;hayedo de Montejo|Tejera Negra|bosques de hayas|hayedo de Montejo de la Sierra|Montejo de la Sierra|hayedo de Tejera Negra|Lizardoia|Aztaparreta|Cuesta Fría|Canal de Asotín|hayedos de Picos de Europa|hayedos primarios|bosques antiguos y primarios de hayas|hayedos de Ayllón|hayedos de Navarra|selva de Irati|Irati;5;999999997
+el arte rupestre del arco mediterráneo;arte rupestre levantino|arte rupestre del arco mediterráneo de la península ibérica|arte levantino|pinturas rupestres levantinas|cueva de la Araña|cuevas de la Araña|La Valltorta|abrigos de Albarracín|cueva de los Letreros|Indalo|Cogul|Minateda|Ulldecona|cueva de Doña Trinidad|pinturas rupestres;5;999999996

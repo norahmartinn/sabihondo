@@ -124,333 +124,2160 @@ klezmer;música klezmer;4;999999889
 polka;música polka;4;999999888
 vals;música vals;4;999999887
 sinfonía;symphony;4;113
+rapear;canción de rap|rimas|rapeo|rapeando|rapping;4;108
 himno;Himnos|anthem|Hymnus|hymn;4;104
 mantra;Mantras|Mantram|Maha-mantra;4;94
 musical;espectáculo musical|teatro musical|musical play;4;90
 nana;berceuse|cancion de cuna|lullaby;4;83
-música tradicional;música tipica|traditional folk music;4;81
+música tradicional;música tipica|música folklórica|musica folclórica|traditional folk music;4;81
 gazal;ghazal;4;76
 música de cámara;Músico de Cámara|chamber music;4;71
 sonata;Sonatas;4;70
 música del Barroco;música barroca|Baroque music;4;69
-Nō;Teatro no-|noh;4;67
 Cantata;Cantada;4;67
+Nō;Teatro no-|Noh;4;67
 hardcore punk;;4;65
 oratorio;;4;64
 a capela;A cappella|A capella|Acapella;4;63
-fuga;Fugato|Análisis de una fuga|fugue;4;62
+fuga;Análisis de una fuga|Fugato|fugue;4;62
 canto gregoriano;Cantos gregorianos|Gregorian chant;4;61
+indie rock;Rock indie;4;60
 Ragtime;;4;60
 polifonía;polifonico|polifonica|polyphony;5;59
 gamelan;;5;59
 folk rock;folk pop|folck-rock;5;58
-obertura;overture;5;57
 madrigal;madrigales;5;57
+obertura;overture;5;57
 metal progresivo;progressive metal|heavy-metal progresivo;5;56
 rock blues;Blues/rock;5;56
 bebop;Bop;5;55
-metal gótico;Gothic Symphonic Metal|Gothic Metal;5;55
-doom metal;metal depresivo;5;55
-música del Renacimiento;Renacimiento musical|música renacentista|Renaissance music;5;55
-música cinematográfica;musica para películas|música para película|film score;5;55
 mazurca;Mazurka;5;55
+metal gótico;Gothic Symphonic Metal|Gothic Metal|Goth Metal|Frozen Flame;5;55
+doom metal;metal depresivo;5;55
+música cinematográfica;musica para películas|música para película|música para cine|música de peliculas|música de cine|música cinematrográfica|compositor de cine|film score;5;55
+música del Renacimiento;Renacimiento musical|música renacentista|Renacimiento|Renaissance music;5;55
+beatboxing;Sonorosapiens|Human beat box|Beatbox;5;54
+death metal melódico;melodic death metal;5;54
 metal sinfónico;Symphonic Metal|Metal Symphony;5;54
 metal industrial;industrial metal;5;54
-beatboxing;Sonorosapiens|Human beat box|Beatbox;5;54
+música de baile electrónica;música dance electrónica|música club|electronic dance music;5;54
 glam rock;rock/glam|glitter rock;5;54
-death metal melódico;melodic death metal;5;54
 música medieval;Música del medioevo|medieval music;5;53
+rock gótico;Rock Siniestro|Rock Industrial Gótico|Gothic-rock|Goth rock;5;53
 música del Romanticismo;Romanticismo musical|Música romántica|Romanticismo|Romantic music;5;53
-rock gótico;Rock Siniestro|Rock Industrial Gótico|gothic rock;5;53
 serenata;serenade;5;53
 metal alternativo;alt-metal|alternative metal;5;53
 power metal;;5;53
 música de baile;dance music;5;52
-grindcore;Punk Death;5;51
-motete;motetes|motet;5;51
-música del mundo;músicas del mundo|música universal|música mundial|world music;5;51
-Folk metal;;5;51
 Bel canto;Belcantista|Belcantismo;5;51
+Folk metal;;5;51
+motete;motetes|motet;5;51
+grindcore;Punk Death|grind;5;51
+música del mundo;músicas del mundo|música universal|música mundial|música global|world music;5;51
 música popular;popular music;5;50
-nocturno;nocturne;5;50
 art rock;;5;50
+nocturno;nocturne;5;50
 concierto;concerto;5;50
+Ruba'i;;5;49
 glam metal;;5;49
 marcha;Marcha militar|march;5;49
-Ruba'i;;5;49
-dodecafónico;técnica de los doce tonos|sistema dodecafónico|twelve-tone technique;5;48
+dodecafónico;técnica de los doce tonos|sistema dodecafónico|Series dodecafónicas|Serie dodecafónica|serialismo de los doce tonos|música dodecafónica|Dodecafonia|composición de doce notas|twelve-tone technique;5;48
+shoegazing;shoegazer;5;48
 post-rock;;5;48
 raga;Raga indio;5;48
-indie pop;pop indie|pop independiente;5;47
-R&B contemporáneo;rhythm and blues contemporáneo|contemporary R&B;5;47
+new age;nueva era|música nueva era|música new age|new age music;5;47
 britpop;;5;47
-trip hop;Trip rap;5;47
+trip hop;Trip rap|Brit-hop|Bristol Sound;5;47
+indie pop;pop indie|pop independiente|indie pop music;5;47
+R&B contemporáneo;rhythm and blues contemporáneo|contemporary R&B;5;47
 speed metal;;5;47
-new age;nueva era|música nueva era|new age music;5;47
 Clasicismo musical;música del Clasicismo|Classical period;5;47
-jazz fusión;;5;46
-garage rock;Rock de garaje|Rock de garage;5;46
-atonalidad;Música atonal|Atonalismo|atonality;5;46
+jazz fusión;Fusion Music|Fusion jazz;5;46
 groove metal;post-thrash|neo-thrash;5;46
+atonalidad;Música atonal|Atonalismo|atonality;5;46
+garage rock;Rock de garaje|Rock de garage|Garage rock revival;5;46
+preludio;prelude;5;45
+pop-punk;punk-pop;5;45
 estudio (música);étude;5;45
 Concerto grosso;Concierto grosso|Concerti grossi;5;45
-pop-punk;punk-pop;5;45
 música clásica de India;Indian classical music;5;45
-preludio;prelude;5;45
-tarantela;tarantella;5;44
-música árabe;Arabic music;5;44
-country rock;;5;44
-espiritual;negro espiritual|canto espiritual|espirituales|spirituals;5;44
+espiritual;negro espiritual|canto espiritual|espirituales|espirituales negros|espiritual negro|spirituals;5;44
 Viking metal;Metal vikingo;5;44
 misa;mass;5;44
-twist;;5;43
-Barcarola;Barcarole|Barcarolle;5;43
-free jazz;New thing;5;43
-Visual kei;Visual rock;5;43
+country rock;;5;44
+música árabe;Arabic music;5;44
+tarantela;tarantella;5;44
 qawwali;;5;43
+Visual kei;Visual rock;5;43
+Barcarola;Barcarole|Barcarolle;5;43
 ditirambo;dithyramb;5;43
+free jazz;New thing;5;43
+twist;;5;43
 poema sinfónico;suite sinfónica|poemas sinfónicos|symphonic poem;5;42
-Krautrock;Kosmische Musik;5;42
 música instrumental;instrumental|instrumental music;5;42
-Invasión británica;British Invasion|Invasiones inglesas;5;42
-serialismo;postserial|música serial|serialism;5;41
-Nueva ola del heavy metal británico;new wave of British heavy metal;5;41
-dancehall;reggae dancehall;5;41
-dance pop;;5;41
+Krautrock;Kosmische Musik;5;42
+Invasión británica;Invasiones inglesas|British Invasion;5;42
+serialismo;postserial|música serial|modos seriales abiertos|serialism;5;41
 tocata;Toccata;5;41
-noise rock;noise punk;5;40
+dancehall;reggae dancehall;5;41
+Nueva ola del heavy metal británico;new wave of British heavy metal;5;41
+dance pop;;5;41
+dub;música dub|dub music;5;40
 música minimalista;minimalist music;5;40
 antífona;Antiphona|antiphon;5;40
-deathcore;Death Metalcore;5;40
-Música aleatoria;aleatoric music;5;40
-metal extremo;extreme metal;5;40
 música vocal;canto|vocal music;5;40
-zarabanda;sarabande|sarabanda|zarabando;5;40
-dub;música dub|dub music;5;40
+metal extremo;extreme metal;5;40
+deathcore;Death Metalcore;5;40
+noise rock;noise punk;5;40
+Música aleatoria;aleatoric music;5;40
+zarabanda;sarabande|sarabanda|zarabando|zarabandista;5;40
 Lied;Lieds|Lieder;5;40
 Post-hardcore;;5;39
+divertimento;Divertimenti|Divertissement;5;39
+soft rock;Adult oriented rock;5;39
 Avant-garde metal;Metal vanguardista|Metal experimental;5;39
 rap rock;hip hop rock;5;39
 Dixieland;Dixieland jazz;5;39
-divertimento;Divertimenti|Divertissement;5;39
-soft rock;Adult oriented rock;5;39
+Neue Deutsche Härte;NDH;5;38
+Post-grunge;;5;38
 Rebético;Rebetiko;5;38
 Acid jazz;;5;38
 Calipso;calypso;5;38
 Oi!;;5;38
-Post-grunge;;5;38
-música programática;programme music;5;38
+música programática;música descriptiva|música de programa|programme music;5;38
 Ars nova;;5;38
-funk metal;;5;38
-Neue Deutsche Härte;NDH;5;38
 Vaporwave;;5;38
-metal cristiano;white metal|Christian metalcore|Christian metal;5;37
-Lambada;;5;37
-rock electrónico;techno rock|synth-rock|electronic rock;5;37
-romanza;romance;5;37
-bhajan;Kirtan|Bhayan|Bhajanas;5;37
-fanfarria;fanfare;5;37
-stoner rock;Stoner metal;5;37
-Riot grrrl;;5;37
+funk metal;;5;38
+música independiente;independent music;5;38
 boogie-woogie;;5;37
+Lambada;;5;37
+romanza;romance;5;37
+stoner rock;Stoner metal;5;37
+fanfarria;fanfare;5;37
+metal cristiano;white metal|Christian metalcore|Christian metal;5;37
+rock electrónico;techno rock|synth-rock|rock sintético|electronic rock|electro-rock;5;37
+bhajan;Kirtan|Bhayan|Bhajanas|Bhajana|Bhajan (canción);5;37
 variación;Tema con variaciones|Forma variaciones|theme and variation;5;37
-rock cristiano;Christian rock;5;36
-Gangsta rap;rap gángster|rap de realidad;5;36
-música sacra;música sagrada|religious music;5;36
-canción de protesta;música de protesta|canción social|protest song;5;36
-cool;Cool jazz;5;36
-rima infantil;rima de mamá oca|poema infantil|canción infantil|nursery rhyme;5;36
-música ligera;Musica de ascensor|Lite AC|Light music|easy listening;5;36
+Riot grrrl;;5;37
 sludge metal;sludge rock|grindcore/doom;5;36
 ópera rock;rock opera;5;36
+rock cristiano;Christian rock;5;36
+Gangsta rap;rap gángster|rap de realidad;5;36
+cool;Cool jazz;5;36
+canción de protesta;música de protesta|canción social|protest song;5;36
+música ligera;Musica de ascensor|Lite AC|Light music|Light adult contemporary music|Easy-listening|Core lounge|Canción ligera;5;36
+música sacra;música sagrada|música religiosa|música litúrgica|religious music;5;36
+rima infantil;rima de mamá oca|poema infantil|canción infantil|nursery rhyme;5;36
+hardcore techno;techno hardcore;5;36
 música experimental;músicas experimentales|experimental music;5;36
-rock experimental;rock vanguardista|avant-garde rock|experimental rock;5;36
-improvisación musical;musical improvisation;5;35
-música beat;beat|beat music;5;35
-música concreta;musique concrète;5;35
-Crust punk;Crust|Crustcore;5;35
-Monodia;Monódico|monody;5;35
-Minnesang;;5;35
-Morin khuur;morin juur;5;35
-electropop;;5;35
-trance psicodélico;Psytrance|Psychedelic trance;5;35
+rock experimental;rock vanguardista|avant-garde rock|Avant rock|experimental rock;5;36
 Metal neoclásico;Neoclassical metal;5;35
-Mugam;Mugham azerbaiyano|Mugham;5;35
+trance psicodélico;Psytrance|Psychedelic trance|Psy goa;5;35
 Intermezzo;;5;35
-No wave;;5;34
-música de China;music of China;5;34
-fantasía;;5;34
-pavana;pavane;5;34
+electropop;;5;35
+música concreta;musique concrète|concrete music;5;35
+Crust punk;Crustcore|Crust;5;35
+Monodia;Monódico|Melodía acompañada|monody;5;35
+Minnesang;;5;35
+improvisación musical;musical improvisation;5;35
+Morin khuur;morin juur;5;35
+música beat;beat|beat music;5;35
+Mugam;Mugham azerbaiyano|Mugham;5;35
+Krakowiak;;5;34
 giga;gigue;5;34
+gagaku;;5;34
+coral;chorale;5;34
+pavana;pavane;5;34
+música de Japón;music of Japan;5;34
+música de China;music of China;5;34
+No wave;;5;34
+fantasía;;5;34
+Dark wave;Wave oscuro;5;34
 power pop;;5;34
 rap metal;rap y heavy metal;5;34
 revista;Teatro de revistas|Teatro de revista|Revista musical|revue;5;34
-Krakowiak;;5;34
-gagaku;;5;34
-coral;chorale;5;34
-música de Japón;music of Japan;5;34
-bubblegum pop;música bubblegum|bubblegum rock|bubblegum music;5;34
-Dark wave;Wave oscuro;5;34
+bubblegum pop;música bubblegum|bubblegum rock|bubblegum|bubblegum music;5;34
 Post-metal;;5;34
-pasacalle;passacaglia|passacagglia;5;33
 electronic body music;Goth-electro|Electro goth|EBM;5;33
-dream pop;;5;33
 música antigua;early music;5;33
 ska punk;Punk-ska;5;33
+dream pop;;5;33
 noise;noise music;5;33
+pasacalle;passacaglia|passacagglia|pasacalles;5;33
 Turbo-folk;;5;33
-música culta;música seria|música selecta|art music;5;33
-screamo;;5;33
+música culta;música seria|música selecta|música orquestal|música docta|música académica|art music;5;33
 pop barroco;rock barroco|pop de cámara|baroque pop;5;33
-Ars antiqua;;5;32
+screamo;;5;33
 música de India;music of India;5;32
-funk rock;;5;32
-heavy metal tradicional;metal tradicional|traditional heavy metal;5;32
-rock sureño;Southern rock;5;32
-Skiffle;;5;32
-bourrée;Pas de bourrée|Bouree;5;32
-deep house;;5;32
+Ars antiqua;;5;32
 rock espacial;Space Rock;5;32
 rock ácido;Acid rock;5;32
+Skiffle;;5;32
 Pasión;passion;5;32
 Nasheed;;5;32
-Música carnática;Música karnática|Carnatic music;5;31
-música acústica;acoustic music;5;31
-Death metal técnico;Technical Death Metal|Death técnico;5;31
-acid house;acid;5;31
-horror punk;Horror rock;5;31
-Hard bop;;5;31
-rocksteady;;5;31
-música psicodélica;rock sicodélico|psychedelic music;5;31
-math rock;;5;31
-New romantic;;5;31
-Órganum;;5;31
-rap alternativo;hip hop alternativo|alternative hip-hop;5;31
-Anarcopunk;Punk libertario|Anarkopunk|Anarcopunks|anarcho-punk;5;31
+funk rock;;5;32
+rock sureño;Southern rock;5;32
+bourrée;Pas de bourrée|Bouree|Borrèia;5;32
+deep house;;5;32
+heavy metal tradicional;metal tradicional|traditional heavy metal;5;32
 intelligent dance music;;5;31
 Arioso;;5;31
+rap alternativo;hip hop alternativo|alternative hip-hop;5;31
+rocksteady;;5;31
+New romantic;;5;31
 rock sinfónico;Symphonic rock;5;31
+Órganum;;5;31
+Hard bop;;5;31
 teen pop;teen rock|teen R&B|teen punk;5;31
+Anarcopunk;Punk libertario|Anarkopunk|Anarcopunks|Anarcho-punk;5;31
+música acústica;acoustic music;5;31
+acid house;acid;5;31
+horror punk;Horror rock;5;31
+música psicodélica;rock sicodélico|música lisérgica|psychedelic music;5;31
+Música carnática;Música karnática|Carnática|Carnatic music;5;31
 Rock industrial;industrial rock;5;31
+Death metal técnico;Technical Death Metal|Death técnico;5;31
+math rock;;5;31
 synthwave;;5;31
 música gitana;música romaní|Romani music;5;31
+adult contemporary;Hot Adult Contemporary|Hot AC|Adult Contemporany|Adult Top 40|adult contemporary music;5;30
+Black Metal Nacional Socialista;National Socialist black metal;5;30
+chiptune;música keygen|música chip|música 8-bit;5;30
+West Coast rap;West Coast hip-hop;5;30
 música surf;surf rock|surf pop|surf music;5;30
 raggamuffin;Raggamufin|Ragga|música raggamuffin;5;30
-Black Metal Nacional Socialista;National Socialist black metal;5;30
-Rock Against Communism;Rock contra el comunismo|RAC;5;30
-Música africana;música de Africa|music of Africa;5;30
-Delta blues;Blues del Delta;5;30
-adult contemporary;Hot Adult Contemporary|Hot AC|Adult Contemporany|adult contemporary music;5;30
-música de la Antigua Grecia;musica griega|music of ancient Greece;5;30
-West Coast rap;West Coast hip-hop;5;30
-Dabke;Debkeh|Debke|Debka;5;30
-tema musical;sintonia musical|canción temática|theme music;5;30
-música electroacústica;electroacoustic music;5;30
-indie folk;;5;30
-Klapa;;5;30
-neofolk;;5;30
-chiptune;música keygen|música chip|música 8-bit;5;30
 Downtempo;;5;30
+neofolk;;5;30
+Rock Against Communism;Rock contra el comunismo|RAC;5;30
+música cristiana;Christian music;5;30
+Delta blues;Blues del Delta;5;30
+música de la Antigua Grecia;musica griega|music of ancient Greece;5;30
+tema musical;sintonia musical|canción temática|theme music;5;30
+indie folk;;5;30
+música electroacústica;electroacoustic music;5;30
+Música africana;música de Africa|music of Africa;5;30
+Dabke;Dabka|Debkeh|Debke|Debka;5;30
+Klapa;;5;30
 Doină;;5;30
 djent;Djent metal;5;30
-música cristiana;Christian music;5;30
 salmo de la Biblia;psalm;5;30
+arena rock;Stadium rock|Anthem rock;5;29
+música académica contemporánea;música contemporánea|música clásica contemporánea|contemporary classical music;5;29
 yoik;joik;5;29
 Ricercare;ricercar;5;29
+electro house;;5;29
 dark ambient;;5;29
 Gallarda;galliard;5;29
-música absoluta;Música pura|absolute music;5;29
-jazz gitano;Jazz manouche|Gypsy jazz;5;29
-arena rock;Stadium rock|Anthem rock;5;29
-Impromptu;;5;29
-música académica contemporánea;música contemporánea|música clásica contemporánea|contemporary classical music;5;29
-Capricho;Capriccio;5;29
-drone metal;drone doom metal|Drone doom;5;29
 Morna;;5;29
 Canción de trabajo;Work song|Canciones de trabajo;5;29
+música absoluta;Música pura|absolute music;5;29
+jazz gitano;Jazz manouche|Gypsy jazz;5;29
+Impromptu;;5;29
+Capricho;Capriccio;5;29
 Música clásica indostaní;Música indostasní|Hindustani classical music;5;29
+drone metal;drone doom metal|Drone doom;5;29
 Kizomba;;5;29
 proto-punk;;5;29
 Cavatina;;5;29
 neo soul;;5;28
+bagatela;bagatelle;5;28
+Bhangra;;5;28
+East Coast rap;East Coast hip hop;5;28
+crunk;;5;28
 música de videojuegos;música para videojuegos|video game music;5;28
 jumpstyle;;5;28
-East Coast rap;East Coast hip hop;5;28
 UK Garage;;5;28
-Bhangra;;5;28
-crunk;;5;28
 eurodisco;;5;28
 música navideña;música de Navidad|Christmas music;5;28
 French house;French groove;5;28
-bagatela;bagatelle;5;28
-Death/doom;Doomdeath metal|Doomdeath;5;28
 black metal sinfónico;Symphonic Black Metal;5;28
-crossover;;5;27
+Death/doom;Doomdeath metal|Doomdeath|Death doom metal;5;28
+música de América Latina;ritmos latinos|ritmo latino|música latinoamericana|matin music|música latina|music of Latin America;5;27
+Pansori;;5;27
+escena de Canterbury;Canterbury scene;5;27
+expresionismo musical;expressionist music;5;27
 jingle;;5;27
+crossover;;5;27
+habanera;Havaneres|Habanera cubana|Habaneras;5;27
+Eurobeat;;5;27
+Crossover thrash;;5;27
+milonga;;5;27
 G-funk;;5;27
 Chicago blues;blues de Chicago;5;27
-habanera;Havaneres|Habanera cubana|Habaneras;5;27
 Tin Pan Alley;;5;27
-Eurobeat;;5;27
-música incidental;música de escena.|incidental music;5;27
-Pansori;;5;27
 saloma;sea shanty;5;27
-Crossover thrash;;5;27
-expresionismo musical;expressionist music;5;27
-sevdalinka;sevdah;5;27
 Kontakion;;5;27
-música académica del siglo XX;música del siglo XX|música clásica del siglo XX|20th-century classical music;5;27
-milonga;;5;27
-música de América Latina;ritmos latinos|ritmo latino|música latinoamericana|music of Latin America;5;27
-escena de Canterbury;Canterbury scene;5;27
+música académica del siglo XX;música del siglo XX|música clásica del siglo XX|clásico contemporáneo|20th-century classical music;5;27
+sevdalinka;sevdah;5;27
+música incidental;música de escena.|incidental music;5;27
 pagan metal;;5;27
 Stotra;;5;27
 mashup;pop bastardo|bastard pop;5;27
-turntablism;turntables;5;26
+europop;;5;26
+country blues;;5;26
+Música de Azerbaiyán;music of Azerbaijan;5;26
+jazz rap;jazz hop|jazz hip-hop;5;26
+mathcore;;5;26
+Escuela francoflamenca;Franco-Flemish School;5;26
+college rock;;5;26
 happy hardcore;happycore|happy rave;5;26
 Smooth jazz;;5;26
 New jack swing;;5;26
 cantopop;;5;26
-dangdut;;5;26
-Escuela francoflamenca;Franco-Flemish School;5;26
 electroclash;;5;26
-mathcore;;5;26
 blue-eyed soul;white soul|soul Blanco;5;26
-Jangle pop;;5;26
-country blues;;5;26
-Música de Azerbaiyán;music of Azerbaijan;5;26
-europop;;5;26
 hip hop hardcore;rap hardcore|hardcore hip-hop;5;26
-jazz rap;jazz hop|jazz hip-hop;5;26
-college rock;;5;26
+turntablism;turntables;5;26
+Jangle pop;;5;26
+dangdut;;5;26
 música de la Antigüedad;música en la Edad Antigua|música en el mundo antiguo|ancient music;5;26
 xöömej;xöömei|Tuvan throat singing;5;26
-gabber;;5;25
-Nueva ola de heavy metal americano;New Wave of American Heavy Metal;5;25
-skate punk;skatecore|skate rock;5;25
-jazz modal;Modal jazz;5;25
+Chastushka;;5;25
 discanto;descant;5;25
+canto difónico;canto de armónicos|overtone singing;5;25
 estándar del jazz;jazz standard;5;25
-horrorcore;;5;25
 Hi-NRG;;5;25
-Deathrock;Gotic Punk|Gothic punk;5;25
-freestyle rap;rap estilo libre|pelea de raperos|combate de gallos;5;25
+Avant-garde jazz;;5;25
+gabber;;5;25
+skate punk;skatecore|skate rock;5;25
 house progresivo;progressive house;5;25
 music hall;;5;25
-Kagura;kagura (danza)|Danza Kagura;5;25
-canto difónico;canto de armónicos|overtone singing;5;25
-folk punk;pancho folk;5;25
-pub rock;;5;25
-Chastushka;;5;25
 Unblack metal;;5;25
-Avant-garde jazz;;5;25
-Shashmaqam;;5;25
+Nueva ola de heavy metal americano;New Wave of American Heavy Metal;5;25
+batalla de rap;battle rap;5;25
+Psychobilly;;5;25
+jazz modal;Modal jazz;5;25
+horrorcore;;5;25
+Hardbass;;5;25
+Kagura;kagura (danza)|Danza Kagura;5;25
+freestyle rap;rap estilo libre|pelea de raperos|combate de gallos|pelea de gallos;5;25
+Deathrock;Gotic Punk|Gothic punk;5;25
+pub rock;;5;25
+folk punk;pancho folk;5;25
+Dance punk;Punk-funk|Disco Punk;5;25
 arte sonoro;sound art;5;25
 Celtic punk;Punk celta;5;25
 shock rock;;5;25
 country pop;urban cowboy|pop country;5;25
-Dance punk;Punk-funk|Disco Punk;5;25
-batalla de rap;battle rap;5;25
-Psychobilly;;5;25
-Hardbass;;5;25
+Shashmaqam;;5;25
 rondeau;;5;25
+Heartland rock;;5;24
+nightcore;nightstep;5;24
+Breakcore;;5;24
+Frottola;;5;24
+Mandopop;;5;24
+Candombe;Candombe (género musical);5;24
+Cántico;Canticum|canticle;5;24
+microtonalismo;microtonal music;5;24
+música popular brasileña;Musica popular del Brasil|Música popular brasilera|Música Popular Brasileira|MPB;5;24
+canto de garganta;throat singing;5;24
+nu jazz;jazztronica|future jazz;5;24
+canción napolitana;canzone napoletana|Canciones napolitanas;5;24
+hardcore melódico;melodic hardcore;5;24
+música galante;Estilo galante|Galante music;5;24
+house tropical;tropical house|trop house|summer house;5;24
+Frevo;;5;24
+rock instrumental;instrumental rock;5;24
+Post punk revival;;5;24
+Garba;;5;24
+el leelo;seto leelo;5;24
+Neue Deutsche Welle;NDW;5;23
+trot;;5;23
+Goa trance;Goa;5;23
+jazz latino;Latin jazz;5;23
+Speedcore;;5;23
+Big beat;;5;23
+old school rap;Old school hip hop;5;23
+música militar;música marcial|military music;5;23
+highlife;;5;23
+soca;soca music;5;23
+C-pop;;5;23
+Fauxbourdon;Fabordón;5;23
+Goregrind;;5;23
+folktrónica;laptop folk;5;23
+moaxaja;moajaxa|Muwashshah;5;23
+música bizantina;canto bizantino|Byzantine music;5;23
+música vanguardista;Música de vanguardia|música avant-garde|avant-garde music;5;23
+Americana;;5;23
+música modernista;Modernismo musical|Modernismo|modernism;5;23
+Forró;;5;22
+Zouk;;5;22
+peán;paean;5;22
+Ashiqs de Azerbaiyán;El arte de los ashiqs de Azerbaiyán|Arte de los ashiqs|Ashiqs of Azerbaijan;5;22
+Blues eléctrico;electric blues;5;22
+Futurepop;;5;22
+Música de Italia;Música italiana|music of Italy;5;22
+Chalga;;5;22
+tropario;troparion;5;22
+Música de Groenlandia;Música groenlandesa|music of Greenland;5;22
+J-Rock;Rock japonés|Japanese rock;5;22
+música de Turquía;Música turca|music of Turkey;5;22
+Clicks and Cuts;Glitch (música)|Glitch (music)|glitch;5;22
+rap emo;hip hop emo|emo rap;5;22
+blackgaze;;5;22
+Death & Roll;Death n roll;5;22
+Rumba cubana;Cuban rumba;5;22
+música de Irlanda;musica irlandesa|music of Ireland;5;22
+tropicalismo;Tropicalista|Tropicalísimo|Movimiento Tropicalista|Tropicalia;5;22
+jazz-funk;Free funk;5;22
+Nintendocore;Nescore;5;22
+Isopolifonía albanesa;Albanian iso-polyphony;5;22
+pop rap;rap pop|rap melódico|hip hop pop|hip hop melódico;5;22
+Chillwave;glo-fi;5;22
+Gidda;giddha;5;22
+drinking song;;5;22
+Ars subtilior;;5;21
+rock latino;Latin rock;5;21
+Anatolian rock;;5;21
+Conductus;Conducti;5;21
+rock neoprogresivo;neo-prog|neo progresivo;5;21
+chamamé;;5;21
+post-bop;;5;21
+canción cosaca;cantos cosacos|canto cosaco|canciones cosacas|Cossack song;5;21
+Sinfonía concertante;Música concertante;5;21
+Disco polo;;5;21
+post-disco;;5;21
+Mbalax;;5;21
+Marcha fúnebre;Trauermarsch|marcia funebre|marche funèbre|funeral march;5;21
+Kechak;Ketjak|Ketjack|Kecak;5;21
+soukous;Soukouss;5;21
+música de los Estados Unidos;musica estadounidense|music of the United States;5;21
+maloya;;5;21
+vocalise;;5;21
+kujawiak;;5;21
+Cantos y bailes folclóricos de los kalbelias del Rajastán;Kalbelia;5;21
+Detroit techno;;5;20
+Zéjel;záyal|El zajal, poesía recitada o cantada|zajal;5;20
+country alternativo;country alternativa|alt-country|alternative country;5;20
+Neopsicodelia;neo-psychedelia;5;20
+anison;música en el anime|anime song;5;20
+stride piano;;5;20
+Manele;;5;20
+Piyyut;;5;20
+2 Tone;;5;20
+música brasileña;música de Brasil|music of Brazil;5;20
+Cakewalk;Danza cakewalk|Cakewalk (música y baile)|Cakewalk (danza)|Cakewalk (Baile)|Cakewalk (baile y música)|Baile Cakewalk;5;20
+Llamada y respuesta;Llamada y respuesta (musica)|Call and response;5;20
+Chicago house;;5;20
+choro;regionais|chorões|Choro (musica)|Chorinho;5;20
+kawaii metal;idol metal|cute metal;5;20
+Selijot;Selichot;5;20
+música de fondo;background music;5;20
+música afroestadounidense;Música afroamericana|Canciones de música afroestadounidense|Canciones de música afroamericana|Black Music|Aspectos de la música afroestadounidense|Aspectos de la música afroamericana|African-American music;5;20
+nueva canción;Canto Nuevo;5;20
+D-beat;;5;20
+Minimal techno;Minimal tecno;5;20
+Yé-yé;;5;20
+Western swing;;5;20
+ballata;;5;20
+alternative dance;underground dance|indie dance|alt-dance;5;20
+Duma;;5;20
+post-britpop;;5;20
+música de Ucrania;music of Ukraine;5;20
+La ópera tibetana;lhamo;5;20
+personal anthem;;5;20
+daina;;5;20
+música de Grecia;music of Greece;5;20
+El Nha Nhac, música de la corte vietnamita;nhã nhạc;5;20
+metalcore melódico;melodic metalcore;5;20
+Acid folk;Psyfolk|Psych Folk|Folk psicodélico|psychedelic folk;5;20
+Jump blues;;5;20
+art punk;;5;19
+verbunkos;;5;19
+hip house;rap house|house rap;5;19
+Electro swing;;5;19
+responsorio;Responsorium|responsory;5;19
+Sophisti-pop;;5;19
+Siciliana;;5;19
+hard trance;;5;19
+Canzona;Canzonas (música instrumental);5;19
+kwaito;;5;19
+Quodlibet;;5;19
+Mento;;5;19
+future bass;;5;19
+mumble rap;;5;19
+Texas blues;;5;19
+humoresca;humoresque|humoreske;5;19
+lounge;lounge music;5;19
+Música de Egipto;music of Egypt;5;19
+Raga rock;;5;19
+Sonido Nashville;Nashville sound;5;19
+mumbatón;moombahton;5;19
+witch house;drag;5;19
+elecronicore;Hardcore electrónico|electronicore;5;19
+Villanella;Villanelle;5;19
+Dance rock;;5;19
+garage punk;;5;19
+Noise pop;;5;19
+glam punk;;5;19
+música cristiana contemporánea;contemporary Christian music;5;19
+lam;mǭlam|mor lam;5;19
+laïko;;5;19
+música infantil;children's music;5;19
+música de Alemania;music of Germany;5;19
+música tradicional irlandesa;música folk irlandesa|música folclórica irlandesa|Irish folk music;5;19
+drone;drone music;5;18
+album oriented rock;Album-oriented radio|AOR;5;18
+música de Corea;music of Korea;5;18
+chacarera;pan;5;18
+alborada;aubade;5;18
+música del Reino Unido;music of the United Kingdom;5;18
+Barbershop;barbershop music;5;18
+pulsos binaurales;binaural beats;5;18
+Rhythm and blues alternativo;R-Neg-B|PBR&B|indie R&B|hipster R&B|Emo R&B|alternative R&B;5;18
+Garage House;;5;18
+Italo dance;;5;18
+queercore;;5;18
+Neurofunk;;5;18
+Tumba francesa;;5;18
+Kuduro;;5;18
+música pop tradicional;traditional pop;5;18
+música en esperanto;Esperanto music;5;18
+Cabaletta;;5;18
+pop psicodélico;psychedelic pop;5;18
+Electro-Industrial;;5;18
+Canto ambrosiano;Ambrosian chant;5;18
+axé;;5;18
+Música de los países islámicos;Islamic music;5;18
+música persa;music of Iran;5;18
+Música judía;Música hebrea|Jewish music;5;18
+Segá;Jazz Segá;5;18
+Roots Rock;;5;18
+Blues de doce compases;Twelve bar blues;5;18
+Tintinnabuli;;5;18
+Rock celta;Celtic rock;5;18
+Gypsy punk;;5;18
+Música mizrají;Música Mizrahi|Mizrahi music;5;18
+gwo ka;;5;18
+kroncong;;5;18
+música de Austria;music of Austria;5;18
+Abhang;;5;18
+lavani;;5;18
+runosång;runo song;5;18
+pantomima;pantomime;5;18
+Música de Cuba;Ritmos afrocubanos|Música cubana|Música afrocubana|music of Cuba;5;18
+Sonido Filadelfia;Sonido Philadelphia|Philly soul|Philadelphia soul;5;18
+Música de Afganistán;music of Afghanistan;5;17
+Bambuco;;5;17
+Third stream;;5;17
+anti-folk;;5;17
+Pornogrind;;5;17
+Aria da capo;Aria col da capo|da capo aria;5;17
+tech house;;5;17
+zydeco;;5;17
+música en la Prehistoria;instrumento musical prehistórico|instrumento musical de la Prehistoria|instrumento musical antiguo|prehistoric music;5;17
+Wave etéreo;ethereal wave;5;17
+jukebox musical;musical de tocadiscos|musical de rockola|musical de gramola;5;17
+indietrónica;Lap-pop;5;17
+Nu-disco;;5;17
+deathgrind;;5;17
+Blues británico;British blues;5;17
+humppa;;5;17
+Piedmont blues;;5;17
+Moutya;montea;5;17
+Música de Kazajistán;Música de Kazajstán|music of Kazakhstan;5;17
+cloud rap;;5;17
+Shibuya-kei;;5;17
+Southern rap;southern hip hop;5;17
+roots reggae;;5;17
+Danzón;Danzón cubano;5;17
+funk carioca;Baile funk;5;17
+Música sertaneja;Sertanejo|Sertaneja;5;17
+Seguidilla (música);seguidilla;5;17
+liquid drum and bass;liquid funk|liquid drum n bass;5;17
+Movimiento del black metal noruego;Inner Circle|Black metal noruego|Black metal escandinavo|Early Norwegian black metal scene;5;17
+Blackened death metal;;5;17
+Rock ruso;Russian rock;5;17
+música de la Antigua Roma;music of ancient Rome;5;17
+Thumri;;5;17
+Canzonetas;canzonetta;5;17
+Martial industrial;;5;17
+música underground;underground music;5;17
+música sinfónica;symphonic music;5;17
+club/música de baile;club/dance music;5;17
+koliadka;;5;17
+arte pop (música);art pop;5;17
+Dhrupad;;5;17
+boom bap;;5;16
+improvisación libre;free improvisation;5;16
+synthpunk;;5;16
+cueca;;5;16
+Jazz tradicional;Two Beat jazz|Nueva Orleans Jazz|Jazz de Nueva Orleans|Hot jazz|Hot|trad jazz;5;16
+Música de Noruega;music of Norway;5;16
+obertura francesa;French overture;5;16
+funky house;;5;16
+Outlaw country;;5;16
+hip hop underground;indie hip hop|underground hip-hop;5;16
+música de Albania;music of Albania;5;16
+joropo;;5;16
+escocesa;Écossaise|Eccosaise;5;16
+epinicio;epinikion;5;16
+cantilena;;5;16
+dream trance;;5;16
+street punk;;5;16
+Luk thung;;5;16
+rock cómico;comedy rock;5;16
+Taraab;taarab;5;16
+Urtyn duu;Urtiin duu|Canto largo|Long song;5;16
+New beat;;5;16
+Thrashcore;Trashcore|Thrashcore punk|Heavy metal hardcore;5;16
+música gnawa;Gnawa music;5;16
+Kolomeika;Kolomyjka;5;16
+digital hardcore;;5;16
+Brutal death metal;Brutal Metal|Brutal death;5;16
+Boogie rock;;5;16
+cantiga;Cantigas;5;16
+Ambient house;;5;16
+Bay Area thrash metal;Bay Area thrash;5;16
+Muqam;;5;16
+música de Armenia;music of Armenia;5;16
+música de Polonia;music of Poland;5;16
+arabesque;;5;16
+Gagok, ciclos de canto lírico con acompañamiento de orquesta;gagok;5;16
+La práctica del canto y la música bećarac de Croacia oriental;bećarac;5;16
+chanson rusa;Russian chanson;5;16
+mbaqanga;;5;16
+Taqwacore;;5;16
+salon music;;5;16
+tango argentino;Argentine tango;5;16
+Khyal;;5;16
+Reel;;5;15
+Twee pop;;5;15
+Maxixe;;5;15
+Pirekua;;5;15
+Pungmul;;5;15
+Dirty rap;sexo rap|rap porno;5;15
+corrido;;5;15
+Música húngara;music of Hungary;5;15
+rap político;hip hop político|political hip-hop;5;15
+uplifting trance;;5;15
+big room house;;5;15
+morisca;moresca;5;15
+Yukar;;5;15
+música de Indonesia;music of Indonesia;5;15
+Q-pop;Qazaq pop;5;15
+techstep;;5;15
+Estampie;;5;15
+future house;;5;15
+Muzak;elevator music;5;15
+misa parodia;misa de imitación|parody mass;5;15
+hard house;;5;15
+Breakbeat hardcore;;5;15
+jazz soul;Funky jazz|soul jazz;5;15
+Jùjú;Jùjú music;5;15
+quinteto para piano;quinteto con piano|piano quintet;5;15
+Rock in Opposition;;5;15
+Powerviolence;;5;15
+poesía fonética;poesía sonora|sound poetry;5;15
+Northern soul;;5;15
+New rave;Nu rave;5;15
+Sinfonía coral;Sinfónico-coral|Género sinfónico-coral|choral symphony;5;15
+Hip hop soul;Rap soul;5;15
+cowpunk;;5;15
+cántico de fútbol;coro futbolístico|canto futbolístico|football chant;5;15
+música de Rusia;musica rusa|music of Russia;5;15
+Meyjaná;meykhana|meijaná;5;15
+punk blues;;5;15
+Power electronics;;5;15
+música occidental;Western music;5;15
+Konpa;compas|Konpa direk;5;15
+Soul psicodélico;psychedelic soul;5;15
+Čoček;;5;15
+Balearic beat;Balearic house;5;15
+El nanyin;Lâm-kuán|Lâm-im|nanguan;5;15
+música de Bulgaria;music of Bulgaria;5;15
+sentimental ballad;;5;15
+música cristiana contemporania;culto cristiano|contemporary worship music;5;15
+New Orleans jazz;;5;15
+El conjunto de instrumentos musicales de viento y percusión de Xi’an;Xi'an guyue;5;15
+Hamd;;5;15
+El arte tradicional kazajo del dombra kuy;Kui;5;15
+Qaytarma;;5;15
+depressive black metal;;5;15
+música clásica otomana;música clásica turca|Ottoman classical music;5;15
+West Coast jazz;;5;15
+kulning;;5;14
+freestyle;freestyle music;5;14
+música texana;texano music|tejano music|música tejana;5;14
+Samulnori;;5;14
+marinera;;5;14
+treno;threnody;5;14
+hip-hop cómico;rap cómico|rap de comedia|hip hop de comedia|comedy hip-hop;5;14
+música andina;Andean music;5;14
+Schranz;;5;14
+Bergamasca;bergamask;5;14
+La rumba congoleña;Congolese rumba;5;14
+acid techno;;5;14
+Zeuhl;;5;14
+cello rock;cello metal;5;14
+Euro-Trance;;5;14
+boogaloo;bugalú;5;14
+pasillo;Pasillo (música);5;14
+música española;música de España|music of Spain;5;14
+Old time music;;5;14
+Vocal Trance;;5;14
+Soviet wave;;5;14
+pachanga;;5;14
+Miami bass;;5;14
+canción novedad;novelty music;5;14
+Dark cabaret;Cabaret oscuro;5;14
+dark metal;;5;14
+darkstep;;5;14
+Cante alentejano;;5;14
+Frenchcore;;5;14
+Música tibetana;Música del Tíbet|music of Tibet;5;14
+batucada;;5;14
+Punk cristiano;Christian punk;5;14
+huayno;huaynos|huaino|guayno|guaino;5;14
+pop operístico;ópera pop|operatic pop;5;14
+Coldwave;Coldwave francesa;5;14
+Música Posmoderna;postmodern music;5;14
+country rap;;5;14
+música profana;música secular|secular music;5;14
+Canto llano;plainsong;5;14
+Lectura de la Torá;Torah reading;5;14
+Schrammelmusik;;5;14
+El Canto a tenore, un canto pastoral sardo;cantu a tenore;5;14
+música de Rumania;music of Romania;5;14
+himno cristiano;himno religioso|Christian hymn;5;14
+Cajun music;;5;14
+jōruri;;5;14
+cassation;;5;14
+música de Georgia;music of Georgia;5;14
+pizzica;;5;14
+Celtic metal;;5;14
+Swedish death metal;;5;14
+pop metal;;5;14
+Música del Gran Oriente Medio;Música de Oriente Próximo|music of the Middle East;5;14
+Edad de oro del hip hop;Edad dorada del hip hop|golden age hip-hop;5;14
+zamba;Zambas;5;14
+música acusmática;acousmatic music;5;13
+Lauda;;5;13
+Nueva Escuela Alemana;Neudeutsche Schule|New German School;5;13
+Narcocorrido;;5;13
+handsup;hands up music;5;13
+música andalusí;Nuba andalusí|Música arábigo-andaluza|Andalusi classical music;5;13
+bertsolarismo;movimiento bertsolarístico|versolarismo|bertsoak|bertsolaritza;5;13
+Punta;;5;13
+rock de Argentina;Rock nacional de Argentina|Rock nacional argentino|Rock argento|Rock argentino|Rock and roll de Argentina|Argentine rock;5;13
+Guajira;;5;13
+Tribal house;;5;13
+Tonadilla;Tonadillera|Tonadillas;5;13
+Ambasse bey;;5;13
+Música de mobiliario;furniture music;5;13
+boogie;;5;13
+música coral;música de coro|canto coral|choral music;5;13
+Gebrauchsmusik;;5;13
+Espectralismo;École spectrale|spectral music;5;13
+Yacht rock;;5;13
+blues clásico femenino;classic female blues;5;13
+Bardcore;;5;13
+Swamp Rock;;5;13
+Música filk;filk;5;13
+Kayōkyoku;;5;13
+pastoral;;5;13
+Slowcore;;5;13
+guaracha;;5;13
+reggae fusion;;5;13
+Heavy metal en español;Metal en Español|Heavy metal en castellano|Latin metal;5;13
+guitarra de jazz;jazz guitar;5;13
+2 step;2-step garage;5;13
+makossa;;5;13
+worldbeat;;5;13
+hip hop cristiano;Christian hip-hop;5;13
+Tech trance;;5;13
+crunkcore;scrunk|screamo-crunk|crunkore|crunk punk;5;13
+Sunshine pop;;5;13
+guarania;;5;13
+música tropical;tropical music;5;13
+Bugarštica;;5;13
+Pop progresivo;progressive pop;5;13
+Punto cubano;punto guajiro;5;13
+parodia musical;parodia|parody music;5;13
+tappa;;5;13
+music of Bhutan;;5;13
+Música pop árabe;Arabic pop;5;13
+música de Francia;music of France;5;13
+aak;;5;13
+bitpop;;5;13
+Chinese rock;;5;13
+jug band;;5;13
+aggrotech;;5;13
+música de Vietnam;music of Vietnam;5;13
+drill and bass;;5;13
+Ahidus;;5;13
+wizard rock;;5;13
+Dondang Sayang;;5;13
+La tradición del canto védico;Vedic chant;5;13
+Ghettotech;Ghettotec|GetoTek;5;13
+Gothabilly;;5;13
+música de la Unión Soviética;music of the Soviet Union;5;12
+Memphis blues;;5;12
+Louisiana blues;;5;12
+Escuela de Berlín de música electrónica;Escuela de Berlín|Berlin School of electronic music;5;12
+swamp blues;;5;12
+Schuhplattler;;5;12
+psybient;;5;12
+Bongo Flava;;5;12
+Sean-nós;sean-nós singing;5;12
+Nueva Trova Cubana;Nueva Trova|Movimiento de la Nueva Trova;5;12
+música de Argentina;Jazz en Argentina|music of Argentina;5;12
+Beatdown Hardcore;;5;12
+Memphis rap;rap de Memphis|hip hop de Memphis;5;12
+Bikutsi;;5;12
+jazz rock;;5;12
+Estilo sentimental;empfindsamkeit;5;12
+música de Escocia;music of Scotland;5;12
+Pieza de carácter;character piece;5;12
+Música tradicional persa;Persian traditional music;5;12
+Perpetuum mobile;;5;12
+comedia-ballet;Comédie-ballet;5;12
+Terrorcore;;5;12
+Carol;;5;12
+Black MIDI;;5;12
+Dumka;;5;12
+aire;Aire (musica)|air;5;12
+Furiant;;5;12
+murga;;5;12
+Illbient;;5;12
+Manguebeat;manguebit;5;12
+New Weird America;Freak Folk;5;12
+Nigun jasídico;nigun;5;12
+piano rock;;5;12
+power ballad;balada poderosa|lento;5;12
+Estilo policoral veneciano;Venetian polychoral style;5;12
+versos fescenninos;Fescenninos|Fescennini versus|Fescennina carmina|Fescennine Verses;5;12
+Geek rock;;5;12
+Soul blues;;5;12
+Rock británico;Rock inglés|Rock de Inglaterra|Rock and Roll británico|British rock;5;12
+Italo house;;5;12
+Metal pirata;pirate metal;5;12
+Quiet storm;;5;12
+Baião (música);Baión|baião;5;12
+Canto mozárabe;Canto hispánico|Mozarabic chant;5;12
+nuevo flamenco;new flamenco;5;12
+El canto ca trù;ca trù;5;12
+música de Chipre;music of Cyprus;5;12
+Colindat: ronda navideña de grupos de hombres jóvenes;colindă;5;12
+nazi punk;;5;12
+balada;Balada (musica)|Ballade;5;12
+exotica;;5;12
+Znamenny chant;;5;12
+marcha nupcial;wedding march;5;12
+música de Finlandia;music of Finland;5;12
+nuevo tango;tango nuevo|neotango;5;12
+microhouse;;5;12
+postlude;;5;12
+música de Dinamarca;music of Denmark;5;12
+punk jazz;jazz punk;5;12
+música de la República Checa;music of the Czech Republic;5;12
+Jaipongan;;5;12
+kuda kepang;;5;12
+música de Uzbekistán;music of Uzbekistan;5;12
+Rabindra Sangeet;;5;12
+El canto ojkanje;ojkanje;5;12
+falak;;5;12
+Noha;;5;12
+dungeon synth;;5;12
+Pop ruso;Russian pop;5;11
+música en el Antiguo Egipto;music of ancient Egypt;5;11
+Neoswing;swing revival;5;11
+ensalada;;5;11
+acid trance;;5;11
+Ska jazz;;5;11
+nova cançó;;5;11
+speed garage;;5;11
+Música budista;Buddhist music;5;11
+Música ainu;Ainu folk music;5;11
+Cláusula;Clausula (musica);5;11
+Canción artística de concierto;art song;5;11
+Música LGBT;LGBT music;5;11
+Rock wagneriano;Wagnerian rock;5;11
+Bassline;Bassline house;5;11
+Jersey club;;5;11
+música colombiana;música de Colombia|music of Colombia;5;11
+saeta;;5;11
+Música popular africana;Afropop|African popular music;5;11
+Sadcore;;5;11
+cantiga de amigo;;5;11
+Música dōjin;Dōjin music;5;11
+Yu-Mex;;5;11
+Denpa;Akiba-pop|denpa song;5;11
+Yayue;;5;11
+Tombeau;;5;11
+Tuna;Tuno;5;11
+Midwest emo;;5;11
+Pinoy pop;;5;11
+Chicano rap;rap chicano;5;11
+música western;;5;11
+space age pop;;5;11
+Paisley Underground;;5;11
+Semba;;5;11
+Morenada;;5;11
+Música rebelde irlandesa;Irish rebel song;5;11
+Isicathamiya;;5;11
+Maracatu;;5;11
+Nerdcore Hip Hop;Nerdcore;5;11
+Música kurda;Kurdish music;5;11
+lovers rock;;5;11
+Jump-Up;;5;11
+trance progresivo;progressive trance;5;11
+Chopped and screwed;;5;11
+música de Marruecos;music of Morocco;5;11
+música outsider;outsider music;5;11
+space disco;;5;11
+Música de Islandia;Música islandesa|music of Iceland;5;11
+funeral doom;funeral doom metal;5;11
+Keening;;5;11
+Zamrock;;5;11
+lowercase;;5;11
+música de Suecia;music of Sweden;5;11
+música post-industrial;musica posindustrial|post-industrial music;5;11
+chutney music;;5;11
+música de Croacia;music of Croatia;5;11
+Southern soul;;5;11
+türkü;;5;11
+space music;;5;11
+música de Serbia;music of Serbia;5;11
+Armenian chant;;5;11
+música de los Balcanes;música balcánica|music of the Balkans;5;11
+stasimon;;5;11
+música de Lituania;music of Lithuania;5;11
+jhumar;;5;11
+Jazz en Polonia;Polish jazz;5;11
+agbadza;;5;11
+Ukrainian folk music;;5;11
+New Orleans blues;;5;10
+Detroit blues;;5;10
+hip hop francés;Rap francés|French hip-hop;5;10
+Rap conciencia;Hip Hop Conciencia|conscious hip-hop;5;10
+West Coast blues;;5;10
+melólogo;melologue;5;10
+Música de Cabo Verde;music of Cape Verde;5;10
+Tiento;;5;10
+Oshare Kei;;5;10
+Sonido Bakersfield;Bakersfield sound;5;10
+Seapunk;;5;10
+Tinku;Thinku;5;10
+punk metal;;5;10
+Neoclassical darkwave;;5;10
+Música de Corea del Sur;music of South Korea;5;10
+Plunderphonics;;5;10
+reggae rock;;5;10
+Darkcore;;5;10
+Coronation Anthems;Zadok the Priest|coronation anthem;5;10
+torch song;;5;10
+Zapateado;;5;10
+Lento violento;;5;10
+Chamber pop;;5;10
+Reggada;;5;10
+Passamezzo;;5;10
+Volkslied;Canción popular tradicional alemana;5;10
+Pop orquestal;orchestral pop;5;10
+Acclamatio;;5;10
+Ahellil;;5;10
+Hip hop lofi;rap lofi|lofi hip-hop;5;10
+música de Israel;music of Israel;5;10
+Tango de Finlandia;Tango finlandés|Tango finés|Finnish tango;5;10
+M-Base;;5;10
+Tecnobrega;;5;10
+bagad;;5;10
+modinha;;5;10
+música alternativa;alternative music;5;10
+mainstream jazz;;5;10
+Shōmyō;;5;10
+Marrabenta;;5;10
+St. Louis blues;;5;10
+Hardcore cristiano;Christian hardcore;5;10
+Mod revival;;5;10
+Dark psytrance;;5;10
+Brega;Música brega;5;10
+Hardstep;;5;10
+Música de Kirguistán;Música de Kirguizistán|Música de Kirguisia|music of Kyrgyzstan;5;10
+Música de México;music of Mexico;5;10
+música de Nigeria;Música nigeriana|music of Nigeria;5;10
+Katajjaq;canto de garganta inuit|Inuit throat singing;5;10
+chaabi argelino;Algerian chaabi;5;10
+Snap (música);snap music;5;10
+house latino;música house latina|Latin house;5;10
+Nagauta;;5;10
+Música de Asia;music of Asia;5;10
+Austropop;;5;10
+skweee;;5;10
+Los sutartinės, cantos lituanos a varias voces;sutartinė;5;10
+carimbó;;5;10
+Dadra;;5;10
+kwela;;5;10
+Polska;;5;10
+organ symphony;;5;10
+murder ballad;;5;10
+ikos;;5;10
+Azerbaijani jazz;;5;10
+cante jondo;cante grande|cante gitano|cante hondo;5;10
+Ukrainian rock;;5;10
+misa votiva;votive mass;5;10
+música de Siria;music of Syria;5;10
+go-go;;5;10
+marabi;;5;10
+zemirot;;5;10
+Rock finlandés;Finnish rock;5;10
+música de Estonia;music of Estonia;5;10
+Malhun;;5;10
+Boeremusiek;;5;10
+música del Libano;music of Lebanon;5;10
+Hiragasy;;5;10
+music of Kosovo;;5;10
+Vesnianka;vesnianky;5;10
+Kafi;;5;10
+Kajari;;5;10
+Iranian pop;;5;10
+música progresiva;progressive music;5;10
+música para mujeres;música lesbica|música de mujeres|women's music;5;10
+Avant-pop;;5;10
+Sufi rock;;5;10
+sinfonietta;;5;10
+Neue Musik;;5;10
+classical crossover;;5;10
+música folclórica de Estados Unidos;música con raíces americanas|American folk music;5;10
+J-core;;5;10
+Goigs;Gosos;5;10
+jazz afrocubano;Cubop|Afro Cuban Jazz;5;10
+janissary music;;5;10
+rage rap;rage (música)|música rage|rage;5;10
+Coupé-Décalé;;5;9
+Air de cour;;5;9
+P-Funk;;5;9
+Changgeuk;;5;9
+kaseko;;5;9
+Apala;;5;9
+Folk rock medieval;medieval folk rock;5;9
+Electro hop;;5;9
+Balkan brass;;5;9
+Son montuno;;5;9
+Abendmusik;Abendmusiken;5;9
+Nueva Complejidad;New Complexity;5;9
+música de Ruanda;music of Rwanda;5;9
+Footwork (música);footwork;5;9
+palm-wine;maringa|palm-wine music;5;9
+Hip hop iraní;Iranian hip hop;5;9
+Música de Zimbabue;music of Zimbabwe;5;9
+Canto beneventano;Beneventan chant;5;9
+Música de Corea del Norte;music of North Korea;5;9
+música de Mesopotamia;música babilónica|music of Mesopotamia;5;9
+Grito de campo;Gritos de campo|Hollers|Holler|field holler;5;9
+música rave;rave music|rave;5;9
+Daechwita;;5;9
+Vispop;;5;9
+Shidaiqu;;5;9
+música Wassoulou;música wasulu|Wassoulou music;5;9
+música de Madagascar;música malgache|music of Madagascar;5;9
+poesía dub;dub poetry;5;9
+Tallava;;5;9
+Pop hipnagógico;hypnagogic pop;5;9
+biker metal;Biker rock;5;9
+glee;;5;9
+pop francés;French pop;5;9
+Hip hop japonés;rap japonés|Japanese hip-hop;5;9
+Jazz blues;;5;9
+Salsa (estilo cubano);Salsa estilo cubano clásico|salsa cubano|Cuban salsa;5;9
+lostwave;;5;9
+Vocalese;;5;9
+Dubtronica;Techno dub|Dub techno;5;9
+Etno electrónica;ethnic electronica;5;9
+Part song;;5;9
+ragga jungle;;5;9
+Guaguancó;;5;9
+Escena de Palm Desert;Palm Desert Scene;5;9
+Música bereber;Música Tuareg|Berber music;5;9
+Música de Palestina;music of Palestine;5;9
+Banda sinaloense;banda music;5;9
+ballet de acción;ballet d'action;5;9
+Nubah andalusí;Andalusi nubah;5;9
+Thrash metal alemán;Teutonic thrash metal;5;9
+Diva house;handbag house|handbag;5;9
+música del Perú;musica peruana|music of Peru;5;9
+huapango;;5;9
+Kansas City jazz;;5;9
+arietta;;5;9
+hip hop italiano;rap italiano|Italian hip-hop;5;9
+caccia;;5;9
+dengbêjî;;5;9
+Swang;;5;9
+hatecore;;5;9
+viking rock;;5;9
+live electronic music;;5;9
+power noise;;5;9
+mainstream hardcore;;5;9
+grebo;;5;9
+drumfunk;;5;9
+oriental metal;;5;9
+Coptic music;;5;9
+batuque;;5;9
+coladeira;;5;9
+black metal melódico;meloblack metal|darkcore metal|melodic black metal;5;9
+Salegy;;5;9
+kan ha diskan;;5;9
+música de Australia;música australiana|music of Australia;5;9
+group sounds;;5;9
+madrigal comedy;;5;9
+música de Bosnia y Herzegovina;music of Bosnia and Herzegovina;5;9
+música de Macedonia del Norte;music of North Macedonia;5;9
+bhawaiya;;5;9
+rabiz;;5;9
+indian pop;;5;9
+pregón;street cry;5;9
+canción de bardo;bard song;5;9
+Azonto;;5;9
+ballet;;5;9
+bandish;;5;9
+música cómica;comedy music;5;9
+V-Pop;;5;9
+munajat;;5;9
+música para misa de requiem;Requiem|music for the Requiem Mass;5;9
+música de Malaui;music of Malawi;5;9
+Pakistani folk music;;5;9
+Sacred Harp;;5;9
+música escénica;theatre music;5;9
+Kabarett;;5;9
+Kpanlogo;;5;9
+experimental pop;;5;9
+Poesía cantada;sung poetry;5;9
+German rock;;5;9
+Folk progresivo;progressive folk;5;8
+cuarteto;cuarteto cordobés;5;8
+música de Jamaica;music of Jamaica;5;8
+Hip hop británico;rap británico|UK rap;5;8
+slow jam;;5;8
+Arabesco (música clásica);;5;8
+Seggae;;5;8
+emo pop;pop-emo|emo pop-punk;5;8
+rock catalán;Catalan rock;5;8
+Rōkyoku;;5;8
+fidjeri;Fjiri|fijiri;5;8
+Konnakol;;5;8
+Eclecticismo musical;Música ecléctica|eclecticism in music;5;8
+Nu gaze;Newgaze;5;8
+Música folklórica de Azerbaiyán;Azerbaijani folk music;5;8
+K-rock;Korean rock;5;8
+Música de Bollywood;Filmi|Bollywood film music;5;8
+música bounce;bounce music;5;8
+Rock alternativo cristiano;Christian alternative rock;5;8
+hard dance;;5;8
+Changüí;;5;8
+Música yoruba;Yoruba music;5;8
+música de Hawái;music of Hawaii;5;8
+Stornello;;5;8
+Maqam iraquí;Iraqi maqam;5;8
+Congada;;5;8
+Jazz de Japón;Japanese jazz;5;8
+Industrial Hardcore;;5;8
+Dutch house;dirty Dutch house;5;8
+Canto budista;cántico budista|Buddhist chant;5;8
+Gqom;;5;8
+Harsh noise wall;;5;8
+trap latino;Latin trap;5;8
+pop alternativo;alternative pop|alt-pop;5;8
+Jeongak;;5;8
+Cumbia villera;;5;8
+Carnavalito;Carnavalitos|Carnaval;5;8
+Concierto para orquesta;concerto for orchestra;5;8
+Gamelán gong kebyar;;5;8
+Jácara;Jácaras;5;8
+Breakbeat nu skool;nu skool breaks;5;8
+Songo;songo music;5;8
+brostep;;5;8
+música de Uruguay;Música uruguaya|music of Uruguay;5;8
+música folclórica de Turquía;Música folklórica de Turquía|Turkish folk music;5;8
+New prog;Post-progresivo|Nü prog;5;8
+Bubblegum dance;;5;8
+timbila;chopi timbila;5;8
+hip hop español;Rap español|rap de España|Hip hop en españa|Spanish hip-hop;5;8
+piano blues;;5;8
+Freakbeat;;5;8
+rock brasileño;rock nacional|Rock del Brasil|Rock brasilero|BRock|Brazilian rock;5;8
+Sambass;;5;8
+Kapa haka;;5;8
+zortziko;;5;8
+Redova;redowa;5;8
+Ghetto house;Booty house;5;8
+Música del Trecento;music of the Trecento;5;8
+Hokkien pop;;5;8
+Hip hop africano;rap africano|African hip-hop;5;8
+Hip hop alemán;rap alemán|German hip-hop;5;8
+samba reggae;;5;8
+show tune;;5;8
+yass;;5;8
+komagaku;;5;8
+Korean court music;;5;8
+sanjo;;5;8
+Ganga;;5;8
+Samba rock;;5;8
+música de Tailandia;music of Thailand;5;8
+villotta;;5;8
+trallpunk;;5;8
+Neue Deutsche Todeskunst;;5;8
+Guggenmusik;;5;8
+música de Yugoslavia;music of Yugoslavia;5;8
+Alla turca;Turkish music style;5;8
+Sufi music;;5;8
+Progg;;5;8
+production music;;5;8
+Merseybeat;;5;8
+straight-ahead jazz;;5;8
+UK hardcore;;5;8
+música de Eslovaquia;music of Slovakia;5;8
+Iavnana;;5;8
+Japanoise;;5;8
+suomisaundi;;5;8
+youth crew;;5;8
+música de Bélgica;music of Belgium;5;8
+Nederbeat;;5;8
+peşrev;;5;8
+mawwal;;5;8
+música de Etiopía;music of Ethiopia;5;8
+funaná;;5;8
+campursari;;5;8
+Música de Eslovenia;music of Slovenia;5;8
+música de Tayikistán;music of Tajikistan;5;8
+tsugaru-jamisen;;5;8
+Kirana gharana;;5;8
+hip hop ruso;rap ruso|Russian hip-hop;5;8
+orchestral jazz;;5;8
+Russian romance;;5;8
+21st-century classical music;;5;8
+Burra katha;;5;8
+Chaiti;;5;8
+chimurenga music;;5;8
+cock rock;;5;8
+folk jazz;;5;8
+gombhira;;5;8
+Maddahi;;5;8
+jazz poetry;;5;8
+Nordic folk music;;5;8
+Madih nabawi;Madīḥ|Madḥ;5;8
+traditional Japanese music;;5;8
+Punjabi folk music;;5;8
+ambient techno;;5;8
+red and anarchist black metal;;5;8
+Nazrul Geeti;;5;8
+medieval metal;;5;8
+Dasakathia;;5;8
+Deuda song;;5;8
+Chicano rock;;5;8
+Crimean Tatar music;;5;8
+comedia musical;musical comedy;5;8
+Glitch hop;;5;8
+Swamp pop;;5;8
+plugg;plug|música plugg|plugg music;5;8
+Jongo;;5;7
+LGBT en el hip hop;Representaciones LGBT en la música hip hop|Homosexualidad en el hip hop;5;7
+Khaiji;Khaliji;5;7
+poesia trovadoresca;troubadoric poetry;5;7
+Trip rock;;5;7
+Dunedin sound;;5;7
+xote;;5;7
+Fuji;fuji music;5;7
+Future garage;;5;7
+Grupero;Música Grupera|Movimiento grupero|Grupera|Género Grupero;5;7
+Payada;Día del Payador|Payas|Paya;5;7
+música de Mauritania;music of Mauritania;5;7
+Música de Guinea Ecuatorial;Música ecuatoguineana|music of Equatorial Guinea;5;7
+Rock iraní;Iranian rock;5;7
+rock andaluz;flamenco rock;5;7
+música surrealista;surrealismo musical|surrealist music;5;7
+Aguinaldo;;5;7
+Mbube;;5;7
+Música de Canadá;Música canadiense|music of Canada;5;7
+Min'yo;;5;7
+música bretona;music of Brittany;5;7
+música criolla;Música de la Costa peruana|Musica criolla y afroperuana|Música criolla peruana|Musica afroperuana|Canción criolla;5;7
+Champeta;;5;7
+Jazzstep;jazzy jungle|jazz and bass;5;7
+UK funky;;5;7
+alterlatino;Latin alternative;5;7
+Mugam sinfónico;symphonic mugham;5;7
+Balearic trance;trance baleárico;5;7
+singjay;;5;7
+skinhead reggae;early reggae;5;7
+nu metalcore;nu-core|new-revival metal;5;7
+Saya;saya afroboliviana;5;7
+Noisecore;;5;7
+Tango electrónico;electrotango;5;7
+Saibara;;5;7
+Mapalé;;5;7
+Sonido de San Francisco;San Francisco Sound;5;7
+sleaze rock;sleaze metal;5;7
+son jarocho;;5;7
+Música maorí;Māori music;5;7
+Breakstep;;5;7
+slacker rock;;5;7
+danza puertorriqueña;danza;5;7
+Música de meditación;meditation music;5;7
+Broken beat;;5;7
+minimal trance;neo trance;5;7
+vals peruano;Valse criollo|Vals criollo|Peruvian waltz;5;7
+Midwest hip hop;Midwest rap;5;7
+Canción ilustrada;illustrated song;5;7
+Obertura italiana;Italian overture;5;7
+canto fúnebre;dirge;5;7
+Música de Argelia;music of Algeria;5;7
+Música boliviana;music of Bolivia;5;7
+Música de Montenegro;music of Montenegro;5;7
+Thai pop;;5;7
+Pagode;;5;7
+Mélodie;;5;7
+zamacueca;Zanguraña|mozamala|Marinera de Lima - Perú;5;7
+Kalenda;Calinda;5;7
+rock en español;rock en castellano;5;7
+Honkyoku;;5;7
+circus music;;5;7
+German jazz;;5;7
+Chicago jazz;;5;7
+Le Cantu in paghjella profane et liturgique de Corse de tradition orale;paghjella;5;7
+música de los Países Bajos;music of the Netherlands;5;7
+Afro house;;5;7
+crab canon;;5;7
+música neomedieval;música folclórica medieval|neo-medieval music;5;7
+change ringing;;5;7
+tusch;;5;7
+himno regional;himno municipal|himno local|himno departamental|himno autonómico|regional hymn;5;7
+sonorism;;5;7
+Hungarian folk music;;5;7
+balwo;;5;7
+ryūka;;5;7
+biomusic;;5;7
+música de Túnez;music of Tunisia;5;7
+música de Taiwán;music of Taiwan;5;7
+cape jazz;;5;7
+rock moderno;modern rock;5;7
+música de Botsuana;music of Botswana;5;7
+lamentation;;5;7
+punk pathetique;;5;7
+raggacore;;5;7
+etno jazz;ethno jazz;5;7
+Hambo;;5;7
+pìobaireachd;;5;7
+yellow music;;5;7
+llamada;llamada (militar)|bugle call;5;7
+Leise;;5;7
+Hiplife;;5;7
+sound collage;;5;7
+Nederpop;;5;7
+new wave of new wave;;5;7
+New York hardcore;;5;7
+música de Moldavia;music of Moldova;5;7
+Hip hop industrial;rap industrial|industrial hip-hop;5;7
+música de Suiza;music of Switzerland;5;7
+Indorock;;5;7
+freeform hardcore;;5;7
+Sephardic music;;5;7
+música de Mozambique;music of Mozambique;5;7
+música de Bielorrusia;music of Belarus;5;7
+Belgian jazz;;5;7
+música de Portugal;music of Portugal;5;7
+Nagoya kei;;5;7
+rigsar;;5;7
+Tambourin;;5;7
+assiko;;5;7
+chaabi;;5;7
+hard techno;;5;7
+honky tonk;;5;7
+Belarusian rock music;;5;7
+música de Bangladés;music of Bangladesh;5;7
+Hindu music;;5;7
+música de Irak;music of Iraq;5;7
+música de Nepal;music of Nepal;5;7
+música de Turkmenistán;music of Turkmenistan;5;7
+Afro-rock;;5;7
+pagan rock;;5;7
+Bandari music;;5;7
+tarana;;5;7
+Armenian folk music;;5;7
+música de Chad;music of Chad;5;7
+chèo;;5;7
+Schedrovka;shchedrivka;5;7
+ahwash;;5;7
+música de Sudáfrica;music of South Africa;5;7
+Borgeet;;5;7
+chamber jazz;;5;7
+Chinese hip hop;;5;7
+danger music;;5;7
+campus folk song;;5;7
+Indian folk music;;5;7
+Jugni;;5;7
+música de Camboya;music of Cambodia;5;7
+música de Somalia;music of Somalia;5;7
+music of West Africa;;5;7
+Odissi music;;5;7
+Syriac sacral music;;5;7
+Musette;bal-musette;5;7
+Gambang kromong;;5;7
+neo-bop jazz;;5;7
+cantillation;;5;7
+Kushtdepdi;;5;7
+bro-country;;5;7
+pop melayu;;5;7
+psychedelic funk;;5;7
+música trap EDM;EDM trap music;5;7
+Međimurska popevka, música vocal folclórica de la región de Međimurje;Međimurska popevka;5;7
+Russian music;;5;7
+synth metal;;5;7
+Lundu;;5;7
+rock radical vasco;RRV|Basque radical rock;5;7
+Marian antiphon;;5;7
+gaita zuliana;;5;6
+música de Puerto Rico;music of Puerto Rico;5;6
+country neotradicional;neotraditional country;5;6
+rock progresivo italiano;Italian progressive rock;5;6
+Modern Creative;;5;6
+Ciranda;;5;6
+Escena hardcore de Washington;Escena hardcore de Washington D.C.|Washington, D.C. hardcore punk;5;6
+Barzelletta;;5;6
+Música de Uganda;music of Uganda;5;6
+Música hausa;Hausa music;5;6
+música de Chile;musica chilena|music of Chile;5;6
+New-school hip-hop;;5;6
+Música de Sudán;music of Sudan;5;6
+icaro;Íkaro;5;6
+música maya;Maya music;5;6
+Minneapolis sound;Sonido Minneapolis;5;6
+Música de Ghana;music of Ghana;5;6
+Música de Níger;music of Niger;5;6
+Jarabe;;5;6
+baithak gana;;5;6
+Baltimore Club;;5;6
+batalla;battaglia;5;6
+Ondo;;5;6
+Polka paraguaya;Polca paraguaya|Paraguayan polka;5;6
+Música de Catar;music of Qatar;5;6
+Ryūkōka;;5;6
+son huasteco;;5;6
+Blues del desierto;desert blues;5;6
+Rock de Uruguay;Rock uruguayo|Rock and roll de Uruguay|Uruguayan rock;5;6
+ambient black metal;ambient black;5;6
+nueva ola;Nueva ola (musical)|Nueva ola (música);5;6
+música de Benín;music of Benin;5;6
+pop-soul;;5;6
+Samba jazz;;5;6
+Wonky;;5;6
+proto-metal;;5;6
+Algorave;;5;6
+Melbourne bounce;;5;6
+Epic Music;;5;6
+Mahraganat;;5;6
+bass house;;5;6
+Nueva Simplicidad;New Simplicity;5;6
+trap metal;scream rap|Hardcore trap;5;6
+Punk rap;;5;6
+Malouf;ma'luf;5;6
+Jota castellana;Castilian jotas;5;6
+Country folk;;5;6
+Contradanza;danza criolla|contradanza criolla;5;6
+cantiga de escarnio;Canción de escarnio y maldecir|Cántigas de escarnio y maldecir|Cantigas de escarnio e maldecir|Cantigas de escarnio|Cantigas d'escarnho e maldizer|Cantiga de escarnio y maldecir|Cantiga de escárnio y de maldizer|Cantiga d'escarnho|Canciones de escarnio y maldecir|cantiga de escarnio e maldizer;5;6
+Funkstep;;5;6
+cantiga de amor;Cantigas de amor;5;6
+Música garífuna;Garifuna music;5;6
+Música gaúcha brasileña;Brazilian gaucho music;5;6
+Nueva chanson;nouvelle chanson;5;6
+Música de Luxemburgo;music of Luxembourg;5;6
+Minimalismo sacro;holy minimalism;5;6
+escultura sonora;sound sculpture;5;6
+kawina;;5;6
+Música indígena australiana;indigenous Australian music;5;6
+gato;Gato, danza folclórica;5;6
+Kadans ranpa;cadence rampa;5;6
+Mapouka;;5;6
+medio del camino;middle of the road;5;6
+Música de Yibuti;music of Djibouti;5;6
+tonada;;5;6
+Proto-prog;;5;6
+hip hop marroquí;rap marroqui|Moroccan hip-hop;5;6
+Rara (música);rara;5;6
+Rock de Chile;Rock Chileno|Rock and roll de Chile|Chilean rock;5;6
+Música gharnati;Gharnati music;5;6
+porro;;5;6
+white voice;;5;6
+white power music;;5;6
+zouglou;;5;6
+disco house;;5;6
+afoxê;;5;6
+music in advertising;;5;6
+nakasi;;5;6
+early hardcore;;5;6
+baladi;;5;6
+crunk&B;;5;6
+instrumental hip-hop;;5;6
+funktronica;;5;6
+conga;;5;6
+Harmonie;;5;6
+Chicago soul;;5;6
+Madrigal del Trecento;Trecento Madrigal;5;6
+partido alto;;5;6
+gwerz;;5;6
+free tekno;;5;6
+New Primitivism;;5;6
+modern jazz;;5;6
+tambu music;;5;6
+Indo pop;;5;6
+Asian Underground;;5;6
+Southern gospel;;5;6
+hyphy;;5;6
+jazz pop;;5;6
+Posse mit Gesang;;5;6
+German punk;;5;6
+Levenslied;;5;6
+futurism;;5;6
+coon song;;5;6
+Armenian rock;;5;6
+Kumina;;5;6
+El katta ashula;;5;6
+trailer music;;5;6
+música de Letonia;music of Latvia;5;6
+versillo;verset;5;6
+Volkstümliche Musik;;5;6
+Dutch jazz;;5;6
+British folk rock;;5;6
+Afro-punk;;5;6
+Ballu tundu;;5;6
+novelty piano;;5;6
+border ballad;;5;6
+Israeli rock;;5;6
+Catch;;5;6
+Moroccan chaabi;;5;6
+Scottish Gaelic punk;;5;6
+kacapi suling;;5;6
+voluntary;;5;6
+música de Malasia;music of Malaysia;5;6
+música de Mongolia;music of Mongolia;5;6
+música de Omán;music of Oman;5;6
+música de Pakistán;music of Pakistan;5;6
+música de Arabia Saudita;music of Saudi Arabia;5;6
+Parang;;5;6
+Sama'i;;5;6
+visa;;5;6
+microsound;;5;6
+Vira;;5;6
+Beiguan;;5;6
+marchinha;;5;6
+dark electro;;5;6
+Armenian jazz;;5;6
+Sinawi;;5;6
+rautalanka;;5;6
+Russian folk song;;5;6
+pop folclórico asirio;Assyrian folk/pop;5;6
+baggy;;5;6
+música de Santo Tomé y Príncipe;music of São Tomé and Príncipe;5;6
+Bedouin music;;5;6
+Military cadence;;5;6
+Continental jazz;;5;6
+dappankuthu;;5;6
+Er ren zhuan;;5;6
+fife and drum blues;;5;6
+gamelan degung;;5;6
+Gamelan selunding;;5;6
+gumbé;;5;6
+Hakka hill song;;5;6
+pinpeat;;5;6
+benga music;;5;6
+maskandi;;5;6
+Inuit music;;5;6
+positive hardcore;;5;6
+rasin;;5;6
+rasiya;;5;6
+rekuhkara;;5;6
+rock musical;;5;6
+Sakara music;;5;6
+música saami;Sami music;5;6
+Sangini;;5;6
+shan'ge;;5;6
+sokkie;;5;6
+starogradska muzika;;5;6
+Sugama Sangeetha;;5;6
+Tagh;;5;6
+talempong;;5;6
+koothu;;5;6
+jiuta;;5;6
+Advent song;;5;6
+Malay music;;5;6
+Powada;;5;6
+Cancion rojo;red music;5;6
+uzun-kui;;5;6
+pols;;5;6
+Azerbaijani pop;;5;6
+Balkan pop-folk;;5;6
+afro trap;;5;6
+Bigwala: danza y música de trompas de calabaza del Reino de Busoga (Uganda);Bigwala;5;6
+industrial techno;;5;6
+progressive metalcore;;5;6
+classic rock;;5;6
+música aqueménida;Achaemenid music;5;6
+bolojo;;5;6
+mallsoft;;5;6
+hauntology;;5;6
+Jit;;5;6
+Sua;;5;6
+Música de Timor Oriental;music of East Timor;5;6
+progressive soul;;5;6
+wedding music;;5;6
+Korean traditional music;;5;6
+electro hip-hop;;5;6
+nortech;Nortec;5;5
+Música igbo;Igbo music;5;5
+piphat;;5;5
+Jarana yucateca;;5;5
+reggae en español;;5;5
+Rock del Perú;Rock peruano|Peruvian rock;5;5
+Samba-enredo;;5;5
+Llamerada;;5;5
+Música de Kenia;music of Kenya;5;5
+Cosmic disco;Afro/Cosmic;5;5
+Tondero;;5;5
+Ethio-jazz;;5;5
+Avant-progressive rock;avant-prog;5;5
+Gidayūbushi;;5;5
+Crossover jazz;;5;5
+nueva canción chilena;;5;5
+Epic Doom;epic doom metal;5;5
+rock fusión;;5;5
+música de Paraguay;Música paraguaya|music of Paraguay;5;5
+Tamborito;;5;5
+tropical rock;trop rock|Gulf & Western;5;5
+Canto romano antiguo;Old Roman chant;5;5
+Ajisari;;5;5
+minimal wave;;5;5
+moombahcore;;5;5
+Hamburger Schule;escuela de Hamburgo;5;5
+Pasito duranguense;Duranguense;5;5
+Rhythm and blues británico;British rhythm and blues;5;5
+Chamarrita;;5;5
+Rock en Cuba;Rock cubano|Rock and roll en Cuba|Música Rock en Cuba|Historia del rock en Cuba|Historia del rock and roll en Cuba|Cuban rock;5;5
+cumbia peruana;cumbia del Perú|Peruvian cumbia;5;5
+música punk en Brasil;Brazilian punk rock;5;5
+Rondellus;;5;5
+Jazz en España;Spanish jazz;5;5
+Jota aragonesa;Jota Aragonese;5;5
+Samba de Roda;La Samba de Roda de Recôncavo de Bahía;5;5
+música de Malí;music of Mali;5;5
+Proibidão;funk proibidão;5;5
+Tambor de crioula;;5;5
+Ragga hip hop;;5;5
+complextro;;5;5
+Caramellas;caramelles;5;5
+Progressive;progressive electronic dance music;5;5
+Funk ostentação;;5;5
+dembow dominicano;Dominican dembow;5;5
+Bilbainadas;Bilbainada;5;5
+Música masónica;masonic music;5;5
+Pagode baiano;;5;5
+Tamang Selo;;5;5
+occult rock;witch rock;5;5
+neoperreo;;5;5
+Música cinematográfica de la India;Indian film music;5;5
+Plastic soul;;5;5
+Escuela francesa de órgano;French organ school;5;5
+Música de la República Democrática del Congo;music of the Democratic Republic of the Congo;5;5
+pandeireteiras;cantareiras;5;5
+Slap house;;5;5
+Dreampunk;;5;5
+Kulintang;;5;5
+Pop sueco;Swedish pop;5;5
+maidcore;;5;5
+Fidget house;;5;5
+música de Venezuela;Musica venezolana|music of Venezuela;5;5
+Música taoísta;Taoist music;5;5
+Movimiento Nayda;nayda;5;5
+Ndombolo;;5;5
+Pinoy rock;;5;5
+Música del Caribe;Música caribeña|Canciones de música caribeña|music of the Caribbean;5;5
+Red Dirt;;5;5
+rock estadounidense;rock americano|música rock estadounidense|American rock;5;5
+East Coast blues;;5;5
+Leçons de ténèbres;;5;5
+Arrocha;;5;5
+Blues africano;African blues;5;5
+Música chaoui;Chaoui music;5;5
+chillstep;;5;5
+cyber metal;;5;5
+Cybergrind;;5;5
+música pimba;pimba;5;5
+Hip hop sueco;rap sueco|Swedish hip hop;5;5
+Alpine folk music;;5;5
+música de Rajastán;music of Rajasthan;5;5
+strathspey;;5;5
+Wienerlied;;5;5
+Hip hop canadiense;rap canadiense|Canadian hip-hop;5;5
+hip-hop árabe;rap árabe|Arabic hip-hop;5;5
+Yugoslav new wave;;5;5
+musique mesurée;;5;5
+cerdd dant;;5;5
+Trancecore;;5;5
+drumline;;5;5
+imayō;;5;5
+burger-highlife;;5;5
+Italian folk music;;5;5
+chipmunk soul;;5;5
+Celtic fusion;;5;5
+Rock oscuro;dark rock;5;5
+deep funk;;5;5
+hokum;;5;5
+embolada;;5;5
+jazzcore;;5;5
+canción;;5;5
+musical poem;;5;5
+hipster hop;;5;5
+música de Zambia;music of Zambia;5;5
+Polyphonic song of Epirus;;5;5
+Nangma;;5;5
+post-black metal;;5;5
+Metal Mass;;5;5
+Palingsound;;5;5
+shima-uta;;5;5
+Stambeli;;5;5
+kwassa kwassa;;5;5
+progressive psytrance;;5;5
+Turkish hip-hop;;5;5
+onkyokei;;5;5
+sawt;;5;5
+Slip jig;;5;5
+spatial music;;5;5
+Mozambique;;5;5
+Bergerette;;5;5
+Bélé;;5;5
+chanson réaliste;;5;5
+bouncy techno;;5;5
+Portuguese rock;;5;5
+gospel blues;;5;5
+música de Angola;music of Angola;5;5
+Russian classical music;;5;5
+música de Jordania;music of Jordan;5;5
+música de Sri Lanka;music of Sri Lanka;5;5
+música de Yemen;music of Yemen;5;5
+music of Bengal;;5;5
+punta rock;;5;5
+Belgian rock;;5;5
+Estonian rock;;5;5
+Greek rock;;5;5
+rock de Francia;rock francés|French rock;5;5
+Italian rock music;;5;5
+Grupos de rock de Noruega;Norwegian rock;5;5
+music of Crete;;5;5
+xaxado;;5;5
+cantu a chiterra;;5;5
+música de Haití;music of Haiti;5;5
+In Nomine;;5;5
+muziki wa dansi;;5;5
+blatnaya pesnya;;5;5
+hayashi;;5;5
+zhungdra;;5;5
+samba-canción;samba-canção;5;5
+capoeira music;;5;5
+Tatar folk music;;5;5
+Azerbaijani rock;;5;5
+indigenous rock;;5;5
+Agamani-Vijaya;;5;5
+Appalachian music;;5;5
+kantrum;;5;5
+boedra;;5;5
+British jazz;;5;5
+indeterminacy;;5;5
+Christian country music;;5;5
+dangak;;5;5
+Dhamail;;5;5
+hyangak;;5;5
+Luri music;;5;5
+hip hop experimental;rap experimental|experimental hip-hop;5;5
+French jazz;;5;5
+gamelan sekaten;;5;5
+Gunla Bajan;;5;5
+hill country blues;;5;5
+Hong Kong English pop;;5;5
+urban contemporary gospel;;5;5
+Iranian folk music;;5;5
+Jiangnan sizhu;;5;5
+Katuli;;5;5
+Dapha music;;5;5
+Hip hop coreano;rap coreano|Korean hip-hop;5;5
+Oppari;;5;5
+música de Mauricio;music of Mauritius;5;5
+Malay gamelan;;5;5
+Manila sound;;5;5
+mazur;;5;5
+música de Andorra;music of Andorra;5;5
+música de Libia;music of Libya;5;5
+música de Nueva Zelanda;music of New Zealand;5;5
+música de Sierra Leona;music of Sierra Leone;5;5
+música de Singapur;music of Singapore;5;5
+Swedish punk;;5;5
+Bangsawan;;5;5
+sampledelia;;5;5
+música sasánida;Sasanian music;5;5
+Slovenian hip hop;;5;5
+tizita;;5;5
+traditional Nordic dance music;;5;5
+Turkish pop;;5;5
+Tōgaku;;5;5
+Funk melody;;5;5
+Bulgarian folk music;;5;5
+langgam jawa;;5;5
+Minangkabau music;;5;5
+maqom;;5;5
+Greek folk music;;5;5
+Hakkapop;;5;5
+pala;;5;5
+Dagbon music and dance;;5;5
+shaabi;;5;5
+ragamalika;;5;5
+Bashkir folk song;;5;5
+harsh noise;;5;5
+dhaanto;;5;5
+music of Vatican City;;5;5
+Ryukyuan music;;5;5
+music of Tamil Nadu;;5;5
+Igbo rap;;5;5
+Igbo highlife;;5;5
+outsider house;;5;5
+nerd music;;5;5
+Masemba;Rebita;5;5
+aita;;5;5
+dohori;;5;5
+avant-funk;;5;5
+hardvapour;;5;5
+Maithili music;;5;5
+SoundCloud rap;rap de SoundCloud|hip hop de SoundCloud;5;5
+emo revival;;5;5
+Chinese traditional music;;5;5
+biraha;;5;5
+gothic country;;5;5
+drill británico;UK drill|drill del Reino Unido;5;5
+Gufeng music;;5;5
+bass music;;5;5
+spiritual jazz;;5;5
+Ladishah;;5;5
+Rock Identitaire Français;;5;5
+grindie;;5;5
+Hip hop argelino;Algerian hip hop;5;5
+black gospel music;;5;5
+indigenous American folk music;;5;5
+hookah rap;;5;5
+Aromanian music;;5;5
+American roots music;;5;5
+epadunk;;5;5
+Hindutva pop;;5;5
+Bend-skin;;5;4
+Sonido Tulsa;Tulsa sound;5;4
+Rock de México;Rock mexicano|Mexican rock music;5;4
+Samba de Gafieira;;5;4
+hip hop latino;rap latinoamericano|rap latino|hip hop latinoamericano|Latin hip-hop;5;4
+Merenrap;Merenhouse|Merengue House|Merengue Hip-hop;5;4
+Stoner doom;;5;4
+Escuela de Düsseldorf de música electrónica;Düsseldorf school;5;4
+Rock de Ecuador;Ecuadorian rock;5;4
+Festejo;;5;4
+smooth soul;;5;4
+Blues hablado;talking blues;5;4
+Cachaca;Kchaka|Kachaka|Cumbia paraguaya;5;4
+Música incaica;Música de los Incas|Inca music;5;4
+retro-soul;;5;4
+Xuc;;5;4
+cumbia argentina;música bailantera|movida tropical|bailanta|Argentine cumbia;5;4
+balada romántica;Balada latinoamericana|Balada romántica latinoamericana|Balada latina|Adagio latino|Latin ballad;5;4
+Mini-jazz;;5;4
+Música del Ecuador;Música ecuatoriana|music of Ecuador;5;4
+música de Mónaco;music of Monaco;5;4
+música de Nicaragua;music of Nicaragua;5;4
+Boduberu;;5;4
+Rock colombiano;Rock de Colombia|Colombian rock;5;4
+Aria de concierto;concert aria;5;4
+criolla;;5;4
+Rock dominicano;Rock de República Dominicana|Dominican rock;5;4
+Música de Surinam;music of Suriname;5;4
+Hip hop palestino;Palestinian hip-hop;5;4
+Chilena;;5;4
+Música mariana católica;Roman Catholic Marian music;5;4
+Salsa romántica;;5;4
+Sikuri;Sicuri;5;4
+Yo-pop;;5;4
+brega pop;;5;4
+Dirty south;;5;4
+Isa;Isa (cancion)|Isa (baile)|Isa (música)|Isa (folclore);5;4
+nenia;;5;4
+Nueva Cumbia Chilena;Cumbia Rock Chilena|new Chilean cumbia;5;4
+Reggae nigeriano;Reggae de Nigeria|Reagge nigeriano|Nigerian reggae;5;4
+totalismo;totalism;5;4
+Waka (música africana);waka music;5;4
+Música de Burundi;music of Burundi;5;4
+Palo de Mayo;;5;4
+música de Togo;music of Togo;5;4
+doomcore;;5;4
+Hako (Rapa Nui);Hako;5;4
+Música muisca;Muisca music;5;4
+dark pop;;5;4
+Coral protestante;Protestant hymn;5;4
+Geisslerlieder;;5;4
+Euro house;;5;4
+DPRK-Pop;;5;4
+Riddim;;5;4
+Future funk;;5;4
+Brazilian bass;;5;4
+rhythm and blues latino;R&B español|R&B latino|Latin R&B;5;4
+tarab;;5;4
+Nardcore;;5;4
+Reggaestep;;5;4
+Flogger;Floguer|Floggers|Flogger (Tribu Urbana)|Floger;5;4
+Brega funky;brega funk;5;4
+conjunto norteño;conjuntos|conjunto;5;4
+Misa cíclica;Cyclic mass;5;4
+Jungle style;;5;4
+8-bit;8-bit music;5;4
+New York blues;;5;4
+Arrochadeira;;5;4
+Budots;;5;4
+future rave;;5;4
+Hip Hop Polaco;Polish hip hop;5;4
+egg punk;Devo-core;5;4
+Pop urbano;pop urbaine;5;4
+Música caipira;Caipira music;5;4
+UK bass;;5;4
+música callejera;street music;5;4
+Florida breaks;;5;4
+Landó;;5;4
+Pizmonim;;5;4
+Música cabileña;Kabyle music;5;4
+Música polinesia;music of Polynesia;5;4
+Música de Senegal;Música senegalesa|music of Senegal;5;4
+Quebradita;Cumbia Banda;5;4
+música andaluza;Música en Andalucía|Danza en Andalucía|Danza andaluza|music of Andalusia;5;4
+Wititi;wifala|danza del wititi|Wititi danza del valle del Colca;5;4
+Bravú;Rock Bravú;5;4
+Repentismo;repente;5;4
+canto polifónico de los Pirineos;cantèra;5;4
+Canto galicano;Gallican chant;5;4
+easycore;;5;4
+Gstanzl;;5;4
+vocal house;;5;4
+ultra;;5;4
+intuitive music;;5;4
+coco;;5;4
+Lamentaciones del profeta Jeremías;Lamentations of Jeremiah the Prophet;5;4
+música de Namibia;music of Namibia;5;4
+música folk industrial;industrial folk music;5;4
+trancestep;;5;4
+drum cadence;;5;4
+Atlanta blues;;5;4
+hip hop australiano;rap australiano|Australian hip-hop;5;4
+hip hop belga;rap belga|Belgian hip hop;5;4
+Okinawan music;;5;4
+Detroit rock;;5;4
+Montuno;;5;4
+tower music;;5;4
+Swiss hip hop;;5;4
+flamenco jazz;;5;4
+Florida death metal;;5;4
+trallalero;;5;4
+ambient industrial;;5;4
+Neue Volksmusik;;5;4
+puirt à beul;;5;4
+kalindula;;5;4
+jazz trombone;;5;4
+English folk music;;5;4
+uzun hava;;5;4
+H8000;;5;4
+hip hop neerlandés;Dutch hip hop;5;4
+orchestral song;;5;4
+music of Thrace;;5;4
+slide;;5;4
+stochastic music;;5;4
+music of Corsica;;5;4
+Tenorlied;;5;4
+twoubadou;;5;4
+música country australiana;música country de australia|Australian country music;5;4
+El hua’er;;5;4
+al jeel;;5;4
+chorale cantata;;5;4
+acid breaks;;5;4
+tumba;;5;4
+sainaimu;;5;4
+antiphonal singing;;5;4
+Messinian chant;;5;4
+Klepht song;;5;4
+clawhammer;;5;4
+extratone;;5;4
+Serbian hip-hop;;5;4
+hip hop tuga;;5;4
+Tarab Granati;Hawzi;5;4
+organ mass;;5;4
+progressive bluegrass;;5;4
+música vasca;Basque music;5;4
+música de Birmania;music of Myanmar;5;4
+popular folk music;;5;4
+música de Gabón;music of Gabon;5;4
+música de Filipinas;music of the Philippines;5;4
+música sij;música sikh|Sikh music;5;4
+Shinto music;;5;4
+Naattupurapaattu;;5;4
+Bhatiali;;5;4
+Tabanka;;5;4
+čalgija;;5;4
+Australian rock;;5;4
+Canadian rock;;5;4
+Danish rock;;5;4
+Hungarian rock;;5;4
+Irish rock;;5;4
+Lithuanian rock;;5;4
+Dutch rock;;5;4
+Smyrneiko;;5;4
+Czech hip hop;;5;4
+Memphis soul;;5;4
+tembang sunda;;5;4
+ethnic music;;5;4
+ambient dub;;5;4
+cante flamenco;;5;4
+epic metal;;5;4
+Finnish hip hop;;5;4
+chopper;rap chopper;5;4
+kidumbaki;;5;4
+Madrigale spirituale;;5;4
+música de Tanzania;music of Tanzania;5;4
+Suzhou pingtan;;5;4
+prosodion;;5;4
+rockers reggae;;5;4
+sankyoku;;5;4
+spacesynth;;5;4
+Ypakoe;;5;4
+música de Suazilandia;music of Eswatini;5;4
+mahori;;5;4
+Eastern Orthodox music;;5;4
+Russian folk music;;5;4
+ozlau;;5;4
+progressive country;;5;4
+Música afrocaribeña;Afro-Caribbean music;5;4
+nitzhonot;;5;4
+música celta antigua;ancient Celtic music;5;4
+banda de pífanos y tambores;fife and drum corps;5;4
+Azerbaijani hip hop;;5;4
+gamelan beleganjur;;5;4
+chakacha;;5;4
+Brazilian thrash metal;;5;4
+Bubu music;;5;4
+Danish jazz;;5;4
+Desi hip hop;;5;4
+dirty blues;;5;4
+European free jazz;;5;4
+famo;;5;4
+Fann at-Tanbura;;5;4
+gamelan surakarta;;5;4
+Gamelan jegog;;5;4
+graphical sound;;5;4
+liwa;;5;4
+Hindi dance music;;5;4
+Indo jazz;;5;4
+Italian jazz;;5;4
+jaiva;;5;4
+tembang macapat;;5;4
+Jovem Guarda;;5;4
+Kavigan;;5;4
+Kavishari;;5;4
+kundiman;;5;4
+Lao pop;;5;4
+karawitan;;5;4
+lute song;;5;4
+Malay pop;Malaysian popular music;5;4
+Mappila song;;5;4
+marfa;;5;4
+Mass song;;5;4
+motswako;;5;4
+música de Baréin;music of Bahrain;5;4
+music of Bali;;5;4
+música de Burkina Faso;music of Burkina Faso;5;4
+music of Java;;5;4
+música de Lesoto;music of Lesotho;5;4
+música de Nauru;music of Nauru;5;4
+music of Sardinia;;5;4
+música de las Islas Salomón;music of the Solomon Islands;5;4
+Balkan folk music;;5;4
+new pop;;5;4
+Newar music;;5;4
+Njuup;;5;4
+Rampur-Sahaswan gharana;;5;4
+rap opera;;5;4
+Bongai;;5;4
+Russian Orthodox bell ringing;;5;4
+samri;;5;4
+Sangeet Natak;;5;4
+Shyama Sangeet;;5;4
+Sindhi music;;5;4
+skiladiko;;5;4
+Sulukan;;5;4
+Swedish jazz;;5;4
+Tanzanian hip hop;;5;4
+vocal harmony;;5;4
+Yōkyoku;;5;4
+Żurawiejka;;5;4
+choral concerto;;5;4
+Lutheran chorale;;5;4
+desgarrada;;5;4
+música de Camerún;music of Cameroon;5;4
+samba-funk;;5;4
+seresta;;5;4
+vanguarda paulista;;5;4
+xoan singing;;5;4
+Jewish religious music;;5;4
+Javanese gamelan;;5;4
+Akishibu-kei;;5;4
+funkot;;5;4
+Kupala song;;5;4
+progressive jazz;;5;4
+gamelan joged bumbung;;5;4
+tembang;;5;4
+Zhar-zhar;;5;4
+Jarapazan;;5;4
+Romanian folk music;;5;4
+Hori;;5;4
+takmak;;5;4
+liscio;;5;4
+Música cristiana católica contemporánea;Musica cristiana catolica|contemporary Catholic liturgical music;5;4
+Jari gan;;5;4
+Sawani;;5;4
+Australian folk music;;5;4
+Dhumpa sangita;;5;4
+political music in China;;5;4
+Zimdancehall;;5;4
+African heavy metal;;5;4
+Izlan;;5;4
+Iranian jazz;;5;4
+Azerbaijani classical music;;5;4
+Kievan chant;;5;4
+ketuk tilu;;5;4
+Bulgarian jazz;;5;4
+Rieldans;;5;4
+Ethiopian chant;;5;4
+ambient pop;;5;4
+big-beat (Eastern bloc);;5;4
+Borankana;;5;4
+Tsutsube;;5;4
+Patua Sangeet;;5;4
+éntekhno;;5;4
+Russ music;;5;4
+Korean ballad;;5;4
+Christmas-themed song;;5;4
+dolewave;;5;4
+lazer;;5;4
+singeli;;5;4
+Afroswing;;5;4
+San'a;;5;4
+Anatolian blues;;5;4
+lăutărească music;;5;4
+Matrouz;;5;4
+Hip hop brasileño;rap brasileño|Brazilian hip-hop;5;4
+Huaylash;Huaylarsh|Huaylars|Huailars;5;4
+tracker music;;5;4
+jazz brasileño;Brazilian jazz;5;4
+estrada music;;5;4
+rap progresivo;progressive rap;5;4
+Ngoma music;;5;4
+música de Vocaloid;Vocaloid music;5;4
+pop kreatif;;5;4
+shitgaze;;5;4
+Hong Kong cantopop;;5;4
+gabberpop;;5;4
+blog rock;;5;4

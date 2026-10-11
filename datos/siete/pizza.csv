@@ -29,6 +29,179 @@ picante;pizza picante;3;999999981
 anchoas;pizza anchoas;3;999999980
 salami;pizza salami;3;999999979
 chorizo;pizza chorizo;3;999999978
+jamón;pizza jamón;3;0
+queso;pizza queso;3;0
+mozzarella;pizza mozzarella;3;0
+ternera;pizza ternera;3;0
+carne picada;pizza carne picada;3;0
+cebolla;pizza cebolla;3;0
+pimiento;pimientos|pizza pimiento;3;0
+aceitunas;aceitunas negras|pizza aceitunas;3;0
+maíz;pizza maíz;3;0
+tomate;pizza tomate;3;0
+alcachofas;alcachofa|pizza alcachofas;3;0
+espinacas;pizza espinacas;3;0
+calabacín;pizza calabacín;3;0
+huevo;pizza huevo;3;0
+salchichas;frankfurt|pizza salchichas;3;0
+york;jamón york|jamón cocido|pizza york;3;0
+salmón ahumado;pizza salmón ahumado;3;0
+rúcula y parmesano;pizza rúcula y parmesano;3;0
+bacon y queso;pizza bacon y queso;3;0
+barbacoa de pollo;pizza barbacoa de pollo;3;0
+barbacoa de carne;pizza barbacoa de carne;3;0
+pollo y bacon;pizza pollo y bacon;3;0
+jamón y piña;pizza jamón y piña;3;0
+4 formaggi;pizza 4 formaggi;3;0
+quattro formaggi;pizza quattro formaggi;3;0
+prosciutto cotto;pizza prosciutto cotto;3;0
+prosciutto crudo;pizza prosciutto crudo;3;0
+bufala;mozzarella de búfala|pizza bufala;3;0
+bresaola;pizza bresaola;3;0
+speck;pizza speck;3;0
+'nduja;pizza 'nduja;3;0
+salsiccia;pizza salsiccia;3;0
+friarielli;pizza friarielli;3;0
+salsiccia e friarielli;pizza salsiccia e friarielli;3;0
+ortolana;pizza ortolana;3;0
+primavera;pizza primavera;3;0
+tonno;pizza tonno;3;0
+pugliese;pizza pugliese;3;0
+boscaiola;pizza boscaiola;3;0
+valtellina;pizza valtellina;3;0
+tirolesa;pizza tirolesa;3;0
+montanara;pizza montanara;3;0
+cacio e pepe;pizza cacio e pepe;3;0
+amatriciana;pizza amatriciana;3;0
+gorgonzola;pizza gorgonzola;3;0
+gorgonzola y nueces;pizza gorgonzola y nueces;3;0
+pera y gorgonzola;pizza pera y gorgonzola;3;0
+higos;pizza higos;3;0
+calabaza;pizza calabaza;3;0
+patata;patatas|pizza patata;3;0
+sobrasada;pizza sobrasada;3;0
+sobrasada y miel;pizza sobrasada y miel;3;0
+morcilla;pizza morcilla;3;0
+chistorra;pizza chistorra;3;0
+butifarra;pizza butifarra;3;0
+lacón;pizza lacón;3;0
+pulpo;pizza pulpo;3;0
+bonito;pizza bonito;3;0
+sardinas;pizza sardinas;3;0
+mejillones;pizza mejillones;3;0
+calamares;pizza calamares;3;0
+langostinos;pizza langostinos;3;0
+cangrejo;pizza cangrejo;3;0
+caviar;pizza caviar;3;0
+foie;pizza foie;3;0
+pato;pizza pato;3;0
+cordero;pizza cordero;3;0
+kebab de pollo;pizza kebab de pollo;3;0
+tex mex;pizza tex mex;3;0
+cheeseburger;hamburguesa|pizza cheeseburger;3;0
+hot dog;pizza hot dog;3;0
+philly cheesesteak;pizza philly cheesesteak;3;0
+buffalo;pizza buffalo;3;0
+ranchera;pizza ranchera;3;0
+criolla;pizza criolla;3;0
+argentina;pizza argentina;3;0
+napolitana argentina;pizza napolitana argentina;3;0
+de muzzarella;pizza de muzzarella;3;0
+de cancha;pizza de cancha;3;0
+a la piedra;pizza a la piedra;3;0
+al molde;pizza al molde;3;0
+al taglio;pizza al taglio;3;0
+al metro;pizza al metro;3;0
+pinsa;pizza pinsa;3;0
+focaccia;pizza focaccia;3;0
+pizzeta;pizza pizzeta;3;0
+mini pizza;pizza mini pizza;3;0
+pan pizza;pizza pan pizza;3;0
+masa fina;pizza masa fina;3;0
+masa gruesa;pizza masa gruesa;3;0
+borde relleno;pizza borde relleno;3;0
+sin gluten;pizza sin gluten;3;0
+vegana;pizza vegana;3;0
+integral;pizza integral;3;0
+dulce;pizza dulce;3;0
+fresa;pizza fresa;3;0
+plátano;pizza plátano;3;0
+manzana;pizza manzana;3;0
+kinder;pizza kinder;3;0
+oreo;pizza oreo;3;0
+cuatro carnes;pizza cuatro carnes;3;0
+tres quesos;pizza tres quesos;3;0
+seis quesos;pizza seis quesos;3;0
+queso azul;pizza queso azul;3;0
+roquefort;pizza roquefort;3;0
+brie;pizza brie;3;0
+emmental;pizza emmental;3;0
+cheddar;pizza cheddar;3;0
+provolone;pizza provolone;3;0
+parmesano;pizza parmesano;3;0
+ricotta;pizza ricotta;3;0
+requesón;pizza requesón;3;0
+scamorza;pizza scamorza;3;0
+de la casa;pizza de la casa;3;0
+especial;pizza especial;3;0
+suprema;supreme|pizza suprema;3;0
+clásica;pizza clásica;3;0
+básica;pizza básica;3;0
+completa;pizza completa;3;0
+familiar;pizza familiar;3;0
+mediterránea;pizza mediterránea;3;0
+campesina;pizza campesina;3;0
+campera;pizza campera;3;0
+ibérica de bellota;pizza ibérica de bellota;3;0
+serrana;pizza serrana;3;0
+gallega;pizza gallega;3;0
+andaluza;pizza andaluza;3;0
+catalana;pizza catalana;3;0
+mallorquina;pizza mallorquina;3;0
+canaria;pizza canaria;3;0
+vasca;pizza vasca;3;0
+asturiana;pizza asturiana;3;0
+española;pizza española;3;0
+italiana;pizza italiana;3;0
+americana;pizza americana;3;0
+griega;pizza griega;3;0
+turca;pizza turca;3;0
+oriental;pizza oriental;3;0
+mar y montaña;pizza mar y montaña;3;0
+mar y tierra;pizza mar y tierra;3;0
+de anchoas y alcaparras;pizza de anchoas y alcaparras;3;0
+alcaparras;pizza alcaparras;3;0
+orégano;pizza orégano;3;0
+albahaca;pizza albahaca;3;0
+ajo;pizza ajo;3;0
+aceite;pizza aceite;3;0
+picante de pepperoni;pizza picante de pepperoni;3;0
+doble pepperoni;pizza doble pepperoni;3;0
+doble queso;pizza doble queso;3;0
+extra de queso;pizza extra de queso;3;0
+cebolla caramelizada;pizza cebolla caramelizada;3;0
+cebolla y bacon;pizza cebolla y bacon;3;0
+pimientos del piquillo;pizza pimientos del piquillo;3;0
+espárragos;pizza espárragos;3;0
+brócoli;pizza brócoli;3;0
+berenjena y calabacín;pizza berenjena y calabacín;3;0
+tomate seco;pizza tomate seco;3;0
+tomates cherry;pizza tomates cherry;3;0
+pesto y pollo;pizza pesto y pollo;3;0
+pollo al curry;pizza pollo al curry;3;0
+pollo teriyaki;pizza pollo teriyaki;3;0
+tandoori;pizza tandoori;3;0
+thai;pizza thai;3;0
+hoisin;pizza hoisin;3;0
+pulled pork;pizza pulled pork;3;0
+costillas;pizza costillas;3;0
+bbq;pizza bbq;3;0
+texas;pizza texas;3;0
+tejana;pizza tejana;3;0
+vaquera;pizza vaquera;3;0
+cowboy;pizza cowboy;3;0
+new yorker;pizza new yorker;3;0
+big pepperoni;pizza big pepperoni;3;0
 jamón serrano;serrano|ibérica|pizza jamón serrano|pizza serrano|pizza ibérica;4;999999977
 rúcula;pizza rúcula;4;999999976
 burrata;pizza burrata;4;999999975
@@ -54,24 +227,136 @@ Nueva York;New York|pizza Nueva York|pizza New York;5;999999956
 Detroit;pizza Detroit;5;999999955
 pissaladière;pissaladiera;5;25
 estilo Chicago;Chicago-style pizza|Pizza estilo Chicago;5;24
+estilo Nueva York;pizza neoyorquina|pizza al estilo neoyorquino|pizza al estilo de Nueva York|New York-style pizza;5;21
 estilo Detroit;Detroit-style pizza|Pizza estilo Detroit;5;15
+Seafood pizza;;5;14
 frita;Deep-fried pizza|Pizza frita;5;14
 Sushi pizza;Toronto Sushi Pizza;5;13
-taglio;pizza al taglio;5;12
+pizzetta;;5;12
+white pizza;;5;11
 estilo California;California-style pizza|Pizza estilo California;5;10
+Fugazza con queso;;5;10
 iraní;pizza persa|Iranian pizza|pizza iraní;5;10
+cake;pizza cake;5;9
+Roman pizza;;5;9
+grandma pizza;;5;8
+bagel;Pizza bagel;5;7
+matzah pizza;;5;7
+Sfincione PAT;;5;7
 taco;taco pizza|Pizza de taco;5;7
+in the United States;pizza in the United States;5;6
+jumbo slice;;5;6
+stuffed crust pizza;;5;6
+by the slice;pizza by the slice;5;6
+Rossini;Pizza Rossini;5;6
 estilo San Luis;St. Louis-style pizza|Pizza estilo San Luis;5;6
 U' pastizz rtunnar PAT;;5;6
 estilo Colorado;Colorado-style pizza|Pizza estilo Colorado;5;6
+Greek pizza;;5;5
+New Haven-style pizza;;5;5
+beach pizza;;5;5
 en Corea del Norte;pizza in North Korea|pizza en Corea del Norte;5;5
-argentina;Pizza porteña|Pizza en Argentina|Pizza de Buenos Aires|Argentine pizza;5;5
 Fugazzetta;;5;5
+Quad City-style pizza;;5;4
+estilo Altoona;Altoona-style pizza|pizza estilo Altoona;5;4
 albóndigas;meatball pizza|Pizza de albóndigas;5;4
+in Japan;pizza in Japan;5;4
+DiGiorno;;5;3
+Regina pizza;;5;3
+in China;pizza in China;5;3
+frozen pizza;;5;3
 escarola;pizza di scarola|Pizza de escarola;5;3
-a metro;pizza al metro;5;3
 Pizzolo;;5;3
 tegamino;deep-dish pizza|Pizza al tegamino;5;3
+Grilled pizza;;5;2
+Big One;;5;2
+coal-fired pizza;;5;2
+Sheet pizza;;5;2
+Indian pizza;;5;2
+con peperoni;pizza con salami|pizza con pepperoni|pepperoni pizza|pizza con peperoni;5;2
 Regañao;;5;2
 carrée;bitza karí|Pizza carrée;5;2
-cancha;Pizza canchera|Game field pizza|Pizza de cancha;5;1
+with salami;pizza with salami;5;2
+Buffalo-style pizza;;5;2
+strips;pizza strips;5;1
+pizzas with shrimp or prawns;;5;1
+in New York City;pizza in New York City;5;1
+Poro;Pizza Poro;5;1
+Krusty Krab Pizza;;5;1
+in Brazil;pizza in Brazil;5;1
+Roncadin;;5;1
+Baked beans pizza;;5;1
+chorizo pizza;;5;0
+tuna pizza;;5;0
+Bolognese pizzas;;5;0
+salmon pizza;;5;0
+Brizza;;5;0
+Papa Rafkin;;5;0
+Chicago Town;;5;0
+Bacon Cheeseburger;;5;0
+Chicken Cacciatore;;5;0
+Chicken Caesar;;5;0
+Buffalo Chicken;;5;0
+Buffalo Grinder;;5;0
+Fishy Fruit;;5;0
+Flamin' Fungi;;5;0
+Chicken Club;;5;0
+Creamy Quiche;;5;0
+Green Grove;;5;0
+Hawaiian;;5;0
+Fugazza Con Jamón;;5;0
+Garlic Fury;;5;0
+Meat Amore;;5;0
+Neptune's Feast;;5;0
+Level 4 Meltdown;;5;0
+Lomi-Lomi Bruschetta;;5;0
+Olive Bellissimo;;5;0
+Peppered Bacon;;5;0
+Romano Quartet Pizza;;5;0
+Rustic Garden;;5;0
+Portallini Rustico;;5;0
+Shrimp Scorcher;;5;0
+Sirloin Sizzler;;5;0
+Salsiccia Rustica;;5;0
+Seaside Gumbo;;5;0
+Tastyville Trio;;5;0
+The BLT;;5;0
+Spicy Meatball;;5;0
+Surf and Turf;;5;0
+The Meateor;;5;0
+The Muffuletta;;5;0
+The Californian;;5;0
+The Denver;;5;0
+The Works;;5;0
+The Smokehouse;;5;0
+The Wildfire;;5;0
+Spicy Sausage;;5;0
+Beefy Bell Pepper;;5;0
+Buffalo Bacon;;5;0
+Chicken Bacon Ranch;;5;0
+Ranch BLT;;5;0
+Steakhouse Supreme;;5;0
+Asiago Ranch;;5;0
+Spicy Ranch;;5;0
+en México;History of pizza in Mexico|Pizza en México;5;0
+atún con cebolla;tuna and onion pizza|pizza de atún con cebolla;5;0
+salchicha calabresa;calabresa sausage pizza|pizza de salchicha calabresa;5;0
+carne seca;dried meat pizza|pizza de carne seca;5;0
+baiana;baiana pizza|pizza baiana;5;0
+brócoli con tocino;broccoli and bacon pizza|pizza de brócoli con tocino;5;0
+lomo canadiense;canadian loin pizza|pizza de lomo canadiense;5;0
+camarón con catupiry;shrimp and catupiry pizza|pizza de camarón con catupiry;5;0
+pollo con catupiry;chicken and catupiry pizza|pizza de pollo con catupiry;5;0
+portuguesa;portuguese pizza|pizza portuguesa;5;0
+stroganoff;strogonoff pizza|pizza de stroganoff;5;0
+maíz con catupiry;corn and catupiry pizza|pizza de maíz con catupiry;5;0
+palmito;palm heart pizza|pizza de palmito;5;0
+brigadeiro;brigadeiro pizza|pizza de brigadeiro;5;0
+chocolate con fresa;chocolate and strawberry pizza|pizza de chocolate con fresa;5;0
+banana con canela;banana and cinnamon pizza|pizza de banana con canela;5;0
+prestigio;prestigio pizza|pizza prestigio;5;0
+romeo y julieta;romeo and juliet pizza|pizza romeo y julieta;5;0
+Neapolitan pizza;;5;0
+pizzaioli;;5;0
+Sicilian pizza;;5;0
+List of pizza chains;;5;0

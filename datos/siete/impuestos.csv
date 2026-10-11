@@ -1,10 +1,10 @@
 respuesta;alias;nivel;orden_a_mano
-IVA;impuesto sobre el valor añadido;1;1000000000
-IRPF;la renta|impuesto sobre la renta|impuesto de la renta;1;999999999
-IBI;impuesto sobre bienes inmuebles|contribución;2;1000000000
+IVA;impuesto sobre el valor añadido|valor añadido;1;1000000000
+IRPF;la renta|impuesto sobre la renta|impuesto de la renta|declaración de la renta;1;999999999
+IBI;impuesto sobre bienes inmuebles|contribución|bienes inmuebles;2;1000000000
 impuesto de sociedades;sociedades;2;999999999
 impuesto de sucesiones;sucesiones|sucesiones y donaciones|herencias|donaciones;2;999999998
-impuesto de circulación;IVTM|numerito|sello del coche;2;999999997
+impuesto de circulación;IVTM|numerito|sello del coche|circulación|impuesto del coche|rodaje;2;999999997
 impuesto de patrimonio;patrimonio|impuesto sobre el patrimonio;2;999999996
 plusvalía;plusvalía municipal|IIVTNU;2;999999995
 ITP;transmisiones patrimoniales|impuesto de transmisiones patrimoniales;3;1000000000
@@ -33,6 +33,122 @@ impuesto de primas de seguros;seguros;4;999999991
 impuesto al azúcar;bebidas azucaradas;4;999999990
 impuesto sobre la cerveza;cerveza;4;999999989
 canon del agua;canon de saneamiento;4;999999988
+impuesto sobre la renta de las personas físicas;;4;0
+impuesto de bienes inmuebles;;4;0
+impuesto sobre sociedades;;4;0
+impuesto sobre sucesiones y donaciones;;4;0
+impuesto sobre vehículos;;4;0
+impuesto sobre actividades económicas;;4;0
+impuesto sobre el incremento de valor de los terrenos;;4;0
+impuesto sobre construcciones instalaciones y obras;;4;0
+impuesto general indirecto canario;;4;0
+impuesto sobre la producción los servicios y la importación;;4;0
+impuesto sobre determinados medios de transporte;;4;0
+impuesto sobre hidrocarburos;;4;0
+impuesto sobre las labores del tabaco;;4;0
+impuesto sobre el alcohol y bebidas derivadas;;4;0
+impuesto sobre productos intermedios;;4;0
+impuesto sobre el vino;vino;4;0
+impuesto sobre la electricidad;;4;0
+impuesto sobre el carbón;;4;0
+impuesto sobre las primas de seguros;;4;0
+impuesto sobre los gases fluorados de efecto invernadero;;4;0
+impuesto sobre el valor de la producción de la energía eléctrica;;4;0
+impuesto sobre actividades de juego;;4;0
+impuesto sobre determinados servicios digitales;;4;0
+impuesto temporal de solidaridad de las grandes fortunas;;4;0
+impuesto sobre la renta de no residentes;;4;0
+impuesto especial sobre los envases de plástico no reutilizables;;4;0
+impuesto sobre el depósito de residuos en vertederos;impuesto de residuos|vertederos;4;0
+gravamen temporal energético;;4;0
+gravamen temporal de entidades de crédito;;4;0
+impuesto de sucesiones y donaciones;;4;0
+impuesto sobre el lujo;impuesto de lujo;4;0
+impuesto de donaciones;;4;0
+impuesto de actos jurídicos documentados;;4;0
+impuesto sobre operaciones societarias;operaciones societarias;4;0
+impuesto del timbre;timbre;4;0
+tasas;tasa;4;0
+tasas judiciales;;4;0
+tasas universitarias;;4;0
+tasa de alcantarillado;alcantarillado;4;0
+tasa de vado;;4;0
+tasa de terrazas;;4;0
+tasa de ocupación de la vía pública;;4;0
+tasa aeroportuaria;tasas de aeropuerto;4;0
+tasa de la ITV;;4;0
+tasa del DNI;;4;0
+tasa del pasaporte;;4;0
+peaje;peajes;4;0
+contribuciones especiales;;4;0
+cotizaciones sociales;Seguridad Social|cotización;4;0
+retenciones;retención;4;0
+recargo de equivalencia;;4;0
+impuesto de plusvalía;;4;0
+ganancias patrimoniales;;4;0
+impuesto sobre el patrimonio neto;;4;0
+impuesto sobre grandes establecimientos comerciales;;4;0
+impuesto sobre viviendas vacías;;4;0
+impuesto sobre estancias turísticas;ecotasa;4;0
+impuesto sobre emisiones de CO2;impuesto al CO2|impuesto al carbono;4;0
+impuesto sobre bebidas azucaradas envasadas;;4;0
+impuesto sobre la contaminación;;4;0
+canon eólico;;4;0
+canon de vertidos;;4;0
+impuesto sobre instalaciones que inciden en el medio ambiente;;4;0
+impuesto sobre el almacenamiento de residuos radiactivos;;4;0
+impuesto sobre el combustible nuclear;;4;0
+impuesto al diésel;diésel;4;0
+impuesto al queroseno;queroseno;4;0
+impuesto a los billetes de avión;;4;0
+impuesto al sol;;4;0
+impuesto a las hipotecas;hipotecas;4;0
+impuesto de sellos;;4;0
+impuesto de sociedades mínimo;;4;0
+impuesto mínimo global;;4;0
+sisa;;4;0
+gabela;;4;0
+almojarifazgo;;4;0
+quinto real;;4;0
+tercias reales;;4;0
+montazgo;;4;0
+fonsadera;;4;0
+martiniega;;4;0
+yantar;;4;0
+pecho;pechos;4;0
+capitación;;4;0
+media anata;;4;0
+lanzas;;4;0
+millones;;4;0
+cientos;;4;0
+papel sellado;;4;0
+consumos;;4;0
+cédula personal;;4;0
+contribución territorial;;4;0
+contribución industrial;;4;0
+contribución urbana;;4;0
+contribución rústica;;4;0
+impuesto de utilidades;;4;0
+impuesto de usos y consumos;;4;0
+impuesto de derechos reales;;4;0
+impuesto general sobre el tráfico de empresas;;4;0
+impuesto de compensación de gravámenes interiores;;4;0
+IVA reducido;;4;0
+IVA superreducido;;4;0
+IVA general;;4;0
+IRPF autonómico;;4;0
+tramo autonómico;;4;0
+impuesto de sucesiones autonómico;;4;0
+VAT;;4;0
+income tax;;4;0
+IS;;4;0
+ISD;;4;0
+IP;;4;0
+IIEE;;4;0
+ITPAJD;;4;0
+IEDMT;;4;0
+IPS;;4;0
+IEE;;4;0
 IPSI;;5;1000000000
 gases fluorados;impuesto sobre gases fluorados;5;999999999
 alcabala;;5;999999998

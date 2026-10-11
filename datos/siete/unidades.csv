@@ -1,53 +1,53 @@
 respuesta;alias;nivel;orden_a_mano
-metro;;1;1000000000
-kilo;kilogramo;1;999999999
-litro;;1;999999998
-gramo;;1;999999997
-kilómetro;;1;999999996
-centímetro;;1;999999995
-segundo;;1;999999994
-minuto;;1;999999993
-hora;;1;999999992
-milímetro;;2;1000000000
+metro;metros;1;1000000000
+kilo;kilogramo|kilos|kilogramos;1;999999999
+litro;litros;1;999999998
+gramo;gramos;1;999999997
+kilómetro;kilómetros;1;999999996
+centímetro;centímetros;1;999999995
+segundo;segundos;1;999999994
+minuto;minutos;1;999999993
+hora;horas;1;999999992
+milímetro;milímetros;2;1000000000
 mililitro;;2;999999999
-tonelada;;2;999999998
-grado;grados;2;999999997
+tonelada;toneladas;2;999999998
+grado;grados|grado sexagesimal;2;999999997
 grado centígrado;grado Celsius|Celsius|centígrados;2;999999996
-día;;2;999999995
-año;;2;999999994
-mes;;2;999999993
-semana;;2;999999992
-pulgada;;2;999999991
-milla;;2;999999990
-pie;;2;999999989
-libra;;2;999999988
-onza;;2;999999987
+día;días;2;999999995
+año;años;2;999999994
+mes;meses;2;999999993
+semana;semanas;2;999999992
+pulgada;pulgadas;2;999999991
+milla;millas;2;999999990
+pie;pies;2;999999989
+libra;libras;2;999999988
+onza;onzas;2;999999987
 vatio;watt;2;999999986
 voltio;;2;999999985
 amperio;;2;999999984
 caloría;kilocaloría;2;999999983
-kilovatio;kilovatio hora;2;999999982
-hectárea;;2;999999981
+kilovatio;kilovatio hora|kilovatios;2;999999982
+hectárea;hectáreas;2;999999981
 metro cuadrado;;2;999999980
 metro cúbico;;2;999999979
 decibelio;;2;999999978
 byte;;2;999999977
-gigabyte;giga;2;999999976
-megabyte;mega;2;999999975
+gigabyte;giga|gigas;2;999999976
+megabyte;mega|megas;2;999999975
 bit;;2;999999974
 kilobyte;;2;999999973
-terabyte;tera;2;999999972
+terabyte;tera|teras;2;999999972
 píxel;;2;999999971
 año luz;;2;999999970
-nudo;;2;999999969
-quilate;;2;999999968
+nudo;nudos;2;999999969
+quilate;quilates;2;999999968
 hercio;hertz|herzio;3;999999967
 caballo de vapor;caballos;3;999999966
 kilómetro por hora;;3;999999965
-galón;;3;999999964
-yarda;;3;999999963
-palmo;;3;999999962
-pinta;;3;999999961
+galón;galones;3;999999964
+yarda;yardas;3;999999963
+palmo;palmos;3;999999962
+pinta;pintas;3;999999961
 barril;;3;999999960
 centilitro;;3;999999959
 decímetro;;3;999999958
@@ -74,12 +74,12 @@ década;;3;999999938
 lustro;;3;999999937
 milenio;;3;999999936
 milisegundo;;3;999999935
-fanega;;4;1000000000
-arroba;;4;999999999
-legua;;4;999999998
-vara;;4;999999997
-codo;;4;999999996
-braza;;4;999999995
+fanega;fanegas;4;1000000000
+arroba;arrobas;4;999999999
+legua;leguas;4;999999998
+vara;varas;4;999999997
+codo;codos;4;999999996
+braza;brazas;4;999999995
 milla náutica;;4;999999994
 acre;;4;999999993
 pársec;;4;999999992
@@ -87,7 +87,7 @@ unidad astronómica;;4;999999991
 micra;micrómetro|micrón;4;999999990
 nanómetro;;4;999999989
 hectolitro;;4;999999988
-área;;4;999999987
+área;áreas;4;999999987
 celemín;;4;999999986
 cuartillo;;4;999999985
 azumbre;;4;999999984
@@ -124,6 +124,225 @@ faradio;;4;999999954
 culombio;coulomb;4;999999953
 siemens;;4;999999952
 becquerel;bequerelio;4;999999951
+megapíxel;megapíxeles;4;0
+dedos;dedo;4;0
+pasos;paso;4;0
+cuarta;;4;0
+jeme;;4;0
+pie cuadrado;;4;0
+milla cuadrada;;4;0
+kilómetro cuadrado;;4;0
+centímetro cuadrado;;4;0
+centímetro cúbico;cc;4;0
+litro por kilómetro;;4;0
+metros por segundo;;4;0
+kilómetros por hora;;4;0
+millas por hora;mph;4;0
+revoluciones por minuto;rpm;4;0
+pulsaciones por minuto;ppm;4;0
+fotogramas por segundo;fps;4;0
+bits por segundo;bps;4;0
+kilobit;;4;0
+megabit;;4;0
+gigabit;;4;0
+mAh;miliamperio hora;4;0
+amperio hora;;4;0
+vatio hora;;4;0
+caloría grande;;4;0
+tonelada equivalente de petróleo;;4;0
+barril de petróleo;;4;0
+quintal métrico;;4;0
+tonelada métrica;;4;0
+tonelada larga;;4;0
+tonelada corta;;4;0
+libra esterlina;;4;0
+minuto de arco;;4;0
+segundo de arco;;4;0
+grado centesimal;gradián;4;0
+revolución;vuelta;4;0
+unidad térmica británica;;4;0
+kilogramo fuerza;kilo fuerza;4;0
+libra fuerza;;4;0
+atmósfera técnica;;4;0
+pulgada de mercurio;;4;0
+milímetro de agua;;4;0
+baria;;4;0
+bario;;4;0
+stilb;;4;0
+lambert;;4;0
+nit;;4;0
+phot;;4;0
+foot-candle;;4;0
+maxwell;;4;0
+oersted;;4;0
+debye;;4;0
+franklin;;4;0
+statcoulomb;;4;0
+abamperio;;4;0
+biot;;4;0
+galileo;gal;4;0
+eotvos;;4;0
+jansky;;4;0
+rayleigh;;4;0
+sverdrup;;4;0
+darcy;;4;0
+dobson;;4;0
+clo;;4;0
+met;;4;0
+tog;;4;0
+RON;octano;4;0
+grado Brix;;4;0
+grado alcohólico;;4;0
+grado Baumé;;4;0
+grado Plato;;4;0
+pH;;4;0
+dalton;unidad de masa atómica|uma;4;0
+equivalente;;4;0
+normalidad;;4;0
+molaridad;;4;0
+ppb;;4;0
+porcentaje;por ciento;4;0
+tanto por mil;;4;0
+docena;;4;0
+gruesa;;4;0
+centena;;4;0
+millar;;4;0
+decena;;4;0
+resma;;4;0
+pliego;;4;0
+bala;;4;0
+fardo;;4;0
+saco;;4;0
+barrica;;4;0
+bota;;4;0
+tonel;;4;0
+pipa;;4;0
+cuba;;4;0
+garrafa;;4;0
+arroba de vino;;4;0
+cuartilla;;4;0
+copa;;4;0
+chato;;4;0
+caña;;4;0
+tercio;;4;0
+quinto;;4;0
+botellín;;4;0
+litrona;;4;0
+mini;;4;0
+cubata;;4;0
+chupito;;4;0
+cucharada;;4;0
+cucharadita;;4;0
+taza;;4;0
+vaso;;4;0
+pizca;;4;0
+puñado;;4;0
+gota;;4;0
+chorrito;;4;0
+quilate de oro;;4;0
+ley;;4;0
+onza de oro;;4;0
+marco;;4;0
+libra romana;;4;0
+talento;;4;0
+siclo;;4;0
+mina;;4;0
+óbolo;;4;0
+denario;;4;0
+sextercio;;4;0
+milla romana;;4;0
+paso romano;;4;0
+pie romano;;4;0
+codo real;;4;0
+cúbito;;4;0
+palmo menor;;4;0
+pulgada española;;4;0
+línea;;4;0
+vara castellana;;4;0
+vara de Burgos;;4;0
+legua castellana;;4;0
+legua marina;;4;0
+cordel;;4;0
+estadal;;4;0
+aranzada;;4;0
+yugada;;4;0
+obrada;;4;0
+huebra;;4;0
+peonada;;4;0
+jornal;;4;0
+cuarterada;;4;0
+mojada;;4;0
+hanegada;;4;0
+marjal;;4;0
+cuartal;;4;0
+almudada;;4;0
+cahíz;;4;0
+carga;;4;0
+costal;;4;0
+cuartera;;4;0
+barchilla;;4;0
+anega;;4;0
+ochava;;4;0
+panilla;;4;0
+libra carnicera;;4;0
+onza castellana;;4;0
+tomín;;4;0
+quintal castellano;;4;0
+arrelde;;4;0
+cántaro;;4;0
+moyo;;4;0
+cuarterola;;4;0
+yarda cuadrada;;4;0
+acre pie;;4;0
+bushel;;4;0
+peck;;4;0
+gill;;4;0
+onza líquida;onza fluida;4;0
+dram;;4;0
+scruple;;4;0
+hundredweight;;4;0
+quarter;;4;0
+chain;cadena;4;0
+rod;pértiga;4;0
+perch;;4;0
+link;eslabón;4;0
+league;;4;0
+fathom;;4;0
+hand;;4;0
+thou;mil;4;0
+twip;;4;0
+em;;4;0
+shaku;;4;0
+sun;;4;0
+ri;;4;0
+koku;;4;0
+tsubo;;4;0
+jo;;4;0
+li;;4;0
+mu;;4;0
+jin;;4;0
+liang;;4;0
+catty;;4;0
+picul;;4;0
+candy;;4;0
+seer;;4;0
+maund;;4;0
+ser;;4;0
+arshin;;4;0
+verchok;;4;0
+pud;;4;0
+vedro;;4;0
+desiatina;;4;0
+sazhen;;4;0
+cuerda;;4;0
+tarea;;4;0
+caballería;;4;0
+manzana;;4;0
+suerte;;4;0
+fanegada;;4;0
+plaza;;4;0
+tablón;;4;0
+cordel cubano;;4;0
 gray;;5;999999950
 sievert;;5;999999949
 curio;;5;999999948
@@ -173,3 +392,477 @@ tola;;5;999999905
 tael;;5;999999904
 versta;;5;999999903
 toesa;;5;999999902
+conversión de unidades;;5;0
+birmingham Wire Gauge;;5;0
+calibre de alambre estadounidense;;5;0
+calibre de un cartucho;;5;0
+caván;;5;0
+cent Call Second;;5;0
+centiMorgan;;5;0
+cuadratín;;5;0
+dBm;;5;0
+dBW;;5;0
+decipol;;5;0
+dGH;;5;0
+diámetro a la altura del pecho;;5;0
+dKH;;5;0
+docena del panadero;;5;0
+erlang;;5;0
+estatero;;5;0
+factor de conversión;;5;0
+gauge;;5;0
+geón;;5;0
+hora solar pico;;5;0
+janka;;5;0
+julio-segundo;;5;0
+langley;;5;0
+adrien-Marie Legendre;;5;0
+medida de la presión;;5;0
+metro cúbico por segundo;;5;0
+mired;;5;0
+moio;;5;0
+negavatio;;5;0
+normo metro cúbico;;5;0
+octa;;5;0
+ohmio acústico;;5;0
+olf;;5;0
+palabras por minuto;;5;0
+par de bases;;5;0
+partes por billón;;5;0
+partes por mil;;5;0
+partes por millón;;5;0
+partes por notación;;5;0
+pCO2;;5;0
+pKa;;5;0
+por mil;;5;0
+prima;;5;0
+punto Didot;;5;0
+punto porcentual;;5;0
+quantum satis;;5;0
+rayl;;5;0
+requerimiento de frío en especies frutales caducifolias;;5;0
+ristra;;5;0
+svedberg;;5;0
+thomson;;5;0
+voltio por metro;;5;0
+yarda megalítica;;5;0
+barril equivalente de petróleo;;5;0
+british thermal unit;;5;0
+constante de Rydberg;;5;0
+energía de Planck;;5;0
+foe;;5;0
+hartree;;5;0
+kilocaloría por mol;;5;0
+millardo de metros cúbicos de gas natural;;5;0
+pie-libra fuerza;;5;0
+pie-poundal;;5;0
+tonelada equivalente de carbón;;5;0
+aba;;5;0
+alen;;5;0
+alna;;5;0
+alqueire;;5;0
+ana;;5;0
+arrátel;;5;0
+assisa panis et cervisiæ;;5;0
+berid;;5;0
+builder's Old Measurement;;5;0
+cajuela de café;;5;0
+carcel;;5;0
+codo real egipcio;;5;0
+copín;;5;0
+cótila;;5;0
+coto;;5;0
+crore;;5;0
+cuarto;;5;0
+dracma medicinal;;5;0
+empan;;5;0
+esqueno;;5;0
+guz;;5;0
+heqat;;5;0
+hide;;5;0
+ioyana;;5;0
+ken;;5;0
+lakh;;5;0
+mecate;;5;0
+medidas de capacidad romanas;;5;0
+mene;;5;0
+metreta;;5;0
+milla árabe;;5;0
+mistro;;5;0
+modio;;5;0
+modio de Ponte Puñide;;5;0
+morgen;;5;0
+oca;;5;0
+palma;;5;0
+parasanga;;5;0
+pichela;;5;0
+pie castellano;;5;0
+piedra;;5;0
+poncelet;;5;0
+pulgada piramidal;;5;0
+rumo;;5;0
+seked;;5;0
+sextario;;5;0
+toesa francesa;;5;0
+vara de alcalde;;5;0
+4 bits;;5;0
+8 bits;;5;0
+24 bits;;5;0
+31 bits;;5;0
+32 bits;;5;0
+48 bits;;5;0
+64 bits;;5;0
+128 bits;;5;0
+bpp;;5;0
+cúbit;;5;0
+cútrit;;5;0
+exabit;;5;0
+exbibit;;5;0
+exbibyte;;5;0
+gibibit;;5;0
+gibibyte;;5;0
+hartley;;5;0
+kibibit;;5;0
+mebibit;;5;0
+mebibyte;;5;0
+nat;;5;0
+palabra;;5;0
+pebibit;;5;0
+pebibyte;;5;0
+petabit;;5;0
+relación de aspecto de píxel;;5;0
+shannon;;5;0
+sIDALC;;5;0
+tamaño Máximo de Segmento;;5;0
+tebibit;;5;0
+tebibyte;;5;0
+terabit;;5;0
+yobibit;;5;0
+yobibyte;;5;0
+yottabit;;5;0
+zebibit;;5;0
+zebibyte;;5;0
+zettabit;;5;0
+julio por mol;;5;0
+kilogramo por metro cúbico;;5;0
+megahercio;;5;0
+metro por segundo;;5;0
+metro por segundo al cuadrado;;5;0
+newton metro;;5;0
+radián por segundo;;5;0
+s⁻¹;;5;0
+vatio por metro-kelvin;;5;0
+arpende;;5;0
+chi;;5;0
+galga;;5;0
+jet;;5;0
+leuga;;5;0
+longitud de Planck;;5;0
+longitud eléctrica;;5;0
+péndulo de segundos;;5;0
+pous;;5;0
+punto;;5;0
+punto París;;5;0
+smoot;;5;0
+uncia;;5;0
+zhang;;5;0
+attogramo;;5;0
+avoirdupois;;5;0
+buddam;;5;0
+centigramo;;5;0
+deben;;5;0
+decagramo;;5;0
+decigramo;;5;0
+equivalencia en TNT;;5;0
+femtogramo;;5;0
+gamma;;5;0
+gigatón;;5;0
+grano métrico;;5;0
+grave;;5;0
+hectogramo;;5;0
+lot;;5;0
+masa de Planck;;5;0
+masa joviana;;5;0
+masa solar;;5;0
+masa terrestre;;5;0
+medimno;;5;0
+microgramo;;5;0
+miriagramo;;5;0
+mithqal;;5;0
+nanogramo;;5;0
+omer;;5;0
+osmol;;5;0
+pennyweight;;5;0
+peso troy;;5;0
+picogramo;;5;0
+teratón;;5;0
+yoctogramo;;5;0
+zeptogramo;;5;0
+impulso específico;;5;0
+indicated Horse Power;;5;0
+megavatio térmico;;5;0
+megavoltiamperio;;5;0
+potencia de Planck;;5;0
+tonelada de refrigeración;;5;0
+voltiamperio;;5;0
+voltiamperio reactivo;;5;0
+centímetro de columna de agua;;5;0
+libra por pulgada cuadrada;;5;0
+metro de columna de agua;;5;0
+milímetro de columna de agua;;5;0
+presión de Planck;;5;0
+pulgada de columna de agua;;5;0
+succión;;5;0
+barn;;5;0
+cahizada;;5;0
+decímetro cuadrado;;5;0
+estaca;;5;0
+feddan;;5;0
+heredium;;5;0
+homestead;;5;0
+łan;;5;0
+legua cuadrada;;5;0
+milímetro cuadrado;;5;0
+pulgada cuadrada;;5;0
+rod cuadrado;;5;0
+rood;;5;0
+año del modelo;;5;0
+calendario cósmico;;5;0
+calendario pawukon;;5;0
+calendario saka balinés;;5;0
+ciclo solar;;5;0
+ciclo sotíaco;;5;0
+codificación quincena;;5;0
+cron;;5;0
+década cosmológica;;5;0
+día lunar;;5;0
+estratotipo;;5;0
+iSO 8601;;5;0
+kali-iuga;;5;0
+ma;;5;0
+manuantara;;5;0
+olimpiada;;5;0
+saeculum;;5;0
+samvatsara;;5;0
+tiempo de Planck;;5;0
+yuga;;5;0
+milla por hora;;5;0
+pie por segundo;;5;0
+velocidad de la luz variable;;5;0
+alícuota;;5;0
+attolitro;;5;0
+attómetro cúbico;;5;0
+congius;;5;0
+decalitro;;5;0
+decámetro cúbico;;5;0
+decímetro cúbico;;5;0
+escrúpulo líquido;;5;0
+femtolitro;;5;0
+hectómetro cúbico;;5;0
+hemina;;5;0
+hortera;;5;0
+jarra medidora;;5;0
+kilómetro cúbico;;5;0
+microlitro;;5;0
+milímetro cúbico;;5;0
+milla cúbica;;5;0
+minim;;5;0
+nanolitro;;5;0
+picolitro;;5;0
+pie cúbico;;5;0
+pie tabla;;5;0
+pinch;;5;0
+pulgada cúbica;;5;0
+quart;;5;0
+volumen respiratorio por minuto;;5;0
+yarda cúbica;;5;0
+kilosegundo;;5;0
+kilovoltio;;5;0
+kiloamperio;;5;0
+kilohercio;;5;0
+kilopascal;;5;0
+kilonewton;;5;0
+kiloohmio;;5;0
+kilotonelada;;5;0
+kilofaradio;;5;0
+hectosegundo;;5;0
+hectovatio;;5;0
+hectovoltio;;5;0
+hectoamperio;;5;0
+hectohercio;;5;0
+hectojulio;;5;0
+hectonewton;;5;0
+hectoohmio;;5;0
+hectobyte;;5;0
+hectobit;;5;0
+hectocaloría;;5;0
+hectotonelada;;5;0
+hectofaradio;;5;0
+decasegundo;;5;0
+decavatio;;5;0
+decavoltio;;5;0
+decaamperio;;5;0
+decahercio;;5;0
+decajulio;;5;0
+decapascal;;5;0
+decanewton;;5;0
+decaohmio;;5;0
+decabyte;;5;0
+decabit;;5;0
+decacaloría;;5;0
+decatonelada;;5;0
+decafaradio;;5;0
+decisegundo;;5;0
+decivatio;;5;0
+decivoltio;;5;0
+deciamperio;;5;0
+decihercio;;5;0
+decijulio;;5;0
+decipascal;;5;0
+decinewton;;5;0
+deciohmio;;5;0
+decibyte;;5;0
+decibit;;5;0
+decicaloría;;5;0
+decitonelada;;5;0
+decifaradio;;5;0
+centisegundo;;5;0
+centivatio;;5;0
+centivoltio;;5;0
+centiamperio;;5;0
+centihercio;;5;0
+centijulio;;5;0
+centipascal;;5;0
+centinewton;;5;0
+centiohmio;;5;0
+centibyte;;5;0
+centibit;;5;0
+centicaloría;;5;0
+centitonelada;;5;0
+centifaradio;;5;0
+milivatio;;5;0
+milivoltio;;5;0
+miliamperio;;5;0
+milihercio;;5;0
+milijulio;;5;0
+milipascal;;5;0
+milinewton;;5;0
+miliohmio;;5;0
+milibyte;;5;0
+milibit;;5;0
+milicaloría;;5;0
+militonelada;;5;0
+milifaradio;;5;0
+microvatio;;5;0
+microvoltio;;5;0
+microamperio;;5;0
+microhercio;;5;0
+microjulio;;5;0
+micropascal;;5;0
+micronewton;;5;0
+microohmio;;5;0
+microbyte;;5;0
+microbit;;5;0
+microcaloría;;5;0
+microtonelada;;5;0
+microfaradio;;5;0
+nanovatio;;5;0
+nanovoltio;;5;0
+nanoamperio;;5;0
+nanohercio;;5;0
+nanojulio;;5;0
+nanopascal;;5;0
+nanonewton;;5;0
+nanoohmio;;5;0
+nanobyte;;5;0
+nanobit;;5;0
+nanocaloría;;5;0
+nanotonelada;;5;0
+nanofaradio;;5;0
+picosegundo;;5;0
+picovatio;;5;0
+picovoltio;;5;0
+picoamperio;;5;0
+picohercio;;5;0
+picojulio;;5;0
+picopascal;;5;0
+piconewton;;5;0
+picoohmio;;5;0
+picobyte;;5;0
+picobit;;5;0
+picocaloría;;5;0
+picotonelada;;5;0
+picofaradio;;5;0
+femtosegundo;;5;0
+femtovatio;;5;0
+femtovoltio;;5;0
+femtoamperio;;5;0
+femtohercio;;5;0
+femtojulio;;5;0
+femtopascal;;5;0
+femtonewton;;5;0
+femtoohmio;;5;0
+femtobyte;;5;0
+femtobit;;5;0
+femtocaloría;;5;0
+femtotonelada;;5;0
+femtofaradio;;5;0
+megametro;;5;0
+megagramo;;5;0
+megalitro;;5;0
+megasegundo;;5;0
+megavatio;;5;0
+megavoltio;;5;0
+megaamperio;;5;0
+megajulio;;5;0
+megapascal;;5;0
+meganewton;;5;0
+megaohmio;;5;0
+megacaloría;;5;0
+megatonelada;;5;0
+megafaradio;;5;0
+gigametro;;5;0
+gigagramo;;5;0
+gigalitro;;5;0
+gigasegundo;;5;0
+gigavatio;;5;0
+gigavoltio;;5;0
+gigaamperio;;5;0
+gigahercio;;5;0
+gigajulio;;5;0
+gigapascal;;5;0
+giganewton;;5;0
+gigaohmio;;5;0
+gigacaloría;;5;0
+gigatonelada;;5;0
+gigafaradio;;5;0
+terametro;;5;0
+teragramo;;5;0
+teralitro;;5;0
+terasegundo;;5;0
+teravatio;;5;0
+teravoltio;;5;0
+teraamperio;;5;0
+terahercio;;5;0
+terajulio;;5;0
+terapascal;;5;0
+teranewton;;5;0
+teraohmio;;5;0
+teracaloría;;5;0
+teratonelada;;5;0
+terafaradio;;5;0
+petametro;;5;0
+petagramo;;5;0
+petalitro;;5;0
+petasegundo;;5;0
+petavatio;;5;0
+petavoltio;;5;0
+petaamperio;;5;0
+petahercio;;5;0
+petajulio;;5;0
+petapascal;;5;0
+petanewton;;5;0
+petaohmio;;5;0
+petacaloría;;5;0
+petatonelada;;5;0
+petafaradio;;5;0
