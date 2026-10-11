@@ -267,6 +267,7 @@ input[type=text]:focus,input[type=email]:focus,input[type=password]:focus{outlin
 .h-m{font-family:var(--sans);font-size:13px;font-weight:700;font-variant-numeric:tabular-nums}
 
 /* ── ranking ─────────────────────────────────────────── */
+.ver-top{width:100%;margin:0 0 12px}
 .cab-podio{display:flex;align-items:center;gap:12px;flex-wrap:wrap;margin:0 0 6px}
 .cab-podio h2{margin:0}
 .directo{display:inline-flex;align-items:center;gap:6px;margin-left:auto;font:inherit;font-size:13px;font-weight:800;line-height:1;text-transform:uppercase;
@@ -1192,7 +1193,7 @@ const TOP_SEMANA = {fecha:"2026-10-11", desde:"2026-10-05", lista:[
   {q:"Nombra un personaje de Bob Esponja", r:["plankton y el ordenador","ordenador de plankton","plankton y su ordenador"], de:"un invitado"},
   {q:"Nombra una canción de Taylor Swift", r:"🥸", de:"Jaime"}
 ]};
-function topSemana(){
+function topSemana(repaso){
   const L = [{titulo:true}, ...TOP_SEMANA.lista], antes = document.activeElement;
   const velo = document.createElement("div");
   velo.className = "top-velo"; velo.setAttribute("role","dialog"); velo.setAttribute("aria-modal","true"); velo.setAttribute("aria-label","Lo mejor de la semana");
@@ -1219,7 +1220,7 @@ function topSemana(){
       </div>
       <div class="top-pasos">
         <button type="button" class="ant" ${i===0?"disabled":""}>Anterior</button>
-        <button type="button" class="sig">${ultimo ? "Ver mi resultado" : "Siguiente"}</button>
+        <button type="button" class="sig">${!ultimo ? "Siguiente" : repaso ? "Cerrar" : "Ver mi resultado"}</button>
       </div>
     </div>`;
     velo.querySelector(".top-cerrar").onclick = cierra;
@@ -1784,12 +1785,14 @@ async function ranking(vista = "hoy"){
         <button type="button" role="tab" id="bPodioHoy" aria-selected="${!semana}">Hoy</button>
         <button type="button" role="tab" id="bPodioSemana" aria-selected="${semana}">Podio semanal</button>
       </div>` : ``}
+      ${hoyMadrid() >= TOP_SEMANA.fecha || location.hash === "#podio-semanal" ? `<button class="btn fantasma ver-top" id="bVerTop">Ver las mejores respuestas de la semana</button>` : ``}
       ${cuerpo}
       <div class="botonera"><button class="btn" id="bCerrar">Volver</button>
         ${Cuenta.user ? "" : `<button class="btn fantasma" id="bRankCuenta">Crear una cuenta</button>`}</div>
     </div>`;
     $("#bCerrar").addEventListener("click", () => ayuda(false));
     $("#bDirecto")?.addEventListener("click", () => ranking("semana"));
+    $("#bVerTop")?.addEventListener("click", () => { ayuda(false); topSemana(true); });
     $("#bPodioHoy")?.addEventListener("click", () => { if (semana) ranking("hoy"); });
     $("#bPodioSemana")?.addEventListener("click", () => { if (!semana) ranking("semana"); });
     $("#bRankCuenta")?.addEventListener("click", () => { ayuda(false); abreCuenta(true, "alta"); });
