@@ -121,7 +121,7 @@ MANO = {
  5: "Dominio de Valdepusa, Arínzano=Pago de Arínzano, Finca Élez, Dehesa del Carrizal, Pago Guijoso, Campo de la Guardia, Pago Florentino, Casa del Blanco, Pago Calzadilla, El Terrerazo, Otazu=Pago de Otazu, Prado de Irache, Aylés, Los Balagueses, Chozas Carrascal, Vera de Estenas, Vallegarcía=Pago de Vallegarcía, La Jaraba, Los Cerrillos, El Vicario, Abadía Retuerta, Dehesa Peñalba, Urueña, Valles de Benavente, Valtiendas, Sierra de Salamanca, Cebreros, Lebrija",
 },
 "pasta": {
- 1: "macarrones=macarrón=macaroni=maccheroni, espaguetis=spaghetti=espagueti, tallarines, lasaña=lasagna, raviolis=ravioli, canelones, fideos, ñoquis=gnocchi",
+ 1: "macarrones=macarrón=macaroni=maccheroni, espaguetis=spaghetti=espagueti, tallarines=tallarín, lasaña=lasagna, raviolis=ravioli, canelones=canelón, fideos=fideo, ñoquis=ñoqui=gnocchi",
  2: "tortellini=tortelinis, fetuccini=fettuccine=fetuchini, penne=plumas, fusilli=espirales=hélices, farfalle=lacitos=pajaritas=mariposas, rigatoni, linguine=linguini, tagliatelle=tagliatelli, pappardelle, conchas=conchiglie=caracolas, orzo=risoni, coditos=codos, estrellitas, letras=sopa de letras, cabello de ángel, tortelloni, maravilla, pistones, tiburones=tiburón, galets, ruedas=rueditas=rotelle, bucatini, orecchiette, cappelletti, ziti, capellini, vermicelli, noodles=fideos de arroz, ramen, udon, soba, mafaldine, paccheri, trofie, gemelli, cavatappi, casarecce, strozzapreti, radiatori, agnolotti, anelli, ditalini, stelline, pici, bigoli, garganelli, maltagliati, fregola, spätzle",
 },
 "salsas": {
@@ -535,10 +535,10 @@ ALIAS_MAS["senales"] = {"prohibido girar": "prohibido girar a la derecha, giro a
 ALIAS_MAS["podcasts"] = {"Marian Rojas Estapé": "El podcast de Marian Rojas, Marian Rojas, podcast de Marian Rojas Estapé", "The Wild Project": "Jordi Wild", "La Ruina": "La Ruina podcast",
  "Nadie sabe nada": "Nadie sabe nada Buenafuente y Berto", "Estirando el chicle": "Estirando el chicle podcast"}
 AMPLIA["pasta"] = """pasta fresca, lazos, pasta rellena, pasta integral, pasta al huevo, nidos, tirabuzones, caracoles, plumas rayadas, espirales tricolor, fideuá, cuscús,
- fideo fino, fideo gordo, fideo grueso, fideos chinos, fideos de huevo, fideos de cristal, fideos udon, fideos soba, yakisoba, pad thai, tallarín, espagueti integral, espaguetis negros,
+ fideo fino, fideo gordo, fideo grueso, fideos chinos, fideos de huevo, fideos de cristal, fideos udon, fideos soba, yakisoba, pad thai, espagueti integral, espaguetis negros,
  pasta de espinacas, pasta de colores, pasta de lentejas, pasta sin gluten, pasta de sopa, pasta corta, pasta larga, sopa de fideos, estrellas, letritas, piñones, lluvia, tapioca,
  codillos, caracolitos, plumitas, tornillos, hélices tricolor, margaritas, moñitos, corbatas=corbatitas, canutos, tubos, ojos de perdiz, munición, dedalitos, cabellín,
- tortelini, raviolones, sorrentinos, panzotti, mezzelune, caramelle, fagottini, girasoli, triangoli, lasaña de verduras, canelón, rollos de lasaña, placas de lasaña, wonton, gyozas,
+ tortelini, raviolones, sorrentinos, panzotti, mezzelune, caramelle, fagottini, girasoli, triangoli, lasaña de verduras, rollos de lasaña, placas de lasaña, wonton, gyozas,
  pelmeni, pierogi, spaghettini, spaghettoni, bavette, tagliolini, fettuccelle, lasagnette, reginette, tripoline, fusilli lunghi, fusilloni, eliche, rotini, cellentani, torchio,
  penne rigate, penne lisce, pennette, mezze penne, mezzi rigatoni, sedani, tortiglioni, elicoidali, calamarata, cannelloni, conchiglioni, lumache, lumaconi, pipe rigate,
  gomiti, chifferi, creste di gallo, campanelle, gigli, orzo, puntalette, acini di pepe, tubetti, quadretti, farfalline, alfabeto, risi, semi di melone"""

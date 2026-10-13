@@ -1,12 +1,12 @@
 respuesta;alias;nivel;ediciones_wikipedia
 macarrones;macarrón|macaroni|maccheroni;1;1000000000
 espaguetis;spaghetti|espagueti;1;999999999
-tallarines;;1;999999998
+tallarines;tallarín;1;999999998
 lasaña;lasagna;1;999999997
 raviolis;ravioli;1;999999996
-canelones;;1;999999995
-fideos;;1;999999994
-ñoquis;gnocchi;1;999999993
+canelones;canelón;1;999999995
+fideos;fideo;1;999999994
+ñoquis;ñoqui|gnocchi;1;999999993
 tortellini;tortelinis;2;1000000000
 fetuccini;fettuccine|fetuchini;2;999999999
 penne;plumas;2;999999998
@@ -56,7 +56,6 @@ garganelli;;4;999999955
 maltagliati;;4;999999954
 fregola;;4;999999953
 spätzle;;4;999999952
-ñoqui;;5;53
 pizzoccheri;;5;24
 Tarhonya;egg barley;5;22
 cavatelli;;5;17
@@ -152,7 +151,6 @@ fideos udon;;5;0
 fideos soba;;5;0
 yakisoba;;5;0
 pad thai;;5;0
-tallarín;;5;0
 espagueti integral;;5;0
 espaguetis negros;;5;0
 pasta de espinacas;;5;0
@@ -190,7 +188,6 @@ caramelle;;5;0
 girasoli;;5;0
 triangoli;;5;0
 lasaña de verduras;;5;0
-canelón;;5;0
 rollos de lasaña;;5;0
 placas de lasaña;;5;0
 wonton;;5;0
