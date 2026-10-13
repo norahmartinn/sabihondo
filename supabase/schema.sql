@@ -105,21 +105,46 @@ grant execute on function public.sabihondo_ranking(date) to anon, authenticated;
 -- Igual que el ranking del día: ni emails ni respuestas. En el empate va antes quien menos días necesitó.
 -- Quien tenga fuera_top = true en los datos de su cuenta no sale (la autora del juego). Se pone una vez con:
 --   update auth.users set raw_user_meta_data = coalesce(raw_user_meta_data, '{}'::jsonb) || '{"fuera_top": true}'::jsonb where email = '…';
+-- Metros extra para el podio semanal (premios, compensaciones). No tocan la partida ni el podio del día:
+-- solo se suman en sabihondo_semana, en la semana en la que cae su fecha. Se apuntan a mano desde el editor SQL:
+--   insert into public.sabihondo_extras (user_id, metros, motivo)
+--   select id, 10, '…' from auth.users where btrim(raw_user_meta_data->>'apodo') ilike '…' returning *;
+create table if not exists public.sabihondo_extras (
+  id         bigint      generated always as identity primary key,
+  user_id    uuid        not null references auth.users(id) on delete cascade,
+  fecha      date        not null default current_date,
+  metros     integer     not null,
+  motivo     text,
+  created_at timestamptz not null default now()
+);
+grant all on public.sabihondo_extras to service_role;
+alter table public.sabihondo_extras enable row level security;
+
 create or replace function public.sabihondo_semana(desde date, hasta date)
 returns table (puesto bigint, apodo text, metros bigint, dias bigint, eres_tu boolean)
 language sql stable security definer set search_path = ''
 as $$
-  select rank() over (order by sum(p.puntos) desc),
+  with jugado as (
+    select p.user_id, sum(p.puntos) as metros, count(*) as dias
+    from public.sabihondo_partidas p
+    where p.fecha between sabihondo_semana.desde and sabihondo_semana.hasta
+    group by p.user_id
+  ), extra as (
+    select e.user_id, sum(e.metros) as metros
+    from public.sabihondo_extras e
+    where e.fecha between sabihondo_semana.desde and sabihondo_semana.hasta
+    group by e.user_id
+  )
+  select rank() over (order by j.metros + coalesce(x.metros, 0) desc),
          left(coalesce(nullif(btrim(u.raw_user_meta_data->>'apodo'), ''), 'Anónimo'), 20),
-         sum(p.puntos),
-         count(*),
-         coalesce(p.user_id = auth.uid(), false)
-  from public.sabihondo_partidas p
-  join auth.users u on u.id = p.user_id
-  where p.fecha between sabihondo_semana.desde and sabihondo_semana.hasta
-    and coalesce(u.raw_user_meta_data->>'fuera_top', '') <> 'true'
-  group by p.user_id, u.raw_user_meta_data
-  order by sum(p.puntos) desc, count(*) asc
+         j.metros + coalesce(x.metros, 0),
+         j.dias,
+         coalesce(j.user_id = auth.uid(), false)
+  from jugado j
+  join auth.users u on u.id = j.user_id
+  left join extra x on x.user_id = j.user_id
+  where coalesce(u.raw_user_meta_data->>'fuera_top', '') <> 'true'
+  order by j.metros + coalesce(x.metros, 0) desc, j.dias asc
   limit 100;
 $$;
 revoke all on function public.sabihondo_semana(date, date) from public;
