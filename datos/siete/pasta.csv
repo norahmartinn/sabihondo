@@ -1,5 +1,5 @@
 respuesta;alias;nivel;ediciones_wikipedia
-macarrones;;1;1000000000
+macarrones;macarrón|macaroni|maccheroni;1;1000000000
 espaguetis;spaghetti|espagueti;1;999999999
 tallarines;;1;999999998
 lasaña;lasagna;1;999999997
@@ -56,7 +56,6 @@ garganelli;;4;999999955
 maltagliati;;4;999999954
 fregola;;4;999999953
 spätzle;;4;999999952
-macarrón;macaroni;5;72
 ñoqui;;5;53
 pizzoccheri;;5;24
 Tarhonya;egg barley;5;22
@@ -212,7 +211,6 @@ penne lisce;;5;0
 pennette;;5;0
 mezze penne;;5;0
 mezzi rigatoni;;5;0
-maccheroni;;5;0
 elicoidali;;5;0
 cannelloni;;5;0
 lumaconi;;5;0
