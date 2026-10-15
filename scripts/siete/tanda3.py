@@ -26,7 +26,7 @@ VARIANTES = {
  "universidades": ["universidad {}", "universitat {}"], "estadios": ["estadio {}", "campo {}", "nuevo {}", "estadio municipal {}"],
  "salsas": ["salsa {}"], "pizza": ["pizza {}"], "barrios_madrid": ["barrio {}"], "paradores": ["parador {}", "parador nacional {}"],
  "aeropuertos": ["aeropuerto {}"], "senales": ["señal {}"], "ministerios": ["ministerio {}"], "vinos": ["vino {}", "denominación de origen {}", "do {}"],
- "generos": ["música {}"], "impuestos": [], "aerolineas": ["{} airlines", "{} airways"],
+ "generos": ["música {}"], "palabras_k": ["{}s", "{}es"], "impuestos": [], "aerolineas": ["{} airlines", "{} airways"],
 }
 def trozos(texto):
     for x in texto.replace("\n", " ").split(","):
@@ -254,8 +254,8 @@ def cinco_vocales():
 def palabras_k():
     lema, frec = _palabras()
     cola = [(p, [], 4 if p in frec else 5, 10**5 - frec.get(p, 10**5)) for p in lema if re.fullmatch(r"k[a-záéíóúüñ]{2,}", p)]
+    cola = [(p, al + [v.format(p) for v in VARIANTES["palabras_k"]], nv, val) for p, al, nv, val in cola]   # plurales (kilos, kiwis…)
     cola += [(p.strip().lower(), [], 5, 0) for p in open(D3 / "palabras_todas.txt", encoding="utf-8", errors="replace") if p[:1].lower() == "k" and len(p.strip()) > 2]
-    cola += [(p, [], 5, 0) for p in frec if p.startswith("k") and len(p) > 2 and p.isalpha()]       # las que se usan aunque no estén en el diccionario (kevin, karen…)
     junta("palabras_k", cola, "frecuencia_de_uso")
 
 # ── nombres del INE ──
