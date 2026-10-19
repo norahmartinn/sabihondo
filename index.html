@@ -1200,13 +1200,13 @@ function escalera(r){
    supabase/schema.sql); si la función no está o no hay nadie, esa pantalla no sale.
    Para verlo sin jugar: abrir la página con #top-semana al final de la dirección. */
 const TOP_SEMANA = {fecha:"2026-10-19", desde:"2026-10-12", hasta:"2026-10-18", lista:[
-  {q:"Nombra un sabor de pizza", r:"mortadela con trufa"},
-  {q:"Nombra un país que sea una isla", r:"epstein"},
-  {q:"Nombra un personaje de Shrek", r:"la vieja que vende al burro"},
-  {q:"Nombra un país que sea una isla", r:"mallorca"},
-  {q:"Nombra un nombre compuesto", r:"Mike el jackson"},
-  {q:"Nombra una salsa", r:["llave acida", "lotus chocolate dubai"]},
-  {q:"Nombra una universidad de España", r:"universidad de la calle"}
+  {q:"Nombra un sabor de pizza", r:"mortadela con trufa", de:"Adrián"},
+  {q:"Nombra un país que sea una isla", r:"epstein", de:"un invitado"},
+  {q:"Nombra un personaje de Shrek", r:"la vieja que vende al burro", de:"Rafel"},
+  {q:"Nombra un país que sea una isla", r:"mallorca", de:"Carla"},
+  {q:"Nombra un nombre compuesto", r:"Mike el jackson", de:"Rafel"},
+  {q:"Nombra una salsa", r:["lotus chocolate dubai", "llave acida"], de:"el goat y Gafas"},
+  {q:"Nombra una universidad de España", r:"universidad de la calle", de:"Gafas"}
 ]};
 function topSemana(repaso){
   const L = [{titulo:true}, ...TOP_SEMANA.lista], antes = document.activeElement;
