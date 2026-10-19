@@ -939,6 +939,10 @@ function portada(){
   const est = stats();
   const hecho = hechoHoy();
   profMeta = 0; fijaPines([]); pintaRecord();
+  if (hecho && hoyMadrid() === TOP_SEMANA.fecha && !guarda.get("top:"+TOP_SEMANA.fecha, false)){
+    guarda.set("top:"+TOP_SEMANA.fecha, true);
+    setTimeout(() => { if (pantalla === "portada") topSemana(true); }, 700);
+  }
 
   rescataIceberg(); escena.innerHTML = `
   <div class="panel">
@@ -1189,18 +1193,21 @@ function escalera(r){
 
 /* ═════════ lo mejor de la semana ═════════
    Las respuestas más graciosas (salen de la tabla sabihondo_fallos), una por pantalla. Se enseña una vez,
-   al acabar la partida diaria de TOP_SEMANA.fecha. Para otra semana: cambiar la fecha y la lista.
+   al acabar la partida diaria de TOP_SEMANA.fecha (o al entrar ese día, si ya la había acabado). Para otra semana: cambiar
+   la fecha y la lista. `de` (el apodo) es opcional.
    Cuando alguien probó varias veces lo mismo, `r` es la lista de intentos en el orden en que los escribió.
-   La última pantalla son los cinco que más metros han bajado entre `desde` y `fecha` (función sabihondo_semana de
+   La última pantalla son los cinco que más metros han bajado entre `desde` y `hasta` (o `fecha`) (función sabihondo_semana de
    supabase/schema.sql); si la función no está o no hay nadie, esa pantalla no sale.
    Para verlo sin jugar: abrir la página con #top-semana al final de la dirección. */
-const TOP_SEMANA = {fecha:"2026-10-11", desde:"2026-10-05", lista:[
-  {q:"Nombra un personaje de Bob Esponja", r:"abuela pasa", de:"Adriana"},
-  {q:"Nombra una marca de zapatillas", r:"iphone", de:"el goat"},
-  {q:"Nombra algo del menú de McDonald's", r:"mc aitana", de:"Rafel"},
-  {q:"Nombra un rapero o trapero español", r:["cerotrece","013","cero13"], de:"el goat"},
-  {q:"Nombra un personaje de Bob Esponja", r:["plankton y el ordenador","ordenador de plankton","plankton y su ordenador"], de:"un invitado"},
-  {q:"Nombra una canción de Taylor Swift", r:"🥸", de:"Jaime"}
+const TOP_SEMANA = {fecha:"2026-10-19", desde:"2026-10-12", hasta:"2026-10-18", lista:[
+  {q:"Nombra un sabor de pizza", r:"mortadela con trufa"},
+  {q:"Nombra un país que sea una isla", r:"epstein"},
+  {q:"Nombra un personaje de Shrek", r:"la vieja que vende al burro"},
+  {q:"Nombra un país que sea una isla", r:"mallorca"},
+  {q:"Nombra un nombre compuesto", r:"Mike el jackson"},
+  {q:"Nombra una salsa", r:"llave acida"},
+  {q:"Nombra una salsa", r:"lotus chocolate dubai"},
+  {q:"Nombra una universidad de España", r:"universidad de la calle"}
 ]};
 function topSemana(repaso){
   const L = [{titulo:true}, ...TOP_SEMANA.lista], antes = document.activeElement;
@@ -1217,7 +1224,7 @@ function topSemana(repaso){
          <ol class="top-metros">${t.filas.map(f => `<li class="${f.eres_tu ? "tu" : ""}"><span>${f.puesto}</span><b>${esc(f.apodo)}${f.eres_tu ? " (tú)" : ""}</b><em>${mil(f.metros)} m</em></li>`).join("")}</ol>`
       : `<p class="top-preg">${esc(t.q)}</p>
          ${[].concat(t.r).map(x => `<p class="top-resp${Array.isArray(t.r) ? " varias" : ""}${/[\p{L}\p{N}]/u.test(x) ? "" : " recta"}">"${esc(x)}"</p>`).join("")}
-         <p class="top-quien">de ${esc(t.de)}</p>`;
+         ${t.de ? `<p class="top-quien">de ${esc(t.de)}</p>` : ""}`;
     velo.innerHTML = `
     <div class="top-carta">
       <div>
@@ -1244,7 +1251,7 @@ function topSemana(repaso){
   };
   document.addEventListener("keydown", tecla);
   document.body.append(velo); pinta();
-  Cuenta.sb?.rpc("sabihondo_semana", {desde:TOP_SEMANA.desde, hasta:TOP_SEMANA.fecha}).then(({data, error}) => {
+  Cuenta.sb?.rpc("sabihondo_semana", {desde:TOP_SEMANA.desde, hasta:TOP_SEMANA.hasta || TOP_SEMANA.fecha}).then(({data, error}) => {
     if (error || !data?.length || !velo.isConnected) return;
     L.push({filas:data.slice(0,5)}); pinta();
   }, () => {});
