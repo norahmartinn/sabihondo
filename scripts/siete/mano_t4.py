@@ -226,3 +226,37 @@ MANO.update({
 "inter": {1: "internet, interés, interior, internacional, intermedio, interesante, intervalo, interrumpir, interruptor, interno", 2: "intercambio, intercambiar, interpretar, intérprete, interpretación, intervenir, intervención, interrogar, interrogatorio, interrogación, interesar, interesado, interino, interfaz, interfono, interactivo, interacción, intercity, interurbano, interbancario, intercostal, interdental, interestatal, interminable, intermitente, internado, internauta, interponer, interpuesto, intersección, interlocutor, intermediario, internacionalizar, desinterés=desinteresado, interiorizar, interjección, interludio, intermedia, interrail, intercontinental, interpersonal, interdisciplinar, interconexión, interferencia, interferir", 3: "intersticio, interregno, interlineado, interlínea, interinidad, interlocución, intercesión, interceder, interceptar, intercalar, intercomunicador, interdependencia, interdicto, interfecto, interestelar, intergaláctico, intermediación, interministerial, internalizar, interoperabilidad, interparlamentario, interpelar, interpelación, interpolar, interpolación, interracial, interregional, intertextual, intertextualidad, interurbano, intervalo, intervencionismo, interventor, intervertebral, intervocálico, linterna"},
 "esdrujulas": {1: "plátano, música, pájaro, teléfono, sábado, miércoles, médico, número, último, rápido, matemáticas, esdrújula, brújula, lámpara, cámara, página"},
 })
+
+# ── repaso del 19 de octubre: respuestas acertadas que no estaban ──
+MAS = {}
+ALIAS_MAS.update({
+ "frigo": {"Magnum Almendras": "Magnum Almond, Magnum almendrado", "Magnum Blanco": "Magnum chocolate blanco", "Viennetta": "tarta Viennetta",
+           "Frigopie": "Frigopie de fresa, Frigo pie de fresa", "Calippo": "Calipo de lima, Calippo de lima"},
+ "friends": {"Judy Geller": "Judy, la madre de Ross, la madre de Monica, Mrs. Geller", "Jack Geller": "Jack, el padre de Ross, el padre de Monica",
+             "Fun Bobby": "Bobby", "Charles Bing": "Helena, el padre de Chandler", "Paul Stevens": "Paul", "Frank": "Frank Jr., Frank Junior, el hermano de Phoebe",
+             "Marcel": "el mono, el mono de Ross", "Lily Buffay": "Lily, la madre de Phoebe", "Phoebe Abbott": "Phoebe Senior, Phoebe Abbott Sr.",
+             "Treeger": "Mr. Treeger, el portero, el casero", "Mindy": "Mindy Hunter",  "Nora Bing": "la madre de Chandler", "Amy Green": "la hermana de Rachel",
+             "Carol": "la ex de Ross, la exmujer de Ross", "Emily": "la mujer inglesa de Ross"},
+ "huesos": {"cráneo": "calavera", "columna": "columna vertebral, espinazo", "cúbito": "ulna", "sacro": "hueso sacro"},
+ "provincias": {"Guipúzcoa": "Donostia, Donostia-San Sebastián", "Álava": "Vitoria-Gasteiz, Gasteiz", "Islas Baleares": "Palma de Mallorca, Palma, Ibiza, Menorca, Formentera", "Las Palmas": "Lanzarote, Fuerteventura", "Asturias": "Principado de Asturias", "Murcia": "Región de Murcia", "Madrid": "Comunidad de Madrid", "Santa Cruz de Tenerife": "La Palma, La Gomera, El Hierro, Santa Cruz",
+                "Castellón": "Castellón de la Plana"},
+ "circuitos_f1": {"Montmeló": "Cataluña, España, Gran Premio de España", "Spa": "Bélgica", "Interlagos": "Brasil, São Paulo, Sao Paulo",
+                  "Suzuka": "Japón", "Hungaroring": "Budapest", "Circuito de las Américas": "Estados Unidos, EEUU", "Zandvoort": "Holanda, Países Bajos",
+                  "Yeda": "Arabia Saudita, Yida", "Shanghái": "China", "Autódromo Hermanos Rodríguez": "Hermanos Rodríguez, Ciudad de México",
+                  "Hockenheim": "Alemania", "Paul Ricard": "Francia", "Portimão": "Portugal, Portimao", "Sepang": "Malasia",
+                  "Kyalami": "Sudáfrica", "Nürburgring": "Nordschleife, Nürburgring Nordschleife", "Silverstone": "Inglaterra, Reino Unido, Gran Bretaña",
+                  "Monza": "Italia", "Anderstorp": "Suecia", "Ain-Diab": "Marruecos", "Bremgarten": "Suiza", "Imola": "Imola Enzo e Dino Ferrari", "Mónaco": "Principado de Mónaco"},
+ "sabores_helado": {"menta": "chocolate menta, mint chocolate chip", "Ferrero Rocher": "Ferrero", "galleta": "cookies and cream, cookies & cream, cookies n cream",
+                    "nata con nueces": "nueces", "pitufo": "smurf, azul", "tutti frutti": "tutifruti", "maracuyá": "fruta de la pasión, pasión",
+                    "turrón": "turrón de Jijona, turrón blando", "mantequilla de cacahuete": "crema de cacahuete, peanut butter", "higo": "higos",
+                    "crema de orujo": "orujo", "vainilla": "vainilla de Madagascar, vainilla francesa", "chicle": "bubblegum, bubble gum"},
+})
+MAS.update({
+ "frigo": {3: "Magnum Gold, Magnum Ruby, Magnum Pink, Magnum Double Chocolate, Magnum Caramel, Cornetto Clásico, Cornetto Chocolate, Cornetto Nata Fresa=Cornetto fresa y nata=Corneto fresa, Cornetto Vainilla, Cornetto Mini=Mini Cornetto, Calippo lima-limón=Calippo limón=Calippo lima, Calippo fresa, Calippo cola, Calippo naranja",
+           4: "Magnum Infinity, Magnum Ego, Cornetto Enigma, Magnum Almendras Blanco, Magnum Mini Classic"},
+ "friends": {3: "las hermanas de Joey, Gina=Gina Tribbiani, Tina=Tina Tribbiani, Veronica=Veronica Tribbiani, Cookie=Cookie Tribbiani, Mary Therese=Mary Teresa, Frances=la abuela de Phoebe, los trillizos=trillizos, Drake Ramoray=Dr. Drake Ramoray=Ramoray, Chloe, Duncan, Kip, Chip=Chip Matthews, Ronni=Ronni Rapalono"},
+ "palabras_x": {5: "xenial, xiloteca, xileno, xilitol, xilosa, xantina, xenobiótico, xenolito, xenotrasplante=xenotransplante, xilografiar, xilógrafo, xerófita, xerocopiar, xifosuro"},
+ "sabores_helado": {3: "chocolate con leche, after eight, kinder bueno, lacasitos, leche condensada, yogur griego, tres chocolates=triple chocolate, chocolate belga, nata y fresa=fresa y nata=fresa con nata, polvorón, mazapán, roscón=roscón de reyes, panettone, cookies, queso, cuajada, café con leche, nubes=marshmallow, algodón de azúcar, unicornio, M&M's=M&M=mm",
+                    4: "aguacate, guayaba, papaya, uva, mantecado, filipinos, príncipe, chips ahoy, donut=donuts, whisky, ron, gin tonic, frutas tropicales, lichi=litchi, chai, requesón, ricotta, dátil=dátiles, tarta de manzana=apple pie, calabaza, boniato=batata, zanahoria, sésamo, cardamomo, azafrán, chocolate suizo, rocky road, arcoíris, leche, crema, turrón de Alicante, yogur con frutos rojos, cheesecake de frutos rojos",
+                    5: "remolacha, tomate, mangostán, pimienta, chile, aceite de oliva, sal, aceituna"},
+})

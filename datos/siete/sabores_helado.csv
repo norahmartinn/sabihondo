@@ -1,130 +1,189 @@
 respuesta;alias;nivel;orden_a_mano
-chocolate;;1;1000000000
-vainilla;;1;999999999
-fresa;;1;999999998
-nata;;1;999999997
-limón;;1;999999996
-stracciatella;estracciatela;1;999999995
-pistacho;;1;999999994
-turrón;;1;999999993
-galleta;cookies;1;999999992
-dulce de leche;;1;999999991
-menta;menta con chocolate|menta chocolate;1;999999990
-café;;1;999999989
-avellana;;1;999999988
-mango;;1;999999987
-coco;;1;999999986
-tarta de queso;cheesecake;2;1000000000
-yogur;yogurt;2;999999999
-frutos rojos;;2;999999998
-frambuesa;;2;999999997
-plátano;;2;999999996
-caramelo;toffee;2;999999995
-leche merengada;merengada;2;999999994
-nata con nueces;;2;999999993
-ron con pasas;ron pasas;2;999999992
-tiramisú;;2;999999991
-Oreo;;2;999999990
-Kinder;;2;999999989
-Nutella;;2;999999988
-chicle;bubblegum;2;999999987
-pitufo;;2;999999986
-mandarina;;2;999999985
-naranja;;2;999999984
-sandía;;2;999999983
-melón;;2;999999982
-piña;;2;999999981
-maracuyá;;2;999999980
-chocolate blanco;;2;999999979
-chocolate negro;;2;999999978
-cacahuete;;2;999999977
-mantequilla de cacahuete;;2;999999976
-praliné;;2;999999975
-crema catalana;;2;999999974
-arroz con leche;;2;999999973
-horchata;;2;999999972
-canela;;2;999999971
-almendra;;2;999999970
-nuez;;2;999999969
-mojito;;2;999999968
-Ferrero Rocher;;2;999999967
-Lotus;galleta Lotus;2;999999966
-brownie;;2;999999965
-cookie dough;masa de galleta;2;999999964
-mascarpone;;3;1000000000
-avellana tostada;;3;999999999
-kiwi;;3;999999998
-cereza;;3;999999997
-melocotón;;3;999999996
-pera;;3;999999995
-manzana;;3;999999994
-manzana verde;;3;999999993
-higo;;3;999999992
-mora;;3;999999991
-arándano;;3;999999990
-grosella;;3;999999989
-granada;;3;999999988
-frutas del bosque;;3;999999987
-lima;;3;999999986
-pomelo;;3;999999985
-tutti frutti;;3;999999984
-fior di latte;flor de leche;3;999999983
-gianduja;;3;999999982
-zabaione;;3;999999981
-amarena;;3;999999980
-bacio;;3;999999979
-cassata;;3;999999978
-spumoni;;3;999999977
-sorbete de limón;sorbete;3;999999976
-sorbete de mandarina;;3;999999975
-té verde;matcha;4;999999974
-sésamo negro;;4;999999973
-lavanda;;4;999999972
-rosa;;4;999999971
-violeta;;4;999999970
-regaliz;;4;999999969
-anís;;4;999999968
-jengibre;;4;999999967
-miel;;4;999999966
-miel y nueces;;4;999999965
-chocolate con naranja;;4;999999964
-chocolate picante;;4;999999963
-aceite de oliva;;4;999999962
-queso azul;;4;999999961
-torrija;;4;999999960
-leche frita;;4;999999959
-crema tostada;;4;999999958
-flan;;4;999999957
-natillas;;4;999999956
-bizcocho;;4;999999955
-tarta de la abuela;;4;999999954
-galleta María;;4;999999953
-speculoos;;4;999999952
-palomitas;;4;999999951
-Kit Kat;;4;999999950
-Snickers;;4;999999949
-Twix;;5;999999948
-M&M's;;5;999999947
-dulce de batata;;5;999999946
-lúcuma;;5;999999945
-chirimoya;;5;999999944
-guanábana;;5;999999943
-ube;;5;999999942
-taro;;5;999999941
-durian;;5;999999940
-yuzu;;5;999999939
-salted caramel;caramelo salado;5;999999938
-crema de orujo;;5;999999937
-licor 43;;5;999999936
-Baileys;;5;999999935
-champán;cava;5;999999934
-piña colada;;5;999999933
-margarita;;5;999999932
-mojito de fresa;;5;999999931
-vino tinto;;5;999999930
-cerveza;;5;999999929
-chocolate con churros;;5;999999928
-café irlandés;;5;999999927
-capuchino;;5;999999926
-moca;moka;5;999999925
-nocciola;;5;999999924
+chocolate;helado de chocolate|sabor chocolate;1;1000000000
+vainilla;vainilla de Madagascar|vainilla francesa|helado de vainilla|sabor vainilla|helado de vainilla de Madagascar|sabor vainilla de Madagascar|helado de vainilla francesa|sabor vainilla francesa;1;999999999
+fresa;helado de fresa|sabor fresa;1;999999998
+nata;helado de nata|sabor nata;1;999999997
+limón;helado de limón|sabor limón;1;999999996
+stracciatella;estracciatela|helado de stracciatella|sabor stracciatella|helado de estracciatela|sabor estracciatela;1;999999995
+pistacho;helado de pistacho|sabor pistacho;1;999999994
+turrón;turrón de Jijona|turrón blando|helado de turrón|sabor turrón|helado de turrón de Jijona|sabor turrón de Jijona|helado de turrón blando|sabor turrón blando;1;999999993
+galleta;cookies|cookies and cream|cookies & cream|cookies n cream|helado de galleta|sabor galleta|helado de cookies|sabor cookies|helado de cookies and cream|sabor cookies and cream|helado de cookies & cream|sabor cookies & cream|helado de cookies n cream|sabor cookies n cream;1;999999992
+dulce de leche;helado de dulce de leche|sabor dulce de leche;1;999999991
+menta;menta con chocolate|menta chocolate|chocolate menta|mint chocolate chip|helado de menta|sabor menta|helado de menta con chocolate|sabor menta con chocolate|helado de menta chocolate|sabor menta chocolate|helado de chocolate menta|sabor chocolate menta|helado de mint chocolate chip|sabor mint chocolate chip;1;999999990
+café;helado de café|sabor café;1;999999989
+avellana;helado de avellana|sabor avellana;1;999999988
+mango;helado de mango|sabor mango;1;999999987
+coco;helado de coco|sabor coco;1;999999986
+tarta de queso;cheesecake|helado de tarta de queso|sabor tarta de queso|helado de cheesecake|sabor cheesecake;2;1000000000
+yogur;yogurt|helado de yogur|sabor yogur|helado de yogurt|sabor yogurt;2;999999999
+frutos rojos;helado de frutos rojos|sabor frutos rojos;2;999999998
+frambuesa;helado de frambuesa|sabor frambuesa;2;999999997
+plátano;helado de plátano|sabor plátano;2;999999996
+caramelo;toffee|helado de caramelo|sabor caramelo|helado de toffee|sabor toffee;2;999999995
+leche merengada;merengada|helado de leche merengada|sabor leche merengada|helado de merengada|sabor merengada;2;999999994
+nata con nueces;nueces|helado de nata con nueces|sabor nata con nueces|helado de nueces|sabor nueces;2;999999993
+ron con pasas;ron pasas|helado de ron con pasas|sabor ron con pasas|helado de ron pasas|sabor ron pasas;2;999999992
+tiramisú;helado de tiramisú|sabor tiramisú;2;999999991
+Oreo;helado de Oreo|sabor Oreo;2;999999990
+Kinder;helado de Kinder|sabor Kinder;2;999999989
+Nutella;helado de Nutella|sabor Nutella;2;999999988
+chicle;bubblegum|helado de chicle|sabor chicle|helado de bubblegum|sabor bubblegum;2;999999987
+pitufo;smurf|azul|helado de pitufo|sabor pitufo|helado de smurf|sabor smurf|helado de azul|sabor azul;2;999999986
+mandarina;helado de mandarina|sabor mandarina;2;999999985
+naranja;helado de naranja|sabor naranja;2;999999984
+sandía;helado de sandía|sabor sandía;2;999999983
+melón;helado de melón|sabor melón;2;999999982
+piña;helado de piña|sabor piña;2;999999981
+maracuyá;fruta de la pasión|pasión|helado de maracuyá|sabor maracuyá|helado de fruta de la pasión|sabor fruta de la pasión|helado de pasión|sabor pasión;2;999999980
+chocolate blanco;helado de chocolate blanco|sabor chocolate blanco;2;999999979
+chocolate negro;helado de chocolate negro|sabor chocolate negro;2;999999978
+cacahuete;helado de cacahuete|sabor cacahuete;2;999999977
+mantequilla de cacahuete;crema de cacahuete|peanut butter|helado de mantequilla de cacahuete|sabor mantequilla de cacahuete|helado de crema de cacahuete|sabor crema de cacahuete|helado de peanut butter|sabor peanut butter;2;999999976
+praliné;helado de praliné|sabor praliné;2;999999975
+crema catalana;helado de crema catalana|sabor crema catalana;2;999999974
+arroz con leche;helado de arroz con leche|sabor arroz con leche;2;999999973
+horchata;helado de horchata|sabor horchata;2;999999972
+canela;helado de canela|sabor canela;2;999999971
+almendra;helado de almendra|sabor almendra;2;999999970
+nuez;helado de nuez|sabor nuez;2;999999969
+mojito;helado de mojito|sabor mojito;2;999999968
+Ferrero Rocher;Ferrero|helado de Ferrero Rocher|sabor Ferrero Rocher|helado de Ferrero|sabor Ferrero;2;999999967
+Lotus;galleta Lotus|helado de Lotus|sabor Lotus|helado de galleta Lotus|sabor galleta Lotus;2;999999966
+brownie;helado de brownie|sabor brownie;2;999999965
+cookie dough;masa de galleta|helado de cookie dough|sabor cookie dough|helado de masa de galleta|sabor masa de galleta;2;999999964
+mascarpone;helado de mascarpone|sabor mascarpone;3;1000000000
+avellana tostada;helado de avellana tostada|sabor avellana tostada;3;999999999
+kiwi;helado de kiwi|sabor kiwi;3;999999998
+cereza;helado de cereza|sabor cereza;3;999999997
+melocotón;helado de melocotón|sabor melocotón;3;999999996
+pera;helado de pera|sabor pera;3;999999995
+manzana;helado de manzana|sabor manzana;3;999999994
+manzana verde;helado de manzana verde|sabor manzana verde;3;999999993
+higo;higos|helado de higo|sabor higo|helado de higos|sabor higos;3;999999992
+mora;helado de mora|sabor mora;3;999999991
+arándano;helado de arándano|sabor arándano;3;999999990
+grosella;helado de grosella|sabor grosella;3;999999989
+granada;helado de granada|sabor granada;3;999999988
+frutas del bosque;helado de frutas del bosque|sabor frutas del bosque;3;999999987
+lima;helado de lima|sabor lima;3;999999986
+pomelo;helado de pomelo|sabor pomelo;3;999999985
+tutti frutti;tutifruti|helado de tutti frutti|sabor tutti frutti|helado de tutifruti|sabor tutifruti;3;999999984
+fior di latte;flor de leche|helado de fior di latte|sabor fior di latte|helado de flor de leche|sabor flor de leche;3;999999983
+gianduja;helado de gianduja|sabor gianduja;3;999999982
+zabaione;helado de zabaione|sabor zabaione;3;999999981
+amarena;helado de amarena|sabor amarena;3;999999980
+bacio;helado de bacio|sabor bacio;3;999999979
+cassata;helado de cassata|sabor cassata;3;999999978
+spumoni;helado de spumoni|sabor spumoni;3;999999977
+sorbete de limón;sorbete|helado de sorbete de limón|sabor sorbete de limón|helado de sorbete|sabor sorbete;3;999999976
+sorbete de mandarina;helado de sorbete de mandarina|sabor sorbete de mandarina;3;999999975
+chocolate con leche;helado de chocolate con leche|sabor chocolate con leche;3;100000000
+after eight;helado de after eight|sabor after eight;3;99999999
+kinder bueno;helado de kinder bueno|sabor kinder bueno;3;99999998
+lacasitos;helado de lacasitos|sabor lacasitos;3;99999997
+leche condensada;helado de leche condensada|sabor leche condensada;3;99999996
+yogur griego;helado de yogur griego|sabor yogur griego;3;99999995
+tres chocolates;triple chocolate|helado de tres chocolates|sabor tres chocolates|helado de triple chocolate|sabor triple chocolate;3;99999994
+chocolate belga;helado de chocolate belga|sabor chocolate belga;3;99999993
+nata y fresa;fresa y nata|fresa con nata|helado de nata y fresa|sabor nata y fresa|helado de fresa y nata|sabor fresa y nata|helado de fresa con nata|sabor fresa con nata;3;99999992
+polvorón;helado de polvorón|sabor polvorón;3;99999991
+mazapán;helado de mazapán|sabor mazapán;3;99999990
+roscón;roscón de reyes|helado de roscón|sabor roscón|helado de roscón de reyes|sabor roscón de reyes;3;99999989
+panettone;helado de panettone|sabor panettone;3;99999988
+queso;helado de queso|sabor queso;3;99999986
+cuajada;helado de cuajada|sabor cuajada;3;99999985
+café con leche;helado de café con leche|sabor café con leche;3;99999984
+nubes;marshmallow|helado de nubes|sabor nubes|helado de marshmallow|sabor marshmallow;3;99999983
+algodón de azúcar;helado de algodón de azúcar|sabor algodón de azúcar;3;99999982
+unicornio;helado de unicornio|sabor unicornio;3;99999981
+M&M's;M&M|helado de M&M's|sabor M&M's|helado de M&M|sabor M&M;3;99999980
+té verde;matcha|helado de té verde|sabor té verde|helado de matcha|sabor matcha;4;999999974
+sésamo negro;helado de sésamo negro|sabor sésamo negro;4;999999973
+lavanda;helado de lavanda|sabor lavanda;4;999999972
+rosa;helado de rosa|sabor rosa;4;999999971
+violeta;helado de violeta|sabor violeta;4;999999970
+regaliz;helado de regaliz|sabor regaliz;4;999999969
+anís;helado de anís|sabor anís;4;999999968
+jengibre;helado de jengibre|sabor jengibre;4;999999967
+miel;helado de miel|sabor miel;4;999999966
+miel y nueces;helado de miel y nueces|sabor miel y nueces;4;999999965
+chocolate con naranja;helado de chocolate con naranja|sabor chocolate con naranja;4;999999964
+chocolate picante;helado de chocolate picante|sabor chocolate picante;4;999999963
+aceite de oliva;helado de aceite de oliva|sabor aceite de oliva;4;999999962
+queso azul;helado de queso azul|sabor queso azul;4;999999961
+torrija;helado de torrija|sabor torrija;4;999999960
+leche frita;helado de leche frita|sabor leche frita;4;999999959
+crema tostada;helado de crema tostada|sabor crema tostada;4;999999958
+flan;helado de flan|sabor flan;4;999999957
+natillas;helado de natillas|sabor natillas;4;999999956
+bizcocho;helado de bizcocho|sabor bizcocho;4;999999955
+tarta de la abuela;helado de tarta de la abuela|sabor tarta de la abuela;4;999999954
+galleta María;helado de galleta María|sabor galleta María;4;999999953
+speculoos;helado de speculoos|sabor speculoos;4;999999952
+palomitas;helado de palomitas|sabor palomitas;4;999999951
+Kit Kat;helado de Kit Kat|sabor Kit Kat;4;999999950
+Snickers;helado de Snickers|sabor Snickers;4;999999949
+aguacate;helado de aguacate|sabor aguacate;4;100000000
+guayaba;helado de guayaba|sabor guayaba;4;99999999
+papaya;helado de papaya|sabor papaya;4;99999998
+uva;helado de uva|sabor uva;4;99999997
+mantecado;helado de mantecado|sabor mantecado;4;99999996
+filipinos;helado de filipinos|sabor filipinos;4;99999995
+príncipe;helado de príncipe|sabor príncipe;4;99999994
+chips ahoy;helado de chips ahoy|sabor chips ahoy;4;99999993
+donut;donuts|helado de donut|sabor donut|helado de donuts|sabor donuts;4;99999992
+whisky;helado de whisky|sabor whisky;4;99999991
+ron;helado de ron|sabor ron;4;99999990
+gin tonic;helado de gin tonic|sabor gin tonic;4;99999989
+frutas tropicales;helado de frutas tropicales|sabor frutas tropicales;4;99999988
+lichi;litchi|helado de lichi|sabor lichi|helado de litchi|sabor litchi;4;99999987
+chai;helado de chai|sabor chai;4;99999986
+requesón;helado de requesón|sabor requesón;4;99999985
+ricotta;helado de ricotta|sabor ricotta;4;99999984
+dátil;dátiles|helado de dátil|sabor dátil|helado de dátiles|sabor dátiles;4;99999983
+tarta de manzana;apple pie|helado de tarta de manzana|sabor tarta de manzana|helado de apple pie|sabor apple pie;4;99999982
+calabaza;helado de calabaza|sabor calabaza;4;99999981
+boniato;batata|helado de boniato|sabor boniato|helado de batata|sabor batata;4;99999980
+zanahoria;helado de zanahoria|sabor zanahoria;4;99999979
+sésamo;helado de sésamo|sabor sésamo;4;99999978
+cardamomo;helado de cardamomo|sabor cardamomo;4;99999977
+azafrán;helado de azafrán|sabor azafrán;4;99999976
+chocolate suizo;helado de chocolate suizo|sabor chocolate suizo;4;99999975
+rocky road;helado de rocky road|sabor rocky road;4;99999974
+arcoíris;helado de arcoíris|sabor arcoíris;4;99999973
+leche;helado de leche|sabor leche;4;99999972
+crema;helado de crema|sabor crema;4;99999971
+turrón de Alicante;helado de turrón de Alicante|sabor turrón de Alicante;4;99999970
+yogur con frutos rojos;helado de yogur con frutos rojos|sabor yogur con frutos rojos;4;99999969
+cheesecake de frutos rojos;helado de cheesecake de frutos rojos|sabor cheesecake de frutos rojos;4;99999968
+Twix;helado de Twix|sabor Twix;5;999999948
+dulce de batata;helado de dulce de batata|sabor dulce de batata;5;999999946
+lúcuma;helado de lúcuma|sabor lúcuma;5;999999945
+chirimoya;helado de chirimoya|sabor chirimoya;5;999999944
+guanábana;helado de guanábana|sabor guanábana;5;999999943
+ube;helado de ube|sabor ube;5;999999942
+taro;helado de taro|sabor taro;5;999999941
+durian;helado de durian|sabor durian;5;999999940
+yuzu;helado de yuzu|sabor yuzu;5;999999939
+salted caramel;caramelo salado|helado de salted caramel|sabor salted caramel|helado de caramelo salado|sabor caramelo salado;5;999999938
+crema de orujo;orujo|helado de crema de orujo|sabor crema de orujo|helado de orujo|sabor orujo;5;999999937
+licor 43;helado de licor 43|sabor licor 43;5;999999936
+Baileys;helado de Baileys|sabor Baileys;5;999999935
+champán;cava|helado de champán|sabor champán|helado de cava|sabor cava;5;999999934
+piña colada;helado de piña colada|sabor piña colada;5;999999933
+margarita;helado de margarita|sabor margarita;5;999999932
+mojito de fresa;helado de mojito de fresa|sabor mojito de fresa;5;999999931
+vino tinto;helado de vino tinto|sabor vino tinto;5;999999930
+cerveza;helado de cerveza|sabor cerveza;5;999999929
+chocolate con churros;helado de chocolate con churros|sabor chocolate con churros;5;999999928
+café irlandés;helado de café irlandés|sabor café irlandés;5;999999927
+capuchino;helado de capuchino|sabor capuchino;5;999999926
+moca;moka|helado de moca|sabor moca|helado de moka|sabor moka;5;999999925
+nocciola;helado de nocciola|sabor nocciola;5;999999924
+remolacha;helado de remolacha|sabor remolacha;5;100000000
+tomate;helado de tomate|sabor tomate;5;99999999
+mangostán;helado de mangostán|sabor mangostán;5;99999998
+pimienta;helado de pimienta|sabor pimienta;5;99999997
+chile;helado de chile|sabor chile;5;99999996
+sal;helado de sal|sabor sal;5;99999994
+aceituna;helado de aceituna|sabor aceituna;5;99999993

@@ -22,6 +22,11 @@ def texto4(nombre):
 
 def a_mano4(slug):
     filas = []
+    # repaso: respuestas de más, con su nivel, que no pasan por REPARTE
+    for nv, texto in mano_t4.MAS.get(slug, {}).items():
+        for i, trozo in enumerate(x.strip() for x in texto.split(",") if x.strip()):
+            n, *alias = [p.strip() for p in trozo.split("=")]
+            filas.append((n, alias, nv, 10**8 - i))
     for nv, texto in mano_t4.MANO.get(slug, {}).items():
         trozos = [x.strip() for x in texto.split(",") if x.strip()]
         destinos = mano_t4.REPARTE.get(slug, {}).get(nv, [nv])
@@ -29,9 +34,16 @@ def a_mano4(slug):
             n, *alias = [p.strip() for p in trozo.split("=")]
             filas.append((n, alias, destinos[min(len(destinos) - 1, i * len(destinos) // len(trozos))], 10**9 - i))
     return filas
+VARIANTES4 = {"huesos": ["hueso {}", "huesos {}"], "musculos": ["músculo {}", "músculos {}"], "circuitos_f1": ["circuito de {}", "Gran Premio de {}", "GP de {}"],
+              "provincias": ["provincia de {}"], "sabores_helado": ["helado de {}", "sabor {}"], "pueblos_madrid": [], "batallas": ["batalla de {}"],
+              "filosofos": [], "especialidades": [], "deportes_acuaticos": [], "masas_agua": []}
 def junta(slug, cola, metrica):
     """Lo puesto a mano manda; de la cola solo entra lo que no esté ya, y a sus alias se les quitan las formas con dueño."""
     mano = a_mano4(slug)
+    mas = {clave(k): [a.strip() for a in v.split(",") if a.strip()] for k, v in mano_t4.ALIAS_MAS.get(slug, {}).items()}
+    mano = [(n, al + mas.pop(clave(n), []), nv, v) for n, al, nv, v in mano]
+    if mas: print("  ojo, alias de más sin dueño:", list(mas))
+    if slug in VARIANTES4: mano = [(n, al + [v.format(x) for x in [n] + al for v in VARIANTES4[slug]], nv, val) for n, al, nv, val in mano]
     ya = {clave(x) for n, al, _, _ in mano for x in [n] + al}
     limpia = []
     for n, al, nv, val in cola:

@@ -9,54 +9,68 @@ Gunther;;2;1000000000
 Janice;;2;999999999
 Ursula;Ursula Buffay;2;999999998
 Mike;Mike Hannigan;2;999999997
-Emily;Emily Waltham;2;999999996
-Carol;Carol Willick;2;999999995
+Emily;Emily Waltham|la mujer inglesa de Ross;2;999999996
+Carol;Carol Willick|la ex de Ross|la exmujer de Ross;2;999999995
 Susan;Susan Bunch;2;999999994
 Ben;Ben Geller;2;999999993
 Emma;Emma Geller-Green;2;999999992
 Richard;Richard Burke;2;999999991
-Jack Geller;;2;999999990
-Judy Geller;;2;999999989
-Frank;Frank Buffay|Frank Buffay Jr.;2;999999988
+Jack Geller;Jack|el padre de Ross|el padre de Monica;2;999999990
+Judy Geller;Judy|la madre de Ross|la madre de Monica|Mrs. Geller;2;999999989
+Frank;Frank Buffay|Frank Buffay Jr.|Frank Jr.|Frank Junior|el hermano de Phoebe;2;999999988
 Paolo;;2;999999987
 Julie;;2;999999986
 Tag;Tag Jones;2;999999985
 Charlie;Charlie Wheeler;2;999999984
-Marcel;;2;999999983
+Marcel;el mono|el mono de Ross;2;999999983
 Mr. Heckles;Heckles|señor Heckles;2;999999982
 Estelle;Estelle Leonard;3;1000000000
 Janine;Janine Lecroix;3;999999999
 Kathy;;3;999999998
-Fun Bobby;Bobby el divertido;3;999999997
+Fun Bobby;Bobby el divertido|Bobby;3;999999997
 David;;3;999999996
 Gary;;3;999999995
 Pete Becker;Pete;3;999999994
 Barry;Barry Farber;3;999999993
-Mindy;;3;999999992
-Treeger;señor Treeger;3;999999991
+Mindy;Mindy Hunter;3;999999992
+Treeger;señor Treeger|Mr. Treeger|el portero|el casero;3;999999991
 Ugly Naked Guy;el feo desnudo|el tío desnudo feo|el vecino desnudo;3;999999990
 Eddie;;3;999999989
 Joanna;;3;999999988
-Amy Green;Amy;3;999999987
+Amy Green;Amy|la hermana de Rachel;3;999999987
 Jill Green;Jill;3;999999986
 Sandra Green;;3;999999985
 Leonard Green;;3;999999984
-Nora Bing;;3;999999983
-Charles Bing;Helena Handbasket;3;999999982
+Nora Bing;la madre de Chandler;3;999999983
+Charles Bing;Helena Handbasket|Helena|el padre de Chandler;3;999999982
 Mona;;3;999999981
 Elizabeth;Elizabeth Stevens;3;999999980
-Paul Stevens;;3;999999979
+Paul Stevens;Paul;3;999999979
 Hugsy;;3;999999978
 el pollo y el pato;pollo|pato|Chick and Duck;3;999999977
 Alice;Alice Knight;3;999999976
-Lily Buffay;;3;999999975
+Lily Buffay;Lily|la madre de Phoebe;3;999999975
+las hermanas de Joey;;3;100000000
+Gina;Gina Tribbiani;3;99999999
+Tina;Tina Tribbiani;3;99999998
+Veronica;Veronica Tribbiani;3;99999997
+Cookie;Cookie Tribbiani;3;99999996
+Mary Therese;Mary Teresa;3;99999995
+Frances;la abuela de Phoebe;3;99999994
+los trillizos;;3;99999993
+Drake Ramoray;Dr. Drake Ramoray|Ramoray;3;99999992
+Chloe;;3;99999991
+Duncan;;3;99999990
+Kip;;3;99999989
+Chip;Chip Matthews;3;99999988
+Ronni;Ronni Rapalono;3;99999987
 Joshua;;4;999999974
 Russ;;4;999999973
 Kate Miller;Kate;4;999999972
 Erica;;4;999999970
 Joey Jr.;;4;999999969
 Leslie;;4;999999968
-Phoebe Abbott;;4;999999967
+Phoebe Abbott;Phoebe Senior|Phoebe Abbott Sr.;4;999999967
 Will;Will Colbert;4;999999966
 Mark Robinson;Mark;4;999999965
 Danny;;4;999999964
@@ -75,13 +89,12 @@ Lowell;;4;999999952
 Eric;;4;999999951
 Steve;;4;999999950
 Roger;;4;999999949
-Gina Tribbiani;Gina;5;0
 Alex Garrett;Alex;5;0
 Michael Tribbiani;Michael;5;0
 Bobbie Morganstern;Bobbie;5;0
 Howard Peckerman;Howard;5;0
 Zach Miller;Zach;5;0
-Jack and Judy Geller;Jack;5;0
+Jack and Judy Geller;;5;0
 Janice Litman-Goralnik;;5;0
 Nora Tyler Bing;Nora;5;0
 Charles Bing/Helena Handbasket;Charles;5;0

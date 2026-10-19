@@ -1,80 +1,80 @@
 respuesta;alias;nivel;orden_a_mano
-fémur;;1;1000000000
-tibia;;1;999999999
-peroné;;1;999999998
-húmero;;1;999999997
-cúbito;;1;999999996
-radio;;1;999999995
-rótula;patela;1;999999994
-costillas;costilla;1;999999993
-cráneo;;1;999999992
-columna;vértebras|vértebra;1;999999991
-clavícula;;1;999999990
-omóplato;escápula;1;999999989
-pelvis;;1;999999988
-coxis;;1;999999987
-esternón;;1;999999986
-mandíbula;;1;999999985
-falanges;falange;1;999999984
-cadera;hueso de la cadera|coxal|hueso coxal;2;1000000000
-sacro;;2;999999999
-ilion;ilíaco;2;999999998
-isquion;;2;999999997
-pubis;;2;999999996
-atlas;;2;999999995
-axis;;2;999999994
-metacarpo;metacarpianos;2;999999993
-metatarso;metatarsianos;2;999999992
-carpo;carpianos;2;999999991
-tarso;tarsianos;2;999999990
-calcáneo;talón;2;999999989
-astrágalo;talus;2;999999988
-maxilar;maxilar superior;2;999999987
-maxilar inferior;;2;999999986
-frontal;;2;999999985
-parietal;;2;999999984
-temporal;;2;999999983
-occipital;;2;999999982
-esfenoides;;2;999999981
-etmoides;;3;999999980
-nasal;hueso nasal|huesos propios de la nariz;3;999999979
-cigomático;pómulo|malar;3;999999978
-martillo;;3;999999977
-yunque;;3;999999976
-estribo;;3;999999975
-hioides;;3;999999974
-lagrimal;;3;999999973
-vómer;;3;999999972
-palatino;;3;999999971
-cornete;cornete inferior;3;999999970
-escafoides;;3;999999969
-semilunar;;3;999999968
-piramidal;;3;999999967
-pisiforme;;3;999999966
-trapecio;;3;999999965
-trapezoide;;3;999999964
-grande;hueso grande;3;999999963
-ganchoso;;3;999999962
-cuboides;;3;999999961
-navicular;escafoides del pie;4;999999960
-cuneiformes;cuña|cuneiforme;4;999999959
-sesamoideos;sesamoideo;4;999999958
-vértebras cervicales;cervicales;4;999999957
-vértebras dorsales;vértebras torácicas|dorsales;4;999999956
-vértebras lumbares;lumbares;4;999999955
-falanges proximales;;4;999999954
-falanges medias;;4;999999953
-falanges distales;;4;999999952
-falangina;;4;999999951
-falangeta;;4;999999950
-hueso de la risa;;4;999999949
-huesecillos del oído;huesecillos;4;999999948
-costillas flotantes;;4;999999947
-costillas falsas;;4;999999946
-costillas verdaderas;;4;999999945
-manubrio;;4;999999944
-apófisis xifoides;xifoides;4;999999943
-cóccix;;4;999999942
+fémur;hueso fémur|huesos fémur;1;1000000000
+tibia;hueso tibia|huesos tibia;1;999999999
+peroné;hueso peroné|huesos peroné;1;999999998
+húmero;hueso húmero|huesos húmero;1;999999997
+cúbito;ulna|hueso cúbito|huesos cúbito|hueso ulna|huesos ulna;1;999999996
+radio;hueso radio|huesos radio;1;999999995
+rótula;patela|hueso rótula|huesos rótula|hueso patela|huesos patela;1;999999994
+costillas;costilla|hueso costillas|huesos costillas|hueso costilla|huesos costilla;1;999999993
+cráneo;calavera|hueso cráneo|huesos cráneo|hueso calavera|huesos calavera;1;999999992
+columna;vértebras|vértebra|columna vertebral|espinazo|hueso columna|huesos columna|hueso vértebras|huesos vértebras|hueso vértebra|huesos vértebra|hueso columna vertebral|huesos columna vertebral|hueso espinazo|huesos espinazo;1;999999991
+clavícula;hueso clavícula|huesos clavícula;1;999999990
+omóplato;escápula|hueso omóplato|huesos omóplato|hueso escápula|huesos escápula;1;999999989
+pelvis;hueso pelvis|huesos pelvis;1;999999988
+coxis;hueso coxis|huesos coxis;1;999999987
+esternón;hueso esternón|huesos esternón;1;999999986
+mandíbula;hueso mandíbula|huesos mandíbula;1;999999985
+falanges;falange|hueso falanges|huesos falanges|hueso falange|huesos falange;1;999999984
+cadera;hueso de la cadera|coxal|hueso coxal|huesos cadera|hueso hueso de la cadera|huesos hueso de la cadera|huesos coxal|hueso hueso coxal|huesos hueso coxal;2;1000000000
+sacro;hueso sacro|huesos sacro|hueso hueso sacro|huesos hueso sacro;2;999999999
+ilion;ilíaco|hueso ilion|huesos ilion|hueso ilíaco|huesos ilíaco;2;999999998
+isquion;hueso isquion|huesos isquion;2;999999997
+pubis;hueso pubis|huesos pubis;2;999999996
+atlas;hueso atlas|huesos atlas;2;999999995
+axis;hueso axis|huesos axis;2;999999994
+metacarpo;metacarpianos|hueso metacarpo|huesos metacarpo|hueso metacarpianos|huesos metacarpianos;2;999999993
+metatarso;metatarsianos|hueso metatarso|huesos metatarso|hueso metatarsianos|huesos metatarsianos;2;999999992
+carpo;carpianos|hueso carpo|huesos carpo|hueso carpianos|huesos carpianos;2;999999991
+tarso;tarsianos|hueso tarso|huesos tarso|hueso tarsianos|huesos tarsianos;2;999999990
+calcáneo;talón|hueso calcáneo|huesos calcáneo|hueso talón|huesos talón;2;999999989
+astrágalo;talus|hueso astrágalo|huesos astrágalo|hueso talus|huesos talus;2;999999988
+maxilar;maxilar superior|hueso maxilar|huesos maxilar|hueso maxilar superior|huesos maxilar superior;2;999999987
+maxilar inferior;hueso maxilar inferior|huesos maxilar inferior;2;999999986
+frontal;hueso frontal|huesos frontal;2;999999985
+parietal;hueso parietal|huesos parietal;2;999999984
+temporal;hueso temporal|huesos temporal;2;999999983
+occipital;hueso occipital|huesos occipital;2;999999982
+esfenoides;hueso esfenoides|huesos esfenoides;2;999999981
+etmoides;hueso etmoides|huesos etmoides;3;999999980
+nasal;hueso nasal|huesos propios de la nariz|huesos nasal|hueso hueso nasal|huesos hueso nasal|hueso huesos propios de la nariz|huesos huesos propios de la nariz;3;999999979
+cigomático;pómulo|malar|hueso cigomático|huesos cigomático|hueso pómulo|huesos pómulo|hueso malar|huesos malar;3;999999978
+martillo;hueso martillo|huesos martillo;3;999999977
+yunque;hueso yunque|huesos yunque;3;999999976
+estribo;hueso estribo|huesos estribo;3;999999975
+hioides;hueso hioides|huesos hioides;3;999999974
+lagrimal;hueso lagrimal|huesos lagrimal;3;999999973
+vómer;hueso vómer|huesos vómer;3;999999972
+palatino;hueso palatino|huesos palatino;3;999999971
+cornete;cornete inferior|hueso cornete|huesos cornete|hueso cornete inferior|huesos cornete inferior;3;999999970
+escafoides;hueso escafoides|huesos escafoides;3;999999969
+semilunar;hueso semilunar|huesos semilunar;3;999999968
+piramidal;hueso piramidal|huesos piramidal;3;999999967
+pisiforme;hueso pisiforme|huesos pisiforme;3;999999966
+trapecio;hueso trapecio|huesos trapecio;3;999999965
+trapezoide;hueso trapezoide|huesos trapezoide;3;999999964
+grande;hueso grande|huesos grande|hueso hueso grande|huesos hueso grande;3;999999963
+ganchoso;hueso ganchoso|huesos ganchoso;3;999999962
+cuboides;hueso cuboides|huesos cuboides;3;999999961
+navicular;escafoides del pie|hueso navicular|huesos navicular|hueso escafoides del pie|huesos escafoides del pie;4;999999960
+cuneiformes;cuña|cuneiforme|hueso cuneiformes|huesos cuneiformes|hueso cuña|huesos cuña|hueso cuneiforme|huesos cuneiforme;4;999999959
+sesamoideos;sesamoideo|hueso sesamoideos|huesos sesamoideos|hueso sesamoideo|huesos sesamoideo;4;999999958
+vértebras cervicales;cervicales|hueso vértebras cervicales|huesos vértebras cervicales|hueso cervicales|huesos cervicales;4;999999957
+vértebras dorsales;vértebras torácicas|dorsales|hueso vértebras dorsales|huesos vértebras dorsales|hueso vértebras torácicas|huesos vértebras torácicas|hueso dorsales|huesos dorsales;4;999999956
+vértebras lumbares;lumbares|hueso vértebras lumbares|huesos vértebras lumbares|hueso lumbares|huesos lumbares;4;999999955
+falanges proximales;hueso falanges proximales|huesos falanges proximales;4;999999954
+falanges medias;hueso falanges medias|huesos falanges medias;4;999999953
+falanges distales;hueso falanges distales|huesos falanges distales;4;999999952
+falangina;hueso falangina|huesos falangina;4;999999951
+falangeta;hueso falangeta|huesos falangeta;4;999999950
+hueso de la risa;hueso hueso de la risa|huesos hueso de la risa;4;999999949
+huesecillos del oído;huesecillos|hueso huesecillos del oído|huesos huesecillos del oído|hueso huesecillos|huesos huesecillos;4;999999948
+costillas flotantes;hueso costillas flotantes|huesos costillas flotantes;4;999999947
+costillas falsas;hueso costillas falsas|huesos costillas falsas;4;999999946
+costillas verdaderas;hueso costillas verdaderas|huesos costillas verdaderas;4;999999945
+manubrio;hueso manubrio|huesos manubrio;4;999999944
+apófisis xifoides;xifoides|hueso apófisis xifoides|huesos apófisis xifoides|hueso xifoides|huesos xifoides;4;999999943
+cóccix;hueso cóccix|huesos cóccix;4;999999942
 suturales;huesos suturales;5;0
 lacrimal;hueso lacrimal;5;0
 cornete nasal inferior;;5;0
