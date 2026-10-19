@@ -904,14 +904,21 @@ async function nuevaPartida(modo){
 }
 /* La partida del día se va apuntando en este navegador a cada paso, con la hora real a la que salió cada
    pregunta. Así no se puede parar el reloj saliendo del juego ni volver a empezar recargando la página. */
+/* Si las preguntas de un día cambian cuando ya ha jugado gente, se sube aquí su ronda: lo jugado antes
+   en este navegador deja de contar y se puede volver a jugar (las partidas de la nube se borran a mano). */
+const REINICIOS = {"2026-10-19": 2};
+const rondaDia = f => REINICIOS[f] || 1;
+const primeraDe = f => CALENDARIO[f] && PREGUNTAS[CALENDARIO[f][0]] ? PREGUNTAS[CALENDARIO[f][0]].q : null;
+// también vale lo jugado con las preguntas nuevas antes de que existiera la marca de ronda
+const vigente = (h, f) => !!h && ((h.v || 1) >= rondaDia(f) || (Array.isArray(h.res) && h.res[0] && h.res[0].q === primeraDe(f)));
 function enCurso(){
   const c = guarda.get("curso", null);
-  return c && c.fecha === hoyMadrid() && Array.isArray(c.res) && !hechoHoy() ? c : null;
+  return c && c.fecha === hoyMadrid() && vigente(c, c.fecha) && Array.isArray(c.res) && !hechoHoy() ? c : null;
 }
 function apuntaCurso(fase){
   if (!J || J.modo !== "diaria" || J.revisita) return;
   J.fase = fase;
-  guarda.set("curso", {fecha:J.fecha, i:J.i, res:J.res, puntos:J.puntos, fase, t0:J.t0 || null});
+  guarda.set("curso", {fecha:J.fecha, i:J.i, res:J.res, puntos:J.puntos, fase, t0:J.t0 || null, v:rondaDia(J.fecha)});
 }
 function fijaPines(res){
   let acc = 0;
@@ -1259,11 +1266,14 @@ function final(){
   if (J.modo === "diaria" && !J.revisita && !hechoHoy()){
     const [Y,M,D] = J.fecha.split("-").map(Number);
     const ayer = new Date(Date.UTC(Y, M-1, D) - 864e5).toISOString().slice(0,10);
-    est.racha = est.ultima === ayer ? est.racha + 1 : 1;
-    est.mejorRacha = Math.max(est.mejorRacha, est.racha);
-    est.jugadas++; est.mejor = Math.max(est.mejor, J.puntos); est.ultima = J.fecha;
+    if (est.ultima !== J.fecha){          // si el día se reinició, la segunda partida no suma racha ni partidas
+      est.racha = est.ultima === ayer ? est.racha + 1 : 1;
+      est.mejorRacha = Math.max(est.mejorRacha, est.racha);
+      est.jugadas++;
+    }
+    est.mejor = Math.max(est.mejor, J.puntos); est.ultima = J.fecha;
     guarda.set("est", est);
-    guarda.set("hecho:"+J.fecha, {dia:J.dia, fecha:J.fecha, puntos:J.puntos, res:J.res});
+    guarda.set("hecho:"+J.fecha, {dia:J.dia, fecha:J.fecha, puntos:J.puntos, res:J.res, v:rondaDia(J.fecha)});
     guarda.set("curso", null);
     guardaEnNube({dia:J.dia, fecha:J.fecha, puntos:J.puntos, res:J.res});
   }
@@ -1532,7 +1542,7 @@ async function subeLocales(uid){
       const k = localStorage.key(i), m = k && k.match(/^(?:sabihondo|krillon):hecho:(\d{4}-\d{2}-\d{2})$/);
       if (!m) continue;
       const h = JSON.parse(localStorage.getItem(k));
-      if (h && typeof h.puntos === "number") filas[m[1]] = {user_id:uid, fecha:m[1], dia:h.dia ?? numeroDia(m[1]), puntos:h.puntos, res:h.res || []};
+      if (h && typeof h.puntos === "number" && vigente(h, m[1])) filas[m[1]] = {user_id:uid, fecha:m[1], dia:h.dia ?? numeroDia(m[1]), puntos:h.puntos, res:h.res || []};
     }
   }catch{}
   const lista = Object.values(filas);
@@ -1553,8 +1563,9 @@ const apodoDe = u => ((u && u.user_metadata && u.user_metadata.apodo) || "").tri
 const logueado = () => !!(Cuenta.user && Cuenta.partidas);
 function hechoHoy(){
   const hoy = hoyMadrid();
-  if (logueado()) return Cuenta.partidas.find(p => p.fecha === hoy) || guarda.get("hecho:" + hoy, null);
-  return guarda.get("hecho:" + hoy, null);
+  const local = guarda.get("hecho:" + hoy, null), suya = vigente(local, hoy) ? local : null;
+  if (logueado()) return Cuenta.partidas.find(p => p.fecha === hoy) || suya;
+  return suya;
 }
 function stats(){
   if (!logueado()) return guarda.get("est", {jugadas:0, racha:0, mejorRacha:0, mejor:0, ultima:null});
