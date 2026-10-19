@@ -379,7 +379,7 @@ MAS.update({
  "peter_pan": {4: "los piratas=piratas, los indios=indios=pieles rojas, las hadas=hadas", 5: "Silvermist, Iridessa, Rosetta, Fawn, Vidia, Periwinkle, Terence, la reina Clarion=Clarion, Zarina"},
  "latin": {3: "in vino veritas, cave canem, audaces fortuna iuvat=fortes fortuna iuvat=la fortuna favorece a los audaces, per aspera ad astra, ad astra, citius altius fortius, habemus papam, nosce te ipsum, o tempora o mores, semper fidelis, bona fide, nota bene=NB, ad aeternum=in aeternum, ex nihilo=creatio ex nihilo, gaudeamus igitur",
            4: "carpe noctem, ad maiorem Dei gloriam, amor omnia vincit=omnia vincit amor, lux aeterna, mater dolorosa, pax vobiscum, requiem aeternam, mala fide, e pluribus unum, sapere aude, si vis pacem para bellum, sic transit gloria mundi"},
- "itis": {5: "pericoronaritis, cistouretritis, lunesitis, examitis, domingitis"},
+ "itis": {5: "pericoronaritis, cistouretritis"},
  "deportes_acuaticos": {3: "vela ligera, crol=crawl, braza, mariposa, espalda, pesca deportiva=pesca", 4: "catamarán, Optimist, láser"},
  "profesiones": {2: "pediatra, anestesista, becario=becaria, CEO, reponedor=reponedora, barrendero=barrendera, terapeuta, coach",
                  3: "higienista dental=higienista, auxiliar administrativo=auxiliar, agente inmobiliario=inmobiliario, graduado social, mozo de almacén, forense, monologuista, nadador, preparador físico, osteópata, quiropráctico, vidente, tarotista",
