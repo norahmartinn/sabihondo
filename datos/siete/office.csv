@@ -1,8 +1,8 @@
 respuesta;alias;nivel;orden_a_mano
-Michael Scott;Michael;1;1000000000
-Dwight;Dwight Schrute;1;999999999
-Jim;Jim Halpert;1;999999998
-Pam;Pam Beesly|Pam Halpert;1;999999997
+Michael Scott;Michael|Scott;1;1000000000
+Dwight;Dwight Schrute|Schrute;1;999999999
+Jim;Jim Halpert|Big Tuna|el gran atún|Tuna|Halpert;1;999999998
+Pam;Pam Beesly|Pam Halpert|Beesly;1;999999997
 Ryan;Ryan Howard;2;1000000000
 Andy;Andy Bernard;2;999999999
 Kevin;Kevin Malone;2;999999998
@@ -36,10 +36,10 @@ Hank;;3;999999992
 Nate;;3;999999991
 Val;;3;999999990
 Cathy;;3;999999989
-Danny Cordray;;3;999999988
+Danny Cordray;Danny;3;999999988
 Hunter;;3;999999987
 Josh Porter;;3;999999986
-Senator Lipton;Robert Lipton;3;999999985
+Senator Lipton;Robert Lipton|el senador;3;999999985
 Cece Halpert;Cece;3;999999984
 Phillip Schrute;;3;999999983
 Astrid;;3;999999982
@@ -47,7 +47,15 @@ Esther;;3;999999981
 Jessica;;3;999999980
 Isabel;;3;999999979
 Carol Stills;Carol;3;999999978
-Helene Beesly;;4;999999977
+Michael Scarn;agente Michael Scarn;3;100000000
+Prison Mike;;3;99999999
+Date Mike;;3;99999998
+Michael Klump;;3;99999997
+el chili de Kevin;chili;3;99999996
+Goldenface;;3;99999995
+Scrantonicity;;3;99999994
+los Dundies;;3;99999993
+Helene Beesly;Helene|la madre de Pam;4;999999977
 Tony Gardner;;4;999999976
 Devon;;4;999999975
 Brent;;4;999999974
@@ -65,7 +73,6 @@ Donna;;4;999999963
 Brian;;4;999999962
 Wallace;;4;999999961
 Rachael Wallace;;4;999999960
-Prison Mike;;4;999999959
 Sprinkles;;4;999999958
 Garbage;;4;999999957
 Bandit;;4;999999956

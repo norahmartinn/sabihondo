@@ -1,117 +1,117 @@
 respuesta;alias;nivel;orden_a_mano
-bíceps;;1;1000000000
-tríceps;;1;999999999
-abdominales;abdominal|recto abdominal;1;999999998
-cuádriceps;;1;999999997
-gemelos;gastrocnemio;1;999999996
-glúteo;glúteos|glúteo mayor;1;999999995
-pectoral;pectorales|pectoral mayor;1;999999994
-deltoides;;1;999999993
-dorsal;dorsal ancho|dorsales;1;999999992
-corazón;miocardio;1;999999991
-trapecio;;1;999999990
-lengua;;1;999999989
-isquiotibiales;isquios;1;999999988
-diafragma;;1;999999987
-oblicuos;oblicuo externo|oblicuo interno|oblicuo;2;1000000000
-sóleo;;2;999999999
-glúteo medio;;2;999999998
-glúteo menor;;2;999999997
-aductores;aductor;2;999999996
-abductores;abductor;2;999999995
-femoral;bíceps femoral;2;999999994
-sartorio;;2;999999993
-recto femoral;;2;999999992
-vasto interno;vasto medial;2;999999991
-vasto externo;vasto lateral;2;999999990
-vasto intermedio;;2;999999989
-tibial anterior;;2;999999988
-peroneo;peroneos;2;999999987
-psoas;psoas ilíaco|iliopsoas;2;999999986
-piramidal;piriforme;2;999999985
-serrato;serrato anterior;2;999999984
-romboides;;2;999999983
-infraespinoso;;2;999999982
-supraespinoso;;2;999999981
-redondo mayor;;2;999999980
-redondo menor;;2;999999979
-subescapular;;2;999999978
-manguito rotador;;2;999999977
-esternocleidomastoideo;;2;999999976
-masetero;;2;999999975
-temporal;;2;999999974
-orbicular de los ojos;;2;999999973
-orbicular de los labios;;2;999999972
-buccinador;;2;999999971
-cigomático;;2;999999970
-frontal;;2;999999969
-occipitofrontal;;2;999999968
-platisma;;3;999999967
-braquial;;3;999999966
-braquiorradial;supinador largo;3;999999965
-pronador redondo;;3;999999964
-flexores;flexor;3;999999963
-extensores;extensor;3;999999962
-erector de la columna;erectores espinales;3;999999961
-multífidos;;3;999999960
-cuadrado lumbar;;3;999999959
-transverso del abdomen;transverso;3;999999958
-suelo pélvico;;3;999999957
-esfínter;;3;999999956
-intercostales;;3;999999955
-escalenos;;3;999999954
-esplenio;;3;999999953
-elevador de la escápula;;3;999999952
-pectoral menor;;3;999999951
-coracobraquial;;3;999999950
-ancóneo;;3;999999949
-palmar largo;;3;999999948
-tensor de la fascia lata;;3;999999947
-grácil;recto interno;3;999999946
-semitendinoso;;3;999999945
-semimembranoso;;3;999999944
-poplíteo;;3;999999943
-plantar;;3;999999942
-tibial posterior;;3;999999941
-flexor de los dedos;;3;999999940
-extensor de los dedos;;3;999999939
-interóseos;;3;999999938
-lumbricales;;3;999999937
-oponente del pulgar;;3;999999936
-tenar;;3;999999935
-hipotenar;;4;999999934
-músculo liso;;4;999999933
-músculo esquelético;;4;999999932
-músculo cardíaco;;4;999999931
-estapedio;;4;999999930
-tensor del tímpano;;4;999999929
-recto superior;;4;999999928
-recto inferior;;4;999999927
-recto medial;;4;999999926
-recto lateral;;4;999999925
-oblicuo superior;;4;999999924
-oblicuo inferior;;4;999999923
-elevador del párpado;;4;999999922
-cremáster;;4;999999921
-piramidal del abdomen;;4;999999920
-mentoniano;;4;999999919
-risorio;;4;999999918
-nasal;;4;999999917
-prócer;;4;999999916
-corrugador;;4;999999915
-depresor del ángulo de la boca;;4;999999914
-elevador del labio superior;;4;999999913
-pterigoideo;;4;999999912
-digástrico;;4;999999911
-milohioideo;;4;999999910
-geniohioideo;;4;999999909
-estilohioideo;;4;999999908
-tirohioideo;;4;999999907
-esternohioideo;;4;999999906
-omohioideo;;4;999999905
-constrictor de la faringe;;4;999999904
-cricotiroideo;;4;999999903
-aritenoides;;4;999999902
+bíceps;músculo bíceps|músculos bíceps;1;1000000000
+tríceps;músculo tríceps|músculos tríceps;1;999999999
+abdominales;abdominal|recto abdominal|six pack|tableta|abs|core|abdomen|músculo abdominales|músculos abdominales|músculo abdominal|músculos abdominal|músculo recto abdominal|músculos recto abdominal|músculo six pack|músculos six pack|músculo tableta|músculos tableta|músculo abs|músculos abs|músculo core|músculos core|músculo abdomen|músculos abdomen;1;999999998
+cuádriceps;músculo cuádriceps|músculos cuádriceps;1;999999997
+gemelos;gastrocnemio|pantorrilla|tríceps sural|músculo gemelos|músculos gemelos|músculo gastrocnemio|músculos gastrocnemio|músculo pantorrilla|músculos pantorrilla|músculo tríceps sural|músculos tríceps sural;1;999999996
+glúteo;glúteos|glúteo mayor|glúteo máximo|músculo glúteo|músculos glúteo|músculo glúteos|músculos glúteos|músculo glúteo mayor|músculos glúteo mayor|músculo glúteo máximo|músculos glúteo máximo;1;999999995
+pectoral;pectorales|pectoral mayor|músculo pectoral|músculos pectoral|músculo pectorales|músculos pectorales|músculo pectoral mayor|músculos pectoral mayor;1;999999994
+deltoides;músculo deltoides|músculos deltoides;1;999999993
+dorsal;dorsal ancho|dorsales|músculo dorsal|músculos dorsal|músculo dorsal ancho|músculos dorsal ancho|músculo dorsales|músculos dorsales;1;999999992
+corazón;miocardio|músculo corazón|músculos corazón|músculo miocardio|músculos miocardio;1;999999991
+trapecio;músculo trapecio|músculos trapecio;1;999999990
+lengua;músculo lengua|músculos lengua;1;999999989
+isquiotibiales;isquios|músculo isquiotibiales|músculos isquiotibiales|músculo isquios|músculos isquios;1;999999988
+diafragma;músculo diafragma|músculos diafragma;1;999999987
+oblicuos;oblicuo externo|oblicuo interno|oblicuo|músculo oblicuos|músculos oblicuos|músculo oblicuo externo|músculos oblicuo externo|músculo oblicuo interno|músculos oblicuo interno|músculo oblicuo|músculos oblicuo;2;1000000000
+sóleo;músculo sóleo|músculos sóleo;2;999999999
+glúteo medio;músculo glúteo medio|músculos glúteo medio;2;999999998
+glúteo menor;músculo glúteo menor|músculos glúteo menor;2;999999997
+aductores;aductor|músculo aductores|músculos aductores|músculo aductor|músculos aductor;2;999999996
+abductores;abductor|músculo abductores|músculos abductores|músculo abductor|músculos abductor;2;999999995
+femoral;bíceps femoral|músculo femoral|músculos femoral|músculo bíceps femoral|músculos bíceps femoral;2;999999994
+sartorio;músculo sartorio|músculos sartorio;2;999999993
+recto femoral;músculo recto femoral|músculos recto femoral;2;999999992
+vasto interno;vasto medial|músculo vasto interno|músculos vasto interno|músculo vasto medial|músculos vasto medial;2;999999991
+vasto externo;vasto lateral|músculo vasto externo|músculos vasto externo|músculo vasto lateral|músculos vasto lateral;2;999999990
+vasto intermedio;músculo vasto intermedio|músculos vasto intermedio;2;999999989
+tibial anterior;tibial|músculo tibial anterior|músculos tibial anterior|músculo tibial|músculos tibial;2;999999988
+peroneo;peroneos|músculo peroneo|músculos peroneo|músculo peroneos|músculos peroneos;2;999999987
+psoas;psoas ilíaco|iliopsoas|músculo psoas|músculos psoas|músculo psoas ilíaco|músculos psoas ilíaco|músculo iliopsoas|músculos iliopsoas;2;999999986
+piramidal;piriforme|músculo piramidal|músculos piramidal|músculo piriforme|músculos piriforme;2;999999985
+serrato;serrato anterior|músculo serrato|músculos serrato|músculo serrato anterior|músculos serrato anterior;2;999999984
+romboides;músculo romboides|músculos romboides;2;999999983
+infraespinoso;músculo infraespinoso|músculos infraespinoso;2;999999982
+supraespinoso;músculo supraespinoso|músculos supraespinoso;2;999999981
+redondo mayor;músculo redondo mayor|músculos redondo mayor;2;999999980
+redondo menor;músculo redondo menor|músculos redondo menor;2;999999979
+subescapular;músculo subescapular|músculos subescapular;2;999999978
+manguito rotador;músculo manguito rotador|músculos manguito rotador;2;999999977
+esternocleidomastoideo;músculo esternocleidomastoideo|músculos esternocleidomastoideo;2;999999976
+masetero;músculo masetero|músculos masetero;2;999999975
+temporal;músculo temporal|músculos temporal;2;999999974
+orbicular de los ojos;músculo orbicular de los ojos|músculos orbicular de los ojos;2;999999973
+orbicular de los labios;músculo orbicular de los labios|músculos orbicular de los labios;2;999999972
+buccinador;músculo buccinador|músculos buccinador;2;999999971
+cigomático;músculo cigomático|músculos cigomático;2;999999970
+frontal;músculo frontal|músculos frontal;2;999999969
+occipitofrontal;músculo occipitofrontal|músculos occipitofrontal;2;999999968
+platisma;músculo platisma|músculos platisma;3;999999967
+braquial;músculo braquial|músculos braquial;3;999999966
+braquiorradial;supinador largo|músculo braquiorradial|músculos braquiorradial|músculo supinador largo|músculos supinador largo;3;999999965
+pronador redondo;músculo pronador redondo|músculos pronador redondo;3;999999964
+flexores;flexor|músculo flexores|músculos flexores|músculo flexor|músculos flexor;3;999999963
+extensores;extensor|músculo extensores|músculos extensores|músculo extensor|músculos extensor;3;999999962
+erector de la columna;erectores espinales|erectores|lumbares|lumbar|músculo erector de la columna|músculos erector de la columna|músculo erectores espinales|músculos erectores espinales|músculo erectores|músculos erectores|músculo lumbares|músculos lumbares|músculo lumbar|músculos lumbar;3;999999961
+multífidos;músculo multífidos|músculos multífidos;3;999999960
+cuadrado lumbar;músculo cuadrado lumbar|músculos cuadrado lumbar;3;999999959
+transverso del abdomen;transverso|músculo transverso del abdomen|músculos transverso del abdomen|músculo transverso|músculos transverso;3;999999958
+suelo pélvico;músculo suelo pélvico|músculos suelo pélvico;3;999999957
+esfínter;músculo esfínter|músculos esfínter;3;999999956
+intercostales;músculo intercostales|músculos intercostales;3;999999955
+escalenos;músculo escalenos|músculos escalenos;3;999999954
+esplenio;músculo esplenio|músculos esplenio;3;999999953
+elevador de la escápula;músculo elevador de la escápula|músculos elevador de la escápula;3;999999952
+pectoral menor;músculo pectoral menor|músculos pectoral menor;3;999999951
+coracobraquial;músculo coracobraquial|músculos coracobraquial;3;999999950
+ancóneo;músculo ancóneo|músculos ancóneo;3;999999949
+palmar largo;palmar|músculo palmar largo|músculos palmar largo|músculo palmar|músculos palmar;3;999999948
+tensor de la fascia lata;músculo tensor de la fascia lata|músculos tensor de la fascia lata;3;999999947
+grácil;recto interno|músculo grácil|músculos grácil|músculo recto interno|músculos recto interno;3;999999946
+semitendinoso;músculo semitendinoso|músculos semitendinoso;3;999999945
+semimembranoso;músculo semimembranoso|músculos semimembranoso;3;999999944
+poplíteo;músculo poplíteo|músculos poplíteo;3;999999943
+plantar;músculo plantar|músculos plantar;3;999999942
+tibial posterior;músculo tibial posterior|músculos tibial posterior;3;999999941
+flexor de los dedos;músculo flexor de los dedos|músculos flexor de los dedos;3;999999940
+extensor de los dedos;músculo extensor de los dedos|músculos extensor de los dedos;3;999999939
+interóseos;músculo interóseos|músculos interóseos;3;999999938
+lumbricales;músculo lumbricales|músculos lumbricales;3;999999937
+oponente del pulgar;músculo oponente del pulgar|músculos oponente del pulgar;3;999999936
+tenar;músculo tenar|músculos tenar;3;999999935
+hipotenar;músculo hipotenar|músculos hipotenar;4;999999934
+músculo liso;músculo músculo liso|músculos músculo liso;4;999999933
+músculo esquelético;músculo músculo esquelético|músculos músculo esquelético;4;999999932
+músculo cardíaco;músculo músculo cardíaco|músculos músculo cardíaco;4;999999931
+estapedio;músculo estapedio|músculos estapedio;4;999999930
+tensor del tímpano;músculo tensor del tímpano|músculos tensor del tímpano;4;999999929
+recto superior;músculo recto superior|músculos recto superior;4;999999928
+recto inferior;músculo recto inferior|músculos recto inferior;4;999999927
+recto medial;músculo recto medial|músculos recto medial;4;999999926
+recto lateral;músculo recto lateral|músculos recto lateral;4;999999925
+oblicuo superior;músculo oblicuo superior|músculos oblicuo superior;4;999999924
+oblicuo inferior;músculo oblicuo inferior|músculos oblicuo inferior;4;999999923
+elevador del párpado;músculo elevador del párpado|músculos elevador del párpado;4;999999922
+cremáster;músculo cremáster|músculos cremáster;4;999999921
+piramidal del abdomen;músculo piramidal del abdomen|músculos piramidal del abdomen;4;999999920
+mentoniano;músculo mentoniano|músculos mentoniano;4;999999919
+risorio;músculo risorio|músculos risorio;4;999999918
+nasal;músculo nasal|músculos nasal;4;999999917
+prócer;músculo prócer|músculos prócer;4;999999916
+corrugador;músculo corrugador|músculos corrugador;4;999999915
+depresor del ángulo de la boca;músculo depresor del ángulo de la boca|músculos depresor del ángulo de la boca;4;999999914
+elevador del labio superior;músculo elevador del labio superior|músculos elevador del labio superior;4;999999913
+pterigoideo;músculo pterigoideo|músculos pterigoideo;4;999999912
+digástrico;músculo digástrico|músculos digástrico;4;999999911
+milohioideo;músculo milohioideo|músculos milohioideo;4;999999910
+geniohioideo;músculo geniohioideo|músculos geniohioideo;4;999999909
+estilohioideo;músculo estilohioideo|músculos estilohioideo;4;999999908
+tirohioideo;músculo tirohioideo|músculos tirohioideo;4;999999907
+esternohioideo;músculo esternohioideo|músculos esternohioideo;4;999999906
+omohioideo;músculo omohioideo|músculos omohioideo;4;999999905
+constrictor de la faringe;músculo constrictor de la faringe|músculos constrictor de la faringe;4;999999904
+cricotiroideo;músculo cricotiroideo|músculos cricotiroideo;4;999999903
+aritenoides;músculo aritenoides|músculos aritenoides;4;999999902
 largo;Músculo largo;5;0
 triangular;Músculo triangular;5;0
 multipeniforme;Músculo multipeniforme;5;0
@@ -276,7 +276,6 @@ extensor largo de los dedos;Músculo extensor largo de los dedos;5;0
 extensor largo del dedo gordo;Músculo extensor largo del dedo gordo;5;0
 peroneo largo;Músculo peroneo largo;5;0
 peroneo corto;Músculo peroneo corto;5;0
-tríceps sural;Músculo tríceps sural;5;0
 flexor largo de los dedos;Músculo flexor largo de los dedos;5;0
 flexor largo del dedo gordo;Músculo flexor largo del dedo gordo;5;0
 extensor corto del dedo gordo;Músculo extensor corto del dedo gordo;5;0

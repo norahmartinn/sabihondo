@@ -2,7 +2,7 @@ respuesta;alias;nivel;ediciones_wikipedia
 Platón;;1;1000000000
 Aristóteles;;1;999999999
 Sócrates;;1;999999998
-Nietzsche;Friedrich Nietzsche;1;999999997
+Nietzsche;Friedrich Nietzsche|Nietszche|Nietzche|Nietsche;1;999999997
 Kant;Immanuel Kant;1;999999996
 Descartes;René Descartes;1;999999995
 Marx;Karl Marx;1;999999994
@@ -31,7 +31,7 @@ Marco Aurelio;;2;999999982
 Diógenes;;2;999999981
 Zenón;;2;999999980
 San Agustín;Agustín de Hipona;2;999999979
-Santo Tomás;Tomás de Aquino;2;999999978
+Santo Tomás;Tomás de Aquino|Santo Tomás de Aquino;2;999999978
 Averroes;;2;999999977
 Maimónides;;2;999999976
 Kierkegaard;;2;999999975
@@ -53,7 +53,7 @@ Freud;;2;999999960
 Popper;;2;999999959
 Russell;Bertrand Russell;2;999999958
 Habermas;;2;999999957
-Byung-Chul Han;;2;999999956
+Byung-Chul Han;Han;2;999999956
 Zizek;;2;999999955
 Chomsky;;2;999999954
 Derrida;;2;999999953
@@ -102,7 +102,7 @@ Kuhn;;3;999999911
 Feyerabend;;3;999999910
 Ayn Rand;;3;999999909
 Peter Singer;;3;999999908
-Martha Nussbaum;;3;999999907
+Martha Nussbaum;Nussbaum;3;999999907
 Judith Butler;;3;999999906
 Fichte;;3;999999904
 Schelling;;3;999999903
@@ -135,6 +135,13 @@ Peirce;;3;999999876
 Santayana;;3;999999875
 Alain de Botton;;3;999999874
 Slavoj Žižek;;3;999999873
+San Anselmo;Anselmo de Canterbury|Anselmo;4;100000000
+Helvecio;;4;99999999
+Jordan Peterson;;4;99999998
+Michel Onfray;Onfray;4;99999997
+Mark Fisher;;4;99999996
+Alan Watts;;4;99999995
+Krishnamurti;;4;99999994
 Isaac Newton;;4;303
 Mahatma Gandhi;Gandhi|Mohandas Karamchand Gandhi;4;287
 León Tolstói;Lev Tolstói|Tolstoy|Tolstói|Lev Nikoláyevich Tolstói|Leo Tolstoy;4;282
@@ -281,7 +288,7 @@ Marqués de Sade;Marquis de Sade|Donatien Alphonse Francois de Sade|Sade;4;106
 Amartya Sen;Amartya K. Sen|Amartya Kumar Sen|Amarty sen;4;106
 Fernando Pessoa;Fernando António Nogueira Pessoa|Pessoa;4;106
 Luciano de Samósata;Lucian of Samosata|Samósata;4;106
-Jiddu Krishnamurti;Krishnamurti|J. Krishnamurti;4;106
+Jiddu Krishnamurti;J. Krishnamurti;4;106
 Elie Wiesel;Wiesel;4;106
 Jan Hus;Jan Huss|Juan Huss|John Huss|Juan de Hussenitz|Gus Yan;4;106
 Ernst Haeckel;Ernst Heinrich Haeckel|Ernst Heinrich Philip August Haeckel|Ernst Heinrich Philipp August Haeckel|Haeckel;4;106
@@ -342,7 +349,6 @@ Joseph Priestley;Joseph Priestly|Priestley;4;93
 Basilio el Grande;Basilio Magno|San Basilio el Grande|San Basilio Magno|San Basilio de Cesárea|Basil of Caesarea|Grande;4;93
 Primo Levi;Levi;4;92
 Roger Penrose;Sir Roger Penrose|Penrose;4;92
-Anselmo de Canterbury;San Anselmo de Canterbury|Anselmo de Bec|Anselmo de Cantorbery|Anselm of Canterbury;4;92
 Gottlob Frege;Friedrich Ludwig Gottlob Frege;4;92
 Friedrich Schelling;Friedrich Wilhelm von Schelling|Friedrich Wilhelm Joseph Schelling;4;92
 Wilhelm Wundt;Wilhelm Maximilian Wundt|Wilhelm Maximilien Wundt|Wilhem Wundt|Wundt;4;92
@@ -789,7 +795,6 @@ Saul Kripke;Saul Aaron Kripke|Kripke;5;51
 Ibn Nafis;Nafis;5;51
 Naser Josrow;Nasir Xosrov|Nasir Khusraw|Josrow;5;51
 Olaf Stapledon;William Olaf Stapledon|Stapledon;5;51
-Alan Watts;;5;51
 Bruno Latour;Latour;5;51
 Jacques Maritain;Maritain;5;51
 Norbert Elias;Norberto Elias|Elias;5;51
@@ -1044,7 +1049,6 @@ Ernst Zermelo;Zermelo;5;41
 Christian Thomasius;Christian Thomas|Thomasius;5;41
 Rudolf Hermann Lotze;Hermann Lotze|Rudolph Hermann Lotze|Rudolph H Lotze|Rudolph Lotze|Lotze;5;41
 Christian Fürchtegott Gellert;Gellert;5;41
-Michel Onfray;Onfray;5;41
 Rudolf Otto;Otto;5;41
 Brihaspati;Brijaspati;5;41
 Alfred Schütz;Schütz;5;41
@@ -1199,7 +1203,6 @@ Aldo Leopold;Leopold;5;37
 Johan Vilhelm Snellman;Snellman;5;36
 Gianni Vattimo;Gian Teresio Vattimo|Vattimo;5;36
 Kevin Joseph Farrell;Kevin Farrell;5;36
-Mark Fisher;k-punk|Fisher;5;36
 Abu Yusuf;Yusuf;5;36
 Christina Bernadotte;La princesa Cristina de Suecia|Princess Christina, Mrs. Magnuson|Bernadotte;5;36
 Hiparquía;Hipparchia of Maroneia;5;36

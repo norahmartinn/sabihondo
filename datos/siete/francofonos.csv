@@ -14,10 +14,10 @@ Costa de Marfil;;2;999999993
 Camerún;;3;1000000000
 Mali;;3;999999999
 República del Congo;Congo|Congo-Brazzaville;3;999999998
-República Democrática del Congo;RDC|Congo-Kinsasa|Zaire;3;999999997
+República Democrática del Congo;RDC|Congo-Kinsasa|Zaire|RD Congo|Congo-Kinshasa;3;999999997
 Madagascar;;3;999999996
 Gabón;;3;999999995
-Burkina Faso;;3;999999994
+Burkina Faso;Burkina;3;999999994
 Níger;;3;999999993
 Chad;;3;999999992
 Guinea;Guinea-Conakry;3;999999991
@@ -26,13 +26,13 @@ Togo;;3;999999989
 Ruanda;;3;999999988
 Burundi;;3;999999987
 Yibuti;Djibouti;4;1000000000
-Comoras;;4;999999999
+Comoras;islas Comoras;4;999999999
 Seychelles;;4;999999998
-República Centroafricana;;4;999999997
+República Centroafricana;Centroáfrica;4;999999997
 Guinea Ecuatorial;;4;999999996
 Mauritania;;4;999999995
 Líbano;;4;999999994
-Mauricio;;4;999999993
+Mauricio;isla Mauricio;4;999999993
 Andorra;;4;999999992
 Vanuatu;;5;1000000000
 Vietnam;;5;999999999
@@ -49,3 +49,6 @@ San Pedro y Miquelón;;5;999999989
 Wallis y Futuna;;5;999999988
 Santa Lucía;;5;999999987
 Dominica;;5;999999986
+Egipto;;5;100000000
+Cabo Verde;;5;99999999
+Santo Tomé y Príncipe;;5;99999998

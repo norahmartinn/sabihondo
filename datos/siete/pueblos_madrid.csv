@@ -11,7 +11,7 @@ San Lorenzo de El Escorial;San Lorenzo;1;999999992
 Pozuelo;Pozuelo de Alarcón;1;999999991
 Majadahonda;;1;999999990
 Las Rozas;Las Rozas de Madrid;1;999999989
-Alcobendas;;1;999999988
+Alcobendas;La Moraleja;1;999999988
 San Sebastián de los Reyes;Sanse;1;999999987
 Torrejón;Torrejón de Ardoz;1;999999986
 Boadilla;Boadilla del Monte;1;999999985
@@ -24,7 +24,7 @@ San Fernando de Henares;;2;999999999
 Arganda;Arganda del Rey;2;999999998
 Valdemoro;;2;999999997
 Pinto;;2;999999996
-Tres Cantos;;2;999999995
+Tres Cantos;Soto de Viñuelas;2;999999995
 Colmenar Viejo;;2;999999994
 Villaviciosa de Odón;;2;999999993
 Navalcarnero;;2;999999992
@@ -48,10 +48,10 @@ Algete;;2;999999975
 Alpedrete;;2;999999974
 Collado Mediano;;2;999999973
 Moralzarzal;;2;999999972
-Becerril de la Sierra;;2;999999971
+Becerril de la Sierra;Becerril;2;999999971
 El Boalo;;2;999999970
 Soto del Real;;2;999999969
-Miraflores de la Sierra;;2;999999968
+Miraflores de la Sierra;Miraflores;2;999999968
 Hoyo de Manzanares;;2;999999967
 El Escorial;;2;999999966
 Robledo de Chavela;;2;999999965
@@ -104,7 +104,7 @@ Corpa;;3;999999918
 Pezuela de las Torres;;3;999999917
 Olmeda de las Fuentes;;3;999999916
 Ambite;;3;999999915
-Orusco de Tajuña;;3;999999914
+Orusco de Tajuña;Orusco;3;999999914
 Carabaña;;3;999999913
 Valdilecha;;3;999999912
 Tielmes;;3;999999911
@@ -149,7 +149,7 @@ Gascones;;4;999999872
 Piñuécar;;4;999999871
 Madarcos;;4;999999870
 Prádena del Rincón;;4;999999869
-Horcajuelo de la Sierra;;4;999999868
+Horcajuelo de la Sierra;Horcajuelo;4;999999868
 Berzosa del Lozoya;;4;999999867
 Cervera de Buitrago;;4;999999866
 Robledillo de la Jara;;4;999999865

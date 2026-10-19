@@ -1,23 +1,23 @@
 respuesta;alias;nivel;orden_a_mano
 Ferrari;Scuderia Ferrari;1;1000000000
-Mercedes;Mercedes-AMG;1;999999999
+Mercedes;Mercedes-AMG|Mercedes GP;1;999999999
 Red Bull;Red Bull Racing;1;999999998
-McLaren;;1;999999997
-Aston Martin;;1;999999996
-Alpine;;1;999999995
-Renault;;1;999999994
-Williams;;1;999999993
-Haas;;2;1000000000
-Sauber;;2;999999999
+McLaren;McLaren Mercedes;1;999999997
+Aston Martin;Aston;1;999999996
+Alpine;Alpine F1;1;999999995
+Renault;Renault F1;1;999999994
+Williams;Williams Racing;1;999999993
+Haas;Haas F1;2;1000000000
+Sauber;Kick Sauber|Stake;2;999999999
 Alfa Romeo;;2;999999998
-AlphaTauri;;2;999999997
+AlphaTauri;Scuderia AlphaTauri;2;999999997
 Toro Rosso;;2;999999996
-Racing Bulls;RB|Visa Cash App RB;2;999999995
+Racing Bulls;RB|Visa Cash App RB|VCARB|RB F1;2;999999995
 Audi;;2;999999994
 Cadillac;;2;999999993
 Minardi;;2;999999992
 Jordan;;2;999999991
-Lotus;;2;999999990
+Lotus;Team Lotus|Lotus Racing|Lotus Renault;2;999999990
 Benetton;;2;999999989
 Brabham;;3;999999988
 Tyrrell;;3;999999987
@@ -26,21 +26,26 @@ Racing Point;;3;999999985
 Toyota;;3;999999984
 Honda;;3;999999983
 BMW Sauber;BMW;3;999999982
-HRT;Hispania|Hispania Racing;3;999999981
+HRT;Hispania|Hispania Racing|Campos|Campos Meta;3;999999981
 Brawn GP;Brawn;3;999999980
 Jaguar;;3;999999979
 Ligier;;3;999999978
+Cooper;;3;100000000
+BRM;British Racing Motors;3;99999999
+Vanwall;;3;99999998
 Stewart;;4;999999977
 BAR;British American Racing;4;999999976
 Super Aguri;;4;999999975
 Caterham;;4;999999974
 Marussia;;4;999999973
 Manor;;4;999999972
-Virgin;;4;999999971
+Virgin;Virgin Racing;4;999999971
 Spyker;;4;999999970
 Midland;;4;999999969
 Prost;;4;999999968
 Arrows;;4;999999967
+Fittipaldi;Copersucar;4;100000000
+Footwork;;4;99999999
 Automobiles Gonfaronnaises Sportives;;5;0
 Alfa Special;;5;0
 Alta;Alta Car and Engineering Company;5;0
@@ -54,7 +59,6 @@ Auto Technisches Spezialzubehör;ATS;5;0
 Behra-Porsche;;5;0
 Bellasi;;5;0
 Boro;;5;0
-British Racing Motors;;5;0
 British Racing Partnership;;5;0
 Bugatti;;5;0
 Cisitalia;;5;0
@@ -139,7 +143,6 @@ Theodore;Theodore Racing;5;0
 Token;Token Racing;5;0
 Toleman;;5;0
 Trojan;Trojan–Tauranac Racing;5;0
-Vanwall;;5;0
 Venturi;Venturi Automobiles;5;0
 Veritas;;5;0
 Wolf;Walter Wolf Racing;5;0

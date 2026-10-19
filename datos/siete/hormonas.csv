@@ -3,11 +3,11 @@ insulina;;1;1000000000
 adrenalina;epinefrina;1;999999999
 testosterona;;1;999999998
 estrógeno;estrógenos|estradiol;1;999999997
-cortisol;;1;999999996
-melatonina;;1;999999995
-oxitocina;;1;999999994
+cortisol;hormona del estrés;1;999999996
+melatonina;hormona del sueño;1;999999995
+oxitocina;hormona del amor;1;999999994
 dopamina;;1;999999993
-serotonina;;1;999999992
+serotonina;hormona de la felicidad;1;999999992
 progesterona;;1;999999991
 hormona del crecimiento;somatotropina|GH;1;999999990
 noradrenalina;norepinefrina;2;1000000000
@@ -16,9 +16,9 @@ tiroxina;T4;2;999999998
 triyodotironina;T3;2;999999997
 glucagón;;2;999999996
 prolactina;;2;999999995
-vasopresina;hormona antidiurética|ADH;2;999999994
+vasopresina;hormona antidiurética|ADH|antidiurética;2;999999994
 leptina;;2;999999993
-grelina;;2;999999992
+grelina;hormona del hambre;2;999999992
 aldosterona;;2;999999991
 calcitonina;;2;999999990
 parathormona;hormona paratiroidea|PTH;2;999999989
@@ -114,7 +114,6 @@ Insulina degludec;Insulin degludec;5;13
 Somatotropina bovina;bovine somatotropin;5;13
 Hormonas liberadoras e inhibidoras;releasing hormone;5;12
 Enteroglucagón;;5;10
-hormona de estrés;stress hormone;5;10
 Enterogastrona;Enterogastrone;5;9
 3,5-diyodotironina;DL-3,5-diiodothyronine;5;8
 Hormona protoracicotrópica;Bombyxin;5;6

@@ -1,12 +1,12 @@
 respuesta;alias;nivel;orden_a_mano
 hummus;humus;1;1000000000
-crema de cacao;crema de cacao con avellanas|nocilla;1;999999999
+crema de cacao;crema de cacao con avellanas|nocilla|crema de avellanas;1;999999999
 leche;;1;999999998
-yogur;yogures|yogur griego;1;999999997
-pizza;pizzas;1;999999996
-croquetas;croquetas de jamón;1;999999995
-patatas fritas;patatas|chips;1;999999994
-aceite;aceite de oliva;1;999999993
+yogur;yogures|yogur griego|yogur natural|natural|yogur bífidus;1;999999997
+pizza;pizzas|pizza margarita|pizza jamón y queso|pizza de pollo|pizza fresca;1;999999996
+croquetas;croquetas de jamón|croquetas de pollo|croquetas de bacalao;1;999999995
+patatas fritas;patatas|chips|patatas de bolsa|patatas al punto de sal|patatas sabor jamón;1;999999994
+aceite;aceite de oliva|aceite de oliva virgen extra|aceite de girasol;1;999999993
 galletas;;1;999999992
 helado;helados;1;999999991
 tarta de queso;;1;999999990
@@ -16,9 +16,9 @@ gazpacho;;2;999999998
 salmorejo;;2;999999997
 guacamole;;2;999999996
 nachos;;2;999999995
-tortilla;tortilla de patatas;2;999999994
-queso;queso curado|queso fresco;2;999999993
-pan;pan de molde;2;999999992
+tortilla;tortilla de patatas|tortilla de patata con cebolla|tortilla sin cebolla;2;999999994
+queso;queso curado|queso fresco|queso manchego|queso semicurado|queso tierno|queso azul|queso en lonchas|lonchas;2;999999993
+pan;pan de molde|pan integral;2;999999992
 pan de leche;;2;999999991
 cereales;;2;999999990
 magdalenas;;2;999999989
@@ -34,7 +34,7 @@ chocolate;chocolate negro;2;999999980
 turrón;;2;999999979
 café;cápsulas de café;2;999999978
 leche sin lactosa;;2;999999977
-bebida de avena;leche de avena;2;999999976
+bebida de avena;leche de avena|bebida de soja|leche de soja|leche de almendras|bebida de almendras;2;999999976
 yogur proteínas;proteínas;2;999999975
 queso fresco batido;;2;999999974
 batido de chocolate;;2;999999973
@@ -44,7 +44,7 @@ arroz;;2;999999970
 lentejas;garbanzos;2;999999969
 mermelada;;2;999999968
 miel;;2;999999967
-jamón;jamón serrano;2;999999966
+jamón;jamón serrano|jamón cocido|jamón york;2;999999966
 pavo;fiambre de pavo;2;999999965
 salchichas;;2;999999964
 mozzarella;;2;999999963
@@ -114,6 +114,63 @@ salsa brava;;3;999999900
 alioli;;3;999999899
 mostaza;;3;999999898
 berenjenas;;3;999999897
+barritas de proteínas;barritas;3;100000000
+limonada;;3;99999999
+horchata;;3;99999998
+refresco de cola;cola Hacendado;3;99999997
+pan de hamburguesa;;3;99999996
+pan de perritos;;3;99999995
+salchichas Frankfurt;;3;99999994
+masa de pizza;base de pizza;3;99999993
+hojaldre;;3;99999992
+masa quebrada;;3;99999991
+tortillas mexicanas;;3;99999990
+quesadillas;;3;99999989
+salsa barbacoa;;3;99999988
+cebolla frita;;3;99999987
+soja texturizada;;3;99999986
+garbanzos cocidos;;3;99999985
+alubias;;3;99999984
+judías;;3;99999983
+cuscús;;3;99999982
+quinoa;;3;99999981
+patatas gajo;;3;99999980
+patatas congeladas;;3;99999979
+verduras congeladas;;3;99999978
+salteado;;3;99999977
+arroz tres delicias;;3;99999976
+arroz basmati;;3;99999975
+pasta fresca;;3;99999974
+ravioli;;3;99999973
+canelones;;3;99999972
+bechamel;;3;99999971
+merluza rebozada;;3;99999970
+varitas de merluza;palitos de pescado;3;99999969
+pechuga de pollo;;3;99999968
+carne picada;;3;99999967
+albóndigas;;3;99999966
+lomo adobado;;3;99999965
+costillas;;3;99999964
+panceta;;3;99999963
+morcilla;;3;99999962
+parmesano;;3;99999961
+emmental;;3;99999960
+gouda;;3;99999959
+edam;;3;99999958
+cheddar;;3;99999957
+mascarpone;;3;99999956
+requesón;;3;99999955
+ricotta;;3;99999954
+feta;;3;99999953
+halloumi;;3;99999952
+queso cottage;cottage;3;99999951
+queso de Burgos;;3;99999950
+batido de proteínas;;3;99999949
+isotónica;;3;99999948
+tónica;;3;99999947
+obleas;;3;99999946
+bulgur;;3;99999945
+wok;;3;99999944
 pimientos;;4;999999896
 judías verdes;;4;999999895
 maíz;;4;999999894
@@ -157,7 +214,7 @@ sardinas;;4;999999857
 anchoas;;4;999999856
 bacalao;;4;999999855
 merluza;;4;999999854
-calamares;;4;999999853
+calamares;calamares a la romana|anillas de calamar;4;999999853
 tarta de chocolate;;4;999999852
 tiramisú;;4;999999851
 coulant;;4;999999850
@@ -166,6 +223,14 @@ brownie;;4;999999848
 cheesecake;;4;999999847
 mochi;;4;999999846
 helado de pistacho;;4;999999845
+Heura;;4;100000000
+sidra;;4;99999999
+tinto de verano;;4;99999998
+vermut;;4;99999997
+sangría;;4;99999996
+camembert;;4;99999995
+queso brie;;4;99999994
+havarti;;4;99999993
 polos;;5;999999844
 sorbete;;5;999999843
 leche condensada;;5;999999842
@@ -178,7 +243,6 @@ yogur de limón;;5;999999836
 bífidus;;5;999999835
 skyr;;5;999999834
 queso de untar;;5;999999833
-queso en lonchas;;5;999999832
 mozzarella rallada;;5;999999831
 cuatro quesos;;5;999999830
 pan rallado;;5;999999829

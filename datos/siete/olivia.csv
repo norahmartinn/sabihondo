@@ -1,15 +1,15 @@
 respuesta;alias;nivel;reproducciones_spotify
-drivers license;drivers licence|driver license;1;1000000000
+drivers license;drivers licence|driver license|licencia de conducir;1;1000000000
 good 4 u;good for you|good four you;1;999999999
 vampire;;1;999999998
 traitor;;1;999999997
 deja vu;;1;999999996
 happier;;2;1741576300
 favorite crime;;2;1631510151
-jealousy, jealousy;;2;1325533001
+jealousy, jealousy;jealousy;2;1325533001
 All I Want;;2;1302700808
 brutal;;2;880759207
-bad idea right?;;2;775502906
+bad idea right?;bad idea;2;775502906
 1 step forward, 3 steps back;;2;741544972
 enough for you;;2;681403751
 lacy;;2;585864246
@@ -18,7 +18,7 @@ Can't Catch Me Now;;3;566729400
 get him back!;;3;564465356
 the cure;;3;535959906
 all-american bitch;;3;455377026
-hope ur ok;;3;452885607
+hope ur ok;hope you're ok|hope you are ok;3;452885607
 stupid song;;3;423252592
 the grudge;;3;422521803
 obsessed;;3;381389076

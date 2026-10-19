@@ -260,3 +260,75 @@ MAS.update({
                     4: "aguacate, guayaba, papaya, uva, mantecado, filipinos, príncipe, chips ahoy, donut=donuts, whisky, ron, gin tonic, frutas tropicales, lichi=litchi, chai, requesón, ricotta, dátil=dátiles, tarta de manzana=apple pie, calabaza, boniato=batata, zanahoria, sésamo, cardamomo, azafrán, chocolate suizo, rocky road, arcoíris, leche, crema, turrón de Alicante, yogur con frutos rojos, cheesecake de frutos rojos",
                     5: "remolacha, tomate, mangostán, pimienta, chile, aceite de oliva, sal, aceituna"},
 })
+ALIAS_MAS.update({
+ "refrescos": {"Bitter Kas": "bitter", "tónica": "tónica Schweppes, Schweppes tónica", "7Up": "7Up Free, Seven Up Free", "Aquarius": "Aquarius limón, Aquarius Zero",
+               "Lipton": "Lipton melocotón, Ice Tea limón", "Nestea": "Nestea limón, Nestea mango piña", "Red Bull": "Red Bull sin azúcar", "Monster": "Monster Ultra, Monster blanco"},
+ "phineas": {"Doofenshmirtz": "Heinz, el doctor Doofenshmirtz", "Perry": "el ornitorrinco, ornitorrinco", "Carl": "Karl", "Norm": "el robot Norm", "Baljeet": "Balyit, Baljit",
+             "Clyde Flynn": "Clyde, el abuelo, abuelo Clyde", "Betty Jo": "la abuela, abuela Betty Jo", "Reginald Fletcher": "Reginald, abuelo Reg", "Winifred Fletcher": "Winifred",
+             "Bobbi Fabulous": "Bobbi", "Mitch": "Mitch el alien"},
+ "hormonas": {"vasopresina": "antidiurética", "serotonina": "hormona de la felicidad", "oxitocina": "hormona del amor", "grelina": "hormona del hambre",
+              "melatonina": "hormona del sueño", "cortisol": "hormona del estrés"},
+ "francofonos": {"República Centroafricana": "Centroáfrica", "Mauricio": "isla Mauricio", "Comoras": "islas Comoras", "Burkina Faso": "Burkina", "República Democrática del Congo": "RD Congo, Congo-Kinshasa"},
+ "filosofos": {"Nietzsche": "Nietszche, Nietzche, Nietsche", "Santo Tomás": "Santo Tomás de Aquino, Tomás de Aquino", "Martha Nussbaum": "Nussbaum", "Byung-Chul Han": "Han"},
+})
+MAS.update({
+ "refrescos": {3: "Powerade, Gatorade, Isostar, Champín, soda, Coca-Cola vainilla, Pepsi Zero, Prime",
+               4: "horchata, Manzanita Sol, Squirt, Celsius, Rockstar, Monster Mango Loco"},
+ "phineas": {3: "chicas exploradoras=las exploradoras=Fireside Girls"},
+ "esdrujulas": {2: "cuídate, dígame, dímelo, cállate, siéntate, levántate, déjame, mírame, escúchame, tráeme, dámelo, vámonos, ábrelo, cómprate"},
+ "filosofos": {4: "San Anselmo=Anselmo de Canterbury=Anselmo, Helvecio, Jordan Peterson, Michel Onfray=Onfray, Mark Fisher, Alan Watts, Krishnamurti"},
+ "francofonos": {5: "Egipto, Cabo Verde, Santo Tomé y Príncipe"},
+})
+ALIAS_MAS.update({
+ "sagas": {"El señor de los anillos": "LOTR, ESDLA", "Los Vengadores": "Avengers, Universo Marvel, UCM", "Los juegos del hambre": "Hunger Games",
+           "Rocky": "Creed", "Saw": "Los juegos del miedo", "Maze Runner": "The Maze Runner", "Piratas del Caribe": "Piratas", "Gru": "Despicable Me, Los Minions",
+           "Ice Age": "La era de hielo", "Jurassic Park": "Jurassic", "Fast & Furious": "Fast", "Spider-Man": "El hombre araña, Spider Man, Spider-Verse, Spider-Man: Un nuevo universo",
+           "Batman": "The Dark Knight, El caballero oscuro, The Batman", "Narnia": "Las crónicas de Narnia", "X-Men": "Lobezno, Wolverine", "Star Wars": "Star Wars episodio IV, La guerra de las galaxias"},
+ "hacendado": {"yogur": "yogur natural, natural, yogur bífidus", "patatas fritas": "patatas de bolsa, patatas al punto de sal, patatas sabor jamón", "aceite": "aceite de oliva virgen extra, aceite de girasol",
+               "crema de cacao": "crema de avellanas", "pan": "pan integral", "jamón": "jamón cocido, jamón york", "queso": "queso manchego, queso semicurado, queso tierno, queso azul, queso en lonchas, lonchas",
+               "pizza": "pizza margarita, pizza jamón y queso, pizza de pollo, pizza fresca", "bebida de avena": "bebida de soja, leche de soja, leche de almendras, bebida de almendras", "croquetas": "croquetas de pollo, croquetas de bacalao",
+               "calamares": "calamares a la romana, anillas de calamar", "tortilla": "tortilla de patata con cebolla, tortilla sin cebolla"},
+ "bigbang": {"Raj": "Rajesh", "Beverly Hofstadter": "Beverly, la madre de Leonard", "Alex Jensen": "Alex", "Ramona Nowitzki": "Ramona", "Halley Wolowitz": "Halley",
+             "Neil Michael Wolowitz": "Neil Wolowitz", "Missy Cooper": "la hermana de Sheldon", "Alfred Hofstadter": "el padre de Leonard", "Stuart": "el de la tienda de cómics",
+             "Cinnamon": "Cinammon, el perro de Raj", "Penny": "Penny Hofstadter", "Wil Wheaton": "Wil"},
+ "musculos": {"abdominales": "six pack, tableta, abs, core, abdomen", "gemelos": "pantorrilla, tríceps sural", "glúteo": "glúteo máximo", "erector de la columna": "erectores, lumbares, lumbar",
+              "tibial anterior": "tibial", "palmar largo": "palmar"},
+ "pueblos_madrid": {"Becerril de la Sierra": "Becerril", "Miraflores de la Sierra": "Miraflores", "Orusco de Tajuña": "Orusco", "Horcajuelo de la Sierra": "Horcajuelo"},
+ "batallas": {"las Navas de Tolosa": "las Navas", "Stalingrado": "Operación Barbarroja, Barbarroja"},
+ "olivia": {"bad idea right?": "bad idea", "jealousy, jealousy": "jealousy", "hope ur ok": "hope you're ok, hope you are ok", "drivers license": "licencia de conducir"},
+})
+MAS.update({
+ "sagas": {3: "Percy Jackson, Cincuenta sombras de Grey=50 sombras de Grey=Cincuenta sombras, It, Annabelle, La monja, Guardianes de la galaxia, Iron Man, Capitán América, Thor, Deadpool, Ant-Man, Black Panther, Wonder Woman, Aquaman, Doctor Strange, Los cuatro fantásticos, Venom, Joker, Scary Movie, La purga=The Purge, Tiburón, El exorcista, Posesión infernal=Evil Dead, Padre no hay más que uno, Mortadelo y Filemón, Astérix=Astérix y Obélix=Asterix, Tadeo Jones, Zipi y Zape, Kingsman, Sherlock Holmes, Robert Langdon=El código Da Vinci, Universo DC=DC, Alien vs Predator, Hostel, Spirit",
+           4: "Mamá o papá, Los padrinos mágicos, Need for Speed, Tintín"},
+ "hacendado": {3: "barritas de proteínas=barritas, limonada, horchata, refresco de cola=cola Hacendado, pan de hamburguesa, pan de perritos, salchichas Frankfurt, masa de pizza=base de pizza, hojaldre, masa quebrada, tortillas mexicanas, quesadillas, salsa barbacoa, cebolla frita, soja texturizada, garbanzos cocidos, alubias, judías, cuscús, quinoa, patatas gajo, patatas congeladas, verduras congeladas, salteado, arroz tres delicias, arroz basmati, pasta fresca, ravioli, canelones, bechamel, merluza rebozada, varitas de merluza=palitos de pescado, pechuga de pollo, carne picada, albóndigas, lomo adobado, costillas, panceta, morcilla, parmesano, emmental, gouda, edam, cheddar, mascarpone, requesón, ricotta, feta, halloumi, queso cottage=cottage, queso de Burgos, batido de proteínas, isotónica, tónica, obleas, bulgur, wok",
+               4: "Heura, sidra, tinto de verano, vermut, sangría, camembert, queso brie, havarti"},
+ "bigbang": {4: "el padre de Penny=Wyatt, Dr. Zangen=Zangen, el joven Sheldon=Young Sheldon=Sheldon de pequeño, Zazzles, Tam=Tam Nguyen, el señor Kim, Dave, el hermano de Penny=Randall"},
+ "dieresis": {3: "lingüísticamente, santigüe, amortigüe, apacigüe, atestigüe, averigüemos, santigüé, pingüinito, desagüé, averigüé, apacigüé, amortigüé, atestigüé, santigüemos, apacigüemos"},
+ "batallas": {3: "la Armada Invencible=Armada Invencible, Ulm, Aboukir=Abukir, Finisterre, Gravelinas, Alcazarquivir=los tres reyes, Medellín, Calatañazor, Ypres, Tannenberg, Wagram, Marengo, Balaclava=carga de la Brigada Ligera, Sebastopol, Isandlwana, Rorke's Drift, Adua, Caporetto, Cambrai, Amiens, Sedán, Blood River",
+              5: "Hamburger Hill, Alhandega, Alma, Inkerman, Eylau, Friedland, Gravelotte, Custoza, Lissa, Navarino"},
+ 
+})
+ALIAS_MAS.update({"bigbang": {**ALIAS_MAS["bigbang"], "Howard": "Wolowitz", "Sheldon": "Cooper", "Leonard": "Hofstadter", "Amy": "Fowler", "Bernadette": "Rostenkowski"},
+                  "pueblos_madrid": {**ALIAS_MAS["pueblos_madrid"], "Alcobendas": "La Moraleja", "Tres Cantos": "Soto de Viñuelas"}})
+ALIAS_MAS.update({
+ "eurovision": {"Pastora Soler": "Pastora", "Ruth Lorenzo": "Ruth", "Rosa": "Rosa de España", "Rodolfo Chikilicuatre": "Chiki chiki, el Chikilicuatre", "Chanel": "Chanel SloMo"},
+ "bimbo": {"pan Bimbo": "pan blanco, sándwich, pan de sándwich", "Donettes": "mini donuts, minidonettes, mini donettes, Donettes de chocolate", "Pantera Rosa": "Pantera",
+           "panecillos de hamburguesa": "panecillos", "Bimbo Tostado": "pan tostado, tostadas", "Bollycao Leche": "Bollycao blanco", "Donuts": "Donuts azúcar, Donuts glas"},
+ "office": {"Jim": "Big Tuna, el gran atún, Tuna, Halpert", "Dwight": "Schrute", "Pam": "Beesly", "Michael Scott": "Scott", "Danny Cordray": "Danny", "Helene Beesly": "Helene, la madre de Pam",
+            "Senator Lipton": "el senador"},
+ "especialidades": {"pediatría": "pediatra", "cardiología": "cardiólogo", "traumatología": "traumatólogo, cirugía ortopédica, cirugía ortopédica y traumatología", "dermatología": "dermatólogo, dermatología médico-quirúrgica",
+                    "ginecología": "ginecólogo, obstetricia y ginecología", "neurología": "neurólogo", "oftalmología": "oftalmólogo", "psiquiatría": "psiquiatra", "oncología": "oncólogo, oncología médica",
+                    "medicina de familia": "medicina general, atención primaria, médico de familia", "cirugía": "cirujano, cirugía general y del aparato digestivo", "urología": "urólogo",
+                    "anestesiología": "anestesiología y reanimación", "endocrinología": "endocrinólogo", "neumología": "neumólogo", "nefrología": "nefrólogo", "reumatología": "reumatólogo",
+                    "hematología": "hematólogo, hematología y hemoterapia", "radiología": "radiólogo, radiodiagnóstico", "medicina interna": "internista", "geriatría": "geriatra",
+                    "medicina intensiva": "intensivista", "neurocirugía": "neurocirujano", "alergología": "alergólogo", "obstetricia": "obstetra", "cirugía plástica": "cirujano plástico, cirugía plástica, estética y reparadora",
+                    "psicología clínica": "psicología, psicólogo", "anatomía patológica": "patología, patólogo", "farmacología clínica": "farmacología", "neurofisiología clínica": "neurofisiología",
+                    "infectología": "infecciosas", "genética clínica": "genética", "medicina paliativa": "paliativos", "cirugía maxilofacial": "cirugía oral y maxilofacial", "medicina legal": "forense, médico forense"},
+ "hispanohablantes": {"República Dominicana": "Dominicana, RD, Rep. Dominicana", "Estados Unidos": "USA"},
+ "escuderias": {"Sauber": "Kick Sauber, Stake", "Racing Bulls": "VCARB, RB F1", "Aston Martin": "Aston", "Mercedes": "Mercedes GP", "Lotus": "Team Lotus, Lotus Racing, Lotus Renault", "Renault": "Renault F1",
+                "Virgin": "Virgin Racing", "HRT": "Campos, Campos Meta", "Alpine": "Alpine F1", "Haas": "Haas F1", "Williams": "Williams Racing", "AlphaTauri": "Scuderia AlphaTauri", "McLaren": "McLaren Mercedes"},
+})
+MAS.update({
+ "office": {3: "Michael Scarn=agente Michael Scarn, Prison Mike, Date Mike, Michael Klump, el chili de Kevin=chili, Goldenface, Scrantonicity, los Dundies=Dundies"},
+ "escuderias": {3: "Cooper, BRM=British Racing Motors, Vanwall", 4: "Fittipaldi=Copersucar, Footwork"},
+})

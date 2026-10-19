@@ -1,29 +1,29 @@
 respuesta;alias;nivel;ediciones_wikipedia
 Harry Potter;;1;1000000000
-Star Wars;La guerra de las galaxias;1;999999999
-El señor de los anillos;Lord of the Rings;1;999999998
-Los Vengadores;Marvel;1;999999997
-Fast & Furious;A todo gas|Fast and Furious|Rápidos y furiosos;1;999999996
+Star Wars;La guerra de las galaxias|Star Wars episodio IV;1;999999999
+El señor de los anillos;Lord of the Rings|LOTR|ESDLA;1;999999998
+Los Vengadores;Marvel|Avengers|Universo Marvel|UCM;1;999999997
+Fast & Furious;A todo gas|Fast and Furious|Rápidos y furiosos|Fast;1;999999996
 Crepúsculo;Twilight;1;999999995
-Los juegos del hambre;;1;999999994
+Los juegos del hambre;Hunger Games;1;999999994
 Toy Story;;1;999999993
-Piratas del Caribe;;1;999999992
-Jurassic Park;Parque Jurásico|Jurassic World;1;999999991
+Piratas del Caribe;Piratas;1;999999992
+Jurassic Park;Parque Jurásico|Jurassic World|Jurassic;1;999999991
 James Bond;007;1;999999990
 Misión imposible;Mission Impossible;1;999999989
 Shrek;;2;1000000000
 Indiana Jones;;2;999999999
-Rocky;;2;999999998
-Saw;;2;999999997
+Rocky;Creed;2;999999998
+Saw;Los juegos del miedo;2;999999997
 Scream;;2;999999996
 Destino final;;2;999999995
 Regreso al futuro;;2;999999994
 El padrino;;2;999999993
 Matrix;;2;999999992
 Transformers;;2;999999991
-Spider-Man;;2;999999990
-Batman;;2;999999989
-X-Men;;2;999999988
+Spider-Man;El hombre araña|Spider-Verse|Spider-Man: Un nuevo universo;2;999999990
+Batman;The Dark Knight|El caballero oscuro|The Batman;2;999999989
+X-Men;Lobezno|Wolverine;2;999999988
 Avatar;;2;999999987
 Mad Max;;2;999999986
 Alien;;2;999999985
@@ -31,16 +31,16 @@ Terminator;;2;999999984
 Jungla de cristal;;2;999999983
 Torrente;;2;999999982
 Ocho apellidos vascos;Ocho apellidos;2;999999981
-Ice Age;Ice Age: La edad de hielo;2;999999980
+Ice Age;Ice Age: La edad de hielo|La era de hielo;2;999999980
 Madagascar;;2;999999979
-Gru;Mi villano favorito|Minions;2;999999978
+Gru;Mi villano favorito|Minions|Despicable Me;2;999999978
 Cars;;2;999999977
 Kung Fu Panda;;2;999999976
 Cómo entrenar a tu dragón;;2;999999975
 Narnia;Las crónicas de Narnia;2;999999974
 El Hobbit;;2;999999973
 Divergente;;2;999999972
-Maze Runner;El corredor del laberinto;2;999999971
+Maze Runner;El corredor del laberinto|The Maze Runner;2;999999971
 Resacón en Las Vegas;Resacón;2;999999970
 American Pie;;2;999999969
 Halloween;;2;999999968
@@ -97,8 +97,47 @@ Resident Evil;;3;999999916
 Tomb Raider;;3;999999915
 Ip Man;;3;999999914
 Taken;Venganza;3;999999913
+Percy Jackson;;3;100000000
+Cincuenta sombras de Grey;50 sombras de Grey|Cincuenta sombras;3;99999999
+It;;3;99999998
+Annabelle;;3;99999997
+La monja;;3;99999996
+Guardianes de la galaxia;;3;99999995
+Iron Man;;3;99999994
+Capitán América;;3;99999993
+Thor;;3;99999992
+Deadpool;;3;99999991
+Ant-Man;;3;99999990
+Black Panther;;3;99999989
+Wonder Woman;;3;99999988
+Aquaman;;3;99999987
+Doctor Strange;;3;99999986
+Los cuatro fantásticos;;3;99999985
+Venom;;3;99999984
+Joker;;3;99999983
+Scary Movie;;3;99999982
+La purga;The Purge;3;99999981
+Tiburón;;3;99999980
+El exorcista;;3;99999979
+Posesión infernal;Evil Dead;3;99999978
+Padre no hay más que uno;;3;99999977
+Mortadelo y Filemón;;3;99999976
+Astérix;Astérix y Obélix;3;99999975
+Tadeo Jones;;3;99999974
+Zipi y Zape;;3;99999973
+Kingsman;;3;99999972
+Sherlock Holmes;;3;99999971
+Robert Langdon;El código Da Vinci;3;99999970
+Universo DC;DC;3;99999969
+Alien vs Predator;;3;99999968
+Hostel;;3;99999967
+Spirit;;3;99999966
+Mamá o papá;;4;100000000
+Los padrinos mágicos;;4;99999999
+Need for Speed;;4;99999998
+Tintín;;4;99999997
 Tom y Jerry;Jerry Mouse|Tom and Jerry|Tom Cat;4;112
-Universo cinematográfico de Marvel;MCU|marvelito|UCM|Marvel Cinematic Universe;4;81
+Universo cinematográfico de Marvel;MCU|marvelito|Marvel Cinematic Universe;4;81
 The Fast and the Furious;Rápido y Furioso;4;58
 Looney Tunes;;4;56
 Nu, pogodi!;Me las pagarás|Well, Just You Wait!;4;51
@@ -154,7 +193,6 @@ Flash Gordon;;5;17
 Cuatrilogía de Underworld;;5;17
 La Pandilla;Our Gang;5;16
 Las mil y una noches;Arabian Nights;5;16
-The Purge;The Purge franquicia;5;16
 Dirty Harry;;5;16
 La Momia;The Mummy;5;16
 Trilogía de Apu;The Apu Trilogy;5;16
@@ -164,12 +202,12 @@ tetralogía de Matrix;Trilogía de Matrix|The Matrix|The Matrix series;5;15
 Wrong Turn;;5;15
 Carry On;;5;15
 The Hollow Crown;La Corona Vacía;5;14
-The Dark Knight Trilogy;trilogia de The Dark Knight|El caballero oscuro|Batman: el caballero de la noche;5;14
+The Dark Knight Trilogy;trilogia de The Dark Knight|Batman: el caballero de la noche;5;14
 Trilogía qatsi;Qatsi|Qatsi trilogy;5;14
 Superman;;5;14
 Tercera trilogía de Star Wars;Trilogía de secuelas de Star Wars|Star Wars sequel trilogy;5;14
 Comedias de Alicia;Alice Comedies;5;13
-The Evil Dead;Evil Dead;5;13
+The Evil Dead;;5;13
 Marvel Studios Special Presentations;Una Presentación Especial de Marvel Studios|Presentaciones Especiales de Marvel Studios;5;12
 Ten Minutes Older;;5;12
 Oso Barney;Barney Bear;5;12

@@ -1,11 +1,11 @@
 respuesta;alias;nivel;orden_a_mano
 Phineas;Phineas Flynn;1;1000000000
 Ferb;Ferb Fletcher;1;999999999
-Perry;Perry el ornitorrinco|Agente P|Perry the Platypus;1;999999998
+Perry;Perry el ornitorrinco|Agente P|Perry the Platypus|el ornitorrinco;1;999999998
 Candace;Candace Flynn;1;999999997
-Doofenshmirtz;Dr. Doofenshmirtz|Heinz Doofenshmirtz|Doof;1;999999996
+Doofenshmirtz;Dr. Doofenshmirtz|Heinz Doofenshmirtz|Doof|Heinz|el doctor Doofenshmirtz;1;999999996
 Isabella;Isabella García-Shapiro;2;1000000000
-Baljeet;Baljeet Tjinder;2;999999999
+Baljeet;Baljeet Tjinder|Balyit|Baljit;2;999999999
 Buford;Buford Van Stomm;2;999999998
 Monograma;Mayor Monograma|Comandante Monograma|Major Monogram|Francis Monograma;2;999999997
 Vanessa;Vanessa Doofenshmirtz;2;999999996
@@ -13,8 +13,8 @@ Jeremy;Jeremy Johnson;2;999999995
 Linda;Linda Flynn;2;999999994
 Lawrence;Lawrence Fletcher;2;999999993
 Stacy;Stacy Hirano;2;999999992
-Carl;Carl Karl;2;999999991
-Norm;Norm el robot|Norm Bot;2;999999990
+Carl;Carl Karl|Karl;2;999999991
+Norm;Norm el robot|Norm Bot|el robot Norm;2;999999990
 Irving;;3;1000000000
 Django;Django Brown;3;999999999
 Suzy;Suzy Johnson;3;999999998
@@ -22,26 +22,27 @@ Charlene;Charlene Doofenshmirtz;3;999999997
 Roger;Roger Doofenshmirtz|alcalde Roger;3;999999996
 Pinky;Pinky el chihuahua;3;999999995
 Peter el panda;Peter;3;999999994
-Clyde Flynn;;3;999999993
-Betty Jo;;3;999999992
-Reginald Fletcher;;3;999999991
-Winifred Fletcher;;3;999999990
+Clyde Flynn;Clyde|el abuelo|abuelo Clyde;3;999999993
+Betty Jo;la abuela|abuela Betty Jo;3;999999992
+Reginald Fletcher;Reginald|abuelo Reg;3;999999991
+Winifred Fletcher;Winifred;3;999999990
 Love Händel;;3;999999989
 Jenny;;3;999999988
 Coltrane;;3;999999987
 Ginger;;3;999999986
 Gretchen;;3;999999985
 Holly;;3;999999984
+chicas exploradoras;las exploradoras|Fireside Girls;3;100000000
 Katie;;4;999999983
 Milly;;4;999999982
 Adyson;;4;999999981
 Albert;;4;999999980
 Meap;;4;999999979
-Mitch;;4;999999978
+Mitch;Mitch el alien;4;999999978
 Rodney;;4;999999977
 Khaka Peü Peü;;4;999999976
 Dr. Hirano;;4;999999975
-Bobbi Fabulous;;4;999999974
+Bobbi Fabulous;Bobbi;4;999999974
 Thaddeus;;4;999999973
 Thor;;4;999999972
 Sherman;;4;999999971
@@ -53,7 +54,6 @@ familia Doofenshmirtz;Doofenshmirtz family;5;0
 Dr. Heinz Doofenshmirtz;;5;0
 Linda Flynn-Fletcher;;5;0
 Carl the Intern;;5;0
-Fireside Girls;Fireside;5;0
 Vivian Garcia-Shapiro;Vivian;5;0
 Jenny Brown;;5;0
 Irving Du Bois;;5;0

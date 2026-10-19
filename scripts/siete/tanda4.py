@@ -42,6 +42,7 @@ def junta(slug, cola, metrica):
     mano = a_mano4(slug)
     mas = {clave(k): [a.strip() for a in v.split(",") if a.strip()] for k, v in mano_t4.ALIAS_MAS.get(slug, {}).items()}
     mano = [(n, al + mas.pop(clave(n), []), nv, v) for n, al, nv, v in mano]
+    cola = [(n, al + mas.pop(clave(n), []), nv, v) for n, al, nv, v in cola]       # también a lo que viene de la fuente
     if mas: print("  ojo, alias de más sin dueño:", list(mas))
     if slug in VARIANTES4: mano = [(n, al + [v.format(x) for x in [n] + al for v in VARIANTES4[slug]], nv, val) for n, al, nv, val in mano]
     ya = {clave(x) for n, al, _, _ in mano for x in [n] + al}
@@ -216,7 +217,7 @@ def plural(p):
     if p[-1] in "aeiouáéó": return [p + "s"]
     if p.endswith("z"): return [p[:-1] + "ces"]
     return [p + "es"]
-def por_frecuencia(slug, vale, metrica="frecuencia_de_uso", cortes=(0.12, 0.35, 0.7)):
+def por_frecuencia(slug, vale, metrica="frecuencia_de_uso", cortes=(0.12, 0.35, 0.7), formas=False):
     """Las de la lista a mano mandan; el resto del diccionario va por frecuencia de uso (2, 3, 4) y las que no se usan nunca, al 5."""
     lema, frec = _palabras()
     usadas = sorted((p for p in lema if vale(p) and re.fullmatch(r"[a-záéíóúüñ]+", p) and p in frec), key=lambda p: frec[p])
@@ -226,11 +227,16 @@ def por_frecuencia(slug, vale, metrica="frecuencia_de_uso", cortes=(0.12, 0.35, 
         f = i / max(1, len(usadas))
         filas.append((p, plural(p), 2 if f < cortes[0] else 3 if f < cortes[1] else 4 if f < cortes[2] else 5, 10**5 - frec[p]))
     filas += [(p, plural(p), 5, 0) for p in resto]
+    if formas:      # plurales, femeninos y verbos conjugados (el diccionario grande viene sin tildes)
+        ya = {clave(x) for f in filas for x in [f[0]] + f[1]}
+        for p in open(FUENTES / "tanda3" / "palabras_todas.txt", encoding="utf-8", errors="replace"):
+            p = p.strip().lower()
+            if p.isalpha() and vale(p) and clave(p) not in ya: filas.append((p, [], 5, 0)); ya.add(clave(p))
     junta(slug, filas, metrica)
 
-def palabras_x(): por_frecuencia("palabras_x", lambda p: p.startswith("x"))
+def palabras_x(): por_frecuencia("palabras_x", lambda p: p.startswith("x"), formas=True)
 def dieresis(): por_frecuencia("dieresis", lambda p: "ü" in p)
-def inter(): por_frecuencia("inter", lambda p: "inter" in p)
+def inter(): por_frecuencia("inter", lambda p: "inter" in p, formas=True)
 NO_LOGIA = {"analogía", "antología", "trilogía", "tetralogía", "pentalogía", "hexalogía", "apología", "tautología", "ideología", "homología",
             "cronología", "genealogía", "neología", "monología", "dilogía", "eulogía", "logía", "-logía", "braquilogía", "batología", "perisología",
             "sinonimia", "doxología", "dialogía", "macrología", "cacología", "fraseología", "terminología", "nomenclatura", "metodología",

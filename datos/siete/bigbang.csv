@@ -1,16 +1,16 @@
 respuesta;alias;nivel;orden_a_mano
-Sheldon;Sheldon Cooper;1;1000000000
-Leonard;Leonard Hofstadter;1;999999999
-Penny;;1;999999998
-Howard;Howard Wolowitz;1;999999997
-Raj;Rajesh Koothrappali|Koothrappali;1;999999996
-Amy;Amy Farrah Fowler;2;1000000000
-Bernadette;Bernadette Rostenkowski;2;999999999
-Stuart;Stuart Bloom;2;999999998
+Sheldon;Sheldon Cooper|Cooper;1;1000000000
+Leonard;Leonard Hofstadter|Hofstadter;1;999999999
+Penny;Penny Hofstadter;1;999999998
+Howard;Howard Wolowitz|Wolowitz;1;999999997
+Raj;Rajesh Koothrappali|Koothrappali|Rajesh;1;999999996
+Amy;Amy Farrah Fowler|Fowler;2;1000000000
+Bernadette;Bernadette Rostenkowski|Rostenkowski;2;999999999
+Stuart;Stuart Bloom|el de la tienda de cómics;2;999999998
 Leslie Winkle;Leslie;2;999999997
 Mary Cooper;madre de Sheldon;2;999999996
-Beverly Hofstadter;madre de Leonard;2;999999995
-Wil Wheaton;;2;999999994
+Beverly Hofstadter;madre de Leonard|Beverly;2;999999995
+Wil Wheaton;Wil;2;999999994
 Barry Kripke;Kripke;2;999999993
 Emily Sweeney;Emily;2;999999992
 Priya Koothrappali;Priya;2;999999991
@@ -19,21 +19,21 @@ Zack;Zack Johnson;2;999999989
 Bert;;3;1000000000
 Denise;;3;999999999
 Lucy;;3;999999998
-Alex Jensen;;3;999999997
-Missy Cooper;Missy;3;999999996
+Alex Jensen;Alex;3;999999997
+Missy Cooper;Missy|la hermana de Sheldon;3;999999996
 Meemaw;Mimaw;3;999999995
 George Cooper;;3;999999994
 Dr. Koothrappali;;3;999999993
 Mrs. Koothrappali;;3;999999992
-Halley Wolowitz;;3;999999991
-Neil Michael Wolowitz;;3;999999990
+Halley Wolowitz;Halley;3;999999991
+Neil Michael Wolowitz;Neil Wolowitz;3;999999990
 Stephen Hawking;;3;999999989
 Bob Newhart;Profesor Protón|Professor Proton;3;999999988
 Arthur Jeffries;;3;999999987
-Ramona Nowitzki;;3;999999986
+Ramona Nowitzki;Ramona;3;999999986
 Dave Gibbs;;3;999999985
 Mike Rostenkowski;;3;999999984
-Alfred Hofstadter;;3;999999983
+Alfred Hofstadter;el padre de Leonard;3;999999983
 Kurt;;3;999999982
 Bethany;;3;999999981
 Wyatt;;3;999999980
@@ -43,7 +43,7 @@ Elizabeth Plimpton;;3;999999977
 Siebert;Presidente Siebert;4;999999976
 Eric Gablehauser;;4;999999975
 Dimitri;;4;999999974
-Cinnamon;;4;999999973
+Cinnamon;Cinammon|el perro de Raj;4;999999973
 Ruchi;;4;999999972
 Anu;;4;999999971
 Gablehauser;;4;999999970
@@ -63,6 +63,14 @@ Brian Greene;;4;999999957
 Elon Musk;;4;999999956
 Bill Gates;;4;999999955
 Kevin Smith;;4;999999954
+el padre de Penny;;4;100000000
+Dr. Zangen;Zangen;4;99999999
+el joven Sheldon;Young Sheldon|Sheldon de pequeño;4;99999998
+Zazzles;;4;99999997
+Tam;Tam Nguyen;4;99999996
+el señor Kim;;4;99999995
+Dave;;4;99999994
+el hermano de Penny;Randall;4;99999993
 Michael J. Massimino;Mike Massimino|Michael James Massimino;5;23
 Soft Kitty;;5;11
 Raj Koothrappali;;5;0
@@ -91,14 +99,12 @@ Colonel Richard Williams;Colonel;5;0
 Stephanie Barnett;Stephanie;5;0
 Marissa Johnson;Marissa;5;0
 Mrs. Wolowitz;;5;0
-Young Sheldon;Young;5;0
 Brenda Sparks;Brenda;5;0
 Dale Ballard;Dale;5;0
 Dr. John Sturgis;;5;0
 Herschel Sparks;Herschel;5;0
 Paige Swanson;Paige;5;0
 Robin;;5;0
-Tam Nguyen;;5;0
 Veronica Duncan;Veronica;5;0
 Dr. Alfred Hofstadter;;5;0
 Cheryl;;5;0
@@ -120,7 +126,6 @@ Sunny Morrow;Sunny;5;0
 Octavia;;5;0
 Agent Angela Page;Agent;5;0
 Dr. Elizabeth Plimpton;;5;0
-Randall;;5;0
 Sandy;;5;0
 Jimmy Speckerman;Jimmy;5;0
 Spock;;5;0

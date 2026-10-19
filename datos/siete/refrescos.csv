@@ -4,9 +4,9 @@ Fanta;;1;999999999
 Sprite;;1;999999998
 Pepsi;;1;999999997
 Kas;;1;999999996
-Aquarius;;1;999999995
-7Up;Seven Up;1;999999994
-Nestea;;1;999999993
+Aquarius;Aquarius limón|Aquarius Zero;1;999999995
+7Up;Seven Up|7Up Free|Seven Up Free;1;999999994
+Nestea;Nestea limón|Nestea mango piña;1;999999993
 Schweppes;;1;999999992
 Fanta naranja;;1;999999991
 Fanta limón;;1;999999990
@@ -14,12 +14,12 @@ Trina;;2;1000000000
 La Casera;;2;999999999
 Coca-Cola Zero;Coca Zero|Coca-Cola Zero Azúcar;2;999999998
 Pepsi Max;;2;999999997
-Lipton;Lipton Ice Tea|Ice Tea;2;999999996
-tónica;agua tónica;2;999999995
+Lipton;Lipton Ice Tea|Ice Tea|Lipton melocotón|Ice Tea limón;2;999999996
+tónica;agua tónica|tónica Schweppes|Schweppes tónica;2;999999995
 gaseosa;;2;999999994
 Dr Pepper;Doctor Pepper;2;999999993
 Mountain Dew;;2;999999992
-Bitter Kas;;2;999999991
+Bitter Kas;bitter;2;999999991
 Fuze Tea;;2;999999990
 Coca-Cola Light;Coca Light;2;999999989
 Mirinda;;2;999999988
@@ -39,8 +39,8 @@ Orangina;;3;999999990
 Vimto;;3;999999989
 Irn-Bru;;3;999999988
 Burn;;3;999999987
-Monster;;3;999999986
-Red Bull;;3;999999985
+Monster;Monster Ultra|Monster blanco;3;999999986
+Red Bull;Red Bull sin azúcar;3;999999985
 Sanpellegrino;;3;999999984
 Oasis;;3;999999983
 Schweppes limón;;3;999999982
@@ -53,10 +53,17 @@ zarzaparrilla;root beer;3;999999976
 cola;;3;999999975
 naranjada;;3;999999974
 Pepsi Twist;;3;999999973
-Seven Up Free;;3;999999972
 Sprite Zero;;3;999999971
 Aquarius naranja;;3;999999970
 Coca-Cola sin cafeína;;3;999999969
+Powerade;;3;100000000
+Gatorade;;3;99999999
+Isostar;;3;99999998
+Champín;;3;99999997
+soda;;3;99999996
+Coca-Cola vainilla;;3;99999995
+Pepsi Zero;;3;99999994
+Prime;;3;99999993
 Sinalco;;4;1000000000
 Afri-Cola;;4;999999999
 Fritz-Kola;;4;999999998
@@ -91,6 +98,12 @@ Lipton maracuyá;;4;999999970
 Mirinda naranja;;4;999999969
 Tropical;;4;999999968
 Cherry Pepsi;;4;999999967
+horchata;;4;100000000
+Manzanita Sol;;4;99999999
+Squirt;;4;99999998
+Celsius;;4;99999997
+Rockstar;;4;99999996
+Monster Mango Loco;;4;99999995
 kombucha;;4;48
 crema agria;Crema acida|Nata agria|sour cream;4;40
 Monster Energy;;5;39
@@ -101,7 +114,6 @@ Kinnie;;5;19
 producto fermentado de la leche;Productos fermentados de la leche|lácteos fermentados|producto lácteo fermentado|fermented milk product;5;19
 New Coke;Coca-Cola 2;5;19
 Coca-Cola Life;;5;18
-Rockstar;;5;16
 Vita Cola;;5;16
 Dadiah;;5;15
 Coca-Cola blanca;White Coke;5;15
