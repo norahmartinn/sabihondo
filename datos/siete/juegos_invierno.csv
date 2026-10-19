@@ -2,16 +2,16 @@ respuesta;alias;nivel;orden_a_mano
 esquí;esquí alpino;1;1000000000
 snowboard;;1;999999999
 patinaje artístico;patinaje sobre hielo|patinaje;1;999999998
-hockey sobre hielo;hockey hielo;1;999999997
+hockey sobre hielo;hockey hielo|hockey;1;999999997
 curling;;1;999999996
-salto de esquí;saltos de esquí;1;999999995
+salto de esquí;saltos de esquí|trampolín normal|trampolín grande;1;999999995
 biatlón;;1;999999994
-bobsleigh;bobsled|bob;1;999999993
-esquí de fondo;;2;1000000000
+bobsleigh;bobsled|bob|bobsleigh a dos|bobsleigh a cuatro;1;999999993
+esquí de fondo;esquí nórdico|esquí de fondo sprint;2;1000000000
 luge;trineo;2;999999999
 skeleton;;2;999999998
 patinaje de velocidad;;2;999999997
-short track;pista corta|patinaje de velocidad en pista corta;2;999999996
+short track;pista corta|patinaje de velocidad en pista corta|patinaje en pista corta;2;999999996
 combinada nórdica;;2;999999995
 esquí acrobático;freestyle;2;999999994
 eslalon;slalom;2;999999993
@@ -19,7 +19,7 @@ eslalon gigante;gigante;3;999999992
 supergigante;super-G;3;999999991
 descenso;;3;999999990
 combinada alpina;;3;999999989
-esquí de montaña;skimo;3;999999988
+esquí de montaña;skimo|esquí de travesía;3;999999988
 moguls;baches;3;999999987
 halfpipe;;3;999999986
 slopestyle;;3;999999985
@@ -28,13 +28,13 @@ snowboard cross;boardercross;4;999999983
 skicross;;4;999999982
 saltos acrobáticos;aerials;4;999999981
 sprint;;4;999999980
-persecución;;4;999999979
+persecución;persecución por equipos;4;999999979
 salida en masa;;4;999999978
-relevos;;4;999999977
-danza sobre hielo;danza;5;999999976
-parejas;;5;999999975
-eslalon paralelo;;5;999999974
+relevos;relevo mixto;4;999999977
+danza sobre hielo;danza|danza en hielo;5;999999976
+parejas;patinaje artístico por parejas;5;999999975
+eslalon paralelo;eslalon gigante paralelo;5;999999974
 team event;prueba por equipos;5;999999973
 monobob;;5;999999972
-trineo doble;;5;999999971
+trineo doble;luge dobles;5;999999971
 mass start;;5;999999970

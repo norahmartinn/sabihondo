@@ -1,17 +1,17 @@
 respuesta;alias;nivel;ediciones_wikipedia
-estoicismo;;1;1000000000
-existencialismo;;1;999999999
-nihilismo;;1;999999998
-marxismo;;1;999999997
-idealismo;;1;999999996
-racionalismo;;1;999999995
-empirismo;;1;999999994
-materialismo;;1;999999993
-utilitarismo;;1;999999992
+estoicismo;estoa|pórtico|estoico;1;1000000000
+existencialismo;existencialista;1;999999999
+nihilismo;nihilista|nihilismo pasivo|nihilismo activo;1;999999998
+marxismo;marxista;1;999999997
+idealismo;idealista;1;999999996
+racionalismo;racionalista;1;999999995
+empirismo;empirista;1;999999994
+materialismo;materialista;1;999999993
+utilitarismo;utilitarista;1;999999992
 humanismo;;1;999999991
-epicureísmo;;2;1000000000
-cinismo;;2;999999999
-escepticismo;;2;999999998
+epicureísmo;epicúreos|epicúreo;2;1000000000
+cinismo;cínicos|cínico;2;999999999
+escepticismo;escépticos|escéptico;2;999999998
 hedonismo;;2;999999997
 positivismo;;2;999999996
 pragmatismo;;2;999999995
@@ -25,13 +25,13 @@ escolástica;;2;999999988
 platonismo;;2;999999987
 aristotelismo;;2;999999986
 neoplatonismo;;2;999999985
-sofística;sofistas;2;999999984
+sofística;sofistas|sofismo;2;999999984
 presocráticos;;2;999999983
 existencialismo cristiano;;2;999999982
 idealismo alemán;;2;999999981
 materialismo histórico;;2;999999980
 materialismo dialéctico;;2;999999979
-positivismo lógico;;2;999999978
+positivismo lógico;Círculo de Viena;2;999999978
 empirismo británico;;2;999999977
 racionalismo cartesiano;;2;999999976
 liberalismo;;2;999999975
@@ -63,7 +63,7 @@ historicismo;;3;999999950
 hermenéutica;;3;999999949
 filosofía analítica;;3;999999948
 filosofía continental;;3;999999947
-teoría crítica;Escuela de Fráncfort;3;999999946
+teoría crítica;Escuela de Fráncfort|Escuela de Frankfurt;3;999999946
 deconstrucción;;3;999999945
 posestructuralismo;postestructuralismo;3;999999944
 conductismo;;3;999999943
@@ -82,8 +82,35 @@ mecanicismo;;3;999999931
 transhumanismo;;3;999999930
 objetivismo;;3;999999929
 estoicos;;3;999999928
+zen;budismo zen;3;100000000
+romanticismo;;3;99999999
+neoliberalismo;;3;99999998
+libertarismo;;3;99999997
+contractualismo;;3;99999996
+iusnaturalismo;;3;99999995
+consecuencialismo;;3;99999994
+pesimismo;;3;99999993
+comunitarismo;;4;100000000
+emotivismo;;4;99999999
+intuicionismo;;4;99999998
+cognitivismo;;4;99999997
+funcionalismo;;4;99999996
+fisicalismo;;4;99999995
+reduccionismo;;4;99999994
+emergentismo;;4;99999993
+panpsiquismo;;4;99999992
+eclecticismo;;4;99999991
+maniqueísmo;;4;99999990
+jainismo;;4;99999989
+sufismo;;4;99999988
+deontologismo;ética deontológica;4;99999987
+ética de la virtud;;4;99999986
+idealismo subjetivo;;4;99999985
+idealismo objetivo;;4;99999984
+realismo crítico;;4;99999983
+realismo ingenuo;;4;99999982
 dialéctica;dialectic;4;129
-escuela cínica;Cínicos|Cínico|Cynicism|cínica;4;80
+escuela cínica;Cynicism|cínica;4;80
 nudismo;playa nudista|naturism;4;75
 Filosofía presocrática;Filosofos presocraticos|Filosofo presocratico|Pre-Socratic philosophy|presocrática;4;75
 Vedanta;Vedantismo|Doctrina vedanta|Escuela vedanta|Hinduismo vedanta;4;73
@@ -116,6 +143,9 @@ neoconfucianismo;Neo confucionismo|Neo-Confucianism;4;41
 fideísmo;fideism;4;40
 sensualismo;sensationism;4;40
 Neokantismo;Neokantiano|Neo-Kantianism;4;40
+Academia;Academia de Platón;5;100000000
+Liceo;;5;99999999
+Jardín de Epicuro;el Jardín;5;99999998
 apateísmo;agnosticismo apático|indiferentismo religioso|ateismo practico|apatheism;5;39
 escuela cirenaica;Cirenaísmo|Cyrenaics|cirenaica;5;38
 Budismo chino;Chinese Buddhism;5;38

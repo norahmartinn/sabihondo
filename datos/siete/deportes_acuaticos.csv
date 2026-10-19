@@ -1,17 +1,17 @@
 respuesta;alias;nivel;orden_a_mano
-natación;;1;1000000000
-surf;;1;999999999
+natación;nadar|nado;1;1000000000
+surf;surfing;1;999999999
 waterpolo;;1;999999998
-buceo;submarinismo;1;999999997
-vela;;1;999999996
+buceo;submarinismo|bucear;1;999999997
+vela;navegación;1;999999996
 remo;;1;999999995
-piragüismo;kayak|canoa;1;999999994
+piragüismo;kayak|canoa|piragua;1;999999994
 esquí acuático;;1;999999993
-windsurf;;1;999999992
-kitesurf;;1;999999991
-paddle surf;paddle|SUP|stand up paddle;1;999999990
-saltos;saltos de trampolín|clavados;1;999999989
-natación sincronizada;natación artística;1;999999988
+windsurf;windsurfing;1;999999992
+kitesurf;kite|kitesurfing;1;999999991
+paddle surf;paddle|SUP|stand up paddle|surf de remo;1;999999990
+saltos;saltos de trampolín|clavados|trampolín|salto de plataforma|plataforma;1;999999989
+natación sincronizada;natación artística|sincronizada|nado sincronizado;1;999999988
 bodyboard;;1;999999987
 rafting;;2;1000000000
 wakeboard;;2;999999999
@@ -33,12 +33,18 @@ banana boat;banana;3;999999984
 hockey subacuático;;3;999999983
 rugby subacuático;;3;999999982
 polo acuático;;3;999999981
-salvamento acuático;socorrismo;3;999999980
+salvamento acuático;socorrismo|salvamento;3;999999980
 skimboard;;3;999999979
 bodysurf;;3;999999978
+vela ligera;;3;100000000
+crol;crawl;3;99999999
+braza;;3;99999998
+mariposa;;3;99999997
+espalda;;3;99999996
+pesca deportiva;pesca;3;99999995
 foil;wingfoil;4;999999977
 kneeboard;;4;999999976
-aquagym;;4;999999975
+aquagym;aquabike|aquafitness|aquaeróbic;4;999999975
 waterpolo playa;;4;999999974
 dragon boat;barcos dragón;4;999999973
 traineras;trainera;4;999999972
@@ -48,6 +54,9 @@ coasteering;;4;999999969
 cable ski;;4;999999968
 wakesurf;;4;999999967
 tubing;donut;4;999999966
+catamarán;;4;100000000
+Optimist;;4;99999999
+láser;;4;99999998
 ski bus;;5;999999965
 vóley acuático;;5;999999964
 triatlón acuático;;5;999999963

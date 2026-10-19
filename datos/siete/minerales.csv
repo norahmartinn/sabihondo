@@ -1,5 +1,5 @@
 respuesta;alias;nivel;ediciones_wikipedia
-cuarzo;;1;1000000000
+cuarzo;cuarzo blanco;1;1000000000
 diamante;;1;999999999
 oro;;1;999999998
 plata;;1;999999997
@@ -26,7 +26,7 @@ azurita;;2;999999990
 fluorita;;2;999999989
 galena;;2;999999988
 magnetita;;2;999999987
-hematites;hematita;2;999999986
+hematites;hematita|hematita especular;2;999999986
 bauxita;;2;999999985
 olivino;peridoto;2;999999984
 turmalina;;2;999999983
@@ -49,7 +49,7 @@ uraninita;pechblenda;2;999999967
 mercurio;;2;999999966
 moscovita;;2;999999965
 biotita;;2;999999964
-caolinita;;2;999999963
+caolinita;caolín;2;999999963
 serpentina;;2;999999962
 asbesto;amianto;2;999999961
 lapislázuli;;2;999999960
@@ -145,6 +145,20 @@ diásporo;;3;999999870
 boehmita;;3;999999869
 magnesita;;3;999999868
 ankerita;;3;999999867
+selenita;;3;100000000
+amazonita;;3;99999999
+aventurina;;3;99999998
+obsidiana;;3;99999997
+ámbar;;3;99999996
+kunzita;;4;100000000
+heliodoro;;4;99999999
+charoita;;4;99999998
+larimar;;4;99999997
+moldavita;;4;99999996
+crisoprasa;;4;99999995
+heliotropo;piedra de sangre;4;99999994
+ojo de halcón;;4;99999993
+ojo de gato;;4;99999992
 bornita;erubescita|bornite;4;49
 almandino;almandina|almandines|almandita|almandine;4;47
 diópsido;diopside;4;46
@@ -240,6 +254,7 @@ proustita;proustite;4;25
 datolita;datolite;4;25
 Baddeleyita;baddeleyite;4;25
 Arsenolita;Arsenita|arsenolite;4;25
+shungita;;5;100000000
 Sal amoniacal;Sal de amoníaco|Sal amoniaca|salammoniac;5;24
 Trona;natrita;5;24
 abernathyita;abernathyite;5;24

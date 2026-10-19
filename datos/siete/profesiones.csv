@@ -1,15 +1,15 @@
 respuesta;alias;nivel;ediciones_wikipedia
 médico;médica|doctor|doctora;1;1000000000
-profesor;profesora|maestro|maestra;1;999999999
-abogado;abogada;1;999999998
+profesor;profesora|maestro|maestra|profe|docente;1;999999999
+abogado;abogada|abogado laboralista|abogado penalista;1;999999998
 enfermero;enfermera;1;999999997
-policía;;1;999999996
+policía;policía nacional|policía local|mosso|mosso d'esquadra|ertzaina;1;999999996
 bombero;bombera;1;999999995
 arquitecto;arquitecta;1;999999994
-ingeniero;ingeniera;1;999999993
+ingeniero;ingeniera|ingeniero informático|ingeniero de caminos|ingeniero industrial;1;999999993
 cocinero;cocinera|chef;1;999999992
 camarero;camarera;1;999999991
-dentista;;1;999999990
+dentista;odontólogo|odontóloga;1;999999990
 veterinario;veterinaria;1;999999989
 piloto;;1;999999988
 periodista;;1;999999987
@@ -42,7 +42,7 @@ pintor;pintora;1;999999961
 músico;música;1;999999960
 fotógrafo;fotógrafa;1;999999959
 diseñador;diseñadora;1;999999958
-azafato;azafata|auxiliar de vuelo;1;999999957
+azafato;azafata|auxiliar de vuelo|tripulante de cabina|TCP;1;999999957
 militar;soldado;1;999999956
 secretario;secretaria;1;999999955
 recepcionista;;1;999999954
@@ -144,6 +144,14 @@ entrenador personal;entrenador|entrenadora;2;999999915
 deportista;;2;999999913
 tenista;;2;999999912
 jinete;;2;999999911
+pediatra;;2;100000000
+anestesista;;2;99999999
+becario;becaria;2;99999998
+CEO;;2;99999997
+reponedor;reponedora;2;99999996
+barrendero;barrendera;2;99999995
+terapeuta;;2;99999994
+coach;;2;99999993
 torero;;3;999999910
 payaso;;3;999999909
 mago;;3;999999908
@@ -228,6 +236,30 @@ farero;farera;3;999999826
 buzo;;3;999999825
 salvavidas;;3;999999823
 bombero forestal;;3;999999822
+higienista dental;higienista;3;100000000
+auxiliar administrativo;auxiliar;3;99999999
+agente inmobiliario;inmobiliario;3;99999998
+graduado social;;3;99999997
+mozo de almacén;;3;99999996
+forense;;3;99999995
+monologuista;;3;99999994
+nadador;;3;99999993
+preparador físico;;3;99999992
+osteópata;;3;99999991
+quiropráctico;;3;99999990
+vidente;;3;99999989
+tarotista;;3;99999988
+carretillero;;4;100000000
+tanatopractor;;4;99999999
+embalsamador;;4;99999998
+bufón;;4;99999997
+juglar;;4;99999996
+gladiador;;4;99999995
+domador;;4;99999994
+trapecista;;4;99999993
+equilibrista;;4;99999992
+tertuliano;;4;99999991
+acupuntor;;4;99999990
 feminismo;feminismos|feminism;4;207
 poeta;autora de poesía|poetisa|autor de poesía|poet;4;172
 traducción;translation;4;168
@@ -301,6 +333,11 @@ rōnin;;4;60
 alertador;lanzador de alerta|denunciante|whistleblower;4;60
 contador;accountant;4;60
 regente;regent;4;60
+trovador;;5;100000000
+escudero;;5;99999999
+naturópata;;5;99999998
+homeópata;;5;99999997
+chamán;;5;99999996
 paparazzi;;5;59
 disidente;Disidentes|disidente político|crítico del sistema|dissident;5;58
 psiquiatra;siquiatra|psychiatrist;5;58
@@ -346,7 +383,6 @@ niños soldado;Uso militar de niños|Niño soldado|child soldier;5;47
 capitán de barco;capitan de navio|capitana de navío|sea captain;5;47
 entrenamiento;coaching;5;46
 valí;vailí|wali;5;46
-docente;docent;5;46
 inversor;inversora|investor;5;46
 negro;autor negro|escritor fantasma|negro literario|ghostwriter;5;46
 guardaespaldas;Guardaespalda|protector|bodyguard;5;46
@@ -377,7 +413,6 @@ portavoz;vocero|vocera|oficial de prensa|spokesperson;5;41
 gerente;directores y gerentes|mánager;5;41
 objeción de conciencia;objetor de conciencia|objetora de conciencia|conscientious objector;5;41
 baterista;batería|tamborilero|drummer;5;41
-agente inmobiliario;agente inmobiliaria|corredor inmobiliario|corredora inmobiliaria|real estate agent;5;41
 ingeniería geológica;engineering geology;5;41
 nómada digital;digital nomad;5;40
 jefe tribal;caudillo|traditional leader or chief;5;40

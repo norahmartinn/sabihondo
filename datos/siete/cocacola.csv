@@ -1,17 +1,17 @@
 respuesta;alias;nivel;ediciones_wikipedia
-Coca-Cola;Coca;1;1000000000
-Fanta;;1;999999999
+Coca-Cola;Coca|Coca-Cola vainilla|Coca-Cola sin cafeína;1;1000000000
+Fanta;Fanta naranja|Fanta limón;1;999999999
 Sprite;;1;999999998
-Aquarius;;1;999999997
-Nestea;;1;999999996
-Powerade;;1;999999995
+Aquarius;Aquarius naranja;1;999999997
+Nestea;Nestea limón;1;999999996
+Powerade;Powerade azul;1;999999995
 Coca-Cola Zero;Coca Zero;1;999999994
-Minute Maid;;1;999999993
-Fuze Tea;;2;1000000000
-Schweppes;;2;999999999
+Minute Maid;Minute Maid naranja;1;999999993
+Fuze Tea;Fuze Tea limón;2;1000000000
+Schweppes;tónica Schweppes|Schweppes limón;2;999999999
 Appletiser;;2;999999998
-Monster;;2;999999997
-Burn;;2;999999996
+Monster;Monster Energy;2;999999997
+Burn;Burn Energy;2;999999996
 Smartwater;;2;999999995
 Dasani;;2;999999994
 Costa Coffee;Costa;2;999999993
@@ -40,6 +40,8 @@ Georgia Coffee;Georgia;3;999999971
 I LOHAS;;3;999999970
 Topo Chico;;3;999999969
 BodyArmor;;3;999999968
+Coca-Cola Energy;;3;100000000
+Cappy;;3;99999999
 Fairlife;;4;999999967
 Simply;;4;999999966
 Honest Tea;;4;999999965
@@ -54,6 +56,18 @@ Royal Bliss;;4;999999957
 Ades;;4;999999956
 Huang Jin Shi;;4;999999955
 Chaqwa;;4;999999954
+Reign;;4;100000000
+NOS;;4;99999999
+Full Throttle;;4;99999998
+Relentless;;4;99999997
+Predator;;4;99999996
+Santa Clara;;5;100000000
+Odwalla;;5;99999999
+Core Power;;5;99999998
+Sokenbicha;;5;99999997
+Qoo;;5;99999996
+Chaudfontaine;;5;99999995
+Valser;;5;99999994
 Coca-Cola Life;;5;18
 Coca-Cola Cherry;;5;17
 Monster Beverage;;5;15

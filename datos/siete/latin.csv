@@ -4,9 +4,9 @@ et cetera;etc;1;999999999
 in situ;;1;999999998
 a priori;;1;999999997
 ipso facto;;1;999999996
-curriculum vitae;currículum;1;999999995
+curriculum vitae;currículum|CV|currículo;1;999999995
 alter ego;;1;999999994
-statu quo;status quo;1;999999993
+statu quo;status quo|status;1;999999993
 grosso modo;;1;999999992
 vox populi;;1;999999991
 per cápita;;1;999999990
@@ -23,7 +23,7 @@ ex aequo;;2;999999993
 honoris causa;;2;999999992
 in memoriam;;2;999999991
 post mortem;;2;999999990
-post scriptum;PD|posdata;2;999999989
+post scriptum;PD|posdata|PS;2;999999989
 modus operandi;;2;999999988
 modus vivendi;;2;999999987
 alma mater;;2;999999986
@@ -102,6 +102,21 @@ pro indiviso;;3;999999913
 quo vadis;;3;999999912
 sensu stricto;;3;999999911
 stricto sensu;;3;999999910
+in vino veritas;;3;100000000
+cave canem;;3;99999999
+audaces fortuna iuvat;fortes fortuna iuvat|la fortuna favorece a los audaces;3;99999998
+per aspera ad astra;;3;99999997
+ad astra;;3;99999996
+citius altius fortius;;3;99999995
+habemus papam;;3;99999994
+nosce te ipsum;;3;99999993
+o tempora o mores;;3;99999992
+semper fidelis;;3;99999991
+bona fide;;3;99999990
+nota bene;NB;3;99999989
+ad aeternum;in aeternum;3;99999988
+ex nihilo;creatio ex nihilo;3;99999987
+gaudeamus igitur;;3;99999986
 lato sensu;;4;999999909
 sine die;;4;999999908
 sub specie aeternitatis;;4;999999907
@@ -144,6 +159,18 @@ tedeum;;4;999999871
 ut supra;;4;999999869
 vale;;4;999999868
 vía crucis;;4;999999866
+carpe noctem;;4;100000000
+ad maiorem Dei gloriam;;4;99999999
+amor omnia vincit;omnia vincit amor;4;99999998
+lux aeterna;;4;99999997
+mater dolorosa;;4;99999996
+pax vobiscum;;4;99999995
+requiem aeternam;;4;99999994
+mala fide;;4;99999993
+e pluribus unum;;4;99999992
+sapere aude;;4;99999991
+si vis pacem para bellum;;4;99999990
+sic transit gloria mundi;;4;99999989
 a bene placito;;5;0
 a capite ad calcem;;5;0
 a maiore ad minus;;5;0
@@ -163,7 +190,6 @@ acta est fabula;;5;0
 ad absurdum;;5;0
 ad æternum;;5;0
 ad calendas graecas;;5;0
-ad astra;;5;0
 ad interim;;5;0
 ad litteram;;5;0
 ad memōriam reī perpetuam;;5;0
@@ -237,7 +263,6 @@ ex abrupto;;5;0
 ex ante;;5;0
 ex æquo;;5;0
 ex catedra o ex cathedra;;5;0
-ex nihilo;;5;0
 ex nunc;;5;0
 ex officio;;5;0
 ex oriente lux;;5;0
@@ -327,9 +352,6 @@ re, non verbis;;5;0
 rem tene, verba sequentur;;5;0
 respice post te! Hominem te esse memento!;;5;0
 roma locuta, causa finita;;5;0
-sapere aude;;5;0
-si vis pacem, para bellum;;5;0
-sic transit gloria mundi;;5;0
 silent enim leges inter arma;;5;0
 siste, viator;;5;0
 sutor, ne ultra crepidam;;5;0

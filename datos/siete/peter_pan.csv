@@ -1,14 +1,14 @@
 respuesta;alias;nivel;orden_a_mano
 Peter Pan;Peter;1;1000000000
-Campanilla;Tinker Bell;1;999999999
-Garfio;Capitán Garfio|Capitán Hook|Hook|James Garfio;1;999999998
-Wendy;Wendy Darling;1;999999997
+Campanilla;Tinker Bell|Campanita;1;999999999
+Garfio;Capitán Garfio|Capitán Hook|Hook|James Garfio|el capitán;1;999999998
+Wendy;Wendy Darling|Wendy Moira Angela Darling;1;999999997
 Smee;Señor Smee|Sr. Smee;2;1000000000
 Tigrilla;Tiger Lily|Lirio Tigre;2;999999999
-cocodrilo;Tic-Tac|Tick-Tock;2;999999998
+cocodrilo;Tic-Tac|Tick-Tock|el cocodrilo Tic-Tac;2;999999998
 John;John Darling|Juan;2;999999997
 Michael;Michael Darling|Miguel;2;999999996
-Nana;;2;999999995
+Nana;Nana el perro|la perra Nana|el perro;2;999999995
 Niños Perdidos;Lost Boys;2;999999994
 George Darling;señor Darling|Jorge Darling;3;1000000000
 Mary Darling;señora Darling|María Darling;3;999999999
@@ -25,21 +25,33 @@ Mullins;;4;999999989
 Skylights;;4;999999988
 Barbanegra;Blackbeard;4;999999987
 Jack Banning;;4;999999986
-Maggie Banning;;4;999999985
+Maggie Banning;Maggie;4;999999985
 Peter Banning;;4;999999984
-Moira Banning;;4;999999983
+Moira Banning;Moira;4;999999983
 Thud Butt;;4;999999982
 Too Small;;4;999999981
 Cubby;;4;999999980
 Slightly;;4;999999979
+los piratas;;4;100000000
+los indios;pieles rojas;4;99999999
+las hadas;;4;99999998
 Nibs;;5;999999978
 Tootles;;5;999999977
 los Gemelos;;5;999999976
 Danny;;5;999999975
 Edward Teach;;5;999999974
 Rizos;;5;999999973
-Osito;;5;999999972
+Osito;el oso;5;999999972
 Zorrito;;5;999999971
 Conejo;;5;999999970
 Mapache;;5;999999969
 Mofeta;;5;999999968
+Silvermist;;5;100000000
+Iridessa;;5;99999999
+Rosetta;;5;99999998
+Fawn;;5;99999997
+Vidia;;5;99999996
+Periwinkle;;5;99999995
+Terence;;5;99999994
+la reina Clarion;Clarion;5;99999993
+Zarina;;5;99999992

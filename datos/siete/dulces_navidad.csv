@@ -1,20 +1,20 @@
 respuesta;alias;nivel;orden_a_mano
-turrón;;1;1000000000
-polvorones;;1;999999999
+turrón;turrones;1;1000000000
+polvorones;polvorón;1;999999999
 mantecados;;1;999999998
-mazapán;;1;999999997
-roscón;roscón de reyes;1;999999996
+mazapán;mazapán de Toledo;1;999999997
+roscón;roscón de reyes|rosca de reyes;1;999999996
 panettone;panetone;1;999999995
 bombones;;1;999999994
 turrón de Jijona;turrón blando;2;1000000000
-turrón de Alicante;turrón duro;2;999999999
-turrón de chocolate;;2;999999998
-turrón de yema;turrón de yema tostada;2;999999997
-figuritas de mazapán;;2;999999996
-alfajores;;2;999999995
+turrón de Alicante;turrón duro|turrón imperial;2;999999999
+turrón de chocolate;turrón de chocolate crujiente|turrón de chocolate con almendras|turrón de chocolate blanco|turrón de arroz inflado;2;999999998
+turrón de yema;turrón de yema tostada|turrón de yema quemada;2;999999997
+figuritas de mazapán;figuras de mazapán;2;999999996
+alfajores;alfajor;2;999999995
 peladillas;;2;999999994
 guirlache;;2;999999993
-yemas;;2;999999992
+yemas;yema;2;999999992
 marquesas;;2;999999991
 roscos de vino;;2;999999990
 pan de Cádiz;;2;999999989
@@ -24,9 +24,9 @@ frutas confitadas;fruta escarchada;2;999999985
 panforte;;2;999999984
 stollen;;2;999999983
 pandoro;;2;999999982
-bastones de caramelo;bastón de caramelo;2;999999981
-galletas de jengibre;gingerbread;2;999999980
-tronco de Navidad;tronco;2;999999979
+bastones de caramelo;bastón de caramelo|bastones|cañas de caramelo;2;999999981
+galletas de jengibre;gingerbread|pan de jengibre|casita de jengibre|hombre de jengibre|galleta de jengibre;2;999999980
+tronco de Navidad;tronco|tronco de chocolate;2;999999979
 Christmas pudding;pudding;2;999999978
 turrón de coco;;3;1000000000
 turrón de nata y nueces;;3;999999999
@@ -49,6 +49,12 @@ hojaldrinas;;3;999999983
 roscos de anís;;3;999999982
 pestiños;;3;999999981
 borrachuelos;;3;999999980
+galletas danesas;danesas|galletas navideñas|lata de galletas;3;100000000
+trufas;;3;99999999
+anguila de mazapán;;3;99999998
+turrón de Kinder;;3;99999997
+turrón de Oreo;;3;99999996
+turrón de Lacasitos;;3;99999995
 piñonates;;4;999999979
 empiñonados;;4;999999978
 polvorones de Estepa;;4;999999977
@@ -69,13 +75,20 @@ cozonac;;4;999999962
 makowiec;;4;999999961
 pan de pascua;;4;999999960
 pan dulce;;4;999999959
+El Lobo;;4;100000000
+Antiu Xixona;;4;99999999
+La Fama;;4;99999998
+Mon Chéri;;4;99999997
+After Eight;;4;99999996
+pan de Calatrava;;4;99999995
+caramelos;;4;99999994
 buñuelos;;5;999999958
 natillas;;5;999999957
 arroz con leche;;5;999999956
 compota de Navidad;compota;5;999999955
 leche frita;;5;999999954
 torrijas;;5;999999953
-casadielles;;5;999999952
+casadielles;casadiella;5;999999952
 frixuelos;;5;999999951
 sobaos;;5;999999950
 quesada;;5;999999949

@@ -1,15 +1,15 @@
 respuesta;alias;nivel;orden_a_mano
-segundo;;1;1000000000
-minuto;;1;999999999
-hora;;1;999999998
-día;;1;999999997
+segundo;s|seg;1;1000000000
+minuto;min;1;999999999
+hora;h;1;999999998
+día;días;1;999999997
 semana;;1;999999996
-mes;;1;999999995
-año;;1;999999994
+mes;meses;1;999999995
+año;años;1;999999994
 siglo;;1;999999993
 década;;1;999999992
 milenio;;1;999999991
-milisegundo;;2;1000000000
+milisegundo;ms;2;1000000000
 microsegundo;;2;999999999
 nanosegundo;;2;999999998
 lustro;;2;999999997
@@ -36,11 +36,15 @@ tiempo de Planck;;3;999999995
 sesquicentenario;;3;999999994
 olimpiada;;3;999999993
 año bisiesto;;3;999999992
-mes lunar;;3;999999991
+mes lunar;lunación|mes sinódico;3;999999991
 año sidéreo;;3;999999990
-año trópico;;3;999999989
+año trópico;año solar;3;999999989
 día sideral;día sidéreo;3;999999988
 día solar;;3;999999987
+cuarto de hora;;3;100000000
+media hora;;3;99999999
+año académico;año escolar|curso;3;99999998
+año fiscal;;3;99999997
 quinquenio;;4;999999986
 septenio;;4;999999985
 octenio;;4;999999984
@@ -55,6 +59,11 @@ instante;;4;999999976
 tic;;4;999999975
 shake;;4;999999974
 jiffy;;4;999999973
+centenario;;4;100000000
+bicentenario;;4;99999999
+cincuentenario;;4;99999998
+jubileo;;4;99999997
+hora sideral;;4;99999996
 kalpa;;5;999999972
 yuga;;5;999999971
 eones;;5;999999970

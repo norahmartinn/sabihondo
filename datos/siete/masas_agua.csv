@@ -6,8 +6,8 @@ lago;;1;999999997
 laguna;;1;999999996
 charca;charco;1;999999995
 estanque;;1;999999994
-embalse;pantano;1;999999993
-arroyo;;2;1000000000
+embalse;pantano|embalse artificial;1;999999993
+arroyo;arroyuelo;2;1000000000
 ría;;2;999999999
 bahía;;2;999999998
 golfo;;2;999999997
@@ -45,6 +45,8 @@ uadi;wadi;3;999999982
 poza;;3;999999981
 lago salado;;3;999999980
 salina;salinas;3;999999979
+estero;;3;100000000
+manglar;;3;99999999
 sebja;sabkha;4;1000000000
 chott;;4;999999999
 lucio;;4;999999998
@@ -77,7 +79,7 @@ brazo de mar;;4;999999975
 firth;;4;999999975
 mar interior;;4;999999974
 loch;;4;999999974
-lago glaciar;;4;999999973
+lago glaciar;laguna glaciar;4;999999973
 lough;;4;999999973
 piscina natural;;4;999999972
 polder;;4;999999972
@@ -104,6 +106,13 @@ meandro;;4;999999961
 cauce;;4;999999960
 remanso;;4;999999959
 rápidos;;4;999999958
+pantanal;;4;100000000
+tremedal;;4;99999999
+aguazal;;4;99999998
+lodazal;;4;99999997
+cenagal;;4;99999996
+fangal;;4;99999995
+abrevadero;;4;99999994
 puerto;Puertos|Portuario|Atracadero|port;4;133
 delta fluvial;delta de río|deltas fluviales|river delta;4;103
 acueducto;acueductos|gallipuente|aqueduct;4;85
@@ -157,7 +166,6 @@ agua fósil;fossil water;5;28
 canal natural;channel;5;28
 pozas de marea;poza de marea|charcos mareales|charcos intermareales|charcos de marea|charcas intermareales|tide pool;5;27
 red de drenaje;dendritico|drenaje geologico|red hidrografica|drainage system;5;27
-abrevadero;pila|water trough;5;27
 Impluvium;;5;26
 Puerto Mulberry;Mulberry harbour;5;26
 tabla de agua;capa freática|nivel freatico|phreatic zone;5;26

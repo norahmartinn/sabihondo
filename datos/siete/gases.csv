@@ -1,43 +1,43 @@
 respuesta;alias;nivel;orden_a_mano
-oxígeno;;1;1000000000
-hidrógeno;;1;999999999
-nitrógeno;;1;999999998
-helio;;1;999999997
+oxígeno;O2;1;1000000000
+hidrógeno;H2|hidrógeno verde;1;999999999
+nitrógeno;N2;1;999999998
+helio;He|gas helio;1;999999997
 dióxido de carbono;CO2|anhídrido carbónico;1;999999996
-metano;;1;999999995
-butano;;1;999999994
-propano;;1;999999993
-ozono;;1;999999992
-gas natural;;1;999999991
-neón;;2;1000000000
-argón;;2;999999999
-cloro;;2;999999998
-flúor;;2;999999997
-criptón;kriptón;2;999999996
-xenón;;2;999999995
-radón;;2;999999994
+metano;CH4;1;999999995
+butano;gas butano;1;999999994
+propano;gas propano;1;999999993
+ozono;O3;1;999999992
+gas natural;GNL|gas natural licuado;1;999999991
+neón;Ne;2;1000000000
+argón;Ar;2;999999999
+cloro;Cl2;2;999999998
+flúor;F2;2;999999997
+criptón;kriptón|Kr;2;999999996
+xenón;Xe;2;999999995
+radón;Rn;2;999999994
 monóxido de carbono;CO;2;999999993
-vapor de agua;;2;999999992
-amoníaco;;2;999999991
-óxido nitroso;gas de la risa;2;999999990
+vapor de agua;vapor;2;999999992
+amoníaco;NH3;2;999999991
+óxido nitroso;gas de la risa|N2O;2;999999990
 sulfuro de hidrógeno;ácido sulfhídrico;2;999999989
-dióxido de azufre;;2;999999988
-dióxido de nitrógeno;;2;999999987
+dióxido de azufre;SO2;2;999999988
+dióxido de nitrógeno;NO2;2;999999987
 acetileno;;2;999999986
 etileno;;3;999999985
 etano;;3;999999984
 freón;CFC|clorofluorocarbonos;3;999999983
 gas mostaza;;3;999999982
-sarín;;3;999999981
+sarín;gas sarín;3;999999981
 gas lacrimógeno;;3;999999980
 gas pimienta;;3;999999979
 biogás;;3;999999978
 gas licuado;GLP;3;999999977
 gas ciudad;;3;999999976
 gas grisú;grisú;3;999999975
-hexafluoruro de azufre;;3;999999974
+hexafluoruro de azufre;SF6;3;999999974
 fosgeno;;3;999999973
-cianuro de hidrógeno;ácido cianhídrico;3;999999972
+cianuro de hidrógeno;ácido cianhídrico|cianuro;3;999999972
 ácido clorhídrico gaseoso;cloruro de hidrógeno;4;999999971
 óxido nítrico;;4;999999970
 trióxido de azufre;;4;999999969
@@ -60,9 +60,11 @@ tetrafluorometano;;5;999999953
 trifluoruro de nitrógeno;;5;999999952
 aire;;5;999999951
 gas noble;gases nobles;5;999999950
-gas de efecto invernadero;;5;999999949
+gas de efecto invernadero;gases de efecto invernadero;5;999999949
 gas Zyklon B;Zyklon B;5;999999948
 gas VX;VX;5;999999947
 tabún;;5;999999946
 somán;;5;999999945
 cloropicrina;;5;999999944
+pedo;;5;100000000
+R-134a;tetrafluoroetano;5;99999999

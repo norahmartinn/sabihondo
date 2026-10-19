@@ -24,14 +24,14 @@ Mac Pro;;2;999999987
 Mac Studio;;2;999999986
 HomePod;;2;999999985
 AirTag;;2;999999984
-Apple Pencil;;2;999999983
-Magic Mouse;;3;999999982
+Apple Pencil;lápiz de Apple;2;999999983
+Magic Mouse;Magic Trackpad|trackpad;3;999999982
 iTunes;;3;999999981
 Siri;;3;999999980
 Apple Music;;3;999999979
 iCloud;;3;999999978
 Vision Pro;Apple Vision Pro;3;999999977
-iPhone 15;iPhone 16|iPhone 17|iPhone 14|iPhone 13|iPhone 12|iPhone 11|iPhone X;3;999999976
+iPhone 15;iPhone 16|iPhone 17|iPhone 14|iPhone 13|iPhone 12|iPhone 11|iPhone X|iPhone Pro|iPhone Pro Max|iPhone mini|iPhone Air|iPhone Plus;3;999999976
 iPhone SE;;3;999999975
 Magic Keyboard;;3;999999974
 EarPods;;3;999999973
@@ -43,6 +43,50 @@ Safari;;3;999999968
 macOS;;3;999999967
 iOS;;3;999999966
 App Store;;3;999999965
+iPadOS;;3;100000000
+watchOS;;3;99999999
+visionOS;;3;99999998
+GarageBand;;3;99999997
+iMovie;;3;99999996
+Final Cut Pro;Final Cut;3;99999995
+Logic Pro;;3;99999994
+Keynote;;3;99999993
+Pages;;3;99999992
+Numbers;;3;99999991
+AirDrop;;3;99999990
+AirPlay;;3;99999989
+CarPlay;;3;99999988
+Apple Maps;Mapas de Apple;3;99999987
+Buscar;Find My|Buscar mi iPhone;3;99999986
+cable Lightning;Lightning;3;99999985
+Beats;Beats by Dre;3;99999984
+Shazam;;3;99999983
+Apple Arcade;;3;99999982
+Apple Card;;3;99999981
+Apple One;;3;99999980
+Apple Intelligence;;3;99999979
+chip M1;M1;3;99999978
+M2;;3;99999977
+M3;;3;99999976
+M4;;3;99999975
+Studio Display;;3;99999974
+Smart Cover;;3;99999973
+Xcode;;4;100000000
+Swift;;4;99999999
+Finder;;4;99999998
+QuickTime;;4;99999997
+Siri Remote;;4;99999996
+Powerbeats;;4;99999995
+Beats Studio;;4;99999994
+Beats Solo;;4;99999993
+iBook;;4;99999992
+Time Capsule;;4;99999991
+AirPort;AirPort Express;4;99999990
+Newton;;4;99999989
+Cinema Display;;4;99999988
+Clips;;4;99999987
+HealthKit;;4;99999986
+A17;;4;99999985
 iPhone 5S;;4;58
 iPhone 4S;;4;57
 iPhone 7;;4;57
@@ -77,7 +121,6 @@ Macintosh Plus;;5;19
 Macintosh Portable;;5;19
 Power Mac G5;Power Macintosh G5;5;19
 Apple Cinema Display;;5;19
-Magic Trackpad;;5;19
 iPhone 6 Plus;;5;18
 IMac G3;;5;18
 Macintosh XL;;5;17
@@ -98,7 +141,6 @@ Magic Keyboard para Mac;;5;12
 EMate 300;;5;12
 iPhone 12 Mini;;5;11
 Servidor de Red de Apple;Apple Network Server;5;11
-Airport Express;;5;10
 Apple Mouse;;5;10
 SuperDrive;;5;9
 Apple Watch SE;;5;9

@@ -266,7 +266,7 @@ def itis():
     lema, frec = _palabras()
     broma = {"cuotalitis", "flojeritis", "mieditis", "titulitis", "vaguitis", "tontitis"}
     no = {"litis", "-itis", "raquitis", "ascitis"}
-    todas = {p for p in lema if p.endswith("itis") and p not in no} | {p for p in ITIS_MAS if p.endswith("itis")}
+    todas = {p for p in lema if p.endswith(("itis", "ítis")) and p not in no} | {p for p in ITIS_MAS if p.endswith(("itis", "ítis"))}
     filas = []
     for p in todas:
         if p in broma: filas.append((p, [], 5, 0)); continue

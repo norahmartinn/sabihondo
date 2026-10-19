@@ -12,20 +12,20 @@ Manny;Manny Delgado;2;999999997
 Lily;Lily Tucker-Pritchett;2;999999996
 Joe;Joe Pritchett;2;999999995
 Dylan;Dylan Marshall;2;999999994
-Stella;;2;999999993
+Stella;el perro|la perra Stella;2;999999993
 Pepper;Pepper Saltzman;3;1000000000
 Javier;Javier Delgado;3;999999999
 DeDe;DeDe Pritchett;3;999999998
-Frank Dunphy;;3;999999997
+Frank Dunphy;Frank;3;999999997
 Andy;Andy Bailey;3;999999996
 Sal;;3;999999995
-Pameron;Pam Tucker;3;999999994
-Barb Tucker;;3;999999993
-Merle Tucker;;3;999999992
+Pameron;Pam Tucker|Pam;3;999999994
+Barb Tucker;Barb;3;999999993
+Merle Tucker;Merle;3;999999992
 Shorty;;3;999999991
 Arvin;Arvin Fennerman;3;999999990
 Sanjay;Sanjay Patel;3;999999989
-Rainer Shine;;3;999999988
+Rainer Shine;Rainer;3;999999988
 Lorraine;;3;999999987
 Gil Thorpe;;3;999999986
 Ronaldo;;3;999999985
@@ -33,7 +33,7 @@ Longinus;;3;999999984
 Mr. Tucker;;4;999999983
 Poppy;;4;999999982
 Poppy Dunphy;;4;999999981
-George Dunphy;;4;999999980
+George Dunphy;George;4;999999980
 Lucy;;4;999999979
 Nick;;4;999999978
 Toby;;4;999999977
@@ -47,6 +47,11 @@ Chris;;4;999999970
 Pilar;;4;999999969
 Fulgencio;;4;999999968
 Sergio;;4;999999967
+Cal;Calhoun;4;100000000
+Farrah;;4;99999999
+Reuben;;4;99999998
+Bowen;;4;99999997
+los gemelos;Poppy y George;4;99999996
 Larry;;5;0
 Donnie Pritchett;Donnie;5;0
 Pilar Ramírez;;5;0
