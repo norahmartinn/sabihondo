@@ -1256,6 +1256,11 @@ function topSemana(repaso){
   }, () => {});
 }
 if (location.hash === "#top-semana") addEventListener("load", () => setTimeout(topSemana, 400));
+// #borra-hoy: olvida en este navegador la partida de hoy (para volver a jugarla tras borrarla de la nube a mano)
+if (location.hash === "#borra-hoy"){
+  try{ localStorage.removeItem("sabihondo:hecho:" + hoyMadrid()); localStorage.removeItem("sabihondo:curso"); }catch{}
+  history.replaceState(null, "", location.pathname);
+}
 
 function final(){
   paraReloj();
