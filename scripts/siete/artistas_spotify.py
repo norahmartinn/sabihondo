@@ -91,13 +91,13 @@ def monta():
     datos = {}
     for l in open(OY, encoding="utf-8"):
         d = json.loads(l)
-        if d["nombre"] and d["oyentes"] >= CORTE and d["oyentes"] > datos.get(clave(d["nombre"]), {}).get("oyentes", 0):
+        if d["nombre"] and clave(d["nombre"]) not in NO_ENTRAN and d["oyentes"] >= CORTE and d["oyentes"] > datos.get(clave(d["nombre"]), {}).get("oyentes", 0):
             datos[clave(d["nombre"])] = d
     n1 = {clave(a): 1 for g in lista(N1) for a in g}
     n2 = {clave(a): 2 for g in lista(N2) for a in g}
     filas = []
     for k, d in datos.items():
-        alias = sorted(x for x in etiquetas.get(d["id"], ()) if clave(x) != k and LATIN(x))
+        alias = sorted(x for x in etiquetas.get(d["id"], ()) if clave(x) != k and LATIN(x) and clave(x) not in ALIAS_MALOS)
         nv = n1.get(k) or n2.get(k) or next((n1.get(clave(a)) or n2.get(clave(a)) for a in alias if clave(a) in n1 or clave(a) in n2), None)
         if not nv:
             o = d["oyentes"]
@@ -106,6 +106,10 @@ def monta():
     fuera = [g[0] for g in lista(N1) + lista(N2) if not any(clave(a) in datos for a in g)]
     print("  a mano pero sin datos o por debajo del corte (no entran):", fuera)
     guarda("artistas", filas, "oyentes_mensuales_spotify")
+# Wikidata marca como «no binario» o «género fluido» a gente que no se presenta como mujer: fuera
+NO_ENTRAN = {clave(x) for x in """Sam Smith, Lil Uzi Vert, Olly Alexander (Years & Years), Richard O'Brien, felix jaehn, Pabllo Vittar, Gloria Groove,
+Alex Newell, Yves Tumor, Ricky Montgomery, Christine and the Queens, August Ponthier, Yaelokre, quannnic, Ghost and Pals, Lucy Bedroque, Nxdia""".replace("\n", " ").split(",")}
+ALIAS_MALOS = {clave("TheGrefg"), clave("bon")}      # etiquetas de Wikidata que no son de esa artista
 LATIN = lambda t: not re.search(r"[^\x00-ɏ’'·!&+*.]", t)
 
 if __name__ == "__main__":

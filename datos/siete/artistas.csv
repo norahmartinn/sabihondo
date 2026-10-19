@@ -10,6 +10,7 @@ Dua Lipa;;1;76800000
 KAROL G;;1;69200000
 Olivia Rodrigo;;1;68800000
 Beyoncé;;1;63300000
+Miley Cyrus;;1;60800000
 Adele;;1;60000000
 Madonna;;1;54500000
 Sabrina Carpenter;;1;53600000
@@ -19,7 +20,7 @@ Becky G;;1;32200000
 ROSALÍA;;1;26100000
 Aitana;;1;20800000
 Bad Gyal;;1;14700000
-Lola Indigo;TheGrefg;1;6400000
+Lola Indigo;;1;6400000
 Lana Del Rey;;2;69400000
 Sia;;2;69400000
 SZA;;2;68300000
@@ -42,6 +43,7 @@ Tate McRae;;2;42100000
 Gracie Abrams;;2;38000000
 Mariah Carey;;2;37500000
 Anitta;;2;37100000
+Demi Lovato;;2;37000000
 Nelly Furtado;;2;36800000
 Kali Uchis;;2;34000000
 Chappell Roan;;2;32700000
@@ -77,7 +79,7 @@ Fergie;;2;16600000
 Fifth Harmony;;2;15800000
 TINI;Tini Stoessel;2;15200000
 Little Mix;;2;14700000
-Nicki Nicole;bon;2;14200000
+Nicki Nicole;;2;14200000
 Tina Turner;;2;13500000
 Laura Pausini;;2;13500000
 Cher;;2;13400000
@@ -108,8 +110,11 @@ Sofía Reyes;;2;6800000
 Angèle;;2;6600000
 Ángela Aguilar;;2;6500000
 Ana Mena;;2;6400000
+Ashnikko;;2;5300000
 Mabel;;2;5100000
+ANNA;;2;4500000
 NATHY PELUSO;;2;4300000
+Paloma Mami;;2;4099999
 Annalisa;;2;3500000
 Zaz;;2;3400000
 Duffy;;2;3400000
@@ -120,14 +125,17 @@ Elodie;;2;2900000
 Vanesa Martín;;2;2800000
 India Martinez;;2;2800000
 Lali;Lali Espósito;2;2700000
+Bb trickz;;2;2700000
 Malú;;2;2400000
 Monica Naranjo;;2;1900000
 Jessie Ware;;2;1800000
+Ptazeta;;2;1800000
 Clara Luciani;;2;1200000
 Ana Belén;;2;1000000
 Amaia;;2;1000000
 Danna Paola;;2;983500
 Melody;;2;938700
+La Zowi;;2;845500
 Pastora Soler;;2;737000
 Chanel;Chanel Terrero;2;736700
 Pixie Lott;;2;600100
@@ -148,6 +156,7 @@ Tinashe;;3;28300000
 Natasha Bedingfield;;3;27700000
 Alka Yagnik;;3;27300000
 ROSÉ;;3;27200000
+Kehlani;;3;26800000
 Chinmayi;Chinmayi Sripada;3;26000000
 Kelly Clarkson;;3;25200000
 beabadoobee;;3;25200000
@@ -161,6 +170,7 @@ Shilpa Rao;;3;22400000
 REI AMI;;3;21800000
 Laufey;;3;21600000
 Mitski;;3;21200000
+HUNTR/X;Huntrix;3;21100000
 Imogen Heap;;3;20800000
 Clairo;;3;20700000
 AUDREY NUNA;;3;20700000
@@ -210,6 +220,7 @@ Kavita Krishnamurthy;;3;15400000
 NIKI;;3;15400000
 Neha Kakkar;;3;15300000
 Lizzy McAlpine;;3;15300000
+Yebba;;3;15200000
 Cassie;Cassie Ventura;3;15000000
 TWICE;;3;14900000
 Ultra Naté;;3;14900000
@@ -217,6 +228,7 @@ Indila;;3;14700000
 Melanie Martinez;;3;14700000
 GloRilla;;3;14700000
 Shashaa Tirupati;;3;14400000
+ELENA ROSE;;3;14400000
 Zendaya;;3;14200000
 Latto;;3;13900000
 NewJeans;;3;13400000
@@ -224,16 +236,22 @@ Ciara;;3;13300000
 Suki Waterhouse;;3;13200000
 Tammi Terrell;;3;13000000
 070 Shake;;3;12900000
+Simone Mendes;;3;12800000
 Flo Milli;;3;12400000
 Em Beihold;;3;12400000
 The Ronettes;;3;12300000
 Kim Petras;;3;12300000
 Tokischa;;3;12200000
+Nadin Amizah;;3;12200000
 Marília Mendonça;;3;12100000
+Bella Kay;;3;12100000
 Mari Fernandez;;3;12000000
 Belinda;;3;12000000
+Chrystal;;3;12000000
 Jorja Smith;;4;11900000
+Ana Castela;;4;11600000
 Maren Morris;;4;11500000
+LP;;4;11500000
 Vanessa Carlton;;4;11400000
 Harshdeep Kaur;;4;11400000
 Anuradha Sriram;;4;11300000
@@ -244,6 +262,7 @@ Alanis Morissette;;4;10900000
 Rekha Bhardwaj;;4;10900000
 Carla Morrison;;4;10900000
 Brandy;Brandy Norwood;4;10800000
+Clementine Douglas;;4;10800000
 Olivia Newton-John;;4;10700000
 Nikhita Gandhi;;4;10700000
 Aretha Franklin;;4;10600000
@@ -251,12 +270,14 @@ aespa;;4;10600000
 Gloria Gaynor;;4;10500000
 Slayyyter;;4;10500000
 BIA;;4;10500000
+MOLIY;;4;10500000
 INNA;;4;10400000
 Vika Jigulina;;4;10400000
 Becky Hill;;4;10300000
 Sevdaliza;;4;10200000
 Lainey Wilson;;4;10200000
 Luísa Sonza;;4;10200000
+Jazzy;;4;10200000
 Stevie Nicks;;4;10100000
 Mahalini;Mahalini Raharja;4;10100000
 Shenseea;;4;10100000
@@ -275,9 +296,12 @@ Coi Leray;;4;9600000
 Sujatha;Sujatha Mohan;4;9600000
 Santigold;;4;9500000
 Lyodra;;4;9500000
+Idgitaf;;4;9500000
 Dove Cameron;;4;9400000
 Greeicy;;4;9400000
+Avery Anna;;4;9400000
 Miranda Lambert;;4;9300000
+Feby Putri;;4;9300000
 Colbie Caillat;;4;9200000
 Natalie Imbruglia;;4;9100000
 Paloma Faith;;4;9100000
@@ -285,27 +309,37 @@ Dhvani Bhanushali;;4;9100000
 Missy Elliott;;4;9000000
 Ana Gabriel;;4;9000000
 Dasha;;4;9000000
+Payal Dev;;4;9000000
 Chaka Khan;;4;8900000
 H.E.R.;;4;8900000
 Ashanti;;4;8800000
 Belinda Carlisle;;4;8800000
+Ghea Indrawari;;4;8800000
+Lauana Prado;;4;8800000
+Jade LeMac;;4;8800000
 Janet Jackson;;4;8700000
 Loreen;;4;8700000
 Hailee Steinfeld;;4;8700000
 Faouzia;;4;8700000
+Bernadya;;4;8700000
 Shruti Haasan;;4;8600000
 Sheryl Crow;;4;8600000
 Laura Branigan;;4;8600000
 Skylar Grey;;4;8600000
+Afsana Khan;;4;8600000
+Saindhavi;;4;8600000
 Etta James;;4;8500000
 Yuridia;;4;8500000
 Kenia Os;;4;8500000
+ARIA VEGA;;4;8500000
 Jordin Sparks;;4;8400000
 Megan Moroney;;4;8400000
 Monica;;4;8199999
 Ella Henderson;;4;8199999
 Alejandra Guzman;;4;8199999
+Kyla;;4;8199999
 Shakthisree Gopalan;;4;8199999
+Astrid;Astrid Sartiasari;4;8199999
 Enya;;4;8100000
 Grimes;;4;8100000
 LeAnn Rimes;;4;8100000
@@ -325,9 +359,11 @@ Nancy Sinatra;;4;7500000
 Kelsea Ballerini;;4;7500000
 Hearts2Hearts;;4;7500000
 Isabel LaRosa;;4;7500000
+Theodora;;4;7500000
 Alexandra Stan;;4;7400000
 Adrianne Lenker;;4;7400000
 Robin S;;4;7300000
+Joy Crookes;;4;7300000
 Irene Cara;;4;7200000
 Nessa Barrett;;4;7200000
 Kiki Dee;;4;7100000
@@ -337,9 +373,11 @@ Florence Welch;;4;7000000
 Joan Jett & the Blackhearts;Joan Jett;4;7000000
 Jennifer Warnes;;4;7000000
 Blu Cantrell;;4;7000000
+Naykilla;;4;7000000
 Remi Wolf;;4;6900000
 Aaliyah;;4;6900000
 Swarnalatha;;4;6900000
+Katteyes;;4;6900000
 Carly Simon;;4;6800000
 i-dle;;4;6800000
 Lil' Kim;;4;6800000
@@ -349,12 +387,20 @@ Ana Bárbara;;4;6800000
 Yura Yunita;Yura;4;6700000
 Meryl Streep;;4;6700000
 Red Velvet;;4;6700000
+Marina Sena;;4;6700000
+La Joaqui;;4;6700000
 Ado;;4;6600000
 Ebru Gündeş;;4;6600000
+Bellakath;;4;6600000
 Nena;;4;6500000
 Elle King;;4;6500000
 Jessie Reyez;;4;6500000
+Anggis Devaki;;4;6500000
+Villano Antillano;;4;6500000
 Stefflon Don;;4;6400000
+JT;;4;6400000
+Kenya Grace;;4;6400000
+Hikaru Utada;;4;6400000
 Donna Summer;;4;6300000
 JISOO;;4;6300000
 Pat Benatar;;4;6300000
@@ -366,6 +412,7 @@ Keala Settle;;4;6300000
 Toni Braxton;;4;6200000
 Dusty Springfield;;4;6200000
 Kim Carnes;;4;6200000
+Kaash Paige;;4;6200000
 Sezen Aksu;;4;6100000
 Erykah Badu;;4;6100000
 KT Tunstall;;4;6100000
@@ -377,6 +424,10 @@ Snoh Aalegra;;4;6100000
 Yseult;;4;6100000
 FIFTY FIFTY;;4;6000000
 Keisya Levronka;;4;6000000
+Mariah the Scientist;;4;6000000
+Sofiya Nzau;;4;6000000
+BLOND:ISH;;4;6000000
+Mariah Deborah;;4;6000000
 Dulce María;;4;5900000
 Ajda Pekkan;;4;5900000
 Elyanna;;4;5900000
@@ -385,6 +436,9 @@ Shirin David;;4;5900000
 Anahí;;4;5800000
 IVE;;4;5800000
 Vanessa Da Mata;;4;5800000
+Ayesha Erotica;;4;5800000
+Jordana;;4;5800000
+Imael Angel;;4;5800000
 Natalie Cole;;4;5700000
 Sofia Carson;;4;5700000
 Celeste;;4;5700000
@@ -393,10 +447,12 @@ Keri Hilson;;4;5600000
 Mýa;Mýaa;4;5600000
 Tamia;;4;5600000
 Bunga Citra Lestari;;4;5600000
+HAYLA;;4;5600000
 Lauren Daigle;;4;5500000
 Candi Staton;;4;5500000
 Aimyon;;4;5500000
 Justine Skye;;4;5500000
+St. Vincent;;4;5500000
 Björk;;4;5400000
 IU;;4;5400000
 Evaluna Montaner;;4;5400000
@@ -405,6 +461,8 @@ Sinéad O'Connor;;4;5300000
 Hadise;;4;5300000
 Simge;;4;5300000
 MIA BOYKA;;4;5300000
+Azzy;;4;5300000
+RaiNao;;4;5300000
 Ella Fitzgerald;;4;5200000
 Amanda Seyfried;;4;5200000
 Mandy Moore;;4;5200000
@@ -412,29 +470,41 @@ Faith Hill;;4;5200000
 Little Simz;Lil Simz;4;5200000
 YENA;Choi Ye-na;4;5200000
 Amaarae;;4;5200000
+Libianca;;4;5200000
+Shefali Alvares;;4;5200000
 Roberta Flack;;4;5100000
 Pomme;;4;5100000
+Yailin la Mas Viral;;4;5100000
+Sydney Rose;;4;5100000
+The Blessed Madonna;;4;5100000
 Anna Kendrick;;4;5000000
 Amy Macdonald;;4;5000000
 Sertab Erener;;4;5000000
 Auli'i Cravalho;;4;5000000
 Yuri;;4;5000000
+Marwa Loud;;4;5000000
+Norma Jean Martine;;4;5000000
+SABI;;4;5000000
 MEOVV;;4;4900000
 Sara Bareilles;;4;4900000
 Astrid S;;4;4900000
 Kiesza;;4;4900000
 Maudy Ayunda;;4;4900000
+Bengü;;4;4900000
+Jenn Johnson;;4;4900000
 Anastacia;;4;4800000
 Hannah Montana;Miley Stewart;4;4800000
 Candan Erçetin;;4;4800000
 Gülşen;Gülşen Bayraktar;4;4800000
 GAYLE;;4;4800000
+Ari Abdul;;4;4800000
 Zoe Wees;;4;4700000
 JoJo;;4;4700000
 Rita Lee;;4;4700000
 Fatin;Fatin Shidqia;4;4700000
 Ella Eyre;;4;4700000
 Lauren Spencer Smith;;4;4700000
+Liana Flores;;4;4700000
 Kristen Bell;;4;4600000
 Linda Ronstadt;;4;4600000
 Cássia Eller;;4;4600000
@@ -455,15 +525,21 @@ Kiiara;;4;4400000
 Phillipa Soo;;4;4400000
 BENEE;;4;4400000
 Acha Septriasa;;4;4400000
+Gabriela Rocha;Grabriela Rocha;4;4400000
+María José;;4;4400000
+Isadora Pompeo;;4;4400000
 Wonder Girls;;4;4300000
 Haley Reinhart;;4;4300000
 Au/Ra;;4;4300000
 Young M.A;;4;4300000
+Göksel;Göksel Demirpençe;4;4300000
 Stephanie Beatriz;;4;4200000
 Ivete Sangalo;;4;4200000
 BIBI;;4;4200000
 SWV;;4;4200000
 Noelia;;4;4200000
+Shiloh Dynasty;;4;4200000
+Darkoo;;4;4200000
 Ebru Yaşar;;4;4099999
 Naomi Scott;;4;4099999
 Cynthia Erivo;;4;4099999
@@ -475,6 +551,9 @@ Sibel Can;;4;4099999
 Yuna;;4;4099999
 Mia Martina;;4;4099999
 Paty Cantú;;4;4099999
+Inéz;Inéz Schaefer;4;4099999
+Absolutely;Abby-Lynn Keen;4;4099999
+Rashmeet Kaur;;4;4099999
 Barbra Streisand;;4;4000000
 Dionne Warwick;;4;4000000
 ITZY;;4;4000000
@@ -483,6 +562,11 @@ Sarah McLachlan;;4;4000000
 Miki Matsubara;;4;4000000
 Gabby Barrett;;4;4000000
 Zeynep Bastık;;4;4000000
+Rachel Chinouriri;;4;4000000
+Sister Sledge;Joni Sledge;4;4000000
+Chelsea Cutler;;4;4000000
+Sadie Jean;;4;4000000
+Kah-Lo;;4;4000000
 Anusha Mani;;4;3900000
 Mariah Angeliq;;4;3900000
 Nancy Ajram;;4;3900000
@@ -495,6 +579,8 @@ Ana Tijoux;;4;3900000
 Caroline Polachek;;4;3900000
 K.Flay;;4;3900000
 DeJ Loaf;;4;3900000
+Maria;Maria Bomani;4;3900000
+Yoss Bones;;4;3900000
 Vanessa Hudgens;;4;3800000
 Carole King;;4;3800000
 Hatsune Miku;;4;3800000
@@ -504,6 +590,7 @@ Gal Costa;;4;3800000
 NMIXX;;4;3800000
 Patrice Rushen;;4;3800000
 Holly Humberstone;;4;3800000
+kwn;;4;3800000
 Billie Holiday;;4;3700000
 Girls' Generation;;4;3700000
 China Anne McClain;;4;3700000
@@ -514,6 +601,10 @@ AiNA THE END;;4;3700000
 VASSY;;4;3700000
 Merve Özbey;;4;3700000
 Leony;;4;3700000
+Nina Chuba;;4;3700000
+Derya Uluğ;;4;3700000
+Vaishali Samant;;4;3700000
+BJ Lips;;4;3700000
 Joss Favela;;4;3600000
 Bella Poarch;;4;3600000
 Poppy;;4;3600000
@@ -523,6 +614,9 @@ Pilar Montenegro;;4;3600000
 Princess Chelsea;;4;3600000
 Sevyn Streeter;;4;3600000
 Myriam Hernandez;;4;3600000
+Nazan Öncel;;4;3600000
+Fousheé;;4;3600000
+Melike Şahin;;4;3600000
 Lesley Gore;;4;3500000
 Brenda Lee;;4;3500000
 Maria Bethânia;;4;3500000
@@ -531,6 +625,9 @@ Sheena Ringo;Ringo Sheena|Ringo Shiina;4;3500000
 Aleyna Tilki;;4;3500000
 CeCe Winans;;4;3500000
 Rosana;Rosana Arbel0|Rosana Arbelo;4;3500000
+Ironmouse;;4;3500000
+Ilsey;Ilsey Juber;4;3500000
+Shruti Pathak;;4;3500000
 Reba McEntire;;4;3400000
 Amerie;;4;3400000
 Hayley Williams;;4;3400000
@@ -544,6 +641,13 @@ Pitty;;4;3400000
 Aimer;;4;3400000
 Lennon Stella;;4;3400000
 Madame;;4;3400000
+Aline Barros;;4;3400000
+Naiara Azevedo;;4;3400000
+Ayah Marar;;4;3400000
+MIIA;;4;3400000
+Daniela Spalla;;4;3400000
+Qendresa;;4;3400000
+Amber Mark;;4;3400000
 Pastel Ghost;;4;3300000
 Janis Joplin;;4;3300000
 Regina Spektor;;4;3300000
@@ -557,6 +661,9 @@ Alcione;;4;3300000
 Nomcebo Zikode;;4;3300000
 Freya Skye;;4;3300000
 Funda Arar;;4;3300000
+Princess Superstar;;4;3300000
+Moira Dela Torre;;4;3300000
+Tash Sultana;;4;3300000
 Dato' Sri Siti Nurhaliza;Siti Nurhaliza;4;3200000
 Michelle Branch;;4;3200000
 Sharon Den Adel;;4;3200000
@@ -571,12 +678,23 @@ Imany;;4;3200000
 Tanya Tucker;;4;3200000
 Soap&Skin;;4;3200000
 Sophie and the Giants;;4;3200000
+Kari Jobe Carnes;Kari Jobe;4;3200000
+Melek Mosso;;4;3200000
+Phoebe Killdeer;;4;3200000
 Hilary Duff;;4;3100000
 Raffaella Carrà;;4;3100000
 FKA twigs;;4;3100000
 Susanna Hoffs;;4;3100000
 Chlöe;Chloe Bailey;4;3100000
 Dawn Penn;;4;3100000
+Tayna;;4;3100000
+Linet;;4;3100000
+Kalben;;4;3100000
+Lia Kali;;4;3100000
+RANI;;4;3100000
+Rosa Walton;;4;3100000
+Kamuran Akkor;;4;3100000
+akiaura;;4;3100000
 Starley;;4;3000000
 Édith Piaf;;4;3000000
 Joni Mitchell;;4;3000000
@@ -588,6 +706,13 @@ Freya Ridings;;4;3000000
 Sonu Kakkar;;4;3000000
 salem ilese;;4;3000000
 IZA;;4;3000000
+Sierra Ferrell;;4;3000000
+Kitchie Nadal;;4;3000000
+MC Dricka;;4;3000000
+Penelope Scott;;4;3000000
+Nej;;4;3000000
+Gülden;Gülden Mutlu;4;3000000
+Danelle Sandoval;;4;3000000
 Myla;;5;2900000
 Vitaa;;5;2900000
 Nicole Scherzinger;;5;2900000
@@ -603,6 +728,13 @@ Olivia;;5;2900000
 Nilüfer;Nilüfer Yumlu;5;2900000
 Hard Kaur;;5;2900000
 DaniLeigh;;5;2900000
+Burcu Güneş;;5;2900000
+Suzanne;Suzanne D'Mello;5;2900000
+Fleurie;;5;2900000
+Sunitha Sarathy;;5;2900000
+Carter Faith;;5;2900000
+Princess Nokia;Destiny Frasqueri;5;2900000
+G Flip;;5;2900000
 Brisia Jodie;;5;2800000
 İzel;;5;2800000
 Lisa Gerrard;;5;2800000
@@ -616,6 +748,10 @@ Gülben Ergen;;5;2800000
 Carly Pearce;;5;2800000
 CHANMINA;;5;2800000
 Cat Burns;;5;2800000
+Alina Baraz;;5;2800000
+Salma Salsabil;;5;2800000
+Marvvila;;5;2800000
+Saint Avangeline;;5;2800000
 Soledad;Soledad Pastorutti;5;2700000
 France Gall;;5;2700000
 Emma;;5;2700000
@@ -623,12 +759,28 @@ Taylor Dayne;;5;2700000
 Griff;;5;2700000
 Edith Márquez;;5;2700000
 Jo Dee Messina;;5;2700000
+Original Koffee;Koffee;5;2700000
+Naïka;;5;2700000
+AYLIVA;;5;2700000
+Liniker;;5;2700000
+Gabriella;Gabriella Montez;5;2700000
+Manu;Manu Bahtidão;5;2700000
+Bibi Babydoll;;5;2700000
+Luli Pampín;;5;2700000
+Julia Church;;5;2700000
 Kim Wilde;;5;2600000
 Peggy Lee;;5;2600000
 All Saints;;5;2600000
 Meg Donnelly;;5;2600000
 Kylie Cantrall;;5;2600000
 KZ Tandingan;;5;2600000
+Juju;;5;2600000
+Quratulain Balouch;;5;2600000
+Wisp;;5;2600000
+Tomine Harket;;5;2600000
+Tata Janeeta;Shinta Dewi;5;2600000
+Eliza Rose;;5;2600000
+Lumi Athena;;5;2600000
 Wafia;;5;2500000
 mxmtoon;;5;2500000
 Anne Hathaway;;5;2500000
@@ -642,6 +794,17 @@ Zaho;;5;2500000
 Ana Carolina;;5;2500000
 Olivia O'Brien;;5;2500000
 Cozi Zuehlsdorff;;5;2500000
+Lilas;Lilas Ikuta;5;2500000
+Rose Villain;;5;2500000
+Kibariye;;5;2500000
+Nívea Soares;;5;2500000
+Ronisia;;5;2500000
+Tink;;5;2500000
+Naomi Sharon;;5;2500000
+Eva;;5;2500000
+Valesca Mayssa;;5;2500000
+Misellia;Misellia Ikwan;5;2500000
+LUIZA;;5;2500000
 Connie Francis;;5;2400000
 Sarah Brightman;;5;2400000
 Sandra;;5;2400000
@@ -653,6 +816,12 @@ Mahalia;Mahalia Burkmar;5;2400000
 Deana Carter;;5;2400000
 Vendredi sur Mer;;5;2400000
 Julie Doiron;;5;2400000
+Margarita la diosa de la cumbia;Margarita María de Santa Teresita Vargas Gaviria|Margarita Vargas;5;2400000
+Ikkimel;;5;2400000
+UMI;Tierra Umi Wilson;5;2400000
+Sena Şener;;5;2400000
+Simone Sommerland;;5;2400000
+Shabrina Leanor;;5;2400000
 Dalida;;5;2300000
 Nico;;5;2300000
 Shraddha Kapoor;;5;2300000
@@ -672,6 +841,16 @@ Anaïs Mitchell;;5;2300000
 Niña Pastori;;5;2300000
 Anri;;5;2300000
 Reyhan Karaca;;5;2300000
+LEA;;5;2300000
+Negra Li;;5;2300000
+Joy Oladokun;;5;2300000
+Imen Es;;5;2300000
+Lilly Goodman;;5;2300000
+tuki.;;5;2300000
+Zalia;;5;2300000
+Trim;;5;2300000
+İntizar;;5;2300000
+Márcia Fellipe;;5;2300000
 Stephanie Poetri;Stephanie Poetry;5;2200000
 Patsy Cline;;5;2200000
 Mercedes Sosa;;5;2200000
@@ -687,6 +866,15 @@ Maria Rita;;5;2200000
 Cheryl Lynn;;5;2200000
 Fey;;5;2200000
 Kiana Ledé;;5;2200000
+Sinéad Harnett;;5;2200000
+Güllü;;5;2200000
+milet;;5;2200000
+Lay Bankz;;5;2200000
+Tuğçe Kandemir;;5;2200000
+Princesa Alba;;5;2200000
+BOWKYLION;;5;2200000
+TxC;;5;2200000
+Janelle Monáe;;5;2200000
 Güneş;;5;2100000
 Paula Abdul;;5;2100000
 Alizée;;5;2100000
@@ -705,6 +893,12 @@ Ayse Hatun Onal;;5;2100000
 Deniz Seki;;5;2100000
 Seda Sayan;;5;2100000
 Aşkın Nur Yengi;;5;2100000
+Baby Tate;Yung Baby Tate;5;2100000
+Royal & the Serpent;;5;2100000
+Mae Stephens;;5;2100000
+Christine D'Clario;;5;2100000
+BKTHERULA;;5;2100000
+Sarai Rivera;;5;2100000
 Alice Phoebe Lou;;5;2000000
 Hope Darst;;5;2000000
 Julie Andrews;;5;2000000
@@ -726,6 +920,17 @@ Lee Ann Womack;;5;2000000
 Sabrina Claudio;;5;2000000
 underscores;;5;2000000
 Tasha Cobbs Leonard;Tasha Cobbs;5;2000000
+Anne Wilson;;5;2000000
+Shay;;5;2000000
+Jocelyn Enriquez;;5;2000000
+Mart'nália;;5;2000000
+Britney Manson;;5;2000000
+Qing Madi;;5;2000000
+Bruna Karla;;5;2000000
+Enny-Mae;;5;2000000
+Çağla;;5;2000000
+Radhika Bhide;;5;2000000
+Asal;;5;2000000
 Gretchen Wilson;;5;1900000
 Scarlett Johansson;;5;1900000
 Noemi;;5;1900000
@@ -743,6 +948,19 @@ Queen Naija;;5;1900000
 Carolina Gaitán - La Gaita;Carolina Gaitán;5;1900000
 Jasmine Cephas-Jones;;5;1900000
 Rico Nasty;;5;1900000
+Mawar de Jongh;Mawar Eva De Jongh;5;1900000
+Anna Naklab;;5;1900000
+Cami;Camila Gallardo;5;1900000
+no na;;5;1900000
+Andien;;5;1900000
+S. P. Sailaja;;5;1900000
+VIOLENT VIRA;;5;1900000
+Katy Nichole;;5;1900000
+Bamby;;5;1900000
+Amma;Lauren Keen;5;1900000
+Camden Cox;;5;1900000
+Sarah Beatriz;;5;1900000
+HolyBrune;;5;1900000
 Paula Cole;;5;1800000
 Lila Downs;;5;1800000
 Joan Baez;;5;1800000
@@ -770,6 +988,29 @@ Syd;;5;1800000
 Rita Payés;;5;1800000
 Karen Harding;;5;1800000
 Empress Of;;5;1800000
+Liamani;;5;1800000
+POCAH;;5;1800000
+Ink Waruntorn;Waruntorn Paonil;5;1800000
+Ayla Çelik;;5;1800000
+Daria Zawiałow;;5;1800000
+Adassa;;5;1800000
+MC Pipokinha;;5;1800000
+Srinidhi Venkatesh;T. Sreenidhi;5;1800000
+Elsa y Elmar;;5;1800000
+Uru;;5;1800000
+Emily Roberts;;5;1800000
+Emelie Hollow;;5;1800000
+Monaleo;;5;1800000
+Emei;;5;1800000
+Bea;Bea and her Business;5;1800000
+Jessica Pratt;;5;1800000
+Marie Vaunt;DJ Heavygrinder;5;1800000
+Clau;;5;1800000
+Sofia Camara;;5;1800000
+Ingratax;;5;1800000
+l0rna;MIAU;5;1800000
+Issey Cross;;5;1800000
+Manon Lisa;;5;1800000
 Angela Lansbury;;5;1700000
 Yoko Ono;;5;1700000
 Emmy Rossum;;5;1700000
@@ -794,6 +1035,27 @@ Elba Ramalho;;5;1700000
 Hoshi;;5;1700000
 Shygirl;;5;1700000
 Grouper;;5;1700000
+Uncle Waffles;;5;1700000
+Teedra Moses;;5;1700000
+Roxy Dekker;;5;1700000
+Tuğba Yurt;;5;1700000
+Silvana Estrada;;5;1700000
+Kathryn Stott;;5;1700000
+Lilli Cooper;;5;1700000
+Tiffany Day;;5;1700000
+Carol Biazin;;5;1700000
+Fana Hues;;5;1700000
+Hannah Laing;;5;1700000
+Indigo De Souza;;5;1700000
+Merveille;;5;1700000
+Novah;Noa Heyse;5;1700000
+Eugenia Quevedo;;5;1700000
+Larissa Lambert;;5;1700000
+Agatha Lee Monn;;5;1700000
+Katie Lopez;;5;1700000
+Aiyana-Lee;;5;1700000
+Loyaltty;;5;1700000
+The Japanese House;;5;1700000
 Jess Lee;Jess Lee Kar Wei;5;1600000
 Rosario;Rosario Flores;5;1600000
 Samuraï;;5;1600000
@@ -821,6 +1083,21 @@ Corina Smith;;5;1600000
 Arlo Parks;;5;1600000
 Maxine Nightingale;;5;1600000
 Ece Seçkin;;5;1600000
+GIULIA BE;;5;1600000
+Vũ Cát Tường;;5;1600000
+Luedji Luna;;5;1600000
+LAUREL;;5;1600000
+ÁSDÍS;;5;1600000
+Aliyah's Interlude;;5;1600000
+Cassiane;;5;1600000
+Charlotte Day Wilson;;5;1600000
+Hollis;;5;1600000
+Natalie Taylor;;5;1600000
+Jozzy;;5;1600000
+tlinh;;5;1600000
+KIRBY;Kirby Lauryen;5;1600000
+Yashal Shahid;;5;1600000
+Taylr Renee;;5;1600000
 Lucy Dacus;;5;1500000
 Paris Hilton;;5;1500000
 JOLIN;Jolin Tsai;5;1500000
@@ -856,6 +1133,25 @@ Mia Julia;Mia Julia Brückner;5;1500000
 Nil Karaibrahimgil;;5;1500000
 CMAT;;5;1500000
 Nora En Pure;;5;1500000
+Natalia Lacunza;;5;1500000
+Rimi Tomy;;5;1500000
+CLOVES;;5;1500000
+DUDA BEAT;;5;1500000
+Isata Kanneh-Mason;;5;1500000
+badmómzjay;;5;1500000
+TiaCorine;;5;1500000
+bambi;;5;1500000
+Goldie Boutilier;;5;1500000
+Kaśka Sochacka;;5;1500000
+Erika Lundmoen;;5;1500000
+Naomi Raine;;5;1500000
+Paula Hartmann;;5;1500000
+ENNY;;5;1500000
+Sarah Cothran;;5;1500000
+Sarah Farias;;5;1500000
+Rosie Darling;;5;1500000
+Kami Kehoe;;5;1500000
+Sarah de Warren;;5;1500000
 WENDY;Wendy Son;5;1400000
 Ayumi Hamasaki;;5;1400000
 DARA;;5;1400000
@@ -893,6 +1189,31 @@ FLETCHER;;5;1400000
 CHIKA;;5;1400000
 Francesca Battistelli;;5;1400000
 Gaia;;5;1400000
+Nina;Nina Kreutzmann Jørgensen;5;1400000
+FARIANA;;5;1400000
+Young Leosia;;5;1400000
+Semiramis Pekkan;;5;1400000
+Beth Hirsch;;5;1400000
+Samia;Samia Finnerty;5;1400000
+Juliana;Juliana Velásquez;5;1400000
+SANTA;;5;1400000
+Ramya NSK;;5;1400000
+Ayla Dikmen;;5;1400000
+Marion Jola;;5;1400000
+Joyce Wrice;;5;1400000
+Sara Landry;;5;1400000
+Gülden Karaböcek;;5;1400000
+Evinha;;5;1400000
+Alida;Alida Garpestad Peck;5;1400000
+Biig Piig;;5;1400000
+Ren Ran;;5;1400000
+Afro B;;5;1400000
+Jeneba Kanneh-Mason;;5;1400000
+9Lana;;5;1400000
+MODELKI;;5;1400000
+Swati Mishra;;5;1400000
+Jane Remover;;5;1400000
+Iniko;;5;1400000
 STAYC;;5;1300000
 Stacey Kent;;5;1300000
 Nora Van Elken;;5;1300000
@@ -937,10 +1258,34 @@ Isyana Sarasvati;;5;1300000
 Tanya Chua;;5;1300000
 Loredana;Loredana Zefi;5;1300000
 Lee Young Ji;;5;1300000
-Kyla;;5;1300000
 Via Vallen;;5;1300000
 Olga Merediz;;5;1300000
 Levante;;5;1300000
+Amelie Lens;;5;1300000
+Kash Doll;;5;1300000
+Miss Platnum;;5;1300000
+Mimi Webb;;5;1300000
+Mentissa;;5;1300000
+Helena;;5;1300000
+Siti Badriah;;5;1300000
+Fernanda Brum;;5;1300000
+Shay Lia;;5;1300000
+Hava;;5;1300000
+ALIZADE;;5;1300000
+Mariana Nolasco;;5;1300000
+Sneha Khanwalkar;;5;1300000
+Nia Archives;;5;1300000
+Dere;;5;1300000
+Loi;;5;1300000
+Esther Graf;;5;1300000
+Cobrah;;5;1300000
+Hanin Dhiya;;5;1300000
+Angela Leiva;;5;1300000
+Lil Zey;;5;1300000
+Valerie Broussard;;5;1300000
+ooes;;5;1300000
+Chloe Adams;;5;1300000
+Julia Minkin;;5;1300000
 Billie Marten;;5;1200000
 Rainie Yang;;5;1200000
 Amy Lee;;5;1200000
@@ -981,6 +1326,33 @@ Betsy;;5;1200000
 Barbara Tucker;;5;1200000
 Yohani;;5;1200000
 Miss Monique;;5;1200000
+Tommy Genesis;;5;1200000
+kai;Kari;5;1200000
+Ceylan;;5;1200000
+Luciana;Luciana Caporaso;5;1200000
+Melina Leon;;5;1200000
+Aishwarya Majmudar;;5;1200000
+Nao;;5;1200000
+Mila J;;5;1200000
+Emma Peters;;5;1200000
+Metrika;;5;1200000
+Averly Morillo;;5;1200000
+Nithya Mammen;;5;1200000
+Bletka;;5;1200000
+INDAHKUS;;5;1200000
+KUČKA;;5;1200000
+Özlem Özdil;;5;1200000
+Sedef Sebüktekin;;5;1200000
+Elisabeth Roma;;5;1200000
+LANA;;5;1200000
+Devi McCallion;;5;1200000
+Amelia Moore;;5;1200000
+Yeni Inka;;5;1200000
+Michaela Rózsa Růžičková;;5;1200000
+Maeta;;5;1200000
+Lucy Park;;5;1200000
+yeule;;5;1200000
+Jessica Darrow;;5;1200000
 Melissa Etheridge;;5;1100000
 Miss Li;;5;1100000
 DELIA;;5;1100000
@@ -1023,6 +1395,33 @@ Winona Oak;;5;1100000
 Konomi Suzuki;;5;1100000
 Sunshine Anderson;;5;1100000
 SOFIA ISELLA;;5;1100000
+Tatiana;;5;1100000
+Abeer Nehme;;5;1100000
+Emma Steinbakken;;5;1100000
+Rezz;;5;1100000
+ARIETE;;5;1100000
+Mc Carol;;5;1100000
+Simmy;;5;1100000
+Daniela Andrade;;5;1100000
+Roselle Nava;;5;1100000
+Sophie Barker;;5;1100000
+Mara Sattei;;5;1100000
+Ella May Saison;;5;1100000
+María León;;5;1100000
+Rachel Grae;;5;1100000
+Paola Jara;;5;1100000
+Orange;;5;1100000
+Lynda;;5;1100000
+Sally Dworsky;;5;1100000
+Greentea Peng;;5;1100000
+Abby Cadabby;Abby Galabby;5;1100000
+Steffany Gretzinger;;5;1100000
+Haviah Mighty;;5;1100000
+Domiziana;;5;1100000
+Ai Higuchi;;5;1100000
+Charlie Hope;;5;1100000
+La Perversa;;5;1100000
+Amie Blu;;5;1100000
 Suzane;;5;1000000
 Shirley Bassey;;5;1000000
 Namika;;5;1000000
@@ -1058,187 +1457,387 @@ Zhang Bichen;;5;1000000
 Joy Williams;;5;1000000
 Manal;;5;1000000
 Pommelien Thijs;;5;1000000
+Jona;Jonalyn Viray;5;1000000
+Pháo;;5;1000000
+Låpsley;;5;1000000
+Dulce;;5;1000000
+Ashley McBryde;;5;1000000
+Chilla;;5;1000000
+Annika;Annika Wedderkopp;5;1000000
+Tomoko Aran;;5;1000000
+Vicco;;5;1000000
+HANRORO;;5;1000000
+Güliz Ayla;;5;1000000
+Kamaiyah;;5;1000000
+Destiny Rogers;;5;1000000
+MONA;;5;1000000
+Anna Clendening;;5;1000000
+Jhelisa;;5;1000000
+Emma Heesters;;5;1000000
+Juky San;;5;1000000
+Aino Jawo;;5;1000000
+Sarah Kinsley;;5;1000000
+Alice Duport-Percier;;5;1000000
+Chandler Leighton;;5;1000000
+RoRo;;5;1000000
+Caroline Hjelt;;5;1000000
+Koresawa;;5;1000000
+Kristle Edwards;Kristle Murden;5;1000000
+Barbie;Barbara Millicent Roberts;5;1000000
+Maya Perest;;5;1000000
+Ama;Ama Lou;5;997000
+Geeta Rabari;;5;995200
 Amaia Montero;;5;993600
+Nea;Linnea Södahl;5;993400
 Lenka;;5;992900
 Vicky Leandros;;5;992400
+Stunna Girl;;5;992400
 Mercy Chinwo;Mercy Chinwo-Blessed;5;991900
 Siti Nordiana;;5;991900
 Eartha Kitt;;5;990800
+Ellie Holcomb;;5;990200
+CUTIE STREET;;5;988400
+Samara Cyn;;5;987800
 Marcela Morelo;;5;986300
 Darlene Love;;5;985300
 Keke Palmer;;5;984300
 Seiko Matsuda;;5;983700
 Marni Nixon;;5;981200
+Haley Heynderickx;;5;980800
+Montaigne;;5;980600
 Madilyn Bailey;;5;980500
 Brittany Howard;;5;974800
+Maite Kelly;;5;973300
 Mala Rodríguez;;5;973100
 Luz Casal;;5;972800
 Rasheeda;;5;972300
+LaLa Hsu;;5;971500
+Julie and the Phantoms Cast;Maddie Reyes|Madison Reyes;5;969000
+Seden Gürel;;5;968800
 Tóc Tiên;;5;968600
+Skye Newman;;5;962700
 Zooey Deschanel;;5;962200
+Blondshell;;5;958600
 Stephanie Mills;;5;957800
 Rojda;Rojda Aykoç;5;956100
+Christell;;5;955000
+mazie;;5;954900
+Anuradha Bhat;;5;954800
+Damares;;5;954800
 Martika;;5;954200
+KLP;;5;954100
 Victoria Justice;;5;952800
+Gökçe;;5;952800
+Zhavia;;5;951300
+KATI K;;5;949800
 MARO;;5;949600
 Teresa Teng;;5;949300
 HYOLYN;;5;947700
+shy martin;Sara Hjellström;5;947100
 Bebel Gilberto;;5;945700
+Solann;;5;942100
 Lissie;;5;942000
+INJI;;5;941400
 Tina Arena;;5;941000
 Awich;;5;940700
 Lolo Zouaï;;5;939100
+Yazmin Lacey;;5;938200
 Anna Vissi;;5;935500
+Alewya;;5;928600
+Heloisa Rosa;;5;928400
 Martina Topley-Bird;;5;928200
+angel vox;;5;928200
 Kumi Koda;;5;928000
+Annapantsu;;5;927700
 Baby K;;5;925800
+Urias;;5;925400
 Younha;;5;924200
+Kimya Dawson;;5;923000
+Kerstin Ott;;5;922900
 Massiel;;5;920100
+Jayda G;;5;919300
 Titi DJ;;5;918800
 TZUYU;Chou Tzuyu;5;918100
+Sorana;;5;914700
 Alison Wonderland;;5;912600
 Kajol;;5;911100
 Marlena Shaw;;5;910400
+Linh;;5;910300
+Mulan Jameela;;5;908300
 Angelina Jordan;;5;907900
 M. S. Subbulakshmi;;5;906300
 Blümchen;Jasmin Wagner;5;903400
+Lary;Larissa Sirah Herden;5;902200
 Juliette Armanet;;5;902000
+Cansever;;5;901600
 Maia Mitchell;;5;901200
+Woro Widowati;;5;900700
 Hoshimachi Suisei;;5;898500
 S10;;5;897500
+Denada;;5;897500
 Samantha Ebert;;5;896500
 JKT48;;5;896500
+Jada Facer;;5;896400
+Tati Zaqui;;5;896000
+Gooseworx;;5;895200
+Anneth;Anneth Delliecia|Anneth Delliecia Nasution;5;895000
+Priyadarshini;;5;894800
+Skott;Pauline Skött;5;894800
+Ekaterina Shelehova;;5;894200
+Tootsie Guevara;;5;893300
 June Carter Cash;;5;893000
 Sheryfa Luna;;5;893000
+Shanna Shannon;Shanna Shannon Siswanto;5;892700
 Amy Grant;;5;891500
 Angela Ro Ro;;5;890200
+Izzy Escobar;;5;890200
+maryjo;;5;889200
 dodie;;5;886700
+Vana;Vana NZ;5;885400
+Lilly Palmer;;5;885200
+Sydney Ross Mitchell;;5;884900
+Putri Ariani;Ariani Nisma Putri;5;884800
 NYUSHA;;5;884700
 Foxy Brown;;5;884400
+Tabitha;Tabitha Foen-A-Foe;5;883800
+Emily Warren;;5;882200
+Cam;;5;881800
+Georgia Ku;;5;881300
 Yuja Wang;;5;879400
+Maan;Maan de Steenwinkel;5;879100
 INSTASAMKA;;5;877700
 Trina;;5;877300
+Nalan;;5;876500
+Gia Margaret;;5;875700
+Isabel van Gelder;;5;874500
 Ilene Woods;;5;874300
 In-Grid;;5;873500
+Odeya;;5;873400
+Juris;Juris Fernandez;5;872300
 Brigitte Bardot;;5;869300
+Laura Les;;5;868700
+Hailey Whitters;;5;868600
+Jessica Baio;;5;867500
 Ceca;Svetlana Ceca Ražnatović|Svetlana Ražnatović;5;867400
+Adriana Lucia;;5;866800
+FRUITS ZIPPER;;5;866500
+Marine;;5;863600
 Angela Chang;Angela Zhang;5;862900
 Rachelle Ann Go;;5;862600
+Lyna Mahyem;;5;862300
+Maria Iankovskaia;;5;862100
+Mo'Kalamity;;5;860600
 Despina Vandi;;5;859700
+Sarsa;;5;858400
 Anouk;Anouk Teeuwe;5;858300
+J. Rey Soul;;5;858000
+Fauzana;;5;857900
+Janani K. Jha;;5;857700
+Juliane Werding;;5;854600
 Geri Halliwell;Geri Horner;5;850000
 Vera Lynn;;5;849900
+Zaskia Gotik;;5;849300
+Allison Russell;;5;848700
 Hania Rani;;5;848300
+Noga Erez;;5;847700
 Severina;Severina Vučković;5;846400
+Dalila;;5;846300
 Petula Clark;;5;845000
+Wanting;Wanting Qu;5;845000
 Melanie Fiona;;5;844100
 Paige O'Hara;;5;844100
 LOBODA;Svetlana Loboda|Svitlana Loboda;5;844000
 ALMA;;5;843900
+Özlem Tekin;;5;842800
+Indiiana;;5;842000
+Hande Mehan;;5;840500
+Vina Panduwinata;;5;840200
 Kate Havnevik;;5;838200
 Ashley Monroe;;5;835800
+Qveen Herby;;5;835600
 Regina Belle;;5;835100
 Amy Adams;;5;834500
 Jessica Simpson;;5;834000
+Isi Glück;Isabel Gülck;5;833900
 Francisca Valenzuela;;5;833500
+Yo Hitoto;;5;833000
+Mariene De Castro;;5;832100
+Ylona Garcia;;5;831800
+Zawadi Yamungu;;5;831100
 Anna Nalick;;5;830700
 Minelli;;5;830200
+Diiya;;5;829400
 Che'Nelle;;5;828700
 Emma Kok;;5;826800
 Patti Austin;;5;826400
+Freak Slug;;5;825500
 Dagny;;5;825100
+Elaine;;5;824300
 Clara Mae;Clara Hagman;5;823700
 Nancy Wilson;;5;821000
 K. Michelle;;5;819700
+Rosie Gaines;;5;819300
+piri;;5;817700
 Kenza Farah;;5;817200
 Michelle;;5;815800
 Laleh;;5;812600
+Vera Blue;;5;811000
 Deborah Cox;;5;810000
 Maria Mena;;5;809700
+Anna-Maria Zimmermann;;5;809500
 Laura Marling;;5;808600
 Bianka;;5;808100
+Citra Scholastika;;5;808100
 Nana Mouskouri;;5;807800
 Mary Wells;;5;807400
 North West;;5;807400
+CARYS;Aviva Mongillo;5;806300
+MEAU;Meau Hewitt;5;804500
 Jenifer Lewis;;5;803400
 Sarah Toscano;;5;802000
+Gizzle;;5;801800
 Halle;Halle Bailey;5;801700
 Darlene Zschech;;5;797200
 Irene Grandi;;5;795900
 Miliyah;Miliyah Kato;5;795400
 Tanja Savic;;5;795200
+Shekhinah;;5;794300
+Xian Zi;Zhang Xianzi;5;793800
+Leman Sam;;5;792700
+Maphra;;5;792000
 Kate Nash;;5;791700
+Jaya Kishori;;5;791600
 Maya Berovic;;5;789400
 Paula Toller;;5;787900
+Dhany;;5;787700
+MATTN;Anouk Matton;5;784300
 Miyuki Nakajima;;5;783700
+Kristene DiMarco;;5;783400
 Courtney Barnett;;5;781500
 Aoi Teshima;;5;781200
+Kayla Nicole;;5;780900
+Betharia Sonatha;;5;780500
+Queen Key;;5;780300
 Andrea Berg;;5;780100
 Nina Nesbitt;;5;780000
+Amanda Shires;;5;780000
 Brodka;Monika Brodka;5;779700
+Zoë Tauran;;5;779200
+Romy;Romy Madley-Croft;5;778900
+Lamis Kan;;5;778700
+Ditonellapiaga;;5;778600
+Eyshila;;5;778400
 Grace Jones;;5;778100
 Emilie-Claire Barlow;;5;778100
 Jacqueline Fernandez;;5;777800
+Laura Brehm;;5;776600
+Karra;;5;776300
+Gülçin Ergül;;5;776200
 Karen O;;5;775900
+TIA RAY;;5;775400
 Beth Fowler;;5;774600
 Alesha Dixon;;5;773900
+Alyson Stoner;;5;773700
+satomoka;;5;773600
 Parineeti Chopra;;5;772200
 Suzy;Bae Suzy;5;771700
 Kitty Kallen;;5;771500
+Cecilia Krull;;5;771100
+Leo Ieiri;;5;770900
+Mallrat;;5;770900
 TOKiMONSTA;;5;770300
+Annette Moreno;;5;768100
+chloe moriondo;;5;766800
 Maria Callas;Maria Meneghini Callas;5;763300
+Junko Ohashi;;5;762600
 Susan Tedeschi;;5;761800
+Bebe Stockwell;;5;760600
 Grace Potter;;5;760500
 Cyndi Wang;;5;758600
+Brownstone;;5;757900
 Bic Runga;;5;756900
 Nilüfer Yanya;;5;755600
 4Minute;;5;755600
+Carla Frigo;;5;755400
+SkyDxddy;;5;754400
+Maki Ohguro;;5;753100
 Penny Tai;;5;753000
+Sara Rikas;;5;749200
 Gladys Knight;;5;748800
 Judy Garland;;5;748700
 Paloma San Basilio;;5;748300
 John Glacier;;5;747900
+SHELLS;;5;747300
 Soccer Mommy;;5;747000
 Christina Stürmer;;5;746900
 Kinjal Dave;;5;746200
 Iyeoka;Iyeoka Okoawo;5;745900
 Carole Samaha;;5;745200
 Reol;;5;744600
+Wolftyla;;5;744400
+Lydia the Bard;;5;744400
 k.d. lang;;5;742300
 Elvana Gjata;;5;742300
 Nükhet Duru;;5;741000
+Mary Jane Girls;;5;740700
+Audrey Assad;;5;740500
 Irma Thomas;;5;740000
 Gwen McCrae;;5;739500
 Sophie B. Hawkins;;5;739300
 Judikay;;5;739200
+Chevy;;5;739100
+Agam Buhbut;;5;738100
 Lucinda Williams;;5;738000
+Aleesha;;5;737900
+Purrple Cat;;5;737300
+Valen Hsu;;5;736700
 Nanase Aikawa;;5;735300
 Joyce Jonathan;;5;734200
+bülow;;5;734200
 VIVIZ;;5;733700
+Fanny J;;5;733700
 Jerry Heil;;5;733400
 Ana Nikolić;;5;733100
 OH MY GIRL;;5;732400
 Kep1er;;5;732200
+Bendeniz;;5;731300
 Crystal Gayle;;5;731100
 Malika Ayane;;5;730900
 Lil Mama;;5;730800
 Brenda Russell;;5;730100
+Nella Kharisma;;5;729100
 Tamar Braxton;;5;728600
 Alexandra Burke;;5;728000
+Shae Gill;;5;727600
 Myriam Fares;;5;727100
+Maia Wilson;;5;726400
+Honey Dijon;Miss Honey Dijon;5;726200
 Grace VanderWaal;;5;726100
+Fabiana Cantilo;;5;725900
 Marianne Rosenberg;;5;725700
 Natalia Nykiel;;5;724600
 Elva Hsiao;;5;724100
+A Little Sound;;5;724100
+Roberta Miranda;;5;723900
+Andreya Triana;;5;723600
 Blossom Dearie;;5;723200
+Alaina Castillo;;5;723200
 HyunA;;5;722600
 Beth Hart;;5;720700
 Yuki Kajiura;;5;719800
 Lynn Anderson;;5;718400
 Sayuri;;5;717900
+Erika Sirola;;5;717400
+Tay Money;;5;717300
+MOTHICA;;5;715400
 Emilíana Torrini;;5;715300
 Julia Wieniawa;;5;714900
+Delaney Jane;;5;714800
+TOMOO;;5;714600
+Katu Mirim;;5;714100
+JESSIA;;5;713800
 Giusy Ferreri;;5;713400
+FRÖKEN SNUSK;;5;713200
 Dreezy;;5;712100
 LIM KIM;;5;711100
 Teya Dora;;5;710900
@@ -1246,18 +1845,34 @@ Emma Thompson;;5;708500
 NiziU;;5;708300
 Madison McFerrin;;5;707900
 Rigoberta Bandini;Paula Ribó González;5;706900
+FAANGS;Charlie Storwick;5;706700
 Kelly Price;;5;705600
+Chloe Qisha;;5;705300
 Aimee Mann;;5;704900
 Twilight Sparkle;;5;704900
+Suriya;;5;704900
+Laurie Darmon;;5;704600
+Nyaruach;;5;703800
+Fagata;;5;703500
 Lutricia McNeal;;5;702800
+Luana;Luana Persíncula;5;702600
 Jill Barber;;5;702100
+Della;Ding Dang;5;701600
+Soft Blade;;5;701600
 Aleksandra Prijovic;;5;700700
 Uffie;;5;700500
+Danielle Ponder;;5;699300
 Zemfira;;5;698100
+Regina Song;;5;696700
 Agnieszka Chylińska;;5;696100
+Zeina;;5;696000
+Ana Victoria;;5;695700
 Nikki Blonsky;;5;695000
 Gillian Welch;;5;694000
 Rose Nascimento;;5;693900
+Demet Sağıroğlu;;5;693900
+AmaLee;;5;693800
+Mille;;5;693800
 Orange Caramel;;5;693700
 Queen Omega;;5;693600
 Roxie;Roksana Węgiel;5;692100
@@ -1265,85 +1880,150 @@ Titiyo;;5;691300
 Liz Phair;;5;689600
 Hindi Zahra;;5;688400
 Yolanda Adams;;5;687800
+Victoria Orenze;;5;687600
+Mc Tha;;5;687000
 Nina Zilli;;5;685700
+zhanulka;;5;684900
+Kiliana;;5;684300
 Haris Alexiou;Cháris Alexíou;5;684200
+Audy;Audy Item;5;684200
 Lola Blanc;;5;682800
 Getter Jaani;;5;682600
+Katerina Lioliou;;5;682100
 Emma Watson;;5;681800
+Claire Kuo;;5;680900
+GALCHANIE;;5;679400
 Jane Zhang;;5;679000
+Perlla;;5;678800
 Alla Pugacheva;Alla Pugachova;5;678400
 Irina Rimes;;5;678200
+Ele A;;5;677800
+Madrashe;;5;675400
 Tara Sutaria;;5;674300
 Amy Shark;;5;674000
 Nogizaka46;;5;673400
+LUNA;;5;673400
 Lita Ford;;5;673100
+Elena;Elena Kitić;5;672500
 Lucy Rose;;5;671800
+DeathbyRomy;;5;671300
 Emina Jahović;;5;670900
+Devon Cole;;5;670000
+Mari Samuelsen;Mari Silje Samuelsen;5;669800
 Majida El Roumi;;5;669600
 Manda Cello;;5;669400
 B*Witched;;5;669300
 Yoko Shimomura;;5;669200
 Seka Aleksić;;5;669100
 Jannat;;5;668400
+Niykee Heaton;;5;667800
 Lolita;Lolita Flores;5;667200
+Waxahatchee;;5;665900
 Zahara;;5;665800
+Kito;Maaike Kito Lebbing;5;665800
 Brown Eyed Girls;;5;664400
 Kareen Lomax;;5;664300
 Alia Bhatt;;5;663400
 Kasia Kowalska;;5;662500
 Wednesday Addams;;5;662400
+Sandra K;;5;661500
 Petra Marklund;;5;661300
 Eir Aoi;;5;660700
 Little Eva;;5;660500
 Sonya Belousova;;5;660100
+Yoshiko;;5;658500
 Elliphant;;5;658400
 Gabriella Cilmi;;5;656400
+Wejdene;;5;654600
 Tweet;;5;653200
+Ayshe;;5;652800
 Natali;;5;652200
+Grace Carter;;5;652100
+Yoa;;5;651800
 Akina Nakamori;;5;651700
 Kreayshawn;;5;650800
 Lous and The Yakuza;;5;649400
+Cloudy June;;5;649000
+Tkay Maidza;;5;648600
 Renee Olstead;;5;647800
+miki;;5;647800
 Milica Todorovic;;5;647400
+Angaleena Presley;;5;646800
 Willemijn Verkaik;;5;646200
 Catherine Zeta-Jones;;5;645800
 Pia Zadora;;5;645000
 Manu Gavassi;;5;644400
+Kailee Morgue;;5;644400
 Shy'm;;5;644100
+DEAD BLONDE;;5;643400
+Emi Grace;;5;643300
 Shelby Lynne;;5;643100
 Katherine Jenkins;;5;641200
+POESY;;5;641100
 Tanya Stephens;;5;640900
+Lâm Bảo Ngọc;;5;639900
 Idil Biret;;5;638700
+Logic1000;;5;637600
 Charlotte Gainsbourg;;5;637500
 FELICIA;Felicia Eriksson;5;636900
 Sammi Cheng;;5;636900
 Aina Abdul;;5;636700
 Nicola Benedetti;;5;635600
+Kohmi Hirose;Kōmi Hirose;5;633700
+Rachel Alejandro;;5;633600
+Lauren Wood;;5;632600
 hitomi;;5;630800
 Thelma Houston;;5;630100
 CL;;5;629300
 Natalie Grant;;5;629200
+JES;Jes Brieden;5;628100
+Vaishali Made;Vaishali Mhade|Vaishali beck;5;627800
+Jamie Rivera;;5;627700
 SEULGI;Kang Seul-gi;5;626600
 Leire Martinez;;5;626500
 Mayra Andrade;;5;626000
+Junko Yagami;;5;625900
+Ece Mumay;;5;625000
+Mariana Mallol;;5;623900
 Mari Trini;;5;623600
 Miriam Makeba;;5;623300
+Vibha Saraf;;5;622100
+Styleto;;5;620700
+Six Sex;;5;620400
 Angelique Kidjo;;5;620300
 Joan Armatrading;;5;619800
+Christina Novelli;;5;619100
 Noa Kirel;;5;618100
 Miho Nakayama;;5;618000
+Yuki Koyanagi;;5;617400
+Nia Smith;;5;617300
+Fiora;;5;616400
 Vera Brezhneva;;5;614100
 Mai Kuraki;;5;613800
 Froukje;;5;612200
 Yara;;5;611300
+Georgi Kay;;5;610700
+Sophie Powers;;5;610500
+Sophie Hunger;;5;609700
 Cristina Vee;;5;609200
+Radha Viswanathan;;5;608800
+Cheba Warda;;5;608700
+Goapele;;5;607800
+ReoNa;;5;607200
 Crystal Kay;;5;606700
+Liv Harland;;5;606600
 Samira Said;;5;606300
+Cassandra Steen;;5;605900
 Anna Oxa;;5;605400
 Milica Pavlović;;5;605400
+Sarah Stiles;;5;605200
 Elizabeth Nichols;;5;605000
+Anie Carera;;5;604800
 ELIF;Elif Demirezer;5;604100
+Choi Yu Ree;;5;603600
+Lisa Pariente;;5;603200
 Marilyn Martin;;5;602600
+Erica Banks;;5;602300
 Carol Banawa;;5;602200
 Natalia Szroeder;;5;602100
 SISTAR19;;5;601900
@@ -1352,11 +2032,16 @@ Alexia;;5;598300
 Jean Knight;;5;597800
 Karol Sevilla;Karol Sevill;5;597700
 Margo Price;;5;597000
+bludnymph;;5;593700
+Sofia Ellar;;5;593300
 Julee Cruise;;5;593100
 Rhiannon Giddens;;5;592700
+Nikolija;Nikolija Jovanović;5;591900
 Loreena McKennitt;;5;591400
 Hilary Hahn;;5;591300
+Rayola;;5;591100
 Laura Shigihara;;5;590600
+Girls' Generation-HRS;;5;589900
 Lauren Jauregui;;5;589500
 Jeanne Mas;;5;588700
 Inka Christie;;5;588400
@@ -1364,91 +2049,170 @@ Kelly Chen;;5;588400
 Rosanne Cash;;5;588000
 Doda;Dorota Rabczewska;5;587600
 Barbara Lewis;;5;586800
+Elita;Emma Harvey;5;585500
 Selah Sue;;5;585300
 Lise de la Salle;;5;585000
 Daniela Mercury;;5;584800
+Esmeray;;5;584100
+Bárbara Bandeira;;5;584000
 Priyanka Chopra;;5;583300
 Helen Reddy;;5;583000
+Sea Oleena;Charlotte Oleena;5;583000
 Calypso Rose;;5;582800
+Pinkie Pie;;5;582500
 Lucha Villa;;5;580900
 Ayu Ting Ting;;5;578700
+HALIENE;Kelly Sweet;5;577100
 Peaches;;5;576200
+Dana Williams;;5;574700
 Shola Ama;;5;574600
 Vanessa Mai;;5;573900
 Natasa Bekvalac;;5;573200
+Zsá Zsá;Zsá Zsá Inci Bürkle;5;573000
 Shannon;;5;572900
+So!YoON!;Hwang So-yoon;5;572100
 Lindsay Lohan;;5;571800
 Paula Mattos;;5;571300
 Lauren Sanderson;;5;570600
 Deniz Tekin;;5;569700
+Bích Phương;;5;569700
+Saya Gray;;5;569500
+Sofia Karlberg;;5;569000
+Lani Misalucha;;5;568700
 Jenifer;;5;568500
+ppcocaine;;5;568300
+HAAi;;5;568000
+Anita Lipnicka;;5;567700
+Han Sara;;5;567200
 Candy Dulfer;;5;566500
+Camila Fernández;;5;566000
 Mandisa;;5;565400
 Weeekly;;5;565100
+Alyona Shvets;;5;565100
 Tove Styrke;;5;564400
+Shruti Rane;;5;563700
+Synne Vo;;5;562900
 Brenda Fassie;;5;562400
 Delta Goodrem;;5;562400
 Tommy february6;Tomoko Kawase;5;562100
+Verka Serduchka;;5;561900
 Patty Pravo;;5;560900
 Deva Premal;;5;560500
+LOTTE;;5;560300
 Gin Wigmore;;5;559500
 Amal Maher;;5;559100
+SAMIRA;;5;558800
 Marjorie Estiano;;5;558100
+Tasya Kamila;Tasya;5;556800
 Cherrelle;;5;556300
+DAZBEE;;5;556300
 Fontella Bass;;5;554500
+Shirley Carvalhaes;;5;554100
 Terri Clark;;5;553700
 Yaeji;;5;552900
 Maria João Pires;;5;552500
+The Buttress;;5;551100
 Miranda Cosgrove;;5;550900
+Yonca Evcimik;;5;550500
+Fanny Avonne;;5;550300
+Pei-Yu Hung;;5;549700
+Mirella;;5;548700
 Alison Moyet;;5;548400
 Louisa Johnson;;5;547600
 Muazzez Ersoy;;5;546600
+Kiki Rockwell;;5;546400
 Na Ying;;5;546000
 Busiswa;;5;546000
+Eloïz;;5;545300
 Alina Eremia;;5;544200
+Lil Suzy;;5;543800
+Azumi Inoue;;5;543100
 Mao Abe;;5;542600
+Angèle Dubeau;;5;542100
+Xece;;5;542100
 Judy Collins;;5;539900
+Kantong Tungngern;;5;539900
+Fitri Carlina;Fitri Karlina;5;539900
+Flower Face;;5;539800
 JOY;;5;539600
+Teodora;Teodora Dzehverovic;5;538600
+Mumle;;5;538200
+Camille Thomas;;5;537300
 Danielle Bradbery;;5;536800
+Zoë Johnston;;5;536100
 Momoiro Clover Z;;5;535700
+Angie McMahon;;5;534900
 TEYA;Teodora Špirić;5;534800
 Rachel Portman;;5;534100
 Connie Talbot;;5;533400
 Missy Higgins;;5;533300
 Netta;Netta Barzilai;5;532900
+Elohim;;5;531300
+ZAH1DE;;5;530900
+Ednita Nazario;;5;530500
 Öykü Gürman;;5;530300
+Lauriete;;5;530200
+Jaz Karis;;5;529700
 Kiri Te Kanawa;;5;529600
 Carola;Carola Häggkvist;5;529400
 Denise Rosenthal;;5;528900
 Donatella Rettore;;5;528700
+Tenille Townes;;5;528700
+Harriet Krijgh;;5;528500
 Amina;Amina Annabi;5;528200
+Mori Calliope;;5;528100
 Patricia Kaas;;5;527900
+Jess Gillam;;5;527800
+Sarah Jarosz;;5;527500
+阿YueYue;;5;526300
 Snatam Kaur;;5;525200
 UNIS;;5;525000
+Wonderframe;Supakchaya Sukbaiyen;5;524900
+Sophia Somajo;;5;524600
+Lusaint;;5;524300
+Jetta;;5;524100
 Chelsea Wolfe;;5;523700
 Mayada El Hennawy;;5;523500
+Amanda Cook;Amanda Falk|Amanda Lindsey Cook;5;523500
 Lodovica Comello;;5;523200
+Esther Abrami;;5;522799
+Tenille Arts;;5;522200
+JJ Heller;;5;521900
 Melanie;Melanie Safka;5;521600
 Anna Tatangelo;;5;521100
 Katelyn Tarver;;5;521100
 Plumb;;5;521000
 Ann Wilson;;5;520000
 CHUU;;5;520000
+nishina;;5;519000
+nic;Nicole Zignago;5;518799
+Jasmin Moallem;;5;518299
 Camélia Jordana;;5;517500
 Montserrat Caballé;;5;515799
 Hélène Ségara;;5;515299
 Anoushka Shankar;;5;514600
 Yolka;Elka;5;514400
+Dess Dior;;5;514299
+Bandana;;5;513900
 Jane Birkin;;5;512900
 Anita O'Day;;5;511200
+Danilla;Danilla Riyadi;5;511000
 CLC;;5;509900
+Noeline Hofmann;;5;509700
+Lady Lamb;Lamb;5;509000
 Lusia Chebotina;Lusya Chebotina;5;508800
 Miriam Yeung;;5;508300
 Sheila;;5;507800
+iri;;5;507700
+Essie Jain;;5;507000
+Rarity;;5;506000
 Shoko Nakagawa;;5;505900
 Dana Winner;;5;504500
 Sharon Cuneta;;5;503700
 Emma Hewitt;;5;503200
 Eva Ayllón;;5;502200
+Bituin Escalante;;5;502100
 Eliza Doolittle;Eliza;5;501700
+Apple Jack;;5;501600
+KiNG MALA;;5;501000
 Ivi Adamou;;5;500500
