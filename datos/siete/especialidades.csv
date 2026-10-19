@@ -1,0 +1,70 @@
+respuesta;alias;nivel;orden_a_mano
+pediatría;;1;1000000000
+cardiología;;1;999999999
+traumatología;;1;999999998
+dermatología;;1;999999997
+ginecología;ginecología y obstetricia;1;999999996
+neurología;;1;999999995
+oftalmología;;1;999999994
+psiquiatría;;1;999999993
+oncología;;1;999999992
+medicina de familia;medicina familiar y comunitaria|médico de cabecera;1;999999991
+cirugía;cirugía general;1;999999990
+urología;;1;999999989
+otorrinolaringología;otorrino;1;999999988
+anestesiología;anestesia|anestesista;1;999999987
+endocrinología;endocrino;2;1000000000
+digestivo;aparato digestivo|gastroenterología;2;999999999
+neumología;;2;999999998
+nefrología;;2;999999997
+reumatología;;2;999999996
+hematología;;2;999999995
+radiología;;2;999999994
+medicina interna;;2;999999993
+geriatría;;2;999999992
+medicina intensiva;UCI|cuidados intensivos;2;999999991
+urgencias;medicina de urgencias;2;999999990
+cirugía plástica;;2;999999989
+neurocirugía;;2;999999988
+alergología;;2;999999987
+obstetricia;;3;999999986
+cirugía cardiovascular;cirugía cardíaca;3;999999985
+oncología radioterápica;radioterapia;3;999999984
+medicina deportiva;medicina del deporte;3;999999983
+medicina estética;;3;999999982
+odontología;dentista;3;999999981
+psicología clínica;;3;999999980
+medicina legal;medicina forense|forense;3;999999979
+medicina del trabajo;;3;999999978
+medicina preventiva;;3;999999977
+anatomía patológica;;3;999999976
+análisis clínicos;;3;999999975
+microbiología;;3;999999974
+farmacología clínica;;3;999999973
+inmunología;;4;999999972
+bioquímica clínica;;4;999999971
+medicina nuclear;;4;999999970
+neurofisiología clínica;;4;999999969
+rehabilitación;medicina física y rehabilitación;4;999999968
+cirugía torácica;;4;999999967
+cirugía pediátrica;;4;999999966
+cirugía maxilofacial;maxilofacial;4;999999965
+angiología;cirugía vascular;4;999999964
+hepatología;;4;999999963
+infectología;enfermedades infecciosas;4;999999962
+neonatología;;4;999999961
+genética clínica;genética médica;4;999999960
+medicina paliativa;cuidados paliativos;4;999999959
+nutrición;endocrinología y nutrición;5;999999958
+podología;;5;999999957
+fisioterapia;;5;999999956
+matrona;;5;999999955
+enfermería;;5;999999954
+flebología;;5;999999953
+proctología;;5;999999952
+andrología;;5;999999951
+sexología;;5;999999950
+toxicología;;5;999999949
+medicina tropical;;5;999999948
+medicina hiperbárica;;5;999999947
+medicina aeroespacial;;5;999999946

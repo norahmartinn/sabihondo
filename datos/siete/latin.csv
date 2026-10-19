@@ -1,0 +1,353 @@
+respuesta;alias;nivel;orden_a_mano
+carpe diem;;1;1000000000
+et cetera;etc;1;999999999
+in situ;;1;999999998
+a priori;;1;999999997
+ipso facto;;1;999999996
+curriculum vitae;currículum;1;999999995
+alter ego;;1;999999994
+statu quo;status quo;1;999999993
+grosso modo;;1;999999992
+vox populi;;1;999999991
+per cápita;;1;999999990
+in extremis;;1;999999989
+motu proprio;;1;999999988
+a posteriori;;2;1000000000
+mea culpa;;2;999999999
+sine qua non;conditio sine qua non;2;999999998
+de facto;;2;999999997
+ad hoc;;2;999999996
+quid pro quo;;2;999999995
+in fraganti;in flagranti;2;999999994
+ex aequo;;2;999999993
+honoris causa;;2;999999992
+in memoriam;;2;999999991
+post mortem;;2;999999990
+post scriptum;PD|posdata;2;999999989
+modus operandi;;2;999999988
+modus vivendi;;2;999999987
+alma mater;;2;999999986
+cum laude;;2;999999985
+sui generis;;2;999999984
+ad honorem;;2;999999983
+ad infinitum;;2;999999982
+ad libitum;;2;999999981
+in vitro;;2;999999980
+in vivo;;2;999999979
+lapsus;;2;999999978
+lapsus linguae;;2;999999977
+mutatis mutandis;;2;999999976
+peccata minuta;;2;999999975
+rara avis;;2;999999974
+requiescat in pace;RIP|descanse en paz;2;999999973
+tempus fugit;;2;999999972
+veni vidi vici;;2;999999971
+alea iacta est;;2;999999970
+et tu Brute;tú también Bruto;2;999999969
+memento mori;;2;999999968
+panem et circenses;pan y circo;2;999999967
+mens sana in corpore sano;;2;999999966
+sic;;2;999999965
+quorum;;2;999999964
+referéndum;;2;999999963
+superávit;;2;999999962
+accésit;;2;999999961
+ultimátum;;2;999999960
+déficit;;2;999999959
+campus;;2;999999958
+plus;;2;999999957
+versus;vs;2;999999956
+vademécum;;2;999999955
+sub iudice;;3;999999954
+a fortiori;;3;999999953
+ex profeso;;3;999999952
+ex libris;;3;999999951
+ex cathedra;;3;999999950
+urbi et orbi;;3;999999949
+habeas corpus;;3;999999948
+in albis;;3;999999947
+in pectore;;3;999999946
+ipso iure;;3;999999945
+in dubio pro reo;;3;999999944
+dura lex sed lex;;3;999999943
+errare humanum est;;3;999999942
+homo homini lupus;;3;999999941
+cogito ergo sum;;3;999999940
+ora et labora;;3;999999939
+deo gratias;;3;999999938
+ave María;;3;999999937
+pater noster;padrenuestro;3;999999936
+gloria in excelsis;;3;999999935
+in nomine patris;;3;999999934
+fiat lux;;3;999999933
+aurea mediocritas;;3;999999932
+beatus ille;;3;999999931
+collige virgo rosas;;3;999999930
+locus amoenus;;3;999999929
+ubi sunt;;3;999999927
+horror vacui;;3;999999926
+in medias res;;3;999999925
+deus ex machina;;3;999999924
+non plus ultra;;3;999999923
+ne plus ultra;;3;999999922
+nihil obstat;;3;999999921
+numerus clausus;;3;999999920
+opus;;3;999999919
+magnum opus;;3;999999918
+opera prima;;3;999999917
+persona non grata;;3;999999916
+primus inter pares;;3;999999915
+pro bono;;3;999999914
+pro indiviso;;3;999999913
+quo vadis;;3;999999912
+sensu stricto;;3;999999911
+stricto sensu;;3;999999910
+lato sensu;;4;999999909
+sine die;;4;999999908
+sub specie aeternitatis;;4;999999907
+summa cum laude;;4;999999906
+tabula rasa;;4;999999905
+terra incognita;;4;999999904
+ultra;;4;999999903
+verbi gratia;;4;999999902
+vice versa;;4;999999901
+in illo tempore;;4;999999900
+a divinis;;4;999999899
+ab initio;;4;999999898
+ab intestato;;4;999999897
+ad hominem;;4;999999896
+ad nauseam;;4;999999895
+ad portas;;4;999999894
+ad usum;;4;999999893
+alias;;4;999999892
+bis;;4;999999891
+coitus interruptus;;4;999999890
+corpore insepulto;;4;999999889
+delirium tremens;;4;999999888
+desiderátum;;4;999999887
+dixit;;4;999999886
+exequátur;;4;999999885
+ex novo;;4;999999884
+gratis;;4;999999883
+hábitat;;4;999999882
+ídem;;4;999999881
+ibídem;;4;999999880
+ínterin;;4;999999879
+ítem;;4;999999878
+lapsus calami;;4;999999877
+maremágnum;;4;999999876
+memorándum;;4;999999875
+quídam;;4;999999874
+réquiem;;4;999999873
+sumum;;4;999999872
+tedeum;;4;999999871
+ut supra;;4;999999869
+vale;;4;999999868
+vía crucis;;4;999999866
+a bene placito;;5;0
+a capite ad calcem;;5;0
+a maiore ad minus;;5;0
+a minore ad maius;;5;0
+a pedibus usque ad caput;;5;0
+a solis ortu usque ad occasum;;5;0
+ab absurdo;;5;0
+ab aeterno;;5;0
+ab antiquo;;5;0
+ab epistulis;;5;0
+ā verbīs ad verbera;;5;0
+ab æternō;;5;0
+ab imō pectore;;5;0
+ab orīgine;;5;0
+absit iniuria verbis;;5;0
+acta est fabula;;5;0
+ad absurdum;;5;0
+ad æternum;;5;0
+ad calendas graecas;;5;0
+ad astra;;5;0
+ad interim;;5;0
+ad litteram;;5;0
+ad memōriam reī perpetuam;;5;0
+ad nūtum;;5;0
+ad pedem litteræ;;5;0
+ad persōnam;;5;0
+ad sanctōs;;5;0
+ad sensum;;5;0
+addendum o addenda;;5;0
+aere perennius;;5;0
+affidavit;;5;0
+amor fati;;5;0
+animō iocāndī;;5;0
+annō Dominī;;5;0
+ante meridiem;;5;0
+ante tempus;;5;0
+aula magna;;5;0
+ave atque vale;;5;0
+babylonis opes;;5;0
+baccalaureus artium;;5;0
+calamo currente;;5;0
+carthago delenda est;;5;0
+casus belli;;5;0
+cæteris paribus;;5;0
+caveat emptor;;5;0
+circa;;5;0
+confer;;5;0
+codex;;5;0
+cognosco melior, facio taliter;;5;0
+conditio sine qua non o Condicio sine qua non;;5;0
+conivnctis viribus o Conjunctis viribus;;5;0
+coram populo;;5;0
+coram Deo;;5;0
+corpus;;5;0
+consumatum est;;5;0
+corpus delicti;;5;0
+credo quia absurdum;;5;0
+cum grano salis;;5;0
+cunnilingus;;5;0
+curriculum vitæ;;5;0
+conturbatus animus non est aptus ad exequendum munun suum;;5;0
+de incognito;;5;0
+de iure;;5;0
+de omni re scibili et quibusdam aliis;;5;0
+de vita et moribus;;5;0
+de visu;;5;0
+dente lupus, cornu taurus petit;;5;0
+deo coronatus;;5;0
+deo volente;;5;0
+detritus;;5;0
+deus meumque ius;;5;0
+dies iræ;;5;0
+dixi;;5;0
+docendo discimus;;5;0
+do ut des;;5;0
+donec aliter;;5;0
+duplex;;5;0
+ecce homo;;5;0
+ego;;5;0
+eo ipso;;5;0
+ergo;;5;0
+eritis sicut Deus;;5;0
+et alibi, abreviado como et al;;5;0
+et alii, abreviado como et al;;5;0
+et cognoscetis veritatem et veritas liberabit vos;;5;0
+et cætera;;5;0
+et in sæcula sæculorum;;5;0
+et sequentes o et sequentia;;5;0
+etiam si omnes, ego non;;5;0
+ex abrupto;;5;0
+ex ante;;5;0
+ex æquo;;5;0
+ex catedra o ex cathedra;;5;0
+ex nihilo;;5;0
+ex nunc;;5;0
+ex officio;;5;0
+ex oriente lux;;5;0
+ex post;;5;0
+ex professo;;5;0
+ex tunc;;5;0
+ex ungue leonem;;5;0
+exceptio veritatis;;5;0
+excursus;;5;0
+excusatio non petita, accusatio manifesta;;5;0
+extra;;5;0
+exempli gratia;;5;0
+extra muros;;5;0
+extra omnes;;5;0
+fac simile;;5;0
+fac totum;;5;0
+functus officio;;5;0
+gloriosus Deus;;5;0
+gloriosus et liber;;5;0
+gradus ad Parnassum;;5;0
+homo faber;;5;0
+hoc est praeceptum meum ut diligatis in vicem;;5;0
+id est;;5;0
+in æternum;;5;0
+in absentia;;5;0
+in anima vili;;5;0
+in dubiis, abstine;;5;0
+in fine;;5;0
+in itinere;;5;0
+in nuce;;5;0
+in loco parentis;;5;0
+in partibus o in partibus infidelium;;5;0
+in sæcula sæculorum;;5;0
+indocti discant, et ament meminisse periti;;5;0
+infra;;5;0
+ipse;;5;0
+ius est ars boni et aequi;;5;0
+ius primae noctis;;5;0
+ius publice respondendi;;5;0
+leges sine moribus vanae;;5;0
+libertas perfundet omnia luce;;5;0
+malo periculosam libertatem quam quietum servitium;;5;0
+manu militari;;5;0
+malo mori quam fœdari;;5;0
+memento qui sis;;5;0
+missit me Dominus;;5;0
+mirabile dictu;;5;0
+mortui vivos docent;;5;0
+mos maiorum;;5;0
+mundus mundo mundis;;5;0
+nasciturus;;5;0
+natura nihil frustra facit;;5;0
+natura non facit saltus;;5;0
+nemo auditur propriam turpitudinem allegans;;5;0
+ne quid nimis;;5;0
+nec plus ultra o Non plus ultra;;5;0
+neo nato;;5;0
+neque semper arcum tendit Apollo;;5;0
+nec spe, nec metu;;5;0
+nihil novum sub sole;;5;0
+nolens volens;;5;0
+non bis in idem;;5;0
+non terræ plus ultra;;5;0
+non sufficit orbis;;5;0
+oderint dum metuant;;5;0
+omnes vulnerant, ultima necat;;5;0
+omnia mors aequat;;5;0
+"omnis saturatio, mala; panis autem, pessima";;5;0
+opere citato;;5;0
+ora pro nobis;;5;0
+pari passu;;5;0
+passim;;5;0
+per se;;5;0
+per me reges regnant;;5;0
+plus ultra;;5;0
+prima non datur, et ultima dispensatur;;5;0
+primum vivere deinde philosophari;;5;0
+provehito in altum;;5;0
+quandoque bonus dormitat Homerus;;5;0
+qui tam;;5;0
+quid;;5;0
+quod tibi fieri non vis, alteri ne feceris;;5;0
+quousque tandem abutere, Catilina, patientia nostra?;;5;0
+ratio decidendi;;5;0
+ratio legis;;5;0
+re, non verbis;;5;0
+rem tene, verba sequentur;;5;0
+respice post te! Hominem te esse memento!;;5;0
+roma locuta, causa finita;;5;0
+sapere aude;;5;0
+si vis pacem, para bellum;;5;0
+sic transit gloria mundi;;5;0
+silent enim leges inter arma;;5;0
+siste, viator;;5;0
+sutor, ne ultra crepidam;;5;0
+suum cuique;;5;0
+totum revolutum;;5;0
+tu quoque;;5;0
+uobis/Vobis;;5;0
+uti possidetis, ita possideatis;;5;0
+verba volant, scripta manent;;5;0
+veritas liberabit nos;;5;0
+veritas temporis filia;;5;0
+veritatis una facies est;;5;0
+vox populi, vox Dei;;5;0
+a.E.I.O.U;;5;0
+i.N.R.I;;5;0
+n.N;;5;0
+q.E.D;;5;0
+s.P.Q.R;;5;0
+s.T.T.L;;5;0
+i. e;;5;0
+e. g;;5;0

@@ -1,0 +1,80 @@
+respuesta;alias;nivel;orden_a_mano
+fémur;;1;1000000000
+tibia;;1;999999999
+peroné;;1;999999998
+húmero;;1;999999997
+cúbito;;1;999999996
+radio;;1;999999995
+rótula;patela;1;999999994
+costillas;costilla;1;999999993
+cráneo;;1;999999992
+columna;vértebras|vértebra;1;999999991
+clavícula;;1;999999990
+omóplato;escápula;1;999999989
+pelvis;;1;999999988
+coxis;;1;999999987
+esternón;;1;999999986
+mandíbula;;1;999999985
+falanges;falange;1;999999984
+cadera;hueso de la cadera|coxal|hueso coxal;2;1000000000
+sacro;;2;999999999
+ilion;ilíaco;2;999999998
+isquion;;2;999999997
+pubis;;2;999999996
+atlas;;2;999999995
+axis;;2;999999994
+metacarpo;metacarpianos;2;999999993
+metatarso;metatarsianos;2;999999992
+carpo;carpianos;2;999999991
+tarso;tarsianos;2;999999990
+calcáneo;talón;2;999999989
+astrágalo;talus;2;999999988
+maxilar;maxilar superior;2;999999987
+maxilar inferior;;2;999999986
+frontal;;2;999999985
+parietal;;2;999999984
+temporal;;2;999999983
+occipital;;2;999999982
+esfenoides;;2;999999981
+etmoides;;3;999999980
+nasal;hueso nasal|huesos propios de la nariz;3;999999979
+cigomático;pómulo|malar;3;999999978
+martillo;;3;999999977
+yunque;;3;999999976
+estribo;;3;999999975
+hioides;;3;999999974
+lagrimal;;3;999999973
+vómer;;3;999999972
+palatino;;3;999999971
+cornete;cornete inferior;3;999999970
+escafoides;;3;999999969
+semilunar;;3;999999968
+piramidal;;3;999999967
+pisiforme;;3;999999966
+trapecio;;3;999999965
+trapezoide;;3;999999964
+grande;hueso grande;3;999999963
+ganchoso;;3;999999962
+cuboides;;3;999999961
+navicular;escafoides del pie;4;999999960
+cuneiformes;cuña|cuneiforme;4;999999959
+sesamoideos;sesamoideo;4;999999958
+vértebras cervicales;cervicales;4;999999957
+vértebras dorsales;vértebras torácicas|dorsales;4;999999956
+vértebras lumbares;lumbares;4;999999955
+falanges proximales;;4;999999954
+falanges medias;;4;999999953
+falanges distales;;4;999999952
+falangina;;4;999999951
+falangeta;;4;999999950
+hueso de la risa;;4;999999949
+huesecillos del oído;huesecillos;4;999999948
+costillas flotantes;;4;999999947
+costillas falsas;;4;999999946
+costillas verdaderas;;4;999999945
+manubrio;;4;999999944
+apófisis xifoides;xifoides;4;999999943
+cóccix;;4;999999942
+suturales;huesos suturales;5;0
+lacrimal;hueso lacrimal;5;0
+cornete nasal inferior;;5;0

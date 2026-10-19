@@ -1,0 +1,51 @@
+respuesta;alias;nivel;orden_a_mano
+Madrid;;1;1000000000
+Barcelona;;1;999999999
+Valencia;;1;999999998
+Sevilla;;1;999999997
+Málaga;;1;999999996
+Alicante;Alacant;1;999999995
+Cádiz;;1;999999994
+Granada;;1;999999993
+Murcia;;1;999999992
+Zaragoza;;1;999999991
+Asturias;Oviedo;2;1000000000
+Cantabria;Santander;2;999999999
+Navarra;Nafarroa|Pamplona;2;999999998
+Guipúzcoa;Gipuzkoa|San Sebastián;2;999999997
+Vizcaya;Bizkaia|Bilbao;2;999999996
+Álava;Araba|Vitoria;2;999999995
+La Coruña;;2;999999994
+Pontevedra;;2;999999993
+Islas Baleares;Baleares|Illes Balears|Mallorca;2;999999992
+Las Palmas;Gran Canaria;2;999999991
+Santa Cruz de Tenerife;Tenerife;2;999999990
+Córdoba;;2;999999989
+Toledo;;2;999999988
+Salamanca;;2;999999987
+Valladolid;;3;999999986
+Burgos;;3;999999985
+León;;3;999999984
+Huelva;;3;999999983
+Almería;;3;999999982
+Jaén;;3;999999981
+Castellón;Castelló;3;999999980
+Tarragona;;3;999999979
+Gerona;Girona;3;999999978
+Lérida;Lleida;3;999999977
+Badajoz;;3;999999976
+Cáceres;;3;999999975
+Ciudad Real;;3;999999974
+Albacete;;3;999999973
+La Rioja;Logroño;4;1000000000
+Huesca;;4;999999999
+Teruel;;4;999999998
+Cuenca;;4;999999997
+Guadalajara;;4;999999996
+Segovia;;4;999999995
+Ávila;;5;999999994
+Soria;;5;999999993
+Zamora;;5;999999992
+Palencia;;5;999999991
+Lugo;;5;999999990
+Orense;Ourense;5;999999989

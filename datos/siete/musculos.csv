@@ -1,0 +1,295 @@
+respuesta;alias;nivel;orden_a_mano
+bíceps;;1;1000000000
+tríceps;;1;999999999
+abdominales;abdominal|recto abdominal;1;999999998
+cuádriceps;;1;999999997
+gemelos;gastrocnemio;1;999999996
+glúteo;glúteos|glúteo mayor;1;999999995
+pectoral;pectorales|pectoral mayor;1;999999994
+deltoides;;1;999999993
+dorsal;dorsal ancho|dorsales;1;999999992
+corazón;miocardio;1;999999991
+trapecio;;1;999999990
+lengua;;1;999999989
+isquiotibiales;isquios;1;999999988
+diafragma;;1;999999987
+oblicuos;oblicuo externo|oblicuo interno|oblicuo;2;1000000000
+sóleo;;2;999999999
+glúteo medio;;2;999999998
+glúteo menor;;2;999999997
+aductores;aductor;2;999999996
+abductores;abductor;2;999999995
+femoral;bíceps femoral;2;999999994
+sartorio;;2;999999993
+recto femoral;;2;999999992
+vasto interno;vasto medial;2;999999991
+vasto externo;vasto lateral;2;999999990
+vasto intermedio;;2;999999989
+tibial anterior;;2;999999988
+peroneo;peroneos;2;999999987
+psoas;psoas ilíaco|iliopsoas;2;999999986
+piramidal;piriforme;2;999999985
+serrato;serrato anterior;2;999999984
+romboides;;2;999999983
+infraespinoso;;2;999999982
+supraespinoso;;2;999999981
+redondo mayor;;2;999999980
+redondo menor;;2;999999979
+subescapular;;2;999999978
+manguito rotador;;2;999999977
+esternocleidomastoideo;;2;999999976
+masetero;;2;999999975
+temporal;;2;999999974
+orbicular de los ojos;;2;999999973
+orbicular de los labios;;2;999999972
+buccinador;;2;999999971
+cigomático;;2;999999970
+frontal;;2;999999969
+occipitofrontal;;2;999999968
+platisma;;3;999999967
+braquial;;3;999999966
+braquiorradial;supinador largo;3;999999965
+pronador redondo;;3;999999964
+flexores;flexor;3;999999963
+extensores;extensor;3;999999962
+erector de la columna;erectores espinales;3;999999961
+multífidos;;3;999999960
+cuadrado lumbar;;3;999999959
+transverso del abdomen;transverso;3;999999958
+suelo pélvico;;3;999999957
+esfínter;;3;999999956
+intercostales;;3;999999955
+escalenos;;3;999999954
+esplenio;;3;999999953
+elevador de la escápula;;3;999999952
+pectoral menor;;3;999999951
+coracobraquial;;3;999999950
+ancóneo;;3;999999949
+palmar largo;;3;999999948
+tensor de la fascia lata;;3;999999947
+grácil;recto interno;3;999999946
+semitendinoso;;3;999999945
+semimembranoso;;3;999999944
+poplíteo;;3;999999943
+plantar;;3;999999942
+tibial posterior;;3;999999941
+flexor de los dedos;;3;999999940
+extensor de los dedos;;3;999999939
+interóseos;;3;999999938
+lumbricales;;3;999999937
+oponente del pulgar;;3;999999936
+tenar;;3;999999935
+hipotenar;;4;999999934
+músculo liso;;4;999999933
+músculo esquelético;;4;999999932
+músculo cardíaco;;4;999999931
+estapedio;;4;999999930
+tensor del tímpano;;4;999999929
+recto superior;;4;999999928
+recto inferior;;4;999999927
+recto medial;;4;999999926
+recto lateral;;4;999999925
+oblicuo superior;;4;999999924
+oblicuo inferior;;4;999999923
+elevador del párpado;;4;999999922
+cremáster;;4;999999921
+piramidal del abdomen;;4;999999920
+mentoniano;;4;999999919
+risorio;;4;999999918
+nasal;;4;999999917
+prócer;;4;999999916
+corrugador;;4;999999915
+depresor del ángulo de la boca;;4;999999914
+elevador del labio superior;;4;999999913
+pterigoideo;;4;999999912
+digástrico;;4;999999911
+milohioideo;;4;999999910
+geniohioideo;;4;999999909
+estilohioideo;;4;999999908
+tirohioideo;;4;999999907
+esternohioideo;;4;999999906
+omohioideo;;4;999999905
+constrictor de la faringe;;4;999999904
+cricotiroideo;;4;999999903
+aritenoides;;4;999999902
+largo;Músculo largo;5;0
+triangular;Músculo triangular;5;0
+multipeniforme;Músculo multipeniforme;5;0
+orbicular;Músculo orbicular;5;0
+cutáneo;Músculo cutáneo;5;0
+rotador;Músculo rotador;5;0
+pronador;Músculo pronador;5;0
+supinador;Músculo supinador;5;0
+oponente;Músculo oponente;5;0
+dilatador;Músculo dilatador;5;0
+extraoculares;Músculos extraoculares;5;0
+huesecillos del oído;Músculos de los huesecillos del oído;5;0
+faciales;Músculos faciales;5;0
+temporoparietal;Músculo temporoparietal;5;0
+depresor del tabique nasal;Músculo depresor del tabique nasal;5;0
+corrugador superciliar;Músculo corrugador superciliar;5;0
+depresor superciliar;Músculo depresor superciliar;5;0
+auricular anterior;Músculo auricular anterior;5;0
+auricular superior;Músculo auricular superior;5;0
+auricular posterior;Músculo auricular posterior;5;0
+orbicular de la boca;Músculo orbicular de la boca;5;0
+transverso del mentón;Músculo transverso del mentón;5;0
+cigomático mayor;Músculo cigomático mayor;5;0
+cigomático menor;Músculo cigomático menor;5;0
+elevador del labio superior y del ala de la nariz;Músculo elevador del labio superior y del ala de la nariz;5;0
+depresor del labio inferior;Músculo depresor del labio inferior;5;0
+elevador del ángulo de la boca;Músculo elevador del ángulo de la boca;5;0
+masticadores;Músculos masticadores;5;0
+pterigoideo lateral;Músculo pterigoideo lateral;5;0
+pterigoideo medial;Músculo pterigoideo medial;5;0
+paladar blando y de las fauces;Músculos del paladar blando y de las fauces;5;0
+largo del cuello;Músculo largo del cuello;5;0
+largo de la cabeza;Músculo largo de la cabeza;5;0
+escaleno anterior;Músculo escaleno anterior;5;0
+escaleno medio;Músculo escaleno medio;5;0
+escaleno posterior;Músculo escaleno posterior;5;0
+escaleno mínimo;Músculo escaleno mínimo;5;0
+suboccipitales;Músculos suboccipitales;5;0
+recto anterior de la cabeza;Músculo recto anterior de la cabeza;5;0
+recto lateral de la cabeza;Músculo recto lateral de la cabeza;5;0
+recto posterior mayor de la cabeza;Músculo recto posterior mayor de la cabeza;5;0
+recto posterior menor de la cabeza;Músculo recto posterior menor de la cabeza;5;0
+oblicuo menor de la cabeza;Músculo oblicuo menor de la cabeza;5;0
+oblicuo mayor de la cabeza;Músculo oblicuo mayor de la cabeza;5;0
+suprahioideos;Músculos suprahioideos;5;0
+infrahioideos;Músculos infrahioideos;5;0
+esternotiroideo;Músculo esternotiroideo;5;0
+elevador de la glándula tiroides;Músculo elevador de la glándula tiroides;5;0
+faríngeos;Músculos faríngeos;5;0
+laríngeos;Músculos laríngeos;5;0
+transverso de la nuca;Músculo transverso de la nuca;5;0
+romboides mayor;Músculo romboides mayor;5;0
+romboides menor;Músculo romboides menor;5;0
+serrato posterior inferior;Músculo serrato posterior inferior;5;0
+serrato posterior superior;Músculo serrato posterior superior;5;0
+intertransversos cervicales anteriores;Músculos intertransversos cervicales anteriores;5;0
+intertransversos cervicales laterales posteriores;Músculos intertransversos cervicales laterales posteriores;5;0
+intertransversos lumbares laterales;Músculos intertransversos lumbares laterales;5;0
+propios de la espalda;Músculos propios de la espalda;5;0
+iliocostal;Músculo iliocostal;5;0
+ilicostal lumbar;Músculo ilicostal lumbar;5;0
+iliocostal cervical;Músculo iliocostal cervical;5;0
+longísimo;Músculo longísimo;5;0
+longísimo torácico;Músculo longísimo torácico;5;0
+longísimo cervical;Músculo longísimo cervical;5;0
+longísimo de la cabeza;Músculo longísimo de la cabeza;5;0
+espinoso;Músculo espinoso;5;0
+espinoso torácico;Músculo espinoso torácico;5;0
+espinoso cervical;Músculo espinoso cervical;5;0
+espinoso de la cabeza;Músculo espinoso de la cabeza;5;0
+espinotransversos;Músculos espinotransversos;5;0
+esplenio de la cabeza;Músculo esplenio de la cabeza;5;0
+esplenio cervical;Músculo esplenio cervical;5;0
+transverso-espinosos;Músculos transverso-espinosos;5;0
+multífido lumbar;Músculo multífido lumbar;5;0
+multífido torácico;Músculo multífido torácico;5;0
+multífido cervical;Músculo multífido cervical;5;0
+semiespinoso;Músculo semiespinoso;5;0
+semiespinoso torácico;Músculo semiespinoso torácico;5;0
+semiespinoso cervical;Músculo semiespinoso cervical;5;0
+semiespinoso de la cabeza;Músculo semiespinoso de la cabeza;5;0
+rotatores;Músculos rotatores;5;0
+rotadores lumbares;Músculos rotadores lumbares;5;0
+rotadores torácicos;Músculos rotadores torácicos;5;0
+rotadores del cuello;Músculos rotadores del cuello;5;0
+interespinosos;Músculos interespinosos;5;0
+interespinosos lumbares;Músculos interespinosos lumbares;5;0
+interespinosos torácicos;Músculos interespinosos torácicos;5;0
+interespinosos cervicales;Músculos interespinosos cervicales;5;0
+intertransversos;Músculos intertransversos;5;0
+intertransversos lumbares mediales;Músculos intertransversos lumbares mediales;5;0
+intertransversos torácicos;Músculos intertransversos torácicos;5;0
+intertransversos cervicales posteriores;Músculos intertransversos cervicales posteriores;5;0
+esternal;Músculo esternal;5;0
+subclavio;Músculo subclavio;5;0
+elevadores de las costillas;Músculos elevadores de las costillas;5;0
+elevadores largos de las costillas;Músculos elevadores largos de las costillas;5;0
+elevadores cortos de las costillas;Músculos elevadores cortos de las costillas;5;0
+intercostales externos;Músculos intercostales externos;5;0
+intercostales internos;Músculos intercostales internos;5;0
+intercostales íntimos;Músculos intercostales íntimos;5;0
+subcostales;Músculos subcostales;5;0
+transverso del tórax;Músculo transverso del tórax;5;0
+oblicuo externo abdominal;Músculo oblicuo externo abdominal;5;0
+oblicuo interno abdominal;Músculo oblicuo interno abdominal;5;0
+pubovesical;Músculo pubovesical;5;0
+rectovesical;Músculo rectovesical;5;0
+elevador del ano;Músculo elevador del ano;5;0
+pubocoxígeo;Músculo pubocoxígeo;5;0
+puboperineal;Músculo puboperineal;5;0
+puboprostático;Músculo puboprostático;5;0
+pubovaginal;Músculo pubovaginal;5;0
+pubo-anal;Músculo pubo-anal;5;0
+puborrectal;Músculo puborrectal;5;0
+iliocoxígeo;Músculo iliocoxígeo;5;0
+coxígeo;Músculo coxígeo;5;0
+esfínter externo del ano;Músculo esfínter externo del ano;5;0
+perineales;Músculos perineales;5;0
+bíceps braquial;Músculo bíceps braquial;5;0
+tríceps braquial;Músculo tríceps braquial;5;0
+articular del codo;Músculo articular del codo;5;0
+flexor radial del carpo;Músculo flexor radial del carpo;5;0
+flexor cubital del carpo;Músculo flexor cubital del carpo;5;0
+flexor superficial de los dedos;Músculo flexor superficial de los dedos;5;0
+flexor profundo de los dedos;Músculo flexor profundo de los dedos;5;0
+flexor largo del pulgar;Músculo flexor largo del pulgar;5;0
+pronador cuadrado;Músculo pronador cuadrado;5;0
+extensor radial largo del carpo;Músculo extensor radial largo del carpo;5;0
+extensor radial corto del carpo;Músculo extensor radial corto del carpo;5;0
+extensor del meñique;Músculo extensor del meñique;5;0
+extensor cubital del carpo;Músculo extensor cubital del carpo;5;0
+abductor largo del pulgar;Músculo abductor largo del pulgar;5;0
+extensor corto del pulgar;Músculo extensor corto del pulgar;5;0
+extensor largo del pulgar;Músculo extensor largo del pulgar;5;0
+extensor del índice;Músculo extensor del índice;5;0
+palmar corto;Músculo palmar corto;5;0
+abductor corto del pulgar;Músculo abductor corto del pulgar;5;0
+flexor corto del pulgar;Músculo flexor corto del pulgar;5;0
+aductor del pulgar;Músculo aductor del pulgar;5;0
+abductor del meñique de la mano;Músculo abductor del meñique de la mano;5;0
+flexor corto del meñique de la mano;Músculo flexor corto del meñique de la mano;5;0
+oponente del meñique de la mano;Músculo oponente del meñique de la mano;5;0
+lumbricales de la mano;Músculos lumbricales de la mano;5;0
+interóseos dorsales de la mano;Músculos interóseos dorsales de la mano;5;0
+interóseos palmares;Músculos interóseos palmares;5;0
+ilíaco;Músculo ilíaco;5;0
+psoas mayor;Músculo psoas mayor;5;0
+psoas menor;Músculo psoas menor;5;0
+obturador interno;Músculo obturador interno;5;0
+gemelo superior;Músculo gemelo superior;5;0
+gemelo inferior;Músculo gemelo inferior;5;0
+cuadrado femoral;Músculo cuadrado femoral;5;0
+cuádriceps femoral;Músculo cuádriceps femoral;5;0
+articular de la rodilla;Músculo articular de la rodilla;5;0
+pectíneo;Músculo pectíneo;5;0
+aductor largo;Músculo aductor largo;5;0
+aductor corto;Músculo aductor corto;5;0
+aductor mayor;Músculo aductor mayor;5;0
+aductor menor;Músculo aductor menor;5;0
+obturador externo;Músculo obturador externo;5;0
+extensor largo de los dedos;Músculo extensor largo de los dedos;5;0
+extensor largo del dedo gordo;Músculo extensor largo del dedo gordo;5;0
+peroneo largo;Músculo peroneo largo;5;0
+peroneo corto;Músculo peroneo corto;5;0
+tríceps sural;Músculo tríceps sural;5;0
+flexor largo de los dedos;Músculo flexor largo de los dedos;5;0
+flexor largo del dedo gordo;Músculo flexor largo del dedo gordo;5;0
+extensor corto del dedo gordo;Músculo extensor corto del dedo gordo;5;0
+extensor corto de los dedos;Músculo extensor corto de los dedos;5;0
+abductor del dedo gordo;Músculo abductor del dedo gordo;5;0
+flexor corto del dedo gordo;Músculo flexor corto del dedo gordo;5;0
+aductor del dedo gordo;Músculo aductor del dedo gordo;5;0
+abductor del quinto dedo;Músculo abductor del quinto dedo;5;0
+abductor del quinto metatarsiano;Músculo abductor del quinto metatarsiano;5;0
+oponente del quinto dedo del pie;Músculo oponente del quinto dedo del pie;5;0
+flexor corto del quinto dedo;Músculo flexor corto del quinto dedo;5;0
+flexor corto de los dedos;Músculo flexor corto de los dedos;5;0
+cuadrado plantar;Músculo cuadrado plantar;5;0
+lumbricales del pie;Músculos lumbricales del pie;5;0
+interóseos dorsales del pie;Músculos interóseos dorsales del pie;5;0
+interóseos plantares;Músculos interóseos plantares;5;0

@@ -17,7 +17,8 @@ def clave(s):
     # igual que norm() + compacta() del juego: sin tildes, signos, artículos ni espacios
     s = unicodedata.normalize("NFD", s.lower())
     s = "".join(c for c in s if unicodedata.category(c) != "Mn")
-    return "".join(w for w in re.sub(r"[^a-z0-9]+", " ", s).split() if w not in FUERA)
+    w = re.sub(r"[^a-z0-9]+", " ", s).split()
+    return "".join([x for x in w if x not in FUERA] or w)   # «él», «la», «los»: si solo hay palabras de relleno, se quedan
 
 def nivel_por_umbral(valor, umbrales):
     """umbrales: cuatro valores de mayor a menor. Devuelve 1 (obvio) a 5 (nicho)."""

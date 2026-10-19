@@ -1,0 +1,352 @@
+respuesta;alias;nivel;ediciones_wikipedia
+mar;;1;1000000000
+océano;;1;999999999
+río;;1;999999998
+lago;;1;999999997
+laguna;;1;999999996
+charca;charco;1;999999995
+estanque;;1;999999994
+embalse;pantano;1;999999993
+arroyo;;2;1000000000
+ría;;2;999999999
+bahía;;2;999999998
+golfo;;2;999999997
+cala;;2;999999996
+estuario;;2;999999995
+delta;;2;999999994
+cascada;catarata;2;999999993
+glaciar;;2;999999992
+manantial;fuente;2;999999991
+acuífero;;2;999999990
+marisma;;2;999999989
+humedal;;2;999999988
+pozo;;2;999999987
+piscina;;2;999999986
+balsa;;2;999999985
+albufera;;3;1000000000
+ensenada;;3;999999999
+fiordo;;3;999999998
+canal;;3;999999997
+estrecho;;3;999999996
+cenote;;3;999999995
+géiser;;3;999999994
+oasis;;3;999999993
+ibón;;3;999999992
+torrente;;3;999999991
+riachuelo;;3;999999990
+regato;;3;999999989
+afluente;;3;999999988
+desembocadura;;3;999999987
+marjal;;3;999999986
+ciénaga;;3;999999985
+turbera;;3;999999984
+rambla;;3;999999983
+uadi;wadi;3;999999982
+poza;;3;999999981
+lago salado;;3;999999980
+salina;salinas;3;999999979
+sebja;sabkha;4;1000000000
+chott;;4;999999999
+lucio;;4;999999998
+lavajo;;4;999999997
+navajo;;4;999999996
+tablas;;4;999999995
+tarn;;4;999999994
+lago de cráter;;4;999999993
+lago kárstico;;4;999999992
+lago endorreico;;4;999999991
+mar epicontinental;;4;999999990
+mar marginal;;4;999999989
+lago de herradura;brazo muerto;4;999999988
+mar de Sargazos;;4;999999987
+bolsón;;4;999999986
+rivera;;4;999999985
+riera;;4;999999984
+ribera;;4;999999983
+regajo;;4;999999982
+xarca;;4;999999981
+gola;;4;999999980
+albina;;4;999999979
+caleta;;4;999999978
+lagoon;;4;999999978
+rada;;4;999999977
+billabong;;4;999999977
+abra;;4;999999976
+bayou;;4;999999976
+brazo de mar;;4;999999975
+firth;;4;999999975
+mar interior;;4;999999974
+loch;;4;999999974
+lago glaciar;;4;999999973
+lough;;4;999999973
+piscina natural;;4;999999972
+polder;;4;999999972
+acequia;;4;999999971
+sumidero;;4;999999971
+aljibe;;4;999999970
+sima;;4;999999970
+alberca;;4;999999969
+dolina;;4;999999969
+presa;;4;999999968
+lago subglacial;;4;999999968
+ojo de agua;;4;999999967
+lago de montaña;;4;999999967
+surgencia;;4;999999966
+mar cerrado;;4;999999966
+laguna costera;;4;999999965
+agua subterránea;;4;999999965
+nacimiento;;4;999999964
+golfete;;4;999999963
+fuente termal;aguas termales;4;999999963
+caño;;4;999999962
+termas;;4;999999962
+meandro;;4;999999961
+cauce;;4;999999960
+remanso;;4;999999959
+rápidos;;4;999999958
+puerto;Puertos|Portuario|Atracadero|port;4;133
+delta fluvial;delta de río|deltas fluviales|river delta;4;103
+acueducto;acueductos|gallipuente|aqueduct;4;85
+pozo artesiano;artesian well;4;68
+zona económica exclusiva;ZEE|Zonas Economicas Exclusivas|Mar patrimonial|exclusive economic zone;4;65
+mar territorial;aguas territoriales|línea de equidistancia|territorial sea;4;61
+Alta mar;Aguas internacionales|international waters;4;61
+indlandsis;ice sheet;4;60
+rápido;rapida|rapids;4;60
+zanja de drenaje;reguera|cuneta|ditch;4;55
+banquisa;Hielo marino|Casquete Polar|sea ice;4;55
+viaje de agua;zanja|mina de agua|qanat|cimbra|galeria filtrante;4;53
+refugio marítimo;puerto natural|harbor;4;52
+plataforma de hielo;Barrera de hielo|Meseta de hielo|ice shelf;4;52
+curso de agua;curso fluvial|watercourse;4;50
+nacimiento de un río;cabecera fluvial|naciente|fuente del río|river source;4;50
+Escorrentía;Drenaje superficial|Escurrimiento|surface runoff;4;49
+cisterna;tinaco|cistern;4;48
+Onsen;;4;47
+Fuente hidrotermal;Respiradero hidrotermal|Grieta hidrotermal|Fumarola negra|Fumarola hidrotermal|Fuentes hidrotermales|hydrothermal vent;4;47
+vía de agua;aguas navegables|hidrovía|waterway;4;45
+limán;;4;43
+pila bautismal;fuente bautismal|pila baptismal|baptismal font;4;43
+dique seco;dry dock;4;42
+base naval;naval base;4;40
+puerto deportivo;Puertos Deportivos|Marina de yates|Amarraderos de yates|Club nautico|marina;4;40
+casquete de hielo;casquete glaciar|ice cap;4;40
+llanura de marea;Planicie mareal|mudflat;5;39
+saladar;salt marsh;5;38
+balsa de agua;estanque artificial|artificial pond;5;38
+salar;Desierto de sal|salt pan;5;38
+Turbera elevada;raised bog;5;37
+aliviadero;spillway;5;37
+aguas interiores;Agua interior|internal water;5;36
+lago de cráter volcánico;Lago de caldera|volcanic crater lake;5;36
+distributario;distributary;5;35
+Estrechos Turcos;Turkish straits;5;34
+vivero de peces;granja piscicola|estanque de peces|estación piscícola|fish pond;5;33
+tanque de agua;water tank;5;33
+Polinia;polynya;5;33
+mar mediterráneo;mar intracontinental|mediterranean sea;5;32
+espícula;spicule;5;31
+río principal;main stem;5;31
+bosque de ribera;riparian forest;5;30
+río subterráneo;subterranean river;5;30
+hielo a la deriva;drift ice;5;30
+baori;stepwell;5;30
+Sitio Ramsar;Ramsar site;5;30
+acueducto romano;Roman aqueduct;5;29
+agua fósil;fossil water;5;28
+canal natural;channel;5;28
+pozas de marea;poza de marea|charcos mareales|charcos intermareales|charcos de marea|charcas intermareales|tide pool;5;27
+red de drenaje;dendritico|drenaje geologico|red hidrografica|drainage system;5;27
+abrevadero;pila|water trough;5;27
+Impluvium;;5;26
+Puerto Mulberry;Mulberry harbour;5;26
+tabla de agua;capa freática|nivel freatico|phreatic zone;5;26
+resurgencia;exsurgencia|karst spring;5;26
+cascada de hielo;Cascadas de hielo|icefall;5;25
+área de agua;water area;5;25
+Lago hipersalino;hypersaline lake;5;25
+quebrada;;5;25
+estanque reflectante;espejo de agua|reflecting pool;5;24
+solfataras;solfatare;5;24
+Lago subterráneo;underground lake;5;23
+campos de hielo;Calota polar|Campo de Hielo|Campo de Hielos|Campos de Hielos|Hielos Continentales|ice field;5;23
+lago meromíctico;meromíctico|meromictic lake;5;23
+lago seco;dry lake;5;23
+río anastomosado;braided river;5;23
+sebkha;sebkhet|sabja|sebkhat;5;22
+His Majesty's Naval Base, Portsmouth;Base Naval de Portsmouth|HMNB Portsmouth|Her Majesty's Naval Base Portsmouth|Base Naval de Su Majestad en Portsmouth;5;21
+zona contigua;contiguous zone;5;21
+Piletón;stream pool;5;21
+arroyo de marea;tidal creek;5;21
+Puertos abiertos;Treaty Port;5;21
+canal de navegación;canal navegable|ship canal;5;21
+bosque de várzea;várzea forest;5;19
+ruta marítima;sea lane;5;19
+superocéano;superocean;5;19
+hielo fijo;fast ice;5;19
+río de aguas negras;blackwater river;5;18
+sabil;;5;18
+Sabana inundada;Praderas inundadas|Pradera inundada|flooded grasslands and savannas;5;18
+lago artificial;artificial lake;5;18
+Pozo de los deseos;wishing well;5;18
+Puente acuífero;navigable aqueduct;5;17
+Fitotratamiento;constructed wetland;5;17
+Guelta;;5;17
+puerto de matrícula;home port;5;17
+lengua de hielo;ice tongue;5;17
+corriente de hielo;corrente glaciar|ice stream;5;17
+Lago distrófico;lago humico|dystrophic lake;5;17
+seno;sonda|sound;5;17
+agua entubada;current;5;17
+levada;;5;17
+Molino glaciar;moulin;5;17
+puerto fluvial;puerto interior|inland port;5;17
+Reguero;rill;5;16
+aguas calmas;still waters;5;16
+río internacional;transboundary river;5;16
+pradera húmeda;wet meadow;5;16
+torbellinos;eddy;5;16
+Tugai;tugay;5;15
+Sifón invertido;Alcantarilla|inverted siphon;5;15
+Desagüe francés;french drain;5;15
+Planta regasificadora;liquefied natural gas terminal;5;15
+Khlong;;5;15
+Represa de corrimiento;landslide-dammed lake;5;15
+pozo aéreo;air well;5;15
+Casquetes polares de Marte;Martian polar ice caps;5;15
+cuello de botella;choke point;5;15
+Dambo;;5;15
+glaciar de roca;litoglaciar|glaciar de escombros|glaciar de rocas|glaciar rocoso|rock glacier;5;15
+Lago oligotrófico;oligotrophic lake;5;14
+selva inundable;freshwater swamp forest;5;14
+paçoca de cacahuete;dulce de maní|pacoca|pacoca de amendoim|peanut paçoca;5;14
+Turlough;;5;14
+canal de riego;Canal de Irrigacion|Canales de riego|Canales de regadío|irrigation canal;5;14
+Drenaje ácido de minas;acid mine drainage;5;14
+Calanque;;5;13
+fondeadero;Fondeo con boya y muerto|anchorage;5;13
+Lago rosa;Pink lake;5;13
+Ab anbar;;5;13
+Ecosistema anquialino;anchialine pool;5;13
+aryk;;5;13
+cothon;;5;13
+río de mareas;tidal river;5;12
+Cascada artificial;artificial waterfall;5;12
+agua salvaje;whitewater;5;12
+Tajchy;Tajch;5;12
+Drakolimni;;5;12
+Delta fluvial invertido;inland delta;5;12
+piscina de combustible nuclear gastado;spent fuel pool;5;12
+Rezumadero;seep;5;12
+Arroyuelos de Friburgo;Freiburg Bächle;5;12
+Lago de la grieta;rift lake;5;12
+aguas continentales;aguas terrestres|land waters;5;12
+araña marciana;Aranas marcianas|Martian geyser;5;12
+ancón;bight;5;11
+Lago de morrena;Lago de origen morrenico|Lago morrénico|moraine-dammed lake;5;11
+Selva pantanosa del Congo occidental;Western Congolian swamp forests;5;11
+Lente;lens;5;11
+estanque de rocío;dew pond;5;11
+caz de molino;mill race;5;11
+Laguna facultativa;wastewater lagoon;5;10
+tubería forzada;penstock;5;10
+Hielo graso;grease ice;5;10
+curso de agua natural intermitente;arroyo intermitente|curso de agua intermitente|curso fluvial natural intermitente|seasonal river;5;10
+Laguna de aireado;aerated lagoon;5;10
+Cascada subterránea;subterranean waterfall;5;10
+olla de lodo;estanque de barro|piscina de lodo|olla de barro|mudpot;5;10
+Lago supraglaciar;supraglacial lake;5;10
+Puente Chonhar;Chongar bridges;5;10
+Holomíctico;holomictic lake;5;10
+balsa de decantación;balsa de sedimentación|piscina de decantación|piscina limaria|settling basin;5;10
+lago monomíctico;Monomictico|monomictic lake;5;10
+Canal de ensayos hidrodinámicos;ship model basin;5;10
+Glaciar colgante;hanging glacier;5;10
+Sobreexplotación de acuíferos;groundwater depletion;5;10
+lago de soda;lago alcalino|soda lake;5;9
+lago de cráter de impacto;impact crater lake;5;9
+puerto pesquero;fishing port;5;9
+río de aguas blancas;whitewater river;5;9
+Sistema de drenaje sostenible;Sustainable urban drainage system;5;9
+Drenaje sostenible;bioswale;5;9
+búnker para submarinos;Búnker para U-Boot|submarine pen;5;9
+Lago alpino;alpine lake;5;9
+Lago paternóster;lago en rosario|lagos en rosario|paternoster lake;5;9
+dársena;port basin;5;8
+Paleocauce;palaeochannel;5;8
+Balsa de molino;mill pond;5;8
+Lago cintiforme;ribbon lake;5;8
+tanque de agua caliente;hot water storage tank;5;8
+Yérik;;5;8
+barachois;;5;8
+Bodden;;5;8
+Glaciares en Marte;Glaciers on Mars;5;8
+Watringue;Watringe|wetering;5;8
+Líneas marítimas de comunicación;Sea lines of communication;5;8
+Río de aguas claras;clearwater river;5;7
+lecho;cauce fluvial|stream channel;5;7
+Lago de borde;Bordering lakes;5;7
+bédière;glacial stream;5;7
+pantano de agua dulce;freshwater marsh;5;7
+Lago mesotrófico;mesotrophic lake;5;7
+base de submarinos;submarine base;5;7
+Polimíctico;polymictic lake;5;7
+bofedal;oconales|oconal|bofedales;5;7
+estanque koi;koi pond;5;7
+caladero;banco pesquero|banco de pesca|fishing ground;5;6
+lago natural;natural lake;5;6
+Hafir;;5;6
+embarcadero;desembarcadero|landing;5;6
+arsenal naval;Arsenal|naval arsenal;5;6
+Estanque de infiltración;infiltration basin;5;6
+inundación;inundation;5;6
+Kill;;5;6
+puerto comercial;commercial port;5;6
+Sorgenti pietrificanti;cratoneurion;5;6
+canal marítimo;navigation channel;5;6
+Amíctico;amictic lake;5;6
+hamun;hamoun;5;6
+Agua subterránea en Marte;Groundwater on Mars;5;6
+Anexo:Sitios Ramsar en Sudáfrica;List of Ramsar sites in South Africa;5;6
+lago intermitente;laguna estacional|Lago periódico|laguna intermitente|lago estacional|intermittent lake;5;5
+cantharus;phiala;5;5
+brocal;puteal|Venetian Well;5;5
+frezaderos;spawning ground;5;5
+clarificador;clarifier;5;5
+gilgai;;5;5
+Glaciar de circo;cirque glacier;5;5
+kolk;;5;5
+estación de caza de ballenas;whaling station;5;5
+Recarga artificial de acuíferos;GRA|RAA|recarga de acuíferos|aquifer storage and recovery;5;5
+Canales patagónicos;Fjords and channels of Chile;5;5
+Glaciares de Bután;Glaciers of Bhutan;5;5
+canales de evacuación;outflow channel;5;5
+Bahari;;5;5
+Barra;Baïne;5;5
+Burn;;5;4
+puerto marítimo;puertos marítimos|seaport;5;4
+masa de agua superficial;aguas abiertas|open water;5;4
+Windwatt;;5;4
+Lago bifurcado;bifurcation lake;5;4
+Mallín;;5;4
+tanque de tormentas;stormwater detention vault;5;4
+cargadero de mineral;ore dock;5;4
+corriente permanente;perennial stream;5;4
+Tanque de agua portátil;portable water tank;5;4
+Bolong;Bolongs;5;4
+Rambla del Juncaret;;5;3
+río fronterizo;border river;5;3
+curso bajo;curso inferior|lower course;5;3
+lago amargo;bitter lake;5;3
+océano desaparecido;oceano arcaico|oceano historico|historic ocean;5;3
+Anexo:Lagos de Islandia;lakes of Island;5;3
+canal de drenaje;drainage ditch;5;3
+curso alto;curso superior|upper course;5;3
+Barranco de la Valltorta;Abrigos del Barranco de la Valltorta|Valltorta;5;3
+río costero;coastal river;5;3
+sendero acuático;water trail;5;3
+rio terà;;5;3
+canal submarino;abyssal channel;5;3
+Zanja de percolación;zanja de infiltración|Percolation trench;5;3
+galacho;meandro abandonado;5;3
+Raistas;Rojst;5;3

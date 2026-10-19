@@ -1,0 +1,20 @@
+respuesta;alias;nivel;orden_a_mano
+español;castellano;1;1000000000
+inglés;;1;999999999
+francés;;1;999999998
+portugués;;1;999999997
+árabe;;1;999999996
+alemán;;2;1000000000
+italiano;;2;999999999
+ruso;;2;999999998
+coreano;;2;999999997
+chino;mandarín|chino mandarín;2;999999996
+neerlandés;holandés|flamenco;3;1000000000
+griego;;3;999999999
+malayo;indonesio|malayo-indonesio|bahasa;3;999999998
+persa;farsi|dari|tayiko;3;999999997
+suajili;swahili|kiswahili;3;999999996
+rumano;moldavo;4;1000000000
+albanés;;4;999999999
+somalí;;4;999999998
+serbio;serbocroata|montenegrino;5;1000000000

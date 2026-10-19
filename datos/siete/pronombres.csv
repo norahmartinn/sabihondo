@@ -1,0 +1,96 @@
+respuesta;alias;nivel;orden_a_mano
+yo;;1;1000000000
+tú;;1;999999999
+él;;1;999999998
+ella;;1;999999997
+nosotros;;1;999999996
+vosotros;;1;999999995
+ellos;;1;999999994
+ellas;;1;999999993
+usted;;1;999999992
+ustedes;;1;999999991
+nosotras;;2;1000000000
+vosotras;;2;999999999
+mí;;2;999999998
+ti;;2;999999997
+me;;2;999999996
+te;;2;999999995
+se;;2;999999994
+nos;;2;999999993
+os;;2;999999992
+le;;2;999999991
+les;;2;999999990
+lo;;2;999999989
+la;;2;999999988
+los;;2;999999987
+las;;2;999999986
+mío;mía;2;999999985
+tuyo;tuya;2;999999984
+suyo;suya;2;999999983
+nuestro;nuestra;2;999999982
+vuestro;vuestra;2;999999981
+este;esta;2;999999980
+ese;esa;2;999999979
+aquel;aquella;2;999999978
+esto;;2;999999977
+eso;;2;999999976
+aquello;;2;999999975
+que;;2;999999974
+quien;;2;999999973
+cual;;2;999999972
+alguien;;2;999999971
+nadie;;2;999999970
+algo;;2;999999969
+nada;;2;999999968
+vos;;3;1000000000
+ello;;3;999999999
+sí;;3;999999998
+conmigo;;3;999999997
+contigo;;3;999999996
+consigo;;3;999999995
+míos;mías;3;999999994
+tuyos;tuyas;3;999999993
+suyos;suyas;3;999999992
+nuestros;nuestras;3;999999991
+vuestros;vuestras;3;999999990
+estos;estas;3;999999989
+esos;esas;3;999999988
+aquellos;aquellas;3;999999987
+quienes;;3;999999986
+cuales;;3;999999985
+cuyo;cuya|cuyos|cuyas;3;999999984
+cuánto;cuánta|cuántos|cuántas;4;999999980
+alguno;alguna|algunos|algunas;4;999999979
+ninguno;ninguna;4;999999978
+uno;;4;999999977
+otro;otra|otros|otras;4;999999976
+todo;toda|todos|todas;4;999999975
+cualquiera;cualesquiera;4;999999974
+quienquiera;quienesquiera;4;999999973
+mucho;mucha|muchos|muchas;4;999999972
+poco;poca|pocos|pocas;4;999999971
+varios;varias;4;999999970
+demasiado;demasiada|demasiados|demasiadas;4;999999969
+bastante;bastantes;4;999999968
+tanto;tanta|tantos|tantas;4;999999966
+mismo;misma|mismos|mismas;4;999999965
+ambos;ambas;4;999999964
+sendos;;4;999999963
+demás;;4;999999962
+vosotros mismos;;5;1000000000
+usted mismo;;5;999999999
+dónde;;5;999999998
+cómo;;5;999999997
+cuándo;;5;999999996
+consigo mismo;;5;999999995
+uno mismo;;5;999999994
+tal;tales;5;999999993
+pronombre personal;;5;999999992
+pronombre posesivo;;5;999999991
+pronombre demostrativo;;5;999999990
+pronombre relativo;;5;999999989
+pronombre interrogativo;;5;999999988
+pronombre indefinido;;5;999999987
+pronombre reflexivo;;5;999999986
+pronombre átono;;5;999999985
+pronombre tónico;;5;999999984

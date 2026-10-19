@@ -1,0 +1,1393 @@
+respuesta;alias;nivel;ediciones_wikipedia
+médico;médica|doctor|doctora;1;1000000000
+profesor;profesora|maestro|maestra;1;999999999
+abogado;abogada;1;999999998
+enfermero;enfermera;1;999999997
+policía;;1;999999996
+bombero;bombera;1;999999995
+arquitecto;arquitecta;1;999999994
+ingeniero;ingeniera;1;999999993
+cocinero;cocinera|chef;1;999999992
+camarero;camarera;1;999999991
+dentista;;1;999999990
+veterinario;veterinaria;1;999999989
+piloto;;1;999999988
+periodista;;1;999999987
+actor;actriz;1;999999986
+cantante;;1;999999985
+futbolista;;1;999999984
+panadero;panadera;1;999999983
+peluquero;peluquera;1;999999982
+psicólogo;psicóloga;1;999999981
+farmacéutico;farmacéutica;1;999999980
+carpintero;carpintera;1;999999979
+fontanero;fontanera;1;999999978
+electricista;;1;999999977
+albañil;;1;999999976
+juez;jueza;1;999999975
+informático;informática|programador|programadora;1;999999974
+dependiente;dependienta;1;999999973
+cajero;cajera;1;999999972
+taxista;;1;999999971
+conductor;conductora;1;999999970
+mecánico;mecánica;1;999999969
+agricultor;agricultora;1;999999968
+pescador;pescadora;1;999999967
+ganadero;ganadera;1;999999966
+granjero;granjera;1;999999965
+astronauta;;1;999999964
+científico;científica;1;999999963
+escritor;escritora;1;999999962
+pintor;pintora;1;999999961
+músico;música;1;999999960
+fotógrafo;fotógrafa;1;999999959
+diseñador;diseñadora;1;999999958
+azafato;azafata|auxiliar de vuelo;1;999999957
+militar;soldado;1;999999956
+secretario;secretaria;1;999999955
+recepcionista;;1;999999954
+economista;;1;999999953
+contable;;1;999999952
+banquero;banquera;1;999999951
+empresario;empresaria;1;999999950
+comercial;vendedor|vendedora;1;999999949
+funcionario;funcionaria;1;999999948
+cartero;cartera;1;999999947
+socorrista;;1;999999946
+fisioterapeuta;;1;999999945
+cirujano;cirujana;1;999999944
+notario;notaria;2;1000000000
+procurador;procuradora;2;999999999
+fiscal;;2;999999998
+registrador;registradora;2;999999997
+gestor;gestora;2;999999996
+asesor;asesora;2;999999995
+consultor;consultora;2;999999994
+auditor;auditora;2;999999993
+analista;;2;999999992
+arquitecto técnico;aparejador;2;999999991
+delineante;;2;999999990
+topógrafo;;2;999999989
+geólogo;geóloga;2;999999988
+biólogo;bióloga;2;999999987
+químico;química;2;999999986
+físico;física;2;999999985
+matemático;matemática;2;999999984
+astrónomo;;2;999999983
+historiador;;2;999999982
+arqueólogo;arqueóloga;2;999999981
+antropólogo;;2;999999980
+sociólogo;;2;999999979
+filósofo;;2;999999978
+filólogo;;2;999999977
+traductor;traductora;2;999999976
+intérprete;;2;999999975
+bibliotecario;bibliotecaria;2;999999974
+archivero;;2;999999973
+profesor de universidad;catedrático|catedrática;2;999999972
+educador;educadora;2;999999971
+pedagogo;;2;999999970
+logopeda;;2;999999969
+terapeuta ocupacional;;2;999999968
+óptico;óptica;2;999999967
+podólogo;;2;999999966
+nutricionista;dietista;2;999999965
+matrona;;2;999999964
+auxiliar de enfermería;;2;999999963
+celador;celadora;2;999999962
+técnico de rayos;;2;999999961
+paramédico;;2;999999960
+guardia civil;;2;999999959
+guardia urbano;;2;999999958
+marinero;marinera;2;999999956
+capitán;;2;999999955
+controlador aéreo;;2;999999954
+maquinista;;2;999999953
+camionero;camionera;2;999999952
+repartidor;repartidora|rider;2;999999951
+mensajero;;2;999999950
+transportista;;2;999999949
+chófer;;2;999999948
+estibador;;2;999999947
+carnicero;carnicera;2;999999946
+pescadero;pescadera;2;999999945
+frutero;frutera;2;999999944
+charcutero;;2;999999943
+pastelero;pastelera;2;999999942
+repostero;;2;999999941
+barista;;2;999999940
+sumiller;;2;999999939
+bodeguero;;2;999999938
+enólogo;;2;999999937
+jardinero;jardinera;2;999999935
+paisajista;;2;999999934
+florista;;2;999999933
+leñador;;2;999999932
+minero;;2;999999931
+herrero;;2;999999930
+cerrajero;;2;999999929
+soldador;;2;999999928
+pintor de brocha gorda;;2;999999927
+tapicero;;2;999999926
+ebanista;;2;999999925
+zapatero;;2;999999924
+sastre;sastra;2;999999923
+costurera;modista;2;999999922
+diseñador de moda;;2;999999921
+modelo;;2;999999920
+maquillador;maquilladora;2;999999919
+estilista;;2;999999918
+esteticista;;2;999999917
+masajista;;2;999999916
+entrenador personal;entrenador|entrenadora;2;999999915
+árbitro;;2;999999914
+deportista;;2;999999913
+tenista;;2;999999912
+jinete;;2;999999911
+torero;;3;999999910
+payaso;;3;999999909
+mago;;3;999999908
+malabarista;;3;999999907
+bailarín;bailarina;3;999999906
+coreógrafo;;3;999999905
+director de cine;cineasta;3;999999904
+guionista;;3;999999903
+productor;;3;999999902
+cámara;;3;999999901
+montador;;3;999999900
+técnico de sonido;;3;999999899
+DJ;pinchadiscos;3;999999898
+locutor;locutora;3;999999897
+presentador;presentadora;3;999999896
+youtuber;;3;999999895
+influencer;;3;999999894
+streamer;;3;999999893
+community manager;;3;999999892
+publicista;;3;999999891
+diseñador gráfico;;3;999999890
+ilustrador;ilustradora;3;999999889
+dibujante;;3;999999888
+escultor;escultora;3;999999887
+artesano;;3;999999886
+alfarero;;3;999999885
+joyero;;3;999999884
+relojero;;3;999999883
+orfebre;;3;999999882
+impresor;;3;999999881
+editor;editora;3;999999880
+corrector;;3;999999879
+librero;;3;999999878
+kiosquero;;3;999999877
+estanquero;;3;999999876
+lotero;;3;999999875
+conserje;;3;999999873
+portero;portera;3;999999872
+vigilante;vigilante de seguridad|guardia de seguridad;3;999999871
+detective;;3;999999870
+espía;;3;999999869
+limpiador;limpiadora;3;999999868
+empleado del hogar;empleada del hogar|asistenta;3;999999867
+niñera;canguro;3;999999866
+cuidador;cuidadora;3;999999865
+trabajador social;trabajadora social;3;999999864
+monitor de tiempo libre;monitor;3;999999863
+guía turístico;;3;999999862
+agente de viajes;;3;999999861
+hotelero;;3;999999860
+recepcionista de hotel;;3;999999859
+friegaplatos;;3;999999857
+sacerdote;cura;3;999999856
+monja;;3;999999855
+fraile;;3;999999854
+rabino;;3;999999853
+imán;;3;999999852
+político;política;3;999999851
+diplomático;embajador;3;999999850
+alcalde;;3;999999849
+concejal;;3;999999848
+ministro;;3;999999847
+presidente;;3;999999846
+rey;;3;999999845
+desarrollador;developer;3;999999843
+ingeniero de software;;3;999999842
+data scientist;científico de datos;3;999999841
+analista de datos;;3;999999840
+ciberseguridad;;3;999999839
+piloto de drones;;3;999999838
+teleoperador;teleoperadora;3;999999837
+operario;;3;999999836
+peón;;3;999999835
+jornalero;;3;999999834
+temporero;;3;999999833
+apicultor;;3;999999832
+pastor;pastora;3;999999831
+vaquero;;3;999999830
+viticultor;;3;999999829
+guardabosques;agente forestal;3;999999827
+farero;farera;3;999999826
+buzo;;3;999999825
+salvavidas;;3;999999823
+bombero forestal;;3;999999822
+feminismo;feminismos|feminism;4;207
+poeta;autora de poesía|poetisa|autor de poesía|poet;4;172
+traducción;translation;4;168
+compositor;compositora de música|compositora|compositor de música|composer;4;135
+profeta;profetisa|prophet;4;126
+emperador;Emperador Simbolico|emperatriz|emperor;4;124
+estudiante;alumno|alumnado|alumna|discente|student;4;120
+artista;artistica|artístico|artist;4;118
+samurái;Samuray|Samurais|Bushi;4;115
+gobernador;Comisionado Civil|governador|Gobernadora|Elección gubernamental|governor;4;110
+héroe;heroicidad|heroísmo|heroína|hero;4;110
+refugiado;refugiada|refugee;4;104
+autor;autores|autora|author;4;103
+caballero;knight;4;101
+dictador;dictadora|dictator;4;100
+cosaco;cosacos|Cossacks;4;98
+caballería;arma de caballería|caballeria militar|caballerías|cavalry;4;90
+disc-jockey;diskjockey;4;87
+emprendedor;emprendedora|emprender|emprendimiento|entrepreneur;4;87
+activismo;activism;4;86
+piloto de aviación;piloto de aeronaves|piloto aviador|aircraft pilot;4;86
+shōgun;Seii Taishogun|Sogún;4;85
+geisha;;4;85
+hacker;;4;84
+bruja;brujo|witch;4;84
+relaciones públicas;public relations;4;82
+ninja;ukami|ninsha|shinobi;4;82
+misionero;misionera|misionero cristiano|missionary;4;80
+gurú;Gurudeva|Āchārya|Gurus;4;80
+mercenario;soldado de fortuna|mercenaria|mercenary;4;79
+francotirador;tirador de élite|Francotiradores|Francotiradora|sniper;4;79
+director ejecutivo;presidente ejecutivo|primer ejecutivo|jefe ejecutivo|director gerente|director general|chief executive officer;4;79
+ermitaño;Eremitismo|Eremitas|Eremita|hermit;4;78
+comediante;cómica|actor cómico|comico|comedianta|comedian;4;78
+conquistador;conquistadores españoles|conquistador de la Conquista española|conquistadores|conquistador español;4;77
+campesino;campesina|peasant;4;76
+trol;troll|trol en línea|trol en internet;4;75
+sátrapa;sátrapas|sápatra|satrap;4;75
+intelectual;Intelectualidad|Clase intelectual|Clases intelectuales|Hombre de letras|Intelectuales|intellectual;4;75
+consumidor;consumer;4;74
+marino;marinero mercante|marino mercante|sailor;4;73
+asesino en serie;serial killer|asesino serial|asesinos en serie|asesino múltiple|asesina en serie;4;72
+barbero;barber;4;71
+director de orquesta;directora de orquesta|directora musical|directores de orquesta|director musical;4;71
+eunuco;eunucos|eunuch;4;71
+comerciante;mercante|mercader|merchant;4;71
+parlamentario;parlamentaria|member of parliament;4;71
+quiromancia;quirología|lectura de palmas|lectura de la palma|Lector de palmas|palmistry;4;70
+almuédano;Almuecin|Muecin|muezzin;4;69
+polímata;hombre universal|Homo Universalis|polymath;4;69
+yakuza;mafia japonesa;4;68
+vasallo;feudatario|relacion feudal|relacion de vasallaje|contrato feudal|vassal;4;68
+tenor;;4;68
+inventor;inventora;4;66
+verdugo;carrasco|ejecutor|Verdugos|borrero|executioner;4;66
+celebridad;famoso|famosos|figuras públicas|personaje mediatico|celebrity;4;66
+pianista;pianist;4;66
+perito;experto|experta|expert;4;65
+trabajador doméstico;criada|empleada doméstica|sierva|criado|domestic worker;4;65
+mangaka;mangakas|dibujante de manga|dibujantes de manga;4;64
+preso político;presos políticos|prisionero político|prisioneros políticos|political prisoner;4;64
+árbitro asistente de video;VAR|video asistant referee|video assistant referee;4;64
+muyahidín;Muyajidín|Mujahideen|Mujaidín|Muyahid|mujahid;4;64
+trabajador autónomo;trabajador independiente|trabajador freelancer|trabajador freelance|trabajadora independiente|trabajadora freelancer|freelancer;4;63
+realizador;director|directora|directora de escena|director de escena|realizadora;4;63
+compositor de canciones;cantautora|compositora de canciones|cantautor|songwriter;4;63
+cadí;Qadi;4;62
+oráculo;oracle;4;62
+árbitro de fútbol;referí de fútbol|association football referee;4;62
+rōnin;;4;60
+alertador;lanzador de alerta|denunciante|whistleblower;4;60
+contador;accountant;4;60
+regente;regent;4;60
+paparazzi;;5;59
+disidente;Disidentes|disidente político|crítico del sistema|dissident;5;58
+psiquiatra;siquiatra|psychiatrist;5;58
+peatón;Peatones|Peatonal|pedestrian;5;58
+usuario;usuario informático|usuaria informática|usuaria|user;5;58
+guerrillero;partisano|partisana|maquis|guerrillera|maqui|partisan;5;57
+profecía;Profecías|prophecy;5;57
+director de fotografía;cinematógrafa|cinematógrafo|directora de fotografía|cinematographer;5;57
+drag queen;drag queens|reinona|transformista;5;57
+ovejero;pastor de ovejas|shepherd;5;57
+mascota;mascot;5;56
+ama de crianza;ama de cría|ama de leche|nodriza|wet nurse;5;56
+bróker;agente|corredor;5;55
+enseñanza;formación|práctica educativa|docencia|enseñar|teaching;5;55
+intelliguentsia;inteliguentsia|intelligentsia;5;55
+agente de policía;oficial de policia|oficial|guardia|police officer;5;55
+crítico;critica|critic;5;55
+guitarrista;guitarristas|guitarist;5;55
+actuario;actuaria|actuary;5;54
+prisionero;prisionera|preso|presa|detenida|detenido|prisoner;5;54
+veterano;veteranos de guerra|veterano de guerra|veterana|excombatiente|veteran;5;54
+sufragista;suffragettes|suffragette;5;54
+escriba;escribas|scribe;5;54
+guerrero;guerrera|warrior;5;53
+corsario;corsaria|privateer;5;53
+accionista;socio capitalista|inversionista|shareholder;5;53
+geógrafo;geografa|geographer;5;53
+fan;simpatizante|admirador|seguidora|admiradora|aficionada;5;52
+estadista;hombre de Estado|mujer de Estado|statesperson;5;52
+gánster;Gángsters|Gangster|Gangsterismo;5;52
+casa de empeños;prenda|pawnbroker;5;51
+sheriff;alguacil;5;50
+práctico;maritime pilot;5;49
+condottiero;condottiere|capitano di ventura|condotiero|condottieri;5;48
+administrador de sistemas;Administrador de sistemas informaticos|Administrador de sistema|system administrator;5;48
+administrador web;arquitecta web|desarrolladora web|responsable del sitio|administrador del sitio|desarrollador web|webmaster;5;48
+extra;Figurantes|Figurante|comparsa;5;48
+guía de turismo;Tour escort|tour guide;5;47
+defensor de derechos humanos;activista pro derechos humanos|activista por los derechos humanos|human rights defender;5;47
+vicario;delegado|vicar;5;47
+médico de cabecera;médico generalista|médico general|médico de familia|general practitioner;5;47
+niños soldado;Uso militar de niños|Niño soldado|child soldier;5;47
+capitán de barco;capitan de navio|capitana de navío|sea captain;5;47
+entrenamiento;coaching;5;46
+valí;vailí|wali;5;46
+docente;docent;5;46
+inversor;inversora|investor;5;46
+negro;autor negro|escritor fantasma|negro literario|ghostwriter;5;46
+guardaespaldas;Guardaespalda|protector|bodyguard;5;46
+as de la aviación;ases de la aviacion|flying ace;5;45
+idol japonés;Japanese idol;5;45
+ingeniero de sonido;técnico acústico|ingeniero de audio|ingeniero acústico|ingeniera de sonido|audio engineer;5;44
+orador;oradora|orator;5;44
+señor de la guerra;Senores de la guerra|warlord;5;44
+berserker;Ulfsark|Ulfhéðinn|Ulfednar|Berseker;5;44
+reportero;reportera|reporteril|reporter;5;44
+secretario general;secretario ejecutivo|primer secretario|general secretary;5;44
+patrocinio;sponsor;5;43
+desarrollador de software;desarrolladora de software|software developer;5;43
+animador;animator;5;43
+cortesana;cortesano|courtesan;5;43
+burócrata;bureaucrat;5;43
+amante;mistress;5;43
+barrister;;5;43
+trabajador sexual;trabajadora sexual|sex worker;5;43
+virtuoso;Virtuosismo|Virtuosista;5;42
+trabajador de cuello blanco;col blanc|cuello blanco|trabajadores de cuello blanco|white-collar worker;5;42
+conservador de museo;conservadora de museo|conservador de museos|curador artistico|curador de arte|curator;5;42
+dama de compañía;lady-in-waiting;5;42
+barman;Tabernero|Cantinero|Camareros de barra|Bartender|Barstaff;5;42
+informático teórico;informatica teorica|científico informático|computer scientist;5;42
+nana;yaya|nanny;5;42
+portavoz;vocero|vocera|oficial de prensa|spokesperson;5;41
+gerente;directores y gerentes|mánager;5;41
+objeción de conciencia;objetor de conciencia|objetora de conciencia|conscientious objector;5;41
+baterista;batería|tamborilero|drummer;5;41
+agente inmobiliario;agente inmobiliaria|corredor inmobiliario|corredora inmobiliaria|real estate agent;5;41
+ingeniería geológica;engineering geology;5;41
+nómada digital;digital nomad;5;40
+jefe tribal;caudillo|traditional leader or chief;5;40
+devadasi;;5;40
+investigador;investigadora|personal investigador|persona investigadora|investigador científico|investigadora científica|researcher;5;40
+comisario político;politruk|political commissar;5;40
+revolucionario;insurgente|revolucionaria|revolutionary;5;40
+ladrón;ladrona|thief;5;40
+esperantista;esperantisto|Esperantist;5;40
+au pair;;5;39
+haiduque;hajduk;5;39
+khatun;;5;39
+empleador;empleadora|employer;5;39
+deshollinador;Deshollinadora|chimney sweep;5;39
+médium;spiritual medium;5;39
+mimo;pantomimo|mime artist;5;39
+chica de compañía;Call girl|Escort;5;39
+informante;informador|confidente|Soplón|informant;5;38
+agrónomo;científico agrario|científica agraria|agronoma|agronomist;5;38
+sombrero blanco;white hat;5;38
+aprendiz;apprentice;5;38
+proscrito;bandido|bandolero|encartado|forajido|salteador|outlaw;5;38
+mendigo;indigente|pordiosera|pordiosero|beggar;5;38
+podestà;;5;38
+sirvienta;mucama|muchacha|domestica|maid;5;38
+corresponsal;periodista corresponsal|corresponsalía|correspondent;5;37
+agente de bolsa;corredor de acciones|corredor de bolsa|stockbroker;5;37
+director de finanzas;director financiero|chief financial officer|director general de finanzas|CFO;5;37
+novelista;novelistas|novelist;5;37
+inversor ángel;angel investor;5;37
+nazireato;nazireo|nazareato|nazareo|Nazirite;5;37
+magnate;;5;37
+obrero;peón albañil|operaria|obrero de la construcción|laborer;5;36
+agregado militar;agregado de defensa|military attaché;5;36
+preso de conciencia;POC|prisionero de conciencia|presa de conciencia|prisionera de conciencia|prisoner of conscience;5;36
+cacique;caciques|cacica;5;36
+seiyū;seiyuu|seiyuus|seiyūs;5;36
+enciclopedista;enciclopedistas del siglo XVIII|enciclopedistas|encyclopédistes;5;36
+supermodelo;Top model|supermodel;5;36
+detective privado;investigador particular|detective particular|investigador privado|private investigator;5;35
+líder;lideresa|jefe|guía|leader;5;35
+reina reinante;emperatriz reinante|reina|queen regnant;5;35
+navegante;piloto de altura|oficial de navegación|navigator;5;35
+obrero agrícola;peón rural|trabajador rural|trabajador agrícola|farmworker;5;35
+productor de televisión;productora televisiva|productora de televisión|productor televisivo|television producer;5;35
+figura pública;persona famosa|personas notables|public figure;5;35
+molinero;molinera|miller;5;35
+empleado;empleada|trabajador dependiente|trabajadora dependiente|employee;5;35
+ashik;;5;35
+bailarín de ballet;bailarina de ballet|ballerina|ballet dancer;5;35
+noviciado;novitiate;5;35
+bucanero;Bucaneros|buccaneer;5;35
+escaldo;skald;5;35
+columnista;comentarista de prensa|articulista de opinión|autor de columnas|columnista de opinión|columnist;5;34
+senescal;Senescalia|Senescalado|seneschal;5;34
+esquirol;Rompehuelgas|scab;5;34
+lingüista;lingüistas|linguist;5;34
+colono;pionero|colona|pionera|settler;5;34
+vendedor ambulante;buhonera|buhonero|vendedora callejera|itinerante|Ambulantes|street vendor;5;34
+tesorero;tesorera|treasurer;5;34
+predicador;preacher;5;34
+griot;griots|jeli;5;34
+comisionado;comisionadora|comisionador|comisario|commissioner;5;34
+director artístico;directora de arte|diseñador artístico|directora artística|director de arte|art director;5;34
+playmate;Modelo de Playboy|Playboy Playmate;5;34
+piloto de pruebas;piloto probador|Pilotos de pruebas|test pilot;5;34
+jockey;Yoquey|equitador|ecuestre;5;34
+gigolo;;5;33
+enviado extraordinario y ministro plenipotenciario;enviado|envoy extraordinary and minister plenipotentiary;5;33
+mandarín;;5;33
+diseñador de vestuario;vestuarista|diseñadora de vestuario|figurinista|costume designer;5;33
+combatiente;combatant;5;33
+skjaldmö;Doncella escudada|Doncella escudera|shield-maiden;5;33
+trabajador migrante;migrant worker;5;33
+mecenas;patron of the arts;5;33
+actor de voz;actriz de doblaje|dobladora|doblador|actor de doblaje|actriz de voz|voice actor;5;33
+puesta en escena;mise en scène;5;33
+presentador de noticias;presentador o presentadora de televisión|presentador de noticias de televisión|presentadora de noticias|news presenter;5;33
+yogui;Yogin|Yoguis|Yogi|Yoguini|Iogui;5;33
+kantor;lider de alabanza|cantor;5;33
+hereje;heretic;5;33
+prefecto;prefect;5;33
+cazarrecompensas;cazador de recompensas|bounty hunter;5;33
+director de operaciones;jefe de operaciones|director operativo|COO|director general de operaciones|chief operating officer;5;33
+khatib;;5;33
+director de escuela;rector|director escolar|director de colegio|head teacher;5;32
+drag king;;5;32
+corresponsal de guerra;periodista de guerra|war correspondent;5;32
+alfaquí;Alfaquies|Islamic jurist;5;32
+celebridad de Internet;personalidad en línea|personalidad de redes sociales|personalidad de internet|Internet celebrity;5;32
+jugador de videojuegos;gamer|videojugador|videojugadora;5;32
+director de tecnología;director técnico|directora de tecnología|CTO|chief technology officer;5;32
+doula;;5;32
+agente doble;Doble agente|double agent;5;31
+egiptólogo;egiptologa|Egyptologist;5;31
+showrunner;;5;31
+chambelán;chamberlain;5;31
+cracker;;5;31
+técnico;técnica|technician;5;31
+corredor de apuestas;bookmaker;5;31
+movimiento cenobítico;Monasticismo Cenobitico|cenobitic monasticism;5;31
+gestor de proyecto;project manager|encargada de proyecto|gerente de proyecto|encargado de proyecto|gestora de proyecto;5;31
+transitario;freight forwarder;5;31
+profesional de la salud;profesional sanitario|trabajador sanitario|health professional;5;30
+teólogo;teologa|teologas|theologian;5;30
+trader;trader de mercados financieros|operador de mercado;5;30
+castellano;castellán;5;30
+comentarista deportivo;comentadora deportiva|comentador deportivo|comentarista deportiva|reportera deportiva|reportero deportivo|sports commentator;5;30
+ingeniero de vuelo;ingeniera de vuelo|flight engineer;5;30
+dominatrix;professional dominatrix;5;30
+peregrino;peregrina|pilgrim;5;30
+candidato;Candidata|aspirante|Candidatos|nominado|postulante|candidate;5;30
+oficinista;empleado de oficina|trabajador de oficina|administrativo|clerk;5;30
+trabajador de la construcción;profesional de la construccion|construction worker;5;30
+tutor;tutora;5;30
+actor de género;actriz de género|actor caracterista|actor secundario|character actor;5;30
+actor infantil;actriz infantil|child actor;5;30
+investigador postdoctoral;investigador posdoctoral|postdoctorando|post-doc|posdoctorando|postdoctoral researcher;5;29
+cantante de playback;playback singer;5;29
+proveedor;vendor;5;29
+realizador de televisión;directora de televisión|television director;5;29
+meteorólogo;meteorologista|meteoróloga|meteorologist;5;29
+agente penitenciario;funcionario de prisiones|carcelero|agente de penitenciaría|prison officer;5;29
+socialité;persona socialmente prominente;5;29
+aedo;Aedo poeta|aoidos;5;29
+tecladista;teclistas|teclista|tecladistas|keyboardist;5;28
+stripper;estriper;5;28
+novicio;novicia|novice;5;28
+multiinstrumentista;multiinstrumentalista|poliinstrumentista|multi-instrumentalist;5;28
+basurero;basurera|recolectora de residuos|recolector de desechos|recolector de residuos|garbage collector;5;28
+charlatán;Charlataneria|Charlatanismo;5;28
+völva;wicce|seiðkona|fjǫlkunnig|seeress;5;28
+confesor;confessor;5;28
+oligarca ruso;oligarquía rusa|Russian oligarch;5;28
+huésped;guest;5;28
+radioaficionado;operador de radio aficionado|amateur radio operator;5;28
+soberano;sovereign;5;28
+incidencia política;advocacy;5;28
+director de sistemas de información;chief information officer|CIO;5;28
+bioquímico;bioquimica|biochemist;5;28
+juez de paz;Tribunal de paz|Juzgados de Paz|Juzgado de paz|Justicia de Paz|justice of the peace;5;28
+sicario;asesino a sueldo|hitman|asesino asalariado|contract killer;5;28
+vagabundo;Poriomania|Sin hogar|Sin Domicilio Fijo|Homeless|Cirujeo|vagrant;5;28
+legislador;legisladora|legisladores|legislator;5;28
+lolardo;Lollard;5;28
+armador;ship-owner;5;28
+maiko;;5;28
+videojockey;VJ;5;28
+administrador de red;network administrator;5;28
+organista;organist;5;28
+maestro de ballet;Maestro de danza|ballet master;5;28
+bandeirante;Abanderantes|Bandeirantes|Banderantes;5;28
+fedayín;fedayeen;5;28
+pirata;pirate;5;27
+administrador de base de datos;DBA|database administrator;5;27
+cadenero;sacabullas|gorila|patovica|sacaborrachos|bouncer;5;27
+dragomán;Truchiman;5;27
+explorador;explorer;5;27
+instrumentalista;instrumentista|instrumentalist;5;27
+comprador;compradoras;5;27
+limpiabotas;bolero|lustrador|lustrabotas|shoeshiner;5;27
+calderero;cobrero,|hojalatero|latonero, hojalatero|coppersmith;5;27
+ayudante de cátedra;asistente de docencia|teaching assistant;5;27
+criminal;;5;27
+revisor;;5;27
+titiritero;titiritera|marionetista|marionetteist;5;27
+estadístico;estadígrafo|estadistica|statistician;5;27
+psíquico;psiquica|psychic;5;27
+estudiante universitario;estudiante universitaria|alumno universitario|university student;5;27
+bailío;Baile|Bayle|batle|bailiff;5;27
+anticuario;antiquarian;5;27
+mahout;cornaca;5;27
+perito judicial;perito forense|expert witness;5;27
+corista;vocalista de soporte|vocalista de apoyo|segunda voz|segundas voces|cantante de respaldo|backing vocalist;5;27
+mayordomo;butler;5;27
+redactor;redactora|editing staff;5;27
+usurpador;usurper;5;26
+groupie;groupies;5;26
+copiloto;primer oficial|first officer;5;26
+plañidera;professional mourning;5;26
+urbanista;planificadora urbana|planificador urbano|urban planner;5;26
+técnico en emergencias médicas;tecnico de emergencia medica|técnico ambulatorio|emergency medical technician;5;26
+institutriz;institutor|governess;5;26
+astrólogo;astróloga|astrologer;5;26
+ropavejero;rag-and-bone man;5;26
+silvicultor;silvicultora|forester;5;26
+timonel;helmsman;5;26
+personalidad de radio;conductora radiofónica|animadora de radio|locutor de radio|animadora radiofónica|conductor radiofónico|radio personality;5;26
+contratista;general contractor;5;26
+director funerario;pompa fúnebre|pompas fúnebres|honras fúnebres|funeral director;5;26
+umarell;;5;26
+profesor adjunto;profesora adjunta|adjunct professor;5;26
+pistolero;gunfighter;5;26
+kisaeng;;5;26
+lutier;violero|luthier|laudero;5;26
+carretero;wheelwright;5;26
+director de juego;game master;5;26
+demagogo;demagoga|demagogue;5;25
+crooner;Crooning|Crooners;5;25
+glosador;glossator;5;25
+filántropo;filántropa|philanthropist;5;25
+politólogo;politicologa|cientifico politico|politologa|científica política|political scientist;5;25
+agente encubierto;agente durmiente|agente infiltrado|agente secreto|topo|mole;5;25
+técnico dental;protésico|dental technician;5;25
+porteador;porter;5;25
+líder del partido;lideresa del partido|líder de partido político|party leader;5;25
+autodidacta;autodidact;5;25
+físico teórico;física teórica|theoretical physicist;5;25
+erudito;erudita|scholar;5;25
+crupier;croupier|repartidor de casino|tallador;5;25
+repartidor de leche;lechera|lechero|repartidora de leche|milk deliverer;5;25
+corredor de seguros;bróker de seguros|agente de seguros|mediador de seguros|corredora de seguros|insurance broker;5;25
+cantero;entallador|labrante|maestro cantero|picapedrero|cabuquero|stonemason;5;25
+ambientalista;activista ambiental|ecologista|environmentalist;5;25
+maestro de ceremonias;maestra de ceremonias|master of ceremonies;5;25
+afilador;afiladora|amoladora|amolador|knife grinder;5;25
+sofer;sofer stam;5;25
+sepulturero;sepultador|sepulturera|enterrador|gravedigger;5;25
+capitán de caballería;cavalry master;5;25
+guía de montaña;guía de alta montaña|mountain guide;5;25
+amigo por correspondencia;Penpals|Penpal|amigo por carta;5;25
+agente de cambio;business broker;5;25
+modelo de webcam;modelo de camara web|modelos de webcam|webcam model;5;24
+cazafortunas;gold digger;5;24
+personal asistencial no titulado;operador socio-sanitario|unlicensed assistive personnel;5;24
+calculadora humana;computer;5;24
+muhadiz;muhaddith;5;24
+logoteta;logothete;5;24
+carterista;pickpocket;5;24
+ingeniero civil;ingeniera civil|civil engineer;5;24
+encantador de serpientes;snake charmer;5;24
+activista;activist;5;24
+modelo artístico;art model;5;24
+comentarista;cabeza parlante|experto famoso|pundit;5;24
+militante;miliciana|miliciano|militant;5;24
+cazador;cazadora|hunter;5;24
+ayudante de dirección;AD|asistente de dirección|assistant director;5;24
+vicerrector;Prorrector|Vice rector|prorector;5;24
+rapero;músico de rap|rapera|raperas|raperos|artista de rap|rapper;5;24
+botánico;botanista|botánica|botanist;5;24
+cazanazis;cazador de nazis|cazadora de nazis|Nazis hunter;5;24
+aristócrata;noble|aristocrat;5;24
+akhoond;;5;24
+escenógrafo;escenógrafa|escenógrafos|scenographer;5;24
+agente literario;agente literaria|literary agent;5;24
+arquitecto del paisaje;arquitecto paisajista|diseñador paisajista|diseñador del paisaje|diseñadora del paisaje|landscape architect;5;24
+agrimensor;surveyor;5;24
+diseñador de juegos;game designer|diseñadora de juegos;5;24
+apparatchik;;5;24
+discípulo;discípula|disciple;5;24
+crítico de arte;crítico artístico|critica artistica|critica de arte|art critic;5;24
+antiguo maestro;old master;5;24
+perfumista;perfumer;5;24
+campanero;campanera|bell-ringer;5;24
+director creativo;directora creativa|creative director;5;24
+mecánico automotor;mecánico de automóviles|auto mechanic;5;24
+conductor de autobús;autobusero|autobusera|conductor de micros|colectivera|bus driver;5;24
+auditor de cuentas;statutory auditor;5;23
+recaudador de impuestos;funcionario de aduanas|tax collector;5;23
+proxeneta;caficho|chulo|procurer;5;23
+sicofanta;sycophant;5;23
+kleftes;klefts|klepht;5;23
+virólogo;virologa|virologist;5;23
+inversor institucional;institutional investor;5;23
+intermediario;intermediary;5;23
+investigador universitario;research fellow;5;23
+talabartero;bastero|guarnicionero|albardero|saddler;5;23
+platero;silversmith;5;23
+capo;barón de la droga|capo del narcotráfico|señor de la droga|drug lord;5;23
+diseñador de producción;diseñadora de producción|production designer;5;23
+filibustero;Expediciones filibusteras|Filibusteros|filibuster;5;23
+lobo solitario;lone wolf;5;23
+dramaturgo;dramaturge;5;23
+periodista de opinión;escritora de opinión|escritor de opinión|escritor publicista|ensayista|opinion journalist;5;23
+artists and repertoire;A&R|artist and repertoire;5;23
+patrón;propietario|propietaria|patrona|casero|dueño de propiedad|landlord;5;23
+forjador;metalsmith;5;23
+cambista;money changer;5;23
+caddie;;5;22
+facilitador;facilitadora|facilitator;5;22
+primer alcalde;intendente|primer edil|lord mayor;5;22
+gerente general;manager general|general manager;5;22
+afición al ferrocarril;fanático ferroviario|ferroaficionado|fanático de los trenes|rail transport fan;5;22
+solista;soloist;5;22
+renegado;Abjuracion|Abjurar|Elches|Renegar|turncoat;5;22
+flâneur;Flânerie;5;22
+agente deportivo;agente deportiva|manager deportivo|sports agent;5;22
+guardaparque;park ranger;5;22
+prostituto;puta|puto|prostituta|prepago|meretriz|prostitute;5;22
+goði;godhi|Goðorð|Godi|gothi;5;22
+trabajador del conocimiento;knowledge worker;5;22
+regidor de espectáculo en vivo;stage manager;5;22
+usurero;agiotista|loan shark;5;22
+acuanauta;hydronaut;5;22
+inspector;;5;22
+techador;roofer;5;22
+ladrón en la ley;thief in law;5;22
+asesor financiero;asesora financiera|financial adviser;5;22
+guarda nocturno;vigilante nocturno|sereno|night watchman;5;22
+estatua viva;hombre estatua|mujer estatua|living statue;5;22
+aguador;aguadora|aguatera|aguatero|water carrier;5;22
+jefe de servicio hospitalario;médico en jefe|jefe de medicina|chief physician;5;21
+administrador de fincas;janitor;5;21
+piloto al mando;Comandante|Comandante de la aeronave|pilot in command;5;21
+imitador;Imitadora|Imitar|impressionist;5;21
+kunoichi;;5;21
+corredor de valores;broker-dealer;5;21
+anarquista;anarchist;5;21
+continuista;supervisor de guion|script;5;21
+carabinero;carabineros|carabinier;5;21
+líder militar;jefe miitar|military leader;5;21
+comandante de puerto;harbormaster;5;21
+senador;senadora|senator;5;21
+paleontólogo;paleontóloga|paleontologist;5;21
+naturalista;historiador de la naturaleza|historiador natural|naturalist;5;21
+psicoterapeuta;psychotherapist;5;21
+organero;organera|fabricante de órganos|organ builder;5;21
+diaconisa;diaconesa|diaconesas|diaconisas|deaconess;5;21
+hombre de montaña;mountain man;5;21
+jefe de estación ferroviaria;station master;5;21
+genetista;genetico|geneticist;5;21
+rebe;Admur|Rebbe;5;21
+microbiólogo;microbióloga|microbiologist;5;21
+agente externo;agente extranjero|foreign agent;5;21
+grumete;Aprendiz de marinero|cabin boy;5;21
+encargado de enfermo o dependiente;Ayuda y supervision de proximidad|cuidadora de dependientes|cuidadora de personas dependientes|cuidador de dependientes|caregiver;5;21
+somatophylax;somatophylakes;5;21
+arabista;arabistas|arabist;5;21
+albacea;ejecutor testamentario|executor;5;21
+asesor fiscal;asesor tributario|asesor de impuestos|tax advisor;5;21
+editor de cine;director de montaje|editor cinematografico|montadora|editor de montaje|film editor;5;21
+rentista;rentier;5;21
+ingeniero químico;ingeniera quimica|chemical engineer;5;21
+amante real;favorita|royal mistress;5;20
+director de coro;directora de coro|maestro de coro|choir director;5;20
+sombrero gris;grey hat;5;20
+abogado de patentes;consejero en propiedad industrial|patent attorney;5;20
+mensajero ciclista;ciclista mensajero|bicycle courier;5;20
+escribano;escribiente|scrivener;5;20
+agente de talentos;agente teatral|agencia de talentos|talent agent;5;20
+lacayo;lackey;5;20
+orador motivacional;motivational speaker;5;20
+profesor universitario;profesora universitaria|profesora de universidad|docente universitario|university teacher;5;20
+botones;fajín|bellhop;5;20
+proveedor de servicios;empresa de servicios|prestatario de servicios|service provider;5;20
+matador;matador de toros;5;20
+productor de videojuegos;video game producer;5;20
+asesor doctoral;asesora doctoral|directora de tesis|director de tesis|supervisora doctoral|supervisor doctoral|doctoral advisor;5;20
+idol coreano;idolo de pop coreano|ídolo de K-pop|ídolo coreano|Korean idol;5;20
+apologeta;apologista cristiano|Apologetas griegos|apologeta cristiano|apologist;5;20
+arborista;arboricultor|arboricultora|arborist;5;20
+recogepelotas;recogebalones|balonero|alcanzapelotas|ball boy;5;20
+cantante principal;vocalista líder|frontman|lead vocalist;5;19
+contador público;Contadora Publica|Contador de comercio|certified public accountant;5;19
+modelo de carreras;race queen;5;19
+connaisseur;connoisseur;5;19
+director deportivo;secretario técnico|sporting director;5;19
+telefonista;operador telefónico|switchboard operator;5;19
+refúsenik;otkáznik|refyúznik;5;19
+técnico de laboratorio;ayudante de laboratorio|laboratorista|laboratory technician;5;19
+escritor técnico;escritora tecnica|redactora tecnica|technical writer;5;19
+bacteriólogo;bacteriologa|bacteriologist;5;19
+guardafaro;torrero|lighthouse keeper;5;19
+historiador del arte;historiadora del arte|art historian;5;19
+scout;;5;19
+ingeniero jefe;chief engineer;5;19
+repartidor de periódicos;repartidora de periódicos|repartidora de prensa|repartidor de prensa|paperboy;5;19
+financiero;financista|hacendista|financier;5;19
+oligarca;business oligarch;5;19
+artista callejero;artista urbano|artista urbana|artista callejera|artista de la calle|street artist;5;19
+chocolatero;chocolatier;5;19
+procurador general;fiscal de la nación|fiscal general|Generalstaatsanwalt|procurador general en Alemania|Public prosecutor general;5;19
+yogini;;5;19
+baloncestista;jugador de basquetbol|jugadora de baloncesto|jugador de baloncesto|basquetbolista|jugadora de basquetbol|basketball player;5;19
+gestión de recursos naturales;manejo de recursos naturales|administración de recursos naturales|natural resource management;5;19
+mercenarios suizos;Mercenario suizo|Swiss  mercenary;5;19
+oblato;oblate;5;19
+atleta;athletics competitor;5;18
+modelo promocional;promotional model;5;18
+cabalista;kabalista|kabbalist;5;18
+humorista;humorist;5;18
+terrorista;terrorist;5;18
+doctorando;candidato a doctorado|candidato a doctor|estudiante de doctorado|candidata a doctorado|doctoral student;5;18
+soldado voluntario;militar voluntario|military volunteer;5;18
+pregonero;town crier;5;18
+periodismo musical;music journalism;5;18
+prospección;prospecting;5;18
+répétiteur;;5;18
+forzudo;strongman|forzudo de circo;5;18
+mecánico de precisión;machinist;5;18
+rey filósofo;philosopher king;5;18
+testaferro;strawperson;5;18
+árbitro de críquet;cricket umpire;5;18
+exorcista;exorcist;5;18
+sanador;sanadora|curadora|curador|healer;5;18
+jurisconsulto;consultor legal|jurisconsult|jurist-consultant;5;18
+hombre de medicina;chamán indígena|médico tradicional indígena|mujer de medicina|sanador indígena|medicine man;5;18
+luchador de sumo;sumōtori|Rikishi;5;18
+cantante de ópera;artista lirica|artista lirico|opera singer;5;18
+interventor de ferrocarril;interventora de ferrocarril|train manager;5;18
+cronista;cronista de Indias|cronistas|cronista mayor|cronista real|chronicler;5;18
+zoólogo;zoóloga|zoologist;5;18
+jugador;Jugadores|player;5;18
+crítico literario;críticos literarios|críticas literarias|critica literaria|literary critic;5;18
+jefe criminal;señor del crimen|crime boss;5;18
+médico descalzo;barefoot doctor;5;18
+auxiliar veterinario;paraveterinary worker;5;18
+artista escénico;artista ejecutante|artista escénica|artista intérprete|performer|performing artist;5;18
+conferencista;conferencier;5;18
+consignatario de buques;agente marítimo|agente consignatario de buques|agente consignatario|shipping agent;5;18
+representación legal;apoderado|representante|legal agent;5;18
+montañero;montañista|alpinista|andinista|mountaineer;5;18
+pintor de cámara;court painter;5;18
+condenado;convicto|convict;5;18
+oficial de regimiento;jefes|oficial de campo|Oficial de estado mayor|Oficiales de estado mayor|field officer;5;17
+diletante;dilettante;5;17
+moralista;moralista francés|moralistas franceses|moralist;5;17
+ojeador;scouter;5;17
+controlador ferroviario;despachador ferroviario|train dispatcher;5;17
+analista financiero;analista de inversiones|analista financiera|financial analyst;5;17
+empresario de medios;magnate de medios|propietario de medios|media proprietor;5;17
+biólogo evolutivo;bióloga de la evolución|biologo de la evolucion|evolutionary biologist;5;17
+hostelero;hostelera|hotel manager;5;17
+cartógrafo;cartografa|Cartògraf|cartographer;5;17
+marchante de arte;tratante de arte|marchand|comerciante de arte|art dealer;5;17
+asesor militar;military advisor;5;17
+reciclador de base;recuperadora primaria|recuperador primario|recicladora de base|recicladora|reciclador|waste picker;5;17
+bovinocultura;cattle husbandry;5;17
+superintendente;superintendent;5;17
+product manager;jefe de producto;5;17
+violador en serie;violador serial|serial rapist;5;17
+tarento;;5;17
+comunista;communist;5;17
+hombre de armas;man-at-arms;5;17
+luchador por la libertad;freedom fighter;5;17
+maestro de preescolar;maestra jardinera|maestra de preescolar|profesor de preescolar|profesora de preescolar|maestro de jardín de infancia|preschool teacher;5;17
+restaurador;restauradora|restaurantero|restaurateur;5;17
+mujer de letras;femme de lettres|woman of letters;5;17
+tejedor;tejedora|weaver;5;17
+embajador de marca;brand ambassador;5;17
+clavecinista;clavicembalista|harpiscordista|harpsichordist;5;17
+líder de opinión;opinion leader;5;17
+artista del ligue;artistas del ligue|pickup artist;5;17
+industrial;industrialista|industrialist;5;17
+cristalero;glazier;5;17
+literato;literary scholar;5;17
+historietista;guionista de historietas|dibujante de historietas|dibujante de cómics|artista de historietas|comics artist;5;17
+médico brujo;witch doctor;5;17
+copywriter;;5;17
+pabajá;pabbajjā;5;16
+boxeador;boxeadora|pugil|boxer;5;16
+asesino relámpago;asesino itinerante|spree killer;5;16
+administrador diocesano;Administrador Archdiocesano|diocesan administrator;5;16
+gravure idol;Idol Gravure;5;16
+crítico musical;crítica musical|crítico de música|music critic;5;16
+interim management;dirección de transición;5;16
+maestro de postas;postmaster;5;16
+roadie;road crew;5;16
+mecánico de aeronaves;mecanico de mantenimiento aeronautico|mecánico de mantenimiento de aeronaves|mecánico aeronáutico|aircraft mechanic;5;16
+palafrenero;mozo de cuadra|groom;5;16
+teamster;;5;16
+lexicógrafo;lexicógrafa|diccionarista|lexicographer;5;16
+guardabarrera;crossing keeper;5;16
+yesero;revocador|estuquista|enlucidor|plasterer;5;16
+notary public;public notary|notario público;5;16
+lector;;5;16
+travesti;;5;16
+medallista;Medallística|medalist;5;16
+ingeniero de diseño;ingeniera de diseño|constructor|design engineer;5;16
+ingeniero mecánico;ingeniera mecanica|mechanical engineer;5;16
+peletero;marroquinero|peletera|petaquero|furrier;5;16
+gentil del sábado;goy del sábado|Shabbos goy;5;16
+ama de llaves;housekeeper;5;16
+ginecólogo;ginecóloga|gynecologist;5;16
+tienda de segunda mano;second-hand shop;5;16
+entomólogo;entomóloga|entomologist;5;16
+folclorista;folclorólgo|folklorista|folcloróloga|folklorist;5;16
+feminista;feminist;5;16
+psicoanalista;psychoanalyst;5;16
+desacreditador;debunker;5;16
+köçek;;5;16
+conservador-restaurador;conservador|conservadora-restauradora|conservador de arte|conservador de obras de arte|conservator;5;16
+agresor sexual;criminal sexual|sex offender;5;16
+secretario judicial;court clerk;5;16
+ceramista;ceramicist;5;16
+libretista;librettist;5;16
+futurólogo;futuróloga|futurist;5;16
+mando intermedio;middle management;5;16
+analista de negocio;business analyst;5;15
+bibliógrafo;bibliografa|bibliographer;5;15
+chief marketing officer;director de mercadeo|director de marketing|CMO;5;15
+actor de televisión;actriz de television|television actor;5;15
+evaluador;tasadora|appraiser;5;15
+planificador financiero;promotor financiero|financial planner;5;15
+presentador del tiempo;presentadora del tiempo|información meteorológica|meteorólogo de televisión|meteoróloga de televisión|tiempo presentador|weather presenter;5;15
+primicerio;Primicerius;5;15
+ingeniero eléctrico;ingeniero electricista|ingeniera electricista|ingeniera eléctrica|electrical engineer;5;15
+síndico;syndic;5;15
+utilero;jefe de utilería|atrezzista|atrezista|atrecista|property master;5;15
+personal de mantenimiento;handyman;5;15
+limosnero;almoner;5;15
+paleógrafo;paleógrafa|palaeographer;5;15
+médico forense;médico legal|médico legista|medical examiner;5;15
+orientalista;orientalist;5;15
+trobairitz;;5;15
+pensionista;cesante|jubilado|persona jubilada|retirado|pensioner;5;15
+redactor de discursos;speechwriter;5;15
+productor de teatro;productor teatral|theatrical producer;5;15
+pescador de perlas;pearl hunting;5;15
+agente aduanero;customs broker;5;15
+prosector;;5;15
+recluso;reclusa|recluse;5;15
+turismo deportivo;turismo de deportes|turismo de eventos deportivos|sports tourism;5;15
+líder scout;responsable scout|scout leader;5;15
+menestral;trabajador manual calificado|Menestrales|artesano calificado|tradesperson;5;15
+vocalista;vocalist;5;15
+sexólogo;sexologa|sexologist;5;15
+gentleman scientist;científico mecenas|cientifico noble y distinguido|científico independiente|independent scientist;5;15
+captura de animales;trapping;5;15
+piloto de carreras;racing driver;5;15
+katib;;5;15
+percusionista;percussionist;5;15
+oficial de inteligencia;intelligence officer;5;15
+técnico de farmacia;técnico farmacéutico|pharmacy technician;5;15
+despachador;despachadora|despachante|dispatcher;5;15
+nazi;nacional socialista|nazis|nazista;5;15
+paralegal;asistente legal;5;15
+perito de seguros;claims adjuster;5;15
+munshi;moonshee;5;15
+funcionarios letrados;scholar-official;5;15
+reformador protestante;Protestant reformer;5;15
+programador de videojuegos;game programmer;5;15
+espadero;bladesmith;5;15
+gyōji;;5;15
+piloto de automovilismo;automovilista|racing automobile driver;5;14
+contador registrado;experto contable|chartered accountant;5;14
+colorista;colorist;5;14
+tambor mayor;drum major;5;14
+shajidka;Shahidka;5;14
+prosista;prose writer;5;14
+ornitólogo;ornitologa|ornithologist;5;14
+trompetista;trumpeter;5;14
+flatulista;flatulist;5;14
+saxofonista;saxophonist;5;14
+flautista;flautist;5;14
+autoempleado;self-employed person;5;14
+sustituto sexual;pareja sustituta|subrogación sexual|sustituta del sexo|sustituta sexual|sustituto del sexo|sexual surrogate;5;14
+gabbai;;5;14
+revendedor;reseller;5;14
+organizador de bodas;wedding planner;5;14
+oboísta;oboist;5;14
+teórico de la música;teórico musical|teorica musical|teórica de la música|music theorist;5;14
+consultor de negocios;business consultant;5;14
+capitalista;capitalist;5;14
+ascensorista;elevator operator;5;14
+fisiólogo;fisióloga|physiologist;5;14
+ciclista;sport cyclist;5;14
+director de videos musicales;director de videoclips|music video director;5;14
+voluntario;voluntaria|volunteer;5;14
+oficial de aduanas;policía aduanero|agente de aduanas|aduanero|customs officer;5;14
+sabio;sage;5;14
+licorería;liquor store;5;14
+videografía;videography;5;14
+showgirl;;5;14
+servidor público;servidora publica|chinovnik;5;14
+perro de detección;detection dog;5;14
+agente de inteligencia;intelligence agent;5;14
+videobloguero;videobloguera|vlogger|vloguera|vloguero;5;14
+director espiritual;directora espiritual|spiritual director;5;14
+gestión deportiva;sport management;5;14
+lepidopterólogo;lepidopterologa|lepidopterist;5;14
+táltos;;5;14
+coureur des bois;;5;14
+asistente de investigación;investigador asistente|research assistant;5;14
+preceptor;maestro de casa|hofmeister|maestro de la corte|ayo;5;14
+artista bélico;war artist;5;14
+neurocientífico;neurocientifica|neuroscientist;5;14
+trabajador ferroviario;ferroviario|railway worker;5;14
+combatiente ilegal;unlawful combatant;5;14
+tendero;tendera|shopkeeper;5;14
+narrador;narrator;5;14
+biógrafo;biógrafa|biographer;5;14
+genealogista;genealogist;5;14
+catecúmeno;Neófito|Neofitos|catechumen;5;14
+fotoperiodista;reportero fotógrafo|periodista fotógrafo|fotorreportero|periodista gráfico|reportero gráfico|photojournalist;5;14
+ajedrecista;jugadora de ajedrez|jugador de ajedrez|chess player;5;13
+atracador de caminos;bandido de caminos|ladron de caminos|salteador de caminos|highwayman;5;13
+etnógrafo;etnografa|ethnographer;5;13
+documentalista;documentalist;5;13
+juguetería;tienda de juguetes|toy store;5;13
+evangelista tecnológico;technology evangelist;5;13
+señor feudal;feudatory;5;13
+bróker de información;information broker;5;13
+crítico gastronómico;crítica culinaria|crítica gastronómica|crítico culinario|periodista gastronómico|food critic;5;13
+ecólogo;ecologa|ecologist;5;13
+hieródulo;Hieródula|hierodule;5;13
+arreglista musical;arreglador musical|arreglista|music arranger;5;13
+lavandera;lavanderas|lavandero|washerwoman;5;13
+especialista en literatura;;5;13
+carrocero;coachbuilder;5;13
+empujador;Oshiya|pusher;5;13
+caballerizo;equerry;5;13
+estudiante de posgrado;estudiante de postgrado|estudiante graduado|graduate student;5;13
+musa;muse;5;13
+picador;picadora;5;13
+orientador educativo;consejero educativo|consejero escolar|orientador escolar|school counselor;5;13
+corregidor;co regidor;5;13
+wikipedista;editor de Wikipedia|editora de Wikipedia|wikipedistas|Wikipedian;5;13
+corredor naviero;bróker marítimo|broker nautico|agente naviero|shipbroker;5;13
+heresiarca;heresiarch;5;13
+vigía;lookout;5;13
+vegano;veganos|vegan;5;13
+jefe de policía;chief of police;5;13
+espía atómico;espia del atomo|espias atomicos|atomic spies;5;13
+gestor cultural;gestión cultural|gestora cultural|cultural manager;5;13
+modelo erótica;modelo adulto|modelo de fotografía erótica|modelo erótico|modelo glamour|erotic photography model;5;13
+patólogo;patologa|pathologist;5;13
+abate;abbé;5;13
+showman;;5;13
+corrector de textos;correctora de textos|corrector literario|corrector de texto|corrector de estilo|proofreader;5;13
+calculista mental;calculista ultrarrápido|mental calculator;5;13
+apostolado;apostolate;5;13
+contrabandista de dinero;contrabandista de dinero en efectivo|contrabandista de efectivo|money mule;5;13
+endocrinólogo;endocrinologa|endocrinologist;5;13
+entrenador de baloncesto;entrenador de basquetbol|entrenadora de baloncesto|basketball coach;5;13
+furriel;Furir;5;13
+misionero mormón;Mormon missionary;5;13
+realista;royalist;5;13
+guarda;guard;5;13
+capataz de obra;construction foreman;5;13
+gerente municipal;city manager;5;13
+agente comercial;commercial agent;5;13
+jefe del estado mayor;Chief of Staff;5;13
+astrofísico;astrofisica|astrophysicist;5;13
+estratega;strategist;5;13
+guitarrista lider;lead guitarist;5;13
+analista de sistemas;systems analyst;5;13
+cestero;cestera|basket weaver;5;13
+ingeniero agrónomo;ingeniera agrícola|ingeniera agrónoma|ingeniero agrícola|agricultural engineer;5;12
+asesor sexual;acompañamiento sexual|sexual assistance;5;12
+director de seguridad de la información;oficial de seguridad de la información|CISO|chief information security officer;5;12
+cónsul honorario;honorary consul;5;12
+beisbolista;jugador de béisbol|jugadora de béisbol|baseball player;5;12
+activista político;militante político|militante política|activista política|political activist;5;12
+catador de venenos;food taster;5;12
+delincuente;delinquent;5;12
+clarinetista;clarinete|clarinetist;5;12
+tipógrafo;typographer;5;12
+viajero;viajeras|voyageur|viajeros|viajera|viajantes|traveler;5;12
+médico personal;personal physician;5;12
+spin doctor;;5;12
+cuentacuentos;cuentero|cuentista|storyteller;5;12
+radiotelegrafista;radio operator;5;12
+ayuda de cámara;valet;5;12
+putero;prostitution client;5;12
+podcaster;presentador de podcast|presentadora de podcast|productora de podcasts|productor de podcasts;5;12
+arquitecto de software;software architect;5;12
+sugar daddy;;5;12
+fisicoquímico;fisicoquimica|physical chemist;5;12
+fabricante de armaduras;armourer;5;12
+dibujante de historieta;diseñador de historieta|lápiz final|dibujante de cómic|penciller;5;12
+impostor;impersonator;5;12
+promotor inmobiliario;promotor|real estate developer;5;12
+acordeonista;acordeonero|accordionist;5;12
+buceador;buceadora|submarinista|diver;5;12
+numismático;numismática|numismatist;5;12
+pentito;Pentiti;5;12
+árbitro de baloncesto;arbitro de basquetbol|basketball official;5;12
+editor literario;editora literaria|literary editor;5;12
+agente indio;Indian agent;5;12
+jabonero;productora de jabón|productor de jabón|fabricante de jabón|jabonera|soap maker;5;12
+coleccionista;collector;5;12
+grabador;grabadora|engraver;5;12
+calderería;metal fabrication;5;12
+ictiólogo;ictiologa|ichthyologist;5;12
+escritor de literatura infantil;escritora de literatura infantil|children's writer;5;12
+benefactor;benefactora;5;12
+asistente dental;dental assistant;5;12
+velero;velera|sailmaker;5;12
+estudios croatas;Croatian studies;5;12
+kotwal;Kotual|Cotwal;5;12
+tutor a domicilio;in-home tutor;5;12
+yudoca;judoca|judoka;5;12
+comisario de exposiciones;comisaria de exposiciones|comisaria de exposición|comisaria artística|comisario artistico|exhibition curator;5;12
+partera;comadrona|traditional birth attendant;5;12
+defensor de la tierra;defensor del territorio|persona defensora del territorio|persona defensora de la tierra|defensora del territorio|activista por la defensa del territorio|land defender;5;12
+controlador de vuelo;controladora de vuelo|flight controller;5;12
+mistress of the Robes;Señora de los Ropajes;5;12
+museólogo;museóloga|museologist;5;11
+técnico de iluminación;técnica de iluminación|lighting technician;5;11
+oficial naval;oficial de marina|oficial de la armada|marino militar|naval officer;5;11
+corego;coregus|choregos;5;11
+usurpador romano;Roman usurper;5;11
+herrería;blacksmithing;5;11
+ministro plenipotenciario;legado|minister plenipotentiary;5;11
+integrador de sistemas;systems integrator;5;11
+enfermera práctica;licensed practical nurse;5;11
+mánager de béisbol;entrenador principal de béisbol|baseball manager;5;11
+acróbata;saltimbanqui|acrobat;5;11
+lobista;cabildista|lobbyist;5;11
+payaso de hospital;doctor clown|payaso hospitalario|hospital clown;5;11
+contrabajista;doblebajista|double-bassist;5;11
+tenista de mesa;jugadora de tenis de mesa|tenismesista|jugador de tenis de mesa|table tennis player;5;11
+obstetra;obstetriz|obstetrician;5;11
+criador;criadora|animal breeder;5;11
+evangelista;evangelist;5;11
+trabajador calificado;trabajadora calificada|skilled worker;5;11
+filatelista;philatelist;5;11
+delegado sindical;representante sindical|union representative;5;11
+ventrílocuo;ventrílocua|ventriloquist;5;11
+sindicalista;líder sindical|trade unionist;5;11
+escritor de cuentos;short story writer;5;11
+sombrerero;hatter;5;11
+bedel;;5;11
+segunda unidad;second unit;5;11
+debutante;;5;11
+pequeño reino;reino menor|petty kingdom;5;11
+comediante en vivo;comediante de pie|monologuista cómico|stand-up comedian;5;11
+tatuador;artista tatuador|tatuadora|tattoo artist;5;11
+artista gráfico;artista gráfica|graphic artist;5;11
+amo de casa;ama de casa|homemaker;5;11
+telegrafista;telegraphist;5;11
+príncipe-abad;abad|prince-abbot;5;11
+mayista;mayologo|mayóloga|mayanist;5;11
+ingeniería de radiodifusión;ingeniería de difusión|broadcast engineering;5;11
+ingeniero de navío;oficial de ingenieria|engineering officer;5;11
+ingeniero estructural;ingeniera estructural|ingeniero de estructuras|structural engineer;5;11
+rosh yeshivá;;5;11
+promotor de eventos;promoter;5;11
+delincuente habitual;delincuente persistente|criminal habitual|criminal de carrera|habitual offender;5;11
+responsable de comunidad de internet;gestor de la comunidad de internet|online community manager;5;11
+carnavalesco;Carnival producer;5;11
+aventurero;aventurera|adventurer;5;11
+pionero de Norteamérica;American pioneer;5;11
+médico naval;médico a bordo|cirujano naval|naval surgeon;5;11
+fotomodelo;fashion model;5;11
+médico de urgencias;medico de emergencias|medico de urgencia|emergency physician;5;11
+gerente de cuenta;account manager;5;11
+enfermero anestesista;enfermera anestesista|técnico anestesista|nurse anesthetist;5;11
+caricaturista;dibujante veloz|caricaturist;5;11
+operador de boom;boom operator;5;11
+farmacia hospitalaria;hospital pharmacy;5;11
+técnico ortopédico;prosthetist/orthotist;5;11
+operador del mercado bursátil;operadora del mercado bursátil|stock trader;5;11
+chief digital officer;CDO|director de informacion digital;5;11
+instructor militar;instructora militar|drill instructor;5;11
+fiduciario;Fiduciaria|fiduciary;5;11
+sacerdote obrero;Curas obreros|Cura rojo|sacerdote obreros|Curas rojos|presbítero obrero|Worker-Priest;5;11
+instructor de manejo;profesor de manejo|driving instructor;5;11
+ingeniero tecnólogo;tecnólogo en ingeniería|engineering technologist;5;11
+laico;laica|laic;5;11
+guardavía;platelayer;5;11
+internauta;cibernauta|internaut;5;11
+vulcanólogo;vulcanóloga|volcanologo|volcanóloga|volcanologist;5;11
+criminólogo;criminóloga|criminologist;5;11
+asistente judicial;law clerk;5;11
+mula;Burro|mule;5;11
+charro;;5;11
+asesino;asesina|homicida|murderer;5;11
+intérprete de lengua de signos;intérprete de lingua de señas|intérprete de lengua de señas|sign language interpreter;5;10
+procurador del Estado;fiscal del Estado|state's attorney;5;10
+climatólogo;climatologa|climatologist;5;10
+psicólogo clínico;sicólogo clínico|psicóloga clínica|clinical psychologist;5;10
+afinador de pianos;piano tuner;5;10
+contrarrevolucionario;contrarrevolucionaria|counter-revolutionary;5;10
+cadre;;5;10
+etnólogo;etnóloga|ethnologist;5;10
+secretario de prensa;asesor de prensa|press secretary;5;10
+pirotécnico;Feuerwerker;5;10
+comidista;foodie;5;10
+terrateniente;terratenientes|land owner;5;10
+músico callejero;música callejera|músico de la calle|street musician;5;10
+plenipotenciario;representante plenipotenciario|plenipotentiary;5;10
+historiador local;local historian;5;10
+gramático;gramática|grammarian;5;10
+pacifista;pacifist;5;10
+modelo de desnudo;nude model;5;10
+posadero;innkeeper;5;10
+artillero de cola;Torreta de cola|tail gunner;5;10
+donante;donor;5;10
+operador;operadora|operator;5;10
+candidato perenne;perennial candidate;5;10
+preboste;provost;5;10
+farmacólogo;farmacologa|pharmacologist;5;10
+geómetra;geometer;5;10
+profesor de educación física;profesor de deporte|educadora fisica|educador fisico|physical education teacher;5;10
+agente especial;special agent;5;10
+punzón;punch cutting;5;10
+coordinador de dobles;stunt coordinator;5;10
+cosmólogo;cosmologa|cosmologist;5;10
+ejecutivo discográfico;ejecutiva musical|ejecutivo musical|ejecutiva discográfica|music executive;5;10
+funámbulo;funambulista|funámbula|alambrista|tightrope walker;5;10
+artista de videojuegos;video game artist;5;10
+emisario;emissary;5;10
+guardián de zoológico;guardián de parque zoológico|guarda de zoológico|zookeeper;5;10
+modelo de talla grande;plus-size model;5;10
+subprefecto;sub-prefect;5;10
+académico;academica|universitaria|universitario|academic;5;10
+innovador;innovator;5;10
+árbitro de tenis;tennis umpire;5;10
+diseñador tipográfico;diseñador de tipografía|diseñador de caracteres|creador de caracteres tipográficos|creador tipografico|creador de tipografias|type designer;5;10
+oceanógrafo;oceanógrafa|oceanographer;5;10
+agente de publicidad;agente de prensa|agente de relaciones públicas|encargado de promoción|representante de prensa|publicist;5;10
+garde manger;;5;10
+títere;cómplice|shill;5;10
+entrenador de caballos;entrenadora de caballos|horse trainer;5;10
+mediador;mediator;5;10
+gerente de campaña;director de campaña|jefa de campaña|jefe de campaña|jefe de campaña política|directora de campaña|campaign manager;5;10
+náufrago;náufraga|castaway;5;10
+animalier;;5;10
+guionista principal;escritor jefe|escritor principal|head writer;5;10
+müderris;;5;10
+mnemonista;mnemonist;5;10
+seanchaí;;5;10
+huey tlatoani;;5;10
+personal shopper;;5;10
+director de construcción;director de sitio|director de obras|construction manager;5;10
+modelo fetichista;fetish model;5;10
+supervisor de efectos visuales;supervisora de efectos visuales|visual effects supervisor;5;10
+consultor de guion;Doctor de guion|Revisor de guion|script doctor;5;10
+sommelier de cerveza;sumiller de cerveza|sumiller cervecero|beer critic;5;10
+pirata espacial;space pirate;5;10
+violista;violist;5;10
+karateca;karateka;5;10
+hombre anuncio;human billboard;5;10
+buttero;;5;9
+absentista;Absentistas|absentee landlord;5;9
+arquitecto de interiores;interior architect;5;9
+coleccionista de arte;art collector;5;9
+anatomista;anatomist;5;9
+creador de contenido;content creator;5;9
+cocalero;;5;9
+golfista;jugadora de golf|jugador de golf|golfer;5;9
+manicura;nail technician;5;9
+comentarista político;political pundit;5;9
+hikeshi;;5;9
+decorador de teatro;decoradora de teatro|diseñador teatral|diseñador de teatro|decorador teatral|theatre designer;5;9
+jugador de hockey sobre hielo;jugadora de hockey sobre hielo|ice hockey player;5;9
+jugador de críquet;jugadora de criquet|cricketer;5;9
+científico de la información;cientifica de la informacion|informatólogo|informatóloga|information scientist;5;9
+profesor titular;profesor titular universitario|titular de universidad|profesor numerario|profesora titular|senior lecturer;5;9
+técnico electrónico;electronics technician;5;9
+maratonista;marathon runner;5;9
+maestro de obras;master builder;5;9
+taumaturgo;hacedora de milagros|hacedor de milagros|taumaturga|taumaturgas|taumaturgos|thaumaturge;5;9
+toasting;deejaying|rap|chatting;5;9
+investigador clínico;clinical research associate;5;9
+corsetero;corsetera|corsetmaker;5;9
+lavaplatos;dishwasher;5;9
+maestro de esgrima;maestro de armas|fencing master;5;9
+cuidado de equinos;guarda de equinos|vigilancia y manutencion de equinos|horse care;5;9
+almadreñero;fabricante de zuecos|clogmaker;5;9
+diseñador de jardines;diseñadora de jardines|garden designer;5;9
+esquilador;esquiladora|sheep shearer;5;9
+músico de jazz;música de jazz|jazz musician;5;9
+papirólogo;papiróloga|papyrologist;5;9
+herpetólogo;herpetologa|herpetologist;5;9
+administrador;administradora|administrator;5;9
+ilusionista;maga|illusionist;5;9
+moderador;moderador de debate|moderador de debates|moderador de discusion|moderador de discusiones|discussion moderator;5;9
+árbitro de hockey sobre hielo;ice hockey official;5;9
+radiólogo;radióloga|radiologista|roentgenólogo|radiologist;5;9
+ampáyer;ompayer|árbitro de béisbol|baseball umpire;5;9
+metalúrgico;metalurgica|metalurgista|metallurgist;5;9
+carillonista;carillonera|carillonero|carillonist;5;9
+físico médico;biofísico médico|físico biomédico|físico sanitario|radiofísico|medical physicist;5;9
+primer interventor;first responder;5;9
+crítico cultural;critica de la cultura|crítico de la cultura|cultural critic;5;9
+fideicomisario;administrador del fideicomiso|trustee;5;9
+analista de software;analista programador|software analyst;5;9
+director de producción;directora de producción|production manager;5;9
+pintor de paisajes;landscape painter;5;9
+francmasón;masón|masones|Freemason;5;9
+visionario;visionary;5;9
+polígrafo;polygraph;5;9
+creador;creadora|creator;5;9
+germanista;Germanist;5;9
+sargento de armas;serjeant-at-arms;5;9
+tetrarca;tetrarch;5;9
+videógrafo;videógrafa|videographer;5;9
+carnicero kosher;kosher slaughterer;5;9
+activista por los derechos de las mujeres;women's rights activist;5;9
+arpista;harpist;5;9
+herborista;herbalista|herbalist;5;9
+oficial de armas;officer of arms;5;9
+cardiólogo;cardiologa|cardiologist;5;9
+socio de negocios;business partner;5;9
+escrutador;escrutadora|escrudiñador|scrutineer;5;9
+curtidor;tanner;5;9
+ortodoncista;orthodontist;5;9
+esquiador;esquiadora|skier;5;9
+personal asistente de cura;personal care assistant;5;9
+perpetrador;victimarios|victimaria|victimario|victimarias|perpetrator;5;9
+sesen;;5;9
+motociclista;motero|motoquero|motorcyclist;5;9
+médico asistente;attending physician;5;9
+refrendario;referendario|referendary;5;9
+doshu;;5;9
+golfista profesional;professional golfer;5;9
+hebraísta;Hebraist;5;9
+trombón;trombonista|trombonist;5;9
+curandero;curandera;5;9
+clase de plantadores;aristocracia sureña|planter class;5;9
+almacenero;almacenista|grocer;5;9
+reumatólogo;reumatologa|rheumatologist;5;9
+agente de tránsito;guardia de tránsito|traffic guard;5;9
+rotulista;rotulador|letrista|letterer;5;9
+dama de honor;maid of honour;5;9
+guarda de caza;gamekeeper;5;9
+prevención del VIH/SIDA;prevention of HIV/AIDS;5;9
+oficial radiotelegrafista;marconista|radiotelegrafista de marina|oficial de radio|radio officer;5;9
+maestro cervecero;brewmaster;5;9
+bancario;bancaria|empleado de banca|empleado de banco|bank teller;5;9
+cervecero;brewer;5;9
+secretario municipal;municipal clerk;5;9
+digitador;capturista|digitadora|data entry clerk;5;9
+cardador;cardadora|cardador de lana|colchonero|carder;5;9
+mensajero en moto;mensajero motociclista|motorcycle courier;5;8
+estafador;defraudadora|estafadora|defraudador|con artist;5;8
+artista de performance;artista performativo|performance artist;5;8
+jinete del caballo;horse rider;5;8
+realeza;royalty;5;8
+anticomunista;anticomunistas|anti-communist;5;8
+sismólogo;seismólogo|sismologa|seismologist;5;8
+ideolingüista;language inventor;5;8
+inmunólogo;inmunologa|immunologist;5;8
+arriero;acemilero|mulero;5;8
+jefe de misión;jefe de mision diplomatica|head of mission;5;8
+ángel de la muerte;ángel de la misericordia|angel of mercy;5;8
+enfermero de práctica avanzada;enfermera de practica avanzada|advanced practice nurse;5;8
+gentilhombre de Su Santidad;papal gentleman;5;8
+sionista;Zionist;5;8
+epidemiólogo;epidemiologa|epidemiologist;5;8
+agente hipotecario;corredor hipotecario|mortgage broker;5;8
+patinador artístico sobre hielo;patinadora artistica sobre hielo|figure skater;5;8
+namestnik;;5;8
+luchador profesional;luchador de catch|wrestling profesional|wrestler|luchadora profesional|luchadora|professional wrestler;5;8
+historiador de la literatura;historiadora de la literatura|literary historian;5;8
+gardian;;5;8
+abogado interno;abogado in house|in-house lawyer;5;8
+divulgador científico;divulgadora científica|divulgador de la ciencia|divulgadora de la ciencia|science communicator;5;8
+sinólogo;sinologa|sinologist;5;8
+sýslumaður;sysselmann;5;8
+malacólogo;malacologa|malacologist;5;8
+físico nuclear;física nuclear|nuclear physicist;5;8
+litógrafo;litógrafa|lithographer;5;8
+rescatador;rescuer;5;8
+lapidario;lapidary;5;8
+crítico de teatro;critica de teatro|crítico teatral|crítico dramático|theatre critic;5;8
+bibliófilo;bibliophile;5;8
+productor técnico;productora técnica|line producer;5;8
+asiriólogo;asiriologa|sumeriólogo|sumerióloga|assyriologist;5;8
+trompista;horn player;5;8
+productor de hip hop;productor de ritmos|productora de ritmos|productora de hip hop|creador de ritmos|creadora de ritmos|hip hop producer;5;8
+académico de la cultura;culturólogo|científico de la cultura|científica de la cultura|cultural studies scholar;5;8
+quesero;quesera|cheesemaker;5;8
+ortoptista;orthoptist;5;8
+guía acompañante;travel guide;5;8
+visitador médico;medical representative;5;8
+decorador;diseñadora de interiores|diseñador interior|decoradora|diseñador de interiores|interior designer;5;8
+talmudista;erudito talmudico|investigador talmudico|talmudist;5;8
+visagista;visagiste;5;8
+árbitro de ajedrez;chess arbiter;5;8
+mecánico de bicicletas;tecnico de bicicletas|bicycle mechanic;5;8
+clasicista;experto en estudios clasicos|experta en estudios clásicos|classical scholar;5;8
+micólogo;micologa|mycologist;5;8
+oficiante de boda;celebrante|celebrante de casamiento|oficiante|wedding officiant;5;8
+profesor de música;music teacher;5;8
+banderillero;Rehiletero|banderillera;5;8
+martillero público;rematador|subastador público|rematadora|subastador|auctioneer;5;8
+astronauta comercial;commercial astronaut;5;8
+animadora;porrista|cheerleader;5;8
+ejecutivo de empresa;jefa de empresa|director de empresa|directora de empresa|alto ejecutivo|business executive;5;8
+cocotte;;5;8
+asistente de baño;washroom attendant;5;8
+horticultor;horticultora|horticulturist;5;8
+editor de sonido;Edición de sonido|sound editor;5;8
+estilista de moda;wardrobe stylist;5;8
+pizzero;pizzera|pizzaiolo|El arte de los ‘pizzaioli’ napolitanos;5;8
+productor de radio;productora de radio|productora radiofonica|productor radiofonico|radio producer;5;8
+predicador laico;lay preacher;5;8
+reader;;5;8
+distribuidor;;5;8
+enfermera militar;enfermero militar|military nurse;5;8
+cuidador de automóviles;cuidacoches|franelero|aparcacoches callejero|trapito|aparcacoches|car guard;5;8
+maestro de novicios;maestra de novicias|master of novices;5;8
+fabricante de guitarras;fabricacion de guitarras|guitar maker;5;8
+brehon;;5;8
+entrevistador;entrevistadora|interviewer;5;8
+colaborador informal;Geheimer Informant|Inoffizieller Mitarbeiter|GI|IM|unofficial collaborator;5;8
+ejecutivo de cuentas;ejecutiva de cuentas|account executive;5;8
+garde champêtre;;5;8
+fusilier marin;infante de marina|fusilero de marina|Fusiliers Marins;5;8
+clínico;médico clínico|clinician;5;8
+asuntos públicos;public affairs;5;8
+doctor en medicina osteopática;Médico, doctor|Doctor of Osteopathic Medicine;5;8
+despachador de aeronaves;despachadora de aeronaves|despachante de aeronaves|oficial de operaciones|flight dispatcher;5;8
+tallista;tallador de madera|abridor|wood carver;5;8
+indiano;Hacer las Americas|Indianos;5;8
+director de programa;directora de programa|director de programación de difusión|manager de programa|director of programming;5;8
+agente de la ley;oficial del orden público|agente del orden público|oficial de las fuerzas del orden|oficial de la ley|law enforcement officer;5;8
+partidista;partidario|partidismo;5;8
+asesor financiero independiente;independent financial adviser;5;8
+madonnaro;pintor callejero|pintora callejera|madonnari|street painter;5;8
+cartelista;diseñador de carteles|poster artist;5;8
+tripulación de barco;ship's company;5;8
+vicegerente;Vicegerent;5;8
+escaparatista;window dresser;5;8
+antifascista;antifa|antifascistas|antifas|anti-fascist;5;8
+satírico;satírica|satirist;5;8
+confucionista;estudioso de Confucio|Confucian scholar;5;8
+tiktoker;personalidad de TikTok|celebridad de TikTok|influencer de TikTok|creador de contenido en TikTok;5;8
+iluminador;iluminador de manuscritos|illuminator;5;8
