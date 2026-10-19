@@ -1,48 +1,132 @@
 respuesta;alias;nivel;orden_a_mano
-Calippo;Calipo|Calipo de lima|Calippo de lima;1;1000000000
+Calippo;Calipo;1;1000000000
 Magnum;;1;999999999
 Cornetto;Corneto;1;999999998
 Drácula;;1;999999997
-Frigopie;Frigopie de fresa;1;999999996
+Frigopie;Frigo pie de fresa;1;999999996
 Twister;;1;999999995
-Solero;;2;1000000000
-Frigodedo;;2;999999999
-Viennetta;Vienetta|Vienneta|tarta Viennetta;2;999999998
-Popeye;;2;999999997
-Colajet;;2;999999996
-Mini Milk;;2;999999995
-Magnum Almendras;Magnum Almendra|Magnum Almond|Magnum almendrado;2;999999994
-Big Milk;;3;1000000000
-Carte d'Or;;3;999999999
-Ben & Jerry's;Ben and Jerry's;3;999999998
-Magnum Blanco;Magnum White|Magnum chocolate blanco;3;999999997
-Magnum Doble;Magnum Double;3;999999996
-Magnum Mini;Mini Magnum;3;999999995
-Calippo Mini;Mini Calippo;3;999999994
-Cornetto Disc;Cornetto Disco;3;999999993
-Magnum Gold;;3;100000000
-Magnum Ruby;;3;99999999
-Magnum Pink;;3;99999998
-Magnum Double Chocolate;;3;99999997
-Magnum Caramel;;3;99999996
-Cornetto Clásico;;3;99999995
-Cornetto Chocolate;;3;99999994
-Cornetto Nata Fresa;Cornetto fresa y nata|Corneto fresa;3;99999993
-Cornetto Vainilla;;3;99999992
-Cornetto Mini;Mini Cornetto;3;99999991
-Calippo lima-limón;Calippo limón;3;99999990
-Calippo fresa;;3;99999989
-Calippo cola;;3;99999988
-Calippo naranja;;3;99999987
-Magnum Frac;;4;1000000000
-Magnum Clásico;Magnum Classic;4;999999999
-Calippo Shots;;4;999999998
-Cornetto Soft;;4;999999997
-Magnum Infinity;;4;100000000
-Magnum Ego;;4;99999999
-Cornetto Enigma;;4;99999998
-Magnum Almendras Blanco;;4;99999997
-Magnum Mini Classic;;4;99999996
-Magnum Cookie;Magnum Cookies;5;999999996
-Twister Mini;;5;999999995
-Solero Exotic;;5;999999994
+Solero;Solero Exotic;2;1000000000
+Frigodedo;dedo;2;999999999
+Comtessa;Viennetta|Vienetta|tarta Comtessa|tarta Viennetta;2;999999998
+Mini Milk;;2;999999997
+Magnum Almendrado;Magnum Almendras|Magnum Almond;2;999999996
+Magnum Blanco;Magnum chocolate blanco|Magnum White;2;999999995
+Frigurón;el tiburón;2;999999994
+Popeye;;2;999999993
+Colajet;;2;999999992
+Sándwich;Sándwich de nata|Sandwich Original|sándwich sabor nata;2;999999991
+Super Twister;;2;999999990
+Cornetto Nata;Cornetto clásico|Cornetto original;2;999999989
+Carte d'Or;;2;999999988
+Calippo lima-limón;Calippo limón|Calippo lima;2;999999987
+Calippo fresa;;2;999999986
+Calippo cola;;2;999999985
+Magnum Frac;;3;1000000000
+Magnum Doble;Magnum Double;3;999999999
+Magnum Double Chocolate;Magnum doble chocolate;3;999999998
+Magnum Pistacho;Magnum Signature Pistacho;3;999999997
+Cornetto Vainilla;;3;999999996
+Cornetto XXL;;3;999999995
+Cornetto Max;;3;999999994
+Cornetto Soft;;3;999999993
+Cornetto Go!;;3;999999992
+Cornetto Choc'n'Ball;Choc'n'Ball;3;999999991
+Volcanix;;3;999999990
+Bombón Filipinos;Filipinos helado;3;999999989
+Sándwich Filipinos;;3;999999988
+Sándwich Dinosaurus;helado de Dinosaurus;3;999999987
+Frigo Chuches;;3;999999986
+Ben & Jerry's;Ben and Jerry's;3;999999985
+Big Milk;;3;999999984
+Magnum Mini;Mini Magnum;3;999999983
+Calippo Mini;Mini Calippo;3;999999982
+Bombón;bombón helado;3;999999981
+Dominó;;3;999999980
+tarta al whisky;;3;999999979
+Romántica;tarta Romántica;3;999999978
+Magnum Double Gold Caramel;;4;1000000000
+Magnum Double Nocciola;Magnum Nocciola;4;999999999
+Magnum Double Hazelnut;;4;999999998
+Magnum Caramel & Nuts;Magnum Barrita Caramel & Nuts|Magnum barrita;4;999999997
+Magnum Bonbon;Magnum Bombón;4;999999996
+Magnum After Dinner;;4;999999995
+Bomboniera;Magnum Bomboniera;4;999999994
+Magnum Gold;;4;999999993
+Magnum Ruby;;4;999999992
+Magnum Pink;;4;999999991
+Magnum Caramel;;4;999999990
+Magnum Infinity;;4;999999989
+Magnum Ego;;4;999999988
+Magnum Classic;Magnum Clásico;4;999999987
+Cornetto Fresa;Cornetto nata fresa|Cornetto fresa y nata;4;999999986
+Cornetto Chocolate;;4;999999985
+Cornetto XXL Nata;;4;999999984
+Cornetto XXL Chocolate;;4;999999983
+Cornetto Max Pistacho;;4;999999982
+Cornetto Max avellanas;Cornetto Max chocolate y avellanas;4;999999981
+Cornetto Max Mango;;4;999999980
+Cornetto Miniatura;;4;999999979
+Cornetto Mini;Mini Cornetto|Cornetto Mini Classico;4;999999978
+Cornetto Soft Nata;;4;999999977
+Cornetto Soft Fresa;;4;999999976
+Cornetto Soft Caramelo;;4;999999975
+Cornetto Soft Choco Chips;;4;999999974
+Cornetto Soft Chicle;;4;999999973
+Cornetto Enigma;;4;999999972
+Cornetto Disc;Cornetto Disco;4;999999971
+Twister Mini;Twister mini piña fresa;4;999999970
+Calippo Shots;;4;999999969
+Haribo Push Up;Push Up;4;999999968
+Drácula Cola;;4;999999967
+Kids Mix;;4;999999966
+Filipinos Sándwich Cookies;;4;999999965
+Mini Comtessa;;4;999999964
+Frigo Moments;;4;999999963
+Copa Brasil;;4;999999962
+coco helado;;4;999999961
+limón helado;;4;999999960
+tarrina al whisky;;4;999999959
+crema catalana helada;;4;999999958
+Carte d'Or Stracciatella;;4;999999957
+Carte d'Or Vainilla;;4;999999956
+Carte d'Or Chocolate;;4;999999955
+Carte d'Or Sorbete Limón;;4;999999954
+Carte d'Or Yogur Frutas del Bosque;;4;999999953
+Ben & Jerry's Cookie Dough;Cookie Dough;4;999999952
+Ben & Jerry's Chocolate Fudge Brownie;Chocolate Fudge Brownie;4;999999951
+Ben & Jerry's Chunky Monkey;Chunky Monkey;4;999999950
+Ben & Jerry's Strawberry Cheesecake;Strawberry Cheesecake;4;999999949
+Ben & Jerry's Peanut Butter Cup;Peanut Butter Cup;4;999999948
+Magnum Bonbon Cherry;;5;1000000000
+Magnum Bonbon Salted Caramel & Almond;;5;999999999
+Magnum Bonbon White Chocolate & Cookies;;5;999999998
+Magnum Bonbon Gold Caramel Billionaire;;5;999999997
+Magnum Crackables;;5;999999996
+Ben & Jerry's Churrifically Churros-y;Churrifically Churros-y;5;999999995
+Ben & Jerry's Peaces;Peaces;5;999999994
+Ben & Jerry's Sandwich Cookie Dough;;5;999999993
+Spectacu-love;;5;999999992
+Cookie Dough S'wich Up;;5;999999991
+Vanilla Pecan Blondie;;5;999999990
+Caramel Brownie Party;;5;999999989
+Cookies on Cookie Dough;;5;999999988
+Dulce-de-lish;;5;999999987
+Cookie Vermont-ster;;5;999999986
+Sweet Mango Memories;;5;999999985
+Brookies & Cream;;5;999999984
+Salted Caramel Brownie;;5;999999983
+Mon Petit Glacier;;5;999999982
+Copa Turrón Selecto;copa de turrón;5;999999981
+Copa Duo vainilla y chocolate;;5;999999980
+Copa Limón;;5;999999979
+Copa Fresa;;5;999999978
+bloque tres gustos;tres gustos;5;999999977
+bloque de turrón;;5;999999976
+cono turrón;;5;999999975
+cono cookies;;5;999999974
+cono brownie;;5;999999973
+tarta al whisky y quemado;;5;999999972
+Carte d'Or Tarta Romántica;;5;999999971
+Twister 5;;5;999999970
+5L;;5;999999969
+palomitas de caramelo;;5;999999968

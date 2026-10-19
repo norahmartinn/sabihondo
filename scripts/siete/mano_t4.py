@@ -5,7 +5,7 @@ Formato: nombres separados por coma; los alias van pegados con «=».
 REPARTE dice en cuántos niveles se trocea una lista larga (escrita de más a menos conocido)."""
 
 REPARTE = {
- "frigo": {4: [4, 5]}, "hacendado": {2: [2, 3, 4, 5]}, "eurovision": {3: [3, 4, 5]}, "provincias": {2: [2, 3], 3: [4, 5]},
+ "hacendado": {2: [2, 3, 4, 5]}, "eurovision": {3: [3, 4, 5]}, "provincias": {2: [2, 3], 3: [4, 5]},
  "friends": {3: [3, 4]}, "phineas": {3: [3, 4]}, "bigbang": {3: [3, 4]}, "office": {3: [3, 4]}, "modern_family": {3: [3, 4]},
  "peter_pan": {3: [3, 4, 5]}, "pronombres": {3: [3, 4], 4: [5]}, "hispanohablantes": {4: [4, 5]},
  "huesos": {2: [2, 3, 4]}, "musculos": {2: [2, 3, 4]}, "filosofos": {2: [2, 3]}, "batallas": {2: [2, 3]},
@@ -18,10 +18,11 @@ REPARTE = {
 
 MANO = {
 "frigo": {
- 1: "Calippo=Calipo, Magnum, Cornetto=Corneto, Drácula=Dracula, Frigopie=Frigopié=Frigo pie, Twister",
- 2: "Solero, Frigodedo=Frigo dedo, Viennetta=Vienetta=Vienneta, Popeye, Colajet=Cola Jet, Mini Milk=Minimilk, Magnum Almendras=Magnum Almendra",
- 3: "Big Milk=Bigmilk, Carte d'Or=Carte dor, Ben & Jerry's=Ben and Jerry's=Ben y Jerry's=Ben & Jerrys, Magnum Blanco=Magnum White, Magnum Doble=Magnum Double, Magnum Mini=Mini Magnum, Calippo Mini=Mini Calippo, Cornetto Disc=Cornetto Disco",
- 4: "Magnum Frac, Magnum Clásico=Magnum Classic, Calippo Shots, Cornetto Soft, Magnum Cookie=Magnum Cookies, Twister Mini, Solero Exotic",
+ 1: "Calippo=Calipo, Magnum, Cornetto=Corneto, Drácula=Dracula, Frigopie=Frigopié=Frigo pie=Frigo pie de fresa, Twister",
+ 2: "Solero=Solero Exotic, Frigodedo=Frigo dedo=dedo, Comtessa=Viennetta=Vienetta=tarta Comtessa=tarta Viennetta, Mini Milk=Minimilk, Magnum Almendrado=Magnum Almendras=Magnum Almond, Magnum Blanco=Magnum chocolate blanco=Magnum White, Frigurón=Friguron=el tiburón, Popeye, Colajet=Cola Jet, Sándwich=Sandwich=Sándwich de nata=Sandwich Original=sándwich sabor nata, Super Twister, Cornetto Nata=Cornetto de nata=Cornetto clásico=Cornetto original, Carte d'Or=Carte dor, Calippo lima-limón=Calippo limón=Calippo lima, Calippo fresa, Calippo cola",
+ 3: "Magnum Frac, Magnum Doble=Magnum Double, Magnum Double Chocolate=Magnum doble chocolate, Magnum Pistacho=Magnum Signature Pistacho, Cornetto Vainilla, Cornetto XXL, Cornetto Max, Cornetto Soft, Cornetto Go!=Cornetto Go, Cornetto Choc'n'Ball=Choc'n'Ball, Volcanix, Bombón Filipinos=Filipinos helado, Sándwich Filipinos=Sandwich Filipinos, Sándwich Dinosaurus=Sandwich Dinosaurus=helado de Dinosaurus, Frigo Chuches, Ben & Jerry's=Ben and Jerry's=Ben y Jerry's=Ben & Jerrys, Big Milk=Bigmilk, Magnum Mini=Mini Magnum, Calippo Mini=Mini Calippo, Bombón=bombón helado, Dominó, tarta al whisky=tarta de whisky, Romántica=tarta Romántica",
+ 4: "Magnum Double Gold Caramel, Magnum Double Nocciola=Magnum Nocciola, Magnum Double Hazelnut, Magnum Caramel & Nuts=Magnum Barrita Caramel & Nuts=Magnum barrita, Magnum Bonbon=Magnum Bombón, Magnum After Dinner, Bomboniera=Magnum Bomboniera, Magnum Gold, Magnum Ruby, Magnum Pink, Magnum Caramel, Magnum Infinity, Magnum Ego, Magnum Classic=Magnum Clásico, Cornetto Fresa=Cornetto nata fresa=Cornetto fresa y nata, Cornetto Chocolate, Cornetto XXL Nata, Cornetto XXL Chocolate, Cornetto Max Pistacho, Cornetto Max avellanas=Cornetto Max chocolate y avellanas, Cornetto Max Mango, Cornetto Miniatura, Cornetto Mini=Mini Cornetto=Cornetto Mini Classico, Cornetto Soft Nata, Cornetto Soft Fresa, Cornetto Soft Caramelo, Cornetto Soft Choco Chips, Cornetto Soft Chicle, Cornetto Enigma, Cornetto Disc=Cornetto Disco, Twister Mini=Twister mini piña fresa, Calippo Shots, Haribo Push Up=Push Up, Drácula Cola, Kids Mix, Filipinos Sándwich Cookies, Mini Comtessa, Frigo Moments, Copa Brasil, coco helado, limón helado, tarrina al whisky, crema catalana helada, Carte d'Or Stracciatella, Carte d'Or Vainilla, Carte d'Or Chocolate, Carte d'Or Sorbete Limón, Carte d'Or Yogur Frutas del Bosque, Ben & Jerry's Cookie Dough=Cookie Dough, Ben & Jerry's Chocolate Fudge Brownie=Chocolate Fudge Brownie, Ben & Jerry's Chunky Monkey=Chunky Monkey, Ben & Jerry's Strawberry Cheesecake=Strawberry Cheesecake, Ben & Jerry's Peanut Butter Cup=Peanut Butter Cup",
+ 5: "Magnum Bonbon Cherry, Magnum Bonbon Salted Caramel & Almond, Magnum Bonbon White Chocolate & Cookies, Magnum Bonbon Gold Caramel Billionaire, Magnum Crackables, Ben & Jerry's Churrifically Churros-y=Churrifically Churros-y, Ben & Jerry's Peaces=Peaces, Ben & Jerry's Sandwich Cookie Dough, Spectacu-love, Cookie Dough S'wich Up, Vanilla Pecan Blondie, Caramel Brownie Party, Cookies on Cookie Dough, Dulce-de-lish, Cookie Vermont-ster, Sweet Mango Memories, Brookies & Cream, Salted Caramel Brownie, Mon Petit Glacier, Copa Turrón Selecto=copa de turrón, Copa Duo vainilla y chocolate, Copa Limón, Copa Fresa, bloque tres gustos=tres gustos, bloque de turrón, cono turrón, cono cookies, cono brownie, tarta al whisky y quemado, Carte d'Or Tarta Romántica, Twister 5,5L, palomitas de caramelo",
 },
 "refrescos": {
  1: "Coca-Cola=Coca Cola=Coca=Coke=Cocacola, Fanta, Sprite, Pepsi, Kas, Aquarius, 7Up=Seven Up=7 Up=Sevenup, Nestea, Schweppes, Fanta naranja, Fanta limón",
@@ -230,8 +231,7 @@ MANO.update({
 # ── repaso del 19 de octubre: respuestas acertadas que no estaban ──
 MAS = {}
 ALIAS_MAS.update({
- "frigo": {"Magnum Almendras": "Magnum Almond, Magnum almendrado", "Magnum Blanco": "Magnum chocolate blanco", "Viennetta": "tarta Viennetta",
-           "Frigopie": "Frigopie de fresa, Frigo pie de fresa", "Calippo": "Calipo de lima, Calippo de lima"},
+
  "friends": {"Judy Geller": "Judy, la madre de Ross, la madre de Monica, Mrs. Geller", "Jack Geller": "Jack, el padre de Ross, el padre de Monica",
              "Fun Bobby": "Bobby", "Charles Bing": "Helena, el padre de Chandler", "Paul Stevens": "Paul", "Frank": "Frank Jr., Frank Junior, el hermano de Phoebe",
              "Marcel": "el mono, el mono de Ross", "Lily Buffay": "Lily, la madre de Phoebe", "Phoebe Abbott": "Phoebe Senior, Phoebe Abbott Sr.",
@@ -252,8 +252,6 @@ ALIAS_MAS.update({
                     "crema de orujo": "orujo", "vainilla": "vainilla de Madagascar, vainilla francesa", "chicle": "bubblegum, bubble gum"},
 })
 MAS.update({
- "frigo": {3: "Magnum Gold, Magnum Ruby, Magnum Pink, Magnum Double Chocolate, Magnum Caramel, Cornetto Clásico, Cornetto Chocolate, Cornetto Nata Fresa=Cornetto fresa y nata=Corneto fresa, Cornetto Vainilla, Cornetto Mini=Mini Cornetto, Calippo lima-limón=Calippo limón=Calippo lima, Calippo fresa, Calippo cola, Calippo naranja",
-           4: "Magnum Infinity, Magnum Ego, Cornetto Enigma, Magnum Almendras Blanco, Magnum Mini Classic"},
  "friends": {3: "las hermanas de Joey, Gina=Gina Tribbiani, Tina=Tina Tribbiani, Veronica=Veronica Tribbiani, Cookie=Cookie Tribbiani, Mary Therese=Mary Teresa, Frances=la abuela de Phoebe, los trillizos=trillizos, Drake Ramoray=Dr. Drake Ramoray=Ramoray, Chloe, Duncan, Kip, Chip=Chip Matthews, Ronni=Ronni Rapalono"},
  "palabras_x": {5: "xenial, xiloteca, xileno, xilitol, xilosa, xantina, xenobiótico, xenolito, xenotrasplante=xenotransplante, xilografiar, xilógrafo, xerófita, xerocopiar, xifosuro"},
  "sabores_helado": {3: "chocolate con leche, after eight, kinder bueno, lacasitos, leche condensada, yogur griego, tres chocolates=triple chocolate, chocolate belga, nata y fresa=fresa y nata=fresa con nata, polvorón, mazapán, roscón=roscón de reyes, panettone, cookies, queso, cuajada, café con leche, nubes=marshmallow, algodón de azúcar, unicornio, M&M's=M&M=mm",
