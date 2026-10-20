@@ -130,7 +130,7 @@ def de_lista_personajes(nombre):
     return filas
 def personajes(slug):
     def f():
-        cola = cola_wd4(slug) if (D4 / f"{slug}.json").exists() else []
+        cola = [f for f in (cola_wd4(slug) if (D4 / f"{slug}.json").exists() else []) if not f[0].lower().startswith("familia ")]   # «familia Flynn-Fletcher» no es un personaje
         junta(slug, cola + de_lista_personajes(f"{slug}_en"), "orden_a_mano")
     f.__name__ = slug; return f
 friends, phineas, bigbang, office, modern_family = [personajes(s) for s in ("friends", "phineas", "bigbang", "office", "modern_family")]
