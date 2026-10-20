@@ -1,10 +1,10 @@
 respuesta;alias;nivel;orden_a_mano
-Sheldon;Sheldon Cooper|Cooper;1;1000000000
+Sheldon;Sheldon Cooper|Cooper|Sheldon Lee Cooper;1;1000000000
 Leonard;Leonard Hofstadter|Hofstadter;1;999999999
 Penny;Penny Hofstadter;1;999999998
 Howard;Howard Wolowitz|Wolowitz;1;999999997
-Raj;Rajesh Koothrappali|Koothrappali|Rajesh;1;999999996
-Amy;Amy Farrah Fowler|Fowler;2;1000000000
+Raj;Rajesh Koothrappali|Koothrappali|Rajesh|Raj Koothrappali;1;999999996
+Amy;Amy Farrah Fowler|Fowler|Amy Fowler;2;1000000000
 Bernadette;Bernadette Rostenkowski|Rostenkowski;2;999999999
 Stuart;Stuart Bloom|el de la tienda de cómics;2;999999998
 Leslie Winkle;Leslie;2;999999997
@@ -73,9 +73,6 @@ Dave;;4;99999994
 el hermano de Penny;Randall;4;99999993
 Michael J. Massimino;Mike Massimino|Michael James Massimino;5;23
 Soft Kitty;;5;11
-Raj Koothrappali;;5;0
-Amy Fowler;;5;0
-Sheldon Lee Cooper;;5;0
 George Cooper Sr;George;5;0
 Georgie Cooper;Georgie;5;0
 "Constance ""Connie"" Tucker";Constance;5;0

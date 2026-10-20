@@ -3,14 +3,14 @@ Phineas;Phineas Flynn;1;1000000000
 Ferb;Ferb Fletcher;1;999999999
 Perry;Perry el ornitorrinco|Agente P|Perry the Platypus|el ornitorrinco;1;999999998
 Candace;Candace Flynn;1;999999997
-Doofenshmirtz;Dr. Doofenshmirtz|Heinz Doofenshmirtz|Doof|Heinz|el doctor Doofenshmirtz;1;999999996
+Doofenshmirtz;Dr. Doofenshmirtz|Heinz Doofenshmirtz|Doof|Heinz|el doctor Doofenshmirtz|Dr. Heinz Doofenshmirtz;1;999999996
 Isabella;Isabella García-Shapiro;2;1000000000
 Baljeet;Baljeet Tjinder|Balyit|Baljit;2;999999999
 Buford;Buford Van Stomm;2;999999998
 Monograma;Mayor Monograma|Comandante Monograma|Major Monogram|Francis Monograma;2;999999997
 Vanessa;Vanessa Doofenshmirtz;2;999999996
 Jeremy;Jeremy Johnson;2;999999995
-Linda;Linda Flynn;2;999999994
+Linda;Linda Flynn|Linda Flynn-Fletcher;2;999999994
 Lawrence;Lawrence Fletcher;2;999999993
 Stacy;Stacy Hirano;2;999999992
 Carl;Carl Karl|Karl;2;999999991
@@ -49,8 +49,6 @@ Sherman;;4;999999971
 Amanda;;4;999999970
 Mishti;;4;999999969
 Wendy Stewart;;4;999999968
-Dr. Heinz Doofenshmirtz;;5;0
-Linda Flynn-Fletcher;;5;0
 Carl the Intern;;5;0
 Vivian Garcia-Shapiro;Vivian;5;0
 Jenny Brown;;5;0

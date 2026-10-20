@@ -37,12 +37,39 @@ def a_mano4(slug):
 VARIANTES4 = {"huesos": ["hueso {}", "huesos {}"], "musculos": ["músculo {}", "músculos {}"], "circuitos_f1": ["circuito de {}", "Gran Premio de {}", "GP de {}"],
               "provincias": ["provincia de {}"], "sabores_helado": ["helado de {}", "sabor {}"], "pueblos_madrid": [], "batallas": ["batalla de {}"],
               "filosofos": [], "especialidades": [], "deportes_acuaticos": [], "masas_agua": []}
+def por_contenido(n, dueños):
+    """El dueño a mano cuyo nombre (de 5+ letras) está dentro del nombre largo de la fuente: «Shanghai International Circuit» → Shanghái."""
+    k = clave(n)
+    hits = [(len(x), d) for x, d in dueños.items() if len(x) >= 5 and x in k]
+    return max(hits)[1] if hits else None
+FUSIONA = {
+ "circuitos_f1": por_contenido,
+ "apple": lambda n, d: "iPhone 15" if re.match(r"iphone\b", n, re.I) and n.lower() != "iphone" else None,
+ "eurovision": {"Amaia Romero y Alfred García": "Amaia y Alfred"},
+ "friends": {"Janice Litman-Goralnik": "Janice"},
+ "phineas": {"Dr. Heinz Doofenshmirtz": "Doofenshmirtz", "Linda Flynn-Fletcher": "Linda"},
+ "bigbang": {"Raj Koothrappali": "Raj", "Amy Fowler": "Amy", "Sheldon Lee Cooper": "Sheldon"},
+ "latin": {"curriculum vitæ": "curriculum vitae", "conditio sine qua non o Condicio sine qua non": "sine qua non"},
+ "hormonas": {"gonadotropina coriónica humana": "HCG"},
+}
 def junta(slug, cola, metrica):
     """Lo puesto a mano manda; de la cola solo entra lo que no esté ya, y a sus alias se les quitan las formas con dueño."""
     mano = a_mano4(slug)
     mas = {clave(k): [a.strip() for a in v.split(",") if a.strip()] for k, v in mano_t4.ALIAS_MAS.get(slug, {}).items()}
     mano = [(n, al + mas.pop(clave(n), []), nv, v) for n, al, nv, v in mano]
     cola = [(n, al + mas.pop(clave(n), []), nv, v) for n, al, nv, v in cola]       # también a lo que viene de la fuente
+    # lo de la fuente que es lo mismo que algo puesto a mano (otro nombre) no puede valer más metros: pasa a ser alias suyo
+    regla = FUSIONA.get(slug)
+    if regla:
+        dueños = {clave(x): n for n, al, _, _ in mano for x in [n] + al}
+        juntos, resto = {}, []
+        for n, al, nv, v in cola:
+            d = regla(n, dueños) if callable(regla) else regla.get(n)
+            if d: juntos.setdefault(d, []).extend([n] + al)
+            else: resto.append((n, al, nv, v))
+        mano = [(n, al + juntos.pop(n, []), nv, v) for n, al, nv, v in mano]
+        if juntos: print("  ojo, fusiones sin dueño:", list(juntos))
+        cola = resto
     if mas: print("  ojo, alias de más sin dueño:", list(mas))
     if slug in VARIANTES4: mano = [(n, al + [v.format(x) for x in [n] + al for v in VARIANTES4[slug]], nv, val) for n, al, nv, val in mano]
     ya = {clave(x) for n, al, _, _ in mano for x in [n] + al}

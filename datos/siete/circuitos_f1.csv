@@ -1,144 +1,90 @@
 respuesta;alias;nivel;grandes_premios_celebrados
-Montmeló;Circuit de Barcelona-Catalunya|Circuit de Catalunya|Circuito de Cataluña|Barcelona|Cataluña|España|Gran Premio de España|circuito de Montmeló|Gran Premio de Montmeló|GP de Montmeló|circuito de Circuit de Barcelona-Catalunya|Gran Premio de Circuit de Barcelona-Catalunya|GP de Circuit de Barcelona-Catalunya|circuito de Circuit de Catalunya|Gran Premio de Circuit de Catalunya|GP de Circuit de Catalunya|circuito de Circuito de Cataluña|Gran Premio de Circuito de Cataluña|GP de Circuito de Cataluña|circuito de Barcelona|Gran Premio de Barcelona|GP de Barcelona|Gran Premio de Cataluña|GP de Cataluña|circuito de España|GP de España|circuito de Gran Premio de España|Gran Premio de Gran Premio de España|GP de Gran Premio de España;1;1000000000
-Mónaco;Montecarlo|Circuito de Mónaco|Principado de Mónaco|Gran Premio de Mónaco|GP de Mónaco|circuito de Montecarlo|Gran Premio de Montecarlo|GP de Montecarlo|circuito de Circuito de Mónaco|Gran Premio de Circuito de Mónaco|GP de Circuito de Mónaco|circuito de Principado de Mónaco|Gran Premio de Principado de Mónaco|GP de Principado de Mónaco;1;999999999
-Silverstone;Inglaterra|Reino Unido|Gran Bretaña|circuito de Silverstone|Gran Premio de Silverstone|GP de Silverstone|circuito de Inglaterra|Gran Premio de Inglaterra|GP de Inglaterra|circuito de Reino Unido|Gran Premio de Reino Unido|GP de Reino Unido|circuito de Gran Bretaña|Gran Premio de Gran Bretaña|GP de Gran Bretaña;1;999999998
-Monza;Italia|circuito de Monza|Gran Premio de Monza|GP de Monza|circuito de Italia|Gran Premio de Italia|GP de Italia;1;999999997
-Spa;Spa-Francorchamps|Bélgica|circuito de Spa|Gran Premio de Spa|GP de Spa|circuito de Spa-Francorchamps|Gran Premio de Spa-Francorchamps|GP de Spa-Francorchamps|circuito de Bélgica|Gran Premio de Bélgica|GP de Bélgica;1;999999996
-Interlagos;Autódromo José Carlos Pace|Brasil|São Paulo|circuito de Interlagos|Gran Premio de Interlagos|GP de Interlagos|circuito de Autódromo José Carlos Pace|Gran Premio de Autódromo José Carlos Pace|GP de Autódromo José Carlos Pace|circuito de Brasil|Gran Premio de Brasil|GP de Brasil|circuito de São Paulo|Gran Premio de São Paulo|GP de São Paulo;2;1000000000
-Suzuka;Japón|circuito de Suzuka|Gran Premio de Suzuka|GP de Suzuka|circuito de Japón|Gran Premio de Japón|GP de Japón;2;999999999
-Jerez;Circuito de Jerez|Gran Premio de Jerez|GP de Jerez|circuito de Circuito de Jerez|Gran Premio de Circuito de Jerez|GP de Circuito de Jerez;2;999999998
-Valencia;Circuito urbano de Valencia|circuito de Valencia|Gran Premio de Valencia|GP de Valencia|circuito de Circuito urbano de Valencia|Gran Premio de Circuito urbano de Valencia|GP de Circuito urbano de Valencia;2;999999997
-Madring;Madrid|IFEMA|circuito de Madring|Gran Premio de Madring|GP de Madring|circuito de Madrid|Gran Premio de Madrid|GP de Madrid|circuito de IFEMA|Gran Premio de IFEMA|GP de IFEMA;2;999999996
-Imola;Autódromo Enzo e Dino Ferrari|Imola Enzo e Dino Ferrari|circuito de Imola|Gran Premio de Imola|GP de Imola|circuito de Autódromo Enzo e Dino Ferrari|Gran Premio de Autódromo Enzo e Dino Ferrari|GP de Autódromo Enzo e Dino Ferrari|circuito de Imola Enzo e Dino Ferrari|Gran Premio de Imola Enzo e Dino Ferrari|GP de Imola Enzo e Dino Ferrari;2;999999995
-Hungaroring;Hungría|Budapest|circuito de Hungaroring|Gran Premio de Hungaroring|GP de Hungaroring|circuito de Hungría|Gran Premio de Hungría|GP de Hungría|circuito de Budapest|Gran Premio de Budapest|GP de Budapest;2;999999994
+Montmeló;Circuit de Barcelona-Catalunya|Circuit de Catalunya|Circuito de Cataluña|Barcelona|Cataluña|España|Gran Premio de España|Spanish|Barcelona-Catalunya|circuito de Montmeló|Gran Premio de Montmeló|GP de Montmeló|circuito de Circuit de Barcelona-Catalunya|Gran Premio de Circuit de Barcelona-Catalunya|GP de Circuit de Barcelona-Catalunya|circuito de Circuit de Catalunya|Gran Premio de Circuit de Catalunya|GP de Circuit de Catalunya|circuito de Circuito de Cataluña|Gran Premio de Circuito de Cataluña|GP de Circuito de Cataluña|circuito de Barcelona|Gran Premio de Barcelona|GP de Barcelona|Gran Premio de Cataluña|GP de Cataluña|circuito de España|GP de España|circuito de Gran Premio de España|Gran Premio de Gran Premio de España|GP de Gran Premio de España|circuito de Spanish|Gran Premio de Spanish|GP de Spanish|circuito de Barcelona-Catalunya|Gran Premio de Barcelona-Catalunya|GP de Barcelona-Catalunya;1;1000000000
+Mónaco;Montecarlo|Circuito de Mónaco|Principado de Mónaco|Circuit de Monaco|Gran Premio de Mónaco|GP de Mónaco|circuito de Montecarlo|Gran Premio de Montecarlo|GP de Montecarlo|circuito de Circuito de Mónaco|Gran Premio de Circuito de Mónaco|GP de Circuito de Mónaco|circuito de Principado de Mónaco|Gran Premio de Principado de Mónaco|GP de Principado de Mónaco|circuito de Circuit de Monaco|Gran Premio de Circuit de Monaco|GP de Circuit de Monaco;1;999999999
+Silverstone;Inglaterra|Reino Unido|Gran Bretaña|Silverstone Circuit|British|70th Anniversary|circuito de Silverstone|Gran Premio de Silverstone|GP de Silverstone|circuito de Inglaterra|Gran Premio de Inglaterra|GP de Inglaterra|circuito de Reino Unido|Gran Premio de Reino Unido|GP de Reino Unido|circuito de Gran Bretaña|Gran Premio de Gran Bretaña|GP de Gran Bretaña|circuito de Silverstone Circuit|Gran Premio de Silverstone Circuit|GP de Silverstone Circuit|circuito de British|Gran Premio de British|GP de British|circuito de 70th Anniversary|Gran Premio de 70th Anniversary|GP de 70th Anniversary;1;999999998
+Monza;Italia|Autodromo Nazionale di Monza|Monza Circuit|Italian|circuito de Monza|Gran Premio de Monza|GP de Monza|circuito de Italia|Gran Premio de Italia|GP de Italia|circuito de Autodromo Nazionale di Monza|Gran Premio de Autodromo Nazionale di Monza|GP de Autodromo Nazionale di Monza|circuito de Monza Circuit|Gran Premio de Monza Circuit|GP de Monza Circuit|circuito de Italian|Gran Premio de Italian|GP de Italian;1;999999997
+Spa;Spa-Francorchamps|Bélgica|Circuit de Spa-Francorchamps|Stavelot|Belgian|circuito de Spa|Gran Premio de Spa|GP de Spa|circuito de Spa-Francorchamps|Gran Premio de Spa-Francorchamps|GP de Spa-Francorchamps|circuito de Bélgica|Gran Premio de Bélgica|GP de Bélgica|circuito de Circuit de Spa-Francorchamps|Gran Premio de Circuit de Spa-Francorchamps|GP de Circuit de Spa-Francorchamps|circuito de Stavelot|Gran Premio de Stavelot|GP de Stavelot|circuito de Belgian|Gran Premio de Belgian|GP de Belgian;1;999999996
+Interlagos;Autódromo José Carlos Pace|Brasil|São Paulo|Interlagos Circuit|Brazilian|circuito de Interlagos|Gran Premio de Interlagos|GP de Interlagos|circuito de Autódromo José Carlos Pace|Gran Premio de Autódromo José Carlos Pace|GP de Autódromo José Carlos Pace|circuito de Brasil|Gran Premio de Brasil|GP de Brasil|circuito de São Paulo|Gran Premio de São Paulo|GP de São Paulo|circuito de Interlagos Circuit|Gran Premio de Interlagos Circuit|GP de Interlagos Circuit|circuito de Brazilian|Gran Premio de Brazilian|GP de Brazilian;2;1000000000
+Suzuka;Japón|Suzuka International Racing Course|Suzuka Circuit|Japanese|circuito de Suzuka|Gran Premio de Suzuka|GP de Suzuka|circuito de Japón|Gran Premio de Japón|GP de Japón|circuito de Suzuka International Racing Course|Gran Premio de Suzuka International Racing Course|GP de Suzuka International Racing Course|circuito de Suzuka Circuit|Gran Premio de Suzuka Circuit|GP de Suzuka Circuit|circuito de Japanese|Gran Premio de Japanese|GP de Japanese;2;999999999
+Jerez;Circuito de Jerez|Circuito Permanente de Jerez|Jerez de la Frontera|European|Gran Premio de Jerez|GP de Jerez|circuito de Circuito de Jerez|Gran Premio de Circuito de Jerez|GP de Circuito de Jerez|circuito de Circuito Permanente de Jerez|Gran Premio de Circuito Permanente de Jerez|GP de Circuito Permanente de Jerez|circuito de Jerez de la Frontera|Gran Premio de Jerez de la Frontera|GP de Jerez de la Frontera|circuito de European|Gran Premio de European|GP de European;2;999999998
+Valencia;Circuito urbano de Valencia|Valencia Street Circuit|circuito de Valencia|Gran Premio de Valencia|GP de Valencia|circuito de Circuito urbano de Valencia|Gran Premio de Circuito urbano de Valencia|GP de Circuito urbano de Valencia|circuito de Valencia Street Circuit|Gran Premio de Valencia Street Circuit|GP de Valencia Street Circuit;2;999999997
+Madring;Madrid|IFEMA|Barajas|circuito de Madring|Gran Premio de Madring|GP de Madring|circuito de Madrid|Gran Premio de Madrid|GP de Madrid|circuito de IFEMA|Gran Premio de IFEMA|GP de IFEMA|circuito de Barajas|Gran Premio de Barajas|GP de Barajas;2;999999996
+Imola;Autódromo Enzo e Dino Ferrari|Imola Enzo e Dino Ferrari|Autodromo Internazionale Enzo e Dino Ferrari|Imola Circuit|San Marino|Emilia Romagna|circuito de Imola|Gran Premio de Imola|GP de Imola|circuito de Autódromo Enzo e Dino Ferrari|Gran Premio de Autódromo Enzo e Dino Ferrari|GP de Autódromo Enzo e Dino Ferrari|circuito de Imola Enzo e Dino Ferrari|Gran Premio de Imola Enzo e Dino Ferrari|GP de Imola Enzo e Dino Ferrari|circuito de Autodromo Internazionale Enzo e Dino Ferrari|Gran Premio de Autodromo Internazionale Enzo e Dino Ferrari|GP de Autodromo Internazionale Enzo e Dino Ferrari|circuito de Imola Circuit|Gran Premio de Imola Circuit|GP de Imola Circuit|circuito de San Marino|Gran Premio de San Marino|GP de San Marino|circuito de Emilia Romagna|Gran Premio de Emilia Romagna|GP de Emilia Romagna;2;999999995
+Hungaroring;Hungría|Budapest|Mogyoród|Hungarian|circuito de Hungaroring|Gran Premio de Hungaroring|GP de Hungaroring|circuito de Hungría|Gran Premio de Hungría|GP de Hungría|circuito de Budapest|Gran Premio de Budapest|GP de Budapest|circuito de Mogyoród|Gran Premio de Mogyoród|GP de Mogyoród|circuito de Hungarian|Gran Premio de Hungarian|GP de Hungarian;2;999999994
 Baréin;Bahréin|Sakhir|Circuito Internacional de Baréin|circuito de Baréin|Gran Premio de Baréin|GP de Baréin|circuito de Bahréin|Gran Premio de Bahréin|GP de Bahréin|circuito de Sakhir|Gran Premio de Sakhir|GP de Sakhir|circuito de Circuito Internacional de Baréin|Gran Premio de Circuito Internacional de Baréin|GP de Circuito Internacional de Baréin;2;999999993
-Yas Marina;Abu Dabi|Abu Dhabi|circuito de Yas Marina|Gran Premio de Yas Marina|GP de Yas Marina|circuito de Abu Dabi|Gran Premio de Abu Dabi|GP de Abu Dabi|circuito de Abu Dhabi|Gran Premio de Abu Dhabi|GP de Abu Dhabi;2;999999992
-Marina Bay;Singapur|circuito de Marina Bay|Gran Premio de Marina Bay|GP de Marina Bay|circuito de Singapur|Gran Premio de Singapur|GP de Singapur;2;999999991
-Las Vegas;circuito de Las Vegas|Gran Premio de Las Vegas|GP de Las Vegas;2;999999990
-Miami;circuito de Miami|Gran Premio de Miami|GP de Miami;2;999999989
+Yas Marina;Abu Dabi|Abu Dhabi|Yas Marina Circuit|circuito de Yas Marina|Gran Premio de Yas Marina|GP de Yas Marina|circuito de Abu Dabi|Gran Premio de Abu Dabi|GP de Abu Dabi|circuito de Abu Dhabi|Gran Premio de Abu Dhabi|GP de Abu Dhabi|circuito de Yas Marina Circuit|Gran Premio de Yas Marina Circuit|GP de Yas Marina Circuit;2;999999992
+Marina Bay;Singapur|Marina Bay Street Circuit|Singapore|circuito de Marina Bay|Gran Premio de Marina Bay|GP de Marina Bay|circuito de Singapur|Gran Premio de Singapur|GP de Singapur|circuito de Marina Bay Street Circuit|Gran Premio de Marina Bay Street Circuit|GP de Marina Bay Street Circuit|circuito de Singapore|Gran Premio de Singapore|GP de Singapore;2;999999991
+Las Vegas;Las Vegas Strip Circuit|Paradise|circuito de Las Vegas|Gran Premio de Las Vegas|GP de Las Vegas|circuito de Las Vegas Strip Circuit|Gran Premio de Las Vegas Strip Circuit|GP de Las Vegas Strip Circuit|circuito de Paradise|Gran Premio de Paradise|GP de Paradise;2;999999990
+Miami;Miami International Autodrome|Miami Gardens|circuito de Miami|Gran Premio de Miami|GP de Miami|circuito de Miami International Autodrome|Gran Premio de Miami International Autodrome|GP de Miami International Autodrome|circuito de Miami Gardens|Gran Premio de Miami Gardens|GP de Miami Gardens;2;999999989
 Circuito de las Américas;COTA|Austin|Estados Unidos|EEUU|circuito de Circuito de las Américas|Gran Premio de Circuito de las Américas|GP de Circuito de las Américas|circuito de COTA|Gran Premio de COTA|GP de COTA|circuito de Austin|Gran Premio de Austin|GP de Austin|circuito de Estados Unidos|Gran Premio de Estados Unidos|GP de Estados Unidos|circuito de EEUU|Gran Premio de EEUU|GP de EEUU;2;999999988
-Albert Park;Melbourne|circuito de Albert Park|Gran Premio de Albert Park|GP de Albert Park|circuito de Melbourne|Gran Premio de Melbourne|GP de Melbourne;2;999999987
-Gilles Villeneuve;Circuito Gilles Villeneuve|Montreal|Canadá|Gran Premio de Gilles Villeneuve|GP de Gilles Villeneuve|circuito de Circuito Gilles Villeneuve|Gran Premio de Circuito Gilles Villeneuve|GP de Circuito Gilles Villeneuve|circuito de Montreal|Gran Premio de Montreal|GP de Montreal|circuito de Canadá|Gran Premio de Canadá|GP de Canadá;2;999999986
-Zandvoort;Holanda|Países Bajos|circuito de Zandvoort|Gran Premio de Zandvoort|GP de Zandvoort|circuito de Holanda|Gran Premio de Holanda|GP de Holanda|circuito de Países Bajos|Gran Premio de Países Bajos|GP de Países Bajos;2;999999985
+Albert Park;Melbourne|Albert Park Circuit|Australian|circuito de Albert Park|Gran Premio de Albert Park|GP de Albert Park|circuito de Melbourne|Gran Premio de Melbourne|GP de Melbourne|circuito de Albert Park Circuit|Gran Premio de Albert Park Circuit|GP de Albert Park Circuit|circuito de Australian|Gran Premio de Australian|GP de Australian;2;999999987
+Gilles Villeneuve;Circuito Gilles Villeneuve|Montreal|Canadá|Circuit Gilles Villeneuve|Canadian|Gran Premio de Gilles Villeneuve|GP de Gilles Villeneuve|circuito de Circuito Gilles Villeneuve|Gran Premio de Circuito Gilles Villeneuve|GP de Circuito Gilles Villeneuve|circuito de Montreal|Gran Premio de Montreal|GP de Montreal|circuito de Canadá|Gran Premio de Canadá|GP de Canadá|circuito de Circuit Gilles Villeneuve|Gran Premio de Circuit Gilles Villeneuve|GP de Circuit Gilles Villeneuve|circuito de Canadian|Gran Premio de Canadian|GP de Canadian;2;999999986
+Zandvoort;Holanda|Países Bajos|Circuit Zandvoort|Dutch|circuito de Zandvoort|Gran Premio de Zandvoort|GP de Zandvoort|circuito de Holanda|Gran Premio de Holanda|GP de Holanda|circuito de Países Bajos|Gran Premio de Países Bajos|GP de Países Bajos|circuito de Circuit Zandvoort|Gran Premio de Circuit Zandvoort|GP de Circuit Zandvoort|circuito de Dutch|Gran Premio de Dutch|GP de Dutch;2;999999985
 Bakú;Circuito urbano de Bakú|circuito de Bakú|Gran Premio de Bakú|GP de Bakú|circuito de Circuito urbano de Bakú|Gran Premio de Circuito urbano de Bakú|GP de Circuito urbano de Bakú;2;999999984
-Yeda;Jeddah|Arabia Saudí|Arabia Saudita|Yida|circuito de Yeda|Gran Premio de Yeda|GP de Yeda|circuito de Jeddah|Gran Premio de Jeddah|GP de Jeddah|circuito de Arabia Saudí|Gran Premio de Arabia Saudí|GP de Arabia Saudí|circuito de Arabia Saudita|Gran Premio de Arabia Saudita|GP de Arabia Saudita|circuito de Yida|Gran Premio de Yida|GP de Yida;2;999999983
+Yeda;Jeddah|Arabia Saudí|Arabia Saudita|Yida|Jeddah Corniche Circuit|Saudi Arabian|circuito de Yeda|Gran Premio de Yeda|GP de Yeda|circuito de Jeddah|Gran Premio de Jeddah|GP de Jeddah|circuito de Arabia Saudí|Gran Premio de Arabia Saudí|GP de Arabia Saudí|circuito de Arabia Saudita|Gran Premio de Arabia Saudita|GP de Arabia Saudita|circuito de Yida|Gran Premio de Yida|GP de Yida|circuito de Jeddah Corniche Circuit|Gran Premio de Jeddah Corniche Circuit|GP de Jeddah Corniche Circuit|circuito de Saudi Arabian|Gran Premio de Saudi Arabian|GP de Saudi Arabian;2;999999983
 Losail;Catar|Qatar|circuito de Losail|Gran Premio de Losail|GP de Losail|circuito de Catar|Gran Premio de Catar|GP de Catar|circuito de Qatar|Gran Premio de Qatar|GP de Qatar;2;999999982
-Shanghái;China|circuito de Shanghái|Gran Premio de Shanghái|GP de Shanghái|circuito de China|Gran Premio de China|GP de China;2;999999981
-Red Bull Ring;Spielberg|Austria|circuito de Red Bull Ring|Gran Premio de Red Bull Ring|GP de Red Bull Ring|circuito de Spielberg|Gran Premio de Spielberg|GP de Spielberg|circuito de Austria|Gran Premio de Austria|GP de Austria;2;999999980
-Autódromo Hermanos Rodríguez;México|Hermanos Rodríguez|Ciudad de México|circuito de Autódromo Hermanos Rodríguez|Gran Premio de Autódromo Hermanos Rodríguez|GP de Autódromo Hermanos Rodríguez|circuito de México|Gran Premio de México|GP de México|circuito de Hermanos Rodríguez|Gran Premio de Hermanos Rodríguez|GP de Hermanos Rodríguez|circuito de Ciudad de México|Gran Premio de Ciudad de México|GP de Ciudad de México;2;999999979
-Zeltweg Airfield;Zeltweg Air Base#Motorsports|Austrian;3;10000912002121212075258766870931120121720122420122012052407271211201230120080320015830120200820220813220721132022
-Nürburgring;Nordschleife|Nürburgring Nordschleife|circuito de Nürburgring|Gran Premio de Nürburgring|GP de Nürburgring|circuito de Nordschleife|Gran Premio de Nordschleife|GP de Nordschleife|circuito de Nürburgring Nordschleife|Gran Premio de Nürburgring Nordschleife|GP de Nürburgring Nordschleife;3;1000000000
-Hockenheim;Alemania|circuito de Hockenheim|Gran Premio de Hockenheim|GP de Hockenheim|circuito de Alemania|Gran Premio de Alemania|GP de Alemania;3;999999999
-Paul Ricard;Le Castellet|Francia|circuito de Paul Ricard|Gran Premio de Paul Ricard|GP de Paul Ricard|circuito de Le Castellet|Gran Premio de Le Castellet|GP de Le Castellet|circuito de Francia|Gran Premio de Francia|GP de Francia;3;999999998
-Magny-Cours;circuito de Magny-Cours|Gran Premio de Magny-Cours|GP de Magny-Cours;3;999999997
-Estoril;circuito de Estoril|Gran Premio de Estoril|GP de Estoril;3;999999996
-Portimão;Algarve|Portugal|circuito de Portimão|Gran Premio de Portimão|GP de Portimão|circuito de Algarve|Gran Premio de Algarve|GP de Algarve|circuito de Portugal|Gran Premio de Portugal|GP de Portugal;3;999999995
-Sepang;Malasia|circuito de Sepang|Gran Premio de Sepang|GP de Sepang|circuito de Malasia|Gran Premio de Malasia|GP de Malasia;3;999999994
-Istanbul Park;Estambul|Turquía|circuito de Istanbul Park|Gran Premio de Istanbul Park|GP de Istanbul Park|circuito de Estambul|Gran Premio de Estambul|GP de Estambul|circuito de Turquía|Gran Premio de Turquía|GP de Turquía;3;999999993
+Shanghái;China|Shanghai International Circuit|Chinese|circuito de Shanghái|Gran Premio de Shanghái|GP de Shanghái|circuito de China|Gran Premio de China|GP de China|circuito de Shanghai International Circuit|Gran Premio de Shanghai International Circuit|GP de Shanghai International Circuit|circuito de Chinese|Gran Premio de Chinese|GP de Chinese;2;999999981
+Red Bull Ring;Spielberg|Austria|Austrian|Styrian|circuito de Red Bull Ring|Gran Premio de Red Bull Ring|GP de Red Bull Ring|circuito de Spielberg|Gran Premio de Spielberg|GP de Spielberg|circuito de Austria|Gran Premio de Austria|GP de Austria|circuito de Austrian|Gran Premio de Austrian|GP de Austrian|circuito de Styrian|Gran Premio de Styrian|GP de Styrian;2;999999980
+Autódromo Hermanos Rodríguez;México|Hermanos Rodríguez|Ciudad de México|Mexico City|Mexican|circuito de Autódromo Hermanos Rodríguez|Gran Premio de Autódromo Hermanos Rodríguez|GP de Autódromo Hermanos Rodríguez|circuito de México|Gran Premio de México|GP de México|circuito de Hermanos Rodríguez|Gran Premio de Hermanos Rodríguez|GP de Hermanos Rodríguez|circuito de Ciudad de México|Gran Premio de Ciudad de México|GP de Ciudad de México|circuito de Mexico City|Gran Premio de Mexico City|GP de Mexico City|circuito de Mexican|Gran Premio de Mexican|GP de Mexican;2;999999979
+Nürburgring;Nordschleife|Nürburgring Nordschleife|Nürburg|German|Luxembourg|Eifel|circuito de Nürburgring|Gran Premio de Nürburgring|GP de Nürburgring|circuito de Nordschleife|Gran Premio de Nordschleife|GP de Nordschleife|circuito de Nürburgring Nordschleife|Gran Premio de Nürburgring Nordschleife|GP de Nürburgring Nordschleife|circuito de Nürburg|Gran Premio de Nürburg|GP de Nürburg|circuito de German|Gran Premio de German|GP de German|circuito de Luxembourg|Gran Premio de Luxembourg|GP de Luxembourg|circuito de Eifel|Gran Premio de Eifel|GP de Eifel;3;1000000000
+Hockenheim;Alemania|Hockenheimring|circuito de Hockenheim|Gran Premio de Hockenheim|GP de Hockenheim|circuito de Alemania|Gran Premio de Alemania|GP de Alemania|circuito de Hockenheimring|Gran Premio de Hockenheimring|GP de Hockenheimring;3;999999999
+Paul Ricard;Le Castellet|Francia|Circuit Paul Ricard|French|circuito de Paul Ricard|Gran Premio de Paul Ricard|GP de Paul Ricard|circuito de Le Castellet|Gran Premio de Le Castellet|GP de Le Castellet|circuito de Francia|Gran Premio de Francia|GP de Francia|circuito de Circuit Paul Ricard|Gran Premio de Circuit Paul Ricard|GP de Circuit Paul Ricard|circuito de French|Gran Premio de French|GP de French;3;999999998
+Magny-Cours;Circuit de Nevers Magny-Cours|circuito de Magny-Cours|Gran Premio de Magny-Cours|GP de Magny-Cours|circuito de Circuit de Nevers Magny-Cours|Gran Premio de Circuit de Nevers Magny-Cours|GP de Circuit de Nevers Magny-Cours;3;999999997
+Estoril;Autódromo do Estoril|Circuito do Estoril|Portuguese|circuito de Estoril|Gran Premio de Estoril|GP de Estoril|circuito de Autódromo do Estoril|Gran Premio de Autódromo do Estoril|GP de Autódromo do Estoril|circuito de Circuito do Estoril|Gran Premio de Circuito do Estoril|GP de Circuito do Estoril|circuito de Portuguese|Gran Premio de Portuguese|GP de Portuguese;3;999999996
+Portimão;Algarve|Portugal|Algarve International Circuit|circuito de Portimão|Gran Premio de Portimão|GP de Portimão|circuito de Algarve|Gran Premio de Algarve|GP de Algarve|circuito de Portugal|Gran Premio de Portugal|GP de Portugal|circuito de Algarve International Circuit|Gran Premio de Algarve International Circuit|GP de Algarve International Circuit;3;999999995
+Sepang;Malasia|Sepang International Circuit|Malaysian|Bahrain|circuito de Sepang|Gran Premio de Sepang|GP de Sepang|circuito de Malasia|Gran Premio de Malasia|GP de Malasia|circuito de Sepang International Circuit|Gran Premio de Sepang International Circuit|GP de Sepang International Circuit|circuito de Malaysian|Gran Premio de Malaysian|GP de Malaysian|circuito de Bahrain|Gran Premio de Bahrain|GP de Bahrain;3;999999994
+Istanbul Park;Estambul|Turquía|Istanbul|Turkish|circuito de Istanbul Park|Gran Premio de Istanbul Park|GP de Istanbul Park|circuito de Estambul|Gran Premio de Estambul|GP de Estambul|circuito de Turquía|Gran Premio de Turquía|GP de Turquía|circuito de Istanbul|Gran Premio de Istanbul|GP de Istanbul|circuito de Turkish|Gran Premio de Turkish|GP de Turkish;3;999999993
 Yeongam;Corea|circuito de Yeongam|Gran Premio de Yeongam|GP de Yeongam|circuito de Corea|Gran Premio de Corea|GP de Corea;3;999999992
-Buddh;India|circuito de Buddh|Gran Premio de Buddh|GP de Buddh|circuito de India|Gran Premio de India|GP de India;3;999999991
-Sochi;Rusia|circuito de Sochi|Gran Premio de Sochi|GP de Sochi|circuito de Rusia|Gran Premio de Rusia|GP de Rusia;3;999999990
-Mugello;circuito de Mugello|Gran Premio de Mugello|GP de Mugello;3;999999989
+Buddh;India|Buddh International Circuit|Greater Noida|Indian|circuito de Buddh|Gran Premio de Buddh|GP de Buddh|circuito de India|Gran Premio de India|GP de India|circuito de Buddh International Circuit|Gran Premio de Buddh International Circuit|GP de Buddh International Circuit|circuito de Greater Noida|Gran Premio de Greater Noida|GP de Greater Noida|circuito de Indian|Gran Premio de Indian|GP de Indian;3;999999991
+Sochi;Rusia|Sochi Autodrom|Sirius Autodrom|Russian|circuito de Sochi|Gran Premio de Sochi|GP de Sochi|circuito de Rusia|Gran Premio de Rusia|GP de Rusia|circuito de Sochi Autodrom|Gran Premio de Sochi Autodrom|GP de Sochi Autodrom|circuito de Sirius Autodrom|Gran Premio de Sirius Autodrom|GP de Sirius Autodrom|circuito de Russian|Gran Premio de Russian|GP de Russian;3;999999990
+Mugello;Autodromo Internazionale del Mugello|Mugello Circuit|Scarperia e San Piero|2020 Tuscan|circuito de Mugello|Gran Premio de Mugello|GP de Mugello|circuito de Autodromo Internazionale del Mugello|Gran Premio de Autodromo Internazionale del Mugello|GP de Autodromo Internazionale del Mugello|circuito de Mugello Circuit|Gran Premio de Mugello Circuit|GP de Mugello Circuit|circuito de Scarperia e San Piero|Gran Premio de Scarperia e San Piero|GP de Scarperia e San Piero|circuito de 2020 Tuscan|Gran Premio de 2020 Tuscan|GP de 2020 Tuscan;3;999999989
 Fuji;circuito de Fuji|Gran Premio de Fuji|GP de Fuji;3;999999988
-Adelaida;Adelaide|circuito de Adelaida|Gran Premio de Adelaida|GP de Adelaida|circuito de Adelaide|Gran Premio de Adelaide|GP de Adelaide;3;999999987
-Indianápolis;circuito de Indianápolis|Gran Premio de Indianápolis|GP de Indianápolis;3;999999986
-Kyalami;Sudáfrica|circuito de Kyalami|Gran Premio de Kyalami|GP de Kyalami|circuito de Sudáfrica|Gran Premio de Sudáfrica|GP de Sudáfrica;3;999999985
-Jarama;circuito de Jarama|Gran Premio de Jarama|GP de Jarama;3;999999984
-Montjuïc;circuito de Montjuïc|Gran Premio de Montjuïc|GP de Montjuïc;3;999999983
-Watkins Glen;circuito de Watkins Glen|Gran Premio de Watkins Glen|GP de Watkins Glen;3;999999982
-Long Beach;circuito de Long Beach|Gran Premio de Long Beach|GP de Long Beach;3;999999981
-Phoenix;circuito de Phoenix|Gran Premio de Phoenix|GP de Phoenix;3;999999980
-Detroit;circuito de Detroit|Gran Premio de Detroit|GP de Detroit;3;999999979
-Dallas;circuito de Dallas|Gran Premio de Dallas|GP de Dallas;3;999999978
-Zolder;circuito de Zolder|Gran Premio de Zolder|GP de Zolder;3;999999977
-Nivelles;circuito de Nivelles|Gran Premio de Nivelles|GP de Nivelles;3;999999976
-Dijon;Dijon-Prenois|circuito de Dijon|Gran Premio de Dijon|GP de Dijon|circuito de Dijon-Prenois|Gran Premio de Dijon-Prenois|GP de Dijon-Prenois;3;999999975
-Brands Hatch;circuito de Brands Hatch|Gran Premio de Brands Hatch|GP de Brands Hatch;3;999999974
-Donington;circuito de Donington|Gran Premio de Donington|GP de Donington;3;999999973
-Aintree;circuito de Aintree|Gran Premio de Aintree|GP de Aintree;3;999999972
-Reims;circuito de Reims|Gran Premio de Reims|GP de Reims;3;999999971
-Rouen;circuito de Rouen|Gran Premio de Rouen|GP de Rouen;3;999999970
+Adelaida;Adelaide|Adelaide Street Circuit|circuito de Adelaida|Gran Premio de Adelaida|GP de Adelaida|circuito de Adelaide|Gran Premio de Adelaide|GP de Adelaide|circuito de Adelaide Street Circuit|Gran Premio de Adelaide Street Circuit|GP de Adelaide Street Circuit;3;999999987
+Indianápolis;Indianapolis Motor Speedway|Speedway|United States|circuito de Indianápolis|Gran Premio de Indianápolis|GP de Indianápolis|circuito de Indianapolis Motor Speedway|Gran Premio de Indianapolis Motor Speedway|GP de Indianapolis Motor Speedway|circuito de Speedway|Gran Premio de Speedway|GP de Speedway|circuito de United States|Gran Premio de United States|GP de United States;3;999999986
+Kyalami;Sudáfrica|Kyalami Grand Prix Circuit|Midrand|South African|circuito de Kyalami|Gran Premio de Kyalami|GP de Kyalami|circuito de Sudáfrica|Gran Premio de Sudáfrica|GP de Sudáfrica|circuito de Kyalami Grand Prix Circuit|Gran Premio de Kyalami Grand Prix Circuit|GP de Kyalami Grand Prix Circuit|circuito de Midrand|Gran Premio de Midrand|GP de Midrand|circuito de South African|Gran Premio de South African|GP de South African;3;999999985
+Jarama;Circuito Permanente del Jarama|Circuito del Jarama|San Sebastián de los Reyes|Gran Premio de Jarama|GP de Jarama|circuito de Circuito Permanente del Jarama|Gran Premio de Circuito Permanente del Jarama|GP de Circuito Permanente del Jarama|circuito de Circuito del Jarama|Gran Premio de Circuito del Jarama|GP de Circuito del Jarama|circuito de San Sebastián de los Reyes|Gran Premio de San Sebastián de los Reyes|GP de San Sebastián de los Reyes;3;999999984
+Montjuïc;Montjuïc Circuit|circuito de Montjuïc|Gran Premio de Montjuïc|GP de Montjuïc|circuito de Montjuïc Circuit|Gran Premio de Montjuïc Circuit|GP de Montjuïc Circuit;3;999999983
+Watkins Glen;Watkins Glen International|circuito de Watkins Glen|Gran Premio de Watkins Glen|GP de Watkins Glen|circuito de Watkins Glen International|Gran Premio de Watkins Glen International|GP de Watkins Glen International;3;999999982
+Long Beach;Long Beach Street Circuit|circuito de Long Beach|Gran Premio de Long Beach|GP de Long Beach|circuito de Long Beach Street Circuit|Gran Premio de Long Beach Street Circuit|GP de Long Beach Street Circuit;3;999999981
+Phoenix;Phoenix Street Circuit|circuito de Phoenix|Gran Premio de Phoenix|GP de Phoenix|circuito de Phoenix Street Circuit|Gran Premio de Phoenix Street Circuit|GP de Phoenix Street Circuit;3;999999980
+Detroit;Detroit Street Circuit|circuito de Detroit|Gran Premio de Detroit|GP de Detroit|circuito de Detroit Street Circuit|Gran Premio de Detroit Street Circuit|GP de Detroit Street Circuit;3;999999979
+Dallas;Dallas Fair Park|Fair Park#Other notable events|circuito de Dallas|Gran Premio de Dallas|GP de Dallas|circuito de Dallas Fair Park|Gran Premio de Dallas Fair Park|GP de Dallas Fair Park|circuito de Fair Park#Other notable events|Gran Premio de Fair Park#Other notable events|GP de Fair Park#Other notable events;3;999999978
+Zolder;Circuit Zolder|Heusden-Zolder|circuito de Zolder|Gran Premio de Zolder|GP de Zolder|circuito de Circuit Zolder|Gran Premio de Circuit Zolder|GP de Circuit Zolder|circuito de Heusden-Zolder|Gran Premio de Heusden-Zolder|GP de Heusden-Zolder;3;999999977
+Nivelles;Nivelles-Baulers|circuito de Nivelles|Gran Premio de Nivelles|GP de Nivelles|circuito de Nivelles-Baulers|Gran Premio de Nivelles-Baulers|GP de Nivelles-Baulers;3;999999976
+Dijon;Dijon-Prenois|Circuit Dijon-Prenois|Prenois|Swiss|circuito de Dijon|Gran Premio de Dijon|GP de Dijon|circuito de Dijon-Prenois|Gran Premio de Dijon-Prenois|GP de Dijon-Prenois|circuito de Circuit Dijon-Prenois|Gran Premio de Circuit Dijon-Prenois|GP de Circuit Dijon-Prenois|circuito de Prenois|Gran Premio de Prenois|GP de Prenois|circuito de Swiss|Gran Premio de Swiss|GP de Swiss;3;999999975
+Brands Hatch;Brands Hatch Circuit|West Kingsdown|circuito de Brands Hatch|Gran Premio de Brands Hatch|GP de Brands Hatch|circuito de Brands Hatch Circuit|Gran Premio de Brands Hatch Circuit|GP de Brands Hatch Circuit|circuito de West Kingsdown|Gran Premio de West Kingsdown|GP de West Kingsdown;3;999999974
+Donington;Donington Park|Castle Donington|circuito de Donington|Gran Premio de Donington|GP de Donington|circuito de Donington Park|Gran Premio de Donington Park|GP de Donington Park|circuito de Castle Donington|Gran Premio de Castle Donington|GP de Castle Donington;3;999999973
+Aintree;Aintree Motor Racing Circuit|circuito de Aintree|Gran Premio de Aintree|GP de Aintree|circuito de Aintree Motor Racing Circuit|Gran Premio de Aintree Motor Racing Circuit|GP de Aintree Motor Racing Circuit;3;999999972
+Reims;Circuit de Reims-Gueux|Reims-Gueux|Gueux|circuito de Reims|Gran Premio de Reims|GP de Reims|circuito de Circuit de Reims-Gueux|Gran Premio de Circuit de Reims-Gueux|GP de Circuit de Reims-Gueux|circuito de Reims-Gueux|Gran Premio de Reims-Gueux|GP de Reims-Gueux|circuito de Gueux|Gran Premio de Gueux|GP de Gueux;3;999999971
+Rouen;Rouen-Les-Essarts|Orival|circuito de Rouen|Gran Premio de Rouen|GP de Rouen|circuito de Rouen-Les-Essarts|Gran Premio de Rouen-Les-Essarts|GP de Rouen-Les-Essarts|circuito de Orival|Gran Premio de Orival|GP de Orival;3;999999970
 Clermont-Ferrand;circuito de Clermont-Ferrand|Gran Premio de Clermont-Ferrand|GP de Clermont-Ferrand;3;999999969
-Zeltweg;circuito de Zeltweg|Gran Premio de Zeltweg|GP de Zeltweg;3;999999968
+Zeltweg;Zeltweg Airfield|Zeltweg Air Base#Motorsports|circuito de Zeltweg|Gran Premio de Zeltweg|GP de Zeltweg|circuito de Zeltweg Airfield|Gran Premio de Zeltweg Airfield|GP de Zeltweg Airfield|circuito de Zeltweg Air Base#Motorsports|Gran Premio de Zeltweg Air Base#Motorsports|GP de Zeltweg Air Base#Motorsports;3;999999968
 Österreichring;circuito de Österreichring|Gran Premio de Österreichring|GP de Österreichring;3;999999967
-Monsanto;circuito de Monsanto|Gran Premio de Monsanto|GP de Monsanto;3;999999966
-Boavista;circuito de Boavista|Gran Premio de Boavista|GP de Boavista;3;999999965
+Monsanto;Circuito de Monsanto|Lisbon|Gran Premio de Monsanto|GP de Monsanto|circuito de Circuito de Monsanto|Gran Premio de Circuito de Monsanto|GP de Circuito de Monsanto|circuito de Lisbon|Gran Premio de Lisbon|GP de Lisbon;3;999999966
+Boavista;Circuito da Boavista|Porto|circuito de Boavista|Gran Premio de Boavista|GP de Boavista|circuito de Circuito da Boavista|Gran Premio de Circuito da Boavista|GP de Circuito da Boavista|circuito de Porto|Gran Premio de Porto|GP de Porto;3;999999965
 Anderstorp;Suecia|circuito de Anderstorp|Gran Premio de Anderstorp|GP de Anderstorp|circuito de Suecia|Gran Premio de Suecia|GP de Suecia;3;999999964
-Mosport;circuito de Mosport|Gran Premio de Mosport|GP de Mosport;3;999999963
-Mont-Tremblant;circuito de Mont-Tremblant|Gran Premio de Mont-Tremblant|GP de Mont-Tremblant;3;999999962
+Mosport;Mosport Park|Canadian Tire Motorsport Park|Bowmanville|circuito de Mosport|Gran Premio de Mosport|GP de Mosport|circuito de Mosport Park|Gran Premio de Mosport Park|GP de Mosport Park|circuito de Canadian Tire Motorsport Park|Gran Premio de Canadian Tire Motorsport Park|GP de Canadian Tire Motorsport Park|circuito de Bowmanville|Gran Premio de Bowmanville|GP de Bowmanville;3;999999963
+Mont-Tremblant;Circuit Mont-Tremblant|circuito de Mont-Tremblant|Gran Premio de Mont-Tremblant|GP de Mont-Tremblant|circuito de Circuit Mont-Tremblant|Gran Premio de Circuit Mont-Tremblant|GP de Circuit Mont-Tremblant;3;999999962
 Jacarepaguá;circuito de Jacarepaguá|Gran Premio de Jacarepaguá|GP de Jacarepaguá;3;999999961
 Buenos Aires;Autódromo Oscar Gálvez|circuito de Buenos Aires|Gran Premio de Buenos Aires|GP de Buenos Aires|circuito de Autódromo Oscar Gálvez|Gran Premio de Autódromo Oscar Gálvez|GP de Autódromo Oscar Gálvez;3;999999960
-Pedralbes;circuito de Pedralbes|Gran Premio de Pedralbes|GP de Pedralbes;3;999999959
-Ain-Diab;Casablanca|Marruecos|circuito de Ain-Diab|Gran Premio de Ain-Diab|GP de Ain-Diab|circuito de Casablanca|Gran Premio de Casablanca|GP de Casablanca|circuito de Marruecos|Gran Premio de Marruecos|GP de Marruecos;3;999999958
-Pescara;circuito de Pescara|Gran Premio de Pescara|GP de Pescara;3;999999957
+Pedralbes;Circuit de Pedralbes|Pedralbes Circuit|circuito de Pedralbes|Gran Premio de Pedralbes|GP de Pedralbes|circuito de Circuit de Pedralbes|Gran Premio de Circuit de Pedralbes|GP de Circuit de Pedralbes|circuito de Pedralbes Circuit|Gran Premio de Pedralbes Circuit|GP de Pedralbes Circuit;3;999999959
+Ain-Diab;Casablanca|Marruecos|Ain-Diab Circuit|Moroccan|circuito de Ain-Diab|Gran Premio de Ain-Diab|GP de Ain-Diab|circuito de Casablanca|Gran Premio de Casablanca|GP de Casablanca|circuito de Marruecos|Gran Premio de Marruecos|GP de Marruecos|circuito de Ain-Diab Circuit|Gran Premio de Ain-Diab Circuit|GP de Ain-Diab Circuit|circuito de Moroccan|Gran Premio de Moroccan|GP de Moroccan;3;999999958
+Pescara;Pescara Circuit|circuito de Pescara|Gran Premio de Pescara|GP de Pescara|circuito de Pescara Circuit|Gran Premio de Pescara Circuit|GP de Pescara Circuit;3;999999957
 AVUS;circuito de AVUS|Gran Premio de AVUS|GP de AVUS;3;999999956
-Bremgarten;Suiza|circuito de Bremgarten|Gran Premio de Bremgarten|GP de Bremgarten|circuito de Suiza|Gran Premio de Suiza|GP de Suiza;3;999999955
-Riverside;circuito de Riverside|Gran Premio de Riverside|GP de Riverside;3;999999954
-Sebring;circuito de Sebring|Gran Premio de Sebring|GP de Sebring;3;999999953
-Valencia Street Circuit;circuito de Valencia Street Circuit|Gran Premio de Valencia Street Circuit|GP de Valencia Street Circuit;3;999999952
-Autodromo Nazionale di Monza;Monza Circuit|Italian;3;76
-Circuit de Monaco;;3;72
-Silverstone Circuit;British|70th Anniversary;3;61
-Circuit de Spa-Francorchamps;Stavelot|Belgian;3;59
-Circuit Gilles Villeneuve;Canadian;3;45
-Hockenheimring;German;3;37
-Circuit Zandvoort;Dutch;3;36
-Suzuka International Racing Course;Suzuka Circuit|Japanese;3;36
-Autodromo Internazionale Enzo e Dino Ferrari;Imola Circuit|San Marino|Emilia Romagna;3;32
-Albert Park Circuit;Australian;3;29
-Bahrain International Circuit;Bahrain;4;22
+Bremgarten;Suiza|Circuit Bremgarten|Bern|circuito de Bremgarten|Gran Premio de Bremgarten|GP de Bremgarten|circuito de Suiza|Gran Premio de Suiza|GP de Suiza|circuito de Circuit Bremgarten|Gran Premio de Circuit Bremgarten|GP de Circuit Bremgarten|circuito de Bern|Gran Premio de Bern|GP de Bern;3;999999955
+Riverside;Riverside International Raceway|Moreno Valley|circuito de Riverside|Gran Premio de Riverside|GP de Riverside|circuito de Riverside International Raceway|Gran Premio de Riverside International Raceway|GP de Riverside International Raceway|circuito de Moreno Valley|Gran Premio de Moreno Valley|GP de Moreno Valley;3;999999954
+Sebring;Sebring Raceway|Sebring International Raceway|circuito de Sebring|Gran Premio de Sebring|GP de Sebring|circuito de Sebring Raceway|Gran Premio de Sebring Raceway|GP de Sebring Raceway|circuito de Sebring International Raceway|Gran Premio de Sebring International Raceway|GP de Sebring International Raceway;3;999999953
+Bahrain International Circuit;;4;22
 Autódromo Oscar y Juan Gálvez;Argentine;4;20
-Kyalami Grand Prix Circuit;Midrand|South African;4;20
-Sepang International Circuit;Malaysian;4;20
-Watkins Glen International;United States;4;20
-Indianapolis Motor Speedway;Speedway;4;19
-Shanghai International Circuit;Chinese;4;19
-Circuit de Nevers Magny-Cours;French;4;18
-Circuit Paul Ricard;;4;18
-Marina Bay Street Circuit;Singapore;4;17
-Yas Marina Circuit;;4;17
-Brands Hatch Circuit;West Kingsdown|European;4;14
-Autódromo do Estoril;Circuito do Estoril|Portuguese;4;13
 Circuit of the Americas;;4;13
-Adelaide Street Circuit;;4;11
-Circuit de Reims-Gueux;Reims-Gueux|Gueux;4;11
-Autódromo Internacional Nelson Piquet;Rio de Janeiro|Brazilian;4;10
+Autódromo Internacional Nelson Piquet;Rio de Janeiro;4;10
 Baku City Circuit;Azerbaijan;4;10
-Circuit Zolder;Heusden-Zolder;4;10
-Circuito Permanente del Jarama;San Sebastián de los Reyes|Spanish;4;9
-Long Beach Street Circuit;;4;8
-Mosport Park;Canadian Tire Motorsport Park|Bowmanville;4;8
-Sochi Autodrom;Sirius Autodrom|Russian;4;8
-Circuito Permanente de Jerez;Jerez de la Frontera;4;7
-Detroit Street Circuit;;4;7
-Circuit Dijon-Prenois;Prenois|Swiss;4;6
 Scandinavian Raceway;Anderstorp Raceway|Swedish;4;6
-Aintree Motor Racing Circuit;;4;5
-Circuit Bremgarten;Bern;4;5
-Jeddah Corniche Circuit;Saudi Arabian;4;5
-Miami International Autodrome;Miami Gardens;4;5
-Rouen-Les-Essarts;Orival;4;5
 Circuit de Charade;Saint-Genès-Champanelle;5;4
 Fuji Speedway;Oyama;5;4
 Korea International Circuit;Korean;5;4
 Lusail International Circuit;Lusail;5;4
-Montjuïc Circuit;;5;4
-Buddh International Circuit;Greater Noida|Indian;5;3
-Las Vegas Strip Circuit;Paradise;5;3
-Phoenix Street Circuit;;5;3
 Prince George Circuit;East London;5;3
-Algarve International Circuit;;5;2
 Caesars Palace Grand Prix Circuit;Caesars Palace Grand Prix|Caesars Palace;5;2
-Circuit de Pedralbes;Pedralbes Circuit;5;2
-Circuit Mont-Tremblant;;5;2
-Circuito da Boavista;Porto;5;2
-Nivelles-Baulers;;5;2
 TI Circuit Aida;Okayama International Circuit|Mimasaka|Pacific;5;2
-Ain-Diab Circuit;Moroccan;5;1
-Autodromo Internazionale del Mugello;Mugello Circuit|Scarperia e San Piero|2020 Tuscan;5;1
 Bugatti Circuit;Circuit de la Sarthe#Bugatti Circuit|Le Mans;5;1
-Dallas Fair Park;Fair Park#Other notable events;5;1
-Donington Park;Castle Donington;5;1
-Pescara Circuit;;5;1
-Riverside International Raceway;Moreno Valley;5;1
-Sebring Raceway;Sebring International Raceway;5;1

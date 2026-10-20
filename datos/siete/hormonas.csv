@@ -26,7 +26,7 @@ FSH;hormona foliculoestimulante;2;999999988
 LH;hormona luteinizante;2;999999987
 TSH;tirotropina;2;999999986
 ACTH;corticotropina;2;999999985
-HCG;gonadotropina coriónica|hormona del embarazo;2;999999984
+HCG;gonadotropina coriónica|hormona del embarazo|gonadotropina coriónica humana|Ovidrel|Gonadotrofina coriónica humana|chorionic gonadotropin;2;999999984
 eritropoyetina;EPO;2;999999983
 DHEA;;2;999999982
 histamina;;2;999999981
@@ -84,7 +84,6 @@ corticosteroide;Corticosteroides|Corticoides|Corticoide|Corticoesteroide|cortico
 esteroide sexual;esteroide gonadal|hormona sexual|sex steroid;4;51
 glucocorticoide;glucocorticosteroide|glucocorticoid;4;50
 esteroide anabólico;anabolizante androgénico esteroideo|andrógeno anabólico|EAA|esteroide anabolizante|metiltestosterona|anabolic steroid;4;47
-gonadotropina coriónica humana;Ovidrel|Gonadotrofina coriónica humana|chorionic gonadotropin;4;43
 hormona tiroidea;hormonas tiroideas|thyroid hormone;4;39
 hormona liberadora de hormona adrenocorticotropa;CRF|factor liberador de corticotropina|corticotropin releasing hormone;4;37
 gonadotropina;Gonadotrofina|gonadotropins;4;37

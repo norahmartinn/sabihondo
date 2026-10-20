@@ -4,7 +4,7 @@ et cetera;etc;1;999999999
 in situ;;1;999999998
 a priori;;1;999999997
 ipso facto;;1;999999996
-curriculum vitae;currículum|CV|currículo;1;999999995
+curriculum vitae;currículum|CV|currículo|curriculum vitæ;1;999999995
 alter ego;;1;999999994
 statu quo;status quo|status;1;999999993
 grosso modo;;1;999999992
@@ -14,7 +14,7 @@ in extremis;;1;999999989
 motu proprio;;1;999999988
 a posteriori;;2;1000000000
 mea culpa;;2;999999999
-sine qua non;conditio sine qua non;2;999999998
+sine qua non;conditio sine qua non|conditio sine qua non o Condicio sine qua non;2;999999998
 de facto;;2;999999997
 ad hoc;;2;999999996
 quid pro quo;;2;999999995
@@ -219,7 +219,6 @@ circa;;5;0
 confer;;5;0
 codex;;5;0
 cognosco melior, facio taliter;;5;0
-conditio sine qua non o Condicio sine qua non;;5;0
 conivnctis viribus o Conjunctis viribus;;5;0
 coram populo;;5;0
 coram Deo;;5;0
@@ -229,7 +228,6 @@ corpus delicti;;5;0
 credo quia absurdum;;5;0
 cum grano salis;;5;0
 cunnilingus;;5;0
-curriculum vitæ;;5;0
 conturbatus animus non est aptus ad exequendum munun suum;;5;0
 de incognito;;5;0
 de iure;;5;0
