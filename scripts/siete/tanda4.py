@@ -263,7 +263,7 @@ def plural(p):
     if p[-1] in "aeiouáéó": return [p + "s"]
     if p.endswith("z"): return [p[:-1] + "ces"]
     return [p + "es"]
-def por_frecuencia(slug, vale, metrica="frecuencia_de_uso", cortes=(0.12, 0.35, 0.7), formas=False):
+def por_frecuencia(slug, vale, metrica="frecuencia_de_uso", cortes=(0.12, 0.35, 0.7), formas=False, flexion=None):
     """Las de la lista a mano mandan; el resto del diccionario va por frecuencia de uso (2, 3, 4) y las que no se usan nunca, al 5."""
     lema, frec = _palabras()
     usadas = sorted((p for p in lema if vale(p) and re.fullmatch(r"[a-záéíóúüñ]+", p) and p in frec), key=lambda p: frec[p])
@@ -271,8 +271,8 @@ def por_frecuencia(slug, vale, metrica="frecuencia_de_uso", cortes=(0.12, 0.35, 
     filas = []
     for i, p in enumerate(usadas):
         f = i / max(1, len(usadas))
-        filas.append((p, plural(p), 2 if f < cortes[0] else 3 if f < cortes[1] else 4 if f < cortes[2] else 5, 10**5 - frec[p]))
-    filas += [(p, plural(p), 5, 0) for p in resto]
+        filas.append((p, (flexion or plural)(p), 2 if f < cortes[0] else 3 if f < cortes[1] else 4 if f < cortes[2] else 5, 10**5 - frec[p]))
+    filas += [(p, (flexion or plural)(p), 5, 0) for p in resto]
     if formas:      # plurales, femeninos y verbos conjugados (el diccionario grande viene sin tildes)
         ya = {clave(x) for f in filas for x in [f[0]] + f[1]}
         for p in open(FUENTES / "tanda3" / "palabras_todas.txt", encoding="utf-8", errors="replace"):
@@ -347,7 +347,9 @@ def acento(p):
         if re.search(r"[áéíóú]", s): return len(n) - 1 - i
     return None
 def esdrujulas():
-    por_frecuencia("esdrujulas", lambda p: acento(p) == 2, cortes=(0.08, 0.3, 0.65))
+    # el lemario solo trae el masculino: antepenúltimo → antepenúltima, antepenúltimos, antepenúltimas
+    femenino = lambda p: plural(p) + ([p[:-1] + "a", p[:-1] + "as"] if p.endswith("o") else [])
+    por_frecuencia("esdrujulas", lambda p: acento(p) == 2, cortes=(0.08, 0.3, 0.65), flexion=femenino)
     # los plurales que se vuelven esdrújulos (joven → jóvenes, examen → exámenes) también valen
     lema, frec = _palabras()
     import csv as _csv
