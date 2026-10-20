@@ -81,7 +81,26 @@ def refrescos(): junta("refrescos", cola_wd4("refrescos", 3, 40, r"^(bebida|refr
 def cocacola(): junta("cocacola", cola_wd4("cocacola", 1, 30, r"^(The Coca-Cola|Coca-Cola (Company|FEMSA|HBC|Europacific|Amatil|Bottling|Enterprises|Consolidated|Beverages|Hellenic|İçecek|Icecek))|embotelladora|bottling|planta|fábrica|museo|world of coca|campaña|anuncio|publicidad|historia|botella|weintraub|minogue|beverage partners|entertainment|hawaï"), "ediciones_wikipedia")
 def nestle(): junta("nestle", cola_wd4("nestle", 1, 30, r"^Nestlé( S\.A\.| España| USA| Health| Waters| Purina PetCare)?$|fábrica|planta|sede|museo|centro|l.or[ée]al|lanvin|beverage partners"), "ediciones_wikipedia")
 def apple(): junta("apple", cola_wd4("apple", 4, 40, r"^(Apple (Inc|Park|Store|Campus)|Infinite Loop)|procesador|chip|^A\d|^M\d|^S\d|^T\d|^H\d|^U\d|^W\d"), "ediciones_wikipedia")
-def sagas(): junta("sagas", cola_wd4("sagas", 12, 45, r"^(serie de|saga de|franquicia|lista|anexo)|fase|awards|cortos|especiales|condición humana", r"^(saga|serie)\s+(de\s+)?"), "ediciones_wikipedia")
+SAGA_PRE = re.compile(r"^(the |las |los |la |el )?((primera|segunda|tercera) )?(saga|serie|trilog[ií]a|tetralog[ií]a|cuatrilog[ií]a|pentalog[ií]a|franquicia|pel[ií]culas|universo cinematogr[aá]fico|universo)( de| del)?\s+", re.I)
+SAGA_FIN = re.compile(r"(\s*[:(].*$|\s+(en el cine|trilogy|film series|franchise|la saga|saga)$)", re.I)
+SAGA_IGUAL = {"Universo cinematográfico de Marvel": "Los Vengadores", "The Fast and the Furious": "Fast & Furious", "El Conjuro": "Expediente Warren",
+              "The Evil Dead": "Posesión infernal", "The Dark Knight Trilogy": "Batman", "The Karate Kid": "Karate Kid", "Tercera trilogía de Star Wars": "Star Wars",
+              "serie de películas Mad Max": "Mad Max", "Universo Spider-Man de Sony": "Spider-Man", "Marvel One-Shots": "Los Vengadores",
+              "Marvel Studios Special Presentations": "Los Vengadores", "The Animatrix": "Matrix", "Cars Toons": "Cars"}
+def sagas():
+    """Si una saga de Wikidata es la misma que una puesta a mano («Películas de James Bond», «Trilogía de El Padrino»), no puede valer 100 m:
+    pasa a ser alias de la de mano y puntúa como ella."""
+    cola = cola_wd4("sagas", 12, 45, r"^(lista|anexo)|fase|awards|cortos|especiales|condición humana")
+    mano = {clave(x): n for n, al, _, _ in a_mano4("sagas") for x in [n] + al}
+    mas, limpia = mano_t4.ALIAS_MAS.setdefault("sagas", {}), []
+    for n, al, nv, v in cola:
+        corto = SAGA_FIN.sub("", SAGA_PRE.sub("", n)).strip()
+        dueño = SAGA_IGUAL.get(n) or mano.get(clave(corto)) or mano.get(clave(re.sub(r"^(the|el|la|los|las)\s+", "", corto, flags=re.I)))
+        if dueño:
+            mas[dueño] = ", ".join(x for x in [mas.get(dueño, ""), n] + al if x)
+        else:
+            limpia.append((n, al + ([corto] if clave(corto) != clave(n) and len(clave(corto)) > 3 else []), nv, v))
+    junta("sagas", limpia, "ediciones_wikipedia")
 def minerales(): junta("minerales", cola_wd4("minerales", 0, 25), "ediciones_wikipedia")
 def hormonas(): junta("hormonas", cola_wd4("hormonas", 3, 30, r"receptor|^hormona$|^list"), "ediciones_wikipedia")
 def corrientes(): junta("corrientes", cola_wd4("corrientes", 3, 40, r"^(list|categor|historia)", r"^(filosofía|escuela)\s+"), "ediciones_wikipedia")
