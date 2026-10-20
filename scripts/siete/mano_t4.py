@@ -27,7 +27,7 @@ MANO = {
 "refrescos": {
  1: "Coca-Cola=Coca Cola=Coca=Coke=Cocacola, Fanta, Sprite, Pepsi, Kas, Aquarius, 7Up=Seven Up=7 Up=Sevenup, Nestea, Schweppes, Fanta naranja, Fanta limón",
  2: "Trina, La Casera=Casera, Coca-Cola Zero=Coca Zero=Coca-Cola Zero Azúcar, Pepsi Max, Lipton=Lipton Ice Tea=Ice Tea=Ice tea, tónica=agua tónica, gaseosa, Dr Pepper=Doctor Pepper, Mountain Dew, Bitter Kas, Fuze Tea=Fuzetea, Coca-Cola Light=Coca Light=Coca-Cola Light, Mirinda, ginger ale, Canada Dry",
- 3: "Cherry Coke=Coca-Cola Cherry, Fanta uva, Fanta fresa, Fanta piña, Fanta Zero, Kas naranja, Kas limón, Kas manzana, Sunny Delight=Sunny D, Appletiser, Orangina, Vimto, Irn-Bru=Irn Bru, Burn, Monster, Red Bull, Sanpellegrino=San Pellegrino, Oasis, Schweppes limón, Schweppes naranja, Trinaranjus, Fever-Tree=Fever Tree, ginger beer, limonada, zarzaparrilla=root beer, cola, naranjada, Pepsi Twist, Seven Up Free, Sprite Zero, Aquarius naranja, Coca-Cola sin cafeína",
+ 3: "Cherry Coke=Coca-Cola Cherry, Fanta uva, Fanta fresa, Fanta piña, Fanta Zero, Kas naranja, Kas limón, Kas manzana, Sunny Delight=Sunny D, Appletiser, Orangina, Vimto, Irn-Bru=Irn Bru, Burn, Red Bull, Sanpellegrino=San Pellegrino, Oasis, Schweppes limón, Schweppes naranja, Trinaranjus, Fever-Tree=Fever Tree, ginger beer, limonada, zarzaparrilla=root beer, cola, naranjada, Pepsi Twist, Seven Up Free, Sprite Zero, Aquarius naranja, Coca-Cola sin cafeína",
  4: "Sinalco, Afri-Cola=Afri Cola, Fritz-Kola=Fritz Kola, Club-Mate=Club Mate, Inca Kola, Guaraná=Guaraná Antarctica, Big Cola, Postobón, Jarritos, Ramune, Tango, Lilt, Ting, Chinotto, Almdudler, Kofola, RC Cola=Royal Crown, Barr, Sumol, Tab, Mello Yello, Fresca, A&W, cream soda, Cockta, Crush, Fanta Exotic, Kas pomelo, Pepsi Cherry, Lipton limón, Lipton maracuyá, Mirinda naranja, Tropical, Cherry Pepsi",
 },
 "hacendado": {
@@ -260,7 +260,7 @@ MAS.update({
 })
 ALIAS_MAS.update({
  "refrescos": {"Bitter Kas": "bitter", "tónica": "tónica Schweppes, Schweppes tónica", "7Up": "7Up Free, Seven Up Free", "Aquarius": "Aquarius limón, Aquarius Zero",
-               "Lipton": "Lipton melocotón, Ice Tea limón", "Nestea": "Nestea limón, Nestea mango piña", "Red Bull": "Red Bull sin azúcar", "Monster": "Monster Ultra, Monster blanco"},
+               "Lipton": "Lipton melocotón, Ice Tea limón", "Nestea": "Nestea limón, Nestea mango piña", "Red Bull": "Red Bull sin azúcar"},
  "phineas": {"Doofenshmirtz": "Heinz, el doctor Doofenshmirtz", "Perry": "el ornitorrinco, ornitorrinco", "Carl": "Karl", "Norm": "el robot Norm", "Baljeet": "Balyit, Baljit",
              "Clyde Flynn": "Clyde, el abuelo, abuelo Clyde", "Betty Jo": "la abuela, abuela Betty Jo", "Reginald Fletcher": "Reginald, abuelo Reg", "Winifred Fletcher": "Winifred",
              "Bobbi Fabulous": "Bobbi", "Mitch": "Mitch el alien"},
@@ -271,7 +271,7 @@ ALIAS_MAS.update({
 })
 MAS.update({
  "refrescos": {3: "Powerade, Gatorade, Isostar, Champín, soda, Coca-Cola vainilla, Pepsi Zero, Prime",
-               4: "horchata, Manzanita Sol, Squirt, Celsius, Rockstar, Monster Mango Loco"},
+               4: "horchata, Manzanita Sol, Squirt, Celsius, Rockstar"},
  "phineas": {3: "chicas exploradoras=las exploradoras=Fireside Girls"},
  "esdrujulas": {2: "cuídate, dígame, dímelo, cállate, siéntate, levántate, déjame, mírame, escúchame, tráeme, dámelo, vámonos, ábrelo, cómprate"},
  "filosofos": {4: "San Anselmo=Anselmo de Canterbury=Anselmo, Helvecio, Jordan Peterson, Michel Onfray=Onfray, Mark Fisher, Alan Watts, Krishnamurti"},
@@ -406,3 +406,11 @@ MAS.update({
  "formatos": {4: "INDD, SKETCH, FIG, XD, SWF, FLA, M2TS, APE, ALAC, M4B, CR3, RAF, JFIF, HDR, DDS, EMF, XLSM, DOCM, DOTX, PPSX, VSDX, PUB, ODG, WPD, WPS, IPYNB, RMD, MAT, SAV, PARQUET, GLTF, GLB, USDZ, C4D, SKP, RVT, STEP=STP, H5=HDF5, AVRO, PPM, HWP"},
  "unidades_tiempo": {3: "cuarto de hora, media hora, año académico=año escolar=curso, año fiscal", 4: "centenario, bicentenario, cincuentenario, jubileo, hora sideral"},
 })
+
+MONSTERS = ("Monster Mango Loco=Mango Loco, Monster Ultra=Monster blanco=Monster Ultra White=Monster Zero, Monster Pipeline Punch=Pipeline Punch, Monster Khaotic, "
+            "Monster Ultra Paradise, Monster Ultra Rosá=Monster Ultra Rosa, Monster Ultra Fiesta, Monster Ultra Watermelon, Monster Ultra Gold, Monster Ultra Violet, "
+            "Monster Ultra Strawberry Dreams, Monster Ultra Peachy Keen, Monster Ultra Blue Hawaiian, Monster Juiced, Monster Rehab, Monster Nitro, Monster Assault, "
+            "Monster Aussie Lemonade, Monster Bad Apple, Monster Lewis Hamilton=Monster LH44, Monster Mule, Monster Absolutely Zero, Monster Lo-Carb, Monster Java")
+MAS.setdefault("refrescos", {})[2] = "Monster=Monster Energy"
+MAS["refrescos"][5] = MONSTERS
+MAS.setdefault("cocacola", {})[5] = MAS["cocacola"].get(5, "") + ", " + MONSTERS

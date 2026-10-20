@@ -25,6 +25,7 @@ Coca-Cola Light;Coca Light;2;999999989
 Mirinda;;2;999999988
 ginger ale;;2;999999987
 Canada Dry;;2;999999986
+Monster;Monster Energy;2;100000000
 Cherry Coke;Coca-Cola Cherry;3;1000000000
 Fanta uva;;3;999999999
 Fanta fresa;;3;999999998
@@ -39,23 +40,22 @@ Orangina;;3;999999990
 Vimto;;3;999999989
 Irn-Bru;;3;999999988
 Burn;;3;999999987
-Monster;Monster Ultra|Monster blanco;3;999999986
-Red Bull;Red Bull sin azúcar;3;999999985
-Sanpellegrino;;3;999999984
-Oasis;;3;999999983
-Schweppes limón;;3;999999982
-Schweppes naranja;;3;999999981
-Trinaranjus;;3;999999980
-Fever-Tree;;3;999999979
-ginger beer;;3;999999978
-limonada;;3;999999977
-zarzaparrilla;root beer;3;999999976
-cola;;3;999999975
-naranjada;;3;999999974
-Pepsi Twist;;3;999999973
-Sprite Zero;;3;999999971
-Aquarius naranja;;3;999999970
-Coca-Cola sin cafeína;;3;999999969
+Red Bull;Red Bull sin azúcar;3;999999986
+Sanpellegrino;;3;999999985
+Oasis;;3;999999984
+Schweppes limón;;3;999999983
+Schweppes naranja;;3;999999982
+Trinaranjus;;3;999999981
+Fever-Tree;;3;999999980
+ginger beer;;3;999999979
+limonada;;3;999999978
+zarzaparrilla;root beer;3;999999977
+cola;;3;999999976
+naranjada;;3;999999975
+Pepsi Twist;;3;999999974
+Sprite Zero;;3;999999972
+Aquarius naranja;;3;999999971
+Coca-Cola sin cafeína;;3;999999970
 Powerade;;3;100000000
 Gatorade;;3;99999999
 Isostar;;3;99999998
@@ -103,10 +103,32 @@ Manzanita Sol;;4;99999999
 Squirt;;4;99999998
 Celsius;;4;99999997
 Rockstar;;4;99999996
-Monster Mango Loco;;4;99999995
 kombucha;;4;48
 crema agria;Crema acida|Nata agria|sour cream;4;40
-Monster Energy;;5;39
+Monster Mango Loco;Mango Loco;5;100000000
+Monster Ultra;Monster blanco|Monster Ultra White|Monster Zero;5;99999999
+Monster Pipeline Punch;Pipeline Punch;5;99999998
+Monster Khaotic;;5;99999997
+Monster Ultra Paradise;;5;99999996
+Monster Ultra Rosá;;5;99999995
+Monster Ultra Fiesta;;5;99999994
+Monster Ultra Watermelon;;5;99999993
+Monster Ultra Gold;;5;99999992
+Monster Ultra Violet;;5;99999991
+Monster Ultra Strawberry Dreams;;5;99999990
+Monster Ultra Peachy Keen;;5;99999989
+Monster Ultra Blue Hawaiian;;5;99999988
+Monster Juiced;;5;99999987
+Monster Rehab;;5;99999986
+Monster Nitro;;5;99999985
+Monster Assault;;5;99999984
+Monster Aussie Lemonade;;5;99999983
+Monster Bad Apple;;5;99999982
+Monster Lewis Hamilton;Monster LH44;5;99999981
+Monster Mule;;5;99999980
+Monster Absolutely Zero;;5;99999979
+Monster Lo-Carb;;5;99999978
+Monster Java;;5;99999977
 OpenCola;;5;35
 Julmust;;5;24
 Mecca-Cola;;5;22
