@@ -64,7 +64,7 @@ MANO = {
  2: "Luxemburgo, Mónaco, Marruecos, Argelia, Túnez, Senegal, Haití, Costa de Marfil",
  3: "Camerún, Mali=Malí, República del Congo=Congo=Congo-Brazzaville, República Democrática del Congo=RDC=Congo-Kinsasa=Zaire, Madagascar, Gabón, Burkina Faso, Níger, Chad, Guinea=Guinea-Conakry, Benín, Togo, Ruanda, Burundi",
  4: "Yibuti=Djibouti, Comoras, Seychelles, República Centroafricana, Guinea Ecuatorial, Mauritania, Líbano, Mauricio, Andorra",
- 5: "Vanuatu, Vietnam, Laos, Camboya, Guayana Francesa, Martinica, Guadalupe, Reunión, Nueva Caledonia, Polinesia Francesa=Tahití, Mayotte, San Pedro y Miquelón, Wallis y Futuna, Santa Lucía, Dominica",
+ 5: "Vanuatu, Guayana Francesa, Martinica, Guadalupe, Reunión, Nueva Caledonia, Polinesia Francesa=Tahití, Mayotte, San Pedro y Miquelón, Wallis y Futuna",
 },
 "idiomas_paises": {
  1: "español=castellano, inglés, francés, portugués, árabe",
@@ -275,7 +275,7 @@ MAS.update({
  "phineas": {3: "chicas exploradoras=las exploradoras=Fireside Girls"},
  "esdrujulas": {2: "cuídate, dígame, dímelo, cállate, siéntate, levántate, déjame, mírame, escúchame, tráeme, dámelo, vámonos, ábrelo, cómprate"},
  "filosofos": {4: "San Anselmo=Anselmo de Canterbury=Anselmo, Helvecio, Jordan Peterson, Michel Onfray=Onfray, Mark Fisher, Alan Watts, Krishnamurti"},
- "francofonos": {5: "Egipto, Cabo Verde, Santo Tomé y Príncipe"},
+
 })
 ALIAS_MAS.update({
  "sagas": {"El señor de los anillos": "LOTR, ESDLA", "Los Vengadores": "Avengers, Universo Marvel, UCM", "Los juegos del hambre": "Hunger Games",
