@@ -148,6 +148,20 @@ h1 em{font-style:normal;color:var(--boya)}
 .btn.fantasma{background:none;color:var(--tinta);border-color:var(--linea);box-shadow:none}
 .btn.fantasma:hover{border-color:var(--tinta);background:#fff}
 .racha{font-family:var(--sans);font-size:13.5px;color:var(--tinta-suave);}
+/* racha: placa con la llama encima del título; en gris hasta que se juega el día */
+.placa-racha{display:flex;align-items:center;gap:10px;width:max-content;max-width:100%;margin:0 0 10px;padding:8px 14px 8px 10px;border-radius:16px;background:#f3ebe4;border:1.5px solid #e6d9ce}
+.placa-racha .llama{width:34px;height:34px;flex:none}
+.placa-racha .llama svg{width:100%;height:100%;display:block}
+.placa-racha b{font-family:var(--disp);font-weight:400;font-size:27px;line-height:1;color:var(--tinta)}
+.placa-racha .txt{font-family:var(--sans);font-size:13px;font-weight:700;color:var(--tinta-suave);line-height:1.2}
+.placa-racha:not(.on) .llama{filter:grayscale(1);opacity:.55}
+.placa-racha.on{background:#ffe6ee;border-color:#f7bfd3}
+.placa-racha.on .llama{animation:llamaSalta .6s cubic-bezier(.3,1.6,.5,1) both}
+.placa-racha.on .vive{animation:llamaVive 2.4s ease-in-out infinite;transform-origin:50% 90%}
+@keyframes llamaSalta{0%{transform:scale(.6)}100%{transform:scale(1)}}
+@keyframes llamaVive{50%{transform:scale(1.06) rotate(-3deg)}}
+@media (prefers-reduced-motion:reduce){.placa-racha .llama,.placa-racha .vive{animation:none}}
+
 
 /* ── tutorial ────────────────────────────────────────── */
 /* mientras dura, solo se ve el recuadro: el iceberg se guarda para cuando empieza la partida */
@@ -947,6 +961,9 @@ function portada(){
   rescataIceberg(); escena.innerHTML = `
   <div class="panel">
     <div class="sitio-berg"></div>
+    ${est.racha ? `<div class="placa-racha${hecho ? " on" : ""}" role="status">
+      <span class="llama" aria-hidden="true"><svg viewBox="0 0 40 40"><g class="vive"><path d="M20 3c2 7 10 10 10 20a10 10 0 0 1-20 0c0-5 3-8 5-10 0 4 2 6 4 6-2-6 0-11 1-16z" fill="#ee6fa3"/><path d="M20 20c1 3 5 4 5 9a5 5 0 0 1-10 0c0-3 2-4 3-5 0 2 1 3 2 3-1-3 0-5 0-7z" fill="#ffd27a"/></g></svg></span>
+      <b>${est.racha}</b><span class="txt">${est.racha>1?"días":"día"} de racha${hecho ? "" : `<br>juega hoy para mantenerla`}</span></div>` : ``}
     <h1>Sabi<em>hondo</em></h1>
     <p class="lema">Siete preguntas al día. Vale cualquier respuesta correcta, pero lo obvio te deja en la punta del iceberg. <b>Cuanto más nicho, más bajas.</b></p>
     <ul class="reglas">
@@ -961,7 +978,6 @@ function portada(){
       ${hecho ? `<button class="btn" id="bVer">Ver tu iceberg de hoy</button>
                  ${Cuenta.sb ? `<button class="btn oscuro" id="bPodio"><svg viewBox="0 0 24 24" width="18" height="18" fill="currentColor" aria-hidden="true"><rect x="9" y="5" width="6" height="15" rx="1"/><rect x="2.5" y="10" width="5.5" height="10" rx="1"/><rect x="16" y="13" width="5.5" height="7" rx="1"/></svg> Ver podio</button>` : ``}`
               : `<button class="btn" id="bJugar">Empezar a bajar <span aria-hidden="true">→</span></button>`}
-      ${est.racha ? `<span class="racha">Racha: ${est.racha} ${est.racha>1?"días":"día"}</span>` : ``}
     </div>
     ${hecho ? `<p class="apunte" style="margin-top:16px">Hoy ya has bajado <b>${mil(hecho.puntos)} m</b>. ¡Vuelve mañana para más!</p>` : ``}
   </div>`;
