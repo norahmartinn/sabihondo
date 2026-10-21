@@ -47,6 +47,7 @@ CONSULTAS = {
  "minerales":     q("?x wdt:P31 wd:Q12089225 ."),
  "filosofos":     q("?x wdt:P31 wd:Q5 ; wdt:P106 wd:Q4964182 .", 20),
  "batallas":      q("?x wdt:P31/wdt:P279* wd:Q178561 .", 12),
+ "guerras":       q("{ ?x wdt:P31/wdt:P279* wd:Q198 } UNION { ?x wdt:P31/wdt:P279* wd:Q8465 } UNION { ?x wdt:P31 wd:Q350604 } UNION { ?x wdt:P31 wd:Q467011 } UNION { ?x wdt:P31 wd:Q124734 }", 5),
  "corrientes":    q("?x wdt:P31 ?c . VALUES ?c { wd:Q2915955 wd:Q12765852 wd:Q138642081 }"),
  "hormonas":      q("{ ?x wdt:P31/wdt:P279* wd:Q11364 } UNION { ?x wdt:P279+ wd:Q11364 }", 3),
  "sagas":         q("?x wdt:P31/wdt:P279* wd:Q24856 .", 12),

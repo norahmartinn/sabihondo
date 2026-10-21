@@ -118,7 +118,7 @@ PREGUNTAS = [
     ("Nombra una palabra que empiece por X", "palabras_x"),
     ("Nombra una palabra esdrújula", "esdrujulas"),
     ("Nombra un filósofo", "filosofos"),
-    ("Nombra una batalla histórica", "batallas"),
+    ("Nombra una batalla o una guerra", "batallas"),
     ("Nombra un hueso del cuerpo", "huesos"),
     ("Nombra un músculo", "musculos"),
     ("Nombra una profesión", "profesiones"),

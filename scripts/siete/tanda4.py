@@ -42,7 +42,27 @@ def por_contenido(n, dueños):
     k = clave(n)
     hits = [(len(x), d) for x, d in dueños.items() if len(x) >= 5 and x in k]
     return max(hits)[1] if hits else None
+BATALLA_IGUAL = {"ataque a Pearl Harbor": "Pearl Harbor", "guerra anglo-estadounidense de 1812": "la guerra de 1812", "Guerra de Osetia del Sur de 2008": "la guerra de Georgia",
+    "Levantamiento de los bóxers": "la rebelión de los bóxers", "Guerra de Independencia de Argelia": "la guerra de Argelia", "Guerra de Liberación de Bangladés": "la guerra de Bangladés",
+    "guerra civil yemení": "la guerra de Yemen", "tercera guerra civil sudanesa": "la guerra de Sudán", "Guerra civil angoleña": "la guerra de Angola",
+    "Conflicto del Alto Karabaj": "la guerra del Alto Karabaj", "Conflicto entre India y Pakistán": "la guerra indo-pakistaní", "guerras de religión de Francia": "las guerras de religión",
+    "invasión de Irak de 2003": "la guerra de Irak", "Invasión de Kuwait de 1990": "la guerra del Golfo", "batalla de los Cuernos de Hattin": "Hattin",
+    "Batalla del Golfo de Leyte": "Leyte", "invasión rusa a Ucrania": "la guerra de Ucrania", "guerra ruso-ucraniana": "la guerra de Ucrania", "Guerra de Gaza": "la guerra de Gaza",
+    "guerra Irán-Israel": "la guerra de Irán", "guerra entre Irán e Irak": "la guerra Irán-Irak", "guerra civil siria": "la guerra de Siria", "Guerras Yugoslavas": "la guerra de los Balcanes",
+    "guerra de los Balcanes": "la guerra de los Balcanes", "Guerra de Bosnia": "la guerra de Bosnia", "guerra de la Independencia española": "la guerra de la Independencia",
+    "Guerra de los Diez Días": "la guerra de Eslovenia", "Guerra Cristera": "la guerra de los Cristeros", "Guerras carlistas": "las guerras carlistas", "Guerra del Rif": "la guerra de Marruecos",
+    "Guerra de Independencia cubana": "la guerra de Cuba", "guerra de Independencia de los Estados Unidos": "la guerra de Independencia de Estados Unidos",
+    "Guerra hispano-estadounidense": "la guerra hispano-estadounidense", "Desembarco de Normandía": "Normandía", "Operación Overlord": "Normandía"}
+def batalla_igual(n, dueños):
+    """«Segunda batalla de El Alamein», «guerra de Libia de 2011», «Tercera batalla de Ypres»: la misma que la de a mano"""
+    if n in BATALLA_IGUAL: return BATALLA_IGUAL[n]
+    for f in (lambda t: re.sub(r"\s+(de|en)\s+\d{4}([-–]\d{2,4})?$", "", t),
+              lambda t: re.sub(r"^(primera|segunda|tercera|cuarta|quinta)\s+(batalla)\s+", "batalla ", t, flags=re.I),
+              lambda t: re.sub(r"^(batalla|sitio|asedio)\s+(de\s+la\s+|de\s+los\s+|de\s+las\s+|del\s+|de\s+)", "", re.sub(r"^(primera|segunda|tercera|cuarta|quinta)\s+batalla", "batalla", t, flags=re.I), flags=re.I)):
+        t = f(n)
+        if t != n and clave(t) in dueños: return dueños[clave(t)]
 FUSIONA = {
+ "batallas": batalla_igual,
  "circuitos_f1": por_contenido,
  "apple": lambda n, d: "iPhone 15" if re.match(r"iphone\b", n, re.I) and n.lower() != "iphone" else None,
  "eurovision": {"Amaia Romero y Alfred García": "Amaia y Alfred"},
@@ -138,10 +158,17 @@ def filosofos():
     for n, *_ in filas: cuenta[clave(n.split()[-1])] = cuenta.get(clave(n.split()[-1]), 0) + 1
     filas = [(n, al + ([n.split()[-1]] if len(n.split()) > 1 and cuenta[clave(n.split()[-1])] == 1 and len(n.split()[-1]) > 3 else []), nv, v) for n, al, nv, v in filas]
     junta("filosofos", filas, "ediciones_wikipedia")
+GUERRA_FUERA = (r"^(list|anexo|frente|teatro|categor)|protesta|disturbio|masacre|matanza|golpe|atentado|ataques? |incidente|conspiraci|crisis|huelga|"
+                r"manifestaci|primavera árabe|asalto al capitolio|tercera guerra mundial|guerra nuclear|riot|massacre|coup|attack|protest|affair|plot")
 def batallas():
+    """Batallas y guerras: las batallas y las guerras (y rebeliones, invasiones y conflictos armados) de Wikidata, más las de a mano.
+    El nombre sin «batalla de» / «guerra de» también vale (Waterloo, Vietnam), si no es de otra."""
     filas = []
-    for n, al, nv, v in cola_wd4("batallas", 12, 50, r"^(list|guerra|campaña|operación|ofensiva|frente|teatro)"):
+    for n, al, nv, v in cola_wd4("batallas", 12, 50, r"^(list|frente|teatro)"):
         corto = re.sub(r"^(primera |segunda |tercera )?(batalla|sitio|asedio|toma|combate|desembarco|caída|cerco)\s+(naval\s+)?(de\s+la\s+|de\s+los\s+|de\s+las\s+|del\s+|de\s+)?", "", n, flags=re.I).strip()
+        filas.append((n, al + ([corto] if corto != n and len(clave(corto)) > 3 else []), nv, v))
+    for n, al, nv, v in cola_wd4("guerras", 5, 50, GUERRA_FUERA):
+        corto = re.sub(r"^guerras?\s+(de\s+la\s+|de\s+los\s+|de\s+las\s+|del\s+|de\s+)", "", n, flags=re.I).strip()
         filas.append((n, al + ([corto] if corto != n and len(clave(corto)) > 3 else []), nv, v))
     junta("batallas", filas, "ediciones_wikipedia")
 def masas_agua(): junta("masas_agua", cola_wd4("masas_agua", 3, 40, r"^(list|tipo|masa de agua$)|muelle|túnel|iceberg|vías|solonchak|dimíctico|grao|canal de aguas bravas", minus=True), "ediciones_wikipedia")
