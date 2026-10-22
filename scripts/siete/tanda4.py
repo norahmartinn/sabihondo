@@ -6,7 +6,7 @@ Las que no tienen base de datos posible (helados de Frigo, productos Hacendado�
 Las artistas de Spotify salen de artistas_spotify.py (Wikidata + oyentes mensuales de cada página de Spotify).
 
 Uso:  python3 scripts/siete/tanda4.py [slug …]     (sin argumentos, todas)"""
-import sys, html
+import difflib, sys, html
 import tanda2
 from tanda2 import *
 import mano_t4
@@ -192,6 +192,9 @@ def peter_pan(): junta("peter_pan", [], "orden_a_mano")   # la consulta de Wikid
 # ── personajes: Wikidata y la lista de personajes de la Wikipedia en inglés ──
 NO_PERSONAJE = re.compile(r"season|episode|reference|external|see also|notes|cast|overview|main|recurring|guest|minor|other|family|characters?|"
                           r"appearance|production|reception|development|^the |list|staff|employees|friends|relatives|introduced|portrayed|sources|elsewhere|bibliography|salar|accolade|award|loved ones|'s |^sales$|dunder|mifflin|soft kitty", re.I)
+# empresas, canciones, grupos y actores que se cuelan entre los personajes
+NO_ES_PERSONAJE = re.compile(r"dunder|mifflin|soft kitty|^management$|administrative|here comes treble|^leo and gino$|^mr\. and mrs\.|^(mayim bialik|melanie lynskey|taylor spreitler|"
+                             r"anjelika washington|lio tipton|ming-na wen)$", re.I)
 def de_lista_personajes(nombre):
     t = texto4(nombre)
     n = re.findall(r"^=+\s*([^=\n]+?)\s*=+\s*$", t, re.M) + re.findall(r"\n[;*]\s*'''([^'\n]{3,40})'''", t) + re.findall(r"\n;\s*([^:\n]{3,40})", t)
@@ -204,7 +207,16 @@ def de_lista_personajes(nombre):
 def personajes(slug):
     def f():
         cola = [f for f in (cola_wd4(slug) if (D4 / f"{slug}.json").exists() else []) if not f[0].lower().startswith("familia ")]   # «familia Flynn-Fletcher» no es un personaje
-        junta(slug, cola + de_lista_personajes(f"{slug}_en"), "orden_a_mano")
+        cola = [f for f in cola + de_lista_personajes(f"{slug}_en") if not NO_ES_PERSONAJE.search(f[0])]
+        # lo que es una errata de un nombre puesto a mano («Pam Beesley» por «Pam Beesly») no puede ser otra respuesta
+        # pasa a ser alias del de a mano y puntúa como él
+        mano = {clave(x): n for n, al, _, _ in a_mano4(slug) for x in [n] + al}
+        mas, limpia = mano_t4.ALIAS_MAS.setdefault(slug, {}), []
+        for f in cola:
+            dueño = None if clave(f[0]) in mano else next((d for m, d in mano.items() if len(m) > 5 and m != clave(f[0]) and difflib.SequenceMatcher(None, clave(f[0]), m).ratio() >= 0.9), None)
+            if dueño: mas[dueño] = ", ".join(x for x in [mas.get(dueño, ""), f[0]] + f[1] if x)
+            else: limpia.append(f)
+        junta(slug, limpia, "orden_a_mano")
     f.__name__ = slug; return f
 friends, phineas, bigbang, office, modern_family = [personajes(s) for s in ("friends", "phineas", "bigbang", "office", "modern_family")]
 

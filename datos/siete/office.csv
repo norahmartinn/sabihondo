@@ -2,7 +2,7 @@ respuesta;alias;nivel;orden_a_mano
 Michael Scott;Michael|Scott;1;1000000000
 Dwight;Dwight Schrute|Schrute;1;999999999
 Jim;Jim Halpert|Big Tuna|el gran atún|Tuna|Halpert;1;999999998
-Pam;Pam Beesly|Pam Halpert|Beesly;1;999999997
+Pam;Pam Beesly|Pam Halpert|Beesly|Pam Beesley;1;999999997
 Ryan;Ryan Howard;2;1000000000
 Andy;Andy Bernard;2;999999999
 Kevin;Kevin Malone;2;999999998
@@ -19,7 +19,7 @@ Erin;Erin Hannon;2;999999988
 Jan;Jan Levinson;2;999999987
 Holly;Holly Flax;2;999999986
 Gabe;Gabe Lewis;2;999999985
-Robert California;;2;999999984
+Robert California;Bert California|Bert;2;999999984
 David Wallace;;2;999999983
 Karen;Karen Filippelli;2;999999982
 Roy;Roy Anderson;2;999999981
@@ -72,21 +72,17 @@ Irene;;4;999999964
 Donna;;4;999999963
 Brian;;4;999999962
 Wallace;;4;999999961
-Rachael Wallace;;4;999999960
+Rachael Wallace;Rachel Wallace|Rachel;4;999999960
 Sprinkles;;4;999999958
 Garbage;;4;999999957
 Bandit;;4;999999956
-Dunder Mifflin;;5;14
-Pam Beesley;;5;10
 Jennifer Taylor-Clarke;;5;0
-Management;;5;0
 Ed Truck;;5;0
 Dan Gore;;5;0
 Craig;;5;0
 Troy Underbridge;;5;0
 A.J;;5;0
 Ben Nugent;;5;0
-Administrative assistants;Administrative;5;0
 Cathy Simms;;5;0
 Rolando;;5;0
 Stephanie;;5;0
@@ -112,7 +108,6 @@ Martin Nash;Martin;5;0
 Hannah Smoterich-Barr;Hannah;5;0
 Hank Tate;;5;0
 Billy Merchant;Billy;5;0
-Leo and Gino;;5;0
 Brenda Matlowe;Brenda;5;0
 Vikram;;5;0
 Al Brown;;5;0
@@ -127,7 +122,6 @@ Gordon;;5;0
 "Lucas ""Luke"" Cooper";Lucas;5;0
 Phillip Halsted Schrute;;5;0
 Rachael Martin;Rachael;5;0
-Here Comes Treble;Here;5;0
 Reed;;5;0
 Jada Philbin;Jada;5;0
 Justine;;5;0
@@ -139,7 +133,4 @@ Kathy Becker;Kathy;5;0
 Art Gould;;5;0
 Astrid Levinson;;5;0
 Dan;;5;0
-Mr. and Mrs. Flax;;5;0
-Rachel Wallace;Rachel;5;0
 Teddy Wallace;Teddy;5;0
-Bert California;Bert;5;0

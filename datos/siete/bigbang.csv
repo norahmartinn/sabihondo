@@ -22,8 +22,8 @@ Lucy;;3;999999998
 Alex Jensen;Alex;3;999999997
 Missy Cooper;Missy|la hermana de Sheldon;3;999999996
 Meemaw;Mimaw;3;999999995
-George Cooper;;3;999999994
-Dr. Koothrappali;;3;999999993
+George Cooper;George Cooper Sr|George;3;999999994
+Dr. Koothrappali;Dr. V. M. Koothrappali;3;999999993
 Mrs. Koothrappali;;3;999999992
 Halley Wolowitz;Halley;3;999999991
 Neil Michael Wolowitz;Neil Wolowitz;3;999999990
@@ -33,15 +33,15 @@ Arthur Jeffries;;3;999999987
 Ramona Nowitzki;Ramona;3;999999986
 Dave Gibbs;;3;999999985
 Mike Rostenkowski;;3;999999984
-Alfred Hofstadter;el padre de Leonard;3;999999983
+Alfred Hofstadter;el padre de Leonard|Dr. Alfred Hofstadter;3;999999983
 Kurt;;3;999999982
 Bethany;;3;999999981
 Wyatt;;3;999999980
 Susan;;3;999999979
 Christy;;3;999999978
-Elizabeth Plimpton;;3;999999977
-Siebert;Presidente Siebert;4;999999976
-Eric Gablehauser;;4;999999975
+Elizabeth Plimpton;Dr. Elizabeth Plimpton;3;999999977
+Siebert;Presidente Siebert|President Siebert|President;4;999999976
+Eric Gablehauser;Dr. Eric Gablehauser;4;999999975
 Dimitri;;4;999999974
 Cinnamon;Cinammon|el perro de Raj;4;999999973
 Ruchi;;4;999999972
@@ -63,18 +63,16 @@ Brian Greene;;4;999999957
 Elon Musk;;4;999999956
 Bill Gates;;4;999999955
 Kevin Smith;;4;999999954
-el padre de Penny;;4;100000000
-Dr. Zangen;Zangen;4;99999999
-el joven Sheldon;Young Sheldon|Sheldon de pequeño;4;99999998
-Zazzles;;4;99999997
-Tam;Tam Nguyen;4;99999996
-el señor Kim;;4;99999995
-Dave;;4;99999994
-el hermano de Penny;Randall;4;99999993
+Georgie;Georgie Cooper|el hermano de Sheldon;4;100000000
+el padre de Penny;;4;99999999
+Dr. Zangen;Zangen;4;99999998
+el joven Sheldon;Young Sheldon|Sheldon de pequeño;4;99999997
+Zazzles;;4;99999996
+Tam;Tam Nguyen;4;99999995
+el señor Kim;;4;99999994
+Dave;;4;99999993
+el hermano de Penny;Randall;4;99999992
 Michael J. Massimino;Mike Massimino|Michael James Massimino;5;23
-Soft Kitty;;5;11
-George Cooper Sr;George;5;0
-Georgie Cooper;Georgie;5;0
 "Constance ""Connie"" Tucker";Constance;5;0
 Pastor Jeff Difford;Pastor;5;0
 Billy Sparks;Billy;5;0
@@ -84,14 +82,11 @@ Althea Robinson;Althea;5;0
 Claire;;5;0
 Chen;;5;0
 Dan;;5;0
-Dr. Eric Gablehauser;;5;0
 Dr. Greg Pemberton;;5;0
-Dr. V. M. Koothrappali;;5;0
 Dr. Kevin Campbell;;5;0
 Mrs. Fowler;Mrs.;5;0
 Janine Davis;Janine;5;0
 Larry Fowler;Larry;5;0
-President Siebert;President;5;0
 Colonel Richard Williams;Colonel;5;0
 Stephanie Barnett;Stephanie;5;0
 Marissa Johnson;Marissa;5;0
@@ -103,7 +98,6 @@ Herschel Sparks;Herschel;5;0
 Paige Swanson;Paige;5;0
 Robin;;5;0
 Veronica Duncan;Veronica;5;0
-Dr. Alfred Hofstadter;;5;0
 Cheryl;;5;0
 Dimitri Rezinov;;5;0
 Dr. David Underhill;;5;0
@@ -122,7 +116,6 @@ Dr. Oliver Lorvis;;5;0
 Sunny Morrow;Sunny;5;0
 Octavia;;5;0
 Agent Angela Page;Agent;5;0
-Dr. Elizabeth Plimpton;;5;0
 Sandy;;5;0
 Jimmy Speckerman;Jimmy;5;0
 Spock;;5;0
@@ -130,14 +123,8 @@ Trevor;;5;0
 Josh Wolowitz;Josh;5;0
 Theodore;;5;0
 Sebastian;;5;0
-Anjelika Washington;Anjelika;5;0
-Mayim Bialik;Mayim;5;0
-Melanie Lynskey;Melanie;5;0
-Ming-Na Wen;Ming-Na;5;0
-Taylor Spreitler;Taylor;5;0
 Adam Nimoy;Adam;5;0
 Adam West;;5;0
-Lio Tipton;;5;0
 Brent Spiner;Brent;5;0
 Charlie Sheen;Charlie;5;0
 Ellen DeGeneres;Ellen;5;0
