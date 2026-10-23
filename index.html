@@ -945,10 +945,11 @@ let J = null;
 const CACHE_PREG = new Map();
 /* Lo que el juez (IA) ya dio por bueno en esta pregunta entra en la lista como una respuesta más.
    Si no contesta en 3 s, se juega con el banco tal cual. */
+const JUEZ_CRITERIO = "v3";   // el mismo CRITERIO que la función del juez: lo aprobado con otro anterior no se carga
 async function sumaJuez(p){
   const ctrl = new AbortController(), plazo = setTimeout(() => ctrl.abort(), 3000);
   try{
-    const r = await fetch(SB_URL + "/rest/v1/sabihondo_ia?select=nombre,clave,nivel&valida=is.true&pregunta=eq." + encodeURIComponent(p.q),
+    const r = await fetch(SB_URL + "/rest/v1/sabihondo_ia?select=nombre,clave,nivel&valida=is.true&modelo=like.*%23" + JUEZ_CRITERIO + "&pregunta=eq." + encodeURIComponent(p.q),
       {headers:{apikey:SB_KEY, Authorization:"Bearer " + SB_KEY}, signal:ctrl.signal});
     if (!r.ok) return p;
     const ya = new Set(p.t.flatMap(n => n.flatMap(x => x[1])));
