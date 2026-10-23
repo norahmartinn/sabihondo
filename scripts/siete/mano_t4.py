@@ -461,3 +461,18 @@ MANO["halloween"] = {
     "la bruja de Blair=El proyecto de la bruja de Blair, Nosferatu de Murnau, Bela Lugosi, Boris Karloff, Vincent Price, Christopher Lee, Edgar Allan Poe=Poe, "
     "Bram Stoker, Mary Shelley, Stephen King, Lovecraft=H. P. Lovecraft, Cthulhu",
 }
+# huecos que encontró la batería de respuestas (2026-10-23)
+MAS["halloween"] = {
+ 2: "la catrina=catrina=Catrina, el gato=gato, la noche=noche, el terror=terror, la oscuridad=oscuridad, la brujería=brujería, el tren de la bruja=tren de la bruja, el tren fantasma=tren fantasma",
+ 3: "la ofrenda=ofrenda, el altar de muertos=altar=altar de muertos, el cempasúchil=cempasúchil=flor de cempasúchil, el pan de muerto=pan de muerto, Coco=la película Coco, "
+    "Monstruos S.A.=Monstruos SA, La purga, las garras=garras, la herida=herida=heridas, la cicatriz=cicatriz, la peluca=peluca, el escape room=escape room=scape room, "
+    "La noche de Halloween=película Halloween=Halloween la película, la mansión encantada=mansión encantada, el maquillaje de zombi=maquillaje de zombie",
+ 4: "el demogorgon=demogorgon, Leatherface=Cara de cuero, Art el payaso=Art the Clown",
+}
+ALIAS_MAS["halloween"] = {
+ "la calabaza": "pumpkin, pumpkins", "la bruja": "witch", "el fantasma": "ghost", "el murciélago": "bat", "el esqueleto": "skeleton",
+ "el ataúd": "ataúdes", "el cuervo": "cuervos", "el cráneo": "cráneos", "los colmillos": "dientes de vampiro, dientes, colmillo",
+ "la casa encantada": "casa del terror, casa del miedo, casa de los sustos", "los cuernos": "cuernos de diablo, cuernos de demonio",
+ "la enfermera zombi": "enfermera zombie", "Pennywise": "It payaso, Eso", "Warner Halloween": "Parque Warner, Warner",
+ "el Halloween de Disneyland": "Disneyland, Disney",
+}

@@ -1,11 +1,11 @@
 respuesta;alias;nivel;orden_a_mano
-la calabaza;calabazas;1;1000000000
-la bruja;brujas;1;999999999
-el fantasma;fantasmas;1;999999998
-el murciélago;murciélagos;1;999999997
+la calabaza;calabazas|pumpkin|pumpkins;1;1000000000
+la bruja;brujas|witch;1;999999999
+el fantasma;fantasmas|ghost;1;999999998
+el murciélago;murciélagos|bat;1;999999997
 el vampiro;vampiros;1;999999996
 el zombi;zombie|zombis|zombies;1;999999995
-el esqueleto;esqueletos;1;999999994
+el esqueleto;esqueletos|skeleton;1;999999994
 la calavera;calaveras;1;999999993
 la momia;momias;1;999999992
 el disfraz;disfraces;1;999999991
@@ -23,19 +23,19 @@ Frankenstein;el monstruo de Frankenstein;2;1000000000
 Drácula;conde Drácula;2;999999999
 el sombrero de bruja;sombrero;2;999999998
 el caldero;;2;999999997
-el ataúd;féretro;2;999999996
+el ataúd;féretro|ataúdes;2;999999996
 la tumba;lápida|tumbas;2;999999995
 el cementerio;;2;999999994
-la casa encantada;casa embrujada|pasaje del terror|pasaje del miedo;2;999999993
+la casa encantada;casa embrujada|pasaje del terror|pasaje del miedo|casa del terror|casa del miedo|casa de los sustos;2;999999993
 la calabaza tallada;Jack-o'-lantern|linterna de calabaza;2;999999992
 el búho;lechuza;2;999999991
-el cuervo;;2;999999990
+el cuervo;cuervos;2;999999990
 el demonio;diablo|diablillo;2;999999989
 el payaso;payaso diabólico|payaso asesino;2;999999988
 la luna llena;luna;2;999999987
 la niebla;;2;999999986
 las velas;vela;2;999999985
-los colmillos;;2;999999984
+los colmillos;dientes de vampiro|dientes|colmillo;2;999999984
 la capa;;2;999999983
 la máscara;careta;2;999999982
 el maquillaje;;2;999999981
@@ -48,7 +48,7 @@ la bola de cristal;;2;999999975
 la ouija;;2;999999974
 el muñeco vudú;vudú;2;999999973
 los huesos;hueso;2;999999972
-el cráneo;;2;999999971
+el cráneo;cráneos;2;999999971
 la sábana;;2;999999970
 el cadáver;;2;999999969
 la guadaña;;2;999999968
@@ -73,7 +73,7 @@ Jason;Jason Voorhees;2;999999950
 Freddy Krueger;Freddy;2;999999949
 Michael Myers;;2;999999948
 Chucky;;2;999999947
-Pennywise;It;2;999999946
+Pennywise;It|It payaso|Eso;2;999999946
 Ghostface;Scream;2;999999945
 la familia Addams;los Addams;2;999999944
 Miércoles;Miércoles Addams|Wednesday;2;999999943
@@ -88,6 +88,14 @@ la posesión;poseído;2;999999935
 Annabelle;;2;999999934
 el bosque;;2;999999933
 el castillo;;2;999999932
+la catrina;;2;100000000
+el gato;;2;99999999
+la noche;;2;99999998
+el terror;;2;99999997
+la oscuridad;;2;99999996
+la brujería;;2;99999995
+el tren de la bruja;;2;99999994
+el tren fantasma;;2;99999993
 el espíritu;espíritus|alma en pena|ánima;3;1000000000
 el poltergeist;;3;999999999
 el ectoplasma;;3;999999998
@@ -131,7 +139,7 @@ la mano cortada;;3;999999961
 el cerebro;;3;999999960
 la sangre falsa;;3;999999959
 la diadema de orejas;orejas de gato;3;999999958
-los cuernos;;3;999999957
+los cuernos;cuernos de diablo|cuernos de demonio;3;999999957
 el tridente;;3;999999956
 la escoba voladora;;3;999999955
 el mago;;3;999999954
@@ -140,10 +148,24 @@ el gnomo;;3;999999952
 el troll;trol;3;999999951
 el ogro;;3;999999950
 la sirena;;3;999999949
-la enfermera zombi;enfermera;3;999999948
+la enfermera zombi;enfermera|enfermera zombie;3;999999948
 el cura;;3;999999947
 la monja;;3;999999946
-Ghost;Ghost: Más allá del amor;3;999999945
+la ofrenda;;3;100000000
+el altar de muertos;altar;3;99999999
+el cempasúchil;flor de cempasúchil;3;99999998
+el pan de muerto;;3;99999997
+Coco;la película Coco;3;99999996
+Monstruos S.A.;Monstruos SA;3;99999995
+La purga;;3;99999994
+las garras;;3;99999993
+la herida;heridas;3;99999992
+la cicatriz;;3;99999991
+la peluca;;3;99999990
+el escape room;scape room;3;99999989
+La noche de Halloween;película Halloween|Halloween la película;3;99999988
+la mansión encantada;;3;99999987
+el maquillaje de zombi;maquillaje de zombie;3;99999986
 Samhain;Samaín;4;1000000000
 el Samaín gallego;Samaín de Galicia;4;999999999
 la banshee;;4;999999998
@@ -152,7 +174,7 @@ el súcubo;;4;999999996
 el íncubo;;4;999999995
 el wendigo;;4;999999994
 el nigromante;nigromancia;4;999999993
-el hombre del saco;el coco;4;999999992
+el hombre del saco;;4;999999992
 el Jack de la linterna;Stingy Jack|Jack el Tacaño;4;999999991
 Elvira;Elvira reina de las tinieblas;4;999999990
 Viernes 13;;4;999999989
@@ -175,9 +197,9 @@ la Noche de Ánimas;Ánimas;4;999999973
 la Fiesta de las Ánimas;;4;999999972
 el Día de Difuntos;Difuntos;4;999999971
 el Día de los Fieles Difuntos;;4;999999970
-el Halloween de Disneyland;Halloween de PortAventura|PortAventura;4;999999969
+el Halloween de Disneyland;Halloween de PortAventura|PortAventura|Disneyland|Disney;4;999999969
 el pasaje del terror de PortAventura;Horror Hotel;4;999999968
-Warner Halloween;Parque Warner;4;999999967
+Warner Halloween;Parque Warner|Warner;4;999999967
 Zugarramurdi;;4;999999966
 Cuevas de Zugarramurdi;;4;999999965
 la Casa de la Bruja;bruja Avería;4;999999964
@@ -197,6 +219,8 @@ Crepúsculo;Edward Cullen|Edward;4;999999951
 Van Helsing;;4;999999950
 Lestat;;4;999999949
 Entrevista con el vampiro;;4;999999948
+el demogorgon;;4;100000000
+Leatherface;Cara de cuero;4;99999999
 el fuego fatuo;fuegos fatuos;5;1000000000
 la mandrágora;;5;999999999
 el grimorio;libro de hechizos;5;999999998

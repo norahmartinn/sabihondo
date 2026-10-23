@@ -62,6 +62,10 @@ create table if not exists public.sabihondo_ia (
 );
 grant all on public.sabihondo_ia to service_role;
 alter table public.sabihondo_ia enable row level security;
+-- lo que el juez dio por bueno se lee desde el juego (entra en la lista como una respuesta más); lo rechazado no
+grant select on public.sabihondo_ia to anon, authenticated;
+drop policy if exists "se leen las validas" on public.sabihondo_ia;
+create policy "se leen las validas" on public.sabihondo_ia for select to anon, authenticated using (valida);
 
 -- Récord del día: el mejor resultado de una fecha entre quienes tienen cuenta, con su apodo.
 -- Es lo único de las partidas ajenas que se puede leer desde la web: una fila, sin email ni respuestas.

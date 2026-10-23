@@ -35,6 +35,9 @@ Si es válida, da el nombre bien escrito (como se conoce en España) y un nivel 
 4 = de alguien que sabe mucho del tema
 5 = casi nadie lo diría
 
+Te paso también ejemplos de respuestas que ya están en la lista, por nivel: úsalos para medir la rareza.
+Si la respuesta del jugador es otra forma de decir una de esas, dale ese mismo nombre y nivel.
+
 Responde SOLO con JSON: {"valida": true|false, "nombre": "…", "nivel": 1-5, "motivo": "una frase corta"}`;
 
 Deno.serve(async (req) => {
@@ -43,8 +46,11 @@ Deno.serve(async (req) => {
   const responde = (datos: unknown, estado = 200) =>
     new Response(JSON.stringify(datos), { status: estado, headers: { ...cors(origen), "Content-Type": "application/json" } });
 
-  let pregunta = "", respuesta = "";
-  try { ({ pregunta, respuesta } = await req.json()); } catch { return responde({ error: "json" }, 400); }
+  let pregunta = "", respuesta = "", ejemplos: unknown = [];
+  try { ({ pregunta, respuesta, ejemplos } = await req.json()); } catch { return responde({ error: "json" }, 400); }
+  // ejemplos: hasta 6 respuestas de la lista por nivel (1 a 5), para calibrar la rareza
+  const muestra = (Array.isArray(ejemplos) ? ejemplos : []).slice(0, 5)
+    .map((n, i) => `${i + 1}: ${(Array.isArray(n) ? n : []).slice(0, 6).map((x) => String(x).slice(0, 60)).join(", ")}`).join("\n");
   pregunta = String(pregunta ?? "").trim().slice(0, 200);
   respuesta = String(respuesta ?? "").trim().slice(0, 120);
   const clave = compacta(respuesta);
@@ -69,7 +75,7 @@ Deno.serve(async (req) => {
     body: JSON.stringify({
       model: MODELO, temperature: 0, response_format: { type: "json_object" },
       messages: [{ role: "system", content: INSTRUCCIONES },
-                 { role: "user", content: `Enunciado: ${pregunta}\nRespuesta del jugador: ${respuesta}` }],
+                 { role: "user", content: `Enunciado: ${pregunta}\n${muestra ? `Ejemplos de la lista por nivel:\n${muestra}\n` : ""}Respuesta del jugador: ${respuesta}` }],
     }),
   });
   if (!r.ok) return responde({ valida: false, sin_juez: true });
