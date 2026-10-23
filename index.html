@@ -1797,19 +1797,17 @@ function avisoInicio(){
   <div class="panel aviso-inicio">
     <h2>Ten Sabihondo en tu pantalla de inicio</h2>
     <div class="icono-inicio" aria-hidden="true"><img src="iconos/apple-touch-icon.png?v=2" alt="" width="76" height="76"><span>Sabihondo</span></div>
-    <p class="mini">Te sale este icono entre tus apps y lo abres de un toque cada día, como una app más, a pantalla completa.</p>
     ${android ? `
     <ol class="pasos-inicio">
       <li>Abre el menú <b>⋮</b> de Chrome, arriba a la derecha.</li>
       <li>Pulsa <b>Añadir a pantalla de inicio</b> (o <b>Instalar aplicación</b>).</li>
     </ol>` : `
-    <p class="ojo-safari"><b>Tiene que ser desde Safari.</b> En iPhone, desde Chrome, Instagram o WhatsApp no sale la opción.</p>
+    <p class="ojo-safari"><b>Tiene que ser desde Safari.</b></p>
     ${otroNavegador ? `<p class="mini">Ahora mismo no estás en Safari: copia el enlace, ábrelo en Safari y sigue estos pasos.</p>
     <div class="botonera"><button class="btn fantasma" id="bCopiaWeb">Copiar enlace</button></div>` : ``}
     <ol class="pasos-inicio">
       <li>En Safari, pulsa el botón de <b>compartir</b> ${flecha} de la barra de abajo. Si no ves la barra, toca abajo del todo de la pantalla (o pulsa <b>···</b> y luego compartir).</li>
       <li>Baja y pulsa <b>Añadir a pantalla de inicio</b> ${mas}.</li>
-      <li>Pulsa <b>Añadir</b>, arriba a la derecha.</li>
     </ol>`}
     <div class="botonera"><button class="btn" id="bCerrar">Entendido</button></div>
     <p class="aviso" id="avisoWeb" role="status"></p>
