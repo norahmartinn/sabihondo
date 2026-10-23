@@ -47,7 +47,7 @@
 <title>Sabihondo</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Young+Serif&family=Sen:wght@400..800&family=Source+Serif+4:ital,opsz,wght@0,8..60,400..600;1,8..60,400..600&display=swap" media="print" onload="this.media='all'">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Young+Serif&family=Creepster&family=Sen:wght@400..800&family=Source+Serif+4:ital,opsz,wght@0,8..60,400..600;1,8..60,400..600&display=swap" media="print" onload="this.media='all'">
 <script>
 // Si algo falla al arrancar, que se vea qué ha sido en vez de quedarse la pantalla en blanco.
 window.addEventListener("error", function(e){
@@ -68,6 +68,7 @@ window.addEventListener("error", function(e){
   --mar:#3f8fb8;          /* agua justo bajo la línea de flotación */
   --fondo:#0e2f52;        /* lo más hondo */
   --cielo:#f7efe9;
+  --cielo-tinta:#12294b;   /* texto encima del cielo (barra, escala) */
   --hielo:#fbf7f2;        /* la tarjeta */
   --tinta:#12294b;
   --tinta-suave:#4d6080;
@@ -83,6 +84,18 @@ window.addEventListener("error", function(e){
   --serif:"Source Serif 4",Georgia,serif;
   --sans:"Sen",system-ui,-apple-system,"Segoe UI",sans-serif;
 }
+/* Halloween (26 oct–1 nov): noche morada, naranja calabaza; la tarjeta sigue crema. Se activa por fecha o con #halloween */
+:root.halloween{
+  --mar:#3a2f6b; --fondo:#0d0a1f; --cielo:#1a1438; --cielo-tinta:#fff1df;
+  --hielo:#fff6ec; --tinta:#1b1235; --tinta-suave:#5d4f6e; --linea:#dcc8b6;
+  --boya:#ff7a1a; --boya-hondo:#c9520a; --boya-tinta:#1b1235; --boya-suave:#ffd9b8;
+}
+.halloween #barra .icono{color:var(--cielo-tinta);border-color:var(--cielo-tinta)}
+.halloween #barra .icono:hover{color:var(--tinta)}
+.halloween #medTu{color:var(--tinta)}
+.halloween h1,.halloween #marca{font-family:"Creepster","Young Serif",Georgia,serif;letter-spacing:.01em}
+.halloween h1{line-height:1}
+.halloween .placa-racha{background:#fbe8d6;border-color:#f2d2b4}
 *{box-sizing:border-box}
 html,body{height:100%}
 body{margin:0;-webkit-text-size-adjust:100%;text-size-adjust:100%;background:var(--fondo);color:var(--tinta);font-family:var(--sans);font-size:15px;
@@ -96,7 +109,7 @@ button{font:inherit;color:inherit;background:none;border:none;cursor:pointer;tou
 /* ── barra ───────────────────────────────────────────── */
 #barra{grid-column:1 / -1;grid-row:1;position:relative;z-index:2;min-width:0;display:flex;align-items:center;gap:16px;
   padding:14px 28px;padding-top:calc(14px + env(safe-area-inset-top,0px));
-  background:color-mix(in srgb,var(--cielo) 72%,transparent);color:var(--tinta);
+  background:color-mix(in srgb,var(--cielo) 72%,transparent);color:var(--cielo-tinta);
   -webkit-backdrop-filter:blur(8px);backdrop-filter:blur(8px)}
 #marca{font-family:var(--disp);font-weight:400;font-size:31px;line-height:1;letter-spacing:-.03em}
 #marca em{font-style:normal;color:var(--boya)}
@@ -523,6 +536,21 @@ function lev(a,b){
 /* PRNG determinista: todo el mundo recibe las mismas preguntas */
 function mulberry(a){return function(){a|=0;a=a+0x6D2B79F5|0;let t=Math.imul(a^a>>>15,1|a);t=t+Math.imul(t^t>>>7,61|t)^t;return((t^t>>>14)>>>0)/4294967296}}
 const hoyMadrid = () => new Intl.DateTimeFormat("en-CA",{timeZone:"Europe/Madrid",year:"numeric",month:"2-digit",day:"2-digit"}).format(new Date());
+// Halloween: del 26 de octubre al 1 de noviembre (o con #halloween en la dirección, para probarlo)
+const HALLOWEEN = location.hash === "#halloween" || (hoyMadrid() >= "2026-10-26" && hoyMadrid() <= "2026-11-01");
+if (HALLOWEEN){
+  document.documentElement.classList.add("halloween");
+  document.querySelector('meta[name="theme-color"]')?.setAttribute("content", "#1a1438");
+}
+const PAL = HALLOWEEN ? {
+  cielo:["#1a1438","#4a2a5e","#e9824a"], marMedio:"#2a2058", pez:"#0b0720", rocas:["#2a1f52","#180f36"],
+  sombraAire:[170,140,170], sombraAgua:[18,10,48],
+  aire:[[0,"#fff4e6"],[70,"#f1d8cf"]], agua:[[70,"#a796e0"],[230,"#7d6bc6"],[400,"#5a48a6"],[560,"#3b2f80"],[700,"#241c58"]]
+} : {
+  cielo:["#f7efe9","#f3e4dd"], marMedio:"#1f5f8f", pez:"#0c2a4d", rocas:["#1b3a63","#0f2140"],
+  sombraAire:[150,196,228], sombraAgua:[10,38,82],
+  aire:[[0,"#ffffff"],[70,"#d9ecf7"]], agua:[[70,"#8fcbe8"],[230,"#56a6d6"],[400,"#2f78b8"],[560,"#1d549a"],[700,"#143c78"]]
+};
 function numeroDia(f){
   const [ay,am,ad]=EPOCA.split("-").map(Number), [y,m,d]=f.split("-").map(Number);
   return Math.round((Date.UTC(y,m-1,d)-Date.UTC(ay,am-1,ad))/864e5)+1;
@@ -581,8 +609,8 @@ const DER = [[0,.48],[8,.53],[20,.55],[32,.61],[46,.63],[60,.70],[70,.76],
 
 // Filas de la malla de facetas (metros) y color del hielo según la hondura
 const FILAS = [0,12,26,44,70,100,150,220,300,380,460,540,610,665,700];
-const TONOS_AIRE = [[0,"#ffffff"],[70,"#d9ecf7"]];
-const TONOS_AGUA = [[70,"#8fcbe8"],[230,"#56a6d6"],[400,"#2f78b8"],[560,"#1d549a"],[700,"#143c78"]];
+const TONOS_AIRE = PAL.aire;
+const TONOS_AGUA = PAL.agua;
 
 const rgb = h => [1,3,5].map(i => parseInt(h.slice(i,i+2),16));
 const mezcla = (a,b,t) => a.map((v,i) => Math.round(v + (b[i]-v)*t));
@@ -609,7 +637,7 @@ function geometria(){
   const dentro = !!$("#hielo").closest(".sitio-berg");
   const Z = dentro ? W : Math.max(60, $("#escena").getBoundingClientRect().left - r.left);
   const estrecho = Z < 200;
-  const arriba = dentro ? 20 : $("#barra").offsetHeight + (estrecho ? 22 : Math.max(34, H*.055));
+  const arriba = dentro ? (HALLOWEEN ? 46 : 20) : $("#barra").offsetHeight + (estrecho ? 22 : Math.max(34, H*.055));
   const abajo = dentro ? 14 : estrecho ? 18 : Math.max(26, H*.05);
   // la punta se dibuja algo más alta de lo real para que se lea; el resto va a escala
   const alto = H-arriba-abajo, corte = .24;
@@ -656,17 +684,17 @@ function dibujaIceberg(){
   const tk = n => getComputedStyle(document.documentElement).getPropertyValue(n).trim();
   const gm = el("linearGradient",{id:"gMar",x1:0,y1:0,x2:0,y2:1},defs);
   el("stop",{offset:0,"stop-color":tk("--mar")},gm);
-  el("stop",{offset:.5,"stop-color":"#1f5f8f"},gm);
+  el("stop",{offset:.5,"stop-color":PAL.marMedio},gm);
   el("stop",{offset:1,"stop-color":tk("--fondo")},gm);
   const gc = el("linearGradient",{id:"gCielo",x1:0,y1:0,x2:0,y2:1},defs);
-  el("stop",{offset:0,"stop-color":tk("--cielo")},gc);
-  el("stop",{offset:1,"stop-color":"#f3e4dd"},gc);
+  PAL.cielo.forEach((c,i,a) => el("stop",{offset:i/(a.length-1),"stop-color":c},gc));
 
   const yf = y(FLOTACION), y0 = y(0);
   el("rect",{x:0,y:0,width:W,height:yf,fill:"url(#gCielo)"},svg);
 
   // cielo: sol, nubes en el horizonte y dos gaviotas
-  if (!estrecho){
+  if (!estrecho && HALLOWEEN) adornosHalloween(svg, G, y0, yf);
+  else if (!estrecho){
     el("circle",{cx:Z*.74,cy:y0 + (yf-y0)*.12,r:Math.min(36,Z*.055),fill:"#fffaf2"},svg);
     const nube = (cx, a) => {
       const g = el("g",{fill:"#ffffff",opacity:.85},svg);
@@ -687,7 +715,7 @@ function dibujaIceberg(){
       fill:"#ffffff",opacity:.045},svg));
   const pez = (px, py, s, dir) => el("path",{
     d:`M${px} ${py} q${9*s*dir} ${-5*s} ${20*s*dir} 0 l${7*s*dir} ${-4*s} l${-1.5*s*dir} ${4*s} l${1.5*s*dir} ${4*s} l${-7*s*dir} ${-4*s} q${-11*s*dir} ${5*s} ${-20*s*dir} 0z`,
-    fill:"#0c2a4d",opacity:.38},svg);
+    fill:PAL.pez,opacity:HALLOWEEN ? .5 : .38},svg);
   if (!estrecho){
     [[.10,.55,.9,1],[.16,.6,.7,1],[.08,.9,1.3,1],[.2,.88,.8,1],[.24,.93,.7,1],[.12,.97,1,1],
      [.90,.42,1.1,-1],[.96,.47,.8,-1],[.93,.52,.7,-1]].forEach(([fx,fy,s,dir]) =>
@@ -697,9 +725,9 @@ function dibujaIceberg(){
     points:pts.map(([fx,fh]) => `${(W*fx).toFixed(1)},${(H - H*fh).toFixed(1)}`).join(" "),fill:color},svg);
   if (!estrecho){
     roca([[.35,0],[.39,.03],[.42,.08],[.45,.06],[.48,.13],[.51,.11],[.54,.05],[.60,.09],[.66,.04],[.74,.07],
-          [.81,.13],[.85,.11],[.90,.2],[.94,.17],[.97,.27],[1,.25],[1,0]], "#1b3a63");
+          [.81,.13],[.85,.11],[.90,.2],[.94,.17],[.97,.27],[1,.25],[1,0]], PAL.rocas[0]);
     roca([[.33,0],[.38,.02],[.41,.045],[.44,.03],[.47,.085],[.5,.06],[.55,.035],[.63,.03],[.72,.045],
-          [.79,.03],[.84,.09],[.88,.07],[.92,.15],[.96,.13],[1,.19],[1,0]], "#0f2140");
+          [.79,.03],[.84,.09],[.88,.07],[.92,.15],[.96,.13],[1,.19],[1,0]], PAL.rocas[1]);
   }
 
   // el iceberg, tallado en facetas: cada fila se oscurece al bajar
@@ -723,7 +751,7 @@ function dibujaIceberg(){
         // bajo el agua la luz se va apagando con la hondura
         const hondo = aire ? 0 : (f0.m-FLOTACION)/(FONDO-FLOTACION);
         const tono = (luz[c] > 0 ? luz[c]*(1-hondo) : luz[c]) + (k ? -.05 : .05) + (azar()-.5)*.1;
-        const color = aire ? matiza(base, tono*2.6, [150,196,228]) : matiza(base, tono, [10,38,82]);
+        const color = aire ? matiza(base, tono*2.6, PAL.sombraAire) : matiza(base, tono, PAL.sombraAgua);
         el("polygon",{points:t.map(p => p[0].toFixed(1)+","+p[1].toFixed(1)).join(" "),
           fill:color,stroke:color,"stroke-width":.7,"stroke-linejoin":"round"},hielo);
       });
@@ -736,17 +764,19 @@ function dibujaIceberg(){
   el("path",{d:ola + ` V${yf+7} H0Z`,fill:tk("--mar"),opacity:.55},svg);
   el("path",{d:ola,fill:"none",stroke:"#ffffff","stroke-width":2.5,"stroke-linecap":"round"},svg);
 
+  if (HALLOWEEN && !estrecho) calabaza(svg, x(.47), y(0) + 6*G.H/420*(G.dentro ? .55 : 1), G.dentro ? .95 : Math.max(1.1, G.H/540));
+
   // escala de hondura
   if (!estrecho){
     const xe = Math.max(58, L*.5), fin = R + (Z-R)*.45;
-    el("line",{x1:xe,y1:y0,x2:xe,y2:yf,stroke:tk("--tinta"),"stroke-width":1.2,opacity:.45},svg);
+    el("line",{x1:xe,y1:y0,x2:xe,y2:yf,stroke:tk("--cielo-tinta"),"stroke-width":1.2,opacity:.45},svg);
     el("line",{x1:xe,y1:yf,x2:xe,y2:y(FONDO),stroke:"#ffffff","stroke-width":1.2,opacity:.8},svg);
     [0,350,700].forEach(m => {
       const yy = y(m), claro = m > FLOTACION;
-      el("line",{x1:xe,y1:yy,x2:fin,y2:yy,stroke:claro?"#ffffff":tk("--tinta"),"stroke-width":1,
+      el("line",{x1:xe,y1:yy,x2:fin,y2:yy,stroke:claro?"#ffffff":tk("--cielo-tinta"),"stroke-width":1,
         "stroke-dasharray":"5 5",opacity:claro?.4:.25},svg);
-      el("circle",{cx:xe,cy:yy,r:3,fill:claro?"#ffffff":tk("--tinta")},svg);
-      const t = el("text",{x:xe-10,y:yy+4,"text-anchor":"end",fill:claro?"#ffffff":tk("--tinta"),"font-size":12.5,"font-weight":600},svg);
+      el("circle",{cx:xe,cy:yy,r:3,fill:claro?"#ffffff":tk("--cielo-tinta")},svg);
+      const t = el("text",{x:xe-10,y:yy+4,"text-anchor":"end",fill:claro?"#ffffff":tk("--cielo-tinta"),"font-size":12.5,"font-weight":600},svg);
       t.textContent = m + " m";
     });
   }
@@ -765,6 +795,32 @@ function dibujaIceberg(){
   pintaRecord();
   pintaPines();
   mueveMarca();
+}
+
+/* Halloween: luna, estrellas y murciélagos en el cielo; una calabaza encendida en la punta */
+function adornosHalloween(svg, G, y0, yf){
+  const {W,Z,dentro} = G, A = dentro ? W : Z, k = dentro ? .65 : Math.min(1.25, Math.max(.8, G.H/700));
+  const az = mulberry(7);
+  for (let i=0;i<(dentro ? 22 : 46);i++) el("circle",{cx:az()*(dentro ? W : Z*1.6),cy:az()*yf*.75,r:.6+az()*1.3,fill:"#fff3d6",opacity:.35+az()*.6},svg);
+  const lx = A*(dentro ? .8 : .78), ly = y0 + (yf-y0)*(dentro ? .2 : .22), lr = dentro ? 18 : Math.min(36, Z*.055);
+  el("circle",{cx:lx,cy:ly,r:lr*2.2,fill:"#ffd38a",opacity:.16},svg);
+  el("circle",{cx:lx,cy:ly,r:lr*1.5,fill:"#ffd38a",opacity:.2},svg);
+  el("circle",{cx:lx,cy:ly,r:lr,fill:"#fff1c9"},svg);
+  [[-.3,-.2,.18],[.25,.15,.13],[-.05,.38,.1]].forEach(([dx,dy,r]) => el("circle",{cx:lx+dx*lr,cy:ly+dy*lr,r:r*lr,fill:"#000",opacity:.07},svg));
+  [[.16,.3],[.26,.18],[.92,.55]].forEach(([fx,fy]) => murcielago(svg, A*fx, y0+(yf-y0)*fy, k, "#140c2a"));
+}
+function murcielago(svg, x, y, s, color){
+  el("path",{d:`M${x} ${y} c${-4*s} ${-6*s} ${-10*s} ${-7*s} ${-16*s} ${-4*s} c${3*s} ${1*s} ${4*s} ${4*s} ${3*s} ${6*s} c${-3*s} ${-2*s} ${-6*s} ${-1*s} ${-7*s} ${1*s} c${6*s} ${-1*s} ${12*s} ${3*s} ${20*s} ${5*s} c${8*s} ${-2*s} ${14*s} ${-6*s} ${20*s} ${-5*s} c${-1*s} ${-2*s} ${-4*s} ${-3*s} ${-7*s} ${-1*s} c${-1*s} ${-2*s} 0 ${-5*s} ${3*s} ${-6*s} c${-6*s} ${-3*s} ${-12*s} ${-2*s} ${-16*s} ${4*s}z`,fill:color},svg);
+  el("path",{d:`M${x-2.5*s} ${y-1*s} l${1*s} ${-3.5*s} l${1.5*s} ${2*s} l${1.5*s} ${-2*s} l${1*s} ${3.5*s}z`,fill:color},svg);
+}
+function calabaza(svg, x, y, s){        // x: centro, y: base
+  const c = el("g",{},svg);
+  el("ellipse",{cx:x,cy:y-12*s,rx:24*s,ry:16*s,fill:"#ffb15c",opacity:.25},c);
+  el("path",{d:`M${x-1*s} ${y-27*s} q${-1*s} ${-7*s} ${3*s} ${-10*s}`,stroke:"#3d6b2a","stroke-width":3.2*s,fill:"none","stroke-linecap":"round"},c);
+  [[-9,10,"#e8650f"],[9,10,"#e8650f"],[-4,10,"#f2781c"],[4,10,"#f2781c"],[0,9,"#ff8a2a"]].forEach(([dx,rx,f]) =>
+    el("ellipse",{cx:x+dx*s,cy:y-13*s,rx:rx*s,ry:13*s,fill:f},c));
+  el("path",{d:`M${x-9*s} ${y-17*s} l${4*s} ${-5*s} l${4*s} ${5*s}z M${x+1*s} ${y-17*s} l${4*s} ${-5*s} l${4*s} ${5*s}z`,fill:"#ffe08a"},c);
+  el("path",{d:`M${x-10*s} ${y-10*s} q${10*s} ${8*s} ${20*s} 0 l${-3*s} ${1*s} l${-2*s} ${-2*s} l${-3*s} ${3*s} l${-2*s} ${-3*s} l${-3*s} ${3*s} l${-2*s} ${-3*s} l${-2*s} ${2*s}z`,fill:"#ffe08a"},c);
 }
 
 // El mejor resultado de hoy entre quienes tienen cuenta: una raya dorada a su profundidad.
@@ -973,7 +1029,7 @@ function portada(){
     <h1>Sabi<em>hondo</em></h1>
     <p class="lema">Siete preguntas al día. Vale cualquier respuesta correcta, pero lo obvio te deja en la punta del iceberg. <b>Cuanto más nicho, más bajas.</b></p>
     <ul class="reglas">
-      <li><span class="ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M8.2 8.4a3.9 3.9 0 1 1 5.9 3.3c-1.3.8-2.1 1.5-2.1 3.1"/><path d="M12 19.2v.1"/></svg></span>
+      <li><span class="ico">${HALLOWEEN ? `<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 6c0-2 1-3 2.5-3.4" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round"/><ellipse cx="8" cy="13.5" rx="5" ry="6.5" fill="currentColor"/><ellipse cx="16" cy="13.5" rx="5" ry="6.5" fill="currentColor"/><ellipse cx="12" cy="13.5" rx="4.5" ry="7" fill="currentColor"/><path d="M8 12l1.6-2 1.6 2zM12.8 12l1.6-2 1.6 2zM8.5 15.5q3.5 2.5 7 0" fill="#ffd9b8" stroke="#ffd9b8" stroke-width="1"/></svg>` : `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M8.2 8.4a3.9 3.9 0 1 1 5.9 3.3c-1.3.8-2.1 1.5-2.1 3.1"/><path d="M12 19.2v.1"/></svg>`}</span>
         <span><b>7 rondas</b></span></li>
       <li><span class="ico"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="8.6" fill="none" stroke="currentColor" stroke-width="2.4"/><path d="M12 12V6.2A5.8 5.8 0 0 1 17.8 12Z" fill="currentColor"/></svg></span>
         <span><b>30 segundos</b></span></li>
@@ -982,7 +1038,7 @@ function portada(){
     </ul>
     <div class="botonera">
       ${est.racha ? `<div class="placa-racha${hecho ? " on" : ""}" role="img" aria-label="${est.racha} ${est.racha>1?"días":"día"} de racha${hecho ? "" : ", juega hoy para mantenerla"}">
-        <span class="llama" aria-hidden="true"><svg viewBox="0 0 40 40"><g class="vive"><path d="M20 3c2 7 10 10 10 20a10 10 0 0 1-20 0c0-5 3-8 5-10 0 4 2 6 4 6-2-6 0-11 1-16z" fill="#ee6fa3"/><path d="M20 20c1 3 5 4 5 9a5 5 0 0 1-10 0c0-3 2-4 3-5 0 2 1 3 2 3-1-3 0-5 0-7z" fill="#ffd27a"/></g></svg></span>
+        <span class="llama" aria-hidden="true"><svg viewBox="0 0 40 40"><g class="vive"><path d="M20 3c2 7 10 10 10 20a10 10 0 0 1-20 0c0-5 3-8 5-10 0 4 2 6 4 6-2-6 0-11 1-16z" style="fill:var(--boya)"/><path d="M20 20c1 3 5 4 5 9a5 5 0 0 1-10 0c0-3 2-4 3-5 0 2 1 3 2 3-1-3 0-5 0-7z" fill="#ffd27a"/></g></svg></span>
         <b>${est.racha}</b></div>` : ``}
       ${hecho ? `<button class="btn" id="bVer">Ver tu iceberg de hoy</button>
                  ${Cuenta.sb ? `<button class="btn oscuro" id="bPodio"><svg viewBox="0 0 24 24" width="18" height="18" fill="currentColor" aria-hidden="true"><rect x="9" y="5" width="6" height="15" rx="1"/><rect x="2.5" y="10" width="5.5" height="10" rx="1"/><rect x="16" y="13" width="5.5" height="7" rx="1"/></svg> Ver podio</button>` : ``}`
@@ -1388,11 +1444,11 @@ async function imagenResultado(metros, res, fecha){
   const L = 70, R = 520, arriba = 200, alto = 1040, corte = .24;
   const y = m => arriba + (m <= FLOTACION ? (m/FLOTACION)*corte : corte + ((m-FLOTACION)/(FONDO-FLOTACION))*(1-corte)) * alto;
   const x = f => L + f*(R-L), yf = y(FLOTACION);
-  const cielo = g.createLinearGradient(0,0,0,yf); cielo.addColorStop(0,"#f7efe9"); cielo.addColorStop(1,"#f3e4dd");
+  const cielo = g.createLinearGradient(0,0,0,yf); PAL.cielo.forEach((c,i,a) => cielo.addColorStop(i/(a.length-1), c));
   g.fillStyle = cielo; g.fillRect(0,0,W,yf);
-  const mar = g.createLinearGradient(0,yf,0,H); mar.addColorStop(0,"#3f8fb8"); mar.addColorStop(.5,"#1f5f8f"); mar.addColorStop(1,"#0e2f52");
+  const mar = g.createLinearGradient(0,yf,0,H); mar.addColorStop(0,HALLOWEEN ? "#3a2f6b" : "#3f8fb8"); mar.addColorStop(.5,PAL.marMedio); mar.addColorStop(1,HALLOWEEN ? "#0d0a1f" : "#0e2f52");
   g.fillStyle = mar; g.fillRect(0,yf,W,H-yf);
-  g.fillStyle = "#fffaf2"; g.beginPath(); g.arc(840,150,62,0,7); g.fill();                   // sol
+  g.fillStyle = HALLOWEEN ? "#fff1c9" : "#fffaf2"; g.beginPath(); g.arc(840,150,62,0,7); g.fill();   // sol (o luna en Halloween)
   g.fillStyle = "#101f3a"; g.beginPath(); g.moveTo(420,H);                                    // rocas del fondo
   [[520,1290],[600,1230],[680,1270],[760,1190],[840,1240],[930,1130],[1010,1170],[1080,1080],[1080,H]].forEach(p => g.lineTo(p[0],p[1])); g.fill();
   const azar = mulberry(23), luz = [.16,-.02,-.2];
@@ -1406,7 +1462,7 @@ async function imagenResultado(metros, res, fecha){
         const base = enTramo(tabla, n ? f1.m*.7+f0.m*.3 : f0.m*.7+f1.m*.3);
         const hondo = aire ? 0 : (f0.m-FLOTACION)/(FONDO-FLOTACION);
         const tono = (luz[k] > 0 ? luz[k]*(1-hondo) : luz[k]) + (n ? -.05 : .05) + (azar()-.5)*.1;
-        g.fillStyle = g.strokeStyle = aire ? matiza(base, tono*2.6, [150,196,228]) : matiza(base, tono, [10,38,82]);
+        g.fillStyle = g.strokeStyle = aire ? matiza(base, tono*2.6, PAL.sombraAire) : matiza(base, tono, PAL.sombraAgua);
         g.lineWidth = 1.2; g.beginPath(); g.moveTo(tri[0][0],tri[0][1]); g.lineTo(tri[1][0],tri[1][1]); g.lineTo(tri[2][0],tri[2][1]); g.closePath(); g.fill(); g.stroke();
       });
     }
