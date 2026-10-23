@@ -114,6 +114,10 @@ button{font:inherit;color:inherit;background:none;border:none;cursor:pointer;tou
 /* ── escena ──────────────────────────────────────────── */
 #escena{grid-column:2;grid-row:2;position:relative;z-index:1;overflow-y:auto;overscroll-behavior:contain;
   padding:28px 40px 36px 16px;display:flex;flex-direction:column}
+.icono-inicio{display:flex;flex-direction:column;align-items:center;gap:6px;margin:18px auto 6px;padding:18px 34px 14px;width:max-content;
+  border-radius:22px;background:linear-gradient(160deg,#8aa0c2,#5b6f95)}
+.icono-inicio img{width:76px;height:76px;border-radius:18px;box-shadow:0 6px 14px -6px rgba(8,28,56,.55)}
+.icono-inicio span{color:#fff;font-size:14px;font-weight:600;letter-spacing:.01em;text-shadow:0 1px 2px rgba(0,0,0,.35)}
 .ojo-safari{margin:16px 0 4px;padding:12px 14px;border-radius:14px;background:#fde3ee;color:#8f1f4f;font-size:.98rem;line-height:1.4}
 .pasos-inicio{margin:14px 0 4px;padding-left:1.3em;display:grid;gap:10px;line-height:1.45}
 .ico-safari{width:1.25em;height:1.25em;vertical-align:-.25em;color:#2f7ff6}
@@ -1792,7 +1796,8 @@ function avisoInicio(){
   caja.innerHTML = `
   <div class="panel aviso-inicio">
     <h2>Ten Sabihondo en tu pantalla de inicio</h2>
-    <p class="mini">Así lo abres de un toque cada día, como una app.</p>
+    <div class="icono-inicio" aria-hidden="true"><img src="iconos/apple-touch-icon.png?v=2" alt="" width="76" height="76"><span>Sabihondo</span></div>
+    <p class="mini">Te sale este icono entre tus apps y lo abres de un toque cada día, como una app más, a pantalla completa.</p>
     ${android ? `
     <ol class="pasos-inicio">
       <li>Abre el menú <b>⋮</b> de Chrome, arriba a la derecha.</li>
