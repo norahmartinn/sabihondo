@@ -416,3 +416,48 @@ MONSTERS = ("Monster Mango Loco=Mango Loco, Monster Ultra=Monster blanco=Monster
 MAS.setdefault("refrescos", {})[2] = "Monster=Monster Energy"
 MAS["refrescos"][5] = MONSTERS
 MAS.setdefault("cocacola", {})[5] = MAS["cocacola"].get(5, "") + ", " + MONSTERS
+
+# «Nombra algo típico de Halloween»: primera pregunta del lunes 26 de octubre de 2026 (semana de Halloween). A mano, por niveles.
+MANO["halloween"] = {
+ 1: "la calabaza=calabaza=calabazas, la bruja=bruja=brujas, el fantasma=fantasma=fantasmas, el murciélago=murciélago=murciélagos, el vampiro=vampiro=vampiros, "
+    "el zombi=zombi=zombie=zombis=zombies, el esqueleto=esqueleto=esqueletos, la calavera=calavera=calaveras, la momia=momia=momias, el disfraz=disfraz=disfraces, "
+    "los caramelos=caramelos=caramelo=chuches=golosinas=dulces=chucherías, truco o trato=trick or treat, la araña=araña=arañas, la telaraña=telaraña=telarañas, "
+    "el gato negro=gato negro=gatos negros, el hombre lobo=hombre lobo=lobo, la escoba=escoba, la sangre=sangre, el monstruo=monstruo=monstruos, el miedo=miedo",
+ 2: "Frankenstein=el monstruo de Frankenstein, Drácula=conde Drácula, el sombrero de bruja=sombrero de bruja=sombrero, el caldero=caldero, el ataúd=ataúd=féretro, "
+    "la tumba=tumba=lápida=tumbas, el cementerio=cementerio, la casa encantada=casa encantada=casa embrujada=pasaje del terror=pasaje del miedo, "
+    "la calabaza tallada=calabaza tallada=Jack-o'-lantern=jack o lantern=linterna de calabaza, el búho=búho=lechuza, el cuervo=cuervo, el demonio=demonio=diablo=diablillo, "
+    "el payaso=payaso=payaso diabólico=payaso asesino, la luna llena=luna llena=luna, la niebla=niebla, las velas=velas=vela, los colmillos=colmillos, la capa=capa, "
+    "la máscara=máscara=careta, el maquillaje=maquillaje, las películas de miedo=película de miedo=peli de miedo=pelis de miedo=películas de terror, "
+    "el susto=susto=sustos=gritos=grito, el hechizo=hechizo=hechizos, la poción=poción=pociones, la varita=varita, la bola de cristal=bola de cristal, la ouija=ouija, "
+    "el muñeco vudú=muñeco vudú=vudú, los huesos=huesos=hueso, el cráneo=cráneo, la sábana=sábana, el cadáver=cadáver, la guadaña=guadaña, la Muerte=la parca=parca, "
+    "el espantapájaros=espantapájaros, la serpiente=serpiente, el sapo=sapo=rana, las ratas=rata=ratas, los gusanos=gusano=gusanos, los ojos=ojo=ojos, "
+    "el 31 de octubre=31 de octubre, Todos los Santos=Día de Todos los Santos=1 de noviembre, el Día de Muertos=Día de los Muertos, las castañas=castañas=castañera, "
+    "los huesos de santo=huesos de santo, los buñuelos de viento=buñuelos, los panellets=panellets, la fiesta de disfraces=fiesta de disfraces=fiesta, "
+    "el naranja=naranja, el negro=negro, Jason=Jason Voorhees, Freddy Krueger=Freddy, Michael Myers, Chucky, Pennywise=It, Ghostface=Scream, "
+    "la familia Addams=familia Addams=los Addams, Miércoles=Miércoles Addams=Wednesday, Pesadilla antes de Navidad=Jack Skellington, Casper, Beetlejuice, Hocus Pocus, "
+    "la manzana de caramelo=manzana de caramelo=manzana caramelizada, el Tenorio=Don Juan Tenorio, el exorcismo=exorcismo=exorcista, la posesión=posesión=poseído, "
+    "Annabelle, el bosque=bosque, el castillo=castillo",
+ 3: "el espíritu=espíritu=espíritus=alma en pena=ánima, el poltergeist=poltergeist, el ectoplasma=ectoplasma, la gárgola=gárgola=gárgolas, el gólem=gólem, "
+    "la meiga=meiga=meigas, el aquelarre=aquelarre, la Santa Compaña=Santa Compaña, La Llorona=Llorona, el chupacabras=chupacabras, Nosferatu, Morticia=Morticia Addams, "
+    "Gómez Addams=Gomez Addams, Cosa=la Mano=Dedos, el tío Lucas=tío Fétido, Sally=Sally de Pesadilla antes de Navidad, Oogie Boogie, las hermanas Sanderson=Sanderson, "
+    "Slenderman, Coraline, La novia cadáver=novia cadáver, Frankenweenie, Monster House, Hotel Transilvania, Scooby-Doo, Halloweentown, El conjuro, Saw=Jigsaw, "
+    "el pastel de calabaza=pastel de calabaza=tarta de calabaza=pumpkin pie, la sopa de calabaza=crema de calabaza, el pumpkin spice=pumpkin spice latte, "
+    "el maíz dulce=maíz de caramelo=candy corn, las pipas de calabaza=pipas de calabaza, el cuenco de caramelos=cuenco, la bolsa de caramelos=bolsa=cubo de calabaza, "
+    "las cadenas=cadenas, el hacha=hacha, la motosierra=motosierra, el cuchillo=cuchillo, la mano cortada=mano, el cerebro=cerebro, la sangre falsa=sangre falsa, "
+    "la diadema de orejas=orejas de gato, los cuernos=cuernos, el tridente=tridente, la escoba voladora=escoba voladora, el mago=mago, el pirata=pirata, "
+    "el gnomo=gnomo, el troll=troll=trol, el ogro=ogro, la sirena=sirena, la enfermera zombi=enfermera, el cura=cura, la monja=monja, Ghost=Ghost: Más allá del amor",
+ 4: "Samhain=Samaín, el Samaín gallego=Samaín de Galicia, la banshee=banshee, el ghoul=ghoul=necrófago, el súcubo=súcubo, el íncubo=íncubo, el wendigo=wendigo, "
+    "el nigromante=nigromante=nigromancia, el hombre del saco=hombre del saco=el coco=coco, el Jack de la linterna=Stingy Jack=Jack el Tacaño, "
+    "Elvira=Elvira reina de las tinieblas, Viernes 13, Pesadilla en Elm Street, La matanza de Texas, El resplandor, "
+    "Insidious, Expediente Warren, REC=Rec, Los otros, El orfanato, Verónica, Paranormal Activity, Smile, Terrifier=Art the Clown=Art el payaso, M3GAN=Megan, "
+    "el Truco o trato de los niños=niños pidiendo caramelos, el Tenorio de Alcalá, la Noche de Ánimas=Ánimas, "
+    "la Fiesta de las Ánimas, el Día de Difuntos=Difuntos, el Día de los Fieles Difuntos, el Halloween de Disneyland=Halloween de PortAventura=PortAventura, "
+    "el pasaje del terror de PortAventura=Horror Hotel, Warner Halloween=Parque Warner, Zugarramurdi, Cuevas de Zugarramurdi, la Casa de la Bruja=bruja Avería, "
+    "la bruja Lola, la bruja Piruja, Brujilda, Maléfica, la Reina Malvada=madrastra de Blancanieves, Sabrina, Embrujadas=Charmed, Merlina, "
+    "American Horror Story, Stranger Things, The Walking Dead, Buffy cazavampiros=Buffy, Crepúsculo=Edward Cullen=Edward, Van Helsing, Lestat, Entrevista con el vampiro",
+ 5: "el fuego fatuo=fuego fatuo=fuegos fatuos, la mandrágora=mandrágora, el grimorio=grimorio=libro de hechizos, el pentagrama=pentagrama, la runa=runas, "
+    "el atrapasueños=atrapasueños, el tarot=tarot=cartas del tarot, la manzana envenenada=manzana envenenada, el ojo de tritón=ojo de tritón, la pata de mono=pata de mono, "
+    "la cabeza reducida=tsantsa, el homúnculo=homúnculo, el basilisco=basilisco, el kraken=kraken, el yeti=yeti, el Krampus=Krampus, Baba Yaga, "
+    "la bruja de Blair=El proyecto de la bruja de Blair, Nosferatu de Murnau, Bela Lugosi, Boris Karloff, Vincent Price, Christopher Lee, Edgar Allan Poe=Poe, "
+    "Bram Stoker, Mary Shelley, Stephen King, Lovecraft=H. P. Lovecraft, Cthulhu",
+}

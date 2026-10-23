@@ -104,9 +104,9 @@ def solo_mano(*slugs):
         f.__name__ = slug; return f
     return [crea(s) for s in slugs]
 frigo, hacendado, idiomas_paises, pronombres, bimbo, sabores_helado, dulces_navidad, deportes_acuaticos, juegos_invierno, \
-    hispanohablantes, especialidades, unidades_tiempo, gases, francofonos, provincias = solo_mano(
+    hispanohablantes, especialidades, unidades_tiempo, gases, francofonos, provincias, halloween = solo_mano(
     "frigo", "hacendado", "idiomas_paises", "pronombres", "bimbo", "sabores_helado", "dulces_navidad", "deportes_acuaticos",
-    "juegos_invierno", "hispanohablantes", "especialidades", "unidades_tiempo", "gases", "francofonos", "provincias")
+    "juegos_invierno", "hispanohablantes", "especialidades", "unidades_tiempo", "gases", "francofonos", "provincias", "halloween")
 
 def cola_wd4(nombre, minimo=0, alto=10**9, fuera=None, quita_prefijo=None, minus=False):
     """Nombres de Wikidata (con etiqueta en español o, si no, en inglés). Nivel 4 si tiene muchas ediciones, 5 si no."""
@@ -412,7 +412,7 @@ def artistas(): print("artistas: se monta con artistas_spotify.py")
 TODAS = [frigo, refrescos, hacendado, eurovision, friends, phineas, circuitos_f1, provincias, francofonos, palabras_x, esdrujulas, filosofos,
          batallas, huesos, musculos, profesiones, idiomas_paises, peter_pan, pronombres, masas_agua, logias, inter, bimbo, nestle, apple,
          sabores_helado, dulces_navidad, bigbang, office, modern_family, sagas, escuderias, deportes_acuaticos, juegos_invierno, pueblos_madrid,
-         hispanohablantes, dieresis, latin, corrientes, hormonas, especialidades, formatos, cocacola, itis, unidades_tiempo, olivia, gases, minerales]
+         hispanohablantes, dieresis, latin, corrientes, hormonas, especialidades, formatos, cocacola, itis, unidades_tiempo, olivia, gases, minerales, halloween]
 if __name__ == "__main__":
     pedidas = sys.argv[1:]
     for f in TODAS:
