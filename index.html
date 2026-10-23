@@ -329,7 +329,6 @@ input[type=text]:focus,input[type=email]:focus,input[type=password]:focus{outlin
 .marcador b{display:block;font-family:var(--disp);font-size:30px;line-height:1.15;color:var(--tinta);letter-spacing:0;
   text-transform:none;font-variant-numeric:lining-nums tabular-nums;margin-top:2px;font-weight:400}
 .copiado{color:var(--boya-hondo);font-size:13px;font-family:var(--sans)}
-.foto-resultado{display:block;width:100%;max-width:360px;height:auto;margin:16px auto 0;border-radius:16px;box-shadow:0 14px 30px -14px rgba(8,28,56,.6)}
 a.btn{text-decoration:none}
 
 /* ── ayuda ───────────────────────────────────────────── */
@@ -1357,7 +1356,9 @@ function final(){
     b.setAttribute("aria-expanded", String(abrir));
   }));
 
-  $("#bImagen").addEventListener("click", () => compartirImagen(metros, J.res, J.fecha));
+  // la imagen se prepara ya, para que al pulsar se abra el menú de compartir del móvil sin esperar (Safari lo bloquea si tarda)
+  const listo = preparaCompartir(metros, J.res, J.fecha);
+  $("#bImagen").addEventListener("click", () => compartirImagen(listo));
   $("#bGuardar")?.addEventListener("click", ()=>abreCuenta(true, "alta"));
   trasPintar();
   $("#bVerRanking")?.addEventListener("click", () => ranking());
@@ -1441,47 +1442,26 @@ async function imagenResultado(metros, res, fecha){
   pildora(WEB, tx, 1232, "#ee6fa3", "#12294b", 23);
   return c;
 }
-async function compartirImagen(metros, res, fecha){
-  const caja = $("#ayuda"); caja.hidden = false; caja.scrollTop = 0;
-  caja.innerHTML = `<div class="panel"><h2>Comparte tu resultado</h2><p class="mini">Preparando la imagen…</p></div>`;
+async function preparaCompartir(metros, res, fecha){
   const lienzo = await imagenResultado(metros, res, fecha);
   const blob = await new Promise(r => lienzo.toBlob(r, "image/png"));
   const archivo = new File([blob], "sabihondo-" + fecha + ".png", {type:"image/png"});
   // el mensaje que acompaña a la imagen lleva siempre el enlace al juego
   const emojis = res.map(r => nivel(r) ? nivel(r).e : FALLO).join("");
   const texto = `He bajado ${mil(metros)} m en Sabihondo 🧊\n${emojis}\n¿Y tú hasta dónde bajas? https://${WEB}/`;
-  const url = URL.createObjectURL(blob);
-  const puedeEnviar = !!(navigator.canShare && navigator.canShare({files:[archivo]}));
-  const puedeCopiar = !!(navigator.clipboard && window.ClipboardItem);
-  if (caja.hidden) return;
-  caja.innerHTML = `
-  <div class="panel">
-    <h2>Comparte tu resultado</h2>
-    <img class="foto-resultado" src="${url}" alt="Imagen de tu resultado: ${mil(metros)} metros en el iceberg de hoy">
-    <div class="botonera">
-      ${puedeEnviar ? `<button class="btn" id="bEnviarImg">Enviar <span aria-hidden="true">→</span></button>` : ``}
-      <a class="btn ${puedeEnviar ? "fantasma" : ""}" id="bBajarImg" href="${url}" download="${archivo.name}">Guardar imagen</a>
-      ${puedeCopiar ? `<button class="btn fantasma" id="bCopiarImg">Copiar imagen</button>` : ``}
-      <button class="btn fantasma" id="bCopiarMsg">Copiar mensaje con enlace</button>
-      <button class="btn fantasma" id="bCerrar">Volver</button>
-    </div>
-    <p class="aviso" id="avisoImg" role="status"></p>
-  </div>`;
-  const aviso = m => { const a = $("#avisoImg"); if (a) a.textContent = m; };
-  $("#bCerrar").addEventListener("click", () => { ayuda(false); URL.revokeObjectURL(url); });
-  $("#bEnviarImg")?.addEventListener("click", async () => {
-    try{ await navigator.share({files:[archivo], title:"Sabihondo", text:texto}); }
-    catch(e){ if (e && e.name !== "AbortError") aviso("No se ha podido abrir el menú de compartir. Guarda la imagen y mándala tú."); }
-  });
-  $("#bCopiarImg")?.addEventListener("click", async () => {
-    try{ await navigator.clipboard.write([new ClipboardItem({"image/png":blob})]); aviso("Imagen copiada. Pégala donde quieras."); }
-    catch{ aviso("No se ha podido copiar. Guarda la imagen y mándala tú."); }
-  });
-  $("#bCopiarMsg").addEventListener("click", async () => {
-    try{ await navigator.clipboard.writeText(texto); aviso("Mensaje copiado, con el enlace al juego."); }
-    catch{ aviso(texto); }
-  });
-  ($("#bEnviarImg") || $("#bBajarImg")).focus({preventScroll:true});
+  return {archivo, texto};
+}
+/* un solo botón: abre el menú de compartir del móvil (contactos, apps…) con la imagen y el mensaje.
+   Donde no se pueden compartir archivos (ordenador), se comparte el mensaje; y si tampoco, se baja la imagen y se copia el mensaje. */
+async function compartirImagen(listo){
+  const {archivo, texto} = await listo;
+  try{
+    if (navigator.canShare && navigator.canShare({files:[archivo]})) return await navigator.share({files:[archivo], text:texto});
+    if (navigator.share) return await navigator.share({title:"Sabihondo", text:texto});
+  }catch(e){ if (e && e.name === "AbortError") return; }
+  const a = document.createElement("a"); a.href = URL.createObjectURL(archivo); a.download = archivo.name; a.click();
+  setTimeout(() => URL.revokeObjectURL(a.href), 4000);
+  try{ await navigator.clipboard.writeText(texto); }catch{}
 }
 
 /* todas las respuestas válidas de una pregunta, agrupadas por nivel.
