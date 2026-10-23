@@ -82,7 +82,7 @@ MANO = {
  1: "yo, tú, él, ella, nosotros, vosotros, ellos, ellas, usted, ustedes",
  2: "nosotras, vosotras, mí, ti, me, te, se, nos, os, le, les, lo, la, los, las, mío=mía, tuyo=tuya, suyo=suya, nuestro=nuestra, vuestro=vuestra, este=esta, ese=esa, aquel=aquella, esto, eso, aquello, que, quien, cual, alguien, nadie, algo, nada",
  3: "vos, ello, sí, conmigo, contigo, consigo, míos=mías, tuyos=tuyas, suyos=suyas, nuestros=nuestras, vuestros=vuestras, estos=estas, esos=esas, aquellos=aquellas, quienes, cuales, cuyo=cuya=cuyos=cuyas, qué, quién=quiénes, cuál=cuáles, cuánto=cuánta=cuántos=cuántas, alguno=alguna=algunos=algunas, ninguno=ninguna, uno, otro=otra=otros=otras, todo=toda=todos=todas, cualquiera=cualesquiera, quienquiera=quienesquiera, mucho=mucha=muchos=muchas, poco=poca=pocos=pocas, varios=varias, demasiado=demasiada=demasiados=demasiadas, bastante=bastantes, cuanto=cuanta=cuantos=cuantas, tanto=tanta=tantos=tantas, mismo=misma=mismos=mismas, ambos=ambas, sendos, demás",
- 4: "vosotros mismos, usted mismo, dónde=donde, cómo=como, cuándo=cuando, consigo mismo, uno mismo, tal=tales, pronombre personal, pronombre posesivo, pronombre demostrativo, pronombre relativo, pronombre interrogativo, pronombre indefinido, pronombre reflexivo, pronombre átono, pronombre tónico, el cual=la cual=los cuales=las cuales, lo cual, el que=la que=los que=las que, lo que, quienes quiera",
+ 4: "vosotros mismos, usted mismo, dónde=donde, cómo=como, cuándo=cuando, consigo mismo, uno mismo, tal=tales, el cual=la cual=los cuales=las cuales, lo cual, el que=la que=los que=las que, lo que, quienes quiera",
 },
 "masas_agua": {
  1: "mar, océano, río, lago, laguna, charca=charco, estanque, embalse=pantano",
@@ -360,8 +360,7 @@ MAS.update({
  "gases": {5: "pedo, R-134a=tetrafluoroetano"},
  "masas_agua": {3: "estero, manglar", 4: "pantanal, tremedal, aguazal, lodazal, cenagal, fangal, abrevadero"},
  "corrientes": {3: "zen=budismo zen, romanticismo, neoliberalismo, libertarismo, contractualismo, iusnaturalismo, consecuencialismo, pesimismo",
-                4: "comunitarismo, emotivismo, intuicionismo, cognitivismo, funcionalismo, fisicalismo, reduccionismo, emergentismo, panpsiquismo, eclecticismo, maniqueísmo, jainismo, sufismo, deontologismo=ética deontológica, ética de la virtud, idealismo subjetivo, idealismo objetivo, realismo crítico, realismo ingenuo",
-                5: "Academia=Academia de Platón, Liceo, Jardín de Epicuro=el Jardín"},
+                4: "comunitarismo, emotivismo, intuicionismo, cognitivismo, funcionalismo, fisicalismo, reduccionismo, emergentismo, panpsiquismo, eclecticismo, maniqueísmo, jainismo, sufismo, deontologismo=ética deontológica, ética de la virtud, idealismo subjetivo, idealismo objetivo, realismo crítico, realismo ingenuo"},
 })
 ALIAS_MAS.update({
  "cocacola": {"Coca-Cola": "Coca-Cola vainilla, Coca-Cola sin cafeína", "Fanta": "Fanta naranja, Fanta limón", "Aquarius": "Aquarius naranja", "Powerade": "Powerade azul",
