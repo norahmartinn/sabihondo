@@ -142,7 +142,7 @@ MANO = {
 },
 "juegos_invierno": {
  1: "esquí=esquí alpino, snowboard, patinaje artístico=patinaje sobre hielo=patinaje, hockey sobre hielo=hockey hielo, curling, salto de esquí=saltos de esquí, biatlón, bobsleigh=bobsled=bob",
- 2: "esquí de fondo, luge=trineo, skeleton, patinaje de velocidad, short track=pista corta=patinaje de velocidad en pista corta, combinada nórdica, esquí acrobático=freestyle, eslalon=slalom, eslalon gigante=gigante, supergigante=super-G=super gigante, descenso, combinada alpina, esquí de montaña=skimo, moguls=baches, halfpipe=half-pipe, slopestyle, big air, snowboard cross=boardercross, skicross=ski cross, saltos acrobáticos=aerials, sprint, persecución, salida en masa, relevos, danza sobre hielo=danza, parejas, eslalon paralelo, team event=prueba por equipos, monobob, trineo doble, mass start",
+ 2: "esquí de fondo, luge=trineo, skeleton, patinaje de velocidad, short track=pista corta=patinaje de velocidad en pista corta, combinada nórdica, esquí acrobático=freestyle, eslalon=slalom, eslalon gigante=gigante, supergigante=super-G=super gigante, descenso, combinada alpina, esquí de montaña=skimo, moguls=baches, halfpipe=half-pipe, slopestyle, big air, snowboard cross=boardercross, skicross=ski cross, saltos acrobáticos=aerials, sprint de esquí de fondo=sprint, persecución por equipos=persecución, salida en masa=mass start, relevos de biatlón=relevos, eslalon paralelo, prueba por equipos de patinaje=prueba por equipos=team event, monobob, trineo doble",
 },
 "hispanohablantes": {
  1: "España, México, Argentina, Colombia, Chile, Perú, Venezuela, Cuba, Uruguay",
@@ -350,8 +350,8 @@ ALIAS_MAS.update({
                 "nihilismo": "nihilista, nihilismo pasivo, nihilismo activo", "marxismo": "marxista", "idealismo": "idealista", "racionalismo": "racionalista", "empirismo": "empirista",
                 "materialismo": "materialista", "utilitarismo": "utilitarista", "positivismo lógico": "Círculo de Viena", "estoicismo": "estoa, pórtico, estoico", "cinismo": "cínicos, cínico"},
  "juegos_invierno": {"hockey sobre hielo": "hockey", "esquí de fondo": "esquí nórdico, esquí de fondo sprint", "short track": "patinaje en pista corta", "bobsleigh": "bobsleigh a dos, bobsleigh a cuatro",
-                     "danza sobre hielo": "danza en hielo", "parejas": "patinaje artístico por parejas", "eslalon paralelo": "eslalon gigante paralelo", "salto de esquí": "trampolín normal, trampolín grande",
-                     "trineo doble": "luge dobles", "relevos": "relevo mixto", "esquí de montaña": "esquí de travesía", "persecución": "persecución por equipos"},
+                     "danza sobre hielo": "danza en hielo", "eslalon paralelo": "eslalon gigante paralelo", "salto de esquí": "trampolín normal, trampolín grande",
+                     "trineo doble": "luge dobles", "relevos de biatlón": "relevo mixto, relevos mixtos", "esquí de montaña": "esquí de travesía"},
 })
 MAS.update({
  "nestle": {3: "Polo, Fruit Pastilles, NAN=Nestlé NAN, helados Nestlé", 4: "Thomy, La Cocinera, Nescafé Azera, papillas Nestlé=papillas, yogur Nestlé, Acqua Panna, Levissima, Pure Life=Nestlé Pure Life, Shakissimo=Nescafé Shakissimo, Herta"},
@@ -476,3 +476,7 @@ ALIAS_MAS["halloween"] = {
  "la enfermera zombi": "enfermera zombie", "Pennywise": "It payaso, Eso", "Warner Halloween": "Parque Warner, Warner",
  "el Halloween de Disneyland": "Disneyland, Disney",
 }
+
+# patinaje: con el nombre entero y nivel 3 (sueltos, «parejas» o «danza» no se entienden)
+MAS.setdefault("juegos_invierno", {}).setdefault(3, "")
+MAS["juegos_invierno"][3] = ", ".join(x for x in [MAS["juegos_invierno"][3], "patinaje por parejas=patinaje artístico por parejas=patinaje en parejas=parejas, danza sobre hielo=danza=baile sobre hielo"] if x)

@@ -14,27 +14,26 @@ patinaje de velocidad;;2;999999997
 short track;pista corta|patinaje de velocidad en pista corta|patinaje en pista corta;2;999999996
 combinada nórdica;;2;999999995
 esquí acrobático;freestyle;2;999999994
-eslalon;slalom;2;999999993
+eslalon;slalom;3;999999993
 eslalon gigante;gigante;3;999999992
 supergigante;super-G;3;999999991
 descenso;;3;999999990
 combinada alpina;;3;999999989
 esquí de montaña;skimo|esquí de travesía;3;999999988
 moguls;baches;3;999999987
-halfpipe;;3;999999986
-slopestyle;;3;999999985
+patinaje por parejas;patinaje artístico por parejas|patinaje en parejas|parejas;3;100000000
+danza sobre hielo;danza|baile sobre hielo|danza en hielo;3;99999999
+halfpipe;;4;999999986
+slopestyle;;4;999999985
 big air;;4;999999984
 snowboard cross;boardercross;4;999999983
 skicross;;4;999999982
 saltos acrobáticos;aerials;4;999999981
-sprint;;4;999999980
-persecución;persecución por equipos;4;999999979
-salida en masa;;4;999999978
-relevos;relevo mixto;4;999999977
-danza sobre hielo;danza|danza en hielo;5;999999976
-parejas;patinaje artístico por parejas;5;999999975
-eslalon paralelo;eslalon gigante paralelo;5;999999974
-team event;prueba por equipos;5;999999973
-monobob;;5;999999972
-trineo doble;luge dobles;5;999999971
-mass start;;5;999999970
+sprint de esquí de fondo;sprint;4;999999980
+persecución por equipos;persecución;5;999999979
+salida en masa;mass start;5;999999978
+relevos de biatlón;relevos|relevo mixto|relevos mixtos;5;999999977
+eslalon paralelo;eslalon gigante paralelo;5;999999976
+prueba por equipos de patinaje;prueba por equipos|team event;5;999999975
+monobob;;5;999999974
+trineo doble;luge dobles;5;999999973
