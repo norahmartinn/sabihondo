@@ -122,7 +122,7 @@ PREGUNTAS = [
     ("Nombra un hueso del cuerpo", "huesos"),
     ("Nombra un músculo", "musculos"),
     ("Nombra una profesión", "profesiones"),
-    ("Nombra una artista con más de 500.000 oyentes mensuales en Spotify", "artistas"),
+    ("Nombra una artista mujer con más de 500.000 oyentes mensuales en Spotify", "artistas"),
     ("Nombra un idioma que sea el más hablado en al menos dos países", "idiomas_paises"),
     ("Nombra un personaje de Peter Pan", "peter_pan"),
     ("Nombra un pronombre", "pronombres"),
