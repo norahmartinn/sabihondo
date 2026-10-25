@@ -1,0 +1,112 @@
+respuesta;alias;nivel;orden_a_mano
+la maleta de cabina;equipaje de mano|maleta de mano|trolley|la maleta grande de cabina;1;1000000000
+la maleta facturada;facturar|facturar la maleta|equipaje facturado|maleta|equipaje;1;999999999
+las bebidas;bebida|agua;1;999999998
+la comida;comidas|menú;1;999999997
+más espacio para las piernas;espacio para las piernas|espacio extra|asiento XL|XL;1;999999996
+elegir asiento;asiento|selección de asiento|escoger asiento|reservar asiento;1;999999995
+los snacks;aperitivos|picoteo|patatas|chocolatina;1;999999994
+el wifi;internet;1;999999993
+el alcohol;vino|cerveza;2;1000000000
+la manta;;2;999999999
+imprimir la tarjeta de embarque;tarjeta de embarque|imprimir el billete|sacar la tarjeta de embarque en el aeropuerto;2;999999998
+business;clase business|clase ejecutiva|bussines;2;999999997
+cancelar;cancelación|cancelar el vuelo|tasa de cancelación;2;999999996
+cambiar el vuelo;cambio de vuelo|cambio de fecha|cambiar la fecha|cambio de billete;2;999999995
+la fila de emergencia;salida de emergencia|asiento de emergencia;2;999999994
+una maleta extra;equipaje extra|segunda maleta|bulto extra;2;999999993
+primera clase;;2;999999992
+los auriculares;cascos;2;999999991
+las bebidas calientes;café|té|chocolate caliente;2;999999990
+el entretenimiento a bordo;entretenimiento|películas|pelis|pantalla;2;999999989
+la sala VIP;acceso a la sala VIP|lounge|sala de espera VIP;2;999999988
+el sobrepeso;exceso de peso|exceso de equipaje|pasarte de peso|kilos de más;2;999999987
+llevar la mascota en cabina;mascota en cabina|mascota|perro|gato|llevar al perro;2;999999986
+la almohada;cojín;2;999999985
+turista premium;premium economy|turista superior;2;999999984
+el embarque prioritario;prioridad|priority|embarcar primero;2;999999983
+sentarse juntos;asientos juntos|sentarte con tus acompañantes;2;999999982
+el seguro de viaje;seguro;2;999999981
+la mejora de clase;upgrade|subir de clase;2;999999980
+facturar en el aeropuerto;facturación en el aeropuerto|facturar en el mostrador|check-in en el aeropuerto;3;1000000000
+el neceser;kit de aseo;3;999999999
+los gastos de gestión;gastos de reserva|cargo por reserva|tasa de reserva;3;999999998
+pagar con tarjeta;comisión por tarjeta|recargo por tarjeta de crédito;3;999999997
+el duty free;tienda a bordo|perfumes;3;999999996
+facturar antes;facturación anticipada|check-in anticipado;3;999999995
+el asiento de al lado vacío;asiento vacío al lado|bloquear el asiento de al lado;3;999999994
+un asiento extra;comprar otro asiento|segundo asiento;3;999999993
+el fast track;control de seguridad rápido|pasar rápido el control;3;999999992
+la tarifa flexible;billete flexible;3;999999991
+el combustible;recargo por combustible|queroseno;3;999999990
+facturar en la puerta de embarque;maleta en la puerta de embarque|la maleta en la puerta;3;999999989
+el bebé en brazos;bebé|llevar un bebé|infant;3;999999988
+perder el vuelo;vuelo perdido|perder el avión;3;999999987
+el instrumento musical;instrumento|guitarra|violín;3;999999986
+cambiar el nombre;cambio de nombre|cambio de titular;3;999999985
+no presentarse;no show|no presentarte al vuelo;3;999999984
+el equipaje de gran tamaño;bulto grande|maleta grande|equipaje especial;3;999999983
+la mascota en bodega;perro en bodega;3;999999982
+reservar por teléfono;reserva por teléfono|llamar para reservar|atención telefónica;3;999999981
+el enchufe;cargar el móvil|USB;3;999999980
+el asiento preferente;asiento delante|primeras filas;3;999999979
+la facturación prioritaria;mostrador prioritario;3;999999978
+reclinar el asiento;asiento reclinable;3;999999977
+el billete reembolsable;tarifa reembolsable;3;999999976
+cambiar el vuelo el mismo día;cambio el mismo día;3;999999975
+los esquís;equipo de esquí|snowboard|tabla de snow;3;999999974
+el material deportivo;equipaje deportivo|equipo deportivo;3;999999973
+la lista de espera;standby;3;999999972
+el menor no acompañado;niño solo|niño que viaja solo|servicio de menores;3;999999971
+la maleta pequeña bajo el asiento;bolso|mochila;3;100000000
+la entrega de la maleta a domicilio;entrega de equipaje|entrega de equipaje a domicilio;4;1000000000
+la protección del equipaje;seguro de equipaje|seguro de maleta|localizador de maletas;4;999999999
+la suscripción de equipaje;suscripción de maletas|abono de maletas;4;999999998
+la cuna;asiento con cuna|moisés;4;999999997
+la bicicleta;bici;4;999999996
+el paquete;pack|tarifa paquete|bundle;4;999999995
+comprar el estatus;estatus élite|nivel de socio;4;999999994
+comprar millas;millas|comprar puntos|avios;4;999999993
+gastos por reservar con millas;reserva con millas|tasa de canje;4;999999992
+volver a abonar las millas;redepositar millas|devolver las millas;4;999999991
+reactivar las millas;millas caducadas;4;999999990
+el reto de estatus;status challenge;4;999999989
+apuntarte al programa de puntos;cuota de viajero frecuente|hacerse socio;4;999999988
+la compensación de CO2;compensar el CO2|compensación de carbono|huella de carbono|CO2;4;999999987
+la tarta;tarta de cumpleaños|tarta de celebración;4;999999986
+la conexión;tasa de conexión|escala|hacer escala;4;999999985
+facturar en la acera;facturación en la acera|curbside;4;999999984
+facturar desde casa;facturación a domicilio|recogida de maletas en casa;4;999999983
+la tasa del DOT;tasa del Departamento de Transporte;4;999999982
+la tasa EU261;EU261|tasa de compensaciones;4;999999981
+declarar objetos de valor;declaración de valor|exceso de valor|objetos de valor;4;999999980
+la verificación exprés;verificación rápida;4;999999979
+el club de tarifas;club de descuentos|Prime|Ryanair Prime;4;999999978
+bloquear la tarifa;congelar el precio|reservar el precio|fare lock;4;999999977
+las armas;armas de fuego|escopeta|rifle;4;999999976
+los palos de golf;golf|bolsa de golf;4;999999975
+la reserva de grupo;grupos;4;999999974
+Hands Free;;4;999999973
+las llamadas a bordo;llamar por teléfono|teléfono;4;999999972
+el equipo del bebé;carrito|carrito de bebé|silla de coche|cuna de viaje;4;999999971
+el recargo por el seguro;recargo de seguros;4;999999970
+el recargo por recuperar el servicio;recargo por recuperación del servicio;4;999999969
+el oxígeno;oxígeno médico|bombona de oxígeno;4;999999968
+la asistencia en el aeropuerto;asistencia|acompañamiento|meet and assist;4;999999967
+el recargo por fenómenos naturales;fenómenos naturales|recargo por catástrofes;4;999999966
+el check-in online;facturación online|hacer el check-in;4;999999965
+el billete en papel;billete impreso;4;999999964
+la temporada alta;recargo de temporada alta|volar en verano|volar en Navidad;4;999999963
+el equipaje prioritario;maleta prioritaria|que tu maleta salga primero;4;999999962
+la zona tranquila;zona silenciosa;4;999999961
+la factura;recibo|justificante;4;999999960
+gestionar el reembolso;gastos de reembolso|tasa de reembolso|reembolso;4;999999959
+el rasca y gana;lotería|boletos de lotería;4;999999958
+Skycouch;;4;999999957
+Skynest;litera|cama;4;999999956
+la confirmación por SMS;SMS;4;999999955
+la camilla;;4;999999954
+la tabla de surf;surf|tabla;4;999999953
+la tarjeta SIM;SIM|eSIM;4;999999952
+la silla de ruedas;;4;999999951
+el halcón;halcón en cabina|llevar un halcón;5;1000000000

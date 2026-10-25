@@ -1,0 +1,863 @@
+respuesta;alias;nivel;enlaces_wikipedia
+guitarra;guitarra española|guitarra clásica;1;1000000000
+piano;;1;999999999
+violín;;1;999999998
+batería;;1;999999997
+flauta;flauta travesera;1;999999996
+trompeta;;1;999999995
+saxofón;saxo;1;999999994
+bajo;bajo eléctrico;1;999999993
+guitarra eléctrica;;1;999999992
+tambor;;1;999999991
+arpa;;1;999999990
+violonchelo;chelo|cello;1;999999989
+acordeón;;1;999999988
+clarinete;;1;999999987
+ukelele;ukulele;1;999999986
+teclado;;1;999999985
+órgano;;1;999999984
+armónica;;1;999999983
+xilófono;;1;999999982
+triángulo;;1;999999981
+pandereta;;1;999999980
+castañuelas;;1;999999979
+maracas;;1;999999978
+trombón;;1;999999977
+tuba;;1;999999976
+flauta dulce;;1;999999975
+contrabajo;;1;999999974
+gaita;;1;999999973
+platillos;;1;999999972
+bombo;;1;999999971
+timbal;timbales;1;999999970
+sintetizador;;1;999999969
+viola;;2;1000000000
+oboe;;2;999999999
+fagot;;2;999999998
+trompa;corno|trompa francesa;2;999999997
+cajón;cajón flamenco;2;999999996
+bongos;bongó;2;999999995
+congas;conga;2;999999994
+güiro;;2;999999993
+ocarina;;2;999999992
+banjo;banyo;2;999999991
+mandolina;;2;999999990
+laúd;;2;999999989
+bandurria;;2;999999988
+sitar;;2;999999987
+didgeridoo;;2;999999986
+gong;;2;999999985
+marimba;;2;999999984
+vibráfono;;2;999999983
+celesta;;2;999999982
+clave;claves;2;999999981
+cencerro;;2;999999980
+caja;caja china|redoblante;2;999999979
+crótalos;;2;999999978
+glockenspiel;carillón;2;999999977
+campanas;campana;2;999999976
+campanas tubulares;;2;999999975
+clavicordio;;2;999999974
+órgano de tubos;órgano de iglesia;2;999999972
+piano de cola;;2;999999971
+piano eléctrico;;2;999999970
+guitarra acústica;;2;999999969
+bajo acústico;;2;999999968
+guitarra de doce cuerdas;;2;999999967
+guitarra flamenca;;2;999999966
+charango;;2;999999965
+cuatro;cuatro venezolano;2;999999964
+requinto;;2;999999963
+tiple;;2;999999962
+timple;timple canario;2;999999961
+guitarrón;;2;999999960
+vihuela;;2;999999959
+zampoña;flauta de pan;2;999999958
+quena;;2;999999957
+kalimba;;2;999999956
+djembé;yembé|tambor africano;2;999999955
+tabla;;2;999999954
+darbuka;;2;999999953
+bodhrán;;2;999999952
+cítara;;2;999999951
+lira;;2;999999950
+zanfona;;2;999999949
+theremín;;2;999999948
+melódica;;2;999999947
+kazoo;;2;999999946
+silbato;;2;999999945
+pito;;2;999999944
+txalaparta;;2;999999943
+txistu;;2;999999942
+dulzaina;;2;999999941
+tamboril;;2;999999940
+gralla;;2;999999939
+alboka;;2;999999938
+trikitixa;;2;999999937
+castañuela;;2;999999936
+almirez;;2;999999935
+botella de anís;botella;2;999999934
+zambomba;;2;999999933
+carraca;;2;999999932
+sonajero;;2;999999931
+cascabeles;;2;999999930
+palo de lluvia;;2;999999929
+flautín;piccolo;2;999999928
+corneta;;2;999999927
+fliscorno;;2;999999926
+bombardino;eufonio;2;999999925
+sousafón;;2;999999924
+saxofón alto;saxo alto;2;999999923
+saxofón tenor;saxo tenor;2;999999922
+saxofón soprano;;2;999999921
+saxofón barítono;;2;999999920
+corno inglés;;2;999999919
+clarinete bajo;;2;999999918
+contrafagot;;2;999999917
+trompetilla;;2;999999916
+cornamusa;;2;999999915
+clavecín;clave de teclado;2;100000000
+balalaica;balalaika;3;1000000000
+bouzouki;;3;999999999
+shamisen;;3;999999998
+koto;;3;999999997
+erhu;;3;999999996
+pipa;;3;999999995
+guzheng;;3;999999994
+sarangi;;3;999999993
+tanpura;;3;999999992
+veena;;3;999999991
+santur;;3;999999990
+oud;laúd árabe;3;999999989
+saz;;3;999999988
+kora;;3;999999987
+mbira;;3;999999986
+steel drum;steelpan|tambor metálico;3;999999985
+cuíca;;3;999999984
+berimbau;;3;999999983
+pandeiro;;3;999999982
+cavaquinho;;3;999999981
+surdo;;3;999999980
+agogó;;3;999999979
+tambora;;3;999999978
+güira;;3;999999977
+cabasa;;3;999999976
+quijada;quijada de burro;3;999999975
+marimbol;;3;999999974
+arpa paraguaya;;3;999999973
+arpa celta;;3;999999972
+arpa de boca;birimbao;3;999999971
+armonio;;3;999999970
+bandoneón;;3;999999969
+concertina;;3;999999968
+órgano Hammond;Hammond;3;999999967
+mellotron;;3;999999966
+clavinet;;3;999999965
+sampler;;3;999999964
+caja de ritmos;;3;999999963
+MIDI;;3;999999962
+launchpad;;3;999999961
+ondas Martenot;;3;999999959
+tubo de órgano;;3;999999958
+tubular bells;;3;999999957
+waterphone;;3;999999956
+hang;hang drum|handpan;3;999999955
+cajón peruano;;3;999999954
+washboard;;3;999999953
+cucharas;;3;999999952
+serrucho;sierra musical;3;999999951
+copas de cristal;armónica de cristal;3;999999950
+gaita gallega;;3;999999949
+gaita asturiana;;3;999999948
+gaita escocesa;;3;999999947
+uilleann pipes;;3;999999946
+chirimía;;3;999999945
+bombarda;;3;999999944
+sacabuche;;3;999999943
+corneta de llaves;;3;999999942
+serpentón;;3;999999941
+cromorno;;3;999999940
+flauta de pico;;3;999999939
+flageolet;;3;999999938
+tin whistle;;3;999999937
+shakuhachi;;3;999999936
+bansuri;;3;999999935
+duduk;;3;999999934
+zurna;;3;999999933
+ney;;3;999999932
+mizmar;;3;999999931
+sheng;;3;999999930
+harmonica cromática;;3;999999929
+armónica de blues;;3;999999928
+dulcémele;;4;1000000000
+salterio;;4;999999999
+címbalo;;4;999999998
+cimbalom;;4;999999997
+hackbrett;;4;999999996
+nyckelharpa;;4;999999995
+hardanger fiddle;;4;999999994
+rabel;;4;999999993
+vielle;;4;999999992
+viola da gamba;;4;999999991
+viola d'amore;;4;999999990
+violone;;4;999999989
+baryton;;4;999999988
+arpeggione;;4;999999987
+octobajo;;4;999999986
+guitarra portuguesa;;4;999999985
+viola caipira;;4;999999984
+bajo sexto;;4;999999983
+jarana;;4;999999982
+vihuela mexicana;;4;999999981
+tres cubano;;4;999999980
+laúd español;;4;999999979
+cítara de Hungría;;4;999999978
+kantele;;4;999999977
+kokle;;4;999999976
+gusli;;4;999999975
+domra;;4;999999974
+kobza;;4;999999973
+bandura;;4;999999972
+rebab;;4;999999971
+kemenche;;4;999999970
+morin khuur;;4;999999969
+dombra;;4;999999968
+komuz;;4;999999967
+rubab;;4;999999966
+setar;;4;999999965
+tar;;4;999999964
+kamancheh;;4;999999963
+kanun;;4;999999962
+sintir;;4;999999961
+gumbri;;4;999999960
+ngoni;;4;999999959
+valiha;;4;999999958
+angklung;;4;999999957
+gamelán;;4;999999956
+bonang;;4;999999955
+gendér;;4;999999954
+kulintang;;4;999999953
+taiko;;4;999999952
+tsuzumi;;4;999999951
+biwa;;4;999999950
+hichiriki;;4;999999949
+sho;;4;999999948
+piri;;4;999999947
+haegeum;;4;999999946
+gayageum;;4;999999945
+janggu;;4;999999944
+buk;;4;999999943
+kkwaenggwari;;4;999999942
+guitarra bajo;bajos|bass guitar;4;88
+trompe;pichulita|Jews harp|arpa de mandíbula|Guimbarda;4;77
+timbal de concierto;Timpani|Timbal grande;4;68
+vuvuzela;vuvuzuela|vuvucela|bubuzela|bubucela;4;64
+Antara;pan flute;4;48
+Campana de la Libertad;Liberty Bell;4;45
+buzuki;;4;44
+Kithara;;4;44
+Shofar;;4;44
+Fender Stratocaster;;4;43
+FL Studio;FruityLoops;4;43
+Tsar Kolokol;Tsar Bell;4;43
+címbalo húngaro;;4;43
+megáfono;megaphone;4;42
+secuenciador;secuenciador de música|secuenciador audio|music sequencer;4;42
+silbido;silbando|silbar|whistling;4;42
+hidrófono;hydrophone;4;41
+flauta irlandesa;;4;40
+mirlitón;pito de caña|kazú;4;40
+vina;;4;40
+dutar;dotar;4;40
+guzla;lahuta;4;39
+Campana de a bordo;campana de abordo|campana náutica|campana de barco|campana náutica de señales|campana de señales|ship's bell;4;39
+shehnai;;4;39
+Aulos;aulo|auleta|aulés;4;39
+silbo gomero;silbo canario;4;39
+Trompa de los Alpes;Trompa alpina|Cuerno de los Alpes|Cuerno alpino|Corno de los Alpes|Alphorn;4;38
+sistro;sistrum;4;38
+qanun;Ganún;4;38
+Daf;;4;38
+Fender Telecaster;Telecaster|Fender Broadcaster;4;37
+derbake;Dumbek|Dumbec|Doumbek|Derbaque|Derbabke;4;37
+Gibson Les Paul;;4;37
+teclado electrónico;teclados electrónicos|teclado musical|keyboard|electronic keyboard;4;37
+gaita irlandesa;;4;36
+Mesa de mezclas de audio;Tabla de mezclas|Mesa de audio|Audio mixer|mixing console;4;36
+Vocaloid;;4;36
+pastilla;pickup;4;36
+espineta;Spinettone|spinet;4;36
+guqin;qixianqin;4;36
+tiorba;Teorba|theorbo;4;36
+chirimía antigua;shawm;4;35
+Subwoofer;;4;35
+balafon;;4;35
+AirPods;;4;35
+corneta natural;bugle;4;35
+sarod;;4;34
+Mridangam;Mridangam de madera;4;34
+cascabel;jingle bell;4;34
+matraca;carraco|ratchet;4;33
+estación de trabajo de audio digital;Estaciones de trabajo de audio digital|EAD|Digital Audio Workstation|DAW;4;33
+cornetto;corneta curva|cornett;4;32
+geófono;Geófonos|geophone;4;32
+viola de amor;Viola d'amour;4;32
+kamanche;;4;32
+Virginal;;4;32
+tanbur;;4;32
+carillón de viento;wind chime;4;32
+GarageBand;;4;32
+Dreidel;;4;31
+aldaba;picaporte|door knocker;4;31
+vihuela española;Vihuela de mano;4;30
+helicón;;4;30
+Damaru;;4;30
+Dhol;;4;30
+Balabán;;4;30
+fujara;;4;30
+ondes martenot;;5;1000000000
+trautonium;;5;999999999
+stylophone;;5;999999998
+Moog;sintetizador Moog;5;999999997
+Omnichord;;5;999999996
+Optigan;;5;999999995
+Chapman stick;;5;999999994
+Warr guitar;;5;999999993
+octapad;;5;999999992
+Mellotron M400;;5;999999991
+Vocoder;;5;999999990
+Talkbox;;5;999999989
+Autoharp;autoarpa;5;999999988
+pianola;;5;999999987
+orquestrión;;5;999999986
+organillo;;5;999999985
+órgano de barril;;5;999999984
+caja de música;;5;999999983
+aeolian harp;arpa eólica;5;999999982
+glass harmonica;;5;999999981
+nail violin;;5;999999980
+daxophone;;5;999999979
+cristal Baschet;;5;999999978
+sansula;;5;999999977
+tongue drum;;5;999999976
+vibraslap;;5;999999975
+flexatone;;5;999999974
+bullroarer;;5;999999972
+lamelófono;;5;999999971
+timbre;doorbell;5;29
+tikitiri;pungi;5;29
+Piano Rhodes;Piano eléctrico Rhodes|Piano eléctrico Fender-Rhodes|Rhodes piano;5;29
+Piano preparado;prepared piano;5;29
+Escopetarra;;5;29
+Cubase;;5;29
+dispositivo de alarma;alarma|alarm device;5;29
+Tambores metálicos de Trinidad y Tobago;tambores metálicos de Trinidad|tambores metálicos;5;29
+Tigre Tipu;Tipu's Tiger;5;29
+fortepiano;;5;29
+Naqareh;;5;29
+Octabajo;octobass;5;28
+kayagum;;5;28
+Fender Precision Bass;Precision Bass|P-bass|Fender Precision;5;28
+Fender Jaguar;;5;28
+bayán;acordeón ruso;5;28
+hipermedia;Hipermedios|hypermedia;5;28
+ecualizador;equalizer;5;28
+Dholak;;5;28
+Hi hat;;5;28
+Stradivarius;Stradivari;5;28
+cistro;cittern;5;28
+Metalófono;Percusión de láminas|metallophone;5;28
+oboe de amor;oboe d'amore;5;28
+arpa céltica;arpa irlandesa|celtic harp;5;28
+mandola;;5;27
+bramadera;Churinga;5;27
+flauta alto;alto flute;5;27
+tambores de hendidura;instrumentos rajados|instrumentos de raja|instrumento rajado|instrumento de raja|slit drum;5;27
+Pro Tools;;5;27
+figle;ophicleide;5;27
+Tom-Tom;tom-tom drum;5;27
+batería electrónica;Máquina de ritmos|electronic drum;5;27
+rabab;;5;27
+Suona;Haidi|Laba;5;27
+Moodswinger;;5;26
+Fender Jazz Bass;;5;26
+yangqin;;5;26
+hydraulis;órgano hídrico|órgano hidráulico|water organ;5;26
+Gibson SG;;5;26
+Tazón cantador;Cuencos tibetanos|Cuenco tibetano|singing bowl;5;26
+tambor parlante;talking drum;5;26
+Gibson Flying V;;5;26
+baritón;viola paradon|viola di bordoni|viola di bordone|viola di bardone|pariton;5;25
+Zytgloggeturm;Zytglogge;5;25
+Corneta de posta;post horn;5;25
+Dobro;;5;25
+badulka;gadulka;5;25
+monocordio;monocuerda|monochord;5;25
+Tabl;atabal turqués|atabal|davul;5;25
+alto;;5;25
+siringe;syrinx;5;25
+Absorbente Helmholtz;resonador de Helmholtz|Helmholtz resonance;5;25
+flauta de concierto;Flauta traversera|Flauta traversa|Flauta trasversa|Flauta transversal|Western concert flute;5;25
+Garmon;Harmon;5;25
+Órgano de mar;Órgano marítimo|Órgano marino|Sea organ;5;24
+Tuba Wagner;Tuba wagneriana|Wagner tuba;5;24
+lenguaje silbado;lengua silbada|whistled language;5;24
+Shekere;Lilolo|Chequere|Calabash|Axatse;5;24
+keytar;;5;24
+fingerpicking;guitarra ragtime|fingerstyle guitar;5;24
+Dizi;;5;24
+Suikinkutsu;;5;24
+mokugyo;Pez de madera|Muyu;5;24
+Udu;;5;24
+Litófono;lithophone;5;24
+Flauta de Divje Babe;Divje Babe flute;5;24
+AirPods Pro;Apple AirPods Pro;5;24
+violín tradicional;fiddle;5;23
+Red Special;;5;23
+Ableton Live;Ableton;5;23
+Kanjira;;5;23
+campanilla;handbell;5;23
+Logic Pro;Logic Studio|Logic Audio;5;23
+Salmoé;Chalumeau;5;23
+tam-tam;;5;23
+melófono;mellophone;5;23
+piano vertical;upright piano;5;23
+acordeón diatónico;acordeón de botones|verdulera|diatonic button accordion;5;22
+violín eléctrico;electric violin;5;22
+lur;;5;22
+saxhorno;saxcorno|saxhorn;5;22
+carnyx;karnyx|karnix;5;22
+timbre eléctrico;electric bell;5;22
+Buccina;;5;22
+alarma de carro;car alarm;5;22
+Ravanahatha;;5;22
+dayereh;;5;22
+Fender Jazzmaster;Jazzmaster;5;22
+toaca;semantron;5;22
+Gibson Explorer;;5;22
+olifante;olifant;5;22
+shishi-odoshi;;5;22
+esraj;;5;22
+Fender Mustang;;5;21
+Humbucker;;5;21
+Ardour;;5;21
+Trompa alto;Trompa tenor|Trompa alta|Saxor alto|Bombardino en Mi bemol|tenor horn;5;21
+tweeter;altavoz de bóveda|altavoz de agudos;5;21
+arpa láser;laser harp;5;21
+ghatam;;5;21
+quray;;5;21
+Guitarra sajona;steel-string acoustic guitar;5;21
+sikus;Sicusista;5;21
+steel guitar;;5;21
+Guitarra con resonador;Guitarra resofónica|resonator guitar;5;21
+xiao;shuzhudi|dongxiao;5;21
+Estilófono;;5;21
+timbre de bicicleta;bicycle bell;5;20
+tres;;5;20
+Violinofón;violín tronpeta|Stroh violin;5;20
+corno di bassetto;corno di basseto|corno di basetto|corno de bajete|corni di bassetto|clarinete tenor|basset horn;5;20
+bendir;;5;20
+unidad de efectos;audio effects unit;5;20
+chalaparta;;5;20
+Heckelfón;Heckelphone|Heckelfono;5;20
+Salva;gun salute;5;20
+flauta de tres agujeros;pipe;5;20
+órgano electrónico;órgano eléctrico|electronic organ;5;20
+Pandero;;5;20
+Khaen;khene;5;20
+campana de iglesia;campana litúrgica|church bell;5;20
+Piano de gatos;cat organ;5;20
+Masenqo;;5;19
+clarinete alto;alto clarinet;5;19
+The Beatles Anthology;;5;19
+Rota;crwth;5;19
+Minimoog;;5;19
+tarogato;;5;19
+eolífono;wind machine;5;19
+Sarrusofón;Sarrusófono|sarrusophone;5;19
+Siete trompetas;Seven trumpets;5;19
+bajón;dulcian;5;19
+Fender Jag-Stang;Jag-Stang;5;19
+Trompeta piccolo;Trompeta pícolo|piccolo trumpet;5;19
+flexatono;;5;19
+rkang gling;kangling;5;19
+Arco musical;Mouthbow|Arco de boca|musical bow;5;19
+órgano portátil;portative organ;5;19
+Oboe de caza;Oboe da caccia;5;19
+sopranista;falsetista|sopranist;5;19
+Banhu;;5;19
+piano electrónico;Piano digital|digital piano;5;19
+sarinda;saroh;5;18
+tracker;music tracker;5;18
+tintinábulo;tintinnabulum;5;18
+tulum;;5;18
+Dōtaku;;5;18
+bombo legüero;;5;18
+barra de sonido;barra de audio|soundbar;5;18
+Arpas de Ur;Liras de Ur|Lira de Ur|Lira de oro de Ur|Arpa de ur|Lyres of Ur;5;18
+cuerno;blowing horn;5;18
+sanshin;;5;18
+matasuegras;party horn;5;18
+Jal tarang;;5;18
+ektara;;5;18
+Yueqin;;5;18
+REAPER;;5;18
+Reason;;5;18
+Sprechgesang;Sprechstimme|canción hablada;5;18
+Gibson Firebird;;5;18
+Tambura;tamburica;5;18
+Campana japonesa de la paz;Campana de paz japonesa|Japanese Peace Bell;5;18
+Trembita;;5;18
+pochette;Violín pochette;5;18
+AirPods Max;;5;18
+guitarra barítona;guitarra barítono|baritone guitar;5;18
+sweep-picking;;5;17
+trautonio;;5;17
+algoza;alghoza;5;17
+telarmonio;Dinamófono|Telharmonium|Telearmonio|Dynamophone;5;17
+Temple block;;5;17
+Cimbasso;;5;17
+guitarra barroca;Baroque guitar;5;17
+barbitón;;5;17
+pífano;fife;5;17
+UTAU;;5;17
+Nagara;;5;17
+Trompetas de Tutankamón;Tutankhamun's trumpets;5;17
+Bonshō;;5;17
+Kinnor;;5;17
+Guitarras electro-acústicas;acoustic-electric guitar;5;17
+ruan;;5;17
+látigo;Whip;5;17
+silbato para perros;silbato silencioso|silbato de Galton|dog whistle;5;17
+Nadaswaram;;5;17
+kobyz;;5;17
+jouhikko;;5;17
+Órgano positivo;Realejo|Organino|positive organ;5;17
+copas musicales;glass harp;5;17
+El silbo turco;Turkish bird language;5;17
+guan;;5;16
+phorminx;;5;16
+Fairlight CMI;;5;16
+Bianzhong;;5;16
+Atabaque;;5;16
+Csound;;5;16
+Superstrat;;5;16
+Violín barroco;Baroque violin;5;16
+ghanta;;5;16
+aparato fonador;aparto fonoarticulador|aparato vocal|aparato fonoarticulador|aparato fonatorio|human articulatory apparatus;5;16
+surbahar;;5;16
+trompeta marina;Trompa marina|tromba marina;5;16
+Woofer;;5;16
+Rosegarden;;5;16
+rototom;;5;16
+Single coil;Pastilla de bobinado simple;5;16
+Tuba romana;Roman tuba;5;16
+Archilaúd;archlute;5;16
+Menat;;5;16
+haute-contre;;5;16
+Monitor in ear;in-ear monitor;5;16
+dulcémele de los Apalaches;Salterio de los Apalaches|Dulcimier de los Apalaches|Dulcimier|Dulcémele apalachiano|Appalachian dulcimer;5;16
+circuit bending;;5;16
+xun;;5;16
+caracol;caracola|conch;5;16
+Lira de Creta;Cretan lyra;5;15
+monitor de estudio;studio monitor;5;15
+guiterna;gittern;5;15
+Cümbüş;;5;15
+Tumbi;toombi;5;15
+Ajaeng;;5;15
+Begena;;5;15
+Sacudidor;shaker;5;15
+rudra vina;Vina rudra|Rudra veena;5;15
+Saxofón bajo;bass saxophone;5;15
+Llamado del contramaestre;Silbato marinero|Llamada del contramaestre|boatswain's call;5;15
+Regal;;5;15
+langeleik;;5;15
+Khartal;Khartals;5;15
+cornu;;5;15
+campana eléctrica de Oxford;pila seca de Clarendon|Oxford Electric Bell;5;15
+Huqin;;5;15
+Dungchen;;5;15
+Calíope;calliope;5;15
+chinesco;cresciente turco|cevgen|Turkish crescent;5;15
+Caxixi;Casisi|Cashishi;5;15
+Synclavier;;5;15
+Lijerica;;5;15
+dulcémel martillado;Dulcimer|hammered dulcimer;5;15
+flauta de sauce;willow flute;5;15
+Laúd-clave;Clave-laud|Lautenwerck;5;15
+tambor lapón;Sami drum;5;15
+mandoloncello;mandocello;5;15
+cuerno de caza;hunting horn;5;15
+Lap steel;guitarra hawaiana|lap steel guitar;5;14
+kakaki;;5;14
+Gaohu;;5;14
+Swarmandal;;5;14
+reco-reco;;5;14
+IPod Hi-Fi;;5;14
+batá;tambor batá|batá drum;5;14
+Sorna;;5;14
+disco de Euler;Euler's disk;5;14
+Suling;;5;14
+Trompo;Madera, plastico o cera|Reguilete;5;14
+Claviórgano;claviorgan;5;14
+Trompeta baja;bass trumpet;5;14
+Dramyin;;5;14
+Akai MPC;;5;14
+tonkori;;5;14
+thavil;;5;14
+lituus;;5;14
+guitalele;;5;14
+TuxGuitar;;5;14
+Pakhawaj;pakhavaj;5;14
+krar;;5;14
+Xaphoon;;5;14
+Guitarra con siete cordes;seven-string guitar;5;14
+Piano rectangular;Piano de mesa|Piano cuadrado|square piano;5;14
+Arco cantante;Plasma speaker;5;13
+Mustang Bass;Fender Mustang Bass;5;13
+Il Cannone;Il Cannone Guarnerius;5;13
+Megpoid;;5;13
+Welte-Mignon;;5;13
+viola da braccio;viola de brazo;5;13
+daegeum;Taegŭm|Daegum;5;13
+Gibson Thunderbird;;5;13
+Oboe pícolo;Musette|piccolo oboe;5;13
+Soprillo;;5;13
+Sabar;;5;13
+viola organista;;5;13
+terrañolas;bones;5;13
+Gottan;;5;13
+Chenda;;5;13
+tabla de lavar;;5;13
+Lira bizantina;Lyra bizantina|Kemange|Byzantine lyra;5;13
+Bajo sin trastes;Sin trastes|Bajo fretless|Bajo eléctrico fretless|Fretless|fretless bass;5;13
+sintetizador analógico;analog synthesizer;5;13
+Tom de piso;floor tom;5;13
+Continuum;Continuum Fingerboard;5;13
+se;;5;13
+Tombak;tonbak;5;13
+Museta de corte;musette de cour|Museta barroca;5;13
+Saraswati vina;;5;13
+Bulbul Tarang;;5;13
+qraqeb;krakebs;5;13
+Caja swell;swell;5;13
+Riq;;5;13
+Google Pixel Buds;;5;13
+Mridanga;Mridanga de barro|Mridanga bengalí|Mrdanga|Khol;5;13
+guitarra de jazz;jazz guitar;5;13
+Trompa natural;Trompa de caza|Corno natural|natural horn;5;13
+Piano eléctrico Wurlitzer;Wurlitzer|Wurlitzer Electric Piano;5;13
+cambio de tono;pitch shift;5;13
+lira da braccio;;5;13
+golpeo de techo;roof knocking;5;13
+Fuzzbox;Fuzz;5;13
+bazuca;bazooka;5;13
+disparo de advertencia;warning shot;5;13
+citola;citole;5;12
+saxofón sopranino;sopranino saxophone;5;12
+Geomungo;;5;12
+viola pomposa;violino pomposo;5;12
+binioù;binioù kozh|binioù bras;5;12
+tarareo;tararear|hum;5;12
+Ashiko;;5;12
+Fender Esquire;;5;12
+cortinilla;mark tree;5;12
+tambor tanque;steel tongue drum;5;12
+Mezclador de DJ;DJ mixer;5;12
+Wii Speak;;5;12
+launeddas;;5;12
+Igil;;5;12
+Pitido de censura;bleep censor;5;12
+claveciterio;Clavicytherium|Claviciterio;5;12
+Säckpipa;Swedish bagpipes;5;12
+Trompeta pocket;Trompeta de bolsillo|pocket trumpet;5;12
+Byzaanchy;;5;12
+chimta;;5;12
+semsemiah;simsimiyya;5;12
+guitarrón mexicano;;5;12
+saron;;5;12
+tsuur;;5;12
+Polyphon;;5;12
+tympanum;tympanon;5;11
+Campanas de la catedral de San Esteban de Viena;Pummerin;5;11
+Arghul;;5;11
+flauta de émbolo;slide whistle;5;11
+dotara;;5;11
+bandola;bandola oriental|bandola guayanesa|bandola central|bandola andina;5;11
+danso;;5;11
+vichitra vina;vina vicitra|vina vichitra|vicitra vina|vichitra veena;5;11
+dan moi;đàn môi;5;11
+tubax;;5;11
+teponaztli;teponaztle|teponaxtle|teponastle;5;11
+Gangsa;;5;11
+Goje;Goge;5;11
+Color Rojo;Red Color;5;11
+Kabosy;;5;11
+Pandura;;5;11
+clarín;cornetín;5;11
+Guitarra arpa;harp guitar;5;11
+Salpinx;;5;11
+Guitarra rusa;Russian guitar;5;11
+Çeng;;5;11
+Fender Starcaster;Starcaster;5;11
+disparo;gunshot;5;11
+Liuqin;;5;11
+Caxirola;;5;11
+Tarka;;5;11
+Corte;Cutaway;5;11
+Dunun;Dundun|Djun djun|Doundoun;5;11
+piano de juguete;toy piano;5;11
+Rackett;;5;11
+Gibson Moderne;;5;11
+arco de diddley;diddley bow;5;11
+Cigar box guitar;;5;11
+Perinola;Teetotum;5;11
+Impulse Tracker;;5;11
+guitarra inglesa;English guitar;5;11
+Renoise;;5;11
+Cricket;Clicker;5;11
+Beyblade;;5;11
+guitarra morisca;mandora;5;11
+teclado de órgano;organ manual;5;11
+Campana Tamil;Tamil bell;5;10
+Frankenstrat;;5;10
+sintetizador modular;modular synthesizer;5;10
+Angélica;angélique;5;10
+Mizwad;;5;10
+trompeta de varas;slide trumpet;5;10
+Music Man Stingray;;5;10
+Campana del Rey Seongdeok;Bell of King Seongdeok;5;10
+repinique;;5;10
+Stradivarius Barjansky;Stradivari Barjansky|Barjansky Stradivarius;5;10
+pinkillo;talka|pinquillo|pinkuyo|pinkullo|pinkiyo|pinkillu;5;10
+surshringar;sursingar;5;10
+chitarra battente;;5;10
+Huevo del Kremlin;Moscow Kremlin;5;10
+Reactable;;5;10
+bajo profundo;basso profondo;5;10
+fūrin;;5;10
+cuerda de piano;piano wire;5;10
+clavioline;;5;10
+Tambor akan;Akan Drum;5;10
+trutruca;trutruka;5;10
+Teclado Jankó;Piano Jankó|Jankó keyboard;5;10
+Ardin;;5;10
+Tambor de cuerdas;Psalterium;5;10
+E bow;;5;10
+Chitra vina;gottuvadhyam;5;10
+Fender Bass VI;;5;10
+epinete;epinette des Vosges;5;10
+Epiphone Casino;Epiphone E230TD Casino;5;10
+guacharaca;;5;10
+Hydrogen;;5;10
+runrún;buzzer;5;10
+hummel;;5;10
+Sasando;;5;10
+Inanga;;5;10
+jarana jarocha;mangoniada|jarana mosquito;5;10
+langspil;;5;10
+Ibanez Tube Screamer;;5;10
+flabiol;;5;10
+shvi;;5;10
+bucium;;5;10
+xalam;;5;10
+buzuki irlandés;Irish bouzouki;5;10
+Guitarra archtop;archtop guitar;5;9
+Servais Stradivarius;;5;9
+Bachi;;5;9
+piano silencioso;silent piano;5;9
+Timbal bahiano;timbau;5;9
+ARP String Ensemble;;5;9
+Oboe bajo;Oboe barítono|bass oboe;5;9
+Chitarrone;;5;9
+Sosso-Bala;;5;9
+Jackson Kelly;;5;9
+Taepyeongso;;5;9
+Sambuca;;5;9
+Violino Piccolo;;5;9
+erke;Quepa|Erque;5;9
+Octoban;Octaban;5;9
+Lucille;;5;9
+Gibson Marauder;;5;9
+Cuerda simpática;Cuerdas simpáticas|Cuerdas simpatéticas|sympathetic string;5;9
+Torban;;5;9
+Harpejji;;5;9
+Flautas paleolíticas;bone flute;5;9
+Hne;;5;9
+violín de clavos;;5;9
+Low Whistle;;5;9
+clarinete contrabajo;contrabass clarinet;5;9
+Chamberlin;;5;9
+Aro pandereta;pandereta sin parche|headless tambourine;5;9
+Kashaka;;5;9
+Stradivarius El Mesías;Messiah Stradivarius;5;9
+LinnDrum;;5;9
+Stradivarius Lady Blunt;Lady Blunt Stradivarius;5;9
+Sopilka;;5;9
+mijwiz;;5;9
+contrabajo eléctrico;EUB|electric double bass;5;9
+Fender Telecaster Bass;;5;9
+Groovebox;groove machine;5;9
+bandora;pandora|baldosa;5;9
+Ghumot;;5;9
+Campanas de Balangiga;Balangiga bells;5;9
+Campana de Quersoneso;Bell of Chersonesos;5;9
+flauta de bambú;bamboo flute;5;9
+Panarmónico;Panharmonikon|Panharmonicon|Panarmonicón;5;9
+orpharion;Orfarión;5;9
+rasgueado;;5;9
+Sintetizador analógico virtual;analog modeling synthesizer;5;9
+laouto;;5;9
+Anandalahari;;5;9
+Clavinova;;5;9
+Blackie;;5;9
+Jackson Rhoads;;5;9
+Fender Coronado;;5;9
+Bajo de cofre de té;washtub bass;5;9
+campanilla litúrgica;campanilla de altar|carrillón litúrgico|carrillón de mano litúrgico|campana de misa|altar bell;5;9
+Tovshuur;topshur|tobshuur;5;9
+disparo accidental;unintentional discharge;5;9
+Gackpoid;;5;9
+gemscorno;gemshorn;5;8
+Xaenorfica;bowed clavier;5;8
+SynthAxe;;5;8
+Klapotetz;klopotec;5;8
+Violonchelo eléctrico;Electric cello;5;8
+Tantan;Tamtan;5;8
+timbila;chopi timbila;5;8
+Tbilat;;5;8
+Doshpuluur;;5;8
+guitarra laúd;laúd guitarra|lute guitar;5;8
+añafil;buisine;5;8
+Big Muff;;5;8
+PPG Wave;;5;8
+Egg shaker;;5;8
+Kōauau;;5;8
+UPIC;;5;8
+Kebero;;5;8
+Campana Coreana de la Amistad;Korean Bell of Friendship;5;8
+acordeones cromáticos de botones;acordeón cromatico|chromatic button accordion;5;8
+spinto;;5;8
+torupill;;5;8
+Campana de Sangwonsa;Bell of Sangwonsa;5;8
+tambor de copa;;5;8
+nebel;nevel|nabla;5;8
+Karátalas;Kártalos|Kartala;5;8
+mohan vina;Mohan veena;5;8
+Violoncello da spalla;cello da spalla;5;8
+Rathaus-Glockenspiel;;5;8
+Royal Drummers of Burundi;;5;8
+Trompeta de llaves;keyed trumpet;5;8
+Fou;;5;8
+Silbato azteca de la muerte;Silbato de la muerte azteca|Ehecachichtli|Aztec death whistle;5;8
+Bianqing;;5;8
+workstation;music workstation;5;8
+ryuteki;;5;8
+Scream Tracker;;5;8
+BandLab;;5;8
+ProTracker;;5;8
+viola profonda;;5;8
+Rauschpfeife;;5;8
+Chanza;shaanza|chanzy|chanz;5;8
+Eurorack;;5;8

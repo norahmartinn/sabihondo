@@ -1,0 +1,173 @@
+respuesta;alias;nivel;orden_a_mano
+natación;nadar;1;1000000000
+atletismo;correr|running;1;999999999
+ciclismo;bici|bicicleta;1;999999998
+boxeo;;1;999999997
+judo;;1;999999996
+kárate;;1;999999995
+taekwondo;;1;999999994
+esgrima;;1;999999993
+gimnasia;gimnasia rítmica|gimnasia artística;1;999999992
+surf;;1;999999991
+esquí;esquiar;1;999999990
+escalada;;1;999999989
+halterofilia;pesas;1;999999988
+remo;;1;999999987
+piragüismo;kayak|canoa;1;999999986
+equitación;hípica;1;999999985
+ajedrez;;1;999999984
+patinaje;patinaje sobre hielo|patinaje artístico;1;999999983
+hockey sobre hielo;;1;999999982
+bádminton;;1;999999981
+tiro con arco;;1;999999980
+triatlón;;1;999999979
+motociclismo;motos|MotoGP;1;999999978
+Fórmula 1;F1|automovilismo|carreras de coches;1;999999977
+lucha libre;lucha;1;999999976
+snowboard;;1;999999975
+maratón;;1;999999974
+buceo;submarinismo;1;999999973
+salto de trampolín;saltos;1;999999972
+vela;;1;999999971
+curling;;1;999999970
+dardos;;1;999999969
+crossfit;;2;1000000000
+yoga;;2;999999999
+pilates;;2;999999998
+zumba;;2;999999997
+spinning;;2;999999996
+MMA;artes marciales mixtas;2;999999995
+kickboxing;;2;999999994
+muay thai;;2;999999993
+jiu-jitsu;BJJ;2;999999992
+sumo;;2;999999991
+capoeira;;2;999999990
+parkour;;2;999999989
+skate;skateboard;2;999999988
+BMX;;2;999999987
+windsurf;;2;999999986
+kitesurf;;2;999999985
+paddle surf;paddleboard|SUP;2;999999984
+esquí acuático;;2;999999983
+wakeboard;;2;999999982
+rafting;;2;999999981
+barranquismo;;2;999999980
+alpinismo;montañismo;2;999999979
+senderismo;;2;999999978
+trail running;trail;2;999999977
+orientación;;2;999999976
+esquí de fondo;;2;999999975
+biatlón;;2;999999974
+bobsleigh;;2;999999973
+skeleton;;2;999999972
+luge;;2;999999971
+salto de esquí;;2;999999970
+patinaje de velocidad;;2;999999969
+tiro olímpico;tiro;2;999999968
+pentatlón moderno;;2;999999967
+decatlón;;2;999999966
+heptatlón;;2;999999965
+salto de longitud;;2;999999964
+salto de altura;;2;999999963
+salto con pértiga;;2;999999962
+lanzamiento de peso;lanzamiento de jabalina|lanzamiento de disco|lanzamiento de martillo;2;999999961
+hockey hielo;;2;999999960
+natación sincronizada;natación artística;2;999999959
+frisbee;ultimate|ultimate frisbee;3;1000000000
+disc golf;;3;999999999
+hockey sobre patines;;3;999999998
+shuffleboard;;3;999999997
+tiro al plato;;3;999999996
+caza;;3;999999995
+pesca;;3;999999994
+carreras de caballos;;3;999999993
+tirolina;;3;999999992
+puenting;;3;999999991
+paracaidismo;;3;999999990
+parapente;;3;999999989
+ala delta;;3;999999988
+salto base;;3;999999987
+motocross;;3;999999986
+rally;;3;999999985
+karting;;3;999999984
+triatlón cross;;3;999999983
+duatlón;;3;999999982
+Ironman;;3;999999981
+apnea;;3;999999980
+natación en aguas abiertas;;3;999999979
+waterski;;3;999999978
+calistenia;;3;999999977
+culturismo;;3;999999976
+powerlifting;;3;999999975
+strongman;;3;999999974
+levantamiento de troncos;aizkolaris|aizkolari;3;999999973
+harri-jasotzaile;levantamiento de piedras;3;999999972
+sokatira;tira y afloja;3;999999971
+regatas de traineras;traineras;3;999999970
+lucha canaria;;3;999999969
+lucha leonesa;;3;999999968
+salto del pastor;;3;999999967
+carrera de sacos;;3;999999966
+ajedrez rápido;;3;999999965
+e-sports;videojuegos;3;999999964
+póker deportivo;;3;999999963
+kendo;;4;1000000000
+aikido;;4;999999999
+sambo;;4;999999998
+wushu;kung fu;4;999999997
+krav magá;;4;999999996
+savate;;4;999999995
+lucha grecorromana;;4;999999994
+hapkido;;4;999999993
+sanda;;4;999999992
+iaido;;4;999999991
+kyudo;;4;999999990
+naginata;;4;999999989
+tiro con ballesta;;4;999999988
+carreras de trineos;mushing;4;999999987
+skijoring;;4;999999986
+descenso de cañones;;4;999999985
+espeleología;;4;999999984
+slackline;;4;999999983
+trampolín;;4;999999982
+tumbling;;4;999999981
+acrobacias;;4;999999980
+salto ecuestre;;4;999999979
+doma clásica;doma;4;999999978
+raid hípico;;4;999999977
+concurso completo;;4;999999976
+carreras de galgos;;4;999999975
+colombicultura;;4;999999974
+colombofilia;;4;999999973
+tiro con honda;;4;999999972
+carrera de orientación;;4;999999971
+patinaje en línea;;4;999999970
+roller derby;;4;999999969
+longboard;;4;999999968
+freestyle;;4;999999967
+monopatín;;4;999999966
+esgrima histórica;;4;999999965
+tiro deportivo;;4;999999964
+sumo de robots;;5;1000000000
+lucha de brazos;pulso|armwrestling;5;999999999
+lucha de dedos;;5;999999998
+carrera de obstáculos;Spartan race;5;999999997
+pentatlón militar;;5;999999996
+salto de tronco;;5;999999995
+ringo;;5;999999994
+kabaddi;;5;999999993
+kho kho;;5;999999992
+buzkashi;;5;999999991
+toreo;;5;999999990
+recortes;;5;999999989
+concurso de cortadores;;5;999999988
+aizkora;;5;999999987
+segalaris;;5;999999986
+idi probak;arrastre de piedra con bueyes;5;999999985
+sokamuturra;;5;999999984
+txingas;txingak;5;999999983
+estropadak;;5;999999982
+levantamiento de carro;orga jokoa;5;999999981
+lasto altxatzea;;5;999999980
+lokotx biltzea;;5;999999979
+ajedrez boxeo;chessboxing;5;999999978

@@ -1,0 +1,101 @@
+respuesta;alias;nivel;orden_a_mano
+solo;café solo|espresso|expreso|exprés;1;1000000000
+cortado;café cortado;1;999999999
+con leche;café con leche;1;999999998
+americano;café americano;1;999999997
+capuchino;cappuccino|capuccino;1;999999996
+descafeinado;descafeinado de máquina|descafeinado de sobre|deca;1;999999995
+bombón;café bombón;1;999999994
+latte;café latte|caffè latte;1;999999993
+carajillo;;1;999999992
+frappé;frapé|frappuccino;1;999999991
+con hielo;café con hielo;1;999999990
+macchiato;latte macchiato|café macchiato|manchado;2;1000000000
+mocha;moka|café moca|mocca;2;999999999
+irlandés;café irlandés|irish coffee;2;999999998
+cold brew;;2;999999997
+flat white;;2;999999996
+ristretto;;2;999999995
+lungo;largo;2;999999994
+doble;café doble|doppio;2;999999993
+leche y leche;café leche y leche;2;999999992
+vienés;café vienés;2;999999991
+nube;leche manchada|manchado de café;2;999999990
+instantáneo;soluble|café soluble|Nescafé;2;999999989
+iced latte;latte frío;2;999999988
+caramel macchiato;;2;999999987
+de puchero;café de puchero;2;999999986
+de olla;café de olla;2;999999985
+turco;café turco;2;999999984
+frappuccino de caramelo;;2;999999983
+affogato;;3;1000000000
+cortado condensado;cortado de leche condensada|cortado con leche condensada;3;999999999
+belmonte;café belmonte;3;999999998
+asiático;café asiático;3;999999997
+trifásico;;3;999999996
+sombra;café sombra;3;999999995
+mitad;café mitad;3;999999994
+café del tiempo;del tiempo;3;999999993
+barraquito;barraquito canario|zaperoco;3;999999992
+blanco y negro;café blanco y negro;3;999999991
+griego;café griego;3;999999990
+cubano;café cubano;3;999999989
+vietnamita;café vietnamita;3;999999988
+dalgona;café dalgona;3;999999987
+café con sal;;3;999999986
+granizado de café;granizado;3;999999985
+shakerato;;3;999999984
+ice coffee;;3;999999983
+pumpkin spice latte;pumpkin latte;3;999999982
+chai latte;dirty chai;3;999999981
+café bombón helado;;3;999999980
+cortado largo;;3;999999979
+cortado corto;;3;999999978
+cafecito;;4;1000000000
+colombiano;café colombiano;4;999999999
+café brasileño;;4;999999998
+arábica;;4;999999997
+robusta;;4;999999996
+café de especialidad;;4;999999995
+V60;pour over|café de filtro|filtro;4;999999994
+Chemex;;4;999999993
+AeroPress;;4;999999992
+cafetera italiana;moka italiana;4;999999991
+prensa francesa;french press;4;999999990
+café de cápsula;cápsula;4;999999989
+ristretto bianco;;4;999999988
+cortadito;;4;999999987
+lágrima;café lágrima;4;999999986
+flat white de avena;;4;999999985
+café con leche de avena;;4;999999984
+red eye;;4;999999983
+black eye;;4;999999982
+cappuccino seco;;4;999999981
+cappuccino húmedo;;4;999999980
+marocchino;;4;999999979
+bicerin;;4;999999978
+café corretto;corretto;4;999999977
+kopi luwak;café de civeta;5;1000000000
+café de Jamaica Blue Mountain;Blue Mountain;5;999999999
+café de Kona;;5;999999998
+café geisha;;5;999999997
+café etíope;Yirgacheffe;5;999999996
+café de Turquía;;5;999999995
+café carioca;;5;999999994
+piccolo;;5;999999993
+cortado gibraltar;gibraltar;5;999999992
+cortado de Málaga;;5;999999991
+mitad Málaga;;5;999999990
+sombra Málaga;;5;999999989
+solo corto;;5;999999988
+largo de café;;5;999999987
+semilargo;;5;999999986
+entrecorto;;5;999999985
+cafè amb llet;;5;999999984
+tallat;;5;999999983
+café escocés;;5;999999982
+café de Valencia;;5;999999981
+café mazagran;mazagrán;5;999999980
+einspänner;;5;999999979
+café au lait;au lait;5;999999978
+café cortado en vaso;;5;999999977

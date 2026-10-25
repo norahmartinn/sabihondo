@@ -1,0 +1,160 @@
+respuesta;alias;nivel;orden_a_mano
+tomate;tomates;1;1000000000
+lechuga;lechugas;1;999999999
+zanahoria;zanahorias;1;999999998
+patata;patatas|papa|papas;1;999999997
+cebolla;cebollas;1;999999996
+pimiento;pimientos|pimiento rojo|pimiento verde;1;999999995
+pepino;pepinos;1;999999994
+calabacín;calabacines;1;999999993
+berenjena;berenjenas;1;999999992
+brócoli;brécol;1;999999991
+espinaca;espinacas;1;999999990
+coliflor;;1;999999989
+ajo;ajos;1;999999988
+judía verde;judías verdes|judías|vainas;1;999999987
+guisante;guisantes|chícharos;1;999999986
+calabaza;calabazas|zapallo;1;999999985
+maíz;mazorca|choclo|elote;1;999999984
+champiñón;champiñones|setas;1;999999983
+puerro;puerros;2;1000000000
+apio;;2;999999999
+alcachofa;alcachofas;2;999999998
+espárrago;espárragos|espárragos trigueros|trigueros;2;999999997
+col;repollo;2;999999996
+lombarda;col lombarda;2;999999995
+coles de Bruselas;col de Bruselas;2;999999994
+rábano;rábanos;2;999999993
+remolacha;remolachas|betabel;2;999999992
+acelga;acelgas;2;999999991
+boniato;boniatos|batata;2;999999990
+haba;habas;2;999999989
+cebolleta;cebolletas|cebollino;2;999999988
+rúcula;;2;999999987
+canónigos;;2;999999986
+endivia;endibia|endivias;2;999999985
+escarola;;2;999999984
+kale;col rizada;2;999999983
+judía;;2;999999982
+garbanzo;garbanzos;2;999999981
+lenteja;lentejas;2;999999980
+alubia;alubias|frijol|frijoles;2;999999979
+pimiento de Padrón;pimientos de Padrón|padrón;2;999999978
+chile;guindilla|jalapeño;2;999999977
+aguacate;;2;999999976
+nabo;nabos;2;999999975
+cardo;;2;999999974
+borraja;;2;999999973
+okra;;2;999999971
+chirivía;chirivías;3;1000000000
+colinabo;;3;999999999
+hinojo;;3;999999998
+alcaparra;alcaparras;3;999999997
+berro;berros;3;999999996
+achicoria;;3;999999995
+cogollo;cogollos|cogollos de Tudela;3;999999994
+lechuga iceberg;iceberg;3;999999993
+lechuga romana;romana;3;999999992
+hoja de roble;;3;999999991
+pak choi;bok choy;3;999999990
+col china;;3;999999989
+edamame;;3;999999988
+soja;;3;999999987
+brotes de soja;;3;999999986
+germinados;;3;999999985
+alfalfa;;3;999999984
+mostaza;;3;999999983
+jengibre;;3;999999982
+cúrcuma;;3;999999981
+chalota;chalotas|escalonia;3;999999980
+ajo tierno;ajetes;3;999999979
+ajo negro;;3;999999978
+cebolla morada;cebolla roja;3;999999977
+pimiento morrón;;3;999999976
+pimiento del piquillo;piquillo;3;999999975
+ñora;;3;999999974
+pimiento choricero;;3;999999973
+tirabeques;;3;999999972
+judía de Lima;;3;999999971
+calçot;calçots;3;999999970
+grelos;grelo;3;999999969
+nabizas;;3;999999968
+berza;;3;999999967
+romanesco;brócoli romanesco;3;999999966
+alcachofa de Jerusalén;tupinambo|pataca;3;999999965
+yuca;mandioca;3;999999964
+ñame;;3;999999963
+malanga;;3;999999962
+taro;;3;999999961
+jícama;;3;999999960
+rabanito;rabanitos;3;999999959
+pepinillo;pepinillos;3;999999958
+alcaparrón;;3;999999957
+cebolla dulce;;3;999999956
+tomate cherry;tomates cherry;3;999999955
+tomate raf;raf;3;999999954
+tomate de colgar;;3;999999953
+salsifí;;4;1000000000
+escorzonera;;4;999999999
+cardo borriquero;;4;999999998
+verdolaga;;4;999999997
+ortiga;;4;999999996
+diente de león;;4;999999995
+colleja;collejas;4;999999994
+espinaca de Nueva Zelanda;;4;999999993
+mizuna;;4;999999992
+tatsoi;;4;999999991
+komatsuna;;4;999999990
+daikon;;4;999999989
+wasabi;;4;999999988
+rábano picante;;4;999999987
+chayote;chayota;4;999999986
+calabaza bonetera;;4;999999985
+calabaza violín;;4;999999984
+calabaza moscada;;4;999999983
+calabaza espagueti;;4;999999982
+calabaza hokkaido;;4;999999981
+pimiento italiano;;4;999999980
+pimiento de Gernika;Gernika;4;999999979
+pimiento de Herbón;;4;999999978
+guindilla de Ibarra;piparras|piparra;4;999999977
+alubia de Tolosa;;4;999999976
+judión;judiones;4;999999975
+pochas;;4;999999974
+fabes;faba;4;999999973
+grelo gallego;;4;999999972
+cebolla de Fuentes;;4;999999971
+cebolla babosa;;4;999999970
+ajo morado;;4;999999969
+ajo de Las Pedroñeas;;4;999999968
+espárrago de Navarra;;4;999999967
+espárrago blanco;;4;999999966
+alcachofa de Benicarló;;4;999999965
+borraja de Aragón;;4;999999964
+berenjena de Almagro;;4;999999963
+arracacha;;5;1000000000
+oca;;5;999999999
+olluco;ulluco;5;999999998
+mashua;;5;999999997
+yacón;;5;999999996
+achira;;5;999999995
+chufa;;5;999999994
+salicornia;espárrago de mar;5;999999993
+hierba de los canónigos;;5;999999992
+verdolaga de mar;;5;999999991
+kohlrabi;;5;999999990
+crosnes;;5;999999989
+perejil tuberoso;;5;999999988
+raíz de loto;loto;5;999999987
+brote de bambú;bambú;5;999999986
+castaña de agua;;5;999999985
+nopal;;5;999999984
+flor de calabacín;;5;999999983
+ruibarbo;;5;999999982
+cardo de Ágreda;;5;999999981
+borraja silvestre;;5;999999980
+lechuga de mar;;5;999999979
+acelga roja;;5;999999978
+kailan;brócoli chino;5;999999977
+gai lan;;5;999999976
+choy sum;;5;999999975

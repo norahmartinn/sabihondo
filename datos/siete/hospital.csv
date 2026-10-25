@@ -1,0 +1,206 @@
+respuesta;alias;nivel;orden_a_mano
+médico;médicos|doctor|doctora;1;1000000000
+enfermera;enfermero|enfermeras;1;999999999
+camilla;camillas;1;999999998
+cama;camas|cama de hospital;1;999999997
+ambulancia;ambulancias;1;999999996
+quirófano;;1;999999995
+urgencias;sala de urgencias;1;999999994
+jeringuilla;jeringa|jeringas;1;999999993
+gotero;suero|vía;1;999999992
+mascarilla;mascarillas;1;999999991
+guantes;;1;999999990
+bata;batas;1;999999989
+paciente;pacientes|enfermos;1;999999988
+silla de ruedas;;1;999999987
+termómetro;;1;999999986
+tirita;tiritas|vendas|vendaje|venda;1;999999985
+estetoscopio;fonendo|fonendoscopio;1;999999984
+radiografía;rayos X|rayos equis;1;999999983
+escáner;TAC;1;999999982
+cirujano;cirujanos;1;999999981
+medicinas;medicamentos|pastillas;1;999999980
+sala de espera;;1;999999979
+desfibrilador;;1;999999978
+UCI;cuidados intensivos;2;1000000000
+celador;celadores;2;999999999
+anestesista;anestesia;2;999999998
+bisturí;;2;999999997
+quirófanos;;2;999999996
+maternidad;paritorio;2;999999995
+planta de pediatría;pediatría;2;999999994
+farmacia;;2;999999993
+laboratorio;;2;999999992
+análisis de sangre;análisis;2;999999991
+resonancia;resonancia magnética;2;999999990
+ecografía;ecógrafo;2;999999989
+electrocardiograma;ECG;2;999999988
+monitor;monitor de constantes;2;999999987
+respirador;ventilador;2;999999986
+oxígeno;bombona de oxígeno;2;999999985
+sonda;;2;999999984
+catéter;;2;999999983
+escayola;yeso;2;999999982
+muletas;muleta;2;999999981
+pulsera de identificación;pulsera;2;999999980
+historia clínica;historial;2;999999979
+cafetería;;2;999999978
+máquina expendedora;máquina de café;2;999999977
+visitas;;2;999999976
+capilla;;2;999999975
+ascensor;;2;999999974
+helipuerto;;2;999999973
+recepción;admisión;2;999999972
+mostrador;;2;999999971
+cortinas;;2;999999970
+cuña;orinal;2;999999969
+pijama;pijama de hospital;2;999999968
+comida de hospital;;2;999999967
+bandeja;;2;999999966
+sala de rayos;;2;999999965
+unidad de quemados;;2;999999964
+oncología;;2;999999963
+cardiología;;2;999999962
+traumatología;;2;999999961
+neonatos;incubadora;2;999999960
+morgue;depósito de cadáveres|tanatorio;2;999999959
+banco de sangre;;2;999999958
+donación de sangre;;2;999999957
+análisis de orina;;2;999999956
+tensiómetro;tensión|toma de tensión;2;999999955
+pulsioxímetro;;2;999999954
+puntos;grapas;2;999999953
+gasas;;2;999999952
+alcohol;;2;999999951
+betadine;yodo;2;999999950
+algodón;;2;999999949
+sangre;bolsas de sangre;2;100000000
+agujas;aguja;2;99999999
+bebés;bebé|recién nacidos;2;99999998
+residente;MIR;3;1000000000
+auxiliar;TCAE|auxiliar de enfermería;3;999999999
+técnico de rayos;;3;999999998
+matrona;;3;999999997
+fisioterapeuta;;3;999999996
+trabajadora social;;3;999999995
+voluntarios;;3;999999994
+capellán;;3;999999993
+guardia;médico de guardia;3;999999992
+triaje;;3;999999991
+box;;3;999999990
+observación;;3;999999989
+hospital de día;;3;999999988
+consultas externas;;3;999999987
+rehabilitación;;3;999999986
+diálisis;;3;999999985
+quimioterapia;;3;999999984
+radioterapia;;3;999999983
+endoscopia;;3;999999982
+colonoscopia;;3;999999981
+biopsia;;3;999999980
+autopsia;;3;999999979
+mesa de operaciones;;3;999999978
+lámpara quirúrgica;;3;999999977
+autoclave;;3;999999976
+esterilizador;;3;999999975
+pinzas;;3;999999974
+separadores;;3;999999973
+tijeras quirúrgicas;;3;999999972
+hilo de sutura;;3;999999970
+catéter central;;3;999999969
+bomba de infusión;;3;999999968
+carro de paradas;;3;999999967
+ambú;;3;999999966
+intubación;;3;999999965
+bolsa de orina;;3;999999964
+drenaje;;3;999999963
+colchón antiescaras;;3;999999962
+grúa;;3;999999961
+andador;;3;999999960
+pañales;;3;999999959
+sábanas;;3;999999958
+almohada;;3;999999957
+timbre;;3;999999956
+mando de la cama;;3;999999955
+televisión de pago;;3;999999954
+aparcamiento;;3;999999953
+tienda de regalos;floristería;3;999999952
+quiosco;;3;999999951
+globos;;3;999999950
+flores;;3;999999949
+uniforme;;3;999999948
+zuecos;;3;999999947
+pijama verde;;3;999999946
+gorro quirúrgico;;3;999999945
+calzas;;3;999999944
+gel hidroalcohólico;;3;999999943
+contenedor de residuos;;3;999999942
+jeringuilla de insulina;;3;999999941
+aspirador de secreciones;;4;1000000000
+pulsera de alergias;;4;999999999
+cuña sanitaria;;4;999999998
+botella de orina;;4;999999997
+palangana;;4;999999996
+batea;;4;999999995
+riñonera quirúrgica;;4;999999994
+depresor lingual;depresor;4;999999993
+otoscopio;;4;999999992
+oftalmoscopio;;4;999999991
+martillo de reflejos;;4;999999990
+laringoscopio;;4;999999989
+broncoscopio;;4;999999988
+electrobisturí;;4;999999987
+mesa de mayo;;4;999999986
+vitrina;;4;999999985
+carro de curas;;4;999999984
+nevera de vacunas;;4;999999983
+bolsa de sangre;;4;999999982
+plasma;;4;999999981
+transfusión;;4;999999980
+hemodiálisis;;4;999999979
+máquina de hemodiálisis;;4;999999978
+angiógrafo;;4;999999977
+acelerador lineal;;4;999999976
+mamógrafo;;4;999999975
+densitómetro;;4;999999974
+PET;;4;999999973
+gammagrafía;;4;999999972
+holter;;4;999999971
+ergometría;;4;999999970
+espirómetro;;4;999999969
+nebulizador;;4;999999968
+cámara hiperbárica;;4;999999967
+quirófano híbrido;;4;999999966
+robot Da Vinci;;4;999999965
+sala blanca;;4;999999964
+aislamiento;;4;999999963
+habitación de aislamiento;;4;999999962
+esclusa;;4;999999961
+lavamanos quirúrgico;;4;999999960
+capnógrafo;;5;1000000000
+oxímetro de pulso;;5;999999999
+bomba de jeringa;;5;999999998
+sistema de suero;;5;999999997
+llave de tres pasos;;5;999999996
+abbocath;;5;999999995
+palomilla;;5;999999994
+compresor;;5;999999993
+torniquete;;5;999999992
+lanceta;;5;999999991
+glucómetro;;5;999999990
+tira reactiva;;5;999999989
+cánula nasal;;5;999999988
+gafas nasales;;5;999999987
+mascarilla Venturi;;5;999999986
+reservorio;;5;999999985
+tubo endotraqueal;;5;999999984
+cánula de Guedel;;5;999999983
+mascarilla laríngea;;5;999999982
+sonda nasogástrica;;5;999999981
+sonda vesical;;5;999999980
+sonda Foley;;5;999999979
+bolsa de colostomía;;5;999999978
+pleur-evac;;5;999999977
+drenaje de Redon;;5;999999976
+ECMO;;5;999999975
+balón de contrapulsación;;5;999999974

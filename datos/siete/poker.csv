@@ -1,0 +1,63 @@
+respuesta;alias;nivel;orden_a_mano
+escalera de color;escalera|straight flush;1;1000000000
+póker;four of a kind|cuatro iguales;1;999999999
+full;full house;1;999999998
+color;flush;1;999999997
+trío;three of a kind;1;999999996
+pareja;par|pair;1;999999995
+doble pareja;dobles parejas|two pair;1;999999994
+escalera real;escalera real de color|royal flush;2;1000000000
+carta alta;high card;2;999999999
+all in;ir all in;2;999999998
+farol;bluff|farolear;2;999999997
+ciega;ciegas|ciega grande|ciega pequeña|big blind|small blind;2;999999996
+subir;raise;2;999999995
+igualar;call|ver;2;999999994
+retirarse;fold|tirarse;2;999999993
+pasar;check;2;999999992
+flop;;3;1000000000
+turn;;3;999999999
+river;;3;999999998
+re-raise;resubir;3;999999997
+proyecto de color;proyecto|draw;3;999999996
+escalera abierta;;3;999999995
+escalera interna;gutshot;3;999999994
+set;;3;999999993
+nuts;la mejor mano;3;999999992
+bote;pot;3;999999991
+ante;;3;999999990
+kicker;desempate;3;999999989
+póker de ases;;3;999999988
+repóker;;3;999999987
+escalera de colores;;3;999999986
+check-raise;;4;1000000000
+slowplay;;4;999999999
+donk bet;;4;999999998
+c-bet;continuation bet|apuesta de continuación;4;999999997
+overbet;;4;999999996
+squeeze;;4;999999995
+limp;;4;999999994
+3-bet;;4;999999993
+4-bet;;4;999999992
+open raise;;4;999999991
+straddle;;4;999999990
+freeroll;;4;999999989
+quinta;wheel;4;999999988
+rueda;;4;999999987
+broadway;;4;999999986
+trips;;4;999999985
+quads;;4;999999984
+boat;;4;999999983
+dead man's hand;mano del muerto;5;1000000000
+cooler;;5;999999999
+bad beat;mala suerte;5;999999998
+splash pot;;5;999999997
+chop;dividir el bote;5;999999996
+runner runner;;5;999999995
+backdoor;;5;999999994
+nut flush;;5;999999993
+overpair;;5;999999992
+underpair;;5;999999991
+set over set;;5;999999990
+scoop;;5;999999989
+kicker problem;;5;999999988

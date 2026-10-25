@@ -1,0 +1,166 @@
+respuesta;alias;nivel;orden_a_mano
+manzana;manzanas;1;1000000000
+plátano;plátanos|banana|banano;1;999999999
+naranja;naranjas;1;999999998
+fresa;fresas|fresón|fresones;1;999999997
+pera;peras;1;999999996
+uva;uvas;1;999999995
+sandía;sandías;1;999999994
+melón;melones;1;999999993
+piña;piñas|ananá;1;999999992
+mango;mangos;1;999999991
+kiwi;kiwis;1;999999990
+melocotón;melocotones|durazno;1;999999989
+cereza;cerezas;1;999999988
+limón;limones;1;999999987
+mandarina;mandarinas;1;999999986
+frambuesa;frambuesas;1;999999985
+arándano;arándanos;1;999999984
+ciruela;ciruelas;1;999999983
+higo;higos;1;999999982
+aguacate;aguacates|palta;1;999999981
+coco;cocos;2;1000000000
+papaya;papayas;2;999999999
+granada;granadas;2;999999998
+mora;moras;2;999999997
+nectarina;nectarinas;2;999999996
+albaricoque;albaricoques|damasco|chabacano;2;999999995
+pomelo;pomelos|toronja;2;999999994
+lima;limas;2;999999993
+maracuyá;fruta de la pasión|parchita;2;999999992
+caqui;caquis|kaki|persimón;2;999999991
+chirimoya;chirimoyas;2;999999990
+níspero;nísperos;2;999999989
+paraguayo;paraguayos|paraguaya;2;999999988
+frutos rojos;;2;999999987
+frutos del bosque;;2;999999986
+grosella;grosellas;2;999999985
+membrillo;;2;999999984
+dátil;dátiles;2;999999983
+tomate;tomates;2;999999982
+lichi;lichis|litchi;2;999999981
+guayaba;guayabas;2;999999980
+pitaya;pitahaya|fruta del dragón;2;999999979
+castaña;castañas;2;999999978
+aceituna;aceitunas|oliva;2;999999977
+carambola;carambolas;3;1000000000
+mangostán;;3;999999999
+rambután;;3;999999998
+kumquat;quinoto;3;999999997
+physalis;uchuva|aguaymanto;3;999999996
+plátano macho;;3;999999995
+banana de Canarias;plátano de Canarias;3;999999994
+guanábana;;3;999999993
+maracuyá amarillo;;3;999999992
+mandarina clementina;clementina|clementinas;3;999999991
+naranja sanguina;sanguina;3;999999990
+lima limón;;3;999999989
+membrillo fruta;;3;999999988
+endrina;endrinas;3;999999987
+madroño;madroños;3;999999986
+azufaifa;azufaifo|jínjol;3;999999985
+serval;;3;999999984
+zarzamora;zarzamoras;3;999999983
+kiwano;melón cornudo;3;999999982
+tamarindo;;3;999999981
+granadilla;;3;999999980
+feijoa;;3;999999979
+cranberry;arándano rojo;3;999999978
+grosella negra;casis;3;999999977
+uva pasa;pasas;3;999999976
+ciruela pasa;;3;999999975
+higo chumbo;higos chumbos|tuna;3;999999974
+breva;brevas;3;999999973
+yuzu;;3;999999972
+bergamota;;3;999999971
+cidra;;3;999999970
+pomelo rosa;;3;999999969
+nashi;pera nashi|pera asiática;3;999999968
+níspero japonés;;3;999999967
+mirtilo;;3;999999966
+saúco;bayas de saúco;3;999999965
+acerola;;3;999999964
+açaí;;3;999999963
+goji;bayas de goji;3;999999962
+durián;;3;999999961
+yaca;jackfruit;3;999999960
+fruta del pan;;3;999999959
+longan;;3;999999958
+pepino dulce;pepino melón;3;999999957
+nuez;;3;999999956
+almendra;;3;999999955
+avellana;;3;999999954
+piñón;;3;999999953
+cupuaçu;;4;1000000000
+jaboticaba;;4;999999999
+salak;fruta serpiente;4;999999998
+noni;;4;999999997
+mamey;;4;999999996
+zapote;;4;999999995
+chicozapote;;4;999999994
+lúcuma;;4;999999993
+pitanga;;4;999999992
+cherimoya;;4;999999991
+marañón;anacardo|cajú;4;999999990
+pomarrosa;;4;999999989
+carambolo;;4;999999988
+tuna roja;;4;999999987
+nance;;4;999999986
+jobo;;4;999999985
+mamoncillo;quenepa;4;999999984
+ciruela claudia;claudia|reina claudia;4;999999983
+ciruela amarilla;;4;999999982
+mirabel;mirabelle;4;999999981
+alquequenje;;4;999999980
+uva espina;;4;999999979
+frambuesa negra;;4;999999978
+mora de los pantanos;;4;999999977
+grosella espinosa;;4;999999976
+guinda;guindas;4;999999975
+picota;picotas;4;999999974
+cereza del Jerte;Jerte;4;999999973
+melón piel de sapo;piel de sapo;4;999999972
+melón cantalupo;cantalupo;4;999999971
+melón galia;;4;999999970
+sandía sin pepitas;;4;999999969
+pera conferencia;conferencia;4;999999968
+pera ercolini;;4;999999967
+manzana golden;golden;4;999999966
+manzana fuji;fuji;4;999999965
+manzana granny smith;granny smith;4;999999964
+manzana reineta;reineta;4;999999963
+manzana pink lady;pink lady;4;999999962
+naranja navel;;4;999999961
+mandarina satsuma;satsuma;4;999999960
+arazá;;5;1000000000
+bacuri;;5;999999999
+camu camu;;5;999999998
+pequi;;5;999999997
+buriti;;5;999999996
+rollinia;biribá;5;999999995
+santol;;5;999999994
+langsat;;5;999999993
+mabolo;;5;999999992
+sapodilla;;5;999999991
+ilama;;5;999999990
+matoa;;5;999999989
+safou;;5;999999988
+marula;;5;999999987
+kei apple;;5;999999986
+cherimoya de árbol;;5;999999985
+sapote negro;zapote negro;5;999999984
+akebia;;5;999999983
+pawpaw;asimina;5;999999982
+miracle fruit;fruta milagrosa;5;999999981
+horned melon;;5;999999980
+jambolán;;5;999999979
+ume;;5;999999978
+carissa;;5;999999977
+caimito;;5;999999976
+guaraná;;5;999999975
+bilimbi;;5;999999974
+cloudberry;;5;999999973
+lingonberry;arándano rojo europeo;5;999999972
+aronia;;5;999999971
+haskap;;5;999999970
+salal;;5;999999969

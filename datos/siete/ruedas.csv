@@ -1,0 +1,170 @@
+respuesta;alias;nivel;orden_a_mano
+coche;automóvil|carro|auto;1;1000000000
+bicicleta;bici;1;999999999
+moto;motocicleta;1;999999998
+camión;;1;999999997
+autobús;bus|guagua;1;999999996
+tren;;1;999999995
+patinete;patinete eléctrico|patín;1;999999994
+monopatín;skate|skateboard;1;999999993
+carrito de la compra;carro de la compra|carrito;1;999999992
+silla de ruedas;;1;999999991
+avión;;1;999999990
+tractor;;1;999999989
+furgoneta;furgo;1;999999988
+triciclo;;1;999999987
+carretilla;;1;999999986
+maleta;maleta con ruedas|trolley;1;999999985
+patines;patines en línea;1;999999984
+cochecito;carrito de bebé|silla de paseo|carricoche|sillita de bebé|sillita|silla de bebé;1;999999983
+taxi;;1;999999982
+ambulancia;;1;999999981
+camión de bomberos;;2;1000000000
+coche de policía;;2;999999999
+caravana;autocaravana;2;999999998
+quad;;2;999999997
+tranvía;;2;999999996
+metro;;2;999999995
+carroza;;2;999999994
+carruaje;coche de caballos;2;999999993
+grúa;;2;999999992
+excavadora;;2;999999991
+hormigonera;;2;999999990
+apisonadora;;2;999999989
+kart;go-kart;2;999999988
+coche teledirigido;;2;999999987
+silla de oficina;silla con ruedas;2;999999986
+carro de golf;buggy;2;999999985
+segway;;2;999999984
+hoverboard;;2;999999983
+monociclo;;2;999999982
+tándem;;2;999999981
+scooter;vespa|motillo;2;999999980
+ciclomotor;;2;999999979
+limusina;;2;999999978
+todoterreno;4x4;2;999999977
+deportivo;;2;999999976
+Fórmula 1;;2;999999975
+cosechadora;;2;999999974
+remolque;;2;999999973
+tren de aterrizaje;;2;999999972
+cama de hospital;camilla;2;999999971
+andador;;2;999999970
+mesa con ruedas;;2;999999969
+carrito del supermercado;;2;999999968
+rueda de hámster;;2;999999967
+noria;;2;999999966
+rueda de la fortuna;;2;999999965
+molino;;2;999999964
+carro de la limpieza;;2;999999963
+carrito de bebidas;;2;999999962
+autobús escolar;;2;999999961
+tanque;;2;999999960
+camioneta;;2;999999959
+carro de combate;;3;1000000000
+vagón;;3;999999999
+locomotora;;3;999999998
+vagoneta;;3;999999997
+carreta;;3;999999996
+cuadriga;;3;999999995
+carro romano;;3;999999994
+diligencia;;3;999999993
+trolebús;;3;999999992
+funicular;;3;999999991
+montaña rusa;vagones de la montaña rusa;3;999999990
+coche de choque;autos de choque|coches de choque;3;999999989
+tren de la bruja;;3;999999988
+carrito de helados;;3;999999987
+carrito de perritos;;3;999999986
+food truck;;3;999999985
+puesto ambulante;;3;999999984
+carro de la compra plegable;;3;999999983
+silla de ruedas eléctrica;;3;999999982
+scooter de movilidad;;3;999999981
+patinete de niños;;3;999999980
+correpasillos;;3;999999979
+bicicleta estática;;3;999999978
+bicicleta sin pedales;;3;999999977
+bici de equilibrio;;3;999999976
+rueda de molino;;3;999999975
+torno;;3;999999974
+polea;;3;999999973
+engranaje;;3;999999972
+ratón;;3;999999971
+rodillo;;3;999999970
+cortacésped;;3;999999969
+aspiradora robot;Roomba;3;999999968
+lavadora;;3;999999967
+carrito portabebés;;3;999999966
+perchero con ruedas;;3;999999965
+cuna con ruedas;;3;999999964
+piano de cola;;3;999999963
+cama nido;;3;999999962
+cajonera con ruedas;;3;999999961
+contenedor de basura;contenedor;3;999999960
+cubo de basura;;3;999999959
+carro de herramientas;;3;999999958
+transpalé;transpaleta;3;999999957
+carretilla elevadora;toro;3;999999956
+rover;rover de Marte|Curiosity|Perseverance;3;999999955
+velocípedo;;4;1000000000
+biciclo;;4;999999999
+draisiana;;4;999999998
+penny-farthing;;4;999999997
+sidecar;;4;999999996
+trike;;4;999999995
+chopper;;4;999999994
+rickshaw;tuk-tuk;4;999999993
+bicitaxi;;4;999999992
+autobús de dos pisos;;4;999999991
+autobús articulado;;4;999999990
+minibús;;4;999999989
+monster truck;;4;999999988
+dumper;;4;999999987
+motoniveladora;;4;999999986
+retroexcavadora;;4;999999985
+pala cargadora;;4;999999984
+camión cisterna;;4;999999983
+camión de la basura;;4;999999982
+barredora;;4;999999981
+quitanieves;;4;999999980
+autocar;;4;999999979
+coche cama;;4;999999978
+coche fúnebre;;4;999999977
+papamóvil;;4;999999976
+carro alegórico;;4;999999975
+carroza de cabalgata;;4;999999974
+vehículo lunar;;4;999999973
+maletín;;4;999999971
+mochila con ruedas;;4;999999970
+nevera con ruedas;;4;999999969
+barbacoa con ruedas;;4;999999968
+cubo de fregona;;4;999999967
+taburete con ruedas;;4;999999966
+carro de la compra de la abuela;;4;999999965
+giroscopio;;5;1000000000
+rueca;;5;999999999
+rueda hidráulica;;5;999999998
+noria de agua;;5;999999997
+aceña;;5;999999996
+molino de agua;;5;999999995
+carro de heno;;5;999999994
+carro de bueyes;;5;999999993
+galera;;5;999999992
+tartana;;5;999999991
+calesa;;5;999999990
+landó;;5;999999989
+berlina;;5;999999988
+cabriolé;;5;999999987
+tílburi;;5;999999986
+simón;;5;999999985
+birlocho;;5;999999984
+faetón;;5;999999983
+ómnibus;;5;999999982
+carricoche de caballos;;5;999999981
+cureña;;5;999999980
+cañón con ruedas;;5;999999979
+catapulta;;5;999999978
+ariete;;5;999999977
+torre de asedio;;5;999999976
+carro de guerra;;5;999999975

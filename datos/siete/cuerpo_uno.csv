@@ -1,0 +1,593 @@
+respuesta;alias;nivel;orden_a_mano
+el cerebro;encéfalo|cerebrum;1;1000000000
+la cabeza;;1;999999999
+el corazón;;1;999999998
+la boca;;1;999999997
+la nariz;;1;999999996
+la nuez;nuez de Adán|bocado de Adán;2;1000000000
+el ano;;2;999999999
+el culo;trasero|pompis|nalgas|glúteos;2;999999998
+el apéndice;;2;999999997
+la espalda;;2;999999996
+el ombligo;;2;999999995
+la vejiga;;2;999999994
+el pecho;tórax;2;999999993
+la barbilla;mentón;2;999999992
+la cara;rostro;2;999999991
+la frente;;2;999999990
+la vesícula;vesícula biliar;2;999999989
+el hígado;;2;999999988
+la mandíbula;maxilar inferior;2;999999987
+el cuello;;2;999999986
+el páncreas;;2;999999985
+los genitales;partes íntimas|partes|sexo;2;999999984
+la piel;;2;999999983
+el cráneo;;2;999999982
+la columna;columna vertebral|espina dorsal;2;999999981
+el estómago;barriga|tripa|panza;2;999999980
+la garganta;;2;999999979
+la lengua;;2;999999978
+el torso;tronco;2;999999977
+el útero;matriz;2;999999976
+el pene;polla|miembro;2;100000000
+la vagina;;2;99999999
+el abdomen;;2;99999998
+la aorta;arteria aorta;3;1000000000
+el cogote;occipucio|parte de atrás de la cabeza;3;999999999
+el tronco del encéfalo;tronco cerebral|tronco encefálico;3;999999998
+el puente de la nariz;puente nasal;3;999999997
+la raja del culo;hucha|raja;3;999999996
+el cerebelo;;3;999999995
+el cuello del útero;cuello uterino|cérvix;3;999999994
+el escote;canalillo;3;999999993
+el clítoris;;3;999999992
+el coxis;cóccix|rabadilla;3;999999991
+la entrepierna;;3;999999990
+la coronilla;;3;999999989
+el arco de Cupido;;3;999999988
+el diafragma;;3;999999987
+el duodeno;;3;999999986
+la epiglotis;;3;999999985
+el esófago;;3;999999984
+el prepucio;;3;999999983
+el frenillo;frenillo de la lengua|frenillo lingual;3;999999982
+la ingle;;3;999999981
+el himen;;3;999999980
+el hipotálamo;;3;999999979
+el tabique interventricular;;3;999999978
+el regazo;;3;999999977
+el intestino grueso;colon;3;999999976
+la laringe;;3;999999975
+la zona lumbar;lumbares|parte baja de la espalda;3;999999974
+el labio inferior;labio de abajo;3;999999973
+el bulbo raquídeo;médula oblonga;3;999999972
+la nuca;;3;999999971
+el tabique nasal;tabique;3;999999970
+el paladar;cielo de la boca;3;999999969
+la pelvis;;3;999999968
+el pericardio;;3;999999967
+el perineo;periné;3;999999966
+la faringe;;3;999999965
+el surco nasolabial;filtrum|surco subnasal|filtro labial;3;999999964
+la glándula pineal;epífisis;3;999999963
+la hipófisis;glándula pituitaria|pituitaria;3;999999962
+la próstata;;3;999999961
+el pubis;zona púbica;3;999999960
+el recto;;3;999999959
+la caja torácica;costillar;3;999999958
+el cuero cabelludo;;3;999999957
+el escroto;;3;999999956
+el esqueleto;;3;999999955
+el intestino delgado;;3;999999954
+el plexo solar;;3;999999953
+la médula espinal;médula;3;999999952
+el bazo;;3;999999951
+el esternón;;3;999999950
+el timo;;3;999999949
+la tiroides;glándula tiroides;3;999999948
+la tráquea;;3;999999947
+el labio superior;labio de arriba;3;999999946
+la uretra;;3;999999945
+la campanilla;úvula;3;999999944
+la vulva;;3;999999943
+la cintura;;3;999999942
+el intestino;tubo digestivo;3;100000000
+la aorta abdominal;;4;1000000000
+la cavidad abdominal;;4;999999999
+la vena hemiácigos accesoria;;4;999999998
+las adenoides;vegetaciones;4;999999997
+la ampolla de Vater;;4;999999996
+el canal anal;;4;999999995
+el ligamento anococcígeo;cuerpo anococcígeo;4;999999994
+la comisura anterior;;4;999999993
+la arteria comunicante anterior;;4;999999992
+la valva anterior de la válvula pulmonar;;4;999999991
+la fontanela anterior;fontanela|mollera;4;999999990
+el surco interventricular anterior;;4;999999989
+la vena interventricular anterior;;4;999999988
+la valva anterior de la tricúspide;;4;999999987
+el lóbulo anterior del cerebelo;;4;999999986
+el ligamento longitudinal anterior;;4;999999985
+la valva anterior de la mitral;;4;999999984
+la adenohipófisis;hipófisis anterior;4;999999983
+la arteria espinal anterior;;4;999999982
+el anillo aórtico;;4;999999981
+el cayado aórtico;arco aórtico|cayado de la aorta;4;999999980
+el orificio aórtico;;4;999999979
+la raíz aórtica;;4;999999978
+la válvula aórtica;;4;999999977
+la cortina mitroaórtica;;4;999999976
+la punta del corazón;ápex cardíaco|ápice del corazón;4;999999975
+la aracnoides;;4;999999974
+el tabique aracnoideo;;4;999999973
+la aorta ascendente;;4;999999972
+el colon ascendente;;4;999999971
+el atlas;C1|primera vértebra cervical;4;999999970
+la arteria del nodo auriculoventricular;;4;999999969
+el nodo auriculoventricular;nodo AV;4;999999968
+el tabique auriculoventricular;;4;999999967
+el esqueleto axial;;4;999999966
+el axis;C2|segunda vértebra cervical;4;999999965
+la vena ácigos;;4;999999964
+el haz de Bachmann;;4;999999963
+la base del corazón;;4;999999962
+la arteria basilar;;4;999999961
+el surco basilar;;4;999999960
+la bifurcación del tronco pulmonar;;4;999999959
+el trígono vesical;;4;999999958
+el cuerpo de la aurícula izquierda;;4;999999957
+el cuerpo de la aurícula derecha;;4;999999956
+el cuerpo del esternón;;4;999999955
+el cuerpo del cuerpo calloso;;4;999999954
+el cuerpo de la mandíbula;;4;999999953
+el tronco braquiocefálico;arteria braquiocefálica;4;999999952
+el área de Broca;;4;999999951
+la membrana broncopericárdica;;4;999999950
+el bulbo del pene;;4;999999949
+el haz de His;;4;999999948
+el cálamo escritorio;;4;999999947
+el cardias;;4;999999946
+el plexo cardíaco;;4;999999945
+el esqueleto cardíaco;esqueleto fibroso del corazón;4;999999944
+la carina;;4;999999943
+la cola de caballo;;4;999999942
+el núcleo lineal caudal;;4;999999941
+el istmo cavotricuspídeo;;4;999999940
+el cavum del velo interpuesto;;4;999999939
+el cavum de Verga;;4;999999938
+el ciego;;4;999999937
+el tronco celíaco;;4;999999936
+el conducto ependimario;canal central de la médula;4;999999935
+el cuerpo fibroso central;;4;999999934
+la sustancia gris central del rombencéfalo;;4;999999933
+el lóbulo central del cerebelo;;4;999999932
+la corteza cerebelosa;;4;999999931
+el acueducto de Silvio;acueducto cerebral;4;999999930
+la red de Chiari;;4;999999929
+la cisterna quiasmática;;4;999999928
+el círculo de Vieussens;;4;999999927
+el polígono de Willis;círculo de Willis;4;999999926
+la cisterna de la lámina terminal;;4;999999925
+la cisterna del quilo;;4;999999924
+la cisterna magna;;4;999999923
+el capuchón del clítoris;;4;999999922
+el clivus;;4;999999921
+el glomo coccígeo;;4;999999920
+la columela;;4;999999919
+la comisura del fórnix;;4;999999918
+el colédoco;conducto colédoco;4;999999917
+la arteria hepática común;;4;999999916
+el conducto hepático común;;4;999999915
+la confluencia de los senos;prensa de Herófilo;4;999999914
+la arteria del cono;;4;999999913
+el cono medular;;4;999999912
+la sutura coronal;;4;999999911
+el seno coronario;;4;999999910
+el orificio del seno coronario;;4;999999909
+el surco coronario;;4;999999908
+el cuerpo calloso;;4;999999907
+el cuerpo esponjoso;;4;999999906
+la cresta cumadina;;4;999999905
+la cavidad craneal;;4;999999904
+la lámina cribosa;;4;999999903
+el cartílago cricoides;cricoides;4;999999902
+la apófisis crista galli;crista galli;4;999999901
+la cresta supraventricular;;4;999999900
+la cresta terminal;;4;999999899
+la cruz del corazón;crux cordis;4;999999898
+el culmen;;4;999999897
+el conducto cístico;;4;999999896
+el dartos;;4;999999895
+el declive;;4;999999894
+la apófisis odontoides;diente del axis;4;999999893
+la aorta descendente;;4;999999892
+el colon descendente;;4;999999891
+el detrusor;músculo detrusor;4;999999890
+el diafragma selar;;4;999999889
+la cara diafragmática del corazón;;4;999999888
+el diencéfalo;;4;999999887
+el núcleo dorsal del rafe;;4;999999886
+la duramadre;;4;999999885
+el endocardio;;4;999999884
+el endometrio;;4;999999883
+el epicardio;;4;999999882
+el epigastrio;;4;999999881
+el epitálamo;;4;999999880
+el etmoides;hueso etmoides;4;999999879
+la cresta de Eustaquio;;4;999999878
+la válvula de Eustaquio;;4;999999877
+el esfínter anal externo;;4;999999876
+la protuberancia occipital externa;;4;999999875
+el esfínter uretral externo;;4;999999874
+el esqueleto facial;viscerocráneo;4;999999873
+el ligamento falciforme;;4;999999872
+la hoz del cerebelo;;4;999999871
+la hoz del cerebro;;4;999999870
+el pericardio fibroso;;4;999999869
+el filum terminal;;4;999999868
+el lóbulo floculonodular;;4;999999867
+el suelo de la boca;;4;999999866
+el pliegue de la vena cava izquierda;;4;999999865
+el folium del vermis;;4;999999864
+el agujero ciego de la lengua;;4;999999863
+el agujero magno;foramen magno|agujero occipital;4;999999862
+el fórceps mayor;;4;999999861
+el fórceps menor;;4;999999860
+el prosencéfalo;cerebro anterior;4;999999859
+el fórnix;trígono cerebral;4;999999858
+la fosa oval;;4;999999857
+el cuarto ventrículo;;4;999999856
+el frenillo del pene;;4;999999855
+el frenillo del velo;;4;999999854
+el hueso frontal;frontal;4;999999853
+la sutura frontonasal;;4;999999852
+el ganglio impar;;4;999999851
+el fondo del estómago;fundus gástrico;4;999999850
+la arteria gastroduodenal;;4;999999849
+la rodilla del cuerpo calloso;;4;999999848
+el entrecejo;glabela|ceño;4;999999847
+el glande;glande del pene;4;999999846
+el glande del clítoris;;4;999999845
+la glotis;;4;999999844
+la vena cardíaca mayor;;4;999999843
+la vena de Galeno;vena cerebral magna;4;999999842
+el epiplón mayor;omento mayor;4;999999841
+la comisura de Gudden;;4;999999840
+la comisura habenular;;4;999999839
+la vena hemiácigos;;4;999999838
+el ángulo hepático del colon;;4;999999837
+la vena porta;;4;999999836
+el rombencéfalo;cerebro posterior;4;999999835
+la fisura horizontal del cerebelo;;4;999999834
+la membrana hioglosa;;4;999999833
+el hioides;hueso hioides;4;999999832
+el hipogastrio;;4;999999831
+la válvula ileocecal;;4;999999830
+el íleon;;4;999999829
+el agujero incisivo;;4;999999828
+la papila incisiva;;4;999999827
+el indusium griseum;;4;999999826
+el borde inferior del corazón;;4;999999825
+el velo medular inferior;;4;999999824
+la arteria mesentérica inferior;;4;999999823
+la vena mesentérica inferior;;4;999999822
+el espacio piramidal inferior;;4;999999821
+el seno sagital inferior;;4;999999820
+la vena cava inferior;;4;999999819
+la pared inferior del ventrículo izquierdo;;4;999999818
+el receso infundibular;;4;999999817
+el tabique infundibular;;4;999999816
+el tabique interauricular;;4;999999815
+el surco interauricular;;4;999999814
+el núcleo interfascicular;;4;999999813
+la sutura intermaxilar;;4;999999812
+el esfínter anal interno;;4;999999811
+el esfínter uretral interno;;4;999999810
+la sutura internasal;;4;999999809
+la cisterna interpeduncular;;4;999999808
+la fosa interpeduncular;;4;999999807
+el núcleo interpeduncular;;4;999999806
+la adherencia intertalámica;masa intermedia;4;999999805
+el tubérculo intervenoso;;4;999999804
+el istmo de las fauces;;4;999999803
+el yeyuno;;4;999999802
+la escotadura yugular;horquilla del esternón;4;999999801
+la arteria de Kugel;;4;999999800
+el tubérculo del labio;;4;999999799
+la sutura lambdoidea;;4;999999798
+la lámina terminal;;4;999999797
+la laringofaringe;hipofaringe;4;999999796
+la arteria descendente anterior;;4;999999795
+el fascículo anterior izquierdo;;4;999999794
+la orejuela izquierda;;4;999999793
+el orificio auriculoventricular izquierdo;;4;999999792
+la aurícula izquierda;;4;999999791
+el borde izquierdo del corazón;;4;999999790
+la rama izquierda del haz de His;;4;999999789
+la arteria circunfleja;;4;999999788
+la arteria coronaria izquierda;;4;999999787
+la valva coronaria izquierda;;4;999999786
+el seno de Valsalva izquierdo;;4;999999785
+la valva izquierda de la válvula pulmonar;;4;999999784
+el trígono fibroso izquierdo;;4;999999783
+la arteria gástrica izquierda;;4;999999782
+el corazón izquierdo;;4;999999781
+la vena pulmonar inferior izquierda;;4;999999780
+la vena marginal izquierda;;4;999999779
+el fascículo posterior izquierdo;;4;999999778
+la arteria pulmonar izquierda;;4;999999777
+la cara pulmonar izquierda;;4;999999776
+el fascículo septal izquierdo;;4;999999775
+la vena pulmonar superior izquierda;;4;999999774
+el ventrículo izquierdo;;4;999999773
+el tracto de entrada del ventrículo izquierdo;;4;999999772
+el tracto de salida del ventrículo izquierdo;;4;999999771
+la pared del ventrículo izquierdo;;4;999999770
+el epiplón menor;omento menor;4;999999769
+el ligamento arterioso;;4;999999768
+el ligamento venoso;;4;999999767
+el limbo de la fosa oval;;4;999999766
+la línea alba;;4;999999765
+la aponeurosis lingual;;4;999999764
+el tabique lingual;;4;999999763
+la amígdala lingual;;4;999999762
+la língula del cerebelo;;4;999999761
+la cisura interhemisférica;fisura longitudinal;4;999999760
+el esfínter esofágico inferior;;4;999999759
+el frenillo del labio inferior;;4;999999758
+la articulación lumbosacra;;4;999999757
+la sínfisis mandibular;;4;999999756
+la articulación manubrioesternal;;4;999999755
+el manubrio;manubrio del esternón;4;999999754
+el agujero de Magendie;apertura media;4;999999753
+la articulación atloaxoidea media;;4;999999752
+la eminencia media;;4;999999751
+la sutura palatina media;;4;999999750
+el núcleo preóptico mediano;;4;999999749
+el núcleo del rafe medio;;4;999999748
+la arteria sacra media;;4;999999747
+la vena sacra media;;4;999999746
+el surco medio de la lengua;;4;999999745
+el ligamento umbilical medio;;4;999999744
+el mediastino;;4;999999743
+el tabique membranoso;;4;999999742
+el mesenterio;;4;999999741
+el metencéfalo;;4;999999740
+la sutura metópica;;4;999999739
+la comisura de Meynert;;4;999999738
+el mesencéfalo;cerebro medio;4;999999737
+el tegmento mesencefálico;;4;999999736
+la vena cardíaca media;;4;999999735
+el anillo mitral;;4;999999734
+la válvula mitral;mitral;4;999999733
+la banda moderadora;;4;999999732
+el monte de Venus;monte del pubis;4;999999731
+el tabique muscular;;4;999999730
+el miocardio;;4;999999729
+el nasion;;4;999999728
+la nasofaringe;rinofaringe|cavum;4;999999727
+el nódulo del vermis;;4;999999726
+la valva no coronaria;;4;999999725
+el seno no coronario;;4;999999724
+la escotadura de la punta del corazón;;4;999999723
+el ligamento nucal;;4;999999722
+el núcleo de Perlia;;4;999999721
+el núcleo reuniens;;4;999999720
+el óbex;;4;999999719
+el seno oblicuo del pericardio;;4;999999718
+la vena oblicua de la aurícula izquierda;vena de Marshall;4;999999717
+el occipital;hueso occipital;4;999999716
+el seno occipital;;4;999999715
+la desembocadura de la vena cava inferior;;4;999999714
+la desembocadura de la vena cava superior;;4;999999713
+el quiasma óptico;;4;999999712
+el receso óptico;;4;999999711
+la cavidad bucal propiamente dicha;;4;999999710
+la hendidura bucal;;4;999999709
+el vestíbulo de la boca;vestíbulo bucal;4;999999708
+el orbicular de los labios;;4;999999707
+la orofaringe;;4;999999706
+el agujero de Pacchioni;;4;999999705
+la aponeurosis palatina;;4;999999704
+el rafe palatino;;4;999999703
+el paleocerebelo;;4;999999702
+el conducto pancreático;conducto de Wirsung;4;999999701
+la banda parietal;;4;999999700
+el pericardio parietal;;4;999999699
+la pars intermedia;;4;999999698
+la cavidad pélvica;;4;999999697
+el suelo pélvico;;4;999999696
+el rafe del pene;;4;999999695
+el cuerpo del pene;;4;999999694
+la sustancia gris periacueductal;;4;999999693
+la cisterna pericallosa;;4;999999692
+la cavidad pericárdica;;4;999999691
+el cuerpo perineal;centro tendinoso del periné;4;999999690
+el rafe perineal;;4;999999689
+la cavidad peritoneal;;4;999999688
+el peritoneo;;4;999999687
+la piamadre;;4;999999686
+el receso pineal;;4;999999685
+el tallo hipofisario;;4;999999684
+la protuberancia;puente de Varolio|protuberancia anular;4;999999683
+la cisterna pontina;;4;999999682
+el tegmento pontino;;4;999999681
+la vena cardíaca posterior;;4;999999680
+la comisura posterior;;4;999999679
+la arteria descendente posterior;;4;999999678
+la fontanela posterior;;4;999999677
+el surco interventricular posterior;;4;999999676
+la valva posterior de la tricúspide;;4;999999675
+el lóbulo posterior del cerebelo;;4;999999674
+el ligamento longitudinal posterior;;4;999999673
+la valva posterior de la mitral;;4;999999672
+la neurohipófisis;hipófisis posterior;4;999999671
+la pared posterior del ventrículo izquierdo;;4;999999670
+la fisura posterolateral;;4;999999669
+la fisura primaria del cerebelo;;4;999999668
+la sínfisis del pubis;sínfisis púbica;4;999999667
+el anillo pulmonar;;4;999999666
+el orificio pulmonar;;4;999999665
+la raíz pulmonar;;4;999999664
+el tronco pulmonar;;4;999999663
+la válvula pulmonar;;4;999999662
+el antro pilórico;;4;999999661
+el esfínter pilórico;;4;999999660
+el píloro;;4;999999659
+la decusación de las pirámides;;4;999999658
+la pirámide del vermis;;4;999999657
+la cisterna cuadrigémina;;4;999999656
+la rama intermedia;;4;999999655
+el núcleo del rafe magno;;4;999999654
+el núcleo del rafe oscuro;;4;999999653
+el núcleo del rafe pálido;;4;999999652
+el núcleo del rafe del puente;;4;999999651
+el fondo de saco de Douglas;saco de Douglas;4;999999650
+el retroperitoneo;;4;999999649
+la fosa romboidea;;4;999999648
+el núcleo romboidal;;4;999999647
+la orejuela derecha;;4;999999646
+el orificio auriculoventricular derecho;;4;999999645
+la aurícula derecha;;4;999999644
+el borde derecho del corazón;;4;999999643
+la rama derecha del haz de His;;4;999999642
+la arteria coronaria derecha;;4;999999641
+la valva coronaria derecha;;4;999999640
+el seno de Valsalva derecho;;4;999999639
+la valva derecha de la válvula pulmonar;;4;999999638
+el corazón derecho;;4;999999637
+la vena pulmonar inferior derecha;;4;999999636
+el conducto linfático derecho;;4;999999635
+la arteria marginal derecha;;4;999999634
+la vena marginal derecha;;4;999999633
+la arteria pulmonar derecha;;4;999999632
+la cara pulmonar derecha;;4;999999631
+la vena pulmonar superior derecha;;4;999999630
+el ventrículo derecho;;4;999999629
+el ápex del ventrículo derecho;;4;999999628
+el tracto de entrada del ventrículo derecho;;4;999999627
+el tracto de salida del ventrículo derecho;;4;999999626
+la pared del ventrículo derecho;;4;999999625
+el núcleo lineal rostral del rafe;;4;999999624
+el pico del cuerpo calloso;;4;999999623
+el promontorio del sacro;;4;999999622
+la articulación sacrococcígea;;4;999999621
+el sacro;hueso sacro;4;999999620
+la sutura sagital;;4;999999619
+el tabique del escroto;;4;999999618
+la silla turca;;4;999999617
+la banda septal;;4;999999616
+el cartílago septal;;4;999999615
+la valva septal de la tricúspide;;4;999999614
+el septo pelúcido;septum pellucidum;4;999999613
+el pericardio seroso;;4;999999612
+el colon sigmoide;sigma;4;999999611
+la arteria del nodo sinusal;;4;999999610
+el nodo sinusal;nodo sinoauricular;4;999999609
+la unión sinotubular;;4;999999608
+el seno de las venas pulmonares;;4;999999607
+el seno de las venas cavas;sinus venarum;4;999999606
+la vena cardíaca menor;;4;999999605
+la sincondrosis esfenooccipital;;4;999999604
+la sutura esfenoetmoidal;;4;999999603
+el esfenoides;hueso esfenoides;4;999999602
+la sutura esfenovomeriana;;4;999999601
+el esfínter de Oddi;;4;999999600
+el canal raquídeo;canal vertebral|conducto raquídeo;4;999999599
+la arteria esplénica;;4;999999598
+el ángulo esplénico del colon;;4;999999597
+la vena esplénica;;4;999999596
+el esplenio del cuerpo calloso;;4;999999595
+el ángulo de Louis;ángulo esternal;4;999999594
+la cara esternocostal del corazón;;4;999999593
+el seno recto;;4;999999592
+la bolsa subeustaquiana;;4;999999591
+el espacio subaracnoideo;;4;999999590
+el órgano subcomisural;;4;999999589
+el espacio subdural;;4;999999588
+el subendocardio;;4;999999587
+el subepicardio;;4;999999586
+el órgano subfornical;;4;999999585
+el borde superior del corazón;;4;999999584
+el plexo hipogástrico superior;;4;999999583
+el velo medular superior;;4;999999582
+la arteria mesentérica superior;;4;999999581
+la vena mesentérica superior;;4;999999580
+el seno sagital superior;;4;999999579
+la vena cava superior;;4;999999578
+el receso suprapineal;;4;999999577
+el ligamento supraespinoso;;4;999999576
+la membrana tectoria;;4;999999575
+el techo del mesencéfalo;tectum;4;999999574
+el tendón del infundíbulo;;4;999999573
+el tendón de Todaro;;4;999999572
+la tienda del cerebelo;;4;999999571
+el surco terminal;;4;999999570
+la válvula de Tebesio;;4;999999569
+el tercer ventrículo;;4;999999568
+la aorta torácica;;4;999999567
+la cavidad torácica;;4;999999566
+el conducto torácico;;4;999999565
+la fascia toracolumbar;;4;999999564
+el haz de Thorel;;4;999999563
+el cartílago tiroides;;4;999999562
+el istmo de la tiroides;;4;999999561
+la punta de la nariz;;4;999999560
+el músculo aritenoideo transverso;;4;999999559
+la fisura cerebral transversa;;4;999999558
+el colon transverso;;4;999999557
+el ligamento transverso del atlas;;4;999999556
+el seno transverso del pericardio;;4;999999555
+el triángulo de Koch;;4;999999554
+el anillo tricuspídeo;;4;999999553
+la válvula tricúspide;tricúspide;4;999999552
+el tuber cinereum;;4;999999551
+el túber del vermis;;4;999999550
+la región tuberal del hipotálamo;;4;999999549
+la región umbilical;;4;999999548
+la parte alta de la espalda;;4;999999547
+el esfínter esofágico superior;;4;999999546
+el frenillo del labio superior;;4;999999545
+el meato urinario;orificio de la uretra;4;999999544
+la úvula del cerebelo;;4;999999543
+el orificio vaginal;;4;999999542
+la valécula del cerebelo;;4;999999541
+la válvula del agujero oval;;4;999999540
+la válvula de Vieussens;;4;999999539
+el órgano vascular de la lámina terminal;;4;999999538
+el velo interpuesto;;4;999999537
+el vermis;;4;999999536
+la vértebra prominente;C7|séptima vértebra cervical;4;999999535
+el vestíbulo de la válvula mitral;;4;999999534
+el vestíbulo de la válvula tricúspide;;4;999999533
+el vómer;;4;999999532
+la sutura vomeroetmoidal;;4;999999531
+el vórtice del corazón;;4;999999530
+el vestíbulo vulvar;;4;999999529
+el anillo de Waldeyer;;4;999999528
+el haz de Wenckebach;;4;999999527
+el área de Wernicke;;4;999999526
+la articulación xifoesternal;;4;999999525
+la apófisis xifoides;xifoides;4;999999524
+C3;tercera vértebra cervical;4;999999523
+C4;cuarta vértebra cervical;4;999999522
+C5;quinta vértebra cervical;4;999999521
+C6;sexta vértebra cervical;4;999999520
+T1;primera vértebra torácica|D1;4;999999519
+T2;segunda vértebra torácica|D2;4;999999518
+T3;tercera vértebra torácica|D3;4;999999517
+T4;cuarta vértebra torácica|D4;4;999999516
+T5;quinta vértebra torácica|D5;4;999999515
+T6;sexta vértebra torácica|D6;4;999999514
+T7;séptima vértebra torácica|D7;4;999999513
+T8;octava vértebra torácica|D8;4;999999512
+T9;novena vértebra torácica|D9;4;999999511
+T10;décima vértebra torácica|D10;4;999999510
+T11;undécima vértebra torácica|D11;4;999999509
+T12;duodécima vértebra torácica|D12;4;999999508
+L1;primera vértebra lumbar;4;999999507
+L2;segunda vértebra lumbar;4;999999506
+L3;tercera vértebra lumbar;4;999999505
+L4;cuarta vértebra lumbar;4;999999504
+L5;quinta vértebra lumbar;4;999999503
+el ligamento redondo del hígado;ligamento redondo;5;1000000000
