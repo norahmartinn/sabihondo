@@ -289,6 +289,46 @@ def olivia():
     orden = sorted(filas.values(), key=lambda f: -f[1])
     junta("olivia", por_puesto([(n, [], v) for n, v in orden], [5, 14, 28, 45]), "reproducciones_spotify")
 
+# números uno de Los 40 (1966 hasta hoy), sacados de los anexos de Wikipedia año por año
+LOS40_NIVEL = {
+1: "La camisa negra | Waka Waka (Esto es África) | Hips Don't Lie | Aserejé | Corazón partío | Despacito | Shape of You | Lo malo | Flowers | La tortura | Bad Romance | Umbrella | Tusa | Hello | Someone like You | Dance Monkey | Señorita | Havana | Uptown Funk | Blinding Lights | TQG | Despechá | Quevedo: BZRP Music Sessions, Vol. 52 | Shakira: BZRP Music Sessions, Vol. 53 | Thriller | Wannabe | Barbie Girl | Dragostea din tei | Livin' la vida loca | Wrecking Ball | Call Me Maybe | Loca | Me colé en una fiesta | Mambo nº5 (A Little Bit Of...) | La flaca | My Heart Will Go On | Eye of the Tiger | Never Gonna Give You Up | Lambada | I Will Always Love You | Zombie | Wonderwall | Smells Like Teen Spirit | Bailando | Chantaje | La bicicleta | Danza Kuduro | Happy | Mi gente | Viva la vida | Poker Face | I Gotta Feeling | Ella | Dime",
+2: "Clavaíto | Madrid City | Tacones rojos | Me enamora | Colgando en tus manos | Días de verano | Volverá | Zapatillas | Puedes contar conmigo | Rosas | Bulería | Ave María | Dígale | Un beso y una flor | Black Is Black | La, la, la | Like a Prayer | Vogue | Hung Up | ... Baby One More Time | Oops!... I Did It Again | Cómo pudiste hacerme esto a mí | A quién le importa | Cruz de navajas | Mujer contra mujer | Maldito duende | Pájaros de barro | Sin documentos | Moves like Jagger | Love the Way You Lie | On the Floor | Give Me Everything | Diamonds | Wake Me Up! | Lean On | Can't Stop the Feeling! | One Dance | Échame la culpa | La cintura | Girls Like You | A un paso de la luna | Tú me dejaste de querer | La bachata | La original | Beautiful Things | APT. | Golden | Espresso | Easy on Me | Si antes te hubiera conocido | Provenza | Hawái | Te felicito | As It Was | Gwendolyne | Live Is Life | Material Girl | We Are the World | The Final Countdown | La Bamba | Black or White | Heal the World | Mi música es tu voz | Europe's living a celebration | Malo | Color esperanza | Bring Me to Life | Crazy in Love | Hey ya! | Lose Yourself | Can't Get You Out of My Head | Suerte (Whenever, Wherever) | Bailamos | Corazón espinado | Rayando el sol | Como Camarón | La copa de la vida | Vivir sin aire | Blue (Da Ba Dee) | I Want It That Way | Ice Ice Baby | U Can't Touch This | Nothing Compares 2 U | Every breath you take | Moonlight Shadow | Radio Ga Ga | Another One Bites the Dust | Lobo hombre en París | El baile de los pajaritos | Hoy | Sin miedo a nada | Sin ti no soy nada | Tequila | Me gustas tú | Yo quiero bailar | All the Things She Said | Complicated | Sk8er Boi | Torn | Song 2 | Scatman | Lemon Tree | Killing Me Softly | What's Up? | Delilah | Strangers in the Night | Sugar, Sugar | Venus | Rivers of Babylon | You're the One That I Want | Hey Jude | All You Need Is Love | Borriquito | Libertad sin ira | Saca el güisky, Cheli | Un rayo de sol | Amor, amar | Eres tú | Volveré | Cuéntame al oído | Mi carro | Bailar pegados | Sobreviviré | Desátame | Entre dos tierras | Pisando fuerte | Te dejo Madrid | Ciega, sordomuda | Waiting for Tonight | Let's Get Loud | Bye Bye Bye | Yo te esperaré | Te he echado de menos | Tanto | Me porto bonito | Ojos así | La gozadera | Telepatía | Con altura | Yo perreo sola | Bichota",
+3: "Maquillaje | Bailando sin salir de casa | Venezia | Rita | Marta tiene un marcapasos | Devuélveme a mi chica | Sufre mamón | Voy a pasármelo bien | Lady Madrid | Corazón de tiza | 37 grados | La puerta de Alcalá | Hijo de la luna | Ay qué pesado | No hay marcha en Nueva York | El 7 de septiembre | Naturaleza muerta | Dalai Lama | Una rosa es una rosa | Cuéntame un cuento | 20 de abril | El ritmo del mar | Loco Mía | Mi novio es un zombi | Escuela de calor | Las chicas son guerreras | Bailando | Lady, Lady | Pánico en el Edén | Ni tú ni nadie | Amante bandido | Nena | Salamandra | Como un lobo | Si tú no vuelves | Te comería el corazón | La chispa adecuada | Iberia sumergida | La herida | Lo echamos a suertes | Amores de barra | Cuando los sapos bailen flamenco | Moja mi corazón | Depende | Agua | La Lola | Soñaré | París | La playa | Cuídate | Rosas | 20 de enero | Puedes contar conmigo | Son sueños | Eres un canalla | Insoportable | Ya nada volverá a ser como antes | La madre de José | Partiendo la pana | Cacho a cacho | Pastillas de freno | Vino tinto | Fuente de energía | Hablando en plata | Con la luna llena | Atrévete | Cuando tú vas | El aire que me das | Devuélveme el aire | Lloraré las penas | Oye el boom | Camina y ven | Y yo sigo aquí | Vive el verano | Baila Casanova | Toda | Moi... Lolita | Chihuahua | A Dios le pido | Torero | Te quiero | Livin' on the Edge | It's My Life | Don't Speak | Bittersweet Symphony | Candle in the Wind | Ironic | Back for Good | Gangnam Style | Somebody That I Used to Know | Get Lucky | Counting Stars | Thinking Out Loud | See You Again | Closer | Perfect | Bad Liar | Shallow | Stay | Heat Waves | Levitating | Cruel Summer | Birds of a Feather | Die With A Smile | Ordinary | Luna | La reina | Superestrella | La perla | The Fate of Ophelia | Lala | Greedy | El merengue | Sweet but Psycho | Lo siento | I Don't Care | Tabú | Something Just Like This | Cheap Thrills | Love Yourself | Sorry | Stitches | Faded | Hey Mama | Don't Stop the Music | Only Girl (In the World) | Alejandro | Meet Me Halfway | Feel This Moment | Blurred Lines | Locked Out of Heaven | All About That Bass | Love Me Like You Do | Kamikaze | Un violinista en tu tejado | Con solo una sonrisa | Silencio | En qué estrella estará | Labios compartidos | El secreto de las tortugas | ¡Eres tonto! | Quiero ser | Me Against the Music | Valió la pena | Dale, Don, dale | Obsesión (versión 2003) | Te quise tanto | Muévelo | Mi tierra | Otro día más sin verte | Livin' la vida loca | She Bangs | Rhythm Divine | Bailamos | La bomba | Gettin' Jiggy Wit It | Frozen | Everybody (Backstreet's Back) | MMMBop | Fastlove | Earth Song | You Are Not Alone | Scream | Children | Wonderwall | Spaceman | Losing my Mind",
+}
+LOS40_ALIAS = {"Quevedo: BZRP Music Sessions, Vol. 52": "Quédate, Quevedo BZRP, BZRP 52, Session 52, Music Sessions 52",
+    "Shakira: BZRP Music Sessions, Vol. 53": "BZRP 53, Shakira BZRP, Session 53, Music Sessions 53, Shakira Bzrp Music Sessions",
+    "Daddy Yankee: BZRP Music Sessions, Vol. 0/66": "BZRP 66, Daddy Yankee BZRP, Session 66, Music Sessions 66",
+    "Mambo nº5 (A Little Bit Of...)": "Mambo n.º 5, Mambo número 5, Mambo 5, Mambo no 5, Mambo No. 5, Mambo number 5, Mambo number five",
+    "Waka Waka (Esto es África)": "Waka Waka, Esto es África", "... Baby One More Time": "Baby One More Time",
+    "La, la, la": "Lalala, La la la", "Suerte (Whenever, Wherever)": "Suerte, Whenever Wherever",
+    "Europe's living a celebration": "Europe's Living a Celebration", "Saca el güisky, Cheli": "Saca el whisky Cheli, Saca el güisqui",
+    "TQG": "Te quedó grande", "APT.": "APT, Apartment", "Despechá": "Despecha", "Hey ya!": "Hey Ya", "The Final Countdown": "Final Countdown"}
+def los40():
+    fino = lambda t: re.sub(r"\s+", " ", t.replace("<nowiki>'</nowiki>", "'")).strip(" ,")
+    nivel = {}
+    for nv, texto in LOS40_NIVEL.items():
+        for t in texto.split(" | "): nivel.setdefault(clave(t.strip()), nv)
+    cola, vistos = [], set()
+    for t, artista, año, semanas in json.loads((D4 / "los40.json").read_text(encoding="utf-8")):
+        t = fino(t)
+        if not t or re.fullmatch(r"(OT \d.*|Max Mix.*|Master Mix|Acid Mix|The Multimix|Mejor \(Medley\))", t): continue
+        base = fino(re.sub(r"\s*\([^)]*\)", "", t))
+        al = [base] if base != t else []
+        al += [fino(x) for x in re.findall(r"\(([^)]*)\)", t) if not re.search(r"versi[oó]n|en |part|remix|vivo|medley|básico|\d{4}|feat", x, re.I) and len(clave(x)) > 3]
+        al += [fino(x) for x in t.split("/") if "/" in t and len(clave(x)) > 3]
+        al += [x.strip() for x in LOS40_ALIAS.get(t, "").split(",") if x.strip()]
+        nv = nivel.get(clave(t)) or nivel.get(clave(base))
+        if not nv: nv = 3 if año >= 2005 and semanas >= 2 else 4 if año >= 2005 or (año >= 1981 and semanas >= 2) or semanas >= 4 else 5
+        cola.append((t, al, nv, año * 10 + semanas))
+    # «Despacito (Remix)», «Volverá (2021)»…: si la base ya es otro número 1, va de alias suyo
+    titulos = {clave(c[0]): c for c in cola}
+    for c in list(cola):
+        b = clave(fino(re.sub(r"\s*\([^)]*\)", "", c[0])))
+        if b != clave(c[0]) and b in titulos: titulos[b][1].extend([c[0]] + c[1]); cola.remove(c)
+    sin = [t for nv, tx in LOS40_NIVEL.items() for t in tx.split(" | ") if not any(clave(t.strip()) in (clave(c[0]), *map(clave, c[1])) for c in cola)]
+    if sin: print("  ojo, a mano y no son número 1:", sin)
+    junta("los40", cola, "año_y_semanas")
+
 # ── palabras: lemario (el de la segunda tanda) y frecuencias de OpenSubtitles ──
 def _palabras():
     lema = {x.strip().lower() for x in open(FUENTES / "t2" / "palabras.txt", encoding="utf-8", errors="replace") if x.strip()}
@@ -412,7 +452,7 @@ def artistas(): print("artistas: se monta con artistas_spotify.py")
 TODAS = [frigo, refrescos, hacendado, eurovision, friends, phineas, circuitos_f1, provincias, francofonos, palabras_x, esdrujulas, filosofos,
          batallas, huesos, musculos, profesiones, idiomas_paises, peter_pan, pronombres, masas_agua, logias, inter, bimbo, nestle, apple,
          sabores_helado, dulces_navidad, bigbang, office, modern_family, sagas, escuderias, deportes_acuaticos, juegos_invierno, pueblos_madrid,
-         hispanohablantes, dieresis, latin, corrientes, hormonas, especialidades, formatos, cocacola, itis, unidades_tiempo, olivia, gases, minerales, halloween]
+         hispanohablantes, dieresis, latin, corrientes, hormonas, especialidades, formatos, cocacola, itis, unidades_tiempo, olivia, gases, minerales, halloween, los40]
 if __name__ == "__main__":
     pedidas = sys.argv[1:]
     for f in TODAS:

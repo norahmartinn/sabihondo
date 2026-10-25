@@ -156,6 +156,7 @@ PREGUNTAS = [
     ("Nombra un gas", "gases"),
     ("Nombra un mineral", "minerales"),
     ("Nombra algo típico de Halloween", "halloween"),
+    ("Nombra un número 1 de Los 40", "los40"),
 ]
 
 banco = RAIZ / "banco"
