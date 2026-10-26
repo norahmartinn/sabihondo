@@ -24,6 +24,7 @@
 .top-cerrar{font:inherit;font-size:22px;line-height:1;background:none;border:0;color:#fbf7f2;cursor:pointer;padding:4px 8px;margin:-4px -8px -4px 0}
 .top-centro{display:flex;flex-direction:column;gap:16px;align-items:center;min-height:0;overflow:auto}
 .top-titulo{margin:0;font-family:var(--disp);font-weight:400;font-size:clamp(38px,10.5vw,50px);line-height:1.06;text-wrap:balance}
+.top-dias{margin:-4px 0 0;font-size:18px;font-weight:800;color:#ee6fa3}
 .top-preg{margin:0;font-size:16.5px;color:#c9d3e2}
 .top-resp{margin:0;font-family:var(--disp);font-weight:400;font-style:italic;font-size:clamp(34px,9vw,44px);line-height:1.1;text-wrap:balance;overflow-wrap:anywhere}
 .top-resp.recta{font-style:normal}   /* un emoji no se inclina */
@@ -1058,9 +1059,8 @@ function portada(){
   const est = stats();
   const hecho = hechoHoy();
   profMeta = 0; fijaPines([]); pintaRecord();
-  if (hecho && hoyMadrid() === TOP_SEMANA.fecha && !guarda.get("top:"+TOP_SEMANA.fecha, false)){
-    guarda.set("top:"+TOP_SEMANA.fecha, true);
-    setTimeout(() => { if (pantalla === "portada") topSemana(true); }, 700);
+  if (hecho && topPendiente()){
+    setTimeout(() => { if (pantalla === "portada" && topPendiente()) topSemana(true); }, 700);
   }
 
   else if (quiereInstalar()){
@@ -1317,23 +1317,31 @@ function escalera(r){
 }
 
 /* ═════════ lo mejor de la semana ═════════
-   Las respuestas más graciosas (salen de la tabla sabihondo_fallos), una por pantalla. Se enseña una vez,
-   al acabar la partida diaria de TOP_SEMANA.fecha (o al entrar ese día, si ya la había acabado). Para otra semana: cambiar
-   la fecha y la lista. `de` (el apodo) es opcional.
+   Las respuestas más graciosas (salen de la tabla sabihondo_fallos), una por pantalla. A cada persona le sale sola
+   UNA vez, a pantalla completa, el primer día que juega desde TOP_SEMANA.fecha (al acabar la partida, o al entrar si ya
+   la había acabado), durante una semana; después solo con el botón «Ver las mejores respuestas de la semana».
+   Para otra semana: cambiar fecha, desde, hasta y la lista. `de` (el apodo) es opcional.
    Cuando alguien probó varias veces lo mismo, `r` es la lista de intentos en el orden en que los escribió.
    La última pantalla son los cinco que más metros han bajado entre `desde` y `hasta` (o `fecha`) (función sabihondo_semana de
    supabase/schema.sql); si la función no está o no hay nadie, esa pantalla no sale.
    Para verlo sin jugar: abrir la página con #top-semana al final de la dirección. */
-const TOP_SEMANA = {fecha:"2026-10-19", desde:"2026-10-12", hasta:"2026-10-18", lista:[
-  {q:"Nombra un sabor de pizza", r:"mortadela con trufa", de:"Adrián"},
-  {q:"Nombra un país que sea una isla", r:"epstein", de:"un invitado"},
-  {q:"Nombra un personaje de Shrek", r:"la vieja que vende al burro", de:"Rafel"},
-  {q:"Nombra un país que sea una isla", r:"mallorca", de:"Carla"},
-  {q:"Nombra un nombre compuesto", r:"Mike el jackson", de:"Rafel"},
-  {q:"Nombra una salsa", r:["lotus chocolate dubai", "llave acida"], de:"el goat y Gafas"},
-  {q:"Nombra una universidad de España", r:"universidad de la calle", de:"Gafas"}
+const TOP_SEMANA = {fecha:"2026-10-26", desde:"2026-10-19", hasta:"2026-10-25", lista:[
+  {q:"Nombra una unidad de tiempo", r:"bastante", de:"Gafas"},
+  {q:"Nombra un artista que haya ido a Eurovisión por España", r:"el del gallo", de:"el goat"},
+  {q:"Nombra una escudería de Fórmula 1", r:"caballo", de:"Maaarot"},
+  {q:"Nombra un personaje de The Big Bang Theory", r:"ya estamos con series", de:"Adrián"}
 ]};
+// pendiente = esta semana aún no le ha salido (se marca como vista en cuanto se abre, sola o con el botón)
+const topPendiente = () => { const h = hoyMadrid(), [Y,M,D] = TOP_SEMANA.fecha.split("-").map(Number);
+  const fin = new Date(Date.UTC(Y, M-1, D) + 6*864e5).toISOString().slice(0,10);
+  return h >= TOP_SEMANA.fecha && h <= fin && !guarda.get("top:"+TOP_SEMANA.fecha, false); };
+const MESES = ["enero","febrero","marzo","abril","mayo","junio","julio","agosto","septiembre","octubre","noviembre","diciembre"];
+function diasTop(){
+  const [, m1, d1] = TOP_SEMANA.desde.split("-").map(Number), [, m2, d2] = TOP_SEMANA.hasta.split("-").map(Number);
+  return m1 === m2 ? `del ${d1} al ${d2} de ${MESES[m2-1]}` : `del ${d1} de ${MESES[m1-1]} al ${d2} de ${MESES[m2-1]}`;
+}
 function topSemana(repaso){
+  guarda.set("top:"+TOP_SEMANA.fecha, true);
   const L = [{titulo:true}, ...TOP_SEMANA.lista], antes = document.activeElement;
   const velo = document.createElement("div");
   velo.className = "top-velo"; velo.setAttribute("role","dialog"); velo.setAttribute("aria-modal","true"); velo.setAttribute("aria-label","Lo mejor de la semana");
@@ -1342,7 +1350,7 @@ function topSemana(repaso){
   const pinta = () => {
     const t = L[i], ultimo = i === L.length - 1;
     const centro = t.titulo
-      ? `<p class="top-titulo">Top mejores respuestas de la semana</p>`
+      ? `<p class="top-titulo">Top mejores respuestas de la semana</p><p class="top-dias">${diasTop()}</p>`
       : t.filas
       ? `<p class="top-preg">Quién ha bajado más metros esta semana</p>
          <ol class="top-metros">${t.filas.map(f => `<li class="${f.eres_tu ? "tu" : ""}"><span>${f.puesto}</span><b>${esc(f.apodo)}${f.eres_tu ? " (tú)" : ""}</b><em>${mil(f.metros)} m</em></li>`).join("")}</ol>`
@@ -1394,9 +1402,8 @@ function final(){
   if (!J.revisita) Son.fondo();
 
   pantalla = "final";
-  if (J.modo === "diaria" && !J.revisita && J.fecha === TOP_SEMANA.fecha && !guarda.get("top:"+J.fecha, false)){
-    guarda.set("top:"+J.fecha, true);
-    setTimeout(topSemana, 900);          // primero se ve cuánto has bajado
+  if (J.modo === "diaria" && !J.revisita && topPendiente()){
+    setTimeout(() => { if (topPendiente()) topSemana(); }, 900);          // primero se ve cuánto has bajado
   }
   let est = guarda.get("est", {jugadas:0, racha:0, mejorRacha:0, mejor:0, ultima:null});
   if (J.modo === "diaria" && !J.revisita && !hechoHoy()){
