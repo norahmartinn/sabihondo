@@ -189,6 +189,10 @@ PREGUNTAS = [
     ("Nombra algo que haya en un hospital", "hospital"),
     ("Nombra una película que haya estado en los cines este año", "pelis2026"),
     ("Nombra un deporte que se juegue sin pelota", "sin_pelota"),
+    # Halloween: la primera de cada día del 27 de octubre al 1 de noviembre
+    ("Nombra una película de terror o de Halloween", "terror_halloween"),
+    ("Nombra algo asociado a una bruja de cuento", "bruja_cuento"),
+    ("Nombra algo que asocies con un vampiro", "vampiro"),
 ]
 
 banco = RAIZ / "banco"
