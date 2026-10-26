@@ -37,7 +37,7 @@ malagueño;malagueña;1;999999966
 granadino;granadina;1;999999965
 cordobés;cordobesa;1;999999964
 bilbaíno;bilbaína;1;999999963
-donostiarra;;1;999999962
+donostiarra;donostiarras;1;999999962
 zaragozano;zaragozana;1;999999961
 murciano;murciana;1;999999960
 alicantino;alicantina;1;999999959
@@ -379,6 +379,7 @@ rusos;;3;146119928
 rusas;;3;146119928
 mexicanos;;3;132274416
 mexicanas;;3;132274416
+easonense;easonenses;3;100000000
 alemanes;;3;83467117
 alemanas;;3;83467117
 británicos;;3;67326569

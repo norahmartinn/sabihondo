@@ -437,10 +437,12 @@ MAS = {
  "platos_ccaa": {2: "pestiños, churros=churros con chocolate, caldereta=caldereta de cordero, potaje=potaje de garbanzos, anchoas=anchoas de Santoña"},
  "hospital": {2: "sangre=bolsas de sangre, agujas=aguja, bebés=bebé=recién nacidos"},
  "disney_channel": {3: "Zombies=Zombies: The Re-Animated Series"},
+ "gentilicios": {3: "easonense=easonenses"},
 }
 ALIAS = {
  "jdt": {"el Perro": "Hound, The Hound"},
  "hospital": {"tensiómetro": "tensión, toma de tensión"},
+ "gentilicios": {"donostiarra": "donostiarras"},
  "disney_channel": {"Hotel dulce hotel": "The Suite Life of Zack and Cody, Suite Life", "High School Musical: El musical: La serie": "High School Musical la serie, High School Musical serie, High School Musical"},
  "netflix": {"Locke & Key": "Locke and Key", "El problema de los 3 cuerpos": "El problema de los tres cuerpos, Tres cuerpos", "Love Death & Robots": "Love Death Robots"},
  "instrumentos": {"balalaica": "balalaika", "djembé": "tambor africano"},
