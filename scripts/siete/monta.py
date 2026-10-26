@@ -155,7 +155,7 @@ PREGUNTAS = [
     ("Nombra una canción de Olivia Rodrigo", "olivia"),
     ("Nombra un gas", "gases"),
     ("Nombra un mineral", "minerales"),
-    ("Nombra algo típico de Halloween", "halloween"),
+    ("Nombra un icono de Halloween", "halloween"),
     ("Nombra un número 1 de Los 40", "los40"),
     # quinta tanda (tanda5.py), semana del 26 de octubre al 1 de noviembre de 2026
     ("Nombra algo que te cobran las aerolíneas", "cobros_aerolineas"),
