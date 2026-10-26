@@ -1,0 +1,138 @@
+respuesta;alias;nivel;orden_a_mano
+la mochila;;1;1000000000
+el bolso;bolso de mano|bolsa de mano;1;999999999
+la bolsa de plástico;bolsa del súper|bolsa de supermercado;1;999999998
+la bolsa de papel;;1;999999997
+la bolsa de la compra;bolsa reutilizable;1;999999996
+la tote bag;tote|bolsa de tela|bolsa de algodón;1;999999995
+la riñonera;fanny pack|belt bag;1;999999994
+el bandolera;bolso bandolera|crossbody;1;999999993
+la cartera;billetero|monedero;1;999999992
+el neceser;;1;999999991
+la maleta;trolley;1;999999990
+la bolsa de deporte;bolsa del gimnasio;1;999999989
+el clutch;sobre|bolso de fiesta|cartera de mano;1;999999988
+el baguette;bolso baguette;1;999999987
+la bolsa de basura;;1;999999986
+la bolsa de playa;capazo;1;999999985
+el shopper;bolso shopper;2;1000000000
+el bolso de hombro;;2;999999999
+la bolsa de congelación;bolsa zip|ziploc|bolsa hermética;2;999999997
+la bolsa de regalo;;2;999999996
+la bolsa de rafia;rafia|bolso de rafia|bolso de paja|bolso de mimbre|cesta;2;999999994
+el saco;costal;2;999999993
+la bolsa de viaje;weekender|duffel|bolsa de fin de semana;2;999999992
+el maletín;portafolios|portadocumentos;2;999999991
+el bolso bowling;bowling|bowling bag;2;999999990
+el bolso cubo;bucket bag|bolso saco|hobo;2;999999989
+la mini bag;mini bolso;2;999999987
+el bolso de piel;bolso de cuero;2;999999986
+la bolsa del pan;talega;2;999999985
+la bolsa térmica;bolsa nevera|bolsa isotérmica|nevera blanda;2;999999984
+la bolsa de aseo;;2;999999983
+el portátil;funda de portátil|maletín de portátil|mochila del portátil;2;999999982
+el bolso cruzado;bandolera cruzada;2;999999981
+la bolsa de chuches;bolsa de chucherías;2;999999980
+la bolsa de patatas;;2;999999979
+la bolsa de agua caliente;;2;999999978
+la Birkin;bolso Birkin|Hermès Birkin;2;999999977
+el Kelly;;2;999999976
+el Speedy;Louis Vuitton Speedy|Neverfull;2;999999975
+el Telfar;;2;999999974
+el bolso de Mango;;2;999999973
+la bolsa de El Corte Inglés;;2;999999972
+la bolsa de Primark;bolsa de papel de Primark;2;999999971
+la bolsa de Mercadona;bolsa de rafia de Mercadona;2;999999970
+la bolsa de IKEA;bolsa azul de IKEA|Frakta;2;999999969
+el saddle bag;bolso silla de montar;3;1000000000
+el half moon;media luna|bolso media luna;3;999999999
+el bolso de asa corta;;3;999999998
+la pochette;;3;999999997
+el wristlet;bolso de muñeca;3;999999996
+el sling;sling bag;3;999999995
+el bolso camera;camera bag|bolso cámara;3;999999994
+la bolsa de cuerdas;mochila de cuerdas|petate|gymsack;3;999999993
+la bolsa de malla;bolsa de rejilla|bolsa de red|redecilla|bolsa de la fruta;3;999999992
+la bolsa compostable;;3;999999991
+el bolso de croché;crochet|bolso de crochet|bolso de ganchillo|bolso de punto;3;999999989
+el bolso joya;;3;999999988
+el minaudière;;3;999999987
+el bolso de cadena;bolso con cadena;3;999999986
+el bolso acolchado;acolchado|puffer bag;3;999999985
+el bolso de nylon;nailon;3;999999984
+el bolso de charol;;3;999999983
+el bolso de ante;;3;999999982
+el bolso de lona;;3;999999981
+el bolso de vinilo;;3;999999980
+el bolso transparente;bolsa transparente;3;999999979
+el portabebés;;3;999999978
+la bolsa del carrito;bolsa maternal|bolso cambiador|cambiador;3;999999977
+la bolsa de golf;bolsa de palos;3;999999976
+la bolsa de pádel;paletero;3;999999975
+la raquetera;raquetero;3;999999974
+la bolsa de buceo;bolsa estanca|dry bag;3;999999973
+la bolsa de dormir;saco de dormir;3;999999972
+la bolsa de la ropa sucia;bolsa de la colada;3;999999971
+la bolsa de tela de la farmacia;;3;999999970
+la bolsa de té;bolsita de té;3;999999969
+la bolsa de cuero;zurrón;3;999999968
+la alforja;alforjas;3;999999967
+el morral;;3;999999966
+la faltriquera;;3;999999964
+el bolsón;;3;999999963
+la mariconera;bolso de hombre;3;999999962
+la bolsita;;3;999999961
+la funda;;3;999999960
+el estuche;portatodo;3;999999959
+el bolso trapecio;;4;1000000000
+el bolso doctor;doctor bag|bolso de médico;4;999999999
+el bolso de bolos;;4;999999998
+el bolso tipo carta;envelope bag;4;999999997
+el bolso fular;;4;999999996
+el bolso flap;;4;999999995
+el baúl;;4;999999994
+el bolso Speedy;;4;999999993
+el Jodie;;4;999999992
+el Cassette;Bottega Cassette;4;999999991
+el Le Pliage;Longchamp;4;999999990
+el Lady Dior;;4;999999989
+el Saddle de Dior;Dior Saddle;4;999999988
+el 2.55;Chanel 2.55|Chanel;4;999999987
+el Jackie;Gucci Jackie;4;999999986
+el Dionysus;;4;999999985
+el Puzzle;Loewe Puzzle|Loewe;4;999999984
+el Le Chiquito;Jacquemus;4;999999983
+el Pedro;Le Bambino;4;999999982
+el Gaufré;;4;999999981
+el Amazona de Loewe;Amazona;4;999999980
+el Alma de Louis Vuitton;Alma;4;999999979
+el Keepall;;4;999999978
+el Peekaboo;Fendi Peekaboo;4;999999977
+la Fendi Baguette;;4;999999976
+el Le Cagole;Balenciaga City|City bag;4;999999975
+el Hobo de Prada;Re-Edition;4;999999974
+la Cleo;;4;999999973
+el Nano Speedy;;4;999999972
+el Kate Spade;;4;999999971
+el bolso de Tous;Tous;4;999999970
+el Bimba y Lola;;4;999999969
+el Coach;;4;999999968
+la escarcela;;5;1000000000
+la limosnera;;5;999999999
+la bolsa de tabaco;;5;999999998
+el macuto;;5;999999997
+el zurrón de pastor;;5;999999996
+el petate militar;;5;999999995
+la mochila de asalto;;5;999999994
+la bolsa de mensajero;messenger bag|bandolera de mensajero;5;999999993
+la bolsa de correos;;5;999999992
+la valija;valija diplomática;5;999999991
+la bolsa de pañales;;5;999999990
+el bolso de labores;bolsa de costura;5;999999989
+la bolsa de los recados;;5;999999988
+el bolso de la abuela;;5;999999987
+el capacho;;5;999999986
+el serón;;5;999999985
+la sera;;5;999999984
+la espuerta;;5;999999983
+el cuévano;;5;999999982

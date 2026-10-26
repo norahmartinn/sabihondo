@@ -201,6 +201,7 @@ PREGUNTAS = [
     ("Nombra un país de África", "paises_africa"),
     ("Nombra algo que se lleva a la playa", "playa"),
     ("Nombra un sabor de patatas fritas", "sabores_patatas"),
+    ("Nombra un tipo de bolso o de bolsa", "bolsos"),
 ]
 
 banco = RAIZ / "banco"
