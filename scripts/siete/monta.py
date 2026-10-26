@@ -203,6 +203,8 @@ PREGUNTAS = [
     ("Nombra un sabor de patatas fritas", "sabores_patatas"),
     ("Nombra un tipo de bolso o de bolsa", "bolsos"),
     ("Nombra algo que te llevas de camping", "camping"),
+    ("Nombra un personaje de Cars", "cars"),
+    ("Nombra una película con Zendaya", "zendaya"),
 ]
 
 banco = RAIZ / "banco"
