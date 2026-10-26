@@ -5,6 +5,11 @@
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
 <meta name="description" content="Reto diario: siete preguntas y, cuanto más nicho tu respuesta, más bajas por el iceberg.">
 <meta name="theme-color" content="#f7efe9">
+<meta property="og:title" content="Sabihondo">
+<meta property="og:description" content="Reto diario: siete preguntas y, cuanto más nicho tu respuesta, más bajas por el iceberg.">
+<meta property="og:image" content="https://norahmartinn.github.io/sabihondo/iconos/icono-512.png">
+<meta property="og:url" content="https://norahmartinn.github.io/sabihondo/">
+<meta property="og:type" content="website">
 <link rel="icon" type="image/png" href="iconos/favicon.png?v=2" sizes="64x64">
 <link rel="apple-touch-icon" href="iconos/apple-touch-icon.png?v=2" sizes="180x180">
 <link rel="manifest" href="manifest.webmanifest?v=2">
@@ -1474,112 +1479,29 @@ function final(){
     b.setAttribute("aria-expanded", String(abrir));
   }));
 
-  // la imagen se prepara ya, para que al pulsar se abra el menú de compartir del móvil sin esperar (Safari lo bloquea si tarda)
-  const listo = preparaCompartir(metros, J.res, J.fecha);
-  $("#bImagen").addEventListener("click", () => compartirImagen(listo));
+  $("#bImagen").addEventListener("click", e => compartir(textoCompartir(metros, J.res), e.currentTarget));
   $("#bGuardar")?.addEventListener("click", ()=>abreCuenta(true, "alta"));
   trasPintar();
   $("#bVerRanking")?.addEventListener("click", () => ranking());
   $("#bIni").addEventListener("click", portada);
 }
 
-/* ═════════ compartir: una imagen con los metros, sin enseñar las respuestas ═════════
-   Las preguntas son las mismas para todos ese día, así que la imagen solo lleva la profundidad,
-   el color de cada respuesta y dónde está el récord. */
+/* ═════════ compartir ═════════ */
 const WEB = "norahmartinn.github.io/sabihondo";
-async function imagenResultado(metros, res, fecha){
-  try{ await Promise.all([document.fonts.load('400 100px "Young Serif"'), document.fonts.load('800 40px "Sen"'), document.fonts.load('400 40px "Sen"')]); }catch{}
-  const W = 1080, H = 1350, c = document.createElement("canvas"); c.width = W; c.height = H;
-  const g = c.getContext("2d");
-  // el iceberg ocupa la mitad izquierda, con la misma forma que en el juego
-  const L = 70, R = 520, arriba = 200, alto = 1040, corte = .24;
-  const y = m => arriba + (m <= FLOTACION ? (m/FLOTACION)*corte : corte + ((m-FLOTACION)/(FONDO-FLOTACION))*(1-corte)) * alto;
-  const x = f => L + f*(R-L), yf = y(FLOTACION);
-  const cielo = g.createLinearGradient(0,0,0,yf); PAL.cielo.forEach((c,i,a) => cielo.addColorStop(i/(a.length-1), c));
-  g.fillStyle = cielo; g.fillRect(0,0,W,yf);
-  const mar = g.createLinearGradient(0,yf,0,H); mar.addColorStop(0,HALLOWEEN ? "#3a2f6b" : "#3f8fb8"); mar.addColorStop(.5,PAL.marMedio); mar.addColorStop(1,HALLOWEEN ? "#0d0a1f" : "#0e2f52");
-  g.fillStyle = mar; g.fillRect(0,yf,W,H-yf);
-  g.fillStyle = HALLOWEEN ? "#fff1c9" : "#fffaf2"; g.beginPath(); g.arc(840,150,62,0,7); g.fill();   // sol (o luna en Halloween)
-  g.fillStyle = "#101f3a"; g.beginPath(); g.moveTo(420,H);                                    // rocas del fondo
-  [[520,1290],[600,1230],[680,1270],[760,1190],[840,1240],[930,1130],[1010,1170],[1080,1080],[1080,H]].forEach(p => g.lineTo(p[0],p[1])); g.fill();
-  const azar = mulberry(23), luz = [.16,-.02,-.2];
-  const filas = FILAS.map(m => { const a = enTramo(IZQ,m), d = enTramo(DER,m);
-    return {m, xs:[a, a+(d-a)*(.26+azar()*.14), a+(d-a)*(.60+azar()*.14), d].map(x), yy:y(m)}; });
-  for (let i=0;i<filas.length-1;i++){
-    const f0 = filas[i], f1 = filas[i+1], aire = f1.m <= FLOTACION, tabla = aire ? TONOS_AIRE : TONOS_AGUA;
-    for (let k=0;k<3;k++){
-      const A = [f0.xs[k],f0.yy], B = [f0.xs[k+1],f0.yy], C = [f1.xs[k+1],f1.yy], D = [f1.xs[k],f1.yy];
-      ((i+k)%2 ? [[A,B,D],[B,C,D]] : [[A,B,C],[A,C,D]]).forEach((tri,n) => {
-        const base = enTramo(tabla, n ? f1.m*.7+f0.m*.3 : f0.m*.7+f1.m*.3);
-        const hondo = aire ? 0 : (f0.m-FLOTACION)/(FONDO-FLOTACION);
-        const tono = (luz[k] > 0 ? luz[k]*(1-hondo) : luz[k]) + (n ? -.05 : .05) + (azar()-.5)*.1;
-        g.fillStyle = g.strokeStyle = aire ? matiza(base, tono*2.6, PAL.sombraAire) : matiza(base, tono, PAL.sombraAgua);
-        g.lineWidth = 1.2; g.beginPath(); g.moveTo(tri[0][0],tri[0][1]); g.lineTo(tri[1][0],tri[1][1]); g.lineTo(tri[2][0],tri[2][1]); g.closePath(); g.fill(); g.stroke();
-      });
-    }
-  }
-  g.strokeStyle = "#fff"; g.lineWidth = 5; g.lineCap = "round"; g.beginPath(); g.moveTo(0,yf);     // oleaje
-  for (let xx=0; xx<W; xx+=28) g.quadraticCurveTo(xx+14, yf-7, xx+28, yf);
-  g.stroke();
-  const pildora = (texto, px, py, fondo, tinta, tam=30) => {
-    g.font = `800 ${tam}px "Sen", sans-serif`; const w = g.measureText(texto).width + tam*1.3, h = tam*1.9;
-    g.fillStyle = fondo; g.beginPath(); g.roundRect(px, py-h/2, w, h, h/2); g.fill();
-    g.fillStyle = tinta; g.textBaseline = "middle"; g.fillText(texto, px + tam*.65, py+2); g.textBaseline = "alphabetic";
-    return w;
-  };
-  // las siete respuestas, solo como puntos de color a su profundidad
-  let acc = 0;
-  res.forEach((r,i) => { const N = nivel(r); acc += N ? N.pts : 0;
-    g.fillStyle = N ? N.col : "#1b2e44"; g.strokeStyle = "#fff"; g.lineWidth = 4;
-    g.beginPath(); g.arc(x(i%2 ? .40 : .60), y(acc), 13, 0, 7); g.fill(); g.stroke(); });
-  if (RECORD && RECORD.puntos > 0 && RECORD.puntos !== metros){
-    const yr = y(Math.min(FONDO, RECORD.puntos));
-    g.strokeStyle = "#ffcf5c"; g.lineWidth = 4; g.setLineDash([4,10]); g.beginPath(); g.moveTo(30,yr); g.lineTo(x(.5),yr); g.stroke(); g.setLineDash([]);
-    // la etiqueta va a la izquierda, encima de su raya (o debajo si ahí está la tuya), lejos de los textos
-    const yt0 = y(Math.min(FONDO, metros));
-    pildora("Récord · " + mil(RECORD.puntos) + " m", 30, yr + (yt0 < yr && yr - yt0 < 70 ? 34 : -34), "#ffcf5c", "#12294b", 23);
-  }
-  const yt = y(Math.min(FONDO, metros));
-  g.strokeStyle = "#ee6fa3"; g.lineWidth = 5; g.setLineDash([12,9]); g.beginPath(); g.moveTo(40,yt); g.lineTo(x(.47),yt); g.stroke(); g.setLineDash([]);
-  g.fillStyle = "#ee6fa3"; g.strokeStyle = "#fff"; g.lineWidth = 5; g.beginPath(); g.arc(x(.47),yt,17,0,7); g.fill(); g.stroke();
-  // textos
-  g.font = '400 76px "Young Serif", Georgia, serif'; g.fillStyle = "#12294b"; g.fillText("Sabi", 70, 128);
-  g.fillStyle = "#ee6fa3"; g.fillText("hondo", 70 + g.measureText("Sabi").width, 128);
-  g.font = '700 30px "Sen", sans-serif'; g.fillStyle = "#4d6080"; g.textAlign = "right";
-  g.fillText(fecha.split("-").reverse().join("/"), W-70, 250); g.textAlign = "left";
-  const tx = 580;
-  g.fillStyle = "#fff"; g.font = '700 46px "Sen", sans-serif'; g.fillText("He bajado", tx, 580);
-  g.font = '400 200px "Young Serif", Georgia, serif'; g.fillText(mil(metros), tx-8, 770);
-  const wn = g.measureText(mil(metros)).width;
-  g.font = '800 54px "Sen", sans-serif'; g.fillText("m", Math.min(tx + wn + 8, W-110), 770);
-  g.font = '400 34px "Sen", sans-serif'; g.fillStyle = "#cfe6f4"; g.fillText("de 700 en el iceberg de hoy", tx, 872);
-  res.forEach((r,i) => { const N = nivel(r);
-    g.fillStyle = N ? N.col : "#1b2e44"; g.strokeStyle = "#fff"; g.lineWidth = 4;
-    g.beginPath(); g.arc(tx + 24 + i*62, 965, 23, 0, 7); g.fill(); g.stroke(); });
-  g.fillStyle = "#fff"; g.font = '800 44px "Sen", sans-serif'; g.fillText("¿Y tú hasta dónde", tx, 1090); g.fillText("bajas?", tx, 1144);
-  pildora(WEB, tx, 1232, "#ee6fa3", "#12294b", 23);
-  return c;
-}
-async function preparaCompartir(metros, res, fecha){
-  const lienzo = await imagenResultado(metros, res, fecha);
-  const blob = await new Promise(r => lienzo.toBlob(r, "image/png"));
-  const archivo = new File([blob], "sabihondo-" + fecha + ".png", {type:"image/png"});
-  // el mensaje que acompaña a la imagen lleva siempre el enlace al juego
+/* Se comparte solo el mensaje, con el enlace dentro. Con la imagen, el iPhone al «Copiar» copiaba las imágenes
+   y perdía el enlace, y WhatsApp a veces tampoco lo mandaba; el enlace ya enseña la vista previa (etiquetas og: de arriba). */
+function textoCompartir(metros, res){
   const emojis = res.map(r => nivel(r) ? nivel(r).e : FALLO).join("");
-  const texto = `He bajado ${mil(metros)} m en Sabihondo 🧊\n${emojis}\n¿Y tú hasta dónde bajas? https://${WEB}/`;
-  return {archivo, texto};
+  return `He bajado ${mil(metros)} m en Sabihondo 🧊\n${emojis}\n¿Y tú hasta dónde bajas? https://${WEB}/`;
 }
-/* un solo botón: abre el menú de compartir del móvil (contactos, apps…) con la imagen y el mensaje.
-   Donde no se pueden compartir archivos (ordenador), se comparte el mensaje; y si tampoco, se baja la imagen y se copia el mensaje. */
-async function compartirImagen(listo){
-  const {archivo, texto} = await listo;
+async function compartir(texto, boton){
+  try{ if (navigator.share) return await navigator.share({text:texto}); }
+  catch(e){ if (e && e.name === "AbortError") return; }
   try{
-    if (navigator.canShare && navigator.canShare({files:[archivo]})) return await navigator.share({files:[archivo], text:texto});
-    if (navigator.share) return await navigator.share({title:"Sabihondo", text:texto});
-  }catch(e){ if (e && e.name === "AbortError") return; }
-  const a = document.createElement("a"); a.href = URL.createObjectURL(archivo); a.download = archivo.name; a.click();
-  setTimeout(() => URL.revokeObjectURL(a.href), 4000);
-  try{ await navigator.clipboard.writeText(texto); }catch{}
+    await navigator.clipboard.writeText(texto);
+    const antes = boton.innerHTML; boton.textContent = "¡Copiado! Pégalo donde quieras";
+    setTimeout(() => { boton.innerHTML = antes; }, 2500);
+  }catch{}
 }
 
 /* todas las respuestas válidas de una pregunta, agrupadas por nivel.
