@@ -1028,7 +1028,7 @@ const rondaDia = f => REINICIOS[f] || 1;
 const primeraDe = f => CALENDARIO[f] && PREGUNTAS[CALENDARIO[f][0]] ? PREGUNTAS[CALENDARIO[f][0]].q : null;
 // también vale lo jugado con las preguntas nuevas antes de que existiera la marca de ronda
 const preguntasDe = f => (CALENDARIO[f] || []).map(i => PREGUNTAS[i] && PREGUNTAS[i].q);
-const deOtroDia = (h, f) => Array.isArray(h.res) && h.res.length && CALENDARIO[f] && !h.res.some(r => r && preguntasDe(f).includes(r.q));
+const deOtroDia = (h, f) => Array.isArray(h.res) && h.res.length >= 4 && CALENDARIO[f] && h.res.filter(r => r && preguntasDe(f).includes(r.q)).length < 4;
 const vigente = (h, f) => !!h && !deOtroDia(h, f) && ((h.v || 1) >= rondaDia(f) || (Array.isArray(h.res) && h.res[0] && h.res[0].q === primeraDe(f)));
 function enCurso(){
   const c = guarda.get("curso", null);
