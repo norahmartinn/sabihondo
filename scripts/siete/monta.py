@@ -202,6 +202,7 @@ PREGUNTAS = [
     ("Nombra algo que se lleva a la playa", "playa"),
     ("Nombra un sabor de patatas fritas", "sabores_patatas"),
     ("Nombra un tipo de bolso o de bolsa", "bolsos"),
+    ("Nombra algo que te llevas de camping", "camping"),
 ]
 
 banco = RAIZ / "banco"
