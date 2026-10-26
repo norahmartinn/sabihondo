@@ -193,6 +193,7 @@ PREGUNTAS = [
     ("Nombra una película de terror o de Halloween", "terror_halloween"),
     ("Nombra algo asociado a una bruja de cuento", "bruja_cuento"),
     ("Nombra algo que asocies con un vampiro", "vampiro"),
+    ("Nombra algo que asocies con un hombre lobo", "hombre_lobo"),
 ]
 
 banco = RAIZ / "banco"
