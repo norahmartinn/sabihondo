@@ -1,4 +1,4 @@
-respuesta;alias;nivel;orden_a_mano
+respuesta;alias;nivel;enlaces_wikipedia
 La Gioconda;Mona Lisa;1;1000000000
 Las Meninas;;1;999999999
 El Guernica;;1;999999998
@@ -181,6 +181,14 @@ La reproducción prohibida;;3;999999918
 El tiempo transfigurado;;3;999999917
 Sin título de Basquiat;;3;999999916
 Calavera de Basquiat;;3;999999915
+La muerte de Sócrates;The Death of Socrates;3;51
+Cosacos zaporogos escribiendo una carta al Sultán;Reply of the Zaporozhian Cossacks;3;46
+El tres de mayo de 1808 en Madrid;"El 3 de mayo en Madrid o ""Los fusilamientos""|Fusilamientos del Tres de Mayo|El 3 de mayo de 1808 en Madrid|The Third of May 1808";3;45
+Lección de anatomía del Dr. Nicolaes Tulp;The Anatomy Lesson of Dr. Nicolaes Tulp;3;45
+Retrato de Arnolfini y su esposa;Retrato de Giovanni Arnolfini y su esposa|La boda de Arnolfini|El retrato de Arnolfini Doble|Arnolfini Portrait;3;43
+Lirios;Irises;3;43
+Trigal con cuervos;Trigal bajo la tormenta|Wheatfield with Crows;3;43
+Retrato de Ginebra de Benci;Ginebra de Benci|Retrato de Ginevra Benci;3;40
 La carta de amor;;4;1000000000
 La encajera;;4;999999999
 Vista de Delft;;4;999999998
@@ -216,6 +224,221 @@ Menipo;;4;999999969
 Cristo en casa de Marta y María;;4;999999967
 Vieja friendo huevos;;4;999999966
 El aguador de Sevilla;;4;999999965
+Un bar del Folies Bergère;Un bar aux Folies Bergère|A Bar at the Folies-Bergère;4;39
+La Virgen, el Niño Jesús y Santa Ana;La Virgen Santa Ana y el Niño|Santa Ana la Virgen el Niño y el Cordero|The Virgin and Child with Saint Anne;4;39
+Madona Benois;Benois Madonna;4;38
+Noche estrellada sobre el rodano;Alias malévola|Starry Night Over the Rhône;4;38
+El joven azul;The Blue Boy;4;38
+El café de noche;The Night Café;4;38
+Novena ola;The Ninth Wave;4;37
+Cuadrado negro;Black Square;4;37
+La iglesia de Auvers-sur-Oise;The Church at Auvers;4;37
+El viñedo rojo;The Red Vineyard;4;37
+La Casa Amarilla;The Yellow House;4;37
+Los sirgadores del Volga;Barge Haulers on the Volga;4;36
+Retrato de Adele Bloch-Bauer I;Adele Bloch-Bauer I|Portrait of Adele Bloch-Bauer I;4;35
+La Belle Ferronière;La Belle Ferronnière;4;35
+San Juan Bautista;Saint John the Baptist;4;35
+Iván el Terrible y su hijo;Ivan the Terrible and his son Ivan on November 16, 1581;4;33
+La novia judía;The Jewish Bride;4;33
+¿De dónde venimos? ¿Quiénes somos? ¿Adónde vamos?;Where Do We Come From? What Are We? Where Are We Going?;4;33
+La tormenta en el mar de Galilea;The Storm on the Sea of Galilee;4;32
+El sueño;Las amigas|Las durmientes|Pereza|Pereza y lujuria|The Sleepers;4;32
+El Cristo amarillo;The Yellow Christ;4;32
+Virgen de Vladímir;Theotokos of Vladimir;4;32
+Lamentación sobre Cristo muerto;Lamentation of Christ;4;32
+Tondo Doni;Sagrada Familia|Doni Tondo;4;31
+Puesta del sol en Montmajour;Sunset at Montmajour;4;31
+¿Cuando te casas?;When Will You Marry?;4;31
+Retrato de la madre del artista;Arreglo en gris y negro n°1|Whistler's Mother;4;31
+Bautismo de Cristo;The Baptism of Christ;4;30
+La muerte de Sardanápalo;La muerte de Sardanapale|La Mort de Sardanapale|Death of Sardanapalus;4;30
+El taller del pintor;L'Atelier du peintre|El estudio|El atelier del artista|Alegoría real|The Painter's Studio;4;30
+Almuerzo de remeros;Desayuno de los barqueros|Luncheon of the Boating Party;4;30
+El ajenjo;L'Absinthe;4;30
+Madonna Litta;Madona Litta;4;30
+La carreta de heno;The Hay Wain;4;30
+Mañana en un bosque de pinos;Morning in a Pine Forest;4;30
+La decapitación de San Juan Bautista;The Beheading of Saint John the Baptist;4;30
+El ángel herido;Haavoittunut enkeli|The Wounded Angel;4;30
+El retorno del hijo pródigo;El retorno del hijo gey;4;30
+Virgen del clavel;Madona del clavel|Madonna of the Carnation;4;30
+La fuente;The Source;4;29
+Un filósofo da una lección sobre el planetario de mesa;A Journalist Lecturing on the Orrery;4;29
+La matanza de Quíos;La masacre de Quíos|The Massacre at Chios;4;29
+Cabeza de Medusa;Medusa;4;29
+Virgen del jilguero;Madonna del cardellino|Madonna del jilguero|Madona del jilguero|Madonna of the Goldfinch;4;29
+Judit decapitando a Holofernes;Judith Beheading Holofernes;4;29
+La lectora;A Young Girl Reading;4;29
+Los discípulos de Emaús;Supper at Emmaus;4;29
+En la puerta de la eternidad;At Eternity's Gate;4;29
+La urraca sobre el cadalso;The Magpie on the Gallows;4;28
+Los desposorios de la Virgen;The Marriage of the Virgin;4;28
+Baco enfermo;Self-Portrait as Bacchus;4;28
+Retrato de un músico;Portrait of a Musician;4;28
+Abadía en el robledal;Abadía en un bosque|The Abbey in the Oakwood;4;28
+El amor victorioso;Cupido|Amor Vincit Omnia;4;28
+La gitana dormida;The Sleeping Gypsy;4;27
+La Asunción de la Virgen;Assumption of the Virgin;4;27
+El mar de hielo;El mar polar|Das Eismeer|El naufragio de la Esperanza|The Sea of Ice;4;27
+Venus y Marte;Venus and Mars;4;27
+La barca de Dante;La Barque de Dante|The Barque of Dante;4;27
+El último día de Pompeya;The Last Day of Pompeii;4;27
+Descendimiento de la cruz;The Descent from the Cross;4;27
+Dormíción de la Virgen;Death of the Virgin;4;27
+Muchacha leyendo una carta;Girl Reading a Letter at an Open Window;4;27
+El balcón;The Balcony;4;27
+Un Experimento con un Pájaro en una Bomba de Aire;An Experiment on a Bird in the Air Pump;4;26
+Banquete de Belsasar;Belshazzar's Feast;4;26
+Virgen del canciller Rolin;Madonna of Chancellor Rolin;4;26
+Baco;Bacchus;4;26
+La batalla de Anghiari;The Battle of Anghiari;4;26
+Lluvia, vapor y velocidad. El gran ferrocarril del Oeste;Lluvia, vapor y velocidad|Velocidad en la lluvia|El gran ferrocarril del Oeste;4;26
+La buenaventura;La buena fortuna|The Fortune Teller;4;26
+Retrato de Madame X;Madame X;4;26
+El Concierto;The Concert;4;25
+El alquimista descubriendo el fósforo;The Alchemist Discovering Phosphorus;4;25
+Mujer leyendo una carta;Woman in Blue Reading a Letter;4;25
+La música en las Tullerías;Music in the Tuileries;4;25
+La lección de música;The Music Lesson;4;25
+Las Gracias;Three Graces;4;25
+Retrato de muchacha;Portrait of a Young Girl;4;25
+David con la cabeza de Goliat;David with the Head of Goliath;4;25
+El dos de mayo de 1808 en Madrid;El dos de mayo de 1808|La lucha con los mamelucos|The Second of May 1808;4;25
+Camino con Ciprés y Estrella;Road with Cypress and Star;4;25
+Cráneo con cigarrillo en llamas;Skull of a Skeleton with Burning Cigarette;4;25
+La velada;La velata;4;25
+Casa blanca por la noche;White House at Night;4;24
+Tríptico de las Tentaciones de san Antonio;Temptation of Saint Anthony;4;24
+Retrato de Père Tanguy;Portrait of Père Tanguy;4;24
+Alegoría del triunfo de Venus;Venus, Cupid, Folly and Time;4;24
+Madona del gran duque;Madonna del Granduca;4;24
+Las grandes bañistas;Les Grandes Baigneuses;4;24
+Mesa de los pecados capitales;The Seven Deadly Sins and the Four Last Things;4;24
+El martirio de San Mateo;The Martyrdom of Saint Matthew;4;24
+La transfiguración;Transfiguration;4;24
+Mujer con sombrilla;El paseo;4;24
+Retrato de una dama;Retrato de una mujer|Portrait of a Lady;4;24
+Virgen de la Casa de Alba;Alba Madonna;4;24
+Niño con un cesto de frutas;Boy with a Basket of Fruit;4;24
+Jardín rectoral en Nuenen en primavera;The Parsonage Garden at Nuenen;4;24
+La elevación de la cruz;El levantamiento de la Cruz|The Elevation of the Cross;4;24
+Dante y Virgilio en el infierno;Dante and Virgil in Hell;4;24
+La terraza de Sainte-Adresse;Garden at Sainte-Adresse;4;24
+Militar y muchacha riendo;De soldaat en het lachende meisje|Officer and Laughing Girl;4;24
+Washington cruzando el Delaware;Washington Crossing the Delaware;4;24
+La alcahueta;The Procuress;4;24
+Crucifixión de San Pedro;Crucifixion of Saint Peter;4;24
+La cosecha;The Harvesters;4;24
+Mujer con loro;Woman with a Parrot;4;24
+Sol ardiente de junio;Flaming June;4;24
+Virgen del cuello largo;Madonna with the Long Neck;4;24
+Carlos V a caballo en Mühlberg;Carlos V en la batalla de Mühlberg|Equestrian Portrait of Charles V;4;23
+La intervención de las sabinas;The Intervention of the Sabine Women;4;23
+Flora;;4;23
+La pesadilla;The Nightmare;4;23
+Judit I;Judith I;4;23
+Los tormentos de San Antonio;The Torment of Saint Anthony;4;23
+La inspiración de San Mateo;The Inspiration of Saint Matthew;4;23
+La bella Jardinera;La Belle Jardinière;4;23
+Aristóteles contemplando el busto de Homero;Aristotle with a Bust of Homer;4;23
+El almuerzo;The Lunch;4;23
+El Temerario remolcado a dique seco;The Fighting Temeraire;4;23
+Mujeres en el jardín;Women in the Garden;4;23
+Ninfas y sátiro;Nymphes et Satires|Nymphs and Satyr;4;23
+Muchachas al piano;Girls at the Piano;4;23
+Mujer en las olas;The Woman in the Waves;4;23
+Wikipedia:Wikidata/Zona de pruebas;Espacio de Prueba|Wikidata Sandbox;4;23
+El sueño del caballero;The Dream of a Knight;4;23
+hilas y las ninfas;Hylas and the Nymphs;4;23
+Cena en casa de Leví;The Feast in the House of Levi;4;23
+Virgen de la silla;Madonna della Seggiola;4;23
+Los paraguas;The Umbrellas;4;22
+Dama con dos caballeros;The Girl with the Wine Glass;4;22
+Los síndicos de los pañeros;Syndics of the Drapers' Guild;4;22
+La flagelación;Flagellation of Christ;4;22
+Calle de Paris, dia de lluvia;"Paris Street; Rainy Day";4;22
+El festín de los dioses;The Feast of the Gods;4;22
+Belleza revelada;Beauty Revealed;4;22
+La Virgen en una iglesia;The Madonna in the Church;4;22
+Acantilados blancos en Rügen;Chalk Cliffs at Ruegen;4;22
+Agostina Segatori sentada en el Café du Tambourin;Agostina Segatori Sitting in the Café du Tambourin;4;22
+Retablo Oddi;Pala Oddi|Coronación de la Virgen|Oddi Altarpiece;4;22
+La batalla de Alejandro en Issos;The Battle of Alexander at Issus;4;22
+Christina's World;;4;22
+Virgen del canónigo Van der Paele;Madonna with Canon Joris van der Paele;4;22
+León X y dos cardenales;El papa León X y dos cardenales|Retrato de León X y dos cardenales|Portrait of Leo X;4;22
+Los rompe piedras;The Stone Breakers;4;22
+La bañista de Valpinçon;La gran bañista|The Valpinçon Bather;4;22
+Desnudo bajando una escalera nº2;Nude Descending a Staircase, No. 2;4;22
+Peregrinación a la isla de Citera;The Embarkation for Cythera;4;22
+Gabrielle d'Estrées y una de sus hermanas;Gabrielle d'Estrées et une de ses sœurs;4;22
+Chico mordido por una lagartija;Boy Bitten by a Lizard;4;22
+Los músicos;The Musicians;4;22
+Cristo con la Cruz a cuestas;Christ Carrying the Cross;4;22
+Descanso en la huida a Egipto;Rest on the Flight into Egypt;4;22
+El domador de tortugas;The Tortoise Trainer;4;22
+Garçon à la pipe;;4;22
+El ángel caído;Fallen angel;4;21
+Un baño en Asnières;El baño|Bathers at Asnières;4;21
+No lo esperaban;They Did Not Expect Him;4;21
+El Ferrocarril o El Camino de Hierro.;The Railway;4;21
+Santo Entierro;El entierro de Cristo|The Entombment of Christ;4;21
+Clavel, lirio, lirio, rosa;Carnation, Lily, Lily and Rose;4;21
+El Señor y la Señora Andrews;Mr and Mrs Andrews;4;21
+Viuda india;Indian Widow;4;21
+Tríptico Portinari;Adoración de los Pastores|Portinari Triptych;4;21
+La conversión de San Pablo en el camino a Damasco;Conversion on the Way to Damascus;4;21
+Dama del unicornio;Portrait of a Lady with a Unicorn;4;21
+La señora de Shalott;La señora de Shallot|La dama de Shallott|La dama de Shallot|The Lady of Shalott;4;21
+Virgen del prado;La Virgen con el Niño y San Juan|Madona del prado|Madonna del prato;4;21
+Traslado de Cristo;Retablo Baglioni|Descendimiento Borghese|Deposicion de Cristo|Deposicion del cuerpo de Cristo|The Deposition;4;21
+Alegoría de la Prudencia;Allegory of Prudence;4;21
+Diana y Acteón;Diana and Actaeon;4;21
+Die Bellelli Familie;The Bellelli Family;4;21
+El pífano;The Fif;4;21
+La batalla de Grunwald;Battle of Grunwald;4;21
+Las rosas de Heliogábalo;The Roses of Heliogabalus;4;21
+Noche de luna en el Dniéper;Moonlit Night on the Dnieper;4;21
+Autorretrato de Vincent Van Gogh;Self-portrait;4;21
+El encuentro;"La rencontre|""Bonjour Monsieur Courbett""|The Meeting, or Bonjour, Monsieur Courbet!";4;21
+María, la que Desata los Nudos;María Desatanudos|Mary Untier of Knots;4;21
+Eco y Narciso;Echo and Narcissus;4;21
+La Aurora;Dawn;4;21
+En la terraza;Dos hermanas|Two Sisters;4;21
+Stańczyk;;4;21
+Muchacha dormida;Het Meisje Slapende|A Girl Asleep;4;21
+Monje a la orilla del mar;The Monk by the Sea;4;21
+Juego de niños;Children's Games;4;21
+Júpiter e Ío;Io e Zeus|Jupiter and Io;4;21
+El palco;La loge;4;21
+Políptico del juicio final;Retablo del juicio final|The Last Judgment;4;20
+Baco y Ariadna;Bacco e Arianna|Bacchus and Ariadne;4;20
+Visión del Apocalipsis;Apertura del Quinto Sello del Apocalipsis|Visión de San Juan|Opening of the Fifth Seal;4;20
+Pollice verso;;4;20
+Virgen de los claveles;Madonna of the Pinks;4;20
+Napoleón en su trono imperial;Napoleon I on his Imperial Throne;4;20
+Cortesanas al borde del Sena;Las señoritas de las orillas del Sena|Las señoritas al borde del Sena|Jóvenes a orillas del Sena|Young Ladies Beside the Seine;4;20
+Leonor de Toledo con su hijo;Portrait of Eleanor of Toledo and her son Giovanni de' Medici;4;20
+El jilguero;The Goldfinch;4;20
+El sueño de Jacob;Jacob’s Dream;4;20
+El vendedor ambulante;The Wayfarer;4;20
+La incredulidad de santo Tomás;The Incredulity of Saint Thomas;4;20
+Virgen del Magnificat;Madonna of the Magnificat;4;20
+Santa Catalina de Alejandría;Saint Catherine of Alexandria;4;20
+Madonna de Loreto;Madonna di Loreto;4;20
+Magdalena penitente;Penitent Magdalene;4;20
+El mercado de esclavos;The Slave Market;4;20
+Combate de mujeres;Women Gladiators;4;20
+Desnudo acostado;Nu couché;4;20
+Circe ofreciendo la copa a Odiseo;Circe ofreciendo la copa a Ulises|Circe Offering the Cup to Ulysses;4;20
+La chica ciega;The Blind Girl;4;20
+Virgen Solly;Solly Madonna;4;20
+El combate entre don carnaval y doña cuaresma;The Fight Between Carnival and Lent;4;20
+Madonna del Rosario;Madonna of the Rosary;4;20
+El regreso de la manada;The Return of the Herd;4;20
+Dama bebiendo con un caballero;El vaso de vino|The Wine Glass;4;20
+Madona Connestabile;Madonna and Child;4;20
 El jardín del Edén de Brueghel;;5;1000000000
 La parábola de los ciegos;;5;999999999
 Proverbios flamencos;;5;999999998
@@ -232,3 +455,615 @@ La nave de los locos;;5;999999988
 La extracción de la piedra de la locura;;5;999999987
 Los siete pecados capitales;;5;999999986
 El concierto en el huevo;;5;999999985
+Silla con pipa;Van Gogh's Chair;5;19
+Fiesta del Rosario;La Virgen de la fiesta del rosario|Rosenkranzaltar|Feast of the Rosary;5;19
+Mujeres de Argel;Femmes d'Alger dans leur appartement|Mujeres de Argel en su apartamento|The Women of Algiers;5;19
+La siega del heno;Cosecha de heno|The Hay Harvest;5;19
+Las etapas de la vida;Life stages;5;19
+La Calumnia de Apeles;Calumny of Apelles;5;19
+Retrato de Napoleón en su gabinete de trabajo;The Emperor Napoleon in His Study at the Tuileries;5;19
+La muchacha del collar de perlas;Vrouw met parelsnoer|Woman with a Pearl Necklace;5;19
+Retrato de Rodolfo II en traje de Vertumno;Rudolf II as Vertumnus;5;19
+En verano;In the Summer;5;19
+La visión tras el sermón;Vision After the Sermon;5;19
+Los acuchilladores de parqué;Les Raboteurs de parquet|Los acepilladores de parque|Los acepilladores de parquet;5;19
+El circo;The Circus;5;19
+Leda y el cisne;Leda and the Swan;5;19
+El anciano de los días;Dios creador|The Ancient of Days;5;19
+Palas y el Centauro;Minerva y el centauro|Palas doma al centauro|Pallas and the Centaur;5;19
+Las cribadoras de trigo;The Wheat Sifters;5;19
+Madona de Foligno;Madonna de Foligno|Madonna di Foligno|Virgen de Foligno|Madonna of Foligno;5;19
+Dama tocando el virginal de pie;Dama al virginal|A Young Woman Standing at a Virginal;5;19
+Tríptico de la Anunciación;Mérode Altarpiece;5;19
+Diana y sus compañeras;Diana en haar nimfen|Diana and her Nymphs;5;19
+Muchacha con los melocotones;Girl with peaches;5;19
+La urraca;The Magpie;5;19
+La alegoría de la fe;Allegory of the Catholic Faith;5;19
+San Jerónimo escribiendo;Saint Jerome Writing;5;19
+Nana;;5;19
+Pala Pesaro;Pesaro Madonna;5;19
+Una dama escribe una carta con su sirvienta;Lady Writing a Letter with her Maid;5;19
+El alegre bebedor;;5;19
+Friné frente al Areópago;Phryne before the Areopagus;5;19
+La Procesión al Calvario;The Procession to Calvary;5;19
+Día triste;The Gloomy Day;5;19
+La carta;The Love Letter;5;19
+El Cristo en casa de sus padres;Christ in the House of His Parents;5;19
+Anunciación entre los santos Ansano y Margarita;Annunciation with Saints Maxima and Ansanus;5;19
+Dama con abanico;Dame mit Fächer|Woman With a Fan;5;18
+Baile en el campo;Dance in the Country;5;18
+La ronda de los presos;Prisoners Exercising;5;18
+La ejecución de Lady Jane Grey;The Execution of Lady Jane Grey;5;18
+Vampiro;Vampire;5;18
+La verdad saliendo del pozo;Truth Coming Out of Her Well;5;18
+La luz del mundo;The Light of the World;5;18
+Sacra Conversación;Pala de Brera|Pala di Brera|Madonna and Child with Saints, Angels and Federico da Montefeltro;5;18
+Maestà di Ognissanti;La madona de Ognissanti|Madonna Enthroned;5;18
+El Misántropo;The Misanthrope;5;18
+La muerte de un avaro;Death and the Miser;5;18
+Autorretrato sin barba;Self-portrait without beard;5;18
+Mujer sentada tocando la espineta;A Young Woman seated at a Virginal;5;18
+An Old Man and his Grandson;;5;18
+Woman with a Mirror;;5;18
+Retrato de Bindo Altoviti;Portrait of Bindo Altoviti;5;18
+Pequeña Madonna de Cowper;Small Cowper Madonna;5;18
+Siete obras de misericordia;Siete acciones de misericordia|Siete obras de Misericorda|The Seven Works of Mercy;5;18
+Retrato de Isabel Gonzaga;Retrato de Elisabetta Gonzaga|Portrait of Elisabetta Gonzaga;5;18
+La Piedad;Pietà;5;18
+Descendimiento de Cristian;Triptico del descendimiento de la cruz;5;18
+After the Deluge;Tras el diluvio|Después del diluvio|El día cuadragésimo primero|El cuadragésimo primer día;5;18
+Lise;Lise with a Parasol;5;18
+San Lucas dibujando a la Virgen;Saint Luke Drawing the Virgin;5;18
+Berthe Morisot con un ramo de violetas;Berthe Morisot with a Bouquet of Violets;5;18
+Madame Moitessier;;5;18
+Grecia expirante entre las ruinas de Missolonghi;Greece on the Ruins of Missolonghi;5;18
+Betsabé con la carta de David;Bathsheba at Her Bath;5;18
+Moisés rompiendo las Tablas de la Ley;Moses Smashing the Tablets of the Law;5;18
+Almuerzo de campesinos;The Farmers' Lunch;5;18
+Diana después del baño;Diana leaving her Bath;5;18
+Baile en la ciudad;Dance in the City;5;18
+El Despertar de la Tristeza;The First Mourning;5;18
+Las tres edades de la mujer;The Three Ages of Woman;5;18
+Demonio sentado;Demonio sentado en el jardín|The Demon Seated;5;18
+El encantamiento de Merlín;The Beguiling of Merlin;5;18
+Retrato de una joven;Idealized Portrait of a Lady;5;18
+Mujer joven sentada ante el virginal;A Young Woman Seated at the Virginals;5;18
+Virgen de Lucca;Lucca Madonna;5;18
+La Pastora;The Shepherdess;5;18
+Autorretrato con su esposa Isabel Brant;Rubens and Isabella Brant in the honeysuckle bower;5;18
+El viejo músico;The Old Musician;5;18
+Crucifixión Mond;Mond Crucifixion;5;18
+El espíritu de los muertos vela;Manaò tupapaú;5;18
+Mujer en el jardín;Woman in the Garden;5;18
+Dora Maar au Chat;;5;18
+Retrato de una mujer joven;Portrait of a Young Woman;5;18
+Adiós a Inglaterra;Lo último de Inglaterra|The Last of England;5;18
+Tigre en una tormenta tropical;Tiger in a Tropical Storm;5;18
+Sinfonía en blanco, n.º 1: La dama blanca;Sinfonía en blanco, nº 1: La muchacha blanca|Symphony in White, No. 1: The White Girl;5;18
+Cristo y la adúltera;Christ and the Woman Taken in Adultery;5;17
+El hijo pródigo en la taberna;Rembrandt and Saskia in the parable of the Prodigal Son;5;17
+La lección de música interrumpida;Girl Interrupted at her Music;5;17
+Duques de Urbino;Diptych of Federico da Montefeltro and Battista Sforza;5;17
+Victory Boogie-Woogie;;5;17
+Mujer con sombrero;Woman with a hat;5;17
+Paulo III y sus nietos Alejandro y Octavio Farnesio;Pope Paul III and His Grandsons;5;17
+Laocoonte;Laoconte|Laocoön;5;17
+San Marcos liberando al esclavo;Il miracolo di San Marco|Miracle of the Slave;5;17
+La mujer encinta;La donna gravida;5;17
+Dos hombres contemplando la luna;Two men contemplating the Moon;5;17
+San Sebastián;Saint Sebastian;5;17
+Procesión de Pascua en la región de Kursk;Religious Procession in Kursk Province;5;17
+Retrato de hombre con turbante;Portrait of a Man;5;17
+Venus, Vulcano y Marte;Venere, Marte e Vulcano|Venus and Mars Surprised by Vulcan;5;17
+El Cristo verde;The Green Christ;5;17
+Retrato de Émile Zola;Emile Zola;5;17
+Judit;Judith;5;17
+Retrato de Giovanna Tornabuoni;Portrait of Giovanna Tornabuoni;5;17
+La Virgen con el Niño.;Madonna and Child with the Book;5;17
+Beata Beatrix;;5;17
+Madona de los Ansidei;Retablo de los Ansidei|Pala Ansidei|Ansidei Madonna;5;17
+Procesión nupcial en Hardanger;Bridal Procession on the Hardangerfjord;5;17
+Joven huérfana en el cementerio;Orphan Girl at the Cemetery;5;17
+Declaración de Independencia;Declaration of Independence;5;17
+Tríptico de Dresden;Dresden Triptych;5;17
+Las modelos;The Models;5;17
+El corazón de los Andes;Heart of the Andes;5;17
+Dama con criada y carta;Mistress and Maid;5;17
+Censo en Belén;El empadronamiento de Belén|The People's Census at Bethlehem;5;17
+La bella;;5;17
+Susana y los viejos;Susanna and the Elders;5;17
+Flores de amapola;Poppy Flowers;5;17
+constitucion de mayo 3, 1791;Constitution of May 3, 1791;5;17
+Ecce Homo;;5;17
+Baile en Bougival;Dance at Bougival;5;17
+Retrato de Juan de Pareja;Portrait of Juan de Pareja;5;17
+Automático;Automat;5;17
+Judit y su doncella;Judith and Her Maidservant;5;17
+Blanco sobre blanco;Suprematist Composition: White on White;5;17
+La joven;The Maiden;5;17
+La resurrección de Cristo;Resurrection of Christ;5;17
+Libertad de expresión;Freedom of Speech;5;17
+La ciruela;The Plum;5;17
+Swimming Hole;Swimming;5;17
+Marte desarmado por Venus y las Gracias;Mars Being Disarmed by Venus;5;17
+Mujer judía vendiendo naranjas;Jewess with Oranges;5;17
+La Mousmé;;5;17
+Caballero sonriente;Laughing Cavalier;5;17
+Proserpina;Persefone|Proserpine;5;17
+Léal Souvenir;;5;16
+El bebedor de absenta;The Absinthe Drinker;5;16
+El vino de la fiesta de san Martín;The Wine of Saint Martin's Day;5;16
+Tríptico del Juicio de Viena;;5;16
+Autorretrato con la Muerte tocando el violín;Self-Portrait with Death Playing the Fiddle;5;16
+Desnudo, hojas verdes y busto;Nu au plateau de sculpteur|Nude, Green Leaves and Bust;5;16
+En una hostería romana;In a Roman Osteria;5;16
+Muerte y Vida;Death and Life;5;16
+El sueño del arquitecto;The Architect's Dream;5;16
+El cantante español;The Spanish Singer;5;16
+Van Gogh pintando girasoles;Vincent van Gogh Painting Sunflowers;5;16
+David vencedor de Goliat;David y Goliath|David vencedor de Goliath|David and Goliath;5;16
+Virgen de la rosa;Madonna rosa|Sagrada Familia de la rosa|Madonna of the Rose;5;16
+La Visitación;Visitation;5;16
+Artemisa;Judith at the Banquet of Holofernes;5;16
+San Jorge;San Jorge y el Dragón|Saint George and the Dragon;5;16
+Retrato de cardenal;Portrait of a Cardinal;5;16
+La alegría de vivir;Le bonheur de vivre|The Joy of Life;5;16
+Madame Récamier;Portrait of Madame Récamier;5;16
+La lapidación de san Esteban;The Stoning of Saint Stephen;5;16
+El Pasmo de Sicilia;El monte Golgota|Christ Falling on the Way to Calvary;5;16
+San Jerónimo en su estudio;San Jerónimo en su lectorium|Saint Jerome in His Study;5;16
+Night-Shining White;;5;16
+Bonaparte ante la Esfinge;Bonaparte Before the Sphinx;5;16
+Monsieur Bertin;Portrait of Monsieur Bertin;5;16
+La Magdalena leyendo;The Magdalen Reading;5;16
+La muerte del ciervo;Killing a Deer;5;16
+La gitana;Gipsy Girl;5;16
+El vestido rosa;The Pink Dress;5;16
+El beso robado;The Stolen Kiss;5;16
+Le Suicidé;;5;16
+La Virgen de la Anunciación;Virgin Annunciate;5;16
+Paisaje invernal con patinadores sobre hielo;Winter landscape with skaters;5;16
+Venus Anadiómena;Vénus Anadyomène;5;16
+Autorretrato como alegoría de la pintura;Self-Portrait as the Allegory of Painting;5;16
+La bacanal de los andrios;La Bacanal|Il Baccanale degli Andrii|The Bacchanal of the Andrians;5;16
+El hombre herido;The Wounded Man;5;16
+Los mendigos;The Beggars;5;16
+La Promenade;;5;16
+Tres músicos;Three Musicians;5;16
+Retrato de Irène Cahen d'Anvers;Mlle Irene Cahen d'Anvers;5;16
+Rómulo y Remo;Romulus and Remus;5;16
+La feria de caballos;The Horse Fair;5;16
+Raíces de árbol;Tree Roots;5;16
+El cuerpo de Cristo en la tumba;The Body of the Dead Christ in the Tomb;5;16
+La aparición de Cristo ante el pueblo;The Appearance of Christ Before the People;5;16
+Arco iris en un paisaje de montañas;Arco iris en un paisaje de montana|Mountain Landscape with Rainbow;5;16
+El amor está en el tacho;Niña con globo|Love is in the Bin;5;16
+Díptico de Marilyn;Marilyn Diptyque;5;16
+Anunciación con San Emigdio;The Annunciation, with Saint Emidius;5;16
+Las hijas de Edward Darley Boit;The Daughters of Edward Darley Boit;5;16
+The Problem We All Live With;El problema con el vivimos todos|El problema con el que todos convivimos;5;16
+Astrónomo Copérnico;Astronomer Copernicus, or Conversations with God;5;16
+Morada en las montañas Fuchun;Dwelling in the Fuchun Mountains;5;16
+Freedom of Worship;Libertad de culto;5;16
+Libertad del miedo;Freedom from Fear;5;16
+Retrato de la madre de van Gogh;Portrait of the Artist's Mother;5;16
+Cabeza de muchacha;Head of a Woman;5;16
+Mujer con laúd;Woman with a Lute;5;16
+Paisaje invernal con trampa para pájaros;Winter Landscape with a Bird Trap;5;16
+Tríptico del altar de Santa Columba;Retablo del altar de Santa Columba|Retablo de Santa Columba|Altar de Santa Columba|Triptico de Santa Columba|Columba Triptych;5;16
+La habitación roja;Armonía en rojo|The Dessert: Harmony in Red;5;16
+Santa Práxedes;Saint Praxedis;5;16
+La Grenouillère;;5;16
+Natividad mística;The Mystical Nativity;5;16
+Adoración de los Reyes Magos;Epifanía|Adoration of the Magi;5;15
+Ia Orana Maria;;5;15
+Júpiter, Neptuno y Plutón;Jupiter, Neptune and Pluto;5;15
+La hermana mayor;The Elder Sister;5;15
+Cleopatra y César;Cleopatra ante César|Cleopatra and Caesar;5;15
+Arando en el Nivernais;Le sombrage|Labourage nivernais|El hundimiento|Arando en Nevers|Ploughing in the Nivernais;5;15
+Retrato de Isabel Porcelana;Retrato de Isabel Lobo Velasco de Porcel|Retrato de Isabel de Porcel|Retrato de Isabel Cobos Porcel|Isabel Porcel|Portrait of Doña Isabel de Porcel;5;15
+¿Qué, estás celosa?;Aha Oe Feii?;5;15
+La Schiavona;;5;15
+Tarquinio y Lucrecia;Tarquin and Lucretia;5;15
+Pala de Castelfranco;Castelfranco Madonna;5;15
+Retrato de Jacob de Gheyn III;Portrait of Jacob de Gheyn III;5;15
+Jóvenes griegos presenciando una pelea de gallos.;Young Greeks Attending a Cock Fight;5;15
+El dux Leonardo Loredan;Portrait of Doge Leonardo Loredan;5;15
+Díptico de Wilton;Maestro del diptico de Wilton|Wilton Diptych;5;15
+woman lll;Woman III;5;15
+La Gioconda del Prado;Mona Lisa del Prado;5;15
+El Prestidigitador;The Conjurer;5;15
+La Infanta Margarita en azul;Infanta Margarita Teresa in a Blue Dress;5;15
+El origen de la Vía Láctea;Origine della Via Lattea|The Origin of the Milky Way;5;15
+Autorretrato con un amigo;Self-portrait with a friend;5;15
+El primer beso;L'Amour et Psyché|Amor y Psique|Amor and Psyche, children;5;15
+The Hands Resist Him;;5;15
+En el cenador;In the Arbour;5;15
+Virgen de Loreto;Madona del velo|Madonna del velo|Virgen del Velo|Madonna of Loreto;5;15
+Cupido durmiendo;Amorino dormiente|Amorcillo durmiente|Sleeping Cupid;5;15
+Tributo de la moneda;Cristo della moneta|The Tribute Money;5;15
+El niño que llora;Giovanni Bragolin|Bragolin|The Crying Boy;5;15
+Madonna Aldobrandini;Virgen Aldobrandini|Madona Aldobrandini|Aldobrandini Madonna|Garvagh Madonna;5;15
+Los lictores llevan a Bruto los cuerpos de sus hijos;The Lictors Bring to Brutus the Bodies of His Sons;5;15
+Madona de Casa Tempi;Madonna Tempi|Madona Tempi|Tempi Madonna;5;15
+San Francisco de Asís en éxtasis;Saint Francis of Assisi in Ecstasy;5;15
+Virgen del pez;Madonna with the Fish;5;15
+Retrato de Simonetta Vespucci;Portrait of Simonetta Vespucci;5;15
+La duquesa fea;Una anciana lo grotesco|Retrato de una anciana|The Ugly Duchess;5;15
+Sagrada Familia Canigiani;Canigiani Holy Family;5;15
+Nuestra Señora de la Puerta del Alba;Our Lady of the Gate of Dawn;5;15
+La raya verde;The Green Stripe;5;15
+Don Manuel Osorio Manrique de Zúñiga, niño;Don Manuel Osorio Manrique de Zuniga|Don Manuel Osorio de Zuniga;5;15
+La ninfa sorprendida;La Nymphe surprise;5;15
+Martes de carnaval;Mardi Gras;5;15
+El desesperado;Le Désespéré;5;15
+Tríptico de Miraflores;Retablo de la Cartuja de Miraflores|Miraflores Altarpiece;5;15
+Altar Heller;Heller Altarpiece;5;15
+Mañana de septiembre;September Morn;5;15
+Erasístrato descubre la causa del mal de Antíoco;Erasistratus Discovering the Cause of Antiochus' Disease;5;15
+La mujer de azul;Portrait of a Lady in Blue;5;15
+Mujer leyendo;Woman Reading;5;15
+Joven sosteniendo una calavera;Portrait of a young man with a skull;5;15
+Helena Fourment saliendo del baño;Helena Fourment in a Fur Robe;5;15
+Jeanne Samary con vestido escotado;Portrait of the actress Jeanne Samary;5;15
+El árbol rojo;The Red Tree;5;15
+La mujer barbuda;Magdalena Ventura with Her Husband and Son;5;15
+El suicidio de Saúl;Suicide of Saul|The Suicide of Saul;5;15
+Hojas de otoño;Autumn Leaves;5;15
+Mujer tocando la guitarra;The Guitar Player;5;15
+La mañana de la ejecución de los streltsí;Morning of the Execution of the Streltsy;5;15
+Virgen del burgomaestre Meyer;Madona del burgomaestre Jakob Meyer|Madona de Darmstadt|Darmstädter Madonna|Darmstadt Madonna;5;15
+Mujer desnuda reclinada;Femme nue couchée;5;15
+Retrato de Andrea Doria como Neptuno;Portrait of Andrea Doria as Neptune;5;15
+Circe Invidiosa;Circe envidiosa;5;15
+Gassed;;5;15
+Díptico: La Crucifixión y el Juicio Final;Crucifixion and Last Judgement diptych;5;15
+Edipo y la esfinge;Oedipus and the Sphinx;5;15
+Paisaje con nieve;Landscape with Snow;5;15
+El profeta Balaam y su burra;Balaam y el ángel|Balaam and the Ass;5;15
+El campesino y el ladrón de nidos;The Peasant and the Nest Robber;5;15
+Santa Eulalia;Saint Eulalia;5;15
+El despertar de la conciencia;The Awakening Conscience;5;15
+Isabella;;5;15
+Cruz en las montañas;Altarpiece Tetschen;5;15
+Dama en amarillo escribiendo;A Lady Writing a Letter;5;15
+Trigal verde con ciprés;Green Wheat Field with Cypress;5;15
+La danza campesina;The Peasant Dance;5;15
+Madonna de la Victoria;Madonna della Vittoria;5;15
+La Japonesa;Madame Monet wearing a kimono;5;14
+Andrómeda;Andromeda Chained to the Rocks;5;14
+La infanta doña Margarita de Austria;Infanta Margarita Teresa in a Pink Dress;5;14
+La masía;The Farm;5;14
+El Cuarto Estado;The Fourth Estate;5;14
+El cegamiento de Sansón;The Blinding of Samson;5;14
+La clínica Gross;The Gross Clinic;5;14
+Bonaparte cruzando los Alpes;Bonaparte Crossing the Alps;5;14
+Virgen de las arpías;Madonna of the Harpies;5;14
+Paisaje con la parábola del sembrador;Parable of the Sower;5;14
+Composición suprematista;Suprematist Composition;5;14
+La parisina;La Parisienne;5;14
+El pecado;The Sin;5;14
+Tobías y el ángel;Tobias and the Angel;5;14
+Madonna de Manchester;Manchester Madonna;5;14
+Lady Godiva;Godiva;5;14
+Un cangrejo de espaldas;Crab on its Back;5;14
+Bodegón del zapato viejo;Still Life with Old Shoe;5;14
+Paisaje con la huida a Egipto;Landscape with the Flight into Egypt;5;14
+Autorretrato con la oreja vendada y caballete;Self-Portrait with Bandaged Ear;5;14
+El emperador Carlos V con un perro;Portrait of Charles V with a Dog;5;14
+Lucrezia Panciatichi;Portrait of Lucrezia Panciatichi;5;14
+La Caída de los Condenados;The Fall of the Damned;5;14
+La fuente de eterna juventud;The fountain of youth;5;14
+La flagelación de Cristo;The Flagellation of Christ;5;14
+Virgen de la granada;Virgen con el Niño y seis ángeles|Madonna con il Bambino e sei angeli|Madonna of the Pomegranate;5;14
+La Virgen y el Niño con santos;San Zaccaria Altarpiece;5;14
+Cesto con frutas;Canasta de fruta|Cesto con fruta|Cesto de frutas|Basket of Fruit;5;14
+La resurrección de Lázaro;The Raising of Lazarus;5;14
+San Miguel;Saint Michael Vanquishing Satan;5;14
+Retrato de una princesa de la casa de Este;Retrato de princesa|Portrait of a Princess;5;14
+Díptico de Viena;Vienna Diptych;5;14
+Muchacho pelando fruta;Muchacho cogiendo fruta|Boy Peeling Fruit;5;14
+Escena de la firma de la Constitución de los Estados Unidos;Scene at the Signing of the Constitution of the United States;5;14
+Anunciación de Cestello;Annunciazione di Cestello|Cestello Annunciation;5;14
+Madonna con el niño y Santa Ana;Madonna de los Palafreneros|Madonna and Child with Saint Anne;5;14
+Retrato de Maffeo Barberini;Portrait of Maffeo Barberini, later Pope Urban VIII;5;14
+Marta y María;Marta y Maria Magdalena|Martha y Maria Magdalena|Martha and Mary Magdalene;5;14
+Vista del pueblo;View of the Village;5;14
+Cien caballos;One Hundred Horses;5;14
+El molino de Wijk bij Duurstede;The Windmill at Wijk bij Duurstede;5;14
+Entrada de los Cruzados en Constantinopla;Entry of the Crusaders in Constantinople;5;14
+Hip;Hip, Hip, Hurrah!;5;14
+El homenaje prusiano;Prussian Homage;5;14
+La apoteosis de Homero;The Apotheosis of Homer;5;14
+La danza de la vida;Dance of Life;5;14
+Magdalena penitente de la lamparilla;Magdalene with the Smoking Flame;5;14
+La muerte de Séneca;The Death of Seneca;5;14
+Pechos con flores rojas;Two Tahitian Women;5;14
+Huerto en flor con vistas de Arles;View of Arles, Flowering Orchards;5;14
+Regatas en Argenteuil;Régates à Argenteuil;5;14
+Salomé;Salome with the Head of John the Baptist;5;14
+Átropos o Las Parcas;El Destino|Las Parcas|Átropos;5;14
+Retrato de un orfebre;Portrait of a Man with a Blue Chaperon;5;14
+Alegoría de la inclinación;Allegoria dell'Inclinazione|Allegory of Inclination;5;14
+Cupido y Psique;Amor and Psyche;5;14
+El buey desollado;El buey en canal|Le bœuf ecorche|Le boeuf écorché|A Slaughtered Ox;5;14
+La adoración del becerro de oro;The Adoration of the Golden Calf;5;14
+El jardín del artista en Giverny;The artist's garden at Giverny;5;14
+Clase de ballet;The Ballet Class;5;14
+Retrato de Isabel de Este;Portrait of Isabella d'Este;5;14
+Noli me tangere;;5;14
+Desnudo sentado en un diván;Nude Sitting on a Divan;5;14
+Predicación de san Marcos en Alejandría;Saint Mark Preaching in Alexandria;5;14
+Virgen del Rosario con el Niño;Virgin and Child with a Rosary;5;14
+Triple retrato de Carlos I;Charles I in Three Positions;5;14
+Violante;;5;14
+Diana y Calisto;Diana and Callisto;5;14
+La perla y la ola;The Pearl and the Wave;5;14
+Mariana;;5;14
+La bella chocolatera;The Chocolate Girl;5;14
+Retrato de Adele Bloch-Bauer II;Adele Bloch-Bauer II;5;14
+Agnus Dei;Agnus Dei Zurbaran;5;14
+Malle Babbe;;5;14
+En el invernadero;In the Conservatory;5;14
+Autorretrato con perro negro;Self-Portrait with a Black Dog;5;14
+Bocca Baciata;;5;14
+Masacre en Corea;Massacre in Korea;5;14
+Retrato de Clarisa Strozzi;Portrait of Clarissa Strozzi;5;14
+Retrato de Tomás Moro;Portrait of Sir Thomas More;5;14
+Venta de esclavos en Roma;Slave Market in Rome;5;14
+Angelus Novus;;5;14
+La ciudad se levanta;The City Rises;5;14
+Hércules lucha con el león de Nemea;Hercules Fighting the Nemean Lion;5;14
+Laura;;5;14
+Interior;;5;14
+Rosa y Azul;Pink and Blue;5;14
+El martirio de los diez mil cristianos;Martyrdom of the Ten Thousand;5;14
+Autorretrato en un espejo convexo;Self-portrait in a Convex Mirror;5;14
+Retrato de un cartujo;Portrait of a Carthusian;5;14
+Los favoritos del emperador Honorio;The Favourites of the Emperor Honorius;5;14
+La Tribuna de los Uffizi;The Tribuna of the Uffizi;5;14
+Zawieszenie dzwonu Zygmunta;The Hanging of the Sigismund bell at the Cathedral Tower in 1521 in Kraków;5;14
+El rapto de Ganimedes;Ganymede Abducted by the Eagle;5;14
+Madonna Rucellai;Rucellai Madonna;5;14
+Huida a Egipto;The Flight into Egypt;5;14
+Leónidas en las Termópilas;Leonidas at Thermopylae;5;14
+La bohemia;The Bohemian;5;13
+El sacrificio de Isaac;Abraham's Sacrifice;5;13
+El éxtasis de Santa Cecilia;The Ecstasy of Saint Cecilia;5;13
+Historias de Lucrecia;The Story of Lucretia;5;13
+Cristo en el monte de los Olivos;Agony in the Garden;5;13
+El entierro de Santa Lucía;La sepultura de Santa Lucia|The Burial of Saint Lucy;5;13
+Una mujer negra;Murzynka|Black Woman;5;13
+El tahúr;The Cheat with the Ace of Diamonds;5;13
+Los jugadores de ajedrez;The Chess Players;5;13
+El árbol solitario;Paisaje campestre|Paisaje campestre a la luz matinal|Solitary Tree;5;13
+Hombre comiendo judías;The Bean Eater;5;13
+Retrato de Elisabeth Lederer;Portrait of Elisabeth Lederer;5;13
+Natividad con San Francisco y San Lorenzo;Nativity with Saint Francis and Saint Lawrence;5;13
+Maestà;Maestà di Santa Trinitá;5;13
+Le pigeon aux petits pois;;5;13
+El taller de Bazille;Bazille's Studio;5;13
+El jardín de la muerte;Kuoleman puutarha|The Garden of Death;5;13
+Celos;Jealousy;5;13
+Retablo de San Juan Bautista;The Altar of St. John;5;13
+El bibliotecario;The Librarian;5;13
+El cisne amenazado;The Threatened Swan;5;13
+Buena suerte;God Speed;5;13
+La Batalla de Trafalgar;The Battle of Trafalgar;5;13
+La Vida;La Vie;5;13
+Ansiedad;Anxiety;5;13
+El hombre propone, Dios dispone;Man Proposes, God Disposes;5;13
+Princesa de Broglie;;5;13
+El hombre del guante;Joven con guante|Ritratto d'uomo con un guanto|Man with a Glove;5;13
+Vista sobre los techos, efecto de nieve;Vue de toits;5;13
+Nuestras costas inglesas;Our English Coasts;5;13
+La muerte de César;The Death of Caesar;5;13
+Dos cangrejos;Two Crabs;5;13
+Gabrielle Cot;;5;13
+La música;Music;5;13
+Retablo de San Zenón;Retablo de san Zeno|San Zeno Altarpiece;5;13
+Alegoría de la gula y la lujuria;An Allegory of Intemperance;5;13
+Retrato de una violinista;Portrait of a violinist;5;13
+Los amados de mi esposa;My Wife's Lovers;5;13
+Los amores de Paris y Helena;Paris and Helen;5;13
+Retrato del doctor Félix Rey;Portrait of Doctor Felix Rey;5;13
+Las Arenas de Arlés;Arena in Arles;5;13
+El maizal;The Cornfield;5;13
+Partida de ajedrez;Portrait of the Artist's Sisters Playing Chess;5;13
+Salomé con la cabeza de Juan el Bautista;;5;13
+Tríptico de los santos ermitaños;The Hermit Saint;5;13
+Mademoiselle Caroline Rivière;;5;13
+El pie varo;The Clubfoot;5;13
+Tríptico Braque;Braque Triptych;5;13
+Ecce Ancilla Domini;;5;13
+Escenas de la Pasión de Cristo;Scenes from the Passion of Christ;5;13
+Jesús entre los doctores;Christ Among the Doctors;5;13
+La muerte de Procris;The Death of Procris;5;13
+Asuero y Hamán en la fiesta de Ester;Ahasuerus and Haman at the Feast of Esther;5;13
+Descendimiento en el sepulcro;;5;13
+La coronación de espinas;Christ Crowned with Thorns;5;13
+Piscina en un harem;Pool in a Harem;5;13
+Cleopatra probando venenos en condenados a muerte;Cleopatra Testing Poisons on Condemned Prisoners;5;13
+Composición VII;Composition VII;5;13
+Sola en el mundo;Alone in the World;5;13
+El príncipe Baltasar Carlos con un enano;Prince Balthasar Charles With a Dwarf;5;13
+La encantadora de serpientes;;5;13
+La masacre de los inocentes;Massacre of the Innocents;5;13
+El cerrojo;The Lock;5;13
+El brunswicker negro;The Black Brunswicker;5;13
+Retrato del cardenal Niccolò Albergati;Portrait of Cardinal Niccolò Albergati;5;13
+El chivo expiatorio;The Scapegoat;5;13
+Pubertad;Puberty;5;13
+La salida del baile de máscaras;The Duel After the Masquerade;5;13
+El jinete polaco;The Polish Rider;5;13
+Advenimiento y triunfo de Cristo;Advent and Triumph of Christ;5;13
+En el año 2000;En L'An 2000;5;13
+Ofrenda a Venus;El culto de Venus|The Worship of Venus;5;13
+Mujeres en la ventan;Two Women at a Window;5;13
+Mujer joven empolvándose;Young Woman Powdering Herself;5;13
+La gallina ciega;Blind Man's Bluff;5;13
+Leda con el cisne;Leda e il cigno|Leda;5;13
+Le Chahut;El Can-can;5;13
+Miss La La en el Circo Fernando;Miss La La at the Cirque Fernando;5;13
+El nacimiento de la Vía Láctea;;5;13
+El Jardín del Edén con la caída del hombre;The Garden of Eden with the Fall of Man;5;13
+Desollamiento de Marsias;Apolo y Marsias|The Flaying of Marsyas;5;13
+La Emperatriz Eugenia rodeada de sus damas de compañía;Empress Eugenie Surrounded by her Ladies in Waiting;5;13
+Retrato de Hieronymus Holzschuher;Portrait of Hieronymus Holzschuher;5;13
+María Antonieta y sus hijos;Marie Antoinette and Her Children;5;13
+Cesto de manzanas;Cesta de manzanas|The Basket of Apples;5;13
+Lilith;;5;13
+Nevermore O Taïti;Nevermore;5;13
+Mujer con una flor;Tahitian Woman with a Flower;5;13
+Derbi en Epsom;The 1821 Derby at Epsom;5;13
+Tríptico de los Siete Sacramentos;The Seven Sacraments;5;13
+Cerca del mar;Fatata te Miti;5;13
+Sadkó en el reino subacuático;Sadko;5;13
+Estudio de un desnudo;Suzanne cosiendo|Study of a Nude;5;13
+El valle del descanso;The Vale of Rest;5;13
+Granja en Provenza;Farmhouse in Provence;5;13
+Muchacha cosiendo a máquina;Girl at Sewing Machine;5;13
+Chica en blanco;Girl in White;5;13
+Consummatum est;Jerusalem;5;13
+Virgen con el Niño y ángel;Madonna and Child with an Angel;5;13
+Muchachos jugando a soldados;Boys playing soldiers;5;13
+Retrato de Jorge Manuel Theotocópuli;Portrait of Jorge Manuel Theotocópuli;5;13
+Niñas en negro;Young Girls in Black;5;13
+Retrato de Antoine-Laurent Lavoisier y su esposa;Portrait of Antoine-Laurent Lavoisier and his wife;5;13
+San Jerónimo en meditación;Saint Jerome penitent;5;13
+Construcción blanda con judías hervidas;blanda con judias hervidas|Soft Construction with Boiled Beans;5;13
+Lady Lilith;;5;13
+Una mujer desnuda arregla su cabello frente a un espejo;Desnudo del espejo|Mujer frente a un espejo|A nude woman doing her hair before a mirror;5;13
+La señora de Georges Charpentier y sus hijos;Madame Georges Charpentier and her Children;5;13
+Adoración de la Trinidad;Adoracion de la Santísima Trinidad|Retablo de Todos los Santos|Adoration of the Trinity;5;13
+Libertad de la necesidad;Freedom from Want;5;13
+Jeremías prevé la destrucción de Jerusalén;Jeremiah Lamenting the Destruction of Jerusalem;5;13
+San José carpintero;San Jose|Joseph the Carpenter;5;13
+La edad de la inocencia;The Age of Innocence;5;13
+Who put Bella in the Wych Elm?;;5;13
+El lamento por Ícaro;The Lament for Icarus;5;13
+Traslación del cuerpo de San Marcos;St Mark's Body Brought to Venice;5;13
+Júpiter y Tetis;Jupiter and Thetis;5;13
+Retrato de Fray Hortensio Paravicino;Fray Hortensio Félix Paravicino;5;13
+La sombra de la muerte;The Shadow of Death;5;13
+La muerte del general Wolfe;The Death of General Wolfe;5;13
+Retrato de hombre con la medalla de Cosme el Viejo;Portrait of a Man with a Medal of Cosimo the Elder;5;13
+Crepúsculo;Dusk;5;12
+Virgen con el Niño y dos ángeles;La Lippina|Virgen Lippina;5;12
+Cristo muerto;Salma di Cristo|Corpse of Christ;5;12
+Pablo de Valladolid;Portrait of Pablo de Valladolid;5;12
+La visión de Ezequiel;Ezekiel's Vision;5;12
+Mujer joven en un marco;Girl in a Picture Frame;5;12
+La torre de los caballos azules;The Tower of Blue Horses;5;12
+La dama del abanico;The Lady with a Fan;5;12
+Retrato de Gerolamo Barbarigo;Retrato de Ariosto|El hombre de la manga azul|Portrait of Gerolamo Barbarigo;5;12
+Después de la comida en Ornans;After Dinner at Ornans;5;12
+Sesión solemne del Consejo de Estado;Ceremonial Sitting of the State Council on 7 May 1901 Marking the Centenary of its Foundation;5;12
+Mujer con collar de perlas en un palco;Woman with a Pearl Necklace in a Loge;5;12
+Tres estudios de Lucian Freud;Three Studies of Lucian Freud;5;12
+La carga de la caballería roja;Red Cavalry Riding;5;12
+En el agua;In the Water;5;12
+En un bote en Argenteuil;Boating;5;12
+Vuelo de brujas;Vuelo de brujos|Brujos por el aire|Witches' Flight;5;12
+House by the Railroad;;5;12
+Condesa de Haussonville;Comtesse d'Haussonville;5;12
+La bacante;The Bacchante;5;12
+Madonna Contarini;Contarini Madonna;5;12
+Odalisca con esclava;Odalisque à l'esclave;5;12
+Inger en la playa;Noches de verano nórdico|Inger on the Beach;5;12
+La odalisca morena;Brown Odalisque;5;12
+Esperanza II;Hope II;5;12
+San Jerónimo en su gabinete;;5;12
+Retrato de Lucrezia Valier;Una mujer veneciana vestida como Lucrecia|Retrato de una dama noble como Lucrecia|Portrait of a Woman;5;12
+La destrucción de Sodoma y Gomorra;The Destruction of Sodom And Gomorrah;5;12
+Asunción de María;;5;12
+El triunfo de Cleopatra;The Triumph of Cleopatra;5;12
+El venado herido;The Wounded Deer;5;12
+Chicos dibujando;Boys drawing;5;12
+Los Jueces Justos;The Just Judges;5;12
+Gas;;5;12
+La túnica de José;Joseph's Tunic;5;12
+Retrato de boda de Isaac Massa y Beatrix van der Laen;Portrait of a Couple probably Isaac Massa and Beatrix van der Laen;5;12
+Dos Monos;Two Chained Monkeys;5;12
+El puente de Europa;Le Pont de l'Europe;5;12
+Un orfebre en su taller;A Goldsmith in His Shop;5;12
+La Ejecución del mariscal Ney;The Execution of Marshal Ney;5;12
+Retrato de Agnolo Doni;Portrait of Agnolo Doni;5;12
+La predicación de la san Juan Bautista;The Sermon of Saint John the Baptist;5;12
+Retrato de Maddalena Doni;Retrato de Maddalena Strozzi|Portrait of Maddalena Doni;5;12
+Campo de trigo con una alondra;Wheat Field with a Lark;5;12
+Belisario;Belisario pidiendo limosna|Belisarius Begging for Alms;5;12
+Virgen con el Niño entronizados y santos;Madonna and Child Enthroned with Saints;5;12
+Díptico de la Virgen con Maarten van Nieuwenhove;Diptych of Maarten van Nieuwenhove;5;12
+Goya atendido por el doctor Arrieta;Goya atendido por Arrieta|Goya curado por Arrieta|Goya curado por el doctor Arrieta|Self-portrait with Dr Arrieta;5;12
+Venus y Cupido ladrón de miel;Cupid Complaining to Venus;5;12
+Hércules en la encrucijada;El juicio de Hércules|The Choice of Hercules;5;12
+San Pedro y San Pablo;Saint Peter and Saint Paul;5;12
+Whistlejacket;;5;12
+Doña Juana la Loca;Doña Joanna the Mad;5;12
+El matrimonio Sisley;Marriage of Sisley;5;12
+La lectura;The Reading;5;12
+Madonna Bardi;;5;12
+Natividad;The Nativity;5;12
+Presentación en el Templo;Presentation at the Temple;5;12
+Retrato de Susanna Lunden;Chapeau de paille|Portrait of Susanna Lunden;5;12
+Retrato de una familia;Réunion de famille;5;12
+Lujo, calma y voluptuosidad;Luxe, Calme et Volupté;5;12
+La romería de San Isidro;A Pilgrimage to San Isidro;5;12
+Yo mismo: Retrato-Paisaje;;5;12
+La joven pastora;The Young Shepherdess;5;12
+Spoliarium;;5;12
+Gilles;Pierrot;5;12
+Domingo por la mañana;Early Sunday Morning;5;12
+Niña en un sillón azul;Little Girl in a Blue Armchair;5;12
+Mujer desnuda sentada;Nude woman, Anna;5;12
+Ester y Asuero;Ester e Assuero|Esther before Ahasuerus;5;12
+Joven desnuda al espejo;Naked Young Woman in Front of the Mirror;5;12
+Curación del obseso;El milagro del obseso|Il miracolo dell'ossesso|La cura del loco|Milagro de la reliquia de la Cruz|Miracle of the Holy Cross at the Rialto Bridge;5;12
+La caza del hipopótamo;The Hippopotamus and Crocodile Hunt;5;12
+Mujer desnuda;Female Nude;5;12
+El pintor en su estudio;Un artista en su estudio|Artist in his studio;5;12
+Políptico de Valle Romita;Coronation of the Virgin with Saints;5;12
+El tocador de Ester;The Toilette of Esther;5;12
+Muchacha al piano;Jeune Fille au piano;5;12
+Carlos I de Inglaterra;Carlos I de cacería|Carlos I de caza|Charles I at the Hunt;5;12
+San Francisco en éxtasis;Saint Francis in the Desert;5;12
+La catedral de Salisbury vista a través de los campos;Salisbury Cathedral from the Meadows;5;12
+Venus y Cupido;Venus and Cupid;5;12
+Burbujas;El mundo de un niño|Bubbles;5;12
+Esperanza I;Hope I;5;12
+El rapto de Psique;The abduction of Psyche;5;12
+Mona Lisa de Isleworth;Isleworth Mona Lisa;5;12
+La princesa cisne;The Swan Princess;5;12
+Círculo negro;Black Circle;5;12
+Niña con regadera;A Girl with a Watering Can;5;12
+Bóreas;;5;12
+Carro con buey negro;Cart with Black Ox;5;12
+La condesa de Chinchón;Countess of Chinchon;5;12
+Conversación galante;The Gallant Conversation, known as Paternal Admonition;5;12
+Madonna Durán;Durán Madonna;5;12
+Ulises y las sirenas;Ulysses and the Sirens;5;12
+Concierto de ángeles;The Concert of the Angels;5;12
+Autorretrato con collar de espinas y colibrí;Self-Portrait with Thorn Necklace and Hummingbird;5;12
+Inmaculada Concepción;The Immaculate Conception;5;12
+Las recolectoras de nueces;The Nut Gatherers;5;12
+Jasón y Medea;Jason and Medea;5;12
+El rey Cophetua y la doncella mendiga;King Cophetua and the Beggar Maid;5;12
+Paisaje con carro y tren;Landscape with a Carriage and a Train;5;12
+La visión de san Eustaquio;The Vision of Saint Eustace;5;12
+Madonnina;;5;12
+A Bigger Splash;;5;12
+Retrato de Jacopo Strada;Portrait of Jacopo Strada;5;12
+Victorine Meurent en traje de torear;MET 29.100.53|Mademoiselle V. . . in the Costume of an Espada;5;12
+Madonna con la diadema azul;Madonna with the Blue Diadem;5;12
+Sueño y su hermanastro Muerte;Sleep and his Half-brother Death;5;12
+La fiesta de San Nicolás;The Feast of Saint Nicholas;5;12
+Retrato de Sutherland de Winston Churchill;Portrait of Winston Churchill;5;12
+Titus como un monje;Titus as a Monk;5;12
+El pastor distraído;The Hireling Shepherd;5;12
+Retrato de Willem van Heythuysen;Willem van Heythuysen posing with a sword;5;12
+Desnudo azul;Blue Nude;5;12
+El entierro de la sardina;The Burial of the Sardine;5;12
+Retrato de la Marquesa de Santa Cruz;Portrait of the Marchioness of Santa Cruz;5;12
+Cristo en la columnaca;Christ at the Column;5;12
+Retrato de un joven sosteniendo un medallón;Young Man Holding a Roundel;5;12

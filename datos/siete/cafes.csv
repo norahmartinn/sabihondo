@@ -1,4 +1,4 @@
-respuesta;alias;nivel;orden_a_mano
+respuesta;alias;nivel;enlaces_wikipedia
 solo;café solo|espresso|expreso|exprés;1;1000000000
 cortado;café cortado;1;999999999
 con leche;café con leche;1;999999998
@@ -75,6 +75,9 @@ cappuccino húmedo;;4;999999980
 marocchino;;4;999999979
 bicerin;;4;999999978
 café corretto;corretto;4;999999977
+Café arábigo;Turkish coffee;4;69
+café instantáneo;instant coffee;4;50
+café árabe;Arabic coffee;4;33
 kopi luwak;café de civeta;5;1000000000
 café de Jamaica Blue Mountain;Blue Mountain;5;999999999
 café de Kona;;5;999999998
@@ -99,3 +102,14 @@ café mazagran;mazagrán;5;999999980
 einspänner;;5;999999979
 café au lait;au lait;5;999999978
 café cortado en vaso;;5;999999977
+drip brew;drip coffee;5;25
+Café de infusión fría;cold brew coffee;5;21
+Café pendiente;caffè sospeso;5;19
+Café Black Ivory;Black Ivory coffee;5;16
+Moretta;;5;15
+Café de diente de león;dandelion coffee;5;14
+bica;;5;13
+Caffè con panna;;5;11
+Geisha;Geisha coffee;5;9
+Café a prueba de balas;Bulletproof Coffee;5;5
+Blümchenkaffee;weak coffee;5;5

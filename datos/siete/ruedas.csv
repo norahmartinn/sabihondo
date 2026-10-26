@@ -1,4 +1,4 @@
-respuesta;alias;nivel;orden_a_mano
+respuesta;alias;nivel;enlaces_wikipedia
 coche;automóvil|carro|auto;1;1000000000
 bicicleta;bici;1;999999999
 moto;motocicleta;1;999999998
@@ -142,6 +142,8 @@ barbacoa con ruedas;;4;999999968
 cubo de fregona;;4;999999967
 taburete con ruedas;;4;999999966
 carro de la compra de la abuela;;4;999999965
+locomotora de vapor;Tren de vapor|steam locomotive;4;84
+tren de levitación magnética;tren maglev|trenes de levitación magnética|maglev;4;72
 giroscopio;;5;1000000000
 rueca;;5;999999999
 rueda hidráulica;;5;999999998
@@ -168,3 +170,117 @@ catapulta;;5;999999978
 ariete;;5;999999977
 torre de asedio;;5;999999976
 carro de guerra;;5;999999975
+vehículo de bomberos;camión autombomba|vehículos de bomberos|fire engine;5;59
+autorickshaw;Tricicleta;5;59
+vagón de ferrocarril;coche de ferrocarril|coche ferroviario|vagón ferroviario|railroad car;5;58
+pickup;Troca|pickup truck;5;58
+motoneta;escúter|motor scooter;5;57
+sedán;;5;56
+bicicleta de montaña;Bicimontana|BTT|Mountain bike;5;50
+bicicleta eléctrica;Pedelec|electric bicycle;5;48
+locomotora eléctrica;tren electrico|electric locomotive;5;47
+cupé;coupe;5;46
+autovolquete;volteo|volquete|remolque volquete|camión de volteo|camión volquete|dump truck;5;45
+locomotora diésel;diesel locomotive;5;42
+material rodante;vehiculos ferroviarios|material rodante ferroviario|rolling stock;5;41
+unidad eléctrica múltiple;UT|EMU|electric multiple unit;5;39
+tren de mercancías;tren de carga|freight train;5;39
+cañón Dora;80 cm K;5;38
+coche de niño;stroller;5;37
+tren de carretera;road train;5;35
+camión de recojo de desechos;camión recolector|camión de recolección de residuos|camión de recogida de desechos|garbage truck;5;34
+hoverboard scooter;self-balancing scooter;5;34
+tren semidirecto;tren exprés|exprés|express train;5;34
+vagón de pasajeros;coche de pasajeros|coche de viajeros|passenger railroad car;5;33
+ténder;;5;32
+tren pendular;tilting train;5;31
+automotor;cochemotor|railcar;5;30
+tranvía de tracción animal;horsecar;5;30
+vagón de carga;vagón de cargas|vagón de mercancía|vagón de mercancías|freight car;5;30
+unidad de tren diésel;UT diésel|automotor diésel|coche motor a diésel|unidad diesel multiple|diesel multiple unit;5;29
+ferrobús;railbus;5;29
+unidad de tren;conjunto de trenes|unidad multiple|multiple unit;5;29
+locomotora de maniobras;tractor de maniobras|switcher;5;28
+tow truck;Auxilio mecánico;5;28
+segmento A;city car;5;28
+bicicleta de carreras;racing bicycle;5;28
+máquina barredora;street sweeper;5;27
+bicicleta de reparto;cargo bike;5;27
+vagón cisterna;tank car;5;26
+motocultor;tillage machine;5;26
+tren de pasajeros;passenger train;5;25
+carro de mina;minecart;5;25
+bicicleta plegable;folding bicycle;5;24
+camión articulado;camión semiresemiremolque|camión semitrailer|semi-trailer truck;5;23
+tren de alta velocidad;tren rápido|tren bala|TAV|high-speed train;5;22
+triciclo manual;handbike|bicicleta manual|handcycle;5;21
+vagón cubierto;carreta cubierta|carro cubierto|covered wagon;5;21
+coche de dos pisos;coche doblepiso|bilevel rail car;5;20
+goitibera;carrilana|soapbox car;5;20
+bicicleta de pista;track bicycle;5;20
+bateadora;tamping machine;5;20
+camión minero;haul truck;5;19
+bicicleta motorizada;bicimotor|motorized bicycle;5;18
+tranvía con tracción por cable;tranvía funicular|cable car;5;18
+locomotora con depósito incorporado;tank locomotive;5;18
+aerotrén;tren aereo|Aérotrain;5;18
+autobomba aeroportuaria;autobomba|bomba aeroportuaria|camión autobomba|camión bomba aeroportuaria|airport crash tender;5;17
+hi-rail;vehiculo de carretera-ferrocarril|road-rail vehicle;5;17
+bicicleta urbana;bicicleta urbana europea|bicicleta citadina|European city bike;5;17
+furgón de equipajes;baggage car;5;16
+tren nocturno;night train;5;16
+vagón cerrado;covered goods wagon;5;16
+vehículo de tres ruedas;automovil de tres ruedas|tricar|three-wheeler;5;16
+tipo IORE de LKAB;Iore;5;14
+bicicleta de gravel;bicicleta todoterreno|bicicleta de aventura|gravel bike;5;14
+rickshaw con tracción humana;pulled rickshaw;5;13
+locomotora diesel-eléctrica;electro-diesel locomotive;5;13
+serie Rc de SJ;SJ Rc;5;13
+cisio;Charrete|gig;5;13
+furgón de cola;caboose;5;12
+capota rígida retráctil;cupé convertible|cupé cabrilot|retractable hardtop;5;12
+mezclador;mezcladora|mixer|concrete mixer truck;5;12
+bicilec;;5;12
+furgón de frenos;brake van;5;12
+coche transbordado;through coach;5;12
+locomotora de refuerzo;locomotora auxiliar|refuerzo de tracción|pusher engine;5;11
+diciclo;dicycle;5;11
+bicicleta inglesa;Roadster;5;10
+dogcart;;5;10
+unidad eléctrica múltiple de batería;BEMU|battery electric multiple unit;5;10
+coche automotor;motor coach;5;9
+vehículo ferroviario de hidrógeno;hydrogen train;5;9
+carretón;carretón ferroviario|rollbock;5;9
+vagón torpedo;torpedo wagon;5;9
+coche escoba;broom wagon;5;9
+vagón jalado por caballos;horse-drawn wagon;5;9
+soplador de nieve;rotary snowplow;5;9
+agit-tren;agit-train;5;9
+triciclo motorizado;trimoto|triciclo a motor|motorized tricycle;5;9
+coche con pasillo;corridor coach;5;9
+portavagones;transporter wagon;5;8
+furgón generador;generator car;5;8
+triciclo de carga;triciclo de reparto|cargo tricycle;5;8
+serie QJ de CR;China Railways QJ;5;8
+serie G de BVB;Serie GI|Tipo GI/1E|BVG Class G;5;8
+cochecito de niño;baby carriage;5;7
+gilera runner moto;Gilera Runner;5;7
+coche continuo;coche abierto|open coach;5;7
+trikke;;5;7
+vehículo pesado;LGV|vehiculo de transporte de mercancias|large goods vehicle;5;7
+bicicleta doméstica;bicicleta de paseo|bicicleta utilitaria|utility bicycle;5;7
+bicicleta alta;tall bike;5;7
+vagón jaula;stock car;5;7
+coches dos pisos de Bombardier;Bombardier Double-deck Coach;5;7
+bicicleta de carretera;road bicycle;5;7
+chuckwagon;;5;6
+coche intermedio;centre car;5;6
+automotor eléctrico;cochemotor eléctrico|electric rail motor coach;5;6
+go-ped;scooter motorizada|motorized scooter;5;6
+vehículo de modo dual;dual-mode vehicle;5;6
+camión lechero;milk truck;5;6
+serie NH de Honda;Honda NH series;5;6
+locomotora eléctrica de batería;battery electric locomotive;5;5
+autorraíl;SNCF X 4200;5;5
+coches de viajeros tipo Z de UIC;UIC-Z car;5;5
+tren turístico;tourist train;5;5

@@ -1,4 +1,4 @@
-respuesta;alias;nivel;orden_a_mano
+respuesta;alias;nivel;enlaces_wikipedia
 médico;médicos|doctor|doctora;1;1000000000
 enfermera;enfermero|enfermeras;1;999999999
 camilla;camillas;1;999999998
@@ -177,6 +177,11 @@ aislamiento;;4;999999963
 habitación de aislamiento;;4;999999962
 esclusa;;4;999999961
 lavamanos quirúrgico;;4;999999960
+prótesis;prosthesis;4;60
+respirador artificial;ventilator;4;57
+escalpelo;bisturi de diamante|scalpel;4;55
+audífono;aparato acústico|Sonotone|prótesis auditiva|auxiliar auditivo|audiófono|hearing aid;4;54
+marcapasos;marcapaso|artificial pacemaker;4;51
 capnógrafo;;5;1000000000
 oxímetro de pulso;;5;999999999
 bomba de jeringa;;5;999999998
@@ -204,3 +209,83 @@ pleur-evac;;5;999999977
 drenaje de Redon;;5;999999976
 ECMO;;5;999999975
 balón de contrapulsación;;5;999999974
+tira adhesiva sanitaria;parche curita|adhesive bandage;5;49
+bastón;bastón para caminar|walking stick;5;47
+implante dental;dental implant;5;46
+stent;;5;44
+válvula cardiaca;Válvulas del corazón|Válvula de corazon|heart valve;5;44
+esfigmomanómetro;tensiómetro médico|baumanómetro|esfingomanómetro|sphygmomanometer;5;43
+implante coclear;cochlear implant;5;42
+corazón artificial;artificial heart;5;40
+implante;implante médico|implant;5;37
+aparatología fija;dental braces;5;36
+válvula mitral;valvula bicuspide|mitral valve;5;36
+punto quirúrgico;surgical suture;5;36
+prótesis dental;dentures;5;35
+aguja hipodérmica;hipodermica|hypodermic needle;5;34
+desfibrilador externo automático;desfibrilador automatico|Desfibrilación Externa Automática|automated external defibrillator;5;34
+válvula aórtica;valvula de la aorta|aortic valve;5;33
+implante de mama;protesis de mama|implante de seno|Implante mamario|prótesis mamaria|breast implant;5;33
+válvula tricúspide;tricuspid valve;5;32
+corona;crown;5;32
+órgano artificial;órganos artificiales|artificial organ;5;30
+guantes médicos;medical glove;5;30
+órtesis;orthotic device;5;28
+cateterismo cardíaco;cardiac catheterization;5;28
+válvula pulmonar;pulmonary valve;5;27
+catéter venoso central;via venosa central|central venous catheter;5;27
+amalgama;amalgama dental|dental amalgam;5;27
+férula;splint;5;26
+lente intraocular;LIO|intraocular lens;5;26
+prostodoncia;prosthodontics;5;25
+pesario;pessary;5;25
+endoscopio;endoscope;5;25
+prótesis ocular;ojo de cristal|implante ocular|Prótesis oculares|ocular prosthesis;5;24
+puente;bridge;5;24
+fórceps;obstetrical forceps;5;23
+andador para discapacidad;walker;5;23
+carillas estéticas;veneer;5;23
+parche para el ojo;parche ocular|eyepatch;5;23
+instrumento quirúrgico;Instrumental quirúrgico|surgical instrument;5;22
+contador de gas;gas meter;5;22
+cataplasma;poultice;5;22
+tubo traqueal;endotracheal tube;5;21
+lanceta para sangre;blood lancet;5;21
+anillo vaginal;NuvaRing|anillo mensual|anillo anticonceptivo|anillos vaginales|anillo vaginal anticonceptivo|vaginal ring;5;21
+coronariografía;coronarography;5;20
+monitor continuo de glucosa;continuous glucose monitor;5;20
+ligadura;ligature;5;20
+desfibrilador automático implantable;implantable cardioverter-defibrillator;5;20
+prótesis visual;ojo bionico|ojos biónicos|implante de retina|visual prosthesis;5;19
+máquina de anestesia;anaesthetic machine;5;17
+empaste;inlays and onlays;5;17
+lente correctiva;corrective lens;5;17
+banda gástrica ajustable;adjustable gastric band;5;17
+vehículo de movilidad;mobility scooter;5;16
+drenaje quirúrgico;surgical drain;5;16
+neuroprótesis;neuroprosthetics;5;16
+catéter de Foley;Catéter urinario|Foley catheter;5;16
+hemóstato;hemostat;5;16
+implante cerebral;brain implant;5;15
+portaaguja;needle holder;5;14
+stent coronario;coronary stent;5;14
+agujas de Kirschner;Kirschner wire;5;14
+sistema de bolsa de ostomía;ostomy pouching system;5;14
+angiografía coronaria;Coronary catheterization;5;14
+bastón de caminata;trekking pole;5;13
+ortodoncia invisible;alineadores invisibles|clear aligner;5;13
+fibroscopio;fiberscope;5;12
+lavaojos;lavaojos de emergencia|lavador de ojos|Fuente lavaojos|eyewash;5;12
+silla de ruedas eléctrica;silla de ruedas con motor|silla de ruedas motorizada|electric wheelchair;5;12
+catéter central de inserción periférica;PICC|peripherally inserted central catheter;5;12
+shunt cerebral;cerebral shunt;5;12
+esfigmógrafo;sphygmograph;5;11
+pletismógrafo;plethysmograph;5;10
+cemento odontológico;dental cement;5;10
+tubo de timpanostomía;tympanostomy tube;5;10
+tijera quirúrgica;surgical scissors;5;10
+oxigenador;oxygenator;5;9
+instrumento dental;dental instrument;5;9
+gastroscopio;gastroscope;5;8
+ayuda a la movilidad;mobility aid;5;8
+pupilómetro;pupillometer;5;8

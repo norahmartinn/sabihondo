@@ -137,6 +137,48 @@ def terror_halloween():
              for f in _csv.DictReader(open(DATOS / "miedo.csv", encoding="utf-8"), delimiter=";")]
     junta("terror_halloween", filas, "ediciones_wikipedia")
 
+# ── ampliación (2026-10-26): a lo puesto a mano se le suma una cola de Wikidata/Wikipedia, filtrada ──
+def _minus(n): return n[:1].islower()
+def frutas():
+    fuera = r"drupa|^baya$|aquenio|c[aá]psula|cari[oó]pside|silicua|^pomo$|s[aá]mara|pseudofruto|fol[ií]culo|legumbre|fruta seca|arroz|^dal$|basmati|^chile|pimienta|pepinillo|calabaza gigante|^fruto$|infrutescencia|hesperidio|pepónide|balausta|sorosis|sicono"
+    junta("frutas", [f for f in cola5("frutas_wd", [(60, 4)], minimo=3, fuera=fuera) if _minus(f[0])], "enlaces_wikipedia")
+def verduras():
+    fuera = r"kimchi|encurtid|umeboshi|tsukemono|takuan|tursu|vegetales|verdura de hoja|ra[ií]z alimenticia|^mel[oó]n|sand[ií]a|^t[eé]$|gari|beni|gulqand|limón|kombu|calabaza gigante"
+    junta("verduras", [f for f in cola5("verduras_wd", [(60, 4)], minimo=3, fuera=fuera) if _minus(f[0])], "enlaces_wikipedia")
+def cuadros():
+    junta("cuadros", cola5("cuadros_wd", [(40, 3), (20, 4)], minimo=12), "enlaces_wikipedia")
+def mascotas_famosas():
+    junta("mascotas_famosas", cola5("mascotas_wd", [(40, 3), (15, 4)], minimo=3, fuera=r"Bhaskara|^Patron$|^Peter$|^Trump$|^Happy$"), "enlaces_wikipedia")
+def cafes():
+    junta("cafes", cola5("cafes_wd", [(30, 4)], minimo=4, fuera=r"en Japón|Boss|Nabob|saudí"), "enlaces_wikipedia")
+def platos_ccaa():
+    fuera = r"Mesón|Colmado|Cervecer|Esquina|Comptoir|Paco|Cuines|^oba|^tapa$|^pincho$|^embutido$|^Jamón de España$"
+    junta("platos_ccaa", cola5("platos_wd", [(30, 4)], minimo=2, fuera=fuera), "enlaces_wikipedia")
+def canciones_disney():
+    t = json.loads((D5 / "canciones_disney_cat.json").read_text(encoding="utf-8"))
+    cola = [(SIN_PAREN(m["title"]), [], 5, 0) for m in t["query"]["categorymembers"] if m["ns"] == 0 and not m["title"].startswith("List")]
+    junta("canciones_disney", cola, "orden_a_mano")
+
+def ruedas():
+    junta("ruedas", [f for f in cola5("ruedas_wd", [(60, 4)], minimo=5, fuera=r"\d|blindad|BTR|GAZ") if _minus(f[0])], "enlaces_wikipedia")
+def maquillaje():
+    fuera = (r"perfume|pasta de dientes|champ[uú]|desodorante|protector solar|pedicura|loci[oó]n|acondicionador|enjuague|afeitar|ambientador|"
+             r"aftershave|jab[oó]n|t[oó]nico|antiedad|hidratante|aerosol|calamina|eau de|blanqueamiento|elaboraci|aceite|agua de|cosm[eé]tic|attar|mascarilla|queratopig|peluquer")
+    junta("maquillaje", [f for f in cola5("maquillaje_wd2", [(40, 4)], minimo=8, fuera=fuera) if _minus(f[0])], "enlaces_wikipedia")
+def hospital():
+    fuera = r"b[aá]culo|mon[oó]culo|bicitaxi|^e$|Braille|buceo|lector|lente de contacto|toalla sanitaria|pañal|bast[oó]n blanco|saturaci[oó]n|interfaz|papal|bord[oó]n|pata de palo|dientes de oro|isabelino|solapa|cerebro artificial|chip"
+    junta("hospital", [f for f in cola5("hospital_wd", [(50, 4)], minimo=8, fuera=fuera) if _minus(f[0])], "enlaces_wikipedia")
+def sin_pelota():
+    """Deportes de Wikidata que no son juegos de pelota (ni usan balón), además de lo puesto a mano."""
+    fuera = (r"polo|pelota|bola|bolos|billar|snooker|petanca|croquet|hockey sobre hierba|lacrosse|cr[ií]quet|golf|front[oó]n|squash|s[oó]ftbol|b[eé]isbol|"
+             r"bal[oó]n|v[oó]ley|rugby|f[uú]tbol|tenis|p[aá]del|ping|sudoku|naipes|backgammon|damas|^go$|p[oó]quer|bridge|mahjong|juego|kickball|bocce|"
+             r"liga|campeonato|copa|torneo|deporte|^hockey$|^salto$| y |problema|armamentista|mewing|^puente$|turismo|herradura|caballito|showdown|trabajo|"
+             r"ajedrez .|ciclismo y|feminismo|paralímpic|adaptad|camogie|rounders|stud|tarot|businessman|armament|programaci|samba|antecedentes|"
+             r"bioespele|exposici|hockey sala|hurling|shinty|bandy|tchoukball|sepak|kin-ball|korfbal|netball|pato")
+    filas = [f for f in cola5("deportes_wd", [(60, 4)], minimo=20, fuera=fuera) if _minus(f[0])]
+    pelota = {r["n"] for r in wd5("deportes_wd") if r["f"].get("pelota")}
+    junta("sin_pelota", [f for f in filas if f[0] not in pelota], "enlaces_wikipedia")
+
 TODAS5 = [cobros_aerolineas, cuerpo_uno, jdt, disney_channel, netflix, pixar, badbunny, canciones_disney, instrumentos, frutas, verduras,
           cafes, platos_ccaa, inditex, maquillaje, juegos_mesa, poker, mus, barca, palabras_w, gentilicios, doble_rr, cion, criaturas,
           mascotas_famosas, presidentes, cuadros, ruedas, hospital, pelis2026, sin_pelota, terror_halloween, bruja_cuento, vampiro, hombre_lobo, tim_burton, monedas_euro, porcentajes, golpear_pelota, paises_africa, playa, sabores_patatas, bolsos, camping]

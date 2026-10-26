@@ -43,3 +43,34 @@ wiki("pelis2026_eeuu", "en", "List of American films of 2026")
 wiki("pelis2026_terror", "en", "List of horror films of 2026")
 wiki("pelis2026_cine", "es", "Anexo:Cine en 2026")
 wiki("pelis2026_uk", "en", "List of 2026 box office number-one films in the United Kingdom")
+
+# ── ampliación (2026-10-26): más respuestas para las que iban solo a mano ──
+MAS_CONSULTAS = {
+ "frutas_wd":     q("{ ?x wdt:P279+ wd:Q1364 } UNION { ?x wdt:P31 wd:Q1364 } UNION { ?x wdt:P279+ wd:Q3314483 } UNION { ?x wdt:P31/wdt:P279* wd:Q3314483 }"),
+ "verduras_wd":   q("{ ?x wdt:P279+ wd:Q11004 } UNION { ?x wdt:P31/wdt:P279* wd:Q11004 }"),
+ "cuadros_wd":    q("?x wdt:P31 wd:Q3305213 ; wikibase:sitelinks ?s . FILTER(?s >= 12)"),
+ "mascotas_wd":   q("{ ?x wdt:P31 ?t . VALUES ?t { wd:Q144 wd:Q146 wd:Q15720625 wd:Q27120684 wd:Q15831457 } } UNION { ?x wdt:P31 wd:Q26401003 ; wdt:P10241 ?sp . VALUES ?sp { wd:Q144 wd:Q146 } }"),
+ "platos_wd":     q("?x wdt:P2012 wd:Q622512 ."),
+ "maquillaje_wd": q("{ ?x wdt:P279+ wd:Q16653 } UNION { ?x wdt:P31/wdt:P279* wd:Q16653 }"),
+ "cafes_wd":      q("{ ?x wdt:P279+ wd:Q2271219 } UNION { ?x wdt:P31/wdt:P279* wd:Q2271219 } UNION { ?x wdt:P279+ wd:Q8486 }"),
+ "monstruos_wd":  q("{ ?x wdt:P31/wdt:P279* wd:Q15734 } UNION { ?x wdt:P279+ wd:Q15734 }"),
+}
+for n, c in MAS_CONSULTAS.items(): sparql(n, c)
+wiki("jdt_en", "en", "List of A Song of Ice and Fire characters")
+baja("canciones_disney_cat.json", "https://en.wikipedia.org/w/api.php?" + urllib.parse.urlencode({"action": "query", "list": "categorymembers", "cmtitle": "Category:Disney songs", "cmlimit": "500", "format": "json"}))
+MAS_CONSULTAS2 = {
+ "ruedas_wd":      q("?x wdt:P279+ wd:Q15618781 ."),
+ "maquillaje_wd2": q("{ ?x wdt:P279+ wd:Q131207 } UNION { ?x wdt:P31/wdt:P279* wd:Q131207 }"),
+ "hospital_wd":    q("{ ?x wdt:P279+ wd:Q6657015 } UNION { ?x wdt:P279+ wd:Q6554101 }"),
+ "deportes_wd":    b4.PRE + """SELECT ?x (SAMPLE(?es) AS ?xLabel) (SAMPLE(?e) AS ?en) (SAMPLE(?l) AS ?links) (SAMPLE(?a) AS ?art) (GROUP_CONCAT(DISTINCT ?alt;separator="|") AS ?alts) (SAMPLE(?pel) AS ?pelota) WHERE {
+  { ?x wdt:P31/wdt:P279* wd:Q349 } UNION { ?x wdt:P279+ wd:Q349 }
+  ?x wikibase:sitelinks ?l .
+  OPTIONAL { ?x wdt:P279*/wdt:P31? wd:Q877517 . BIND(1 AS ?pel) }
+  OPTIONAL { ?x wdt:P2283 ?u . ?u wdt:P279* wd:Q18545 . BIND(1 AS ?pel) }
+  OPTIONAL { ?x rdfs:label ?es FILTER(LANG(?es)="es") }
+  OPTIONAL { ?x rdfs:label ?e FILTER(LANG(?e)="en") }
+  OPTIONAL { ?x skos:altLabel ?alt FILTER(LANG(?alt)="es") }
+  OPTIONAL { ?a schema:about ?x ; schema:isPartOf <https://es.wikipedia.org/> }
+} GROUP BY ?x""",
+}
+for n, c in MAS_CONSULTAS2.items(): sparql(n, c)

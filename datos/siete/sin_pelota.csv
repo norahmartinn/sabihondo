@@ -1,4 +1,4 @@
-respuesta;alias;nivel;orden_a_mano
+respuesta;alias;nivel;enlaces_wikipedia
 natación;nadar;1;1000000000
 atletismo;correr|running;1;999999999
 ciclismo;bici|bicicleta;1;999999998
@@ -148,6 +148,24 @@ freestyle;;4;999999967
 monopatín;;4;999999966
 esgrima histórica;;4;999999965
 tiro deportivo;;4;999999964
+carrera a pie;footing|jogging;4;106
+patinaje artístico sobre hielo;figure skating;4;88
+turf;carrera de caballos|horse racing;4;84
+vals;waltz;4;81
+esquí alpino;eslalom gigante|giant slalom|Super-G|alpine skiing;4;77
+snowboarding;tablanieve|surf de nieve|surf nevero;4;74
+breakdance;B-boying|B girling;4;73
+tauromaquia;bullfighting;4;73
+lucha libre profesional;wrestling|catch|lucha Profesional|pressing catch|professional wrestling;4;71
+navegación a vela;sailing;4;70
+blackjack;Black Jack 21|veintiuno;4;64
+xiangqi;ajedrez chino;4;63
+ciclismo de competición;cycle sport;4;63
+pelea de gallos;gallera|riña de gallos|peleas de gallos|gallero|cockfight;4;63
+polca;polca rusa|polka;4;62
+shōgi;ajedrez japones|shogi japonés;4;61
+acrobacia;acrobatismo|acrobatics;4;61
+cetrería;cetreros|cetrero|acetrería|falconry;4;60
 sumo de robots;;5;1000000000
 lucha de brazos;pulso|armwrestling;5;999999999
 lucha de dedos;;5;999999998
@@ -171,3 +189,138 @@ levantamiento de carro;orga jokoa;5;999999981
 lasto altxatzea;;5;999999980
 lokotx biltzea;;5;999999979
 ajedrez boxeo;chessboxing;5;999999978
+triple salto;salto triple|triple jump;5;59
+combinada nórdica;combinado nordico|Nordic combined;5;59
+patinaje de velocidad sobre pista corta;short track|patinaje en pista corta|patinaje de velocidad en pista corta|short-track speed skating;5;57
+marcha atlética;racewalking;5;57
+jiu-jitsu brasileño;Jujutsu brasileño|Jujitsu brasileño|Brazilian jiu-jitsu;5;56
+paintball;Woodsball|Gotcha;5;55
+monopatinaje;skateboarding;5;55
+chaturanga;chaturang|chaturanga antiguo|chaturanga indio;5;54
+pulsear;;5;54
+animación;porra|cheer|barra|porrismo|cheerleading;5;54
+descenso de ríos;;5;52
+carrera de velocidad;carreras de velocidad|sprinting;5;52
+esquí acrobático;esquí freestyle|esquí estilo libre|freestyle skiing;5;51
+saltar a la comba;Juego de la comba|Saltar la cuerda|Saltar la soga|skipping rope;5;51
+pancracio;pankration;5;50
+minueto;Menuet|Minuet|Menuetto|Minue;5;50
+levantamiento de potencia;fuerza atlética;5;50
+aeróbic;Aerobics|Aero dance;5;50
+lucha libre olímpica;lucha amateur|lucha libre deportiva|lucha femenina|lucha estilo libre|lucha deportiva|freestyle wrestling;5;50
+carrera de relevos;carreras de relevos|relevos|carreras con relevos|relay race;5;50
+rodeo estadounidense;rodeo;5;49
+cancán;;5;48
+escalada en roca;rock climbing;5;47
+gimnasia en trampolín;trampoline gymnastics;5;47
+baile de salón;bailes de salon|ballroom dance;5;46
+quiz;;5;46
+sentadilla;sentadillas|squat;5;45
+ciclismo en ruta;ciclismo en carretera|road bicycle racing;5;45
+carreras de vallas;carrera de vallas|hurdling;5;45
+media maratón;Medio maraton|half marathon;5;44
+esquí nórdico;nordic skiing;5;44
+ultramaratón;ultrafondo|ultramarathon;5;43
+slalom;slalom skiing;5;43
+vuelo sin motor;vuelo a vela|gliding;5;43
+carrera;racing;5;43
+ciclismo en pista;Pistard|track cycling;5;42
+castell;Castells|Casteller|Castellers|human tower;5;42
+solitario;patience|solitario clásico|solitaire;5;41
+gavota;Gavotte|Gavotta;5;41
+campo a través;Campo traviesa|Carrera a campo traviesa|Cross|cross country running;5;41
+ciclismo de montaña;mountain biking;5;41
+pelea de perros;Lucha de perros|Peleas de perros|dog fighting;5;40
+ciclocrós;bicicross|ciclo cross|cyclo-cross;5;40
+shatranj;xatranj|shatranj persa|chatrang|ajedrez persa;5;39
+caminata nórdica;Nordic Walking|Sauvakavely|Marcha nordica;5;39
+carreras de carros;carreras de cuádrigas|carrera de carros|chariot racing;5;38
+bacará;Bacarrá|baccarat;5;38
+gimnasia acrobática;acrobatic gymnastics;5;37
+hopak;gopak;5;37
+yağlı güreş;Yagli|oil wrestling;5;37
+avión ultraligero;Ultraligero|Aviones ultraligeros|Aviacion ultraligera|ultralight aviation;5;37
+esquí de travesía;Esqui de montana|ski mountaineering;5;36
+pesca deportiva;recreational fishing;5;36
+carreras de resistencia;arrancones|drag racing|carrera de resistencia;5;36
+carrera de larga distancia;carrera de fondo|fondo|long-distance running;5;36
+danza sobre hielo;baile sobre hielo|ice dance;5;36
+patín sobre ruedas tradicional;roller skating;5;35
+canotaje;canoeing;5;35
+descenso;descenso en esquí|downhill;5;34
+baile deportivo;baile de competición|dancesport;5;34
+jockey;jinete|equitador|Yoqui|Yóquey;5;34
+pool;billar americano|buchacas|troneras;5;33
+escalada en hielo;ice climbing;5;33
+escalada deportiva;escalada atornillada|escalada de competición|escalada en interiores|sport climbing;5;33
+boulder;escalada en bloque|bulder|bouldering;5;33
+acrobacia aérea;vuelo acrobático|aerobatics;5;32
+hockey subacuático;underwater hockey;5;32
+chacona;chaconne;5;32
+kurash;;5;32
+carrera de media distancia;carreras de media distancia|carreras de medio fondo|medio fondo|middle-distance running;5;31
+relevo 4 x 400 metros;4 × 400 metres relay;5;31
+relevo 4 x 100 metros;4 × 100 metres relay;5;31
+variante del ajedrez;Variantes de ajedrez|Ajedrez 3 jaques|chess variant;5;31
+skat;;5;31
+courante;corrente;5;31
+encierro;encierros de toros|encierros taurinos|encierro taurino|encierro de toros|encierros|running of the bulls;5;30
+telemark;Telemark skiing;5;30
+natación de hielo;winter swimming;5;30
+pesca con mosca;Pesca a mosca|fly fishing;5;30
+sable;sabre fencing;5;29
+primera ascensión;first ascent;5;29
+piragüismo en eslalon;canoe slalom;5;29
+boxeo en la Antigua Grecia;ancient Greek boxing;5;29
+ciclismo urbano;ciclismo utilitario|utility cycling;5;28
+carreras de montaña;carrera trail;5;28
+keirin;;5;28
+corrida de toros;corrida a la española|corridas de toros|Spanish-style bullfighting;5;27
+agility;dog agility;5;27
+piragüismo en aguas tranquilas;aguas tranquilas|canoe sprint;5;26
+curling en silla de ruedas;wheelchair curling;5;26
+carrera de galgos;Galgódromo|greyhound racing;5;26
+aladeltismo;hang gliding;5;26
+hockey sobre patines en línea;hockey línea|inline hockey;5;26
+gimnasia aeróbica;Aerobic deportivo|aerobic gymnastics;5;25
+poi;Poise|Malabar Carioca|Cariocas de fuego;5;25
+sandboard;sandboarding;5;25
+natación con aletas;natación subacuática|finswimming;5;24
+enduro ecuestre;endurance riding;5;24
+patinaje artístico sobre ruedas;artistic roller skating;5;24
+acuatlón;aquathlon;5;24
+big air;;5;24
+contrarreloj;ITT|individual time trial;5;24
+esgrima en silla de ruedas;wheelchair fencing;5;24
+slopestyle;;5;24
+boardercross;SBX|snowboardcross;5;24
+glima;;5;24
+descenso BTT;descenso en bicicleta de montaña|downhill mountain biking;5;24
+pesca submarina;spearfishing;5;24
+carrera de montaña;hillclimbing;5;24
+carrera de trotones;carrera de trote|harness racing;5;23
+jōdō;Jo-jutsu;5;23
+madison;;5;23
+carrera de la milla;mile run;5;23
+trial;motorcycle trials;5;22
+carreras con obstáculos;2000 metros con obstáculos|3000 m obstáculos|Steeplechase|3000 metros obstaculos|3000 metros con obstáculos;5;22
+tiro a vuelo;tiro al pichón|clay pigeon shooting;5;22
+rally raid;rally campo a través|raid;5;22
+patinaje de velocidad sobre patines en línea;patín carrera|inline speed skating;5;22
+boxeo femenino;women's boxing;5;22
+hoplitódromo;hoplitodromos;5;21
+taurocatapsia;bull-leaping;5;21
+ice stock sport;curling bávaro;5;20
+esquí de velocidad;speed skiing;5;20
+automovilismo virtual;sim racing;5;20
+patinaje sincronizado;synchronized skating;5;20
+motonáutica;powerboating;5;20
+aro;hoop rolling;5;20
+hockey de mesa;table hockey;5;20
+caminata de calle;road running;5;20
+patrulla militar;military patrol;5;20
+rallycross;;5;20
+stadion;;5;20
+salto de longitud en parada;standing long jump;5;20
+planchado extremo;extreme ironing;5;20
+indiaca;;5;20

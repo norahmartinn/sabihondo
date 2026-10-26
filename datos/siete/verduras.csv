@@ -1,4 +1,4 @@
-respuesta;alias;nivel;orden_a_mano
+respuesta;alias;nivel;enlaces_wikipedia
 tomate;tomates;1;1000000000
 lechuga;lechugas;1;999999999
 zanahoria;zanahorias;1;999999998
@@ -132,6 +132,8 @@ espárrago blanco;;4;999999966
 alcachofa de Benicarló;;4;999999965
 borraja de Aragón;;4;999999964
 berenjena de Almagro;;4;999999963
+morrón;pimenton|chile morron|bell pepper;4;68
+cucurbita pepo;zucchini;4;60
 arracacha;;5;1000000000
 oca;;5;999999999
 olluco;ulluco;5;999999998
@@ -158,3 +160,13 @@ acelga roja;;5;999999978
 kailan;brócoli chino;5;999999977
 gai lan;;5;999999976
 choy sum;;5;999999975
+brote de soja verde;sukjunamul|mung bean sprout;5;29
+galangal;;5;25
+radicchio;;5;23
+tomate de pera;Tomàquet de pera|plum tomato;5;13
+brote de soja;kongnamul|soybean sprout;5;12
+piel de sapo;Santa Claus melon;5;10
+achara;atsara|atchara;5;8
+hortaliza;fruit vegetable;5;6
+verduras congeladas;verdura congelada|frozen vegetable;5;5
+vegetal-flor;inflorescence vegetable;5;4

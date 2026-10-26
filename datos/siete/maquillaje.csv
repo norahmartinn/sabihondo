@@ -1,4 +1,4 @@
-respuesta;alias;nivel;orden_a_mano
+respuesta;alias;nivel;enlaces_wikipedia
 pintalabios;barra de labios|labial|lápiz de labios;1;1000000000
 rímel;rimmel|máscara de pestañas|máscara;1;999999999
 base de maquillaje;base|maquillaje;1;999999998
@@ -113,6 +113,7 @@ pestañas inferiores;;4;999999970
 iluminador en barra;;4;999999969
 tinte de labios y mejillas;;4;999999968
 multi stick;;4;999999967
+polvo para la cara;face powder;4;48
 fondo de teint;;5;1000000000
 poudre;;5;999999999
 cejas teñidas;;5;999999998
@@ -129,3 +130,8 @@ crema BB coreana;;5;999999988
 cushion coreano;;5;999999987
 essence;;5;999999986
 tónico con color;;5;999999985
+uñas postizas;artificial nails;5;33
+micropigmentación;permanent make-up;5;23
+caracterización teatral;theatrical make-up;5;19
+bb crema;;5;15
+kumadori;;5;12

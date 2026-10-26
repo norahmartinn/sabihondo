@@ -1,4 +1,4 @@
-respuesta;alias;nivel;orden_a_mano
+respuesta;alias;nivel;enlaces_wikipedia
 paella;paella valenciana;1;1000000000
 tortilla de patatas;tortilla|tortilla española;1;999999999
 gazpacho;;1;999999998
@@ -229,6 +229,8 @@ paparajote;;4;999999945
 caldero del Mar Menor;;4;999999944
 mújol;;4;999999943
 tarta de la abuela murciana;;4;999999942
+churro;;4;54
+turrón;turrones|touron|torrone|torró;4;30
 picantones;;5;1000000000
 mojo hervido;;5;999999999
 chicharrones de Ayamonte;;5;999999998
@@ -279,3 +281,21 @@ porcella;;5;999999953
 panades;;5;999999952
 robiols;;5;999999951
 crespells;;5;999999950
+pimientos rellenos;Pimiento relleno|stuffed peppers;5;26
+patatas bravas;;5;25
+buñuelo;;5;25
+buñuelos de bacalao;Buñuelo de bacalao|pastéis de Bacalhau;5;16
+mojo;;5;15
+Chistorra;;5;14
+Salchichón;;5;11
+andrajos;;5;8
+Hojuela;;5;6
+patatas a lo pobre;;5;6
+Soldaditos de Pavía;Bacalao frito|Soldados de Pavia;5;6
+picatostes;picatoste;5;5
+Sopas de gato;Sopa de Gato;5;4
+Sopa de menta;mint soup;5;3
+potaje conquense;;5;3
+flor frita;flor de carnaval|florón|rosa|flor manchega|nân-e panjere;5;2
+almojábana;;5;2
+bartolillo;Bartolillos;5;2

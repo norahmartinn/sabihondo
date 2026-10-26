@@ -1,4 +1,4 @@
-respuesta;alias;nivel;orden_a_mano
+respuesta;alias;nivel;enlaces_wikipedia
 manzana;manzanas;1;1000000000
 plátano;plátanos|banana|banano;1;999999999
 naranja;naranjas;1;999999998
@@ -132,6 +132,10 @@ manzana reineta;reineta;4;999999963
 manzana pink lady;pink lady;4;999999962
 naranja navel;;4;999999961
 mandarina satsuma;satsuma;4;999999960
+pasa;raisin;4;104
+bellota;abellota|acorn;4;78
+durio;lahia|cullenia;4;73
+cucurbita pepo;zucchini;4;60
 arazá;;5;1000000000
 bacuri;;5;999999999
 camu camu;;5;999999998
@@ -164,3 +168,61 @@ lingonberry;arándano rojo europeo;5;999999972
 aronia;;5;999999971
 haskap;;5;999999970
 salal;;5;999999969
+fruta del bosque;frutas del bosque|berry;5;57
+plátano de cocinar;banán főzése|cooking banana;5;55
+escaramujo;rose hip;5;41
+naranja roja;blood orange;5;36
+lycium barbarum;;5;35
+nuez de kola;kola nut;5;34
+manzana de la discordia;Apple of Discord;5;33
+vegetales;gourd;5;32
+esquizocarpio;mericarpo|esquizocárpico|esquizocarpo|mericarpio|schizocarp;5;29
+edamame;;5;29
+frijol rojo;kidney bean;5;27
+cebada perlada;pearl barley;5;27
+maní;peanut;5;22
+pasa de Corinto;currant;5;21
+banana roja;plátano rojo|red Dacca|red banana;5;21
+fruto múltiple;fruto colectivo|multiple fruit;5;21
+fruto seco;frutos secos|nut;5;21
+eterio;aggregate fruit;5;19
+pepino;cucumber;5;18
+fruta tropical;frutas tropicales|tropical fruit;5;18
+frijol pinto;Judía Pinta|Alubia Pinta|pinto bean;5;16
+albaricoque seco;albaricoque deshidratado|albaricoque desecado|dried apricot;5;16
+nueces macadamia;nueces de Australia|macadamia nut;5;14
+cítrico;citrus fruit;5;13
+castañas asadas;roasted chestnuts;5;13
+tomate de pera;Tomàquet de pera|plum tomato;5;13
+frijol negro;caraota|black turtle bean;5;12
+coco rallado;grated coconut;5;11
+lomento;loment;5;11
+sabá;plátano sabá|Saba banana;5;11
+zumaque;sumac;5;10
+graviola;soursop;5;10
+altramuz;lupin bean;5;9
+variedad de uva de mesa;uva de mesa|table grape variety;5;9
+manzana sidrera;cider apple;5;9
+núcula;clusa|nuculanio|nucela|nucule;5;9
+berenjena;eggplant;5;8
+pixidio;pixide|cápsula circuncisa|pyxidium;5;8
+fruto dehiscente;fruto seco dehiscente|dehiscent fruit;5;7
+hortaliza;fruit vegetable;5;6
+byeonggyul;Citrus platymamma;5;6
+marrón;;5;6
+manzana de cocina;cooking apple;5;6
+lechía;;5;5
+nueces de pecán;nueces pacanas|pacanas|pecan nut;5;5
+fruto indehiscente;fruto seco indehiscente|indehiscent fruit;5;5
+garbanzo;arvejas|garbanzos|chickpea;5;5
+manzana de mesa;manzana de postre|table apple;5;5
+aji dulce;;5;5
+algarroba;semilla de algarroba|carob;5;5
+reineta champaña;Reinette de Champagne;5;4
+tutti frutti;dried mixed fruits;5;4
+semillas de alcaravea;caraway seeds;5;4
+tamarindos;Tamarindus indica;5;4
+tommy atkings;Tommy Atkins;5;4
+frijol común;poroto|judía|frijol|alubia|common bean;5;4
+manzanilla;aceituna manzanilla;5;4
+sevillenca;serraneta|serrana de Espadán|serrana;5;3
