@@ -123,8 +123,10 @@ def pelis2026():
         cola.append((n, [en] if en else [], 3 if l >= 10 else 4 if l >= 4 else 5, l))
     junta("pelis2026", cola, "enlaces_wikipedia")
 
-bruja_cuento, vampiro, hombre_lobo = solo_mano("bruja_cuento", "vampiro", "hombre_lobo")
-for _s in ("bruja_cuento", "vampiro", "hombre_lobo"): mano_t4.REPARTE.setdefault(_s, {})[3] = [3, 4, 5]   # lo menos dicho, a joya
+bruja_cuento, vampiro, hombre_lobo, tim_burton, monedas_euro, porcentajes, golpear_pelota = solo_mano(
+    "bruja_cuento", "vampiro", "hombre_lobo", "tim_burton", "monedas_euro", "porcentajes", "golpear_pelota")
+for _s in ("bruja_cuento", "vampiro", "hombre_lobo", "porcentajes"): mano_t4.REPARTE.setdefault(_s, {})[3] = [3, 4, 5]   # lo menos dicho, a joya
+for _s in ("tim_burton", "monedas_euro", "golpear_pelota"): mano_t4.REPARTE.setdefault(_s, {})[4] = [4, 5]
 def terror_halloween():
     """Las de «Nombra una película de miedo» (tanda 2, ya jugada el 11 de octubre) más las de Halloween puestas a mano."""
     import csv as _csv
@@ -134,7 +136,7 @@ def terror_halloween():
 
 TODAS5 = [cobros_aerolineas, cuerpo_uno, jdt, disney_channel, netflix, pixar, badbunny, canciones_disney, instrumentos, frutas, verduras,
           cafes, platos_ccaa, inditex, maquillaje, juegos_mesa, poker, mus, barca, palabras_w, gentilicios, doble_rr, cion, criaturas,
-          mascotas_famosas, presidentes, cuadros, ruedas, hospital, pelis2026, sin_pelota, terror_halloween, bruja_cuento, vampiro, hombre_lobo]
+          mascotas_famosas, presidentes, cuadros, ruedas, hospital, pelis2026, sin_pelota, terror_halloween, bruja_cuento, vampiro, hombre_lobo, tim_burton, monedas_euro, porcentajes, golpear_pelota]
 if __name__ == "__main__":
     pedidas = sys.argv[1:]
     for f in TODAS5:

@@ -194,6 +194,10 @@ PREGUNTAS = [
     ("Nombra algo asociado a una bruja de cuento", "bruja_cuento"),
     ("Nombra algo que asocies con un vampiro", "vampiro"),
     ("Nombra algo que asocies con un hombre lobo", "hombre_lobo"),
+    ("Nombra una película de Tim Burton", "tim_burton"),
+    ("Nombra una moneda que valga menos que el euro", "monedas_euro"),
+    ("Nombra algo que se suele expresar en porcentaje (%)", "porcentajes"),
+    ("Nombra algo que se usa para darle a la pelota en algún deporte", "golpear_pelota"),
 ]
 
 banco = RAIZ / "banco"

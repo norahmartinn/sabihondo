@@ -1,0 +1,76 @@
+respuesta;alias;nivel;orden_a_mano
+la raqueta;raquetas;1;1000000000
+la pala;palas|pala de pádel;1;999999999
+el bate;bate de béisbol;1;999999998
+el palo de golf;palo|hierro|driver|putter;1;999999997
+el stick;palo de hockey;1;999999996
+el pie;pies;1;999999995
+la cabeza;;1;999999994
+la mano;manos;1;999999993
+la pierna;;1;999999992
+la raqueta de tenis;;2;1000000000
+la pala de ping-pong;raqueta de ping pong|paleta;2;999999999
+el taco;taco de billar;2;999999998
+el mazo;mazo de croquet|mazo de polo;2;999999997
+la cesta;cesta punta|xistera|chistera;2;999999996
+el puño;;2;999999995
+el bate de críquet;bate de cricket;2;999999994
+el brazo;antebrazo;2;999999993
+la rodilla;;2;999999992
+el pecho;;2;999999991
+el hombro;;2;999999990
+el muslo;;2;999999989
+el talón;taconazo|tacón;2;999999988
+la frente;;2;999999987
+la espalda;;2;999999986
+la palma;palma de la mano;2;999999985
+la pala de frontón;frontenis|pala de frontenis;2;999999983
+la raqueta de bádminton;;2;999999982
+el guante;guante de béisbol;2;999999981
+la raqueta de squash;;2;999999980
+el codo;;2;999999979
+el hurling stick;hurley|hurling;3;1000000000
+el palo de lacrosse;lacrosse;3;999999999
+el bastón de jai alai;;3;999999998
+el sticker de hockey sobre patines;;3;999999997
+el wedge;;3;999999994
+la madera;;3;999999993
+el hierro 7;;3;999999992
+la pala de playa;palas de playa|paletas de playa;3;999999991
+la raqueta de pickleball;pickleball;3;999999990
+la raqueta de pádel;;3;999999989
+el bate de softball;;3;999999988
+el stick de floorball;floorball;3;999999987
+el palo de hockey hielo;;3;999999986
+el stick de hockey patines;;3;999999985
+la cabeza en fútbol;cabezazo;3;999999984
+el empeine;;3;999999983
+el interior del pie;;3;999999982
+el exterior;exterior del pie;3;999999981
+la puntera;punterazo;3;999999980
+el tobillo;;3;999999979
+la bota;botas|zapatillas;3;999999978
+el pinchito;;3;999999977
+el guante de pelota vasca;;3;999999976
+el sare;;3;999999975
+la pala ancha;;3;999999974
+la pala corta;;3;999999973
+el remonte;;3;999999972
+la txistera;;3;999999971
+el bastón de shinty;shinty;4;1000000000
+el bate de rounders;rounders;4;999999999
+el mazo de pall mall;;4;999999998
+el stick de bandy;bandy;4;999999997
+el bate de pesäpallo;pesäpallo;4;999999996
+el bate de stoolball;;4;999999995
+la paleta de jai alai;;4;999999994
+la pala de frontball;;4;999999993
+la raqueta de racquetball;racquetball;4;999999992
+la raqueta de real tennis;;5;999999991
+la raqueta de fives;;5;999999990
+el guante de fives;fives;5;999999989
+la mano de pelota mano;;5;999999988
+el pie de sepak takraw;sepak takraw;5;999999987
+la rodilla de sepak takraw;;5;999999986
+el kickball;;5;999999985
+el bossaball;;5;999999984
