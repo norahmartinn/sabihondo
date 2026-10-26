@@ -125,6 +125,9 @@ def pelis2026():
 
 bruja_cuento, vampiro, hombre_lobo, tim_burton, monedas_euro, porcentajes, golpear_pelota = solo_mano(
     "bruja_cuento", "vampiro", "hombre_lobo", "tim_burton", "monedas_euro", "porcentajes", "golpear_pelota")
+paises_africa, playa, sabores_patatas = solo_mano("paises_africa", "playa", "sabores_patatas")
+for _s in ("playa", "sabores_patatas"): mano_t4.REPARTE.setdefault(_s, {})[3] = [3, 4, 5]
+mano_t4.REPARTE["paises_africa"] = {2: [2, 3, 4], 3: [5]}     # los menos conocidos y los que ya no existen, a joya
 for _s in ("bruja_cuento", "vampiro", "hombre_lobo", "porcentajes"): mano_t4.REPARTE.setdefault(_s, {})[3] = [3, 4, 5]   # lo menos dicho, a joya
 for _s in ("tim_burton", "monedas_euro", "golpear_pelota"): mano_t4.REPARTE.setdefault(_s, {})[4] = [4, 5]
 def terror_halloween():
@@ -136,7 +139,7 @@ def terror_halloween():
 
 TODAS5 = [cobros_aerolineas, cuerpo_uno, jdt, disney_channel, netflix, pixar, badbunny, canciones_disney, instrumentos, frutas, verduras,
           cafes, platos_ccaa, inditex, maquillaje, juegos_mesa, poker, mus, barca, palabras_w, gentilicios, doble_rr, cion, criaturas,
-          mascotas_famosas, presidentes, cuadros, ruedas, hospital, pelis2026, sin_pelota, terror_halloween, bruja_cuento, vampiro, hombre_lobo, tim_burton, monedas_euro, porcentajes, golpear_pelota]
+          mascotas_famosas, presidentes, cuadros, ruedas, hospital, pelis2026, sin_pelota, terror_halloween, bruja_cuento, vampiro, hombre_lobo, tim_burton, monedas_euro, porcentajes, golpear_pelota, paises_africa, playa, sabores_patatas]
 if __name__ == "__main__":
     pedidas = sys.argv[1:]
     for f in TODAS5:

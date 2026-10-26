@@ -198,6 +198,9 @@ PREGUNTAS = [
     ("Nombra una moneda que valga menos que el euro", "monedas_euro"),
     ("Nombra algo que se suele expresar en porcentaje (%)", "porcentajes"),
     ("Nombra algo que se usa para darle a la pelota en algún deporte", "golpear_pelota"),
+    ("Nombra un país de África", "paises_africa"),
+    ("Nombra algo que se lleva a la playa", "playa"),
+    ("Nombra un sabor de patatas fritas", "sabores_patatas"),
 ]
 
 banco = RAIZ / "banco"
