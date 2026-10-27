@@ -430,6 +430,7 @@ MANO.update({
 # huecos de la batería de respuestas normales (2026-10-25)
 MAS = {
  "netflix": {3: "Peaky Blinders, Breaking Bad, Better Call Saul, The Good Place, Suits, Las chicas Gilmore=Gilmore Girls"},
+ "terror_halloween": {5: "Winnie the Pooh: Miel y sangre=Winnie-the-Pooh: Miel y sangre=Winnie the Pooh Blood and Honey=Winnie the Pooh sangre y miel=Winnie the Pooh de terror=Winnie the Pooh asesino=Winnie Pooh miel y sangre=Winnie Pooh sangre y miel=Pooh miel y sangre, Winnie the Pooh: Miel y sangre 2=Winnie-the-Pooh: Blood and Honey 2=Winnie the Pooh sangre y miel 2"},
  "palabras_w": {2: "waffle=wafle=waffles", 4: "Washington, Wally=Dónde está Wally, Wendy, Wilson, William, Wimbledon, Wembley, Warner, Walmart, Wolverine, Westworld, Wonderbra, Wolfsburgo, Wisconsin, Wyoming, Waterloo, Wellington, Winnie the Pooh=Winnie, Wonder Woman, Wakanda"},
  "criaturas": {4: "Zeus, Hades, Hera, Atenea, Afrodita, Ares, Apolo, Artemisa, Hermes, Dioniso, Thor, Odín, Loki, Ra, Osiris, Isis, Anubis, Horus, Freya"},
  "mascotas_famosas": {2: "Bluey, Bingo=Bingo de Bluey, Scrappy-Doo=Scrappy Doo=Scrappy, Clifford=Clifford el gran perro rojo", 4: "Cerbero=Cancerbero"},
@@ -448,7 +449,7 @@ ALIAS = {
  "terror_halloween": {"It: Chapter Two": "It 2, It capítulo 2, It: Capítulo 2"},
  "gentilicios": {"donostiarra": "donostiarras"},
  "disney_channel": {"Hotel dulce hotel": "The Suite Life of Zack and Cody, Suite Life", "High School Musical: El musical: La serie": "High School Musical la serie, High School Musical serie, High School Musical"},
- "netflix": {"Locke & Key": "Locke and Key", "El problema de los 3 cuerpos": "El problema de los tres cuerpos, Tres cuerpos", "Love Death & Robots": "Love Death Robots"},
+ "netflix": {"Locke & Key": "Locke and Key", "Monstruo: La historia de Lizzie Borden": "Monstruos: La historia de Lizzie Borden, Monster: The Lizzie Borden Story, Monstruo Lizzie Borden, Monstruos Lizzie Borden, Monster Lizzie Borden, Lizzie Borden, Lizzy Borden, Monstruo: La historia de Lizzy Borden, Monstruos: La historia de Lizzy Borden", "El problema de los 3 cuerpos": "El problema de los tres cuerpos, Tres cuerpos", "Love Death & Robots": "Love Death Robots"},
  "instrumentos": {"balalaica": "balalaika", "djembé": "tambor africano"},
  "cafes": {"cortado condensado": "cortado de leche condensada, cortado con leche condensada"},
  "platos_ccaa": {"arròs amb crosta": "arroz con costra"},
