@@ -430,6 +430,7 @@ MANO.update({
 # huecos de la batería de respuestas normales (2026-10-25)
 MAS = {
  "netflix": {3: "Peaky Blinders, Breaking Bad, Better Call Saul, The Good Place, Suits, Las chicas Gilmore=Gilmore Girls"},
+ "juegos_mesa": {3: "Tic Tac Tumba=Tic Tac Boum=Tic Tac Bum=Tic Tac Boom=Tic-Tac-Boum"},
  "terror_halloween": {5: "Winnie the Pooh: Miel y sangre=Winnie-the-Pooh: Miel y sangre=Winnie the Pooh Blood and Honey=Winnie the Pooh sangre y miel=Winnie the Pooh de terror=Winnie the Pooh asesino=Winnie Pooh miel y sangre=Winnie Pooh sangre y miel=Pooh miel y sangre, Winnie the Pooh: Miel y sangre 2=Winnie-the-Pooh: Blood and Honey 2=Winnie the Pooh sangre y miel 2"},
  "palabras_w": {2: "waffle=wafle=waffles", 4: "Washington, Wally=Dónde está Wally, Wendy, Wilson, William, Wimbledon, Wembley, Warner, Walmart, Wolverine, Westworld, Wonderbra, Wolfsburgo, Wisconsin, Wyoming, Waterloo, Wellington, Winnie the Pooh=Winnie, Wonder Woman, Wakanda"},
  "criaturas": {4: "Zeus, Hades, Hera, Atenea, Afrodita, Ares, Apolo, Artemisa, Hermes, Dioniso, Thor, Odín, Loki, Ra, Osiris, Isis, Anubis, Horus, Freya"},
