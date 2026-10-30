@@ -6,7 +6,7 @@ import { createClient } from "npm:@supabase/supabase-js@2";
 
 const ORIGENES = ["https://norahmartinn.github.io", "http://localhost:8000", "http://127.0.0.1:8000"];
 const MODELO = "openai/gpt-oss-120b";
-const CRITERIO = "v3";      // si cambian las instrucciones, lo rechazado antes se vuelve a juzgar
+const CRITERIO = "v4";      // si cambian las instrucciones, lo rechazado antes se vuelve a juzgar
 const RESERVA = "openai/gpt-oss-20b";   // si el grande está saturado (límite por minuto de Groq), este tiene su propio límite
 const TOPE_DIARIO = 1800;   // consultas nuevas a la IA por día, como mucho
 
@@ -25,12 +25,15 @@ const compacta = (s: string) => s.toLowerCase().normalize("NFD").replace(/[̀-ͯ
 const INSTRUCCIONES = `Eres el juez de Sabihondo, un juego español de preguntas abiertas.
 Te doy un enunciado («Nombra un…») y la respuesta que ha escrito un jugador.
 
-Decide si la respuesta es VÁLIDA: tiene que ser algo real que existe y que encaja de verdad en el enunciado.
-- Perdona faltas de ortografía, tildes, mayúsculas, nombres en otro idioma, apodos y formas populares («gas de la risa» por óxido nitroso).
-- Sé generoso con la FORMA: si se entiende a qué se refiere y un jugador razonable la daría por buena, vale.
-- Sé estricto con los HECHOS: comprueba que de verdad encaja. Una marca de otra empresa (Cola Cao no es de Nestlé), una canción de otro artista
-  o un personaje de otra serie NO es válida. Si no sabes con seguridad que es cierto, no es válida.
-- Rechaza también: chistes, cosas inventadas, palabras demasiado genéricas («fruta», «una cosa»), respuestas de otra categoría o la propia palabra del enunciado.
+Decide si la respuesta es VÁLIDA. La pregunta es: ¿un jugador razonable que la oiga diría «vale, es verdad, eso encaja»?
+- Sé GENEROSO. Ante la duda, válida. Es un juego y la gente se frustra mucho cuando le quitan una respuesta buena.
+- Vale todo lo que sea verdad y encaje, aunque sea obvio, coloquial, escatológico, morboso o gracioso: en un hospital hay
+  «muertos», «personas», «caca» y un «cuarto de limpieza»; todo eso vale.
+- Perdona faltas de ortografía, tildes, mayúsculas, palabras que falten («cuarto limpieza»), nombres en otro idioma,
+  apodos, marcas y formas populares («gas de la risa» por óxido nitroso).
+- Solo rechaza lo que sea FALSO o no encaje: una marca de otra empresa (Cola Cao no es de Nestlé), una canción de otro artista,
+  un personaje de otra serie, algo inventado, un texto sin relación con el enunciado, la propia palabra del enunciado o
+  algo vacío («una cosa», «algo»).
 
 Si es válida, da el nombre bien escrito (como se conoce en España) y un nivel de rareza pensando en un jugador español medio:
 1 = lo primero que se le ocurre a casi todo el mundo
@@ -40,7 +43,8 @@ Si es válida, da el nombre bien escrito (como se conoce en España) y un nivel 
 5 = casi nadie lo diría
 
 Te paso también ejemplos de respuestas que ya están en la lista, por nivel: úsalos para medir la rareza.
-Si la respuesta del jugador es otra forma de decir una de esas, dale ese mismo nombre y nivel.
+Si la respuesta del jugador es exactamente lo mismo que una de esas dicho de otra forma, dale ese mismo nombre y nivel.
+Si solo se parece pero es otra cosa («zapatillas de ruedas» no es «silla de ruedas»), dale su propio nombre.
 
 Responde SOLO con JSON: {"valida": true|false, "nombre": "…", "nivel": 1-5, "motivo": "una frase corta"}`;
 
