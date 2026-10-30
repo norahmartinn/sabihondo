@@ -261,7 +261,7 @@ input[type=text]:focus,input[type=email]:focus,input[type=password]:focus{outlin
 /* ── contrarreloj (minijuego de prueba, #contrarreloj) ── */
 .cr-cab{display:flex;justify-content:space-between;align-items:baseline;gap:12px;font-family:var(--sans);font-weight:700;font-size:14px;color:var(--tinta-suave);margin-bottom:18px}
 .cr-cab .m{color:var(--tinta);font-variant-numeric:tabular-nums}
-.cr-ok{display:inline-flex;gap:8px;align-items:center;background:var(--nc);color:var(--nt);border-radius:999px;padding:4px 12px;font-weight:700;font-size:13px}
+.cr-ok{display:inline-flex;gap:8px;align-items:center;background:var(--boya-suave);color:var(--tinta);border-radius:999px;padding:4px 12px;font-weight:700;font-size:13px}
 .cr-acciones{display:flex;justify-content:flex-end;margin-top:6px}
 .cr-lista{list-style:none;margin:18px 0 0;padding:0;display:grid;gap:8px;max-height:46vh;overflow:auto}
 .cr-lista li{display:grid;gap:3px;padding:9px 0;border-bottom:1px solid var(--linea);font-size:14.5px}
@@ -414,6 +414,7 @@ h3{font-family:var(--sans);font-size:13.5px;color:var(--boya-hondo);
   .sitio-berg{display:block;height:230px;margin:-22px -18px 18px;border-radius:20px 20px 0 0;overflow:hidden}
   .sitio-berg.alto{height:440px}
   .sitio-berg #hielo{height:100%}
+  .sitio-berg.cr-berg{height:150px;margin-bottom:12px}
   /* la barra de metros, solo mientras se juega */
   #app.jugando #medidor{display:flex;flex:1 0 100%;align-items:center;gap:10px;font-size:12.5px;font-weight:700;padding:2px 2px 4px}
   #medTu{background:var(--boya-suave);border-radius:999px;padding:3px 10px;white-space:nowrap;font-variant-numeric:tabular-nums}
@@ -812,6 +813,16 @@ function dibujaIceberg(){
   // grupo del récord del día, de pines y marcador
   el("g",{id:"record"},svg);
   el("g",{id:"pines"},svg);
+  // el pingüino del contrarreloj: se dibuja con los pies en (0,0) mirando a la derecha; mueveMarca lo coloca en la pared
+  const pg = el("g",{id:"pingu",style:"display:none"},svg), ps = estrecho ? 9 : 17;
+  const cuerpo = el("g",{},pg);
+  el("ellipse",{cx:.1*ps,cy:-.08*ps,rx:.45*ps,ry:.14*ps,fill:"#f29a2e"},cuerpo);
+  el("ellipse",{cx:0,cy:-1.1*ps,rx:.78*ps,ry:1.12*ps,fill:"#1b2333"},cuerpo);
+  el("ellipse",{cx:.2*ps,cy:-1*ps,rx:.5*ps,ry:.86*ps,fill:"#ffffff"},cuerpo);
+  el("rect",{x:-.7*ps,y:-1.42*ps,width:1.42*ps,height:.24*ps,rx:.12*ps,fill:"#e5484d"},cuerpo);
+  el("circle",{cx:.34*ps,cy:-1.7*ps,r:.11*ps,fill:"#1b2333"},cuerpo);
+  el("polygon",{points:`${.62*ps},${-1.72*ps} ${1.08*ps},${-1.6*ps} ${.62*ps},${-1.48*ps}`,fill:"#f29a2e"},cuerpo);
+  el("ellipse",{cx:-.62*ps,cy:-1*ps,rx:.2*ps,ry:.55*ps,fill:"#0f1622",transform:`rotate(18 ${-.62*ps} ${-1*ps})`},cuerpo);
   const mk = el("g",{id:"marca-tu"},svg);
   el("line",{x1:0,y1:0,x2:Z,y2:0,stroke:tk("--boya"),"stroke-width":estrecho?2:1.6,
     "stroke-dasharray":estrecho?"0":"5 4"},mk);
@@ -921,6 +932,16 @@ function pintaPines(){
 function mueveMarca(){
   if (!G) return;
   const mk = $("#marca-tu"); if (!mk) return;
+  // contrarreloj: en vez de la marca de metros, un pingüino que se tira en plancha por la pared derecha del iceberg
+  const pg = $("#pingu"), contra = pantalla.startsWith("contrarreloj");
+  mk.style.display = contra ? "none" : ""; pg.style.display = contra ? "" : "none";
+  if (contra){
+    const m = Math.min(FONDO - 8, profVista), xe = G.x(enTramo(DER, m)), ye = G.y(m);
+    const dx = G.x(enTramo(DER, m + 8)) - xe, dy = G.y(m + 8) - ye, n = Math.hypot(dx, dy) || 1;
+    const giro = Math.atan2(dx, -dy) * 180 / Math.PI, sep = G.estrecho ? 3 : 5;   // de cabeza, con la tripa contra el hielo
+    pg.setAttribute("transform", `translate(${(xe + dy/n*sep).toFixed(1)} ${(ye - dx/n*sep).toFixed(1)}) rotate(${giro.toFixed(1)})`);
+    return;
+  }
   const yy = G.y(Math.min(FONDO, profVista));
   mk.setAttribute("transform", `translate(0 ${yy.toFixed(1)})`);
   const chip = $("#chip"), txt = chip.lastElementChild, caja = chip.firstElementChild;
@@ -2003,9 +2024,11 @@ bs.textContent = Son.activo() ? "♪" : "✕";
 bs.addEventListener("click", ()=>{ const on = Son.alterna(); bs.setAttribute("aria-pressed", String(on)); bs.textContent = on ? "♪" : "✕"; });
 
 /* ═════════ contrarreloj (prueba): 90 s para responder todas las categorías que se pueda ═════════
-   Salen preguntas de días ya jugados, al azar. Solo vale lo que está en el banco (el juez tarda demasiado para ir a contrarreloj).
-   Fallar no cuesta nada: se vuelve a intentar o se pasa. Escondido: solo se entra con #contrarreloj. */
-const CR_MS = 90000;
+   Cuenta categorías acertadas, no metros. Salen preguntas de días ya jugados, al azar. Solo vale lo que está en el banco
+   (el juez tarda demasiado para ir a contrarreloj). Fallar no cuesta nada: se vuelve a intentar o se pasa.
+   Cada acierto baja al pingüino CR_PASO metros por el iceberg. Con cuenta, cada partida se guarda en sabihondo_contrarreloj
+   y el podio (sabihondo_contrarreloj_podio) enseña la mejor de cada persona. Escondido: solo se entra con #contrarreloj. */
+const CR_MS = 90000, CR_PASO = 25;
 let C = null;
 function crPool(){
   const hoy = hoyMadrid(), ids = [...new Set(Object.entries(CALENDARIO).filter(([f]) => f < hoy).flatMap(([, v]) => v))];
@@ -2013,24 +2036,30 @@ function crPool(){
   return ids;
 }
 const crPrecarga = () => C.cola.slice(C.k, C.k + 3).forEach(i => cargaPregunta(i).catch(() => {}));
+const crCat = n => n + (n === 1 ? " categoría" : " categorías");
+const crRecord = () => { const r = guarda.get("cr:record", null); return r && typeof r.aciertos === "number" ? r.aciertos : 0; };
+function crVuelve(){ history.replaceState(null, "", location.pathname); portada(); }
 function crPortada(){
   pantalla = "contrarreloj"; soloTutorial(false); paraReloj(); profMeta = 0; fijaPines([]); pintaRecord();
-  const rec = guarda.get("cr:record", null);
+  const rec = crRecord();
   rescataIceberg(); escena.innerHTML = `
   <div class="panel">
+    <div class="sitio-berg"></div>
     <h1>Contra<em>rreloj</em></h1>
     <p class="lema">Tienes <b>un minuto y medio</b> para responder todas las categorías que puedas. Salen de días pasados, al azar.
-      Si fallas, prueba otra vez o pasa a la siguiente.</p>
-    ${rec ? `<p class="mini">Tu récord: ${mil(rec.puntos)} m en ${rec.aciertos} categorías.</p>` : ``}
-    <div class="botonera"><button class="btn" id="bCr">Empezar</button><button class="btn fantasma" id="bCrIni">Volver al juego</button></div>
+      Si fallas, prueba otra vez o pasa a la siguiente. Con cada acierto, el pingüino baja un poco más.</p>
+    ${rec ? `<p class="mini">Tu récord: ${crCat(rec)}.</p>` : ``}
+    <div class="botonera"><button class="btn" id="bCr">Empezar</button><button class="btn fantasma" id="bCrPodio">Podio</button>
+      <button class="enlace" type="button" id="bCrIni">Volver al juego</button></div>
   </div>`;
-  trasPintar();
+  trasPintar(); mueveMarca();
   $("#bCr").addEventListener("click", crEmpieza);
-  $("#bCrIni").addEventListener("click", () => { history.replaceState(null, "", location.pathname); portada(); });
+  $("#bCrPodio").addEventListener("click", crPodio);
+  $("#bCrIni").addEventListener("click", crVuelve);
 }
 async function crEmpieza(){
   Son.arranca();
-  C = { cola:crPool(), k:0, puntos:0, res:[], t0:0, fin:false };
+  C = { cola:crPool(), k:0, aciertos:0, res:[], t0:0, fin:false };
   const b = $("#bCr"); b.disabled = true; b.textContent = "Cargando…";
   crPrecarga();
   try{ await cargaPregunta(C.cola[0]); }
@@ -2041,7 +2070,8 @@ function crPinta(){
   pantalla = "contrarreloj";
   rescataIceberg(); escena.innerHTML = `
   <div class="panel" id="tarjeta">
-    <div class="cr-cab"><span id="crN">0 categorías</span><span class="m" id="crM">0 m</span></div>
+    <div class="sitio-berg cr-berg"></div>
+    <div class="cr-cab"><span>Contrarreloj</span><span class="m" id="crN">0 categorías</span></div>
     <p class="enunciado" id="crQ">…</p>
     <form id="f" autocomplete="off">
       <input type="text" id="r" placeholder="tu respuesta" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" enterkeyhint="go">
@@ -2054,7 +2084,7 @@ function crPinta(){
     </div>
     <p class="aviso" id="aviso" role="status"></p>
   </div>`;
-  trasPintar();
+  trasPintar(); mueveMarca();
   const campo = $("#r"), barra = $("#reloj"), relleno = barra.querySelector(".mecha i"), seg = $("#seg");
   let p = null, ultimoTic = 99;
   async function siguiente(){
@@ -2075,13 +2105,11 @@ function crPinta(){
       const tj = $("#tarjeta"); tj.classList.remove("sacudir"); void tj.offsetWidth; tj.classList.add("sacudir");
       campo.select(); return;
     }
-    const N = NIVELES[r.nv];
     Son.baja(r.nv);
-    C.puntos += N.pts; C.res.push({q:p.q, nv:r.nv, disp:r.disp, tuya:texto}); C.k++;
-    profMeta = Math.min(700, C.puntos);
-    $("#crM").textContent = mil(C.puntos) + " m";
-    $("#crN").textContent = C.res.filter(x => x.nv !== null).length + " categorías";
-    $("#aviso").innerHTML = `<span class="cr-ok" style="--nc:${N.col};--nt:${N.txt}">+${N.pts} m · ${esc(N.n)}</span> ${esc(r.disp)}`;
+    C.aciertos++; C.res.push({q:p.q, nv:r.nv, disp:r.disp}); C.k++;
+    profMeta = Math.min(FONDO, C.aciertos * CR_PASO);
+    $("#crN").textContent = crCat(C.aciertos);
+    $("#aviso").innerHTML = `<span class="cr-ok">✓ ${esc(r.disp)}</span>`;
     siguiente();
   });
   $("#bPasa").addEventListener("click", () => {
@@ -2106,22 +2134,56 @@ function crPinta(){
 function crFinal(){
   if (C.fin && pantalla === "contrarreloj-fin") return;
   C.fin = true; paraReloj(); pantalla = "contrarreloj-fin"; Son.fondo();
-  const aciertos = C.res.filter(x => x.nv !== null).length;
-  const rec = guarda.get("cr:record", null), nuevo = !rec || C.puntos > rec.puntos;
-  if (nuevo && C.puntos > 0) guarda.set("cr:record", {puntos:C.puntos, aciertos});
+  const rec = crRecord(), nuevo = C.aciertos > rec;
+  if (nuevo) guarda.set("cr:record", {aciertos:C.aciertos});
+  // con cuenta, la partida va al podio (sin esperar: si falla, se juega igual)
+  const sube = Cuenta.user && Cuenta.sb
+    ? Cuenta.sb.from("sabihondo_contrarreloj").insert({aciertos:C.aciertos, res:C.res}).then(() => {}, () => {})
+    : Promise.resolve();
   rescataIceberg(); escena.innerHTML = `
   <div class="panel">
+    <div class="sitio-berg"></div>
     <p class="mini">Se acabó el tiempo</p>
-    <p class="cr-grande">${mil(C.puntos)} m</p>
-    <p class="lema">${aciertos} ${aciertos === 1 ? "categoría" : "categorías"}${nuevo && C.puntos > 0 ? " · <b>récord</b>" : rec ? ` · tu récord: ${mil(rec.puntos)} m` : ""}</p>
+    <p class="cr-grande">${crCat(C.aciertos)}</p>
+    <p class="lema">${nuevo && C.aciertos ? "<b>Tu récord</b>" : rec ? `Tu récord: ${crCat(rec)}` : ""}</p>
     <ul class="cr-lista">${C.res.map(x => x.nv === null
       ? `<li><span class="q">${esc(x.q)}</span><span class="no">pasada</span></li>`
-      : `<li><span class="q">${esc(x.q)}</span><span><span class="cr-ok" style="--nc:${NIVELES[x.nv].col};--nt:${NIVELES[x.nv].txt}">+${NIVELES[x.nv].pts} m</span> ${esc(x.disp)}</span></li>`).join("") || `<li class="no">No ha dado tiempo a ninguna.</li>`}</ul>
-    <div class="botonera"><button class="btn" id="bCrOtra">Otra vez</button><button class="btn fantasma" id="bCrIni">Volver al juego</button></div>
+      : `<li><span class="q">${esc(x.q)}</span><span>✓ ${esc(x.disp)}</span></li>`).join("") || `<li class="no">No ha dado tiempo a ninguna.</li>`}</ul>
+    ${Cuenta.user ? `` : `<p class="mini">Para salir en el podio hace falta una cuenta.</p>`}
+    <div class="botonera"><button class="btn" id="bCrOtra">Otra vez</button><button class="btn fantasma" id="bCrPodio">Podio</button>
+      <button class="enlace" type="button" id="bCrIni">Volver al juego</button></div>
   </div>`;
-  trasPintar();
+  trasPintar(); mueveMarca();
   $("#bCrOtra").addEventListener("click", crPortada);
-  $("#bCrIni").addEventListener("click", () => { history.replaceState(null, "", location.pathname); portada(); });
+  $("#bCrPodio").addEventListener("click", () => sube.then(crPodio));
+  $("#bCrIni").addEventListener("click", crVuelve);
+}
+/* podio del contrarreloj: la mejor partida de cada persona con cuenta */
+async function crPodio(){
+  const caja = $("#ayuda"); caja.hidden = false; caja.scrollTop = 0;
+  const marco = cuerpo => { caja.innerHTML = `
+    <div class="panel">
+      <h2>Podio del contrarreloj</h2>
+      <p class="mini">La mejor partida de cada jugador.</p>
+      ${cuerpo}
+      <div class="botonera"><button class="btn" id="bCerrar">Volver</button>
+        ${Cuenta.user ? "" : `<button class="btn fantasma" id="bRankCuenta">Crear una cuenta</button>`}</div>
+    </div>`;
+    $("#bCerrar").addEventListener("click", () => ayuda(false));
+    $("#bRankCuenta")?.addEventListener("click", () => { ayuda(false); abreCuenta(true, "alta"); });
+    $("#bCerrar").focus({preventScroll:true});
+  };
+  marco(`<p class="mini">Cargando…</p>`);
+  let filas = null;
+  try{ const {data, error} = await Cuenta.sb.rpc("sabihondo_contrarreloj_podio"); if (!error) filas = data; }catch{}
+  if (caja.hidden) return;
+  if (!filas) return marco(`<p class="mini">Ahora mismo no se puede cargar el podio. Prueba dentro de un rato.</p>`);
+  if (!filas.length) return marco(`<p class="mini"><b>Todavía no ha jugado nadie con cuenta.</b></p>`);
+  marco(`<ol class="ranking">${filas.map(f => `<li class="${f.eres_tu ? "tu" : ""}">
+      <span class="puesto">${esc(f.puesto)}</span>
+      <span class="quien">${esc(f.apodo)}${f.eres_tu ? " (tú)" : ""}</span>
+      <span class="metros">${crCat(f.aciertos)}</span></li>`).join("")}</ol>
+    ${Cuenta.user ? "" : `<p class="mini">Para salir aquí hace falta una cuenta.</p>`}`);
 }
 
 /* ═════════ arranque ═════════ */
