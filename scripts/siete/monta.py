@@ -207,6 +207,19 @@ PREGUNTAS = [
     ("Nombra una película con Zendaya", "zendaya"),
 ]
 
+# Desde el 31 de octubre de 2026 los niveles son más generosos: la gente veía casi imposible llegar a Muy raro y Sabihondo.
+# En las preguntas que salen desde esa fecha (y las que aún no tienen fecha), la segunda mitad de los niveles 2, 3 y 4
+# sube uno. Dentro de cada nivel lo más conocido va primero (a mano y de la fuente por popularidad), así que sube lo menos obvio.
+GENEROSO = "2026-10-31"
+with open(RAIZ / "datos" / "calendario.csv", encoding="utf-8") as f:
+    antes = {x.strip() for fila in csv.reader(f, delimiter=";") if fila and fila[0][:1].isdigit() and fila[0] < GENEROSO for x in fila[1:]}
+def generoso(niveles):
+    for t in (3, 2, 1):   # de arriba abajo, para que nada suba dos veces
+        mitad = (len(niveles[t]) + 1) // 2
+        niveles[t + 1] = niveles[t][mitad:] + niveles[t + 1]
+        niveles[t] = niveles[t][:mitad]
+    return niveles
+
 banco = RAIZ / "banco"
 for viejo in banco.glob("*.json"): viejo.unlink()
 indice = []
@@ -221,6 +234,7 @@ for i, (q, slug) in enumerate(PREGUNTAS):
             if not claves: continue
             r = fila["respuesta"]
             niveles[int(fila["nivel"]) - 1].append(r if claves == [clave(r)] else [r, claves])
+    if slug not in antes: niveles = generoso(niveles)
     n = sum(map(len, niveles))
     (banco / f"{i:02d}.json").write_text(json.dumps({"q": q, "t": niveles}, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
     indice.append({"q": q, "n": n})
