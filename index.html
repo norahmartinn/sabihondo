@@ -138,6 +138,11 @@ button{font:inherit;color:inherit;background:none;border:none;cursor:pointer;tou
 .icono-inicio img{width:76px;height:76px;border-radius:18px;box-shadow:0 6px 14px -6px rgba(8,28,56,.55)}
 .icono-inicio span{color:#fff;font-size:14px;font-weight:600;letter-spacing:.01em;text-shadow:0 1px 2px rgba(0,0,0,.35)}
 .ojo-safari{margin:16px 0 4px;padding:12px 14px;border-radius:14px;background:#fde3ee;color:#8f1f4f;font-size:.98rem;line-height:1.4}
+.chapas-metros{display:grid;gap:8px;margin:16px 0 4px}
+.chapa-metros{display:flex;justify-content:space-between;align-items:center;border-radius:14px;padding:11px 14px;color:var(--nt);background:var(--nc);font-weight:700;font-variant-numeric:tabular-nums}
+.chapa-metros .m{display:flex;gap:9px;align-items:baseline}
+.chapa-metros s{opacity:.65;font-weight:600;text-decoration-thickness:1.5px}
+.chapa-metros .igual{opacity:.8;font-weight:600;font-size:.85em}
 .pasos-inicio{margin:14px 0 4px;padding-left:1.3em;display:grid;gap:10px;line-height:1.45}
 .ico-safari{width:1.25em;height:1.25em;vertical-align:-.25em;color:#2f7ff6}
 .panel{width:100%;max-width:640px;margin:auto;background:var(--hielo);border-radius:var(--r-panel);padding:36px 42px 38px;
@@ -544,7 +549,7 @@ function mulberry(a){return function(){a|=0;a=a+0x6D2B79F5|0;let t=Math.imul(a^a
 const hoyMadrid = () => new Intl.DateTimeFormat("en-CA",{timeZone:"Europe/Madrid",year:"numeric",month:"2-digit",day:"2-digit"}).format(new Date());
 // Halloween: del 26 de octubre al 1 de noviembre (o con #halloween en la dirección, para probarlo)
 // los metros por nivel suben el lunes 2 de noviembre (10/30/60/85 → 15/40/70/90), al empezar semana, para no descuadrar el podio semanal
-if (hoyMadrid() < "2026-11-02") [10, 30, 60, 85].forEach((m, i) => NIVELES[i].pts = m);
+if (hoyMadrid() < "2026-11-02" && location.hash !== "#metros") [10, 30, 60, 85].forEach((m, i) => NIVELES[i].pts = m);
 const HALLOWEEN = location.hash === "#halloween" || (hoyMadrid() >= "2026-10-26" && hoyMadrid() <= "2026-11-01");
 if (HALLOWEEN){
   document.documentElement.classList.add("halloween");
@@ -1081,6 +1086,10 @@ function portada(){
     setTimeout(() => { if (pantalla === "portada" && topPendiente()) topSemana(true); }, 700);
   }
 
+  else if (quiereMetros()){
+    guarda.set("metros:"+AVISO_METROS, true);
+    setTimeout(() => { if (pantalla === "portada") avisoMetros(); }, 700);
+  }
   else if (quiereInstalar()){
     guarda.set("inicio:"+AVISO_INICIO, true);
     setTimeout(() => { if (pantalla === "portada") avisoInicio(); }, 700);
@@ -1871,6 +1880,30 @@ function avisoInicio(){
   $("#bCerrar").focus({preventScroll:true});
 }
 
+/* ═════════ aviso: los metros nuevos por nivel ═════════
+   Sale una vez a cada persona, la primera vez que entra desde el lunes AVISO_METROS (hasta el domingo). Se prueba con #metros. */
+const AVISO_METROS = "2026-11-02", METROS_ANTES = [10, 30, 60, 85, 100];
+function quiereMetros(){
+  if (location.hash === "#metros") return true;
+  // a quien no ha jugado nunca no se le cuenta lo de antes
+  return hoyMadrid() >= AVISO_METROS && hoyMadrid() <= "2026-11-08" && guarda.get("est", null) && !guarda.get("metros:"+AVISO_METROS, false);
+}
+function avisoMetros(){
+  const caja = $("#ayuda"); caja.hidden = false; caja.scrollTop = 0;
+  caja.innerHTML = `
+  <div class="panel aviso-metros">
+    <h2>Desde hoy se baja más</h2>
+    <p>Nos habéis dicho que costaba mucho llegar abajo, y teníais razón. Desde hoy cada nivel da más metros:</p>
+    <div class="chapas-metros">
+      ${NIVELES.map((N, i) => `<div class="chapa-metros" style="--nc:${N.col};--nt:${N.txt}"><span>${N.n}</span>
+        <span class="m">${METROS_ANTES[i] === N.pts ? `<span class="igual">igual</span>` : `<s>${METROS_ANTES[i]}</s>`}${N.pts} m</span></div>`).join("")}
+    </div>
+    <div class="botonera"><button class="btn" id="bCerrar">A bajar</button></div>
+  </div>`;
+  $("#bCerrar").addEventListener("click", () => ayuda(false));
+  $("#bCerrar").focus({preventScroll:true});
+}
+
 /* ═════════ ayuda ═════════ */
 function ayuda(abrir){
   const caja = $("#ayuda");
@@ -1961,7 +1994,7 @@ bs.addEventListener("click", ()=>{ const on = Son.alterna(); bs.setAttribute("ar
 /* ═════════ arranque ═════════ */
 dibujaIceberg();
 requestAnimationFrame(anima);
-if (guarda.get("tutorial", false) || guarda.get("est", null)) portada(); else tutorial();
+if (guarda.get("tutorial", false) || guarda.get("est", null) || location.hash === "#metros") portada(); else tutorial();
 // con el reto de hoy a medias se vuelve directo a la pregunta: el reloj de esa pregunta no ha parado
 if (enCurso()){ guarda.set("tutorial", true); empieza("diaria"); }
 iniciaCuenta();
