@@ -258,6 +258,16 @@ input[type=text]:focus,input[type=email]:focus,input[type=password]:focus{outlin
 .sacudir{animation:sac .34s}
 @keyframes sac{25%{transform:translateX(-7px)}50%{transform:translateX(6px)}75%{transform:translateX(-3px)}}
 
+/* ── contrarreloj (minijuego de prueba, #contrarreloj) ── */
+.cr-cab{display:flex;justify-content:space-between;align-items:baseline;gap:12px;font-family:var(--sans);font-weight:700;font-size:14px;color:var(--tinta-suave);margin-bottom:18px}
+.cr-cab .m{color:var(--tinta);font-variant-numeric:tabular-nums}
+.cr-ok{display:inline-flex;gap:8px;align-items:center;background:var(--nc);color:var(--nt);border-radius:999px;padding:4px 12px;font-weight:700;font-size:13px}
+.cr-acciones{display:flex;justify-content:flex-end;margin-top:6px}
+.cr-lista{list-style:none;margin:18px 0 0;padding:0;display:grid;gap:8px;max-height:46vh;overflow:auto}
+.cr-lista li{display:grid;gap:3px;padding:9px 0;border-bottom:1px solid var(--linea);font-size:14.5px}
+.cr-lista .q{color:var(--tinta-suave);font-size:13px}
+.cr-lista .no{color:var(--tinta-suave);font-style:italic}
+.cr-grande{font-family:var(--disp);font-size:clamp(44px,7vw,64px);line-height:1;margin:8px 0 2px;font-variant-numeric:tabular-nums}
 /* ── veredicto ───────────────────────────────────────── */
 .chip{display:inline-flex;align-items:center;gap:7px;font-family:var(--sans);font-size:13px;font-weight:700;
   padding:5px 11px 5px 9px;border-radius:999px;background:#fff;
@@ -848,10 +858,11 @@ function pintaRecord(){
   const g = $("#record"); if (!g || !G) return;
   g.innerHTML = "";
   const rec = $("#medRec");
-  rec.hidden = !(RECORD && RECORD.puntos > 0);
+  const contra = pantalla.startsWith("contrarreloj");      // el récord del reto diario no pinta nada en el contrarreloj
+  rec.hidden = !(RECORD && RECORD.puntos > 0) || contra;
   if (!rec.hidden) rec.style.left = (Math.min(FONDO, RECORD.puntos) / FONDO * 100) + "%";
   const libre = pantalla !== "portada" && pantalla !== "tutorial" && J && J.modo === "libre";
-  if (!RECORD || !(RECORD.puntos > 0) || libre) return;
+  if (!RECORD || !(RECORD.puntos > 0) || libre || contra) return;
   const {y,x,Z,R,estrecho} = G, yy = y(Math.min(FONDO, RECORD.puntos)), oro = "#ffcf5c";
   const fin = estrecho ? Z : R + (Z-R)*.8;
   el("line",{x1:estrecho?0:x(.5),y1:yy,x2:fin,y2:yy,stroke:oro,"stroke-width":2,"stroke-dasharray":"2 5","stroke-linecap":"round"},g);
@@ -1991,12 +2002,135 @@ bs.setAttribute("aria-pressed", String(Son.activo()));
 bs.textContent = Son.activo() ? "♪" : "✕";
 bs.addEventListener("click", ()=>{ const on = Son.alterna(); bs.setAttribute("aria-pressed", String(on)); bs.textContent = on ? "♪" : "✕"; });
 
+/* ═════════ contrarreloj (prueba): 90 s para responder todas las categorías que se pueda ═════════
+   Salen preguntas de días ya jugados, al azar. Solo vale lo que está en el banco (el juez tarda demasiado para ir a contrarreloj).
+   Fallar no cuesta nada: se vuelve a intentar o se pasa. Escondido: solo se entra con #contrarreloj. */
+const CR_MS = 90000;
+let C = null;
+function crPool(){
+  const hoy = hoyMadrid(), ids = [...new Set(Object.entries(CALENDARIO).filter(([f]) => f < hoy).flatMap(([, v]) => v))];
+  for (let i = ids.length - 1; i > 0; i--){ const j = Math.floor(Math.random() * (i + 1)); [ids[i], ids[j]] = [ids[j], ids[i]]; }
+  return ids;
+}
+const crPrecarga = () => C.cola.slice(C.k, C.k + 3).forEach(i => cargaPregunta(i).catch(() => {}));
+function crPortada(){
+  pantalla = "contrarreloj"; soloTutorial(false); paraReloj(); profMeta = 0; fijaPines([]); pintaRecord();
+  const rec = guarda.get("cr:record", null);
+  rescataIceberg(); escena.innerHTML = `
+  <div class="panel">
+    <h1>Contra<em>rreloj</em></h1>
+    <p class="lema">Tienes <b>un minuto y medio</b> para responder todas las categorías que puedas. Salen de días pasados, al azar.
+      Si fallas, prueba otra vez o pasa a la siguiente.</p>
+    ${rec ? `<p class="mini">Tu récord: ${mil(rec.puntos)} m en ${rec.aciertos} categorías.</p>` : ``}
+    <div class="botonera"><button class="btn" id="bCr">Empezar</button><button class="btn fantasma" id="bCrIni">Volver al juego</button></div>
+  </div>`;
+  trasPintar();
+  $("#bCr").addEventListener("click", crEmpieza);
+  $("#bCrIni").addEventListener("click", () => { history.replaceState(null, "", location.pathname); portada(); });
+}
+async function crEmpieza(){
+  Son.arranca();
+  C = { cola:crPool(), k:0, puntos:0, res:[], t0:0, fin:false };
+  const b = $("#bCr"); b.disabled = true; b.textContent = "Cargando…";
+  crPrecarga();
+  try{ await cargaPregunta(C.cola[0]); }
+  catch{ b.disabled = false; b.textContent = "Empezar"; return alertaCarga(); }
+  C.t0 = Date.now(); crPinta();
+}
+function crPinta(){
+  pantalla = "contrarreloj";
+  rescataIceberg(); escena.innerHTML = `
+  <div class="panel" id="tarjeta">
+    <div class="cr-cab"><span id="crN">0 categorías</span><span class="m" id="crM">0 m</span></div>
+    <p class="enunciado" id="crQ">…</p>
+    <form id="f" autocomplete="off">
+      <input type="text" id="r" placeholder="tu respuesta" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" enterkeyhint="go">
+      <button class="btn" type="submit">Bajar</button>
+    </form>
+    <div class="cr-acciones"><button class="enlace" type="button" id="bPasa">Pasar</button></div>
+    <div class="reloj" id="reloj" role="timer" aria-label="Tiempo que queda">
+      <div class="mecha"><i style="transform:scaleX(1)"></i></div>
+      <span class="segundos"><span id="seg">90</span><small>s</small></span>
+    </div>
+    <p class="aviso" id="aviso" role="status"></p>
+  </div>`;
+  trasPintar();
+  const campo = $("#r"), barra = $("#reloj"), relleno = barra.querySelector(".mecha i"), seg = $("#seg");
+  let p = null, ultimoTic = 99;
+  async function siguiente(){
+    p = null; $("#crQ").textContent = "…";
+    if (C.k >= C.cola.length) return crFinal();
+    crPrecarga();
+    try{ p = await cargaPregunta(C.cola[C.k]); }catch{ C.k++; return siguiente(); }
+    if (C.fin) return;
+    $("#crQ").textContent = p.q; campo.value = ""; campo.focus();
+  }
+  $("#f").addEventListener("submit", e => {
+    e.preventDefault();
+    const texto = campo.value.trim();
+    if (!texto || !p || C.fin) return;
+    const r = evalua(p, texto);
+    if (!r){
+      Son.fallo(); $("#aviso").textContent = "«" + texto + "» no está en la lista.";
+      const tj = $("#tarjeta"); tj.classList.remove("sacudir"); void tj.offsetWidth; tj.classList.add("sacudir");
+      campo.select(); return;
+    }
+    const N = NIVELES[r.nv];
+    Son.baja(r.nv);
+    C.puntos += N.pts; C.res.push({q:p.q, nv:r.nv, disp:r.disp, tuya:texto}); C.k++;
+    profMeta = Math.min(700, C.puntos);
+    $("#crM").textContent = mil(C.puntos) + " m";
+    $("#crN").textContent = C.res.filter(x => x.nv !== null).length + " categorías";
+    $("#aviso").innerHTML = `<span class="cr-ok" style="--nc:${N.col};--nt:${N.txt}">+${N.pts} m · ${esc(N.n)}</span> ${esc(r.disp)}`;
+    siguiente();
+  });
+  $("#bPasa").addEventListener("click", () => {
+    if (!p || C.fin) return;
+    C.res.push({q:p.q, nv:null}); C.k++; $("#aviso").textContent = ""; siguiente();
+  });
+  (function reloj(){
+    if (C.fin) return;
+    const resta = Math.max(0, CR_MS - (Date.now() - C.t0));
+    relleno.style.transform = "scaleX(" + (resta / CR_MS) + ")";
+    seg.textContent = Math.ceil(resta / 1000);
+    if (resta < 10000){
+      barra.classList.add("urge");
+      const s = Math.ceil(resta / 1000);
+      if (s !== ultimoTic && s > 0){ ultimoTic = s; Son.tic(); }
+    }
+    if (resta <= 0) return crFinal();
+    temporizador = requestAnimationFrame(reloj);
+  })();
+  siguiente();
+}
+function crFinal(){
+  if (C.fin && pantalla === "contrarreloj-fin") return;
+  C.fin = true; paraReloj(); pantalla = "contrarreloj-fin"; Son.fondo();
+  const aciertos = C.res.filter(x => x.nv !== null).length;
+  const rec = guarda.get("cr:record", null), nuevo = !rec || C.puntos > rec.puntos;
+  if (nuevo && C.puntos > 0) guarda.set("cr:record", {puntos:C.puntos, aciertos});
+  rescataIceberg(); escena.innerHTML = `
+  <div class="panel">
+    <p class="mini">Se acabó el tiempo</p>
+    <p class="cr-grande">${mil(C.puntos)} m</p>
+    <p class="lema">${aciertos} ${aciertos === 1 ? "categoría" : "categorías"}${nuevo && C.puntos > 0 ? " · <b>récord</b>" : rec ? ` · tu récord: ${mil(rec.puntos)} m` : ""}</p>
+    <ul class="cr-lista">${C.res.map(x => x.nv === null
+      ? `<li><span class="q">${esc(x.q)}</span><span class="no">pasada</span></li>`
+      : `<li><span class="q">${esc(x.q)}</span><span><span class="cr-ok" style="--nc:${NIVELES[x.nv].col};--nt:${NIVELES[x.nv].txt}">+${NIVELES[x.nv].pts} m</span> ${esc(x.disp)}</span></li>`).join("") || `<li class="no">No ha dado tiempo a ninguna.</li>`}</ul>
+    <div class="botonera"><button class="btn" id="bCrOtra">Otra vez</button><button class="btn fantasma" id="bCrIni">Volver al juego</button></div>
+  </div>`;
+  trasPintar();
+  $("#bCrOtra").addEventListener("click", crPortada);
+  $("#bCrIni").addEventListener("click", () => { history.replaceState(null, "", location.pathname); portada(); });
+}
+
 /* ═════════ arranque ═════════ */
 dibujaIceberg();
 requestAnimationFrame(anima);
 if (guarda.get("tutorial", false) || guarda.get("est", null) || location.hash === "#metros") portada(); else tutorial();
 // con el reto de hoy a medias se vuelve directo a la pregunta: el reloj de esa pregunta no ha parado
 if (enCurso()){ guarda.set("tutorial", true); empieza("diaria"); }
+else if (location.hash === "#contrarreloj") crPortada();
 iniciaCuenta();
 // La librería de cuentas se pide después de pintar: si su servidor tarda o está bloqueado, se juega igual sin cuenta.
 (function(){
