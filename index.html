@@ -267,6 +267,7 @@ input[type=text]:focus,input[type=email]:focus,input[type=password]:focus{outlin
 .cr-lista li{display:grid;gap:3px;padding:9px 0;border-bottom:1px solid var(--linea);font-size:14.5px}
 .cr-lista .q{color:var(--tinta-suave);font-size:13px}
 .cr-lista .no{color:var(--tinta-suave);font-style:italic}
+.cr-pista{display:block;width:100%;height:210px;border-radius:16px;margin:0 0 20px;background:#f7efe9}
 .cr-grande{font-family:var(--disp);font-size:clamp(44px,7vw,64px);line-height:1;margin:8px 0 2px;font-variant-numeric:tabular-nums}
 /* ── veredicto ───────────────────────────────────────── */
 .chip{display:inline-flex;align-items:center;gap:7px;font-family:var(--sans);font-size:13px;font-weight:700;
@@ -414,7 +415,7 @@ h3{font-family:var(--sans);font-size:13.5px;color:var(--boya-hondo);
   .sitio-berg{display:block;height:230px;margin:-22px -18px 18px;border-radius:20px 20px 0 0;overflow:hidden}
   .sitio-berg.alto{height:440px}
   .sitio-berg #hielo{height:100%}
-  .sitio-berg.cr-berg{height:150px;margin-bottom:12px}
+  .cr-pista{height:160px;margin-bottom:14px}
   /* la barra de metros, solo mientras se juega */
   #app.jugando #medidor{display:flex;flex:1 0 100%;align-items:center;gap:10px;font-size:12.5px;font-weight:700;padding:2px 2px 4px}
   #medTu{background:var(--boya-suave);border-radius:999px;padding:3px 10px;white-space:nowrap;font-variant-numeric:tabular-nums}
@@ -795,8 +796,8 @@ function dibujaIceberg(){
 
   if (HALLOWEEN && !estrecho) calabaza(svg, x(.47), y(0) + 6*G.H/420*(G.dentro ? .55 : 1), G.dentro ? .95 : Math.max(1.1, G.H/540));
 
-  // escala de hondura
-  if (!estrecho){
+  // escala de hondura (en el contrarreloj no: ahí no se cuentan metros)
+  if (!estrecho && !pantalla.startsWith("contrarreloj")){
     const xe = Math.max(58, L*.5), fin = R + (Z-R)*.45;
     el("line",{x1:xe,y1:y0,x2:xe,y2:yf,stroke:tk("--cielo-tinta"),"stroke-width":1.2,opacity:.45},svg);
     el("line",{x1:xe,y1:yf,x2:xe,y2:y(FONDO),stroke:"#ffffff","stroke-width":1.2,opacity:.8},svg);
@@ -813,16 +814,6 @@ function dibujaIceberg(){
   // grupo del récord del día, de pines y marcador
   el("g",{id:"record"},svg);
   el("g",{id:"pines"},svg);
-  // el pingüino del contrarreloj: se dibuja con los pies en (0,0) mirando a la derecha; mueveMarca lo coloca en la pared
-  const pg = el("g",{id:"pingu",style:"display:none"},svg), ps = estrecho ? 9 : 17;
-  const cuerpo = el("g",{},pg);
-  el("ellipse",{cx:.1*ps,cy:-.08*ps,rx:.45*ps,ry:.14*ps,fill:"#f29a2e"},cuerpo);
-  el("ellipse",{cx:0,cy:-1.1*ps,rx:.78*ps,ry:1.12*ps,fill:"#1b2333"},cuerpo);
-  el("ellipse",{cx:.2*ps,cy:-1*ps,rx:.5*ps,ry:.86*ps,fill:"#ffffff"},cuerpo);
-  el("rect",{x:-.7*ps,y:-1.42*ps,width:1.42*ps,height:.24*ps,rx:.12*ps,fill:"#e5484d"},cuerpo);
-  el("circle",{cx:.34*ps,cy:-1.7*ps,r:.11*ps,fill:"#1b2333"},cuerpo);
-  el("polygon",{points:`${.62*ps},${-1.72*ps} ${1.08*ps},${-1.6*ps} ${.62*ps},${-1.48*ps}`,fill:"#f29a2e"},cuerpo);
-  el("ellipse",{cx:-.62*ps,cy:-1*ps,rx:.2*ps,ry:.55*ps,fill:"#0f1622",transform:`rotate(18 ${-.62*ps} ${-1*ps})`},cuerpo);
   const mk = el("g",{id:"marca-tu"},svg);
   el("line",{x1:0,y1:0,x2:Z,y2:0,stroke:tk("--boya"),"stroke-width":estrecho?2:1.6,
     "stroke-dasharray":estrecho?"0":"5 4"},mk);
@@ -932,16 +923,9 @@ function pintaPines(){
 function mueveMarca(){
   if (!G) return;
   const mk = $("#marca-tu"); if (!mk) return;
-  // contrarreloj: en vez de la marca de metros, un pingüino que se tira en plancha por la pared derecha del iceberg
-  const pg = $("#pingu"), contra = pantalla.startsWith("contrarreloj");
-  mk.style.display = contra ? "none" : ""; pg.style.display = contra ? "" : "none";
-  if (contra){
-    const m = Math.min(FONDO - 8, profVista), xe = G.x(enTramo(DER, m)), ye = G.y(m);
-    const dx = G.x(enTramo(DER, m + 8)) - xe, dy = G.y(m + 8) - ye, n = Math.hypot(dx, dy) || 1;
-    const giro = Math.atan2(dx, -dy) * 180 / Math.PI, sep = G.estrecho ? 3 : 5;   // de cabeza, con la tripa contra el hielo
-    pg.setAttribute("transform", `translate(${(xe + dy/n*sep).toFixed(1)} ${(ye - dx/n*sep).toFixed(1)}) rotate(${giro.toFixed(1)})`);
-    return;
-  }
+  // en el contrarreloj no hay marca de metros: se cuentan categorías
+  if (pantalla.startsWith("contrarreloj")){ mk.style.display = "none"; return; }
+  mk.style.display = "";
   const yy = G.y(Math.min(FONDO, profVista));
   mk.setAttribute("transform", `translate(0 ${yy.toFixed(1)})`);
   const chip = $("#chip"), txt = chip.lastElementChild, caja = chip.firstElementChild;
@@ -2026,9 +2010,9 @@ bs.addEventListener("click", ()=>{ const on = Son.alterna(); bs.setAttribute("ar
 /* ═════════ contrarreloj (prueba): 90 s para responder todas las categorías que se pueda ═════════
    Cuenta categorías acertadas, no metros. Salen preguntas de días ya jugados, al azar. Solo vale lo que está en el banco
    (el juez tarda demasiado para ir a contrarreloj). Fallar no cuesta nada: se vuelve a intentar o se pasa.
-   Cada acierto baja al pingüino CR_PASO metros por el iceberg. Con cuenta, cada partida se guarda en sabihondo_contrarreloj
+   Cada acierto es un pez que se come el pingüino de la pista (Pista). Con cuenta, cada partida se guarda en sabihondo_contrarreloj
    y el podio (sabihondo_contrarreloj_podio) enseña la mejor de cada persona. Escondido: solo se entra con #contrarreloj. */
-const CR_MS = 90000, CR_PASO = 25;
+const CR_MS = 90000;
 let C = null;
 function crPool(){
   const hoy = hoyMadrid(), ids = [...new Set(Object.entries(CALENDARIO).filter(([f]) => f < hoy).flatMap(([, v]) => v))];
@@ -2044,15 +2028,15 @@ function crPortada(){
   const rec = crRecord();
   rescataIceberg(); escena.innerHTML = `
   <div class="panel">
-    <div class="sitio-berg"></div>
+    <canvas class="cr-pista" id="crPista" aria-hidden="true"></canvas>
     <h1>Contra<em>rreloj</em></h1>
     <p class="lema">Tienes <b>un minuto y medio</b> para responder todas las categorías que puedas. Salen de días pasados, al azar.
-      Si fallas, prueba otra vez o pasa a la siguiente. Con cada acierto, el pingüino baja un poco más.</p>
+      Si fallas, prueba otra vez o pasa a la siguiente. Cada acierto es un pez para el pingüino.</p>
     ${rec ? `<p class="mini">Tu récord: ${crCat(rec)}.</p>` : ``}
     <div class="botonera"><button class="btn" id="bCr">Empezar</button><button class="btn fantasma" id="bCrPodio">Podio</button>
       <button class="enlace" type="button" id="bCrIni">Volver al juego</button></div>
   </div>`;
-  trasPintar(); mueveMarca();
+  trasPintar(); mueveMarca(); Pista.monta($("#crPista"), 0);
   $("#bCr").addEventListener("click", crEmpieza);
   $("#bCrPodio").addEventListener("click", crPodio);
   $("#bCrIni").addEventListener("click", crVuelve);
@@ -2070,7 +2054,7 @@ function crPinta(){
   pantalla = "contrarreloj";
   rescataIceberg(); escena.innerHTML = `
   <div class="panel" id="tarjeta">
-    <div class="sitio-berg cr-berg"></div>
+    <canvas class="cr-pista" id="crPista" aria-hidden="true"></canvas>
     <div class="cr-cab"><span>Contrarreloj</span><span class="m" id="crN">0 categorías</span></div>
     <p class="enunciado" id="crQ">…</p>
     <form id="f" autocomplete="off">
@@ -2084,7 +2068,7 @@ function crPinta(){
     </div>
     <p class="aviso" id="aviso" role="status"></p>
   </div>`;
-  trasPintar(); mueveMarca();
+  trasPintar(); mueveMarca(); Pista.monta($("#crPista"), 0);
   const campo = $("#r"), barra = $("#reloj"), relleno = barra.querySelector(".mecha i"), seg = $("#seg");
   let p = null, ultimoTic = 99;
   async function siguiente(){
@@ -2107,14 +2091,14 @@ function crPinta(){
     }
     Son.baja(r.nv);
     C.aciertos++; C.res.push({q:p.q, nv:r.nv, disp:r.disp}); C.k++;
-    profMeta = Math.min(FONDO, C.aciertos * CR_PASO);
+    Pista.come();
     $("#crN").textContent = crCat(C.aciertos);
     $("#aviso").innerHTML = `<span class="cr-ok">✓ ${esc(r.disp)}</span>`;
     siguiente();
   });
   $("#bPasa").addEventListener("click", () => {
     if (!p || C.fin) return;
-    C.res.push({q:p.q, nv:null}); C.k++; $("#aviso").textContent = ""; siguiente();
+    C.res.push({q:p.q, nv:null}); C.k++; $("#aviso").textContent = ""; Pista.pasa(); siguiente();
   });
   (function reloj(){
     if (C.fin) return;
@@ -2142,7 +2126,7 @@ function crFinal(){
     : Promise.resolve();
   rescataIceberg(); escena.innerHTML = `
   <div class="panel">
-    <div class="sitio-berg"></div>
+    <canvas class="cr-pista" id="crPista" aria-hidden="true"></canvas>
     <p class="mini">Se acabó el tiempo</p>
     <p class="cr-grande">${crCat(C.aciertos)}</p>
     <p class="lema">${nuevo && C.aciertos ? "<b>Tu récord</b>" : rec ? `Tu récord: ${crCat(rec)}` : ""}</p>
@@ -2153,7 +2137,7 @@ function crFinal(){
     <div class="botonera"><button class="btn" id="bCrOtra">Otra vez</button><button class="btn fantasma" id="bCrPodio">Podio</button>
       <button class="enlace" type="button" id="bCrIni">Volver al juego</button></div>
   </div>`;
-  trasPintar(); mueveMarca();
+  trasPintar(); mueveMarca(); Pista.monta($("#crPista"), C.aciertos, true);
   $("#bCrOtra").addEventListener("click", crPortada);
   $("#bCrPodio").addEventListener("click", () => sube.then(crPodio));
   $("#bCrIni").addEventListener("click", crVuelve);
@@ -2185,6 +2169,131 @@ async function crPodio(){
       <span class="metros">${crCat(f.aciertos)}</span></li>`).join("")}</ol>
     ${Cuenta.user ? "" : `<p class="mini">Para salir aquí hace falta una cuenta.</p>`}`);
 }
+
+
+/* ═════════ la pista del contrarreloj ═════════
+   Un pingüino de espaldas en un trineo baja por una cresta de hielo en facetas, como el iceberg. Delante esperan peces:
+   con cada acierto avanza y se come el primero; al pasar, el pez salta al agua. Todo en un canvas, a la escala que tenga. */
+const Pista = (() => {
+  const HIELO = ["#f4f9fc","#e6f1f8"], PARED = ["#bcd8ea","#a6c9e0","#cfe4f1","#93bbd6"], MAR = ["#3f8fb8","#1e5a85"];
+  const TINTA = "#1b2333", ROSA = "#ee6fa3", ROSA_H = "#cb3b78", NARANJA = "#f29a2e", MADERA = ["#b9824f","#9a6638"];
+  const quieto = matchMedia("(prefers-reduced-motion: reduce)");
+  let cv = null, cx, w, h, raf = 0, prev = 0, off = 0, avanza = 0, peces = [], huidos = [], chispas = [], trago = 0, fin = false, tiempo = 0;
+  const SEP = 2.2;   // distancia entre peces
+  function talla(){
+    const r = cv.getBoundingClientRect(), d = Math.min(2, devicePixelRatio || 1);
+    w = r.width; h = r.height; cv.width = Math.round(w*d); cv.height = Math.round(h*d); cx.setTransform(d,0,0,d,0,0);
+  }
+  // perspectiva: z = 0 a los pies del pingüino; s = escala a esa distancia
+  const hy = () => h*.34, esc = z => 1/(1 + Math.max(-.6, z)*.42);
+  const sy = z => hy() + (h*1.02 - hy())*esc(z);
+  const curva = z => Math.sin((z + off)*.35)*w*.05*(1 - esc(z));
+  const sx = (z, lado) => w/2 + curva(z) + lado*w*.36*esc(z);
+  function monta(canvas, comidos, acabada){
+    para(); cv = canvas; if (!cv) return; cx = cv.getContext("2d"); talla();
+    peces = [1.6, 1.6+SEP, 1.6+2*SEP, 1.6+3*SEP].map(z => ({z, fase:Math.random()*6, lado:(Math.random()-.5)*.5}));
+    huidos = []; chispas = []; avanza = 0; trago = 0; fin = !!acabada; prev = performance.now();
+    raf = requestAnimationFrame(bucle);
+  }
+  function para(){ cancelAnimationFrame(raf); raf = 0; }
+  function come(){ avanza += SEP; }
+  function pasa(){
+    const p = peces.shift(); if (p) huidos.push({...p, t:0, dir:Math.random() < .5 ? -1 : 1});
+    peces.push({z:peces.length ? peces[peces.length-1].z + SEP : 1.6, fase:Math.random()*6, lado:(Math.random()-.5)*.5});
+  }
+  function bucle(ahora){
+    if (!cv || !cv.isConnected) return para();
+    const dt = Math.min(.05, (ahora - prev)/1000); prev = ahora; tiempo += dt;
+    // la pista corre sola despacio; al acertar, el pingüino acelera hasta el pez
+    let d = quieto.matches || fin ? 0 : dt*.5;
+    if (avanza > 0){ const paso = Math.min(avanza, Math.max(dt*3, avanza*.14)); avanza -= paso; d += paso; for (const p of peces) p.z -= paso; }
+    off += d;
+    if (peces.length && peces[0].z < .35){
+      const p = peces.shift(); trago = 1; Son.capa?.();
+      for (let i = 0; i < 14; i++) chispas.push({x:sx(.35, p.lado), y:sy(.35) - h*.2, vx:(Math.random()-.5)*160, vy:-60 - Math.random()*140, v:1, c:i % 3 ? ROSA : "#ffffff"});
+      peces.push({z:peces[peces.length-1].z + SEP, fase:Math.random()*6, lado:(Math.random()-.5)*.5});
+    }
+    trago = Math.max(0, trago - dt*3);
+    pinta(dt);
+    raf = requestAnimationFrame(bucle);
+  }
+  function poli(pts, c){ cx.beginPath(); pts.forEach(([x,y],i) => i ? cx.lineTo(x,y) : cx.moveTo(x,y)); cx.closePath(); cx.fillStyle = c; cx.fill(); }
+  function pinta(dt){
+    const H0 = hy();
+    // cielo, sol y mar
+    let g = cx.createLinearGradient(0,0,0,H0); g.addColorStop(0,"#f7efe9"); g.addColorStop(1,"#fbe0d6");
+    cx.fillStyle = g; cx.fillRect(0,0,w,H0+1);
+    cx.fillStyle = "#ffd9a8"; cx.beginPath(); cx.arc(w*.8, H0*.55, h*.09, 0, 7); cx.fill();
+    g = cx.createLinearGradient(0,H0,0,h); g.addColorStop(0,MAR[0]); g.addColorStop(1,MAR[1]);
+    cx.fillStyle = g; cx.fillRect(0,H0,w,h-H0);
+    // témpanos lejanos
+    [[.12,.0,.07],[.25,.06,.04],[.9,.03,.06]].forEach(([fx,fy,fw]) => {
+      const x = w*fx, y = H0 + h*.04 + h*fy, a = w*fw;
+      poli([[x-a,y],[x-a*.6,y-a*.35],[x+a*.2,y-a*.45],[x+a,y]], "#e6f1f8"); poli([[x-a,y],[x+a,y],[x+a*.7,y+a*.15],[x-a*.8,y+a*.12]], "#a6c9e0");
+    });
+    // la cresta de hielo, de lejos a cerca, en franjas que corren
+    const Z = [];
+    for (let z = 16; z >= -.4; z -= .5) Z.push(z);
+    for (let i = 0; i < Z.length - 1; i++){
+      const z0 = Z[i], z1 = Z[i+1], banda = Math.floor((z0 + off)/1) & 1, cara = Math.floor((z0 + off)*2) & 3;
+      const y0 = sy(z0), y1 = sy(z1), l0 = sx(z0,-1), r0 = sx(z0,1), l1 = sx(z1,-1), r1 = sx(z1,1);
+      const caida0 = (h - y0)*.5*esc(z0) + 4, caida1 = (h - y1)*.5*esc(z1) + 4;
+      poli([[l0,y0],[l1,y1],[l1 - 6*esc(z1),y1+caida1],[l0 - 6*esc(z0),y0+caida0]], PARED[cara]);
+      poli([[r0,y0],[r1,y1],[r1 + 6*esc(z1),y1+caida1],[r0 + 6*esc(z0),y0+caida0]], PARED[(cara+1)&3]);
+      poli([[l0,y0],[r0,y0],[r1,y1],[l1,y1]], HIELO[banda]);
+    }
+    // surcos del trineo
+    cx.strokeStyle = "rgba(147,187,214,.55)"; cx.lineWidth = 1.2;
+    [-.12,.12].forEach(lado => { cx.beginPath(); for (let z = 8; z >= 0; z -= .25){ const x = sx(z,lado), y = sy(z); z === 8 ? cx.moveTo(x,y) : cx.lineTo(x,y); } cx.stroke(); });
+    // peces que esperan (y los que saltan al agua)
+    for (const p of [...peces].reverse()) pez(sx(p.z, p.lado), sy(p.z) - h*.05*esc(p.z) - Math.abs(Math.sin(tiempo*3 + p.fase))*h*.04*esc(p.z), esc(p.z), 1);
+    huidos = huidos.filter(p => (p.t += dt) < .8);
+    for (const p of huidos){ const k = p.t/.8; pez(sx(p.z, p.lado) + p.dir*k*w*.35, sy(p.z) - h*.05 - Math.sin(k*Math.PI)*h*.25, esc(p.z), 1 - k); }
+    pinguino();
+    chispas = chispas.filter(c => (c.v -= dt*1.6) > 0);
+    for (const c of chispas){ c.x += c.vx*dt; c.y += c.vy*dt; c.vy += 260*dt; cx.globalAlpha = c.v; cx.fillStyle = c.c; cx.fillRect(c.x-2, c.y-2, 4, 4); }
+    cx.globalAlpha = 1;
+  }
+  function pez(x, y, s, alfa){
+    const t = h*.17*s; if (t < 2) return;
+    cx.globalAlpha = Math.max(0, alfa);
+    cx.fillStyle = "rgba(27,35,51,.12)"; cx.beginPath(); cx.ellipse(x, y + t*.9, t*.7, t*.18, 0, 0, 7); cx.fill();
+    poli([[x + t*.55, y],[x + t*1.05, y - t*.4],[x + t*1.05, y + t*.4]], ROSA_H);
+    cx.fillStyle = ROSA; cx.beginPath(); cx.ellipse(x, y, t*.7, t*.45, 0, 0, 7); cx.fill();
+    poli([[x - t*.1, y - t*.42],[x + t*.3, y - t*.7],[x + t*.35, y - t*.3]], ROSA_H);
+    cx.fillStyle = "#fff"; cx.beginPath(); cx.arc(x - t*.35, y - t*.1, t*.17, 0, 7); cx.fill();
+    cx.fillStyle = TINTA; cx.beginPath(); cx.arc(x - t*.38, y - t*.1, t*.08, 0, 7); cx.fill();
+    cx.globalAlpha = 1;
+  }
+  function pinguino(){
+    const u = Math.min(w, h*1.9)*.0034, x = w/2 + curva(0) + Math.sin(tiempo*2.2)*3*u*(fin ? 0 : 1), y = h - 6*u;
+    const gl = 1 + trago*.12, ala = Math.sin(tiempo*9)*.12*(avanza > 0 ? 2 : 1);
+    cx.save(); cx.translate(x, y); cx.rotate(Math.sin(tiempo*2.2)*.03);
+    // trineo
+    cx.fillStyle = "rgba(27,35,51,.18)"; cx.beginPath(); cx.ellipse(0, 2*u, 34*u, 6*u, 0, 0, 7); cx.fill();
+    poli([[-30*u,-4*u],[30*u,-4*u],[26*u,10*u],[-26*u,10*u]], MADERA[0]);
+    cx.strokeStyle = MADERA[1]; cx.lineWidth = 1.4*u;
+    for (const k of [-15,0,15]){ cx.beginPath(); cx.moveTo(k*u,-4*u); cx.lineTo(k*.87*u,10*u); cx.stroke(); }
+    // aletas abiertas
+    cx.fillStyle = TINTA;
+    for (const l of [-1,1]){ cx.save(); cx.translate(l*18*u, -22*u); cx.rotate(l*(1.05 + ala)); cx.beginPath(); cx.ellipse(0, 12*u, 5*u, 15*u, 0, 0, 7); cx.fill(); cx.restore(); }
+    // cuerpo de espaldas, con la tripa blanca asomando por los lados
+    cx.save(); cx.scale(gl, 1/gl*1.04);
+    cx.fillStyle = "#ffffff"; cx.beginPath(); cx.ellipse(0, -18*u, 22*u, 21*u, 0, 0, 7); cx.fill();
+    cx.fillStyle = TINTA; cx.beginPath(); cx.ellipse(0, -21*u, 19*u, 22*u, 0, 0, 7); cx.fill();
+    cx.beginPath(); cx.arc(0, -46*u, 12*u, 0, 7); cx.fill();
+    // bufanda rosa, con la punta al viento
+    cx.fillStyle = ROSA; cx.fillRect(-12*u, -38*u, 24*u, 5*u);
+    poli([[6*u,-36*u],[16*u + Math.sin(tiempo*12)*3*u,-30*u],[13*u,-26*u],[4*u,-33*u]], ROSA_H);
+    cx.restore();
+    // patas naranjas sobre la tabla
+    cx.fillStyle = NARANJA;
+    for (const l of [-1,1]){ cx.beginPath(); cx.ellipse(l*9*u, -1*u, 6*u, 4*u, l*.3, 0, 7); cx.fill(); }
+    cx.restore();
+  }
+  addEventListener("resize", () => { if (cv && cv.isConnected) talla(); });
+  return { monta, come, pasa, para };
+})();
 
 /* ═════════ arranque ═════════ */
 dibujaIceberg();
