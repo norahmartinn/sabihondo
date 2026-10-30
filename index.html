@@ -259,16 +259,55 @@ input[type=text]:focus,input[type=email]:focus,input[type=password]:focus{outlin
 @keyframes sac{25%{transform:translateX(-7px)}50%{transform:translateX(6px)}75%{transform:translateX(-3px)}}
 
 /* ── contrarreloj (minijuego de prueba, #contrarreloj) ── */
-.cr-cab{display:flex;justify-content:space-between;align-items:baseline;gap:12px;font-family:var(--sans);font-weight:700;font-size:14px;color:var(--tinta-suave);margin-bottom:18px}
-.cr-cab .m{color:var(--tinta);font-variant-numeric:tabular-nums}
-.cr-ok{display:inline-flex;gap:8px;align-items:center;background:var(--boya-suave);color:var(--tinta);border-radius:999px;padding:4px 12px;font-weight:700;font-size:13px}
-.cr-acciones{display:flex;justify-content:flex-end;margin-top:6px}
-.cr-lista{list-style:none;margin:18px 0 0;padding:0;display:grid;gap:8px;max-height:46vh;overflow:auto}
-.cr-lista li{display:grid;gap:3px;padding:9px 0;border-bottom:1px solid var(--linea);font-size:14.5px}
-.cr-lista .q{color:var(--tinta-suave);font-size:13px}
-.cr-lista .no{color:var(--tinta-suave);font-style:italic}
-.cr-pista{display:block;width:100%;height:210px;border-radius:16px;margin:0 0 20px;background:#f7efe9}
-.cr-grande{font-family:var(--disp);font-size:clamp(44px,7vw,64px);line-height:1;margin:8px 0 2px;font-variant-numeric:tabular-nums}
+/* ── el batiscafo (minijuego de prueba, #contrarreloj): pantalla completa encima del juego ── */
+#bati{position:fixed;inset:0;z-index:7;background:#06162a;color:#fff;font-family:var(--sans);overflow:hidden}
+#btCv{position:absolute;inset:0;width:100%;height:100%;display:block}
+.bt-hud{position:absolute;inset:0;display:flex;flex-direction:column;align-items:center;pointer-events:none;
+  padding:calc(14px + env(safe-area-inset-top,0px)) max(16px, env(safe-area-inset-right,0px)) 16px max(16px, env(safe-area-inset-left,0px))}
+.bt-hud > *{pointer-events:auto;width:100%;max-width:560px}
+.bt-hud::before{content:"";position:absolute;inset:0 0 auto;height:min(330px,46%);pointer-events:none;
+  background:linear-gradient(rgba(6,22,42,.62),rgba(6,22,42,.38) 60%,rgba(6,22,42,0))}
+.bt-hud > *{position:relative}
+.bt-top{display:flex;align-items:center;gap:12px}
+.bt-o2{flex:1;display:grid;gap:5px}
+.bt-o2 .et{display:flex;justify-content:space-between;font-size:12px;font-weight:800;letter-spacing:.06em;text-transform:uppercase;color:rgba(255,255,255,.75)}
+.bt-o2 .et b{font-variant-numeric:tabular-nums;letter-spacing:0;color:#fff;font-size:14px}
+.bt-tubo{height:12px;border-radius:999px;background:rgba(255,255,255,.14);overflow:hidden;box-shadow:inset 0 0 0 1.5px rgba(255,255,255,.18)}
+.bt-tubo i{display:block;height:100%;border-radius:999px;background:linear-gradient(90deg,#2fb5a2,#7fe0cf);transform-origin:left;transition:background .3s}
+.bt-tubo.poco i{background:linear-gradient(90deg,#e5484d,#ff8a8d);animation:late 1s steps(2) infinite}
+.bt-cuenta{display:grid;justify-items:center;min-width:56px;line-height:1}
+.bt-cuenta b{font-family:var(--disp);font-weight:400;font-size:30px;font-variant-numeric:lining-nums tabular-nums}
+.bt-cuenta small{font-size:10.5px;font-weight:700;color:rgba(255,255,255,.7);margin-top:3px}
+.bt-x{width:40px;height:40px;border-radius:50%;border:1.5px solid rgba(255,255,255,.45);background:rgba(6,22,42,.35);color:#fff;font-size:18px;cursor:pointer}
+.bt-q{font-family:var(--disp);font-weight:400;font-size:clamp(26px,5.4vw,40px);line-height:1.08;margin:18px 0 0;text-wrap:balance;text-shadow:0 2px 14px rgba(0,10,25,.55)}
+.bt-f{display:flex;flex-wrap:nowrap;gap:10px;margin-top:14px}
+.bt-f input{flex:1 1 0;min-width:0;background:rgba(251,247,242,.96);border:0;border-radius:var(--r-btn);color:var(--tinta);padding:15px 18px;font-family:var(--sans);font-size:17px}
+.bt-f input:focus{outline:none;box-shadow:0 0 0 4px rgba(255,207,92,.55)}
+.bt-f .btn{flex:0 0 auto}
+.bt-f.mal input{box-shadow:0 0 0 3px #e5484d;animation:sac .34s}
+.bt-bajo{display:flex;justify-content:space-between;align-items:center;margin-top:10px;min-height:28px;gap:12px}
+.bt-pasa{background:none;border:0;color:rgba(255,255,255,.8);font:700 14px var(--sans);text-decoration:underline;text-underline-offset:3px;cursor:pointer;padding:0}
+.bt-ok{font-size:13.5px;font-weight:700;color:#bfe3ff;min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.bt-nuevo{position:absolute;left:50%;bottom:calc(9% + env(safe-area-inset-bottom,0px));transform:translate(-50%,20px);opacity:0;transition:.35s;pointer-events:none;
+  background:#fbf7f2;color:var(--tinta);border-radius:16px;padding:10px 16px 10px 12px;display:flex;align-items:center;gap:10px;box-shadow:0 10px 30px rgba(0,8,20,.45);width:auto;max-width:90%}
+.bt-nuevo.ve{opacity:1;transform:translate(-50%,0)}
+.bt-nuevo canvas{display:block;width:44px;height:44px}
+.bt-nuevo small{display:block;font-size:11px;font-weight:800;letter-spacing:.06em;text-transform:uppercase;color:var(--rosa-t, #cb3b78)}
+.bt-nuevo b{font-family:var(--disp);font-weight:400;font-size:19px}
+.bt-panel{margin:auto 0;background:var(--hielo);color:var(--tinta);border-radius:var(--r-panel);padding:26px 24px;max-height:calc(100% - 20px);overflow:auto;box-shadow:0 20px 50px rgba(0,8,20,.45)}
+.bt-panel h1{font-family:var(--disp);font-weight:400;font-size:clamp(34px,6vw,48px);margin:0;line-height:1}
+.bt-panel .lema{margin-top:12px}
+.bt-grande{font-family:var(--disp);font-size:clamp(44px,8vw,64px);line-height:1;margin:6px 0 0;font-variant-numeric:lining-nums tabular-nums}
+.bt-album{display:grid;grid-template-columns:repeat(6,1fr);gap:8px;margin-top:16px}
+.bt-album figure{margin:0;display:grid;justify-items:center;gap:3px;background:#eef3f8;border-radius:12px;padding:6px 2px}
+.bt-album canvas{display:block;width:40px;height:40px}
+.bt-album figcaption{font-size:9.5px;font-weight:700;text-align:center;line-height:1.1;color:var(--tinta-suave)}
+.bt-album figure.no figcaption{opacity:.5}
+.bt-lista{list-style:none;margin:14px 0 0;padding:0;display:grid;max-height:30vh;overflow:auto;border-top:1px solid var(--linea)}
+.bt-lista li{display:grid;gap:2px;padding:8px 0;border-bottom:1px solid var(--linea);font-size:14px}
+.bt-lista .q{color:var(--tinta-suave);font-size:12.5px}
+.bt-lista .no{color:var(--tinta-suave);font-style:italic}
+@media (max-width:440px){ .bt-album{grid-template-columns:repeat(4,1fr)} .bt-f .btn{padding-inline:18px} }
 /* ── veredicto ───────────────────────────────────────── */
 .chip{display:inline-flex;align-items:center;gap:7px;font-family:var(--sans);font-size:13px;font-weight:700;
   padding:5px 11px 5px 9px;border-radius:999px;background:#fff;
@@ -415,7 +454,6 @@ h3{font-family:var(--sans);font-size:13.5px;color:var(--boya-hondo);
   .sitio-berg{display:block;height:230px;margin:-22px -18px 18px;border-radius:20px 20px 0 0;overflow:hidden}
   .sitio-berg.alto{height:440px}
   .sitio-berg #hielo{height:100%}
-  .cr-pista{height:160px;margin-bottom:14px}
   /* la barra de metros, solo mientras se juega */
   #app.jugando #medidor{display:flex;flex:1 0 100%;align-items:center;gap:10px;font-size:12.5px;font-weight:700;padding:2px 2px 4px}
   #medTu{background:var(--boya-suave);border-radius:999px;padding:3px 10px;white-space:nowrap;font-variant-numeric:tabular-nums}
@@ -2007,12 +2045,22 @@ bs.setAttribute("aria-pressed", String(Son.activo()));
 bs.textContent = Son.activo() ? "♪" : "✕";
 bs.addEventListener("click", ()=>{ const on = Son.alterna(); bs.setAttribute("aria-pressed", String(on)); bs.textContent = on ? "♪" : "✕"; });
 
-/* ═════════ contrarreloj (prueba): 90 s para responder todas las categorías que se pueda ═════════
-   Cuenta categorías acertadas, no metros. Salen preguntas de días ya jugados, al azar. Solo vale lo que está en el banco
-   (el juez tarda demasiado para ir a contrarreloj). Fallar no cuesta nada: se vuelve a intentar o se pasa.
-   Cada acierto es un pez que se come el pingüino de la pista (Pista). Con cuenta, cada partida se guarda en sabihondo_contrarreloj
-   y el podio (sabihondo_contrarreloj_podio) enseña la mejor de cada persona. Escondido: solo se entra con #contrarreloj. */
+/* ═════════ el batiscafo (prueba): 90 s de oxígeno para responder todas las categorías que se pueda ═════════
+   Un submarino baja pegado a la pared del iceberg. Cada acierto lo hunde un tramo y su foco descubre algo del fondo
+   (BICHOS, en orden de hondura), que se guarda en el álbum (`cr:album`). Cuenta categorías, no metros.
+   Salen preguntas de días ya jugados, al azar; solo vale lo que está en el banco (el juez tarda demasiado).
+   Con cuenta, cada partida va a sabihondo_contrarreloj y al podio. Escondido: solo se entra con #contrarreloj.
+   Las ilustraciones van en bati/NN.webp; mientras no estén, se dibuja un boceto. */
 const CR_MS = 90000;
+const BICHOS = [
+  {n:"Bacalao ártico", f:"pez",    c:"#a6c9e0"}, {n:"Foca",           f:"foca",   c:"#8e9bb0"},
+  {n:"Medusa",         f:"medusa", c:"#ee6fa3"}, {n:"Beluga",         f:"ballena",c:"#e6f1f8"},
+  {n:"Narval",         f:"narval", c:"#5b7fa6"}, {n:"Morsa",          f:"foca",   c:"#c79a78"},
+  {n:"Barco hundido",  f:"barco",  c:"#9a6638"}, {n:"Pulpo gigante",  f:"pulpo",  c:"#ee6fa3"},
+  {n:"Rape abisal",    f:"rape",   c:"#2a3f66"}, {n:"Cofre del tesoro",f:"cofre", c:"#ffcf5c"},
+  {n:"Calamar gigante",f:"pulpo",  c:"#cb3b78"}, {n:"Kraken",         f:"kraken", c:"#7b4fd6"}
+];
+BICHOS.forEach((b, i) => { const im = new Image(); im.onload = () => b.img = im; im.src = "bati/" + String(i+1).padStart(2,"0") + ".webp"; });
 let C = null;
 function crPool(){
   const hoy = hoyMadrid(), ids = [...new Set(Object.entries(CALENDARIO).filter(([f]) => f < hoy).flatMap(([, v]) => v))];
@@ -2022,55 +2070,78 @@ function crPool(){
 const crPrecarga = () => C.cola.slice(C.k, C.k + 3).forEach(i => cargaPregunta(i).catch(() => {}));
 const crCat = n => n + (n === 1 ? " categoría" : " categorías");
 const crRecord = () => { const r = guarda.get("cr:record", null); return r && typeof r.aciertos === "number" ? r.aciertos : 0; };
-function crVuelve(){ history.replaceState(null, "", location.pathname); portada(); }
+const crAlbum = () => new Set(guarda.get("cr:album", []));
+
+/* la capa a pantalla completa: escena (canvas) + lo que se toca encima */
+function btCapa(){
+  let b = $("#bati");
+  if (!b){ b = document.createElement("div"); b.id = "bati"; b.innerHTML = `<canvas id="btCv" aria-hidden="true"></canvas><div class="bt-hud" id="btHud"></div>`; document.body.appendChild(b); }
+  Fondo.monta($("#btCv"));
+  return $("#btHud");
+}
+function crVuelve(){
+  if (C) C.fin = true;
+  Fondo.para(); $("#bati")?.remove(); history.replaceState(null, "", location.pathname); portada();
+}
+function btSalir(){ return `<button class="bt-x" type="button" id="btX" aria-label="Salir">✕</button>`; }
+
 function crPortada(){
-  pantalla = "contrarreloj"; soloTutorial(false); paraReloj(); profMeta = 0; fijaPines([]); pintaRecord();
-  const rec = crRecord();
-  rescataIceberg(); escena.innerHTML = `
-  <div class="panel">
-    <canvas class="cr-pista" id="crPista" aria-hidden="true"></canvas>
-    <h1>Contra<em>rreloj</em></h1>
-    <p class="lema">Tienes <b>un minuto y medio</b> para responder todas las categorías que puedas. Salen de días pasados, al azar.
-      Si fallas, prueba otra vez o pasa a la siguiente. Cada acierto es un pez para el pingüino.</p>
-    ${rec ? `<p class="mini">Tu récord: ${crCat(rec)}.</p>` : ``}
-    <div class="botonera"><button class="btn" id="bCr">Empezar</button><button class="btn fantasma" id="bCrPodio">Podio</button>
+  pantalla = "contrarreloj"; soloTutorial(false); paraReloj();
+  const hud = btCapa(), rec = crRecord(), album = crAlbum();
+  Fondo.reinicia();
+  hud.innerHTML = `
+  <div class="bt-panel">
+    <h1>El batiscafo</h1>
+    <p class="lema">Tienes <b>90 segundos de oxígeno</b>. Cada categoría que aciertes te hunde un poco más junto al iceberg,
+      y tu foco irá descubriendo lo que hay en el fondo. Si fallas, prueba otra vez o pasa a la siguiente.</p>
+    <p class="mini">${rec ? `Tu récord: ${crCat(rec)} · ` : ``}Álbum: ${album.size} de ${BICHOS.length}</p>
+    ${btAlbum(album)}
+    <div class="botonera"><button class="btn" id="bCr">Sumergirse</button><button class="btn fantasma" id="bCrPodio">Podio</button>
       <button class="enlace" type="button" id="bCrIni">Volver al juego</button></div>
   </div>`;
-  trasPintar(); mueveMarca(); Pista.monta($("#crPista"), 0);
+  btDibujaAlbum();
   $("#bCr").addEventListener("click", crEmpieza);
   $("#bCrPodio").addEventListener("click", crPodio);
   $("#bCrIni").addEventListener("click", crVuelve);
 }
+function btAlbum(album){
+  return `<div class="bt-album">${BICHOS.map((b, i) => `<figure class="${album.has(i) ? "" : "no"}"><canvas data-bicho="${i}" data-visto="${album.has(i) ? 1 : 0}" width="80" height="80"></canvas>
+    <figcaption>${album.has(i) ? esc(b.n) : "?"}</figcaption></figure>`).join("")}</div>`;
+}
+function btDibujaAlbum(){
+  document.querySelectorAll("#bati canvas[data-bicho]").forEach(c => {
+    const x = c.getContext("2d"); x.clearRect(0, 0, 80, 80);
+    Fondo.bicho(x, +c.dataset.bicho, 40, 42, 64, c.dataset.visto === "1" ? 1 : 0);
+  });
+}
 async function crEmpieza(){
   Son.arranca();
-  C = { cola:crPool(), k:0, aciertos:0, res:[], t0:0, fin:false };
+  C = { cola:crPool(), k:0, aciertos:0, res:[], t0:0, fin:false, nuevos:[] };
   const b = $("#bCr"); b.disabled = true; b.textContent = "Cargando…";
   crPrecarga();
   try{ await cargaPregunta(C.cola[0]); }
-  catch{ b.disabled = false; b.textContent = "Empezar"; return alertaCarga(); }
+  catch{ b.disabled = false; b.textContent = "Sumergirse"; return; }
   C.t0 = Date.now(); crPinta();
 }
 function crPinta(){
   pantalla = "contrarreloj";
-  rescataIceberg(); escena.innerHTML = `
-  <div class="panel" id="tarjeta">
-    <canvas class="cr-pista" id="crPista" aria-hidden="true"></canvas>
-    <div class="cr-cab"><span>Contrarreloj</span><span class="m" id="crN">0 categorías</span></div>
-    <p class="enunciado" id="crQ">…</p>
-    <form id="f" autocomplete="off">
-      <input type="text" id="r" placeholder="tu respuesta" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" enterkeyhint="go">
+  const hud = btCapa();
+  hud.innerHTML = `
+    <div class="bt-top">
+      <div class="bt-o2"><span class="et">Oxígeno <b id="seg">90 s</b></span><div class="bt-tubo" id="tubo"><i></i></div></div>
+      <div class="bt-cuenta"><b id="crN">0</b><small>categorías</small></div>
+      ${btSalir()}
+    </div>
+    <p class="bt-q" id="crQ">…</p>
+    <form class="bt-f" id="f" autocomplete="off">
+      <input type="text" id="r" placeholder="tu respuesta" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" enterkeyhint="go" aria-label="Tu respuesta">
       <button class="btn" type="submit">Bajar</button>
     </form>
-    <div class="cr-acciones"><button class="enlace" type="button" id="bPasa">Pasar</button></div>
-    <div class="reloj" id="reloj" role="timer" aria-label="Tiempo que queda">
-      <div class="mecha"><i style="transform:scaleX(1)"></i></div>
-      <span class="segundos"><span id="seg">90</span><small>s</small></span>
-    </div>
-    <p class="aviso" id="aviso" role="status"></p>
-  </div>`;
-  trasPintar(); mueveMarca(); Pista.monta($("#crPista"), 0);
-  const campo = $("#r"), barra = $("#reloj"), relleno = barra.querySelector(".mecha i"), seg = $("#seg");
-  let p = null, ultimoTic = 99;
+    <div class="bt-bajo"><span class="bt-ok" id="aviso" role="status"></span><button class="bt-pasa" type="button" id="bPasa">Pasar</button></div>
+    <div class="bt-nuevo" id="btNuevo" aria-live="polite"><canvas width="88" height="88"></canvas><div><small>Nuevo en el álbum</small><b></b></div></div>`;
+  $("#btX").addEventListener("click", crVuelve);
+  const campo = $("#r"), tubo = $("#tubo"), relleno = tubo.firstElementChild, seg = $("#seg"), form = $("#f");
+  let p = null, ultimoTic = 99, avisoT = 0;
   async function siguiente(){
     p = null; $("#crQ").textContent = "…";
     if (C.k >= C.cola.length) return crFinal();
@@ -2079,36 +2150,44 @@ function crPinta(){
     if (C.fin) return;
     $("#crQ").textContent = p.q; campo.value = ""; campo.focus();
   }
-  $("#f").addEventListener("submit", e => {
+  function descubre(i){
+    const album = crAlbum(); if (album.has(i)) return;
+    album.add(i); guarda.set("cr:album", [...album]); C.nuevos.push(i);
+    const n = $("#btNuevo"), c = n.querySelector("canvas"), x = c.getContext("2d");
+    x.clearRect(0, 0, 88, 88); Fondo.bicho(x, i, 44, 46, 72, 1); n.querySelector("b").textContent = BICHOS[i].n;
+    Son.capa(); n.classList.add("ve"); clearTimeout(avisoT); avisoT = setTimeout(() => n.classList.remove("ve"), 2200);
+  }
+  form.addEventListener("submit", e => {
     e.preventDefault();
     const texto = campo.value.trim();
     if (!texto || !p || C.fin) return;
     const r = evalua(p, texto);
     if (!r){
-      Son.fallo(); $("#aviso").textContent = "«" + texto + "» no está en la lista.";
-      const tj = $("#tarjeta"); tj.classList.remove("sacudir"); void tj.offsetWidth; tj.classList.add("sacudir");
+      Son.fallo(); $("#aviso").textContent = "«" + texto + "» no está en la lista";
+      form.classList.remove("mal"); void form.offsetWidth; form.classList.add("mal");
       campo.select(); return;
     }
     Son.baja(r.nv);
     C.aciertos++; C.res.push({q:p.q, nv:r.nv, disp:r.disp}); C.k++;
-    Pista.come();
-    $("#crN").textContent = crCat(C.aciertos);
-    $("#aviso").innerHTML = `<span class="cr-ok">✓ ${esc(r.disp)}</span>`;
+    $("#crN").textContent = C.aciertos;
+    $("#aviso").textContent = "✓ " + r.disp;
+    const bicho = Fondo.baja(C.aciertos);
+    if (bicho !== null) setTimeout(() => { if (!C.fin) descubre(bicho); }, 900);
     siguiente();
   });
   $("#bPasa").addEventListener("click", () => {
     if (!p || C.fin) return;
-    C.res.push({q:p.q, nv:null}); C.k++; $("#aviso").textContent = ""; Pista.pasa(); siguiente();
+    C.res.push({q:p.q, nv:null}); C.k++; $("#aviso").textContent = ""; Fondo.sacude(); siguiente();
   });
   (function reloj(){
     if (C.fin) return;
     const resta = Math.max(0, CR_MS - (Date.now() - C.t0));
     relleno.style.transform = "scaleX(" + (resta / CR_MS) + ")";
-    seg.textContent = Math.ceil(resta / 1000);
-    if (resta < 10000){
-      barra.classList.add("urge");
+    seg.textContent = Math.ceil(resta / 1000) + " s";
+    if (resta < 15000){
+      tubo.classList.add("poco");
       const s = Math.ceil(resta / 1000);
-      if (s !== ultimoTic && s > 0){ ultimoTic = s; Son.tic(); }
+      if (s !== ultimoTic && s > 0 && s <= 10){ ultimoTic = s; Son.tic(); }
     }
     if (resta <= 0) return crFinal();
     temporizador = requestAnimationFrame(reloj);
@@ -2117,27 +2196,27 @@ function crPinta(){
 }
 function crFinal(){
   if (C.fin && pantalla === "contrarreloj-fin") return;
-  C.fin = true; paraReloj(); pantalla = "contrarreloj-fin"; Son.fondo();
-  const rec = crRecord(), nuevo = C.aciertos > rec;
+  C.fin = true; paraReloj(); pantalla = "contrarreloj-fin"; Son.fondo(); Fondo.sinAire();
+  const rec = crRecord(), nuevo = C.aciertos > rec, album = crAlbum();
   if (nuevo) guarda.set("cr:record", {aciertos:C.aciertos});
-  // con cuenta, la partida va al podio (sin esperar: si falla, se juega igual)
   const sube = Cuenta.user && Cuenta.sb
     ? Cuenta.sb.from("sabihondo_contrarreloj").insert({aciertos:C.aciertos, res:C.res}).then(() => {}, () => {})
     : Promise.resolve();
-  rescataIceberg(); escena.innerHTML = `
-  <div class="panel">
-    <canvas class="cr-pista" id="crPista" aria-hidden="true"></canvas>
-    <p class="mini">Se acabó el tiempo</p>
-    <p class="cr-grande">${crCat(C.aciertos)}</p>
-    <p class="lema">${nuevo && C.aciertos ? "<b>Tu récord</b>" : rec ? `Tu récord: ${crCat(rec)}` : ""}</p>
-    <ul class="cr-lista">${C.res.map(x => x.nv === null
+  const hud = btCapa();
+  hud.innerHTML = `
+  <div class="bt-panel">
+    <p class="mini">Te has quedado sin oxígeno</p>
+    <p class="bt-grande">${crCat(C.aciertos)}</p>
+    <p class="lema">${nuevo && C.aciertos ? "<b>Tu récord</b>" : rec ? `Tu récord: ${crCat(rec)}` : ""}${C.nuevos.length ? ` · ${C.nuevos.length} ${C.nuevos.length === 1 ? "descubrimiento nuevo" : "descubrimientos nuevos"}` : ""}</p>
+    ${btAlbum(album)}
+    <ul class="bt-lista">${C.res.map(x => x.nv === null
       ? `<li><span class="q">${esc(x.q)}</span><span class="no">pasada</span></li>`
       : `<li><span class="q">${esc(x.q)}</span><span>✓ ${esc(x.disp)}</span></li>`).join("") || `<li class="no">No ha dado tiempo a ninguna.</li>`}</ul>
     ${Cuenta.user ? `` : `<p class="mini">Para salir en el podio hace falta una cuenta.</p>`}
     <div class="botonera"><button class="btn" id="bCrOtra">Otra vez</button><button class="btn fantasma" id="bCrPodio">Podio</button>
       <button class="enlace" type="button" id="bCrIni">Volver al juego</button></div>
   </div>`;
-  trasPintar(); mueveMarca(); Pista.monta($("#crPista"), C.aciertos, true);
+  btDibujaAlbum();
   $("#bCrOtra").addEventListener("click", crPortada);
   $("#bCrPodio").addEventListener("click", () => sube.then(crPodio));
   $("#bCrIni").addEventListener("click", crVuelve);
@@ -2171,128 +2250,162 @@ async function crPodio(){
 }
 
 
-/* ═════════ la pista del contrarreloj ═════════
-   Un pingüino de espaldas en un trineo baja por una cresta de hielo en facetas, como el iceberg. Delante esperan peces:
-   con cada acierto avanza y se come el primero; al pasar, el pez salta al agua. Todo en un canvas, a la escala que tenga. */
-const Pista = (() => {
-  const HIELO = ["#f4f9fc","#e6f1f8"], PARED = ["#bcd8ea","#a6c9e0","#cfe4f1","#93bbd6"], MAR = ["#3f8fb8","#1e5a85"];
-  const TINTA = "#1b2333", ROSA = "#ee6fa3", ROSA_H = "#cb3b78", NARANJA = "#f29a2e", MADERA = ["#b9824f","#9a6638"];
+
+/* ═════════ la escena del batiscafo ═════════
+   Mundo en píxeles: el agua empieza en y = 0 y cada acierto baja TRAMO. La cámara sigue al submarino.
+   Cuanto más hondo, más oscuro: solo se ve bien lo que alumbra el foco. */
+const Fondo = (() => {
+  const TRAMO = 240, MAR = [[0,"#3f8fb8"],[TRAMO*3,"#1e5a85"],[TRAMO*7,"#0e2f52"],[TRAMO*12,"#06162a"]];
   const quieto = matchMedia("(prefers-reduced-motion: reduce)");
-  let cv = null, cx, w, h, raf = 0, prev = 0, off = 0, avanza = 0, peces = [], huidos = [], chispas = [], trago = 0, fin = false, tiempo = 0;
-  const SEP = 2.2;   // distancia entre peces
+  let cv = null, cx, w, h, raf = 0, prev = 0, t = 0, cam = -60, sub = -14, meta = -14, sacudir = 0, sinAire = false;
+  let nieve = [], burbujas = [], sombra = null, sx_ = 0;
+  const color = y => enTramo(MAR, Math.max(0, y));
+  const pared = y => 0.2*w + Math.sin(y*.004)*w*.05 + Math.sin(y*.013 + 2)*w*.025 + (y < 0 ? (y + 200)/200*w*.06 - w*.06 : 0);
   function talla(){
-    const r = cv.getBoundingClientRect(), d = Math.min(2, devicePixelRatio || 1);
-    w = r.width; h = r.height; cv.width = Math.round(w*d); cv.height = Math.round(h*d); cx.setTransform(d,0,0,d,0,0);
+    const d = Math.min(2, devicePixelRatio || 1);
+    w = innerWidth; h = innerHeight; cv.width = Math.round(w*d); cv.height = Math.round(h*d); cx.setTransform(d,0,0,d,0,0);
+    sombra = document.createElement("canvas"); sombra.width = cv.width; sombra.height = cv.height;
+    nieve = Array.from({length:70}, () => ({x:Math.random(), y:Math.random(), r:.6 + Math.random()*1.6, v:.2 + Math.random()*.6}));
   }
-  // perspectiva: z = 0 a los pies del pingüino; s = escala a esa distancia
-  const hy = () => h*.34, esc = z => 1/(1 + Math.max(-.6, z)*.42);
-  const sy = z => hy() + (h*1.02 - hy())*esc(z);
-  const curva = z => Math.sin((z + off)*.35)*w*.05*(1 - esc(z));
-  const sx = (z, lado) => w/2 + curva(z) + lado*w*.36*esc(z);
-  function monta(canvas, comidos, acabada){
-    para(); cv = canvas; if (!cv) return; cx = cv.getContext("2d"); talla();
-    peces = [1.6, 1.6+SEP, 1.6+2*SEP, 1.6+3*SEP].map(z => ({z, fase:Math.random()*6, lado:(Math.random()-.5)*.5}));
-    huidos = []; chispas = []; avanza = 0; trago = 0; fin = !!acabada; prev = performance.now();
-    raf = requestAnimationFrame(bucle);
+  function monta(c){
+    if (cv === c && raf) return;
+    cv = c; cx = cv.getContext("2d"); talla(); prev = performance.now(); cancelAnimationFrame(raf); raf = requestAnimationFrame(bucle);
   }
-  function para(){ cancelAnimationFrame(raf); raf = 0; }
-  function come(){ avanza += SEP; }
-  function pasa(){
-    const p = peces.shift(); if (p) huidos.push({...p, t:0, dir:Math.random() < .5 ? -1 : 1});
-    peces.push({z:peces.length ? peces[peces.length-1].z + SEP : 1.6, fase:Math.random()*6, lado:(Math.random()-.5)*.5});
-  }
+  function para(){ cancelAnimationFrame(raf); raf = 0; cv = null; }
+  function reinicia(){ sub = meta = -14; cam = -60; sinAire = false; burbujas = []; }
+  function baja(n){ meta = n*TRAMO; return n - 1 < BICHOS.length ? n - 1 : null; }
   function bucle(ahora){
     if (!cv || !cv.isConnected) return para();
-    const dt = Math.min(.05, (ahora - prev)/1000); prev = ahora; tiempo += dt;
-    // la pista corre sola despacio; al acertar, el pingüino acelera hasta el pez
-    let d = quieto.matches || fin ? 0 : dt*.5;
-    if (avanza > 0){ const paso = Math.min(avanza, Math.max(dt*3, avanza*.14)); avanza -= paso; d += paso; for (const p of peces) p.z -= paso; }
-    off += d;
-    if (peces.length && peces[0].z < .35){
-      const p = peces.shift(); trago = 1; Son.capa?.();
-      for (let i = 0; i < 14; i++) chispas.push({x:sx(.35, p.lado), y:sy(.35) - h*.2, vx:(Math.random()-.5)*160, vy:-60 - Math.random()*140, v:1, c:i % 3 ? ROSA : "#ffffff"});
-      peces.push({z:peces[peces.length-1].z + SEP, fase:Math.random()*6, lado:(Math.random()-.5)*.5});
-    }
-    trago = Math.max(0, trago - dt*3);
+    const dt = Math.min(.05, (ahora - prev)/1000); prev = ahora; t += dt;
+    sub += (meta - sub)*Math.min(1, dt*2.2);
+    if (sinAire) meta -= dt*30;   // sin oxígeno, sube despacio
+    const objetivo = sub - (meta < 0 ? -h*.08 : 0);
+    cam += (objetivo - cam)*Math.min(1, dt*2.6);
+    sacudir = Math.max(0, sacudir - dt*2.5);
+    if (!quieto.matches && Math.random() < dt*6) burbujas.push({x:0, y:0, ox:-34 + Math.random()*6, oy:-4, v:28 + Math.random()*30, r:1.5 + Math.random()*2.5, vida:1});
     pinta(dt);
     raf = requestAnimationFrame(bucle);
   }
-  function poli(pts, c){ cx.beginPath(); pts.forEach(([x,y],i) => i ? cx.lineTo(x,y) : cx.moveTo(x,y)); cx.closePath(); cx.fillStyle = c; cx.fill(); }
+  const Y = y => y - cam + h*.56;   // el submarino queda algo por debajo de la mitad, debajo de la pregunta
+  function poli(c, pts, col){ c.beginPath(); pts.forEach(([x,y],i) => i ? c.lineTo(x,y) : c.moveTo(x,y)); c.closePath(); c.fillStyle = col; c.fill(); }
   function pinta(dt){
-    const H0 = hy();
-    // cielo, sol y mar
-    let g = cx.createLinearGradient(0,0,0,H0); g.addColorStop(0,"#f7efe9"); g.addColorStop(1,"#fbe0d6");
-    cx.fillStyle = g; cx.fillRect(0,0,w,H0+1);
-    cx.fillStyle = "#ffd9a8"; cx.beginPath(); cx.arc(w*.8, H0*.55, h*.09, 0, 7); cx.fill();
-    g = cx.createLinearGradient(0,H0,0,h); g.addColorStop(0,MAR[0]); g.addColorStop(1,MAR[1]);
-    cx.fillStyle = g; cx.fillRect(0,H0,w,h-H0);
-    // témpanos lejanos
-    [[.12,.0,.07],[.25,.06,.04],[.9,.03,.06]].forEach(([fx,fy,fw]) => {
-      const x = w*fx, y = H0 + h*.04 + h*fy, a = w*fw;
-      poli([[x-a,y],[x-a*.6,y-a*.35],[x+a*.2,y-a*.45],[x+a,y]], "#e6f1f8"); poli([[x-a,y],[x+a,y],[x+a*.7,y+a*.15],[x-a*.8,y+a*.12]], "#a6c9e0");
-    });
-    // la cresta de hielo, de lejos a cerca, en franjas que corren
-    const Z = [];
-    for (let z = 16; z >= -.4; z -= .5) Z.push(z);
-    for (let i = 0; i < Z.length - 1; i++){
-      const z0 = Z[i], z1 = Z[i+1], banda = Math.floor((z0 + off)/1) & 1, cara = Math.floor((z0 + off)*2) & 3;
-      const y0 = sy(z0), y1 = sy(z1), l0 = sx(z0,-1), r0 = sx(z0,1), l1 = sx(z1,-1), r1 = sx(z1,1);
-      const caida0 = (h - y0)*.5*esc(z0) + 4, caida1 = (h - y1)*.5*esc(z1) + 4;
-      poli([[l0,y0],[l1,y1],[l1 - 6*esc(z1),y1+caida1],[l0 - 6*esc(z0),y0+caida0]], PARED[cara]);
-      poli([[r0,y0],[r1,y1],[r1 + 6*esc(z1),y1+caida1],[r0 + 6*esc(z0),y0+caida0]], PARED[(cara+1)&3]);
-      poli([[l0,y0],[r0,y0],[r1,y1],[l1,y1]], HIELO[banda]);
+    const top = cam - h*.56, bot = top + h;
+    // agua (y cielo si se ve la superficie)
+    const g = cx.createLinearGradient(0, 0, 0, h);
+    g.addColorStop(0, color(top)); g.addColorStop(1, color(bot));
+    cx.fillStyle = g; cx.fillRect(0, 0, w, h);
+    if (top < 0){
+      const ys = Y(0), cg = cx.createLinearGradient(0, Math.min(0, ys - h), 0, ys);
+      cg.addColorStop(0, "#f7efe9"); cg.addColorStop(1, "#fbe0d6");
+      cx.fillStyle = cg; cx.fillRect(0, 0, w, ys);
     }
-    // surcos del trineo
-    cx.strokeStyle = "rgba(147,187,214,.55)"; cx.lineWidth = 1.2;
-    [-.12,.12].forEach(lado => { cx.beginPath(); for (let z = 8; z >= 0; z -= .25){ const x = sx(z,lado), y = sy(z); z === 8 ? cx.moveTo(x,y) : cx.lineTo(x,y); } cx.stroke(); });
-    // peces que esperan (y los que saltan al agua)
-    for (const p of [...peces].reverse()) pez(sx(p.z, p.lado), sy(p.z) - h*.05*esc(p.z) - Math.abs(Math.sin(tiempo*3 + p.fase))*h*.04*esc(p.z), esc(p.z), 1);
-    huidos = huidos.filter(p => (p.t += dt) < .8);
-    for (const p of huidos){ const k = p.t/.8; pez(sx(p.z, p.lado) + p.dir*k*w*.35, sy(p.z) - h*.05 - Math.sin(k*Math.PI)*h*.25, esc(p.z), 1 - k); }
-    pinguino();
-    chispas = chispas.filter(c => (c.v -= dt*1.6) > 0);
-    for (const c of chispas){ c.x += c.vx*dt; c.y += c.vy*dt; c.vy += 260*dt; cx.globalAlpha = c.v; cx.fillStyle = c.c; cx.fillRect(c.x-2, c.y-2, 4, 4); }
-    cx.globalAlpha = 1;
+    // el iceberg: pared de facetas a la izquierda, con la punta fuera del agua
+    const paso = 46, desde = Math.floor(Math.max(-260, top - paso)/paso)*paso;
+    for (let y = desde; y < bot + paso; y += paso){
+      const a = pared(y), b = pared(y + paso), m = (a + b)/2 - w*.06, k = Math.floor(y/paso), hondo = Math.max(0, Math.min(1, y/(TRAMO*10)));
+      const aire = y + paso <= 0;
+      const tonos = aire ? ["#ffffff","#eef6fb","#d9e9f3"] : ["#cfe4f1","#a6c9e0","#8db8d6"];
+      const sombreado = c => hondo && !aire ? "rgb(" + mezcla(rgb(c), [20,48,84], hondo*.7) + ")" : c;
+      poli(cx, [[0,Y(y)],[a,Y(y)],[m,Y(y+paso*.5)],[0,Y(y+paso*.5)]], sombreado(tonos[(k&1)]));
+      poli(cx, [[0,Y(y+paso*.5)],[m,Y(y+paso*.5)],[b,Y(y+paso)],[0,Y(y+paso)]], sombreado(tonos[((k+1)&1)]));
+      poli(cx, [[a,Y(y)],[b,Y(y+paso)],[m,Y(y+paso*.5)]], sombreado(tonos[2]));
+    }
+    if (top < 0){   // la punta
+      const ys = Y(0), pa = pared(-1);
+      poli(cx, [[0,ys],[pa,ys],[pa*.55,ys - 170],[0,ys - 110]], "#eef6fb");
+      poli(cx, [[pa*.55,ys - 170],[pa,ys],[pa*.7,ys]], "#d9e9f3");
+      cx.strokeStyle = "rgba(255,255,255,.8)"; cx.lineWidth = 2; cx.beginPath();
+      for (let x = 0; x <= w; x += 8) cx.lineTo(x, ys + Math.sin(x*.08 + t*2)*2); cx.stroke();
+    }
+    // los bichos, cada uno a la hondura de su tramo, delante del submarino
+    const sxv = Math.max(pared(sub) + 70, w*.42);
+    for (let i = 0; i < BICHOS.length; i++){
+      const by = (i + 1)*TRAMO + 70, yy = Y(by); if (yy < -120 || yy > h + 120) continue;
+      bicho(cx, i, Math.min(w - 70, sxv + 150 + (i % 3)*20) + Math.sin(t*.8 + i)*6, yy + Math.sin(t*1.3 + i)*5, Math.min(130, w*.26), 1);
+    }
+    // nieve marina
+    cx.fillStyle = "rgba(255,255,255,.55)";
+    for (const n of nieve){ const yy = ((n.y*h - cam*n.v*.4 - t*8*n.v) % h + h) % h; if (top + yy > 0) { cx.beginPath(); cx.arc(n.x*w + Math.sin(t + n.y*9)*4, yy, n.r, 0, 7); cx.fill(); } }
+    // oscuridad, salvo donde alumbra el foco
+    const sx = sxv + Math.sin(t*1.7)*2 + (sacudir ? Math.sin(t*60)*6*sacudir : 0), sy = Y(sub) + Math.sin(t*1.4)*4; sx_ = sx;
+    const oscuro = Math.max(0, Math.min(.9, (sub - 40)/(TRAMO*5)));
+    if (oscuro > 0){
+      const s = sombra.getContext("2d"), d = cv.width / w;
+      s.setTransform(1,0,0,1,0,0); s.clearRect(0, 0, sombra.width, sombra.height); s.setTransform(d,0,0,d,0,0);
+      s.globalCompositeOperation = "source-over"; s.fillStyle = "rgba(2,8,18," + oscuro + ")"; s.fillRect(0, 0, w, h);
+      s.globalCompositeOperation = "destination-out";
+      const lx = sx + 30, ly = sy + 10, alcance = Math.min(w*.75, 420);
+      const rg = s.createRadialGradient(lx, ly, 10, lx + alcance*.45, ly + alcance*.25, alcance*.7);
+      rg.addColorStop(0, "rgba(0,0,0,1)"); rg.addColorStop(.6, "rgba(0,0,0,.75)"); rg.addColorStop(1, "rgba(0,0,0,0)");
+      s.fillStyle = rg; s.beginPath(); s.moveTo(lx, ly - 8); s.lineTo(lx + alcance, ly - alcance*.18); s.lineTo(lx + alcance*.75, ly + alcance*.75); s.closePath(); s.fill();
+      const halo = s.createRadialGradient(sx, sy, 10, sx, sy, 90); halo.addColorStop(0, "rgba(0,0,0,.9)"); halo.addColorStop(1, "rgba(0,0,0,0)");
+      s.fillStyle = halo; s.fillRect(sx - 90, sy - 90, 180, 180);
+      s.globalCompositeOperation = "source-over";
+      cx.drawImage(sombra, 0, 0, w, h);
+      cx.globalCompositeOperation = "lighter";
+      const luz = cx.createRadialGradient(lx, ly, 0, lx + alcance*.4, ly + alcance*.2, alcance*.6);
+      luz.addColorStop(0, "rgba(255,230,160," + (.18*oscuro) + ")"); luz.addColorStop(1, "rgba(255,230,160,0)");
+      cx.fillStyle = luz; cx.beginPath(); cx.moveTo(lx, ly - 8); cx.lineTo(lx + alcance, ly - alcance*.18); cx.lineTo(lx + alcance*.75, ly + alcance*.75); cx.closePath(); cx.fill();
+      cx.globalCompositeOperation = "source-over";
+    }
+    // burbujas y submarino
+    burbujas = burbujas.filter(b => (b.vida -= dt*.7) > 0);
+    for (const b of burbujas){ if (!b.x){ b.x = sx + b.ox; b.y = sy + b.oy; } b.y -= b.v*dt; b.x += Math.sin(t*4 + b.r)*.3;
+      cx.strokeStyle = "rgba(255,255,255," + (.6*b.vida) + ")"; cx.lineWidth = 1.2; cx.beginPath(); cx.arc(b.x, b.y, b.r, 0, 7); cx.stroke(); }
+    submarino(sx, sy);
   }
-  function pez(x, y, s, alfa){
-    const t = h*.17*s; if (t < 2) return;
-    cx.globalAlpha = Math.max(0, alfa);
-    cx.fillStyle = "rgba(27,35,51,.12)"; cx.beginPath(); cx.ellipse(x, y + t*.9, t*.7, t*.18, 0, 0, 7); cx.fill();
-    poli([[x + t*.55, y],[x + t*1.05, y - t*.4],[x + t*1.05, y + t*.4]], ROSA_H);
-    cx.fillStyle = ROSA; cx.beginPath(); cx.ellipse(x, y, t*.7, t*.45, 0, 0, 7); cx.fill();
-    poli([[x - t*.1, y - t*.42],[x + t*.3, y - t*.7],[x + t*.35, y - t*.3]], ROSA_H);
-    cx.fillStyle = "#fff"; cx.beginPath(); cx.arc(x - t*.35, y - t*.1, t*.17, 0, 7); cx.fill();
-    cx.fillStyle = TINTA; cx.beginPath(); cx.arc(x - t*.38, y - t*.1, t*.08, 0, 7); cx.fill();
-    cx.globalAlpha = 1;
+  function submarino(x, y){
+    const u = Math.min(1.25, Math.max(.8, w/700));
+    cx.save(); cx.translate(x, y); cx.scale(u, u);
+    cx.fillStyle = "rgba(0,0,0,.18)"; cx.beginPath(); cx.ellipse(2, 26, 38, 5, 0, 0, 7); cx.fill();
+    // hélice
+    const giro = Math.abs(Math.sin(t*14));
+    cx.fillStyle = "#12294b"; cx.fillRect(-46, -3, 10, 6);
+    cx.fillStyle = "#5b6b82"; cx.beginPath(); cx.ellipse(-48, 0, 3, 13*giro + 2, 0, 0, 7); cx.fill();
+    // cuerpo en facetas
+    poli(cx, [[-38,-6],[-24,-20],[18,-20],[40,-6],[40,6],[18,20],[-24,20],[-38,6]], "#ffcf5c");
+    poli(cx, [[-38,6],[-24,20],[18,20],[40,6]], "#f2a93b");
+    poli(cx, [[-24,-20],[18,-20],[10,-10],[-18,-10]], "#ffe08f");
+    // torreta, ojo de buey y foco
+    poli(cx, [[-12,-20],[-8,-31],[10,-31],[14,-20]], "#f2a93b");
+    cx.fillStyle = "#12294b"; cx.fillRect(1, -40, 3, 10); cx.fillRect(1, -40, 9, 3);
+    cx.fillStyle = "#12294b"; cx.beginPath(); cx.arc(12, -1, 10, 0, 7); cx.fill();
+    cx.fillStyle = "#bfe3ff"; cx.beginPath(); cx.arc(12, -1, 7, 0, 7); cx.fill();
+    cx.fillStyle = "rgba(255,255,255,.8)"; cx.beginPath(); cx.arc(9.5, -3.5, 2.2, 0, 7); cx.fill();
+    cx.fillStyle = "#ee6fa3"; cx.beginPath(); cx.arc(-14, 2, 3.2, 0, 7); cx.arc(-24, 2, 3.2, 0, 7); cx.fill();
+    cx.fillStyle = "#12294b"; cx.fillRect(36, 6, 8, 6); cx.fillStyle = "#fff6c9"; cx.beginPath(); cx.arc(45, 9, 3.4, 0, 7); cx.fill();
+    cx.restore();
   }
-  function pinguino(){
-    const u = Math.min(w, h*1.9)*.0034, x = w/2 + curva(0) + Math.sin(tiempo*2.2)*3*u*(fin ? 0 : 1), y = h - 6*u;
-    const gl = 1 + trago*.12, ala = Math.sin(tiempo*9)*.12*(avanza > 0 ? 2 : 1);
-    cx.save(); cx.translate(x, y); cx.rotate(Math.sin(tiempo*2.2)*.03);
-    // trineo
-    cx.fillStyle = "rgba(27,35,51,.18)"; cx.beginPath(); cx.ellipse(0, 2*u, 34*u, 6*u, 0, 0, 7); cx.fill();
-    poli([[-30*u,-4*u],[30*u,-4*u],[26*u,10*u],[-26*u,10*u]], MADERA[0]);
-    cx.strokeStyle = MADERA[1]; cx.lineWidth = 1.4*u;
-    for (const k of [-15,0,15]){ cx.beginPath(); cx.moveTo(k*u,-4*u); cx.lineTo(k*.87*u,10*u); cx.stroke(); }
-    // aletas abiertas
-    cx.fillStyle = TINTA;
-    for (const l of [-1,1]){ cx.save(); cx.translate(l*18*u, -22*u); cx.rotate(l*(1.05 + ala)); cx.beginPath(); cx.ellipse(0, 12*u, 5*u, 15*u, 0, 0, 7); cx.fill(); cx.restore(); }
-    // cuerpo de espaldas, con la tripa blanca asomando por los lados
-    cx.save(); cx.scale(gl, 1/gl*1.04);
-    cx.fillStyle = "#ffffff"; cx.beginPath(); cx.ellipse(0, -18*u, 22*u, 21*u, 0, 0, 7); cx.fill();
-    cx.fillStyle = TINTA; cx.beginPath(); cx.ellipse(0, -21*u, 19*u, 22*u, 0, 0, 7); cx.fill();
-    cx.beginPath(); cx.arc(0, -46*u, 12*u, 0, 7); cx.fill();
-    // bufanda rosa, con la punta al viento
-    cx.fillStyle = ROSA; cx.fillRect(-12*u, -38*u, 24*u, 5*u);
-    poli([[6*u,-36*u],[16*u + Math.sin(tiempo*12)*3*u,-30*u],[13*u,-26*u],[4*u,-33*u]], ROSA_H);
-    cx.restore();
-    // patas naranjas sobre la tabla
-    cx.fillStyle = NARANJA;
-    for (const l of [-1,1]){ cx.beginPath(); cx.ellipse(l*9*u, -1*u, 6*u, 4*u, l*.3, 0, 7); cx.fill(); }
-    cx.restore();
+  /* un descubrimiento: la ilustración si ya está en bati/, o un boceto de formas. visto = 0 → solo la silueta */
+  function bicho(c, i, x, y, s, visto){
+    const b = BICHOS[i];
+    c.save(); c.translate(x, y);
+    if (b.img && visto){ c.drawImage(b.img, -s/2, -s/2, s, s); c.restore(); return; }
+    const k = s/100, col = visto ? b.c : "rgba(18,41,75,.28)", osc = visto ? "#12294b" : "rgba(18,41,75,.28)";
+    c.scale(k, k);
+    const ojo = (ex, ey) => { if (!visto) return; c.fillStyle = "#fff"; c.beginPath(); c.arc(ex, ey, 5, 0, 7); c.fill(); c.fillStyle = "#12294b"; c.beginPath(); c.arc(ex + 1, ey, 2.4, 0, 7); c.fill(); };
+    const tentaculos = (n, largo, ancho) => { c.strokeStyle = col; c.lineWidth = 5; c.lineCap = "round";
+      for (let j = 0; j < n; j++){ const ox = -ancho/2 + j*ancho/(n-1); c.beginPath(); c.moveTo(ox, 0); c.quadraticCurveTo(ox + Math.sin(t*2 + j)*10, largo*.5, ox + Math.sin(t*2 + j + 1)*14, largo); c.stroke(); } };
+    switch (b.f){
+      case "pez": poli(c, [[22,0],[42,-16],[42,16]], col); c.fillStyle = col; c.beginPath(); c.ellipse(0, 0, 30, 16, 0, 0, 7); c.fill(); if (visto){ c.fillStyle = "#ee6fa3"; c.beginPath(); c.ellipse(0, 7, 22, 6, 0, 0, Math.PI); c.fill(); } ojo(-16, -3); break;
+      case "foca": c.fillStyle = col; c.beginPath(); c.ellipse(4, 4, 40, 18, 0, 0, 7); c.fill(); c.beginPath(); c.arc(-34, -6, 15, 0, 7); c.fill(); poli(c, [[38,4],[52,-8],[52,16]], col); ojo(-38, -9); break;
+      case "medusa": c.translate(0, -16); tentaculos(5, 50, 40); c.fillStyle = col; c.beginPath(); c.arc(0, 0, 28, Math.PI, 0); c.closePath(); c.fill(); if (visto){ c.fillStyle = "rgba(255,255,255,.4)"; c.beginPath(); c.arc(-8, -12, 6, 0, 7); c.fill(); } break;
+      case "ballena": c.fillStyle = col; c.beginPath(); c.ellipse(0, 0, 44, 22, 0, 0, 7); c.fill(); c.beginPath(); c.arc(-30, -8, 18, 0, 7); c.fill(); poli(c, [[38,0],[54,-16],[50,0],[54,16]], col); if (visto){ c.strokeStyle = "#a6c9e0"; c.lineWidth = 2; c.beginPath(); c.arc(-30, 4, 10, .2, Math.PI - .2); c.stroke(); } ojo(-34, -10); break;
+      case "narval": c.strokeStyle = visto ? "#fbf7f2" : col; c.lineWidth = 4; c.beginPath(); c.moveTo(-40, -6); c.lineTo(-82, -20); c.stroke(); c.fillStyle = col; c.beginPath(); c.ellipse(0, 0, 42, 18, 0, 0, 7); c.fill(); poli(c, [[38,0],[54,-14],[50,0],[54,14]], col); ojo(-28, -5); break;
+      case "barco": poli(c, [[-48,0],[48,0],[36,22],[-38,22]], col); c.strokeStyle = osc; c.lineWidth = 4; c.beginPath(); c.moveTo(-6, 0); c.lineTo(-16, -48); c.stroke(); poli(c, [[-14,-44],[16,-30],[-10,-18]], visto ? "#fbf7f2" : col); break;
+      case "pulpo": tentaculos(6, 46, 48); c.fillStyle = col; c.beginPath(); c.ellipse(0, -14, 30, 28, 0, 0, 7); c.fill(); ojo(-10, -12); ojo(10, -12); break;
+      case "rape": c.fillStyle = col; c.beginPath(); c.ellipse(0, 0, 36, 26, 0, 0, 7); c.fill(); poli(c, [[30,0],[48,-16],[48,16]], col);
+        c.strokeStyle = col; c.lineWidth = 3; c.beginPath(); c.moveTo(-14, -24); c.quadraticCurveTo(-24, -52, -46, -36); c.stroke();
+        c.fillStyle = visto ? "#ffcf5c" : col; c.beginPath(); c.arc(-46, -34, 6, 0, 7); c.fill();
+        if (visto){ c.fillStyle = "#fff"; for (let j = 0; j < 4; j++) poli(c, [[-34 + j*7,8],[-30 + j*7,8],[-32 + j*7,15]], "#fff"); } ojo(-14, -8); break;
+      case "cofre": poli(c, [[-36,-6],[36,-6],[36,26],[-36,26]], visto ? "#9a6638" : col); poli(c, [[-36,-6],[36,-6],[30,-28],[-30,-28]], visto ? "#b9824f" : col);
+        if (visto){ c.fillStyle = "#ffcf5c"; c.beginPath(); c.arc(-14, -10, 7, 0, 7); c.arc(0, -12, 7, 0, 7); c.arc(14, -10, 7, 0, 7); c.fill(); c.fillRect(-4, 4, 8, 10); } break;
+      case "kraken": tentaculos(7, 60, 80); c.fillStyle = col; c.beginPath(); c.ellipse(0, -16, 40, 36, 0, 0, 7); c.fill(); ojo(-14, -14); ojo(14, -14); break;
+    }
+    c.restore();
   }
   addEventListener("resize", () => { if (cv && cv.isConnected) talla(); });
-  return { monta, come, pasa, para };
+  return { monta, para, reinicia, baja, bicho, sacude:() => sacudir = 1, sinAire:() => { sinAire = true; meta = sub; } };
 })();
 
 /* ═════════ arranque ═════════ */
