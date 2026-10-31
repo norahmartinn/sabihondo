@@ -299,10 +299,17 @@ input[type=text]:focus,input[type=email]:focus,input[type=password]:focus{outlin
 .bt-panel .lema{margin-top:12px}
 .bt-grande{font-family:var(--disp);font-size:clamp(44px,8vw,64px);line-height:1;margin:6px 0 0;font-variant-numeric:lining-nums tabular-nums}
 .bt-album{display:grid;grid-template-columns:repeat(6,1fr);gap:8px;margin-top:16px}
-.bt-album figure{margin:0;display:grid;justify-items:center;gap:3px;background:#eef3f8;border-radius:12px;padding:6px 2px}
+.bt-album button{margin:0;display:grid;justify-items:center;gap:3px;background:#eef3f8;border:2px solid transparent;border-radius:12px;padding:6px 2px;cursor:pointer;position:relative;font:inherit;color:inherit}
+.bt-album button:not(.no){border-color:color-mix(in srgb,var(--rc) 55%,transparent);background:color-mix(in srgb,var(--rc) 10%,#fbf7f2)}
+.bt-album button:focus-visible{outline:3px solid var(--tinta);outline-offset:1px}
+.bt-album .nom{font-size:9.5px;font-weight:700;text-align:center;line-height:1.1;color:var(--tinta-suave)}
+.bt-album .no .nom{opacity:.5}
+.bt-album .veces{position:absolute;top:3px;right:5px;font-size:9.5px;font-weight:800;color:var(--tinta)}
+.bt-ficha{margin:10px 0 0;font-size:13.5px;line-height:1.45;min-height:40px;color:var(--tinta)}
+.bt-ficha .rz{display:inline-block;font-size:11px;font-weight:800;color:#fff;background:var(--rc);border-radius:999px;padding:1px 8px;vertical-align:1px}
+.bt-nuevo small{color:var(--rc, #cb3b78)!important}
+.ico-kraken{vertical-align:-5px;border-radius:4px}
 .bt-album canvas{display:block;width:54px;height:54px}
-.bt-album figcaption{font-size:9.5px;font-weight:700;text-align:center;line-height:1.1;color:var(--tinta-suave)}
-.bt-album figure.no figcaption{opacity:.5}
 .bt-lista{list-style:none;margin:14px 0 0;padding:0;display:grid;max-height:30vh;overflow:auto;border-top:1px solid var(--linea)}
 .bt-lista li{display:grid;gap:2px;padding:8px 0;border-bottom:1px solid var(--linea);font-size:14px}
 .bt-lista .q{color:var(--tinta-suave);font-size:12.5px}
@@ -2047,19 +2054,38 @@ bs.addEventListener("click", ()=>{ const on = Son.alterna(); bs.setAttribute("ar
 
 /* ═════════ el batiscafo (prueba): 90 s de oxígeno para responder todas las categorías que se pueda ═════════
    Un submarino baja pegado a la pared del iceberg. Cada acierto lo hunde un tramo y su foco descubre algo del fondo
-   (BICHOS, en orden de hondura), que se guarda en el álbum (`cr:album`). Cuenta categorías, no metros.
+   (o no): encuentro() lo sortea por zona y rareza, con condiciones secretas para algunos; el álbum (`cr:album`) cuenta las veces que se ha visto cada uno. Cuenta categorías, no metros.
    Salen preguntas de días ya jugados, al azar; solo vale lo que está en el banco (el juez tarda demasiado).
    Con cuenta, cada partida va a sabihondo_contrarreloj y al podio. Escondido: solo se entra con #contrarreloj.
    Las ilustraciones están en bati/NN.webp (generadas con IA por Norah, fondo recortado); si alguna no carga, se dibuja un boceto. */
 const CR_MS = 90000;
+/* z: zona donde vive (0 superficie, 1 media agua, 2 abismo, 3 fosa), r: rareza (0 común … 3 legendario).
+   Los que tienen `cond` no salen por zona: solo cuando se cumple su condición (y aun así, con probabilidad `p`). */
 const BICHOS = [
-  {n:"Bacalao ártico", f:"pez",    c:"#a6c9e0"}, {n:"Foca",           f:"foca",   c:"#8e9bb0"},
-  {n:"Medusa",         f:"medusa", c:"#ee6fa3"}, {n:"Beluga",         f:"ballena",c:"#e6f1f8"},
-  {n:"Narval",         f:"narval", c:"#5b7fa6"}, {n:"Morsa",          f:"foca",   c:"#c79a78"},
-  {n:"Barco hundido",  f:"barco",  c:"#9a6638"}, {n:"Pulpo gigante",  f:"pulpo",  c:"#ee6fa3"},
-  {n:"Rape abisal",    f:"rape",   c:"#2a3f66"}, {n:"Cofre del tesoro",f:"cofre", c:"#ffcf5c"},
-  {n:"Calamar gigante",f:"pulpo",  c:"#cb3b78"}, {n:"Kraken",         f:"kraken", c:"#7b4fd6"}
+  {n:"Bacalao ártico", f:"pez",    c:"#a6c9e0", z:0, r:0}, {n:"Foca",           f:"foca",   c:"#8e9bb0", z:0, r:0},
+  {n:"Medusa",         f:"medusa", c:"#ee6fa3", z:0, r:1}, {n:"Beluga",         f:"ballena",c:"#e6f1f8", z:1, r:1},
+  {n:"Narval",         f:"narval", c:"#5b7fa6", z:1, r:2, p:.22, cond:x => x.racha >= 5, pista:"Solo aparece si aciertas 5 seguidas sin fallar ni pasar."},
+  {n:"Morsa",          f:"foca",   c:"#c79a78", z:1, r:0},
+  {n:"Barco hundido",  f:"barco",  c:"#9a6638", z:1, r:2, p:.45, cond:x => x.nv === 4, pista:"Aparece cuando das una respuesta de nivel Sabihondo."},
+  {n:"Pulpo gigante",  f:"pulpo",  c:"#ee6fa3", z:1, r:1}, {n:"Rape abisal",    f:"rape",   c:"#2a3f66", z:2, r:1},
+  {n:"Cofre del tesoro",f:"cofre", c:"#ffcf5c", z:2, r:2, p:.35, cond:x => x.z >= 2 && x.rapido, pista:"Está en el abismo y solo lo ve quien responde en menos de 3 segundos."},
+  {n:"Calamar gigante",f:"pulpo",  c:"#cb3b78", z:2, r:2}, {n:"Kraken",         f:"kraken", c:"#7b4fd6", z:3, r:3, pista:"Vive en la fosa, a partir de la categoría 10. Casi nadie lo ha visto."}
 ];
+const ZONAS = ["Superficie", "Media agua", "Abismo", "Fosa"];
+const RAREZAS = [{n:"Común", c:"#8e9bb0"}, {n:"Raro", c:"#2f7fd6"}, {n:"Épico", c:"#7b4fd6"}, {n:"Legendario", c:"#e5484d"}];
+const zonaDe = n => n <= 3 ? 0 : n <= 6 ? 1 : n <= 9 ? 2 : 3;
+const KRAKEN = BICHOS.length - 1;
+/* qué se encuentra al llegar a un tramo: primero las condiciones secretas; si no, a veces nada y si no, uno de la zona
+   (o de la de encima, con la mitad de peso), según su rareza */
+const PESO = [50, 18, 6, .4];
+function encuentro(x){
+  for (const [i, b] of BICHOS.entries()) if (b.cond && b.cond(x) && Math.random() < b.p) return i;
+  if (Math.random() < .35) return null;
+  const pool = [...BICHOS.entries()].filter(([, b]) => !b.cond && b.z <= x.z && b.z >= x.z - 1).map(([i, b]) => [i, PESO[b.r]*(b.z === x.z ? 1 : .5)]);
+  let tira = Math.random()*pool.reduce((a, [, w]) => a + w, 0);
+  for (const [i, w] of pool) if ((tira -= w) <= 0) return i;
+  return null;
+}
 // la ilustración y su silueta (para lo que aún no se ha descubierto), en cuanto cargan
 BICHOS.forEach((b, i) => { const im = new Image(); im.onload = () => {
   const sil = document.createElement("canvas"); sil.width = im.naturalWidth; sil.height = im.naturalHeight;
@@ -2075,7 +2101,17 @@ function crPool(){
 const crPrecarga = () => C.cola.slice(C.k, C.k + 3).forEach(i => cargaPregunta(i).catch(() => {}));
 const crCat = n => n + (n === 1 ? " categoría" : " categorías");
 const crRecord = () => { const r = guarda.get("cr:record", null); return r && typeof r.aciertos === "number" ? r.aciertos : 0; };
-const crAlbum = () => new Set(guarda.get("cr:album", []));
+function crAlbum(){
+  const a = guarda.get("cr:album", {});
+  return Array.isArray(a) ? Object.fromEntries(a.map(i => [i, 1])) : (a || {});
+}
+const crTiene = (album, i) => (album[i] || 0) > 0;
+const crCuantos = album => BICHOS.filter((_, i) => crTiene(album, i)).length;
+let ALBUM_PCT = null;   // % de jugadores con cuenta que tiene cada bicho (sabihondo_album_stats)
+async function cargaPct(){
+  if (!Cuenta.sb) return;
+  try{ const {data, error} = await Cuenta.sb.rpc("sabihondo_album_stats"); if (!error && data){ ALBUM_PCT = Object.fromEntries(data.map(f => [f.bicho, f.porcentaje])); btDibujaAlbum(); } }catch{}
+}
 
 /* la capa a pantalla completa: escena (canvas) + lo que se toca encima */
 function btCapa(){
@@ -2098,22 +2134,33 @@ function crPortada(){
   <div class="bt-panel">
     <h1>El batiscafo</h1>
     <p class="lema">Tienes <b>90 segundos de oxígeno</b>. Cada categoría que aciertes te hunde un poco más junto al iceberg,
-      y tu foco irá descubriendo lo que hay en el fondo. Si fallas, prueba otra vez o pasa a la siguiente.</p>
-    <p class="mini">${rec ? `Tu récord: ${crCat(rec)} · ` : ``}Álbum: ${album.size} de ${BICHOS.length}</p>
+      y tu foco irá encontrando lo que vive ahí abajo: cuanto más hondo, más raro. Algunos solo aparecen si haces algo especial.
+      Si fallas, prueba otra vez o pasa a la siguiente.</p>
+    <p class="mini">${rec ? `Tu récord: ${crCat(rec)} · ` : ``}Álbum: ${crCuantos(album)} de ${BICHOS.length}</p>
     ${btAlbum(album)}
     <div class="botonera"><button class="btn" id="bCr">Sumergirse</button><button class="btn fantasma" id="bCrPodio">Podio</button>
       <button class="enlace" type="button" id="bCrIni">Volver al juego</button></div>
   </div>`;
-  btDibujaAlbum();
+  btDibujaAlbum(); cargaPct();
   $("#bCr").addEventListener("click", crEmpieza);
   $("#bCrPodio").addEventListener("click", crPodio);
   $("#bCrIni").addEventListener("click", crVuelve);
 }
 function btAlbum(album){
-  return `<div class="bt-album">${BICHOS.map((b, i) => `<figure class="${album.has(i) ? "" : "no"}"><canvas data-bicho="${i}" data-visto="${album.has(i) ? 1 : 0}" width="108" height="108"></canvas>
-    <figcaption>${album.has(i) ? esc(b.n) : "?"}</figcaption></figure>`).join("")}</div>`;
+  return `<div class="bt-album">${BICHOS.map((b, i) => { const si = crTiene(album, i); return `<button type="button" class="${si ? "" : "no"}" data-ficha="${i}"
+      style="--rc:${RAREZAS[b.r].c}"><canvas data-bicho="${i}" data-visto="${si ? 1 : 0}" width="108" height="108"></canvas>
+    <span class="nom">${si ? esc(b.n) : "?"}</span>${album[i] > 1 ? `<span class="veces">×${album[i]}</span>` : ``}</button>`; }).join("")}</div>
+    <p class="bt-ficha" id="btFicha">Toca uno para ver su ficha.</p>`;
+}
+// la ficha de un bicho del álbum: rareza, zona o pista, y cuántos jugadores lo tienen
+function btFicha(i){
+  const b = BICHOS[i], album = crAlbum(), si = crTiene(album, i), pct = ALBUM_PCT && ALBUM_PCT[i];
+  const quien = pct == null ? "" : ` · Lo tiene ${pct < 1 && pct > 0 ? "menos del 1" : Math.round(pct)} % de los jugadores`;
+  const donde = b.pista && (!si || b.cond) ? b.pista : "Vive en: " + ZONAS[b.z] + ".";
+  $("#btFicha").innerHTML = `<b>${si ? esc(b.n) : "???"}</b> <span class="rz" style="--rc:${RAREZAS[b.r].c}">${RAREZAS[b.r].n}</span>${si && album[i] > 1 ? ` · visto ${album[i]} veces` : ``}${quien}<br>${esc(donde)}`;
 }
 function btDibujaAlbum(){
+  document.querySelectorAll("#bati [data-ficha]").forEach(el => { if (!el.dataset.on){ el.dataset.on = 1; el.addEventListener("click", () => btFicha(+el.dataset.ficha)); } });
   document.querySelectorAll("#bati canvas[data-bicho]").forEach(c => {
     const x = c.getContext("2d"); x.clearRect(0, 0, 108, 108);
     Fondo.bicho(x, +c.dataset.bicho, 54, 54, 100, c.dataset.visto === "1" ? 1 : 0);
@@ -2121,7 +2168,7 @@ function btDibujaAlbum(){
 }
 async function crEmpieza(){
   Son.arranca();
-  C = { cola:crPool(), k:0, aciertos:0, res:[], t0:0, fin:false, nuevos:[] };
+  C = { cola:crPool(), k:0, aciertos:0, res:[], t0:0, fin:false, nuevos:[], vistos:[], racha:0, tq:0 };
   const b = $("#bCr"); b.disabled = true; b.textContent = "Cargando…";
   crPrecarga();
   try{ await cargaPregunta(C.cola[0]); }
@@ -2153,14 +2200,20 @@ function crPinta(){
     crPrecarga();
     try{ p = await cargaPregunta(C.cola[C.k]); }catch{ C.k++; return siguiente(); }
     if (C.fin) return;
-    $("#crQ").textContent = p.q; campo.value = ""; campo.focus();
+    $("#crQ").textContent = p.q; campo.value = ""; campo.focus(); C.tq = Date.now();
   }
   function descubre(i){
-    const album = crAlbum(); if (album.has(i)) return;
-    album.add(i); guarda.set("cr:album", [...album]); C.nuevos.push(i);
+    const album = crAlbum(), veces = (album[i] || 0) + 1, b = BICHOS[i];
+    album[i] = veces; guarda.set("cr:album", album); C.vistos.push(i);
+    if (veces === 1) C.nuevos.push(i);
     const n = $("#btNuevo"), c = n.querySelector("canvas"), x = c.getContext("2d");
-    x.clearRect(0, 0, 120, 120); Fondo.bicho(x, i, 60, 60, 112, 1); n.querySelector("b").textContent = BICHOS[i].n;
-    Son.capa(); n.classList.add("ve"); clearTimeout(avisoT); avisoT = setTimeout(() => n.classList.remove("ve"), 2200);
+    x.clearRect(0, 0, 120, 120); Fondo.bicho(x, i, 60, 60, 112, 1);
+    n.querySelector("b").textContent = b.n;
+    n.querySelector("small").textContent = (veces === 1 ? "Nuevo · " : "Otra vez · ×" + veces + " · ") + RAREZAS[b.r].n;
+    n.style.setProperty("--rc", RAREZAS[b.r].c);
+    if (veces === 1 || b.r >= 2) Son.capa();
+    if (b.r === 3) Fondo.sacude();
+    n.classList.add("ve"); clearTimeout(avisoT); avisoT = setTimeout(() => n.classList.remove("ve"), veces === 1 ? 2400 : 1400);
   }
   form.addEventListener("submit", e => {
     e.preventDefault();
@@ -2168,7 +2221,7 @@ function crPinta(){
     if (!texto || !p || C.fin) return;
     const r = evalua(p, texto);
     if (!r){
-      Son.fallo(); $("#aviso").textContent = "«" + texto + "» no está en la lista";
+      Son.fallo(); C.racha = 0; $("#aviso").textContent = "«" + texto + "» no está en la lista";
       form.classList.remove("mal"); void form.offsetWidth; form.classList.add("mal");
       campo.select(); return;
     }
@@ -2176,13 +2229,15 @@ function crPinta(){
     C.aciertos++; C.res.push({q:p.q, nv:r.nv, disp:r.disp}); C.k++;
     $("#crN").textContent = C.aciertos;
     $("#aviso").textContent = "✓ " + r.disp;
-    const bicho = Fondo.baja(C.aciertos);
+    C.racha++;
+    const bicho = encuentro({z:zonaDe(C.aciertos), racha:C.racha, nv:r.nv, rapido:Date.now() - C.tq < 3000});
+    Fondo.baja(C.aciertos, bicho);
     if (bicho !== null) setTimeout(() => { if (!C.fin) descubre(bicho); }, 900);
     siguiente();
   });
   $("#bPasa").addEventListener("click", () => {
     if (!p || C.fin) return;
-    C.res.push({q:p.q, nv:null}); C.k++; $("#aviso").textContent = ""; Fondo.sacude(); siguiente();
+    C.res.push({q:p.q, nv:null}); C.k++; C.racha = 0; $("#aviso").textContent = ""; Fondo.sacude(); siguiente();
   });
   (function reloj(){
     if (C.fin) return;
@@ -2205,7 +2260,7 @@ function crFinal(){
   const rec = crRecord(), nuevo = C.aciertos > rec, album = crAlbum();
   if (nuevo) guarda.set("cr:record", {aciertos:C.aciertos});
   const sube = Cuenta.user && Cuenta.sb
-    ? Cuenta.sb.from("sabihondo_contrarreloj").insert({aciertos:C.aciertos, res:C.res}).then(() => {}, () => {})
+    ? Cuenta.sb.from("sabihondo_contrarreloj").insert({aciertos:C.aciertos, res:C.res, bichos:C.vistos}).then(() => {}, () => {})
     : Promise.resolve();
   const hud = btCapa();
   hud.innerHTML = `
@@ -2221,7 +2276,7 @@ function crFinal(){
     <div class="botonera"><button class="btn" id="bCrOtra">Otra vez</button><button class="btn fantasma" id="bCrPodio">Podio</button>
       <button class="enlace" type="button" id="bCrIni">Volver al juego</button></div>
   </div>`;
-  btDibujaAlbum();
+  btDibujaAlbum(); cargaPct();
   $("#bCrOtra").addEventListener("click", crPortada);
   $("#bCrPodio").addEventListener("click", () => sube.then(crPodio));
   $("#bCrIni").addEventListener("click", crVuelve);
@@ -2249,8 +2304,9 @@ async function crPodio(){
   if (!filas.length) return marco(`<p class="mini"><b>Todavía no ha jugado nadie con cuenta.</b></p>`);
   marco(`<ol class="ranking">${filas.map(f => `<li class="${f.eres_tu ? "tu" : ""}">
       <span class="puesto">${esc(f.puesto)}</span>
-      <span class="quien">${esc(f.apodo)}${f.eres_tu ? " (tú)" : ""}</span>
+      <span class="quien">${esc(f.apodo)}${f.eres_tu ? " (tú)" : ""}${f.kraken ? ` <img class="ico-kraken" src="bati/12.webp" alt="Ha visto al kraken" title="Ha visto al kraken" width="22" height="22">` : ``}</span>
       <span class="metros">${crCat(f.aciertos)}</span></li>`).join("")}</ol>
+    ${filas.some(f => f.kraken) ? `<p class="mini"><img class="ico-kraken" src="bati/12.webp" alt="" width="18" height="18"> ha visto al kraken</p>` : ``}
     ${Cuenta.user ? "" : `<p class="mini">Para salir aquí hace falta una cuenta.</p>`}`);
 }
 
@@ -2281,8 +2337,9 @@ const Fondo = (() => {
     cv = c; cx = cv.getContext("2d"); talla(); prev = performance.now(); cancelAnimationFrame(raf); raf = requestAnimationFrame(bucle);
   }
   function para(){ cancelAnimationFrame(raf); raf = 0; cv = null; }
-  function reinicia(){ sub = meta = -14; cam = -60; sinAire = false; burbujas = []; }
-  function baja(n){ meta = n*TRAMO; return n - 1 < BICHOS.length ? n - 1 : null; }
+  function reinicia(){ sub = meta = -14; cam = -60; sinAire = false; burbujas = []; encuentros = []; }
+  let encuentros = [];
+  function baja(n, i){ meta = n*TRAMO; if (i !== null) encuentros.push({n, i}); }
   function bucle(ahora){
     if (!cv || !cv.isConnected) return para();
     const dt = Math.min(.05, (ahora - prev)/1000); prev = ahora; t += dt;
@@ -2328,9 +2385,10 @@ const Fondo = (() => {
     }
     // los bichos, cada uno a la hondura de su tramo, delante del submarino
     const sxv = Math.max(pared(sub) + 70, w*.42);
-    for (let i = 0; i < BICHOS.length; i++){
-      const by = (i + 1)*TRAMO + 70, yy = Y(by); if (yy < -120 || yy > h + 120) continue;
-      bicho(cx, i, Math.min(w - 90, sxv + 160 + (i % 3)*20) + Math.sin(t*.8 + i)*6, yy + Math.sin(t*1.3 + i)*5, Math.min(180, w*.36), 1);
+    for (const {n, i} of encuentros){
+      const yy = Y(n*TRAMO + 70); if (yy < -160 || yy > h + 160) continue;
+      const tam = Math.min(BICHOS[i].r === 3 ? 240 : 180, w*(BICHOS[i].r === 3 ? .5 : .36));
+      bicho(cx, i, Math.min(w - tam/2, sxv + 160 + (n % 3)*20) + Math.sin(t*.8 + n)*6, yy + Math.sin(t*1.3 + n)*5, tam, 1);
     }
     // nieve marina
     cx.fillStyle = "rgba(255,255,255,.55)";
