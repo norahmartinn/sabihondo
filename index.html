@@ -2264,6 +2264,10 @@ const Fondo = (() => {
   const quieto = matchMedia("(prefers-reduced-motion: reduce)");
   let cv = null, cx, w, h, raf = 0, prev = 0, t = 0, cam = -60, sub = -14, meta = -14, sacudir = 0, sinAire = false;
   let nieve = [], burbujas = [], sombra = null, sx_ = 0;
+  // el submarino ilustrado (bati/submarino.webp, 640×395); hasta que cargue, el dibujado. La lámpara está en la punta derecha
+  const SUB = new Image(); let subOk = false; SUB.onload = () => subOk = true; SUB.src = "bati/submarino.webp";
+  const escSub = () => Math.min(1.25, Math.max(.8, w/700));
+  const lampara = (x, y) => subOk ? [x + 52*escSub(), y + 8*escSub()] : [x + 30, y + 10];
   const color = y => enTramo(MAR, Math.max(0, y));
   const pared = y => 0.2*w + Math.sin(y*.004)*w*.05 + Math.sin(y*.013 + 2)*w*.025 + (y < 0 ? (y + 200)/200*w*.06 - w*.06 : 0);
   function talla(){
@@ -2287,7 +2291,7 @@ const Fondo = (() => {
     const objetivo = sub - (meta < 0 ? -h*.08 : 0);
     cam += (objetivo - cam)*Math.min(1, dt*2.6);
     sacudir = Math.max(0, sacudir - dt*2.5);
-    if (!quieto.matches && Math.random() < dt*6) burbujas.push({x:0, y:0, ox:-34 + Math.random()*6, oy:-4, v:28 + Math.random()*30, r:1.5 + Math.random()*2.5, vida:1});
+    if (!quieto.matches && Math.random() < dt*6) burbujas.push({x:0, y:0, ox:(subOk ? -52 : -34) + Math.random()*6, oy:-4, v:28 + Math.random()*30, r:1.5 + Math.random()*2.5, vida:1});
     pinta(dt);
     raf = requestAnimationFrame(bucle);
   }
@@ -2339,7 +2343,7 @@ const Fondo = (() => {
       s.setTransform(1,0,0,1,0,0); s.clearRect(0, 0, sombra.width, sombra.height); s.setTransform(d,0,0,d,0,0);
       s.globalCompositeOperation = "source-over"; s.fillStyle = "rgba(2,8,18," + oscuro + ")"; s.fillRect(0, 0, w, h);
       s.globalCompositeOperation = "destination-out";
-      const lx = sx + 30, ly = sy + 10, alcance = Math.min(w*.75, 420);
+      const [lx, ly] = lampara(sx, sy), alcance = Math.min(w*.75, 420);
       const rg = s.createRadialGradient(lx, ly, 10, lx + alcance*.45, ly + alcance*.25, alcance*.7);
       rg.addColorStop(0, "rgba(0,0,0,1)"); rg.addColorStop(.6, "rgba(0,0,0,.75)"); rg.addColorStop(1, "rgba(0,0,0,0)");
       s.fillStyle = rg; s.beginPath(); s.moveTo(lx, ly - 8); s.lineTo(lx + alcance, ly - alcance*.18); s.lineTo(lx + alcance*.75, ly + alcance*.75); s.closePath(); s.fill();
@@ -2360,7 +2364,17 @@ const Fondo = (() => {
     submarino(sx, sy);
   }
   function submarino(x, y){
-    const u = Math.min(1.25, Math.max(.8, w/700));
+    const u = escSub();
+    if (subOk){
+      const sw = 108*u, sh = sw*395/640;
+      cx.fillStyle = "rgba(0,0,0,.18)"; cx.beginPath(); cx.ellipse(x, y + sh*.5, sw*.4, 5*u, 0, 0, 7); cx.fill();
+      cx.drawImage(SUB, x - sw/2, y - sh/2, sw, sh);
+      // la hélice, girando: un borrón encima de la pintada
+      const px = x - sw*.47, py = y + sh*.13, giro = Math.abs(Math.sin(t*14));
+      cx.fillStyle = "rgba(242,169,59,.75)"; cx.beginPath(); cx.ellipse(px, py, 2.6*u, (4 + 12*giro)*u, 0, 0, 7); cx.fill();
+      cx.fillStyle = "rgba(255,255,255,.18)"; cx.beginPath(); cx.ellipse(px, py, 3.5*u, 15*u, 0, 0, 7); cx.fill();
+      return;
+    }
     cx.save(); cx.translate(x, y); cx.scale(u, u);
     cx.fillStyle = "rgba(0,0,0,.18)"; cx.beginPath(); cx.ellipse(2, 26, 38, 5, 0, 0, 7); cx.fill();
     // hélice
