@@ -2054,36 +2054,33 @@ bs.addEventListener("click", ()=>{ const on = Son.alterna(); bs.setAttribute("ar
 
 /* ═════════ el batiscafo (prueba): 90 s de oxígeno para responder todas las categorías que se pueda ═════════
    Un submarino baja pegado a la pared del iceberg. Cada acierto lo hunde un tramo y su foco descubre algo del fondo
-   (o no): encuentro() lo sortea por zona y rareza, con condiciones secretas para algunos; el álbum (`cr:album`) cuenta las veces que se ha visto cada uno. Cuenta categorías, no metros.
+   (o no): encuentro() lo sortea con el porcentaje de cada uno (pc), con condiciones secretas para algunos; el álbum (`cr:album`) cuenta las veces que se ha visto cada uno. Cuenta categorías, no metros.
    Salen preguntas de días ya jugados, al azar; solo vale lo que está en el banco (el juez tarda demasiado).
    Con cuenta, cada partida va a sabihondo_contrarreloj y al podio. Escondido: solo se entra con #contrarreloj.
    Las ilustraciones están en bati/NN.webp (generadas con IA por Norah, fondo recortado); si alguna no carga, se dibuja un boceto. */
 const CR_MS = 90000;
-/* z: zona donde vive (0 superficie, 1 media agua, 2 abismo, 3 fosa), r: rareza (0 común … 3 legendario).
-   Los que tienen `cond` no salen por zona: solo cuando se cumple su condición (y aun así, con probabilidad `p`). */
+/* pc: probabilidad (%) de que salga al acertar una categoría. Una sola tirada por acierto: lo que no suma 100 es «nada».
+   Los que tienen `cond` no entran en la tirada: solo pueden salir cuando se cumple su condición, con su `pc`.
+   La rareza que se enseña sale del porcentaje (rareza()). */
 const BICHOS = [
-  {n:"Bacalao ártico", f:"pez",    c:"#a6c9e0", z:0, r:0}, {n:"Foca",           f:"foca",   c:"#8e9bb0", z:0, r:0},
-  {n:"Medusa",         f:"medusa", c:"#ee6fa3", z:0, r:1}, {n:"Beluga",         f:"ballena",c:"#e6f1f8", z:1, r:1},
-  {n:"Narval",         f:"narval", c:"#5b7fa6", z:1, r:2, p:.22, cond:x => x.racha >= 5, pista:"Solo aparece si aciertas 5 seguidas sin fallar ni pasar."},
-  {n:"Morsa",          f:"foca",   c:"#c79a78", z:1, r:0},
-  {n:"Barco hundido",  f:"barco",  c:"#9a6638", z:1, r:2, p:.45, cond:x => x.nv === 4, pista:"Aparece cuando das una respuesta de nivel Sabihondo."},
-  {n:"Pulpo gigante",  f:"pulpo",  c:"#ee6fa3", z:1, r:1}, {n:"Rape abisal",    f:"rape",   c:"#2a3f66", z:2, r:1},
-  {n:"Cofre del tesoro",f:"cofre", c:"#ffcf5c", z:2, r:2, p:.35, cond:x => x.z >= 2 && x.rapido, pista:"Está en el abismo y solo lo ve quien responde en menos de 3 segundos."},
-  {n:"Calamar gigante",f:"pulpo",  c:"#cb3b78", z:2, r:2}, {n:"Kraken",         f:"kraken", c:"#7b4fd6", z:3, r:3, pista:"Vive en la fosa, a partir de la categoría 10. Casi nadie lo ha visto."}
+  {n:"Bacalao ártico", f:"pez",    c:"#a6c9e0", pc:18},   {n:"Foca",           f:"foca",   c:"#8e9bb0", pc:12},
+  {n:"Medusa",         f:"medusa", c:"#ee6fa3", pc:5},    {n:"Beluga",         f:"ballena",c:"#e6f1f8", pc:2.5},
+  {n:"Narval",         f:"narval", c:"#5b7fa6", pc:6, cond:x => x.racha >= 5, pista:"Solo puede salir cuando llevas 5 seguidas sin fallar ni pasar."},
+  {n:"Morsa",          f:"foca",   c:"#c79a78", pc:8},
+  {n:"Barco hundido",  f:"barco",  c:"#9a6638", pc:12, cond:x => x.nv === 4, pista:"Solo puede salir con una respuesta de nivel Sabihondo."},
+  {n:"Pulpo gigante",  f:"pulpo",  c:"#ee6fa3", pc:1.5},  {n:"Rape abisal",    f:"rape",   c:"#2a3f66", pc:.8},
+  {n:"Cofre del tesoro",f:"cofre", c:"#ffcf5c", pc:2.5, cond:x => x.rapido, pista:"Solo puede salir si respondes en menos de 3 segundos."},
+  {n:"Calamar gigante",f:"pulpo",  c:"#cb3b78", pc:.3},   {n:"Kraken",         f:"kraken", c:"#7b4fd6", pc:.08}
 ];
-const ZONAS = ["Superficie", "Media agua", "Abismo", "Fosa"];
 const RAREZAS = [{n:"Común", c:"#8e9bb0"}, {n:"Raro", c:"#2f7fd6"}, {n:"Épico", c:"#7b4fd6"}, {n:"Legendario", c:"#e5484d"}];
-const zonaDe = n => n <= 3 ? 0 : n <= 6 ? 1 : n <= 9 ? 2 : 3;
+// con condición, cuenta lo difícil que es cumplirla: son épicos como poco
+BICHOS.forEach(b => b.r = b.cond ? 2 : b.pc >= 8 ? 0 : b.pc >= 1.5 ? 1 : b.pc >= .2 ? 2 : 3);
 const KRAKEN = BICHOS.length - 1;
-/* qué se encuentra al llegar a un tramo: primero las condiciones secretas; si no, a veces nada y si no, uno de la zona
-   (o de la de encima, con la mitad de peso), según su rareza */
-const PESO = [50, 18, 6, .4];
+const pcTexto = pc => (pc < 1 ? String(pc).replace(".", ",") : pc.toLocaleString("es-ES")) + " %";
 function encuentro(x){
-  for (const [i, b] of BICHOS.entries()) if (b.cond && b.cond(x) && Math.random() < b.p) return i;
-  if (Math.random() < .35) return null;
-  const pool = [...BICHOS.entries()].filter(([, b]) => !b.cond && b.z <= x.z && b.z >= x.z - 1).map(([i, b]) => [i, PESO[b.r]*(b.z === x.z ? 1 : .5)]);
-  let tira = Math.random()*pool.reduce((a, [, w]) => a + w, 0);
-  for (const [i, w] of pool) if ((tira -= w) <= 0) return i;
+  for (const [i, b] of BICHOS.entries()) if (b.cond && b.cond(x) && Math.random()*100 < b.pc) return i;
+  let tira = Math.random()*100;
+  for (const [i, b] of BICHOS.entries()) if (!b.cond && (tira -= b.pc) < 0) return i;
   return null;
 }
 // la ilustración y su silueta (para lo que aún no se ha descubierto), en cuanto cargan
@@ -2134,7 +2131,7 @@ function crPortada(){
   <div class="bt-panel">
     <h1>El batiscafo</h1>
     <p class="lema">Tienes <b>90 segundos de oxígeno</b>. Cada categoría que aciertes te hunde un poco más junto al iceberg,
-      y tu foco irá encontrando lo que vive ahí abajo: cuanto más hondo, más raro. Algunos solo aparecen si haces algo especial.
+      y tu foco puede encontrar algo de lo que vive ahí abajo. Cada criatura tiene su probabilidad de salir, y algunas solo aparecen si haces algo especial.
       Si fallas, prueba otra vez o pasa a la siguiente.</p>
     <p class="mini">${rec ? `Tu récord: ${crCat(rec)} · ` : ``}Álbum: ${crCuantos(album)} de ${BICHOS.length}</p>
     ${btAlbum(album)}
@@ -2156,7 +2153,7 @@ function btAlbum(album){
 function btFicha(i){
   const b = BICHOS[i], album = crAlbum(), si = crTiene(album, i), pct = ALBUM_PCT && ALBUM_PCT[i];
   const quien = pct == null ? "" : ` · Lo tiene ${pct < 1 && pct > 0 ? "menos del 1" : Math.round(pct)} % de los jugadores`;
-  const donde = b.pista && (!si || b.cond) ? b.pista : "Vive en: " + ZONAS[b.z] + ".";
+  const donde = b.cond ? b.pista + " Entonces sale el " + pcTexto(b.pc) + " de las veces." : "Sale el " + pcTexto(b.pc) + " de las veces que aciertas.";
   $("#btFicha").innerHTML = `<b>${si ? esc(b.n) : "???"}</b> <span class="rz" style="--rc:${RAREZAS[b.r].c}">${RAREZAS[b.r].n}</span>${si && album[i] > 1 ? ` · visto ${album[i]} veces` : ``}${quien}<br>${esc(donde)}`;
 }
 function btDibujaAlbum(){
@@ -2230,7 +2227,7 @@ function crPinta(){
     $("#crN").textContent = C.aciertos;
     $("#aviso").textContent = "✓ " + r.disp;
     C.racha++;
-    const bicho = encuentro({z:zonaDe(C.aciertos), racha:C.racha, nv:r.nv, rapido:Date.now() - C.tq < 3000});
+    const bicho = encuentro({racha:C.racha, nv:r.nv, rapido:Date.now() - C.tq < 3000});
     Fondo.baja(C.aciertos, bicho);
     if (bicho !== null) setTimeout(() => { if (!C.fin) descubre(bicho); }, 900);
     siguiente();
