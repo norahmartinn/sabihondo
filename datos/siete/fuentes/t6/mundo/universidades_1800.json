@@ -1,0 +1,3536 @@
+[
+{
+"es": "Lincoln's Inn",
+"en": "Lincoln's Inn",
+"links": 25,
+"fund": "1444-"
+},
+{
+"es": "Universidad de Leópolis",
+"en": "Lviv University",
+"links": 50,
+"fund": "1661-"
+},
+{
+"es": "Colegio de San Pablo de Macao",
+"en": "St. Paul's College",
+"links": 12,
+"fund": "1594-"
+},
+{
+"es": "Universidad de San Carlos de Guatemala",
+"en": "Universidad de San Carlos de Guatemala",
+"links": 18,
+"fund": "1676-"
+},
+{
+"es": "Universidad de Graz",
+"en": "University of Graz",
+"links": 53,
+"fund": "1585-"
+},
+{
+"es": "Universidad del Rosario",
+"en": "Our Lady of the Rosary University",
+"links": 10,
+"fund": "1653-"
+},
+{
+"es": "",
+"en": "University of Lucca",
+"links": 4,
+"fund": "1787-"
+},
+{
+"es": "",
+"en": "Khusrawiyya Mosque",
+"links": 15,
+"fund": "1547-"
+},
+{
+"es": "",
+"en": "Academic Gymnasium at the St. Petersburg Academy of Sciences",
+"links": 2,
+"fund": "1724-"
+},
+{
+"es": "",
+"en": "Academic University at the St. Petersburg Academy of Sciences",
+"links": 4,
+"fund": "1724-"
+},
+{
+"es": "",
+"en": "Shōheizaka Gakumonjo",
+"links": 4,
+"fund": "1797-"
+},
+{
+"es": "",
+"en": "Alumnat",
+"links": 5,
+"fund": "1622-"
+},
+{
+"es": "",
+"en": "Astronomical Observatory of the Jagiellonian University",
+"links": 5,
+"fund": "1792-"
+},
+{
+"es": "",
+"en": "Athénée Royal (Paris)",
+"links": 2,
+"fund": "1792-"
+},
+{
+"es": "Universidad de Évora",
+"en": "University of Évora",
+"links": 19,
+"fund": "1559-"
+},
+{
+"es": "Union College",
+"en": "Union College",
+"links": 16,
+"fund": "1795-"
+},
+{
+"es": "Universidad Nacional de Córdoba",
+"en": "National University of Córdoba",
+"links": 25,
+"fund": "1613-"
+},
+{
+"es": "Porcelana de Sèvres",
+"en": "Manufacture nationale de Sèvres",
+"links": 23,
+"fund": "1745-"
+},
+{
+"es": "",
+"en": "Willem de Kooning Academy",
+"links": 6,
+"fund": "1733-"
+},
+{
+"es": "Universidad de Vilna",
+"en": "Vilnius University",
+"links": 54,
+"fund": "1579-"
+},
+{
+"es": "Universidad de Zaragoza",
+"en": "University of Zaragoza",
+"links": 29,
+"fund": "1542-"
+},
+{
+"es": "",
+"en": "Pázmáneum",
+"links": 9,
+"fund": "1623-"
+},
+{
+"es": "Universidad de Guanajuato",
+"en": "Universidad de Guanajuato",
+"links": 5,
+"fund": "1732-"
+},
+{
+"es": "Escuela Superior de Veterinaria de Hannover",
+"en": "University of Veterinary Medicine Hannover",
+"links": 7,
+"fund": "1778-"
+},
+{
+"es": "",
+"en": "Hochalpines Institut Ftan",
+"links": 2,
+"fund": "1793-"
+},
+{
+"es": "Escuela Superior de Bellas Artes de Hamburgo",
+"en": "Hochschule für bildende Künste Hamburg",
+"links": 7,
+"fund": "1767-"
+},
+{
+"es": "Universidad Michoacana de San Nicolás de Hidalgo",
+"en": "Universidad Michoacana de San Nicolás de Hidalgo",
+"links": 7,
+"fund": "1540-"
+},
+{
+"es": "Universidad de Nápoles La Oriental",
+"en": "Naples Eastern University",
+"links": 12,
+"fund": "1732-"
+},
+{
+"es": "",
+"en": "Vikramaśīla University",
+"links": 29,
+"fund": "0800-"
+},
+{
+"es": "",
+"en": "Collegium illustre",
+"links": 2,
+"fund": "1625-"
+},
+{
+"es": "",
+"en": "Lund University Faculty of Law",
+"links": 2,
+"fund": "1666-"
+},
+{
+"es": "",
+"en": "Vilnius University Faculty of Chemistry",
+"links": 3,
+"fund": "1784-"
+},
+{
+"es": "",
+"en": "Shugei Shuchi-in",
+"links": 1,
+"fund": "0828-"
+},
+{
+"es": "",
+"en": "The Archbishop's Ecclesiastical Seminary in Gniezno",
+"links": 4,
+"fund": "1583-"
+},
+{
+"es": "",
+"en": "Faculty of Mathematics and Computer Science of Jagiellonian University",
+"links": 1,
+"fund": "1402-"
+},
+{
+"es": "",
+"en": "Schönaichianum",
+"links": 1,
+"fund": "1601-"
+},
+{
+"es": "",
+"en": "Royal Academy in Košice",
+"links": 5,
+"fund": "1777-"
+},
+{
+"es": "Mezquita de y Khanqah de Shaykhu",
+"en": "Mosque and Khanqah of Shaykhu",
+"links": 10,
+"fund": "1349-"
+},
+{
+"es": "",
+"en": "New Brunswick Theological Seminary",
+"links": 3,
+"fund": "1784-"
+},
+{
+"es": "",
+"en": "Colégio dos Jesuítas do Funchal",
+"links": 2,
+"fund": "1570-"
+},
+{
+"es": "",
+"en": "Tatev University",
+"links": 5,
+"fund": "1373-"
+},
+{
+"es": "",
+"en": "Königlich Bayerische Pagerie",
+"links": 1,
+"fund": "1514-"
+},
+{
+"es": "",
+"en": "Art School St. Gallen",
+"links": 1,
+"fund": "1783-"
+},
+{
+"es": "",
+"en": "Beaux-Arts School of Dijon",
+"links": 1,
+"fund": "1765-"
+},
+{
+"es": "Universidad de Bolonia",
+"en": "University of Bologna",
+"links": 91,
+"fund": "1088-"
+},
+{
+"es": "Universidad Washington y Lee",
+"en": "Washington and Lee University",
+"links": 18,
+"fund": "1749-"
+},
+{
+"es": "Universidad Robert Gordon",
+"en": "Robert Gordon University",
+"links": 21,
+"fund": "1750-"
+},
+{
+"es": "Real Conservatorio de Estocolmo",
+"en": "Royal College of Music in Stockholm",
+"links": 17,
+"fund": "1771-"
+},
+{
+"es": "Universidad Palacký",
+"en": "Palacký University Olomouc",
+"links": 32,
+"fund": "1573-"
+},
+{
+"es": "Universidad Central del Ecuador",
+"en": "Central University of Ecuador",
+"links": 18,
+"fund": "1620-"
+},
+{
+"es": "",
+"en": "Instituto Militar de Engenharia",
+"links": 6,
+"fund": "1792-"
+},
+{
+"es": "",
+"en": "Hunan First Normal University",
+"links": 3,
+"fund": "1161-"
+},
+{
+"es": "",
+"en": "Kazan Theological Academy",
+"links": 4,
+"fund": "1797-"
+},
+{
+"es": "",
+"en": "Konstantinovsky Surveying Institute",
+"links": 3,
+"fund": "1779-"
+},
+{
+"es": "",
+"en": "Danylo Halytsky Lviv National Medical University",
+"links": 12,
+"fund": "1784-"
+},
+{
+"es": "",
+"en": "Minsk Theological Seminary",
+"links": 3,
+"fund": "1785-"
+},
+{
+"es": "",
+"en": "Vasa övningsskola's building",
+"links": 0,
+"fund": "1684-"
+},
+{
+"es": "Seminario Teológico de San Petersburgo",
+"en": "St. Petersburg Theological Seminary",
+"links": 4,
+"fund": "1721-"
+},
+{
+"es": "Pinacoteca de Brera",
+"en": "Pinacoteca di Brera",
+"links": 37,
+"fund": "1776-"
+},
+{
+"es": "Universidad de Heidelberg",
+"en": "Heidelberg University",
+"links": 85,
+"fund": "1386-"
+},
+{
+"es": "Royal College of Physicians",
+"en": "Royal College of Physicians, London",
+"links": 17,
+"fund": "1518-"
+},
+{
+"es": "",
+"en": "Islamic Azad University of Shahrekord",
+"links": 1,
+"fund": "1362-"
+},
+{
+"es": "",
+"en": "Collège Université de Reims",
+"links": 2,
+"fund": "1412-"
+},
+{
+"es": "Universidad de Gandía",
+"en": "Universidad de Gandía",
+"links": 2,
+"fund": "1548-"
+},
+{
+"es": "",
+"en": "Princely Academy of Iași",
+"links": 3,
+"fund": "1707-"
+},
+{
+"es": "",
+"en": "Theatrum Anatomico-chirurgicum",
+"links": 2,
+"fund": "1736-"
+},
+{
+"es": "",
+"en": "Medieval University of Dublin",
+"links": 1,
+"fund": "1320-"
+},
+{
+"es": "",
+"en": "Xi'an University of Finance and Economics",
+"links": 2,
+"fund": "1579-"
+},
+{
+"es": "",
+"en": "Collegium Melitense",
+"links": 6,
+"fund": "1592-"
+},
+{
+"es": "Seminario de San Antonio Abad",
+"en": "Seminario de San Antonio Abad",
+"links": 2,
+"fund": "1598-"
+},
+{
+"es": "",
+"en": "Reformed Academy in Ghent",
+"links": 1,
+"fund": "1577-"
+},
+{
+"es": "",
+"en": "Schmochtitz Bischof Benno Haus",
+"links": 2,
+"fund": "1770-"
+},
+{
+"es": "",
+"en": "Studienseminar Albertinum",
+"links": 1,
+"fund": "1574-"
+},
+{
+"es": "",
+"en": "Lucio Campiani Conservatory",
+"links": 1,
+"fund": "1777-"
+},
+{
+"es": "Franklin & Marshall College",
+"en": "Franklin & Marshall College",
+"links": 7,
+"fund": "1787-"
+},
+{
+"es": "",
+"en": "Collegium medicum",
+"links": 3,
+"fund": "1740-"
+},
+{
+"es": "Universidad de Königsberg",
+"en": "University of Königsberg",
+"links": 41,
+"fund": "1544-"
+},
+{
+"es": "Universidad de Zagreb",
+"en": "University of Zagreb",
+"links": 50,
+"fund": "1669-"
+},
+{
+"es": "Universidad de Pisa",
+"en": "University of Pisa",
+"links": 46,
+"fund": "1343-"
+},
+{
+"es": "",
+"en": "Hunan University",
+"links": 13,
+"fund": "0976-"
+},
+{
+"es": "",
+"en": "Hampden–Sydney College",
+"links": 9,
+"fund": "1775-"
+},
+{
+"es": "Real Jardín Botánico de Edimburgo",
+"en": "Royal Botanic Garden Edinburgh",
+"links": 20,
+"fund": "1670-"
+},
+{
+"es": "Universidad de Harderwijk",
+"en": "University of Harderwijk",
+"links": 19,
+"fund": "1648-"
+},
+{
+"es": "Universidad de Gotinga",
+"en": "University of Göttingen",
+"links": 82,
+"fund": "1734-"
+},
+{
+"es": "Universidad de Friburgo",
+"en": "University of Freiburg",
+"links": 56,
+"fund": "1457-"
+},
+{
+"es": "Universidad de Lausana",
+"en": "University of Lausanne",
+"links": 49,
+"fund": "1537-"
+},
+{
+"es": "Academia de Bellas Artes de Düsseldorf",
+"en": "Kunstakademie Düsseldorf",
+"links": 26,
+"fund": "1762-"
+},
+{
+"es": "Universidad de Camerino",
+"en": "University of Camerino",
+"links": 18,
+"fund": "1723-"
+},
+{
+"es": "",
+"en": "Collège Saint-Michel",
+"links": 5,
+"fund": "1582-"
+},
+{
+"es": "Universidad de Freiberg",
+"en": "Freiberg University of Mining and Technology",
+"links": 27,
+"fund": "1765-"
+},
+{
+"es": "Instituto Naval de San Petersburgo",
+"en": "St. Petersburg Naval Institute",
+"links": 9,
+"fund": "1701-"
+},
+{
+"es": "College of Charleston",
+"en": "College of Charleston",
+"links": 9,
+"fund": "1770-"
+},
+{
+"es": "Real Academia Danesa de Bellas Artes Escuela de Arquitectura",
+"en": "Kunstakademiets Arkitektskole",
+"links": 5,
+"fund": "1754-"
+},
+{
+"es": "",
+"en": "Tusculum University",
+"links": 3,
+"fund": "1794-"
+},
+{
+"es": "",
+"en": "Washington College",
+"links": 7,
+"fund": "1723-"
+},
+{
+"es": "",
+"en": "Moravian University",
+"links": 9,
+"fund": "1742-"
+},
+{
+"es": "Accademia di Belle Arti Gian Bettino Cignaroli",
+"en": "Academy of Fine Arts, Verona",
+"links": 4,
+"fund": "1764-"
+},
+{
+"es": "",
+"en": "Adam Smith Business School",
+"links": 3,
+"fund": "1451-"
+},
+{
+"es": "",
+"en": "Al-Jameatul Arabiatul Islamia Ziri",
+"links": 2,
+"fund": "1328-"
+},
+{
+"es": "",
+"en": "Alasmarya Islamic University",
+"links": 4,
+"fund": "1506-"
+},
+{
+"es": "",
+"en": "Athonite Academy",
+"links": 6,
+"fund": "1749-"
+},
+{
+"es": "",
+"en": "Becker College",
+"links": 4,
+"fund": "1784-"
+},
+{
+"es": "",
+"en": "Codrington College",
+"links": 4,
+"fund": "1745-"
+},
+{
+"es": "",
+"en": "Collegium Regium Stockholmense",
+"links": 3,
+"fund": "1576-"
+},
+{
+"es": "",
+"en": "Dietrich School of Arts and Sciences",
+"links": 1,
+"fund": "1787-"
+},
+{
+"es": "",
+"en": "Evangelical School of Smyrna",
+"links": 6,
+"fund": "1733-"
+},
+{
+"es": "",
+"en": "Faculty of Law and Administration of the Jagiellonian University",
+"links": 4,
+"fund": "1364-"
+},
+{
+"es": "",
+"en": "Faculty of Theology, Old University of Leuven",
+"links": 3,
+"fund": "1432-"
+},
+{
+"es": "",
+"en": "Gunma University of Social Welfare",
+"links": 3,
+"fund": "1449-"
+},
+{
+"es": "",
+"en": "Hafr Al-Batin College of Technology",
+"links": 1,
+"fund": "1425-"
+},
+{
+"es": "Universidad de Cervera",
+"en": "University of Cervera",
+"links": 4,
+"fund": "1717-"
+},
+{
+"es": "Universidad de Baeza",
+"en": "University of Baeza",
+"links": 2,
+"fund": "1538-"
+},
+{
+"es": "",
+"en": "Heidelberg University Faculty of Law",
+"links": 4,
+"fund": "1386-"
+},
+{
+"es": "",
+"en": "High School of Dundee",
+"links": 4,
+"fund": "1239-"
+},
+{
+"es": "University of Bützow",
+"en": "Frederick's University of Bützow",
+"links": 4,
+"fund": "1760-"
+},
+{
+"es": "Imperial y Real Academia de Lenguas Orientales",
+"en": "K.k. Akademie für Orientalische Sprachen",
+"links": 3,
+"fund": "1754-"
+},
+{
+"es": "",
+"en": "Kantonsschule Alpenquai Luzern",
+"links": 3,
+"fund": "1574-"
+},
+{
+"es": "Universidad de Macerata",
+"en": "University of Macerata",
+"links": 15,
+"fund": "1290-"
+},
+{
+"es": "universidad de Parma",
+"en": "University of Parma",
+"links": 28,
+"fund": "0962-"
+},
+{
+"es": "Universidad de Leipzig",
+"en": "Leipzig University",
+"links": 67,
+"fund": "1409-"
+},
+{
+"es": "Universidad del Estudio General",
+"en": "Universitat de l'Estudi General",
+"links": 1,
+"fund": "1558-"
+},
+{
+"es": "",
+"en": "Faculté de droit et science politique de Montpellier",
+"links": 1,
+"fund": "1289-"
+},
+{
+"es": "Universidad de Estrasburgo",
+"en": "University of Strasbourg",
+"links": 1,
+"fund": "1538-"
+},
+{
+"es": "",
+"en": "St. John's College, Annapolis",
+"links": 0,
+"fund": "1784-"
+},
+{
+"es": "",
+"en": "Imperial Commercial College",
+"links": 3,
+"fund": "1772-"
+},
+{
+"es": "",
+"en": "Universitat Carlina de Solsona",
+"links": 1,
+"fund": "1620-"
+},
+{
+"es": "",
+"en": "École des Enfants de l’armée",
+"links": 2,
+"fund": "1786-"
+},
+{
+"es": "",
+"en": "Montpellier Fine Arts School",
+"links": 2,
+"fund": "1249-"
+},
+{
+"es": "",
+"en": "The Conservation of the Holy Quran Society",
+"links": 1,
+"fund": "1411-"
+},
+{
+"es": "",
+"en": "Grand séminaire d'Amiens",
+"links": 1,
+"fund": "1741-"
+},
+{
+"es": "Antigua Universidad de Perpiñán",
+"en": "Universitat de Perpinyà",
+"links": 3,
+"fund": "1350-"
+},
+{
+"es": "",
+"en": "Middlesex Hospital Medical School",
+"links": 0,
+"fund": "1746-"
+},
+{
+"es": "",
+"en": "Mamun Academy",
+"links": 4,
+"fund": "1000-"
+},
+{
+"es": "Universidad Técnica de Brunswick",
+"en": "TU Braunschweig",
+"links": 28,
+"fund": "1745-"
+},
+{
+"es": "Universidad de Perugia",
+"en": "University of Perugia",
+"links": 31,
+"fund": "1308-"
+},
+{
+"es": "Primera Universidad Estatal Médica de Moscú en honor de I.M. Séchenov",
+"en": "I.M. Sechenov First Moscow State Medical University",
+"links": 23,
+"fund": "1758-"
+},
+{
+"es": "Universidad de Rennes",
+"en": "University of Rennes",
+"links": 13,
+"fund": "1460-"
+},
+{
+"es": "Studium Aretino",
+"en": "University of Arezzo",
+"links": 7,
+"fund": "1215-"
+},
+{
+"es": "Universidad de Tubinga",
+"en": "University of Tübingen",
+"links": 86,
+"fund": "1477-"
+},
+{
+"es": "Universidad de Marburgo",
+"en": "University of Marburg",
+"links": 51,
+"fund": "1527-"
+},
+{
+"es": "",
+"en": "University of Pont-à-Mousson",
+"links": 4,
+"fund": "1572-"
+},
+{
+"es": "Universidad de Strathclyde",
+"en": "University of Strathclyde",
+"links": 35,
+"fund": "1796-"
+},
+{
+"es": "Lycée Henri IV",
+"en": "Lycée Henri-IV",
+"links": 25,
+"fund": "1796-"
+},
+{
+"es": "Universidad Estatal de Moscú",
+"en": "Lomonosov Moscow State University",
+"links": 109,
+"fund": "1755-"
+},
+{
+"es": "Universidad de Urbino",
+"en": "University of Urbino",
+"links": 21,
+"fund": "1506-"
+},
+{
+"es": "Real Universidad de San Felipe",
+"en": "Real Universidad de San Felipe",
+"links": 6,
+"fund": "1747-"
+},
+{
+"es": "Columbia University College of Physicians and Surgeons",
+"en": "Columbia University Vagelos College of Physicians and Surgeons",
+"links": 12,
+"fund": "1767-"
+},
+{
+"es": "Universidad Harvard",
+"en": "Harvard University",
+"links": 151,
+"fund": "1636-"
+},
+{
+"es": "Universidad de Tréveris",
+"en": "Trier University",
+"links": 21,
+"fund": "1473-"
+},
+{
+"es": "Universidad de Bamberg",
+"en": "University of Bamberg",
+"links": 26,
+"fund": "1647-"
+},
+{
+"es": "Universidad de Miskolc",
+"en": "University of Miskolc",
+"links": 18,
+"fund": "1735-"
+},
+{
+"es": "Academia Yuelu",
+"en": "Yuelu Academy",
+"links": 16,
+"fund": "0976-"
+},
+{
+"es": "Universidad de Cagliari",
+"en": "University of Cagliari",
+"links": 25,
+"fund": "1607-"
+},
+{
+"es": "",
+"en": "King's Inns",
+"links": 7,
+"fund": "1541-"
+},
+{
+"es": "",
+"en": "Tōfuku-ji Temple",
+"links": 23,
+"fund": "1236-"
+},
+{
+"es": "Universidad de Nimega",
+"en": "University of Nijmegen",
+"links": 2,
+"fund": "1655-"
+},
+{
+"es": "Universidad de Oviedo",
+"en": "University of Oviedo",
+"links": 19,
+"fund": "1608-"
+},
+{
+"es": "",
+"en": "Orange College of Breda",
+"links": 3,
+"fund": "1646-"
+},
+{
+"es": "Academia Estatal de Bellas Artes de Stuttgart",
+"en": "State Academy of Fine Arts Stuttgart",
+"links": 9,
+"fund": "1761-"
+},
+{
+"es": "",
+"en": "State Museum of Natural History Stuttgart",
+"links": 6,
+"fund": "1791-"
+},
+{
+"es": "",
+"en": "Saint Mary's College of Quezon City",
+"links": 2,
+"fund": "1725-"
+},
+{
+"es": "Universidad Santo Tomás",
+"en": "Saint Thomas Aquinas University",
+"links": 6,
+"fund": "1580-"
+},
+{
+"es": "",
+"en": "Salem College",
+"links": 5,
+"fund": "1772-"
+},
+{
+"es": "",
+"en": "Sampurnanand Sanskrit University",
+"links": 12,
+"fund": "1791-"
+},
+{
+"es": "Universidad Nacional de San Cristóbal de Huamanga",
+"en": "National University of San Cristóbal de Huamanga",
+"links": 5,
+"fund": "1677-"
+},
+{
+"es": "",
+"en": "School of Medicine, University of Manchester",
+"links": 6,
+"fund": "1752-"
+},
+{
+"es": "",
+"en": "Latin School",
+"links": 2,
+"fund": "1485-"
+},
+{
+"es": "",
+"en": "St. Peter's Pontifical Seminary",
+"links": 1,
+"fund": "1778-"
+},
+{
+"es": "",
+"en": "St Salvator's College",
+"links": 1,
+"fund": "1450-"
+},
+{
+"es": "",
+"en": "The College of Brown University",
+"links": 3,
+"fund": "1764-"
+},
+{
+"es": "Academia Naval Turca",
+"en": "Turkish Naval Academy",
+"links": 5,
+"fund": "1773-"
+},
+{
+"es": "",
+"en": "Universidad de San Felipe de Austria",
+"links": 1,
+"fund": "1640-"
+},
+{
+"es": "Universidad de San Ignacio",
+"en": "University of Saint Ignatius",
+"links": 2,
+"fund": "1595-"
+},
+{
+"es": "Universidad de Helsinki",
+"en": "University of Helsinki",
+"links": 67,
+"fund": "1640-"
+},
+{
+"es": "Universidad de Wurzburgo",
+"en": "University of Würzburg",
+"links": 44,
+"fund": "1402-"
+},
+{
+"es": "Universidad de Mainz",
+"en": "Johannes Gutenberg University Mainz",
+"links": 35,
+"fund": "1477-"
+},
+{
+"es": "",
+"en": "University of Northampton",
+"links": 5,
+"fund": "1261-"
+},
+{
+"es": "",
+"en": "University of Rinteln",
+"links": 2,
+"fund": "1619-"
+},
+{
+"es": "",
+"en": "University of Zadar",
+"links": 26,
+"fund": "1396-"
+},
+{
+"es": "",
+"en": "Universitätsmedizin Göttingen",
+"links": 2,
+"fund": "1732-"
+},
+{
+"es": "",
+"en": "Vilnius University Faculty of Medicine",
+"links": 3,
+"fund": "1579-"
+},
+{
+"es": "",
+"en": "Slavic Greek Latin Academy",
+"links": 13,
+"fund": "1685-"
+},
+{
+"es": "Universidad de Salzburgo",
+"en": "University of Salzburg",
+"links": 32,
+"fund": "1622-"
+},
+{
+"es": "Universidad Estatal de San Petersburgo",
+"en": "Saint Petersburg State University",
+"links": 73,
+"fund": "1724-"
+},
+{
+"es": "Casa de la Sabiduría",
+"en": "House of Wisdom",
+"links": 56,
+"fund": "0800-"
+},
+{
+"es": "",
+"en": "Bergakademie Berlin",
+"links": 2,
+"fund": "1770-"
+},
+{
+"es": "Universidad de Florencia",
+"en": "University of Florence",
+"links": 43,
+"fund": "1321-"
+},
+{
+"es": "Universidad de Franco Condado",
+"en": "Marie and Louis Pasteur University",
+"links": 10,
+"fund": "1423-"
+},
+{
+"es": "Universidad de Leiden",
+"en": "Leiden University",
+"links": 80,
+"fund": "1575-"
+},
+{
+"es": "Universidad Autónoma de Santo Domingo",
+"en": "Autonomous University of Santo Domingo",
+"links": 12,
+"fund": "1538-"
+},
+{
+"es": "Universidad de Los Andes",
+"en": "University of the Andes",
+"links": 25,
+"fund": "1785-"
+},
+{
+"es": "Universidad de Georgia",
+"en": "University of Georgia",
+"links": 38,
+"fund": "1785-"
+},
+{
+"es": "",
+"en": "Moscow State University of Geodesy and Cartography",
+"links": 6,
+"fund": "1779-"
+},
+{
+"es": "Instituto Estatal de Artes Escénicas de Rusia",
+"en": "Russian State Institute of Performing Arts",
+"links": 14,
+"fund": "1779-"
+},
+{
+"es": "",
+"en": "Collège d'Autun",
+"links": 2,
+"fund": "1337-"
+},
+{
+"es": "",
+"en": "San Carlos Seminary",
+"links": 4,
+"fund": "1702-"
+},
+{
+"es": "",
+"en": "Universitas Studii Coloniensis",
+"links": 4,
+"fund": "1388-"
+},
+{
+"es": "Universidad de Bourges",
+"en": "University of Bourges",
+"links": 11,
+"fund": "1463-"
+},
+{
+"es": "Convictorio Carolino",
+"en": "Convictorio Carolino",
+"links": 2,
+"fund": "1778-"
+},
+{
+"es": "",
+"en": "Holy Rosary Seminary",
+"links": 2,
+"fund": "1797-"
+},
+{
+"es": "",
+"en": "Lorestan University",
+"links": 3,
+"fund": "1356-"
+},
+{
+"es": "",
+"en": "Kurdistan University of Medical Sciences",
+"links": 4,
+"fund": "1365-"
+},
+{
+"es": "",
+"en": "Fatih Sultan Mehmet Vakif University",
+"links": 2,
+"fund": "1470-"
+},
+{
+"es": "",
+"en": "Isfahan University of Medical Sciences",
+"links": 6,
+"fund": "1024-"
+},
+{
+"es": "Seminario Conciliar de México",
+"en": "Conciliar Seminary of Mexico",
+"links": 1,
+"fund": "1585-"
+},
+{
+"es": "Seminario Mayor de Bogotá",
+"en": "Major Seminary of Bogotá",
+"links": 2,
+"fund": "1581-"
+},
+{
+"es": "",
+"en": "Jamia Qurania Arabia Lalbagh",
+"links": 4,
+"fund": "1370-"
+},
+{
+"es": "",
+"en": "Jamiah Darul Uloom Zahedan",
+"links": 6,
+"fund": "1391-"
+},
+{
+"es": "Universidad de Almagro",
+"en": "Universidad de Almagro",
+"links": 1,
+"fund": "1574-"
+},
+{
+"es": "Universidad de Orihuela",
+"en": "University of Orihuela",
+"links": 4,
+"fund": "1552-"
+},
+{
+"es": "Universidad de San Antonio de Porta Coeli",
+"en": "Universidad de San Antonio de Porta Coeli",
+"links": 2,
+"fund": "1489-"
+},
+{
+"es": "Universidad de San Buenaventura",
+"en": "Universidad de San Buenaventura",
+"links": 2,
+"fund": "1708-"
+},
+{
+"es": "Universidad Pontificia de Santo Tomás de Aquino",
+"en": "Universidad Pontificia de Santo Tomás de Aquino",
+"links": 1,
+"fund": "1622-"
+},
+{
+"es": "",
+"en": "Litchfield Female Academy",
+"links": 2,
+"fund": "1792-"
+},
+{
+"es": "",
+"en": "Moorestown Friends School and Meetinghouse",
+"links": 2,
+"fund": "1785-"
+},
+{
+"es": "Pittsburgh Theological Seminary",
+"en": "Pittsburgh Theological Seminary",
+"links": 4,
+"fund": "1794-"
+},
+{
+"es": "",
+"en": "Prince Henry's Grammar School, Otley",
+"links": 1,
+"fund": "1607-"
+},
+{
+"es": "Universidad de Jena",
+"en": "University of Jena",
+"links": 54,
+"fund": "1558-"
+},
+{
+"es": "",
+"en": "University of Freiburg Faculty of Medicine",
+"links": 1,
+"fund": "1457-"
+},
+{
+"es": "Universidad de Osuna",
+"en": "University of Osuna",
+"links": 3,
+"fund": "1548-"
+},
+{
+"es": "Universidad de Santa Catalina",
+"en": "University of Santa Catalina",
+"links": 3,
+"fund": "1550-"
+},
+{
+"es": "",
+"en": "University of St Andrews School of Medicine",
+"links": 2,
+"fund": "1413-"
+},
+{
+"es": "",
+"en": "University of Valence",
+"links": 4,
+"fund": "1452-"
+},
+{
+"es": "",
+"en": "Washington & Jefferson College",
+"links": 5,
+"fund": "1781-"
+},
+{
+"es": "",
+"en": "York College of Pennsylvania",
+"links": 5,
+"fund": "1787-"
+},
+{
+"es": "",
+"en": "Hiroshima Shudo University",
+"links": 4,
+"fund": "1725-"
+},
+{
+"es": "Real Universidad de Toledo",
+"en": "Royal University of Toledo",
+"links": 3,
+"fund": "1520-"
+},
+{
+"es": "Universidad Luliana",
+"en": "Estudi General Lul·lià",
+"links": 3,
+"fund": "1483-"
+},
+{
+"es": "",
+"en": "Archidiecezjalne Wyższe Seminarium Duchowne w Białymstoku",
+"links": 5,
+"fund": "1582-"
+},
+{
+"es": "",
+"en": "Faculty of Philosophy of the Jagiellonian University",
+"links": 1,
+"fund": "1364-"
+},
+{
+"es": "Universidad de Nápoles Federico II",
+"en": "University of Naples Federico II",
+"links": 43,
+"fund": "1224-"
+},
+{
+"es": "",
+"en": "Debrecen Reformed Theological University",
+"links": 8,
+"fund": "1538-"
+},
+{
+"es": "abadía de Heiligenkreuz",
+"en": "Heiligenkreuz Abbey",
+"links": 28,
+"fund": "1101-"
+},
+{
+"es": "Universidad de Aix",
+"en": "Aix University",
+"links": 0,
+"fund": "1409-"
+},
+{
+"es": "Seminario de Nobles de Madrid",
+"en": "Royal Seminary of Nobles of Madrid",
+"links": 4,
+"fund": "1725-"
+},
+{
+"es": "",
+"en": "Royal Academy of Law in Nagyvárad",
+"links": 2,
+"fund": "1788-"
+},
+{
+"es": "",
+"en": "Real Colégio de Educação de Chorão",
+"links": 1,
+"fund": "1761-"
+},
+{
+"es": "",
+"en": "History of the art schools of Geneva",
+"links": 1,
+"fund": "1748-"
+},
+{
+"es": "Universidad Literaria de San Fernando",
+"en": "Universidad Literaria de San Fernando",
+"links": 1,
+"fund": "1792-"
+},
+{
+"es": "",
+"en": "Ilam University",
+"links": 0,
+"fund": "1355-"
+},
+{
+"es": "",
+"en": "Government Medical College Bhavnagar",
+"links": 0,
+"fund": "1723-"
+},
+{
+"es": "",
+"en": "Qiongtai Normal University",
+"links": 1,
+"fund": "1705-"
+},
+{
+"es": "",
+"en": "Islamic Azad University of Shahreza",
+"links": 0,
+"fund": "1367-"
+},
+{
+"es": "",
+"en": "Al-Farabi College",
+"links": 0,
+"fund": "1430-"
+},
+{
+"es": "",
+"en": "Ateneum University",
+"links": 1,
+"fund": "1558-"
+},
+{
+"es": "",
+"en": "Conservatorio di Musica di Perugia",
+"links": 0,
+"fund": "1788-"
+},
+{
+"es": "",
+"en": "Conservatorio di Musica 'Francesco Venezze' di Rovigo",
+"links": 0,
+"fund": "1715-"
+},
+{
+"es": "",
+"en": "Reformed Theological Academy of Sárospatak",
+"links": 0,
+"fund": "1531-"
+},
+{
+"es": "",
+"en": "Kosar University of Bojnord",
+"links": 0,
+"fund": "1391-"
+},
+{
+"es": "",
+"en": "Tekniska skolan Visby",
+"links": 1,
+"fund": "1778-"
+},
+{
+"es": "",
+"en": "Faculty of Theology, University of Göttingen",
+"links": 1,
+"fund": "1737-"
+},
+{
+"es": "",
+"en": "Govt. Madrasah-e-Alia, Dhaka",
+"links": 4,
+"fund": "1780-"
+},
+{
+"es": "",
+"en": "Universidad Católica Lumen Gentium",
+"links": 0,
+"fund": "1551-"
+},
+{
+"es": "",
+"en": "College and University of arts of Nîmes",
+"links": 1,
+"fund": "1539-"
+},
+{
+"es": "",
+"en": "Irish College",
+"links": 2,
+"fund": "1626-"
+},
+{
+"es": "",
+"en": "École nationale des langues orientales vivantes",
+"links": 2,
+"fund": "1795-"
+},
+{
+"es": "",
+"en": "Volyn Theological Seminary",
+"links": 3,
+"fund": "1796-"
+},
+{
+"es": "",
+"en": "Remonstrants seminary",
+"links": 2,
+"fund": "1634-"
+},
+{
+"es": "",
+"en": "Leiden Law School",
+"links": 3,
+"fund": "1575-"
+},
+{
+"es": "Colegio-convento de San Pedro y San Pablo (Alcalá de Henares)",
+"en": "Colegio-convento de San Pedro y San Pablo (Alcalá de Henares)",
+"links": 1,
+"fund": "1508-"
+},
+{
+"es": "",
+"en": "Saint Petersburg Mining Institute",
+"links": 3,
+"fund": "1773-"
+},
+{
+"es": "",
+"en": "Mining College",
+"links": 1,
+"fund": "1773-"
+},
+{
+"es": "Győri Királyi Jogakadémia",
+"en": "Royal Academy of Law in Győr",
+"links": 0,
+"fund": "1776-"
+},
+{
+"es": "Universidad de Kiel",
+"en": "Kiel University",
+"links": 47,
+"fund": "1665-"
+},
+{
+"es": "Real Academia Sueca de Bellas Artes",
+"en": "Royal Swedish Academy of Fine Arts",
+"links": 27,
+"fund": "1735-"
+},
+{
+"es": "",
+"en": "Higher Theological Seminary of the Archdiocese of Krakow",
+"links": 2,
+"fund": "1602-"
+},
+{
+"es": "",
+"en": "Wyższe Seminarium Duchowne Metropolii Warmińskiej \"Hosianum\"",
+"links": 1,
+"fund": "1565-"
+},
+{
+"es": "",
+"en": "Higher Theological Seminary in Przemyśl",
+"links": 2,
+"fund": "1687-"
+},
+{
+"es": "",
+"en": "Higher Theological Seminary in Pelplin",
+"links": 2,
+"fund": "1651-"
+},
+{
+"es": "",
+"en": "Higher Theological Seminary in Włocławek",
+"links": 2,
+"fund": "1569-"
+},
+{
+"es": "Universidad de Guadalajara",
+"en": "University of Guadalajara",
+"links": 44,
+"fund": "1792-"
+},
+{
+"es": "",
+"en": "Jesuit College of Ingolstadt",
+"links": 5,
+"fund": "1575-"
+},
+{
+"es": "Universidad de La Habana",
+"en": "University of Havana",
+"links": 41,
+"fund": "1728-"
+},
+{
+"es": "Academia Teológica de Moscú",
+"en": "Moscow Theological Academy",
+"links": 10,
+"fund": "1687-"
+},
+{
+"es": "",
+"en": "Gukjagam",
+"links": 6,
+"fund": "0992-"
+},
+{
+"es": "Universidad de Constantinopla",
+"en": "University of Constantinople",
+"links": 34,
+"fund": "0425-"
+},
+{
+"es": "Universidad de Groninga",
+"en": "University of Groningen",
+"links": 58,
+"fund": "1614-"
+},
+{
+"es": "Universidad Carolina de Praga",
+"en": "Charles University",
+"links": 83,
+"fund": "1348-"
+},
+{
+"es": "Universidad de Montpellier",
+"en": "University of Montpellier",
+"links": 0,
+"fund": "1220-"
+},
+{
+"es": "Gresham College",
+"en": "Gresham College",
+"links": 12,
+"fund": "1597-"
+},
+{
+"es": "",
+"en": "Zamojski Academy",
+"links": 7,
+"fund": "1594-"
+},
+{
+"es": "Mezquita de los Omeyas",
+"en": "Umayyad Mosque",
+"links": 78,
+"fund": "0706-"
+},
+{
+"es": "Universidad de Cambridge",
+"en": "University of Cambridge",
+"links": 135,
+"fund": "1209-"
+},
+{
+"es": "The College of William and Mary",
+"en": "College of William & Mary",
+"links": 36,
+"fund": "1693-"
+},
+{
+"es": "Real Academia de Bellas Artes de la Purísima Concepción",
+"en": "Real Academia de Bellas Artes de la Purísima Concepción",
+"links": 1,
+"fund": "1779-"
+},
+{
+"es": "",
+"en": "Collège de Lisieux",
+"links": 3,
+"fund": "1336-"
+},
+{
+"es": "",
+"en": "Mozhaysky Air Force Academy",
+"links": 9,
+"fund": "1712-"
+},
+{
+"es": "Academia Donglin",
+"en": "Donglin Academy",
+"links": 15,
+"fund": "1111-"
+},
+{
+"es": "",
+"en": "Faculté de médecine de Strasbourg",
+"links": 2,
+"fund": "1794-"
+},
+{
+"es": "",
+"en": "Kaitokudō",
+"links": 7,
+"fund": "1724-"
+},
+{
+"es": "",
+"en": "Gladzor University",
+"links": 14,
+"fund": "1282-"
+},
+{
+"es": "Universidad de Rostock",
+"en": "University of Rostock",
+"links": 44,
+"fund": "1419-"
+},
+{
+"es": "Universidad de Edimburgo",
+"en": "University of Edinburgh",
+"links": 90,
+"fund": "1583-"
+},
+{
+"es": "Universidad de Valladolid",
+"en": "University of Valladolid",
+"links": 27,
+"fund": "1241-"
+},
+{
+"es": "Universidad de Douai",
+"en": "University of Douai",
+"links": 8,
+"fund": "1559-"
+},
+{
+"es": "",
+"en": "University of Frankfurt an der Oder",
+"links": 6,
+"fund": "1506-"
+},
+{
+"es": "Hartwick College",
+"en": "Hartwick College",
+"links": 4,
+"fund": "1797-"
+},
+{
+"es": "Palacio de San Telmo",
+"en": "Palacio de San Telmo",
+"links": 19,
+"fund": "1682-"
+},
+{
+"es": "",
+"en": "Académie de Die",
+"links": 1,
+"fund": "1604-"
+},
+{
+"es": "",
+"en": "Protestant University of La Rochelle",
+"links": 1,
+"fund": "1571-"
+},
+{
+"es": "",
+"en": "Montauban-Puylaurens Academy",
+"links": 2,
+"fund": "1598-"
+},
+{
+"es": "",
+"en": "Princely Academy of Bucharest",
+"links": 6,
+"fund": "1679-"
+},
+{
+"es": "Universidad de Santo Tomás de Aquino",
+"en": "Universidad Santo Tomás de Aquino",
+"links": 4,
+"fund": "1538-"
+},
+{
+"es": "Palacio Ezpeleta",
+"en": "Palacio de Ezpeleta",
+"links": 3,
+"fund": "1709-"
+},
+{
+"es": "Universidad de Princeton",
+"en": "Princeton University",
+"links": 99,
+"fund": "1746-"
+},
+{
+"es": "Universidad de Münster",
+"en": "University of Münster",
+"links": 39,
+"fund": "1780-"
+},
+{
+"es": "Universidad de al-Azhar",
+"en": "Al-Azhar University",
+"links": 88,
+"fund": "0970-"
+},
+{
+"es": "",
+"en": "Catholic Private University Linz",
+"links": 5,
+"fund": "1672-"
+},
+{
+"es": "Universidad de Pensilvania",
+"en": "University of Pennsylvania",
+"links": 86,
+"fund": "1740-"
+},
+{
+"es": "Universidad Sungkyunkwan",
+"en": "Sungkyunkwan University",
+"links": 31,
+"fund": "1398-"
+},
+{
+"es": "Universidad de Columbia",
+"en": "Columbia University",
+"links": 96,
+"fund": "1754-"
+},
+{
+"es": "",
+"en": "Ryukoku University",
+"links": 10,
+"fund": "1639-"
+},
+{
+"es": "",
+"en": "collège des Grassins",
+"links": 3,
+"fund": "1569-"
+},
+{
+"es": "Universidad de Nuevo Brunswick",
+"en": "University of New Brunswick",
+"links": 21,
+"fund": "1785-"
+},
+{
+"es": "universidad de Lisboa",
+"en": "University of Lisbon",
+"links": 43,
+"fund": "1290-"
+},
+{
+"es": "",
+"en": "Blaues Haus (Breisach)",
+"links": 2,
+"fund": "1691-"
+},
+{
+"es": "Universidad de San Carlos",
+"en": "University of San Carlos",
+"links": 17,
+"fund": "1595-"
+},
+{
+"es": "Bowdoin College",
+"en": "Bowdoin College",
+"links": 23,
+"fund": "1794-"
+},
+{
+"es": "",
+"en": "University of Sopron",
+"links": 18,
+"fund": "1735-"
+},
+{
+"es": "Real Academia Superior de Bellas Artes",
+"en": "Royal Institute of Art",
+"links": 8,
+"fund": "1735-"
+},
+{
+"es": "Academia Kiev-Mohyla",
+"en": "Kyiv-Mohyla Academy",
+"links": 9,
+"fund": "1659-"
+},
+{
+"es": "Universidad de Dole",
+"en": "University of Dole",
+"links": 5,
+"fund": "1422-"
+},
+{
+"es": "Universidad de King's College",
+"en": "University of King's College",
+"links": 11,
+"fund": "1789-"
+},
+{
+"es": "",
+"en": "University of Košice",
+"links": 3,
+"fund": "1657-"
+},
+{
+"es": "Universidad de Lille",
+"en": "University of Lille",
+"links": 21,
+"fund": "1559-"
+},
+{
+"es": "Universidad de Oxford",
+"en": "University of Oxford",
+"links": 149,
+"fund": "1096-"
+},
+{
+"es": "",
+"en": "Castleton University",
+"links": 4,
+"fund": "1787-"
+},
+{
+"es": "",
+"en": "Ashikaga Gakkō",
+"links": 7,
+"fund": "0800-"
+},
+{
+"es": "Universidad de Delaware",
+"en": "University of Delaware",
+"links": 44,
+"fund": "1743-"
+},
+{
+"es": "Conservatorio de Palermo",
+"en": "Palermo Conservatory",
+"links": 8,
+"fund": "1618-"
+},
+{
+"es": "",
+"en": "Stepan Gzhytskyi National University of Veterinary Medicine and Biotechnologies Lviv",
+"links": 8,
+"fund": "1784-"
+},
+{
+"es": "Universidad de Greifswald",
+"en": "University of Greifswald",
+"links": 38,
+"fund": "1456-"
+},
+{
+"es": "Universidad de Viena",
+"en": "University of Vienna",
+"links": 88,
+"fund": "1365-"
+},
+{
+"es": "Universidad de Upsala",
+"en": "Uppsala University",
+"links": 74,
+"fund": "1477-"
+},
+{
+"es": "Universidad de Copenhague",
+"en": "University of Copenhagen",
+"links": 76,
+"fund": "1479-"
+},
+{
+"es": "Universidad de Debrecen",
+"en": "University of Debrecen",
+"links": 34,
+"fund": "1538-"
+},
+{
+"es": "Universidad Nacional de San Antonio Abad del Cusco",
+"en": "National University of San Antonio Abad in Cusco",
+"links": 10,
+"fund": "1692-"
+},
+{
+"es": "Universidad Mayor, Real y Pontificia San Francisco Xavier de Chuquisaca",
+"en": "Royal and Pontifical Higher University of San Francisco Xavier of Chuquisaca",
+"links": 11,
+"fund": "1624-"
+},
+{
+"es": "Universidad Transylvania",
+"en": "Transylvania University",
+"links": 14,
+"fund": "1780-"
+},
+{
+"es": "Colegio de las Cuatro Naciones",
+"en": "Collège des Quatre-Nations",
+"links": 17,
+"fund": "1661-"
+},
+{
+"es": "",
+"en": "Casimirianum Neustadt",
+"links": 4,
+"fund": "1578-"
+},
+{
+"es": "Universidad de Vermont",
+"en": "University of Vermont",
+"links": 35,
+"fund": "1791-"
+},
+{
+"es": "Universidad Yale",
+"en": "Yale University",
+"links": 106,
+"fund": "1701-"
+},
+{
+"es": "Universidad de Innsbruck",
+"en": "University of Innsbruck",
+"links": 43,
+"fund": "1669-"
+},
+{
+"es": "Universidad de veterinaria de Viena",
+"en": "University of Veterinary Medicine Vienna",
+"links": 10,
+"fund": "1765-"
+},
+{
+"es": "Universidad de Altdorf",
+"en": "University of Altdorf",
+"links": 17,
+"fund": "1578-"
+},
+{
+"es": "Universidad Central de Venezuela",
+"en": "Central University of Venezuela",
+"links": 29,
+"fund": "1721-"
+},
+{
+"es": "Universidad de Ferrara",
+"en": "University of Ferrara",
+"links": 31,
+"fund": "1391-"
+},
+{
+"es": "",
+"en": "Ursulines of Quebec",
+"links": 4,
+"fund": "1639-"
+},
+{
+"es": "",
+"en": "Phrontisterion of Trapezous",
+"links": 6,
+"fund": "1682-"
+},
+{
+"es": "Escuela Nacional de Veterinaria de Lyon",
+"en": "National Veterinary School of Lyon",
+"links": 4,
+"fund": "1761-"
+},
+{
+"es": "Escuela regional de Bellas Artes de Angers",
+"en": "École régionale des beaux-arts d'Angers",
+"links": 2,
+"fund": "1795-"
+},
+{
+"es": "Escuela de arte de Aix-en-Provence",
+"en": "Aix-en-Provence School of Art",
+"links": 1,
+"fund": "1765-"
+},
+{
+"es": "",
+"en": "Accademia dei Filodrammatici",
+"links": 4,
+"fund": "1796-"
+},
+{
+"es": "",
+"en": "Accademia di Belle Arti di Perugia",
+"links": 5,
+"fund": "1573-"
+},
+{
+"es": "",
+"en": "Moscow Orphanage",
+"links": 4,
+"fund": "1764-"
+},
+{
+"es": "Williams College",
+"en": "Williams College",
+"links": 24,
+"fund": "1793-"
+},
+{
+"es": "",
+"en": "Royal College of Surgeons in Ireland",
+"links": 14,
+"fund": "1784-"
+},
+{
+"es": "Escuela Médica Salernitana",
+"en": "Schola Medica Salernitana",
+"links": 31,
+"fund": "0900-"
+},
+{
+"es": "",
+"en": "Rissho University",
+"links": 15,
+"fund": "1580-"
+},
+{
+"es": "Universidad de Hamilton",
+"en": "Hamilton College",
+"links": 17,
+"fund": "1793-"
+},
+{
+"es": "",
+"en": "Gymnase de La Cité Lausanne",
+"links": 1,
+"fund": "1587-"
+},
+{
+"es": "",
+"en": "Geneva University of Art and Design",
+"links": 4,
+"fund": "1748-"
+},
+{
+"es": "",
+"en": "engineering school in France",
+"links": 6,
+"fund": "1780-"
+},
+{
+"es": "",
+"en": "Aliah University",
+"links": 10,
+"fund": "1781-"
+},
+{
+"es": "Universidad de Colonia",
+"en": "University of Cologne",
+"links": 58,
+"fund": "1388-"
+},
+{
+"es": "Universidad de las Artes de Berlín",
+"en": "Berlin University of the Arts",
+"links": 29,
+"fund": "1696-"
+},
+{
+"es": "Universidad Brown",
+"en": "Brown University",
+"links": 75,
+"fund": "1765-"
+},
+{
+"es": "Universidad de Tecnología y Economía de Budapest",
+"en": "Budapest University of Technology and Economics",
+"links": 30,
+"fund": "1782-"
+},
+{
+"es": "Universidad de Carolina del Norte",
+"en": "University of North Carolina",
+"links": 21,
+"fund": "1789-"
+},
+{
+"es": "Dickinson College",
+"en": "Dickinson College",
+"links": 14,
+"fund": "1783-"
+},
+{
+"es": "Dartmouth College",
+"en": "Dartmouth College",
+"links": 64,
+"fund": "1769-"
+},
+{
+"es": "",
+"en": "Academy of Saumur",
+"links": 4,
+"fund": "1599-"
+},
+{
+"es": "Universidad de Sevilla",
+"en": "University of Seville",
+"links": 30,
+"fund": "1505-"
+},
+{
+"es": "Universidad de Granada",
+"en": "University of Granada",
+"links": 38,
+"fund": "1531-"
+},
+{
+"es": "Universidad Jagellónica",
+"en": "Jagiellonian University",
+"links": 74,
+"fund": "1364-"
+},
+{
+"es": "Universidad de Tennessee",
+"en": "University of Tennessee",
+"links": 34,
+"fund": "1794-"
+},
+{
+"es": "Academia Albertina",
+"en": "Accademia Albertina",
+"links": 12,
+"fund": "1678-"
+},
+{
+"es": "",
+"en": "University of Tokaj",
+"links": 4,
+"fund": "1531-"
+},
+{
+"es": "Universidad de Múnich",
+"en": "LMU Munich",
+"links": 76,
+"fund": "1472-"
+},
+{
+"es": "Universidad de Lérida",
+"en": "University of Lleida",
+"links": 21,
+"fund": "1300-"
+},
+{
+"es": "Universidad de Módena y Reggio Emilia",
+"en": "University of Modena and Reggio Emilia",
+"links": 25,
+"fund": "1175-"
+},
+{
+"es": "",
+"en": "University of Erlangen",
+"links": 0,
+"fund": "1743-"
+},
+{
+"es": "",
+"en": "Justus Perthes",
+"links": 5,
+"fund": "1785-"
+},
+{
+"es": "",
+"en": "Voronin Arctic Maritime Institute - Branch of \"Admiral Makarov State University of Maritime and Inland Shipping\"",
+"links": 2,
+"fund": "1781-"
+},
+{
+"es": "",
+"en": "Zawiya Thaalibia (Algiers)",
+"links": 1,
+"fund": "1460-"
+},
+{
+"es": "",
+"en": "Saint Agustín College",
+"links": 1,
+"fund": "1564-"
+},
+{
+"es": "",
+"en": "Veitel Heine Ephraim'sche Lehranstalt",
+"links": 0,
+"fund": "1770-"
+},
+{
+"es": "",
+"en": "Beit Yaakov Yeshiva (Vigga)",
+"links": 1,
+"fund": "1658-"
+},
+{
+"es": "",
+"en": "Iranshahr University",
+"links": 0,
+"fund": "1372-"
+},
+{
+"es": "",
+"en": "Séminaire de Lausanne",
+"links": 2,
+"fund": "1726-"
+},
+{
+"es": "",
+"en": "Andrei Krupinsky Lviv Medical Academy",
+"links": 2,
+"fund": "1773-"
+},
+{
+"es": "",
+"en": "Greek Catholic Seminary in Zagreb",
+"links": 5,
+"fund": "1681-"
+},
+{
+"es": "",
+"en": "Odense Teater",
+"links": 0,
+"fund": "1796-"
+},
+{
+"es": "",
+"en": "École supérieure des beaux-arts, Genève",
+"links": 2,
+"fund": "1748-"
+},
+{
+"es": "",
+"en": "Rhetorical School of Gaza",
+"links": 4,
+"fund": "0500-"
+},
+{
+"es": "",
+"en": "Jesuit College",
+"links": 0,
+"fund": "1561-"
+},
+{
+"es": "Reales Estudios de San Isidro",
+"en": "Reales Estudios de San Isidro",
+"links": 2,
+"fund": "1625-"
+},
+{
+"es": "",
+"en": "Gansuido",
+"links": 2,
+"fund": "1717-"
+},
+{
+"es": "",
+"en": "primary normal school in France",
+"links": 2,
+"fund": "1794-"
+},
+{
+"es": "",
+"en": "Cignaroli Academy and Brenzoni School of Painting and Sculpture",
+"links": 2,
+"fund": "1764-"
+},
+{
+"es": "",
+"en": "Ilirski kolegij u Loretu",
+"links": 0,
+"fund": "1580-"
+},
+{
+"es": "",
+"en": "University of Strathclyde, United Kingdom",
+"links": 0,
+"fund": "1796-"
+},
+{
+"es": "Universidad Fraserburgh",
+"en": "University of Fraserburgh",
+"links": 8,
+"fund": "1592-"
+},
+{
+"es": "Universidad de Padua",
+"en": "University of Padua",
+"links": 61,
+"fund": "1222-"
+},
+{
+"es": "Collège de France",
+"en": "Collège de France",
+"links": 71,
+"fund": "1530-"
+},
+{
+"es": "Universidad de Tartu",
+"en": "University of Tartu",
+"links": 71,
+"fund": "1632-"
+},
+{
+"es": "Universidad de Estambul",
+"en": "Istanbul University",
+"links": 61,
+"fund": "1453-"
+},
+{
+"es": "",
+"en": "Princeton University Department of Chemistry",
+"links": 1,
+"fund": "1795-"
+},
+{
+"es": "",
+"en": "Princeton University Department of Mathematics",
+"links": 1,
+"fund": "1760-"
+},
+{
+"es": "",
+"en": "University of Altamura",
+"links": 2,
+"fund": "1747-"
+},
+{
+"es": "",
+"en": "Jesuiten",
+"links": 0,
+"fund": "1562-"
+},
+{
+"es": "",
+"en": "College of St George",
+"links": 0,
+"fund": "1348-"
+},
+{
+"es": "Manzana Fundacional Cisneriana de la Universidad de Alcalá",
+"en": "Manzana Fundacional Cisneriana de la Universidad de Alcalá",
+"links": 2,
+"fund": "1499-"
+},
+{
+"es": "",
+"en": "Collegium Chirurgicum Amstelaedamense",
+"links": 0,
+"fund": "1632-"
+},
+{
+"es": "",
+"en": "University of Buda",
+"links": 0,
+"fund": "1395-"
+},
+{
+"es": "Colegio Primitivo y Nacional de San Nicolás de Hidalgo",
+"en": "Colegio Primitivo y Nacional de San Nicolás de Hidalgo",
+"links": 0,
+"fund": "1540-"
+},
+{
+"es": "Real Universidad de San Ignacio de Loyola del Cusco",
+"en": "Royal University of Saint Ignatius of Loyola",
+"links": 2,
+"fund": "1621-"
+},
+{
+"es": "Universität Graz Rechtswissenschaftliche Fakultät",
+"en": "Faculty of Law of the University of Graz",
+"links": 2,
+"fund": "1778-"
+},
+{
+"es": "",
+"en": "Wagakukōdansho",
+"links": 4,
+"fund": "1793-"
+},
+{
+"es": "",
+"en": "Collegio Tolomei",
+"links": 3,
+"fund": "1676-"
+},
+{
+"es": "",
+"en": "King's Lynn Grammar School",
+"links": 0,
+"fund": "1510-"
+},
+{
+"es": "",
+"en": "University of Fraserburgh",
+"links": 0,
+"fund": "1592-"
+},
+{
+"es": "",
+"en": "Patmias school",
+"links": 0,
+"fund": "1713-"
+},
+{
+"es": "",
+"en": "Yeshivat Knesset Yisrael",
+"links": 2,
+"fund": "1741-"
+},
+{
+"es": "",
+"en": "Royal Madrilenian Academy of Medicine",
+"links": 1,
+"fund": "1734-"
+},
+{
+"es": "",
+"en": "Qubba Madrasa",
+"links": 1,
+"fund": "1610-"
+},
+{
+"es": "Universidad de Roma La Sapienza",
+"en": "Sapienza University of Rome",
+"links": 71,
+"fund": "1303-"
+},
+{
+"es": "Real Casa de Pajes",
+"en": "Real Casa de Pajes",
+"links": 1,
+"fund": "1510-"
+},
+{
+"es": "",
+"en": "University of Mantua",
+"links": 0,
+"fund": "1584-"
+},
+{
+"es": "Seminario Metropolitano de Zaragoza",
+"en": "Metropolitan Seminary of St. Valerus and St. Braulius",
+"links": 1,
+"fund": "1788-"
+},
+{
+"es": "",
+"en": "École du génie de Metz",
+"links": 0,
+"fund": "1794-"
+},
+{
+"es": "",
+"en": "Friedrich University Halle",
+"links": 1,
+"fund": "1694-"
+},
+{
+"es": "",
+"en": "AMEG",
+"links": 0,
+"fund": "1390-"
+},
+{
+"es": "",
+"en": "Holy Spirit School, Kortrijk",
+"links": 0,
+"fund": "1720-"
+},
+{
+"es": "",
+"en": "Caroline University of Aberdeen",
+"links": 1,
+"fund": "1641-"
+},
+{
+"es": "",
+"en": "Cathedral School of Königsberg",
+"links": 0,
+"fund": "1304-"
+},
+{
+"es": "Gymnasium Philippinum",
+"en": "Paedagogium Marburg",
+"links": 0,
+"fund": "1527-"
+},
+{
+"es": "",
+"en": "Tolo-e-Saadat University",
+"links": 0,
+"fund": "1397-"
+},
+{
+"es": "",
+"en": "boarding school English convent",
+"links": 0,
+"fund": "1619-"
+},
+{
+"es": "",
+"en": "Seminario Mayor de San Carlos",
+"links": 0,
+"fund": "1783-"
+},
+{
+"es": "Universidad de Carolina del Norte en Chapel Hill",
+"en": "University of North Carolina at Chapel Hill",
+"links": 60,
+"fund": "1789-"
+},
+{
+"es": "Universidad de Glasgow",
+"en": "University of Glasgow",
+"links": 72,
+"fund": "1451-"
+},
+{
+"es": "Universidad de Mesina",
+"en": "University of Messina",
+"links": 29,
+"fund": "1548-"
+},
+{
+"es": "Universidad de Siena",
+"en": "University of Siena",
+"links": 40,
+"fund": "1240-"
+},
+{
+"es": "Universidad de Catania",
+"en": "University of Catania",
+"links": 29,
+"fund": "1434-"
+},
+{
+"es": "Medersa Sankore",
+"en": "Sankore Madrasah",
+"links": 28,
+"fund": "0988-"
+},
+{
+"es": "Universidad de Ámsterdam",
+"en": "University of Amsterdam",
+"links": 65,
+"fund": "1632-"
+},
+{
+"es": "Mezquita Zitouna",
+"en": "Al-Zaytunah Mosque",
+"links": 23,
+"fund": "0698-"
+},
+{
+"es": "Universidad de Franeker",
+"en": "University of Franeker",
+"links": 19,
+"fund": "1585-"
+},
+{
+"es": "",
+"en": "Kollegium Sankt Nikolaus",
+"links": 1,
+"fund": "1385-"
+},
+{
+"es": "Universidad de Louisville",
+"en": "University of Louisville",
+"links": 26,
+"fund": "1798-"
+},
+{
+"es": "Universidad Técnica Checa en Praga",
+"en": "Czech Technical University in Prague",
+"links": 32,
+"fund": "1707-"
+},
+{
+"es": "",
+"en": "Vilnius St. Joseph Seminary",
+"links": 6,
+"fund": "1582-"
+},
+{
+"es": "Universidad de Santo Tomás",
+"en": "University of Santo Tomas",
+"links": 21,
+"fund": "1611-"
+},
+{
+"es": "Universidad de Lund",
+"en": "Lund University",
+"links": 66,
+"fund": "1666-"
+},
+{
+"es": "Institut national des langues et civilisations orientales",
+"en": "Institut national des langues et civilisations orientales",
+"links": 41,
+"fund": "1669-"
+},
+{
+"es": "Universidad de Santiago de Compostela",
+"en": "University of Santiago de Compostela",
+"links": 29,
+"fund": "1495-"
+},
+{
+"es": "La Sorbona",
+"en": "Sorbonne",
+"links": 59,
+"fund": "1257-"
+},
+{
+"es": "Universidad de Saint Andrews",
+"en": "University of St Andrews",
+"links": 65,
+"fund": "1413-"
+},
+{
+"es": "Academia de Bellas Artes de Vilna",
+"en": "Vilnius Academy of Art",
+"links": 14,
+"fund": "1793-"
+},
+{
+"es": "Universidad de L'Aquila",
+"en": "University of L'Aquila",
+"links": 13,
+"fund": "1596-"
+},
+{
+"es": "",
+"en": "Großes Militärwaisenhaus",
+"links": 6,
+"fund": "1724-"
+},
+{
+"es": "Universidad de Pavía",
+"en": "University of Pavia",
+"links": 40,
+"fund": "1361-"
+},
+{
+"es": "",
+"en": "Lutheran Theological University",
+"links": 5,
+"fund": "1557-"
+},
+{
+"es": "",
+"en": "Hochschule für Gestaltung Schwäbisch Gmünd",
+"links": 5,
+"fund": "1776-"
+},
+{
+"es": "Hochschule für Musik Würzburg",
+"en": "Hochschule für Musik Würzburg",
+"links": 6,
+"fund": "1797-"
+},
+{
+"es": "Universidad de Aberdeen",
+"en": "University of Aberdeen",
+"links": 53,
+"fund": "1495-"
+},
+{
+"es": "Universidad de Dillingen",
+"en": "University of Dillingen",
+"links": 7,
+"fund": "1551-"
+},
+{
+"es": "Niños Cantores de Viena",
+"en": "Vienna Boys' Choir",
+"links": 40,
+"fund": "1498-"
+},
+{
+"es": "Universidad Nacional Mayor de San Marcos",
+"en": "National University of San Marcos",
+"links": 41,
+"fund": "1551-"
+},
+{
+"es": "Universidad de Utrecht",
+"en": "Utrecht University",
+"links": 58,
+"fund": "1636-"
+},
+{
+"es": "Universidad de Pittsburgh",
+"en": "University of Pittsburgh",
+"links": 58,
+"fund": "1787-"
+},
+{
+"es": "",
+"en": "École européenne supérieure de l'image",
+"links": 3,
+"fund": "1768-"
+},
+{
+"es": "",
+"en": "Francke Foundations",
+"links": 9,
+"fund": "1695-"
+},
+{
+"es": "Universidad de Borgoña",
+"en": "University of Burgundy Europe",
+"links": 26,
+"fund": "1722-"
+},
+{
+"es": "Universidad de Salamanca",
+"en": "University of Salamanca",
+"links": 66,
+"fund": "1218-"
+},
+{
+"es": "Universidad al-Mustansiriya",
+"en": "Al-Mustansiriya University",
+"links": 23,
+"fund": "1227-"
+},
+{
+"es": "Mezquita de Al-Azhar",
+"en": "al-Azhar Mosque",
+"links": 41,
+"fund": "0971-"
+},
+{
+"es": "Universidad de Helmstedt",
+"en": "University of Helmstedt",
+"links": 16,
+"fund": "1576-"
+},
+{
+"es": "Hochschule für Grafik und Buchkunst Leipzig",
+"en": "Academy of Fine Arts Leipzig",
+"links": 8,
+"fund": "1764-"
+},
+{
+"es": "Universidad de Breslavia",
+"en": "University of Wrocław",
+"links": 44,
+"fund": "1702-"
+},
+{
+"es": "Leucorea",
+"en": "University of Wittenberg",
+"links": 10,
+"fund": "1502-"
+},
+{
+"es": "Universidad de Giessen",
+"en": "University of Giessen",
+"links": 34,
+"fund": "1607-"
+},
+{
+"es": "",
+"en": "Herzen University",
+"links": 16,
+"fund": "1797-"
+},
+{
+"es": "Trinity College",
+"en": "Trinity College",
+"links": 48,
+"fund": "1546-"
+},
+{
+"es": "Universidad de Georgetown",
+"en": "Georgetown University",
+"links": 58,
+"fund": "1789-"
+},
+{
+"es": "Academia Francesa en Roma",
+"en": "French Academy in Rome",
+"links": 22,
+"fund": "1666-"
+},
+{
+"es": "Accademia di Belle Arti di Venezia",
+"en": "Accademia di Belle Arti di Venezia",
+"links": 12,
+"fund": "1750-"
+},
+{
+"es": "Universitas Sancti Spiritus",
+"en": "University of Oñati",
+"links": 7,
+"fund": "1545-"
+},
+{
+"es": "Universidad Politécnica de Estambul",
+"en": "Istanbul Technical University",
+"links": 40,
+"fund": "1773-"
+},
+{
+"es": "Universidad de Coímbra",
+"en": "University of Coimbra",
+"links": 57,
+"fund": "1290-"
+},
+{
+"es": "",
+"en": "University of Trnava",
+"links": 6,
+"fund": "1635-"
+},
+{
+"es": "Real y Pontificia Universidad de México",
+"en": "Royal and Pontifical University of Mexico",
+"links": 11,
+"fund": "1551-"
+},
+{
+"es": "Universidad de Basilea",
+"en": "University of Basel",
+"links": 55,
+"fund": "1460-"
+},
+{
+"es": "Universidad de Qarawiyyin",
+"en": "University of al-Qarawiyyin",
+"links": 67,
+"fund": "0859-"
+},
+{
+"es": "Universidad de Valencia",
+"en": "University of Valencia",
+"links": 29,
+"fund": "1499-"
+},
+{
+"es": "",
+"en": "Ōtani University",
+"links": 7,
+"fund": "1665-"
+},
+{
+"es": "Universidad Eötvös Loránd",
+"en": "Eötvös Loránd University",
+"links": 47,
+"fund": "1635-"
+},
+{
+"es": "Academia de Bellas Artes de Núremberg",
+"en": "Academy of Fine Arts, Nuremberg",
+"links": 7,
+"fund": "1662-"
+},
+{
+"es": "Academia de Bellas Artes de Viena",
+"en": "Academy of Fine Arts Vienna",
+"links": 38,
+"fund": "1692-"
+},
+{
+"es": "Academia de Gundeshapur",
+"en": "Academy of Gondishapur",
+"links": 28,
+"fund": "0531-"
+},
+{
+"es": "Academia de Åbo",
+"en": "Royal Academy of Turku",
+"links": 23,
+"fund": "1640-"
+},
+{
+"es": "Universidad de Malta",
+"en": "University of Malta",
+"links": 41,
+"fund": "1769-"
+},
+{
+"es": "Colegio Ghislieri",
+"en": "Ghislieri College",
+"links": 7,
+"fund": "1567-"
+},
+{
+"es": "",
+"en": "Ez-Zitouna University",
+"links": 21,
+"fund": "0737-"
+},
+{
+"es": "",
+"en": "Walkenried Abbey",
+"links": 11,
+"fund": "1129-"
+},
+{
+"es": "",
+"en": "University of Duisburg",
+"links": 3,
+"fund": "1654-"
+},
+{
+"es": "Universidad de Clausthal",
+"en": "Clausthal University of Technology",
+"links": 12,
+"fund": "1775-"
+},
+{
+"es": "Universidad de Ingolstadt",
+"en": "University of Ingolstadt",
+"links": 16,
+"fund": "1472-"
+},
+{
+"es": "Escuela Superior de Bellas Artes de Dresde",
+"en": "Dresden Academy of Fine Arts",
+"links": 16,
+"fund": "1764-"
+},
+{
+"es": "Universitas Istropolitana",
+"en": "Universitas Istropolitana",
+"links": 22,
+"fund": "1400-"
+},
+{
+"es": "Sociedad de las Misiones Extranjeras de París",
+"en": "Paris Foreign Missions Society",
+"links": 23,
+"fund": "1658-"
+},
+{
+"es": "",
+"en": "Sungkyunkwan",
+"links": 14,
+"fund": "0992-"
+},
+{
+"es": "Universidad Rutgers",
+"en": "Rutgers University",
+"links": 53,
+"fund": "1766-"
+},
+{
+"es": "Universidad de Turín",
+"en": "University of Turin",
+"links": 51,
+"fund": "1404-"
+},
+{
+"es": "Christie's",
+"en": "Christie's",
+"links": 43,
+"fund": "1766-"
+},
+{
+"es": "Universidad de Ginebra",
+"en": "University of Geneva",
+"links": 76,
+"fund": "1559-"
+},
+{
+"es": "Estudio General de Palencia",
+"en": "University of Palencia",
+"links": 14,
+"fund": "1212-"
+},
+{
+"es": "Conservatorio Nacional de Artes y Oficios",
+"en": "Conservatoire national des Arts et Métiers",
+"links": 69,
+"fund": "1794-"
+},
+{
+"es": "Universidad de Sassari",
+"en": "University of Sassari",
+"links": 20,
+"fund": "1562-"
+},
+{
+"es": "Universidad de Génova",
+"en": "University of Genoa",
+"links": 32,
+"fund": "1481-"
+},
+{
+"es": "Universidad de Cluj",
+"en": "Babeș-Bolyai University",
+"links": 37,
+"fund": "1776-"
+},
+{
+"es": "Universidad de Caen",
+"en": "University of Caen Normandy",
+"links": 22,
+"fund": "1432-"
+},
+{
+"es": "",
+"en": "",
+"links": 2,
+"fund": "1330-"
+},
+{
+"es": "",
+"en": "",
+"links": 1,
+"fund": "1358-"
+},
+{
+"es": "",
+"en": "",
+"links": 1,
+"fund": "1348-"
+},
+{
+"es": "",
+"en": "",
+"links": 1,
+"fund": "1314-"
+},
+{
+"es": "",
+"en": "",
+"links": 1,
+"fund": "1358-"
+},
+{
+"es": "",
+"en": "",
+"links": 1,
+"fund": "1371-"
+},
+{
+"es": "",
+"en": "",
+"links": 1,
+"fund": "1268-"
+},
+{
+"es": "",
+"en": "",
+"links": 1,
+"fund": "1796-"
+},
+{
+"es": "",
+"en": "",
+"links": 1,
+"fund": "1200-"
+},
+{
+"es": "Universidad de Cahors",
+"en": "",
+"links": 4,
+"fund": "1331-"
+},
+{
+"es": "",
+"en": "",
+"links": 1,
+"fund": "1545-"
+},
+{
+"es": "",
+"en": "",
+"links": 3,
+"fund": "1745-"
+},
+{
+"es": "",
+"en": "",
+"links": 3,
+"fund": "1780-"
+},
+{
+"es": "",
+"en": "",
+"links": 1,
+"fund": "1723-"
+},
+{
+"es": "",
+"en": "",
+"links": 2,
+"fund": "1747-"
+},
+{
+"es": "Colegio Tridentino de Comayagua",
+"en": "",
+"links": 1,
+"fund": "1678-"
+},
+{
+"es": "",
+"en": "",
+"links": 1,
+"fund": "1530-"
+},
+{
+"es": "",
+"en": "",
+"links": 1,
+"fund": "1526-"
+},
+{
+"es": "",
+"en": "",
+"links": 1,
+"fund": "1506-"
+},
+{
+"es": "",
+"en": "",
+"links": 2,
+"fund": "1726-"
+},
+{
+"es": "",
+"en": "",
+"links": 2,
+"fund": "1670-"
+},
+{
+"es": "Instituto Superior de Contabilidad y Administración de Lisboa",
+"en": "",
+"links": 3,
+"fund": "1759-"
+},
+{
+"es": "",
+"en": "",
+"links": 2,
+"fund": "1632-"
+},
+{
+"es": "",
+"en": "",
+"links": 1,
+"fund": "1420-"
+},
+{
+"es": "Universidad Abierta de la Civilización Islámica",
+"en": "",
+"links": 0,
+"fund": "1422-"
+},
+{
+"es": "",
+"en": "",
+"links": 2,
+"fund": "1491-"
+},
+{
+"es": "",
+"en": "",
+"links": 1,
+"fund": "1400-"
+},
+{
+"es": "",
+"en": "",
+"links": 1,
+"fund": "1429-"
+},
+{
+"es": "",
+"en": "",
+"links": 1,
+"fund": "1426-"
+},
+{
+"es": "",
+"en": "",
+"links": 1,
+"fund": "1799-"
+},
+{
+"es": "",
+"en": "",
+"links": 3,
+"fund": "1775-"
+},
+{
+"es": "",
+"en": "",
+"links": 2,
+"fund": "1557-"
+},
+{
+"es": "",
+"en": "",
+"links": 1,
+"fund": "1428-"
+},
+{
+"es": "",
+"en": "",
+"links": 1,
+"fund": "1789-"
+},
+{
+"es": "",
+"en": "",
+"links": 1,
+"fund": "1681-"
+},
+{
+"es": "",
+"en": "",
+"links": 2,
+"fund": "1559-"
+},
+{
+"es": "",
+"en": "",
+"links": 1,
+"fund": "1477-"
+},
+{
+"es": "",
+"en": "",
+"links": 1,
+"fund": "1792-"
+},
+{
+"es": "",
+"en": "",
+"links": 2,
+"fund": "1562-"
+},
+{
+"es": "Estudio General de Medicina y Artes",
+"en": "",
+"links": 1,
+"fund": "1402-"
+},
+{
+"es": "",
+"en": "",
+"links": 1,
+"fund": "1428-"
+},
+{
+"es": "",
+"en": "",
+"links": 1,
+"fund": "1525-"
+},
+{
+"es": "",
+"en": "",
+"links": 1,
+"fund": "1525-"
+},
+{
+"es": "",
+"en": "",
+"links": 1,
+"fund": "1396-"
+},
+{
+"es": "Real Seminario de Minería",
+"en": "",
+"links": 2,
+"fund": "1783-"
+},
+{
+"es": "",
+"en": "",
+"links": 1,
+"fund": "1648-"
+},
+{
+"es": "",
+"en": "",
+"links": 1,
+"fund": "1573-"
+},
+{
+"es": "",
+"en": "",
+"links": 0,
+"fund": "1573-"
+},
+{
+"es": "",
+"en": "",
+"links": 1,
+"fund": "1786-"
+},
+{
+"es": "",
+"en": "",
+"links": 1,
+"fund": "1617-"
+},
+{
+"es": "",
+"en": "",
+"links": 1,
+"fund": "1755-"
+},
+{
+"es": "",
+"en": "",
+"links": 1,
+"fund": "1409-"
+},
+{
+"es": "",
+"en": "",
+"links": 3,
+"fund": "1776-"
+},
+{
+"es": "",
+"en": "",
+"links": 1,
+"fund": "1333-"
+},
+{
+"es": "",
+"en": "",
+"links": 0,
+"fund": "1787-"
+},
+{
+"es": "",
+"en": "",
+"links": 1,
+"fund": "1745-"
+},
+{
+"es": "",
+"en": "",
+"links": 0,
+"fund": "1774-"
+},
+{
+"es": "Colegio de Santa María de Jesús",
+"en": "",
+"links": 1,
+"fund": "1505-"
+},
+{
+"es": "",
+"en": "",
+"links": 1,
+"fund": "1432-"
+},
+{
+"es": "",
+"en": "",
+"links": 1,
+"fund": "1760-"
+},
+{
+"es": "",
+"en": "",
+"links": 1,
+"fund": "1567-"
+},
+{
+"es": "",
+"en": "",
+"links": 1,
+"fund": "1779-"
+},
+{
+"es": "",
+"en": "",
+"links": 0,
+"fund": "1710-"
+},
+{
+"es": "",
+"en": "",
+"links": 0,
+"fund": "1786-"
+},
+{
+"es": "",
+"en": "",
+"links": 0,
+"fund": "1137-"
+}
+]

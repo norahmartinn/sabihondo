@@ -244,6 +244,17 @@ PREGUNTAS = [
     ("Nombra una estación de esquí de España", "esqui"),
     ("Nombra una palabra que empiece por Q", "palabras_q"),
     ("Nombra una ciudad de Alemania", "alemania"),
+    ("Nombra una marca de moda fundada antes del año 2000", "moda_pre2000"),
+    ("Nombra un libro que haya vendido más de un millón de ejemplares", "libros_millon"),
+    ("Nombra un país que tenga frontera con más de 3 países", "fronteras_4"),
+    ("Nombra un álbum que haya ganado un Grammy", "grammy_albumes"),
+    ("Nombra un libro que se haya adaptado al cine", "libros_cine"),
+    ("Nombra una marca de lujo", "marcas_lujo"),
+    ("Nombra una universidad fundada antes de 1800", "universidades_1800"),
+    ("Nombra un rey o una reina de España", "reyes_espana"),
+    ("Nombra un país con menos de 500.000 habitantes", "paises_500k"),
+    ("Nombra una enfermedad genética", "enfermedades_geneticas"),
+    ("Nombra un alimento que tenga un color diferente por dentro y por fuera", "alimentos_color"),
 ]
 
 # Desde el 31 de octubre de 2026 los niveles son más generosos: la gente veía casi imposible llegar a Muy raro y Sabihondo.

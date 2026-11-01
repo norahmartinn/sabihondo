@@ -781,3 +781,218 @@ MANO.update({
     "Rasos de Peguera, Virós-Vallferrera, Linza, Abodi=Abodi-Irati, La Mogorrita",
 },
 })
+
+# Las 11 del final (sábado 7 y domingo 8). «Países sin salida al mar» ya salió: se cambia por reyes y reinas de España.
+PREGUNTAS.update({
+    "moda_pre2000": "Nombra una marca de moda fundada antes del año 2000",
+    "libros_millon": "Nombra un libro que haya vendido más de un millón de ejemplares",
+    "fronteras_4": "Nombra un país que tenga frontera con más de 3 países",
+    "grammy_albumes": "Nombra un álbum que haya ganado un Grammy",
+    "libros_cine": "Nombra un libro que se haya adaptado al cine",
+    "marcas_lujo": "Nombra una marca de lujo",
+    "universidades_1800": "Nombra una universidad fundada antes de 1800",
+    "reyes_espana": "Nombra un rey o una reina de España",
+    "paises_500k": "Nombra un país con menos de 500.000 habitantes",
+    "enfermedades_geneticas": "Nombra una enfermedad genética",
+    "alimentos_color": "Nombra un alimento que tenga un color diferente por dentro y por fuera",
+})
+MANO.update({
+# fronteras terrestres (contando enclaves y territorios de ultramar, como Gibraltar, Ceuta y Melilla o la Guayana Francesa)
+"fronteras_4": {
+ 1: "Francia, Alemania, España, Rusia, China, Brasil, Italia, Austria, Suiza, Polonia, India, Argentina, Bolivia, Perú, Colombia, Turquía",
+ 2: "Hungría, Ucrania, Serbia, Croacia, República Checa=Chequia, Eslovaquia, Eslovenia, Bélgica, Grecia, Bulgaria, Rumanía=Rumania, Bielorrusia, "
+    "Letonia, Lituania, Montenegro, Macedonia del Norte, Albania, Kosovo, Irán, Irak, Afganistán, Pakistán, Arabia Saudí=Arabia Saudita, Siria, Jordania, "
+    "Israel, Egipto, Argelia, Libia, Sudán, Kenia, Tanzania, Sudáfrica, Guatemala, Tailandia, Kazajistán, Uzbekistán, Laos, Birmania=Myanmar",
+ 3: "República Democrática del Congo=Congo, República del Congo, Zambia, Mozambique, Angola, Namibia, Botsuana, Zimbabue, Malí, Níger, Nigeria, Chad, "
+    "Camerún, República Centroafricana, Etiopía, Uganda, Ruanda, Sudán del Sur, Burkina Faso, Costa de Marfil, Guinea, Senegal, Benín, Armenia, Georgia, "
+    "Azerbaiyán, Kirguistán, Tayikistán, Turkmenistán",
+},
+"paises_500k": {
+ 1: "Ciudad del Vaticano=Vaticano, Mónaco, Andorra, San Marino, Liechtenstein, Islandia",
+ 2: "Tuvalu, Nauru, Palaos=Palau, Islas Marshall, Bahamas, Barbados, Belice, Brunéi=Brunei, Seychelles, Granada, Santa Lucía, Dominica, Samoa, Tonga, "
+    "Vanuatu, Kiribati, Antigua y Barbuda",
+ 3: "San Cristóbal y Nieves, San Vicente y las Granadinas, Micronesia=Estados Federados de Micronesia, Santo Tomé y Príncipe",
+},
+"reyes_espana": {
+ 1: "Felipe VI, Juan Carlos I, Letizia=la reina Letizia=Letizia Ortiz, Sofía=la reina Sofía, Isabel la Católica=Isabel I, Fernando el Católico=Fernando II, "
+    "los Reyes Católicos=Reyes Católicos, Carlos I=Carlos V, Felipe II, Juana la Loca=Juana I, Alfonso XIII, Isabel II",
+ 2: "Felipe III, Felipe IV, Felipe V, Carlos II=el Hechizado, Carlos III, Carlos IV, Fernando VII, Fernando VI, Alfonso XII, Amadeo I=Amadeo de Saboya, "
+    "José I=José Bonaparte=Pepe Botella, Felipe I=Felipe el Hermoso, Luis I, Leonor de Borbón=Leonor",
+ 3: "Isabel de Portugal, María I de Inglaterra=María Tudor, Isabel de Valois, Ana de Austria, Margarita de Austria, Isabel de Borbón, Mariana de Austria, "
+    "María Luisa de Orleans, Mariana de Neoburgo, María Luisa Gabriela de Saboya, Isabel de Farnesio, Luisa Isabel de Orleans, Bárbara de Braganza, "
+    "María Amalia de Sajonia, María Luisa de Parma, María Antonia de Nápoles, María Isabel de Braganza, María Josefa Amalia de Sajonia, "
+    "María Cristina de Borbón-Dos Sicilias, Mercedes de Orleans, María Cristina de Habsburgo, Victoria Eugenia de Battenberg=Victoria Eugenia, "
+    "María Victoria dal Pozzo, Julia Clary, Germana de Foix",
+},
+"alimentos_color": {
+ 1: "sandía, kiwi, aguacate, plátano=banana, naranja, mandarina, coco, pitaya=fruta del dragón, granada, melón, berenjena, patata, cebolla morada, "
+    "remolacha, mango, manzana, pera, huevo, pistacho, almendra, castaña, nuez, cacahuete, limón, lima, maracuyá=fruta de la pasión, piña, papaya",
+ 2: "boniato=batata, calabaza, nabo, rábano, chirivía, zanahoria morada, lichi, rambután, mangostán, chirimoya, guanábana, higo, breva, ciruela, "
+    "melocotón=durazno, albaricoque, nectarina, cereza, uva, pomelo=pomelo rosa, naranja sanguina, tomate, pepino, calabacín, alcachofa, cebolla, ajo, "
+    "palta, níspero, caqui, membrillo, granadilla, tamarillo, feijoa, carambola, kiwano, pepino africano, mamey, zapote, durián, jaca=yaca, longan, "
+    "salchicha, chorizo, morcilla, croqueta, empanadilla, bombón, huevo Kinder, Ferrero Rocher, Kinder Bueno, Oreo, Huesitos, pan, baguete, bollo, "
+    "magdalena, croissant, tarta Red Velvet, sushi=maki, rollito de primavera, nugget, filete, solomillo, chuletón, alubia, garbanzo, haba, lenteja, "
+    "kiwi amarillo, aceituna, dátil, uva pasa",
+ 3: "rábano sandía, nabo morado, colinabo, salsifí, ñame, malanga, taro, yuca, jícama, oca, chayote, kohlrabi, achicoria, endibia, radicchio, "
+    "patata violeta, batata morada, ube, maíz morado, frambuesa amarilla, arándano, grosella, pitahaya amarilla, pitahaya roja, salak=fruta serpiente, "
+    "akebia, babaco, físalis, marañón=anacardo, nuez de macadamia, nuez de Brasil, avellana, piñón, bellota, cacao, haba de cacao, café en grano, "
+    "huevo de pato, huevo de codorniz, huevo centenario, salmón, atún, langostino, ostra, mejillón, vieira, erizo de mar, sepia, calamar en su tinta, "
+    "queso Brie=Camembert, queso con corteza, Babybel, queso de bola=Edam, queso azul, trufa, champiñón, seta, berenjena blanca, limón caviar",
+},
+"marcas_lujo": {
+ 1: "Gucci, Louis Vuitton=LV, Chanel, Prada, Dior=Christian Dior, Versace, Hermès=Hermes, Armani=Giorgio Armani, Dolce & Gabbana=Dolce Gabbana=D&G, "
+    "Rolex, Cartier, Balenciaga, Yves Saint Laurent=YSL=Saint Laurent, Burberry, Ferrari, Lamborghini, Rolls-Royce=Rolls Royce, Tiffany=Tiffany & Co., "
+    "Moschino, Valentino, Givenchy, Fendi, Loewe, Carolina Herrera, Michael Kors, Ralph Lauren, Calvin Klein, Tommy Hilfiger, Hugo Boss, Bulgari=Bvlgari",
+ 2: "Bentley, Maserati, Porsche, Aston Martin, Bugatti, McLaren, Omega, Patek Philippe, Audemars Piguet, Tag Heuer, Breitling, Hublot, Swarovski, "
+    "Montblanc, Miu Miu, Celine=Céline, Bottega Veneta, Alexander McQueen, Jimmy Choo, Christian Louboutin=Louboutin, Manolo Blahnik, Salvatore Ferragamo=Ferragamo, "
+    "Tod's, Max Mara, Missoni, Emilio Pucci=Pucci, Roberto Cavalli, Chloé, Lanvin, Balmain, Kenzo, Jean Paul Gaultier, Off-White, Moncler, Stella McCartney, "
+    "Vivienne Westwood, Marc Jacobs, Tom Ford, Diesel?, Goyard, Delvaux, Van Cleef & Arpels, Chopard, Piaget, Harry Winston, Graff, Boucheron, Chaumet, "
+    "Mikimoto, Damiani, Pomellato, Rabat, Suárez, Tous?, Dom Pérignon, Moët & Chandon=Moët, Veuve Clicquot, Krug, Louis Roederer=Cristal, Hennessy, "
+    "Rémy Martin, Johnnie Walker Blue, Macallan, Ritz=Ritz-Carlton, Four Seasons, Mandarin Oriental, Aman, Bulgari Hotels, Harrods, Lladró, Baccarat, "
+    "Christofle, Bang & Olufsen, Vertu, Riva, Sunseeker, Azimut, Gulfstream, Bombardier, Rimowa, Smythson, Hermès Birkin=Birkin, Kelly",
+ 3: "Brunello Cucinelli, Loro Piana, Zegna=Ermenegildo Zegna, Kiton, Brioni, Canali, Corneliani, Isaia, Stefano Ricci, Berluti, John Lobb, Church's, "
+    "Santoni, Bally, Valextra, Moynat, Mark Cross, The Row, Khaite, Proenza Schouler, Oscar de la Renta, Carolina Herrera New York, Ralph Lauren Purple Label, "
+    "Elie Saab, Zuhair Murad, Giambattista Valli, Schiaparelli, Jacquemus, Alaïa, Rick Owens, Maison Margiela, Comme des Garçons, Yohji Yamamoto, "
+    "Issey Miyake, Sacai, Undercover, Dries Van Noten, Ann Demeulemeester, Acne Studios, Totême, Ganni, Mulberry, Asprey, Garrard, Graff Diamonds, "
+    "De Beers, Messika, Repossi, Buccellati, David Yurman, Fabergé, Vacheron Constantin, A. Lange & Söhne, Jaeger-LeCoultre, IWC, Panerai, Richard Mille, "
+    "Breguet, Blancpain, Ulysse Nardin, Zenith, Tudor, Longines?, Pagani, Koenigsegg, Rimac, Maybach, Bentley Mulliner, Lotus, Alpine?, Morgan, "
+    "Lalique, Puiforcat, Ercuis, Bernardaud, Frette, Pratesi, Fornasetti, Poltrona Frau, Minotti, B&B Italia, Cassina, Roche Bobois, Ligne Roset",
+},
+"moda_pre2000": {
+ 1: "Zara, Mango, Levi's, Nike, Adidas, Chanel, Gucci, Louis Vuitton, Prada, Dior, Versace, Armani, Dolce & Gabbana, Calvin Klein, Tommy Hilfiger, "
+    "Ralph Lauren, Lacoste, H&M, Benetton=United Colors of Benetton, Burberry, Hermès, Pull&Bear, Bershka, Massimo Dutti, Stradivarius, Desigual, El Corte Inglés, "
+    "Puma, Reebok, Converse, Vans, Diesel, Guess, Hugo Boss, Carolina Herrera, Loewe, Balenciaga, Adolfo Domínguez, Springfield, Cortefiel, Women'secret, "
+    "Oysho, Pepe Jeans, Lee, Wrangler, Gap, Fila, Kappa, Champion, The North Face, Timberland, Dr. Martens, Crocs?",
+ 2: "Yves Saint Laurent=Saint Laurent, Givenchy, Valentino, Fendi, Moschino, Kenzo, Jean Paul Gaultier, Chloé, Lanvin, Balmain, Céline, Miu Miu, Marc Jacobs, "
+    "Donna Karan=DKNY, Michael Kors, Tommy Jeans, Polo Ralph Lauren, Fred Perry, Ben Sherman, Kappa, Ellesse, Lotto, Umbro, Le Coq Sportif, Asics, "
+    "Mizuno, New Balance, Kelme, Joma, Camper, Pikolinos, Mustang, Panama Jack, Pertegaz, Pedro del Hierro, Purificación García, Roberto Verino, Agatha Ruiz de la Prada, "
+    "Sybilla, Custo Barcelona=Custo, Victorio & Lucchino, Jesús del Pozo, Manolo Blahnik, Pronovias, Rosa Clará, Tous, Uterqüe? , Bimba y Lola?, Blanco, "
+    "Lefties, Primark, C&A, Esprit, Mexx, Promod, Etam, Naf Naf, Kookaï, Morgan, Celio, Jules, Lacoste, Quiksilver, Billabong, Rip Curl, O'Neill, "
+    "Element, DC Shoes, Etnies, Stüssy, Supreme, Carhartt, Dickies, Columbia, Patagonia, Helly Hansen, Napapijri, Moncler, Stone Island, CP Company, "
+    "Paul Smith, Vivienne Westwood, Alexander McQueen, John Galliano, Stella McCartney? , Jil Sander, Helmut Lang, Comme des Garçons, Yohji Yamamoto, "
+    "Issey Miyake, Kenzo, Max Mara, Missoni, Emilio Pucci, Roberto Cavalli, Ferragamo, Tod's, Bottega Veneta, Mulberry, Coach, Kate Spade, J.Crew, "
+    "Banana Republic, Abercrombie & Fitch, Hollister?, American Eagle, Old Navy, Forever 21, Topshop, River Island, Next, Marks & Spencer, Uniqlo, "
+    "Muji, Superdry?, G-Star, Replay, Energie, Miss Sixty, Killah, Fornarina, Kickers, Buffalo, Skechers, Clarks, Geox, Ecco, UGG, Birkenstock, "
+    "Havaianas, Victoria's Secret, Intimissimi, Calzedonia, Tezenis, Triumph, Wonderbra, Speedo, Arena, Benetton Sisley=Sisley, Lois, El Ganso?, "
+    "Pedro Gómez?, Bimba?, Hackett, Gant, Nautica, Henri Lloyd, Sebago, Barbour, Burberrys, Aquascutum, Austin Reed, Brooks Brothers",
+ 3: "Balenciaga (1917), Loewe (1846), Hermès (1837), Louis Vuitton (1854), Burberry (1856), Moynat, Goyard, Delvaux, Bally, Berluti, Church's, John Lobb, "
+    "Lanvin (1889), Schiaparelli, Madame Grès, Pierre Cardin, Courrèges, Paco Rabanne, Ungaro, Thierry Mugler=Mugler, Claude Montana, Azzedine Alaïa=Alaïa, "
+    "Christian Lacroix, Sonia Rykiel, Agnès b., Isabel Marant, A.P.C., Zadig & Voltaire, Comptoir des Cotonniers, Sandro, Maje, Ba&sh?, The Kooples?, "
+    "Jacquemus?, Gianfranco Ferré, Krizia, Fiorucci, Trussardi, Byblos, Iceberg, Blumarine, Marni, Etro, Brioni, Zegna, Canali, Kiton, Loro Piana, "
+    "Brunello Cucinelli, Furla, Coccinelle, Liu Jo, Patrizia Pepe, Pinko, Sportmax, Weekend Max Mara, Marina Rinaldi, Escada, Jil Sander, Joop!, Strenesse, "
+    "Wolford, Marc O'Polo, Tom Tailor, s.Oliver, Esprit, Mustang Jeans, Closed, Lacoste, Pierre Balmain, Ted Lapidus, Nina Ricci, Cacharel, Chevignon, "
+    "Naf Naf, Kookaï, Pimkie, Camaïeu, Jennyfer, Bonobo?, Devernois, Damart, Tissaia?, Antonio Miró, Toni Miró, Armand Basi, Lydia Delgado, Javier Larrainzar, "
+    "Ángel Schlesser, Ágatha Ruiz de la Prada, Francis Montesinos, Elio Berhanyer, Pertegaz, Manuel Piña, Antonio Alvarado, Juanjo Oliva, Hannibal Laguna, "
+    "Caramelo, Bóboli, Neck & Neck?, Tuc Tuc?, Chicco, Tommy Bahama, Nautica, Perry Ellis, Anne Klein, Liz Claiborne, Halston, Bill Blass, Oscar de la Renta, "
+    "Carolina Herrera New York, Vera Wang, Badgley Mischka, Diane von Furstenberg, Betsey Johnson, Anna Sui, Todd Oldham, Isaac Mizrahi, Norma Kamali",
+},
+"enfermedades_geneticas": {
+ 1: "síndrome de Down=Down=trisomía 21, fibrosis quística, hemofilia, daltonismo, ELA?, distrofia muscular=distrofia muscular de Duchenne=Duchenne, "
+    "anemia falciforme=drepanocitosis, enfermedad de Huntington=Huntington=corea de Huntington, talasemia, síndrome de Turner=Turner, síndrome de Klinefelter=Klinefelter, "
+    "albinismo, acondroplasia=enanismo, síndrome de Marfan=Marfan, fenilcetonuria, síndrome X frágil=X frágil, atrofia muscular espinal=AME",
+ 2: "síndrome de Edwards=trisomía 18, síndrome de Patau=trisomía 13, síndrome de Angelman=Angelman, síndrome de Prader-Willi=Prader-Willi, síndrome de Williams, "
+    "síndrome de Rett=Rett, enfermedad de Tay-Sachs=Tay-Sachs, enfermedad de Gaucher=Gaucher, enfermedad de Wilson, hemocromatosis, osteogénesis imperfecta=huesos de cristal, "
+    "neurofibromatosis, esclerosis tuberosa, poliquistosis renal=riñón poliquístico, síndrome de Ehlers-Danlos=Ehlers-Danlos, progeria=síndrome de Hutchinson-Gilford, "
+    "ataxia de Friedreich=Friedreich, distrofia miotónica=enfermedad de Steinert, hipercolesterolemia familiar, síndrome de Lynch, BRCA=cáncer de mama hereditario, "
+    "enfermedad de Fabry=Fabry, enfermedad de Pompe=Pompe, síndrome de DiGeorge=síndrome 22q11, síndrome de cri du chat=maullido de gato, "
+    "piel de mariposa=epidermólisis bullosa, ictiosis, xeroderma pigmentoso, retinosis pigmentaria, acromatopsia, deficiencia de G6PD=favismo, "
+    "porfiria, hemofilia A, hemofilia B, enfermedad de von Willebrand=von Willebrand, déficit de alfa-1 antitripsina, galactosemia, enfermedad de la orina de jarabe de arce, "
+    "mucopolisacaridosis=síndrome de Hunter=síndrome de Hurler=síndrome de Sanfilippo, distrofia muscular de Becker, síndrome de Noonan, síndrome de Usher, "
+    "síndrome del QT largo, miocardiopatía hipertrófica, displasia ectodérmica, polidactilia, sindactilia, labio leporino?, síndrome de Treacher Collins, "
+    "síndrome de Apert, síndrome de Crouzon, síndrome de Wolf-Hirschhorn, síndrome de Smith-Magenis, síndrome de Sotos, síndrome de Pallister-Killian",
+ 3: "enfermedad de Charcot-Marie-Tooth=Charcot-Marie-Tooth, ataxia telangiectasia, síndrome de Bloom, anemia de Fanconi, síndrome de Li-Fraumeni, "
+    "poliposis adenomatosa familiar, neoplasia endocrina múltiple, enfermedad de von Hippel-Lindau, síndrome de Peutz-Jeghers, síndrome de Cowden, "
+    "síndrome de Alport, cistinosis, cistinuria, homocistinuria, tirosinemia, alcaptonuria, enfermedad de Niemann-Pick=Niemann-Pick, enfermedad de Krabbe, "
+    "leucodistrofia metacromática, adrenoleucodistrofia, enfermedad de Canavan, enfermedad de Alexander, enfermedad de Pelizaeus-Merzbacher, "
+    "síndrome de Lesch-Nyhan, síndrome de Zellweger, síndrome de Menkes, síndrome de Wiskott-Aldrich, inmunodeficiencia combinada grave=niño burbuja, "
+    "enfermedad granulomatosa crónica, síndrome de Bartter, síndrome de Gitelman, síndrome de Liddle, hiperplasia suprarrenal congénita, síndrome de Kallmann, "
+    "síndrome de insensibilidad a los andrógenos, síndrome de Morris, síndrome de Waardenburg, síndrome de Stickler, síndrome de Holt-Oram, "
+    "síndrome de Rubinstein-Taybi, síndrome de Cornelia de Lange, síndrome de Kabuki, síndrome de Coffin-Lowry, síndrome de Beckwith-Wiedemann, "
+    "síndrome de Silver-Russell, síndrome de Bardet-Biedl, síndrome de Joubert, síndrome de Meckel, amaurosis congénita de Leber, neuropatía óptica de Leber, "
+    "MELAS, MERRF, síndrome de Leigh, síndrome de Kearns-Sayre, fiebre mediterránea familiar, angioedema hereditario, telangiectasia hemorrágica hereditaria, "
+    "esferocitosis hereditaria, eliptocitosis hereditaria, síndrome de Gilbert, síndrome de Crigler-Najjar, síndrome de Dubin-Johnson, déficit de MCAD, "
+    "síndrome de Smith-Lemli-Opitz, displasia tanatofórica, osteopetrosis, fibrodisplasia osificante progresiva=hombre de piedra, hipofosfatasia, "
+    "displasia campomélica, síndrome de Jacobsen, síndrome de Jacob=XYY, síndrome triple X=trisomía X, síndrome de Wolfram, síndrome de Alström",
+},
+"libros_millon": {
+ 1: "Don Quijote=Don Quijote de la Mancha=El Quijote, Harry Potter=Harry Potter y la piedra filosofal, El Principito, El Señor de los Anillos, "
+    "El hobbit, El código Da Vinci, Cien años de soledad, Los juegos del hambre, Crepúsculo, Cincuenta sombras de Grey, El alquimista, La Biblia, "
+    "El diario de Ana Frank=Diario de Ana Frank, 1984, Orgullo y prejuicio, Alicia en el país de las maravillas, Las crónicas de Narnia=El león la bruja y el armario, "
+    "El código Da Vinci, Matar a un ruiseñor, El gran Gatsby, El guardián entre el centeno, Lo que el viento se llevó, La sombra del viento, "
+    "Patria, Los pilares de la Tierra, Bajo la misma estrella, Diez negritos=Y no quedó ninguno, Ángeles y demonios, Mujercitas, Charlie y la fábrica de chocolate, "
+    "El nombre de la rosa, El perfume, La catedral del mar, Juego de tronos=Canción de hielo y fuego, Diario de Greg, Gerónimo Stilton, Manolito Gafotas, "
+    "Los cinco, El Señor de las Moscas, Rebelión en la granja, Romeo y Julieta, Drácula, Frankenstein, Hábitos atómicos, El poder del ahora",
+ 2: "Harry Potter y la cámara secreta, Harry Potter y el prisionero de Azkaban, Harry Potter y el cáliz de fuego, Harry Potter y la Orden del Fénix, "
+    "Harry Potter y el misterio del príncipe, Harry Potter y las reliquias de la Muerte, Luna nueva, Eclipse, Amanecer, En llamas, Sinsajo, "
+    "Cincuenta sombras más oscuras, Cincuenta sombras liberadas, Inferno, El símbolo perdido, Origen, La cabaña del tío Tom, Moby Dick, Guerra y paz, "
+    "Ana Karénina, Crimen y castigo, Los miserables, El conde de Montecristo, Los tres mosqueteros, Veinte mil leguas de viaje submarino, "
+    "La vuelta al mundo en 80 días, Robinson Crusoe, Los viajes de Gulliver, La isla del tesoro, El retrato de Dorian Gray, Cumbres borrascosas, "
+    "Jane Eyre, Sentido y sensibilidad, Emma, Madame Bovary, Rayuela, La casa de los espíritus, Como agua para chocolate, Pedro Páramo, El amor en los tiempos del cólera, "
+    "Crónica de una muerte anunciada, Veinte poemas de amor, Ficciones, La ciudad y los perros, El túnel, Marianela, La Regenta, La colmena, "
+    "Nada, La familia de Pascual Duarte, Platero y yo, Niebla, La casa de Bernarda Alba, Bodas de sangre, Yerma, Romancero gitano, El Lazarillo de Tormes=Lazarillo, "
+    "La Celestina, Fortunata y Jacinta, Fahrenheit 451, Un mundo feliz, El viejo y el mar, Las uvas de la ira, De ratones y hombres, Lolita, "
+    "Cien años, Ensayo sobre la ceguera, La metamorfosis, El proceso, Siddhartha, El lobo estepario, El mundo de Sofía, Tokio blues=Norwegian Wood, "
+    "Kafka en la orilla, 1Q84, Los hombres que no amaban a las mujeres=Millennium, La chica del tren, Perdida, El psicoanalista, La verdad sobre el caso Harry Quebert, "
+    "Reina roja, El niño con el pijama de rayas, La ladrona de libros, Cometas en el cielo, Mil soles espléndidos, La vida de Pi, Las cincuenta sombras, "
+    "Yo antes de ti, Bajo la misma estrella, Buscando a Alaska, Wonder=La lección de August, El código, Divergente, Maze Runner=Correr o morir, "
+    "Percy Jackson, Eragon, Memorias de Idhún, Las crónicas de Spiderwick, Una serie de catastróficas desdichas, Matilda, Las brujas, Charlie, "
+    "El Principito, El jardín secreto, Heidi, Pippi Calzaslargas, Pinocho, Peter Pan, El mago de Oz, Mary Poppins, Winnie the Pooh, Dónde viven los monstruos, "
+    "La oruga muy hambrienta, El Grúfalo, Elmer, Donde está Wally=¿Dónde está Wally?, Astérix, Tintín, Mafalda, Mortadelo y Filemón, "
+    "Padre rico padre pobre, Cómo ganar amigos e influir sobre las personas, Los siete hábitos de la gente altamente efectiva, ¿Quién se ha llevado mi queso?, "
+    "El monje que vendió su Ferrari, Sapiens, El arte de la guerra, El secreto, Piense y hágase rico, La dieta Dukan, Come reza ama, Los cuatro acuerdos, "
+    "El caballero de la armadura oxidada, Juan Salvador Gaviota, Mi planta de naranja lima, El diario de Bridget Jones, Memorias de una geisha, "
+    "El clan del oso cavernario, Shogun, El padrino, Tiburón, It, El resplandor, Carrie, Misery, Cementerio de animales, El silencio de los corderos, "
+    "Parque Jurásico, El cuento de la criada, Dune, Fundación, La guía del autoestopista galáctico, Ready Player One, La carretera, Los renglones torcidos de Dios",
+},
+})
+MANO.update({
+"grammy_albumes": {   # «Álbum del año» completo (1959-2025) y los más conocidos de otras categorías; el resto sale de Wikidata
+ 1: "Thriller, 21, 1989, Folklore, Midnights, Sgt. Pepper's Lonely Hearts Club Band=Sgt. Pepper's, Rumours, Back to Black, The Fame, Lemonade, "
+    "Un verano sin ti, Motomami, El mal querer, Future Nostalgia, Sour, When We All Fall Asleep Where Do We Go?=When We All Fall Asleep, Random Access Memories, "
+    "25, Fearless, Harry's House, Cowboy Carter, 24K Magic, Renaissance, Divide=÷",
+ 2: "The Music from Peter Gunn, Come Dance with Me!, The Button-Down Mind of Bob Newhart, Judy at Carnegie Hall, The First Family, The Barbra Streisand Album, "
+    "Getz/Gilberto, September of My Years, A Man and His Music, By the Time I Get to Phoenix, Blood Sweat & Tears, Bridge over Troubled Water, Tapestry, "
+    "The Concert for Bangladesh, Innervisions, Fulfillingness' First Finale, Still Crazy After All These Years, Songs in the Key of Life, Saturday Night Fever, "
+    "52nd Street, Christopher Cross, Double Fantasy, Toto IV, Can't Slow Down, No Jacket Required, Graceland, The Joshua Tree, Faith, Nick of Time, "
+    "Back on the Block, Unforgettable... with Love, Unplugged, The Bodyguard, MTV Unplugged, Jagged Little Pill, Falling into You, Time Out of Mind, "
+    "The Miseducation of Lauryn Hill, Supernatural, Two Against Nature, O Brother Where Art Thou?, Come Away with Me, Speakerboxxx/The Love Below, "
+    "Genius Loves Company, How to Dismantle an Atomic Bomb, Taking the Long Way, River: The Joni Letters, Raising Sand, The Suburbs, Babel, Morning Phase, "
+    "Golden Hour, We Are, To Pimp a Butterfly, DAMN., The Marshall Mathers LP, The Eminem Show, Recovery, The Slim Shady LP, Igor, Call Me If You Get Lost, "
+    "Mr. Morale & the Big Steppers, Take Care, The College Dropout, Late Registration, Graduation, My Beautiful Dark Twisted Fantasy, Sweetener, "
+    "Confessions on a Dance Floor, Ray of Light, American Idiot, 21st Century Breakdown, Viva la Vida, Elephant, Kid A, OK Computer, In Rainbows, "
+    "Brothers, Wasting Light, Drones, Blackstar, Fetch the Bolt Cutters, Fijación oral vol. 1, El tren de los momentos, No es lo mismo, Vuelve, "
+    "La vida... es un ratico, Amar es combatir, Los de atrás vienen conmigo, Mi tierra, Segundo romance, Stadium Arcadium, A Rush of Blood to the Head",
+},
+"universidades_1800": {
+ 1: "Universidad de Salamanca=Salamanca, Universidad de Oxford=Oxford, Universidad de Cambridge=Cambridge, Universidad de Harvard=Harvard, "
+    "Universidad de Bolonia=Bolonia, la Sorbona=Sorbona=Universidad de París, Universidad Complutense de Madrid=Complutense, Universidad de Alcalá=Alcalá, Universidad de Yale=Yale",
+ 2: "Universidad de Valladolid, Universidad de Santiago de Compostela, Universidad de Sevilla, Universidad de Valencia, Universidad de Granada, "
+    "Universidad de Barcelona, Universidad de Zaragoza, Universidad de Oviedo, Universidad de Murcia, Universidad de Coímbra=Coímbra, Universidad de Heidelberg=Heidelberg, "
+    "Universidad de Princeton=Princeton, Universidad de Columbia=Columbia, Universidad de Pensilvania, Universidad Brown, Universidad de Padua=Padua, "
+    "Universidad de Viena, Universidad Carolina=Universidad de Praga, Universidad de Leiden, Universidad de Upsala, Universidad de Lovaina, "
+    "Universidad de Montpellier, Universidad de Toulouse, Universidad de Edimburgo, Universidad de Glasgow, Universidad de St Andrews, Trinity College Dublin, "
+    "Universidad Jagellónica=Universidad de Cracovia, Universidad de Coimbra, Universidad de Lisboa, Universidad de Évora, Universidad de San Marcos=Universidad Nacional Mayor de San Marcos, "
+    "Universidad de Santo Tomás, Universidad Nacional Autónoma de México=UNAM, Universidad de Córdoba (Argentina), Universidad de Chile? , Universidad de La Habana, "
+    "Universidad de Al Qarawiyyin, Universidad de Al-Azhar, Universidad de Nápoles Federico II, Universidad de Siena, Universidad de Pisa, Universidad La Sapienza, "
+    "Universidad de Pavía, Universidad de Perugia, Universidad de Ferrara, Universidad de Turín, Universidad de Génova, Universidad de Moscú=Universidad Lomonósov, "
+    "Universidad de San Petersburgo, Universidad de Gotinga, Universidad de Leipzig, Universidad de Jena, Universidad de Tubinga, Universidad de Friburgo, "
+    "Universidad de Basilea, Universidad de Copenhague, Universidad de Helsinki, Universidad de Tartu, Universidad de Vilna, Universidad de Ámsterdam, "
+    "Universidad de Utrecht, Universidad de Groninga, College of William & Mary, Universidad Rutgers, Dartmouth College, Universidad de Georgia, Universidad de Tennessee",
+},
+"libros_cine": {
+ 1: "Harry Potter, El Señor de los Anillos, Los juegos del hambre, Crepúsculo, El Principito, Don Quijote, Orgullo y prejuicio, El código Da Vinci, "
+    "Cincuenta sombras de Grey, El gran Gatsby, Mujercitas, Matar a un ruiseñor, El padrino, Drácula, Frankenstein, Alicia en el país de las maravillas, "
+    "Las crónicas de Narnia, Charlie y la fábrica de chocolate, Matilda, El resplandor, It, Bajo la misma estrella, Lo que el viento se llevó, "
+    "Los miserables, Romeo y Julieta, El hobbit, Jurassic Park=Parque Jurásico, Forrest Gump, El silencio de los corderos, Cadena perpetua=Rita Hayworth y la redención de Shawshank, "
+    "La milla verde, El club de la lucha, Dune, Mary Poppins, Peter Pan, Pinocho, El libro de la selva, Bambi, Cenicienta, Blancanieves, La bella y la bestia, "
+    "La sirenita, Diario de Greg, Divergente, Maze Runner, Percy Jackson, Ready Player One, El diario de Noa=El cuaderno de Noah, A todos los chicos de los que me enamoré, "
+    "After, Culpa mía, A tres metros sobre el cielo, Tengo ganas de ti, Cien años de soledad, La sombra del viento? , Patria, El laberinto del fauno? , "
+    "La casa de los espíritus, Como agua para chocolate, El niño con el pijama de rayas, La ladrona de libros, Cometas en el cielo, La vida de Pi, Yo antes de ti, "
+    "Perdida, La chica del tren, Los hombres que no amaban a las mujeres=Millennium, El perfume, El nombre de la rosa, Memorias de una geisha, Tiburón, "
+    "Psicosis, El exorcista, Carrie, Misery, Cementerio de animales, La naranja mecánica, 1984, Un mundo feliz, Fahrenheit 451, El señor de las moscas, "
+    "Rebelión en la granja, Moby Dick, La isla del tesoro, Robinson Crusoe, Los tres mosqueteros, El conde de Montecristo, Veinte mil leguas de viaje submarino, "
+    "La vuelta al mundo en 80 días, Ana Karénina, Guerra y paz, Doctor Zhivago, Lolita, Desayuno con diamantes, El color púrpura, Matar un ruiseñor, "
+    "Sentido y sensibilidad, Emma, Jane Eyre, Cumbres borrascosas, Madame Bovary, El retrato de Dorian Gray, Oliver Twist, Cuento de Navidad, Grandes esperanzas, "
+    "El curioso caso de Benjamin Button, Big Fish, Forrest, El cuento de la criada? , Juego de tronos? , Wonder, Las ventajas de ser un marginado, El corredor del laberinto",
+},
+})
