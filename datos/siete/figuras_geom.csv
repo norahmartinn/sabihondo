@@ -1,0 +1,151 @@
+respuesta;alias;nivel;orden_a_mano
+cuadrado;;1;1000000000
+círculo;circunferencia;1;999999999
+triángulo;;1;999999998
+rectángulo;;1;999999997
+rombo;;1;999999996
+pentágono;;1;999999995
+hexágono;;1;999999994
+óvalo;elipse;1;999999993
+trapecio;;1;999999992
+cubo;;1;999999991
+esfera;;1;999999990
+pirámide;;1;999999989
+cilindro;;1;999999988
+cono;;1;999999987
+estrella;;1;999999986
+octógono;;2;1000000000
+heptágono;;2;999999999
+decágono;;2;999999998
+paralelogramo;;2;999999997
+romboide;;2;999999996
+polígono;;2;999999995
+prisma;;2;999999994
+triángulo equilátero;;2;999999993
+triángulo isósceles;;2;999999992
+triángulo escaleno;;2;999999991
+triángulo rectángulo;;2;999999990
+ortoedro;;2;999999989
+tetraedro;;2;999999988
+octaedro;;2;999999987
+dodecaedro;;2;999999986
+icosaedro;;2;999999985
+poliedro;;2;999999984
+semicírculo;;2;999999983
+corona circular;;2;999999982
+sector circular;;2;999999981
+cuadrilátero;;2;999999980
+corazón;;2;999999979
+trapezoide;;2;999999978
+eneágono;;2;999999977
+endecágono;;2;999999976
+dodecágono;;2;999999975
+cruz;;2;999999974
+flecha;;2;999999973
+media luna;;2;999999972
+deltoide;cometa;3;1000000000
+trapecio isósceles;;3;999999999
+trapecio rectángulo;;3;999999998
+trapecio escaleno;;3;999999997
+triángulo obtusángulo;;3;999999996
+triángulo acutángulo;;3;999999995
+polígono regular;;3;999999994
+polígono irregular;;3;999999993
+polígono cóncavo;;3;999999992
+polígono convexo;;3;999999991
+prisma triangular;;3;999999990
+prisma hexagonal;;3;999999989
+prisma pentagonal;;3;999999988
+pirámide cuadrangular;;3;999999987
+pirámide triangular;;3;999999986
+tronco de cono;;3;999999985
+tronco de pirámide;;3;999999984
+cilindro oblicuo;;3;999999983
+cono oblicuo;;3;999999982
+semiesfera;;3;999999981
+casquete esférico;;3;999999980
+toro;dónut;3;999999979
+elipsoide;;3;999999978
+paraboloide;;3;999999977
+hiperboloide;;3;999999976
+parábola;;3;999999975
+hipérbola;;3;999999974
+espiral;;3;999999973
+hélice;;3;999999972
+cicloide;;3;999999971
+sólidos platónicos;;3;999999970
+cuboctaedro;;3;999999969
+icosidodecaedro;;3;999999968
+tetraedro truncado;;3;999999967
+cubo truncado;;3;999999966
+octaedro truncado;;3;999999965
+balón de fútbol;icosaedro truncado;3;999999964
+pentagrama;;3;999999963
+estrella de David;;3;999999962
+hexagrama;;3;999999961
+octagrama;;3;999999960
+rombo regular;;3;999999959
+cuadrado mágico;;3;999999958
+lúnula;;3;999999957
+segmento circular;;3;999999956
+triacontágono;;4;1000000000
+tridecágono;;4;999999999
+tetradecágono;;4;999999998
+pentadecágono;;4;999999997
+hexadecágono;;4;999999996
+heptadecágono;;4;999999995
+octodecágono;;4;999999994
+eneadecágono;;4;999999993
+icoságono;;4;999999992
+hectágono;;4;999999991
+chiliágono;;4;999999990
+miriágono;;4;999999989
+megágono;;4;999999988
+apeirógono;;4;999999987
+antiprisma;;4;999999986
+bipirámide;;4;999999985
+trapezoedro;;4;999999984
+romboedro;;4;999999983
+paralelepípedo;;4;999999982
+deltaedro;;4;999999981
+escaleno;;4;999999980
+esfenoides;;4;999999979
+zonoedro;;4;999999978
+rombododecaedro;;4;999999977
+triacontaedro rómbico;;4;999999976
+gran dodecaedro;;4;999999975
+pequeño dodecaedro estrellado;;4;999999974
+gran icosaedro;;4;999999973
+estrella de Kepler;;4;999999972
+cardioide;;4;999999971
+lemniscata;;4;999999970
+astroide;;4;999999969
+deltoide curvo;;4;999999968
+nefroide;;4;999999967
+cisoide;;4;999999966
+concoide;;4;999999965
+catenaria;;4;999999964
+tractriz;;4;999999963
+espiral de Arquímedes;;4;999999962
+espiral logarítmica;;4;999999961
+espiral áurea;;4;999999960
+cuádrica;;4;999999959
+hipercubo;teseracto;5;1000000000
+pentácoron;;5;999999999
+hexadecacoron;;5;999999998
+icositetracoron;;5;999999997
+hecatonicosacoron;;5;999999996
+hexacosicoron;;5;999999995
+botella de Klein;;5;999999994
+banda de Möbius;cinta de Möbius;5;999999993
+triángulo de Reuleaux;;5;999999992
+triángulo de Sierpinski;;5;999999991
+copo de Koch;;5;999999990
+esponja de Menger;;5;999999989
+conjunto de Mandelbrot;;5;999999988
+oloide;;5;999999987
+esferocono;;5;999999986
+gömböc;;5;999999985
+toroide;;5;999999984
+superelipse;;5;999999983
+squircle;;5;999999982

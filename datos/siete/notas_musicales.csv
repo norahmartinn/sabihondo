@@ -1,0 +1,72 @@
+respuesta;alias;nivel;orden_a_mano
+do;;1;1000000000
+re;;1;999999999
+mi;;1;999999998
+fa;;1;999999997
+sol;;1;999999996
+la;;1;999999995
+si;;1;999999994
+negra;;1;999999993
+blanca;;1;999999992
+corchea;;1;999999991
+redonda;;1;999999990
+semicorchea;;2;1000000000
+fusa;;2;999999999
+semifusa;;2;999999998
+silencio;;2;999999997
+clave de sol;;2;999999996
+sostenido;;2;999999995
+bemol;;2;999999994
+puntillo;;2;999999993
+do sostenido;;3;1000000000
+re bemol;;3;999999999
+mi bemol;;3;999999998
+fa sostenido;;3;999999997
+sol sostenido;;3;999999996
+si bemol;;3;999999994
+ligadura;;3;999999993
+calderón;;3;999999992
+becuadro;;3;999999991
+clave de fa;;3;999999990
+clave de do;;3;999999989
+compás;;3;999999988
+tresillo;;3;999999987
+acorde;;3;999999986
+escala;;3;999999985
+pentagrama;;3;999999984
+nota de paso;;3;999999983
+cuadrada;;3;999999982
+garrapatea;;3;999999981
+semigarrapatea;;4;1000000000
+máxima;;4;999999999
+longa;;4;999999998
+breve;;4;999999997
+semibreve;;4;999999996
+mínima;;4;999999995
+semínima;;4;999999994
+ut;;4;999999993
+doble sostenido;;4;999999992
+doble bemol;;4;999999991
+re sostenido;;4;999999990
+sol bemol;;4;999999988
+do bemol;;4;999999987
+mi sostenido;;4;999999986
+si sostenido;;4;999999985
+fa bemol;;4;999999984
+apoyatura;;4;999999983
+mordente;;4;999999982
+trino;;4;999999981
+grupeto;;4;999999980
+síncopa;;4;999999979
+notas a contratiempo;;4;999999978
+quintillo;;4;999999977
+seisillo;;4;999999976
+dosillo;;4;999999975
+cuartillo;;5;1000000000
+septillo;;5;999999999
+nota pedal;;5;999999998
+acciaccatura;;5;999999997
+nota de adorno;;5;999999996
+glissando;;5;999999995
+armónico;;5;999999994
+nota fantasma;;5;999999993

@@ -1,0 +1,12524 @@
+[
+{
+"es": "Augustusburg",
+"de": "Augustusburg",
+"links": 43,
+"pob": 4297.0
+},
+{
+"es": "Bad Saulgau",
+"de": "Bad Saulgau",
+"links": 48,
+"pob": 17824.0
+},
+{
+"es": "Dassel",
+"de": "Dassel",
+"links": 45,
+"pob": 9034.0
+},
+{
+"es": "Adenau",
+"de": "Adenau",
+"links": 47,
+"pob": 2943.0
+},
+{
+"es": "Burgstädt",
+"de": "Burgstädt",
+"links": 46,
+"pob": 10333.0
+},
+{
+"es": "Frankenberg/Sa.",
+"de": "Frankenberg/Sa.",
+"links": 45,
+"pob": 13635.0
+},
+{
+"es": "Hauzenberg",
+"de": "Hauzenberg",
+"links": 44,
+"pob": 11883.0
+},
+{
+"es": "Bad Wünnenberg",
+"de": "Bad Wünnenberg",
+"links": 43,
+"pob": 12414.0
+},
+{
+"es": "Ladenburg",
+"de": "Ladenburg",
+"links": 57,
+"pob": 12820.0
+},
+{
+"es": "Salzkotten",
+"de": "Salzkotten",
+"links": 44,
+"pob": 25293.0
+},
+{
+"es": "Frauenstein",
+"de": "Frauenstein",
+"links": 40,
+"pob": 2667.0
+},
+{
+"es": "Geringswalde",
+"de": "Geringswalde",
+"links": 40,
+"pob": 3994.0
+},
+{
+"es": "Bad Gandersheim",
+"de": "Bad Gandersheim",
+"links": 48,
+"pob": 8876.0
+},
+{
+"es": "Eisenberg",
+"de": "Eisenberg",
+"links": 41,
+"pob": 9094.0
+},
+{
+"es": "Oederan",
+"de": "Oederan",
+"links": 46,
+"pob": 7490.0
+},
+{
+"es": "Penig",
+"de": "Penig",
+"links": 41,
+"pob": 7970.0
+},
+{
+"es": "Zehdenick",
+"de": "Zehdenick",
+"links": 43,
+"pob": 12875.0
+},
+{
+"es": "Hartha",
+"de": "Hartha",
+"links": 41,
+"pob": 6402.0
+},
+{
+"es": "Büren",
+"de": "Büren",
+"links": 43,
+"pob": 20930.0
+},
+{
+"es": "Lichtenau",
+"de": "Lichtenau",
+"links": 36,
+"pob": 11010.0
+},
+{
+"es": "Eisfeld",
+"de": "Eisfeld",
+"links": 40,
+"pob": 7139.0
+},
+{
+"es": "",
+"de": "Geisenfeld",
+"links": 41,
+"pob": 11642.0
+},
+{
+"es": "Tegernsee",
+"de": "Tegernsee",
+"links": 48,
+"pob": 3538.0
+},
+{
+"es": "Gerabronn",
+"de": "Gerabronn",
+"links": 42,
+"pob": 4389.0
+},
+{
+"es": "Cham",
+"de": "Cham",
+"links": 49,
+"pob": 17617.0
+},
+{
+"es": "Viechtach",
+"de": "Viechtach",
+"links": 41,
+"pob": 8326.0
+},
+{
+"es": "Oberndorf am Neckar",
+"de": "Oberndorf am Neckar",
+"links": 49,
+"pob": 14711.0
+},
+{
+"es": "Leisnig",
+"de": "Leisnig",
+"links": 42,
+"pob": 7864.0
+},
+{
+"es": "Lunzenau",
+"de": "Lunzenau",
+"links": 38,
+"pob": 3851.0
+},
+{
+"es": "Töging",
+"de": "Töging am Inn",
+"links": 41,
+"pob": 9574.0
+},
+{
+"es": "Altötting",
+"de": "Altötting",
+"links": 67,
+"pob": 12980.0
+},
+{
+"es": "Roßwein",
+"de": "Roßwein",
+"links": 41,
+"pob": 7062.0
+},
+{
+"es": "Triberg",
+"de": "Triberg im Schwarzwald",
+"links": 52,
+"pob": 4501.0
+},
+{
+"es": "Schriesheim",
+"de": "Schriesheim",
+"links": 49,
+"pob": 15114.0
+},
+{
+"es": "Zeil am Main",
+"de": "Zeil am Main",
+"links": 46,
+"pob": 5506.0
+},
+{
+"es": "Helmstedt",
+"de": "Helmstedt",
+"links": 59,
+"pob": 25048.0
+},
+{
+"es": "Eisenberg",
+"de": "Eisenberg",
+"links": 42,
+"pob": 10585.0
+},
+{
+"es": "Haldensleben",
+"de": "Haldensleben",
+"links": 48,
+"pob": 19170.0
+},
+{
+"es": "Bitburgo",
+"de": "Bitburg",
+"links": 52,
+"pob": 15559.0
+},
+{
+"es": "Großschirma",
+"de": "Großschirma",
+"links": 41,
+"pob": 5203.0
+},
+{
+"es": "Hainichen",
+"de": "Hainichen",
+"links": 44,
+"pob": 8154.0
+},
+{
+"es": "Laucha an der Unstrut",
+"de": "Laucha an der Unstrut",
+"links": 36,
+"pob": 2624.0
+},
+{
+"es": "Brand-Erbisdorf",
+"de": "Brand-Erbisdorf",
+"links": 45,
+"pob": 8695.0
+},
+{
+"es": "Döbeln",
+"de": "Döbeln",
+"links": 52,
+"pob": 23907.0
+},
+{
+"es": "Wasserburg am Inn",
+"de": "Wasserburg am Inn",
+"links": 52,
+"pob": 12371.0
+},
+{
+"es": "Traunreut",
+"de": "Traunreut",
+"links": 44,
+"pob": 20381.0
+},
+{
+"es": "Oberviechtach",
+"de": "Oberviechtach",
+"links": 42,
+"pob": 4908.0
+},
+{
+"es": "Bad Windsheim",
+"de": "Bad Windsheim",
+"links": 53,
+"pob": 12329.0
+},
+{
+"es": "Wörth am Main",
+"de": "Wörth am Main",
+"links": 46,
+"pob": 4748.0
+},
+{
+"es": "Maulbronn",
+"de": "Maulbronn",
+"links": 50,
+"pob": 6371.0
+},
+{
+"es": "Zell am Harmersbach",
+"de": "Zell am Harmersbach",
+"links": 42,
+"pob": 8068.0
+},
+{
+"es": "Zella-Mehlis",
+"de": "Zella-Mehlis",
+"links": 42,
+"pob": 12032.0
+},
+{
+"es": "Heimsheim",
+"de": "Heimsheim",
+"links": 42,
+"pob": 5531.0
+},
+{
+"es": "Buchloe",
+"de": "Buchloe",
+"links": 46,
+"pob": 13785.0
+},
+{
+"es": "Thannhausen",
+"de": "Thannhausen",
+"links": 44,
+"pob": 6424.0
+},
+{
+"es": "Salzwedel",
+"de": "Salzwedel",
+"links": 59,
+"pob": 22924.0
+},
+{
+"es": "Aschersleben",
+"de": "Aschersleben",
+"links": 57,
+"pob": 25364.0
+},
+{
+"es": "Abenberg",
+"de": "Abenberg",
+"links": 48,
+"pob": 5455.0
+},
+{
+"es": "Knittlingen",
+"de": "Knittlingen",
+"links": 41,
+"pob": 8138.0
+},
+{
+"es": "Füssen",
+"de": "Füssen",
+"links": 71,
+"pob": 15334.0
+},
+{
+"es": "Calw",
+"de": "Calw",
+"links": 65,
+"pob": 24750.0
+},
+{
+"es": "Flöha",
+"de": "Flöha",
+"links": 49,
+"pob": 10218.0
+},
+{
+"es": "Sayda",
+"de": "Sayda",
+"links": 41,
+"pob": 1642.0
+},
+{
+"es": "Waldheim",
+"de": "Waldheim",
+"links": 39,
+"pob": 8724.0
+},
+{
+"es": "Triptis",
+"de": "Triptis",
+"links": 37,
+"pob": 3582.0
+},
+{
+"es": "Heimbach",
+"de": "Heimbach",
+"links": 40,
+"pob": 4467.0
+},
+{
+"es": "Ziesar",
+"de": "Ziesar",
+"links": 39,
+"pob": 2388.0
+},
+{
+"es": "Grebenstein",
+"de": "Grebenstein",
+"links": 38,
+"pob": 5315.0
+},
+{
+"es": "",
+"de": "Zahna",
+"links": 26,
+"pob": 3883.0
+},
+{
+"es": "Zahna-Elster",
+"de": "Zahna-Elster",
+"links": 26,
+"pob": 8910.0
+},
+{
+"es": "Burghausen",
+"de": "Burghausen",
+"links": 53,
+"pob": 19381.0
+},
+{
+"es": "Weilheim an der Teck",
+"de": "Weilheim an der Teck",
+"links": 44,
+"pob": 10007.0
+},
+{
+"es": "Dornhan",
+"de": "Dornhan",
+"links": 44,
+"pob": 6191.0
+},
+{
+"es": "Zeven",
+"de": "Zeven",
+"links": 38,
+"pob": 13898.0
+},
+{
+"es": "Neustadt an der Waldnaab",
+"de": "Neustadt an der Waldnaab",
+"links": 45,
+"pob": 5948.0
+},
+{
+"es": "Schöppenstedt",
+"de": "Schöppenstedt",
+"links": 34,
+"pob": 5276.0
+},
+{
+"es": "Neuenbürg",
+"de": "Neuenbürg",
+"links": 39,
+"pob": 8012.0
+},
+{
+"es": "Meiningen",
+"de": "Meiningen",
+"links": 64,
+"pob": 24810.0
+},
+{
+"es": "Bad Sulza",
+"de": "Bad Sulza",
+"links": 39,
+"pob": 7901.0
+},
+{
+"es": "Bärnau",
+"de": "Bärnau",
+"links": 43,
+"pob": 2972.0
+},
+{
+"es": "Reinheim",
+"de": "Reinheim",
+"links": 40,
+"pob": 16372.0
+},
+{
+"es": "Alsfeld",
+"de": "Alsfeld",
+"links": 51,
+"pob": 15279.0
+},
+{
+"es": "Uhingen",
+"de": "Uhingen",
+"links": 42,
+"pob": 14203.0
+},
+{
+"es": "Garching bei München",
+"de": "Garching bei München",
+"links": 52,
+"pob": 17729.0
+},
+{
+"es": "Ziegenrück",
+"de": "Ziegenrück",
+"links": 37,
+"pob": 630.0
+},
+{
+"es": "Geislingen an der Steige",
+"de": "Geislingen an der Steige",
+"links": 48,
+"pob": 27781.0
+},
+{
+"es": "Sankt Goar",
+"de": "Sankt Goar",
+"links": 43,
+"pob": 2860.0
+},
+{
+"es": "Allendorf (Lumda)",
+"de": "Allendorf (Lumda)",
+"links": 38,
+"pob": 3838.0
+},
+{
+"es": "Alsleben",
+"de": "Alsleben",
+"links": 41,
+"pob": 2518.0
+},
+{
+"es": "Steinau an der Straße",
+"de": "Steinau an der Straße",
+"links": 41,
+"pob": 10110.0
+},
+{
+"es": "Dorfen",
+"de": "Dorfen",
+"links": 47,
+"pob": 14727.0
+},
+{
+"es": "Rosenfeld",
+"de": "Rosenfeld",
+"links": 34,
+"pob": 6426.0
+},
+{
+"es": "Zell",
+"de": "Zell",
+"links": 35,
+"pob": 4019.0
+},
+{
+"es": "Nideggen",
+"de": "Nideggen",
+"links": 42,
+"pob": 10704.0
+},
+{
+"es": "Vreden",
+"de": "Vreden",
+"links": 43,
+"pob": 23083.0
+},
+{
+"es": "Zierenberg",
+"de": "Zierenberg",
+"links": 35,
+"pob": 6155.0
+},
+{
+"es": "Altenkirchen",
+"de": "Altenkirchen",
+"links": 50,
+"pob": 6797.0
+},
+{
+"es": "Bad Reichenhall",
+"de": "Bad Reichenhall",
+"links": 59,
+"pob": 18284.0
+},
+{
+"es": "Rothenburg ob der Tauber",
+"de": "Rothenburg ob der Tauber",
+"links": 72,
+"pob": 11331.0
+},
+{
+"es": "Miesbach",
+"de": "Miesbach",
+"links": 49,
+"pob": 11334.0
+},
+{
+"es": "Mittweida",
+"de": "Mittweida",
+"links": 51,
+"pob": 13730.0
+},
+{
+"es": "Rochlitz",
+"de": "Rochlitz",
+"links": 47,
+"pob": 5467.0
+},
+{
+"es": "Sulingen",
+"de": "Sulingen",
+"links": 37,
+"pob": 13378.0
+},
+{
+"es": "Velen",
+"de": "Velen",
+"links": 35,
+"pob": 12562.0
+},
+{
+"es": "Bad Oldesloe",
+"de": "Bad Oldesloe",
+"links": 46,
+"pob": 24981.0
+},
+{
+"es": "Lauterstein",
+"de": "Lauterstein",
+"links": 39,
+"pob": 2515.0
+},
+{
+"es": "Stadtlohn",
+"de": "Stadtlohn",
+"links": 42,
+"pob": 20856.0
+},
+{
+"es": "Isselburg",
+"de": "Isselburg",
+"links": 43,
+"pob": 11215.0
+},
+{
+"es": "Regen",
+"de": "Regen",
+"links": 43,
+"pob": 10951.0
+},
+{
+"es": "Ebersbach an der Fils",
+"de": "Ebersbach an der Fils",
+"links": 47,
+"pob": 15550.0
+},
+{
+"es": "Gescher",
+"de": "Gescher",
+"links": 41,
+"pob": 17221.0
+},
+{
+"es": "Sankt Blasien",
+"de": "St. Blasien",
+"links": 38,
+"pob": 3832.0
+},
+{
+"es": "Linnich",
+"de": "Linnich",
+"links": 45,
+"pob": 13690.0
+},
+{
+"es": "Rhede",
+"de": "Rhede",
+"links": 40,
+"pob": 19679.0
+},
+{
+"es": "Kirchheimbolanden",
+"de": "Kirchheimbolanden",
+"links": 45,
+"pob": 7921.0
+},
+{
+"es": "Eltville am Rhein",
+"de": "Eltville am Rhein",
+"links": 42,
+"pob": 16939.0
+},
+{
+"es": "Wörth an der Donau",
+"de": "Wörth an der Donau",
+"links": 41,
+"pob": 5301.0
+},
+{
+"es": "Vetschau/Spreewald",
+"de": "Vetschau/Spreewald",
+"links": 44,
+"pob": 7533.0
+},
+{
+"es": "Lübbenau/Spreewald",
+"de": "Lübbenau/Spreewald",
+"links": 52,
+"pob": 15729.0
+},
+{
+"es": "Zerbst",
+"de": "Zerbst/Anhalt",
+"links": 52,
+"pob": 20779.0
+},
+{
+"es": "Zirndorf",
+"de": "Zirndorf",
+"links": 45,
+"pob": 26229.0
+},
+{
+"es": "Wildberg",
+"de": "Wildberg",
+"links": 42,
+"pob": 10045.0
+},
+{
+"es": "Owen",
+"de": "Owen",
+"links": 37,
+"pob": 3421.0
+},
+{
+"es": "Simmern",
+"de": "Simmern/Hunsrück",
+"links": 45,
+"pob": 8227.0
+},
+{
+"es": "Neutraubling",
+"de": "Neutraubling",
+"links": 44,
+"pob": 14351.0
+},
+{
+"es": "Neckarsulm",
+"de": "Neckarsulm",
+"links": 65,
+"pob": 26470.0
+},
+{
+"es": "Arzberg",
+"de": "Arzberg",
+"links": 42,
+"pob": 4844.0
+},
+{
+"es": "Bargteheide",
+"de": "Bargteheide",
+"links": 40,
+"pob": 16385.0
+},
+{
+"es": "Bad Frankenhausen",
+"de": "Bad Frankenhausen/Kyffhäuser",
+"links": 43,
+"pob": 9492.0
+},
+{
+"es": "Waldkraiburg",
+"de": "Waldkraiburg",
+"links": 45,
+"pob": 25851.0
+},
+{
+"es": "Genthin",
+"de": "Genthin",
+"links": 48,
+"pob": 13392.0
+},
+{
+"es": "Rethem",
+"de": "Rethem (Aller)",
+"links": 37,
+"pob": 2327.0
+},
+{
+"es": "Anklam",
+"de": "Anklam",
+"links": 62,
+"pob": 11793.0
+},
+{
+"es": "Kyllburg",
+"de": "Kyllburg",
+"links": 36,
+"pob": 906.0
+},
+{
+"es": "Neuburg an der Donau",
+"de": "Neuburg an der Donau",
+"links": 53,
+"pob": 30039.0
+},
+{
+"es": "Bad Kissingen",
+"de": "Bad Kissingen",
+"links": 70,
+"pob": 23191.0
+},
+{
+"es": "Oberhof",
+"de": "Oberhof",
+"links": 53,
+"pob": 1613.0
+},
+{
+"es": "Nördlingen",
+"de": "Nördlingen",
+"links": 63,
+"pob": 20442.0
+},
+{
+"es": "Breisach",
+"de": "Breisach am Rhein",
+"links": 60,
+"pob": 16617.0
+},
+{
+"es": "Mühlacker",
+"de": "Mühlacker",
+"links": 43,
+"pob": 26793.0
+},
+{
+"es": "Donzdorf",
+"de": "Donzdorf",
+"links": 47,
+"pob": 10550.0
+},
+{
+"es": "Roding",
+"de": "Roding",
+"links": 42,
+"pob": 13060.0
+},
+{
+"es": "Süßen",
+"de": "Süßen",
+"links": 42,
+"pob": 10115.0
+},
+{
+"es": "Wiesensteig",
+"de": "Wiesensteig",
+"links": 41,
+"pob": 2030.0
+},
+{
+"es": "Bad Tölz",
+"de": "Bad Tölz",
+"links": 65,
+"pob": 19652.0
+},
+{
+"es": "Lucka",
+"de": "Lucka",
+"links": 36,
+"pob": 3411.0
+},
+{
+"es": "Aub",
+"de": "Aub",
+"links": 47,
+"pob": 1325.0
+},
+{
+"es": "Pocking",
+"de": "Pocking",
+"links": 44,
+"pob": 16296.0
+},
+{
+"es": "Kitzingen",
+"de": "Kitzingen",
+"links": 52,
+"pob": 23028.0
+},
+{
+"es": "Neuötting",
+"de": "Neuötting",
+"links": 44,
+"pob": 8983.0
+},
+{
+"es": "Bischofswerda",
+"de": "Bischofswerda",
+"links": 54,
+"pob": 10519.0
+},
+{
+"es": "Ratzeburg",
+"de": "Ratzeburg",
+"links": 61,
+"pob": 14952.0
+},
+{
+"es": "Ilshofen",
+"de": "Ilshofen",
+"links": 42,
+"pob": 7080.0
+},
+{
+"es": "Berga",
+"de": "Berga/Elster",
+"links": 35,
+"pob": 3193.0
+},
+{
+"es": "Vilshofen an der Donau",
+"de": "Vilshofen an der Donau",
+"links": 50,
+"pob": 18184.0
+},
+{
+"es": "Freilassing",
+"de": "Freilassing",
+"links": 48,
+"pob": 18036.0
+},
+{
+"es": "Wassenberg",
+"de": "Wassenberg",
+"links": 43,
+"pob": 19687.0
+},
+{
+"es": "Allstedt",
+"de": "Allstedt",
+"links": 41,
+"pob": 7528.0
+},
+{
+"es": "Sternberg",
+"de": "Sternberg",
+"links": 40,
+"pob": 3753.0
+},
+{
+"es": "Wegberg",
+"de": "Wegberg",
+"links": 44,
+"pob": 28001.0
+},
+{
+"es": "Baesweiler",
+"de": "Baesweiler",
+"links": 41,
+"pob": 29038.0
+},
+{
+"es": "Eckernförde",
+"de": "Eckernförde",
+"links": 57,
+"pob": 21599.0
+},
+{
+"es": "Lindau",
+"de": "Lindau",
+"links": 69,
+"pob": 25702.0
+},
+{
+"es": "Andernach",
+"de": "Andernach",
+"links": 64,
+"pob": 29920.0
+},
+{
+"es": "Esmalcalda",
+"de": "Schmalkalden",
+"links": 50,
+"pob": 19141.0
+},
+{
+"es": "Saalfeld",
+"de": "Saalfeld/Saale",
+"links": 59,
+"pob": 28474.0
+},
+{
+"es": "Bernsdorf",
+"de": "Bernsdorf",
+"links": 41,
+"pob": 6191.0
+},
+{
+"es": "Angermünde",
+"de": "Angermünde",
+"links": 48,
+"pob": 14015.0
+},
+{
+"es": "Neustadt (Dosse)",
+"de": "Neustadt (Dosse)",
+"links": 36,
+"pob": 3502.0
+},
+{
+"es": "Tirschenreuth",
+"de": "Tirschenreuth",
+"links": 49,
+"pob": 8467.0
+},
+{
+"es": "Östringen",
+"de": "Östringen",
+"links": 41,
+"pob": 13447.0
+},
+{
+"es": "Schweich",
+"de": "Schweich",
+"links": 40,
+"pob": 7663.0
+},
+{
+"es": "Lütjenburg",
+"de": "Lütjenburg",
+"links": 38,
+"pob": 5396.0
+},
+{
+"es": "Bernkastel-Kues",
+"de": "Bernkastel-Kues",
+"links": 50,
+"pob": 6682.0
+},
+{
+"es": "Gunzburgo",
+"de": "Günzburg",
+"links": 63,
+"pob": 21291.0
+},
+{
+"es": "Pfaffenhofen an der Ilm",
+"de": "Pfaffenhofen an der Ilm",
+"links": 46,
+"pob": 27228.0
+},
+{
+"es": "Annaburg",
+"de": "Annaburg",
+"links": 43,
+"pob": 6189.0
+},
+{
+"es": "Hofgeismar",
+"de": "Hofgeismar",
+"links": 47,
+"pob": 14324.0
+},
+{
+"es": "Weiterstadt",
+"de": "Weiterstadt",
+"links": 45,
+"pob": 26638.0
+},
+{
+"es": "Ludwigslust",
+"de": "Ludwigslust",
+"links": 46,
+"pob": 11778.0
+},
+{
+"es": "Bingen am Rhein",
+"de": "Bingen am Rhein",
+"links": 64,
+"pob": 25424.0
+},
+{
+"es": "Erlensee",
+"de": "Erlensee",
+"links": 32,
+"pob": 15959.0
+},
+{
+"es": "Dietenheim",
+"de": "Dietenheim",
+"links": 48,
+"pob": 6921.0
+},
+{
+"es": "Monschau",
+"de": "Monschau",
+"links": 55,
+"pob": 12303.0
+},
+{
+"es": "Müncheberg",
+"de": "Müncheberg",
+"links": 42,
+"pob": 6776.0
+},
+{
+"es": "",
+"de": "Wittichenau",
+"links": 42,
+"pob": 5505.0
+},
+{
+"es": "Murrhardt",
+"de": "Murrhardt",
+"links": 41,
+"pob": 14490.0
+},
+{
+"es": "Laufen",
+"de": "Laufen",
+"links": 43,
+"pob": 7333.0
+},
+{
+"es": "Steinheim",
+"de": "Steinheim",
+"links": 43,
+"pob": 12000.0
+},
+{
+"es": "Gaildorf",
+"de": "Gaildorf",
+"links": 46,
+"pob": 12054.0
+},
+{
+"es": "Hallstadt",
+"de": "Hallstadt",
+"links": 45,
+"pob": 8755.0
+},
+{
+"es": "Königsbrück",
+"de": "Königsbrück",
+"links": 44,
+"pob": 4642.0
+},
+{
+"es": "Lauta",
+"de": "Lauta",
+"links": 41,
+"pob": 7681.0
+},
+{
+"es": "Bad Lauterberg im Harz",
+"de": "Bad Lauterberg im Harz",
+"links": 43,
+"pob": 10097.0
+},
+{
+"es": "Kamenz",
+"de": "Kamenz",
+"links": 57,
+"pob": 16878.0
+},
+{
+"es": "Radeberg",
+"de": "Radeberg",
+"links": 48,
+"pob": 18667.0
+},
+{
+"es": "Verl",
+"de": "Verl",
+"links": 41,
+"pob": 25574.0
+},
+{
+"es": "Öhringen",
+"de": "Öhringen",
+"links": 46,
+"pob": 25871.0
+},
+{
+"es": "Schirgiswalde-Kirschau",
+"de": "Schirgiswalde-Kirschau",
+"links": 31,
+"pob": 5754.0
+},
+{
+"es": "Weißenberg",
+"de": "Weißenberg",
+"links": 41,
+"pob": 3004.0
+},
+{
+"es": "Wilthen",
+"de": "Wilthen",
+"links": 40,
+"pob": 4596.0
+},
+{
+"es": "Hemsbach",
+"de": "Hemsbach",
+"links": 45,
+"pob": 11822.0
+},
+{
+"es": "Vellberg",
+"de": "Vellberg",
+"links": 40,
+"pob": 4728.0
+},
+{
+"es": "Löbau",
+"de": "Löbau",
+"links": 47,
+"pob": 14469.0
+},
+{
+"es": "Bückeburg",
+"de": "Bückeburg",
+"links": 49,
+"pob": 19016.0
+},
+{
+"es": "Übach-Palenberg",
+"de": "Übach-Palenberg",
+"links": 40,
+"pob": 24144.0
+},
+{
+"es": "Elstra",
+"de": "Elstra",
+"links": 45,
+"pob": 2657.0
+},
+{
+"es": "Großröhrsdorf",
+"de": "Großröhrsdorf",
+"links": 45,
+"pob": 9480.0
+},
+{
+"es": "Geilenkirchen",
+"de": "Geilenkirchen",
+"links": 47,
+"pob": 28605.0
+},
+{
+"es": "Ehingen",
+"de": "Ehingen",
+"links": 49,
+"pob": 27700.0
+},
+{
+"es": "Schloß Holte-Stukenbrock",
+"de": "Schloß Holte-Stukenbrock",
+"links": 43,
+"pob": 26297.0
+},
+{
+"es": "Überlingen",
+"de": "Überlingen",
+"links": 59,
+"pob": 22799.0
+},
+{
+"es": "Rothenburg/O.L.",
+"de": "Rothenburg/O.L.",
+"links": 42,
+"pob": 3953.0
+},
+{
+"es": "Zittau",
+"de": "Zittau",
+"links": 60,
+"pob": 24958.0
+},
+{
+"es": "Hammelburg",
+"de": "Hammelburg",
+"links": 50,
+"pob": 10557.0
+},
+{
+"es": "Versmold",
+"de": "Versmold",
+"links": 39,
+"pob": 21343.0
+},
+{
+"es": "Apolda",
+"de": "Apolda",
+"links": 53,
+"pob": 22572.0
+},
+{
+"es": "Bräunlingen",
+"de": "Bräunlingen",
+"links": 43,
+"pob": 5843.0
+},
+{
+"es": "Waltrop",
+"de": "Waltrop",
+"links": 42,
+"pob": 29125.0
+},
+{
+"es": "Wittstock",
+"de": "Wittstock/Dosse",
+"links": 42,
+"pob": 13642.0
+},
+{
+"es": "Oberweißbach",
+"de": "Oberweißbach/Thüringer Wald",
+"links": 31,
+"pob": 1678.0
+},
+{
+"es": "Bad Neustadt an der Saale",
+"de": "Bad Neustadt an der Saale",
+"links": 43,
+"pob": 15405.0
+},
+{
+"es": "Reichenbach",
+"de": "Reichenbach/O.L.",
+"links": 44,
+"pob": 4520.0
+},
+{
+"es": "Kulmbach",
+"de": "Kulmbach",
+"links": 57,
+"pob": 26511.0
+},
+{
+"es": "Ilmenau",
+"de": "Ilmenau",
+"links": 59,
+"pob": 38695.0
+},
+{
+"es": "",
+"de": "Strausberg",
+"links": 59,
+"pob": 27765.0
+},
+{
+"es": "Arnstadt",
+"de": "Arnstadt",
+"links": 62,
+"pob": 28509.0
+},
+{
+"es": "Wendlingen am Neckar",
+"de": "Wendlingen am Neckar",
+"links": 43,
+"pob": 16002.0
+},
+{
+"es": "Veringenstadt",
+"de": "Veringenstadt",
+"links": 39,
+"pob": 2147.0
+},
+{
+"es": "Halle",
+"de": "Halle (Westf.)",
+"links": 46,
+"pob": 21366.0
+},
+{
+"es": "Borgholzhausen",
+"de": "Borgholzhausen",
+"links": 38,
+"pob": 8784.0
+},
+{
+"es": "Nassau",
+"de": "Nassau",
+"links": 39,
+"pob": 4802.0
+},
+{
+"es": "Rendsburg",
+"de": "Rendsburg",
+"links": 60,
+"pob": 30305.0
+},
+{
+"es": "Rietberg",
+"de": "Rietberg",
+"links": 43,
+"pob": 29858.0
+},
+{
+"es": "Baruth/Mark",
+"de": "Baruth/Mark",
+"links": 44,
+"pob": 4119.0
+},
+{
+"es": "Waibstadt",
+"de": "Waibstadt",
+"links": 44,
+"pob": 5849.0
+},
+{
+"es": "Bad Rodach",
+"de": "Bad Rodach",
+"links": 49,
+"pob": 6182.0
+},
+{
+"es": "Osterode am Harz",
+"de": "Osterode am Harz",
+"links": 44,
+"pob": 21474.0
+},
+{
+"es": "Heubach",
+"de": "Heubach",
+"links": 41,
+"pob": 10241.0
+},
+{
+"es": "Berka/Werra",
+"de": "Berka/Werra",
+"links": 33,
+"pob": 4231.0
+},
+{
+"es": "Spalt",
+"de": "Spalt",
+"links": 42,
+"pob": 5203.0
+},
+{
+"es": "Eutin",
+"de": "Eutin",
+"links": 59,
+"pob": 17177.0
+},
+{
+"es": "Hettingen",
+"de": "Hettingen",
+"links": 41,
+"pob": 1864.0
+},
+{
+"es": "Altensteig",
+"de": "Altensteig",
+"links": 47,
+"pob": 10849.0
+},
+{
+"es": "Uslar",
+"de": "Uslar",
+"links": 44,
+"pob": 13414.0
+},
+{
+"es": "Hemau",
+"de": "Hemau",
+"links": 39,
+"pob": 9348.0
+},
+{
+"es": "Pulsnitz",
+"de": "Pulsnitz",
+"links": 48,
+"pob": 7250.0
+},
+{
+"es": "Pfullingen",
+"de": "Pfullingen",
+"links": 42,
+"pob": 20032.0
+},
+{
+"es": "Dillingen/Saar",
+"de": "Dillingen/Saar",
+"links": 42,
+"pob": 21295.0
+},
+{
+"es": "Münchberg",
+"de": "Münchberg",
+"links": 47,
+"pob": 9884.0
+},
+{
+"es": "Neumarkt-Sankt Veit",
+"de": "Neumarkt-Sankt Veit",
+"links": 41,
+"pob": 6408.0
+},
+{
+"es": "Tessin",
+"de": "Tessin",
+"links": 33,
+"pob": 4174.0
+},
+{
+"es": "Fürstenberg/Havel",
+"de": "Fürstenberg/Havel",
+"links": 42,
+"pob": 5715.0
+},
+{
+"es": "Bad Ems",
+"de": "Bad Ems",
+"links": 61,
+"pob": 10048.0
+},
+{
+"es": "Plochingen",
+"de": "Plochingen",
+"links": 44,
+"pob": 14503.0
+},
+{
+"es": "Mengen",
+"de": "Mengen",
+"links": 38,
+"pob": 10114.0
+},
+{
+"es": "Scheßlitz",
+"de": "Scheßlitz",
+"links": 39,
+"pob": 7115.0
+},
+{
+"es": "Zossen",
+"de": "Zossen",
+"links": 49,
+"pob": 21558.0
+},
+{
+"es": "Ingelheim am Rhein",
+"de": "Ingelheim am Rhein",
+"links": 61,
+"pob": 34903.0
+},
+{
+"es": "Dingolfing",
+"de": "Dingolfing",
+"links": 51,
+"pob": 20890.0
+},
+{
+"es": "Doberlug-Kirchhain",
+"de": "Doberlug-Kirchhain",
+"links": 42,
+"pob": 8117.0
+},
+{
+"es": "Arendsee (Altmark)",
+"de": "Arendsee",
+"links": 42,
+"pob": 6188.0
+},
+{
+"es": "Lichtenfels",
+"de": "Lichtenfels",
+"links": 45,
+"pob": 20452.0
+},
+{
+"es": "Dinkelsbühl",
+"de": "Dinkelsbühl",
+"links": 56,
+"pob": 12398.0
+},
+{
+"es": "Gardelegen",
+"de": "Gardelegen",
+"links": 47,
+"pob": 21661.0
+},
+{
+"es": "Boizenburg/Elbe",
+"de": "Boizenburg/Elbe",
+"links": 42,
+"pob": 11147.0
+},
+{
+"es": "Aichtal",
+"de": "Aichtal",
+"links": 49,
+"pob": 9643.0
+},
+{
+"es": "Langenburg",
+"de": "Langenburg",
+"links": 47,
+"pob": 1751.0
+},
+{
+"es": "Dornstetten",
+"de": "Dornstetten",
+"links": 45,
+"pob": 8192.0
+},
+{
+"es": "Eislingen",
+"de": "Eislingen/Fils",
+"links": 48,
+"pob": 22168.0
+},
+{
+"es": "Blumberg",
+"de": "Blumberg",
+"links": 39,
+"pob": 9847.0
+},
+{
+"es": "Haiterbach",
+"de": "Haiterbach",
+"links": 41,
+"pob": 5859.0
+},
+{
+"es": "Wülfrath",
+"de": "Wülfrath",
+"links": 43,
+"pob": 21009.0
+},
+{
+"es": "Wernau",
+"de": "Wernau (Neckar)",
+"links": 42,
+"pob": 12210.0
+},
+{
+"es": "Heiligenhaus",
+"de": "Heiligenhaus",
+"links": 45,
+"pob": 25844.0
+},
+{
+"es": "Harsewinkel",
+"de": "Harsewinkel",
+"links": 42,
+"pob": 25480.0
+},
+{
+"es": "Trochtelfingen",
+"de": "Trochtelfingen",
+"links": 42,
+"pob": 6254.0
+},
+{
+"es": "Adelsheim",
+"de": "Adelsheim",
+"links": 49,
+"pob": 5112.0
+},
+{
+"es": "Neuffen",
+"de": "Neuffen",
+"links": 43,
+"pob": 6176.0
+},
+{
+"es": "Nieheim",
+"de": "Nieheim",
+"links": 41,
+"pob": 6031.0
+},
+{
+"es": "Heide",
+"de": "Heide",
+"links": 54,
+"pob": 22125.0
+},
+{
+"es": "Welzheim",
+"de": "Welzheim",
+"links": 40,
+"pob": 11268.0
+},
+{
+"es": "Achern",
+"de": "Achern",
+"links": 54,
+"pob": 26873.0
+},
+{
+"es": "Bad Wimpfen",
+"de": "Bad Wimpfen",
+"links": 46,
+"pob": 7725.0
+},
+{
+"es": "Kaltennordheim",
+"de": "Kaltennordheim",
+"links": 36,
+"pob": 5493.0
+},
+{
+"es": "Westerstede",
+"de": "Westerstede",
+"links": 47,
+"pob": 23956.0
+},
+{
+"es": "Kaltenkirchen",
+"de": "Kaltenkirchen",
+"links": 44,
+"pob": 23585.0
+},
+{
+"es": "Hayingen",
+"de": "Hayingen",
+"links": 40,
+"pob": 2203.0
+},
+{
+"es": "Neckarbischofsheim",
+"de": "Neckarbischofsheim",
+"links": 39,
+"pob": 4205.0
+},
+{
+"es": "Schönau",
+"de": "Schönau",
+"links": 35,
+"pob": 4328.0
+},
+{
+"es": "Glückstadt",
+"de": "Glückstadt",
+"links": 52,
+"pob": 11100.0
+},
+{
+"es": "Willebadessen",
+"de": "Willebadessen",
+"links": 40,
+"pob": 8172.0
+},
+{
+"es": "Kirchberg an der Jagst",
+"de": "Kirchberg an der Jagst",
+"links": 37,
+"pob": 4149.0
+},
+{
+"es": "Waldsassen",
+"de": "Waldsassen",
+"links": 44,
+"pob": 6679.0
+},
+{
+"es": "Gräfenhainichen",
+"de": "Gräfenhainichen",
+"links": 38,
+"pob": 10990.0
+},
+{
+"es": "Neuhaus am Rennweg",
+"de": "Neuhaus am Rennweg",
+"links": 35,
+"pob": 8318.0
+},
+{
+"es": "Lauterecken",
+"de": "Lauterecken",
+"links": 37,
+"pob": 1986.0
+},
+{
+"es": "Hecklingen",
+"de": "Hecklingen",
+"links": 37,
+"pob": 6368.0
+},
+{
+"es": "Amöneburg",
+"de": "Amöneburg",
+"links": 41,
+"pob": 4951.0
+},
+{
+"es": "Senftenberg",
+"de": "Senftenberg",
+"links": 59,
+"pob": 23147.0
+},
+{
+"es": "Horb am Neckar",
+"de": "Horb am Neckar",
+"links": 50,
+"pob": 25687.0
+},
+{
+"es": "Hamminkeln",
+"de": "Hamminkeln",
+"links": 47,
+"pob": 26839.0
+},
+{
+"es": "Schleiden",
+"de": "Schleiden",
+"links": 42,
+"pob": 13390.0
+},
+{
+"es": "Garz",
+"de": "Garz/Rügen",
+"links": 38,
+"pob": 2148.0
+},
+{
+"es": "Barth",
+"de": "Barth",
+"links": 42,
+"pob": 8235.0
+},
+{
+"es": "Norden",
+"de": "Norden",
+"links": 50,
+"pob": 24978.0
+},
+{
+"es": "Ebersbach-Neugersdorf",
+"de": "Ebersbach-Neugersdorf",
+"links": 37,
+"pob": 10749.0
+},
+{
+"es": "Sonthofen",
+"de": "Sonthofen",
+"links": 49,
+"pob": 21641.0
+},
+{
+"es": "Xanten",
+"de": "Xanten",
+"links": 64,
+"pob": 21121.0
+},
+{
+"es": "Bad Münstereifel",
+"de": "Bad Münstereifel",
+"links": 46,
+"pob": 18375.0
+},
+{
+"es": "Bergen auf Rügen",
+"de": "Bergen auf Rügen",
+"links": 51,
+"pob": 13394.0
+},
+{
+"es": "Neukirchen-Vluyn",
+"de": "Neukirchen-Vluyn",
+"links": 43,
+"pob": 27410.0
+},
+{
+"es": "Haßfurt",
+"de": "Haßfurt",
+"links": 45,
+"pob": 13780.0
+},
+{
+"es": "Beverungen",
+"de": "Beverungen",
+"links": 44,
+"pob": 12595.0
+},
+{
+"es": "Daun",
+"de": "Daun",
+"links": 42,
+"pob": 7488.0
+},
+{
+"es": "Bad Driburg",
+"de": "Bad Driburg",
+"links": 42,
+"pob": 18876.0
+},
+{
+"es": "Bad Herrenalb",
+"de": "Bad Herrenalb",
+"links": 47,
+"pob": 7681.0
+},
+{
+"es": "Schortens",
+"de": "Schortens",
+"links": 41,
+"pob": 21001.0
+},
+{
+"es": "Büdingen",
+"de": "Büdingen",
+"links": 52,
+"pob": 22068.0
+},
+{
+"es": "Eppelheim",
+"de": "Eppelheim",
+"links": 47,
+"pob": 15706.0
+},
+{
+"es": "Lauenburg/Elbe",
+"de": "Lauenburg/Elbe",
+"links": 50,
+"pob": 11701.0
+},
+{
+"es": "Gerolstein",
+"de": "Gerolstein",
+"links": 38,
+"pob": 7198.0
+},
+{
+"es": "Furtwangen",
+"de": "Furtwangen im Schwarzwald",
+"links": 48,
+"pob": 8740.0
+},
+{
+"es": "Messkirch",
+"de": "Meßkirch",
+"links": 46,
+"pob": 8776.0
+},
+{
+"es": "Pfullendorf",
+"de": "Pfullendorf",
+"links": 52,
+"pob": 13496.0
+},
+{
+"es": "Tönisvorst",
+"de": "Tönisvorst",
+"links": 40,
+"pob": 29296.0
+},
+{
+"es": "Oerlinghausen",
+"de": "Oerlinghausen",
+"links": 45,
+"pob": 17302.0
+},
+{
+"es": "Hofheim",
+"de": "Hofheim in Unterfranken",
+"links": 42,
+"pob": 5095.0
+},
+{
+"es": "Sigmaringa",
+"de": "Sigmaringen",
+"links": 63,
+"pob": 16756.0
+},
+{
+"es": "Aken",
+"de": "Aken (Elbe)",
+"links": 41,
+"pob": 7050.0
+},
+{
+"es": "Hardegsen",
+"de": "Hardegsen",
+"links": 42,
+"pob": 7171.0
+},
+{
+"es": "Fritzlar",
+"de": "Fritzlar",
+"links": 50,
+"pob": 14503.0
+},
+{
+"es": "Ludwigsstadt",
+"de": "Ludwigsstadt",
+"links": 41,
+"pob": 2989.0
+},
+{
+"es": "Zwiesel",
+"de": "Zwiesel",
+"links": 45,
+"pob": 9078.0
+},
+{
+"es": "Borgentreich",
+"de": "Borgentreich",
+"links": 41,
+"pob": 8454.0
+},
+{
+"es": "Landsberg am Lech",
+"de": "Landsberg am Lech",
+"links": 64,
+"pob": 29230.0
+},
+{
+"es": "Bad Urach",
+"de": "Bad Urach",
+"links": 50,
+"pob": 12705.0
+},
+{
+"es": "Pasewalk",
+"de": "Pasewalk",
+"links": 50,
+"pob": 9590.0
+},
+{
+"es": "Schlotheim",
+"de": "Schlotheim",
+"links": 31,
+"pob": 3618.0
+},
+{
+"es": "Bad König",
+"de": "Bad König",
+"links": 43,
+"pob": 9472.0
+},
+{
+"es": "Artern",
+"de": "Artern",
+"links": 43,
+"pob": 6340.0
+},
+{
+"es": "Metzingen",
+"de": "Metzingen",
+"links": 50,
+"pob": 23305.0
+},
+{
+"es": "Brakel",
+"de": "Brakel",
+"links": 45,
+"pob": 16152.0
+},
+{
+"es": "Burgkunstadt",
+"de": "Burgkunstadt",
+"links": 46,
+"pob": 6335.0
+},
+{
+"es": "Schramberg",
+"de": "Schramberg",
+"links": 42,
+"pob": 20415.0
+},
+{
+"es": "Winnenden",
+"de": "Winnenden",
+"links": 54,
+"pob": 29844.0
+},
+{
+"es": "Marienmünster",
+"de": "Marienmünster",
+"links": 40,
+"pob": 4758.0
+},
+{
+"es": "Herrnhut",
+"de": "Herrnhut",
+"links": 59,
+"pob": 5654.0
+},
+{
+"es": "Neusalza-Spremberg",
+"de": "Neusalza-Spremberg",
+"links": 43,
+"pob": 3031.0
+},
+{
+"es": "Weinstadt",
+"de": "Weinstadt",
+"links": 48,
+"pob": 26926.0
+},
+{
+"es": "",
+"de": "Bad Dürrheim",
+"links": 43,
+"pob": 13084.0
+},
+{
+"es": "Rees",
+"de": "Rees",
+"links": 42,
+"pob": 21446.0
+},
+{
+"es": "Hechingen",
+"de": "Hechingen",
+"links": 54,
+"pob": 19760.0
+},
+{
+"es": "Arneburg",
+"de": "Arneburg",
+"links": 40,
+"pob": 1379.0
+},
+{
+"es": "Bad Bergzabern",
+"de": "Bad Bergzabern",
+"links": 44,
+"pob": 8664.0
+},
+{
+"es": "Heilsbronn",
+"de": "Heilsbronn",
+"links": 47,
+"pob": 9762.0
+},
+{
+"es": "Lügde",
+"de": "Lügde",
+"links": 42,
+"pob": 9080.0
+},
+{
+"es": "Ellwangen",
+"de": "Ellwangen",
+"links": 55,
+"pob": 24589.0
+},
+{
+"es": "Wolgast",
+"de": "Wolgast",
+"links": 52,
+"pob": 10859.0
+},
+{
+"es": "Horn-Bad Meinberg",
+"de": "Horn-Bad Meinberg",
+"links": 45,
+"pob": 17377.0
+},
+{
+"es": "Barntrup",
+"de": "Barntrup",
+"links": 44,
+"pob": 8248.0
+},
+{
+"es": "Ebern",
+"de": "Ebern",
+"links": 46,
+"pob": 7153.0
+},
+{
+"es": "Leutershausen",
+"de": "Leutershausen",
+"links": 44,
+"pob": 5606.0
+},
+{
+"es": "Kalkar",
+"de": "Kalkar",
+"links": 49,
+"pob": 14467.0
+},
+{
+"es": "Lassan",
+"de": "Lassan",
+"links": 40,
+"pob": 1226.0
+},
+{
+"es": "Baiersdorf",
+"de": "Baiersdorf",
+"links": 47,
+"pob": 7926.0
+},
+{
+"es": "Bedburg",
+"de": "Bedburg",
+"links": 47,
+"pob": 25210.0
+},
+{
+"es": "Sankt Georgen im Schwarzwald",
+"de": "St. Georgen im Schwarzwald",
+"links": 41,
+"pob": 12262.0
+},
+{
+"es": "Kelheim",
+"de": "Kelheim",
+"links": 53,
+"pob": 17108.0
+},
+{
+"es": "Emmendingen",
+"de": "Emmendingen",
+"links": 58,
+"pob": 29530.0
+},
+{
+"es": "Hann. Münden",
+"de": "Hann. Münden",
+"links": 56,
+"pob": 23367.0
+},
+{
+"es": "Mechernich",
+"de": "Mechernich",
+"links": 43,
+"pob": 29116.0
+},
+{
+"es": "Wangen im Allgäu",
+"de": "Wangen im Allgäu",
+"links": 51,
+"pob": 28784.0
+},
+{
+"es": "Rheinböllen",
+"de": "Rheinböllen",
+"links": 36,
+"pob": 4341.0
+},
+{
+"es": "Ruhla",
+"de": "Ruhla",
+"links": 52,
+"pob": 4978.0
+},
+{
+"es": "Burladingen",
+"de": "Burladingen",
+"links": 45,
+"pob": 12025.0
+},
+{
+"es": "Niedernhall",
+"de": "Niedernhall",
+"links": 37,
+"pob": 4132.0
+},
+{
+"es": "Gammertingen",
+"de": "Gammertingen",
+"links": 42,
+"pob": 6198.0
+},
+{
+"es": "Alpirsbach",
+"de": "Alpirsbach",
+"links": 44,
+"pob": 6042.0
+},
+{
+"es": "Freudenstadt",
+"de": "Freudenstadt",
+"links": 59,
+"pob": 24537.0
+},
+{
+"es": "Bad Muskau",
+"de": "Bad Muskau",
+"links": 58,
+"pob": 3508.0
+},
+{
+"es": "Bernstadt auf dem Eigen",
+"de": "Bernstadt a. d. Eigen",
+"links": 44,
+"pob": 3083.0
+},
+{
+"es": "Burscheid",
+"de": "Burscheid",
+"links": 42,
+"pob": 19104.0
+},
+{
+"es": "Sulz am Neckar",
+"de": "Sulz am Neckar",
+"links": 43,
+"pob": 12772.0
+},
+{
+"es": "Hüfingen",
+"de": "Hüfingen",
+"links": 41,
+"pob": 8048.0
+},
+{
+"es": "Schrozberg",
+"de": "Schrozberg",
+"links": 35,
+"pob": 5768.0
+},
+{
+"es": "Linz am Rhein",
+"de": "Linz am Rhein",
+"links": 43,
+"pob": 6276.0
+},
+{
+"es": "Niesky",
+"de": "Niesky",
+"links": 51,
+"pob": 8870.0
+},
+{
+"es": "Ostritz",
+"de": "Ostritz",
+"links": 43,
+"pob": 2204.0
+},
+{
+"es": "Gelnhausen",
+"de": "Gelnhausen",
+"links": 56,
+"pob": 23401.0
+},
+{
+"es": "Helmbrechts",
+"de": "Helmbrechts",
+"links": 45,
+"pob": 8033.0
+},
+{
+"es": "Neckargemünd",
+"de": "Neckargemünd",
+"links": 42,
+"pob": 13323.0
+},
+{
+"es": "Rottweil",
+"de": "Rottweil",
+"links": 64,
+"pob": 25001.0
+},
+{
+"es": "Seifhennersdorf",
+"de": "Seifhennersdorf",
+"links": 41,
+"pob": 3516.0
+},
+{
+"es": "Schiltach",
+"de": "Schiltach",
+"links": 41,
+"pob": 3495.0
+},
+{
+"es": "Donaueschingen",
+"de": "Donaueschingen",
+"links": 63,
+"pob": 21734.0
+},
+{
+"es": "Geesthacht",
+"de": "Geesthacht",
+"links": 46,
+"pob": 33955.0
+},
+{
+"es": "Vöhrenbach",
+"de": "Vöhrenbach",
+"links": 40,
+"pob": 3575.0
+},
+{
+"es": "Bad Freienwalde",
+"de": "Bad Freienwalde (Oder)",
+"links": 45,
+"pob": 11750.0
+},
+{
+"es": "Altdorf bei Nürnberg",
+"de": "Altdorf bei Nürnberg",
+"links": 49,
+"pob": 15527.0
+},
+{
+"es": "Sassnitz",
+"de": "Sassnitz",
+"links": 58,
+"pob": 8879.0
+},
+{
+"es": "Eisleben",
+"de": "Eisleben",
+"links": 79,
+"pob": 22225.0
+},
+{
+"es": "Overath",
+"de": "Overath",
+"links": 43,
+"pob": 26707.0
+},
+{
+"es": "Guben",
+"de": "Guben",
+"links": 54,
+"pob": 15613.0
+},
+{
+"es": "Glücksburg",
+"de": "Glücksburg",
+"links": 51,
+"pob": 6317.0
+},
+{
+"es": "Eibelstadt",
+"de": "Eibelstadt",
+"links": 44,
+"pob": 3089.0
+},
+{
+"es": "Zwingenberg",
+"de": "Zwingenberg",
+"links": 37,
+"pob": 7183.0
+},
+{
+"es": "Maxhütte-Haidhof",
+"de": "Maxhütte-Haidhof",
+"links": 39,
+"pob": 12075.0
+},
+{
+"es": "Aichach",
+"de": "Aichach",
+"links": 63,
+"pob": 22011.0
+},
+{
+"es": "Stadtsteinach",
+"de": "Stadtsteinach",
+"links": 44,
+"pob": 2996.0
+},
+{
+"es": "Dilinga",
+"de": "Dillingen an der Donau",
+"links": 54,
+"pob": 19643.0
+},
+{
+"es": "Wunsiedel",
+"de": "Wunsiedel",
+"links": 51,
+"pob": 8936.0
+},
+{
+"es": "Bad Segeberg",
+"de": "Bad Segeberg",
+"links": 52,
+"pob": 18508.0
+},
+{
+"es": "Hoya",
+"de": "Hoya",
+"links": 40,
+"pob": 3837.0
+},
+{
+"es": "Heringen",
+"de": "Heringen/Helme",
+"links": 36,
+"pob": 4449.0
+},
+{
+"es": "Endingen am Kaiserstuhl",
+"de": "Endingen am Kaiserstuhl",
+"links": 44,
+"pob": 10517.0
+},
+{
+"es": "Kevelaer",
+"de": "Kevelaer",
+"links": 52,
+"pob": 28215.0
+},
+{
+"es": "Kronach",
+"de": "Kronach",
+"links": 52,
+"pob": 16497.0
+},
+{
+"es": "Scheer",
+"de": "Scheer",
+"links": 36,
+"pob": 2456.0
+},
+{
+"es": "Rösrath",
+"de": "Rösrath",
+"links": 43,
+"pob": 28688.0
+},
+{
+"es": "Leichlingen",
+"de": "Leichlingen",
+"links": 41,
+"pob": 28205.0
+},
+{
+"es": "Alfeld",
+"de": "Alfeld",
+"links": 53,
+"pob": 17991.0
+},
+{
+"es": "Remagen",
+"de": "Remagen",
+"links": 58,
+"pob": 17563.0
+},
+{
+"es": "Bad Fallingbostel",
+"de": "Bad Fallingbostel",
+"links": 43,
+"pob": 12749.0
+},
+{
+"es": "Bad Iburg",
+"de": "Bad Iburg",
+"links": 50,
+"pob": 10610.0
+},
+{
+"es": "Blomberg",
+"de": "Blomberg",
+"links": 45,
+"pob": 15367.0
+},
+{
+"es": "Altenberg",
+"de": "Altenberg",
+"links": 49,
+"pob": 7402.0
+},
+{
+"es": "Buchen",
+"de": "Buchen",
+"links": 46,
+"pob": 18293.0
+},
+{
+"es": "Alzey",
+"de": "Alzey",
+"links": 53,
+"pob": 19305.0
+},
+{
+"es": "Amorbach",
+"de": "Amorbach",
+"links": 50,
+"pob": 3911.0
+},
+{
+"es": "Bad Krozingen",
+"de": "Bad Krozingen",
+"links": 53,
+"pob": 21620.0
+},
+{
+"es": "Preetz",
+"de": "Preetz",
+"links": 42,
+"pob": 16464.0
+},
+{
+"es": "Bretten",
+"de": "Bretten",
+"links": 54,
+"pob": 30312.0
+},
+{
+"es": "Frankenau",
+"de": "Frankenau",
+"links": 38,
+"pob": 2718.0
+},
+{
+"es": "Oldenburg in Holstein",
+"de": "Oldenburg in Holstein",
+"links": 46,
+"pob": 9724.0
+},
+{
+"es": "Bad Buchau",
+"de": "Bad Buchau",
+"links": 50,
+"pob": 4622.0
+},
+{
+"es": "Güsten",
+"de": "Güsten",
+"links": 38,
+"pob": 3744.0
+},
+{
+"es": "Hörstel",
+"de": "Hörstel",
+"links": 45,
+"pob": 20101.0
+},
+{
+"es": "Varel",
+"de": "Varel",
+"links": 54,
+"pob": 24635.0
+},
+{
+"es": "Groß-Gerau",
+"de": "Groß-Gerau",
+"links": 42,
+"pob": 25401.0
+},
+{
+"es": "Hohenberg an der Eger",
+"de": "Hohenberg an der Eger",
+"links": 43,
+"pob": 1438.0
+},
+{
+"es": "Romrod",
+"de": "Romrod",
+"links": 37,
+"pob": 2690.0
+},
+{
+"es": "Zörbig",
+"de": "Zörbig",
+"links": 37,
+"pob": 8787.0
+},
+{
+"es": "Olching",
+"de": "Olching",
+"links": 45,
+"pob": 27418.0
+},
+{
+"es": "Gießen",
+"de": "Gießen",
+"links": 75,
+"pob": 88544.0
+},
+{
+"es": "Pattensen",
+"de": "Pattensen",
+"links": 43,
+"pob": 14699.0
+},
+{
+"es": "Schleswig",
+"de": "Schleswig",
+"links": 66,
+"pob": 25567.0
+},
+{
+"es": "Altlandsberg",
+"de": "Altlandsberg",
+"links": 43,
+"pob": 9680.0
+},
+{
+"es": "Alzenau",
+"de": "Alzenau",
+"links": 50,
+"pob": 17968.0
+},
+{
+"es": "Dorsten",
+"de": "Dorsten",
+"links": 53,
+"pob": 74783.0
+},
+{
+"es": "Plön",
+"de": "Plön",
+"links": 52,
+"pob": 8851.0
+},
+{
+"es": "Bonndorf",
+"de": "Bonndorf im Schwarzwald",
+"links": 43,
+"pob": 6799.0
+},
+{
+"es": "Bremervörde",
+"de": "Bremervörde",
+"links": 47,
+"pob": 18409.0
+},
+{
+"es": "Verden",
+"de": "Verden (Aller)",
+"links": 52,
+"pob": 27273.0
+},
+{
+"es": "Mitterteich",
+"de": "Mitterteich",
+"links": 42,
+"pob": 6557.0
+},
+{
+"es": "Kolbermoor",
+"de": "Kolbermoor",
+"links": 44,
+"pob": 19149.0
+},
+{
+"es": "Mühlberg",
+"de": "Mühlberg/Elbe",
+"links": 43,
+"pob": 3253.0
+},
+{
+"es": "Freyung",
+"de": "Freyung",
+"links": 47,
+"pob": 7059.0
+},
+{
+"es": "Bad Arolsen",
+"de": "Bad Arolsen",
+"links": 53,
+"pob": 15998.0
+},
+{
+"es": "Wildeshausen",
+"de": "Wildeshausen",
+"links": 44,
+"pob": 21347.0
+},
+{
+"es": "Brake",
+"de": "Brake",
+"links": 44,
+"pob": 15144.0
+},
+{
+"es": "Mölln",
+"de": "Mölln",
+"links": 46,
+"pob": 19513.0
+},
+{
+"es": "Furth im Wald",
+"de": "Furth im Wald",
+"links": 43,
+"pob": 8525.0
+},
+{
+"es": "Ochtrup",
+"de": "Ochtrup",
+"links": 47,
+"pob": 20358.0
+},
+{
+"es": "Vohburg an der Donau",
+"de": "Vohburg an der Donau",
+"links": 39,
+"pob": 8828.0
+},
+{
+"es": "",
+"de": "Treuchtlingen",
+"links": 46,
+"pob": 13110.0
+},
+{
+"es": "Grafenwöhr",
+"de": "Grafenwöhr",
+"links": 45,
+"pob": 6347.0
+},
+{
+"es": "Feuchtwangen",
+"de": "Feuchtwangen",
+"links": 48,
+"pob": 12390.0
+},
+{
+"es": "Meersburg",
+"de": "Meersburg",
+"links": 54,
+"pob": 6019.0
+},
+{
+"es": "Eggenfelden",
+"de": "Eggenfelden",
+"links": 44,
+"pob": 14295.0
+},
+{
+"es": "Jüchen",
+"de": "Jüchen",
+"links": 40,
+"pob": 23901.0
+},
+{
+"es": "Jüterbog",
+"de": "Jüterbog",
+"links": 50,
+"pob": 12961.0
+},
+{
+"es": "Tecklenburg",
+"de": "Tecklenburg",
+"links": 46,
+"pob": 9099.0
+},
+{
+"es": "Bobingen",
+"de": "Bobingen",
+"links": 47,
+"pob": 18108.0
+},
+{
+"es": "Haselünne",
+"de": "Haselünne",
+"links": 41,
+"pob": 13503.0
+},
+{
+"es": "Horstmar",
+"de": "Horstmar",
+"links": 44,
+"pob": 7428.0
+},
+{
+"es": "Espelkamp",
+"de": "Espelkamp",
+"links": 48,
+"pob": 25486.0
+},
+{
+"es": "Ebersberg",
+"de": "Ebersberg",
+"links": 49,
+"pob": 12340.0
+},
+{
+"es": "Traunstein",
+"de": "Traunstein",
+"links": 59,
+"pob": 20977.0
+},
+{
+"es": "Teuschnitz",
+"de": "Teuschnitz",
+"links": 43,
+"pob": 1827.0
+},
+{
+"es": "Eichstätt",
+"de": "Eichstätt",
+"links": 62,
+"pob": 14066.0
+},
+{
+"es": "Marburgo",
+"de": "Marburg",
+"links": 88,
+"pob": 73571.0
+},
+{
+"es": "Betzenstein",
+"de": "Betzenstein",
+"links": 44,
+"pob": 2515.0
+},
+{
+"es": "Rheine",
+"de": "Rheine",
+"links": 61,
+"pob": 77552.0
+},
+{
+"es": "Petershagen",
+"de": "Petershagen",
+"links": 45,
+"pob": 25192.0
+},
+{
+"es": "Preußisch Oldendorf",
+"de": "Preußisch Oldendorf",
+"links": 42,
+"pob": 12486.0
+},
+{
+"es": "Rotenburg an der Wümme",
+"de": "Rotenburg",
+"links": 47,
+"pob": 23211.0
+},
+{
+"es": "Simbach am Inn",
+"de": "Simbach am Inn",
+"links": 46,
+"pob": 10311.0
+},
+{
+"es": "Bad Griesbach im Rottal",
+"de": "Bad Griesbach im Rottal",
+"links": 44,
+"pob": 9050.0
+},
+{
+"es": "Viersen",
+"de": "Viersen",
+"links": 52,
+"pob": 78227.0
+},
+{
+"es": "Windsbach",
+"de": "Windsbach",
+"links": 43,
+"pob": 6110.0
+},
+{
+"es": "Heideck",
+"de": "Heideck",
+"links": 45,
+"pob": 4688.0
+},
+{
+"es": "Lengerich",
+"de": "Lengerich",
+"links": 44,
+"pob": 22591.0
+},
+{
+"es": "Quakenbrück",
+"de": "Quakenbrück",
+"links": 49,
+"pob": 14088.0
+},
+{
+"es": "Rinteln",
+"de": "Rinteln",
+"links": 48,
+"pob": 25382.0
+},
+{
+"es": "",
+"de": "Abensberg",
+"links": 57,
+"pob": 15254.0
+},
+{
+"es": "Rahden",
+"de": "Rahden",
+"links": 45,
+"pob": 16128.0
+},
+{
+"es": "Diepholz",
+"de": "Diepholz",
+"links": 47,
+"pob": 17677.0
+},
+{
+"es": "Lüneburg",
+"de": "Lüneburg",
+"links": 86,
+"pob": 74502.0
+},
+{
+"es": "Gützkow",
+"de": "Gützkow",
+"links": 40,
+"pob": 2965.0
+},
+{
+"es": "Widdern",
+"de": "Widdern",
+"links": 43,
+"pob": 1836.0
+},
+{
+"es": "Meldorf",
+"de": "Meldorf",
+"links": 43,
+"pob": 7158.0
+},
+{
+"es": "Sangerhausen",
+"de": "Sangerhausen",
+"links": 56,
+"pob": 25163.0
+},
+{
+"es": "Neumünster",
+"de": "Neumünster",
+"links": 76,
+"pob": 80145.0
+},
+{
+"es": "Troisdorf",
+"de": "Troisdorf",
+"links": 54,
+"pob": 75742.0
+},
+{
+"es": "Perleberg",
+"de": "Perleberg",
+"links": 50,
+"pob": 11917.0
+},
+{
+"es": "Prüm",
+"de": "Prüm",
+"links": 44,
+"pob": 5276.0
+},
+{
+"es": "Bassum",
+"de": "Bassum",
+"links": 44,
+"pob": 16617.0
+},
+{
+"es": "Gräfenberg",
+"de": "Gräfenberg",
+"links": 44,
+"pob": 4181.0
+},
+{
+"es": "Goslar",
+"de": "Goslar",
+"links": 83,
+"pob": 47454.0
+},
+{
+"es": "Castrop-Rauxel",
+"de": "Castrop-Rauxel",
+"links": 54,
+"pob": 72353.0
+},
+{
+"es": "Penzberg",
+"de": "Penzberg",
+"links": 47,
+"pob": 17246.0
+},
+{
+"es": "Puchheim",
+"de": "Puchheim",
+"links": 48,
+"pob": 20896.0
+},
+{
+"es": "Schauenstein",
+"de": "Schauenstein",
+"links": 42,
+"pob": 1830.0
+},
+{
+"es": "Wolframs-Eschenbach",
+"de": "Wolframs-Eschenbach",
+"links": 45,
+"pob": 3304.0
+},
+{
+"es": "Wallenfels",
+"de": "Wallenfels",
+"links": 43,
+"pob": 2413.0
+},
+{
+"es": "Lübbecke",
+"de": "Lübbecke",
+"links": 48,
+"pob": 26807.0
+},
+{
+"es": "Tangermünde",
+"de": "Tangermünde",
+"links": 47,
+"pob": 10165.0
+},
+{
+"es": "Schwarzenbach am Wald",
+"de": "Schwarzenbach am Wald",
+"links": 43,
+"pob": 4170.0
+},
+{
+"es": "Erlenbach am Main",
+"de": "Erlenbach am Main",
+"links": 44,
+"pob": 9688.0
+},
+{
+"es": "Bad Lippspringe",
+"de": "Bad Lippspringe",
+"links": 44,
+"pob": 17280.0
+},
+{
+"es": "Burgwedel",
+"de": "Burgwedel",
+"links": 44,
+"pob": 20328.0
+},
+{
+"es": "Korbach",
+"de": "Korbach",
+"links": 48,
+"pob": 22789.0
+},
+{
+"es": "Prichsenstadt",
+"de": "Prichsenstadt",
+"links": 44,
+"pob": 2989.0
+},
+{
+"es": "Burgbernheim",
+"de": "Burgbernheim",
+"links": 42,
+"pob": 3517.0
+},
+{
+"es": "Unkel",
+"de": "Unkel",
+"links": 45,
+"pob": 5008.0
+},
+{
+"es": "Brandemburgo",
+"de": "Brandenburg an der Havel",
+"links": 86,
+"pob": 73945.0
+},
+{
+"es": "Weismain",
+"de": "Weismain",
+"links": 42,
+"pob": 4815.0
+},
+{
+"es": "Northeim",
+"de": "Northeim",
+"links": 50,
+"pob": 27174.0
+},
+{
+"es": "Lüdenscheid",
+"de": "Lüdenscheid",
+"links": 64,
+"pob": 70810.0
+},
+{
+"es": "Arnsberg",
+"de": "Arnsberg",
+"links": 71,
+"pob": 74479.0
+},
+{
+"es": "Bocholt",
+"de": "Bocholt",
+"links": 66,
+"pob": 73048.0
+},
+{
+"es": "Mühldorf",
+"de": "Mühldorf am Inn",
+"links": 49,
+"pob": 22624.0
+},
+{
+"es": "Senden",
+"de": "Senden",
+"links": 43,
+"pob": 23676.0
+},
+{
+"es": "Gersthofen",
+"de": "Gersthofen",
+"links": 44,
+"pob": 23409.0
+},
+{
+"es": "Forchtenberg",
+"de": "Forchtenberg",
+"links": 43,
+"pob": 5375.0
+},
+{
+"es": "Lichtenberg",
+"de": "Lichtenberg",
+"links": 40,
+"pob": 927.0
+},
+{
+"es": "Norderstedt",
+"de": "Norderstedt",
+"links": 58,
+"pob": 83196.0
+},
+{
+"es": "Delmenhorst",
+"de": "Delmenhorst",
+"links": 77,
+"pob": 81274.0
+},
+{
+"es": "Celle",
+"de": "Celle",
+"links": 76,
+"pob": 66930.0
+},
+{
+"es": "Herford",
+"de": "Herford",
+"links": 59,
+"pob": 67074.0
+},
+{
+"es": "Bad Friedrichshall",
+"de": "Bad Friedrichshall",
+"links": 47,
+"pob": 19910.0
+},
+{
+"es": "Wassertrüdingen",
+"de": "Wassertrüdingen",
+"links": 44,
+"pob": 6374.0
+},
+{
+"es": "Gladbeck",
+"de": "Gladbeck",
+"links": 57,
+"pob": 75647.0
+},
+{
+"es": "Dinslaken",
+"de": "Dinslaken",
+"links": 56,
+"pob": 66869.0
+},
+{
+"es": "Neustadt in Holstein",
+"de": "Neustadt in Holstein",
+"links": 42,
+"pob": 15962.0
+},
+{
+"es": "Creußen",
+"de": "Creußen",
+"links": 46,
+"pob": 4925.0
+},
+{
+"es": "Lippstadt",
+"de": "Lippstadt",
+"links": 56,
+"pob": 68383.0
+},
+{
+"es": "Cochem",
+"de": "Cochem",
+"links": 53,
+"pob": 4897.0
+},
+{
+"es": "Sonneberg",
+"de": "Sonneberg",
+"links": 53,
+"pob": 22649.0
+},
+{
+"es": "Duderstadt",
+"de": "Duderstadt",
+"links": 50,
+"pob": 20173.0
+},
+{
+"es": "Neuwied",
+"de": "Neuwied",
+"links": 63,
+"pob": 67201.0
+},
+{
+"es": "Windischeschenbach",
+"de": "Windischeschenbach",
+"links": 44,
+"pob": 4886.0
+},
+{
+"es": "Werneuchen",
+"de": "Werneuchen",
+"links": 43,
+"pob": 9430.0
+},
+{
+"es": "Hersbruck",
+"de": "Hersbruck",
+"links": 45,
+"pob": 12261.0
+},
+{
+"es": "Detmold",
+"de": "Detmold",
+"links": 79,
+"pob": 74438.0
+},
+{
+"es": "Kerpen",
+"de": "Kerpen",
+"links": 52,
+"pob": 66377.0
+},
+{
+"es": "Grevenbroich",
+"de": "Grevenbroich",
+"links": 59,
+"pob": 65605.0
+},
+{
+"es": "Bayreuth",
+"de": "Bayreuth",
+"links": 96,
+"pob": 72919.0
+},
+{
+"es": "Bad Salzungen",
+"de": "Bad Salzungen",
+"links": 47,
+"pob": 22234.0
+},
+{
+"es": "Klingenberg am Main",
+"de": "Klingenberg am Main",
+"links": 44,
+"pob": 6006.0
+},
+{
+"es": "Miltenberg",
+"de": "Miltenberg",
+"links": 49,
+"pob": 9283.0
+},
+{
+"es": "Visselhövede",
+"de": "Visselhövede",
+"links": 40,
+"pob": 9747.0
+},
+{
+"es": "Mansfeld",
+"de": "Mansfeld",
+"links": 42,
+"pob": 7946.0
+},
+{
+"es": "Iphofen",
+"de": "Iphofen",
+"links": 45,
+"pob": 4822.0
+},
+{
+"es": "Bad Wildbad",
+"de": "Bad Wildbad",
+"links": 48,
+"pob": 10359.0
+},
+{
+"es": "Bamberg",
+"de": "Bamberg",
+"links": 100,
+"pob": 77218.0
+},
+{
+"es": "Eschenbach in der Oberpfalz",
+"de": "Eschenbach in der Oberpfalz",
+"links": 44,
+"pob": 4370.0
+},
+{
+"es": "Plauen",
+"de": "Plauen",
+"links": 75,
+"pob": 64893.0
+},
+{
+"es": "Neustadt",
+"de": "Neustadt",
+"links": 34,
+"pob": 9289.0
+},
+{
+"es": "Wemding",
+"de": "Wemding",
+"links": 46,
+"pob": 5742.0
+},
+{
+"es": "Unna",
+"de": "Unna",
+"links": 63,
+"pob": 57961.0
+},
+{
+"es": "Ohrdruf",
+"de": "Ohrdruf",
+"links": 42,
+"pob": 9903.0
+},
+{
+"es": "Fulda",
+"de": "Fulda",
+"links": 84,
+"pob": 65755.0
+},
+{
+"es": "Konz",
+"de": "Konz",
+"links": 48,
+"pob": 18099.0
+},
+{
+"es": "Ichenhausen",
+"de": "Ichenhausen",
+"links": 45,
+"pob": 9354.0
+},
+{
+"es": "Landshut",
+"de": "Landshut",
+"links": 85,
+"pob": 71922.0
+},
+{
+"es": "Stadtprozelten",
+"de": "Stadtprozelten",
+"links": 43,
+"pob": 1542.0
+},
+{
+"es": "Dormagen",
+"de": "Dormagen",
+"links": 55,
+"pob": 63619.0
+},
+{
+"es": "Greiz",
+"de": "Greiz",
+"links": 53,
+"pob": 19136.0
+},
+{
+"es": "Wertingen",
+"de": "Wertingen",
+"links": 44,
+"pob": 9534.0
+},
+{
+"es": "Rosenheim",
+"de": "Rosenheim",
+"links": 82,
+"pob": 65808.0
+},
+{
+"es": "Neusäß",
+"de": "Neusäß",
+"links": 46,
+"pob": 23026.0
+},
+{
+"es": "Waldmünchen",
+"de": "Waldmünchen",
+"links": 44,
+"pob": 6533.0
+},
+{
+"es": "Vohenstrauß",
+"de": "Vohenstrauß",
+"links": 44,
+"pob": 7559.0
+},
+{
+"es": "Goldkronach",
+"de": "Goldkronach",
+"links": 42,
+"pob": 3408.0
+},
+{
+"es": "Neuenstadt am Kocher",
+"de": "Neuenstadt am Kocher",
+"links": 44,
+"pob": 10218.0
+},
+{
+"es": "Wesel",
+"de": "Wesel",
+"links": 65,
+"pob": 60717.0
+},
+{
+"es": "Weimar",
+"de": "Weimar",
+"links": 126,
+"pob": 65566.0
+},
+{
+"es": "Kempten",
+"de": "Kempten",
+"links": 81,
+"pob": 67916.0
+},
+{
+"es": "Garbsen",
+"de": "Garbsen",
+"links": 48,
+"pob": 60007.0
+},
+{
+"es": "Neubrandenburg",
+"de": "Neubrandenburg",
+"links": 79,
+"pob": 59494.0
+},
+{
+"es": "Waischenfeld",
+"de": "Waischenfeld",
+"links": 41,
+"pob": 2955.0
+},
+{
+"es": "Pressath",
+"de": "Pressath",
+"links": 43,
+"pob": 4149.0
+},
+{
+"es": "Herten",
+"de": "Herten",
+"links": 55,
+"pob": 60707.0
+},
+{
+"es": "Hamelín",
+"de": "Hameln",
+"links": 75,
+"pob": 58152.0
+},
+{
+"es": "Hollfeld",
+"de": "Hollfeld",
+"links": 44,
+"pob": 4769.0
+},
+{
+"es": "Offenburg",
+"de": "Offenburg",
+"links": 68,
+"pob": 63437.0
+},
+{
+"es": "Hürth",
+"de": "Hürth",
+"links": 55,
+"pob": 61732.0
+},
+{
+"es": "Schillingsfürst",
+"de": "Schillingsfürst",
+"links": 43,
+"pob": 2786.0
+},
+{
+"es": "Aschaffenburg",
+"de": "Aschaffenburg",
+"links": 83,
+"pob": 73326.0
+},
+{
+"es": "Marktoberdorf",
+"de": "Marktoberdorf",
+"links": 46,
+"pob": 18463.0
+},
+{
+"es": "Hirschau",
+"de": "Hirschau",
+"links": 44,
+"pob": 5737.0
+},
+{
+"es": "Marktsteft",
+"de": "Marktsteft",
+"links": 42,
+"pob": 1801.0
+},
+{
+"es": "Schneverdingen",
+"de": "Schneverdingen",
+"links": 38,
+"pob": 18964.0
+},
+{
+"es": "Pleystein",
+"de": "Pleystein",
+"links": 43,
+"pob": 2321.0
+},
+{
+"es": "Osterhofen",
+"de": "Osterhofen",
+"links": 48,
+"pob": 12073.0
+},
+{
+"es": "Stolberg",
+"de": "Stolberg",
+"links": 55,
+"pob": 57678.0
+},
+{
+"es": "Rüsselsheim",
+"de": "Rüsselsheim am Main",
+"links": 63,
+"pob": 66028.0
+},
+{
+"es": "Stralsund",
+"de": "Stralsund",
+"links": 90,
+"pob": 55481.0
+},
+{
+"es": "Fráncfort del Óder",
+"de": "Frankfurt (Oder)",
+"links": 95,
+"pob": 56586.0
+},
+{
+"es": "Obernburg am Main",
+"de": "Obernburg am Main",
+"links": 43,
+"pob": 8583.0
+},
+{
+"es": "Göppingen",
+"de": "Göppingen",
+"links": 67,
+"pob": 58678.0
+},
+{
+"es": "Bockenem",
+"de": "Bockenem",
+"links": 42,
+"pob": 9362.0
+},
+{
+"es": "Sindelfingen",
+"de": "Sindelfingen",
+"links": 71,
+"pob": 61428.0
+},
+{
+"es": "Sankt Augustin",
+"de": "Sankt Augustin",
+"links": 51,
+"pob": 56033.0
+},
+{
+"es": "Rain",
+"de": "Rain am Lech",
+"links": 42,
+"pob": 9197.0
+},
+{
+"es": "Syke",
+"de": "Syke",
+"links": 43,
+"pob": 25301.0
+},
+{
+"es": "Nordenham",
+"de": "Nordenham",
+"links": 48,
+"pob": 25759.0
+},
+{
+"es": "Euskirchen",
+"de": "Euskirchen",
+"links": 56,
+"pob": 59977.0
+},
+{
+"es": "Schwäbisch Gmünd",
+"de": "Schwäbisch Gmünd",
+"links": 60,
+"pob": 63930.0
+},
+{
+"es": "Illertissen",
+"de": "Illertissen",
+"links": 47,
+"pob": 18484.0
+},
+{
+"es": "Stadtbergen",
+"de": "Stadtbergen",
+"links": 44,
+"pob": 15595.0
+},
+{
+"es": "Langenfeld",
+"de": "Langenfeld",
+"links": 49,
+"pob": 59821.0
+},
+{
+"es": "Friedrichshafen",
+"de": "Friedrichshafen",
+"links": 81,
+"pob": 62781.0
+},
+{
+"es": "Hattingen",
+"de": "Hattingen",
+"links": 58,
+"pob": 52969.0
+},
+{
+"es": "Bergheim",
+"de": "Bergheim",
+"links": 55,
+"pob": 61976.0
+},
+{
+"es": "Sulzbach-Rosenberg",
+"de": "Sulzbach-Rosenberg",
+"links": 47,
+"pob": 19255.0
+},
+{
+"es": "Bad Teinach-Zavelstein",
+"de": "Bad Teinach-Zavelstein",
+"links": 39,
+"pob": 3217.0
+},
+{
+"es": "Havelberg",
+"de": "Havelberg",
+"links": 45,
+"pob": 6174.0
+},
+{
+"es": "Hilden",
+"de": "Hilden",
+"links": 53,
+"pob": 54859.0
+},
+{
+"es": "Harburg",
+"de": "Harburg (Schwaben)",
+"links": 49,
+"pob": 5543.0
+},
+{
+"es": "Görlitz",
+"de": "Görlitz",
+"links": 85,
+"pob": 55065.0
+},
+{
+"es": "Neudenau",
+"de": "Neudenau",
+"links": 40,
+"pob": 5608.0
+},
+{
+"es": "Mainburg",
+"de": "Mainburg",
+"links": 46,
+"pob": 15279.0
+},
+{
+"es": "Walldürn",
+"de": "Walldürn",
+"links": 45,
+"pob": 11562.0
+},
+{
+"es": "Eschweiler",
+"de": "Eschweiler",
+"links": 91,
+"pob": 57573.0
+},
+{
+"es": "Twistringen",
+"de": "Twistringen",
+"links": 42,
+"pob": 13166.0
+},
+{
+"es": "Nebra",
+"de": "Nebra",
+"links": 41,
+"pob": 2956.0
+},
+{
+"es": "Lauf an der Pegnitz",
+"de": "Lauf an der Pegnitz",
+"links": 50,
+"pob": 25754.0
+},
+{
+"es": "Naila",
+"de": "Naila",
+"links": 46,
+"pob": 7486.0
+},
+{
+"es": "Diez",
+"de": "Diez",
+"links": 46,
+"pob": 11445.0
+},
+{
+"es": "Roth",
+"de": "Roth",
+"links": 49,
+"pob": 25473.0
+},
+{
+"es": "Bad Homburg",
+"de": "Bad Homburg vor der Höhe",
+"links": 65,
+"pob": 56938.0
+},
+{
+"es": "Greifswald",
+"de": "Greifswald",
+"links": 85,
+"pob": 56154.0
+},
+{
+"es": "Wolfratshausen",
+"de": "Wolfratshausen",
+"links": 53,
+"pob": 19536.0
+},
+{
+"es": "Pulheim",
+"de": "Pulheim",
+"links": 56,
+"pob": 55979.0
+},
+{
+"es": "Menden (Sauerland)",
+"de": "Menden (Sauerland)",
+"links": 52,
+"pob": 52121.0
+},
+{
+"es": "Gunzenhausen",
+"de": "Gunzenhausen",
+"links": 50,
+"pob": 16698.0
+},
+{
+"es": "Leipheim",
+"de": "Leipheim",
+"links": 46,
+"pob": 7385.0
+},
+{
+"es": "Freystadt",
+"de": "Freystadt",
+"links": 42,
+"pob": 9097.0
+},
+{
+"es": "Willich",
+"de": "Willich",
+"links": 50,
+"pob": 49374.0
+},
+{
+"es": "Herzberg am Harz",
+"de": "Herzberg am Harz",
+"links": 53,
+"pob": 12647.0
+},
+{
+"es": "Gefrees",
+"de": "Gefrees",
+"links": 43,
+"pob": 4173.0
+},
+{
+"es": "",
+"de": "Monheim",
+"links": 44,
+"pob": 5416.0
+},
+{
+"es": "Bad Berneck im Fichtelgebirge",
+"de": "Bad Berneck im Fichtelgebirge",
+"links": 44,
+"pob": 4276.0
+},
+{
+"es": "Baden-Baden",
+"de": "Baden-Baden",
+"links": 107,
+"pob": 56952.0
+},
+{
+"es": "Osterburg",
+"de": "Osterburg",
+"links": 36,
+"pob": 9274.0
+},
+{
+"es": "Wolfenbüttel",
+"de": "Wolfenbüttel",
+"links": 61,
+"pob": 52511.0
+},
+{
+"es": "Schwarzenbach an der Saale",
+"de": "Schwarzenbach an der Saale",
+"links": 43,
+"pob": 6878.0
+},
+{
+"es": "Waghäusel",
+"de": "Waghäusel",
+"links": 47,
+"pob": 22301.0
+},
+{
+"es": "Cuxhaven",
+"de": "Cuxhaven",
+"links": 78,
+"pob": 49545.0
+},
+{
+"es": "Nuevo Ulm",
+"de": "Neu-Ulm",
+"links": 68,
+"pob": 62843.0
+},
+{
+"es": "Bexbach",
+"de": "Bexbach",
+"links": 41,
+"pob": 17730.0
+},
+{
+"es": "Bergkamen",
+"de": "Bergkamen",
+"links": 54,
+"pob": 49198.0
+},
+{
+"es": "Ebermannstadt",
+"de": "Ebermannstadt",
+"links": 45,
+"pob": 6692.0
+},
+{
+"es": "Gummersbach",
+"de": "Gummersbach",
+"links": 56,
+"pob": 51332.0
+},
+{
+"es": "Passau",
+"de": "Passau",
+"links": 98,
+"pob": 53523.0
+},
+{
+"es": "Waren",
+"de": "Waren",
+"links": 45,
+"pob": 20211.0
+},
+{
+"es": "Pappenheim",
+"de": "Pappenheim",
+"links": 48,
+"pob": 3934.0
+},
+{
+"es": "Schenefeld",
+"de": "Schenefeld",
+"links": 40,
+"pob": 19875.0
+},
+{
+"es": "Bad Brückenau",
+"de": "Bad Brückenau",
+"links": 50,
+"pob": 6415.0
+},
+{
+"es": "Nordhorn",
+"de": "Nordhorn",
+"links": 56,
+"pob": 57372.0
+},
+{
+"es": "Schweinfurt",
+"de": "Schweinfurt",
+"links": 74,
+"pob": 54539.0
+},
+{
+"es": "Wedel",
+"de": "Wedel",
+"links": 52,
+"pob": 34939.0
+},
+{
+"es": "Bad Salzuflen",
+"de": "Bad Salzuflen",
+"links": 52,
+"pob": 53807.0
+},
+{
+"es": "Neustadt an der Weinstraße",
+"de": "Neustadt an der Weinstraße",
+"links": 61,
+"pob": 52882.0
+},
+{
+"es": "Balve",
+"de": "Balve",
+"links": 46,
+"pob": 11134.0
+},
+{
+"es": "Waiblingen",
+"de": "Waiblingen",
+"links": 64,
+"pob": 57186.0
+},
+{
+"es": "Gaggenau",
+"de": "Gaggenau",
+"links": 45,
+"pob": 29394.0
+},
+{
+"es": "Weener",
+"de": "Weener",
+"links": 46,
+"pob": 15243.0
+},
+{
+"es": "Ibbenbüren",
+"de": "Ibbenbüren",
+"links": 52,
+"pob": 51596.0
+},
+{
+"es": "Langenhagen",
+"de": "Langenhagen",
+"links": 55,
+"pob": 54059.0
+},
+{
+"es": "Clausthal-Zellerfeld",
+"de": "Clausthal-Zellerfeld",
+"links": 52,
+"pob": 13501.0
+},
+{
+"es": "Erftstadt",
+"de": "Erftstadt",
+"links": 52,
+"pob": 48724.0
+},
+{
+"es": "Pottenstein",
+"de": "Pottenstein",
+"links": 43,
+"pob": 5177.0
+},
+{
+"es": "Arnstein",
+"de": "Arnstein",
+"links": 47,
+"pob": 8235.0
+},
+{
+"es": "Meerbusch",
+"de": "Meerbusch",
+"links": 52,
+"pob": 56947.0
+},
+{
+"es": "Hildburghausen",
+"de": "Hildburghausen",
+"links": 51,
+"pob": 11495.0
+},
+{
+"es": "Eltmann",
+"de": "Eltmann",
+"links": 44,
+"pob": 5304.0
+},
+{
+"es": "Möckmühl",
+"de": "Möckmühl",
+"links": 43,
+"pob": 8489.0
+},
+{
+"es": "Velburg",
+"de": "Velburg",
+"links": 41,
+"pob": 5457.0
+},
+{
+"es": "Wetzlar",
+"de": "Wetzlar",
+"links": 96,
+"pob": 54865.0
+},
+{
+"es": "Erbendorf",
+"de": "Erbendorf",
+"links": 45,
+"pob": 5026.0
+},
+{
+"es": "Bad Staffelstein",
+"de": "Bad Staffelstein",
+"links": 47,
+"pob": 10731.0
+},
+{
+"es": "Dettelbach",
+"de": "Dettelbach",
+"links": 45,
+"pob": 6890.0
+},
+{
+"es": "Volkach",
+"de": "Volkach",
+"links": 45,
+"pob": 8450.0
+},
+{
+"es": "Bad Wörishofen",
+"de": "Bad Wörishofen",
+"links": 50,
+"pob": 16893.0
+},
+{
+"es": "Schwandorf",
+"de": "Schwandorf",
+"links": 46,
+"pob": 29836.0
+},
+{
+"es": "Neustadt an der Orla",
+"de": "Neustadt an der Orla",
+"links": 37,
+"pob": 8602.0
+},
+{
+"es": "Kupferberg",
+"de": "Kupferberg",
+"links": 43,
+"pob": 1033.0
+},
+{
+"es": "Altena",
+"de": "Altena",
+"links": 56,
+"pob": 16403.0
+},
+{
+"es": "Oberasbach",
+"de": "Oberasbach",
+"links": 42,
+"pob": 17678.0
+},
+{
+"es": "Lohr am Main",
+"de": "Lohr am Main",
+"links": 46,
+"pob": 14964.0
+},
+{
+"es": "Auma-Weidatal",
+"de": "Auma-Weidatal",
+"links": 22,
+"pob": 3281.0
+},
+{
+"es": "Neuenrade",
+"de": "Neuenrade",
+"links": 40,
+"pob": 11520.0
+},
+{
+"es": "Soltau",
+"de": "Soltau",
+"links": 49,
+"pob": 22522.0
+},
+{
+"es": "Geretsried",
+"de": "Geretsried",
+"links": 48,
+"pob": 25907.0
+},
+{
+"es": "Lingen",
+"de": "Lingen",
+"links": 56,
+"pob": 56539.0
+},
+{
+"es": "Meschede",
+"de": "Meschede",
+"links": 52,
+"pob": 29446.0
+},
+{
+"es": "Bad Gottleuba-Berggießhübel",
+"de": "Bad Gottleuba-Berggießhübel",
+"links": 46,
+"pob": 5315.0
+},
+{
+"es": "Ellingen",
+"de": "Ellingen",
+"links": 44,
+"pob": 3923.0
+},
+{
+"es": "Elsdorf",
+"de": "Elsdorf",
+"links": 41,
+"pob": 21284.0
+},
+{
+"es": "Werben",
+"de": "Werben",
+"links": 40,
+"pob": 898.0
+},
+{
+"es": "Marsberg",
+"de": "Marsberg",
+"links": 49,
+"pob": 19368.0
+},
+{
+"es": "Soest",
+"de": "Soest",
+"links": 64,
+"pob": 47752.0
+},
+{
+"es": "Hallenberg",
+"de": "Hallenberg",
+"links": 43,
+"pob": 4272.0
+},
+{
+"es": "Zülpich",
+"de": "Zülpich",
+"links": 49,
+"pob": 21906.0
+},
+{
+"es": "Brilon",
+"de": "Brilon",
+"links": 55,
+"pob": 25236.0
+},
+{
+"es": "Ochsenfurt",
+"de": "Ochsenfurt",
+"links": 47,
+"pob": 11247.0
+},
+{
+"es": "Halver",
+"de": "Halver",
+"links": 43,
+"pob": 16176.0
+},
+{
+"es": "Krumbach",
+"de": "Krumbach",
+"links": 44,
+"pob": 14258.0
+},
+{
+"es": "Baunach",
+"de": "Baunach",
+"links": 43,
+"pob": 4131.0
+},
+{
+"es": "Plettenberg",
+"de": "Plettenberg",
+"links": 44,
+"pob": 24189.0
+},
+{
+"es": "Weil der Stadt",
+"de": "Weil der Stadt",
+"links": 54,
+"pob": 19311.0
+},
+{
+"es": "Sebnitz",
+"de": "Sebnitz",
+"links": 43,
+"pob": 9356.0
+},
+{
+"es": "Scheinfeld",
+"de": "Scheinfeld",
+"links": 42,
+"pob": 4516.0
+},
+{
+"es": "Tornesch",
+"de": "Tornesch",
+"links": 44,
+"pob": 14608.0
+},
+{
+"es": "Haar",
+"de": "Haar",
+"links": 41,
+"pob": 22934.0
+},
+{
+"es": "Bad Köstritz",
+"de": "Bad Köstritz",
+"links": 42,
+"pob": 3680.0
+},
+{
+"es": "Aulendorf",
+"de": "Aulendorf",
+"links": 44,
+"pob": 10466.0
+},
+{
+"es": "Gemünden am Main",
+"de": "Gemünden am Main",
+"links": 46,
+"pob": 10021.0
+},
+{
+"es": "Waldshut-Tiengen",
+"de": "Waldshut-Tiengen",
+"links": 49,
+"pob": 25084.0
+},
+{
+"es": "Vogtsburg",
+"de": "Vogtsburg im Kaiserstuhl",
+"links": 41,
+"pob": 6328.0
+},
+{
+"es": "Leuna",
+"de": "Leuna",
+"links": 46,
+"pob": 14013.0
+},
+{
+"es": "Schrobenhausen",
+"de": "Schrobenhausen",
+"links": 43,
+"pob": 17916.0
+},
+{
+"es": "Tittmoning",
+"de": "Tittmoning",
+"links": 45,
+"pob": 5744.0
+},
+{
+"es": "Schleusingen",
+"de": "Schleusingen",
+"links": 45,
+"pob": 10071.0
+},
+{
+"es": "Schmallenberg",
+"de": "Schmallenberg",
+"links": 54,
+"pob": 24728.0
+},
+{
+"es": "Bad Schandau",
+"de": "Bad Schandau",
+"links": 50,
+"pob": 3259.0
+},
+{
+"es": "Glashütte",
+"de": "Glashütte",
+"links": 46,
+"pob": 6304.0
+},
+{
+"es": "Meinerzhagen",
+"de": "Meinerzhagen",
+"links": 42,
+"pob": 20003.0
+},
+{
+"es": "Kyritz",
+"de": "Kyritz",
+"links": 42,
+"pob": 9059.0
+},
+{
+"es": "Bergen",
+"de": "Bergen",
+"links": 48,
+"pob": 12933.0
+},
+{
+"es": "Kierspe",
+"de": "Kierspe",
+"links": 41,
+"pob": 16192.0
+},
+{
+"es": "Bad Aibling",
+"de": "Bad Aibling",
+"links": 57,
+"pob": 18575.0
+},
+{
+"es": "Werdohl",
+"de": "Werdohl",
+"links": 42,
+"pob": 17500.0
+},
+{
+"es": "Dippoldiswalde",
+"de": "Dippoldiswalde",
+"links": 47,
+"pob": 13880.0
+},
+{
+"es": "Dohna",
+"de": "Dohna",
+"links": 47,
+"pob": 6029.0
+},
+{
+"es": "Waldkirch",
+"de": "Waldkirch",
+"links": 44,
+"pob": 21725.0
+},
+{
+"es": "Mainbernheim",
+"de": "Mainbernheim",
+"links": 44,
+"pob": 2215.0
+},
+{
+"es": "Pirna",
+"de": "Pirna",
+"links": 63,
+"pob": 40039.0
+},
+{
+"es": "Sundern",
+"de": "Sundern",
+"links": 47,
+"pob": 27490.0
+},
+{
+"es": "Gengenbach",
+"de": "Gengenbach",
+"links": 47,
+"pob": 11135.0
+},
+{
+"es": "Bad Laasphe",
+"de": "Bad Laasphe",
+"links": 42,
+"pob": 12967.0
+},
+{
+"es": "Hohnstein",
+"de": "Hohnstein",
+"links": 45,
+"pob": 3076.0
+},
+{
+"es": "Müllheim",
+"de": "Müllheim im Markgräflerland",
+"links": 47,
+"pob": 20241.0
+},
+{
+"es": "Heidenau",
+"de": "Heidenau",
+"links": 48,
+"pob": 16597.0
+},
+{
+"es": "Cléveris",
+"de": "Kleve",
+"links": 60,
+"pob": 53094.0
+},
+{
+"es": "Lörrach",
+"de": "Lörrach",
+"links": 63,
+"pob": 51274.0
+},
+{
+"es": "Haigerloch",
+"de": "Haigerloch",
+"links": 44,
+"pob": 10919.0
+},
+{
+"es": "Rastatt",
+"de": "Rastatt",
+"links": 64,
+"pob": 50753.0
+},
+{
+"es": "Wittenberg",
+"de": "Lutherstadt Wittenberg",
+"links": 89,
+"pob": 44937.0
+},
+{
+"es": "Rötz",
+"de": "Rötz",
+"links": 43,
+"pob": 3293.0
+},
+{
+"es": "Marktleuthen",
+"de": "Marktleuthen",
+"links": 46,
+"pob": 2762.0
+},
+{
+"es": "Ravensburg",
+"de": "Ravensburg",
+"links": 70,
+"pob": 50549.0
+},
+{
+"es": "Sulzburg",
+"de": "Sulzburg",
+"links": 46,
+"pob": 2766.0
+},
+{
+"es": "Fürstenau",
+"de": "Fürstenau",
+"links": 41,
+"pob": 9415.0
+},
+{
+"es": "Waldkirchen",
+"de": "Waldkirchen",
+"links": 45,
+"pob": 11326.0
+},
+{
+"es": "Riedlingen",
+"de": "Riedlingen",
+"links": 54,
+"pob": 11122.0
+},
+{
+"es": "Bad Oeynhausen",
+"de": "Bad Oeynhausen",
+"links": 51,
+"pob": 50515.0
+},
+{
+"es": "Elmshorn",
+"de": "Elmshorn",
+"links": 56,
+"pob": 51375.0
+},
+{
+"es": "Trossingen",
+"de": "Trossingen",
+"links": 47,
+"pob": 17538.0
+},
+{
+"es": "Bühl",
+"de": "Bühl",
+"links": 47,
+"pob": 28433.0
+},
+{
+"es": "Frechen",
+"de": "Frechen",
+"links": 45,
+"pob": 51927.0
+},
+{
+"es": "Espira",
+"de": "Speyer",
+"links": 92,
+"pob": 49035.0
+},
+{
+"es": "Calbe",
+"de": "Calbe",
+"links": 41,
+"pob": 7933.0
+},
+{
+"es": "Pößneck",
+"de": "Pößneck",
+"links": 43,
+"pob": 11869.0
+},
+{
+"es": "Böblingen",
+"de": "Böblingen",
+"links": 60,
+"pob": 51204.0
+},
+{
+"es": "Titisee-Neustadt",
+"de": "Titisee-Neustadt",
+"links": 50,
+"pob": 12873.0
+},
+{
+"es": "Röttingen",
+"de": "Röttingen",
+"links": 42,
+"pob": 1687.0
+},
+{
+"es": "Eppingen",
+"de": "Eppingen",
+"links": 48,
+"pob": 22796.0
+},
+{
+"es": "Peine",
+"de": "Peine",
+"links": 55,
+"pob": 51005.0
+},
+{
+"es": "Hemmoor",
+"de": "Hemmoor",
+"links": 39,
+"pob": 8754.0
+},
+{
+"es": "Neunkirchen",
+"de": "Neunkirchen",
+"links": 51,
+"pob": 46896.0
+},
+{
+"es": "Heidenheim an der Brenz",
+"de": "Heidenheim an der Brenz",
+"links": 76,
+"pob": 50612.0
+},
+{
+"es": "Waldershof",
+"de": "Waldershof",
+"links": 40,
+"pob": 4300.0
+},
+{
+"es": "Immenstadt",
+"de": "Immenstadt im Allgäu",
+"links": 47,
+"pob": 14237.0
+},
+{
+"es": "Freital",
+"de": "Freital",
+"links": 54,
+"pob": 39174.0
+},
+{
+"es": "Kreuztal",
+"de": "Kreuztal",
+"links": 45,
+"pob": 30721.0
+},
+{
+"es": "Herzogenrath",
+"de": "Herzogenrath",
+"links": 51,
+"pob": 48666.0
+},
+{
+"es": "Bad Lobenstein",
+"de": "Bad Lobenstein",
+"links": 41,
+"pob": 5412.0
+},
+{
+"es": "Königstein",
+"de": "Königstein",
+"links": 42,
+"pob": 2082.0
+},
+{
+"es": "Stade",
+"de": "Stade",
+"links": 64,
+"pob": 48699.0
+},
+{
+"es": "Burgau",
+"de": "Burgau",
+"links": 44,
+"pob": 10677.0
+},
+{
+"es": "Erkrath",
+"de": "Erkrath",
+"links": 45,
+"pob": 43555.0
+},
+{
+"es": "Höchstädt an der Donau",
+"de": "Höchstädt an der Donau",
+"links": 49,
+"pob": 6910.0
+},
+{
+"es": "Blaubeuren",
+"de": "Blaubeuren",
+"links": 52,
+"pob": 12669.0
+},
+{
+"es": "Bornheim",
+"de": "Bornheim",
+"links": 43,
+"pob": 47890.0
+},
+{
+"es": "Fridingen",
+"de": "Fridingen an der Donau",
+"links": 40,
+"pob": 3133.0
+},
+{
+"es": "Alsdorf",
+"de": "Alsdorf",
+"links": 45,
+"pob": 48893.0
+},
+{
+"es": "Frankenthal",
+"de": "Frankenthal",
+"links": 62,
+"pob": 48134.0
+},
+{
+"es": "Wilster",
+"de": "Wilster",
+"links": 41,
+"pob": 4279.0
+},
+{
+"es": "Geisingen",
+"de": "Geisingen",
+"links": 41,
+"pob": 6166.0
+},
+{
+"es": "Dülmen",
+"de": "Dülmen",
+"links": 62,
+"pob": 47759.0
+},
+{
+"es": "Liebenau",
+"de": "Liebenau",
+"links": 37,
+"pob": 2891.0
+},
+{
+"es": "Hof",
+"de": "Hof",
+"links": 68,
+"pob": 46624.0
+},
+{
+"es": "Schwerte",
+"de": "Schwerte",
+"links": 50,
+"pob": 45794.0
+},
+{
+"es": "Heitersheim",
+"de": "Heitersheim",
+"links": 43,
+"pob": 6598.0
+},
+{
+"es": "Bad Karlshafen",
+"de": "Bad Karlshafen",
+"links": 40,
+"pob": 3328.0
+},
+{
+"es": "Waltershausen",
+"de": "Waltershausen",
+"links": 45,
+"pob": 12800.0
+},
+{
+"es": "Rheda-Wiedenbrück",
+"de": "Rheda-Wiedenbrück",
+"links": 51,
+"pob": 47935.0
+},
+{
+"es": "Thale",
+"de": "Thale",
+"links": 46,
+"pob": 16591.0
+},
+{
+"es": "Melle",
+"de": "Melle",
+"links": 47,
+"pob": 46396.0
+},
+{
+"es": "Hennef",
+"de": "Hennef",
+"links": 48,
+"pob": 48112.0
+},
+{
+"es": "Frisinga",
+"de": "Freising",
+"links": 74,
+"pob": 48953.0
+},
+{
+"es": "Bad Colberg-Heldburg",
+"de": "Bad Colberg-Heldburg",
+"links": 35,
+"pob": 2045.0
+},
+{
+"es": "Munster",
+"de": "Munster",
+"links": 40,
+"pob": 15146.0
+},
+{
+"es": "Wittenburg",
+"de": "Wittenburg",
+"links": 41,
+"pob": 6211.0
+},
+{
+"es": "Singen",
+"de": "Singen (Hohentwiel)",
+"links": 52,
+"pob": 48089.0
+},
+{
+"es": "Gotha",
+"de": "Gotha",
+"links": 76,
+"pob": 45904.0
+},
+{
+"es": "Marktheidenfeld",
+"de": "Marktheidenfeld",
+"links": 46,
+"pob": 11306.0
+},
+{
+"es": "Elzach",
+"de": "Elzach",
+"links": 43,
+"pob": 7576.0
+},
+{
+"es": "Neustadt am Rübenberge",
+"de": "Neustadt am Rübenberge",
+"links": 46,
+"pob": 44696.0
+},
+{
+"es": "Tettnang",
+"de": "Tettnang",
+"links": 54,
+"pob": 20522.0
+},
+{
+"es": "Rieneck",
+"de": "Rieneck",
+"links": 43,
+"pob": 1833.0
+},
+{
+"es": "Erbach",
+"de": "Erbach",
+"links": 47,
+"pob": 14126.0
+},
+{
+"es": "Bitterfeld-Wolfen",
+"de": "Bitterfeld-Wolfen",
+"links": 41,
+"pob": 36186.0
+},
+{
+"es": "Leonberg",
+"de": "Leonberg",
+"links": 58,
+"pob": 49514.0
+},
+{
+"es": "Wismar",
+"de": "Wismar",
+"links": 92,
+"pob": 43103.0
+},
+{
+"es": "Straubing",
+"de": "Straubing",
+"links": 66,
+"pob": 49061.0
+},
+{
+"es": "Gadebusch",
+"de": "Gadebusch",
+"links": 39,
+"pob": 5189.0
+},
+{
+"es": "Ueckermünde",
+"de": "Ueckermünde",
+"links": 39,
+"pob": 8651.0
+},
+{
+"es": "Karlstadt",
+"de": "Karlstadt am Main",
+"links": 52,
+"pob": 14719.0
+},
+{
+"es": "Grafenau",
+"de": "Grafenau",
+"links": 40,
+"pob": 8171.0
+},
+{
+"es": "Gronau",
+"de": "Gronau",
+"links": 45,
+"pob": 50349.0
+},
+{
+"es": "Bünde",
+"de": "Bünde",
+"links": 47,
+"pob": 46235.0
+},
+{
+"es": "Hausach",
+"de": "Hausach",
+"links": 39,
+"pob": 5815.0
+},
+{
+"es": "Herbolzheim",
+"de": "Herbolzheim",
+"links": 45,
+"pob": 10741.0
+},
+{
+"es": "Kirchenlamitz",
+"de": "Kirchenlamitz",
+"links": 45,
+"pob": 3059.0
+},
+{
+"es": "Schleiz",
+"de": "Schleiz",
+"links": 42,
+"pob": 8336.0
+},
+{
+"es": "Landau in der Pfalz",
+"de": "Landau in der Pfalz",
+"links": 64,
+"pob": 48280.0
+},
+{
+"es": "Nordhausen",
+"de": "Nordhausen",
+"links": 75,
+"pob": 40301.0
+},
+{
+"es": "Schlieben",
+"de": "Schlieben",
+"links": 38,
+"pob": 2309.0
+},
+{
+"es": "Klütz",
+"de": "Klütz",
+"links": 38,
+"pob": 3002.0
+},
+{
+"es": "Fellbach",
+"de": "Fellbach",
+"links": 48,
+"pob": 46659.0
+},
+{
+"es": "Ettenheim",
+"de": "Ettenheim",
+"links": 43,
+"pob": 13670.0
+},
+{
+"es": "Schnaittenbach",
+"de": "Schnaittenbach",
+"links": 39,
+"pob": 4253.0
+},
+{
+"es": "Oberursel",
+"de": "Oberursel",
+"links": 45,
+"pob": 46757.0
+},
+{
+"es": "Erkelenz",
+"de": "Erkelenz",
+"links": 48,
+"pob": 45239.0
+},
+{
+"es": "Friedberg",
+"de": "Friedberg",
+"links": 49,
+"pob": 29980.0
+},
+{
+"es": "Hornberg",
+"de": "Hornberg",
+"links": 40,
+"pob": 4157.0
+},
+{
+"es": "Schwaigern",
+"de": "Schwaigern",
+"links": 41,
+"pob": 11784.0
+},
+{
+"es": "Bad Wurzach",
+"de": "Bad Wurzach",
+"links": 41,
+"pob": 14927.0
+},
+{
+"es": "Filderstadt",
+"de": "Filderstadt",
+"links": 52,
+"pob": 46274.0
+},
+{
+"es": "Wolfach",
+"de": "Wolfach",
+"links": 43,
+"pob": 5626.0
+},
+{
+"es": "Eisenach",
+"de": "Eisenach",
+"links": 87,
+"pob": 40505.0
+},
+{
+"es": "Marktredwitz",
+"de": "Marktredwitz",
+"links": 49,
+"pob": 17166.0
+},
+{
+"es": "Kamen",
+"de": "Kamen",
+"links": 53,
+"pob": 42139.0
+},
+{
+"es": "Bad Sülze",
+"de": "Bad Sülze",
+"links": 37,
+"pob": 1649.0
+},
+{
+"es": "Merkendorf",
+"de": "Merkendorf",
+"links": 40,
+"pob": 3114.0
+},
+{
+"es": "Neuenburg del Rin",
+"de": "Neuenburg am Rhein",
+"links": 47,
+"pob": 12738.0
+},
+{
+"es": "Homburg",
+"de": "Homburg",
+"links": 59,
+"pob": 43412.0
+},
+{
+"es": "Lahr",
+"de": "Lahr/Schwarzwald",
+"links": 52,
+"pob": 51208.0
+},
+{
+"es": "Wittmund",
+"de": "Wittmund",
+"links": 50,
+"pob": 19951.0
+},
+{
+"es": "Dinklage",
+"de": "Dinklage",
+"links": 42,
+"pob": 13547.0
+},
+{
+"es": "Wiesmoor",
+"de": "Wiesmoor",
+"links": 40,
+"pob": 13967.0
+},
+{
+"es": "Königsbrunn",
+"de": "Königsbrunn",
+"links": 48,
+"pob": 27847.0
+},
+{
+"es": "Brühl",
+"de": "Brühl",
+"links": 52,
+"pob": 45653.0
+},
+{
+"es": "Teublitz",
+"de": "Teublitz",
+"links": 40,
+"pob": 8114.0
+},
+{
+"es": "Braubach",
+"de": "Braubach",
+"links": 44,
+"pob": 2986.0
+},
+{
+"es": "Albstadt",
+"de": "Albstadt",
+"links": 57,
+"pob": 47047.0
+},
+{
+"es": "Amberg",
+"de": "Amberg",
+"links": 75,
+"pob": 42631.0
+},
+{
+"es": "Bruchsal",
+"de": "Bruchsal",
+"links": 65,
+"pob": 47578.0
+},
+{
+"es": "Ingelfingen",
+"de": "Ingelfingen",
+"links": 42,
+"pob": 5468.0
+},
+{
+"es": "Pinneberg",
+"de": "Pinneberg",
+"links": 57,
+"pob": 44941.0
+},
+{
+"es": "Rottemburgo del Néckar",
+"de": "Rottenburg am Neckar",
+"links": 49,
+"pob": 45579.0
+},
+{
+"es": "Bad Kreuznach",
+"de": "Bad Kreuznach",
+"links": 62,
+"pob": 54347.0
+},
+{
+"es": "Rodgau",
+"de": "Rodgau",
+"links": 47,
+"pob": 45197.0
+},
+{
+"es": "Wermelskirchen",
+"de": "Wermelskirchen",
+"links": 40,
+"pob": 34254.0
+},
+{
+"es": "Bernau bei Berlin",
+"de": "Bernau bei Berlin",
+"links": 58,
+"pob": 44706.0
+},
+{
+"es": "Monheim am Rhein",
+"de": "Monheim am Rhein",
+"links": 45,
+"pob": 43716.0
+},
+{
+"es": "Dachau",
+"de": "Dachau",
+"links": 81,
+"pob": 47461.0
+},
+{
+"es": "Waldenburg",
+"de": "Waldenburg",
+"links": 41,
+"pob": 2987.0
+},
+{
+"es": "Halberstadt",
+"de": "Halberstadt",
+"links": 68,
+"pob": 36615.0
+},
+{
+"es": "Münstermaifeld",
+"de": "Münstermaifeld",
+"links": 39,
+"pob": 3387.0
+},
+{
+"es": "Liebstadt",
+"de": "Liebstadt",
+"links": 41,
+"pob": 1190.0
+},
+{
+"es": "Lehrte",
+"de": "Lehrte",
+"links": 45,
+"pob": 44140.0
+},
+{
+"es": "Schwabmünchen",
+"de": "Schwabmünchen",
+"links": 45,
+"pob": 15512.0
+},
+{
+"es": "Kaarst",
+"de": "Kaarst",
+"links": 45,
+"pob": 43350.0
+},
+{
+"es": "Stadt Wehlen",
+"de": "Stadt Wehlen",
+"links": 40,
+"pob": 1500.0
+},
+{
+"es": "Stolpen",
+"de": "Stolpen",
+"links": 43,
+"pob": 5405.0
+},
+{
+"es": "Landau an der Isar",
+"de": "Landau an der Isar",
+"links": 47,
+"pob": 14776.0
+},
+{
+"es": "Plattling",
+"de": "Plattling",
+"links": 47,
+"pob": 13296.0
+},
+{
+"es": "Gronau (Leine)",
+"de": "Gronau (Leine)",
+"links": 43,
+"pob": 10459.0
+},
+{
+"es": "Neustadt in Sachsen",
+"de": "Neustadt in Sachsen",
+"links": 42,
+"pob": 11740.0
+},
+{
+"es": "Rabenau",
+"de": "Rabenau",
+"links": 39,
+"pob": 4331.0
+},
+{
+"es": "Meissen",
+"de": "Meißen",
+"links": 84,
+"pob": 28863.0
+},
+{
+"es": "Vilseck",
+"de": "Vilseck",
+"links": 39,
+"pob": 6558.0
+},
+{
+"es": "Parsberg",
+"de": "Parsberg",
+"links": 42,
+"pob": 7829.0
+},
+{
+"es": "Gundelfingen an der Donau",
+"de": "Gundelfingen an der Donau",
+"links": 48,
+"pob": 7836.0
+},
+{
+"es": "Pritzwalk",
+"de": "Pritzwalk",
+"links": 44,
+"pob": 11801.0
+},
+{
+"es": "Hockenheim",
+"de": "Hockenheim",
+"links": 65,
+"pob": 21599.0
+},
+{
+"es": "Gröditz",
+"de": "Gröditz",
+"links": 41,
+"pob": 6587.0
+},
+{
+"es": "Esens",
+"de": "Esens",
+"links": 42,
+"pob": 7045.0
+},
+{
+"es": "Stendal",
+"de": "Stendal",
+"links": 61,
+"pob": 37750.0
+},
+{
+"es": "Dransfeld",
+"de": "Dransfeld",
+"links": 44,
+"pob": 4274.0
+},
+{
+"es": "Tharandt",
+"de": "Tharandt",
+"links": 42,
+"pob": 5101.0
+},
+{
+"es": "Wilsdruff",
+"de": "Wilsdruff",
+"links": 43,
+"pob": 14525.0
+},
+{
+"es": "Eberswalde",
+"de": "Eberswalde",
+"links": 62,
+"pob": 41867.0
+},
+{
+"es": "Weinheim",
+"de": "Weinheim",
+"links": 60,
+"pob": 45919.0
+},
+{
+"es": "Nossen",
+"de": "Nossen",
+"links": 45,
+"pob": 10370.0
+},
+{
+"es": "Elsfleth",
+"de": "Elsfleth",
+"links": 39,
+"pob": 8921.0
+},
+{
+"es": "Radebeul",
+"de": "Radebeul",
+"links": 57,
+"pob": 33081.0
+},
+{
+"es": "Radeburg",
+"de": "Radeburg",
+"links": 41,
+"pob": 7578.0
+},
+{
+"es": "Bad Wildungen",
+"de": "Bad Wildungen",
+"links": 46,
+"pob": 17404.0
+},
+{
+"es": "Meßstetten",
+"de": "Meßstetten",
+"links": 40,
+"pob": 10521.0
+},
+{
+"es": "Großenhain",
+"de": "Großenhain",
+"links": 52,
+"pob": 17974.0
+},
+{
+"es": "Seehausen (Altmark)",
+"de": "Seehausen (Altmark)",
+"links": 40,
+"pob": 4491.0
+},
+{
+"es": "Langen",
+"de": "Langen",
+"links": 31,
+"pob": 18395.0
+},
+{
+"es": "Lommatzsch",
+"de": "Lommatzsch",
+"links": 41,
+"pob": 4672.0
+},
+{
+"es": "Höchstadt an der Aisch",
+"de": "Höchstadt an der Aisch",
+"links": 45,
+"pob": 13827.0
+},
+{
+"es": "Bietigheim-Bissingen",
+"de": "Bietigheim-Bissingen",
+"links": 50,
+"pob": 43354.0
+},
+{
+"es": "Bad Weißenstadt",
+"de": "Bad Weißenstadt",
+"links": 43,
+"pob": 2839.0
+},
+{
+"es": "Trendelburg",
+"de": "Trendelburg",
+"links": 39,
+"pob": 4705.0
+},
+{
+"es": "Bad Waldsee",
+"de": "Bad Waldsee",
+"links": 45,
+"pob": 20910.0
+},
+{
+"es": "Böhlen",
+"de": "Böhlen",
+"links": 39,
+"pob": 6796.0
+},
+{
+"es": "Borna",
+"de": "Borna",
+"links": 51,
+"pob": 20129.0
+},
+{
+"es": "Isny im Allgäu",
+"de": "Isny im Allgäu",
+"links": 45,
+"pob": 15015.0
+},
+{
+"es": "Seligenstadt",
+"de": "Seligenstadt",
+"links": 50,
+"pob": 21225.0
+},
+{
+"es": "Laichingen",
+"de": "Laichingen",
+"links": 47,
+"pob": 12371.0
+},
+{
+"es": "Oppenau",
+"de": "Oppenau",
+"links": 38,
+"pob": 4813.0
+},
+{
+"es": "Bad Doberan",
+"de": "Bad Doberan",
+"links": 60,
+"pob": 13059.0
+},
+{
+"es": "Schüttorf",
+"de": "Schüttorf",
+"links": 40,
+"pob": 13523.0
+},
+{
+"es": "Schelklingen",
+"de": "Schelklingen",
+"links": 43,
+"pob": 6564.0
+},
+{
+"es": "Munderkingen",
+"de": "Munderkingen",
+"links": 44,
+"pob": 5447.0
+},
+{
+"es": "Pegau",
+"de": "Pegau",
+"links": 40,
+"pob": 6546.0
+},
+{
+"es": "Markranstädt",
+"de": "Markranstädt",
+"links": 41,
+"pob": 16069.0
+},
+{
+"es": "Naunhof",
+"de": "Naunhof",
+"links": 36,
+"pob": 8709.0
+},
+{
+"es": "Engen",
+"de": "Engen",
+"links": 43,
+"pob": 11351.0
+},
+{
+"es": "Schlüsselfeld",
+"de": "Schlüsselfeld",
+"links": 41,
+"pob": 5895.0
+},
+{
+"es": "Waldenbuch",
+"de": "Waldenbuch",
+"links": 45,
+"pob": 8740.0
+},
+{
+"es": "Kellinghusen",
+"de": "Kellinghusen",
+"links": 39,
+"pob": 8313.0
+},
+{
+"es": "Kemnath",
+"de": "Kemnath",
+"links": 44,
+"pob": 5893.0
+},
+{
+"es": "Neubukow",
+"de": "Neubukow",
+"links": 39,
+"pob": 4019.0
+},
+{
+"es": "Bad Lausick",
+"de": "Bad Lausick",
+"links": 42,
+"pob": 8007.0
+},
+{
+"es": "Otterndorf",
+"de": "Otterndorf",
+"links": 40,
+"pob": 7690.0
+},
+{
+"es": "Pfungstadt",
+"de": "Pfungstadt",
+"links": 48,
+"pob": 25475.0
+},
+{
+"es": "Michelstadt",
+"de": "Michelstadt",
+"links": 47,
+"pob": 15197.0
+},
+{
+"es": "Kappeln",
+"de": "Kappeln",
+"links": 45,
+"pob": 8996.0
+},
+{
+"es": "Trebsen/Mulde",
+"de": "Trebsen/Mulde",
+"links": 34,
+"pob": 3726.0
+},
+{
+"es": "Zwenkau",
+"de": "Zwenkau",
+"links": 38,
+"pob": 9452.0
+},
+{
+"es": "Strehla",
+"de": "Strehla",
+"links": 41,
+"pob": 3632.0
+},
+{
+"es": "Straelen",
+"de": "Straelen",
+"links": 41,
+"pob": 16454.0
+},
+{
+"es": "Kitzscher",
+"de": "Kitzscher",
+"links": 40,
+"pob": 5226.0
+},
+{
+"es": "Groß-Umstadt",
+"de": "Groß-Umstadt",
+"links": 44,
+"pob": 21171.0
+},
+{
+"es": "Wurzen",
+"de": "Wurzen",
+"links": 50,
+"pob": 16159.0
+},
+{
+"es": "Heiligenhafen",
+"de": "Heiligenhafen",
+"links": 44,
+"pob": 9501.0
+},
+{
+"es": "Babenhausen",
+"de": "Babenhausen",
+"links": 42,
+"pob": 17778.0
+},
+{
+"es": "Riesa",
+"de": "Riesa",
+"links": 61,
+"pob": 29238.0
+},
+{
+"es": "Friedberg",
+"de": "Friedberg",
+"links": 54,
+"pob": 30448.0
+},
+{
+"es": "Baunatal",
+"de": "Baunatal",
+"links": 50,
+"pob": 27768.0
+},
+{
+"es": "Lützen",
+"de": "Lützen",
+"links": 47,
+"pob": 8207.0
+},
+{
+"es": "Brandis",
+"de": "Brandis",
+"links": 41,
+"pob": 9634.0
+},
+{
+"es": "Regis-Breitingen",
+"de": "Regis-Breitingen",
+"links": 37,
+"pob": 3697.0
+},
+{
+"es": "Rötha",
+"de": "Rötha",
+"links": 40,
+"pob": 6388.0
+},
+{
+"es": "Groitzsch",
+"de": "Groitzsch",
+"links": 42,
+"pob": 7352.0
+},
+{
+"es": "Colditz",
+"de": "Colditz",
+"links": 53,
+"pob": 8209.0
+},
+{
+"es": "Drolshagen",
+"de": "Drolshagen",
+"links": 42,
+"pob": 11858.0
+},
+{
+"es": "Lennestadt",
+"de": "Lennestadt",
+"links": 39,
+"pob": 24025.0
+},
+{
+"es": "Netphen",
+"de": "Netphen",
+"links": 43,
+"pob": 22972.0
+},
+{
+"es": "Markkleeberg",
+"de": "Markkleeberg",
+"links": 46,
+"pob": 25354.0
+},
+{
+"es": "Frohburg",
+"de": "Frohburg",
+"links": 43,
+"pob": 11975.0
+},
+{
+"es": "Geithain",
+"de": "Geithain",
+"links": 42,
+"pob": 6797.0
+},
+{
+"es": "Bad Berleburg",
+"de": "Bad Berleburg",
+"links": 46,
+"pob": 18251.0
+},
+{
+"es": "Bleicherode",
+"de": "Bleicherode",
+"links": 36,
+"pob": 9759.0
+},
+{
+"es": "Grevesmühlen",
+"de": "Grevesmühlen",
+"links": 42,
+"pob": 10082.0
+},
+{
+"es": "Grimma",
+"de": "Grimma",
+"links": 60,
+"pob": 27554.0
+},
+{
+"es": "Barmstedt",
+"de": "Barmstedt",
+"links": 42,
+"pob": 10402.0
+},
+{
+"es": "Rudolstadt",
+"de": "Rudolstadt",
+"links": 54,
+"pob": 24560.0
+},
+{
+"es": "Fröndenberg",
+"de": "Fröndenberg/Ruhr",
+"links": 50,
+"pob": 20330.0
+},
+{
+"es": "Selm",
+"de": "Selm",
+"links": 45,
+"pob": 25817.0
+},
+{
+"es": "Radevormwald",
+"de": "Radevormwald",
+"links": 43,
+"pob": 21457.0
+},
+{
+"es": "Bad Schwartau",
+"de": "Bad Schwartau",
+"links": 45,
+"pob": 19918.0
+},
+{
+"es": "Haiger",
+"de": "Haiger",
+"links": 43,
+"pob": 18865.0
+},
+{
+"es": "Themar",
+"de": "Themar",
+"links": 39,
+"pob": 2623.0
+},
+{
+"es": "Olsberg",
+"de": "Olsberg",
+"links": 44,
+"pob": 14596.0
+},
+{
+"es": "Winterberg",
+"de": "Winterberg",
+"links": 52,
+"pob": 13124.0
+},
+{
+"es": "Clingen",
+"de": "Clingen",
+"links": 36,
+"pob": 974.0
+},
+{
+"es": "Ellrich",
+"de": "Ellrich",
+"links": 38,
+"pob": 5141.0
+},
+{
+"es": "Saalburg-Ebersdorf",
+"de": "Saalburg-Ebersdorf",
+"links": 37,
+"pob": 3199.0
+},
+{
+"es": "Könnern",
+"de": "Könnern",
+"links": 37,
+"pob": 7804.0
+},
+{
+"es": "Reinbek",
+"de": "Reinbek",
+"links": 46,
+"pob": 28146.0
+},
+{
+"es": "Hilchenbach",
+"de": "Hilchenbach",
+"links": 41,
+"pob": 14295.0
+},
+{
+"es": "Königsberg in Bayern",
+"de": "Königsberg in Bayern",
+"links": 46,
+"pob": 3575.0
+},
+{
+"es": "Bad Blankenburg",
+"de": "Bad Blankenburg",
+"links": 44,
+"pob": 5728.0
+},
+{
+"es": "Bergneustadt",
+"de": "Bergneustadt",
+"links": 43,
+"pob": 18701.0
+},
+{
+"es": "Erwitte",
+"de": "Erwitte",
+"links": 45,
+"pob": 16225.0
+},
+{
+"es": "Leinefelde-Worbis",
+"de": "Leinefelde-Worbis",
+"links": 47,
+"pob": 19812.0
+},
+{
+"es": "Schwalmstadt",
+"de": "Schwalmstadt",
+"links": 40,
+"pob": 18482.0
+},
+{
+"es": "Brunsbüttel",
+"de": "Brunsbüttel",
+"links": 47,
+"pob": 12640.0
+},
+{
+"es": "Attendorn",
+"de": "Attendorn",
+"links": 47,
+"pob": 23376.0
+},
+{
+"es": "Wiehl",
+"de": "Wiehl",
+"links": 42,
+"pob": 25213.0
+},
+{
+"es": "Mayen",
+"de": "Mayen",
+"links": 47,
+"pob": 19794.0
+},
+{
+"es": "Quickborn",
+"de": "Quickborn",
+"links": 41,
+"pob": 22662.0
+},
+{
+"es": "Freudenberg",
+"de": "Freudenberg",
+"links": 40,
+"pob": 17192.0
+},
+{
+"es": "Querfurt",
+"de": "Querfurt",
+"links": 49,
+"pob": 9868.0
+},
+{
+"es": "Gernrode",
+"de": "Gernrode",
+"links": 34,
+"pob": 3533.0
+},
+{
+"es": "Medebach",
+"de": "Medebach",
+"links": 44,
+"pob": 7874.0
+},
+{
+"es": "Werne",
+"de": "Werne",
+"links": 49,
+"pob": 30034.0
+},
+{
+"es": "Bad Dürrenberg",
+"de": "Bad Dürrenberg",
+"links": 41,
+"pob": 11458.0
+},
+{
+"es": "Sondershausen",
+"de": "Sondershausen",
+"links": 56,
+"pob": 20590.0
+},
+{
+"es": "Dillenburg",
+"de": "Dillenburg",
+"links": 51,
+"pob": 22895.0
+},
+{
+"es": "Breckerfeld",
+"de": "Breckerfeld",
+"links": 42,
+"pob": 8703.0
+},
+{
+"es": "Sprockhövel",
+"de": "Sprockhövel",
+"links": 42,
+"pob": 24116.0
+},
+{
+"es": "Elze",
+"de": "Elze",
+"links": 39,
+"pob": 8777.0
+},
+{
+"es": "Gerolzhofen",
+"de": "Gerolzhofen",
+"links": 42,
+"pob": 6771.0
+},
+{
+"es": "Hückeswagen",
+"de": "Hückeswagen",
+"links": 42,
+"pob": 14416.0
+},
+{
+"es": "Wipperfürth",
+"de": "Wipperfürth",
+"links": 45,
+"pob": 21480.0
+},
+{
+"es": "Rüthen",
+"de": "Rüthen",
+"links": 48,
+"pob": 10302.0
+},
+{
+"es": "Warstein",
+"de": "Warstein",
+"links": 48,
+"pob": 24857.0
+},
+{
+"es": "Wesselburen",
+"de": "Wesselburen",
+"links": 41,
+"pob": 3336.0
+},
+{
+"es": "Wiehe",
+"de": "Wiehe",
+"links": 35,
+"pob": 1871.0
+},
+{
+"es": "Uebigau-Wahrenbrück",
+"de": "Uebigau-Wahrenbrück",
+"links": 39,
+"pob": 4847.0
+},
+{
+"es": "Geseke",
+"de": "Geseke",
+"links": 47,
+"pob": 21013.0
+},
+{
+"es": "Bad Düben",
+"de": "Bad Düben",
+"links": 43,
+"pob": 7717.0
+},
+{
+"es": "Dahlen",
+"de": "Dahlen",
+"links": 34,
+"pob": 4051.0
+},
+{
+"es": "Gernsbach",
+"de": "Gernsbach",
+"links": 48,
+"pob": 14438.0
+},
+{
+"es": "Waldbröl",
+"de": "Waldbröl",
+"links": 41,
+"pob": 19716.0
+},
+{
+"es": "Herdecke",
+"de": "Herdecke",
+"links": 44,
+"pob": 22704.0
+},
+{
+"es": "Schkeuditz",
+"de": "Schkeuditz",
+"links": 43,
+"pob": 19145.0
+},
+{
+"es": "Meuselwitz",
+"de": "Meuselwitz",
+"links": 41,
+"pob": 10060.0
+},
+{
+"es": "Bad Langensalza",
+"de": "Bad Langensalza",
+"links": 45,
+"pob": 16639.0
+},
+{
+"es": "Oppenheim",
+"de": "Oppenheim",
+"links": 46,
+"pob": 7153.0
+},
+{
+"es": "Tengen",
+"de": "Tengen",
+"links": 40,
+"pob": 4776.0
+},
+{
+"es": "Friedrichroda",
+"de": "Friedrichroda",
+"links": 39,
+"pob": 7271.0
+},
+{
+"es": "Gevelsberg",
+"de": "Gevelsberg",
+"links": 52,
+"pob": 29932.0
+},
+{
+"es": "Lauscha",
+"de": "Lauscha",
+"links": 37,
+"pob": 3042.0
+},
+{
+"es": "Templin",
+"de": "Templin",
+"links": 50,
+"pob": 15532.0
+},
+{
+"es": "Egeln",
+"de": "Egeln",
+"links": 39,
+"pob": 3032.0
+},
+{
+"es": "Olpe",
+"de": "Olpe",
+"links": 50,
+"pob": 24518.0
+},
+{
+"es": "Braunsbedra",
+"de": "Braunsbedra",
+"links": 41,
+"pob": 10234.0
+},
+{
+"es": "Schwelm",
+"de": "Schwelm",
+"links": 48,
+"pob": 27880.0
+},
+{
+"es": "Werle",
+"de": "Werl",
+"links": 50,
+"pob": 29693.0
+},
+{
+"es": "Königswinter",
+"de": "Königswinter",
+"links": 49,
+"pob": 40458.0
+},
+{
+"es": "Lohmar",
+"de": "Lohmar",
+"links": 42,
+"pob": 30904.0
+},
+{
+"es": "Hermeskeil",
+"de": "Hermeskeil",
+"links": 46,
+"pob": 6501.0
+},
+{
+"es": "Ennepetal",
+"de": "Ennepetal",
+"links": 45,
+"pob": 29266.0
+},
+{
+"es": "Meisenheim",
+"de": "Meisenheim",
+"links": 43,
+"pob": 2894.0
+},
+{
+"es": "Walsrode",
+"de": "Walsrode",
+"links": 48,
+"pob": 30942.0
+},
+{
+"es": "Wunstorf",
+"de": "Wunstorf",
+"links": 44,
+"pob": 41126.0
+},
+{
+"es": "Dommitzsch",
+"de": "Dommitzsch",
+"links": 43,
+"pob": 2206.0
+},
+{
+"es": "Mügeln",
+"de": "Mügeln",
+"links": 42,
+"pob": 5474.0
+},
+{
+"es": "Wetter (Ruhr)",
+"de": "Wetter (Ruhr)",
+"links": 43,
+"pob": 25959.0
+},
+{
+"es": "Schildau",
+"de": "Schildau",
+"links": 30,
+"pob": 3522.0
+},
+{
+"es": "Taucha",
+"de": "Taucha",
+"links": 42,
+"pob": 15815.0
+},
+{
+"es": "Stadtroda",
+"de": "Stadtroda",
+"links": 41,
+"pob": 6675.0
+},
+{
+"es": "Weißenhorn",
+"de": "Weißenhorn",
+"links": 43,
+"pob": 14238.0
+},
+{
+"es": "Spaichingen",
+"de": "Spaichingen",
+"links": 40,
+"pob": 13750.0
+},
+{
+"es": "Moringen",
+"de": "Moringen",
+"links": 42,
+"pob": 6956.0
+},
+{
+"es": "Bad Sobernheim",
+"de": "Bad Sobernheim",
+"links": 40,
+"pob": 6536.0
+},
+{
+"es": "Pirmasens",
+"de": "Pirmasens",
+"links": 63,
+"pob": 39389.0
+},
+{
+"es": "Nürtingen",
+"de": "Nürtingen",
+"links": 50,
+"pob": 40898.0
+},
+{
+"es": "Lemgo",
+"de": "Lemgo",
+"links": 55,
+"pob": 39959.0
+},
+{
+"es": "Markgröningen",
+"de": "Markgröningen",
+"links": 43,
+"pob": 14052.0
+},
+{
+"es": "Bad Honnef",
+"de": "Bad Honnef",
+"links": 55,
+"pob": 24930.0
+},
+{
+"es": "Weida",
+"de": "Weida",
+"links": 38,
+"pob": 7844.0
+},
+{
+"es": "Haspe",
+"de": "Haspe",
+"links": 7,
+"pob": 0
+},
+{
+"es": "Eilenburg",
+"de": "Eilenburg",
+"links": 53,
+"pob": 16507.0
+},
+{
+"es": "Meckenheim",
+"de": "Meckenheim",
+"links": 45,
+"pob": 24936.0
+},
+{
+"es": "Kuppenheim",
+"de": "Kuppenheim",
+"links": 39,
+"pob": 8161.0
+},
+{
+"es": "Mindelheim",
+"de": "Mindelheim",
+"links": 49,
+"pob": 15296.0
+},
+{
+"es": "Freiberg",
+"de": "Freiberg",
+"links": 68,
+"pob": 41205.0
+},
+{
+"es": "Haslach im Kinzigtal",
+"de": "Haslach im Kinzigtal",
+"links": 42,
+"pob": 7189.0
+},
+{
+"es": "Oberkochen",
+"de": "Oberkochen",
+"links": 44,
+"pob": 7679.0
+},
+{
+"es": "Heinsberg",
+"de": "Heinsberg",
+"links": 53,
+"pob": 43116.0
+},
+{
+"es": "Herdorf",
+"de": "Herdorf",
+"links": 38,
+"pob": 6522.0
+},
+{
+"es": "Weiden in der Oberpfalz",
+"de": "Weiden in der Oberpfalz",
+"links": 58,
+"pob": 42453.0
+},
+{
+"es": "Kaufbeuren",
+"de": "Kaufbeuren",
+"links": 67,
+"pob": 46282.0
+},
+{
+"es": "Bad Säckingen",
+"de": "Bad Säckingen",
+"links": 50,
+"pob": 17924.0
+},
+{
+"es": "Bersenbrück",
+"de": "Bersenbrück",
+"links": 42,
+"pob": 8273.0
+},
+{
+"es": "Röthenbach an der Pegnitz",
+"de": "Röthenbach an der Pegnitz",
+"links": 41,
+"pob": 12512.0
+},
+{
+"es": "Rheinbach",
+"de": "Rheinbach",
+"links": 48,
+"pob": 27012.0
+},
+{
+"es": "Uraniemburgo",
+"de": "Oranienburg",
+"links": 63,
+"pob": 49824.0
+},
+{
+"es": "Leingarten",
+"de": "Leingarten",
+"links": 40,
+"pob": 11772.0
+},
+{
+"es": "Gifhorn",
+"de": "Gifhorn",
+"links": 58,
+"pob": 42816.0
+},
+{
+"es": "Niederkassel",
+"de": "Niederkassel",
+"links": 43,
+"pob": 38357.0
+},
+{
+"es": "Delitzsch",
+"de": "Delitzsch",
+"links": 62,
+"pob": 25750.0
+},
+{
+"es": "Bad Schmiedeberg",
+"de": "Bad Schmiedeberg",
+"links": 40,
+"pob": 7852.0
+},
+{
+"es": "Weißenfels",
+"de": "Weißenfels",
+"links": 57,
+"pob": 37308.0
+},
+{
+"es": "Laatzen",
+"de": "Laatzen",
+"links": 45,
+"pob": 41724.0
+},
+{
+"es": "Ansbach",
+"de": "Ansbach",
+"links": 81,
+"pob": 40554.0
+},
+{
+"es": "Stein",
+"de": "Stein",
+"links": 43,
+"pob": 14997.0
+},
+{
+"es": "Nettetal",
+"de": "Nettetal",
+"links": 43,
+"pob": 41711.0
+},
+{
+"es": "Ochsenhausen",
+"de": "Ochsenhausen",
+"links": 45,
+"pob": 9326.0
+},
+{
+"es": "Falkensee",
+"de": "Falkensee",
+"links": 53,
+"pob": 46213.0
+},
+{
+"es": "Dreieich",
+"de": "Dreieich",
+"links": 47,
+"pob": 41965.0
+},
+{
+"es": "Hohenmölsen",
+"de": "Hohenmölsen",
+"links": 37,
+"pob": 9074.0
+},
+{
+"es": "Bad Bibra",
+"de": "Bad Bibra",
+"links": 40,
+"pob": 2498.0
+},
+{
+"es": "Bautzen",
+"de": "Bautzen",
+"links": 87,
+"pob": 37306.0
+},
+{
+"es": "Aurich",
+"de": "Aurich",
+"links": 65,
+"pob": 42575.0
+},
+{
+"es": "Dissen",
+"de": "Dissen am Teutoburger Wald",
+"links": 37,
+"pob": 10440.0
+},
+{
+"es": "Wörth am Rhein",
+"de": "Wörth am Rhein",
+"links": 38,
+"pob": 18350.0
+},
+{
+"es": "Völklingen",
+"de": "Völklingen",
+"links": 55,
+"pob": 40565.0
+},
+{
+"es": "Bad Schwalbach",
+"de": "Bad Schwalbach",
+"links": 43,
+"pob": 11572.0
+},
+{
+"es": "Rheinstetten",
+"de": "Rheinstetten",
+"links": 44,
+"pob": 21233.0
+},
+{
+"es": "Schorndorf",
+"de": "Schorndorf",
+"links": 48,
+"pob": 41469.0
+},
+{
+"es": "Bad Harzburg",
+"de": "Bad Harzburg",
+"links": 52,
+"pob": 19503.0
+},
+{
+"es": "Boppard",
+"de": "Boppard",
+"links": 51,
+"pob": 15665.0
+},
+{
+"es": "Arnis",
+"de": "Arnis",
+"links": 42,
+"pob": 258.0
+},
+{
+"es": "Bad Schussenried",
+"de": "Bad Schussenried",
+"links": 51,
+"pob": 9012.0
+},
+{
+"es": "Neunburg vorm Wald",
+"de": "Neunburg vorm Wald",
+"links": 43,
+"pob": 8155.0
+},
+{
+"es": "Bad Lauchstädt",
+"de": "Bad Lauchstädt",
+"links": 41,
+"pob": 8894.0
+},
+{
+"es": "Coburgo",
+"de": "Coburg",
+"links": 79,
+"pob": 40970.0
+},
+{
+"es": "Vilsbiburg",
+"de": "Vilsbiburg",
+"links": 43,
+"pob": 12205.0
+},
+{
+"es": "Hilpoltstein",
+"de": "Hilpoltstein",
+"links": 45,
+"pob": 13707.0
+},
+{
+"es": "Mettmann",
+"de": "Mettmann",
+"links": 50,
+"pob": 39595.0
+},
+{
+"es": "Bad Liebenzell",
+"de": "Bad Liebenzell",
+"links": 48,
+"pob": 9215.0
+},
+{
+"es": "Ettlingen",
+"de": "Ettlingen",
+"links": 53,
+"pob": 38557.0
+},
+{
+"es": "Bad Bramstedt",
+"de": "Bad Bramstedt",
+"links": 45,
+"pob": 15363.0
+},
+{
+"es": "Siegburg",
+"de": "Siegburg",
+"links": 59,
+"pob": 42204.0
+},
+{
+"es": "Memmingen",
+"de": "Memmingen",
+"links": 79,
+"pob": 44378.0
+},
+{
+"es": "Buchholz in der Nordheide",
+"de": "Buchholz in der Nordheide",
+"links": 47,
+"pob": 41636.0
+},
+{
+"es": "Löwenstein",
+"de": "Löwenstein",
+"links": 42,
+"pob": 3406.0
+},
+{
+"es": "Bad Neuenahr-Ahrweiler",
+"de": "Bad Neuenahr-Ahrweiler",
+"links": 53,
+"pob": 28264.0
+},
+{
+"es": "Kamp-Lintfort",
+"de": "Kamp-Lintfort",
+"links": 49,
+"pob": 38150.0
+},
+{
+"es": "Braunlage",
+"de": "Braunlage",
+"links": 47,
+"pob": 4767.0
+},
+{
+"es": "Löhne",
+"de": "Löhne",
+"links": 44,
+"pob": 40757.0
+},
+{
+"es": "Kirchheim unter Teck",
+"de": "Kirchheim unter Teck",
+"links": 51,
+"pob": 42382.0
+},
+{
+"es": "Oschersleben",
+"de": "Oschersleben (Bode)",
+"links": 44,
+"pob": 18855.0
+},
+{
+"es": "Staßfurt",
+"de": "Staßfurt",
+"links": 45,
+"pob": 22900.0
+},
+{
+"es": "Hofheim am Taunus",
+"de": "Hofheim am Taunus",
+"links": 44,
+"pob": 39149.0
+},
+{
+"es": "Maintal",
+"de": "Maintal",
+"links": 45,
+"pob": 39130.0
+},
+{
+"es": "Auerbach in der Oberpfalz",
+"de": "Auerbach in der Oberpfalz",
+"links": 44,
+"pob": 8846.0
+},
+{
+"es": "Grünberg",
+"de": "Grünberg",
+"links": 41,
+"pob": 13627.0
+},
+{
+"es": "Buxtehude",
+"de": "Buxtehude",
+"links": 53,
+"pob": 41103.0
+},
+{
+"es": "Schwabach",
+"de": "Schwabach",
+"links": 60,
+"pob": 40702.0
+},
+{
+"es": "Ostfildern",
+"de": "Ostfildern",
+"links": 46,
+"pob": 39794.0
+},
+{
+"es": "Greven",
+"de": "Greven",
+"links": 49,
+"pob": 38080.0
+},
+{
+"es": "Würselen",
+"de": "Würselen",
+"links": 48,
+"pob": 40249.0
+},
+{
+"es": "Heppenheim",
+"de": "Heppenheim",
+"links": 55,
+"pob": 28031.0
+},
+{
+"es": "Bensheim",
+"de": "Bensheim",
+"links": 62,
+"pob": 40848.0
+},
+{
+"es": "Schönewalde",
+"de": "Schönewalde",
+"links": 37,
+"pob": 2827.0
+},
+{
+"es": "Marktbreit",
+"de": "Marktbreit",
+"links": 47,
+"pob": 3764.0
+},
+{
+"es": "Olfen",
+"de": "Olfen",
+"links": 42,
+"pob": 13110.0
+},
+{
+"es": "Bacharach",
+"de": "Bacharach",
+"links": 49,
+"pob": 1525.0
+},
+{
+"es": "Damme",
+"de": "Damme",
+"links": 40,
+"pob": 17449.0
+},
+{
+"es": "Rathenow",
+"de": "Rathenow",
+"links": 52,
+"pob": 24761.0
+},
+{
+"es": "Suhl",
+"de": "Suhl",
+"links": 76,
+"pob": 33976.0
+},
+{
+"es": "Mössingen",
+"de": "Mössingen",
+"links": 44,
+"pob": 21658.0
+},
+{
+"es": "Mühlhausen",
+"de": "Mühlhausen/Thüringen",
+"links": 65,
+"pob": 36155.0
+},
+{
+"es": "Neumarkt in der Oberpfalz",
+"de": "Neumarkt in der Oberpfalz",
+"links": 53,
+"pob": 41258.0
+},
+{
+"es": "Ahaus",
+"de": "Ahaus",
+"links": 51,
+"pob": 40183.0
+},
+{
+"es": "Idstein",
+"de": "Idstein",
+"links": 51,
+"pob": 25724.0
+},
+{
+"es": "Coesfeld",
+"de": "Coesfeld",
+"links": 54,
+"pob": 38197.0
+},
+{
+"es": "Lorsch",
+"de": "Lorsch",
+"links": 58,
+"pob": 14235.0
+},
+{
+"es": "Sankt Ingbert",
+"de": "St. Ingbert",
+"links": 56,
+"pob": 35209.0
+},
+{
+"es": "Neu-Isenburg",
+"de": "Neu-Isenburg",
+"links": 46,
+"pob": 38236.0
+},
+{
+"es": "Saarlouis",
+"de": "Saarlouis",
+"links": 66,
+"pob": 37675.0
+},
+{
+"es": "Pfreimd",
+"de": "Pfreimd",
+"links": 42,
+"pob": 4965.0
+},
+{
+"es": "Bismark",
+"de": "Bismark",
+"links": 39,
+"pob": 7569.0
+},
+{
+"es": "Werder",
+"de": "Werder (Havel)",
+"links": 51,
+"pob": 27064.0
+},
+{
+"es": "Kempen",
+"de": "Kempen",
+"links": 49,
+"pob": 33897.0
+},
+{
+"es": "Harzgerode",
+"de": "Harzgerode",
+"links": 43,
+"pob": 7185.0
+},
+{
+"es": "Dieburg",
+"de": "Dieburg",
+"links": 50,
+"pob": 15791.0
+},
+{
+"es": "Schönsee",
+"de": "Schönsee",
+"links": 38,
+"pob": 2222.0
+},
+{
+"es": "Osterburken",
+"de": "Osterburken",
+"links": 40,
+"pob": 6572.0
+},
+{
+"es": "Münchenbernsdorf",
+"de": "Münchenbernsdorf",
+"links": 34,
+"pob": 2796.0
+},
+{
+"es": "Hohenleuben",
+"de": "Hohenleuben",
+"links": 37,
+"pob": 1372.0
+},
+{
+"es": "Mühlheim an der Donau",
+"de": "Mühlheim an der Donau",
+"links": 39,
+"pob": 3622.0
+},
+{
+"es": "Bernburg",
+"de": "Bernburg",
+"links": 60,
+"pob": 30572.0
+},
+{
+"es": "Datteln",
+"de": "Datteln",
+"links": 47,
+"pob": 34972.0
+},
+{
+"es": "Bad Belzig",
+"de": "Bad Belzig",
+"links": 46,
+"pob": 11109.0
+},
+{
+"es": "Blieskastel",
+"de": "Blieskastel",
+"links": 44,
+"pob": 19935.0
+},
+{
+"es": "Hückelhoven",
+"de": "Hückelhoven",
+"links": 43,
+"pob": 41148.0
+},
+{
+"es": "Leinfelden-Echterdingen",
+"de": "Leinfelden-Echterdingen",
+"links": 48,
+"pob": 41448.0
+},
+{
+"es": "Burg",
+"de": "Burg",
+"links": 50,
+"pob": 22838.0
+},
+{
+"es": "Haren",
+"de": "Haren",
+"links": 44,
+"pob": 24175.0
+},
+{
+"es": "Wolfstein",
+"de": "Wolfstein",
+"links": 40,
+"pob": 1796.0
+},
+{
+"es": "Germering",
+"de": "Germering",
+"links": 51,
+"pob": 41155.0
+},
+{
+"es": "Haltern am See",
+"de": "Haltern am See",
+"links": 51,
+"pob": 38029.0
+},
+{
+"es": "Lauffen am Neckar",
+"de": "Lauffen am Neckar",
+"links": 44,
+"pob": 12218.0
+},
+{
+"es": "Blankenburg",
+"de": "Blankenburg",
+"links": 47,
+"pob": 18765.0
+},
+{
+"es": "Emsdetten",
+"de": "Emsdetten",
+"links": 47,
+"pob": 35925.0
+},
+{
+"es": "Löffingen",
+"de": "Löffingen",
+"links": 41,
+"pob": 7589.0
+},
+{
+"es": "Voerde (Niederrhein)",
+"de": "Voerde",
+"links": 44,
+"pob": 35529.0
+},
+{
+"es": "Hoyerswerda",
+"de": "Hoyerswerda",
+"links": 55,
+"pob": 30458.0
+},
+{
+"es": "Braunfels",
+"de": "Braunfels",
+"links": 47,
+"pob": 11148.0
+},
+{
+"es": "Stühlingen",
+"de": "Stühlingen",
+"links": 40,
+"pob": 5318.0
+},
+{
+"es": "Gebesee",
+"de": "Gebesee",
+"links": 34,
+"pob": 2159.0
+},
+{
+"es": "Ilsenburg",
+"de": "Ilsenburg",
+"links": 44,
+"pob": 9455.0
+},
+{
+"es": "Bad Liebenstein",
+"de": "Bad Liebenstein",
+"links": 37,
+"pob": 7662.0
+},
+{
+"es": "Sömmerda",
+"de": "Sömmerda",
+"links": 48,
+"pob": 18465.0
+},
+{
+"es": "Jerichow",
+"de": "Jerichow",
+"links": 41,
+"pob": 6501.0
+},
+{
+"es": "Weißensee",
+"de": "Weißensee",
+"links": 35,
+"pob": 3514.0
+},
+{
+"es": "Schwäbisch Hall",
+"de": "Schwäbisch Hall",
+"links": 60,
+"pob": 42705.0
+},
+{
+"es": "Wadern",
+"de": "Wadern",
+"links": 45,
+"pob": 16415.0
+},
+{
+"es": "Gräfenthal",
+"de": "Gräfenthal",
+"links": 36,
+"pob": 1773.0
+},
+{
+"es": "Sandau",
+"de": "Sandau",
+"links": 35,
+"pob": 806.0
+},
+{
+"es": "Creuzburg",
+"de": "Creuzburg",
+"links": 34,
+"pob": 2338.0
+},
+{
+"es": "Goch",
+"de": "Goch",
+"links": 49,
+"pob": 34825.0
+},
+{
+"es": "Calau",
+"de": "Calau",
+"links": 45,
+"pob": 7582.0
+},
+{
+"es": "Gefell",
+"de": "Gefell",
+"links": 31,
+"pob": 2278.0
+},
+{
+"es": "Heldrungen",
+"de": "Heldrungen",
+"links": 34,
+"pob": 2207.0
+},
+{
+"es": "Kehl",
+"de": "Kehl",
+"links": 58,
+"pob": 39708.0
+},
+{
+"es": "Erding",
+"de": "Erding",
+"links": 56,
+"pob": 37341.0
+},
+{
+"es": "Schwedt",
+"de": "Schwedt/Oder",
+"links": 52,
+"pob": 33633.0
+},
+{
+"es": "Königs Wusterhausen",
+"de": "Königs Wusterhausen",
+"links": 53,
+"pob": 39590.0
+},
+{
+"es": "Dingelstädt",
+"de": "Dingelstädt",
+"links": 41,
+"pob": 12107.0
+},
+{
+"es": "Holzgerlingen",
+"de": "Holzgerlingen",
+"links": 44,
+"pob": 14153.0
+},
+{
+"es": "Wehr",
+"de": "Wehr",
+"links": 39,
+"pob": 13113.0
+},
+{
+"es": "Rhinow",
+"de": "Rhinow",
+"links": 35,
+"pob": 1614.0
+},
+{
+"es": "Backnang",
+"de": "Backnang",
+"links": 50,
+"pob": 38615.0
+},
+{
+"es": "Langen",
+"de": "Langen",
+"links": 49,
+"pob": 39009.0
+},
+{
+"es": "Meppen",
+"de": "Meppen",
+"links": 56,
+"pob": 36984.0
+},
+{
+"es": "Wurzbach",
+"de": "Wurzbach",
+"links": 35,
+"pob": 2814.0
+},
+{
+"es": "Dos Puentes",
+"de": "Zweibrücken",
+"links": 62,
+"pob": 33178.0
+},
+{
+"es": "Eckartsberga",
+"de": "Eckartsberga",
+"links": 38,
+"pob": 2232.0
+},
+{
+"es": "Steinfurt",
+"de": "Steinfurt",
+"links": 50,
+"pob": 34822.0
+},
+{
+"es": "Merseburg",
+"de": "Merseburg",
+"links": 65,
+"pob": 34491.0
+},
+{
+"es": "Billerbeck",
+"de": "Billerbeck",
+"links": 43,
+"pob": 12019.0
+},
+{
+"es": "Freyburg",
+"de": "Freyburg",
+"links": 40,
+"pob": 4399.0
+},
+{
+"es": "Wesseling",
+"de": "Wesseling",
+"links": 44,
+"pob": 38051.0
+},
+{
+"es": "Barby",
+"de": "Barby",
+"links": 40,
+"pob": 7803.0
+},
+{
+"es": "Mörfelden-Walldorf",
+"de": "Mörfelden-Walldorf",
+"links": 41,
+"pob": 31441.0
+},
+{
+"es": "Lüdinghausen",
+"de": "Lüdinghausen",
+"links": 49,
+"pob": 25039.0
+},
+{
+"es": "Balingen",
+"de": "Balingen",
+"links": 54,
+"pob": 35744.0
+},
+{
+"es": "Fürstenfeldbruck",
+"de": "Fürstenfeldbruck",
+"links": 57,
+"pob": 37666.0
+},
+{
+"es": "Sinsheim",
+"de": "Sinsheim",
+"links": 68,
+"pob": 37105.0
+},
+{
+"es": "Lage",
+"de": "Lage",
+"links": 46,
+"pob": 34818.0
+},
+{
+"es": "Winsen",
+"de": "Winsen",
+"links": 42,
+"pob": 37050.0
+},
+{
+"es": "Orlamünde",
+"de": "Orlamünde",
+"links": 37,
+"pob": 1061.0
+},
+{
+"es": "Stadtlengsfeld",
+"de": "Stadtlengsfeld",
+"links": 34,
+"pob": 2356.0
+},
+{
+"es": "Tambach-Dietharz",
+"de": "Tambach-Dietharz",
+"links": 34,
+"pob": 4353.0
+},
+{
+"es": "Schönebeck",
+"de": "Schönebeck",
+"links": 46,
+"pob": 30250.0
+},
+{
+"es": "Staufen",
+"de": "Staufen im Breisgau",
+"links": 39,
+"pob": 8392.0
+},
+{
+"es": "Leer",
+"de": "Leer",
+"links": 61,
+"pob": 34277.0
+},
+{
+"es": "Hessisch Oldendorf",
+"de": "Hessisch Oldendorf",
+"links": 44,
+"pob": 18352.0
+},
+{
+"es": "Wernigerode",
+"de": "Wernigerode",
+"links": 64,
+"pob": 31835.0
+},
+{
+"es": "Porta Westfalica",
+"de": "Porta Westfalica",
+"links": 50,
+"pob": 36502.0
+},
+{
+"es": "Mahlberg",
+"de": "Mahlberg",
+"links": 37,
+"pob": 5239.0
+},
+{
+"es": "Kirchen",
+"de": "Kirchen",
+"links": 41,
+"pob": 8199.0
+},
+{
+"es": "Bad Tennstedt",
+"de": "Bad Tennstedt",
+"links": 37,
+"pob": 2423.0
+},
+{
+"es": "Naumburgo",
+"de": "Naumburg (Saale)",
+"links": 65,
+"pob": 31617.0
+},
+{
+"es": "Tuttlingen",
+"de": "Tuttlingen",
+"links": 53,
+"pob": 37093.0
+},
+{
+"es": "Limburgo del Lahn",
+"de": "Limburg an der Lahn",
+"links": 64,
+"pob": 35802.0
+},
+{
+"es": "Vechta",
+"de": "Vechta",
+"links": 53,
+"pob": 33768.0
+},
+{
+"es": "Itzehoe",
+"de": "Itzehoe",
+"links": 57,
+"pob": 32850.0
+},
+{
+"es": "Dietzenbach",
+"de": "Dietzenbach",
+"links": 45,
+"pob": 35458.0
+},
+{
+"es": "Papenburgo",
+"de": "Papenburg",
+"links": 53,
+"pob": 36972.0
+},
+{
+"es": "Altemburgo",
+"de": "Altenburg",
+"links": 77,
+"pob": 30867.0
+},
+{
+"es": "Barsinghausen",
+"de": "Barsinghausen",
+"links": 45,
+"pob": 33833.0
+},
+{
+"es": "Geldern",
+"de": "Geldern",
+"links": 48,
+"pob": 34953.0
+},
+{
+"es": "Kemberg",
+"de": "Kemberg",
+"links": 40,
+"pob": 9089.0
+},
+{
+"es": "Deggendorf",
+"de": "Deggendorf",
+"links": 64,
+"pob": 35166.0
+},
+{
+"es": "Coswig (Anhalt)",
+"de": "Coswig",
+"links": 37,
+"pob": 11007.0
+},
+{
+"es": "Hemmingen",
+"de": "Hemmingen",
+"links": 38,
+"pob": 18815.0
+},
+{
+"es": "Volkmarsen",
+"de": "Volkmarsen",
+"links": 42,
+"pob": 6442.0
+},
+{
+"es": "Rheinfelden",
+"de": "Rheinfelden (Baden)",
+"links": 43,
+"pob": 34788.0
+},
+{
+"es": "Uelsen",
+"de": "Uelzen",
+"links": 49,
+"pob": 32703.0
+},
+{
+"es": "Herrenberg",
+"de": "Herrenberg",
+"links": 55,
+"pob": 34167.0
+},
+{
+"es": "Mücheln",
+"de": "Mücheln",
+"links": 35,
+"pob": 8039.0
+},
+{
+"es": "Georgsmarienhütte",
+"de": "Georgsmarienhütte",
+"links": 44,
+"pob": 31074.0
+},
+{
+"es": "Cloppenburg",
+"de": "Cloppenburg",
+"links": 52,
+"pob": 36535.0
+},
+{
+"es": "Ostheim vor der Rhön",
+"de": "Ostheim vor der Rhön",
+"links": 42,
+"pob": 3308.0
+},
+{
+"es": "Nienburg/Weser",
+"de": "Nienburg/Weser",
+"links": 56,
+"pob": 32644.0
+},
+{
+"es": "Vöhringen",
+"de": "Vöhringen",
+"links": 39,
+"pob": 14060.0
+},
+{
+"es": "Renchen",
+"de": "Renchen",
+"links": 37,
+"pob": 7568.0
+},
+{
+"es": "Nabburg",
+"de": "Nabburg",
+"links": 42,
+"pob": 6256.0
+},
+{
+"es": "Weilheim in Oberbayern",
+"de": "Weilheim in Oberbayern",
+"links": 47,
+"pob": 23406.0
+},
+{
+"es": "Schalkau",
+"de": "Schalkau",
+"links": 34,
+"pob": 3089.0
+},
+{
+"es": "Rheinberg",
+"de": "Rheinberg",
+"links": 51,
+"pob": 30951.0
+},
+{
+"es": "Teuchern",
+"de": "Teuchern",
+"links": 37,
+"pob": 7645.0
+},
+{
+"es": "Bramsche",
+"de": "Bramsche",
+"links": 46,
+"pob": 27864.0
+},
+{
+"es": "Crailsheim",
+"de": "Crailsheim",
+"links": 61,
+"pob": 35905.0
+},
+{
+"es": "Geislingen",
+"de": "Geislingen",
+"links": 39,
+"pob": 5905.0
+},
+{
+"es": "Joachimsthal",
+"de": "Joachimsthal",
+"links": 38,
+"pob": 3303.0
+},
+{
+"es": "Seelze",
+"de": "Seelze",
+"links": 40,
+"pob": 34383.0
+},
+{
+"es": "Bad Vilbel",
+"de": "Bad Vilbel",
+"links": 48,
+"pob": 35886.0
+},
+{
+"es": "Korschenbroich",
+"de": "Korschenbroich",
+"links": 44,
+"pob": 34444.0
+},
+{
+"es": "Rodalben",
+"de": "Rodalben",
+"links": 40,
+"pob": 6339.0
+},
+{
+"es": "Kornwestheim",
+"de": "Kornwestheim",
+"links": 48,
+"pob": 34149.0
+},
+{
+"es": "Lampertheim",
+"de": "Lampertheim",
+"links": 43,
+"pob": 32395.0
+},
+{
+"es": "Hachenburg",
+"de": "Hachenburg",
+"links": 39,
+"pob": 6390.0
+},
+{
+"es": "Bad Marienberg",
+"de": "Bad Marienberg",
+"links": 41,
+"pob": 6101.0
+},
+{
+"es": "Eisenhüttenstadt",
+"de": "Eisenhüttenstadt",
+"links": 63,
+"pob": 24791.0
+},
+{
+"es": "Greding",
+"de": "Greding",
+"links": 44,
+"pob": 7070.0
+},
+{
+"es": "Zeitz",
+"de": "Zeitz",
+"links": 60,
+"pob": 27934.0
+},
+{
+"es": "Neuruppin",
+"de": "Neuruppin",
+"links": 59,
+"pob": 31887.0
+},
+{
+"es": "Idar-Oberstein",
+"de": "Idar-Oberstein",
+"links": 59,
+"pob": 30074.0
+},
+{
+"es": "Viernheim",
+"de": "Viernheim",
+"links": 48,
+"pob": 34285.0
+},
+{
+"es": "Bad Nauheim",
+"de": "Bad Nauheim",
+"links": 50,
+"pob": 32700.0
+},
+{
+"es": "Blaustein",
+"de": "Blaustein",
+"links": 42,
+"pob": 16630.0
+},
+{
+"es": "Ummerstadt",
+"de": "Ummerstadt",
+"links": 34,
+"pob": 458.0
+},
+{
+"es": "Vallendar",
+"de": "Vallendar",
+"links": 42,
+"pob": 9046.0
+},
+{
+"es": "Bützow",
+"de": "Bützow",
+"links": 43,
+"pob": 7668.0
+},
+{
+"es": "Ahrensburg",
+"de": "Ahrensburg",
+"links": 55,
+"pob": 34531.0
+},
+{
+"es": "Jülich",
+"de": "Jülich",
+"links": 57,
+"pob": 35146.0
+},
+{
+"es": "Höxter",
+"de": "Höxter",
+"links": 51,
+"pob": 27908.0
+},
+{
+"es": "Crimmitschau",
+"de": "Crimmitschau",
+"links": 47,
+"pob": 17820.0
+},
+{
+"es": "Merzig",
+"de": "Merzig",
+"links": 56,
+"pob": 31341.0
+},
+{
+"es": "Fürstenwalde",
+"de": "Fürstenwalde",
+"links": 51,
+"pob": 31981.0
+},
+{
+"es": "Biberach an der Riss",
+"de": "Biberach an der Riß",
+"links": 62,
+"pob": 34275.0
+},
+{
+"es": "Römhild",
+"de": "Römhild",
+"links": 39,
+"pob": 6253.0
+},
+{
+"es": "Prenzlau",
+"de": "Prenzlau",
+"links": 58,
+"pob": 18779.0
+},
+{
+"es": "Dassow",
+"de": "Dassow",
+"links": 36,
+"pob": 3865.0
+},
+{
+"es": "Lübtheen",
+"de": "Lübtheen",
+"links": 39,
+"pob": 4369.0
+},
+{
+"es": "Radolfzell am Bodensee",
+"de": "Radolfzell am Bodensee",
+"links": 50,
+"pob": 31689.0
+},
+{
+"es": "Oer-Erkenschwick",
+"de": "Oer-Erkenschwick",
+"links": 46,
+"pob": 31499.0
+},
+{
+"es": "Glauchau",
+"de": "Glauchau",
+"links": 53,
+"pob": 21341.0
+},
+{
+"es": "Forchheim",
+"de": "Forchheim",
+"links": 54,
+"pob": 33359.0
+},
+{
+"es": "Edenkoben",
+"de": "Edenkoben",
+"links": 42,
+"pob": 6904.0
+},
+{
+"es": "Marlow",
+"de": "Marlow",
+"links": 37,
+"pob": 4449.0
+},
+{
+"es": "Osterholz-Scharmbeck",
+"de": "Osterholz-Scharmbeck",
+"links": 45,
+"pob": 29757.0
+},
+{
+"es": "Wahlstedt",
+"de": "Wahlstedt",
+"links": 37,
+"pob": 9749.0
+},
+{
+"es": "Gnoien",
+"de": "Gnoien",
+"links": 37,
+"pob": 2670.0
+},
+{
+"es": "Rutesheim",
+"de": "Rutesheim",
+"links": 39,
+"pob": 11047.0
+},
+{
+"es": "Grabow",
+"de": "Grabow",
+"links": 35,
+"pob": 5358.0
+},
+{
+"es": "Großalmerode",
+"de": "Großalmerode",
+"links": 36,
+"pob": 6049.0
+},
+{
+"es": "Herborn",
+"de": "Herborn",
+"links": 46,
+"pob": 20276.0
+},
+{
+"es": "Lichtenstein",
+"de": "Lichtenstein/Sa.",
+"links": 38,
+"pob": 10773.0
+},
+{
+"es": "Meerane",
+"de": "Meerane",
+"links": 50,
+"pob": 13708.0
+},
+{
+"es": "Dömitz",
+"de": "Dömitz",
+"links": 42,
+"pob": 2793.0
+},
+{
+"es": "Warin",
+"de": "Warin",
+"links": 36,
+"pob": 3219.0
+},
+{
+"es": "Rheinsberg",
+"de": "Rheinsberg",
+"links": 42,
+"pob": 7663.0
+},
+{
+"es": "Rerik",
+"de": "Rerik",
+"links": 37,
+"pob": 2199.0
+},
+{
+"es": "Achim",
+"de": "Achim",
+"links": 47,
+"pob": 32913.0
+},
+{
+"es": "Krakow am See",
+"de": "Krakow am See",
+"links": 37,
+"pob": 3286.0
+},
+{
+"es": "Niebüll",
+"de": "Niebüll",
+"links": 44,
+"pob": 10122.0
+},
+{
+"es": "Schwaan",
+"de": "Schwaan",
+"links": 36,
+"pob": 4958.0
+},
+{
+"es": "Gundelsheim",
+"de": "Gundelsheim",
+"links": 38,
+"pob": 7313.0
+},
+{
+"es": "Delbrück",
+"de": "Delbrück",
+"links": 43,
+"pob": 32140.0
+},
+{
+"es": "Bredstedt",
+"de": "Bredstedt",
+"links": 40,
+"pob": 5722.0
+},
+{
+"es": "Röbel",
+"de": "Röbel/Müritz",
+"links": 35,
+"pob": 4664.0
+},
+{
+"es": "Malchow",
+"de": "Malchow",
+"links": 39,
+"pob": 6208.0
+},
+{
+"es": "Kalbe (Milde)",
+"de": "Kalbe (Milde)",
+"links": 37,
+"pob": 6922.0
+},
+{
+"es": "Buttelstedt",
+"de": "Buttelstedt",
+"links": 35,
+"pob": 1317.0
+},
+{
+"es": "Limbach-Oberfrohna",
+"de": "Limbach-Oberfrohna",
+"links": 43,
+"pob": 23394.0
+},
+{
+"es": "Werdau",
+"de": "Werdau",
+"links": 45,
+"pob": 20793.0
+},
+{
+"es": "Diedorf",
+"de": "Dierdorf",
+"links": 39,
+"pob": 6162.0
+},
+{
+"es": "Bad Hönningen",
+"de": "Bad Hönningen",
+"links": 40,
+"pob": 6376.0
+},
+{
+"es": "Hohenstein-Ernstthal",
+"de": "Hohenstein-Ernstthal",
+"links": 46,
+"pob": 13681.0
+},
+{
+"es": "Hartenstein",
+"de": "Hartenstein",
+"links": 37,
+"pob": 4403.0
+},
+{
+"es": "Blankenhain",
+"de": "Blankenhain",
+"links": 41,
+"pob": 6461.0
+},
+{
+"es": "Kirchberg",
+"de": "Kirchberg",
+"links": 34,
+"pob": 7621.0
+},
+{
+"es": "Bad Hersfeld",
+"de": "Bad Hersfeld",
+"links": 58,
+"pob": 30632.0
+},
+{
+"es": "Berlín",
+"de": "Berlin",
+"links": 334,
+"pob": 3700577.0
+},
+{
+"es": "Oberlungwitz",
+"de": "Oberlungwitz",
+"links": 38,
+"pob": 5672.0
+},
+{
+"es": "Waldenburg",
+"de": "Waldenburg",
+"links": 41,
+"pob": 3903.0
+},
+{
+"es": "Husum",
+"de": "Husum",
+"links": 66,
+"pob": 23976.0
+},
+{
+"es": "Leutkirch im Allgäu",
+"de": "Leutkirch im Allgäu",
+"links": 46,
+"pob": 24325.0
+},
+{
+"es": "Wildenfels",
+"de": "Wildenfels",
+"links": 42,
+"pob": 3388.0
+},
+{
+"es": "Wilkau-Haßlau",
+"de": "Wilkau-Haßlau",
+"links": 36,
+"pob": 9318.0
+},
+{
+"es": "Neustrelitz",
+"de": "Neustrelitz",
+"links": 61,
+"pob": 20136.0
+},
+{
+"es": "Wyk auf Föhr",
+"de": "Wyk auf Föhr",
+"links": 42,
+"pob": 4109.0
+},
+{
+"es": "Kelbra",
+"de": "Kelbra",
+"links": 36,
+"pob": 3160.0
+},
+{
+"es": "Friedrichstadt",
+"de": "Friedrichstadt",
+"links": 46,
+"pob": 2527.0
+},
+{
+"es": "Wesenberg",
+"de": "Wesenberg",
+"links": 37,
+"pob": 2972.0
+},
+{
+"es": "Langewiesen",
+"de": "Langewiesen",
+"links": 34,
+"pob": 3544.0
+},
+{
+"es": "Güstrow",
+"de": "Güstrow",
+"links": 63,
+"pob": 28861.0
+},
+{
+"es": "Deidesheim",
+"de": "Deidesheim",
+"links": 41,
+"pob": 3622.0
+},
+{
+"es": "Annweiler am Trifels",
+"de": "Annweiler am Trifels",
+"links": 45,
+"pob": 7233.0
+},
+{
+"es": "Stutensee",
+"de": "Stutensee",
+"links": 46,
+"pob": 25422.0
+},
+{
+"es": "Kirn",
+"de": "Kirn",
+"links": 42,
+"pob": 8559.0
+},
+{
+"es": "Westerburg",
+"de": "Westerburg",
+"links": 41,
+"pob": 6041.0
+},
+{
+"es": "Brüssow",
+"de": "Brüssow",
+"links": 40,
+"pob": 1855.0
+},
+{
+"es": "Tönning",
+"de": "Tönning",
+"links": 46,
+"pob": 4775.0
+},
+{
+"es": "Lohne",
+"de": "Lohne",
+"links": 41,
+"pob": 28114.0
+},
+{
+"es": "Traben-Trarbach",
+"de": "Traben-Trarbach",
+"links": 42,
+"pob": 5399.0
+},
+{
+"es": "Krautheim",
+"de": "Krautheim",
+"links": 34,
+"pob": 4502.0
+},
+{
+"es": "Kölleda",
+"de": "Kölleda",
+"links": 37,
+"pob": 6292.0
+},
+{
+"es": "Walldorf",
+"de": "Walldorf",
+"links": 56,
+"pob": 16219.0
+},
+{
+"es": "Bad Breisig",
+"de": "Bad Breisig",
+"links": 42,
+"pob": 9661.0
+},
+{
+"es": "Baumholder",
+"de": "Baumholder",
+"links": 43,
+"pob": 4294.0
+},
+{
+"es": "Penzlin",
+"de": "Penzlin",
+"links": 34,
+"pob": 4036.0
+},
+{
+"es": "Mirow",
+"de": "Mirow",
+"links": 42,
+"pob": 3671.0
+},
+{
+"es": "Seesen",
+"de": "Seesen",
+"links": 41,
+"pob": 18612.0
+},
+{
+"es": "Philippsburg",
+"de": "Philippsburg",
+"links": 47,
+"pob": 13765.0
+},
+{
+"es": "Germersheim",
+"de": "Germersheim",
+"links": 48,
+"pob": 21532.0
+},
+{
+"es": "Eberbach",
+"de": "Eberbach",
+"links": 49,
+"pob": 14729.0
+},
+{
+"es": "Emmelshausen",
+"de": "Emmelshausen",
+"links": 40,
+"pob": 4995.0
+},
+{
+"es": "Luckau",
+"de": "Luckau",
+"links": 47,
+"pob": 9138.0
+},
+{
+"es": "Rheinau",
+"de": "Rheinau",
+"links": 40,
+"pob": 11374.0
+},
+{
+"es": "Ramstein-Miesenbach",
+"de": "Ramstein-Miesenbach",
+"links": 48,
+"pob": 7607.0
+},
+{
+"es": "Bad Dürkheim",
+"de": "Bad Dürkheim",
+"links": 50,
+"pob": 19002.0
+},
+{
+"es": "Leimen",
+"de": "Leimen",
+"links": 44,
+"pob": 26815.0
+},
+{
+"es": "Kusel",
+"de": "Kusel",
+"links": 43,
+"pob": 5108.0
+},
+{
+"es": "Reinfeld",
+"de": "Reinfeld",
+"links": 35,
+"pob": 9127.0
+},
+{
+"es": "Beilstein",
+"de": "Beilstein",
+"links": 39,
+"pob": 6326.0
+},
+{
+"es": "Wiesloch",
+"de": "Wiesloch",
+"links": 55,
+"pob": 27911.0
+},
+{
+"es": "Freinsheim",
+"de": "Freinsheim",
+"links": 44,
+"pob": 4854.0
+},
+{
+"es": "Oberkirch",
+"de": "Oberkirch",
+"links": 38,
+"pob": 19977.0
+},
+{
+"es": "Weißenthurm",
+"de": "Weißenthurm",
+"links": 37,
+"pob": 8944.0
+},
+{
+"es": "Biesenthal",
+"de": "Biesenthal",
+"links": 37,
+"pob": 6370.0
+},
+{
+"es": "Groß-Bieberau",
+"de": "Groß-Bieberau",
+"links": 37,
+"pob": 4486.0
+},
+{
+"es": "Wolfhagen",
+"de": "Wolfhagen",
+"links": 41,
+"pob": 12576.0
+},
+{
+"es": "Neubulach",
+"de": "Neubulach",
+"links": 36,
+"pob": 5676.0
+},
+{
+"es": "Kranichfeld",
+"de": "Kranichfeld",
+"links": 41,
+"pob": 3375.0
+},
+{
+"es": "Kraichtal",
+"de": "Kraichtal",
+"links": 39,
+"pob": 14546.0
+},
+{
+"es": "Geisa",
+"de": "Geisa",
+"links": 39,
+"pob": 4691.0
+},
+{
+"es": "Mosbach",
+"de": "Mosbach",
+"links": 54,
+"pob": 24393.0
+},
+{
+"es": "Kastellaun",
+"de": "Kastellaun",
+"links": 43,
+"pob": 5732.0
+},
+{
+"es": "Birkenfeld",
+"de": "Birkenfeld",
+"links": 45,
+"pob": 7042.0
+},
+{
+"es": "Waldeck",
+"de": "Waldeck",
+"links": 42,
+"pob": 6882.0
+},
+{
+"es": "Neustadt-Glewe",
+"de": "Neustadt-Glewe",
+"links": 34,
+"pob": 6686.0
+},
+{
+"es": "Obermoschel",
+"de": "Obermoschel",
+"links": 36,
+"pob": 1077.0
+},
+{
+"es": "Bischofsheim in der Rhön",
+"de": "Bischofsheim in der Rhön",
+"links": 41,
+"pob": 4686.0
+},
+{
+"es": "Kandel",
+"de": "Kandel",
+"links": 38,
+"pob": 9285.0
+},
+{
+"es": "Grünstadt",
+"de": "Grünstadt",
+"links": 40,
+"pob": 14379.0
+},
+{
+"es": "Rockenhausen",
+"de": "Rockenhausen",
+"links": 40,
+"pob": 5311.0
+},
+{
+"es": "Garding",
+"de": "Garding",
+"links": 42,
+"pob": 2882.0
+},
+{
+"es": "Nagold",
+"de": "Nagold",
+"links": 44,
+"pob": 23813.0
+},
+{
+"es": "Bad Sachsa",
+"de": "Bad Sachsa",
+"links": 42,
+"pob": 7180.0
+},
+{
+"es": "Krempe",
+"de": "Krempe",
+"links": 38,
+"pob": 2421.0
+},
+{
+"es": "Golßen",
+"de": "Golßen",
+"links": 38,
+"pob": 2415.0
+},
+{
+"es": "Landstuhl",
+"de": "Landstuhl",
+"links": 45,
+"pob": 8353.0
+},
+{
+"es": "Laufenburg",
+"de": "Laufenburg",
+"links": 41,
+"pob": 9268.0
+},
+{
+"es": "Neukloster",
+"de": "Neukloster",
+"links": 34,
+"pob": 3968.0
+},
+{
+"es": "Lebus",
+"de": "Lebus",
+"links": 43,
+"pob": 3015.0
+},
+{
+"es": "Bogen",
+"de": "Bogen",
+"links": 42,
+"pob": 10479.0
+},
+{
+"es": "Schifferstadt",
+"de": "Schifferstadt",
+"links": 42,
+"pob": 21392.0
+},
+{
+"es": "Hagenbach",
+"de": "Hagenbach",
+"links": 39,
+"pob": 5295.0
+},
+{
+"es": "Märkisch Buchholz",
+"de": "Märkisch Buchholz",
+"links": 38,
+"pob": 847.0
+},
+{
+"es": "Quedlinburg",
+"de": "Quedlinburg",
+"links": 84,
+"pob": 23069.0
+},
+{
+"es": "Pegnitz",
+"de": "Pegnitz",
+"links": 48,
+"pob": 13614.0
+},
+{
+"es": "Püttlingen",
+"de": "Püttlingen",
+"links": 44,
+"pob": 18314.0
+},
+{
+"es": "Borkum",
+"de": "Borkum",
+"links": 66,
+"pob": 4295.0
+},
+{
+"es": "Oberderdingen",
+"de": "Oberderdingen",
+"links": 39,
+"pob": 11753.0
+},
+{
+"es": "Rehburg-Loccum",
+"de": "Rehburg-Loccum",
+"links": 40,
+"pob": 9851.0
+},
+{
+"es": "Nidderau",
+"de": "Nidderau",
+"links": 38,
+"pob": 20131.0
+},
+{
+"es": "Ebeleben",
+"de": "Ebeleben",
+"links": 36,
+"pob": 2635.0
+},
+{
+"es": "Trostberg",
+"de": "Trostberg",
+"links": 45,
+"pob": 11442.0
+},
+{
+"es": "Moosburg an der Isar",
+"de": "Moosburg an der Isar",
+"links": 47,
+"pob": 20107.0
+},
+{
+"es": "Kaub",
+"de": "Kaub",
+"links": 42,
+"pob": 758.0
+},
+{
+"es": "Wittenberge",
+"de": "Wittenberge",
+"links": 50,
+"pob": 16928.0
+},
+{
+"es": "Wörrstadt",
+"de": "Wörrstadt",
+"links": 39,
+"pob": 8523.0
+},
+{
+"es": "Stadthagen",
+"de": "Stadthagen",
+"links": 43,
+"pob": 22556.0
+},
+{
+"es": "Wirges",
+"de": "Wirges",
+"links": 36,
+"pob": 5735.0
+},
+{
+"es": "Marne",
+"de": "Marne",
+"links": 37,
+"pob": 5558.0
+},
+{
+"es": "Burg Stargard",
+"de": "Burg Stargard",
+"links": 34,
+"pob": 5166.0
+},
+{
+"es": "Bad Rappenau",
+"de": "Bad Rappenau",
+"links": 49,
+"pob": 22728.0
+},
+{
+"es": "Werther",
+"de": "Werther (Westf.)",
+"links": 39,
+"pob": 11001.0
+},
+{
+"es": "Wasungen",
+"de": "Wasungen",
+"links": 37,
+"pob": 5258.0
+},
+{
+"es": "Bad Nenndorf",
+"de": "Bad Nenndorf",
+"links": 42,
+"pob": 11530.0
+},
+{
+"es": "Neuerburg",
+"de": "Neuerburg",
+"links": 37,
+"pob": 1307.0
+},
+{
+"es": "Manderscheid",
+"de": "Manderscheid",
+"links": 37,
+"pob": 1450.0
+},
+{
+"es": "Neustadt",
+"de": "Neustadt bei Coburg",
+"links": 47,
+"pob": 14620.0
+},
+{
+"es": "Treffurt",
+"de": "Treffurt",
+"links": 39,
+"pob": 5719.0
+},
+{
+"es": "Beelitz",
+"de": "Beelitz",
+"links": 40,
+"pob": 14102.0
+},
+{
+"es": "Pfarrkirchen",
+"de": "Pfarrkirchen",
+"links": 44,
+"pob": 12842.0
+},
+{
+"es": "Herzberg",
+"de": "Herzberg (Elster)",
+"links": 43,
+"pob": 8753.0
+},
+{
+"es": "Langenselbold",
+"de": "Langenselbold",
+"links": 41,
+"pob": 14367.0
+},
+{
+"es": "Osterwieck",
+"de": "Osterwieck",
+"links": 44,
+"pob": 10949.0
+},
+{
+"es": "Lindenberg im Allgäu",
+"de": "Lindenberg im Allgäu",
+"links": 43,
+"pob": 11572.0
+},
+{
+"es": "Norderney",
+"de": "Norderney",
+"links": 64,
+"pob": 5358.0
+},
+{
+"es": "Bremen",
+"de": "Bremen",
+"links": 164,
+"pob": 588413.0
+},
+{
+"es": "Usedom",
+"de": "Usedom",
+"links": 38,
+"pob": 1483.0
+},
+{
+"es": "Betzdorf",
+"de": "Betzdorf",
+"links": 40,
+"pob": 10367.0
+},
+{
+"es": "Saarburg",
+"de": "Saarburg",
+"links": 42,
+"pob": 7533.0
+},
+{
+"es": "Döbern",
+"de": "Döbern",
+"links": 41,
+"pob": 3028.0
+},
+{
+"es": "Wissen",
+"de": "Wissen",
+"links": 38,
+"pob": 8669.0
+},
+{
+"es": "Schotten",
+"de": "Schotten",
+"links": 42,
+"pob": 9542.0
+},
+{
+"es": "Rehau",
+"de": "Rehau",
+"links": 44,
+"pob": 9055.0
+},
+{
+"es": "Eppstein",
+"de": "Eppstein",
+"links": 44,
+"pob": 13058.0
+},
+{
+"es": "Wegeleben",
+"de": "Wegeleben",
+"links": 39,
+"pob": 2333.0
+},
+{
+"es": "Bad Elster",
+"de": "Bad Elster",
+"links": 46,
+"pob": 3502.0
+},
+{
+"es": "Neuenstein",
+"de": "Neuenstein",
+"links": 36,
+"pob": 6556.0
+},
+{
+"es": "Friedrichsthal",
+"de": "Friedrichsthal",
+"links": 35,
+"pob": 10090.0
+},
+{
+"es": "Bad Münder am Deister",
+"de": "Bad Münder am Deister",
+"links": 46,
+"pob": 17417.0
+},
+{
+"es": "Elsterberg",
+"de": "Elsterberg",
+"links": 41,
+"pob": 3570.0
+},
+{
+"es": "Hohen Neuendorf",
+"de": "Hohen Neuendorf",
+"links": 42,
+"pob": 26819.0
+},
+{
+"es": "Bad Soden am Taunus",
+"de": "Bad Soden am Taunus",
+"links": 44,
+"pob": 23096.0
+},
+{
+"es": "Weißwasser",
+"de": "Weißwasser/O.L.",
+"links": 53,
+"pob": 14887.0
+},
+{
+"es": "Weißenburg in Bayern",
+"de": "Weißenburg in Bayern",
+"links": 55,
+"pob": 18172.0
+},
+{
+"es": "Schlitz",
+"de": "Schlitz",
+"links": 38,
+"pob": 9270.0
+},
+{
+"es": "Ranis",
+"de": "Ranis",
+"links": 37,
+"pob": 1654.0
+},
+{
+"es": "Friedland",
+"de": "Friedland",
+"links": 38,
+"pob": 6054.0
+},
+{
+"es": "Rodewisch",
+"de": "Rodewisch",
+"links": 40,
+"pob": 6014.0
+},
+{
+"es": "Königslutter",
+"de": "Königslutter am Elm",
+"links": 46,
+"pob": 15293.0
+},
+{
+"es": "Schöneck",
+"de": "Schöneck/Vogtland",
+"links": 36,
+"pob": 2850.0
+},
+{
+"es": "Treuen",
+"de": "Treuen",
+"links": 36,
+"pob": 7512.0
+},
+{
+"es": "Auerbach",
+"de": "Auerbach/Vogtl.",
+"links": 45,
+"pob": 17061.0
+},
+{
+"es": "Oelsnitz",
+"de": "Oelsnitz/Vogtl.",
+"links": 42,
+"pob": 9930.0
+},
+{
+"es": "Gehrden",
+"de": "Gehrden",
+"links": 41,
+"pob": 15435.0
+},
+{
+"es": "Sontra",
+"de": "Sontra",
+"links": 35,
+"pob": 7462.0
+},
+{
+"es": "Reichenbach im Vogtland",
+"de": "Reichenbach im Vogtland",
+"links": 43,
+"pob": 19510.0
+},
+{
+"es": "Adorf/Vogtl.",
+"de": "Adorf/Vogtl.",
+"links": 48,
+"pob": 4376.0
+},
+{
+"es": "Ransbach-Baumbach",
+"de": "Ransbach-Baumbach",
+"links": 34,
+"pob": 8178.0
+},
+{
+"es": "Gladenbach",
+"de": "Gladenbach",
+"links": 37,
+"pob": 12377.0
+},
+{
+"es": "Jever",
+"de": "Jever",
+"links": 55,
+"pob": 14671.0
+},
+{
+"es": "Neustadt an der Aisch",
+"de": "Neustadt an der Aisch",
+"links": 49,
+"pob": 13293.0
+},
+{
+"es": "Renningen",
+"de": "Renningen",
+"links": 44,
+"pob": 18728.0
+},
+{
+"es": "Kenzingen",
+"de": "Kenzingen",
+"links": 46,
+"pob": 10829.0
+},
+{
+"es": "Neustadt am Kulm",
+"de": "Neustadt am Kulm",
+"links": 41,
+"pob": 1166.0
+},
+{
+"es": "Grafing",
+"de": "Grafing bei München",
+"links": 39,
+"pob": 13930.0
+},
+{
+"es": "Landsberg",
+"de": "Landsberg",
+"links": 40,
+"pob": 14684.0
+},
+{
+"es": "Falkenstein",
+"de": "Falkenstein/Vogtl.",
+"links": 42,
+"pob": 7321.0
+},
+{
+"es": "Klingenthal",
+"de": "Klingenthal",
+"links": 49,
+"pob": 7211.0
+},
+{
+"es": "Nienburg",
+"de": "Nienburg",
+"links": 35,
+"pob": 5607.0
+},
+{
+"es": "Sonnewalde",
+"de": "Sonnewalde",
+"links": 40,
+"pob": 3110.0
+},
+{
+"es": "Künzelsau",
+"de": "Künzelsau",
+"links": 41,
+"pob": 16457.0
+},
+{
+"es": "Sinzig",
+"de": "Sinzig",
+"links": 43,
+"pob": 17374.0
+},
+{
+"es": "Giengen",
+"de": "Giengen an der Brenz",
+"links": 47,
+"pob": 19857.0
+},
+{
+"es": "Markneukirchen",
+"de": "Markneukirchen",
+"links": 38,
+"pob": 6951.0
+},
+{
+"es": "",
+"de": "Mühltroff",
+"links": 27,
+"pob": 1949.0
+},
+{
+"es": "Netzschkau",
+"de": "Netzschkau",
+"links": 38,
+"pob": 3570.0
+},
+{
+"es": "Waldkappel",
+"de": "Waldkappel",
+"links": 39,
+"pob": 4024.0
+},
+{
+"es": "Stößen",
+"de": "Stößen",
+"links": 35,
+"pob": 865.0
+},
+{
+"es": "Seeland",
+"de": "Seeland",
+"links": 31,
+"pob": 7420.0
+},
+{
+"es": "Tangerhütte",
+"de": "Tangerhütte",
+"links": 41,
+"pob": 10000.0
+},
+{
+"es": "Schraplau",
+"de": "Schraplau",
+"links": 34,
+"pob": 1001.0
+},
+{
+"es": "Schkölen",
+"de": "Schkölen",
+"links": 33,
+"pob": 2588.0
+},
+{
+"es": "Großbreitenbach",
+"de": "Großbreitenbach",
+"links": 16,
+"pob": 2582.0
+},
+{
+"es": "Lengenfeld",
+"de": "Lengenfeld",
+"links": 33,
+"pob": 6786.0
+},
+{
+"es": "Rhens",
+"de": "Rhens",
+"links": 38,
+"pob": 2928.0
+},
+{
+"es": "Melsungen",
+"de": "Melsungen",
+"links": 43,
+"pob": 13992.0
+},
+{
+"es": "Lichtenau",
+"de": "Lichtenau",
+"links": 35,
+"pob": 4969.0
+},
+{
+"es": "Dargun",
+"de": "Dargun",
+"links": 37,
+"pob": 4063.0
+},
+{
+"es": "Falkenstein",
+"de": "Falkenstein/Harz",
+"links": 39,
+"pob": 4899.0
+},
+{
+"es": "Osterfeld",
+"de": "Osterfeld",
+"links": 35,
+"pob": 2336.0
+},
+{
+"es": "Klötze",
+"de": "Klötze",
+"links": 39,
+"pob": 9609.0
+},
+{
+"es": "Gommern",
+"de": "Gommern",
+"links": 41,
+"pob": 10049.0
+},
+{
+"es": "Altentreptow",
+"de": "Altentreptow",
+"links": 45,
+"pob": 4903.0
+},
+{
+"es": "Güglingen",
+"de": "Güglingen",
+"links": 41,
+"pob": 6344.0
+},
+{
+"es": "Mellrichstadt",
+"de": "Mellrichstadt",
+"links": 45,
+"pob": 5458.0
+},
+{
+"es": "Demmin",
+"de": "Demmin",
+"links": 54,
+"pob": 10001.0
+},
+{
+"es": "Stavenhagen",
+"de": "Stavenhagen",
+"links": 38,
+"pob": 5116.0
+},
+{
+"es": "Battenberg (Eder)",
+"de": "Battenberg (Eder)",
+"links": 38,
+"pob": 5463.0
+},
+{
+"es": "Nastätten",
+"de": "Nastätten",
+"links": 36,
+"pob": 4526.0
+},
+{
+"es": "Schieder-Schwalenberg",
+"de": "Schieder-Schwalenberg",
+"links": 38,
+"pob": 7986.0
+},
+{
+"es": "Malchin",
+"de": "Malchin",
+"links": 38,
+"pob": 6667.0
+},
+{
+"es": "Neukalen",
+"de": "Neukalen",
+"links": 33,
+"pob": 1766.0
+},
+{
+"es": "Schwanebeck",
+"de": "Schwanebeck",
+"links": 34,
+"pob": 2328.0
+},
+{
+"es": "Plau am See",
+"de": "Plau am See",
+"links": 39,
+"pob": 5958.0
+},
+{
+"es": "Kahla",
+"de": "Kahla",
+"links": 35,
+"pob": 6809.0
+},
+{
+"es": "Leutenberg",
+"de": "Leutenberg",
+"links": 38,
+"pob": 1894.0
+},
+{
+"es": "Donauwörth",
+"de": "Donauwörth",
+"links": 64,
+"pob": 20024.0
+},
+{
+"es": "Wachenheim",
+"de": "Wachenheim an der Weinstraße",
+"links": 39,
+"pob": 4393.0
+},
+{
+"es": "Höhr-Grenzhausen",
+"de": "Höhr-Grenzhausen",
+"links": 39,
+"pob": 9354.0
+},
+{
+"es": "Jessen",
+"de": "Jessen",
+"links": 40,
+"pob": 13538.0
+},
+{
+"es": "Magdala",
+"de": "Magdala",
+"links": 36,
+"pob": 1924.0
+},
+{
+"es": "Einbeck",
+"de": "Einbeck",
+"links": 56,
+"pob": 29472.0
+},
+{
+"es": "Wittingen",
+"de": "Wittingen",
+"links": 42,
+"pob": 11028.0
+},
+{
+"es": "Schömberg",
+"de": "Schömberg",
+"links": 34,
+"pob": 4790.0
+},
+{
+"es": "Schönwald",
+"de": "Schönwald",
+"links": 41,
+"pob": 3066.0
+},
+{
+"es": "Selb",
+"de": "Selb",
+"links": 46,
+"pob": 14536.0
+},
+{
+"es": "Hettstedt",
+"de": "Hettstedt",
+"links": 39,
+"pob": 12626.0
+},
+{
+"es": "Ballenstedt",
+"de": "Ballenstedt",
+"links": 47,
+"pob": 8346.0
+},
+{
+"es": "Burgdorf",
+"de": "Burgdorf",
+"links": 41,
+"pob": 31059.0
+},
+{
+"es": "Ronnenberg",
+"de": "Ronnenberg",
+"links": 40,
+"pob": 23807.0
+},
+{
+"es": "Biedenkopf",
+"de": "Biedenkopf",
+"links": 39,
+"pob": 12932.0
+},
+{
+"es": "Vacha",
+"de": "Vacha",
+"links": 39,
+"pob": 4843.0
+},
+{
+"es": "Steinbach-Hallenberg",
+"de": "Steinbach-Hallenberg",
+"links": 36,
+"pob": 8994.0
+},
+{
+"es": "Gerbstedt",
+"de": "Gerbstedt",
+"links": 38,
+"pob": 6543.0
+},
+{
+"es": "Oderberg",
+"de": "Oderberg",
+"links": 36,
+"pob": 1948.0
+},
+{
+"es": "Beerfelden",
+"de": "Beerfelden",
+"links": 29,
+"pob": 6399.0
+},
+{
+"es": "Ravenstein",
+"de": "Ravenstein",
+"links": 39,
+"pob": 2971.0
+},
+{
+"es": "Buckow",
+"de": "Buckow",
+"links": 37,
+"pob": 1488.0
+},
+{
+"es": "Waldmohr",
+"de": "Waldmohr",
+"links": 35,
+"pob": 5118.0
+},
+{
+"es": "Oettingen in Bayern",
+"de": "Oettingen in Bayern",
+"links": 47,
+"pob": 5189.0
+},
+{
+"es": "Bad Camberg",
+"de": "Bad Camberg",
+"links": 44,
+"pob": 14134.0
+},
+{
+"es": "Kaisersesch",
+"de": "Kaisersesch",
+"links": 38,
+"pob": 3268.0
+},
+{
+"es": "Holzminden",
+"de": "Holzminden",
+"links": 49,
+"pob": 18921.0
+},
+{
+"es": "Geisenheim",
+"de": "Geisenheim",
+"links": 40,
+"pob": 11184.0
+},
+{
+"es": "Ehrenfriedersdorf",
+"de": "Ehrenfriedersdorf",
+"links": 43,
+"pob": 4320.0
+},
+{
+"es": "Münsingen",
+"de": "Münsingen",
+"links": 42,
+"pob": 14695.0
+},
+{
+"es": "Möckern",
+"de": "Möckern",
+"links": 38,
+"pob": 12437.0
+},
+{
+"es": "Woldegk",
+"de": "Woldegk",
+"links": 37,
+"pob": 4004.0
+},
+{
+"es": "Eibenstock",
+"de": "Eibenstock",
+"links": 44,
+"pob": 6701.0
+},
+{
+"es": "Elterlein",
+"de": "Elterlein",
+"links": 43,
+"pob": 2614.0
+},
+{
+"es": "Brackenheim",
+"de": "Brackenheim",
+"links": 45,
+"pob": 16712.0
+},
+{
+"es": "Rastenberg",
+"de": "Rastenberg",
+"links": 31,
+"pob": 2346.0
+},
+{
+"es": "Bürgel",
+"de": "Bürgel",
+"links": 39,
+"pob": 3061.0
+},
+{
+"es": "Emmerich am Rhein",
+"de": "Emmerich am Rhein",
+"links": 56,
+"pob": 31736.0
+},
+{
+"es": "Aßlar",
+"de": "Aßlar",
+"links": 41,
+"pob": 14381.0
+},
+{
+"es": "Greußen",
+"de": "Greußen",
+"links": 35,
+"pob": 5439.0
+},
+{
+"es": "Hermsdorf",
+"de": "Hermsdorf",
+"links": 32,
+"pob": 8102.0
+},
+{
+"es": "Annaberg-Buchholz",
+"de": "Annaberg-Buchholz",
+"links": 62,
+"pob": 18882.0
+},
+{
+"es": "Schlettau",
+"de": "Schlettau",
+"links": 42,
+"pob": 2173.0
+},
+{
+"es": "Schneeberg",
+"de": "Schneeberg",
+"links": 41,
+"pob": 13372.0
+},
+{
+"es": "Bebra",
+"de": "Bebra",
+"links": 43,
+"pob": 12917.0
+},
+{
+"es": "Bad Pyrmont",
+"de": "Bad Pyrmont",
+"links": 53,
+"pob": 19715.0
+},
+{
+"es": "Stadtilm",
+"de": "Stadtilm",
+"links": 41,
+"pob": 8241.0
+},
+{
+"es": "Nieder-Olm",
+"de": "Nieder-Olm",
+"links": 38,
+"pob": 9755.0
+},
+{
+"es": "Eschershausen",
+"de": "Eschershausen",
+"links": 39,
+"pob": 3332.0
+},
+{
+"es": "Vlotho",
+"de": "Vlotho",
+"links": 48,
+"pob": 18286.0
+},
+{
+"es": "Enger",
+"de": "Enger",
+"links": 43,
+"pob": 20518.0
+},
+{
+"es": "Spenge",
+"de": "Spenge",
+"links": 39,
+"pob": 14596.0
+},
+{
+"es": "Hessisch Lichtenau",
+"de": "Hessisch Lichtenau",
+"links": 36,
+"pob": 12238.0
+},
+{
+"es": "Steinach",
+"de": "Steinach",
+"links": 34,
+"pob": 3426.0
+},
+{
+"es": "Stollberg",
+"de": "Stollberg/Erzgeb.",
+"links": 43,
+"pob": 11031.0
+},
+{
+"es": "Thalheim",
+"de": "Thalheim/Erzgeb.",
+"links": 35,
+"pob": 5899.0
+},
+{
+"es": "Thum",
+"de": "Thum",
+"links": 38,
+"pob": 4655.0
+},
+{
+"es": "Jöhstadt",
+"de": "Jöhstadt",
+"links": 43,
+"pob": 2376.0
+},
+{
+"es": "Gudensberg",
+"de": "Gudensberg",
+"links": 36,
+"pob": 9873.0
+},
+{
+"es": "Velden",
+"de": "Velden",
+"links": 38,
+"pob": 1706.0
+},
+{
+"es": "Olbernhau",
+"de": "Olbernhau",
+"links": 46,
+"pob": 9800.0
+},
+{
+"es": "Scheibenberg",
+"de": "Scheibenberg",
+"links": 38,
+"pob": 1978.0
+},
+{
+"es": "Zell im Wiesental",
+"de": "Zell im Wiesental",
+"links": 44,
+"pob": 6215.0
+},
+{
+"es": "Plaue",
+"de": "Plaue",
+"links": 36,
+"pob": 1979.0
+},
+{
+"es": "Lebach",
+"de": "Lebach",
+"links": 42,
+"pob": 19269.0
+},
+{
+"es": "Rotenburg del Fulda",
+"de": "Rotenburg an der Fulda",
+"links": 45,
+"pob": 12944.0
+},
+{
+"es": "Mülheim-Kärlich",
+"de": "Mülheim-Kärlich",
+"links": 37,
+"pob": 11071.0
+},
+{
+"es": "",
+"de": "Wildemann",
+"links": 29,
+"pob": 860.0
+},
+{
+"es": "Wittlich",
+"de": "Wittlich",
+"links": 51,
+"pob": 19186.0
+},
+{
+"es": "Lauter",
+"de": "Lauter/Sa.",
+"links": 28,
+"pob": 5028.0
+},
+{
+"es": "Lößnitz",
+"de": "Lößnitz",
+"links": 38,
+"pob": 7445.0
+},
+{
+"es": "Lugau",
+"de": "Lugau",
+"links": 36,
+"pob": 7345.0
+},
+{
+"es": "Aue",
+"de": "Aue",
+"links": 47,
+"pob": 16012.0
+},
+{
+"es": "Oberwiesenthal",
+"de": "Oberwiesenthal",
+"links": 51,
+"pob": 1907.0
+},
+{
+"es": "Oelsnitz",
+"de": "Oelsnitz/Erzgeb.",
+"links": 40,
+"pob": 10782.0
+},
+{
+"es": "Bad Bevensen",
+"de": "Bad Bevensen",
+"links": 43,
+"pob": 9504.0
+},
+{
+"es": "Rauenberg",
+"de": "Rauenberg",
+"links": 36,
+"pob": 8701.0
+},
+{
+"es": "Asperg",
+"de": "Asperg",
+"links": 48,
+"pob": 13695.0
+},
+{
+"es": "Grünhain-Beierfeld",
+"de": "Grünhain-Beierfeld",
+"links": 39,
+"pob": 5483.0
+},
+{
+"es": "Johanngeorgenstadt",
+"de": "Johanngeorgenstadt",
+"links": 43,
+"pob": 3471.0
+},
+{
+"es": "Geiselhöring",
+"de": "Geiselhöring",
+"links": 37,
+"pob": 6954.0
+},
+{
+"es": "Ronneburg",
+"de": "Ronneburg",
+"links": 35,
+"pob": 4918.0
+},
+{
+"es": "Selbitz",
+"de": "Selbitz",
+"links": 42,
+"pob": 4131.0
+},
+{
+"es": "Geyer",
+"de": "Geyer",
+"links": 43,
+"pob": 3239.0
+},
+{
+"es": "Unterschleißheim",
+"de": "Unterschleißheim",
+"links": 49,
+"pob": 28193.0
+},
+{
+"es": "Diemelstadt",
+"de": "Diemelstadt",
+"links": 37,
+"pob": 5211.0
+},
+{
+"es": "Rennerod",
+"de": "Rennerod",
+"links": 35,
+"pob": 4443.0
+},
+{
+"es": "Crivitz",
+"de": "Crivitz",
+"links": 38,
+"pob": 4566.0
+},
+{
+"es": "Lübz",
+"de": "Lübz",
+"links": 39,
+"pob": 5869.0
+},
+{
+"es": "Bad Soden-Salmünster",
+"de": "Bad Soden-Salmünster",
+"links": 37,
+"pob": 13653.0
+},
+{
+"es": "Heilbad Heiligenstadt",
+"de": "Heilbad Heiligenstadt",
+"links": 48,
+"pob": 18072.0
+},
+{
+"es": "Lehesten",
+"de": "Lehesten",
+"links": 38,
+"pob": 1467.0
+},
+{
+"es": "Gedern",
+"de": "Gedern",
+"links": 39,
+"pob": 6657.0
+},
+{
+"es": "Löningen",
+"de": "Löningen",
+"links": 42,
+"pob": 14333.0
+},
+{
+"es": "Homberg (Efze)",
+"de": "Homberg (Efze)",
+"links": 39,
+"pob": 14562.0
+},
+{
+"es": "Grebenau",
+"de": "Grebenau",
+"links": 36,
+"pob": 2232.0
+},
+{
+"es": "Herbstein",
+"de": "Herbstein",
+"links": 37,
+"pob": 4527.0
+},
+{
+"es": "Ottweiler",
+"de": "Ottweiler",
+"links": 40,
+"pob": 14177.0
+},
+{
+"es": "Wolkenstein",
+"de": "Wolkenstein",
+"links": 38,
+"pob": 3750.0
+},
+{
+"es": "Zwönitz",
+"de": "Zwönitz",
+"links": 45,
+"pob": 11244.0
+},
+{
+"es": "Langenau",
+"de": "Langenau",
+"links": 46,
+"pob": 15359.0
+},
+{
+"es": "Parchim",
+"de": "Parchim",
+"links": 52,
+"pob": 17825.0
+},
+{
+"es": "Wächtersbach",
+"de": "Wächtersbach",
+"links": 41,
+"pob": 12684.0
+},
+{
+"es": "Rodenberg",
+"de": "Rodenberg",
+"links": 39,
+"pob": 6274.0
+},
+{
+"es": "Hatzfeld (Eder)",
+"de": "Hatzfeld",
+"links": 35,
+"pob": 2838.0
+},
+{
+"es": "Brüel",
+"de": "Brüel",
+"links": 36,
+"pob": 2524.0
+},
+{
+"es": "Sarstedt",
+"de": "Sarstedt",
+"links": 39,
+"pob": 19483.0
+},
+{
+"es": "Bleckede",
+"de": "Bleckede",
+"links": 40,
+"pob": 9121.0
+},
+{
+"es": "Teupitz",
+"de": "Teupitz",
+"links": 38,
+"pob": 1907.0
+},
+{
+"es": "Schönau im Schwarzwald",
+"de": "Schönau im Schwarzwald",
+"links": 42,
+"pob": 2452.0
+},
+{
+"es": "Friesoythe",
+"de": "Friesoythe",
+"links": 48,
+"pob": 22806.0
+},
+{
+"es": "Sankt Goarshausen",
+"de": "Sankt Goarshausen",
+"links": 46,
+"pob": 1242.0
+},
+{
+"es": "Großbottwar",
+"de": "Großbottwar",
+"links": 43,
+"pob": 7951.0
+},
+{
+"es": "Ditzingen",
+"de": "Ditzingen",
+"links": 52,
+"pob": 22551.0
+},
+{
+"es": "Zschopau",
+"de": "Zschopau",
+"links": 47,
+"pob": 8692.0
+},
+{
+"es": "Bodenwerder",
+"de": "Bodenwerder",
+"links": 45,
+"pob": 4631.0
+},
+{
+"es": "Steinheim an der Murr",
+"de": "Steinheim an der Murr",
+"links": 43,
+"pob": 11962.0
+},
+{
+"es": "Todtnau",
+"de": "Todtnau",
+"links": 43,
+"pob": 4992.0
+},
+{
+"es": "Remseck",
+"de": "Remseck am Neckar",
+"links": 41,
+"pob": 26089.0
+},
+{
+"es": "Korntal-Münchingen",
+"de": "Korntal-Münchingen",
+"links": 44,
+"pob": 19666.0
+},
+{
+"es": "Marienberg",
+"de": "Marienberg",
+"links": 42,
+"pob": 15948.0
+},
+{
+"es": "Oberriexingen",
+"de": "Oberriexingen",
+"links": 39,
+"pob": 3347.0
+},
+{
+"es": "Solms",
+"de": "Solms",
+"links": 42,
+"pob": 13567.0
+},
+{
+"es": "Kandern",
+"de": "Kandern",
+"links": 44,
+"pob": 8657.0
+},
+{
+"es": "Creglingen",
+"de": "Creglingen",
+"links": 44,
+"pob": 4417.0
+},
+{
+"es": "Bad Sooden-Allendorf",
+"de": "Bad Sooden-Allendorf",
+"links": 41,
+"pob": 8242.0
+},
+{
+"es": "Wildau",
+"de": "Wildau",
+"links": 39,
+"pob": 10952.0
+},
+{
+"es": "Freren",
+"de": "Freren",
+"links": 40,
+"pob": 4892.0
+},
+{
+"es": "Strasburg",
+"de": "Strasburg",
+"links": 41,
+"pob": 4246.0
+},
+{
+"es": "Borken",
+"de": "Borken",
+"links": 36,
+"pob": 12232.0
+},
+{
+"es": "Remda-Teichel",
+"de": "Remda-Teichel",
+"links": 32,
+"pob": 2898.0
+},
+{
+"es": "Rehna",
+"de": "Rehna",
+"links": 33,
+"pob": 3525.0
+},
+{
+"es": "Hagenow",
+"de": "Hagenow",
+"links": 42,
+"pob": 11987.0
+},
+{
+"es": "Tamm",
+"de": "Tamm",
+"links": 42,
+"pob": 12245.0
+},
+{
+"es": "Schopfheim",
+"de": "Schopfheim",
+"links": 40,
+"pob": 20198.0
+},
+{
+"es": "Külsheim",
+"de": "Külsheim",
+"links": 37,
+"pob": 5309.0
+},
+{
+"es": "Laubach",
+"de": "Laubach",
+"links": 37,
+"pob": 9680.0
+},
+{
+"es": "Freiberg am Neckar",
+"de": "Freiberg am Neckar",
+"links": 42,
+"pob": 15482.0
+},
+{
+"es": "Schwarzenberg",
+"de": "Schwarzenberg/Erzgeb.",
+"links": 44,
+"pob": 15158.0
+},
+{
+"es": "Laage",
+"de": "Laage",
+"links": 38,
+"pob": 6289.0
+},
+{
+"es": "Putlitz",
+"de": "Putlitz",
+"links": 37,
+"pob": 2533.0
+},
+{
+"es": "Goldberg",
+"de": "Goldberg",
+"links": 37,
+"pob": 3174.0
+},
+{
+"es": "Gerlingen",
+"de": "Gerlingen",
+"links": 49,
+"pob": 18307.0
+},
+{
+"es": "Stadtoldendorf",
+"de": "Stadtoldendorf",
+"links": 38,
+"pob": 4885.0
+},
+{
+"es": "Witzenhausen",
+"de": "Witzenhausen",
+"links": 43,
+"pob": 15110.0
+},
+{
+"es": "Nidda",
+"de": "Nidda",
+"links": 46,
+"pob": 17097.0
+},
+{
+"es": "Hadamar",
+"de": "Hadamar",
+"links": 41,
+"pob": 12967.0
+},
+{
+"es": "Weil am Rhein",
+"de": "Weil am Rhein",
+"links": 62,
+"pob": 32361.0
+},
+{
+"es": "Rödermark",
+"de": "Rödermark",
+"links": 46,
+"pob": 28869.0
+},
+{
+"es": "Weikersheim",
+"de": "Weikersheim",
+"links": 46,
+"pob": 7860.0
+},
+{
+"es": "Lauda-Königshofen",
+"de": "Lauda-Königshofen",
+"links": 39,
+"pob": 14150.0
+},
+{
+"es": "Riedstadt",
+"de": "Riedstadt",
+"links": 42,
+"pob": 23274.0
+},
+{
+"es": "Schwarzenbek",
+"de": "Schwarzenbek",
+"links": 39,
+"pob": 16923.0
+},
+{
+"es": "Tauberbischofsheim",
+"de": "Tauberbischofsheim",
+"links": 47,
+"pob": 13341.0
+},
+{
+"es": "Stockach",
+"de": "Stockach",
+"links": 47,
+"pob": 17547.0
+},
+{
+"es": "Kühlungsborn",
+"de": "Kühlungsborn",
+"links": 43,
+"pob": 8100.0
+},
+{
+"es": "Vellmar",
+"de": "Vellmar",
+"links": 42,
+"pob": 17751.0
+},
+{
+"es": "Besigheim",
+"de": "Besigheim",
+"links": 48,
+"pob": 12159.0
+},
+{
+"es": "Eschborn",
+"de": "Eschborn",
+"links": 47,
+"pob": 22478.0
+},
+{
+"es": "Taunusstein",
+"de": "Taunusstein",
+"links": 39,
+"pob": 30156.0
+},
+{
+"es": "Niederstetten",
+"de": "Niederstetten",
+"links": 38,
+"pob": 4874.0
+},
+{
+"es": "Freudenberg",
+"de": "Freudenberg",
+"links": 41,
+"pob": 3570.0
+},
+{
+"es": "Ulrichstein",
+"de": "Ulrichstein",
+"links": 38,
+"pob": 2721.0
+},
+{
+"es": "Vaihingen an der Enz",
+"de": "Vaihingen an der Enz",
+"links": 47,
+"pob": 28558.0
+},
+{
+"es": "Bönnigheim",
+"de": "Bönnigheim",
+"links": 42,
+"pob": 8193.0
+},
+{
+"es": "Karben",
+"de": "Karben",
+"links": 45,
+"pob": 22486.0
+},
+{
+"es": "Wertheim am Main",
+"de": "Wertheim",
+"links": 52,
+"pob": 22808.0
+},
+{
+"es": "Hattersheim am Main",
+"de": "Hattersheim am Main",
+"links": 42,
+"pob": 28820.0
+},
+{
+"es": "Grünsfeld",
+"de": "Grünsfeld",
+"links": 43,
+"pob": 3647.0
+},
+{
+"es": "Boxberg",
+"de": "Boxberg",
+"links": 44,
+"pob": 6784.0
+},
+{
+"es": "Bruchköbel",
+"de": "Bruchköbel",
+"links": 42,
+"pob": 20347.0
+},
+{
+"es": "Lahnstein",
+"de": "Lahnstein",
+"links": 44,
+"pob": 18887.0
+},
+{
+"es": "Butzbach",
+"de": "Butzbach",
+"links": 48,
+"pob": 27181.0
+},
+{
+"es": "Obertshausen",
+"de": "Obertshausen",
+"links": 44,
+"pob": 25381.0
+},
+{
+"es": "Daaden",
+"de": "Daaden",
+"links": 38,
+"pob": 4257.0
+},
+{
+"es": "Hillesheim",
+"de": "Hillesheim",
+"links": 39,
+"pob": 3202.0
+},
+{
+"es": "Sachsenheim",
+"de": "Sachsenheim",
+"links": 43,
+"pob": 18549.0
+},
+{
+"es": "Falkenberg/Elster",
+"de": "Falkenberg/Elster",
+"links": 41,
+"pob": 6036.0
+},
+{
+"es": "Ulmen",
+"de": "Ulmen",
+"links": 37,
+"pob": 3431.0
+},
+{
+"es": "Neumark",
+"de": "Neumark",
+"links": 37,
+"pob": 462.0
+},
+{
+"es": "Kirtorf",
+"de": "Kirtorf",
+"links": 38,
+"pob": 3082.0
+},
+{
+"es": "Schlüchtern",
+"de": "Schlüchtern",
+"links": 40,
+"pob": 15692.0
+},
+{
+"es": "Pohlheim",
+"de": "Pohlheim",
+"links": 39,
+"pob": 17517.0
+},
+{
+"es": "Ober-Ramstadt",
+"de": "Ober-Ramstadt",
+"links": 41,
+"pob": 15039.0
+},
+{
+"es": "Marbach am Neckar",
+"de": "Marbach am Neckar",
+"links": 57,
+"pob": 15348.0
+},
+{
+"es": "Heusenstamm",
+"de": "Heusenstamm",
+"links": 42,
+"pob": 19397.0
+},
+{
+"es": "Leun",
+"de": "Leun",
+"links": 40,
+"pob": 5712.0
+},
+{
+"es": "Heringen",
+"de": "Heringen",
+"links": 34,
+"pob": 6621.0
+},
+{
+"es": "St. Wendel",
+"de": "St. Wendel",
+"links": 52,
+"pob": 25365.0
+},
+{
+"es": "Trebbin",
+"de": "Trebbin",
+"links": 40,
+"pob": 9728.0
+},
+{
+"es": "Gau-Algesheim",
+"de": "Gau-Algesheim",
+"links": 36,
+"pob": 6585.0
+},
+{
+"es": "Immenhausen",
+"de": "Immenhausen",
+"links": 37,
+"pob": 7053.0
+},
+{
+"es": "Hünfeld",
+"de": "Hünfeld",
+"links": 47,
+"pob": 16985.0
+},
+{
+"es": "Glinde",
+"de": "Glinde",
+"links": 39,
+"pob": 18856.0
+},
+{
+"es": "Bad Mergentheim",
+"de": "Bad Mergentheim",
+"links": 54,
+"pob": 24084.0
+},
+{
+"es": "Aach",
+"de": "Aach",
+"links": 52,
+"pob": 2375.0
+},
+{
+"es": "Franzburg",
+"de": "Franzburg",
+"links": 39,
+"pob": 1294.0
+},
+{
+"es": "Ribnitz-Damgarten",
+"de": "Ribnitz-Damgarten",
+"links": 43,
+"pob": 15297.0
+},
+{
+"es": "Mendig",
+"de": "Mendig",
+"links": 39,
+"pob": 9017.0
+},
+{
+"es": "Starnberg",
+"de": "Starnberg",
+"links": 60,
+"pob": 24602.0
+},
+{
+"es": "Bad Königshofen im Grabfeld",
+"de": "Bad Königshofen im Grabfeld",
+"links": 46,
+"pob": 5917.0
+},
+{
+"es": "Königstein im Taunus",
+"de": "Königstein im Taunus",
+"links": 44,
+"pob": 16600.0
+},
+{
+"es": "Obernkirchen",
+"de": "Obernkirchen",
+"links": 36,
+"pob": 8907.0
+},
+{
+"es": "Penkun",
+"de": "Penkun",
+"links": 35,
+"pob": 1672.0
+},
+{
+"es": "Richtenberg",
+"de": "Richtenberg",
+"links": 37,
+"pob": 1294.0
+},
+{
+"es": "Torgelow",
+"de": "Torgelow",
+"links": 37,
+"pob": 8755.0
+},
+{
+"es": "Münnerstadt",
+"de": "Münnerstadt",
+"links": 47,
+"pob": 7538.0
+},
+{
+"es": "Bad Wilsnack",
+"de": "Bad Wilsnack",
+"links": 39,
+"pob": 2467.0
+},
+{
+"es": "Oestrich-Winkel",
+"de": "Oestrich-Winkel",
+"links": 44,
+"pob": 11386.0
+},
+{
+"es": "Erbach",
+"de": "Erbach",
+"links": 44,
+"pob": 13858.0
+},
+{
+"es": "Kronberg im Taunus",
+"de": "Kronberg im Taunus",
+"links": 54,
+"pob": 18577.0
+},
+{
+"es": "Jarmen",
+"de": "Jarmen",
+"links": 39,
+"pob": 2716.0
+},
+{
+"es": "Eggesin",
+"de": "Eggesin",
+"links": 40,
+"pob": 4724.0
+},
+{
+"es": "Florstadt",
+"de": "Florstadt",
+"links": 36,
+"pob": 9073.0
+},
+{
+"es": "Kirchhain",
+"de": "Kirchhain",
+"links": 41,
+"pob": 16297.0
+},
+{
+"es": "Griesheim",
+"de": "Griesheim",
+"links": 42,
+"pob": 29385.0
+},
+{
+"es": "Büdelsdorf",
+"de": "Büdelsdorf",
+"links": 43,
+"pob": 10371.0
+},
+{
+"es": "Münzenberg",
+"de": "Münzenberg",
+"links": 40,
+"pob": 5662.0
+},
+{
+"es": "Hitzacker",
+"de": "Hitzacker",
+"links": 45,
+"pob": 4566.0
+},
+{
+"es": "Forst",
+"de": "Forst (Lausitz)",
+"links": 53,
+"pob": 16933.0
+},
+{
+"es": "Uffenheim",
+"de": "Uffenheim",
+"links": 47,
+"pob": 6497.0
+},
+{
+"es": "Gröningen",
+"de": "Gröningen",
+"links": 42,
+"pob": 3313.0
+},
+{
+"es": "Dahn",
+"de": "Dahn",
+"links": 38,
+"pob": 4250.0
+},
+{
+"es": "Loitz",
+"de": "Loitz",
+"links": 41,
+"pob": 4157.0
+},
+{
+"es": "Weingarten",
+"de": "Weingarten",
+"links": 48,
+"pob": 25034.0
+},
+{
+"es": "Wustrow (Wendland)",
+"de": "Wustrow",
+"links": 37,
+"pob": 2528.0
+},
+{
+"es": "Zeulenroda-Triebes",
+"de": "Zeulenroda-Triebes",
+"links": 43,
+"pob": 15624.0
+},
+{
+"es": "Gartz",
+"de": "Gartz (Oder)",
+"links": 42,
+"pob": 2295.0
+},
+{
+"es": "Putbus",
+"de": "Putbus",
+"links": 41,
+"pob": 4488.0
+},
+{
+"es": "Tribsees",
+"de": "Tribsees",
+"links": 37,
+"pob": 2483.0
+},
+{
+"es": "Spremberg",
+"de": "Spremberg",
+"links": 52,
+"pob": 20900.0
+},
+{
+"es": "Breuberg",
+"de": "Breuberg",
+"links": 43,
+"pob": 7222.0
+},
+{
+"es": "Neresheim",
+"de": "Neresheim",
+"links": 44,
+"pob": 7921.0
+},
+{
+"es": "",
+"de": "Neugersdorf",
+"links": 29,
+"pob": 6260.0
+},
+{
+"es": "Ruhland",
+"de": "Ruhland",
+"links": 41,
+"pob": 3713.0
+},
+{
+"es": "Ornbau",
+"de": "Ornbau",
+"links": 44,
+"pob": 1747.0
+},
+{
+"es": "Schirgiswalde",
+"de": "Schirgiswalde",
+"links": 32,
+"pob": 2865.0
+},
+{
+"es": "Grimmen",
+"de": "Grimmen",
+"links": 45,
+"pob": 9274.0
+},
+{
+"es": "Ortrand",
+"de": "Ortrand",
+"links": 40,
+"pob": 1966.0
+},
+{
+"es": "Teltow",
+"de": "Teltow",
+"links": 48,
+"pob": 27698.0
+},
+{
+"es": "Welzow",
+"de": "Welzow",
+"links": 44,
+"pob": 3126.0
+},
+{
+"es": "Neuenhaus",
+"de": "Neuenhaus",
+"links": 42,
+"pob": 10827.0
+},
+{
+"es": "Erkner",
+"de": "Erkner",
+"links": 42,
+"pob": 11523.0
+},
+{
+"es": "Seßlach",
+"de": "Seßlach",
+"links": 44,
+"pob": 3763.0
+},
+{
+"es": "Niedenstein",
+"de": "Niedenstein",
+"links": 34,
+"pob": 5587.0
+},
+{
+"es": "Rödental",
+"de": "Rödental",
+"links": 47,
+"pob": 12329.0
+},
+{
+"es": "Beeskow",
+"de": "Beeskow",
+"links": 46,
+"pob": 7930.0
+},
+{
+"es": "Beilngries",
+"de": "Beilngries",
+"links": 49,
+"pob": 10242.0
+},
+{
+"es": "Markdorf",
+"de": "Markdorf",
+"links": 49,
+"pob": 14305.0
+},
+{
+"es": "Stadtallendorf",
+"de": "Stadtallendorf",
+"links": 43,
+"pob": 21291.0
+},
+{
+"es": "Drebkau",
+"de": "Drebkau",
+"links": 42,
+"pob": 5388.0
+},
+{
+"es": "Weilburg",
+"de": "Weilburg",
+"links": 50,
+"pob": 13019.0
+},
+{
+"es": "Kroppenstedt",
+"de": "Kroppenstedt",
+"links": 35,
+"pob": 1329.0
+},
+{
+"es": "Schmölln",
+"de": "Schmölln",
+"links": 44,
+"pob": 13420.0
+},
+{
+"es": "Goessnitz",
+"de": "Gößnitz",
+"links": 40,
+"pob": 3370.0
+},
+{
+"es": "",
+"de": "Geising",
+"links": 32,
+"pob": 1210.0
+},
+{
+"es": "Frankenberg",
+"de": "Frankenberg (Eder)",
+"links": 41,
+"pob": 17699.0
+},
+{
+"es": "Lauingen",
+"de": "Lauingen",
+"links": 54,
+"pob": 11604.0
+},
+{
+"es": "Nortorf",
+"de": "Nortorf",
+"links": 36,
+"pob": 7251.0
+},
+{
+"es": "Luckenwalde",
+"de": "Luckenwalde",
+"links": 48,
+"pob": 21077.0
+},
+{
+"es": "Ludwigsfelde",
+"de": "Ludwigsfelde",
+"links": 44,
+"pob": 29635.0
+},
+{
+"es": "Lauchheim",
+"de": "Lauchheim",
+"links": 40,
+"pob": 4975.0
+},
+{
+"es": "Lorch",
+"de": "Lorch",
+"links": 40,
+"pob": 10704.0
+},
+{
+"es": "Laupheim",
+"de": "Laupheim",
+"links": 50,
+"pob": 22836.0
+},
+{
+"es": "Bad Bentheim",
+"de": "Bad Bentheim",
+"links": 51,
+"pob": 16676.0
+},
+{
+"es": "Bad Orb",
+"de": "Bad Orb",
+"links": 41,
+"pob": 9930.0
+},
+{
+"es": "Peitz",
+"de": "Peitz",
+"links": 41,
+"pob": 4327.0
+},
+{
+"es": "Mittenwalde",
+"de": "Mittenwalde",
+"links": 43,
+"pob": 9977.0
+},
+{
+"es": "Nauen",
+"de": "Nauen",
+"links": 40,
+"pob": 19854.0
+},
+{
+"es": "Fladungen",
+"de": "Fladungen",
+"links": 43,
+"pob": 2064.0
+},
+{
+"es": "Ketzin/Havel",
+"de": "Ketzin/Havel",
+"links": 36,
+"pob": 6636.0
+},
+{
+"es": "Liebenwalde",
+"de": "Liebenwalde",
+"links": 36,
+"pob": 4419.0
+},
+{
+"es": "Elsterwerda",
+"de": "Elsterwerda",
+"links": 48,
+"pob": 7592.0
+},
+{
+"es": "Schwarzheide",
+"de": "Schwarzheide",
+"links": 41,
+"pob": 5675.0
+},
+{
+"es": "Lieberose",
+"de": "Lieberose",
+"links": 39,
+"pob": 1301.0
+},
+{
+"es": "Niederstotzingen",
+"de": "Niederstotzingen",
+"links": 40,
+"pob": 4909.0
+},
+{
+"es": "Hennigsdorf",
+"de": "Hennigsdorf",
+"links": 44,
+"pob": 26602.0
+},
+{
+"es": "Premnitz",
+"de": "Premnitz",
+"links": 38,
+"pob": 7966.0
+},
+{
+"es": "Tann (Rhön)",
+"de": "Tann (Rhön)",
+"links": 41,
+"pob": 4452.0
+},
+{
+"es": "Lübben (Spreewald)",
+"de": "Lübben (Spreewald)",
+"links": 47,
+"pob": 13992.0
+},
+{
+"es": "Friesack",
+"de": "Friesack",
+"links": 38,
+"pob": 2525.0
+},
+{
+"es": "Velten",
+"de": "Velten",
+"links": 41,
+"pob": 12674.0
+},
+{
+"es": "Gransee",
+"de": "Gransee",
+"links": 40,
+"pob": 5828.0
+},
+{
+"es": "Storkow",
+"de": "Storkow (Mark)",
+"links": 38,
+"pob": 9202.0
+},
+{
+"es": "Seelow",
+"de": "Seelow",
+"links": 44,
+"pob": 5421.0
+},
+{
+"es": "Kremmen",
+"de": "Kremmen",
+"links": 38,
+"pob": 7535.0
+},
+{
+"es": "Wriezen",
+"de": "Wriezen",
+"links": 45,
+"pob": 7024.0
+},
+{
+"es": "Finsterwalde",
+"de": "Finsterwalde",
+"links": 51,
+"pob": 15488.0
+},
+{
+"es": "Lauchhammer",
+"de": "Lauchhammer",
+"links": 46,
+"pob": 13801.0
+},
+{
+"es": "Bad Liebenwerda",
+"de": "Bad Liebenwerda",
+"links": 50,
+"pob": 8835.0
+},
+{
+"es": "Großräschen",
+"de": "Großräschen",
+"links": 43,
+"pob": 8327.0
+},
+{
+"es": "Burglengenfeld",
+"de": "Burglengenfeld",
+"links": 43,
+"pob": 14681.0
+},
+{
+"es": "Gersfeld (Rhön)",
+"de": "Gersfeld (Rhön)",
+"links": 37,
+"pob": 5371.0
+},
+{
+"es": "Wetter",
+"de": "Wetter",
+"links": 37,
+"pob": 8940.0
+},
+{
+"es": "Hungen",
+"de": "Hungen",
+"links": 41,
+"pob": 12752.0
+},
+{
+"es": "Sulzbach/Saar",
+"de": "Sulzbach/Saar",
+"links": 37,
+"pob": 16191.0
+},
+{
+"es": "Niddatal",
+"de": "Niddatal",
+"links": 39,
+"pob": 9765.0
+},
+{
+"es": "Ortenberg",
+"de": "Ortenberg",
+"links": 33,
+"pob": 8351.0
+},
+{
+"es": "Rosbach vor der Höhe",
+"de": "Rosbach vor der Höhe",
+"links": 35,
+"pob": 13034.0
+},
+{
+"es": "Neu-Anspach",
+"de": "Neu-Anspach",
+"links": 40,
+"pob": 14302.0
+},
+{
+"es": "Usingen",
+"de": "Usingen",
+"links": 47,
+"pob": 15589.0
+},
+{
+"es": "Lauterbach",
+"de": "Lauterbach",
+"links": 42,
+"pob": 13027.0
+},
+{
+"es": "Dahme/Mark",
+"de": "Dahme/Mark",
+"links": 39,
+"pob": 4904.0
+},
+{
+"es": "Flörsheim am Main",
+"de": "Flörsheim am Main",
+"links": 38,
+"pob": 21257.0
+},
+{
+"es": "Brück",
+"de": "Brück",
+"links": 36,
+"pob": 4222.0
+},
+{
+"es": "Steinbach (Taunus)",
+"de": "Steinbach (Taunus)",
+"links": 37,
+"pob": 10827.0
+},
+{
+"es": "Springe",
+"de": "Springe",
+"links": 43,
+"pob": 28851.0
+},
+{
+"es": "Raunheim",
+"de": "Raunheim",
+"links": 35,
+"pob": 15155.0
+},
+{
+"es": "Bad Kötzting",
+"de": "Bad Kötzting",
+"links": 48,
+"pob": 7390.0
+},
+{
+"es": "Schwarzenborn",
+"de": "Schwarzenborn",
+"links": 33,
+"pob": 1088.0
+},
+{
+"es": "Rosenthal",
+"de": "Rosenthal",
+"links": 36,
+"pob": 2017.0
+},
+{
+"es": "Neukirchen",
+"de": "Neukirchen",
+"links": 33,
+"pob": 6721.0
+},
+{
+"es": "Homberg (Ohm)",
+"de": "Homberg (Ohm)",
+"links": 36,
+"pob": 6972.0
+},
+{
+"es": "Gemünden",
+"de": "Gemünden (Wohra)",
+"links": 32,
+"pob": 3543.0
+},
+{
+"es": "Lollar",
+"de": "Lollar",
+"links": 43,
+"pob": 10170.0
+},
+{
+"es": "Gernsheim",
+"de": "Gernsheim",
+"links": 37,
+"pob": 10777.0
+},
+{
+"es": "Treuenbrietzen",
+"de": "Treuenbrietzen",
+"links": 41,
+"pob": 7490.0
+},
+{
+"es": "Sehnde",
+"de": "Sehnde",
+"links": 41,
+"pob": 23414.0
+},
+{
+"es": "Lindow (Mark)",
+"de": "Lindow (Mark)",
+"links": 39,
+"pob": 2931.0
+},
+{
+"es": "Linden",
+"de": "Linden",
+"links": 38,
+"pob": 13232.0
+},
+{
+"es": "Lorch",
+"de": "Lorch",
+"links": 36,
+"pob": 3802.0
+},
+{
+"es": "Lenzen",
+"de": "Lenzen (Elbe)",
+"links": 35,
+"pob": 2000.0
+},
+{
+"es": "Lichtenfels",
+"de": "Lichtenfels",
+"links": 36,
+"pob": 4011.0
+},
+{
+"es": "Rauschenberg",
+"de": "Rauschenberg",
+"links": 35,
+"pob": 4454.0
+},
+{
+"es": "Meyenburg",
+"de": "Meyenburg",
+"links": 35,
+"pob": 2008.0
+},
+{
+"es": "Friedrichsdorf",
+"de": "Friedrichsdorf",
+"links": 44,
+"pob": 26054.0
+},
+{
+"es": "Rüdesheim am Rhein",
+"de": "Rüdesheim am Rhein",
+"links": 50,
+"pob": 9874.0
+},
+{
+"es": "Hornbach",
+"de": "Hornbach",
+"links": 40,
+"pob": 1381.0
+},
+{
+"es": "Rothenfels",
+"de": "Rothenfels",
+"links": 43,
+"pob": 948.0
+},
+{
+"es": "Bopfingen",
+"de": "Bopfingen",
+"links": 52,
+"pob": 11531.0
+},
+{
+"es": "Lambrecht",
+"de": "Lambrecht",
+"links": 36,
+"pob": 3923.0
+},
+{
+"es": "Langelsheim",
+"de": "Langelsheim",
+"links": 44,
+"pob": 14461.0
+},
+{
+"es": "Herrieden",
+"de": "Herrieden",
+"links": 45,
+"pob": 8241.0
+},
+{
+"es": "Stromberg",
+"de": "Stromberg",
+"links": 34,
+"pob": 3500.0
+},
+{
+"es": "Schöningen",
+"de": "Schöningen",
+"links": 42,
+"pob": 10937.0
+},
+{
+"es": "Spangenberg",
+"de": "Spangenberg",
+"links": 37,
+"pob": 5844.0
+},
+{
+"es": "Sachsenhagen",
+"de": "Sachsenhagen",
+"links": 38,
+"pob": 1819.0
+},
+{
+"es": "Reichelsheim (Wetterau)",
+"de": "Reichelsheim",
+"links": 35,
+"pob": 6913.0
+},
+{
+"es": "Polch",
+"de": "Polch",
+"links": 32,
+"pob": 6659.0
+},
+{
+"es": "Havelsee",
+"de": "Havelsee",
+"links": 36,
+"pob": 3126.0
+},
+{
+"es": "Bad Berka",
+"de": "Bad Berka",
+"links": 40,
+"pob": 7372.0
+},
+{
+"es": "Hirschberg",
+"de": "Hirschberg",
+"links": 33,
+"pob": 2047.0
+},
+{
+"es": "Otterberg",
+"de": "Otterberg",
+"links": 38,
+"pob": 5404.0
+},
+{
+"es": "Colonia",
+"de": "Köln",
+"links": 190,
+"pob": 1025523.0
+},
+{
+"es": "Borken, North Rhine",
+"de": "Borken",
+"links": 50,
+"pob": 43170.0
+},
+{
+"es": "Bonn",
+"de": "Bonn",
+"links": 163,
+"pob": 323587.0
+},
+{
+"es": "Heilbronn",
+"de": "Heilbronn",
+"links": 103,
+"pob": 132516.0
+},
+{
+"es": "Ludwigsburg",
+"de": "Ludwigsburg",
+"links": 86,
+"pob": 93002.0
+},
+{
+"es": "Warburg",
+"de": "Warburg",
+"links": 55,
+"pob": 23210.0
+},
+{
+"es": "Aquisgrán",
+"de": "Aachen",
+"links": 144,
+"pob": 263703.0
+},
+{
+"es": "Stuttgart",
+"de": "Stuttgart",
+"links": 182,
+"pob": 609365.0
+},
+{
+"es": "Karlsruhe",
+"de": "Karlsruhe",
+"links": 133,
+"pob": 309247.0
+},
+{
+"es": "Hamburgo",
+"de": "Hamburg",
+"links": 230,
+"pob": 1869473.0
+},
+{
+"es": "Hemer",
+"de": "Hemer",
+"links": 56,
+"pob": 34722.0
+},
+{
+"es": "Ahlen",
+"de": "Ahlen",
+"links": 55,
+"pob": 52387.0
+},
+{
+"es": "Iserlohn",
+"de": "Iserlohn",
+"links": 68,
+"pob": 91317.0
+},
+{
+"es": "Dortmund",
+"de": "Dortmund",
+"links": 153,
+"pob": 600880.0
+},
+{
+"es": "Uetersen",
+"de": "Uetersen",
+"links": 226,
+"pob": 18936.0
+},
+{
+"es": "Wanfried",
+"de": "Wanfried",
+"links": 40,
+"pob": 4039.0
+},
+{
+"es": "Eschwege",
+"de": "Eschwege",
+"links": 52,
+"pob": 18687.0
+},
+{
+"es": "Weinsberg",
+"de": "Weinsberg",
+"links": 51,
+"pob": 13406.0
+},
+{
+"es": "Felsberg",
+"de": "Felsberg",
+"links": 37,
+"pob": 10472.0
+},
+{
+"es": "Kiel",
+"de": "Kiel",
+"links": 142,
+"pob": 251842.0
+},
+{
+"es": "Potsdam",
+"de": "Potsdam",
+"links": 152,
+"pob": 185137.0
+},
+{
+"es": "Schwerin",
+"de": "Schwerin",
+"links": 121,
+"pob": 97922.0
+},
+{
+"es": "Kirchberg",
+"de": "Kirchberg",
+"links": 37,
+"pob": 4158.0
+},
+{
+"es": "Lich",
+"de": "Lich",
+"links": 45,
+"pob": 14193.0
+},
+{
+"es": "Schwalbach am Taunus",
+"de": "Schwalbach am Taunus",
+"links": 41,
+"pob": 15474.0
+},
+{
+"es": "Hochheim am Main",
+"de": "Hochheim am Main",
+"links": 40,
+"pob": 18425.0
+},
+{
+"es": "Montabaur",
+"de": "Montabaur",
+"links": 50,
+"pob": 14937.0
+},
+{
+"es": "Bad Salzdetfurth",
+"de": "Bad Salzdetfurth",
+"links": 46,
+"pob": 12970.0
+},
+{
+"es": "Kelsterbach",
+"de": "Kelsterbach",
+"links": 42,
+"pob": 16762.0
+},
+{
+"es": "Niemegk",
+"de": "Niemegk",
+"links": 37,
+"pob": 2019.0
+},
+{
+"es": "Runkel",
+"de": "Runkel",
+"links": 40,
+"pob": 9428.0
+},
+{
+"es": "Lychen",
+"de": "Lychen",
+"links": 40,
+"pob": 3147.0
+},
+{
+"es": "Staufenberg",
+"de": "Staufenberg",
+"links": 37,
+"pob": 8219.0
+},
+{
+"es": "Ginsheim-Gustavsburg",
+"de": "Ginsheim-Gustavsburg",
+"links": 32,
+"pob": 16452.0
+},
+{
+"es": "Katzenelnbogen",
+"de": "Katzenelnbogen",
+"links": 41,
+"pob": 2259.0
+},
+{
+"es": "Brotterode-Trusetal",
+"de": "Brotterode-Trusetal",
+"links": 21,
+"pob": 5476.0
+},
+{
+"es": "Schnackenburg",
+"de": "Schnackenburg",
+"links": 34,
+"pob": 451.0
+},
+{
+"es": "Müllrose",
+"de": "Müllrose",
+"links": 38,
+"pob": 4646.0
+},
+{
+"es": "Kelkheim",
+"de": "Kelkheim",
+"links": 42,
+"pob": 28041.0
+},
+{
+"es": "Mühlheim am Main",
+"de": "Mühlheim am Main",
+"links": 42,
+"pob": 29213.0
+},
+{
+"es": "Friedland",
+"de": "Friedland",
+"links": 34,
+"pob": 2925.0
+},
+{
+"es": "Naumburg",
+"de": "Naumburg",
+"links": 41,
+"pob": 4890.0
+},
+{
+"es": "Hirschhorn",
+"de": "Hirschhorn",
+"links": 37,
+"pob": 3460.0
+},
+{
+"es": "Schwentinental",
+"de": "Schwentinental",
+"links": 32,
+"pob": 14037.0
+},
+{
+"es": "Kröpelin",
+"de": "Kröpelin",
+"links": 37,
+"pob": 4919.0
+},
+{
+"es": "Schönberg",
+"de": "Schönberg",
+"links": 34,
+"pob": 4285.0
+},
+{
+"es": "Wolmirstedt",
+"de": "Wolmirstedt",
+"links": 36,
+"pob": 12390.0
+},
+{
+"es": "Osthofen",
+"de": "Osthofen",
+"links": 34,
+"pob": 9653.0
+},
+{
+"es": "Teterow",
+"de": "Teterow",
+"links": 36,
+"pob": 8262.0
+},
+{
+"es": "Oebisfelde-Weferlingen",
+"de": "Oebisfelde-Weferlingen",
+"links": 36,
+"pob": 12883.0
+},
+{
+"es": "Oberwesel",
+"de": "Oberwesel",
+"links": 44,
+"pob": 2878.0
+},
+{
+"es": "Werlte",
+"de": "Werlte",
+"links": 35,
+"pob": 10319.0
+},
+{
+"es": "Nierstein",
+"de": "Nierstein",
+"links": 31,
+"pob": 8080.0
+},
+{
+"es": "Speicher",
+"de": "Speicher",
+"links": 33,
+"pob": 3669.0
+},
+{
+"es": "Oranienbaum-Wörlitz",
+"de": "Oranienbaum-Wörlitz",
+"links": 32,
+"pob": 7863.0
+},
+{
+"es": "Selters",
+"de": "Selters",
+"links": 31,
+"pob": 2927.0
+},
+{
+"es": "Arnstein",
+"de": "Arnstein",
+"links": 30,
+"pob": 6046.0
+},
+{
+"es": "Wanzleben-Börde",
+"de": "Wanzleben-Börde",
+"links": 32,
+"pob": 13641.0
+},
+{
+"es": "Raguhn-Jeßnitz",
+"de": "Raguhn-Jeßnitz",
+"links": 29,
+"pob": 8614.0
+},
+{
+"es": "Oberharz am Brocken",
+"de": "Oberharz am Brocken",
+"links": 30,
+"pob": 9391.0
+},
+{
+"es": "Südliches Anhalt",
+"de": "Südliches Anhalt",
+"links": 30,
+"pob": 12778.0
+},
+{
+"es": "Wettin-Löbejün",
+"de": "Wettin-Löbejün",
+"links": 28,
+"pob": 9447.0
+},
+{
+"es": "Lüchow",
+"de": "Lüchow",
+"links": 41,
+"pob": 9125.0
+},
+{
+"es": "Tanna",
+"de": "Tanna",
+"links": 32,
+"pob": 3261.0
+},
+{
+"es": "Bendorf",
+"de": "Bendorf",
+"links": 38,
+"pob": 17661.0
+},
+{
+"es": "Dornburg-Camburg",
+"de": "Dornburg-Camburg",
+"links": 28,
+"pob": 5242.0
+},
+{
+"es": "",
+"de": "Seebach (Mühlhausen)",
+"links": 4,
+"pob": 0
+},
+{
+"es": "Geestland",
+"de": "Geestland",
+"links": 27,
+"pob": 31182.0
+},
+{
+"es": "Heldburg",
+"de": "Heldburg",
+"links": 18,
+"pob": 3220.0
+},
+{
+"es": "Herbrechtingen",
+"de": "Herbrechtingen",
+"links": 44,
+"pob": 13281.0
+},
+{
+"es": "Eiserfeld",
+"de": "Eiserfeld",
+"links": 3,
+"pob": 0
+},
+{
+"es": "Lauter-Bernsbach",
+"de": "Lauter-Bernsbach",
+"links": 23,
+"pob": 8107.0
+},
+{
+"es": "Herzogenaurach",
+"de": "Herzogenaurach",
+"links": 58,
+"pob": 24312.0
+},
+{
+"es": "Lindenfels",
+"de": "Lindenfels",
+"links": 42,
+"pob": 5019.0
+},
+{
+"es": "",
+"de": "Hoheneck",
+"links": 2,
+"pob": 0
+},
+{
+"es": "",
+"de": "Hüttental",
+"links": 2,
+"pob": 0
+},
+{
+"es": "Oberzent",
+"de": "Oberzent",
+"links": 22,
+"pob": 9378.0
+},
+{
+"es": "Köthen",
+"de": "Köthen",
+"links": 63,
+"pob": 23831.0
+},
+{
+"es": "Neckarsteinach",
+"de": "Neckarsteinach",
+"links": 39,
+"pob": 3782.0
+},
+{
+"es": "",
+"de": "Neviges",
+"links": 2,
+"pob": 18937.0
+},
+{
+"es": "Königsee-Rottenbach",
+"de": "Königsee",
+"links": 21,
+"pob": 6863.0
+},
+{
+"es": "Belgern-Schildau",
+"de": "Belgern-Schildau",
+"links": 25,
+"pob": 7371.0
+},
+{
+"es": "Sandersdorf-Brehna",
+"de": "Sandersdorf-Brehna",
+"links": 32,
+"pob": 14398.0
+},
+{
+"es": "Pausa-Mühltroff",
+"de": "Pausa-Mühltroff",
+"links": 25,
+"pob": 4556.0
+},
+{
+"es": "",
+"de": "Bad Liebenstein",
+"links": 3,
+"pob": 0
+},
+{
+"es": "",
+"de": "Bleiberg (Wüstung)",
+"links": 2,
+"pob": 0
+},
+{
+"es": "Pockau-Lengefeld",
+"de": "Pockau-Lengefeld",
+"links": 21,
+"pob": 7197.0
+},
+{
+"es": "",
+"de": "Bergstadt Bad Grund (Harz)",
+"links": 2,
+"pob": 2530.0
+},
+{
+"es": "",
+"de": "Kreischau",
+"links": 2,
+"pob": 0
+},
+{
+"es": "",
+"de": "Kaufbeuren",
+"links": 1,
+"pob": 0
+},
+{
+"es": "Großbreitenbach",
+"de": "Großbreitenbach",
+"links": 22,
+"pob": 5737.0
+},
+{
+"es": "Aue-Bad Schlema",
+"de": "Aue-Bad Schlema",
+"links": 19,
+"pob": 18968.0
+},
+{
+"es": "Roßleben-Wiehe",
+"de": "Roßleben-Wiehe",
+"links": 14,
+"pob": 7052.0
+},
+{
+"es": "Schwarzatal",
+"de": "Schwarzatal",
+"links": 13,
+"pob": 3236.0
+},
+{
+"es": "An der Schmücke",
+"de": "An der Schmücke",
+"links": 13,
+"pob": 5774.0
+},
+{
+"es": "Werra-Suhl-Tal",
+"de": "Werra-Suhl-Tal",
+"links": 12,
+"pob": 5959.0
+},
+{
+"es": "Nottertal-Heilinger Höhen",
+"de": "Nottertal-Heilinger Höhen",
+"links": 15,
+"pob": 5316.0
+},
+{
+"es": "Düsseldorf",
+"de": "Düsseldorf",
+"links": 174,
+"pob": 619444.0
+},
+{
+"es": "Maguncia",
+"de": "Mainz",
+"links": 150,
+"pob": 223888.0
+},
+{
+"es": "Hannover",
+"de": "Hannover",
+"links": 172,
+"pob": 522803.0
+},
+{
+"es": "Amt Creuzburg",
+"de": "Amt Creuzburg",
+"links": 15,
+"pob": 4963.0
+},
+{
+"es": "",
+"de": "Berga-Wünschendorf",
+"links": 6,
+"pob": 5813.0
+},
+{
+"es": "",
+"de": "Homberg",
+"links": 0,
+"pob": 0
+},
+{
+"es": "Magdeburgo",
+"de": "Magdeburg",
+"links": 141,
+"pob": 244494.0
+},
+{
+"es": "Langenzenn",
+"de": "Langenzenn",
+"links": 45,
+"pob": 10485.0
+},
+{
+"es": "Wiesbaden",
+"de": "Wiesbaden",
+"links": 161,
+"pob": 288584.0
+},
+{
+"es": "Duisburgo",
+"de": "Duisburg",
+"links": 127,
+"pob": 500810.0
+},
+{
+"es": "Beckum",
+"de": "Beckum",
+"links": 53,
+"pob": 37110.0
+},
+{
+"es": "Bochum",
+"de": "Bochum",
+"links": 110,
+"pob": 358880.0
+},
+{
+"es": "Fráncfort del Meno",
+"de": "Frankfurt am Main",
+"links": 212,
+"pob": 760656.0
+},
+{
+"es": "Münster",
+"de": "Münster",
+"links": 125,
+"pob": 306368.0
+},
+{
+"es": "Núremberg",
+"de": "Nürnberg",
+"links": 158,
+"pob": 531159.0
+},
+{
+"es": "Sarrebruck",
+"de": "Saarbrücken",
+"links": 134,
+"pob": 182859.0
+},
+{
+"es": "Bremerhaven",
+"de": "Bremerhaven",
+"links": 100,
+"pob": 118502.0
+},
+{
+"es": "Mönchengladbach",
+"de": "Mönchengladbach",
+"links": 103,
+"pob": 267176.0
+},
+{
+"es": "Drensteinfurt",
+"de": "Drensteinfurt",
+"links": 43,
+"pob": 16311.0
+},
+{
+"es": "Sendenhorst",
+"de": "Sendenhorst",
+"links": 42,
+"pob": 14110.0
+},
+{
+"es": "Múnich",
+"de": "München",
+"links": 240,
+"pob": 1505036.0
+},
+{
+"es": "Ennigerloh",
+"de": "Ennigerloh",
+"links": 42,
+"pob": 19640.0
+},
+{
+"es": "Gelsenkirchen",
+"de": "Gelsenkirchen",
+"links": 111,
+"pob": 266199.0
+},
+{
+"es": "Düren",
+"de": "Düren",
+"links": 69,
+"pob": 94539.0
+},
+{
+"es": "Warendorf",
+"de": "Warendorf",
+"links": 55,
+"pob": 37705.0
+},
+{
+"es": "Friburgo de Brisgovia",
+"de": "Freiburg im Breisgau",
+"links": 127,
+"pob": 238299.0
+},
+{
+"es": "Érfurt",
+"de": "Erfurt",
+"links": 143,
+"pob": 217159.0
+},
+{
+"es": "Wuppertal",
+"de": "Wuppertal",
+"links": 115,
+"pob": 357243.0
+},
+{
+"es": "Brunswick",
+"de": "Braunschweig",
+"links": 117,
+"pob": 252811.0
+},
+{
+"es": "Essen",
+"de": "Essen",
+"links": 134,
+"pob": 573618.0
+},
+{
+"es": "Telgte",
+"de": "Telgte",
+"links": 47,
+"pob": 20128.0
+},
+{
+"es": "Bielefeld",
+"de": "Bielefeld",
+"links": 118,
+"pob": 331419.0
+},
+{
+"es": "Dresde",
+"de": "Dresden",
+"links": 183,
+"pob": 562764.0
+},
+{
+"es": "Mannheim",
+"de": "Mannheim",
+"links": 128,
+"pob": 319536.0
+},
+{
+"es": "Oberhausen",
+"de": "Oberhausen",
+"links": 101,
+"pob": 213178.0
+},
+{
+"es": "Augsburgo",
+"de": "Augsburg",
+"links": 125,
+"pob": 301786.0
+},
+{
+"es": "Sassenberg",
+"de": "Sassenberg",
+"links": 39,
+"pob": 14505.0
+},
+{
+"es": "Lübeck",
+"de": "Lübeck",
+"links": 135,
+"pob": 217061.0
+},
+{
+"es": "Leipzig",
+"de": "Leipzig",
+"links": 169,
+"pob": 615932.0
+},
+{
+"es": "Oelde",
+"de": "Oelde",
+"links": 45,
+"pob": 29961.0
+},
+{
+"es": "Rostock",
+"de": "Rostock",
+"links": 120,
+"pob": 204929.0
+},
+{
+"es": "Chemnitz",
+"de": "Chemnitz",
+"links": 122,
+"pob": 247252.0
+},
+{
+"es": "Heidelberg",
+"de": "Heidelberg",
+"links": 147,
+"pob": 156092.0
+},
+{
+"es": "Osnabrück",
+"de": "Osnabrück",
+"links": 106,
+"pob": 166257.0
+},
+{
+"es": "Paderborn",
+"de": "Paderborn",
+"links": 102,
+"pob": 155906.0
+},
+{
+"es": "Oldemburgo",
+"de": "Oldenburg",
+"links": 98,
+"pob": 177055.0
+},
+{
+"es": "Haan",
+"de": "Haan",
+"links": 41,
+"pob": 29973.0
+},
+{
+"es": "Krefeld",
+"de": "Krefeld",
+"links": 101,
+"pob": 230738.0
+},
+{
+"es": "Kassel",
+"de": "Kassel",
+"links": 119,
+"pob": 196799.0
+},
+{
+"es": "Darmstadt",
+"de": "Darmstadt",
+"links": 122,
+"pob": 168253.0
+},
+{
+"es": "Ratisbona",
+"de": "Regensburg",
+"links": 121,
+"pob": 151517.0
+},
+{
+"es": "Hagen",
+"de": "Hagen",
+"links": 92,
+"pob": 189983.0
+},
+{
+"es": "Leverkusen",
+"de": "Leverkusen",
+"links": 100,
+"pob": 168299.0
+},
+{
+"es": "Wurzburgo",
+"de": "Würzburg",
+"links": 120,
+"pob": 133753.0
+},
+{
+"es": "Halle",
+"de": "Halle (Saale)",
+"links": 122,
+"pob": 226186.0
+},
+{
+"es": "Solingen",
+"de": "Solingen",
+"links": 94,
+"pob": 164621.0
+},
+{
+"es": "Hamm",
+"de": "Hamm",
+"links": 93,
+"pob": 179108.0
+},
+{
+"es": "Gotinga",
+"de": "Göttingen",
+"links": 125,
+"pob": 130521.0
+},
+{
+"es": "Ulm",
+"de": "Ulm",
+"links": 127,
+"pob": 130288.0
+},
+{
+"es": "Neuss",
+"de": "Neuss",
+"links": 96,
+"pob": 153767.0
+},
+{
+"es": "Offenbach del Meno",
+"de": "Offenbach am Main",
+"links": 108,
+"pob": 133195.0
+},
+{
+"es": "Mülheim an der Ruhr",
+"de": "Mülheim an der Ruhr",
+"links": 93,
+"pob": 171674.0
+},
+{
+"es": "Ingolstadt",
+"de": "Ingolstadt",
+"links": 112,
+"pob": 140799.0
+},
+{
+"es": "Wolfsburgo",
+"de": "Wolfsburg",
+"links": 110,
+"pob": 129813.0
+},
+{
+"es": "Reutlingen",
+"de": "Reutlingen",
+"links": 98,
+"pob": 119040.0
+},
+{
+"es": "Tréveris",
+"de": "Trier",
+"links": 130,
+"pob": 105054.0
+},
+{
+"es": "Herne",
+"de": "Herne",
+"links": 84,
+"pob": 156266.0
+},
+{
+"es": "Pforzheim",
+"de": "Pforzheim",
+"links": 100,
+"pob": 134422.0
+},
+{
+"es": "Remscheid",
+"de": "Remscheid",
+"links": 89,
+"pob": 113333.0
+},
+{
+"es": "Siegen",
+"de": "Siegen",
+"links": 91,
+"pob": 102450.0
+},
+{
+"es": "Ludwigshafen",
+"de": "Ludwigshafen am Rhein",
+"links": 99,
+"pob": 177355.0
+},
+{
+"es": "Coblenza",
+"de": "Koblenz",
+"links": 116,
+"pob": 113020.0
+},
+{
+"es": "Recklinghausen",
+"de": "Recklinghausen",
+"links": 91,
+"pob": 114851.0
+},
+{
+"es": "Bottrop",
+"de": "Bottrop",
+"links": 88,
+"pob": 118482.0
+},
+{
+"es": "Jena",
+"de": "Jena",
+"links": 115,
+"pob": 109353.0
+},
+{
+"es": "Isla de Fehmarn",
+"de": "Fehmarn",
+"links": 71,
+"pob": 13226.0
+},
+{
+"es": "Bergisch Gladbach",
+"de": "Bergisch Gladbach",
+"links": 90,
+"pob": 111174.0
+},
+{
+"es": "Gera",
+"de": "Gera",
+"links": 97,
+"pob": 95162.0
+},
+{
+"es": "Salzgitter",
+"de": "Salzgitter",
+"links": 83,
+"pob": 104433.0
+},
+{
+"es": "Hildesheim",
+"de": "Hildesheim",
+"links": 101,
+"pob": 98207.0
+},
+{
+"es": "Erlangen",
+"de": "Erlangen",
+"links": 104,
+"pob": 116450.0
+},
+{
+"es": "Fürth",
+"de": "Fürth",
+"links": 98,
+"pob": 131344.0
+},
+{
+"es": "Cottbus",
+"de": "Cottbus",
+"links": 102,
+"pob": 95140.0
+},
+{
+"es": "Zwickau",
+"de": "Zwickau",
+"links": 86,
+"pob": 86405.0
+},
+{
+"es": "Moers",
+"de": "Moers",
+"links": 88,
+"pob": 101298.0
+},
+{
+"es": "Hanau",
+"de": "Hanau",
+"links": 81,
+"pob": 98582.0
+},
+{
+"es": "Kaiserslautern",
+"de": "Kaiserslautern",
+"links": 90,
+"pob": 100247.0
+},
+{
+"es": "Schwetzingen",
+"de": "Schwetzingen",
+"links": 52,
+"pob": 21864.0
+},
+{
+"es": "Tubinga",
+"de": "Tübingen",
+"links": 113,
+"pob": 92607.0
+},
+{
+"es": "Esslingen am Neckar",
+"de": "Esslingen am Neckar",
+"links": 83,
+"pob": 95419.0
+},
+{
+"es": "Marl",
+"de": "Marl",
+"links": 55,
+"pob": 86899.0
+},
+{
+"es": "Witten",
+"de": "Witten",
+"links": 75,
+"pob": 91474.0
+},
+{
+"es": "Ratingen",
+"de": "Ratingen",
+"links": 60,
+"pob": 88914.0
+},
+{
+"es": "Lünen",
+"de": "Lünen",
+"links": 64,
+"pob": 85844.0
+},
+{
+"es": "Constanza",
+"de": "Konstanz",
+"links": 97,
+"pob": 86691.0
+},
+{
+"es": "Worms",
+"de": "Worms",
+"links": 100,
+"pob": 86921.0
+},
+{
+"es": "Gütersloh",
+"de": "Gütersloh",
+"links": 69,
+"pob": 99854.0
+},
+{
+"es": "Flensburgo",
+"de": "Flensburg",
+"links": 102,
+"pob": 95568.0
+},
+{
+"es": "Dessau-Roßlau",
+"de": "Dessau-Roßlau",
+"links": 61,
+"pob": 75035.0
+},
+{
+"es": "Velbert",
+"de": "Velbert",
+"links": 53,
+"pob": 82166.0
+},
+{
+"es": "Wilhelmshaven",
+"de": "Wilhelmshaven",
+"links": 83,
+"pob": 75324.0
+},
+{
+"es": "",
+"de": "Villingen-Schwenningen",
+"links": 68,
+"pob": 89766.0
+},
+{
+"es": "Minden",
+"de": "Minden",
+"links": 67,
+"pob": 83598.0
+},
+{
+"es": "",
+"de": "",
+"links": 39,
+"pob": 8487.0
+},
+{
+"es": "",
+"de": "",
+"links": 47,
+"pob": 8991.0
+},
+{
+"es": "",
+"de": "",
+"links": 48,
+"pob": 14891.0
+},
+{
+"es": "Dannenberg",
+"de": "",
+"links": 42,
+"pob": 7879.0
+},
+{
+"es": "",
+"de": "",
+"links": 47,
+"pob": 6055.0
+},
+{
+"es": "Dietfurt",
+"de": "",
+"links": 44,
+"pob": 6448.0
+},
+{
+"es": "",
+"de": "",
+"links": 51,
+"pob": 12676.0
+},
+{
+"es": "",
+"de": "",
+"links": 43,
+"pob": 9067.0
+}
+]

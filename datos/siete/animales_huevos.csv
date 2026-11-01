@@ -1,0 +1,461 @@
+respuesta;alias;nivel;orden_a_mano
+gallina;gallinas;1;1000000000
+pato;;1;999999999
+pájaro;pájaros|aves|ave;1;999999998
+serpiente;serpientes|culebra;1;999999997
+cocodrilo;;1;999999996
+tortuga;;1;999999995
+pez;peces;1;999999994
+rana;ranas;1;999999993
+lagarto;lagartija;1;999999992
+ornitorrinco;;1;999999991
+avestruz;;1;999999990
+pingüino;;1;999999989
+dinosaurio;dinosaurios;1;999999988
+codorniz;;1;999999987
+oca;ganso;1;999999986
+paloma;;1;999999985
+araña;;1;999999984
+hormiga;;1;999999983
+abeja;;1;999999982
+mosca;;1;999999981
+mariposa;;1;999999980
+pavo;;1;999999979
+gaviota;;1;999999978
+loro;;1;999999977
+salmón;;2;1000000000
+tiburón;;2;999999999
+mosquito;;2;999999998
+cucaracha;;2;999999997
+caracol;;2;999999996
+pulpo;;2;999999995
+calamar;;2;999999994
+sepia;;2;999999993
+cangrejo;;2;999999992
+gamba;;2;999999991
+langosta;;2;999999990
+estrella de mar;;2;999999989
+erizo de mar;;2;999999988
+medusa;;2;999999987
+salamandra;;2;999999986
+tritón;;2;999999985
+sapo;;2;999999984
+camaleón;;2;999999983
+iguana;;2;999999982
+gecko;;2;999999981
+dragón de Komodo;;2;999999980
+caimán;;2;999999979
+aligátor;;2;999999978
+tortuga marina;;2;999999977
+galápago;;2;999999976
+pitón;;2;999999975
+cobra;;2;999999974
+víbora;;2;999999973
+anaconda;;2;999999972
+equidna;;2;999999971
+águila;;2;999999970
+halcón;;2;999999969
+búho;;2;999999968
+lechuza;;2;999999967
+cigüeña;;2;999999966
+flamenco;;2;999999965
+pavo real;;2;999999964
+faisán;;2;999999963
+perdiz;;2;999999962
+emú;;2;999999961
+ñandú;;2;999999960
+kiwi;;2;999999959
+colibrí;;2;999999958
+canario;;2;999999957
+periquito;;2;999999956
+golondrina;;2;999999955
+gorrión;;2;999999954
+cuervo;;2;999999953
+urraca;;2;999999952
+mirlo;;2;999999951
+petirrojo;;2;999999950
+ruiseñor;;2;999999949
+jilguero;;2;999999948
+cisne;;2;999999947
+pelícano;;2;999999946
+garza;;2;999999945
+tucán;;2;999999944
+buitre;;2;999999943
+cóndor;;2;999999942
+albatros;;2;999999941
+frailecillo;;2;999999940
+mariquita;;2;999999939
+saltamontes;;2;999999938
+grillo;;2;999999937
+escarabajo;;2;999999936
+libélula;;2;999999935
+polilla;;2;999999934
+avispa;;2;999999933
+termita;;2;999999932
+pulga;;2;999999931
+piojo;;2;999999930
+garrapata;;2;999999929
+escorpión;alacrán;2;999999928
+ciempiés;;2;999999927
+lombriz;;2;999999926
+sanguijuela;;2;999999925
+babosa;;2;999999924
+mejillón;;2;999999923
+almeja;;2;999999922
+ostra;;2;999999921
+trucha;;2;999999920
+atún;;2;999999919
+sardina;;2;999999918
+bacalao;;2;999999917
+merluza;;2;999999916
+dorada;;2;999999915
+lubina;;2;999999914
+carpa;;2;999999913
+anguila;;2;999999912
+caballito de mar;;2;999999911
+pez payaso;;2;999999910
+raya;;2;999999909
+pez espada;;2;999999908
+basilisco;;3;1000000000
+varano;;3;999999999
+monstruo de Gila;;3;999999998
+anfisbena;;3;999999997
+tuátara;;3;999999996
+eslizón;;3;999999995
+eslizón tridáctilo;;3;999999994
+culebra de escalera;;3;999999993
+culebra bastarda;;3;999999992
+víbora hocicuda;;3;999999991
+galápago leproso;;3;999999990
+tortuga mora;;3;999999989
+tortuga boba;;3;999999988
+tortuga laúd;;3;999999987
+tortuga verde;;3;999999986
+gavial;;3;999999985
+cocodrilo del Nilo;;3;999999984
+axolote;ajolote;3;999999983
+cecilia;;3;999999982
+gallipato;;3;999999981
+sapo partero;;3;999999980
+sapo corredor;;3;999999979
+ranita de San Antonio;;3;999999978
+rana dardo;;3;999999977
+celacanto;;3;999999976
+lamprea;;3;999999975
+mixino;;3;999999974
+esturión;;3;999999973
+pez luna;;3;999999972
+pez globo;;3;999999971
+rape;;3;999999970
+pez león;;3;999999969
+morena;;3;999999968
+congrio;;3;999999967
+rodaballo;;3;999999966
+lenguado;;3;999999965
+gallo;;3;999999964
+mero;;3;999999963
+besugo;;3;999999962
+pargo;;3;999999961
+boquerón;;3;999999960
+caballa;;3;999999959
+jurel;;3;999999958
+bonito;;3;999999957
+marlín;;3;999999955
+tiburón ballena;;3;999999954
+pez sierra;;3;999999953
+quimera;;3;999999952
+manta raya;;3;999999951
+pez volador;;3;999999950
+pez linterna;;3;999999949
+pez abisal;;3;999999948
+cucarachón;;3;999999947
+mantis religiosa;mantis;3;999999946
+insecto palo;;3;999999945
+chinche;;3;999999944
+pulgón;;3;999999943
+cigarra;;3;999999942
+luciérnaga;;3;999999941
+ciervo volante;;3;999999940
+escarabajo pelotero;;3;999999939
+gorgojo;;3;999999938
+carcoma;;3;999999937
+tijereta;;3;999999936
+efímera;;3;999999935
+frigánea;;3;999999934
+tábano;;3;999999933
+moscardón;;3;999999932
+abejorro;;3;999999931
+avispa asiática;;3;999999930
+hormiga león;;3;999999929
+tarántula;;3;999999928
+viuda negra;;3;999999927
+ácaro;;3;999999926
+opilión;;3;999999925
+cochinilla;;3;999999924
+percebe;;3;999999923
+nécora;;3;999999922
+centolla;;3;999999921
+bogavante;;3;999999920
+cigala;;3;999999919
+langostino;;3;999999918
+nautilus;;3;999999917
+babosa de mar;;3;999999916
+nudibranquio;;3;999999915
+caracola;;3;999999914
+lapa;;3;999999913
+pepino de mar;;3;999999912
+anémona;;3;999999911
+coral;;3;999999910
+esponja;;3;999999909
+hidra;;3;999999908
+platelminto;;3;999999907
+tenia;solitaria;3;999999906
+lombriz intestinal;;3;999999905
+equidna de hocico largo;;3;999999904
+casuario;;3;999999902
+dodo;;3;999999901
+ave del paraíso;;3;999999900
+quetzal;;3;999999899
+guacamayo;;3;999999898
+cacatúa;;3;999999897
+agaporni;;3;999999896
+abubilla;;3;999999895
+martín pescador;;3;999999894
+abejaruco;;3;999999893
+carbonero;;3;999999892
+herrerillo;;3;999999891
+pinzón;;3;999999890
+verderón;;3;999999889
+verdecillo;;3;999999888
+lúgano;;3;999999887
+camachuelo;;3;999999886
+piquituerto;;3;999999885
+oropéndola;;3;999999884
+estornino;;3;999999883
+grajilla;;3;999999882
+chova;;3;999999881
+arrendajo;;3;999999880
+cernícalo;;3;999999879
+milano;;3;999999878
+azor;;3;999999877
+gavilán;;3;999999876
+quebrantahuesos;;3;999999875
+alimoche;;3;999999874
+buitre leonado;;3;999999873
+águila imperial;;3;999999872
+águila real;;3;999999871
+búho real;;3;999999870
+autillo;;3;999999869
+mochuelo;;3;999999868
+cárabo;;3;999999867
+chotacabras;;3;999999866
+vencejo;;3;999999865
+avión común;;3;999999864
+lavandera;;3;999999863
+alondra;;3;999999862
+cogujada;;3;999999861
+colirrojo;;3;999999860
+tarabilla;;3;999999859
+collalba;;3;999999858
+mosquitero;;3;999999857
+curruca;;3;999999856
+reyezuelo;;3;999999855
+chochín;;3;999999854
+agateador;;3;999999853
+trepador azul;;3;999999852
+pito real;;3;999999851
+pájaro carpintero;;3;999999850
+cuco;;3;999999849
+tórtola;;3;999999848
+paloma torcaz;;3;999999847
+urogallo;;3;999999846
+ganga;;3;999999845
+sisón;;3;999999844
+avutarda;;3;999999843
+grulla;;3;999999842
+avoceta;;3;999999841
+cigüeñuela;;3;999999840
+chorlito;;3;999999839
+avefría;;3;999999838
+correlimos;;3;999999837
+zarapito;;3;999999836
+agachadiza;;3;999999835
+chocha perdiz;;3;999999834
+archibebe;;3;999999833
+gaviota patiamarilla;;3;999999832
+charrán;;3;999999831
+págalo;;3;999999830
+alca;;3;999999829
+arao;;3;999999828
+cormorán;;3;999999827
+alcatraz;;3;999999826
+pardela;;3;999999825
+petrel;;3;999999824
+somormujo;;3;999999823
+zampullín;;3;999999822
+ánade real;;3;999999821
+cerceta;;3;999999820
+porrón;;3;999999819
+malvasía;;3;999999818
+focha;;3;999999817
+polla de agua;;3;999999816
+calamón;;3;999999815
+rascón;;3;999999814
+martinete;;3;999999813
+garcilla;;3;999999812
+espátula;;3;999999811
+morito;;3;999999810
+flamenco rosa;;3;999999809
+garza real;;3;999999808
+avetoro;;3;999999807
+pez pulmonado;;4;1000000000
+bichir;;4;999999999
+pez arquero;;4;999999998
+pez gato;;4;999999997
+siluro;;4;999999996
+barbo;;4;999999995
+tenca;;4;999999994
+gobio;;4;999999993
+bermejuela;;4;999999992
+fartet;;4;999999991
+samaruc;;4;999999990
+salinete;;4;999999989
+blenio;;4;999999988
+pez araña;;4;999999987
+escorpena;;4;999999986
+cabracho;;4;999999985
+rata de mar;;4;999999984
+chicharro;;4;999999983
+palometa;;4;999999982
+pez de San Pedro;;4;999999981
+pez limón;;4;999999980
+pez ballesta;;4;999999979
+pez cofre;;4;999999978
+pez cirujano;;4;999999977
+pez mariposa;;4;999999976
+pez ángel;;4;999999975
+pez loro;;4;999999974
+pez napoleón;;4;999999973
+pez halcón;;4;999999972
+pez escorpión;;4;999999971
+pez piedra;;4;999999970
+pez sapo;;4;999999969
+pez remo;;4;999999968
+pez luna real;;4;999999967
+pez rata;;4;999999966
+merlán;;4;999999965
+abadejo;;4;999999964
+eglefino;;4;999999962
+maruca;;4;999999961
+brótola;;4;999999960
+bacaladilla;;4;999999959
+faneca;;4;999999958
+lirio;;4;999999957
+granadero;;4;999999956
+sable;;4;999999955
+cinta;;4;999999954
+pez cinto;;4;999999953
+pez hacha;;4;999999952
+pez dragón;;4;999999951
+dragón de mar;;4;999999950
+dragón de mar foliáceo;;4;999999949
+caballito de mar pigmeo;;4;999999948
+pez pipa;;4;999999947
+aguja;;4;999999946
+agujón;;4;999999945
+paparda;;4;999999944
+pez volador del Atlántico;;4;999999943
+lagarto ocelado;;4;999999942
+lagartija ibérica;;4;999999941
+lagartija colilarga;;4;999999940
+lagarto verdinegro;;4;999999939
+lagarto gigante de El Hierro;;4;999999938
+perenquén;;4;999999937
+salamanquesa;;4;999999936
+camaleón común;;4;999999935
+culebrilla ciega;;4;999999934
+víbora áspid;;4;999999933
+víbora de Seoane;;4;999999932
+culebra de collar;;4;999999931
+culebra viperina;;4;999999930
+culebra de cogulla;;4;999999929
+culebra lisa;;4;999999928
+tortuga de Hermann;;4;999999927
+tortuga carey;;4;999999926
+tortuga olivácea;;4;999999925
+tortuga caimán;;4;999999924
+tortuga de caja;;4;999999923
+tortuga gigante de Galápagos;;4;999999922
+tortuga de orejas rojas;;4;999999921
+iguana marina;;4;999999920
+iguana verde;;4;999999919
+dragón barbudo;;4;999999918
+moloch;;4;999999917
+clamidosaurio;;4;999999916
+basilisco verde;;4;999999915
+anolis;;4;999999914
+gecko leopardo;;4;999999913
+gecko tokay;;4;999999912
+varano del Nilo;;4;999999911
+cascabel;;4;999999910
+mamba negra;;4;999999909
+mamba verde;;4;999999908
+taipán;;4;999999907
+serpiente marina;;4;999999906
+coralillo;;4;999999905
+falsa coral;;4;999999904
+culebra real;;4;999999903
+serpiente del maíz;;4;999999902
+pitón reticulada;;4;999999901
+pitón real;;4;999999900
+kakapo;;4;999999899
+kea;;4;999999898
+takahe;;4;999999897
+hoatzín;;4;999999896
+tinamú;;4;999999895
+megápodo;;4;999999894
+ave lira;;4;999999893
+pergolero;;4;999999892
+cálao;;4;999999891
+pájaro moscón;;4;999999890
+pájaro bobo;;4;999999889
+alcaraván;;4;999999888
+ostrero;;4;999999887
+vuelvepiedras;;4;999999886
+falaropo;;4;999999885
+chorlitejo;;4;999999884
+paíño;;4;999999883
+fumarel;;4;999999882
+gaviota reidora;;4;999999881
+pez cebra;;5;1000000000
+pez espátula;;5;999999999
+pez remo gigante;;5;999999998
+pez linterna abisal;;5;999999997
+quimera elefante;;5;999999996
+celacanto indonesio;;5;999999995
+lamprea marina;;5;999999994
+mixino del Pacífico;;5;999999993
+tuátara de Brothers;;5;999999992
+cecilia gigante;;5;999999991
+salamandra gigante china;;5;999999990
+salamandra gigante japonesa;;5;999999989
+olm;proteo;5;999999988
+sirena (anfibio);;5;999999987
+anfiuma;;5;999999986
+necturo;;5;999999985
+equidna de Attenborough;;5;999999984
+echidna;;5;999999983
+kiwi moteado;;5;999999982
+ave elefante;;5;999999981
+moa;;5;999999980
+gastornis;;5;999999979
+arqueóptérix;;5;999999978
+oviraptor;;5;999999977
+maiasaura;;5;999999976
+protoceratops;;5;999999975
+troodon;;5;999999974
+ictiosaurio;;5;999999973
+plesiosaurio;;5;999999972
+mosasaurio;;5;999999971
+pterosaurio;;5;999999970
+quetzalcoatlus;;5;999999969

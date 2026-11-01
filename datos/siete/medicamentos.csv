@@ -1,0 +1,529 @@
+respuesta;alias;nivel;orden_a_mano
+paracetamol;Gelocatil|Dafalgan|Termalgin|Apiretal;1;1000000000
+ibuprofeno;Espidifen|Dalsy|Neobrufen;1;999999999
+aspirina;ácido acetilsalicílico|Adiro;1;999999998
+Frenadol;;1;999999997
+Nolotil;metamizol;1;999999996
+Almax;almagato;1;999999995
+Omeprazol;;1;999999994
+antibiótico;amoxicilina|Clamoxyl|Augmentine;1;999999993
+Voltarén;diclofenaco;1;999999992
+Enantyum;dexketoprofeno;1;999999991
+Ventolín;salbutamol;1;999999990
+Primperan;;1;999999989
+Fortasec;loperamida;1;999999988
+Bisolvon;;1;999999987
+Flutox;;1;999999986
+Couldina;;1;999999985
+Desenfriol;;1;999999984
+Strepsils;;1;999999983
+Lizipaína;;1;999999982
+Betadine;;1;999999981
+Trombocid;;1;999999980
+Reflex;;1;999999979
+Fisiocrem;;1;999999978
+Bepanthol;;1;999999977
+Hemoal;;1;999999976
+Biodramina;;1;999999975
+Dormidina;;1;999999974
+Valium;diazepam;1;999999973
+Orfidal;lorazepam;1;999999972
+Tranxilium;;1;999999971
+Prozac;fluoxetina;1;999999970
+Viagra;;1;999999969
+la píldora;anticonceptivo|pastilla anticonceptiva;1;999999968
+ansiolítico;;1;999999966
+antihistamínico;;1;999999965
+Clarityne;loratadina;1;999999964
+Ebastel;ebastina;1;999999963
+Polaramine;;1;999999962
+insulina;;1;999999961
+Paracetamol de 1 gramo;;2;1000000000
+Efferalgan;;2;999999999
+Dolocatil;;2;999999997
+Ibuprofeno 600;;2;999999996
+Algidol;;2;999999995
+Aspirina C;;2;999999994
+Alka-Seltzer;;2;999999993
+Ibuprofeno Kern;;2;999999992
+Nurofen;;2;999999991
+Espidifen 600;;2;999999989
+Ibuprofeno infantil;;2;999999986
+Antalgin;;2;999999985
+Arcoxia;;2;999999984
+Celebrex;;2;999999983
+Naproxeno;;2;999999982
+Feldene;piroxicam;2;999999981
+Adolonta;tramadol;2;999999980
+Zaldiar;;2;999999979
+Codeína;codeisan;2;999999978
+Lyrica;pregabalina;2;999999977
+Gabapentina;;2;999999976
+Morfina;;2;999999974
+Fentanilo;;2;999999973
+Oxicodona;;2;999999972
+Alprazolam;Trankimazin;2;999999969
+Lexatin;;2;999999968
+Rivotril;clonazepam;2;999999966
+Stilnox;zolpidem;2;999999965
+Melatonina;;2;999999964
+Valeriana;;2;999999963
+Sertralina;Besitran;2;999999962
+Paroxetina;Seroxat;2;999999961
+Escitalopram;Cipralex|Esertia;2;999999960
+Citalopram;;2;999999959
+Venlafaxina;Vandral;2;999999958
+Duloxetina;Cymbalta;2;999999957
+Mirtazapina;;2;999999956
+Trazodona;;2;999999955
+Litio;;2;999999954
+Quetiapina;Seroquel;2;999999953
+Risperidona;;2;999999952
+Olanzapina;;2;999999951
+Aripiprazol;Abilify;2;999999950
+Metformina;;2;999999949
+Sintrom;;2;999999948
+Adiro 100;;2;999999947
+Atorvastatina;Cardyl;2;999999946
+Simvastatina;;2;999999945
+Enalapril;;2;999999944
+Ramipril;;2;999999943
+Losartán;;2;999999942
+Amlodipino;;2;999999941
+Bisoprolol;Emconcor;2;999999940
+Furosemida;Seguril;2;999999939
+Hidroclorotiazida;;2;999999938
+Eutirox;levotiroxina;2;999999937
+Dexametasona;;2;999999936
+Prednisona;Dacortin;2;999999935
+Urbasón;;2;999999934
+Cortisona;;2;999999933
+Hidrocortisona;;2;999999932
+Pulmicort;;2;999999930
+Seretide;;2;999999929
+Symbicort;;2;999999928
+Singulair;montelukast;2;999999927
+Azitromicina;Zitromax;2;999999924
+Ciprofloxacino;;2;999999923
+Levofloxacino;;2;999999922
+Doxiciclina;;2;999999921
+Cefuroxima;Zinnat;2;999999920
+Penicilina;;2;999999919
+Fosfomicina;Monurol;2;999999918
+Nitrofurantoína;;2;999999917
+Metronidazol;Flagyl;2;999999916
+Clotrimazol;Canesten;2;999999915
+Fluconazol;;2;999999914
+Aciclovir;Zovirax;2;999999913
+Oseltamivir;Tamiflu;2;999999912
+Paxlovid;;2;999999911
+Omeprazol 20;;2;999999910
+Pantoprazol;;2;999999909
+Esomeprazol;Nexium;2;999999908
+Ranitidina;;2;999999907
+Gaviscon;;2;999999906
+Almax Forte;;2;999999905
+Ultra-Levura;;2;999999903
+Duphalac;lactulosa;2;999999902
+Dulcolaxo;;2;999999901
+Movicol;;2;999999900
+Buscapina;;2;999999899
+Aerored;;2;999999898
+Domperidona;Motilium;2;999999896
+Ondansetrón;;2;999999895
+Cinfamar;;2;999999893
+Dramamine;;2;999999892
+Cetirizina;Zyrtec;2;999999890
+Bilaxten;bilastina;2;999999888
+Rupafin;;2;999999887
+Aerius;;2;999999886
+Atarax;;2;999999884
+Ventolín inhalador;;2;999999883
+Rhinomer;;2;999999882
+Respibien;;2;999999881
+Utabon;;2;999999880
+Iliadin;;2;999999879
+Vicks VapoRub;Vicks;2;999999878
+Frenadol Complex;;2;999999877
+Frenadol Forte;;2;999999876
+Pharmagrip;;2;999999875
+Bisolgrip;;2;999999874
+Couldina Instant;;2;999999873
+Ilvico;;2;999999872
+Grippal;;2;999999871
+Propalgina;;2;999999870
+Romilar;;2;999999868
+Toseína;;2;999999867
+Fluimucil;;2;999999866
+Mucosan;ambroxol;2;999999865
+Cinfatós;;2;999999864
+Iniston;;2;999999863
+Bisolvon Antitusivo;;2;999999862
+Angileptol;;2;999999860
+Bucometasana;;2;999999859
+Juanola;;2;999999857
+Pastillas Juanola;;2;999999856
+Halls;;2;999999855
+Betadine bucal;;2;999999854
+Oraldine;;2;999999853
+Bexident;;2;999999852
+Tantum Verde;;2;999999851
+Ruscus;;2;999999849
+Daflon;;2;999999848
+Thrombocid;;2;999999847
+Hirudoid;;2;999999846
+Fastum Gel;;2;999999845
+Calmatel;;2;999999844
+Radio Salil;;2;999999843
+Voltadol;;2;999999840
+Traumeel;;2;999999839
+Arnica;;2;999999838
+Blastoestimulina;;2;999999836
+Cicalfate;;2;999999835
+Fucidine;;2;999999834
+Bactroban;mupirocina;2;999999833
+Synalar;;2;999999832
+Peitel;;2;999999831
+Lexxema;;2;999999830
+Diprogenta;;2;999999829
+Fenergan;;2;999999828
+Afterbite;;2;999999827
+Gine-Canesten;;2;999999825
+Clotrimazol vaginal;;2;999999824
+píldora del día después;Postinor|Norlevo|EllaOne;2;999999823
+Yasmin;;2;999999822
+Diane 35;;2;999999821
+Loette;;2;999999820
+Anillo vaginal;NuvaRing;2;999999819
+Cialis;;2;999999818
+Levitra;;2;999999817
+Propecia;finasterida;2;999999816
+Minoxidil;Regaine;2;999999815
+Roaccutan;isotretinoína;2;999999814
+Ozempic;semaglutida;2;999999813
+Saxenda;;2;999999812
+Wegovy;;2;999999811
+Xenical;;2;999999810
+Lantus;;2;999999808
+Novorapid;;2;999999807
+Glucagón;;2;999999806
+Paracetamol con codeína;;2;999999805
+Efferalgan codeína;;2;999999804
+Dolalgial;;3;1000000000
+Melox;;3;999999999
+Dolostop;;3;999999998
+Febrectal;;3;999999997
+Gelocatil Gripe;;3;999999996
+Termalgin Gripe;;3;999999995
+Actron;;3;999999994
+Saridón;;3;999999993
+Optalidón;;3;999999992
+Okal;;3;999999991
+Calmante Vitaminado;;3;999999990
+Cafiaspirina;;3;999999989
+Desenfriol D;;3;999999988
+Desenfriol C;;3;999999987
+Pharmagrip Complex;;3;999999986
+Frenadol Descongestivo;;3;999999985
+Frenadol Junior;;3;999999984
+Dalsy 40;;3;999999983
+Junifen;;3;999999982
+Apiretal gotas;;3;999999981
+Paidoterín;;3;999999980
+Mucibron;;3;999999979
+Pectox;;3;999999978
+Fluidasa;;3;999999977
+Fluimucil Antídoto;;3;999999976
+Iniston Mucolítico;;3;999999975
+Bisolvon Mucolítico;;3;999999974
+Robitussin;;3;999999973
+Romilar Antitusivo;;3;999999972
+Notusin;;3;999999971
+Toseína Codeína;;3;999999970
+Tusamag;;3;999999969
+Flemoxin;;3;999999968
+Ardine;;3;999999967
+Clamoxyl Sobres;;3;999999966
+Eritromicina;;3;999999965
+Claritromicina;Klacid;3;999999964
+Septrin;cotrimoxazol;3;999999963
+Ciproxina;;3;999999962
+Tavanic;;3;999999961
+Moxifloxacino;;3;999999960
+Vancomicina;;3;999999959
+Gentamicina;;3;999999958
+Tobradex;;3;999999957
+Tobrex;;3;999999956
+Colircusí;;3;999999955
+Systane;;3;999999954
+Hyabak;;3;999999953
+Visine;;3;999999952
+Optrex;;3;999999951
+Otix;;3;999999950
+Otosporin;;3;999999949
+Cerumenex;;3;999999948
+Rhinocort;;3;999999947
+Avamys;;3;999999946
+Nasonex;;3;999999945
+Flixonase;;3;999999944
+Rinobanedif;;3;999999943
+Vibrocil;;3;999999942
+Respir;;3;999999941
+Sterimar;;3;999999940
+Fisiomer;;3;999999939
+Physiomer;;3;999999938
+Otocerum;;3;999999937
+Bacitracina;;3;999999936
+Neosporin;;3;999999935
+Furacín;;3;999999934
+Cristalmina;;3;999999933
+Mercromina;;3;999999932
+Agua oxigenada;;3;999999931
+Alcohol de romero;;3;999999930
+Linitul;;3;999999929
+Silvederma;;3;999999928
+Halibut;;3;999999927
+Mitosyl;;3;999999926
+Weleda;;3;999999925
+Avène Cicalfate;;3;999999924
+Pomada de caléndula;;3;999999923
+Pomada de árnica;;3;999999922
+Cremas de cortisona;;3;999999921
+Celestoderm;;3;999999920
+Elocom;;3;999999919
+Dermovate;;3;999999918
+Lamisil;;3;999999917
+Daktarin;;3;999999916
+Pevaryl;;3;999999915
+Fungarest;;3;999999914
+Mycostatin;nistatina;3;999999913
+Ketoconazol;;3;999999912
+Terbinafina;;3;999999911
+Itraconazol;;3;999999910
+Valaciclovir;Valtrex;3;999999909
+Famciclovir;;3;999999908
+Zovirax crema;;3;999999907
+Fenistil;;3;999999906
+Polaramine crema;;3;999999905
+Talquistina;;3;999999903
+Calamina;;3;999999902
+Urea;;3;999999901
+Isdinceutics;;3;999999900
+Locoid;;3;999999899
+Metotrexato;;3;999999898
+Hidroxicloroquina;Dolquine;3;999999897
+Humira;;3;999999896
+Enbrel;;3;999999895
+Remicade;;3;999999894
+Xolair;;3;999999893
+Dupixent;;3;999999892
+Keytruda;;3;999999891
+Herceptin;;3;999999890
+Tamoxifeno;;3;999999889
+Letrozol;;3;999999888
+Anastrozol;;3;999999887
+Zoladex;;3;999999886
+Bicalutamida;;3;999999885
+Cisplatino;;3;999999884
+Quimioterapia;;3;999999883
+Sovaldi;;3;999999882
+Truvada;;3;999999881
+PrEP;;3;999999880
+Biktarvy;;3;999999879
+Retrovir;;3;999999878
+Tenofovir;;3;999999877
+Tirodril;;3;999999875
+Eutirox 50;;3;999999874
+Metformina Dianben;Dianben;3;999999873
+Januvia;;3;999999872
+Jardiance;;3;999999871
+Forxiga;;3;999999870
+Trulicity;;3;999999869
+Victoza;;3;999999868
+Glibenclamida;;3;999999867
+Gliclazida;;3;999999866
+Sintrom 4;;3;999999865
+Xarelto;;3;999999864
+Eliquis;;3;999999863
+Pradaxa;;3;999999862
+Lixiana;;3;999999861
+Heparina;Clexane|Hibor;3;999999860
+Plavix;clopidogrel;3;999999859
+Brilique;;3;999999858
+Digoxina;;3;999999857
+Amiodarona;Trangorex;3;999999856
+Nitroglicerina;Cafinitrina;3;999999855
+Vernies;;3;999999854
+Atenolol;;3;999999853
+Propranolol;Sumial;3;999999852
+Carvedilol;;3;999999851
+Valsartán;Diovan;3;999999850
+Candesartán;;3;999999849
+Olmesartán;;3;999999848
+Irbesartán;;3;999999847
+Captopril;;3;999999846
+Lisinopril;;3;999999845
+Diltiazem;;3;999999844
+Verapamilo;;3;999999843
+Espironolactona;Aldactone;3;999999842
+Torasemida;;3;999999841
+Indapamida;;3;999999840
+Rosuvastatina;Crestor;3;999999839
+Pravastatina;;3;999999838
+Ezetimiba;Ezetrol;3;999999837
+Fenofibrato;;3;999999836
+Omacor;;3;999999835
+Allopurinol;Zyloprim;3;999999834
+Colchicina;;3;999999833
+Febuxostat;;3;999999832
+Alendronato;Fosamax;3;999999831
+Calcio;Ideos|Mastical;3;999999830
+Vitamina D;Hidroferol;3;999999829
+Hierro;Ferro Sanol|Tardyferon;3;999999828
+Ácido fólico;;3;999999827
+Vitamina B12;;3;999999826
+Magnesio;;3;999999825
+Potasio;;3;999999824
+Suero oral;Sueroral;3;999999823
+Bicarbonato;;3;999999822
+Plantaben;;3;999999820
+Micralax;;3;999999819
+Enema Casen;;3;999999818
+Hemorrane;;3;999999817
+Proctolog;;3;999999816
+Ultraproct;;3;999999815
+Mesalazina;;3;999999814
+Budesonida;;3;999999813
+Adalimumab;;3;999999812
+Infliximab;;3;999999811
+Tiamina;;3;999999810
+Benerva;;3;999999809
+Hidroxil;;3;999999808
+Dolo-Neurobión;;3;999999807
+Neurobión;;3;999999806
+Metamizol magnésico;;4;1000000000
+Dexketoprofeno trometamol;;4;999999999
+Ketorolaco;Toradol;4;999999998
+Tapentadol;Palexia;4;999999997
+Buprenorfina;Transtec;4;999999996
+Metadona;;4;999999995
+Naloxona;;4;999999994
+Naltrexona;;4;999999993
+Disulfiram;Antabus;4;999999992
+Acamprosato;;4;999999991
+Bupropión;Zyntabac;4;999999990
+Vareniclina;Champix;4;999999989
+Citisina;Todacitan;4;999999988
+Modafinilo;;4;999999987
+Metilfenidato;Concerta|Rubifen|Medikinet;4;999999986
+Lisdexanfetamina;Elvanse;4;999999985
+Atomoxetina;Strattera;4;999999984
+Guanfacina;Intuniv;4;999999983
+Lamotrigina;Lamictal;4;999999982
+Valproato;Depakine;4;999999981
+Carbamazepina;Tegretol;4;999999980
+Levetiracetam;Keppra;4;999999979
+Topiramato;Topamax;4;999999978
+Lacosamida;Vimpat;4;999999977
+Fenitoína;;4;999999976
+Fenobarbital;;4;999999975
+Clozapina;;4;999999974
+Haloperidol;;4;999999973
+Clorpromazina;;4;999999972
+Levomepromazina;;4;999999971
+Paliperidona;;4;999999970
+Ziprasidona;;4;999999969
+Lurasidona;;4;999999968
+Cariprazina;;4;999999967
+Brexpiprazol;;4;999999966
+Agomelatina;;4;999999965
+Vortioxetina;Brintellix;4;999999964
+Desvenlafaxina;;4;999999963
+Bupropión retard;;4;999999962
+Tianeptina;;4;999999961
+Amitriptilina;Tryptizol;4;999999960
+Clomipramina;Anafranil;4;999999959
+Imipramina;;4;999999958
+Nortriptilina;;4;999999957
+Doxepina;;4;999999956
+Clorazepato;;4;999999955
+Bromazepam;;4;999999954
+Ketazolam;;4;999999953
+Clobazam;;4;999999952
+Triazolam;;4;999999951
+Lormetazepam;Noctamid;4;999999950
+Flurazepam;;4;999999949
+Zopiclona;;4;999999948
+Hidroxizina;;4;999999947
+Prometazina;;4;999999946
+Doxilamina;;4;999999945
+Difenhidramina;;4;999999944
+Melatonina retard;;4;999999943
+Circadin;;4;999999942
+Sumatriptán;Imigran;4;999999941
+Rizatriptán;Maxalt;4;999999940
+Zolmitriptán;;4;999999939
+Almotriptán;Almogran;4;999999938
+Erenumab;Aimovig;4;999999937
+Galcanezumab;;4;999999936
+Botox;;4;999999935
+Levodopa;Sinemet;4;999999934
+Rasagilina;;4;999999933
+Pramipexol;;4;999999932
+Ropinirol;;4;999999931
+Donepezilo;Aricept;4;999999930
+Memantina;;4;999999929
+Rivastigmina;Exelon;4;999999928
+Galantamina;;4;999999927
+Riluzol;;4;999999926
+Interferón;;4;999999925
+Fingolimod;;4;999999924
+Natalizumab;;4;999999923
+Ocrelizumab;;4;999999922
+Ciclosporina;;4;999999921
+Tacrolimus;;4;999999920
+Micofenolato;;4;999999919
+Azatioprina;;4;999999918
+Sirolimus;;4;999999917
+Everolimus;;4;999999916
+Leflunomida;;4;999999915
+Sulfasalazina;;4;999999914
+Tofacitinib;;4;999999913
+Baricitinib;;4;999999912
+Upadacitinib;;4;999999911
+Ustekinumab;;4;999999910
+Secukinumab;;4;999999909
+Ixekizumab;;4;999999908
+Guselkumab;;4;999999907
+Sulpirida;Dogmatil;5;1000000000
+Amisulprida;;5;999999999
+Tiaprida;;5;999999998
+Pimozida;;5;999999997
+Flufenazina;;5;999999996
+Zuclopentixol;;5;999999995
+Pipotiazina;;5;999999994
+Trifluoperazina;;5;999999993
+Levosulpirida;;5;999999992
+Cinitaprida;;5;999999991
+Dimenhidrinato;;5;999999990
+Escopolamina;;5;999999989
+Glicopirronio;;5;999999988
+Tiotropio;;5;999999987
+Umeclidinio;;5;999999986
+Indacaterol;;5;999999985
+Vilanterol;;5;999999984
+Olodaterol;;5;999999983
+Roflumilast;;5;999999982
+Teofilina;;5;999999981
+Aminofilina;;5;999999980
+Omalizumab;;5;999999979
+Mepolizumab;;5;999999978
+Benralizumab;;5;999999977
+Tezepelumab;;5;999999976
+Lumacaftor;;5;999999975
+Ivacaftor;;5;999999974
+Nusinersen;;5;999999973
+Zolgensma;;5;999999972
+Eculizumab;;5;999999971
+Emicizumab;;5;999999970
+Nirsevimab;;5;999999969

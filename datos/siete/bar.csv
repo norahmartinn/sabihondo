@@ -1,0 +1,245 @@
+respuesta;alias;nivel;orden_a_mano
+una caña;cañas;1;1000000000
+una cerveza;birra;1;999999999
+un café;;1;999999998
+un café con leche;;1;999999997
+un cortado;;1;999999996
+una tapa;tapas;1;999999995
+un vino;copa de vino;1;999999994
+un tinto de verano;;1;999999993
+un refresco;;1;999999992
+una Coca-Cola;coca;1;999999991
+agua;botella de agua;1;999999990
+una copa;cubata;1;999999989
+un bocadillo;bocata;1;999999988
+unas bravas;patatas bravas;1;999999987
+la cuenta;;1;999999986
+una ración;raciones;1;999999985
+un pincho;pintxo;1;999999984
+un zumo;;1;999999983
+un mosto;;1;999999982
+un doble;;2;1000000000
+un tercio;;2;999999999
+un botellín;quinto;2;999999998
+una clara;;2;999999997
+una sin;cerveza sin alcohol|sin alcohol;2;999999996
+un vermú;vermut;2;999999995
+un gin-tonic;;2;999999994
+un Aquarius;;2;999999993
+una Fanta;Fanta de naranja|Fanta de limón;2;999999992
+un Nestea;;2;999999991
+un Kas;;2;999999990
+una tónica;Schweppes;2;999999989
+un carajillo;;2;999999988
+un descafeinado;descafeinado de máquina|descafeinado de sobre;2;999999987
+un solo;café solo|expreso;2;999999986
+un manchado;;2;999999985
+un bombón;café bombón;2;999999984
+un cola cao;chocolate|chocolate caliente;2;999999983
+una infusión;manzanilla|poleo|té;2;999999982
+un chupito;chupitos;2;999999981
+unas aceitunas;olivas;2;999999980
+unas patatas;patatas fritas|patatas de bolsa;2;999999979
+unos frutos secos;cacahuetes|almendras;2;999999978
+una tortilla;pincho de tortilla;2;999999977
+unas croquetas;;2;999999976
+calamares;bocadillo de calamares;2;999999975
+unos huevos rotos;;2;999999974
+jamón;ración de jamón;2;999999973
+queso;ración de queso;2;999999972
+un montadito;montaditos;2;999999971
+una tosta;;2;999999970
+una sangría;;2;999999969
+un rebujito;;2;999999968
+una sidra;;2;999999967
+un cava;;2;999999966
+una Mahou;;2;999999965
+un Estrella;Estrella Galicia|Estrella Damm;2;999999964
+una Alhambra;;2;999999963
+un mojito;;2;999999962
+un Bloody Mary;;2;999999961
+un Martini;;2;999999960
+un Ron cola;Cuba libre;2;999999959
+un whisky;;2;999999958
+un vodka;;2;999999957
+un orujo;;2;999999956
+un pacharán;;2;999999955
+un licor de hierbas;hierbas;2;999999954
+un Baileys;;2;999999953
+un tequila;;2;999999952
+un sándwich;sandwich mixto|mixto;2;999999951
+una tostada;tostada con tomate|pan con tomate;2;999999950
+un croissant;cruasán;2;999999949
+una napolitana;;2;999999948
+un desayuno;;2;999999947
+el menú del día;menú;2;999999946
+un plato combinado;;2;999999945
+una hamburguesa;;2;999999944
+una bebida;;2;999999943
+hielo;hielos;2;999999942
+la carta;;2;999999941
+la contraseña del wifi;wifi|la clave del wifi;2;999999940
+el baño;ir al baño|el servicio;2;999999939
+un cenicero;;2;999999938
+una servilleta;servilletas;2;999999937
+un vaso de agua;;2;999999936
+un corto;;3;1000000000
+un zurito;;3;999999999
+un penalti;penalty;3;999999998
+una jarra;jarra de cerveza;3;999999997
+una pinta;;3;999999996
+un pintxo pote;;3;999999995
+un txakoli;;3;999999994
+un kalimotxo;calimocho;3;999999993
+un claro;;3;999999992
+un mosto con ginebra;;3;999999991
+un vermú de grifo;;3;999999990
+un vino blanco;blanco;3;999999989
+un rosado;;3;999999988
+un Rioja;;3;999999987
+un Ribera;Ribera del Duero;3;999999986
+un Albariño;;3;999999985
+un Verdejo;Rueda;3;999999984
+un fino;;3;999999983
+una manzanilla de Sanlúcar;;3;999999982
+un jerez;;3;999999981
+un café con hielo;;3;999999980
+un café del tiempo;;3;999999979
+un leche y leche;café leche y leche;3;999999978
+un sombra;;3;999999977
+un nube;;3;999999976
+un largo de café;;3;999999975
+un americano;café americano;3;999999974
+un capuchino;;3;999999973
+un café irlandés;irish coffee;3;999999972
+un trifásico;;3;999999971
+un belmonte;;3;999999970
+un barraquito;;3;999999969
+un asiático;;3;999999968
+un mitad;;3;999999967
+un sol y sombra;;3;999999966
+un brandy;coñac|Soberano|Veterano;3;999999965
+un anís;;3;999999964
+un Licor 43;;3;999999963
+un Jägermeister;Jäger;3;999999962
+un tequila shot;;3;999999961
+un mojito de fresa;;3;999999960
+un margarita;;3;999999959
+un daiquiri;;3;999999958
+una piña colada;;3;999999957
+un spritz;Aperol spritz|Aperol;3;999999956
+un Campari;;3;999999955
+un negroni;;3;999999954
+un dry martini;;3;999999953
+un cosmopolitan;;3;999999952
+un vino de la casa;;3;999999951
+una botella de vino;;3;999999950
+un champán;champagne;3;999999949
+una cerveza artesana;;3;999999948
+una IPA;;3;999999947
+una tostada de aceite;;3;999999946
+un pitufo;;3;999999945
+un bocadillo de tortilla;;3;999999944
+un serranito;;3;999999943
+un pepito de ternera;pepito;3;999999942
+un bocadillo de lomo;;3;999999941
+un bocadillo de jamón;;3;999999940
+un pulguita;;3;999999939
+una gilda;;3;999999938
+unos boquerones;;3;999999937
+unas gambas al ajillo;;3;999999936
+unos pimientos de Padrón;;3;999999935
+unos mejillones;;3;999999934
+unas rabas;;3;999999933
+una oreja;oreja a la plancha;3;999999932
+unos callos;;3;999999931
+unos caracoles;;3;999999930
+unas alitas;;3;999999929
+unos nachos;;3;999999928
+una ensaladilla;ensaladilla rusa;3;999999927
+una empanadilla;;3;999999926
+un pincho moruno;;3;999999925
+unos torreznos;;3;999999924
+una caña y una tapa;;3;999999923
+otra ronda;ronda;3;999999922
+la penúltima;;3;999999921
+la última;;3;999999920
+un datáfono;pagar con tarjeta;3;999999919
+cambio;;3;999999918
+mechero;;3;999999917
+fuego;;3;999999916
+tabaco;;3;999999915
+máquina de tabaco;;3;999999914
+un shandy;;4;1000000000
+una cerveza con gaseosa;;4;999999999
+una cerveza con limón;;4;999999998
+una Radler;;4;999999997
+una tostada de manteca colorá;;4;999999996
+un mollete;;4;999999995
+un café bombón con licor;;4;999999994
+un café biberón;;4;999999993
+un café cortado de sobre;;4;999999992
+un descafeinado de máquina con leche fría;;4;999999991
+un manchado de vaso;;4;999999990
+una leche manchada;;4;999999989
+un cortado de cabra;;4;999999988
+un café caleta;;4;999999987
+un perico;;4;999999986
+un cremaet;;4;999999985
+un cigaló;;4;999999984
+un tallat;;4;999999983
+un rebentat;;4;999999982
+un carajillo quemado;;4;999999981
+una canya;;4;999999980
+un quinto de Mahou;;4;999999979
+un tercio de Alhambra;;4;999999978
+una Estrella de Levante;;4;999999977
+una Cruzcampo;;4;999999976
+una Ámbar;;4;999999975
+una Moritz;;4;999999974
+una Keler;;4;999999973
+un Ribeiro;;4;999999972
+un Godello;;4;999999971
+un Mencía;;4;999999970
+un Txakoli de Getaria;;4;999999969
+un patxaran casero;;4;999999968
+un licor café;;4;999999967
+una queimada;;4;999999966
+un aguardiente;;4;999999965
+un chinchón;;4;999999964
+un mistela;;4;999999963
+un moscatel;;4;999999962
+un Pedro Ximénez;PX;4;999999961
+un oloroso;;4;999999960
+un amontillado;;4;999999959
+un palo cortado;;4;999999958
+un vermú Yzaguirre;;4;999999957
+un vermú Martini Rosso;;4;999999956
+un bíter;bitter;4;999999955
+un Bitter Kas;;4;999999954
+un tónica con limón;;4;999999953
+un gin tonic de Hendrick's;;4;999999952
+una caipiriña;caipirinha;4;999999951
+un tinto con gaseosa;;4;999999950
+un agua con gas;;4;999999949
+un Solán de Cabras;;4;999999948
+una Vichy Catalán;;4;999999947
+un Trina;;4;999999946
+un zumo de naranja natural;;4;999999945
+un Bitter Martini;;4;999999944
+un leche y leche canario;;5;1000000000
+un barraquito tapado;;5;999999999
+un café zaragozano;;5;999999998
+un café del tiempo valenciano;;5;999999997
+un mixto de Asturias;;5;999999996
+un culín;culín de sidra;5;999999995
+un chato;;5;999999994
+un porrón;;5;999999993
+un chiquito;;5;999999992
+un txikito;;5;999999991
+un zurito de Bilbao;;5;999999990
+un pote;;5;999999989
+un mediana;;5;999999988
+un tubo;;5;999999986
+un cachi;;5;999999985
+una litrona;;5;999999984

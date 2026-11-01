@@ -1,0 +1,3002 @@
+[
+[
+"LISBOA",
+"PT - Portugal",
+6025
+],
+[
+"MADRID",
+"ES - Spain",
+5920
+],
+[
+"PARIS",
+"FR - France",
+5663
+],
+[
+"VALENCIA",
+"ES - Spain",
+4968
+],
+[
+"BARCELONA",
+"ES - Spain",
+4870
+],
+[
+"ROMA",
+"IT - Italy",
+4862
+],
+[
+"MILANO",
+"IT - Italy",
+4568
+],
+[
+"BUDAPEST",
+"HU - Hungary",
+3745
+],
+[
+"WIEN",
+"AT - Austria",
+3124
+],
+[
+"BOLOGNA",
+"IT - Italy",
+2848
+],
+[
+"BERLIN",
+"DE - Germany",
+2743
+],
+[
+"DUBLIN",
+"IE - Ireland",
+2520
+],
+[
+"GRANADA",
+"ES - Spain",
+2414
+],
+[
+"PORTO",
+"PT - Portugal",
+2391
+],
+[
+"STOCKHOLM",
+"SE - Sweden",
+2213
+],
+[
+"WARSZAWA",
+"PL - Poland",
+2196
+],
+[
+"ISTANBUL",
+"TR - Türkiye",
+2138
+],
+[
+"OSLO",
+"NO - Norway",
+2117
+],
+[
+"SEVILLA",
+"ES - Spain",
+2109
+],
+[
+"VILNIUS",
+"LT - Lithuania",
+1824
+],
+[
+"PADOVA",
+"IT - Italy",
+1810
+],
+[
+"TRONDHEIM",
+"NO - Norway",
+1770
+],
+[
+"PRAHA",
+"CZ - Czechia",
+1766
+],
+[
+"KRAKOW",
+"PL - Poland",
+1758
+],
+[
+"AMSTERDAM",
+"NL - Netherlands",
+1749
+],
+[
+"TORINO",
+"IT - Italy",
+1727
+],
+[
+"BERGEN",
+"NO - Norway",
+1713
+],
+[
+"LJUBLJANA",
+"SI - Slovenia",
+1671
+],
+[
+"COIMBRA",
+"PT - Portugal",
+1599
+],
+[
+"GENT",
+"BE - Belgium",
+1564
+],
+[
+"PRAHA 1",
+"CZ - Czechia",
+1457
+],
+[
+"LILLE",
+"FR - France",
+1423
+],
+[
+"RIGA",
+"LV - Latvia",
+1417
+],
+[
+"LEUVEN",
+"BE - Belgium",
+1414
+],
+[
+"GRONINGEN",
+"NL - Netherlands",
+1406
+],
+[
+"HELSINKI",
+"FI - Finland",
+1322
+],
+[
+"BRUXELLES",
+"BE - Belgium",
+1318
+],
+[
+"WROCLAW",
+"PL - Poland",
+1294
+],
+[
+"ZAGREB",
+"HR - Croatia",
+1177
+],
+[
+"MALAGA",
+"ES - Spain",
+1173
+],
+[
+"LYON",
+"FR - France",
+1152
+],
+[
+"UTRECHT",
+"NL - Netherlands",
+1139
+],
+[
+"MUENCHEN",
+"DE - Germany",
+1134
+],
+[
+"LONDON",
+"UK - United Kingdom",
+1127
+],
+[
+"MURCIA",
+"ES - Spain",
+1031
+],
+[
+"TOULOUSE",
+"FR - France",
+1017
+],
+[
+"LODZ",
+"PL - Poland",
+1011
+],
+[
+"GRAZ",
+"AT - Austria",
+1010
+],
+[
+"SALAMANCA",
+"ES - Spain",
+1009
+],
+[
+"BRATISLAVA",
+"SK - Slovakia",
+1001
+],
+[
+"ANTWERPEN",
+"BE - Belgium",
+945
+],
+[
+"POZNAN",
+"PL - Poland",
+945
+],
+[
+"GLASGOW",
+"UK - United Kingdom",
+940
+],
+[
+"ROTTERDAM",
+"NL - Netherlands",
+930
+],
+[
+"BRNO STRED",
+"CZ - Czechia",
+925
+],
+[
+"ZARAGOZA",
+"ES - Spain",
+924
+],
+[
+"UPPSALA",
+"SE - Sweden",
+907
+],
+[
+"NAPOLI",
+"IT - Italy",
+892
+],
+[
+"STRASBOURG",
+"FR - France",
+862
+],
+[
+"LUND",
+"SE - Sweden",
+855
+],
+[
+"TAMPERE",
+"FI - Finland",
+842
+],
+[
+"CORK",
+"IE - Ireland",
+831
+],
+[
+"TALLINN",
+"EE - Estonia",
+825
+],
+[
+"MARIBOR",
+"SI - Slovenia",
+823
+],
+[
+"LIMERICK",
+"IE - Ireland",
+822
+],
+[
+"KAUNAS",
+"LT - Lithuania",
+780
+],
+[
+"FLORENCE",
+"IT - Italy",
+777
+],
+[
+"MONTPELLIER",
+"FR - France",
+777
+],
+[
+"KOBENHAVN",
+"DK - Denmark",
+769
+],
+[
+"LEIOA",
+"ES - Spain",
+758
+],
+[
+"THESSALONIKI",
+"EL - Greece",
+753
+],
+[
+"CORDOBA",
+"ES - Spain",
+753
+],
+[
+"EDINBURGH",
+"UK - United Kingdom",
+748
+],
+[
+"CERDANYOLA BARCELONA",
+"ES - Spain",
+727
+],
+[
+"GETAFE (MADRID)",
+"ES - Spain",
+725
+],
+[
+"DEN HAAG",
+"NL - Netherlands",
+702
+],
+[
+"VALLADOLID",
+"ES - Spain",
+701
+],
+[
+"INNSBRUCK",
+"AT - Austria",
+697
+],
+[
+"MAASTRICHT",
+"NL - Netherlands",
+690
+],
+[
+"HAMBURG",
+"DE - Germany",
+687
+],
+[
+"ESPOO",
+"FI - Finland",
+669
+],
+[
+"NANTES",
+"FR - France",
+666
+],
+[
+"ALICANTE",
+"ES - Spain",
+656
+],
+[
+"GOETEBORG",
+"SE - Sweden",
+643
+],
+[
+"MARSEILLE",
+"FR - France",
+638
+],
+[
+"PALERMO",
+"IT - Italy",
+638
+],
+[
+"CADIZ",
+"ES - Spain",
+631
+],
+[
+"EINDHOVEN",
+"NL - Netherlands",
+628
+],
+[
+"BIRMINGHAM",
+"UK - United Kingdom",
+624
+],
+[
+"GDANSK",
+"PL - Poland",
+623
+],
+[
+"BILBAO",
+"ES - Spain",
+615
+],
+[
+"OVIEDO",
+"ES - Spain",
+612
+],
+[
+"AVEIRO",
+"PT - Portugal",
+609
+],
+[
+"HEIDELBERG",
+"DE - Germany",
+604
+],
+[
+"HUELVA",
+"ES - Spain",
+598
+],
+[
+"PISA",
+"IT - Italy",
+596
+],
+[
+"NICOSIA",
+"CY - Cyprus",
+594
+],
+[
+"OULU",
+"FI - Finland",
+587
+],
+[
+"BARI",
+"IT - Italy",
+587
+],
+[
+"ATHINA",
+"EL - Greece",
+580
+],
+[
+"MOSTOLES",
+"ES - Spain",
+579
+],
+[
+"MANNHEIM",
+"DE - Germany",
+579
+],
+[
+"LAS PALMAS DE GRAN CANARIA",
+"ES - Spain",
+574
+],
+[
+"SANTANDER",
+"ES - Spain",
+574
+],
+[
+"BORDEAUX",
+"FR - France",
+570
+],
+[
+"LIEGE",
+"BE - Belgium",
+565
+],
+[
+"KUOPIO",
+"FI - Finland",
+564
+],
+[
+"TURKU",
+"FI - Finland",
+556
+],
+[
+"VENEZIA",
+"IT - Italy",
+552
+],
+[
+"TARTU",
+"EE - Estonia",
+552
+],
+[
+"MÜNCHEN",
+"DE - Germany",
+549
+],
+[
+"LEIPZIG",
+"DE - Germany",
+543
+],
+[
+"FRANKFURT AM MAIN",
+"DE - Germany",
+537
+],
+[
+"LUBLIN",
+"PL - Poland",
+536
+],
+[
+"SIENA",
+"IT - Italy",
+534
+],
+[
+"TRENTO",
+"IT - Italy",
+532
+],
+[
+"PERUGIA",
+"IT - Italy",
+530
+],
+[
+"TILBURG",
+"NL - Netherlands",
+522
+],
+[
+"MAINZ",
+"DE - Germany",
+517
+],
+[
+"BUCURESTI",
+"RO - Romania",
+515
+],
+[
+"NIJMEGEN",
+"NL - Netherlands",
+510
+],
+[
+"JYVASKYLA",
+"FI - Finland",
+507
+],
+[
+"SOFIA",
+"BG - Bulgaria",
+507
+],
+[
+"STUTTGART",
+"DE - Germany",
+505
+],
+[
+"GENOVA",
+"IT - Italy",
+498
+],
+[
+"REYKJAVIK",
+"IS - Iceland",
+497
+],
+[
+"ALMERIA",
+"ES - Spain",
+483
+],
+[
+"OLOMOUC",
+"CZ - Czechia",
+481
+],
+[
+"RENNES",
+"FR - France",
+471
+],
+[
+"GALWAY",
+"IE - Ireland",
+467
+],
+[
+"LAPPEENRANTA",
+"FI - Finland",
+465
+],
+[
+"PAVIA",
+"IT - Italy",
+465
+],
+[
+"FIRENZE",
+"IT - Italy",
+460
+],
+[
+"ENSCHEDE",
+"NL - Netherlands",
+455
+],
+[
+"CAGLIARI",
+"IT - Italy",
+453
+],
+[
+"PAMPLONA",
+"ES - Spain",
+453
+],
+[
+"AARHUS C",
+"DK - Denmark",
+452
+],
+[
+"AARHUS N",
+"DK - Denmark",
+448
+],
+[
+"ATHENS",
+"EL - Greece",
+448
+],
+[
+"ISTANBUL",
+"TR - Turkey",
+446
+],
+[
+"MSIDA",
+"MT - Malta",
+444
+],
+[
+"TALENCE",
+"FR - France",
+444
+],
+[
+"BRUSSEL",
+"BE - Belgium",
+439
+],
+[
+"SZCZECIN",
+"PL - Poland",
+438
+],
+[
+"KATOWICE",
+"PL - Poland",
+434
+],
+[
+"KOELN",
+"DE - Germany",
+432
+],
+[
+"KARLSRUHE",
+"DE - Germany",
+432
+],
+[
+"AACHEN",
+"DE - Germany",
+431
+],
+[
+"SALZBURG",
+"AT - Austria",
+431
+],
+[
+"KORTRIJK",
+"BE - Belgium",
+424
+],
+[
+"POZUELO DE ALARCON",
+"ES - Spain",
+413
+],
+[
+"HELSINGIN YLIOPISTO",
+"FI - Finland",
+413
+],
+[
+"CLUJ NAPOCA",
+"RO - Romania",
+410
+],
+[
+"KONSTANZ",
+"DE - Germany",
+410
+],
+[
+"BRNO",
+"CZ - Czechia",
+409
+],
+[
+"SPLIT",
+"HR - Croatia",
+409
+],
+[
+"PARMA",
+"IT - Italy",
+403
+],
+[
+"MAYNOOTH",
+"IE - Ireland",
+403
+],
+[
+"FREIBURG",
+"DE - Germany",
+403
+],
+[
+"LOUVAIN LA NEUVE",
+"BE - Belgium",
+400
+],
+[
+"DRESDEN",
+"DE - Germany",
+399
+],
+[
+"DELFT",
+"NL - Netherlands",
+396
+],
+[
+"UMEA",
+"SE - Sweden",
+393
+],
+[
+"LINKOPING",
+"SE - Sweden",
+392
+],
+[
+"ODENSE M",
+"DK - Denmark",
+391
+],
+[
+"BIALYSTOK",
+"PL - Poland",
+391
+],
+[
+"GIRONA",
+"ES - Spain",
+383
+],
+[
+"NICE",
+"FR - France",
+381
+],
+[
+"SANTIAGO DE COMPOSTELA",
+"ES - Spain",
+381
+],
+[
+"GRENOBLE",
+"FR - France",
+380
+],
+[
+"SHEFFIELD",
+"UK - United Kingdom",
+379
+],
+[
+"PRAHA - SUCHDOL",
+"CZ - Czechia",
+379
+],
+[
+"PRAHA 3",
+"CZ - Czechia",
+376
+],
+[
+"FREDERIKSBERG",
+"DK - Denmark",
+374
+],
+[
+"KRISTIANSAND",
+"NO - Norway",
+373
+],
+[
+"MANCHESTER",
+"UK - United Kingdom",
+370
+],
+[
+"CIUDAD REAL",
+"ES - Spain",
+370
+],
+[
+"VERONA",
+"IT - Italy",
+369
+],
+[
+"WUERZBURG",
+"DE - Germany",
+369
+],
+[
+"NOTTINGHAM",
+"UK - United Kingdom",
+364
+],
+[
+"LA CORUNA",
+"ES - Spain",
+362
+],
+[
+"ZWOLLE",
+"NL - Netherlands",
+361
+],
+[
+"LEIDEN",
+"NL - Netherlands",
+358
+],
+[
+"TIMISOARA",
+"RO - Romania",
+355
+],
+[
+"JAEN",
+"ES - Spain",
+350
+],
+[
+"LINZ",
+"AT - Austria",
+346
+],
+[
+"BREMEN",
+"DE - Germany",
+346
+],
+[
+"MODENA",
+"IT - Italy",
+345
+],
+[
+"ALCALA DE HENARES/MADRID",
+"ES - Spain",
+345
+],
+[
+"BUCHAREST",
+"RO - Romania",
+344
+],
+[
+"SAARBRUCKEN",
+"DE - Germany",
+340
+],
+[
+"PALMA DE MALLORCA",
+"ES - Spain",
+338
+],
+[
+"LEEDS",
+"UK - United Kingdom",
+338
+],
+[
+"REGENSBURG",
+"DE - Germany",
+338
+],
+[
+"FOGGIA",
+"IT - Italy",
+332
+],
+[
+"GIESSEN",
+"DE - Germany",
+328
+],
+[
+"LEIRIA",
+"PT - Portugal",
+327
+],
+[
+"BRAGANCA",
+"PT - Portugal",
+327
+],
+[
+"COVENTRY",
+"UK - United Kingdom",
+325
+],
+[
+"ROME",
+"IT - Italy",
+324
+],
+[
+"FRANKFURT",
+"DE - Germany",
+322
+],
+[
+"GÖTEBORG",
+"SE - Sweden",
+320
+],
+[
+"PRAGUE",
+"CZ - Czechia",
+320
+],
+[
+"AIGALEO",
+"EL - Greece",
+320
+],
+[
+"FISCIANO SA",
+"IT - Italy",
+319
+],
+[
+"RIJEKA",
+"HR - Croatia",
+318
+],
+[
+"ABERDEEN",
+"UK - United Kingdom",
+314
+],
+[
+"CERGY PONTOISE CEDEX",
+"FR - France",
+312
+],
+[
+"BYDGOSZCZ",
+"PL - Poland",
+312
+],
+[
+"CARDIFF",
+"UK - United Kingdom",
+311
+],
+[
+"TUEBINGEN",
+"DE - Germany",
+309
+],
+[
+"LA LAGUNA TENERIFE",
+"ES - Spain",
+309
+],
+[
+"BRAGA",
+"PT - Portugal",
+309
+],
+[
+"KLAIPEDA",
+"LT - Lithuania",
+309
+],
+[
+"PESSAC",
+"FR - France",
+305
+],
+[
+"SAINT MARTIN D'HERES",
+"FR - France",
+305
+],
+[
+"VIGO PONTEVEDRA",
+"ES - Spain",
+302
+],
+[
+"LISBON",
+"PT - Portugal",
+302
+],
+[
+"BOCHUM",
+"DE - Germany",
+299
+],
+[
+"WAGENINGEN",
+"NL - Netherlands",
+299
+],
+[
+"ROVANIEMI",
+"FI - Finland",
+295
+],
+[
+"VAXJO",
+"SE - Sweden",
+294
+],
+[
+"ROUBAIX",
+"FR - France",
+293
+],
+[
+"DORTMUND",
+"DE - Germany",
+293
+],
+[
+"TROMSO",
+"NO - Norway",
+290
+],
+[
+"HANNOVER",
+"DE - Germany",
+286
+],
+[
+"STAVANGER",
+"NO - Norway",
+281
+],
+[
+"VAASA",
+"FI - Finland",
+278
+],
+[
+"POTSDAM",
+"DE - Germany",
+277
+],
+[
+"CÁDIZ",
+"ES - Spain",
+277
+],
+[
+"CARTAGENA",
+"ES - Spain",
+271
+],
+[
+"VIENNA",
+"AT - Austria",
+269
+],
+[
+"DOS HERMANAS, SEVILLA",
+"ES - Spain",
+267
+],
+[
+"IASI",
+"RO - Romania",
+264
+],
+[
+"BRNO SEVER",
+"CZ - Czechia",
+263
+],
+[
+"SASSARI",
+"IT - Italy",
+261
+],
+[
+"KGS LYNGBY",
+"DK - Denmark",
+261
+],
+[
+"TARRAGONA",
+"ES - Spain",
+259
+],
+[
+"LYNGBY",
+"DK - Denmark",
+259
+],
+[
+"FARO",
+"PT - Portugal",
+258
+],
+[
+"ARNHEM",
+"NL - Netherlands",
+258
+],
+[
+"LEON",
+"ES - Spain",
+257
+],
+[
+"NANTERRE CEDEX",
+"FR - France",
+257
+],
+[
+"MUENSTER",
+"DE - Germany",
+256
+],
+[
+"CRETEIL",
+"FR - France",
+255
+],
+[
+"LIVERPOOL",
+"UK - United Kingdom",
+255
+],
+[
+"ANGERS",
+"FR - France",
+254
+],
+[
+"NEWCASTLE UPON TYNE",
+"UK - United Kingdom",
+254
+],
+[
+"EXETER",
+"UK - United Kingdom",
+254
+],
+[
+"KLAGENFURT",
+"AT - Austria",
+253
+],
+[
+"DUSSELDORF",
+"DE - Germany",
+251
+],
+[
+"TORUN",
+"PL - Poland",
+250
+],
+[
+"ERLANGEN",
+"DE - Germany",
+247
+],
+[
+"BONN",
+"DE - Germany",
+243
+],
+[
+"PARIS CEDEX 16",
+"FR - France",
+242
+],
+[
+"VILLEURBANNE CEDEX",
+"FR - France",
+241
+],
+[
+"CESKE BUDEJOVICE",
+"CZ - Czechia",
+241
+],
+[
+"WARSAW",
+"PL - Poland",
+239
+],
+[
+"BIELEFELD",
+"DE - Germany",
+238
+],
+[
+"TRIESTE",
+"IT - Italy",
+236
+],
+[
+"CATANIA",
+"IT - Italy",
+236
+],
+[
+"NANCY CEDEX",
+"FR - France",
+236
+],
+[
+"BAMBERG",
+"DE - Germany",
+236
+],
+[
+"OSTRAVA PORUBA",
+"CZ - Czechia",
+235
+],
+[
+"DARMSTADT",
+"DE - Germany",
+234
+],
+[
+"KARLSTAD",
+"SE - Sweden",
+232
+],
+[
+"JONKOPING",
+"SE - Sweden",
+231
+],
+[
+"LLEIDA",
+"ES - Spain",
+226
+],
+[
+"OSTRAVA",
+"CZ - Czechia",
+226
+],
+[
+"KRAKÓW",
+"PL - Poland",
+224
+],
+[
+"PECS",
+"HU - Hungary",
+224
+],
+[
+"IZMIR",
+"TR - Türkiye",
+223
+],
+[
+"CZESTOCHOWA",
+"PL - Poland",
+223
+],
+[
+"KOLN",
+"DE - Germany",
+222
+],
+[
+"COVILHA",
+"PT - Portugal",
+222
+],
+[
+"LINKÖPING",
+"SE - Sweden",
+221
+],
+[
+"SZEGED",
+"HU - Hungary",
+220
+],
+[
+"RENNES CEDEX",
+"FR - France",
+218
+],
+[
+"SETUBAL",
+"PT - Portugal",
+217
+],
+[
+"HRADEC KRALOVE",
+"CZ - Czechia",
+217
+],
+[
+"LULEA",
+"SE - Sweden",
+215
+],
+[
+"GOTTINGEN",
+"DE - Germany",
+215
+],
+[
+"KIEL",
+"DE - Germany",
+212
+],
+[
+"MUNCHEN",
+"DE - Germany",
+212
+],
+[
+"MARBURG",
+"DE - Germany",
+212
+],
+[
+"FERRARA",
+"IT - Italy",
+211
+],
+[
+"SEGOVIA",
+"ES - Spain",
+209
+],
+[
+"LYON CEDEX 08",
+"FR - France",
+208
+],
+[
+"WEIMAR",
+"DE - Germany",
+207
+],
+[
+"CASERTA",
+"IT - Italy",
+207
+],
+[
+"PASSAU",
+"DE - Germany",
+207
+],
+[
+"BELFAST",
+"UK - United Kingdom",
+206
+],
+[
+"CASTELLANZA",
+"IT - Italy",
+206
+],
+[
+"KASSEL",
+"DE - Germany",
+206
+],
+[
+"PORSGRUNN",
+"NO - Norway",
+205
+],
+[
+"TRIER",
+"DE - Germany",
+202
+],
+[
+"AUGSBURG",
+"DE - Germany",
+201
+],
+[
+"BOLZANO",
+"IT - Italy",
+201
+],
+[
+"ECULLY",
+"FR - France",
+199
+],
+[
+"ELVERUM",
+"NO - Norway",
+197
+],
+[
+"HASSELT",
+"BE - Belgium",
+196
+],
+[
+"ELCHE",
+"ES - Spain",
+195
+],
+[
+"ATHÍNA",
+"EL - Greece",
+194
+],
+[
+"MONS",
+"BE - Belgium",
+193
+],
+[
+"BERGAMO",
+"IT - Italy",
+192
+],
+[
+"CASTELLON DE LA PLANA",
+"ES - Spain",
+191
+],
+[
+"NANCY",
+"FR - France",
+190
+],
+[
+"HEVERLEE",
+"BE - Belgium",
+189
+],
+[
+"RZESZOW",
+"PL - Poland",
+188
+],
+[
+"LIÈGE",
+"BE - Belgium",
+186
+],
+[
+"CLUJ-NAPOCA",
+"RO - Romania",
+183
+],
+[
+"COPENHAGEN",
+"DK - Denmark",
+182
+],
+[
+"FALUN",
+"SE - Sweden",
+182
+],
+[
+"OPOLE",
+"PL - Poland",
+182
+],
+[
+"VARNA",
+"BG - Bulgaria",
+182
+],
+[
+"VIGO",
+"ES - Spain",
+181
+],
+[
+"KALLITHEA ATHINA",
+"EL - Greece",
+181
+],
+[
+"BREDA",
+"NL - Netherlands",
+180
+],
+[
+"CHAMBERY",
+"FR - France",
+180
+],
+[
+"LIBEREC",
+"CZ - Czechia",
+179
+],
+[
+"KØBENHAVN",
+"DK - Denmark",
+179
+],
+[
+"LEEUWARDEN",
+"NL - Netherlands",
+178
+],
+[
+"ESSEN",
+"DE - Germany",
+178
+],
+[
+"SOUTHAMPTON",
+"UK - United Kingdom",
+178
+],
+[
+"VILLETANEUSE",
+"FR - France",
+178
+],
+[
+"MIKKELI",
+"FI - Finland",
+177
+],
+[
+"BRADFORD",
+"UK - United Kingdom",
+176
+],
+[
+"MÁLAGA",
+"ES - Spain",
+175
+],
+[
+"UMEÅ",
+"SE - Sweden",
+175
+],
+[
+"WATERFORD",
+"IE - Ireland",
+174
+],
+[
+"MILAN",
+"IT - Italy",
+172
+],
+[
+"KINGSTON UPON THAMES",
+"UK - United Kingdom",
+172
+],
+[
+"MECHELEN",
+"BE - Belgium",
+171
+],
+[
+"BRUSSELS",
+"BE - Belgium",
+170
+],
+[
+"REUTLINGEN",
+"DE - Germany",
+170
+],
+[
+"DEBRECEN",
+"HU - Hungary",
+170
+],
+[
+"HATFIELD",
+"UK - United Kingdom",
+169
+],
+[
+"JYVÄSKYLÄ",
+"FI - Finland",
+168
+],
+[
+"VÄSTERÅS",
+"SE - Sweden",
+165
+],
+[
+"BURGOS",
+"ES - Spain",
+165
+],
+[
+"MACERATA",
+"IT - Italy",
+164
+],
+[
+"AARHUS",
+"DK - Denmark",
+161
+],
+[
+"HALMSTAD",
+"SE - Sweden",
+160
+],
+[
+"ESSLINGEN",
+"DE - Germany",
+160
+],
+[
+"DIJON",
+"FR - France",
+159
+],
+[
+"BRISTOL",
+"UK - United Kingdom",
+159
+],
+[
+"EYUP ISTANBUL",
+"TR - Türkiye",
+158
+],
+[
+"BADAJOZ",
+"ES - Spain",
+158
+],
+[
+"LEICESTER",
+"UK - United Kingdom",
+158
+],
+[
+"PAISLEY",
+"UK - United Kingdom",
+157
+],
+[
+"NANTERRE",
+"FR - France",
+157
+],
+[
+"AS",
+"NO - Norway",
+157
+],
+[
+"BRASOV",
+"RO - Romania",
+157
+],
+[
+"PESSAC CEDEX",
+"FR - France",
+156
+],
+[
+"ESCH-SUR-ALZETTE",
+"LU - Luxembourg",
+156
+],
+[
+"AALBORG",
+"DK - Denmark",
+155
+],
+[
+"MESSINA",
+"IT - Italy",
+155
+],
+[
+"SUNDSVALL",
+"SE - Sweden",
+154
+],
+[
+"PUCH BEI HALLEIN",
+"AT - Austria",
+154
+],
+[
+"JENA",
+"DE - Germany",
+154
+],
+[
+"OREBRO",
+"SE - Sweden",
+153
+],
+[
+"MALMOE",
+"SE - Sweden",
+153
+],
+[
+"PAU",
+"FR - France",
+153
+],
+[
+"MASLAK ISTANBUL",
+"TR - Türkiye",
+152
+],
+[
+"MONT-SAINT-AIGNAN",
+"FR - France",
+152
+],
+[
+"PLZEŇ",
+"CZ - Czechia",
+152
+],
+[
+"CLERMONT-FERRAND",
+"FR - France",
+151
+],
+[
+"BRESCIA",
+"IT - Italy",
+150
+],
+[
+"PADERBORN",
+"DE - Germany",
+149
+],
+[
+"ANCONA",
+"IT - Italy",
+148
+],
+[
+"VILA REAL",
+"PT - Portugal",
+147
+],
+[
+"VANTAA",
+"FI - Finland",
+146
+],
+[
+"LECCE",
+"IT - Italy",
+146
+],
+[
+"ROSKILDE",
+"DK - Denmark",
+146
+],
+[
+"CHIETI",
+"IT - Italy",
+146
+],
+[
+"4100-442 PORTO",
+"PT - Portugal",
+145
+],
+[
+"VILLAVICIOSA",
+"ES - Spain",
+145
+],
+[
+"LANCASTER",
+"UK - United Kingdom",
+145
+],
+[
+"KÖLN",
+"DE - Germany",
+143
+],
+[
+"JELGAVA",
+"LV - Latvia",
+141
+],
+[
+"ORADEA",
+"RO - Romania",
+141
+],
+[
+"-",
+"ES - Spain",
+141
+],
+[
+"GEEL",
+"BE - Belgium",
+140
+],
+[
+"ZLIN",
+"CZ - Czechia",
+140
+],
+[
+"NAMUR",
+"BE - Belgium",
+140
+],
+[
+"ZADAR",
+"HR - Croatia",
+138
+],
+[
+"HEILBRONN",
+"DE - Germany",
+138
+],
+[
+"DURHAM",
+"UK - United Kingdom",
+138
+],
+[
+"KOSICE",
+"SK - Slovakia",
+138
+],
+[
+"KIELCE",
+"PL - Poland",
+137
+],
+[
+"COLCHESTER",
+"UK - United Kingdom",
+137
+],
+[
+"ABO",
+"FI - Finland",
+136
+],
+[
+"GIF-SUR-YVETTE",
+"FR - France",
+136
+],
+[
+"ODENSE",
+"DK - Denmark",
+134
+],
+[
+"RIO PATRAS",
+"EL - Greece",
+132
+],
+[
+"ALMERÍA",
+"ES - Spain",
+132
+],
+[
+"AIX-EN-PROVENCE",
+"FR - France",
+132
+],
+[
+"LOUVAIN-LA-NEUVE",
+"BE - Belgium",
+131
+],
+[
+"MONTRÉAL",
+"CA - Canada",
+131
+],
+[
+"L AQUILA",
+"IT - Italy",
+131
+],
+[
+"MÜNSTER",
+"DE - Germany",
+130
+],
+[
+"VITERBO",
+"IT - Italy",
+130
+],
+[
+"VALLENDAR",
+"DE - Germany",
+130
+],
+[
+"PORTSMOUTH",
+"UK - United Kingdom",
+129
+],
+[
+"VIC BARCELONA",
+"ES - Spain",
+129
+],
+[
+"CERGY-PONTOISE",
+"FR - France",
+129
+],
+[
+"LOUGHBOROUGH",
+"UK - United Kingdom",
+128
+],
+[
+"POITIERS CEDEX",
+"FR - France",
+128
+],
+[
+"LA ROCHELLE",
+"FR - France",
+126
+],
+[
+"GLIWICE",
+"PL - Poland",
+126
+],
+[
+"PORI",
+"FI - Finland",
+125
+],
+[
+"EVORA",
+"PT - Portugal",
+125
+],
+[
+"KOPER",
+"SI - Slovenia",
+125
+],
+[
+"TOURS",
+"FR - France",
+125
+],
+[
+"HILDESHEIM",
+"DE - Germany",
+124
+],
+[
+"UDINE",
+"IT - Italy",
+124
+],
+[
+"SEINAJOKI",
+"FI - Finland",
+124
+],
+[
+"JOENSUU",
+"FI - Finland",
+123
+],
+[
+"AVIOSO SAO PEDRO",
+"PT - Portugal",
+123
+],
+[
+"MONT SAINT AIGNAN CEDEX",
+"FR - France",
+121
+],
+[
+"BODO",
+"NO - Norway",
+120
+],
+[
+"REIMS",
+"FR - France",
+120
+],
+[
+"OXFORD",
+"UK - United Kingdom",
+120
+],
+[
+"LE HAVRE",
+"FR - France",
+120
+],
+[
+"PARDUBICE",
+"CZ - Czechia",
+120
+],
+[
+"BATH",
+"UK - United Kingdom",
+120
+],
+[
+"LAUSANNE",
+"CH - Switzerland",
+119
+],
+[
+"OLSZTYN",
+"PL - Poland",
+119
+],
+[
+"CANTERBURY",
+"UK - United Kingdom",
+119
+],
+[
+"DUBROVNIK",
+"HR - Croatia",
+118
+],
+[
+"URBINO",
+"IT - Italy",
+118
+],
+[
+"AMIENS",
+"FR - France",
+117
+],
+[
+"FUNCHAL",
+"PT - Portugal",
+116
+],
+[
+"VARESE",
+"IT - Italy",
+116
+],
+[
+"HULL",
+"UK - United Kingdom",
+116
+],
+[
+"ZILINA",
+"SK - Slovakia",
+116
+],
+[
+"VOLDA",
+"NO - Norway",
+115
+],
+[
+"ÅRHUS",
+"DK - Denmark",
+114
+],
+[
+"MONT SAINT AIGNAN",
+"FR - France",
+114
+],
+[
+"JERUSALEM",
+"IL - Israel",
+114
+],
+[
+"GRENOBLE CEDEX 1",
+"FR - France",
+113
+],
+[
+"COURBEVOIE",
+"FR - France",
+113
+],
+[
+"WELS",
+"AT - Austria",
+111
+],
+[
+"OSIJEK",
+"HR - Croatia",
+111
+],
+[
+"ST POLTEN",
+"AT - Austria",
+109
+],
+[
+"VIANA DO CASTELO",
+"PT - Portugal",
+109
+],
+[
+"NORWICH",
+"UK - United Kingdom",
+109
+],
+[
+"READING",
+"UK - United Kingdom",
+109
+],
+[
+"TROMSØ",
+"NO - Norway",
+108
+],
+[
+"SAINT-DENIS",
+"FR - France",
+106
+],
+[
+"BRIGHTON",
+"UK - United Kingdom",
+106
+],
+[
+"VECHTA",
+"DE - Germany",
+105
+],
+[
+"SWANSEA",
+"UK - United Kingdom",
+105
+],
+[
+"EURALILLE",
+"FR - France",
+104
+],
+[
+"TÜBINGEN",
+"DE - Germany",
+103
+],
+[
+"ANGERS CEDEX 01",
+"FR - France",
+103
+],
+[
+"ANKARA",
+"TR - Türkiye",
+102
+],
+[
+"HEERLEN",
+"NL - Netherlands",
+102
+],
+[
+"CÓRDOBA",
+"ES - Spain",
+101
+],
+[
+"WIESBADEN",
+"DE - Germany",
+101
+],
+[
+"MAGDEBURG",
+"DE - Germany",
+101
+],
+[
+"PLOVDIV",
+"BG - Bulgaria",
+100
+],
+[
+"SKOVDE",
+"SE - Sweden",
+100
+],
+[
+"CANTERBURY, KENT",
+"UK - United Kingdom",
+99
+],
+[
+"SEOUL",
+"KR - South Korea",
+98
+],
+[
+"RETHIMNO",
+"EL - Greece",
+98
+],
+[
+"TBILISI",
+"GE - Georgia",
+97
+],
+[
+"BRAUNSCHWEIG",
+"DE - Germany",
+96
+],
+[
+"KAISERSLAUTERN",
+"DE - Germany",
+96
+],
+[
+"GOTHENBURG",
+"SE - Sweden",
+96
+],
+[
+"DUNDEE",
+"UK - United Kingdom",
+95
+],
+[
+"SALERNO",
+"IT - Italy",
+95
+],
+[
+"CASTELO BRANCO",
+"PT - Portugal",
+95
+],
+[
+"HUDDINGE",
+"SE - Sweden",
+94
+],
+[
+"KUFSTEIN",
+"AT - Austria",
+94
+],
+[
+"PONTA DELGADA S MIGUEL ACORES",
+"PT - Portugal",
+94
+],
+[
+"RUSE",
+"BG - Bulgaria",
+94
+],
+[
+"MOLDE",
+"NO - Norway",
+93
+],
+[
+"SIBIU",
+"RO - Romania",
+93
+],
+[
+"REYKJAVÍK",
+"IS - Iceland",
+93
+],
+[
+"BORÅS",
+"SE - Sweden",
+92
+],
+[
+"ARCAVACATA DI RENDE",
+"IT - Italy",
+92
+],
+[
+"KOKKOLA",
+"FI - Finland",
+92
+],
+[
+"KREMS",
+"AT - Austria",
+92
+],
+[
+"MONTPELLIER CEDEX 5",
+"FR - France",
+92
+],
+[
+"VILLANUEVA DE GALLEGO ZARAGOZA",
+"ES - Spain",
+91
+],
+[
+"CARLOW",
+"IE - Ireland",
+91
+],
+[
+"EGER",
+"HU - Hungary",
+91
+],
+[
+"VOLOS",
+"EL - Greece",
+90
+],
+[
+"HALLE (SAALE)",
+"DE - Germany",
+89
+],
+[
+"LISBOA, BEIRAS, BRAGA AND PORTO",
+"PT - Portugal",
+89
+],
+[
+"LE MANS",
+"FR - France",
+89
+],
+[
+"VASA",
+"FI - Finland",
+89
+],
+[
+"KOPENHAGEN",
+"DK - Denmark",
+88
+],
+[
+"SAARBRÜCKEN",
+"DE - Germany",
+88
+],
+[
+"CHEMNITZ",
+"DE - Germany",
+87
+],
+[
+"TROLLHATTAN",
+"SE - Sweden",
+87
+],
+[
+"GUARDA",
+"PT - Portugal",
+87
+],
+[
+"BESANCON",
+"FR - France",
+86
+],
+[
+"OSNABRUECK",
+"DE - Germany",
+86
+],
+[
+"NITRA",
+"SK - Slovakia",
+86
+],
+[
+"PLYMOUTH",
+"UK - United Kingdom",
+86
+],
+[
+"HERAKLION",
+"EL - Greece",
+85
+],
+[
+"RISSKOV",
+"DK - Denmark",
+85
+],
+[
+"ASCHAFFENBURG",
+"DE - Germany",
+85
+],
+[
+"SARAJEVO",
+"BA - Bosnia and Herzegovina",
+85
+],
+[
+"KARLSKRONA",
+"SE - Sweden",
+83
+],
+[
+"SENHORA DA HORA",
+"PT - Portugal",
+83
+],
+[
+"MATARO",
+"ES - Spain",
+82
+],
+[
+"KRISTIANSTAD",
+"SE - Sweden",
+82
+],
+[
+"BRAGANÇA",
+"PT - Portugal",
+82
+],
+[
+"COLOGNE",
+"DE - Germany",
+81
+],
+[
+"VILLACH",
+"AT - Austria",
+81
+],
+[
+"LINCOLN",
+"UK - United Kingdom",
+81
+],
+[
+"NANTES CEDEX 1",
+"FR - France",
+81
+],
+[
+"ABERYSTWYTH",
+"UK - United Kingdom",
+81
+],
+[
+"LÓDZ",
+"PL - Poland",
+81
+],
+[
+"GÖDÖLLŐ",
+"HU - Hungary",
+81
+],
+[
+"BREST",
+"FR - France",
+80
+],
+[
+"FLENSBURG",
+"DE - Germany",
+80
+],
+[
+"SLIGO",
+"IE - Ireland",
+80
+],
+[
+"SKOPJE",
+"MK - North Macedonia",
+79
+],
+[
+"TOULOUSE CEDEX 9",
+"FR - France",
+79
+],
+[
+"LEIOA, BILBAO, SAN SEBASTIAN AND VITORIA",
+"ES - Spain",
+79
+],
+[
+"HALDEN",
+"NO - Norway",
+79
+],
+[
+"ANKARA",
+"TR - Turkey",
+79
+],
+[
+"SCHMALKALDEN",
+"DE - Germany",
+78
+],
+[
+"COTTBUS",
+"DE - Germany",
+78
+],
+[
+"MISKOLC",
+"HU - Hungary",
+77
+],
+[
+"BLAGOEVGRAD",
+"BG - Bulgaria",
+77
+],
+[
+"ST MARTIN D'HERES",
+"FR - France",
+77
+],
+[
+"KONIN",
+"PL - Poland",
+77
+],
+[
+"MONTREAL",
+"CA - Canada",
+76
+],
+[
+"LEOBEN",
+"AT - Austria",
+76
+],
+[
+"MALTA",
+"MT - Malta",
+76
+],
+[
+"TERAMO",
+"IT - Italy",
+76
+],
+[
+"SAINT ETIENNE",
+"FR - France",
+75
+],
+[
+"PFORZHEIM",
+"DE - Germany",
+75
+],
+[
+"WÜRZBURG",
+"DE - Germany",
+74
+],
+[
+"DUNDALK",
+"IE - Ireland",
+74
+],
+[
+"MULHOUSE",
+"FR - France",
+74
+],
+[
+"ST ANDREWS",
+"UK - United Kingdom",
+74
+],
+[
+"VELIKO TURNOVO",
+"BG - Bulgaria",
+73
+],
+[
+"SIEGEN",
+"DE - Germany",
+73
+],
+[
+"JOUY-EN-JOSAS",
+"FR - France",
+72
+],
+[
+"TAIDEYLIOPISTO",
+"FI - Finland",
+71
+],
+[
+"NOVI SAD",
+"RS - Serbia",
+71
+],
+[
+"PRAHA 10",
+"CZ - Czechia",
+71
+],
+[
+"CONSTANTA",
+"RO - Romania",
+71
+],
+[
+"VERSAILLES",
+"FR - France",
+71
+],
+[
+"HOYO DE MANZANARES",
+"ES - Spain",
+71
+],
+[
+"WARSAWA",
+"PL - Poland",
+71
+],
+[
+"EICHSTÄTT",
+"DE - Germany",
+71
+],
+[
+"LUNEBURG",
+"DE - Germany",
+71
+],
+[
+"USTI NAD LABEM",
+"CZ - Czechia",
+70
+],
+[
+"AKUREYRI",
+"IS - Iceland",
+70
+],
+[
+"LIMOGES",
+"FR - France",
+70
+],
+[
+"PERPIGNAN",
+"FR - France",
+70
+],
+[
+"OTH",
+"PL - Poland",
+70
+],
+[
+"TIRANA",
+"AL - Albania",
+70
+],
+[
+"WARSZAW",
+"PL - Poland",
+69
+],
+[
+"RADOM",
+"PL - Poland",
+69
+],
+[
+"WROCŁAW",
+"PL - Poland",
+69
+],
+[
+"GIF SUR YVETTE",
+"FR - France",
+68
+],
+[
+"ULM",
+"DE - Germany",
+68
+],
+[
+"NEWCASTLE-UPON-TYNE",
+"UK - United Kingdom",
+68
+],
+[
+"COLERAINE",
+"UK - United Kingdom",
+68
+],
+[
+"GAVLE",
+"SE - Sweden",
+67
+],
+[
+"YORK",
+"UK - United Kingdom",
+67
+],
+[
+"KEELE",
+"UK - United Kingdom",
+67
+],
+[
+"LULEÅ",
+"SE - Sweden",
+66
+],
+[
+"CRAIOVA",
+"RO - Romania",
+66
+],
+[
+"FLORENCIA",
+"IT - Italy",
+66
+],
+[
+"DEGGENDORF",
+"DE - Germany",
+65
+],
+[
+"CASSINO",
+"IT - Italy",
+65
+],
+[
+"SZEKESFEHERVAR",
+"HU - Hungary",
+65
+],
+[
+"TOKYO",
+"JP - Japan",
+64
+],
+[
+"DIJON CEDEX",
+"FR - France",
+64
+],
+[
+"SANTAREM",
+"PT - Portugal",
+64
+],
+[
+"ORLEANS CEDEX 2",
+"FR - France",
+64
+],
+[
+"BILKENT ANKARA",
+"TR - Türkiye",
+64
+],
+[
+"BUCUREŞTI",
+"RO - Romania",
+64
+],
+[
+"BEOGRAD",
+"RS - Serbia",
+63
+],
+[
+"WORMS",
+"DE - Germany",
+63
+],
+[
+"IOANNINA",
+"EL - Greece",
+63
+],
+[
+"LA LAGUNA",
+"ES - Spain",
+63
+],
+[
+"EVRY",
+"FR - France",
+63
+],
+[
+"NYSA",
+"PL - Poland",
+63
+],
+[
+"OTH",
+"IT - Italy",
+63
+],
+[
+"JÖNKÖPING",
+"SE - Sweden",
+62
+],
+[
+"SAINT DENIS DE LA REUNION CEDEX 9",
+"FR - France",
+62
+],
+[
+"TATABANYA",
+"HU - Hungary",
+62
+],
+[
+"HAMEENLINNA",
+"FI - Finland",
+62
+],
+[
+"PITESTI",
+"RO - Romania",
+62
+],
+[
+"SERAING",
+"BE - Belgium",
+62
+],
+[
+"PULA",
+"HR - Croatia",
+61
+],
+[
+"LAHTI",
+"FI - Finland",
+61
+],
+[
+"QUÉBEC",
+"CA - Canada",
+61
+],
+[
+"MAYNOOTH, CO. KILDARE.",
+"IE - Ireland",
+61
+],
+[
+"KUCUKCEKMECE ISTANBUL",
+"TR - Türkiye",
+61
+]
+]

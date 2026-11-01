@@ -1,0 +1,144 @@
+respuesta;alias;nivel;orden_a_mano
+corazón;;1;1000000000
+pulmón;pulmones;1;999999999
+hígado;;1;999999998
+riñón;riñones;1;999999997
+cerebro;;1;999999996
+estómago;;1;999999995
+piel;;1;999999994
+intestino;intestinos|tripas;1;999999993
+páncreas;;1;999999992
+bazo;;1;999999991
+vejiga;;1;999999990
+ojo;ojos;1;999999989
+intestino delgado;;1;999999988
+intestino grueso;colon;1;999999987
+útero;matriz;2;1000000000
+ovario;ovarios;2;999999999
+testículo;testículos;2;999999998
+próstata;;2;999999997
+vesícula;vesícula biliar;2;999999996
+apéndice;;2;999999995
+tiroides;;2;999999994
+esófago;;2;999999993
+laringe;;2;999999992
+faringe;;2;999999991
+tráquea;;2;999999990
+lengua;;2;999999989
+oído;oídos;2;999999988
+nariz;;2;999999987
+pene;;2;999999986
+vagina;;2;999999985
+recto;;2;999999984
+ano;;2;999999983
+duodeno;;2;999999982
+cerebelo;;2;999999981
+médula espinal;médula;2;999999980
+médula ósea;;2;999999979
+timo;;2;999999977
+glándula;glándulas;2;999999976
+glándulas suprarrenales;suprarrenales;2;999999975
+hipófisis;pituitaria;2;999999974
+mama;mamas|pecho;2;999999973
+placenta;;2;999999972
+bronquios;;2;999999971
+diafragma;;2;999999970
+músculos;;2;999999969
+huesos;esqueleto;2;999999968
+sangre;;2;999999967
+hipotálamo;;3;1000000000
+tálamo;;3;999999999
+tronco encefálico;;3;999999998
+bulbo raquídeo;;3;999999997
+glándula pineal;epífisis;3;999999996
+paratiroides;;3;999999995
+amígdalas;;3;999999994
+ganglios linfáticos;ganglios;3;999999993
+trompas de Falopio;trompas;3;999999992
+uréter;uréteres;3;999999991
+uretra;;3;999999990
+epidídimo;;3;999999989
+vesículas seminales;;3;999999988
+conducto deferente;;3;999999987
+clítoris;;3;999999986
+vulva;;3;999999985
+cérvix;cuello del útero;3;999999984
+íleon;;3;999999983
+yeyuno;;3;999999982
+ciego;;3;999999981
+sigma;;3;999999980
+epiglotis;;3;999999979
+cuerdas vocales;;3;999999978
+alvéolos;;3;999999977
+pleura;;3;999999976
+peritoneo;;3;999999975
+pericardio;;3;999999974
+meninges;;3;999999973
+retina;;3;999999972
+córnea;;3;999999971
+cristalino;;3;999999970
+iris;;3;999999969
+tímpano;;3;999999968
+cóclea;caracol;3;999999967
+vestíbulo;;3;999999966
+glándulas salivales;;3;999999965
+parótida;;3;999999964
+glándulas sudoríparas;;3;999999963
+glándulas sebáceas;;3;999999962
+folículo;;3;999999961
+hipodermis;;3;999999960
+dermis;;3;999999959
+epidermis;;3;999999958
+mesenterio;;3;999999957
+glándula de Bartolino;;4;1000000000
+glándulas de Skene;;4;999999999
+próstata femenina;;4;999999998
+glándula de Cowper;glándulas bulbouretrales;4;999999997
+glándula lagrimal;;4;999999996
+conducto lagrimal;;4;999999995
+órgano vomeronasal;;4;999999994
+glándulas de Meibomio;;4;999999993
+cuerpo calloso;;4;999999992
+hipocampo;;4;999999991
+amígdala cerebral;;4;999999990
+ganglios basales;;4;999999989
+sustancia negra;;4;999999988
+estriado;;4;999999987
+plexo coroideo;;4;999999986
+islotes de Langerhans;;4;999999985
+epiplón;;4;999999984
+intersticio;;4;999999983
+fascia;;4;999999982
+ligamentos;;4;999999981
+tendones;;4;999999980
+cartílago;;4;999999979
+nervio;nervios;4;999999978
+vasos sanguíneos;;4;999999977
+arterias;;4;999999976
+venas;;4;999999975
+linfa;;4;999999974
+sistema linfático;;4;999999973
+glándulas mamarias;;4;999999972
+tejido adiposo;;4;999999971
+uvea;;4;999999970
+coroides;;4;999999969
+esclerótica;;4;999999968
+conjuntiva;;4;999999967
+mácula;;4;999999966
+nervio óptico;;4;999999965
+órgano de Corti;;4;999999964
+glomo carotídeo;;5;1000000000
+cuerpo aórtico;;5;999999999
+órgano subfornical;;5;999999998
+área postrema;;5;999999997
+cuerpo lúteo;;5;999999996
+cuerpo albicans;;5;999999995
+glándula de Brunner;;5;999999994
+placas de Peyer;;5;999999993
+ampolla de Vater;;5;999999992
+esfínter de Oddi;;5;999999991
+conducto de Wirsung;;5;999999990
+conducto de Stenon;;5;999999989
+conducto de Wharton;;5;999999988
+glándulas de Lieberkühn;;5;999999987
+órgano de Zuckerkandl;;5;999999986

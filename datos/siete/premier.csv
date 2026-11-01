@@ -1,0 +1,52 @@
+respuesta;alias;nivel;orden_a_mano
+Manchester United;Man United|Man Utd|United|Manchester Utd;1;1000000000
+Manchester City;Man City|City;1;999999999
+Liverpool;;1;999999998
+Chelsea;;1;999999997
+Arsenal;;1;999999996
+Tottenham Hotspur;Tottenham|Spurs;1;999999995
+Newcastle United;Newcastle;2;1000000000
+Aston Villa;Villa;2;999999999
+West Ham United;West Ham;2;999999998
+Everton;;2;999999997
+Leicester City;Leicester;2;999999996
+Brighton & Hove Albion;Brighton|Brighton and Hove Albion;2;999999995
+Wolverhampton Wanderers;Wolverhampton|Wolves;2;999999994
+Crystal Palace;Palace;2;999999993
+Fulham;;2;999999992
+Nottingham Forest;Forest|Nottingham;2;999999991
+AFC Bournemouth;Bournemouth;2;999999990
+Brentford;;2;999999989
+Southampton;;2;999999988
+Leeds United;Leeds;2;999999987
+Burnley;;3;1000000000
+Sunderland;;3;999999999
+Watford;;3;999999998
+Norwich City;Norwich;3;999999997
+West Bromwich Albion;West Brom|West Bromwich;3;999999996
+Stoke City;Stoke;3;999999995
+Swansea City;Swansea;3;999999994
+Middlesbrough;;3;999999993
+Sheffield United;;3;999999992
+Ipswich Town;Ipswich;3;999999991
+Luton Town;Luton;3;999999990
+Blackburn Rovers;Blackburn;3;999999989
+Bolton Wanderers;Bolton;3;999999988
+Wigan Athletic;Wigan;3;999999987
+Hull City;Hull;3;999999986
+Cardiff City;Cardiff;3;999999985
+Queens Park Rangers;QPR;3;999999984
+Reading;;3;999999983
+Portsmouth;;3;999999982
+Birmingham City;Birmingham;3;999999981
+Derby County;Derby;3;999999980
+Huddersfield Town;Huddersfield;4;1000000000
+Charlton Athletic;Charlton;4;999999999
+Sheffield Wednesday;;4;999999998
+Coventry City;Coventry;4;999999997
+Wimbledon;Wimbledon FC;4;999999996
+Blackpool;;4;999999995
+Bradford City;Bradford;4;999999994
+Barnsley;;4;999999993
+Oldham Athletic;Oldham;5;1000000000
+Swindon Town;Swindon;5;999999999

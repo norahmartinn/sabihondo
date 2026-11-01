@@ -1,0 +1,294 @@
+respuesta;alias;nivel;orden_a_mano
+volante;;1;1000000000
+rueda;ruedas|neumático|neumáticos|llanta|llantas;1;999999999
+motor;;1;999999998
+freno;frenos;1;999999997
+embrague;;1;999999996
+acelerador;;1;999999995
+marchas;caja de cambios|palanca de cambios|cambio;1;999999994
+maletero;;1;999999993
+capó;;1;999999992
+puerta;puertas;1;999999991
+asiento;asientos;1;999999990
+cinturón;cinturón de seguridad;1;999999989
+retrovisor;espejo retrovisor|retrovisores|espejos;1;999999988
+faros;luces|faro;1;999999987
+parabrisas;luna;1;999999986
+limpiaparabrisas;limpias;1;999999985
+intermitente;intermitentes;1;999999984
+claxon;bocina|pito;1;999999983
+depósito;depósito de gasolina|tanque;1;999999982
+guantera;;1;999999981
+techo;;1;999999980
+parachoques;paragolpes;1;999999979
+matrícula;;1;999999978
+airbag;;1;999999977
+batería;;1;999999976
+radio;;1;999999975
+salpicadero;tablero;1;999999974
+ventanilla;ventanillas|cristales;1;999999973
+tubo de escape;escape;1;999999972
+freno de mano;;2;1000000000
+aire acondicionado;climatizador;2;999999999
+calefacción;;2;999999998
+cuentakilómetros;velocímetro|cuentarrevoluciones;2;999999997
+palanca;;2;999999996
+pedales;;2;999999995
+embellecedores;tapacubos;2;999999994
+rueda de repuesto;rueda de recambio|gato;2;999999993
+chasis;;2;999999992
+carrocería;;2;999999991
+aleta;aletas;2;999999990
+techo solar;;2;999999989
+antena;;2;999999988
+portón;;2;999999987
+luna trasera;;2;999999986
+luz de freno;;2;999999985
+luces largas;largas;2;999999984
+luces cortas;cortas|luz de cruce;2;999999983
+antinieblas;;2;999999982
+faros traseros;pilotos;2;999999981
+GPS;navegador;2;999999980
+pantalla;;2;999999979
+mechero;;2;999999978
+guardabarros;;2;999999977
+cerradura;;2;999999976
+llave;llaves;2;999999975
+radiador;;2;999999974
+alternador;;2;999999973
+bujías;bujía;2;999999972
+aceite;;2;999999971
+filtro de aire;;2;999999970
+filtro de aceite;;2;999999969
+amortiguadores;amortiguador;2;999999968
+suspensión;;2;999999967
+ejes;eje;2;999999966
+diferencial;;2;999999965
+transmisión;;2;999999964
+correa de distribución;distribución;2;999999963
+carburador;;2;999999962
+inyectores;inyección;2;999999961
+turbo;;2;999999960
+cilindros;pistones;2;999999959
+culata;;2;999999958
+cárter;;2;999999957
+bomba de agua;;2;999999956
+pastillas de freno;pastillas;2;999999955
+discos de freno;discos;2;999999954
+tambor;;2;999999953
+líquido de frenos;;2;999999952
+dirección;dirección asistida;2;999999951
+cojinetes;;2;999999950
+rodamientos;;2;999999949
+silenciador;;2;999999948
+catalizador;;2;999999947
+filtro de partículas;;2;999999946
+sensor de aparcamiento;sensores;2;999999945
+cámara trasera;cámara de marcha atrás;2;999999944
+control de crucero;;2;999999943
+ABS;;2;999999942
+ESP;;2;999999941
+sillita;Isofix;2;999999940
+reposacabezas;;2;999999939
+apoyabrazos;;2;999999938
+posavasos;;2;999999937
+alfombrillas;;2;999999936
+parasol;;2;999999935
+luz interior;;2;999999934
+enchufe;toma de 12 voltios;2;999999933
+puerto USB;;2;999999932
+cuadro de mandos;;2;999999931
+centralita;;2;999999930
+baca;portaequipajes|barras de techo;2;999999929
+enganche;bola de remolque;2;999999928
+triángulos;;2;999999927
+chaleco reflectante;;2;999999926
+extintor;;2;999999925
+bandeja trasera;;2;999999924
+rejilla;calandra|parrilla;2;999999922
+árbol de levas;;3;1000000000
+cigüeñal;;3;999999999
+biela;bielas;3;999999998
+válvulas;;3;999999997
+junta de culata;;3;999999996
+colector de admisión;;3;999999995
+colector de escape;;3;999999994
+bomba de combustible;;3;999999993
+bomba de gasolina;;3;999999992
+termostato;;3;999999991
+ventilador;;3;999999990
+manguitos;;3;999999989
+vaso de expansión;;3;999999988
+motor de arranque;arranque;3;999999987
+dinamo;;3;999999986
+regulador;;3;999999985
+fusibles;caja de fusibles;3;999999984
+relés;;3;999999983
+cableado;;3;999999982
+bobina de encendido;;3;999999981
+delco;;3;999999980
+platinos;;3;999999979
+distribuidor;;3;999999978
+volante motor;;3;999999977
+disco de embrague;;3;999999976
+plato de presión;;3;999999975
+collarín;;3;999999974
+bombín de embrague;;3;999999973
+servofreno;;3;999999972
+pinza de freno;;3;999999971
+latiguillos;;3;999999970
+bomba de freno;;3;999999969
+palier;palieres;3;999999968
+homocinética;junta homocinética;3;999999967
+trapecio;;3;999999966
+mangueta;;3;999999965
+rótula;;3;999999964
+barra estabilizadora;;3;999999963
+silentblocks;;3;999999962
+muelles;ballestas;3;999999961
+copelas;;3;999999960
+buje;;3;999999959
+tuercas;;3;999999958
+tornillos de rueda;;3;999999957
+válvula de neumático;;3;999999956
+cremallera de dirección;;3;999999955
+columna de dirección;;3;999999954
+intercooler;;3;999999953
+caudalímetro;;3;999999952
+sonda lambda;;3;999999951
+válvula EGR;EGR;3;999999950
+AdBlue;;3;999999949
+depósito de AdBlue;;3;999999948
+calentadores;;3;999999947
+inyector diésel;;3;999999946
+bomba inyectora;;3;999999945
+common rail;;3;999999944
+cárter de aceite;;3;999999943
+bayoneta;varilla del aceite;3;999999942
+tapón del aceite;;3;999999941
+depósito del limpiaparabrisas;;3;999999940
+escobillas;;3;999999939
+montante;;3;999999938
+pilar A;;3;999999937
+pilar B;;3;999999936
+umbral;estribo;3;999999935
+bisagras;;3;999999934
+maneta;manetas|tirador;3;999999933
+elevalunas;;3;999999932
+cierre centralizado;;3;999999931
+mando a distancia;;3;999999930
+inmovilizador;;3;999999929
+alarma;;3;999999928
+bloqueo de dirección;;3;999999927
+tapón de gasolina;;3;999999926
+boca de llenado;;3;999999925
+paso de rueda;;3;999999924
+faldón;;3;999999923
+spoiler;alerón;3;999999922
+difusor;;3;999999921
+splitter;;3;999999920
+faldones laterales;;3;999999919
+techo panorámico;;3;999999918
+techo corredizo;;3;999999917
+capota;;3;999999916
+maletero delantero;;3;999999915
+pantalla táctil;;3;999999914
+head-up display;;3;999999913
+volante multifunción;;3;999999912
+levas;;3;999999911
+start-stop;;3;999999910
+freno de mano eléctrico;;3;999999909
+asientos calefactables;;3;999999908
+cristales tintados;;3;999999907
+luz de matrícula;;3;999999906
+cárter seco;;4;1000000000
+volante bimasa;;4;999999999
+embrague pilotado;;4;999999998
+caja automática;;4;999999997
+caja DSG;;4;999999996
+convertidor de par;;4;999999995
+caja reductora;;4;999999994
+toma de fuerza;;4;999999993
+cardán;árbol de transmisión;4;999999992
+grupo cónico;;4;999999991
+autoblocante;;4;999999990
+reductora;;4;999999989
+palier trasero;;4;999999988
+puente trasero;;4;999999987
+eje rígido;;4;999999986
+McPherson;;4;999999985
+paralelogramo deformable;;4;999999984
+multibrazo;;4;999999983
+barra Panhard;;4;999999982
+brazo de suspensión;;4;999999981
+tirante;;4;999999980
+amortiguador de dirección;;4;999999979
+servodirección;;4;999999978
+bomba de dirección;;4;999999977
+dirección electrohidráulica;;4;999999976
+cremallera;;4;999999975
+piñón;;4;999999974
+cadena de distribución;;4;999999973
+tensor;;4;999999972
+rodillo tensor;;4;999999971
+polea;;4;999999970
+correa auxiliar;;4;999999969
+compresor del aire acondicionado;;4;999999968
+evaporador;;4;999999967
+condensador;;4;999999966
+filtro de habitáculo;;4;999999965
+filtro antipolen;;4;999999964
+resistencia del ventilador;;4;999999963
+motor del limpia;;4;999999962
+varillaje;;4;999999961
+depresor;;4;999999960
+bomba de vacío;;4;999999959
+turbocompresor de geometría variable;;4;999999958
+wastegate;;4;999999957
+válvula de descarga;;4;999999956
+sensor MAP;;4;999999955
+sensor de detonación;;4;999999954
+sensor del cigüeñal;;4;999999953
+sensor del árbol de levas;;4;999999952
+sonda de temperatura;;4;999999951
+centralita del motor;;4;999999950
+módulo ABS;;4;999999949
+bus CAN;;4;999999948
+toma OBD;;4;999999947
+testigo;;4;999999946
+chivato;;4;999999945
+cuentavueltas;;4;999999944
+reloj del aceite;;4;999999943
+manómetro;;4;999999942
+salpicadero digital;;4;999999941
+catadióptrico;;4;999999940
+tercera luz de freno;;4;999999939
+volante de inercia;;5;1000000000
+embrague centrífugo;;5;999999999
+junta cardán;;5;999999998
+semieje;;5;999999997
+tulipa;;5;999999996
+trípode;;5;999999995
+crapodina;;5;999999994
+punterías;;5;999999993
+balancines;;5;999999992
+taqués;;5;999999991
+seguidores de leva;;5;999999990
+segmentos;;5;999999989
+camisas;;5;999999988
+bancada;;5;999999987
+cojinetes de bancada;;5;999999986
+casquillos de biela;;5;999999985
+bulón;;5;999999984
+pistón forjado;;5;999999983
+colector de pulsos;;5;999999982
+resonador;;5;999999981
+chupador;;5;999999980
+vaso de carburador;;5;999999979
+starter;;5;999999978
+estárter;;5;999999977
+mariposa;;5;999999976
+chiclé;;5;999999975
+flotador;;5;999999974
+purgador;;5;999999973
+lambda de banda ancha;;5;999999972
