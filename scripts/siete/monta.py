@@ -205,6 +205,12 @@ PREGUNTAS = [
     ("Nombra algo que te llevas de camping", "camping"),
     ("Nombra un personaje de Cars", "cars"),
     ("Nombra una película con Zendaya", "zendaya"),
+    # tanda 6: semana del 2 al 8 de noviembre
+    ("Nombra a alguien con más de 10 millones de seguidores en Instagram", "instagram_10m"),
+    ("Nombra uno de los 1.000 nombres más comunes del mundo", "nombres_mundo"),
+    ("Nombra una de las 100 mejores empresas para trabajar en España en 2026, según Forbes", "forbes_empresas"),
+    ("Nombra una de las 250 series mejor puntuadas en IMDb", "series_imdb"),
+    ("Nombra una de las 500 películas mejor valoradas en Letterboxd", "letterboxd"),
 ]
 
 # Desde el 31 de octubre de 2026 los niveles son más generosos: la gente veía casi imposible llegar a Muy raro y Sabihondo.
@@ -213,6 +219,8 @@ PREGUNTAS = [
 GENEROSO = "2026-10-31"
 with open(RAIZ / "datos" / "calendario.csv", encoding="utf-8") as f:
     antes = {x.strip() for fila in csv.reader(f, delimiter=";") if fila and fila[0][:1].isdigit() and fila[0] < GENEROSO for x in fila[1:]}
+# las que llevan los niveles que puso Norah a mano se quedan como están
+SIN_GENEROSO = {"instagram_10m", "nombres_mundo", "forbes_empresas", "series_imdb", "letterboxd"}
 def generoso(niveles):
     for t in (3, 2, 1):   # de arriba abajo, para que nada suba dos veces
         mitad = (len(niveles[t]) + 1) // 2
@@ -234,7 +242,7 @@ for i, (q, slug) in enumerate(PREGUNTAS):
             if not claves: continue
             r = fila["respuesta"]
             niveles[int(fila["nivel"]) - 1].append(r if claves == [clave(r)] else [r, claves])
-    if slug not in antes: niveles = generoso(niveles)
+    if slug not in antes and slug not in SIN_GENEROSO: niveles = generoso(niveles)
     n = sum(map(len, niveles))
     (banco / f"{i:02d}.json").write_text(json.dumps({"q": q, "t": niveles}, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
     indice.append({"q": q, "n": n})
