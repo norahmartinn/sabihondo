@@ -1425,9 +1425,11 @@ const TOP_SEMANA = {fecha:"2026-10-26", desde:"2026-10-19", hasta:"2026-10-25", 
   {q:"Nombra un personaje de The Big Bang Theory", r:"ya estamos con series", de:"Adrián"}
 ]};
 // pendiente = esta semana aún no le ha salido (se marca como vista en cuanto se abre, sola o con el botón)
-const topPendiente = () => { const h = hoyMadrid(), [Y,M,D] = TOP_SEMANA.fecha.split("-").map(Number);
+// en semana = del lunes del top al domingo; fuera de esos días ni sale solo ni hay botón
+const topEnSemana = () => { const h = hoyMadrid(), [Y,M,D] = TOP_SEMANA.fecha.split("-").map(Number);
   const fin = new Date(Date.UTC(Y, M-1, D) + 6*864e5).toISOString().slice(0,10);
-  return h >= TOP_SEMANA.fecha && h <= fin && !guarda.get("top:"+TOP_SEMANA.fecha, false); };
+  return h >= TOP_SEMANA.fecha && h <= fin; };
+const topPendiente = () => topEnSemana() && !guarda.get("top:"+TOP_SEMANA.fecha, false);
 const MESES = ["enero","febrero","marzo","abril","mayo","junio","julio","agosto","septiembre","octubre","noviembre","diciembre"];
 function diasTop(){
   const [, m1, d1] = TOP_SEMANA.desde.split("-").map(Number), [, m2, d2] = TOP_SEMANA.hasta.split("-").map(Number);
@@ -2004,7 +2006,7 @@ async function ranking(vista = "hoy"){
         <button type="button" role="tab" id="bPodioHoy" aria-selected="${!semana}">Hoy</button>
         <button type="button" role="tab" id="bPodioSemana" aria-selected="${semana}">Podio semanal</button>
       </div>` : ``}
-      ${hoyMadrid() >= TOP_SEMANA.fecha || location.hash === "#podio-semanal" ? `<button class="btn fantasma ver-top" id="bVerTop">Ver las mejores respuestas de la semana</button>` : ``}
+      ${topEnSemana() || location.hash === "#podio-semanal" ? `<button class="btn fantasma ver-top" id="bVerTop">Ver las mejores respuestas de la semana</button>` : ``}
       ${cuerpo}
       <div class="botonera"><button class="btn" id="bCerrar">Volver</button>
         ${Cuenta.user ? "" : `<button class="btn fantasma" id="bRankCuenta">Crear una cuenta</button>`}</div>
