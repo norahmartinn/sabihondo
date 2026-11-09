@@ -1,0 +1,40 @@
+respuesta;alias;nivel;orden_a_mano
+hablar con el móvil;usar el móvil|móvil|llevar el móvil en la mano|conducir con el móvil|hablar por el móvil|hablar por teléfono;1;1000000000
+conducir borracho;alcohol|dar positivo|dar positivo en alcohol|conducir bebido|beber y conducir;1;999999999
+exceso de velocidad;velocidad|ir rápido|correr|superar el límite de velocidad|multa de velocidad|radar;1;999999998
+no llevar el cinturón;cinturón|sin cinturón;1;999999997
+saltarse un semáforo;semáforo en rojo|pasar un semáforo en rojo|semáforo;1;999999996
+drogas;conducir drogado|dar positivo en drogas;1;999999995
+saltarse un stop;stop|no respetar un stop|no parar en un stop;2;1000000000
+no llevar casco;casco|sin casco;2;999999999
+adelantar mal;adelantamiento indebido|adelantar en línea continua|pisar la línea continua|línea continua;2;999999998
+conducir en sentido contrario;sentido contrario|kamikaze;2;999999997
+no respetar un paso de peatones;paso de peatones|paso de cebra|no dejar pasar a un peatón|atropellar;2;999999996
+no llevar silla para niños;sillita|silla de bebé|sin sistema de retención infantil;2;999999995
+ir pegado al coche de delante;no guardar la distancia de seguridad|distancia de seguridad;2;999999994
+cambio de sentido prohibido;cambio de sentido|dar la vuelta donde no se puede|giro prohibido|media vuelta;2;999999993
+negarse a hacer la prueba de alcohol;negarse a soplar|no soplar;2;999999992
+llevar auriculares;auriculares|cascos de música;2;999999991
+carreras ilegales;hacer carreras|carreras|piques;2;999999990
+detector de radares;llevar un detector de radares|inhibidor de radares|inhibidor;2;999999989
+conducción temeraria;temeraria|conducir de forma temeraria;3;1000000000
+conducción negligente;negligente;3;999999999
+usar el GPS mientras conduces;GPS|navegador|manipular el navegador|tocar la pantalla del coche;3;999999998
+no respetar la prioridad;ceder el paso|no ceder el paso|saltarse un ceda el paso|ceda el paso;3;999999997
+dar marcha atrás en autovía;marcha atrás en autopista|marcha atrás en autovía|marcha atrás;3;999999996
+adelantar en curva;adelantar sin visibilidad|adelantar en un cambio de rasante;3;999999995
+tirar objetos a la carretera;tirar una colilla|tirar colillas|tirar basura por la ventanilla;3;999999994
+parar en una curva;estacionar en una curva|parar en un túnel|detenerse en un túnel|parar en un cambio de rasante;3;999999993
+conducir de noche sin luces;sin luces|no encender las luces;3;999999992
+no respetar las señales de un agente;no obedecer a un agente|saltarse a un guardia|no parar ante la Policía|huir de la Policía;3;999999991
+llevar a un niño en el asiento de delante;niño delante;3;999999990
+conducir con un menor sin casco;;3;999999989
+incumplir el tiempo de descanso;conducir más horas de las permitidas|exceso de horas de conducción;4;1000000000
+manipular el tacógrafo;tacógrafo;4;999999999
+adelantar a un ciclista sin dejar metro y medio;no dejar metro y medio a un ciclista|adelantar a un ciclista sin dejar espacio|poner en peligro a un ciclista|ciclista|ciclistas;4;999999998
+invadir el sentido contrario;invadir el carril contrario;4;999999997
+entrar en una calle en dirección prohibida;dirección prohibida;4;999999996
+llevar el casco sin abrochar;casco desabrochado;4;999999995
+llevar a un pasajero sin cinturón;;4;999999994
+superar la tasa de alcohol de novel;;4;999999993
+superar en 30 km/h el límite;;4;999999992

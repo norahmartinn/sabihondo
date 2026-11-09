@@ -255,6 +255,13 @@ PREGUNTAS = [
     ("Nombra un país con menos de 500.000 habitantes", "paises_500k"),
     ("Nombra una enfermedad genética", "enfermedades_geneticas"),
     ("Nombra un alimento que tenga un color diferente por dentro y por fuera", "alimentos_color"),
+    ("Nombra un personaje de Los Simpson", "simpsons"),
+    ("Nombra un objeto que esté prohibido en el equipaje de mano de un avión", "equipaje_mano"),
+    ("Nombra un parque nacional de España", "parques_nacionales"),
+    ("Nombra un modelo de zapatillas Nike", "nike_modelos"),
+    ("Nombra una tarta", "tartas"),
+    ("Nombra una infracción que quita puntos del carnet", "infracciones_puntos"),
+    ("Nombra una de las 100 películas más taquilleras de la historia", "taquilleras"),
 ]
 
 # Desde el 31 de octubre de 2026 los niveles son más generosos: la gente veía casi imposible llegar a Muy raro y Sabihondo.
