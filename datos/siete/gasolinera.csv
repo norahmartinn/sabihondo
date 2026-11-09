@@ -1,0 +1,115 @@
+respuesta;alias;nivel;orden_a_mano
+surtidor;surtidores;1;1000000000
+gasolina;gasolina 95|gasolina 98|sin plomo;1;999999999
+diésel;gasóleo|gasoil;1;999999998
+manguera;mangueras;1;999999997
+tienda;tiendita;1;999999996
+caja;el cajero|cajera|dependiente|el que cobra;1;999999995
+aire;aire para las ruedas;1;999999994
+agua;;1;999999993
+lavadero;túnel de lavado|lavacoches|autolavado|lavado de coches;1;999999992
+compresor;compresor de aire|el compresor de las ruedas|máquina del aire|inflador;2;1000000000
+aspirador;aspiradora|aspirador del coche;2;999999999
+baño;servicio|aseo|lavabo|WC;2;999999998
+boxes;pistola de lavado|lavado a presión;2;999999997
+coches;coche;2;999999996
+camiones;camión;2;999999995
+marquesina;tejadillo;2;999999994
+cartel de precios;precios|panel de precios;2;999999993
+chucherías;chuches|gominolas;2;999999992
+snacks;patatas|bolsas de patatas;2;999999991
+bebidas;refrescos|agua embotellada;2;999999990
+sándwiches;bocadillos;2;999999989
+café;máquina de café;2;999999988
+periódicos;revistas;2;999999987
+hielo;bolsas de hielo;2;999999986
+bombonas de butano;butano|bombona;2;999999985
+aceite de motor;aceite;2;999999984
+líquido limpiaparabrisas;limpiaparabrisas;2;999999983
+papel para limpiarse las manos;papel|guantes|guantes de plástico;2;999999982
+cubo de basura;papelera;2;999999981
+cámaras;cámaras de seguridad;2;999999980
+extintor;extintores;2;999999979
+tarjetas;TPV|datáfono;2;999999978
+cargador eléctrico;punto de recarga|cargadores para coches eléctricos|electrolinera;2;999999977
+AdBlue;;2;999999976
+anticongelante;;3;1000000000
+mapas;mapas de carreteras;3;999999999
+gafas de sol;;3;999999998
+CDs de música;cedés;3;999999997
+juguetes;;3;999999996
+pilas;;3;999999995
+cargadores de móvil;cables;3;999999994
+flores;ramos de flores;3;999999993
+lotería;quiniela;3;999999992
+tabaco;máquina de tabaco|cigarrillos;3;999999991
+cartel de no fumar;prohibido fumar;3;999999990
+señal de apagar el motor;prohibido usar el móvil;3;999999989
+rasqueta del hielo;rasqueta;3;999999988
+ambientador;ambientadores|Arbre Magique|pino;3;999999987
+carbón;leña;3;999999986
+cubetas de agua;regadera;3;999999985
+depósito;depósitos subterráneos;3;999999984
+isla;isla de surtidores;3;999999983
+bayeta;esponja|escobilla para los cristales|limpiacristales;3;999999982
+tarjeta de fidelización;tarjeta de puntos|Club Repsol;3;999999981
+cola;colas;3;999999980
+ladrones;atracos;3;999999979
+perros;;3;999999978
+camioneros;transportistas;3;999999977
+gente comiendo bocadillos;;3;999999976
+mesas;;3;999999975
+máquina expendedora;máquinas expendedoras;3;999999974
+cajero automático;;3;999999973
+buzón de correos;;3;999999972
+paquetería;punto de recogida;3;999999971
+chicles;;3;999999970
+preservativos;condones;3;999999969
+aspirina;paracetamol;3;999999968
+cadenas de nieve;cadenas;3;999999967
+triángulos de emergencia;chaleco reflectante;3;999999966
+escobillas;bombillas de coche;3;999999965
+café de máquina;;3;999999964
+hot dogs;perritos calientes;3;999999963
+bocata;;3;999999962
+cruasanes;bollería;3;999999961
+bollos;Donuts;3;999999960
+revistas porno;;3;999999959
+ruedas;neumáticos;3;999999958
+gato hidráulico;gato;3;999999957
+logo;letrero|rótulo;3;999999956
+olor a gasolina;olor;3;999999955
+manchas de aceite;;3;999999954
+tapa del depósito;boca de carga;4;1000000000
+contador de litros;pantalla del surtidor;4;999999999
+boquerel;pistola del surtidor|pistola;4;999999998
+tubo de respiradero;;4;999999997
+separador de hidrocarburos;;4;999999996
+rejilla de desagüe;;4;999999995
+arquetas;;4;999999994
+sistema de recuperación de vapores;;4;999999993
+interfono;;4;999999992
+botón de emergencia;seta de emergencia|parada de emergencia;4;999999991
+tanque de GLP;autogas|GLP;4;999999990
+surtidor de gas natural;GNC;4;999999989
+hidrógeno;hidrolinera;4;999999988
+manómetro;;4;999999987
+tarifa de aire;;4;999999986
+vale de lavado;;4;999999985
+ficha de lavado;fichas;4;999999984
+cera;abrillantador;4;999999983
+rodillos;cepillos del túnel;4;999999982
+secador del túnel;;4;999999981
+máquina de cambio;cambio de monedas;4;999999980
+apertura nocturna;ventanilla nocturna;4;999999979
+cajón de arena;arena absorbente;4;999999978
+sepiolita;;4;999999977
+cubo de arena;;4;999999976
+carteles de ofertas;;4;999999975
+cupones de descuento;;4;999999974
+cristal blindado;;4;999999973
+baliza V-16;baliza;4;999999972
+kit de pinchazos;kit antipinchazos;4;999999971
+bidón;bidones|garrafa;4;999999970
+embudo;;4;999999969
+escoba;;4;999999968

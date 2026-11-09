@@ -1,0 +1,95 @@
+respuesta;alias;nivel;orden_a_mano
+vidrio;cristal|una botella de cristal|botellas de cristal|tarro de cristal|bote de cristal|frasco de cristal;1;1000000000
+papel;periódico|papeles|revistas;1;999999999
+cartón;cajas de cartón|una caja de cartón;1;999999998
+comida;restos de comida|orgánico|basura orgánica|cáscaras|peladuras|pieles de fruta;1;999999997
+pilas;una pila|baterías;1;999999996
+juguetes;un juguete|juguete de plástico;2;1000000000
+ropa;una camiseta|zapatos|calzado;2;999999999
+aceite;aceite usado|aceite de cocina;2;999999998
+pañales;un pañal;2;999999997
+medicamentos;medicinas|pastillas;2;999999996
+cepillo de dientes;;2;999999995
+bolígrafos;boli|bolígrafo;2;999999994
+cubo de plástico;un cubo|palangana|barreño;2;999999993
+perchas;una percha;2;999999992
+colillas;una colilla|tabaco;2;999999991
+servilletas;papel de cocina|pañuelos|clínex|kleenex|papel higiénico;2;999999990
+bombillas;una bombilla;2;999999989
+móvil;aparatos electrónicos|electrónica|cargador|cables;2;999999988
+táper;tuppers|tupper;2;999999987
+mascarillas;mascarilla;2;999999986
+vasos de cristal;vaso de cristal|platos|vajilla|un plato;2;999999985
+espejo;;2;999999984
+cerámica;porcelana|una taza;2;999999983
+toallitas;toallitas húmedas;2;999999982
+compresas;tampones;2;999999981
+chicles;un chicle;2;999999980
+tubería;tuberías de PVC|PVC;3;1000000000
+mangueras;una manguera;3;999999999
+sillas de plástico;una silla de plástico|muebles de plástico|mobiliario de jardín;3;999999998
+maquinillas de afeitar;cuchillas|una cuchilla;3;999999997
+mechero;mecheros;3;999999996
+gafas;;3;999999995
+jeringuillas;jeringuilla|agujas;3;999999994
+radiografías;una radiografía;3;999999993
+termómetro;;3;999999992
+CD;cedés|DVD|discos;3;999999991
+cintas de vídeo;casetes|cintas;3;999999990
+carpetas de plástico;carpeta|fundas de plástico|funda;3;999999989
+rotuladores;un rotulador|lápices;3;999999988
+globos;un globo;3;999999987
+tapones de corcho;corcho;3;999999986
+madera;un trozo de madera;3;999999985
+excrementos;caca|caca de perro|arena del gato;3;999999984
+pelo;pelos;3;999999983
+cenizas;ceniza;3;999999982
+polvo de barrer;barreduras;3;999999981
+bolsas de basura llenas;;3;999999980
+electrodomésticos;una tostadora|un secador;3;999999979
+ordenador;portátil;3;999999978
+tablet;;3;999999977
+colchón;;3;999999976
+muebles;un mueble;3;999999975
+escombros;restos de obra;3;999999974
+pintura;botes de pintura;3;999999973
+disolventes;productos tóxicos;3;999999972
+insecticidas;;3;999999971
+bote de pintura;;3;999999970
+tierra;plantas|restos de poda;3;999999969
+cartón de pizza;caja de pizza sucia|caja de pizza;3;999999968
+papel de aluminio sucio;papel de plata sucio;3;999999967
+envases de vidrio;perfumes de cristal|frasco de colonia;3;999999966
+juguetes con pilas;;4;1000000000
+cubos de fregar;fregona|escoba;4;999999999
+cepillo del pelo;peine;4;999999998
+palillos de los oídos;bastoncillos;4;999999997
+hilo dental;;4;999999996
+lentillas;;4;999999995
+biberón;chupete;4;999999994
+guantes de látex;guantes de goma;4;999999993
+preservativos;condón;4;999999992
+gomas del pelo;;4;999999991
+cápsulas de detergente;;4;999999990
+ceras;plastilina;4;999999989
+pinzas de la ropa;;4;999999988
+regla de plástico;;4;999999987
+macetas de plástico;maceta;4;999999986
+tapón de bañera;;4;999999985
+cortinas de ducha;cortina de baño;4;999999984
+sacos de cemento;;4;999999983
+bolsas de rafia;;4;999999982
+pajitas reutilizables;;4;999999981
+botellas de aceite de motor;;4;999999980
+envases de productos peligrosos;;4;999999979
+aerosoles llenos;;4;999999978
+zapatillas de casa;;4;999999977
+cinturón;;4;999999976
+bolsos;un bolso;4;999999975
+paraguas;;4;999999974
+maletas;una maleta;4;999999973
+flotador;colchoneta hinchable;4;999999972
+piscina hinchable;;4;999999971
+neumáticos;ruedas;4;999999970
+bicicleta;;4;999999969
+patinete;;4;999999968

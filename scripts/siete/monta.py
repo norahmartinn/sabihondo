@@ -262,6 +262,14 @@ PREGUNTAS = [
     ("Nombra una tarta", "tartas"),
     ("Nombra una infracción que quita puntos del carnet", "infracciones_puntos"),
     ("Nombra una de las 100 películas más taquilleras de la historia", "taquilleras"),
+    ("Nombra una parte del cuerpo que esté por debajo de la cintura", "cintura"),
+    ("Nombra algo que NO se pueda tirar al contenedor amarillo", "no_amarillo"),
+    ("Nombra un objeto que se utilice para fijar un mueble a la pared", "fijar_mueble"),
+    ("Nombra un festivo de alguna comunidad autónoma", "festivos_ccaa"),
+    ("Nombra un videojuego que haya vendido más de 20 millones de copias", "videojuegos_20m"),
+    ("Nombra una película de Barbie", "barbie_pelis"),
+    ("Nombra una canción de Bruno Mars", "bruno_mars"),
+    ("Nombra algo que hay en una gasolinera", "gasolinera"),
 ]
 
 # Desde el 31 de octubre de 2026 los niveles son más generosos: la gente veía casi imposible llegar a Muy raro y Sabihondo.
@@ -271,7 +279,7 @@ GENEROSO = "2026-10-31"
 with open(RAIZ / "datos" / "calendario.csv", encoding="utf-8") as f:
     antes = {x.strip() for fila in csv.reader(f, delimiter=";") if fila and fila[0][:1].isdigit() and fila[0] < GENEROSO for x in fila[1:]}
 # las que llevan los niveles que puso Norah a mano se quedan como están
-SIN_GENEROSO = {"instagram_10m", "nombres_mundo", "forbes_empresas", "series_imdb", "letterboxd"}
+SIN_GENEROSO = {"instagram_10m", "nombres_mundo", "forbes_empresas", "series_imdb", "letterboxd", "cintura"}
 def generoso(niveles):
     for t in (3, 2, 1):   # de arriba abajo, para que nada suba dos veces
         mitad = (len(niveles[t]) + 1) // 2

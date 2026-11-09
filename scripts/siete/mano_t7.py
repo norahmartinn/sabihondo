@@ -173,3 +173,218 @@ TAQUILLERAS = {
     "La Odisea=The Odyssey, Super Mario Galaxy: La película=Super Mario Galaxy",
  5: "Ne Zha 2, La batalla del lago Changjin=The Battle at Lake Changjin, Wolf Warrior 2",
 }
+
+# ── martes 10 y siguientes ──
+PREGUNTAS.update({
+    "cintura": "Nombra una parte del cuerpo que esté por debajo de la cintura",
+    "no_amarillo": "Nombra algo que NO se pueda tirar al contenedor amarillo",
+    "fijar_mueble": "Nombra un objeto que se utilice para fijar un mueble a la pared",
+    "festivos_ccaa": "Nombra un festivo de alguna comunidad autónoma",
+    "videojuegos_20m": "Nombra un videojuego que haya vendido más de 20 millones de copias",
+    "barbie_pelis": "Nombra una película de Barbie",
+    "bruno_mars": "Nombra una canción de Bruno Mars",
+    "gasolinera": "Nombra algo que hay en una gasolinera",
+})
+MANO.update({
+"no_amarillo": {
+ 1: "vidrio=cristal=una botella de cristal=botella de cristal=botellas de cristal=tarro de cristal=bote de cristal=frasco de cristal, papel=periódico=papeles=revistas, "
+    "cartón=cajas de cartón=una caja de cartón=caja de cartón, comida=restos de comida=orgánico=basura orgánica=cáscaras=peladuras=pieles de fruta, pilas=una pila=baterías",
+ 2: "juguetes=un juguete=juguete de plástico=un juguete de plástico, ropa=una camiseta=zapatos=calzado, aceite=aceite usado=aceite de cocina, pañales=un pañal, "
+    "medicamentos=medicinas=pastillas, cepillo de dientes=un cepillo de dientes, bolígrafos=boli=un boli=bolígrafo, cubo de plástico=un cubo=palangana=barreño, "
+    "perchas=una percha, colillas=una colilla=tabaco, servilletas=papel de cocina=pañuelos=clínex=kleenex=papel higiénico, bombillas=una bombilla, "
+    "móvil=un móvil=aparatos electrónicos=electrónica=cargador=cables, táper=tuppers=tupper=un táper, mascarillas=mascarilla, vasos de cristal=vaso de cristal=platos=vajilla=un plato, "
+    "espejo=un espejo, cerámica=porcelana=una taza, toallitas=toallitas húmedas, compresas=tampones, chicles=un chicle",
+ 3: "tubería=tuberías de PVC=PVC, mangueras=una manguera, sillas de plástico=una silla de plástico=muebles de plástico=mobiliario de jardín, "
+    "maquinillas de afeitar=cuchillas=una cuchilla, mechero=mecheros, gafas=unas gafas, jeringuillas=jeringuilla=agujas, radiografías=una radiografía, "
+    "termómetro=un termómetro, CD=cedés=DVD=discos, cintas de vídeo=casetes=cintas, carpetas de plástico=carpeta=fundas de plástico=funda, "
+    "rotuladores=un rotulador=lápices, globos=un globo, tapones de corcho=corcho, madera=un trozo de madera, excrementos=caca=caca de perro=arena del gato, "
+    "pelo=pelos, cenizas=ceniza, polvo de barrer=barreduras, esponjas de baño=una esponja de baño? no, cápsulas de café? no, bolsas de basura llenas, "
+    "electrodomésticos=una tostadora=un secador, ordenador=portátil, tablet, colchón=un colchón, muebles=un mueble, escombros=restos de obra, "
+    "pintura=botes de pintura, disolventes=productos tóxicos, insecticidas, bote de pintura, tierra=plantas=restos de poda, cartón de pizza=caja de pizza sucia=caja de pizza, "
+    "papel de aluminio sucio=papel de plata sucio, envases de vidrio=perfumes de cristal=frasco de colonia",
+ 4: "juguetes con pilas, cubos de fregar=fregona=una fregona=escoba, cepillo del pelo=peine, palillos de los oídos=bastoncillos, hilo dental, lentillas, "
+    "biberón=chupete=un chupete, guantes de látex=guantes de goma, preservativos=condón, gomas del pelo, cápsulas de detergente, ceras=plastilina, "
+    "pinzas de la ropa, regla de plástico, macetas de plástico=maceta, tapón de bañera, cortinas de ducha=cortina de baño, sacos de cemento, bolsas de rafia, "
+    "pajitas reutilizables, botellas de aceite de motor, envases de productos peligrosos, aerosoles llenos, zapatillas de casa, cinturón, bolsos=un bolso, "
+    "paraguas=un paraguas, maletas=una maleta, flotador=colchoneta hinchable, piscina hinchable, neumáticos=ruedas, bicicleta, patinete, tetrabrik lleno? no",
+},
+"fijar_mueble": {
+ 1: "tornillo=tornillos, taco=tacos=taco de plástico=taco Fischer=Fischer, escuadra=escuadras=escuadra antivuelco, clavo=clavos, taladro=un taladro",
+ 2: "destornillador=atornillador, martillo, anclaje=anclajes=anclaje antivuelco=kit antivuelco=sistema antivuelco=correa antivuelco, alcayata=alcayatas, "
+    "cuerda=cuerdas, cinta de doble cara=cinta adhesiva de doble cara=cinta americana, pegamento=cola=adhesivo, soporte=soportes=soporte de pared, "
+    "bridas=brida, silicona, cáncamo=cáncamos, abrazadera, cadena=cadenita, llave Allen=llave hexagonal",
+ 3: "taco químico=anclaje químico, taco de expansión=tacos de expansión=taco metálico, taco Molly=Molly=taco basculante=taco de pladur=taco para pladur, "
+    "tirafondo=tirafondos, perno=pernos, tuerca=tuercas, arandela=arandelas, placa de unión=placa=pletina, ángulo=angular=ángulo metálico, "
+    "cable de acero=cable, correa=cinta antivuelco, gancho=ganchos, armella=armellas, hembrilla=hembrillas, nivel=nivel de burbuja, broca=brocas, "
+    "atornillador eléctrico, llave inglesa, alicates, metro=cinta métrica, lápiz, No más clavos=Sin clavos=adhesivo de montaje, masilla, Pattex, "
+    "velcro=tiras adhesivas=tiras Command=Command, sargento=sargentos, bisagra=bisagras, riel=raíl=carril, colgador=colgadores, "
+    "herraje=herrajes, perfil en L=perfil",
+ 4: "pasador, remache=remaches, espárrago=varilla roscada, tornillo autorroscante=autorroscante, tornillo de cabeza hexagonal, tacos de nailon, "
+    "taco de nylon, anclaje de cuña, perno de anclaje, taco de golpe, clavo de acero, punta=puntas, grapa=grapas=grapadora, escarpia=escarpias, "
+    "listón=listones=rastrel, tablero, cuña=cuñas, regleta, colgador francés=French cleat, tornillo para madera, tornillo para metal, kit de fijación IKEA, "
+    "cinta de anclaje, cable antivuelco, seguro antivuelco, fijación de seguridad infantil, soporte en U, guía, escuadra reforzada, junta, pasamuros, "
+    "llave de vaso, carraca, buscador de vigas=detector de metales, aspirador de polvo, pistola de clavos",
+},
+"festivos_ccaa": {
+ 1: "Navidad=25 de diciembre, Año Nuevo=1 de enero, Reyes=Día de Reyes=6 de enero=Epifanía, Viernes Santo, Jueves Santo, Semana Santa, "
+    "Día de Andalucía=28 de febrero=28F, Diada=Diada de Cataluña=Diada Nacional de Cataluña=11 de septiembre=Onze de Setembre, San José=19 de marzo, "
+    "Día del Trabajador=1 de mayo=Día del Trabajo, Día de la Hispanidad=12 de octubre=Fiesta Nacional=Hispanidad=El Pilar=Virgen del Pilar, Todos los Santos=1 de noviembre, "
+    "Día de la Constitución=Constitución=6 de diciembre, la Inmaculada=8 de diciembre=Inmaculada Concepción, la Asunción=15 de agosto=Virgen de agosto",
+ 2: "Día de la Comunidad de Madrid=2 de mayo=Dos de Mayo, Sant Joan=San Juan=24 de junio=Noche de San Juan, Lunes de Pascua=Pascua=Lunes de Pascua Florida, "
+    "Santiago Apóstol=Santiago=25 de julio=Día de Galicia=Día Nacional de Galicia, Día de Canarias=30 de mayo, Día de la Comunitat Valenciana=9 de octubre=9 d'Octubre=Día de Valencia, "
+    "San Jorge=Sant Jordi=23 de abril=Día de Aragón, Día de Castilla y León=Villalar=Día de Villalar, Día de Asturias=8 de septiembre=Día de la Santina=Virgen de Covadonga, "
+    "Día de Extremadura=Virgen de Guadalupe, Día de las Illes Balears=Día de Baleares=1 de marzo, San Esteban=Sant Esteve=26 de diciembre, "
+    "Día de las Letras Gallegas=Letras Gallegas=17 de mayo, Día de la Región de Murcia=Día de Murcia=9 de junio, Día de La Rioja=Día de la Rioja, "
+    "Día de Castilla-La Mancha=31 de mayo, Día de Cantabria=Día de las Instituciones de Cantabria=28 de julio, San Francisco Javier=Día de Navarra=3 de diciembre, "
+    "Día de Euskadi=Día del País Vasco=25 de octubre, Corpus Christi=Corpus",
+ 3: "La Bien Aparecida=Virgen de la Bien Aparecida=15 de septiembre, Día de Ceuta=2 de septiembre, Día de Melilla=17 de septiembre, "
+    "Fiesta del Sacrificio=Fiesta del Cordero=Eid al Adha=Aid al Adha=Aid el Kebir, "
+    "San Vicente Ferrer, Nuestra Señora de África=Virgen de África",
+},
+"gasolinera": {
+ 1: "surtidor=surtidores=el surtidor, gasolina=gasolina 95=gasolina 98=sin plomo, diésel=gasóleo=gasoil, manguera=mangueras=la manguera, tienda=la tienda=tiendita, "
+    "caja=el cajero=cajero=cajera=dependiente=el que cobra, aire=aire para las ruedas=el aire, agua, lavadero=túnel de lavado=lavacoches=autolavado=lavado de coches",
+ 2: "compresor=compresor de aire=el compresor de las ruedas=máquina del aire=inflador, aspirador=aspiradora=aspirador del coche, baño=servicio=aseo=lavabo=WC, "
+    "boxes=pistola de lavado=lavado a presión, coches=coche, camiones=camión, marquesina=tejadillo, cartel de precios=precios=panel de precios=el cartel de los precios, "
+    "chucherías=chuches=gominolas, snacks=patatas=bolsas de patatas, bebidas=refrescos=agua embotellada, sándwiches=bocadillos, café=máquina de café, "
+    "periódicos=revistas, hielo=bolsas de hielo, bombonas de butano=butano=bombona, aceite de motor=aceite, líquido limpiaparabrisas=limpiaparabrisas, "
+    "papel para limpiarse las manos=papel=guantes=guantes de plástico, cubo de basura=papelera, cámaras=cámaras de seguridad, extintor=extintores, "
+    "tarjetas=TPV=datáfono, cargador eléctrico=punto de recarga=cargadores para coches eléctricos=electrolinera, AdBlue",
+ 3: "anticongelante, mapas=mapas de carreteras, gafas de sol, CDs de música=cedés, juguetes, pilas, cargadores de móvil=cables, flores=ramos de flores, "
+    "lotería=quiniela, tabaco=máquina de tabaco=cigarrillos, cartel de no fumar=prohibido fumar, señal de apagar el motor=prohibido usar el móvil, "
+    "rasqueta del hielo=rasqueta, ambientador=ambientadores=Arbre Magique=pino, carbón=leña, cubetas de agua=regadera, depósito=depósitos subterráneos, "
+    "isla=isla de surtidores, bayeta=esponja=escobilla para los cristales=limpiacristales, tarjeta de fidelización=tarjeta de puntos=Club Repsol, "
+    "cola=colas, ladrones=atracos, perros, camioneros=transportistas, gente comiendo bocadillos, mesas, máquina expendedora=máquinas expendedoras, "
+    "cajero automático, buzón de correos, paquetería=punto de recogida, chicles, preservativos=condones, aspirina=paracetamol, cadenas de nieve=cadenas, "
+    "triángulos de emergencia=chaleco reflectante, escobillas=bombillas de coche, café de máquina, hot dogs=perritos calientes, bocata, cruasanes=bollería, "
+    "bollos=Donuts, revistas porno, ruedas=neumáticos, gato hidráulico=gato, logo=letrero=rótulo, olor a gasolina=olor, manchas de aceite",
+ 4: "tapa del depósito=boca de carga, contador de litros=pantalla del surtidor, boquerel=pistola del surtidor=pistola, tubo de respiradero, separador de hidrocarburos, "
+    "rejilla de desagüe, arquetas, sistema de recuperación de vapores, interfono, botón de emergencia=seta de emergencia=parada de emergencia, "
+    "tanque de GLP=autogas=GLP, surtidor de gas natural=GNC, hidrógeno=hidrolinera, manómetro, tarifa de aire, vale de lavado, ficha de lavado=fichas, "
+    "cera=abrillantador, rodillos=cepillos del túnel, secador del túnel, máquina de cambio=cambio de monedas, apertura nocturna=ventanilla nocturna, "
+    "cajón de arena=arena absorbente, sepiolita, cubo de arena, carteles de ofertas, cupones de descuento, cristal blindado, baliza V-16=baliza, "
+    "kit de pinchazos=kit antipinchazos, bidón=bidones=garrafa, embudo, escoba",
+},
+})
+TAQUILLERAS.update({})
+
+# Partes del cuerpo por debajo de la cintura: la lista de Norah viene en inglés con sus puntos (fuentes/t7/cintura_norah.csv).
+# Aquí, el español de las de +10, +30, +60 y +100 (las de +85 se quedan en inglés, con su nombre técnico), con las formas de la calle.
+CINTURA_ES = {
+ "Ankle": "tobillo=tobillos", "Buttocks": "culo=nalgas=nalga=trasero=glúteos=glúteo=pompis=culete=posaderas=cachas=pandero=cachete", "Foot": "pie=pies",
+ "Knee": "rodilla=rodillas", "Leg": "pierna=piernas", "Toe": "dedo del pie=dedos del pie=dedo",
+ "Achilles tendon": "tendón de Aquiles=Aquiles", "Anterior cruciate ligament": "ligamento cruzado anterior=cruzado anterior=ligamento cruzado",
+ "Anus": "ano=ojete=agujero del culo", "Appendix": "apéndice", "Arch": "arco del pie=puente del pie", "Ball of the foot": "almohadilla del pie=bola del pie",
+ "Big toe": "dedo gordo=dedo gordo del pie", "Big toenail": "uña del dedo gordo", "Bladder": "vejiga", "Calf": "gemelo=gemelos=pantorrilla=pantorrillas",
+ "Clitorisyou": "clítoris=clitoris", "Coccyx": "coxis=rabadilla=cóccix", "Crotch": "entrepierna", "Fallopian tubes": "trompas de Falopio=trompas",
+ "Femur": "fémur", "Fibula": "peroné", "Fourth toe": "cuarto dedo del pie", "Fourth toenail": "uña del cuarto dedo del pie",
+ "Genitals": "genitales=partes íntimas=partes", "Gluteal muscles": "músculos glúteos", "Gluteus maximus": "glúteo mayor=glúteo máximo",
+ "Groin": "ingle=ingles", "Hamstrings": "isquiotibiales=isquios", "Heel": "talón=talones", "Hip": "cadera=caderas",
+ "Interphalangeal joints of the foot": "articulaciones interfalángicas del pie", "Intestines": "intestinos=intestino=tripas", "Kneecap": "rótula=rótulas",
+ "Large intestine": "intestino grueso=colon", "Little toe": "dedo meñique del pie=dedo pequeño del pie=meñique del pie", "Meniscus": "menisco=meniscos",
+ "Metatarsals": "metatarsianos=metatarso", "Middle toenail": "uña del dedo corazón del pie", "Ovaries": "ovarios=ovario", "Pelvis": "pelvis",
+ "Penis": "pene=pito=pilila=polla=picha=minga=cola=colita=chorra=nabo", "Pinky toenail": "uña del meñique del pie", "Quadriceps": "cuádriceps",
+ "Rectum": "recto", "Scrotum": "escroto", "Second toe": "segundo dedo del pie", "Second toenail": "uña del segundo dedo del pie", "Shin": "espinilla=espinillas",
+ "Small intestine": "intestino delgado", "Sole": "planta del pie=planta=plantas de los pies", "Testicles": "testículos=huevos=pelotas=cojones=testículo",
+ "Thigh": "muslo=muslos", "Third toe": "tercer dedo del pie", "Tibia": "tibia", "Toenail": "uña del pie=uñas de los pies=uña", "Urethra": "uretra",
+ "Uterus": "útero=matriz", "Vagina": "vagina=chocho=coño=chichi=chumino=almeja=potorro",
+ "Acetabulum": "acetábulo", "Adductors": "aductores=aductor", "Anal canal": "canal anal", "Anal glands": "glándulas anales",
+ "Anal sphincters": "esfínter anal=esfínteres anales=esfínter", "Ankle ligaments": "ligamentos del tobillo",
+ "Anterior talofibular ligament": "ligamento peroneoastragalino anterior", "Back of the ankle": "parte de atrás del tobillo",
+ "Back of the thigh": "parte de atrás del muslo", "Biceps femoris": "bíceps femoral", "Bulbourethral glands": "glándulas bulbouretrales=glándulas de Cowper",
+ "Butt crack": "raja del culo=hucha=la raja", "Calcaneus": "calcáneo", "Cecum": "ciego", "Cervix": "cuello del útero=cérvix",
+ "Clitoral hood": "capuchón del clítoris", "Coccygeal region": "región coccígea", "Collateral ligaments of knee": "ligamentos colaterales de la rodilla",
+ "Common fibular nerve": "nervio peroneo común", "Cruciate ligaments": "ligamentos cruzados", "Cuboid": "cuboides", "Cuneiform bones": "cuneiformes=huesos cuneiformes",
+ "Dimples of Venus": "hoyuelos de Venus", "Distal phalanges of the foot": "falanges distales del pie", "Dorsalis pedis artery": "arteria pedia=arteria dorsal del pie",
+ "Endometrium": "endometrio", "Epididymis": "epidídimo", "External urethral orifice": "meato urinario=meato", "Femoral artery": "arteria femoral=femoral",
+ "Femoral vein": "vena femoral", "Fifth metatarsal": "quinto metatarsiano", "First metatarsophalangeal joint": "articulación del dedo gordo",
+ "Foot arteries": "arterias del pie", "Foot bones": "huesos del pie", "Foot muscles": "músculos del pie", "Foot nerves": "nervios del pie",
+ "Foot veins": "venas del pie", "Forefoot": "antepié", "Foreskin": "prepucio", "Fourth metatarsal": "cuarto metatarsiano", "Frenulum of penis": "frenillo=frenillo del pene",
+ "Front of the ankle": "parte delantera del tobillo", "Front of the knee": "parte delantera de la rodilla", "Front of the thigh": "parte delantera del muslo",
+ "Gastrocnemius": "gastrocnemio", "Glans penis": "glande", "Gluteus medius": "glúteo medio", "Gluteus minimus": "glúteo menor", "Gonads": "gónadas",
+ "Great saphenous vein": "vena safena=safena", "Happy trail": "caminito de la felicidad", "Haunches": "ancas=cuartos traseros", "Heel pad": "almohadilla del talón",
+ "Hindfoot": "retropié", "Hip abductors": "abductores=abductores de la cadera", "Hip bone": "hueso de la cadera=hueso coxal=coxal=hueso ilíaco",
+ "Hip flexors": "flexores de la cadera", "Hip joint": "articulación de la cadera", "Hip ligaments": "ligamentos de la cadera", "Hip muscles": "músculos de la cadera",
+ "Hymen": "himen", "Ileum": "íleon", "Iliac crest": "cresta ilíaca", "Iliopsoas": "iliopsoas=psoasilíaco", "Iliotibial band": "cintilla iliotibial=banda iliotibial",
+ "Ilium": "ilion=ilíaco", "Inner ankle": "parte interna del tobillo", "Inner knee": "parte interna de la rodilla", "Inner thigh": "cara interna del muslo=parte interna del muslo",
+ "Instep": "empeine=empeines", "Ischium": "isquion", "Knee ligaments": "ligamentos de la rodilla", "Labia": "labios vaginales", "Labia majora": "labios mayores",
+ "Labia minora": "labios menores", "Lap": "regazo", "Lateral collateral ligament": "ligamento lateral externo=ligamento colateral lateral",
+ "Lateral malleolus": "maléolo externo=maléolo lateral", "Lateral meniscus": "menisco externo", "Leg arteries": "arterias de la pierna", "Leg bones": "huesos de la pierna",
+ "Leg hair": "pelo de las piernas=vello de las piernas", "Leg joints": "articulaciones de la pierna", "Leg muscles": "músculos de la pierna",
+ "Leg nerves": "nervios de la pierna", "Leg veins": "venas de la pierna", "Lower abdomen": "bajo vientre=parte baja del abdomen=hipogastrio",
+ "Lower back": "zona lumbar=lumbares=riñones", "Lower back muscles": "músculos lumbares", "Lower leg": "parte baja de la pierna", "Lower leg bones": "huesos de la parte baja de la pierna",
+ "Male genitalia": "genitales masculinos=paquete", "Malleolus": "maléolo", "Medial collateral ligament": "ligamento lateral interno=ligamento colateral medial",
+ "Medial malleolus": "maléolo interno=maléolo medial", "Medial meniscus": "menisco interno", "Metatarsophalangeal joints": "articulaciones metatarsofalángicas",
+ "Midfoot": "mediopié", "Mons pubis": "monte de Venus", "Navicular bone": "escafoides del pie=navicular=escafoides", "Outer ankle": "parte externa del tobillo",
+ "Outer knee": "parte externa de la rodilla", "Outer thigh": "parte externa del muslo", "Patellar ligament": "tendón rotuliano=ligamento rotuliano",
+ "Pelvic cavity": "cavidad pélvica", "Pelvic floor": "suelo pélvico", "Perineum": "perineo=periné", "Phalanges of the foot": "falanges del pie=falanges",
+ "Piriformis": "piramidal=piriforme", "Plantar fascia": "fascia plantar", "Popliteal artery": "arteria poplítea", "Popliteal fossa": "corva=hueco poplíteo=fosa poplítea",
+ "Posterior cruciate ligament": "ligamento cruzado posterior", "Prostate": "próstata", "Psoas": "psoas", "Pubic area": "zona púbica",
+ "Pubic hair": "vello púbico=pelo púbico", "Pubic symphysis": "sínfisis del pubis", "Pubis": "pubis", "Quadriceps tendon": "tendón del cuádriceps",
+ "Rectus femoris": "recto femoral=recto anterior", "Sacral dimples": "hoyuelos sacros", "Sacroiliac joint": "articulación sacroilíaca", "Sacrum": "sacro=hueso sacro",
+ "Sartorius": "sartorio", "Sciatic nerve": "nervio ciático=ciático", "Second metatarsal": "segundo metatarsiano", "Seminal vesicles": "vesículas seminales",
+ "Seminiferous tubules": "túbulos seminíferos", "Sesamoid bones of the foot": "sesamoideos=huesos sesamoideos", "Shaft of penis": "tronco del pene",
+ "Soleus": "sóleo", "Talus": "astrágalo", "Tarsals": "tarso=huesos del tarso", "Third metatarsal": "tercer metatarsiano", "Tibialis anterior": "tibial anterior",
+ "Tibialis posterior": "tibial posterior", "Toe crease": "pliegue del dedo del pie", "Toe hair": "pelo de los dedos del pie", "Toe pad": "yema del dedo del pie",
+ "Toe tendons": "tendones de los dedos del pie", "Toe web": "piel entre los dedos del pie", "Toenail bed": "lecho ungueal del pie", "Toenail cuticle": "cutícula del pie",
+ "Top of the foot": "dorso del pie", "Upper thigh": "parte alta del muslo", "Ureter": "uréter=uréteres", "Vaginal opening": "entrada de la vagina=orificio vaginal",
+ "Vas deferens": "conductos deferentes=conducto deferente", "Vastus medialis": "vasto interno=vasto medial", "Vulva": "vulva",
+ "Fabella": "fabela",
+}
+# lo de +85 que alguien en español sí puede escribir
+CINTURA_MAS = {4: "vasto externo=vasto lateral, vasto intermedio, aductor mayor, aductor largo, aductor corto, recto interno=grácil, semitendinoso, semimembranoso, "
+                   "tensor de la fascia lata, pectíneo, poplíteo, peroneo largo, peroneo corto, flexor del dedo gordo, extensor de los dedos, "
+                   "nervio femoral, nervio tibial, nervio obturador, nervio pudendo, vena safena menor, arteria ilíaca, vena ilíaca, ganglios inguinales, "
+                   "trocánter=trocánter mayor, cuello del fémur, cabeza del fémur, cóndilos, meseta tibial, colon sigmoide=sigma, colon descendente, "
+                   "glándulas de Bartolino=Bartolino, glándulas de Skene, punto G, cordón espermático, cuerpos cavernosos, cuerpo esponjoso, labrum, fascia lata, "
+                   "canal inguinal, ligamento inguinal, cola de caballo, coxis, vértebras lumbares, L5, sacro"}
+
+MANO.update({
+"videojuegos_20m": {   # los 51 de la lista de Wikipedia (todos pasan de 25 millones) y los que se sabe que pasan de 20
+ 1: "Minecraft, Tetris, Grand Theft Auto V=GTA V=GTA 5=GTA=Grand Theft Auto, Mario Kart 8=Mario Kart 8 Deluxe=Mario Kart, Wii Sports, "
+    "Los Sims=The Sims=Sims, Super Mario Bros.=Super Mario Bros=Super Mario=Mario Bros=Mario, Pokémon Rojo=Pokémon Azul=Pokémon Amarillo=Pokémon Rojo y Azul=Pokémon",
+ 2: "Red Dead Redemption 2=RDR2=Red Dead 2, Animal Crossing: New Horizons=Animal Crossing, The Legend of Zelda: Breath of the Wild=Breath of the Wild=Zelda Breath of the Wild=Zelda, "
+    "Super Smash Bros. Ultimate=Smash Bros=Super Smash Bros, Mario Kart Wii, Wii Fit, Call of Duty: Modern Warfare=Modern Warfare=Call of Duty=COD, "
+    "The Elder Scrolls V: Skyrim=Skyrim, The Witcher 3=The Witcher 3: Wild Hunt=The Witcher, Grand Theft Auto: San Andreas=GTA San Andreas=San Andreas, "
+    "Sonic the Hedgehog=Sonic, Stardew Valley, Terraria, PUBG=PUBG: Battlegrounds=PlayerUnknown's Battlegrounds, Overwatch, Cyberpunk 2077=Cyberpunk, "
+    "Hogwarts Legacy, Super Mario Odyssey, New Super Mario Bros., New Super Mario Bros. Wii, Wii Sports Resort, Wii Play, Elden Ring, Duck Hunt, It Takes Two",
+ 3: "Human: Fall Flat=Human Fall Flat, Call of Duty: Black Ops III=Black Ops 3, Call of Duty: Black Ops Cold War=Black Ops Cold War, Call of Duty: Black Ops=Black Ops, "
+    "Call of Duty: Modern Warfare 3=Modern Warfare 3, Payday 2, Fallout 4, Borderlands 2, Monster Hunter: World=Monster Hunter World=Monster Hunter, "
+    "Pokémon Oro=Pokémon Plata=Pokémon Oro y Plata, Pokémon Escarlata=Pokémon Púrpura=Pokémon Escarlata y Púrpura, Pokémon Espada=Pokémon Escudo=Pokémon Espada y Escudo, "
+    "Pokémon Sol=Pokémon Luna=Pokémon Sol y Luna, Pokémon Diamante=Pokémon Perla=Pokémon Diamante y Perla, Grand Theft Auto IV=GTA IV=GTA 4, Phasmophobia, "
+    "Black Myth: Wukong=Wukong, Garry's Mod, Mario Kart DS, Nintendogs, Wii Fit Plus, Super Mario World, Kinect Adventures, Diablo III=Diablo 3, "
+    "Red Dead Redemption, God of War=God of War 2018, Marvel's Spider-Man=Spider-Man de PS4",
+},
+"barbie_pelis": {
+ 1: "Barbie=Barbie (2023)=la película de Barbie=Barbie de Greta Gerwig, Barbie en el Cascanueces=Barbie y el Cascanueces=Barbie in the Nutcracker, "
+    "Barbie como Rapunzel=Barbie Rapunzel=Barbie as Rapunzel, Barbie y el lago de los cisnes=Barbie en el lago de los cisnes=Barbie of Swan Lake, "
+    "Barbie en la princesa y la costurera=Barbie la princesa y la costurera=Barbie as the Princess and the Pauper=La princesa y la costurera, "
+    "Barbie y las 12 princesas bailarinas=Barbie en las 12 princesas bailarinas=Las 12 princesas bailarinas=Barbie in the 12 Dancing Princesses",
+ 2: "Barbie Fairytopia=Fairytopia, Barbie y la magia de Pegaso=La magia de Pegaso=Barbie and the Magic of Pegasus, Barbie en la princesa de la isla=Barbie la princesa de la isla=Barbie as the Island Princess, "
+    "Barbie Mariposa, Barbie y el castillo de diamantes=Barbie y el castillo de diamante=Barbie & the Diamond Castle, Barbie y las tres mosqueteras=Las tres mosqueteras, "
+    "Barbie en una aventura de sirenas=Barbie sirena=Barbie in a Mermaid Tale, Barbie: Moda mágica en París=Moda mágica en París=Barbie A Fashion Fairytale, "
+    "Barbie: Escuela de princesas=Escuela de princesas=Princess Charm School, Barbie: El secreto de las hadas=Barbie A Fairy Secret, "
+    "Barbie: La princesa y la estrella del pop=Barbie princesa y estrella del pop=The Princess & the Popstar, Barbie en un cuento de Navidad=Barbie in a Christmas Carol",
+ 3: "Barbie Fairytopia: Mermaidia=Mermaidia, Barbie Fairytopia: La magia del arcoíris=La magia del arcoíris, Barbie presenta Pulgarcita=Barbie Pulgarcita=Pulgarcita=Thumbelina, "
+    "Barbie en una aventura de sirenas 2=Barbie in a Mermaid Tale 2, Barbie: Una Navidad perfecta=Barbie A Perfect Christmas, Barbie: Mariposa y la princesa de las hadas=Mariposa and the Fairy Princess, "
+    "Barbie y sus hermanas en una historia de ponis=Barbie y sus hermanas: Una historia de caballos=Barbie & Her Sisters in A Pony Tale, Barbie en las zapatillas mágicas=Barbie en las zapatillas rosas=Barbie in the Pink Shoes, "
+    "Barbie: La princesa de las perlas=Barbie la princesa perla=The Pearl Princess, Barbie y la puerta secreta=Barbie and the Secret Door, Barbie: Super Princesa=Barbie Princess Power, "
+    "Barbie: Rock 'n Royals=Rock and Royals, Barbie y sus hermanas: La gran aventura de los perritos=Barbie & Her Sisters in the Great Puppy Adventure, "
+    "Barbie: Agentes secretas=Barbie Spy Squad, Barbie: Aventura en las estrellas=Barbie Star Light Adventure, Barbie y sus hermanas: Rescate de cachorros=Barbie & Her Sisters in A Puppy Chase, "
+    "Barbie: Héroe de videojuego=Barbie Video Game Hero, Barbie Dreamtopia, Barbie: Magia de delfines=Barbie Dolphin Magic",
+ 4: "Barbie: Aventura de princesas=Barbie Princess Adventure, Barbie: Gran ciudad grandes sueños=Barbie Big City Big Dreams, Barbie y Chelsea: El cumpleaños perdido=Barbie & Chelsea The Lost Birthday, "
+    "Barbie: El poder de las sirenas=Barbie Mermaid Power, Barbie: Un viaje épico=Barbie Epic Road Trip, Barbie: Skipper y la gran aventura de canguro=Barbie Skipper and the Big Babysitting Adventure, "
+    "Barbie y Stacie al rescate=Barbie and Stacie to the Rescue, Barbie: Juntas=Barbie It Takes Two, Barbie y Teresa: Receta para la amistad=Barbie & Teresa Recipe for Friendship",
+ 5: "Barbie and the Rockers: Out of This World=Barbie y las Rockers, Barbie and the Sensations: Rockin' Back to Earth=Barbie y las Sensations",
+},
+"bruno_mars": {
+ 1: "Uptown Funk, Just the Way You Are, Grenade, Locked Out of Heaven, When I Was Your Man, That's What I Like, 24K Magic, Die With a Smile, APT.=APT=Apartment, "
+    "Talking to the Moon, The Lazy Song=Lazy Song, Marry You, Count On Me, Leave the Door Open",
+ 2: "Treasure, Versace on the Floor, Finesse, Nothin' on You=Nothing on You, Billionaire, It Will Rain, Young Girls, Runaway Baby, Gorilla, Lighters, "
+    "Young Wild & Free=Young Wild and Free, Calling All My Lovelies, Chunky, Smokin Out the Window=Smoking Out the Window, Too Good to Say Goodbye, I Just Might",
+ 3: "Our First Time, Liquor Store Blues, The Other Side, Somewhere in Brooklyn, Moonshine, Natalie, Show Me, Money Make Her Smile, If I Knew, "
+    "Perm, Straight Up & Down=Straight Up and Down, Skate, After Last Night, Put On a Smile, 777, Fly as Me, Blast Off, Silk Sonic Intro, Love's Train, "
+    "Bubble Butt, Mirror, Please Me, Wake Up in the Sky, Blow, Fat Juicy & Wet, Risk It All, Cha Cha Cha, God Was Showing Off, Dance with Me, Something Serious, "
+    "Why You Wanna Fight?, On My Soul, Nothing Left, Welcome Back, Old & Crazy, 3D, Bonde do Brunão, Come to Brazil, Can't Come Back to Me, This Is My Love, Love",
+},
+})
