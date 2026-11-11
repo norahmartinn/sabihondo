@@ -276,6 +276,13 @@ PREGUNTAS = [
     ("Nombra algo que hay en una peluquería", "peluqueria"),
     ("Nombra una forma de cocinar la patata", "patata_formas"),
     ("Nombra una app del móvil", "app_movil"),
+    ("Nombra una marca de cereales", "cereales"),
+    ("Nombra un personaje de ficción que lleve gafas", "personaje_gafas"),
+    ("Nombra algo que tenga teclas", "tiene_teclas"),
+    ("Nombra una fruta o verdura de color naranja", "naranja"),
+    ("Nombra algo que se pone en la cabeza", "en_cabeza"),
+    ("Nombra algo que produce el cuerpo humano", "cuerpo_produce"),
+    ("Nombra algo que se hace con leche", "hecho_leche"),
 ]
 
 # Desde el 31 de octubre de 2026 los niveles son más generosos: la gente veía casi imposible llegar a Muy raro y Sabihondo.

@@ -1,0 +1,117 @@
+respuesta;alias;nivel;orden_a_mano
+piano;;1;1000000000
+teclado;teclado de ordenador;1;999999999
+ordenador;portátil|ordenador portátil;1;999999998
+calculadora;;1;999999997
+móvil antiguo;móvil|teléfono;1;999999996
+máquina de escribir;;1;999999995
+mando;mando de la tele|mando a distancia;1;999999994
+órgano;;2;1000000000
+sintetizador;teclado musical|órgano electrónico;2;999999999
+acordeón;;2;999999998
+cajero automático;cajero;2;999999997
+microondas;;2;999999996
+teléfono fijo;teléfono de casa;2;999999995
+telefonillo;portero automático;2;999999994
+caja registradora;caja|TPV;2;999999993
+datáfono;;2;999999992
+máquina de vending;máquina expendedora;2;999999991
+ascensor;;2;999999990
+alarma;panel de la alarma;2;999999989
+mando de la consola;mando de la Play;2;999999988
+lavadora;;2;999999987
+horno;;2;999999986
+clavicordio;clave|clavecín;2;999999985
+melódica;pianica;2;999999984
+piano de cola;;2;999999983
+piano de juguete;;2;999999982
+Game Boy;;2;999999981
+fax;;2;999999980
+impresora;;2;999999979
+fotocopiadora;;2;999999978
+celesta;;3;1000000000
+clavicémbalo;;3;999999999
+espineta;;3;999999998
+armonio;;3;999999997
+harmonio;;3;999999996
+carillón;;3;999999995
+piano eléctrico;;3;999999994
+Rhodes;;3;999999993
+Moog;;3;999999992
+mellotrón;;3;999999991
+bandoneón;;3;999999990
+concertina;;3;999999989
+zanfona;;3;999999988
+nyckelharpa;;3;999999987
+cerradura electrónica;cerradura con código;3;999999986
+caja fuerte;;3;999999985
+parquímetro;;3;999999984
+máquina de billetes;máquina de tickets;3;999999983
+máquina de café;;3;999999982
+lavavajillas;;3;999999981
+secadora;;3;999999980
+aire acondicionado;mando del aire;3;999999979
+termostato;;3;999999978
+radio;radio del coche;3;999999977
+busca;buscapersonas;3;999999976
+Tamagotchi;;3;999999975
+consola;consola portátil;3;999999974
+agenda electrónica;PDA;3;999999973
+diccionario electrónico;;3;999999972
+traductor electrónico;;3;999999971
+teclado braille;máquina Perkins;3;999999970
+máquina de coser electrónica;;3;999999969
+cafetera;;3;999999968
+máquina de escribir eléctrica;;3;999999967
+teletipo;;3;999999966
+telégrafo;;3;999999965
+máquina Enigma;Enigma;3;999999964
+juguete musical;;3;999999963
+teléfono de juguete;;3;999999962
+piano de suelo;;3;999999961
+mesa de mezclas;;3;999999960
+caja de ritmos;;3;999999959
+sampler;;3;999999958
+controlador MIDI;;3;999999957
+launchpad;;3;999999956
+teclado MIDI;;3;999999955
+Simon Dice;Simon;3;999999954
+virginal;;4;1000000000
+fortepiano;;4;999999998
+pianola;;4;999999997
+piano vertical;;4;999999996
+piano de pared;;4;999999995
+ondas Martenot;;4;999999994
+teclado de membrana;;4;999999993
+teclado mecánico;;4;999999992
+teclado numérico;;4;999999991
+teclado virtual;;4;999999990
+teclado de la tablet;;4;999999989
+máquina de escribir de estenotipia;estenotipia;4;999999988
+estenógrafo;;4;999999987
+linotipia;;4;999999986
+monotipia;;4;999999985
+calculadora científica;;4;999999984
+calculadora gráfica;;4;999999983
+centralita;;4;999999982
+interfono;;4;999999981
+videoportero;;4;999999980
+panel de ascensor;;4;999999979
+consola de avión;;4;999999978
+mando de garaje;;4;999999977
+llave del coche;;4;999999976
+cerradura digital;;4;999999975
+teclado de la caja fuerte;;4;999999974
+control de acceso;;4;999999973
+fichador;;4;999999972
+torno;;4;999999971
+máquina de lotería;;4;999999970
+tragaperras;;4;999999969
+máquina recreativa;recreativa;4;999999968
+jukebox;máquina de discos;4;999999967
+acordeón cromático;;4;999999966
+acordeón diatónico;;4;999999965
+trikitixa;;4;999999964
+órgano Hammond;Hammond;4;999999963
+órgano de tubos;;4;999999962
+órgano de iglesia;;4;999999961

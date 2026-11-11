@@ -529,7 +529,7 @@ MANO.update({
     "Beaker? no, Bunsen Honeydew? no, Gonzo? no, el profesor Utonio? no, Dexter's? no, Timmy Turner? no, A.J.? no, Cosmo? no, "
     "Mr. Krabs? no, Calamardo? no, Plankton? no, Ralph? no, Ojo de Halcón? no, Harley Quinn? no, el Pingüino=Pingüino=Oswald Cobblepot, "
     "Lisa Turtle? no, Screech=Samuel Powers, Doug Funnie? no, Arthur=Arturo (el oso hormiguero), Francine? no, Buster? no, Brain=Cerebro, "
-    "Milo de Atlantis=Milo Thatch, Russell? no, Carl Fredricksen=Carl=el abuelo de Up, Bruce Banner? no, Willy Wonka? no, Charlie? no, "
+    "Milo de Atlantis=Milo Thatch=Milo, Russell? no, Carl Fredricksen=Carl=el abuelo de Up, Bruce Banner? no, Willy Wonka? no, Charlie? no, "
     "Hans Topo, Mr. Burns? no, Sheldon? no, Leonard Hofstadter=Leonard, Howard Wolowitz? no, Raj? no, Lilith? no, Frasier? no, Niles? no, "
     "Spencer Reid? no, Garcia=Penelope Garcia, Gilbert Grape? no, Napoleon Dynamite=Napoleón Dynamite, Ugly Betty Suárez, Bridget Jones? no, "
     "Andy Sachs? no, Miranda Priestly? no, Toby? no, Cliff Clavin? no, Jesse Pinkman? no, Walter White? no, Gus Fring=Gustavo Fring, "
@@ -581,3 +581,129 @@ MANO["app_movil"] = {
     "Coinbase, Binance, eToro, Trade Republic, MyInvestor, Indexa Capital, N26, Bnext, Vivid, Wise, Bunq, Imagin, ING, BBVA, Santander, CaixaBank, Sabadell, "
     "Bankinter, Openbank, Kutxabank, Abanca, Unicaja, Ibercaja, Verse, Twyp, Splitwise, Tricount, Fintonic, Wallet by BudgetBakers, Money Manager, Uala? no",
 }
+
+# ── jueves 12 ──
+PREGUNTAS.update({
+    "cereales": "Nombra una marca de cereales",
+    "tiene_teclas": "Nombra algo que tenga teclas",
+    "naranja": "Nombra una fruta o verdura de color naranja",
+    "en_cabeza": "Nombra algo que se pone en la cabeza",
+    "cuerpo_produce": "Nombra algo que produce el cuerpo humano",
+    "hecho_leche": "Nombra algo que se hace con leche",
+})
+MANO.update({
+"cereales": {
+ 1: "Kellogg's=Kelloggs, Chocapic, Corn Flakes=Cornflakes=copos de maíz, Special K, Choco Krispies=Chocokrispis=Krispies, Nesquik=cereales Nesquik, Frosties, Smacks, Froot Loops=Fruit Loops, Hacendado",
+ 2: "Nestlé, Fitness, Lion, Golden Grahams, Cheerios, Kellogg's All-Bran=All-Bran=All Bran, Cini Minis=Cinnamon Toast Crunch, Trésor=Tresor, Extra=Kellogg's Extra, "
+    "Miel Pops=Honey Pops, Rice Krispies, Crunchy Nut, Coco Pops, Quaker=Quaker Oats, Nestlé Fitness, Kit Kat cereales=Kit Kat=KitKat, Lion cereales, Estrellitas=estrellitas de chocolate, "
+    "Golden Nuggets? no, Muesli=muesli, Granola, Weetabix, Krave, Chocos? no, Kelloggs Special K Chocolate, Gullón? no, Dia, Carrefour, Lidl=Crownfield, Alcampo=Auchan, Eroski",
+ 3: "Smacks de Kellogg's? no, Honey Nut Cheerios=Cheerios miel, Nesquik Duo, Chocapic Duo, Golden Grahams, Shreddies, Shredded Wheat, Clusters, Country Crisp=Country Store, "
+    "Brüggen=Bruggen, Jordans, Dorset Cereals, Kölln, Alpen, Mornflake, Nature Valley, Bjorg, Gerblé, Gullón Vitalday=Vitalday=Gullón, Santiveri, El Granero, Bio Organic? no, "
+    "Mercadona Hacendado Corn Flakes? no, Hacendado copos de avena, Nestlé Chocapic, Kellogg's Pops=Pops, Cookie Crisp, Lucky Charms, Cap'n Crunch, Trix, Cocoa Puffs, "
+    "Reese's Puffs, Apple Jacks, Frosted Flakes, Honey Smacks, Corn Pops, Krave Choco, Jungly=Jungle? no, Dinosaurus? no, Choco Flakes? no, Nesquik Mix? no, "
+    "Kellogg's Choco Pops, Kellogg's Frosties Choco, Special K Frutos Rojos, Special K Original, Fitness Fruits, Fitness Chocolate, Nestlé Golden Grahams, Nestlé Shreddies, "
+    "Nestlé Cheerios, Nestlé Cini Minis, Nestlé Lion, Nestlé Nesquik, Nestlé Fitness, Kellogg's Special K, Kellogg's Corn Flakes, Kellogg's Froot Loops, Kellogg's Smacks, "
+    "Kellogg's Rice Krispies, Kellogg's Coco Pops, Kellogg's Crunchy Nut, Kellogg's Krave, Kellogg's All-Bran, Quaker Cruesli=Cruesli, Quaker avena, Kellogg's Frosties",
+ 4: "Post, General Mills, Nature's Path, Kashi, Cascadian Farm, Barbara's, Bear Naked, Grape-Nuts, Raisin Bran, Fruity Pebbles=Pebbles, Cocoa Pebbles, Honey Bunches of Oats, "
+    "Golden Crisp, Wheaties, Kix, Chex, Total, Life, Cracklin' Oat Bran, Special K Red Berries, Mini-Wheats=Frosted Mini-Wheats, Ready Brek, Oatibix, Coco Shreddies, "
+    "Curiously Cinnamon, Nestlé Clusters, Nestlé Country Store, Nestlé Shredded Wheat, Kellogg's Fruit 'n Fibre, Kellogg's Bran Flakes, Kellogg's Optivita, Kellogg's Variety, "
+    "Lizi's, Pertwee? no, Rude Health, Deliciously Ella, Paleo? no, Grenade? no, Lidl Crownfield Choco Shells, Choco Shells, Choco Balls, Choco Rice, Arroz inflado=arroz inflado chocolate, "
+    "Hacendado Choco Flakes, Hacendado Corn Flakes, Hacendado Estrellitas, Dia Corn Flakes, Bonpreu? no, Consum, Gadis? no, Vitalday, Sanavi? no, Nesquik Alphabet, Krispies Fresa, Kellogg's Pops Choco",
+},
+"tiene_teclas": {
+ 1: "piano, teclado=teclado de ordenador, ordenador=portátil=ordenador portátil, calculadora, móvil antiguo=móvil=teléfono, máquina de escribir, mando=mando de la tele=mando a distancia",
+ 2: "órgano, sintetizador=teclado musical=órgano electrónico, acordeón, cajero automático=cajero, microondas, teléfono fijo=teléfono de casa, telefonillo=portero automático, "
+    "caja registradora=caja=TPV, datáfono, máquina de vending=máquina expendedora, ascensor, alarma=panel de la alarma, mando de la consola=mando de la Play=mando, "
+    "lavadora, horno, xilófono? no, clavicordio=clave=clavecín, melódica=pianica, piano de cola, piano de juguete, Game Boy, Nintendo DS? no, fax, impresora, fotocopiadora",
+ 3: "celesta, clavicémbalo, espineta, armonio, harmonio, glockenspiel? no, vibráfono? no, marimba? no, carillón, piano eléctrico, Rhodes, Moog, mellotrón, "
+    "bandoneón, concertina, organillo? no, zanfona=zanfoña, nyckelharpa, hardanger? no, saxofón (llaves)? no, clarinete? no, flauta? no, "
+    "cerradura electrónica=cerradura con código, caja fuerte, parquímetro, máquina de billetes=máquina de tickets, máquina de café, dispensador de agua? no, "
+    "lavavajillas, secadora, aire acondicionado=mando del aire, termostato, radio=radio del coche, walkie? no, busca=buscapersonas, Tamagotchi, consola=consola portátil, "
+    "agenda electrónica=PDA, diccionario electrónico, traductor electrónico, teclado braille=máquina Perkins, máquina de coser electrónica, cafetera, báscula? no, "
+    "taladro? no, máquina de escribir eléctrica, teletipo, telégrafo, máquina Enigma=Enigma, caja de música? no, juguete musical, teléfono de juguete, piano de suelo, "
+    "mesa de mezclas, caja de ritmos, sampler, controlador MIDI, launchpad, teclado MIDI, Stylophone? no, Bop It? no, Simon Dice=Simon",
+ 4: "virginal, clavicordio, fortepiano, pianola, piano vertical, piano de pared, ondas Martenot, teclado de membrana, teclado mecánico, teclado numérico, "
+    "teclado virtual, teclado de la tablet, máquina de escribir de estenotipia=estenotipia, estenógrafo, linotipia, monotipia, calculadora científica, calculadora gráfica, "
+    "ábaco? no, centralita, interfono, videoportero, panel de ascensor, consola de avión, mando de garaje, llave del coche, cerradura digital, teclado de la caja fuerte, "
+    "control de acceso, fichador, torno, máquina de lotería, tragaperras, máquina recreativa=recreativa, pinball? no, karaoke? no, jukebox=máquina de discos, "
+    "acordeón cromático, acordeón diatónico, trikitixa, armónica cromática? no, órgano Hammond=Hammond, órgano de tubos, órgano de iglesia",
+},
+"naranja": {
+ 1: "naranja=naranjas, zanahoria=zanahorias, mandarina=mandarinas, calabaza, melocotón, mango, papaya, albaricoque=albaricoques",
+ 2: "boniato=batata=moniato, pimiento naranja=pimiento, níspero=nísperos, caqui=kaki=palosanto, melón cantalupo=cantalupo=melón naranja, clementina=clementinas, "
+    "kumquat=quinoto, pomelo? no, nectarina, maracuyá=fruta de la pasión? no, physalis=alquequenje, tomate naranja, calabaza moscada=calabaza violín, naranja sanguina? no",
+ 3: "espino amarillo=espino falso, carambola, mangostán? no, lúcuma, tamarillo, rambután? no, níspero japonés, calabaza Hokkaido=potimarrón, calabaza cacahuete=butternut, "
+    "zapallo, auyama, zanahoria morada? no, chile habanero=habanero, guindilla naranja, mostaza? no, maíz? no, cúrcuma, setas? no, rebozuelo=chantarela, níscalo=níscalos, "
+    "lentejas rojas? no, salmonberry, serbal=serbas, acerola, madroño=madroños, rosa mosqueta? no, naranjilla=lulo, mamey, carica, zapote, pitanga, guayaba? no, "
+    "membrillo? no, tangerina, satsuma, kinnow, tangelo, mineola, naranja Navel=navel, naranja Valencia, calabaza de Halloween, calabacín naranja? no, "
+    "remolacha dorada, nabo naranja? no, pimiento morrón naranja, tomate cherry naranja, flor de calabacín, capuchina? no",
+ 4: "melocotón paraguayo=paraguayo, platerina, albaricoque japonés, umeboshi? no, nance, mamoncillo? no, bacuri, buriti, cajá, cupuazú? no, pejibaye, "
+    "loquat, cornejo? no, aronia? no, hippophae, cloudberry=mora de los pantanos=mora ártica, camemoro, akee=aki, naranja amarga, naranja china, chinotto, bergamota, "
+    "cidra? no, mano de Buda? no, pomelo rosa? no, calabaza de Etampes, calabaza Red Kuri, calabaza Hubbard, calabaza delicata, calabaza turbante, "
+    "chile Scotch bonnet, ají amarillo, ají limo, rocoto, chile manzano, pimiento de Gernika? no, zanahoria de Utrera, zanahoria baby, ñame? no, oca, mashua, "
+    "malanga? no, papa amarilla? no, boniato naranja, camote",
+},
+"en_cabeza": {
+ 1: "gorro=gorra, sombrero, casco, gafas=gafas de sol, corona, diadema, peluca, pañuelo, cinta del pelo=cinta, coletero=goma del pelo=goma, horquilla=pinza",
+ 2: "boina, capucha, turbante, velo, tiara, visera, champú, crema? no, tinte, laca, gomina=gel, cera, mascarilla del pelo=mascarilla, acondicionador, "
+    "auriculares=cascos, gorro de baño=gorro de piscina, gorro de lana, gorro de Papá Noel, sombrero de copa, sombrero de paja, sombrero mexicano=sombrero de charro, "
+    "pamela, tocado, mantilla, peineta, hiyab=hijab, kipá, burka? no, chador? no, niqab? no, mitra, solideo, birrete, cofia, gorro de cocinero, gorro de dormir, "
+    "pasamontañas, braga de cuello? no, cinta de tenis=muñequera? no, toalla=turbante de toalla, bolsa? no, frontal=linterna frontal, gafas de natación, gafas de esquí, "
+    "gafas de realidad virtual, lentillas? no, pendientes? no, piercing? no, maquillaje? no, flor, corona de flores, lazo, gorro de cumpleaños",
+ 3: "fez, chapela, txapela, montera, sombrero cordobés, sombrero de ala ancha, fedora, borsalino, bombín, canotier, panamá, stetson=sombrero vaquero, "
+    "tricornio, bicornio, morrión, yelmo, celada, capirote, capirucho? no, cofia de enfermera, toca, griñón? no, tocado de plumas, penacho, corona de laurel, "
+    "laurel, aureola? no, halo? no, diadema de orejas, orejas de Mickey, cuernos de reno, cuernos de vikingo, casco de vikingo, casco de bici, casco de moto, "
+    "casco de obra, casco de minero, casco de astronauta, gorro de aviador, gorro ruso=ushanka, gorro de Pierrot? no, gorro frigio, gorro de bufón, gorro de bruja, "
+    "sombrero de bruja, sombrero de mago, gorro de elfo, gorro de marinero, gorra de capitán, gorra de plato, gorra de policía, boina militar, gorro de cuartel, "
+    "cucurucho, gorra de béisbol, snapback, bucket hat=gorro de pescador, beanie=gorro beanie, durag, bandana, cinta de sudor, redecilla, rulos, papillotes, "
+    "bigudíes, pinzas, pasadores, coletas? no, extensiones, postizo, moño postizo, trenza postiza, aceite para el pelo, champú seco, antipiojos=lendrera, "
+    "piojos, protector solar, sombrilla de cabeza, paraguas de cabeza, almohada, cojín? no, bolsa de hielo, compresa fría, venda, vendaje, mano? no",
+ 4: "kufi, taqiyah, keffiyeh=kufiya, agal, dastar, pagri, topi, bonete, birreta, capelo, tiara papal, solideo, camauro, zucchetto, gorro de Caganer? no, "
+    "barretina, cachirulo, pañuelo de cachirulo, montera picona, montera de pasiego, sombrero de Pasiego? no, sombrero calañés, sombrero de catite, "
+    "chistera, claque, galero, sombrero de copa baja, trilby, homburg, pork pie, cloche, tam o'shanter, glengarry, balmoral, deerstalker=gorra de cazador, "
+    "ushanka, papakha, kolpak, shtreimel, sombrero cónico=sombrero asiático, nón lá, sugegasa, jingasa, kanmuri, eboshi, tocado de geisha, "
+    "kokoshnik, coronilla, diadema nupcial, velo de novia, mantilla de blonda, peineta de carey, tembleque, rodete, moño de picaporte, "
+    "casco de esgrima=careta de esgrima, máscara de esgrima, protector de cabeza de boxeo, casco de waterpolo, gorro de waterpolo, casco de rugby=melé, "
+    "casco de jockey, casco de polo, casco de equitación, casco de F1, casco de bombero, casco de soldado, casco prusiano=pickelhaube, salacot, casco colonial",
+},
+"cuerpo_produce": {
+ 1: "sangre, saliva=babas=baba, sudor, lágrimas=lágrima, pis=orina=pipí, caca=heces=mierda=popó, mocos=moco, pelo=pelos, uñas, gases=pedos=pedo, eructos=eructo",
+ 2: "cera=cera de los oídos=cerilla=cerumen, semen=esperma=espermatozoides, leche=leche materna, legañas=legaña, caspa, hormonas=hormona, bilis, saliva, "
+    "flemas=flema, pus, insulina, adrenalina, células, óvulos=óvulo, regla=menstruación=flujo, flujo vaginal, grasa, sebo, calor, energía, anticuerpos, "
+    "glóbulos rojos, glóbulos blancos, plaquetas, dopamina, serotonina, endorfinas, oxitocina, testosterona, estrógenos, progesterona, melatonina, cortisol",
+ 3: "jugos gástricos=jugo gástrico=ácido clorhídrico, enzimas, bilirrubina, linfa, plasma, colágeno, queratina, melanina, cartílago? no, hueso? no, "
+    "piel muerta=células muertas=escamas, callos? no, ampollas? no, granos? no, espinillas=puntos negros, esmegma, líquido preseminal, lubricación=flujo, "
+    "calostro, líquido amniótico, placenta, mucosidad=moco cervical, surfactante, líquido cefalorraquídeo, líquido sinovial, humor acuoso, humor vítreo, "
+    "lágrimas basales, hipo? no, ruido? no, electricidad=impulsos eléctricos, CO2=dióxido de carbono, vapor de agua, olor corporal=olor, feromonas, "
+    "vitamina D, glucosa, glucógeno, colesterol, urea, ácido úrico, amoníaco, ácido láctico, cálculos=piedras en el riñón, sarro, placa? no, "
+    "jugo pancreático, glucagón, tiroxina, hormona del crecimiento, prolactina, vasopresina, aldosterona, renina, histamina, interferón, trombina, fibrina, "
+    "fibrinógeno, albúmina, hemoglobina, mioglobina, pepsina, tripsina, lipasa, amilasa, lactasa, ptialina",
+ 4: "quilo, quimo, surfactante pulmonar, meconio, vérnix=vernix caseosa, lanugo, esmalte? no, dentina? no, sinovia, endolinfa, perilinfa, "
+    "secreción prostática, líquido seminal, moco nasal, bolo alimenticio, heces de meconio, secreción sebácea, glándulas? no, secreción apocrina, "
+    "lisozima, inmunoglobulinas, citoquinas, prostaglandinas, leucotrienos, bradicinina, óxido nítrico, monóxido de nitrógeno? no, metano, hidrógeno, "
+    "sulfuro de hidrógeno, acetona, cetonas, creatinina, bicarbonato, ácido hialurónico, elastina, osteocitos, eritropoyetina, calcitonina, paratohormona, "
+    "grelina, leptina, secretina, gastrina, colecistoquinina, somatostatina, adrenocorticotropina, gonadotropina, hormona luteinizante, FSH, GH, TSH, "
+    "noradrenalina, acetilcolina, GABA, glutamato, endocannabinoides, anandamida, células madre, médula? no, linfocitos, macrófagos, neutrófilos",
+},
+"hecho_leche": {
+ 1: "queso, yogur=yogures, mantequilla, nata, helado, flan, natillas, arroz con leche, batido=batidos, café con leche, leche con cacao=Cola Cao=Nesquik, bechamel",
+ 2: "requesón, cuajada, kéfir, crema catalana, leche frita, dulce de leche=manjar, leche condensada, leche merengada, chocolate con leche=chocolate, "
+    "chocolate caliente=chocolate a la taza, crepes=tortitas, bizcocho, torrijas, panna cotta, tarta de queso, mozzarella, queso fresco, queso de Burgos, "
+    "ricotta, mascarpone, nata montada, petit suisse=Danonino, Actimel, leche en polvo, horchata? no, cortado, capuchino, latte, sopa de leche? no, "
+    "gachas=porridge, papilla, puré de patatas, salsa carbonara? no, quiche, natillas de chocolate, mousse, profiteroles? no, crema pastelera, tocino de cielo? no, "
+    "suero, ghee=mantequilla clarificada, leche sin lactosa, leche de cabra? no, batido de fresa, milkshake, leche con galletas",
+ 3: "queso manchego=manchego, queso de cabra, queso azul, roquefort, cabrales, idiazábal, tetilla, torta del Casar, brie, camembert, parmesano, gouda, "
+    "emmental, cheddar, feta, halloumi, burrata, mató, labneh, skyr, yogur griego, lassi, ayran, quark, cottage, queso crema=Philadelphia, cuajada de oveja, "
+    "leche de pantera? no, ponche, rompope, eggnog=ponche de huevo, leche de tigre? no, chai latte, café bombón=bombón, carajillo? no, cappuccino, macchiato, "
+    "flat white, caramel macchiato, frappé, granizado de café, helado de vainilla, sorbete? no, polo de leche=polo, semifrío, leche helada, tarta de la abuela? no, "
+    "bizcocho de yogur, magdalenas, rosquillas, pan de leche, brioche, croissant, ensaimada? no, pestiños? no, flan de huevo, natillas caseras, "
+    "arroz con leche asturiano, filloas, frixuelos, sopas de leche, migas? no, besamel, salsa de queso, fondue, raclette, macarrones con queso=mac and cheese, "
+    "puré de calabaza? no, crema de verduras, sopa de cebolla? no, salsa Alfredo, salsa cuatro quesos, gratén=gratinado, pastel de patata, tres leches=tarta tres leches",
+ 4: "kumis, kumiss, airag, skyr islandés, smetana, crème fraîche, clotted cream, cuajada vasca=mamia, gaztanbera, requesón de Miraflores, recuit, brossat, "
+    "queso de Mahón, queso de Arzúa, San Simón, cebreiro, afuega'l pitu, gamonéu, picón, majorero, palmero, flor de Guía, zamorano, payoyo, torta de La Serena, "
+    "queso de Tronchón, garrotxa, Tou dels Til·lers? no, provolone, gorgonzola, taleggio, pecorino, grana padano, stracciatella, scamorza, paneer, chhena, "
+    "rasgulla, kulfi, kheer, payasam, basundi, rabri, dulce de leche cortada, cajeta, manjar blanco, blancmange, junket, posset, syllabub, custard, "
+    "flan napolitano, crème brûlée, pots de crème, crema inglesa, leche asada, natilla colombiana, arequipe, tres leches, sopa paraguaya? no, chipá, "
+    "pão de queijo, leche de burra? no, caseína, lactosa, lactosuero, whey=proteína whey, butter milk=suero de mantequilla, cuajo? no",
+},
+})
