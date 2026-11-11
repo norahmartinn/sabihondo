@@ -388,3 +388,196 @@ MANO.update({
     "Why You Wanna Fight?, On My Soul, Nothing Left, Welcome Back, Old & Crazy, 3D, Bonde do Brunão, Come to Brazil, Can't Come Back to Me, This Is My Love, Love",
 },
 })
+
+# ── miércoles 11 ──
+PREGUNTAS.update({
+    "funciona_pilas": "Nombra algo que funcione con pilas",
+    "animal_rayas": "Nombra un animal con rayas",
+    "comida_relleno": "Nombra una comida que lleve relleno",
+    "peluqueria": "Nombra algo que hay en una peluquería",
+    "patata_formas": "Nombra una forma de cocinar la patata",
+    "personaje_gafas": "Nombra un personaje de ficción que lleve gafas",
+})
+MANO.update({
+"funciona_pilas": {
+ 1: "mando de la tele=mando=mando a distancia=el mando, reloj=reloj de pared=despertador, linterna, juguetes=juguete=coche teledirigido, calculadora, "
+    "báscula=peso, mando de la consola=mando de la Play=mando de la Xbox=mando de la Wii, ratón=ratón inalámbrico",
+ 2: "teclado inalámbrico=teclado, radio=transistor, detector de humo=detector de humos, cepillo de dientes eléctrico=cepillo eléctrico, termómetro, "
+    "audífono=audífonos, cámara de fotos=cámara, maquinilla de afeitar=afeitadora, Game Boy=Tamagotchi, luces de Navidad=guirnalda de luces=velas LED, "
+    "mando del garaje=mando de la puerta del garaje, llave del coche=mando del coche, tensiómetro, glucómetro, ambientador automático=ambientador, "
+    "sacacorchos eléctrico, molinillo de pimienta eléctrico, timbre inalámbrico=timbre, walkie-talkie=walkie, frontal=linterna frontal, "
+    "muñeca=muñeco=Furby=peluche que habla, cuentakilómetros de bici=luz de bici=luces de bicicleta, marcapasos, mando del aire acondicionado, discman=walkman",
+ 3: "metrónomo, afinador de guitarra=afinador, puntero láser=láser, sensor de movimiento, cerradura electrónica, candado electrónico, mirilla digital, "
+    "báscula de cocina, termómetro de cocina, temporizador de cocina, encendedor eléctrico, matamosquitos eléctrico=raqueta matamosquitos, "
+    "antimosquitos portátil, repelente de mosquitos, saltamontes de juguete, pistola de agua eléctrica, burbujas=pistola de pompas, "
+    "lupa con luz, nivel láser, multímetro=polímetro, detector de metales, detector de billetes falsos, termostato, estación meteorológica, "
+    "marco de fotos digital, vela de LED, farolillo=farol, espejo con luz, depiladora=depiladora eléctrica, perfilador de cejas, rizador de pestañas, "
+    "cortapelos=cortadora de pelo=maquinilla de cortar el pelo, quitapelusas=quitapelusas eléctrico, sacapuntas eléctrico, borrador eléctrico, "
+    "cámara de caza, prismáticos digitales, GPS de mano, podómetro, pulsómetro, reloj de pulsera=reloj digital, pulsera de actividad, móvil antiguo, "
+    "dispensador de jabón automático, cepillo de limpieza eléctrico, tiradores de luz, piano de juguete, teclado de juguete, coche de Scalextric? no, "
+    "dron de juguete, robot=robot de juguete, peonza de luz, varita mágica de juguete, espada láser de juguete=sable láser, Tamagochi, "
+    "lector de libros electrónico? no, micrófono inalámbrico=micrófono, auriculares antiguos, mando de la calefacción, alarma=alarma de coche=alarma de casa",
+ 4: "contador de monedas, etiquetadora, balanza de joyero, colorímetro, luxómetro, detector de gas, detector de monóxido=detector de CO, "
+    "cámara espía, mira telescópica, señuelo de pesca, picador de pesca=alarma de pesca, comedero automático, fuente para gatos, collar de perro con luz, "
+    "collar antiladridos, localizador=AirTag, mando universal, pulsador de emergencia=botón de teleasistencia, termómetro de oído, aspirador nasal eléctrico, "
+    "sacaleches, vigilabebés=intercomunicador de bebé, móvil de cuna=móvil para la cuna, hamaca de bebé, columpio de bebé, chupete con luz, "
+    "zapatillas con luces, pulsera luminosa, gafas de visión nocturna, gafas de realidad virtual? no, mando del proyector, puntero de presentación, "
+    "medidor láser, cinta métrica digital, sensor de puerta, sensor de agua, regadera automática=programador de riego, mosquitera eléctrica, "
+    "farolillo solar? no, adorno de Navidad musical, tarjeta de felicitación musical=tarjeta musical, globo terráqueo con luz, flexo portátil",
+},
+"animal_rayas": {
+ 1: "cebra=cebras, tigre=tigres, abeja=abejas, avispa=avispas, mofeta=zorrillo",
+ 2: "pez payaso=Nemo, mapache, ardilla listada=ardilla rayada=chipmunk=ardilla, okapi, tejón, serpiente coral=coral, lémur=lémur de cola anillada=lemur, "
+    "jabalí=rayón=jabato, gato atigrado=gato=atigrado, pez cebra, tiburón tigre, bongo, kudú, ñu, hiena rayada=hiena, oruga=orugas, escarabajo de la patata",
+ 3: "pez león, pez cirujano=pez cirujano azul, pez ángel, mosquito tigre, tenrec rayado, pez cebra, serpiente rey, serpiente de cascabel=serpiente, "
+    "abejorro, sírfido, chinche, culebra de escalera, salamandra, tritón, ranita=rana flecha, tilapia, perca, barbo tigre, lubina rayada=lubina, "
+    "pez gato rayado, cebra de Grevy, quagga, tigre de Bengala, tigre siberiano=tigre de Siberia, gato montés, ocelote, tilacino=tigre de Tasmania, "
+    "numbat, nyala, sitatunga, antílope bongo, cálao? no, colibrí? no, pez piedra? no, araña tigre=araña avispa=Argiope, gorrión? no, "
+    "coatí, zorro? no, osito lavador, lince? no, garduña? no, tortuga pintada, iguana, gecko=geco leopardo, gusano de seda, mariposa cebra, chinche rayada, "
+    "pez rayado, sargo, mojarra, besugo? no, morena cebra, anguila listada, tiburón cebra, tiburón ballena? no, pez ballesta, pez mandarín",
+ 4: "suricato, mangosta rayada, mangosta, zorrillo manchado, hurón de patas negras? no, cerdo hormiguero? no, agutí? no, tejón melero, "
+    "tenrec, ardilla terrestre, ardilla de 13 rayas, pájaro carpintero? no, zebú? no, cebroide=cebrasno=zorse, okapi, duiquero cebra, "
+    "camaleón? no, culebra de collar, víbora? no, eslizón, lagartija colilarga, salamanquesa, gallipato, tritón jaspeado, sapo partero? no, "
+    "langostino tigre, gamba tigre=langostino tigre, camarón arlequín, nudibranquio, sepia? no, pulpo de anillos azules=pulpo de anillos, "
+    "chinche del pino, escarabajo avispa, mosca cernidora, abeja carpintera? no, tábano? no, saltamontes? no, cucaracha? no, "
+    "codorniz? no, alcaudón? no, abubilla, picogordo? no, faisán? no, gallo? no, pato mandarín? no",
+},
+"comida_relleno": {
+ 1: "croqueta=croquetas, empanada=empanadas, empanadilla=empanadillas, pimientos rellenos=pimientos del piquillo rellenos=pimientos, canelones, raviolis=ravioli, "
+    "lasaña, tortilla de patatas rellena, donut relleno=donuts rellenos=donut=donuts, berlina=bola de Berlín, burrito=burritos, sándwich=bocadillo=sandwich, "
+    "huevos rellenos=huevos rellenos de atún, croissant relleno=croissant=cruasán=cruasán de chocolate=napolitana=napolitana de chocolate, pavo relleno, calabacín relleno",
+ 2: "berenjena rellena=berenjenas rellenas, tomates rellenos, champiñones rellenos, aceitunas rellenas=aceitunas rellenas de anchoa, mejillones rellenos=tigres, "
+    "calamares rellenos, pollo relleno, cachopo, flamenquín, san jacobo=sanjacobo, rollitos de primavera=rollito de primavera, gyozas=gyoza=dumplings, "
+    "tacos, quesadilla=quesadillas, enchiladas, fajitas, arepas=arepa, pasteles de carne=pastel de carne, bombones rellenos=bombón=bombones, Kinder Bueno, "
+    "Phoskitos, Bollycao, Donettes rellenos, Filipinos? no, profiteroles=profiterol, lionesas, petisú, palmera rellena, caña de crema=cañas rellenas, "
+    "rosquillas rellenas, buñuelos de viento=buñuelos, churros rellenos, gofre relleno, crepes=crepe=crep, tortitas rellenas, tarta? no, "
+    "pizza calzone=calzone, pizza con borde relleno=borde relleno, panzerotti, piadina, wrap=wraps, kebab=durum, pita=pan de pita, hamburguesa, "
+    "perrito caliente=hot dog, sushi=maki, onigiri, tamal=tamales, pupusas, samosa=samosas, pastel de cabello de ángel, ensaimada rellena",
+ 3: "pimientos de Padrón rellenos? no, piquillos rellenos de bacalao, alcachofas rellenas, cebollas rellenas, patatas rellenas, patatas asadas rellenas, "
+    "aguacate relleno, sepia rellena, chipirones rellenos=chipirones en su tinta? no, cangrejo relleno=txangurro, centollo relleno, vieiras rellenas, "
+    "lomo relleno, solomillo relleno=solomillo Wellington=Wellington, cordero relleno, pechuga rellena=pechugas rellenas, rollo de carne, carne mechada, "
+    "muslos rellenos, codornices rellenas, capón relleno, pularda rellena, morcilla? no, butifarra? no, chorizo? no, rabioles, tortellini, cappelletti, "
+    "agnolotti, pasta rellena, conchiglioni rellenos, cannoli, crepes salados, galette, tortilla rellena, flautas, chimichanga, empanada gallega, "
+    "empanada argentina, hornazo, bollo preñao=bollos preñaos, pan preñado, pastel de Murcia, coca rellena, panecillos rellenos, brioche relleno, "
+    "bombas de patata=bomba, bolitas de queso, nuggets? no, croquetas de jamón, pastelitos, bartolillos, pestiños? no, casadielles, carbayones, "
+    "pastel ruso? no, milhojas, petit choux, eclair=éclair=pepito de crema, suizo relleno, trufas? no, dátiles rellenos, ciruelas rellenas, "
+    "huevo Kinder=Kinder Sorpresa, Lacasitos? no, bombón de licor, galletas rellenas=Oreo, Príncipe=galleta Príncipe, Tosta Rica? no, Dinosaurus? no",
+ 4: "dolmas=hojas de parra rellenas, kibbeh=kebbe, börek=burek, pierogi, pelmeni, varenyky, manti, khinkali, momos, bao=baozi, xiaolongbao, "
+    "wontons=wonton, pastel de choclo? no, papas rellenas, chiles en nogada, chiles rellenos, gorditas, tlacoyos, empanadas de vigilia, "
+    "tequeños, cachapa, pastel de nata=pastel de Belém? no, bolinhos de bacalhau? no, coxinha, esfiha, pastéis, rissóis, croquete, "
+    "arancini=arancino, supplì, cannelloni, ravioles, mezzelune, culurgiones, scarpinocc, casoncelli, pansotti, focaccia rellena, "
+    "stromboli, strudel, apfelstrudel, kolache, pączki, sufganiyot, malasadas, bombolone, krapfen, cronut? no, pastel de crema, "
+    "brazo de gitano, pionono, rollo de canela? no, tronco de Navidad, roscón de Reyes relleno=roscón relleno, panettone relleno, "
+    "tortel relleno, xuixo, bunyols de crema, fartons? no, tocinillo? no, cuerno de crema, piononos rellenos, mantecado? no, "
+    "pato a la naranja? no, pavo de Acción de Gracias, cochinillo? no, haggis, turducken, ballotine, galantina, roulade, paupiette, cordon bleu, "
+    "pollo Kiev, schnitzel relleno, beef Wellington, cabeza de ternera? no, tripas rellenas, rellenos de Navidad, empedrat? no, matambre",
+},
+"peluqueria": {
+ 1: "tijeras, secador=secadores, peine=peines, cepillo=cepillos, espejo=espejos, sillón=sillones=silla, champú, peluquero=peluquera=peluqueros, "
+    "lavacabezas=lavabo=pila, plancha=planchas del pelo, tinte=tintes",
+ 2: "laca, gomina=gel, cera=cera para el pelo, mascarilla, acondicionador, maquinilla=máquina de cortar el pelo=cortapelos=maquinilla de afeitar, "
+    "navaja, toallas=toalla, capa=bata=delantal, pinzas=pinzas del pelo=horquillas, rulos, tenacillas=rizador, revistas=revista, pelos en el suelo=pelo=pelos, "
+    "escoba, caja=mostrador=recepción, clientes=cliente, cotilleos=cotilleo, radio=música, mechas, papel de plata=papel de aluminio, brocha=brocha de tinte, "
+    "cuenco del tinte=bol, guantes, espuma, pulverizador=difusor de agua, lista de precios=precios, sala de espera=sofá, café",
+ 3: "secador de casco=casco, vaporizador, carrito=carrito auxiliar, lavadora, cuchillas, brocha de afeitar, espuma de afeitar, aftershave, colonia, "
+    "polvos de talco=talco, cepillo para quitar pelos, difusor, cepillo redondo, cepillo térmico, peine de púas, peine de cola, peine de corte, "
+    "pinzas de cocodrilo, cintas=diademas, gorro de ducha=gorro, gorro de mechas, decolorante, oxigenada=agua oxigenada, keratina, botox capilar, "
+    "permanente, alisado, extensiones, pelucas=peluca, postizos, catálogo de peinados=fotos de peinados, cuadros, cartel de horario, "
+    "productos en venta=estantería de productos, ampollas, sérum, aceite de argán, champú seco, laca de uñas=manicura, esmaltes, "
+    "esterilizador, barbero=barbería, barba, cuchilla de barbero, poste de barbero, tele, wifi, citas=agenda, tarjeta de visita, propina, "
+    "aprendiz, olor a tinte, cortinas, ventilador, aire acondicionado, reloj, flores, cafetera, vasos de agua, caramelos, chuches, niños llorando",
+ 4: "tijeras de entresacar, tijeras de esculpir, navaja de afeitar, sedal? no, cepillo cuello=plumero, cuello de papel=tira de papel, rollo de papel, "
+    "neutralizador, matizador, pigmentos, peróxido, mezclador, balanza para el tinte, temporizador=reloj de cocina, lámpara de infrarrojos=climazón, "
+    "esterilizador de rayos UV, desinfectante=Barbicide, cubo de basura, recogedor, aspiradora, toallas negras, pinzas de pato, separadores, "
+    "redecilla, rodillo, tenacillas de ondas, plancha de ondas, cepillo alisador, cortapuntas, recortadora, perfiladora, trimmer, máquina de patillas, "
+    "silla hidráulica, reposapiés, reposacabezas, cuello del lavacabezas, grifo, ducha de mano, champú anticaspa, champú morado, tónico, loción capilar",
+},
+"patata_formas": {
+ 1: "fritas=patatas fritas, al horno=asadas=patata asada=patatas asadas, cocidas=hervidas=patata cocida, puré=puré de patatas, tortilla=tortilla de patatas, "
+    "bravas=patatas bravas, chips=patatas chips=patatas de bolsa, gajos=deluxe=patatas deluxe",
+ 2: "a lo pobre=patatas a lo pobre, panaderas=patatas panaderas, al vapor, en ensalada=ensaladilla=ensaladilla rusa=ensalada de patata, guisadas=guiso=estofadas, "
+    "rellenas=patatas rellenas, gratinadas=gratén=gratin dauphinois, revolconas=patatas revolconas, a la importancia=patatas a la importancia, "
+    "al microondas, en la freidora de aire=freidora de aire=airfryer, paja=patatas paja, rejilla, risoladas, salteadas=patatas salteadas, "
+    "alioli=patatas alioli=all i oli, con carne=carne con patatas, con chorizo=patatas a la riojana=riojana, papas arrugadas=arrugadas, "
+    "croquetas de patata=croquetas, rösti, hash browns, tortitas de patata, chafadas=aplastadas=smashed, cremas=crema=crema de patata, sopa de patatas",
+ 3: "a la brasa=en las brasas, a la parrilla=a la plancha, confitadas, al ajillo, en salsa verde, a la marinera, en caldereta, con bacalao, "
+    "en papillote, dauphine=patatas dauphine, duquesa=patatas duquesa, Pont-Neuf, soufflé=suflé=patatas soufflé, Anna=patatas Anna, "
+    "fondant=patatas fondant, boulangère, lyonnaise=a la lyonesa, hasselback=patatas hasselback=acordeón, gnocchi=ñoquis, "
+    "kartoffelsalat, poutine, latkes, pierogi, aloo gobi, patatas a la crema, patatas con mojo, mojo picón, patatas meneás, papas con choco, "
+    "patatas en ajopollo, patatas viudas, patatas guisadas con costillas, marmitako, patatas con huevo frito=huevos rotos=huevos estrellados, "
+    "patatas a la cazuela, patatas al rescoldo, patatas a la sal, patatas encebolladas, patatas fritas caseras, patatas en espiral=espiral, "
+    "patatas twister, patatas gofre=waffle fries, patatas cajún, patatas bastón, patatas noisette=noisette, parmentier=hachis parmentier, "
+    "pastel de patata, budín de patata, patatas al cabrales, patatas al queso=patatas con queso, patatas trufadas, patatas con salsa de queso",
+ 4: "pommes allumettes, pommes gaufrettes, pommes château, pommes paille, pommes Pont-Neuf, pommes sautées, pommes de terre en robe des champs, "
+    "patatas en chaqueta, patatas con piel, patatas nuevas, patatas a lo pobre de Sanlúcar, patatas en amarillo, patatas con níscalos, patatas trufa, "
+    "chuño, papa a la huancaína, causa limeña=causa, papa rellena, colcannon, champ, bubble and squeak, rumbledethumps, stamppot, boxty, "
+    "tartiflette, aligot, truffade, kugel, knish, raggmunk, kroppkakor, kartoffelpuffer, Bratkartoffeln, Kartoffelknödel, kopytka, draniki, "
+    "aloo paratha, aloo tikki, batata vada, patatas al curry, patatas bombay, hash, tater tots, curly fries, patatas Hasselback, rissolée",
+},
+"personaje_gafas": {
+ 1: "Harry Potter=Harry, Mortadelo? no, Pepe Gotera? no, Nobita, Velma, Clark Kent=Superman, Bob Esponja? no, Shin Chan? no, "
+    "Daniel el travieso? no, Milhouse, Lisa? no, Manolito Gafotas=Manolito, Arale=Arale Norimaki, Wally=Dónde está Wally, Elton John? no, "
+    "Doctor Who? no, el Doctor Emmett Brown=Doc Brown=Doc, Minions=minion",
+ 2: "Edna Moda=Edna, Gru? no, Mr. Magoo=Magoo, Peter Parker? no, Ugly Betty=Betty=Betty la fea, Steve Urkel=Urkel, Dexter, Velma Dinkley, "
+    "Ron Burgundy? no, Hermione? no, Luna Lovegood? no, Dumbledore, Albus Dumbledore, el profesor Frink=Frink, Martin Prince=Martin, "
+    "el profesor Bacterio=Bacterio, el doctor Zoidberg? no, Hermes? no, Nerd? no, Dwight? no, Earl Sinclair? no, Steve Jobs? no, "
+    "Mafalda? no, Felipe? no, Lisa Simpson? no, Phineas? no, Baljeet, Kenneth? no, Waldo, Scott Summers=Cíclope, Lobezno? no, Nick Furia=Nick Fury? no, "
+    "Tony Stark? no, Neo, Morfeo=Morpheus, el agente Smith=Agente Smith, John Lennon? no, Elton? no, el Gran Lebowski? no, Ron? no, "
+    "Mortadelo=Mortadelo (con gafas)? no, Ojo Loco Moody? no, Sybill Trelawney=Trelawney, Rita Skeeter, Dolores Umbridge? no, Percy Weasley? no",
+ 3: "Bubbles? no, Anteojito=Anteojito, Cuatro Ojos, Chuckie=Chuckie Finster, Sid? no, Clark Griswold? no, Indiana Jones? no, Austin Powers, "
+    "Edna Krabappel? no, Snoopy? no, Linus? no, Marcie=Marcie de Charlie Brown, Peppermint Patty? no, Piggy? no, Kermit? no, "
+    "Beaker? no, Bunsen Honeydew? no, Gonzo? no, el profesor Utonio? no, Dexter's? no, Timmy Turner? no, A.J.? no, Cosmo? no, "
+    "Mr. Krabs? no, Calamardo? no, Plankton? no, Ralph? no, Ojo de Halcón? no, Harley Quinn? no, el Pingüino=Pingüino=Oswald Cobblepot, "
+    "Lisa Turtle? no, Screech=Samuel Powers, Doug Funnie? no, Arthur=Arturo (el oso hormiguero), Francine? no, Buster? no, Brain=Cerebro, "
+    "Milo de Atlantis=Milo Thatch, Russell? no, Carl Fredricksen=Carl=el abuelo de Up, Bruce Banner? no, Willy Wonka? no, Charlie? no, "
+    "Hans Topo, Mr. Burns? no, Sheldon? no, Leonard Hofstadter=Leonard, Howard Wolowitz? no, Raj? no, Lilith? no, Frasier? no, Niles? no, "
+    "Spencer Reid? no, Garcia=Penelope Garcia, Gilbert Grape? no, Napoleon Dynamite=Napoleón Dynamite, Ugly Betty Suárez, Bridget Jones? no, "
+    "Andy Sachs? no, Miranda Priestly? no, Toby? no, Cliff Clavin? no, Jesse Pinkman? no, Walter White? no, Gus Fring=Gustavo Fring, "
+    "Mr. Peabody=Peabody, el profesor Layton=Layton, Doctor Eggman=Eggman=Robotnik, Ignatius? no, Sherman, el Dr. Nick? no, Dr. Doofenshmirtz? no",
+ 4: "Velma de Scooby-Doo, Steve Harrington? no, Dustin? no, Mike Wheeler? no, Bill Gates? no, Dr. Chuck? no, Clark Kent disfrazado, "
+    "Peggy? no, Hank Hill=Hank, Bobby Hill? no, Dale Gribble=Dale, Toad? no, Professor E. Gadd=E. Gadd=profesor Fesor, Nerd de Toy Story? no, "
+    "Jimmy Neutron? no, Carl Wheezer=Carl Wheezer, Edd=Doble D, Kevin? no, Gene Belcher? no, Ted Mosby? no, Marshall? no, "
+    "Doctor Octopus=Doctor Octopus=Otto Octavius, el Búho? no, Rorschach? no, Nite Owl=Búho Nocturno, Harold Lauder? no, Piggy de El señor de las moscas=Piggy, "
+    "Ben Wyatt? no, Ron Swanson? no, Leslie? no, Gene Parmesan? no, Ignatius Reilly? no, el profesor Tornasol=Tornasol, Abraham Tornasol, "
+    "Filemón? no, el Súper? no, Bacterio, Ofelia? no, Rompetechos=Rompetechos, Anacleto? no, Superlópez? no, Zipi? no, Zape? no, Carpanta? no, "
+    "Pepe Gotera y Otilio? no, Doña Urraca? no, Sacarino? no, el profesor Siesta? no, Capitán Trueno? no, Jabato? no, Pafman? no",
+},
+})
+
+PREGUNTAS["app_movil"] = "Nombra una app del móvil"
+MANO["app_movil"] = {
+ 1: "WhatsApp=Whatsapp=wasap, Instagram=Insta, TikTok=Tik Tok, YouTube, Facebook, Google Maps=Maps, Spotify, Netflix, Gmail=correo, Twitter=X, "
+    "Telegram, Google=Chrome=Google Chrome, Safari, cámara=la cámara, calculadora, reloj=despertador=alarma, calendario, Amazon, Uber, Candy Crush",
+ 2: "Snapchat, Pinterest, BeReal, Threads, LinkedIn, Tinder, Bumble, Hinge, Shein, Vinted, Wallapop, AliExpress, Temu, Zara, Glovo, Just Eat, Uber Eats, "
+    "Cabify, Bolt, FreeNow=Free Now, Blablacar=BlaBlaCar, Renfe, Booking, Airbnb, Google Drive=Drive, Dropbox, Outlook, Teams=Microsoft Teams, Zoom, "
+    "Google Meet=Meet, Skype, Duolingo, Shazam, Twitch, Discord, Reddit, Pokémon GO, Clash Royale, Clash of Clans, Subway Surfers, Among Us, Roblox, "
+    "Minecraft, Fortnite, Brawl Stars, Wordle, Bizum, PayPal, Revolut, Google Pay, Apple Pay=Wallet=Cartera, Strava, Waze, notas=Notas, fotos=Fotos=galería, "
+    "linterna, mensajes=SMS, teléfono=llamadas, ajustes, App Store, Google Play=Play Store, Disney+=Disney Plus, HBO=HBO Max=Max, Prime Video, "
+    "Movistar Plus=Movistar+, Filmin, Apple Music, SoundCloud, iCloud, Siri, ChatGPT, CapCut, Lime, Ryanair, Vueling, Iberia, Idealista, Fotocasa, Too Good To Go",
+ 3: "Tuenti, Messenger, Signal, Line, WeChat, Viber, Vine, Periscope, Musical.ly, Ask.fm, Habbo, Grindr, Badoo, Happn, Meetic, Lovoo, Wattpad, Goodreads, "
+    "Letterboxd, Filmaffinity, IMDb, TV Time, Kindle, Audible, Storytel, Ivoox, Podimo, Pocket Casts, Deezer, Tidal, Amazon Music, YouTube Music, "
+    "Google Translate=traductor=Traductor de Google, DeepL, Babbel, Busuu, Photomath, Quizlet, Notion, Trello, Evernote, Todoist, Slack, Asana, Canva, "
+    "Lightroom, Snapseed, VSCO, Facetune, Picsart, InShot, Lensa, FaceApp, Remini, Google Lens, Google Fotos, Microsoft Word=Word, Excel, PowerPoint, "
+    "Google Docs, Mi Fibra? no, Movistar, Vodafone, Orange, Mi Digi, Lowi, Mercadona, Carrefour, Lidl Plus, Dia, Alcampo, El Corte Inglés, Primark, "
+    "Mango, Bershka, Pull&Bear, Stradivarius, H&M, Decathlon, IKEA, Leroy Merlin, Fnac, PcComponentes, MediaMarkt, Druni, Sephora, Primor, Yuka, MyFitnessPal, "
+    "Fitbit, Garmin Connect, Nike Run Club, Adidas Running, Calm, Headspace, Flo, Clue, BeReal., Telepizza, Domino's, McDonald's, Burger King, KFC, "
+    "Starbucks, Telepizza? no, Deliveroo, Rappi? no, Correos, Seur, MRW, Mi Carpeta Ciudadana, Cl@ve=Clave, DGT=miDGT, Agencia Tributaria, App de la Seguridad Social, "
+    "Radar COVID, Metro de Madrid, TMB, EMT, Moovit, Citymapper, Bicimad, Bicing, Cabify? no, Lime? no, Tier, Dott, Acciona, ShareNow, Zity, Wible, "
+    "Parkimeter, ElParking, Telpark, Waylet, Repsol, Cepsa, BP, Ticketmaster, Fever, Entradas.com, Eventbrite, Dice, Xceed, Tripadvisor, El Tenedor=TheFork, "
+    "Skyscanner, Kayak, eDreams, Trainline, Ouigo, Iryo, Alsa, FlixBus, Google Earth, Google Keep, Google Fit, Salud=Apple Salud, Buscar mi iPhone=Encontrar, "
+    "Truecaller, Tinder Gold? no, OnlyFans, Patreon, Kick, Bigo Live, Likee, Zepeto, Lemon8, Pinduoduo? no, Hay Day, FarmVille, Angry Birds, Flappy Bird, "
+    "Temple Run, Fruit Ninja, Doodle Jump, Cut the Rope, Plants vs. Zombies=Plantas contra zombis, Geometry Dash, Piano Tiles, 2048, Sudoku, Apalabrados, "
+    "Preguntados, Trivial Crack, Ludo King, Parchís Star, Toon Blast, Royal Match, Homescapes, Gardenscapes, Coin Master, Hill Climb Racing, Asphalt, "
+    "PUBG Mobile, Call of Duty Mobile, Free Fire, Genshin Impact, Honkai Star Rail, Monopoly Go, Stumble Guys, Pou, My Talking Tom=Talking Tom, Tamagotchi? no",
+ 4: "Bereal? no, Yubo, Wizz, Hoop, Monkey, Omegle, Chatroulette, Kik, Houseparty, Clubhouse, Poparazzi, Dispo, Lapse, Locket, Gas, Tellonym, NGL, Sarahah, "
+    "Tumblr, Flickr, Fotolog, Myspace, Hi5, Foursquare, Swarm, Path, Ello, Mastodon, Bluesky, Nextdoor, Meetup, Couchsurfing, Workaway, Duolingo ABC, "
+    "Anki, Memrise, HelloTalk, Tandem, Mondly, Rosetta Stone, Brainly, Socratic, Microsoft Authenticator, Google Authenticator, 1Password, LastPass, Bitwarden, "
+    "NordVPN, ExpressVPN, Proton Mail, Proton VPN, Brave, Firefox, Opera, DuckDuckGo, Edge, Samsung Internet, CCleaner, Files, Documents, Scanner Pro, CamScanner, "
+    "Adobe Scan, Acrobat, Genius Scan, Shortcuts=Atajos, Tasker, IFTTT, Home=Casa, Alexa, Google Home, SmartThings, Philips Hue, Ring, Tado, Netatmo, "
+    "Endomondo, Runtastic, Komoot, Wikiloc, AllTrails, Relive, Zwift, Peloton, Freeletics, Sweatcoin, Fitness=Apple Fitness, Sleep Cycle, BetterSleep, "
+    "Forest, Flipd, Habitica, Streaks, Daylio, Reflectly, Woebot, Wysa, Replika, Character.AI, Gemini, Copilot, Claude, Perplexity, Midjourney, Pi, "
+    "Lensa AI, Prisma, Meitu, Snow, B612, Ulike, Polycam, Procreate, Ibis Paint, Sketchbook, Tayasui, Concepts, GoodNotes, Notability, Obsidian, Bear, "
+    "Day One, Things, OmniFocus, Fantastical, Spark, Airmail, Superhuman, Hey, Bumble BFF, Wapa, Her, Feeld, Raya, Coffee Meets Bumble, OkCupid, Plenty of Fish, "
+    "Coinbase, Binance, eToro, Trade Republic, MyInvestor, Indexa Capital, N26, Bnext, Vivid, Wise, Bunq, Imagin, ING, BBVA, Santander, CaixaBank, Sabadell, "
+    "Bankinter, Openbank, Kutxabank, Abanca, Unicaja, Ibercaja, Verse, Twyp, Splitwise, Tricount, Fintonic, Wallet by BudgetBakers, Money Manager, Uala? no",
+}

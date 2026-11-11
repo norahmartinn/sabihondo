@@ -1,0 +1,144 @@
+respuesta;alias;nivel;orden_a_mano
+tijeras;;1;1000000000
+secador;secadores;1;999999999
+peine;peines;1;999999998
+cepillo;cepillos;1;999999997
+espejo;espejos;1;999999996
+sillón;sillones|silla;1;999999995
+champú;;1;999999994
+peluquero;peluquera|peluqueros;1;999999993
+lavacabezas;lavabo|pila;1;999999992
+plancha;planchas del pelo;1;999999991
+tinte;tintes;1;999999990
+laca;;2;1000000000
+gomina;gel;2;999999999
+cera;cera para el pelo;2;999999998
+mascarilla;;2;999999997
+acondicionador;;2;999999996
+maquinilla;máquina de cortar el pelo|cortapelos|maquinilla de afeitar;2;999999995
+navaja;;2;999999994
+toallas;toalla;2;999999993
+capa;bata|delantal;2;999999992
+pinzas;pinzas del pelo|horquillas;2;999999991
+rulos;;2;999999990
+tenacillas;rizador;2;999999989
+revistas;revista;2;999999988
+pelos en el suelo;pelo|pelos;2;999999987
+escoba;;2;999999986
+caja;mostrador|recepción;2;999999985
+clientes;cliente;2;999999984
+cotilleos;cotilleo;2;999999983
+radio;música;2;999999982
+mechas;;2;999999981
+papel de plata;papel de aluminio;2;999999980
+brocha;brocha de tinte;2;999999979
+cuenco del tinte;bol;2;999999978
+guantes;;2;999999977
+espuma;;2;999999976
+pulverizador;difusor de agua;2;999999975
+lista de precios;precios;2;999999974
+sala de espera;sofá;2;999999973
+café;;2;999999972
+secador de casco;casco;3;1000000000
+vaporizador;;3;999999999
+carrito;carrito auxiliar;3;999999998
+lavadora;;3;999999997
+cuchillas;;3;999999996
+brocha de afeitar;;3;999999995
+espuma de afeitar;;3;999999994
+aftershave;;3;999999993
+colonia;;3;999999992
+polvos de talco;talco;3;999999991
+cepillo para quitar pelos;;3;999999990
+difusor;;3;999999989
+cepillo redondo;;3;999999988
+cepillo térmico;;3;999999987
+peine de púas;;3;999999986
+peine de cola;;3;999999985
+peine de corte;;3;999999984
+pinzas de cocodrilo;;3;999999983
+cintas;diademas;3;999999982
+gorro de ducha;gorro;3;999999981
+gorro de mechas;;3;999999980
+decolorante;;3;999999979
+oxigenada;agua oxigenada;3;999999978
+keratina;;3;999999977
+botox capilar;;3;999999976
+permanente;;3;999999975
+alisado;;3;999999974
+extensiones;;3;999999973
+pelucas;peluca;3;999999972
+postizos;;3;999999971
+catálogo de peinados;fotos de peinados;3;999999970
+cuadros;;3;999999969
+cartel de horario;;3;999999968
+productos en venta;estantería de productos;3;999999967
+ampollas;;3;999999966
+sérum;;3;999999965
+aceite de argán;;3;999999964
+champú seco;;3;999999963
+esmaltes;;3;999999961
+esterilizador;;3;999999960
+barbero;barbería;3;999999959
+barba;;3;999999958
+cuchilla de barbero;;3;999999957
+poste de barbero;;3;999999956
+tele;;3;999999955
+wifi;;3;999999954
+citas;agenda;3;999999953
+tarjeta de visita;;3;999999952
+propina;;3;999999951
+aprendiz;;3;999999950
+olor a tinte;;3;999999949
+cortinas;;3;999999948
+ventilador;;3;999999947
+aire acondicionado;;3;999999946
+reloj;;3;999999945
+flores;;3;999999944
+cafetera;;3;999999943
+vasos de agua;;3;999999942
+caramelos;;3;999999941
+chuches;;3;999999940
+niños llorando;;3;999999939
+tijeras de entresacar;;4;1000000000
+tijeras de esculpir;;4;999999999
+navaja de afeitar;;4;999999998
+cepillo cuello;plumero;4;999999997
+cuello de papel;tira de papel;4;999999996
+rollo de papel;;4;999999995
+neutralizador;;4;999999994
+matizador;;4;999999993
+pigmentos;;4;999999992
+peróxido;;4;999999991
+mezclador;;4;999999990
+balanza para el tinte;;4;999999989
+temporizador;reloj de cocina;4;999999988
+lámpara de infrarrojos;climazón;4;999999987
+esterilizador de rayos UV;;4;999999986
+desinfectante;Barbicide;4;999999985
+cubo de basura;;4;999999984
+recogedor;;4;999999983
+aspiradora;;4;999999982
+toallas negras;;4;999999981
+pinzas de pato;;4;999999980
+separadores;;4;999999979
+redecilla;;4;999999978
+rodillo;;4;999999977
+tenacillas de ondas;;4;999999976
+plancha de ondas;;4;999999975
+cepillo alisador;;4;999999974
+cortapuntas;;4;999999973
+recortadora;;4;999999972
+perfiladora;;4;999999971
+trimmer;;4;999999970
+máquina de patillas;;4;999999969
+silla hidráulica;;4;999999968
+reposapiés;;4;999999967
+reposacabezas;;4;999999966
+cuello del lavacabezas;;4;999999965
+grifo;;4;999999964
+ducha de mano;;4;999999963
+champú anticaspa;;4;999999962
+champú morado;;4;999999961
+tónico;;4;999999960
+loción capilar;;4;999999959

@@ -1,0 +1,460 @@
+respuesta;alias;nivel;orden_a_mano
+WhatsApp;wasap;1;1000000000
+Instagram;Insta;1;999999999
+TikTok;;1;999999998
+YouTube;;1;999999997
+Facebook;;1;999999996
+Google Maps;Maps;1;999999995
+Spotify;;1;999999994
+Netflix;;1;999999993
+Gmail;correo;1;999999992
+Twitter;X;1;999999991
+Telegram;;1;999999990
+Google;Chrome|Google Chrome;1;999999989
+Safari;;1;999999988
+cámara;;1;999999987
+calculadora;;1;999999986
+reloj;despertador|alarma;1;999999985
+calendario;;1;999999984
+Amazon;;1;999999983
+Uber;;1;999999982
+Candy Crush;;1;999999981
+Snapchat;;2;1000000000
+Pinterest;;2;999999999
+BeReal;;2;999999998
+Threads;;2;999999997
+LinkedIn;;2;999999996
+Tinder;;2;999999995
+Bumble;;2;999999994
+Hinge;;2;999999993
+Shein;;2;999999992
+Vinted;;2;999999991
+Wallapop;;2;999999990
+AliExpress;;2;999999989
+Temu;;2;999999988
+Zara;;2;999999987
+Glovo;;2;999999986
+Just Eat;;2;999999985
+Uber Eats;;2;999999984
+Cabify;;2;999999983
+Bolt;;2;999999982
+FreeNow;;2;999999981
+Blablacar;;2;999999980
+Renfe;;2;999999979
+Booking;;2;999999978
+Airbnb;;2;999999977
+Google Drive;Drive;2;999999976
+Dropbox;;2;999999975
+Outlook;;2;999999974
+Teams;Microsoft Teams;2;999999973
+Zoom;;2;999999972
+Google Meet;Meet;2;999999971
+Skype;;2;999999970
+Duolingo;;2;999999969
+Shazam;;2;999999968
+Twitch;;2;999999967
+Discord;;2;999999966
+Reddit;;2;999999965
+Pokémon GO;;2;999999964
+Clash Royale;;2;999999963
+Clash of Clans;;2;999999962
+Subway Surfers;;2;999999961
+Among Us;;2;999999960
+Roblox;;2;999999959
+Minecraft;;2;999999958
+Fortnite;;2;999999957
+Brawl Stars;;2;999999956
+Wordle;;2;999999955
+Bizum;;2;999999954
+PayPal;;2;999999953
+Revolut;;2;999999952
+Google Pay;;2;999999951
+Apple Pay;Wallet|Cartera;2;999999950
+Strava;;2;999999949
+Waze;;2;999999948
+notas;;2;999999947
+fotos;galería;2;999999946
+linterna;;2;999999945
+mensajes;SMS;2;999999944
+teléfono;llamadas;2;999999943
+ajustes;;2;999999942
+App Store;;2;999999941
+Google Play;Play Store;2;999999940
+Disney+;Disney Plus;2;999999939
+HBO;HBO Max|Max;2;999999938
+Prime Video;;2;999999937
+Movistar Plus;Movistar+;2;999999936
+Filmin;;2;999999935
+Apple Music;;2;999999934
+SoundCloud;;2;999999933
+iCloud;;2;999999932
+Siri;;2;999999931
+ChatGPT;;2;999999930
+CapCut;;2;999999929
+Lime;;2;999999928
+Ryanair;;2;999999927
+Vueling;;2;999999926
+Iberia;;2;999999925
+Idealista;;2;999999924
+Fotocasa;;2;999999923
+Too Good To Go;;2;999999922
+Tuenti;;3;1000000000
+Messenger;;3;999999999
+Signal;;3;999999998
+Line;;3;999999997
+WeChat;;3;999999996
+Viber;;3;999999995
+Vine;;3;999999994
+Periscope;;3;999999993
+Musical.ly;;3;999999992
+Ask.fm;;3;999999991
+Habbo;;3;999999990
+Grindr;;3;999999989
+Badoo;;3;999999988
+Happn;;3;999999987
+Meetic;;3;999999986
+Lovoo;;3;999999985
+Wattpad;;3;999999984
+Goodreads;;3;999999983
+Letterboxd;;3;999999982
+Filmaffinity;;3;999999981
+IMDb;;3;999999980
+TV Time;;3;999999979
+Kindle;;3;999999978
+Audible;;3;999999977
+Storytel;;3;999999976
+Ivoox;;3;999999975
+Podimo;;3;999999974
+Pocket Casts;;3;999999973
+Deezer;;3;999999972
+Tidal;;3;999999971
+Amazon Music;;3;999999970
+YouTube Music;;3;999999969
+Google Translate;traductor|Traductor de Google;3;999999968
+DeepL;;3;999999967
+Babbel;;3;999999966
+Busuu;;3;999999965
+Photomath;;3;999999964
+Quizlet;;3;999999963
+Notion;;3;999999962
+Trello;;3;999999961
+Evernote;;3;999999960
+Todoist;;3;999999959
+Slack;;3;999999958
+Asana;;3;999999957
+Canva;;3;999999956
+Lightroom;;3;999999955
+Snapseed;;3;999999954
+VSCO;;3;999999953
+Facetune;;3;999999952
+Picsart;;3;999999951
+InShot;;3;999999950
+Lensa;;3;999999949
+FaceApp;;3;999999948
+Remini;;3;999999947
+Google Lens;;3;999999946
+Google Fotos;;3;999999945
+Microsoft Word;Word;3;999999944
+Excel;;3;999999943
+PowerPoint;;3;999999942
+Google Docs;;3;999999941
+Vodafone;;3;999999939
+Orange;;3;999999938
+Mi Digi;;3;999999937
+Lowi;;3;999999936
+Mercadona;;3;999999935
+Carrefour;;3;999999934
+Lidl Plus;;3;999999933
+Dia;;3;999999932
+Alcampo;;3;999999931
+El Corte Inglés;;3;999999930
+Primark;;3;999999929
+Mango;;3;999999928
+Bershka;;3;999999927
+Pull&Bear;;3;999999926
+Stradivarius;;3;999999925
+H&M;;3;999999924
+Decathlon;;3;999999923
+IKEA;;3;999999922
+Leroy Merlin;;3;999999921
+Fnac;;3;999999920
+PcComponentes;;3;999999919
+MediaMarkt;;3;999999918
+Druni;;3;999999917
+Sephora;;3;999999916
+Primor;;3;999999915
+Yuka;;3;999999914
+MyFitnessPal;;3;999999913
+Fitbit;;3;999999912
+Garmin Connect;;3;999999911
+Nike Run Club;;3;999999910
+Adidas Running;;3;999999909
+Calm;;3;999999908
+Headspace;;3;999999907
+Flo;;3;999999906
+Clue;;3;999999905
+Telepizza;;3;999999903
+Domino's;;3;999999902
+McDonald's;;3;999999901
+Burger King;;3;999999900
+KFC;;3;999999899
+Starbucks;;3;999999898
+Deliveroo;;3;999999897
+Correos;;3;999999896
+Seur;;3;999999895
+MRW;;3;999999894
+Mi Carpeta Ciudadana;;3;999999893
+Cl@ve;Clave;3;999999892
+DGT;miDGT;3;999999891
+Agencia Tributaria;;3;999999890
+App de la Seguridad Social;;3;999999889
+Radar COVID;;3;999999888
+Metro de Madrid;;3;999999887
+TMB;;3;999999886
+EMT;;3;999999885
+Moovit;;3;999999884
+Citymapper;;3;999999883
+Bicimad;;3;999999882
+Bicing;;3;999999881
+Tier;;3;999999880
+Dott;;3;999999879
+Acciona;;3;999999878
+ShareNow;;3;999999877
+Zity;;3;999999876
+Wible;;3;999999875
+Parkimeter;;3;999999874
+ElParking;;3;999999873
+Telpark;;3;999999872
+Waylet;;3;999999871
+Repsol;;3;999999870
+Cepsa;;3;999999869
+BP;;3;999999868
+Ticketmaster;;3;999999867
+Fever;;3;999999866
+Entradas.com;;3;999999865
+Eventbrite;;3;999999864
+Dice;;3;999999863
+Xceed;;3;999999862
+Tripadvisor;;3;999999861
+El Tenedor;TheFork;3;999999860
+Skyscanner;;3;999999859
+Kayak;;3;999999858
+eDreams;;3;999999857
+Trainline;;3;999999856
+Ouigo;;3;999999855
+Iryo;;3;999999854
+Alsa;;3;999999853
+FlixBus;;3;999999852
+Google Earth;;3;999999851
+Google Keep;;3;999999850
+Google Fit;;3;999999849
+Salud;Apple Salud;3;999999848
+Buscar mi iPhone;Encontrar;3;999999847
+Truecaller;;3;999999846
+OnlyFans;;3;999999845
+Patreon;;3;999999844
+Kick;;3;999999843
+Bigo Live;;3;999999842
+Likee;;3;999999841
+Zepeto;;3;999999840
+Lemon8;;3;999999839
+Hay Day;;3;999999838
+FarmVille;;3;999999837
+Angry Birds;;3;999999836
+Flappy Bird;;3;999999835
+Temple Run;;3;999999834
+Fruit Ninja;;3;999999833
+Doodle Jump;;3;999999832
+Cut the Rope;;3;999999831
+Plants vs. Zombies;Plantas contra zombis;3;999999830
+Geometry Dash;;3;999999829
+Piano Tiles;;3;999999828
+2048;;3;999999827
+Sudoku;;3;999999826
+Apalabrados;;3;999999825
+Preguntados;;3;999999824
+Trivial Crack;;3;999999823
+Ludo King;;3;999999822
+Parchís Star;;3;999999821
+Toon Blast;;3;999999820
+Royal Match;;3;999999819
+Homescapes;;3;999999818
+Gardenscapes;;3;999999817
+Coin Master;;3;999999816
+Hill Climb Racing;;3;999999815
+Asphalt;;3;999999814
+PUBG Mobile;;3;999999813
+Call of Duty Mobile;;3;999999812
+Free Fire;;3;999999811
+Genshin Impact;;3;999999810
+Honkai Star Rail;;3;999999809
+Monopoly Go;;3;999999808
+Stumble Guys;;3;999999807
+Pou;;3;999999806
+My Talking Tom;Talking Tom;3;999999805
+Yubo;;4;1000000000
+Wizz;;4;999999999
+Hoop;;4;999999998
+Monkey;;4;999999997
+Omegle;;4;999999996
+Chatroulette;;4;999999995
+Kik;;4;999999994
+Houseparty;;4;999999993
+Clubhouse;;4;999999992
+Poparazzi;;4;999999991
+Dispo;;4;999999990
+Lapse;;4;999999989
+Locket;;4;999999988
+Gas;;4;999999987
+Tellonym;;4;999999986
+NGL;;4;999999985
+Sarahah;;4;999999984
+Tumblr;;4;999999983
+Flickr;;4;999999982
+Fotolog;;4;999999981
+Myspace;;4;999999980
+Hi5;;4;999999979
+Foursquare;;4;999999978
+Swarm;;4;999999977
+Path;;4;999999976
+Ello;;4;999999975
+Mastodon;;4;999999974
+Bluesky;;4;999999973
+Nextdoor;;4;999999972
+Meetup;;4;999999971
+Couchsurfing;;4;999999970
+Workaway;;4;999999969
+Duolingo ABC;;4;999999968
+Anki;;4;999999967
+Memrise;;4;999999966
+HelloTalk;;4;999999965
+Tandem;;4;999999964
+Mondly;;4;999999963
+Rosetta Stone;;4;999999962
+Brainly;;4;999999961
+Socratic;;4;999999960
+Microsoft Authenticator;;4;999999959
+Google Authenticator;;4;999999958
+1Password;;4;999999957
+LastPass;;4;999999956
+Bitwarden;;4;999999955
+NordVPN;;4;999999954
+ExpressVPN;;4;999999953
+Proton Mail;;4;999999952
+Proton VPN;;4;999999951
+Brave;;4;999999950
+Firefox;;4;999999949
+Opera;;4;999999948
+DuckDuckGo;;4;999999947
+Edge;;4;999999946
+Samsung Internet;;4;999999945
+CCleaner;;4;999999944
+Files;;4;999999943
+Documents;;4;999999942
+Scanner Pro;;4;999999941
+CamScanner;;4;999999940
+Adobe Scan;;4;999999939
+Acrobat;;4;999999938
+Genius Scan;;4;999999937
+Shortcuts;Atajos;4;999999936
+Tasker;;4;999999935
+IFTTT;;4;999999934
+Home;Casa;4;999999933
+Alexa;;4;999999932
+Google Home;;4;999999931
+SmartThings;;4;999999930
+Philips Hue;;4;999999929
+Ring;;4;999999928
+Tado;;4;999999927
+Netatmo;;4;999999926
+Endomondo;;4;999999925
+Runtastic;;4;999999924
+Komoot;;4;999999923
+Wikiloc;;4;999999922
+AllTrails;;4;999999921
+Relive;;4;999999920
+Zwift;;4;999999919
+Peloton;;4;999999918
+Freeletics;;4;999999917
+Sweatcoin;;4;999999916
+Fitness;Apple Fitness;4;999999915
+Sleep Cycle;;4;999999914
+BetterSleep;;4;999999913
+Forest;;4;999999912
+Flipd;;4;999999911
+Habitica;;4;999999910
+Streaks;;4;999999909
+Daylio;;4;999999908
+Reflectly;;4;999999907
+Woebot;;4;999999906
+Wysa;;4;999999905
+Replika;;4;999999904
+Character.AI;;4;999999903
+Gemini;;4;999999902
+Copilot;;4;999999901
+Claude;;4;999999900
+Perplexity;;4;999999899
+Midjourney;;4;999999898
+Pi;;4;999999897
+Lensa AI;;4;999999896
+Prisma;;4;999999895
+Meitu;;4;999999894
+Snow;;4;999999893
+B612;;4;999999892
+Ulike;;4;999999891
+Polycam;;4;999999890
+Procreate;;4;999999889
+Ibis Paint;;4;999999888
+Sketchbook;;4;999999887
+Tayasui;;4;999999886
+Concepts;;4;999999885
+GoodNotes;;4;999999884
+Notability;;4;999999883
+Obsidian;;4;999999882
+Bear;;4;999999881
+Day One;;4;999999880
+Things;;4;999999879
+OmniFocus;;4;999999878
+Fantastical;;4;999999877
+Spark;;4;999999876
+Airmail;;4;999999875
+Superhuman;;4;999999874
+Hey;;4;999999873
+Bumble BFF;;4;999999872
+Wapa;;4;999999871
+Her;;4;999999870
+Feeld;;4;999999869
+Raya;;4;999999868
+Coffee Meets Bumble;;4;999999867
+OkCupid;;4;999999866
+Plenty of Fish;;4;999999865
+Coinbase;;4;999999864
+Binance;;4;999999863
+eToro;;4;999999862
+Trade Republic;;4;999999861
+MyInvestor;;4;999999860
+Indexa Capital;;4;999999859
+N26;;4;999999858
+Bnext;;4;999999857
+Vivid;;4;999999856
+Wise;;4;999999855
+Bunq;;4;999999854
+Imagin;;4;999999853
+ING;;4;999999852
+BBVA;;4;999999851
+Santander;;4;999999850
+CaixaBank;;4;999999849
+Sabadell;;4;999999848
+Bankinter;;4;999999847
+Openbank;;4;999999846
+Kutxabank;;4;999999845
+Abanca;;4;999999844
+Unicaja;;4;999999843
+Ibercaja;;4;999999842
+Verse;;4;999999841
+Twyp;;4;999999840
+Splitwise;;4;999999839
+Tricount;;4;999999838
+Fintonic;;4;999999837
+Wallet by BudgetBakers;;4;999999836
+Money Manager;;4;999999835

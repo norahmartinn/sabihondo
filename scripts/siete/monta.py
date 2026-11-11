@@ -270,6 +270,12 @@ PREGUNTAS = [
     ("Nombra una película de Barbie", "barbie_pelis"),
     ("Nombra una canción de Bruno Mars", "bruno_mars"),
     ("Nombra algo que hay en una gasolinera", "gasolinera"),
+    ("Nombra algo que funcione con pilas", "funciona_pilas"),
+    ("Nombra un animal con rayas", "animal_rayas"),
+    ("Nombra una comida que lleve relleno", "comida_relleno"),
+    ("Nombra algo que hay en una peluquería", "peluqueria"),
+    ("Nombra una forma de cocinar la patata", "patata_formas"),
+    ("Nombra una app del móvil", "app_movil"),
 ]
 
 # Desde el 31 de octubre de 2026 los niveles son más generosos: la gente veía casi imposible llegar a Muy raro y Sabihondo.
