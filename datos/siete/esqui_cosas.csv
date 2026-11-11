@@ -1,0 +1,176 @@
+respuesta;alias;nivel;orden_a_mano
+nieve;;1;1000000000
+esquís;esquí;1;999999999
+telesilla;telesillas;1;999999998
+pistas;pista;1;999999997
+botas de esquí;botas;1;999999996
+bastones;palos;1;999999995
+snowboard;tabla de snow;1;999999994
+frío;;1;999999993
+teleférico;;1;999999992
+gafas de esquí;gafas;1;999999991
+casco;;1;999999990
+remonte;remontes;2;1000000000
+telesquí;telearrastre|percha;2;999999999
+telecabina;;2;999999998
+cañones de nieve;cañones;2;999999997
+máquina pisapistas;pisapistas|ratrac;2;999999996
+escuela de esquí;monitores|monitor;2;999999995
+forfait;forfaits|pase;2;999999994
+taquilla;taquillas;2;999999993
+alquiler de esquís;alquiler;2;999999992
+cafetería;bar|restaurante;2;999999991
+chocolate caliente;chocolate con churros;2;999999990
+hotel;apartamentos;2;999999989
+parking;aparcamiento;2;999999988
+quitanieves;;2;999999987
+cadenas;;2;999999986
+mapa de pistas;plano de pistas;2;999999985
+pista verde;pista azul|pista roja|pista negra;2;999999984
+socorristas;pisteros;2;999999983
+trineos;trineo;2;999999982
+guantes;;2;999999981
+gorro;;2;999999980
+braga;braga de cuello;2;999999979
+chaqueta de esquí;anorak;2;999999978
+pantalón de esquí;;2;999999977
+crema solar;;2;999999976
+montañas;montaña;2;999999975
+árboles;pinos;2;999999974
+esquiadores;esquiador;2;999999973
+snowboarders;;2;999999972
+niños;;2;999999971
+cola;colas;2;999999970
+enfermería;;2;999999969
+après-ski;;2;999999968
+hielo;;2;999999967
+sol;;2;999999965
+viento;;2;999999964
+ventisca;;2;999999963
+avalancha;aludes;2;999999962
+cinta transportadora;alfombra mágica;3;1000000000
+banderines;;3;999999999
+puertas de slalom;balizas;3;999999998
+snowpark;park;3;999999997
+halfpipe;;3;999999996
+saltos;rampas;3;999999995
+raquetas de nieve;;3;999999994
+esquí de fondo;;3;999999993
+circuito de fondo;;3;999999992
+guardaesquís;taquillas de esquís;3;999999991
+botas de snow;;3;999999990
+fijaciones;;3;999999989
+cera;cera de esquí;3;999999988
+protector labial;;3;999999987
+gafas de ventisca;;3;999999986
+radio;;3;999999985
+megáfono;;3;999999984
+cartel de peligro de aludes;;3;999999983
+banderas;;3;999999982
+red de seguridad;redes|colchonetas;3;999999981
+señales de pista;;3;999999980
+cumbre;cima;3;999999979
+chalet;refugio;3;999999978
+fondue;;3;999999977
+vin chaud;vino caliente;3;999999976
+cervezas;;3;999999975
+discoteca;;3;999999974
+jacuzzi;;3;999999973
+spa;;3;999999972
+piscina climatizada;;3;999999971
+tienda;tienda de esquí;3;999999970
+farmacia;;3;999999969
+ambulancia;;3;999999968
+helicóptero;;3;999999967
+motonieve;motos de nieve;3;999999966
+perros de rescate;perros;3;999999965
+ARVA;detector de víctimas;3;999999964
+pala;;3;999999963
+sonda;;3;999999962
+mochila airbag;;3;999999961
+webcam;cámara;3;999999960
+estación meteorológica;;3;999999959
+termómetro;;3;999999958
+nieve artificial;;3;999999957
+nieve polvo;;3;999999956
+nieve dura;;3;999999955
+placas de hielo;;3;999999954
+ventisquero;;3;999999953
+cornisa;;3;999999952
+fuera de pista;;3;999999951
+esquí de travesía;skimo;3;999999950
+pieles de foca;;3;999999949
+crampones;;3;999999948
+piolet;;3;999999947
+bufanda;;3;999999946
+calcetines térmicos;;3;999999945
+ropa térmica;;3;999999944
+manopla;;3;999999943
+cubrebotas;;3;999999942
+telesilla desembragable;;4;1000000000
+silla de seis;;4;999999999
+telemix;;4;999999998
+funicular;;4;999999997
+cremallera;tren cremallera;4;999999996
+tapis roulant;;4;999999995
+cinta de esquí;;4;999999994
+arrastre de pértiga;pértiga;4;999999993
+pilona;;4;999999992
+torre de cañones;;4;999999991
+lanza de nieve;;4;999999990
+balsa de innivación;;4;999999989
+pisapistas con cabrestante;;4;999999988
+fresadora;;4;999999987
+pala quitanieves;;4;999999986
+cabina de remonte;;4;999999985
+torniquete;tornos;4;999999984
+lector de forfait;;4;999999983
+chip;;4;999999982
+tarjeta magnética;;4;999999981
+jardín de nieve;;4;999999980
+guardería;;4;999999979
+club de esquí;;4;999999978
+competición;;4;999999977
+slalom gigante;slalom|eslalon;4;999999976
+supergigante;;4;999999975
+descenso;;4;999999974
+combinada;;4;999999973
+moguls;bañeras;4;999999972
+baches;;4;999999971
+boardercross;;4;999999970
+skicross;;4;999999969
+telemark;;4;999999968
+freeride;;4;999999967
+freestyle;;4;999999966
+cajón;box;4;999999965
+rail;;4;999999964
+kicker;;4;999999963
+quarterpipe;;4;999999962
+big air;;4;999999961
+piste basher;;4;999999960
+puesto de socorro;;4;999999959
+camilla;akja;4;999999958
+trineo de rescate;;4;999999957
+collarín;;4;999999956
+férula;;4;999999955
+mantas térmicas;;4;999999954
+pistero socorrista;;4;999999953
+perro de avalanchas;;4;999999952
+Barryvox;;4;999999951
+PIEPS;;4;999999950
+sondas;;4;999999949
+mochila ABS;;4;999999948
+kit de avalanchas;;4;999999947
+boletín de aludes;;4;999999946
+escala de aludes;;4;999999945
+bandera negra;;4;999999944
+cristales de nieve;;4;999999943
+escarcha;;4;999999942
+rimaya;;4;999999941
+glaciar;;4;999999940
+morrena;;4;999999939
+serac;;4;999999938
+fondue de queso;;4;999999937
+crepería;;4;999999936
+raclette;;4;999999935
+tartiflette;;4;999999934

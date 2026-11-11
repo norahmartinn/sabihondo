@@ -578,7 +578,7 @@ MANO["app_movil"] = {
     "Forest, Flipd, Habitica, Streaks, Daylio, Reflectly, Woebot, Wysa, Replika, Character.AI, Gemini, Copilot, Claude, Perplexity, Midjourney, Pi, "
     "Lensa AI, Prisma, Meitu, Snow, B612, Ulike, Polycam, Procreate, Ibis Paint, Sketchbook, Tayasui, Concepts, GoodNotes, Notability, Obsidian, Bear, "
     "Day One, Things, OmniFocus, Fantastical, Spark, Airmail, Superhuman, Hey, Bumble BFF, Wapa, Her, Feeld, Raya, Coffee Meets Bumble, OkCupid, Plenty of Fish, "
-    "Coinbase, Binance, eToro, Trade Republic, MyInvestor, Indexa Capital, N26, Bnext, Vivid, Wise, Bunq, Imagin, ING, BBVA, Santander, CaixaBank, Sabadell, "
+    "Tribbu, Coinbase, Binance, eToro, Trade Republic, MyInvestor, Indexa Capital, N26, Bnext, Vivid, Wise, Bunq, Imagin, ING, BBVA, Santander, CaixaBank, Sabadell, "
     "Bankinter, Openbank, Kutxabank, Abanca, Unicaja, Ibercaja, Verse, Twyp, Splitwise, Tricount, Fintonic, Wallet by BudgetBakers, Money Manager, Uala? no",
 }
 
@@ -705,5 +705,208 @@ MANO.update({
     "rasgulla, kulfi, kheer, payasam, basundi, rabri, dulce de leche cortada, cajeta, manjar blanco, blancmange, junket, posset, syllabub, custard, "
     "flan napolitano, crème brûlée, pots de crème, crema inglesa, leche asada, natilla colombiana, arequipe, tres leches, sopa paraguaya? no, chipá, "
     "pão de queijo, leche de burra? no, caseína, lactosa, lactosuero, whey=proteína whey, butter milk=suero de mantequilla, cuajo? no",
+},
+})
+
+# ── viernes 13 ──
+PREGUNTAS.update({
+    "farmacia": "Nombra una cosa que se venda en una farmacia",
+    "tiene_cremallera": "Nombra algo que tenga cremallera",
+    "plato_huevo": "Nombra un plato que lleve huevo",
+    "esqui_cosas": "Nombra algo que hay en una estación de esquí",
+    "se_vende_barra": "Nombra algo que se vende en barra",
+    "villano_animal": "Nombra un villano que sea un animal",
+    "estanco": "Nombra algo que se vende en un estanco",
+})
+MANO.update({
+"farmacia": {
+ 1: "medicamentos=medicinas=pastillas=fármacos, paracetamol=Gelocatil=Dafalgan, ibuprofeno=Espidifen=Neobrufen=Dalsy, aspirina, tiritas=tirita=apósitos, "
+    "crema=cremas, preservativos=condones=condón, test de embarazo=prueba de embarazo, termómetro, jarabe=jarabe para la tos, gasas, alcohol, mascarillas=mascarilla",
+ 2: "Frenadol, Couldina, Bisolvon? no, Strepsils=pastillas para la garganta=caramelos para la garganta, Voltarén=Voltaren, Enantyum, Nolotil, Almax, Omeprazol, "
+    "antibiótico=antibióticos=amoxicilina, pomada, Betadine=povidona yodada, agua oxigenada, gel hidroalcohólico, protector solar=crema solar=Isdin, "
+    "pasta de dientes, cepillo de dientes, colutorio=enjuague bucal, seda dental=hilo dental, champú anticaspa=champú, champú antipiojos=antipiojos=lendrera, "
+    "leche infantil=leche de bebé, chupetes=chupete, biberón, pañales, toallitas, crema de pañal=Mitosyl, suero fisiológico=suero, lágrimas artificiales=colirio, "
+    "lentillas=líquido de lentillas, vitaminas=vitamina C=vitamina D, magnesio, colágeno, melatonina, probióticos, píldora anticonceptiva=anticonceptivos, "
+    "píldora del día después=pastilla del día después, lubricante, compresas, tampones, copa menstrual, test de antígenos=test de COVID, tensiómetro, "
+    "vendas=venda, esparadrapo, tiritas para ampollas=Compeed, bolsa de agua caliente, rodillera, muñequera, tobillera, faja, medias de compresión, "
+    "Durex, Avène, La Roche-Posay, Vichy, Isdin, Eucerin, Bioderma, Cerave, Nivea, Uriage, A-Derma, Sesderma, Martiderm, Heliocare",
+ 3: "Almax forte? no, Primperan, Fortasec, Imodium, suero oral=sueros=Bioralsuero, Dulcolax=laxante, Micralax, Hemoal, Lizipaina, Flutox, Iniston, Bisolgrip, "
+    "Ilvico, Cinfatós, Fluimucil, Mucosan, Vicks VapoRub=Vicks, Respibien, Rhinomer, Sterimar, Otocerum? no, agua de mar en espray, Reflex, Radio Salil, "
+    "Fastum gel, Thrombocid, Hirudoid, Cristalmina=clorhexidina, mercromina=Mercurocromo, Blastoestimulina, Trombocid, Fucidine, Silvederma, Bepanthol, "
+    "vaselina, Halibut, aceite de almendras, aloe vera, after sun, repelente de mosquitos=antimosquitos=Relec, Goibi, Fenistil, Talquistina, Afterbite, "
+    "Mitosyl, crema de manos, cacao de labios=protector labial=Labello, Lipikar, Atoderm, Neutrogena, Cicaplast, Avène Cicalfate, Biafine, Cicalfate, "
+    "Dodot, Nutribén, Blemil, Almirón, Nidina, Enfamil, Hero Baby, Suavinex, Chicco, Nuk, Philips Avent, cepillo interdental, Lacer, Vitis, Kin, Oral-B, "
+    "Sensodyne, Fluocaril, Parodontax, GUM, cera para ortodoncia, pegamento para dentaduras=Corega, Kukident, Benegast? no, Supradyn, Pharmaton, Berocca, "
+    "Arkopharma, Aquilea, Redoxon, Multicentrum=Centrum, Femibion, hierro, ácido fólico, Omega 3, valeriana, tila, Dormidina, pastillas para dormir, "
+    "parches de nicotina=Nicorette, chicles de nicotina, tiras de glucosa, glucómetro, lancetas, jeringuillas, insulina, inhalador=Ventolin, pulsioxímetro, "
+    "nebulizador, muletas, andador, silla de ruedas, cojín antiescaras, plantillas=Dr. Scholl, callicida, piedra pómez, lima de pies, cortaúñas, pinzas, "
+    "tapones para los oídos=tapones=Tapones Quies, antifaz, bolsa de hielo=frío instantáneo, botiquín, guantes de látex=guantes, Lactovit? no, desodorante=Vichy desodorante, "
+    "tinte de pelo? no, quitaesmalte, pintalabios? no, maquillaje, base de maquillaje, rímel, Avène agua termal=agua termal, sérum, retinol, ácido hialurónico, "
+    "contorno de ojos, exfoliante, mascarilla facial, gel íntimo, Chilly, Lactacyd, test de ovulación, gafas de presbicia=gafas de lectura, cuentagotas",
+ 4: "Paracetamol Kern? no, Efferalgan, Termalgin, Apiretal, Dalsy, Junifen, Algidol, Actron, Optalidón, Saridon, Migraleve? no, Hidroferol, Duphalac, "
+    "Movicol, Plantaben, Fave de Fuca, Eupeptina? no, Gaviscon, Sal de frutas Eno=Sal de frutas, bicarbonato, Aero Red, Carbón activado=carbón, Ultralevura, "
+    "Casenbiotic, Prodefen, Lactoflora, Megalevure, Aerored, Antiox? no, Cinfamar=pastillas para el mareo=Biodramina, Dramamine, Pantomicina? no, "
+    "Clamoxyl, Augmentine, Zitromax, Cipro? no, Diazepam? no, Orfidal? no, Lexatin? no, Valium? no, Prozac? no, Viagra=sildenafilo, Cialis, Levitra, "
+    "Postinor=Norlevo, ellaOne, Yasmin, Diane, anillo vaginal=NuvaRing, parche anticonceptivo, Canesten, Gynocanesten, Monistat? no, Lomexin, "
+    "Daktarin, Fungarest, Lamisil, Oddent? no, Bexident, Perio-Aid, Oraldine, Listerine, Halita, Desensin, Elgydium, Bucometasana, Aftex, Aloclair, "
+    "Zovirax, Zovicrem, Herpix, Isdinceutics, Endocare, Neostrata, SkinCeuticals, Filorga, Caudalie, Nuxe, Klorane, Ducray, Pilexil, Olistic, Lambdapil, "
+    "Iraltone, Minoxidil, Regaxidil, Neo Peptine? no, Sebamed, Mustela, Suavinex, Letibalm, Halibut Derma, Nutraisdin, Mitosyl, Weleda, Arnica=árnica, "
+    "Traumeel, Heel? no, Oscillococcinum=Oscillo, homeopatía, flores de Bach, propóleo, jalea real, equinácea, ginseng, ginkgo, Arkocápsulas, "
+    "XLS Medical, Bimanán, Siken, Herbalife? no, proteína en polvo, sales de baño? no, aceite de rosa mosqueta=rosa mosqueta, crema de caléndula, Thealoz, "
+    "Hyabak, Systane, Optrex? no, Visine? no, Aquoral, Hylo-Comod, lupa, pastillero, nebulizador, cámara de inhalación, termómetro de oído, aspirador nasal, "
+    "sacaleches, pezoneras, discos de lactancia, Purelan, chupetero, mordedor, Dentinox, Anbesol? no, cuña=orinal, empapadores, Tena, Indas, Ausonia, Evax, "
+    "Tampax, Saforelle, Isdin Woman, Ginecanesgel, Rosalgin, Vagisil? no, Femarelle? no, Ovusitol? no, Clearblue, Predictor, Durex Play, KY? no, Control",
+},
+"tiene_cremallera": {
+ 1: "chaqueta=cazadora, mochila, pantalones=vaqueros=pantalón, bolso, maleta, estuche, sudadera, abrigo, cartera=monedero, falda, vestido, botas",
+ 2: "chubasquero=impermeable, plumas=plumífero, forro polar, chándal=chaqueta de chándal, neceser, riñonera, funda=funda del portátil=funda de móvil, "
+    "saco de dormir, tienda de campaña, cojín=funda de cojín, edredón=funda nórdica, colchón=funda de colchón, bolsa de deporte, mochila del colegio, "
+    "carpeta, portadocumentos, archivador, botines, bermudas, mono, peto, body? no, bañador? no, chaleco, traje de neopreno=neopreno, traje de esquí, "
+    "pantalón de esquí, guantes? no, bolsa de viaje, maletín, cartuchera, portatrajes, portabebés? no, carrito de bebé, saco del carrito, cambiador",
+ 3: "bota de esquí? no, botas de montaña, botas de agua? no, deportivas con cremallera, zapatillas de casa? no, vestido de novia, uniforme, bata, "
+    "parka, gabardina? no, anorak, cortavientos, polar, poncho? no, sudadera con capucha=hoodie, chaqueta vaquera? no, chupa de cuero=chupa, "
+    "jersey con cremallera, polo con cremallera, pantalón cargo, shorts, minifalda, corsé, mono de trabajo, traje espacial, traje de motero, "
+    "mono de motorista, traje de buzo, chaleco salvavidas, arnés? no, cartera de mano, clutch, bolso de mano, bandolera, tote? no, bolsa de la compra, "
+    "bolsa térmica=nevera portátil, fiambrera, tartera, bolsa congelación=bolsa con zip=bolsas zip=bolsa zip, bolsa de plástico con cierre, portátil? no, "
+    "cubre sofá, funda de sofá, puff, almohada? no, colchón hinchable? no, sombrilla? no, cortaviento, tienda de campaña, toldo? no, mosquitera de la tienda, "
+    "funda de guitarra, funda de raqueta, raquetero, palo de golf? no, bolsa de golf, cubrezapatos? no, portatrajes, bolsa de esquís, bolsa para pañales, "
+    "estuche de gafas, funda de gafas, agenda=agenda con cremallera, Biblia? no, diario, pasaporte? no, portatarjetas, cartera de documentos, carpeta de anillas",
+ 4: "polainas, sobrebotas, perneras, mangas desmontables, pantalón desmontable=pantalón convertible, chaqueta de motorista, chaleco de motorista, "
+    "airbag de moto, protector de espalda, mochila de hidratación, camelbak, bolsa estanca, funda de cámara, mochila de fotógrafo, bolsa de cámara, "
+    "maletín de herramientas, funda de tablet, funda de Kindle, portapapeles con cremallera, estuche de maquillaje, estuche de lápices, bolso bandolera, "
+    "bolsa de pan? no, saco de boxeo? no, cojín de lactancia, mochila portabebés, saco de bebé, saco nórdico, pijama manta, mono de bebé, pelele, "
+    "body de bebé? no, peto de bebé, vestido de flamenca? no, traje de luces? no, sotana? no, uniforme de piloto, traje de carreras, mono ignífugo, "
+    "traje de apicultor, traje NBQ, traje de protección, buzo, mono de pintor, vadeador, pantalón de pesca, saco de vivac, funda de bici, funda de coche? no",
+},
+"plato_huevo": {
+ 1: "tortilla=tortilla de patatas=tortilla española, huevos fritos=huevo frito, huevos rotos=huevos estrellados, revuelto=huevos revueltos, huevos rellenos, "
+    "flan, natillas, mayonesa, carbonara=espaguetis a la carbonara, tortilla francesa, huevo duro=huevos cocidos, ensaladilla rusa=ensaladilla",
+ 2: "huevos a la flamenca, pisto con huevo=pisto, huevos benedictinos=huevos Benedict, huevo poché=huevos escalfados, huevos pasados por agua, "
+    "tortilla de calabacín, tortilla de espinacas, quiche, tiramisú, bizcocho, crema catalana, torrijas, leche frita, croquetas, rebozado=rebozados, "
+    "empanados=san jacobo=filete empanado, merluza rebozada, calamares a la romana, gabardina? no, gazpacho? no, salmorejo, sopa castellana=sopa de ajo, "
+    "huevos al plato, shakshuka, omelette, ramen, bibimbap, arroz tres delicias, arroz a la cubana, pad thai, nasi goreng, tortitas=pancakes, crepes, "
+    "gofres, magdalenas, merengue, mousse, tocino de cielo, yemas de Santa Teresa=yemas, flan de huevo, tarta de queso, profiteroles, tortilla de bacalao",
+ 3: "huevos a la escocesa=huevo escocés, huevos en cocotte, huevos mollet, huevos con chorizo, huevos con jamón, huevos con patatas, "
+    "patatas a lo pobre con huevo, migas con huevo=migas, pimientos con huevo, bacalao dorado=bacalhau à Brás, porra antequerana, ensalada César, "
+    "ensalada nicoise=ensalada niçoise, ensalada mixta, espárragos con huevo, menestra, judías verdes con huevo, revuelto de setas, revuelto de gulas, "
+    "revuelto de ajetes, revuelto de espárragos, huevos a la turca, huevos rancheros, tortilla de camarones, tortilla paisana, tortilla de sacromonte, "
+    "tortilla de patatas con cebolla, frittata, tortilla de verduras, quiche lorraine, pastel de verduras, pastel de cabracho, budín, pudin, "
+    "flan de verduras, soufflé=suflé, egg fried rice, okonomiyaki, tamagoyaki, oyakodon, chawanmushi, ramen con huevo, kimchi jjigae? no, "
+    "huevos de codorniz, huevas? no, scotch egg, eggs Benedict, egg mayo, sándwich mixto con huevo=croque madame, hamburguesa completa, "
+    "pizza con huevo, pizza Fiorentina, carbonara auténtica, fideuá? no, mayonesa casera, alioli, salsa tártara, salsa holandesa, salsa bearnesa, "
+    "huevo hilado, natillas caseras, crème brûlée, crema pastelera, flan de queso, tarta de Santiago, bizcocho de yogur, brownie, galletas, pan de molde? no, "
+    "brioche, panettone, roscón de Reyes=roscón, buñuelos, churros? no, pestiños, rosquillas, leche merengada, merengues, macarons, suspiros, huevos mimosa",
+ 4: "huevos a la Kiev? no, oeufs en meurette, oeufs mayonnaise, huevos en salsa, huevos en escabeche, huevos fritos con puntilla, puntillitas? no, "
+    "huevos de Pascua? no, huevos de chocolate? no, tortilla de bacalao a la vizcaína, tortilla de Betanzos, tortilla de patatas jugosa, tortilla de chorizo, "
+    "tortilla de alcachofas, tortilla de setas, tortilla de patata sin cebolla, huevos con morcilla, huevos con sobrasada, huevos con pisto manchego, "
+    "atascaburras, ajoarriero? no, zarangollo, huevos a la riojana, huevos con salchichas, desayuno inglés, huevos benedictine, huevos Florentine, "
+    "huevos Royale, huevos Sardou, huevos Benedict con salmón, egg drop soup=sopa de huevo, stracciatella, avgolemono, menemen, çılbır, kuku sabzi, "
+    "tortilla persa, eggah, chilaquiles con huevo, huevos divorciados, huevos motuleños, migas extremeñas, gachas? no, cocido? no, ensalada de pasta? no, "
+    "ensalada de patata alemana, devilled eggs, egg salad, kedgeree, tamago sando, tamago kake gohan, katsudon, omurice, tortilla de ostras, egg tart, "
+    "pastel de nata, quindim, papos de anjo, ovos moles, sabayón=zabaione, flan de café, crema volteada, quesillo, huevos chimbos, yemas de Ávila",
+},
+"esqui_cosas": {
+ 1: "nieve, esquís=esquí, telesilla=telesillas, pistas=pista, botas de esquí=botas, bastones=palos, snowboard=tabla de snow, frío, teleférico, gafas de esquí=gafas, casco",
+ 2: "remonte=remontes, telesquí=telearrastre=percha, telecabina, cañones de nieve=cañones, máquina pisapistas=pisapistas=ratrac, escuela de esquí=monitores=monitor, "
+    "forfait=forfaits=pase, taquilla=taquillas, alquiler de esquís=alquiler, cafetería=bar=restaurante, chocolate caliente=chocolate con churros, hotel=apartamentos, "
+    "parking=aparcamiento, quitanieves, cadenas, mapa de pistas=plano de pistas, pista verde=pista azul=pista roja=pista negra, socorristas=pisteros, "
+    "trineos=trineo, guantes, gorro, braga=braga de cuello, chaqueta de esquí=anorak, pantalón de esquí, crema solar, montañas=montaña, árboles=pinos, "
+    "esquiadores=esquiador, snowboarders, niños, cola=colas, enfermería, après-ski, hielo, frío, sol, viento, ventisca, avalancha=aludes",
+ 3: "cinta transportadora=alfombra mágica, banderines, puertas de slalom=balizas, snowpark=park, halfpipe, saltos=rampas, raquetas de nieve, "
+    "esquí de fondo, circuito de fondo, guardaesquís=taquillas de esquís, botas de snow, fijaciones, cera=cera de esquí, protector labial, "
+    "gafas de ventisca, radio, megáfono, cartel de peligro de aludes, banderas, red de seguridad=redes=colchonetas, señales de pista, cumbre=cima, "
+    "chalet=refugio, raclette? no, fondue, vin chaud=vino caliente, cervezas, discoteca, jacuzzi, spa, piscina climatizada, tienda=tienda de esquí, "
+    "farmacia, ambulancia, helicóptero, motonieve=motos de nieve, perros de rescate=perros, ARVA=detector de víctimas, pala, sonda, mochila airbag, "
+    "webcam=cámara, estación meteorológica, termómetro, nieve artificial, nieve polvo, nieve dura, placas de hielo, ventisquero, cornisa, fuera de pista, "
+    "esquí de travesía=skimo, pieles de foca, crampones, piolet, mosquetones? no, bufanda, calcetines térmicos, ropa térmica, manopla, cubrebotas",
+ 4: "telesilla desembragable, silla de seis, telemix, funicular, cremallera=tren cremallera, tapis roulant, cinta de esquí, arrastre de pértiga=pértiga, "
+    "pilona, torre de cañones, lanza de nieve, balsa de innivación, pisapistas con cabrestante, fresadora, pala quitanieves, sal? no, gravilla? no, "
+    "cabina de remonte, torniquete=tornos, lector de forfait, chip, tarjeta magnética, jardín de nieve, guardería, club de esquí, competición, "
+    "slalom gigante=slalom=eslalon, supergigante, descenso, combinada, moguls=bañeras, baches, boardercross, skicross, telemark, freeride, freestyle, cajón=box, rail, "
+    "kicker, quarterpipe, big air, piste basher, puesto de socorro, camilla=akja, trineo de rescate, collarín, férula, mantas térmicas, "
+    "pistero socorrista, perro de avalanchas, Barryvox, PIEPS, sondas, mochila ABS, kit de avalanchas, boletín de aludes, escala de aludes, bandera negra, "
+    "cortadores de nieve? no, cristales de nieve, escarcha, encebado? no, rimaya, glaciar, morrena, serac, fondue de queso, crepería, raclette, tartiflette",
+},
+"se_vende_barra": {
+ 1: "pan=barra de pan, chocolate=chocolatina=barrita de chocolate, barra de labios=pintalabios, regaliz, desodorante=desodorante en barra, "
+    "barritas de cereales=barrita de cereales=barrita, pegamento=pegamento en barra=Pritt, mantequilla, helado=barra de helado",
+ 2: "turrón, pan de molde? no, chorizo? no, fuet? no, longaniza? no, salchichón? no, queso? no, barra de hielo? no, "
+    "barrita energética=barritas energéticas=barrita de proteínas, Kinder=Kinder Bueno, Twix, Mars, Snickers, Kit Kat, Lion, Toblerone, "
+    "cacao de labios=bálsamo labial=Labello, protector labial, corrector=corrector en barra, base de maquillaje en barra, colorete en barra, iluminador en barra, "
+    "sombra de ojos en barra, protector solar en barra=stick solar=protector solar, cera=cera en barra, tiza=tizas, ceras=ceras de colores=Plastidecor, "
+    "silicona=barras de silicona=barra de silicona caliente, plastilina, jabón=pastilla de jabón? no, incienso=varitas de incienso, carbón? no, "
+    "pan de barra=baguette, pistola? no, barra de cortina? no, barra de pesas=barra de gimnasio, barra de pole dance? no, crêpes? no, membrillo? no",
+ 3: "chicle=chicles en barra, mazapán, barra de turrón, nougat, halva, torta? no, barra de cuarto=barra de medio=barra gallega, chapata=ciabatta, "
+    "pistola=pistola de pan, baguette, barra de pan integral, pan de Viena, colines=palitos de pan, grisines, barra de pan de leche? no, "
+    "embutido en barra? no, mortadela? no, sobrasada? no, paté en barra? no, foie=foie gras? no, queso en barra? no, mantequilla en barra, margarina, "
+    "manteca, manteca de cacao=manteca de cacao para labios, manteca de karité en barra, chocolate para fundir, chocolate a la taza=chocolate Valor, "
+    "cobertura de chocolate, Milka, Nestlé, Lindt, Valor, Ferrero? no, Aero, Crunch, Galaxy, Bounty, Milky Way, Topic, Picnic, Nuts, Lion bar, "
+    "Kit Kat Chunky, Twix White, Snickers Protein, Natural Valley? no, Nature Valley, Special K bar, Fitness bar, Corny, Barritas Nestlé, Tosta Rica? no, "
+    "desodorante stick, perfume sólido, champú sólido, acondicionador sólido, crema sólida, cera para el pelo, cera depilatoria, bálsamo, vaselina en barra, "
+    "antiinflamatorio en barra? no, pomada en barra, after bite en barra, stick antimosquitos, stick de tiza, lápiz de cera, carboncillo, pastel=barras de pastel, "
+    "sanguina, conté, grafito=barra de grafito, cola en barra, lacre=barra de lacre, cera para sellar, soldadura=barra de estaño=estaño, electrodos=barras de soldar, "
+    "barra de silicona termofusible, masilla en barra, epoxi en barra, barra de cereales Kellogg's, barra de granola, barra de fruta, barras de sésamo, "
+    "barritas de pescado? no, barra de hielo, polo? no, helado de corte, bloque de helado, tarta helada, barra de incienso, palo santo, vela? no",
+ 4: "barra de lingote=lingote de oro=lingotes, barra de plata, barras de acero=varillas, barras de aluminio, barras de cobre, perfil, tubo, corrugado? no, "
+    "barra de uranio? no, barra de combustible? no, lápiz de ojos? no, kohl, barra de color, stick de contorno, stick de colorete, stick de labios y mejillas, "
+    "brillo de labios? no, labial líquido? no, cera de peluquería, pomada, barra de champú, barra de jabón de afeitar, jabón de afeitar en barra, "
+    "stick de alcanfor, stick mentolado, stick nasal=inhalador nasal, barra de alcanfor, barra de cacao, barra de quinoa, barra de dátiles, barra de higo, "
+    "pan de higo, pan de Cádiz, alfajor? no, turrón de Jijona, turrón de Alicante, turrón de yema, turrón de chocolate, turrón de guirlache=guirlache, "
+    "barra de praliné, barra de nougat, barra de caramelo, toffee, regaliz rojo, regaliz negro, palo de regaliz=palo dulce=paloduz, cañas de azúcar=caña de azúcar",
+},
+"villano_animal": {
+ 1: "Scar, Shere Khan, el Lobo Feroz=lobo feroz=lobo, Kaa, Úrsula? no, Jafar? no, Iago, Bowser, el Grinch? no, Lotso, Rey Rata? no, Plankton",
+ 2: "Ratigan=el profesor Ratigan, Hopper, Tai Lung, Shen=Lord Shen, Kai, el Rey Ratón=Rey de los Ratones, el Coyote=Wile E. Coyote, Silvestre? no, Tom? no, "
+    "Doctor Doofenshmirtz? no, Perry? no, Mojo Jojo, Splinter? no, Shredder? no, Bebop, Rocksteady, Krang? no, Bebop y Rocksteady, Dr. Robotnik? no, "
+    "Brujo? no, Edgar? no, Rasputín? no, Bartok, Lucifer, Si y Am=los gatos siameses, el gato de Cenicienta=Lucifer, Flotsam y Jetsam=Flotsam=Jetsam, "
+    "las hienas=hienas=Shenzi=Banzai=Ed, Zira, Kovu? no, Nuka, Chick Hicks? no, Pete=Pedro el Malo=Pete el Malo, Dr. Nefario? no, Gru? no, Kalimán? no, "
+    "Sid? no, Diego, Capitán Gutt, Soto, Rudy, King Kong? no, Godzilla, Moby Dick, Tiburón=el tiburón de Tiburón, Rex? no, Indominus Rex, el gato con botas? no, "
+    "Monstruo de las galletas? no, Napoleón (Rebelión en la granja)=Napoleón, Chuck? no, Señor Gato? no, Belle? no, Dragón=dragón Maléfica, Smaug, "
+    "Aragog, Nagini, Fawkes? no, Buckbeak? no, Pettigrew=Colagusano=Peter Pettigrew, Fenrir, Cerbero, el Kraken, Dragón de Shrek? no, Hotaru? no",
+ 3: "Sir Hiss=Siseo, el príncipe Juan=príncipe Juan (Robin Hood)=Juan sin Tierra, el sheriff de Nottingham, Edgar el mayordomo? no, Cruella? no, "
+    "Bianca? no, Medusa? no, Percival McLeach? no, Sykes? no, Gargamel? no, Azrael, Clayton? no, Mamá Odie? no, Dr. Facilier? no, Madame Mim? no, "
+    "Honest John=el zorro Juan Honrado=Honrado Juan, Gideon=el gato Gedeón=Gedeón, el Cochero? no, Monstro=la ballena Monstruo, Chernabog? no, Cocodrilo Tic-Tac=Tic-Tac, "
+    "Mancha=Big Bad Wolf? no, Pedro el Malo, Lobo Feroz de los tres cerditos, el Gran Lobo Malo, Zorro y Gato, la víbora Kaa, Kaos? no, Mr. Ratigan, "
+    "Fidget, Tamatoa, Te Kā? no, Dragón Chino? no, Shan Yu? no, el halcón de Shan Yu, King Candy? no, Turbo? no, Bellwether=Dawn Bellwether, Duke Weaselton? no, "
+    "Mr. Big? no, Lord Business? no, Dr. Calico? no, Waternoose=Henry J. Waternoose, Randall=Randall Boggs, Charles Muntz? no, Alpha=Alfa, Lotso Abrazos, "
+    "Big Baby? no, el Abuelo Fritz? no, Sykes? no, Hans? no, el Rey Pingüino? no, Dr. Blowhole, Skipper? no, Foosa=los fosas, Makunga, Chantel DuBois? no, "
+    "Fossa, Vitaly? no, el Gran Mono=Mono? no, Scrat? no, Rata Ratatouille? no, Skinner? no, Jabberjaw? no, El Gato con Botas? no, Ozzie? no, Hopper, "
+    "Grasshoppers=saltamontes, Molt, Thumper? no, Taran? no, Jefe? no, el Cuervo Diablo=Diablo=el cuervo de Maléfica, Gravedigger? no, Mr. Fox? no, "
+    "Rata Templeton? no, Ruber? no, Cerebro, Pinky? no, Grimbo? no, Mumm-Ra? no, Kaa de El libro de la selva, Tabaqui, Akela? no, Vultures? no",
+ 4: "Sharptooth=Diente Afilado, Carnotauro, Red Claw? no, Kron, Carnivore? no, General Woundwort=el general Woundwort, Cluny, Jenner, Sly? no, Ripper? no, "
+    "Carface=Carface Carruthers, Killer, Kaiser? no, Warren T. Rat? no, Cat R. Waul, Tiger? no, Jenner la rata, Bill Sykes? no, Ratcliffe? no, "
+    "Rourke? no, Rex? no, Dr. Wolfe? no, Jacques? no, Uncle Max? no, Mr. Blik? no, Clockwerk, Le Paradox? no, Mojo, HIM? no, Sedusa? no, Fuzzy Lumpkins? no, "
+    "Princesa? no, Shego? no, Dr. Drakken? no, Monkey Fist? no, Kat? no, Felonious Gru? no, Vector? no, El Macho? no, Scarlet? no, Herb? no, "
+    "Bowser Jr., Dry Bowser, Kamek, King K. Rool=King K Rool, Ridley, Ganon? no, Ganondorf? no, King Dedede=Rey Dedede, Dr. Neo Cortex? no, Ripto, "
+    "Gnasty Gnorc, Dark Kat? no, Nemesis? no, Lizard=Lagarto, Kraven? no, Black Cat=Gata Negra, "
+    "Penguin? no, Man-Bat, Catwoman? no, Ratcatcher? no, Zartan? no, Beast? no, "
+    "Tamatoa el cangrejo, Hopper el saltamontes, Shenzi, Banzai, Kovu, Vitani, Nala? no, Zira la leona, Shere Khan el tigre, Kaa la serpiente, Scar el león",
+},
+"estanco": {
+ 1: "tabaco=cigarrillos=cigarros=paquete de tabaco=cajetilla, mecheros=mechero=encendedor, sellos=sello, puros=puro, papel de fumar=papelillo=papel, "
+    "filtros=boquillas, tabaco de liar, lotería? no, chicles=chicle",
+ 2: "Marlboro, Winston, Camel, Lucky Strike=Lucky, Chesterfield, Ducados, Fortuna, Nobel, Pall Mall, L&M, Philip Morris, Golden Virginia, Pueblo, Smoking, "
+    "OCB, Rizla=Rizla+, Clipper, Zippo, Bic, cerillas, vapeador=vaper=cigarro electrónico=cigarrillo electrónico, líquidos de vapeo=líquidos para vapear, "
+    "Iqos=IQOS, cartuchos=cartuchos de Iqos=heets, pipas=pipa=tabaco de pipa, cachimba=shisha=tabaco de cachimba=hookah, Bono Bus? no, "
+    "abono transporte? no, tarjeta de transporte, tarjeta prepago=recargas de móvil=recarga del móvil, papel timbrado=impresos, recibos? no, "
+    "tarjetas regalo, golosinas=chuches, caramelos, mapa? no, postales=postal, sobres, Juegos? no, cartas=baraja, impresos oficiales, multas? no",
+ 3: "Montecristo, Cohiba, Partagás, Romeo y Julieta, Davidoff, Vegafina, Farias, Café Crème=Cafe Creme, Dux, Willem II, purito=puritos, "
+    "Winston Classic? no, Marlboro Gold, Camel Blue, West, JPS=John Player Special, Gauloises, Gitanes, Celtas, Bisonte, Coronas? no, Royale? no, "
+    "Mallorca? no, Lark? no, Benson & Hedges, Dunhill, Rothmans, Kent, Vogue, Karelia, Peter Stuyvesant? no, Rex? no, American Spirit, Manitou, "
+    "Cutters, Domingo, Amber Leaf, Drum, Old Holborn, Van Nelle, Pueblo Classic, Mascotte, Raw, Smoking Brown, Gizeh, Elements, Pay-Pay, Bambú, "
+    "boquillas de cartón, filtros Swan, filtros de carbón, liadora=maquinita de liar, entubadora=máquina de entubar, tubos de cartón=tubos, "
+    "picadora=grinder, ceniceros=cenicero, petaca, pitillera, cortapuros=guillotina, humidor, cajas de puros, gas para mecheros=recarga de gas, "
+    "piedras de mechero, mechas, mechero de soplete, mechero eléctrico, vaper desechable=pod desechable=Elf Bar, resistencias=coils, baterías, "
+    "Glo, Juul, Vuse, Blu, Myblu, heets? no, terea, bolsitas de nicotina=snus=Velo=Zyn, tabaco de mascar, rapé, sellos de correos, sobres prefranqueados, "
+    "Correos? no, estampillas, papel de carta, bolígrafos? no, pilas, cargadores? no, lotería nacional? no, quiniela? no, Euromillones? no, "
+    "Primitiva? no, cupón de la ONCE? no, rasca? no, revistas? no, periódicos? no, abono de la EMT? no, tarjeta de aparcamiento=ORA=tique de la ORA, "
+    "modelo de impuestos=impresos de Hacienda, papel de multas? no, letras de cambio, efectos timbrados=timbres, pólizas, papel de pagos al Estado, tasas",
+ 4: "Trinidad, H. Upmann, Hoyo de Monterrey, Bolívar, Punch, Ramón Allones, Cuaba, Vegas Robaina, San Cristóbal, Quintero, José L. Piedra, "
+    "Arturo Fuente, Padrón, Macanudo, Ashton, Oliva, Rocky Patel, Toscano, Clubmaster, Al Capone, Handelsgold, Mehari's, Panter, Agio, Ritmeester, "
+    "Winterman's, Balmoral, Partagás Serie D, Behike, Siglo VI, Robusto=robustos, Corona=coronas, Churchill, Petit Corona, Culebras, "
+    "picadura, tabaco de hebra, tabaco negro, tabaco rubio, Golden Virginia Yellow, Interval? no, Fine Cut? no, tabaco Al Fakher=Al Fakher, Adalya, "
+    "Nakhla, Starbuzz, carbón de cachimba=carbones, mangueras de cachimba, cazoletas, Kaloud? no, papel de aluminio? no, "
+    "boquillas desechables, encendedor de puros, mechero de turbo, mechero Clipper, pedernal, estuches, fundas de mechero, pegatinas? no, "
+    "sellos de colección? no, sobres de correo certificado? no, impreso de alegaciones? no, papel timbrado del Estado, papel de oficio, pólizas de seguros? no",
 },
 })

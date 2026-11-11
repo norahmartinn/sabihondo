@@ -6,7 +6,7 @@ import { createClient } from "npm:@supabase/supabase-js@2";
 
 const ORIGENES = ["https://norahmartinn.github.io", "http://localhost:8000", "http://127.0.0.1:8000"];
 const MODELO = "openai/gpt-oss-120b";
-const CRITERIO = "v4";      // si cambian las instrucciones, lo rechazado antes se vuelve a juzgar
+const CRITERIO = "v5";      // si cambian las instrucciones, lo rechazado antes se vuelve a juzgar
 const RESERVA = "openai/gpt-oss-20b";   // si el grande está saturado (límite por minuto de Groq), este tiene su propio límite
 const TOPE_DIARIO = 1800;   // consultas nuevas a la IA por día, como mucho
 
@@ -34,6 +34,10 @@ Decide si la respuesta es VÁLIDA. La pregunta es: ¿un jugador razonable que la
 - Solo rechaza lo que sea FALSO o no encaje: una marca de otra empresa (Cola Cao no es de Nestlé), una canción de otro artista,
   un personaje de otra serie, algo inventado, un texto sin relación con el enunciado, la propia palabra del enunciado o
   algo vacío («una cosa», «algo»).
+- Que TÚ no conozcas algo no lo hace falso. Si la respuesta es verosímil para el enunciado aunque no la conozcas (una app
+  pequeña o de empresa, una marca local, un negocio, un pueblo, una canción poco conocida…), dala por VÁLIDA con nivel 5.
+  En «Nombra una app del móvil» vale cualquier app que se pueda descargar en App Store o Google Play («Tribbu» vale).
+  Rechaza solo lo que sabes que es falso o lo que es claramente un invento (letras al azar, una broma sin sentido).
 
 Si es válida, da el nombre bien escrito (como se conoce en España) y un nivel de rareza pensando en un jugador español medio:
 1 = lo primero que se le ocurre a casi todo el mundo

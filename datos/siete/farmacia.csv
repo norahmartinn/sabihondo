@@ -1,0 +1,336 @@
+respuesta;alias;nivel;orden_a_mano
+medicamentos;medicinas|pastillas|fármacos;1;1000000000
+paracetamol;Gelocatil|Dafalgan;1;999999999
+ibuprofeno;Espidifen|Neobrufen|Dalsy;1;999999998
+aspirina;;1;999999997
+tiritas;tirita|apósitos;1;999999996
+crema;cremas;1;999999995
+preservativos;condones|condón;1;999999994
+test de embarazo;prueba de embarazo;1;999999993
+termómetro;;1;999999992
+jarabe;jarabe para la tos;1;999999991
+gasas;;1;999999990
+alcohol;;1;999999989
+mascarillas;mascarilla;1;999999988
+Frenadol;;2;1000000000
+Couldina;;2;999999999
+Strepsils;pastillas para la garganta|caramelos para la garganta;2;999999998
+Voltarén;;2;999999997
+Enantyum;;2;999999996
+Nolotil;;2;999999995
+Almax;;2;999999994
+Omeprazol;;2;999999993
+antibiótico;antibióticos|amoxicilina;2;999999992
+pomada;;2;999999991
+Betadine;povidona yodada;2;999999990
+agua oxigenada;;2;999999989
+gel hidroalcohólico;;2;999999988
+protector solar;crema solar|Isdin;2;999999987
+pasta de dientes;;2;999999986
+cepillo de dientes;;2;999999985
+colutorio;enjuague bucal;2;999999984
+seda dental;hilo dental;2;999999983
+champú anticaspa;champú;2;999999982
+champú antipiojos;antipiojos|lendrera;2;999999981
+leche infantil;leche de bebé;2;999999980
+chupetes;chupete;2;999999979
+biberón;;2;999999978
+pañales;;2;999999977
+toallitas;;2;999999976
+crema de pañal;Mitosyl;2;999999975
+suero fisiológico;suero;2;999999974
+lágrimas artificiales;colirio;2;999999973
+lentillas;líquido de lentillas;2;999999972
+vitaminas;vitamina C|vitamina D;2;999999971
+magnesio;;2;999999970
+colágeno;;2;999999969
+melatonina;;2;999999968
+probióticos;;2;999999967
+píldora anticonceptiva;anticonceptivos;2;999999966
+píldora del día después;pastilla del día después;2;999999965
+lubricante;;2;999999964
+compresas;;2;999999963
+tampones;;2;999999962
+copa menstrual;;2;999999961
+test de antígenos;test de COVID;2;999999960
+tensiómetro;;2;999999959
+vendas;venda;2;999999958
+esparadrapo;;2;999999957
+tiritas para ampollas;Compeed;2;999999956
+bolsa de agua caliente;;2;999999955
+rodillera;;2;999999954
+muñequera;;2;999999953
+tobillera;;2;999999952
+faja;;2;999999951
+medias de compresión;;2;999999950
+Durex;;2;999999949
+Avène;;2;999999948
+La Roche-Posay;;2;999999947
+Vichy;;2;999999946
+Eucerin;;2;999999944
+Bioderma;;2;999999943
+Cerave;;2;999999942
+Nivea;;2;999999941
+Uriage;;2;999999940
+A-Derma;;2;999999939
+Sesderma;;2;999999938
+Martiderm;;2;999999937
+Heliocare;;2;999999936
+Primperan;;3;1000000000
+Fortasec;;3;999999999
+Imodium;;3;999999998
+suero oral;sueros|Bioralsuero;3;999999997
+Dulcolax;laxante;3;999999996
+Micralax;;3;999999995
+Hemoal;;3;999999994
+Lizipaina;;3;999999993
+Flutox;;3;999999992
+Iniston;;3;999999991
+Bisolgrip;;3;999999990
+Ilvico;;3;999999989
+Cinfatós;;3;999999988
+Fluimucil;;3;999999987
+Mucosan;;3;999999986
+Vicks VapoRub;Vicks;3;999999985
+Respibien;;3;999999984
+Rhinomer;;3;999999983
+Sterimar;;3;999999982
+agua de mar en espray;;3;999999981
+Reflex;;3;999999980
+Radio Salil;;3;999999979
+Fastum gel;;3;999999978
+Thrombocid;;3;999999977
+Hirudoid;;3;999999976
+Cristalmina;clorhexidina;3;999999975
+mercromina;Mercurocromo;3;999999974
+Blastoestimulina;;3;999999973
+Trombocid;;3;999999972
+Fucidine;;3;999999971
+Silvederma;;3;999999970
+Bepanthol;;3;999999969
+vaselina;;3;999999968
+Halibut;;3;999999967
+aceite de almendras;;3;999999966
+aloe vera;;3;999999965
+after sun;;3;999999964
+repelente de mosquitos;antimosquitos|Relec;3;999999963
+Goibi;;3;999999962
+Fenistil;;3;999999961
+Talquistina;;3;999999960
+Afterbite;;3;999999959
+crema de manos;;3;999999957
+cacao de labios;protector labial|Labello;3;999999956
+Lipikar;;3;999999955
+Atoderm;;3;999999954
+Neutrogena;;3;999999953
+Cicaplast;;3;999999952
+Avène Cicalfate;;3;999999951
+Biafine;;3;999999950
+Cicalfate;;3;999999949
+Dodot;;3;999999948
+Nutribén;;3;999999947
+Blemil;;3;999999946
+Almirón;;3;999999945
+Nidina;;3;999999944
+Enfamil;;3;999999943
+Hero Baby;;3;999999942
+Suavinex;;3;999999941
+Chicco;;3;999999940
+Nuk;;3;999999939
+Philips Avent;;3;999999938
+cepillo interdental;;3;999999937
+Lacer;;3;999999936
+Vitis;;3;999999935
+Kin;;3;999999934
+Oral-B;;3;999999933
+Sensodyne;;3;999999932
+Fluocaril;;3;999999931
+Parodontax;;3;999999930
+GUM;;3;999999929
+cera para ortodoncia;;3;999999928
+pegamento para dentaduras;Corega;3;999999927
+Kukident;;3;999999926
+Supradyn;;3;999999925
+Pharmaton;;3;999999924
+Berocca;;3;999999923
+Arkopharma;;3;999999922
+Aquilea;;3;999999921
+Redoxon;;3;999999920
+Multicentrum;Centrum;3;999999919
+Femibion;;3;999999918
+hierro;;3;999999917
+ácido fólico;;3;999999916
+Omega 3;;3;999999915
+valeriana;;3;999999914
+tila;;3;999999913
+Dormidina;;3;999999912
+pastillas para dormir;;3;999999911
+parches de nicotina;Nicorette;3;999999910
+chicles de nicotina;;3;999999909
+tiras de glucosa;;3;999999908
+glucómetro;;3;999999907
+lancetas;;3;999999906
+jeringuillas;;3;999999905
+insulina;;3;999999904
+inhalador;Ventolin;3;999999903
+pulsioxímetro;;3;999999902
+nebulizador;;3;999999901
+muletas;;3;999999900
+andador;;3;999999899
+silla de ruedas;;3;999999898
+cojín antiescaras;;3;999999897
+plantillas;Dr. Scholl;3;999999896
+callicida;;3;999999895
+piedra pómez;;3;999999894
+lima de pies;;3;999999893
+cortaúñas;;3;999999892
+pinzas;;3;999999891
+tapones para los oídos;tapones|Tapones Quies;3;999999890
+antifaz;;3;999999889
+bolsa de hielo;frío instantáneo;3;999999888
+botiquín;;3;999999887
+guantes de látex;guantes;3;999999886
+desodorante;Vichy desodorante;3;999999885
+quitaesmalte;;3;999999884
+maquillaje;;3;999999883
+base de maquillaje;;3;999999882
+rímel;;3;999999881
+Avène agua termal;agua termal;3;999999880
+sérum;;3;999999879
+retinol;;3;999999878
+ácido hialurónico;;3;999999877
+contorno de ojos;;3;999999876
+exfoliante;;3;999999875
+mascarilla facial;;3;999999874
+gel íntimo;;3;999999873
+Chilly;;3;999999872
+Lactacyd;;3;999999871
+test de ovulación;;3;999999870
+gafas de presbicia;gafas de lectura;3;999999869
+cuentagotas;;3;999999868
+Efferalgan;;4;1000000000
+Termalgin;;4;999999999
+Apiretal;;4;999999998
+Junifen;;4;999999996
+Algidol;;4;999999995
+Actron;;4;999999994
+Optalidón;;4;999999993
+Saridon;;4;999999992
+Hidroferol;;4;999999991
+Duphalac;;4;999999990
+Movicol;;4;999999989
+Plantaben;;4;999999988
+Fave de Fuca;;4;999999987
+Gaviscon;;4;999999986
+Sal de frutas Eno;Sal de frutas;4;999999985
+bicarbonato;;4;999999984
+Aero Red;;4;999999983
+Carbón activado;carbón;4;999999982
+Ultralevura;;4;999999981
+Casenbiotic;;4;999999980
+Prodefen;;4;999999979
+Lactoflora;;4;999999978
+Megalevure;;4;999999977
+Cinfamar;pastillas para el mareo|Biodramina;4;999999975
+Dramamine;;4;999999974
+Clamoxyl;;4;999999973
+Augmentine;;4;999999972
+Zitromax;;4;999999971
+Viagra;sildenafilo;4;999999970
+Cialis;;4;999999969
+Levitra;;4;999999968
+Postinor;Norlevo;4;999999967
+ellaOne;;4;999999966
+Yasmin;;4;999999965
+Diane;;4;999999964
+anillo vaginal;NuvaRing;4;999999963
+parche anticonceptivo;;4;999999962
+Canesten;;4;999999961
+Gynocanesten;;4;999999960
+Lomexin;;4;999999959
+Daktarin;;4;999999958
+Fungarest;;4;999999957
+Lamisil;;4;999999956
+Bexident;;4;999999955
+Perio-Aid;;4;999999954
+Oraldine;;4;999999953
+Listerine;;4;999999952
+Halita;;4;999999951
+Desensin;;4;999999950
+Elgydium;;4;999999949
+Bucometasana;;4;999999948
+Aftex;;4;999999947
+Aloclair;;4;999999946
+Zovirax;;4;999999945
+Zovicrem;;4;999999944
+Herpix;;4;999999943
+Isdinceutics;;4;999999942
+Endocare;;4;999999941
+Neostrata;;4;999999940
+SkinCeuticals;;4;999999939
+Filorga;;4;999999938
+Caudalie;;4;999999937
+Nuxe;;4;999999936
+Klorane;;4;999999935
+Ducray;;4;999999934
+Pilexil;;4;999999933
+Olistic;;4;999999932
+Lambdapil;;4;999999931
+Iraltone;;4;999999930
+Minoxidil;;4;999999929
+Regaxidil;;4;999999928
+Sebamed;;4;999999927
+Mustela;;4;999999926
+Letibalm;;4;999999924
+Halibut Derma;;4;999999923
+Nutraisdin;;4;999999922
+Weleda;;4;999999920
+Arnica;;4;999999919
+Traumeel;;4;999999918
+Oscillococcinum;Oscillo;4;999999917
+homeopatía;;4;999999916
+flores de Bach;;4;999999915
+propóleo;;4;999999914
+jalea real;;4;999999913
+equinácea;;4;999999912
+ginseng;;4;999999911
+ginkgo;;4;999999910
+Arkocápsulas;;4;999999909
+XLS Medical;;4;999999908
+Bimanán;;4;999999907
+Siken;;4;999999906
+proteína en polvo;;4;999999905
+aceite de rosa mosqueta;rosa mosqueta;4;999999904
+crema de caléndula;;4;999999903
+Thealoz;;4;999999902
+Hyabak;;4;999999901
+Systane;;4;999999900
+Aquoral;;4;999999899
+Hylo-Comod;;4;999999898
+lupa;;4;999999897
+pastillero;;4;999999896
+cámara de inhalación;;4;999999894
+termómetro de oído;;4;999999893
+aspirador nasal;;4;999999892
+sacaleches;;4;999999891
+pezoneras;;4;999999890
+discos de lactancia;;4;999999889
+Purelan;;4;999999888
+chupetero;;4;999999887
+mordedor;;4;999999886
+Dentinox;;4;999999885
+cuña;orinal;4;999999884
+empapadores;;4;999999883
+Tena;;4;999999882
+Indas;;4;999999881
+Ausonia;;4;999999880
+Evax;;4;999999879
+Tampax;;4;999999878
+Saforelle;;4;999999877
+Isdin Woman;;4;999999876
+Ginecanesgel;;4;999999875
+Rosalgin;;4;999999874
+Clearblue;;4;999999873
+Predictor;;4;999999872
+Durex Play;;4;999999871
+Control;;4;999999870

@@ -283,6 +283,13 @@ PREGUNTAS = [
     ("Nombra algo que se pone en la cabeza", "en_cabeza"),
     ("Nombra algo que produce el cuerpo humano", "cuerpo_produce"),
     ("Nombra algo que se hace con leche", "hecho_leche"),
+    ("Nombra una cosa que se venda en una farmacia", "farmacia"),
+    ("Nombra algo que tenga cremallera", "tiene_cremallera"),
+    ("Nombra un plato que lleve huevo", "plato_huevo"),
+    ("Nombra algo que hay en una estación de esquí", "esqui_cosas"),
+    ("Nombra algo que se vende en barra", "se_vende_barra"),
+    ("Nombra un villano que sea un animal", "villano_animal"),
+    ("Nombra algo que se vende en un estanco", "estanco"),
 ]
 
 # Desde el 31 de octubre de 2026 los niveles son más generosos: la gente veía casi imposible llegar a Muy raro y Sabihondo.
