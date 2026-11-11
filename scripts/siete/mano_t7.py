@@ -910,3 +910,440 @@ MANO.update({
     "sellos de colección? no, sobres de correo certificado? no, impreso de alegaciones? no, papel timbrado del Estado, papel de oficio, pólizas de seguros? no",
 },
 })
+
+# ── sábado 14 ──
+PREGUNTAS.update({
+    "agua_embotellada": "Nombra una marca de agua embotellada",
+    "tiene_alas": "Nombra algo que tenga alas",
+    "tiene_cuerdas": "Nombra algo que tenga cuerdas",
+    "algo_pica": "Nombra algo que pique",
+    "se_derrite": "Nombra algo que se derrita",
+    "tiene_agujeros": "Nombra algo que tenga agujeros",
+    "personaje_mascara": "Nombra un personaje de ficción que lleve máscara",
+})
+MANO.update({
+"agua_embotellada": {
+ 1: "Bezoya, Font Vella, Lanjarón, Solán de Cabras, Fontecelta, Aquarel, Evian, Fuente Liviana, Viladrau, Hacendado=agua Hacendado, Cabreiroá, Aquabona",
+ 2: "Vichy Catalán, Mondariz, Font d'Or, Fontvella, Sierra Natura? no, Nestlé Aquarel, Perrier, San Pellegrino=S.Pellegrino, Fiji, Voss, Volvic, "
+    "Insalus, Ribes? no, Fuensanta, Peñaclara, Sant Aniol, Font Picant, Sierras de Jaén? no, Aguas de Cuevas, Fuente Primavera, Aguas del Cardó? no, "
+    "Monte Pinos, Agua de Sierra Cazorla=Sierra de Cazorla, Agua del Rosal, Los Riscos? no, Firgas, Teror, Agua de Teror, Fontdalt, Font Agudes, "
+    "Solares, Fonter, Malavella, Vilas del Turbón=Turbón, Agua de Benassal=Benassal, Aquadeus, Bronchales, Sierra de Segura? no, Montepinos, "
+    "Eroski, Carrefour, Dia, Lidl=Saskia, Auchan, Consum, Agua Mineral San Benedetto=San Benedetto, Acqua Panna=Panna, Smartwater, Dasani, Aquafina, Nestlé Pure Life",
+ 3: "Agua de Mondariz Fuente del Val, Font Natura, Font del Regàs, Font Sorda, Fonteide, Sierra Morena, Aguas de Lanjarón Fonteforte, Aquadeus, "
+    "Fuente Arcos, Fuente En Segures, Agua de Bronchales, Agua de Cortes, Agua de Ribagorza, Agua Sana, Aquafresh? no, Agua de Mondaríz? no, "
+    "Agua de Sousas=Sousas, Cabreiroá Magnesium? no, Agua de Valtorre, Agua de Fuenteror, Agua de Sierra Nevada=Sierra Nevada, Agua Font Vella Levité=Levité, "
+    "Aquarius? no, Agua de Carabaña=Carabaña, Agua de Loja, Agua Lunares, Agua Imperial, Agua Mineral Natural Sant Hilari=Sant Hilari, Agua de Cañizares, "
+    "Agua de Fuente Agria, Agua Rocallaura, Agua de la Sierra de Madrid, Agua Ondara? no, Agua de Pradoluengo, Agua de Lanzarote? no, Agua de Firgas, "
+    "Agua Vilajuïga=Vilajuïga, Agua de Belmonte, Agua de Carvajal=Carvajal, Agua Ourense? no, Agua de Riocerezo, Agua del Valle, Agua de Fontedoce, "
+    "Agua de Sierra de Cádiz, Agua de Bolonia? no, Gerolsteiner, Badoit, Vittel, Contrex, Hépar, Thonon, Saint-Yorre, Spa, Chaudfontaine, Bru, "
+    "Highland Spring, Evian Prestige? no, Liquid Death, Essentia, Core, Icelandic Glacial, Voss Sparkling, Antipodes, Bling H2O, Hildon, Ferrarelle, "
+    "Levissima, Sant'Anna, Panna, Uliveto, Rocchetta, Lete, Vera, Luso, Pedras Salgadas, Vitalis, Monchique, Água das Pedras=Pedras, Caramulo, Frize",
+ 4: "Agua de Alhama, Agua de Fuente Teja, Agua de Sierra Mágina, Agua de Sierra Elvira, Agua Fontoira, Agua de Barbastro? no, Agua de Ribes, "
+    "Agua de Trago? no, Agua de Bejís, Agua de Chóvar, Agua de Fuentecilla? no, Agua de Cuevas de San Clemente? no, Agua de Neila? no, Agua de Burgos? no, "
+    "Agua de Vilas, Agua de Castillo de Gormaz? no, Agua de Ortega? no, Agua de Alzola? no, Agua de Insalus, Agua de Belascoáin=Belascoáin, Agua de Betelu? no, "
+    "Aguas de Ribera de Duero? no, Agua de la Virgen? no, Agua de Mondariz Gourmet? no, Agua de Sierra Sur, Agua Pura de Roca? no, "
+    "Waiakea, Hawaiian Springs, Mountain Valley, Poland Spring, Arrowhead, Deer Park, Ozarka, Zephyrhills, Crystal Geyser, Penta, Topo Chico, Ciel, "
+    "Bonafont, Epura, Cristal, San Luis, Cielo, Santa Ana, Glaciar, Villavicencio, Villa del Sur, Eco de los Andes, Nestlé Vera, Ty Nant, Svalbardi, Berg, "
+    "Tasmanian Rain, Iceberg Water? no, Evian Natural? no, Mivela, Rogaška, Jana, Römerquelle, Vöslauer, Valser, Henniez, Apollinaris, Volvic Juicy? no",
+},
+"tiene_alas": {
+ 1: "pájaro=pájaros=ave=aves, avión=aviones, mariposa=mariposas, ángel=ángeles, murciélago, abeja, mosca, mosquito, dragón, hada=hadas, pollo=alitas de pollo",
+ 2: "avioneta, planeador, ala delta, helicóptero? no, cohete? no, avispa, libélula, polilla, mariquita, saltamontes? no, escarabajo, hormiga reina=hormiga con alas, "
+    "termita, cucaracha=cucarachas, pegaso=Pegaso, grifo, fénix=ave fénix, Cupido, querubín, demonio=diablo, gárgola, Red Bull=te da alas, compresa=compresa con alas, "
+    "Batman? no, Ícaro, Hermes=sandalias de Hermes, valquiria, arcángel=San Miguel, Halcón? no, gallina, pato, paloma, águila, cigüeña, avestruz, pingüino, "
+    "gaviota, loro, búho, lechuza, colibrí, cuervo, golondrina, pavo, pavo real, flamenco, pelícano, ganso, cisne, gorrión, canario, buitre, halcón",
+ 3: "pez volador, ardilla voladora? no, raya? no, mantarraya? no, dron? no, cometa? no, molino=molino de viento=aspas? no, edificio? no, "
+    "coche de Fórmula 1=alerón? no, nariz (aletas)? no, hospital=ala del hospital, edificio con alas=palacio, colegio? no, "
+    "jugador de fútbol=extremo? no, partido político (ala)? no, sombrero (ala)=sombrero, mesa con alas=mesa de alas abatibles, puerta de alas? no, "
+    "tornillo de mariposa? no, tuerca de mariposa=palomilla, semilla de arce=sámara=helicóptero de arce, diente de león? no, mosca de la fruta, "
+    "tábano, chinche, efímera, frigánea, crisopa, hormiga león, cigarra, chicharra, grillo, langosta, mantis, pulgón, abejorro, avispón, tijereta, "
+    "luciérnaga, ciervo volante, escarabajo pelotero, cetonia, pterodáctilo=pteranodon=pterosaurio, arqueópterix, microraptor, dragón de Komodo? no, "
+    "draco=dragón volador, gárgola, esfinge, hipogrifo, Thestral=thestral, Buckbeak, Hedwig, Fawkes, Pegasus, Garuda, Quetzalcóatl? no, Horus, Isis, "
+    "Nike=Victoria de Samotracia, Mercurio, Sonic? no, Tinker Bell=Campanilla, Maléfica, Diablo, Ángel caído, Hawkgirl, Ángel (X-Men)=Arcángel, Falcon, "
+    "Halcón Mágico? no, Vulture? no, Moth? no, Mothman=hombre polilla, Meridiana? no, Charizard, Pidgey, Butterfree, Zubat, Lugia, Ho-Oh, Dragonite, "
+    "avión de papel, maqueta de avión, aeromodelo, Concorde, Boeing, Airbus, Spitfire, caza, bombardero, hidroavión, autogiro? no, transbordador espacial",
+ 4: "kiwi, emú, ñandú, casuario, dodo, kakapo, pájaro bobo, alcatraz, albatros, petrel, fragata, cormorán, garza, garceta, espátula, ibis, "
+    "abejaruco, abubilla, martín pescador, carbonero, herrerillo, verderón, jilguero, pinzón, mirlo, estornino, urraca, arrendajo, chova, grajo, "
+    "mosca escorpión, mosca grulla=típula, mosquito tigre, avispa alfarera, avispa asiática=velutina, abeja carpintera, abeja melífera, zángano, "
+    "reina de las termitas? no, polilla esfinge, mariposa monarca, mariposa cola de golondrina=macaón, vanesa, pavón, mariposa de la col, isabelina, "
+    "colibrí abeja, murciélago de la fruta=zorro volador, nóctulo, murciélago de herradura, pipistrelo, vampiro, petauro? no, colugo? no, "
+    "serafín, trono? no, querubines, Azrael, Lucifer, Gabriel, Rafael, Uriel, Eros, Tánatos, Hipnos, Nemesis? no, Harpía=arpías=arpía, Sirena (griega), "
+    "quimera? no, mantícora? no, wyvern=guiverno, coatl, simurg, roc=pájaro roc, ave del trueno, Pegaso alado? no, Hippogriff, Ala delta motorizada=ultraligero, "
+    "parapente? no, paramotor, traje de alas=wingsuit, hidroala, ekranoplano, cohete con alas? no, misil de crucero, F-14, Eurofighter, A380, 747, Cessna",
+},
+"tiene_cuerdas": {
+ 1: "guitarra=guitarras, violín, raqueta=raquetas=raqueta de tenis, arpa, piano, violonchelo=chelo, contrabajo, bajo=bajo eléctrico, ukelele, comba=cuerda de saltar",
+ 2: "viola, banjo, mandolina, laúd, bandurria, sitar, cítara, lira, guitarra eléctrica, guitarra española, marioneta=marionetas, ring=ring de boxeo, "
+    "arco=arco de flechas=ballesta, tendedero, columpio, hamaca, tirolina, barco=velero, cometa, yoyó=yo-yo, peonza, campana, persiana, cortina? no, "
+    "zapatillas=cordones=zapatos con cordones? no, puente colgante, ascensor? no, tienda de campaña, saco de boxeo? no, red=red de pesca=redes, "
+    "trampolín? no, polea, pozo, escalada=arnés, paracaídas, globo aerostático, gaita? no, timbal? no, caja de cuerdas? no, cuerda vocal=cuerdas vocales=garganta",
+ 3: "clave=clavecín, clavicordio, salterio, dulcemer, zanfona, nyckelharpa, balalaica, bouzouki, charango, cuatro venezolano=cuatro, timple, requinto, "
+    "vihuela, guitarrón, bajo sexto, koto, shamisen, erhu, pipa, guzheng, oud, saz, kora, berimbau, arpa celta, arpa paraguaya, viola de gamba, "
+    "violín eléctrico, contrabajo de jazz, ukelele bajo, steel guitar, dobro, pedal steel, guitarra de doce cuerdas, arpa de boca? no, theremin? no, "
+    "raqueta de bádminton, raqueta de squash, pala de frontenis? no, cesta punta? no, palo de lacrosse=lacrosse, red de tenis, red de voleibol, portería=red de la portería, "
+    "canasta=red de la canasta, tela de araña? no, arpa eólica, cítara de mesa, títere de hilo, cortinas de cuerda, lámpara de cuerda? no, "
+    "yoyó, diábolo, látigo? no, honda=tirachinas? no, ballesta, arco largo, arco compuesto, telar, rueca? no, máquina de coser? no, cometa acrobática, "
+    "barco de vela=velas=jarcia, mástil, ancla? no, bote salvavidas, mosquetón? no, escala de cuerda=escalera de cuerda, red de circo, trapecio, funambulista=cuerda floja, "
+    "puenting, rápel, alpinismo, cuerda de escalada, cordada, tienda india, tipi, tendal, pinza? no, globo con cuerda, bolsa de tela con cordón=bolsa de cuerdas, "
+    "mochila de cuerdas, sudadera=capucha con cordones, pantalón de chándal=cordón del pantalón, corsé, sandalias de cuerda? no, alpargatas, chanclas? no",
+ 4: "arpa de cristal? no, aeolian harp, psalterio, kantele, kanun, santur, yangqin, hammered dulcimer, cimbalom, zither, autoharpa, "
+    "hurdy-gurdy, viola d'amore, baryton, arpeggione, rabel, gadulka, gusle, lirone, crwth, tromba marina, morin khuur, sarangi, sarod, tanpura, veena, "
+    "kemenche, rebab, gayageum, dan bau, ngoni, valiha, cavaquinho, guitarra portuguesa, tres cubano, tiple, jarana, mejorana, laúd árabe, guitarrico, "
+    "contrabajo de cuatro cuerdas? no, bajo de cinco cuerdas, guitarra barítono, Chapman Stick, Warr guitar, arpa láser? no, arpa de pedales, arpa doble, "
+    "raqueta de nieve, raqueta de pádel? no, pala de pádel? no, honda balear, boleadoras, lazo=cuerda de vaquero, látigo de cuerda? no, ballesta de repetición, "
+    "red de cerco, palangre, trasmallo, nasa? no, catapulta? no, trebuchet? no, puente tibetano, puente de cuerdas inca, Q'eswachaka",
+},
+"algo_pica": {
+ 1: "guindilla=guindillas=chile=chiles=pimiento picante, mosquito=mosquitos, abeja=abejas, avispa=avispas, ortiga=ortigas, pimienta, tabasco=salsa picante, "
+    "wasabi, jalapeño=jalapeños, pica pica=Peta Zeta=Peta Zetas, pulga=pulgas, piojos=piojo, picor? no, jersey de lana=lana, medusa=medusas",
+ 2: "escorpión=alacrán, araña=arañas, hormiga=hormigas, chinche=chinches, garrapata, tábano, mosca? no, serpiente, culebra? no, avispón, abejorro, "
+    "mostaza, rábano picante, jengibre, ajo crudo=ajo, cebolla cruda? no, curry, pimentón picante, harissa, sriracha, kimchi, salsa brava, mojo picón, "
+    "cayena, habanero, Carolina Reaper=Carolina reaper, pimiento de Padrón=Padrón, piparras, Doritos picantes=Doritos Flamin Hot=Cheetos picantes, Takis, "
+    "picadura, varicela, sarna, urticaria, alergia, eccema, dermatitis, piel seca, quemadura solar, depilación=pelo creciendo=barba de tres días, "
+    "etiqueta de la ropa=etiqueta, ropa nueva, lana, suéter de lana, bufanda de lana, arena=arena de la playa, cloro, polvo, pelo de gato? no, "
+    "agua oxigenada=alcohol en una herida=herida, Betadine? no, champú en los ojos, cebolla (en los ojos)? no, humo? no, refresco con gas=gaseosa=Coca-Cola, "
+    "gas=agua con gas, cava=champán, garganta=dolor de garganta, nariz=nariz que pica, picor de ojos=ojos, oído? no, cabeza=cuero cabelludo, cicatriz, "
+    "costra, herida curando, picaduras de mosquito, pez (pica el anzuelo)=pez, pez araña, erizo de mar=erizo, anémona, carabela portuguesa, cardo, zarza, cactus? no",
+ 3: "pimienta negra, pimienta de Cayena, pimienta de Sichuan, pimienta rosa, guindilla de Ibarra, ají, ají amarillo, rocoto, serrano, chipotle, ancho? no, "
+    "piri piri, bird's eye=chile ojo de pájaro, scotch bonnet, naga jolokia=bhut jolokia, chile fantasma, Trinidad Scorpion, chile tailandés, guajillo? no, "
+    "gochujang, sambal, chimichurri picante, salsa diabla, salsa Valentina, Cholula, salsa Búfalo, mostaza Dijon, mostaza antigua, Colman's, raíz de wasabi, "
+    "horseradish, rúcula? no, berros, rábano, cebollino? no, puerro? no, jengibre encurtido=gari, galanga, clavo, canela? no, nuez moscada? no, "
+    "piel de naranja? no, alcohol=vodka=tequila=orujo=aguardiente, absenta, licor de hierbas? no, tabaco=cigarro? no, menta? no, chicle de menta? no, "
+    "pasta de dientes? no, ortiga muerta? no, tojo, aulaga, espino, acebo, ortiga mayor, hiedra venenosa, roble venenoso, zumaque, euforbia, cardo borriquero, "
+    "lagarta=procesionaria=oruga procesionaria, oruga, ciempiés, escolopendra, tarántula, viuda negra, araña lobo, araña violinista, mosca negra, jején, "
+    "chinche de cama=chinches de la cama, ácaros, pulgón? no, piojo púbico=ladillas, sarcoptes, avispa asiática=velutina, avispa papelera, hormiga roja, "
+    "hormiga bala, hormiga de fuego, abeja africana, abejorro carpintero? no, raya=pastinaca, pez escorpión, pez piedra, pez león, faneca brava=pez araña, "
+    "escorpina, cabracho, rascacio, anémona de mar, coral de fuego, medusa luminiscente? no, avispa marina, ortiga de mar, salpas? no, hidrozoos",
+ 4: "capsaicina, piperina, alicina, isotiocianato, escala Scoville, pimienta de Jamaica? no, pimienta larga, cubeba, malagueta, pimienta de Tasmania, "
+    "nduja, sobrasada picante, chorizo picante, salami picante=pepperoni, kimchi coreano, curry vindaloo=vindaloo, phaal, jalfrezi, madras, "
+    "tom yum, larb, som tam, mapo tofu, pollo Kung Pao, salsa XO, chile oil=aceite de chile, lao gan ma, chiles toreados, aguachile, ceviche picante, "
+    "papas a la huancaína? no, alitas búfalo, Nashville hot chicken, jerk chicken, harira? no, shakshuka picante, zhug, berbere, mitmita, "
+    "lana merina? no, mohair, alpaca? no, lana de oveja, tela de saco, arpillera, esparto, fibra de vidrio=lana de roca, pelusa de melocotón=melocotón, "
+    "kiwi (la piel), piña (pica en la lengua)=piña, cacahuete? no, nuez (alergia)? no, látex? no, níquel, bisutería, pendientes baratos, "
+    "pelos de tarántula, pelos de oruga, pelusa de plátano de sombra=plátano de sombra, polen, gramíneas, olivo (alergia)? no, arizónica? no",
+},
+"se_derrite": {
+ 1: "hielo=cubito de hielo=cubitos, helado=helados, nieve, chocolate, mantequilla, queso, vela=velas=cera, polo=polos, glaciar=glaciares, muñeco de nieve",
+ 2: "iceberg, polos (Polo Norte)=Polo Norte=casquetes polares, granizo, escarcha, carámbano=carámbanos, margarina, manteca, mozzarella, queso fundido, "
+    "chuches=gominolas, azúcar=caramelo, caramelo, gelatina? no, nube=nubes=malvavisco=marshmallow, cera de depilar=cera depilatoria, crayón=ceras, "
+    "plástico, metal=hierro=acero, oro, plata, cobre, aluminio, estaño, plomo, vidrio=cristal, lava? no, roca=rocas=magma, plastilina? no, "
+    "pintalabios=barra de labios, crema solar? no, maquillaje, rímel? no, corazón=se me derrite el corazón, persona en verano=yo con el calor, "
+    "Frozen=Olaf, la Bruja Mala del Oeste=Bruja del Oeste, el T-1000=T-1000, Mantequilla? no, granizado, sorbete, batido? no",
+ 3: "sal en el hielo? no, permafrost, hielo de la nevera=escarcha del congelador, nieve de la sierra, banquisa, plataforma de hielo, hielo marino, "
+    "nieve artificial, nieve carbónica? no, hielo seco? no, chocolate negro, chocolate blanco, cobertura de chocolate, bombón, Kit Kat en el coche=chocolatina en el bolsillo, "
+    "Magnum, Calippo, Frigopié, Drácula=helado Drácula, Cornetto, sandwich de helado=corte de helado, tarta helada, granizado de limón, "
+    "queso raclette=raclette, queso de fondue=fondue, cheddar, gouda, emmental, provolone, parmesano? no, torta del Casar, brie, camembert, "
+    "ghee, sebo, tocino, panceta=grasa, grasa de jamón=grasa, lardo, foie, aceite de coco, manteca de cacao, manteca de karité, aceite de palma, "
+    "azúcar quemado, caramelo líquido, toffee, algodón de azúcar, piruleta? no, chicle? no, regaliz? no, gominola, azúcar glas? no, isomalt, "
+    "parafina, cera de abeja, cera de soja, lacre, estearina, vela de cumpleaños, vela de iglesia=cirio, plástico de un táper=táper, botella de plástico, "
+    "bolsa de plástico, PVC, poliestireno=corcho blanco, nailon, poliéster, goma, neumático, asfalto=alquitrán, betún, resina, ámbar? no, cera de suelos? no, "
+    "soldadura=estaño de soldar, plomo de pesca, oro fundido, bronce, latón, zinc, níquel, titanio, tungsteno=wolframio, hierro fundido, arena (vidrio)? no, "
+    "silicona=barra de silicona, pegamento termofusible, crayón de cera, pastel al óleo? no, cera de oídos? no, maquillaje con el calor, base de maquillaje, "
+    "bálsamo labial=cacao, desodorante en barra, crema? no, gomina? no, laca de uñas? no, rímel con el calor, la Bruja del Oeste, Alex Mack, el Hombre de Arena? no",
+ 4: "hielo de los Alpes, hielo de Groenlandia, glaciar Perito Moreno=Perito Moreno, glaciar de Aneto=glaciar del Aneto=Aneto, Monte Perdido=glaciar de Monte Perdido, "
+    "Antártida, Ártico, casquete polar, neviza, firn, nevero, ventisquero, cornisa de nieve, alud de nieve? no, granizada, aguanieve? no, "
+    "sorbete de frutas, helado artesano, helado de corte, polo de hielo, flash=polo flash=Flash, Mikolápiz, Frigurón, Colajet, Twister, Push Up, Fantasmikos, "
+    "Mochi helado=mochi, kulfi, gelato, paleta, nieve de limón? no, granita, cuajada? no, natillas? no, gelatina caliente? no, "
+    "manteca colorá, sobrasada, chicharrones? no, ghee indio, mantequilla clarificada, tuétano, médula ósea, gelatina de huesos, aspic, "
+    "chocolate de cobertura, praliné, gianduja, Nutella? no, crema de cacahuete? no, chocolate en el bolsillo, Lacasitos? no, M&M's? no, Conguitos? no, "
+    "cera de vela de miel, cera microcristalina, cera carnauba, cera de candelilla, cera de parafina, cera perdida, oro de 24 quilates, plata de ley, "
+    "galio, mercurio? no, cesio, francio? no, rubidio, sodio, potasio, indio, bismuto, estaño-plomo, solder, vidrio de Murano, obsidiana? no, "
+    "basalto, granito? no, magma de un volcán, roca volcánica, meteorito? no, cometa=cometas, núcleo de un cometa, hielo de Plutón, Europa (luna)? no",
+},
+"tiene_agujeros": {
+ 1: "queso=queso gruyer=gruyer=emmental, colador, esponja, donut, red, botón=botones, zapatos=cordones? no, cinturón, calcetín=calcetines=calcetines rotos, "
+    "nariz, oreja=orejas=pendientes, flauta, ducha=alcachofa de la ducha, pan, galleta, salero",
+ 2: "rallador, coladera=escurridor=escurridera, regadera, mosquitera, malla=mallas=medias de rejilla=rejilla, colador de té, criba=tamiz, "
+    "carta de Bingo? no, tabla de agujeros, campo de golf=golf, mesa de billar=billar=troneras, tablero de ajedrez? no, Connect 4=4 en raya, "
+    "dominó, dado=dados, CD=disco, vinilo, DVD, rosca? no, tuerca, arandela, tornillo? no, clavija, enchufe, toma de corriente, USB, conector, "
+    "pared con tacos=pared, tejado, techo con goteras=gotera, carretera con baches=bache, Gruyère, panal=panal de abejas, piedra pómez, coral, hormiguero, "
+    "madriguera, ratonera, colmena, nido, tronco? no, Swiss cheese, avena? no, pan de molde? no, magdalena? no, waffle=gofre, crumpet, tortita? no, "
+    "ojal=ojales, aguja=ojo de la aguja, hebilla, cinturón de cuero, pulsera, collar? no, pendiente=piercing, nariz con piercing, lóbulo, "
+    "ozono=capa de ozono, agujero negro, universo, Luna (cráteres)? no, Gruyère suizo, queso de Gruyère, Maasdam, Jarlsberg, Leerdammer",
+ 3: "trompeta, clarinete, oboe, flauta dulce, flauta travesera, saxofón, gaita, ocarina, armónica, acordeón? no, xilófono? no, guitarra (boca)=guitarra, "
+    "violín (efes), altavoz, micrófono, teléfono, auricular, cargador, bombilla? no, pila? no, regleta, ladrillo=ladrillos, bloque de hormigón, celosía, "
+    "persiana, rejilla de ventilación, alcantarilla, desagüe, sumidero, fregadero, lavabo, bañera, bidé, váter, filtro, filtro de café, cafetera italiana, "
+    "salero y pimentero, especiero, azucarero? no, colador de pasta, espumadera, pasapurés, tenedor? no, cuchara de agujeros, rallador de queso, mandolina? no, "
+    "tabla de cortar? no, molde de silicona? no, bandeja perforada, olla exprés? no, vaporera, cesta de mimbre, cesto, red de pesca, red de baloncesto, "
+    "portería, raqueta, raqueta de nieve, caña de pescar? no, barco con vía de agua? no, colador chino, muro con aspilleras, castillo (troneras)=troneras, "
+    "zapatillas Crocs=Crocs, sandalias, chanclas de rejilla? no, guantes de ciclismo, camiseta de rejilla, red de voleibol, jaula, valla=verja, alambrada, "
+    "tela metálica, gallinero, pajarera, criadero? no, panal de cera, termitero, roca kárstica=karst, cueva, gruta, sima, cenote, géiser? no, volcán (cráter), "
+    "camino de tierra? no, campo de minas? no, diana? no, tiro al blanco, colador de jardín? no, manguera agujereada, aspersor, regadera de flores, "
+    "ducha de mano, esponja de mar, esponja natural, pan de payés, pan de cristal, pan de chapata, bizcocho? no, panettone? no, bollo? no, rosquilla, "
+    "bagel, Cheerios, aros de cebolla, macarrones, ziti? no, penne? no, rigatoni? no, canelones? no, Oreo? no, galleta María=María, galleta Príncipe? no, "
+    "cracker=crackers=galletas saladas, tostadas? no, pan de pita? no, picos, regañás? no, queso Emmental, queso Appenzeller",
+ 4: "flauta de pan=zampoña, quena, tin whistle, didgeridoo? no, órgano (tubos)=órgano, txistu, dulzaina, gralla, chirimía, bombardino? no, "
+    "tarjeta perforada, cinta perforada, piano mecánico=pianola, caja de música, bloque de tetris? no, Lego=piezas de Lego, Meccano, tablero de clavijas, "
+    "pegboard, panel perforado, tablero de corcho? no, archivador de anillas=hojas perforadas=folios perforados, perforadora=taladradora de papel, "
+    "billete de metro antiguo, ticket picado, bono picado, cartón de bingo picado? no, partitura de organillo, rollo de pianola, "
+    "malla de gallinero, rejilla del horno, rejilla de la barbacoa, parrilla, colador de cocina, tamiz de harina, zaranda, harnero, cedazo, "
+    "rueda de bici (radios)? no, llanta, disco de freno perforado, colector, silenciador, tubo de escape, rejilla del radiador, parrilla del coche, "
+    "esponja de cocina? no, estropajo, piedra volcánica, escoria, tufo, travertino, coral cerebro, madrépora, foraminífero, diatomea, radiolario, "
+    "hueso (osteoporosis)? no, hueso esponjoso, pulmón? no, cráneo (forámenes)=cráneo, vértebra, pelvis (agujero obturador), calavera, máscara, careta, "
+    "pasamontañas, antifaz? no, máscara de esgrima, colador de ducha, plato de ducha, tapón de bañera? no, cesta de la lavadora, tambor de la lavadora, "
+    "secadora=tambor, centrifugadora, lavavajillas (brazos), aspersor de jardín, gotero, manguera de goteo, macetas=maceta, semillero, invernadero? no",
+},
+"personaje_mascara": {
+ 1: "Batman, Spider-Man=Spiderman=Hombre Araña, el Zorro=Zorro, Darth Vader, Michael Myers, Ghostface=Scream, Jason=Jason Voorhees, Deadpool, Iron Man, "
+    "el Fantasma de la Ópera=Fantasma de la Ópera, V de Vendetta=V, Bane, Robin, las Tortugas Ninja=Tortugas Ninja, Catwoman",
+ 2: "Leonardo, Raphael, Donatello, Michelangelo, Kylo Ren, Boba Fett, el Mandaloriano=Mando=Din Djarin, Darth Maul? no, Stormtrooper=soldado imperial, "
+    "Lobezno? no, Capitán América? no, Pantera Negra=Black Panther, Ant-Man, Daredevil, Doctor Doom=Doctor Muerte, Ultrón? no, Venom, Carnage, "
+    "Green Lantern=Linterna Verde, Flash, Hannibal Lecter=Hannibal, Leatherface=Cara de cuero, Jigsaw=Billy (Saw)=el muñeco de Saw, la Máscara=Stanley Ipkiss, "
+    "el Llanero Solitario=Llanero Solitario, Kakashi, Obito, Tobi, Sub-Zero, Scorpion, Noob Saibot, Reptile? no, Mileena, Kitana, Shredder=Destructor, "
+    "Casey Jones, el Coyote? no, Mortadelo? no, Rorschach, el Comediante? no, Spawn, Black Bolt? no, Spider-Gwen=Gwen Stacy, Miles Morales, "
+    "Kick-Ass, Hit-Girl, Red Hood=Capucha Roja, Nightwing=Ala Nocturna, Batgirl, Superwoman? no, Dr. Fate, Moon Knight=Caballero Luna, Ghost Rider? no, "
+    "los de La casa de papel=Dalí=máscara de Dalí=La casa de papel, Anonymous=Guy Fawkes, el de la Purga=La Purga, Mr. Increíble=Señor Increíble, Elastigirl, "
+    "Frozone, Megamind? no, Hiccup? no, Shrek? no, Super Mario? no, Spider-Woman, Black Cat, Mysterio, Duende Verde=Green Goblin, Hobgoblin, "
+    "el Enmascarado? no, Hombre de Hierro, Mr. Robot, Ghost (Call of Duty)=Ghost, Ghost (Scream), Leatherface, Michael Myers, Pinhead? no",
+ 3: "Rocket Raccoon? no, Star-Lord, Groot? no, Taskmaster, Deathstroke, Black Mask=Máscara Negra, Hush, el Espantapájaros=Scarecrow, Mr. Freeze? no, "
+    "Bane, Talia? no, Ra's al Ghul? no, Batman Beyond, Owlman, Sinestro? no, Gran Bola de Fuego? no, Ojo de Halcón? no, Ronin, Winter Soldier? no, "
+    "Kang? no, Doctor Strange? no, Magneto (casco)=Magneto, Juggernaut, Cíclope=Cíclope (visor), Deadpool, Wade Wilson, Deadshot, Harley Quinn? no, "
+    "Psylocke? no, Silk, Spider-Man 2099, Spider-Punk, Superior Spider-Man, Prowler=Merodeador, Kraven? no, Electro, Scarlet Spider, "
+    "Zorro de Antonio Banderas=Alejandro Murrieta, Diego de la Vega, el Coyote (José Mallorquí), el Guerrero del Antifaz=Guerrero del Antifaz, El Santo=Santo, "
+    "Blue Demon, Mil Máscaras, Rey Mysterio, Kalimán? no, Mascarita Sagrada, Hijo del Santo, Tigre Toño=El Tigre, Máscara de Plata, Blue Panther, "
+    "Kane=Kane (WWE), Mankind, Sting? no, Vader, Sin Cara, Místico, Dr. Wagner, Rush? no, Pentagón, Fénix, Bandido, Psycho Clown, "
+    "Jason de Viernes 13, Freddy Krueger? no, Chucky? no, Pennywise? no, el de Halloween=Michael, Leatherface, el Hombre del Saco? no, Slenderman? no, "
+    "Hannibal con bozal, Bane con máscara, Immortan Joe, Mad Max? no, Lord Humungus, Darth Vader, Grievous=General Grievous, Kylo, Phasma=Capitana Phasma, "
+    "clon=soldado clon=clone trooper, Mandaloriano, Jango Fett, Bo-Katan, Sabine Wren, Ahsoka? no, Inquisidor, Tusken=moradores de las arenas, "
+    "Predator=Depredador, Alien? no, Robocop, Juez Dredd=Dredd, Ultraman, Power Rangers=Power Ranger, Kamen Rider, Ultraseven, Mazinger Z? no, "
+    "Tuxedo Mask=Tuxedo Kamen=el enmascarado de Sailor Moon, Lady Bug=Ladybug, Cat Noir, Hawk Moth=Lepidóptero, Mayura? no, Rena Rouge, Carapace, "
+    "PJ Masks=Héroes en pijama=Gatuno=Buhíta=Gekko, Romeo (PJ Masks), Danny Phantom? no, Kim Possible? no, Señor Increíble, Syndrome? no, Dash, Violeta",
+ 4: "Doctor Muerte de Marvel, Red Skull=Cráneo Rojo? no, Crossbones, Baron Zemo=Barón Zemo, Arnim Zola? no, Madame Masque, Mask (Marvel)? no, "
+    "Bullseye, Elektra? no, Black Knight? no, Ghost (Marvel), Ronin (Clint), Nighthawk, Speed Demon? no, Shocker, Hydro-Man? no, Chameleon? no, "
+    "Jackal? no, Puma? no, Silver Sable? no, Molten Man? no, Lizard? no, Morbius? no, Blade? no, The Hood, Mister Negative? no, Bushwacker? no, "
+    "Phantom=el Hombre Enmascarado=el Fantasma, Green Hornet=Avispón Verde, Kato, Shadow=La Sombra, Spirit, Rocketeer? no, Captain Midnight, "
+    "Mysterio, Masked Rider, Hombre Polilla? no, Grimace? no, Dr. Wily? no, Proto Man, Mega Man? no, Samus Aran, Master Chief, Doom Slayer=Doomguy, "
+    "Solid Snake? no, Raiden? no, Genji, Reaper, Soldier: 76, Ana? no, Sombra? no, Junkrat? no, Roadhog, Moira? no, Lúcio? no, Ghost de MW, "
+    "Kakashi Hatake, Zabuza, Haku, Obito Uchiha, Madara? no, Sasori? no, Kakuzu, Tobi de Akatsuki, Noh? no, Lelouch=Zero, Tuxedo, Gaara? no, "
+    "Hannya, Kabuki, Ghostface de Scream, Dr. Dolittle? no, Majin Boo? no, Gran Saiyaman=Gran Saiyaman (Gohan), Gohan disfrazado, Tuxedo Mask, "
+    "Hollow? no, Ichigo con máscara=Hollow Ichigo, Kenpachi? no, Mayuri, Coyote Starrk? no, Grimmjow? no, Ulquiorra? no, Aizen? no, "
+    "el Pájaro Loco? no, el Zorro Gris? no, Leatherface, Hannibal, el Doctor Zaius? no, Mortal Kombat Smoke=Smoke, Rain, Ermac, Takeda, Jade, Tanya, Sareena",
+},
+})
+
+# ── domingo 15 ──
+PREGUNTAS.update({
+    "alquilar": "Nombra algo que se pueda alquilar",
+    "tiene_dientes": "Nombra algo que tenga dientes",
+    "se_pela": "Nombra algo que se pele",
+    "pelirrojos": "Nombra un personaje de ficción pelirrojo",
+    "en_muneca": "Nombra algo que se lleve en la muñeca",
+    "tiene_botones": "Nombra algo que tenga botones",
+    "brilla_oscuridad": "Nombra algo que brille en la oscuridad",
+})
+MANO.update({
+"alquilar": {
+ 1: "piso=casa=vivienda=apartamento, coche, bici=bicicleta, habitación, local=local comercial, película=peli=películas, moto, barco, patinete, plaza de garaje=garaje=parking",
+ 2: "furgoneta, autocaravana=caravana, trastero, oficina, nave=nave industrial, chalet=casa rural=casa de campo, vestido=traje, disfraz=disfraces, esquís=equipo de esquí, "
+    "tabla de surf=surf, kayak=piragua, hamaca=tumbona=sombrilla, apartamento de playa, castillo hinchable=hinchable, limusina, avioneta, helicóptero, yate, velero, "
+    "Netflix? no, videojuego=videojuegos, libro? no, DVD=VHS=cintas de vídeo, herramientas=taladro, sillas=mesas, carpa, sala=salón de eventos=salón, finca, "
+    "terreno=tierras=campo, piscina? no, pista de pádel=pista=pista de tenis, campo de fútbol, carro de golf, segway, karts, tractor, grúa, maquinaria=excavadora",
+ 3: "taquilla, consigna, apartado de correos, caja de seguridad=caja fuerte, cuenta? no, servidor=hosting=servidor web, dominio? no, nube=almacenamiento en la nube, "
+    "software=licencia, coche eléctrico=coche compartido=carsharing, motosharing, bicing=bicimad, patinete eléctrico, tuk-tuk, calesa=coche de caballos, caballo, "
+    "burro? no, camello? no, perro? no, mascota? no, novio? no, persona? no, vientre de alquiler? no, gestación subrogada? no, actor? no, "
+    "traje de novia, traje de comunión, chaqué, esmoquin, smoking, bolso de lujo, joyas, reloj? no, cámara de fotos=cámara, objetivo, dron, proyector, "
+    "equipo de sonido=altavoces, luces, DJ? no, karaoke, futbolín, máquina recreativa, photocall, fotomatón, máquina de algodón de azúcar, coche de boda, "
+    "autobús=autocar, minibús, tren? no, vagón, contenedor, palé? no, almacén, grúa torre, andamio, generador, hormigonera, compresor, plataforma elevadora, "
+    "toro mecánico, sala de cine=cine, teatro, sala de ensayo, local de ensayo, estudio de grabación, plató, coworking=puesto de coworking, sala de reuniones, "
+    "despacho, consulta, cocina? no, restaurante? no, iglesia? no, castillo, palacio, isla, iglú, cueva, tipi, bungalow, cabaña, parcela de camping=parcela, "
+    "tienda de campaña, saco de dormir, raquetas de nieve, botas de esquí, casco, snowboard, bicicleta eléctrica, moto de agua, paddle surf, patines, "
+    "barca de remos=barca, hidropedal=patín de pedales=pedaló, globo aerostático? no, catamarán, lancha, gasolina? no, silla de ruedas, muletas, cama articulada, "
+    "andador, carrito de bebé, sillita de coche, cuna, trona, ropa de bebé, juguetes, consola, ordenador, portátil, móvil? no, router, televisor=tele, nevera, lavadora",
+ 4: "huerto=huerto urbano, colmenas, viñedo, olivar, coto de caza, coto de pesca, palco, butaca? no, palco VIP, abono? no, nicho? no, panteón? no, "
+    "vallas publicitarias=valla publicitaria, espacio publicitario, escaparate, stand, puesto de mercado, puesto, carro de helados, food truck=foodtruck, "
+    "tranvía? no, barco de recreo, góndola? no, submarino turístico, jet privado=avión privado, hidroavión, chófer? no, escolta? no, "
+    "cuadros=obras de arte, piano, instrumento musical=instrumentos, violín, guitarra, batería, amplificador, mesa de mezclas, órgano, arpa, "
+    "vestido de flamenca, traje regional, traje de luces? no, uniforme? no, toga, birrete, peluca, traje de Papá Noel=disfraz de Papá Noel, "
+    "Reyes Magos? no, belén? no, decoración de Navidad, árbol de Navidad, mantelería, vajilla, cubertería, copas, menaje, arcos de flores, centros de mesa, "
+    "plantas? no, olivo centenario? no, burro de carga? no, caballo para bodas, carruaje, calesa nupcial, Rolls-Royce, Ferrari, Lamborghini, Porsche, coche clásico, "
+    "vehículo de época, Seiscientos=Seat 600, autocaravana camper=camper, furgoneta camper, remolque, carro=remolque de bici, sidecar? no, quad, buggy, todoterreno",
+},
+"tiene_dientes": {
+ 1: "boca=persona=personas, peine, sierra=serrucho, tiburón, cremallera, tenedor? no, perro=perros, cocodrilo, león, vampiro=Drácula, rastrillo",
+ 2: "engranaje=engranajes=rueda dentada=piñón, motosierra, cuchillo de sierra=cuchillo del pan=cuchillo, llave=llaves, sello=sellos de correos, "
+    "ajo=diente de ajo, león? no, lobo, tigre, gato, caballo, ratón, rata, castor, hámster, conejo, serpiente=víbora, piraña, morena, barracuda, "
+    "hipopótamo, elefante? no, morsa, jabalí=colmillos, mono, gorila, oso, hiena, dinosaurio=T-Rex, Godzilla, monstruo, zombi=zombie, hombre lobo, "
+    "Tiburón (película)=Jaws, Pac-Man? no, calavera, bebé (de leche)? no, abuelo (dentadura)=dentadura postiza, dentista? no, cepillo? no, "
+    "grapadora? no, abrelatas? no, rallador? no, cascanueces=Cascanueces, trampa=trampa para osos=cepo, tijeras de dentar=tijeras zigzag, "
+    "dientes de león=diente de león, hoja de cuchillo? no, bicicleta (plato)=plato de la bici, cadena? no, reloj (por dentro)=reloj, carraca, "
+    "cascanueces, gancho? no, hoja de ortiga? no, hoja dentada=hojas de árboles, hoja de sierra",
+ 3: "llave inglesa? no, alicate? no, tenazas? no, pinzas de cocodrilo, pinza de pelo de cocodrilo, cuchilla de afeitar? no, cuter? no, sierra de calar, "
+    "radial? no, serrucho de costilla, sierra de arco, sierra circular, trinchador? no, cuchillo jamonero? no, cuchillo de carne, cuchillo de pan, "
+    "cortaúñas? no, cuchilla de cortacésped? no, cosechadora, trillo, arado? no, grada, rastrillo de jardín, horca? no, escarificador, cardadora, "
+    "peine de púas, peine de piojos=lendrera, cepillo de perro? no, carda, telar? no, reloj de cuco=mecanismo de reloj, caja de cambios=marchas, "
+    "transmisión, diferencial, cremallera de tren=tren cremallera, cremallera de dirección, corona y piñón, polea dentada, correa de distribución, "
+    "tornillo sin fin, sello de lacre? no, ruedas de tractor? no, neumático de invierno? no, botas de fútbol (tacos)? no, crampones, piolet? no, "
+    "pez espada? no, pez sierra, tiburón blanco, tiburón ballena (pequeños), orca, cachalote, delfín, narval (colmillo)=narval, foca, león marino, "
+    "anguila, lucio, pez lobo, pez víbora, rape, pez linterna? no, piraña roja, babuino, mandril, chimpancé, murciélago vampiro, musaraña, topo, "
+    "ardilla, capibara, puercoespín, marmota, ornitorrinco? no, oso hormiguero? no, ballena azul? no, armadillo? no, perezoso, tejón, glotón, "
+    "comadreja, nutria, zorro, chacal, coyote, dingo, lince, puma, jaguar, leopardo, guepardo, pantera, gato montés, tigre dientes de sable=smilodon, "
+    "megalodón, velociraptor, alosaurio, mamut, Pennywise, Alien, Depredador=Predator, Venom, Gremlins, Critters, Ghostface? no, Jaws, Chucky? no, "
+    "Mr. Bean? no, Shrek? no, el Grinch? no, Cheshire=gato de Cheshire, Bugs Bunny, Tom y Jerry, Scar, Bruce (Buscando a Nemo)=Bruce, Mordisquitos? no",
+ 4: "babosa (rádula)=babosa, caracol, lapa, quitón, erizo de mar (linterna de Aristóteles)=erizo de mar, sanguijuela, gusano de fuego? no, "
+    "lamprea, mixino, pez loro, pez ballesta, pez globo, pez puercoespín, pez pescador, pez dragón, pez víbora de Sloane, pez sable? no, "
+    "pez aguja? no, aligátor, caimán, gavial, varano, dragón de Komodo, monstruo de Gila, iguana, tuátara, salamandra gigante, rana cornuda, "
+    "pacman frog, rana toro africana, ranas (dientes vomerianos)? no, hormiga mandíbula de trampa? no, escarabajo ciervo? no, "
+    "hongo dentado? no, Hydnum=lengua de gato? no, llave de seguridad, llave de serreta, cerradura? no, peine de afeitar? no, sello filatélico, "
+    "tapa corona=chapa de botella, chapa=chapas, sierra de cinta, sierra de calar, tronzadora, ingletadora, sierra caladora, segueta, sierra de marquetería, "
+    "lima? no, raspa? no, escofina? no, hoja de pan de oro? no, peine de telar, carda de lana, rastra, trituradora, picadora=picadora de carne, molinillo de café? no, "
+    "cascanueces de madera, tenazas de cangrejo? no, pinzas de barbacoa? no, sacacorchos? no, abrelatas? no, abrebotellas? no, engrapadora? no, "
+    "cremallera de mochila, cremallera de pantalón, velcro? no, sello de caucho? no, ruedas dentadas de una bici=piñones=cassette, plato y piñones, "
+    "cadena de motosierra, cuchilla de cortasetos, cortasetos, desbrozadora? no, segadora, empacadora, cosechadora de maíz, cabezal de cosechadora",
+},
+"se_pela": {
+ 1: "naranja=naranjas, plátano=plátanos, patata=patatas, mandarina=mandarinas, manzana=manzanas, gambas=gamba=langostinos, huevo cocido=huevo duro=huevo, kiwi, "
+    "cebolla, ajo, piel=la piel después del sol=espalda quemada, zanahoria, pera, pipas",
+ 2: "melocotón, piña, mango, aguacate, sandía? no, melón, pepino, calabacín? no, calabaza, berenjena? no, remolacha, nabo, boniato, castañas, "
+    "nueces? no, cacahuetes=cacahuete, almendras, pistachos, avellanas, granada, lichi, uvas? no, tomate (escaldado)=tomate, pimiento asado, "
+    "cangrejo, langosta, cigala, nécoras, percebes, mejillones? no, almejas? no, huevo de codorniz, codornices? no, pollo (piel)? no, "
+    "cebolleta, puerro, chalota, jengibre, espárragos, alcachofas, habas, guisantes, judías? no, mazorca=maíz, coco, papaya, pomelo, limón, lima, "
+    "huevo de Pascua? no, Kinder Sorpresa=huevo Kinder, bombón? no, caramelo=caramelos, chicle? no, piruleta? no, salchicha? no, embutido=chorizo=salchichón=fuet, "
+    "queso (corteza)? no, árbol=corteza=tronco, lápiz=sacapuntas=lápices, cable=cables, pegatina? no, pintura=pared=pintura de la pared, uñas=esmalte de uñas, "
+    "labios=labios cortados, nariz quemada, hombros quemados, pies, cara=mascarilla peel-off, persona (calva)? no, gallina (desplumar)? no",
+ 3: "chirimoya, maracuyá, pitahaya, rambután, mangostán, longan, carambola? no, tamarindo, plátano macho, yuca, ñame, malanga, chayote, colinabo, "
+    "apionabo, chirivía, salsifí, rábano? no, cardo, acelga? no, apio=hebras del apio, ruibarbo, membrillo, níspero, caqui? no, higo=higos, chumbo=higo chumbo, "
+    "naranja sanguina, kumquat? no, pomelo rosa, bergamota, cidra, yuzu, quinoto? no, sandía (corteza)? no, melón piel de sapo, cantalupo, "
+    "castañas asadas, bellotas, piñones, nuez de Brasil, nuez de macadamia, anacardos? no, pipas de calabaza, pipas de girasol, altramuces=chochos, "
+    "garbanzos tostados? no, habas tostadas? no, gamba roja, carabinero, quisquilla, camarón, langostino tigre, centollo, buey de mar, bogavante, "
+    "galeras, santiaguiños, cangrejo de río, erizo de mar, caracoles? no, sepia (piel)=sepia, calamar=piel del calamar, pulpo? no, anguila=angulas? no, "
+    "lenguado=piel del lenguado, rape (piel)=rape, merluza? no, salmón (piel)=salmón, piel de pollo, codillo? no, cochinillo? no, "
+    "huevo pasado por agua? no, huevo de avestruz, huevo de pato, huevo duro de codorniz, cebolla morada, ajo negro, ajos tiernos=ajetes, cebollino? no, "
+    "patata cocida, patata nueva, patatas asadas, boniato asado, castaña pilonga, mazorca de maíz, vaina=vainas=judía verde? no, soja=edamame, "
+    "corteza de árbol=corcho=alcornoque, eucalipto, abedul, plátano de sombra, canela (corteza)=canela, cable eléctrico, cable de cobre, "
+    "pegatina, etiqueta, plástico protector=protector de pantalla=film protector, papel de regalo=regalo, envoltorio=envoltorios, mandarina de chocolate? no, "
+    "piel quemada por el sol, costra, ampolla, callo, papel de la pared=papel pintado, barniz, pintura vieja, pegamento seco, cera de depilar",
+ 4: "jaca=yaca, durián, salak=fruta serpiente, mangostino, physalis=alquequenje (cáscara), feijoa, babaco, lulo, pepino dulce, granadilla, curuba, "
+    "nance, zapote, mamey, sapodilla, borojó, pitaya amarilla, tuna, cempedak, longan, pulasan, langsat, santol, mamoncillo, cupuazú, "
+    "palmito, corazón de alcachofa? no, castaña de agua, raíz de loto, taro, oca, ulluco, mashua, jícama, wasabi? no, rábano picante, cúrcuma fresca, "
+    "galanga, jengibre fresco, ajo morado, ajo chino, chalotas, cebolla perla, cebolletas, alcaparrones? no, aceitunas? no, "
+    "gambón, gamba blanca, gamba de Palamós, gamba de Huelva, langostino de Sanlúcar, cigala tronco, galera, mantis marina, cangrejo real, centolla, "
+    "nécora gallega, txangurro, percebe gallego, bígaros, cañaíllas, caracola=caracolas, zamburiñas? no, vieiras? no, erizos, ostras? no, "
+    "tallarín de sepia? no, chipirón=piel de chipirón, pota, pulpo cocido=piel del pulpo, morena? no, congrio, anguila ahumada, lamprea, "
+    "corteza de cerdo? no, piel de la naranja confitada? no, cáscara de huevo, huevo centenario, huevo de mil años, huevo de tortuga? no",
+},
+"pelirrojos": {
+ 1: "Ron Weasley=Ron, Ariel=la Sirenita, Pippi Calzaslargas=Pippi, Mérida=Brave, Fred y George Weasley=Fred=George=Fred Weasley=George Weasley=los gemelos Weasley, Ginny Weasley=Ginny, "
+    "Ana de las Tejas Verdes=Anne=Ana, Pippi, Annie, Pumuky=Pumuki=Pumuckl, Chucky, Misty, Wilma Picapiedra=Wilma, Jessica Rabbit, Gavilán? no, Pedro Picapiedra? no",
+ 2: "los Weasley=Weasley=Molly Weasley=Arthur Weasley=Percy Weasley=Bill Weasley=Charlie Weasley, Lily Potter=Lily, Mary Jane=Mary Jane Watson, "
+    "Viuda Negra=Black Widow=Natasha Romanoff, Jean Grey, Hiedra Venenosa=Poison Ivy, Batgirl=Barbara Gordon, Starfire, Daphne=Daphne Blake, Fred (Scooby)? no, "
+    "Velma? no, Shaggy? no, Jessie (Toy Story)=Jessie, Merida, Mérida de Brave, Anna (Frozen)=Anna, Hércules? no, Kim Possible, Lucy? no, "
+    "Wendy (Peter Pan)? no, Wendy de los dibujos=Wendy, Pippi Långstrump, Daredevil? no, Mujer Maravilla? no, Mystique? no, Firestar, Flash (Wally West)=Wally West, "
+    "Archie=Archie Andrews, Cheryl Blossom, Jason Blossom, Ginger Spice? no, Ed Sheeran? no, Princesa Fiona=Fiona, Shrek? no, Bobby? no, "
+    "Peppermint Patty, Charlie Brown? no, la niña pelirroja de Charlie Brown=Little Red-Haired Girl, Lucy van Pelt? no, Pebbles=Pebbles Picapiedra, "
+    "Wilma, Madame Mim? no, Gaspar? no, Ronald McDonald, Annie (musical), Little Orphan Annie, Raggedy Ann=Raggedy Ann, Pinocho? no, Pippi",
+ 3: "Tintín? no, Spirou, Fantasio? no, Mortadelo? no, Zipi? no, Zape? no, Carpanta? no, Doraemon? no, Shizuka? no, Nobita? no, Sakura? no, "
+    "Misty (Pokémon)=Kasumi, Brock? no, Asuka Langley=Asuka, Kurama? no, Gaara, Kushina Uzumaki=Kushina, Karin, Sasori, Nagato, Shanks, Nami, "
+    "Kirishima, Eijiro Kirishima, Rias Gremory, Erza Scarlet=Erza, Lina Inverse, Ranma (chica)=Ranma, Hanamichi Sakuragi=Sakuragi, Kenshin Himura=Kenshin, "
+    "Yoko Littner, Kurapika? no, Hisoka? no, Shinra? no, Arima? no, Holo? no, Kyoko Sakura, Maki Nishikino, Akane? no, Shana, Ryuko? no, "
+    "Kurama de Yu Yu Hakusho=Kurama, Yusuke? no, Chopper? no, Luffy? no, Zoro? no, Mai Valentine? no, Marik? no, Chrono? no, Crono, Lina, "
+    "Sansa Stark=Sansa, Catelyn Stark=Catelyn, Robb Stark=Robb, Ygritte, Tormund, Bran? no, Arya? no, Melisandre, Claire Fraser=Claire? no, Jamie Fraser=Jamie, "
+    "Ana Bolena? no, la Reina de Corazones? no, la Reina Roja? no, Elizabeth I? no, Lisa? no, Bart? no, Krusty? no, Sideshow Bob=Actor secundario Bob=Bob Patiño, "
+    "Groundskeeper Willie=Willie, Chuckie Finster=Chuckie, Kimi? no, Lil? no, Phil? no, Tommy? no, Dil? no, Angelica? no, Rugrats? no, "
+    "Timmy Turner? no, Chloe? no, Tootie? no, Vicky=Vicky (Padrinos mágicos), Kim Possible, Ron Stoppable? no, Shego? no, Dra. Drakken? no, "
+    "Peggy? no, Lois Griffin=Lois, Meg Griffin? no, Brian? no, Stewie? no, Chris Griffin? no, Peter Griffin? no, Phineas? no, Ferb? no, "
+    "Isabella? no, Candace? no, Rocky? no, Pinky (Pinky y Cerebro)? no, Elmo? no, Pippi Mediaslargas, Pumuki, Ariel, Mérida, Annie, Ron, Ginny",
+ 4: "Strawberry Shortcake=Tarta de Fresa, Rainbow Brite? no, Raggedy Andy, Lisa Frank? no, Little Mermaid=Ariel, Eric? no, Melody (La Sirenita 2), "
+    "Kida? no, Megara? no, Tarzán? no, Jane? no, Robin Hood? no, Lady Marian? no, el zorro Robin Hood (zorro)=zorro, Tod (Tod y Toby)=Tod, Toby? no, "
+    "Nick Wilde, Basil? no, Ratatouille? no, Linguini? no, Colette? no, Remy? no, Dash? no, Violeta? no, Jack-Jack? no, Elastigirl? no, Edna? no, "
+    "Woody? no, Bo Peep? no, Andy? no, Sid? no, Molly? no, Wheezy? no, Jessie la vaquera, Bullseye? no, Stinky Pete? no, Lotso? no, Ken? no, Barbie? no, "
+    "Riley (Inside Out)? no, Ira=Anger=Ira de Del revés, Alegría? no, Tristeza? no, Asco? no, Miedo? no, Mei Lee=Turning Red=Red=Mei, "
+    "Hans (Frozen)? no, Kristoff? no, Elsa? no, Olaf? no, Anna de Arendelle, Rapunzel? no, Flynn? no, Mérida DunBroch, Fergus=el rey Fergus, Elinor? no, "
+    "Hércules? no, Pocahontas? no, Esmeralda? no, Frollo? no, Quasimodo? no, Bella? no, Gastón? no, Cenicienta? no, Aurora? no, Blancanieves? no, "
+    "Ana de Green Gables, Matthew Cuthbert? no, Gilbert Blythe? no, Dorothy? no, Peter Pan? no, Campanilla? no, Garfield, Fosforito? no, Clifford, "
+    "el gato Garfield, el perro Clifford, el zorro Swiper=Swiper, Nick (Zootrópolis), Tails, Knuckles, Amy? no, Sonic? no, Diddy Kong? no, Donkey Kong? no, "
+    "Mario? no, Luigi? no, Peach? no, Daisy=princesa Daisy, Bowser (pelo rojo)=Bowser, Ganondorf=Ganon, Link? no, Zelda? no, Midna, Marin? no, "
+    "Ash? no, May? no, Dawn? no, Iris? no, Serena? no, Lillie? no, Gary? no, Paul? no, Lance=Lance de Pokémon, Silver=Silver de Pokémon, Crasher Wake? no",
+},
+"en_muneca": {
+ 1: "reloj=relojes, pulsera=pulseras, goma del pelo=goma=coletero, muñequera=muñequeras, smartwatch=reloj inteligente=Apple Watch, esclava, brazalete",
+ 2: "pulsera de actividad=Fitbit=Xiaomi Band=Mi Band, pulsera de la amistad=pulseras de la amistad, cinta del pelo? no, venda=vendaje, férula, escayola, "
+    "tatuaje, pulsera del hospital=pulsera de identificación, pulsera del todo incluido=pulsera del hotel, pulsera de festival=pulsera del festival, "
+    "pulsera de Pandora=Pandora, pulsera de hilo rojo=hilo rojo, rosario? no, cadena=cadenita, pulsera de cuero, pulsera de perlas, pulsera de oro, pulsera de plata, "
+    "brazalete de oro, esposas, puños=gemelos=puños de la camisa, manga, guante? no, pulsera antimosquitos, pulsera antimareo, pulsera magnética, "
+    "pulsera de goma=pulsera de silicona, pulsera Livestrong, pulsera de Tous=Tous, Swatch, Casio, Rolex, Omega, Cartier, Garmin, Fossil, Lotus, Festina",
+ 3: "pulsera de cuentas, pulsera de abalorios, charm=charms, pulsera tobillera? no, tobillera? no, pulsera de dijes, pulsera tennis=tennis, brazalete esclava, "
+    "brazalete rígido, bangle, pulsera macramé, pulsera de nudos, pulsera de cuerda, pulsera de la suerte, pulsera de la Virgen, pulsera de Brasil=fitinha=cinta del Bonfim, "
+    "pulsera de España=bandera de España, pulsera del Real Madrid? no, pulsera del Atleti? no, pulsera de equipo=pulsera de fútbol, pulsera de nombre, "
+    "pulsera médica=pulsera de alergias, pulsera de diabetes, pulsera de bebé, pulsera de tela=pulsera de evento, pulsera de discoteca, sello=sello de la discoteca, "
+    "pulsera de papel=pulsera Tyvek, pulsera de acceso=pulsera NFC, pulsera de pago=pulsera contactless, reloj de bolsillo? no, reloj digital, reloj de buceo, "
+    "cronógrafo, reloj de cuco? no, Tamagotchi? no, Pokéwalker? no, brújula de muñeca=brújula, altímetro, GPS de muñeca, pulsómetro, monitor de sueño, "
+    "Oura? no, Whoop, Polar, Suunto, Huawei Watch, Galaxy Watch=Samsung Galaxy Watch, Pixel Watch, Amazfit, Coros, Tissot, Seiko, Citizen, Tag Heuer, Breitling, "
+    "Patek Philippe, Audemars Piguet, Hublot, Longines, Tudor, IWC, Jaeger-LeCoultre, Panerai, Bulova, Timex, Guess, Michael Kors, Daniel Wellington, "
+    "Viceroy, Marea, Calypso, Radiant, Police, Armani, Hugo Boss, Lacoste, Tommy Hilfiger, Diesel, muñequera de tenis, muñequera de sudor, muñequera de gimnasio, "
+    "straps=muñequeras de levantamiento, rodillera? no, codera? no, guante de portero? no, guante de ciclismo? no, venda de boxeo=vendas de boxeo, "
+    "tobillera? no, pulsera con GPS=pulsera de localización, pulsera de alejamiento=pulsera telemática, pulsera de detenido? no, grillete? no, "
+    "cuerda del esquí? no, leash=invento de surf? no, correa del mando de la Wii=correa de la Wii, correa de la cámara, cordón del bastón de esquí, "
+    "puño de la camisa, puño del jersey, manga, reloj de arena? no, cinta métrica? no, cicatriz=cicatrices, lunar? no, venas? no, pulso? no",
+ 4: "pulsera Shamballa=Shamballa, pulsera Tibetana, mala=pulsera mala, pulsera budista, pulsera de ojo turco=ojo turco, pulsera de azabache=azabache, "
+    "pulsera de coral, pulsera de turquesa, pulsera de ámbar=collar de ámbar, pulsera de cuarzo, pulsera de ónix, pulsera de lava, pulsera de jade, "
+    "pulsera de esmeraldas, pulsera de diamantes, brazalete egipcio, brazalete de serpiente, brazalete Love de Cartier=Love de Cartier, Juste un Clou, "
+    "Alhambra de Van Cleef, pulsera de Hermès=Clic H, Tiffany=pulsera de Tiffany, Swarovski, Uno de 50, Aristocrazy, Majorica, Thomas Sabo, "
+    "Pandora Moments, pulsera de Tous osito, pulsera de la abuela, esclava de oro, esclava con nombre, esclava de bautizo, pulsera de bebé de oro, "
+    "brazalete de plata mexicana, pulsera de hilo de oro, pulsera de semillas, pulsera de conchas, pulsera de chapas, pulsera de imperdibles, "
+    "pulsera de pinchos, pulsera de tachuelas, pulsera de calavera, pulsera de cadena gruesa, pulsera cubana, pulsera de eslabones, pulsera de cordón, "
+    "cronómetro, pulsera de deporte, banda de frecuencia cardiaca? no, glucómetro continuo? no, sensor de glucosa=FreeStyle Libre? no, "
+    "reloj de ajedrez? no, reloj de pulsera de buzo, profundímetro, ordenador de buceo, reloj de piloto, reloj de aviador, reloj militar, reloj solar? no",
+},
+"tiene_botones": {
+ 1: "camisa=camisas, abrigo, chaqueta, pantalón=pantalones=vaqueros, mando=mando de la tele=mando a distancia, móvil=teléfono, ascensor, teclado, ratón, "
+    "mando de la consola=mando de la Play=mando, calculadora, microondas, lavadora, chaleco, rebeca, polo",
+ 2: "americana=blazer, gabardina, cárdigan, vestido, falda, blusa, pijama, mono, peto, bolso? no, cojín=funda de cojín, funda nórdica, sofá Chesterfield=sofá, "
+    "radio, tele=televisión, cafetera, horno, lavavajillas, secadora, aire acondicionado, despertador, reloj, cámara=cámara de fotos, mando del garaje, "
+    "Game Boy, Nintendo, consola portátil, máquina expendedora=máquina de café, cajero automático, semáforo (pulsador)=semáforo, telefonillo=portero automático, "
+    "timbre, autobús=botón de parada, metro (puertas)? no, tren=puertas del tren, coche=volante, salpicadero, avión (azafata)=avión, ascensor de obra? no, "
+    "acordeón, flauta? no, clarinete? no, trompeta (pistones)=trompeta, saxofón (llaves)=saxofón, máquina recreativa=recreativa=arcade, pinball, "
+    "muñeco de nieve (ojos)=muñeco de nieve, oso de peluche=peluche, muñeca de trapo, espantapájaros, Coraline (ojos)=Coraline=Otra Madre, la Otra Madre",
+ 3: "uniforme=uniforme militar=chaqueta militar, sotana, frac, chaqué, esmoquin, levita, toga? no, bata de médico=bata, bata de laboratorio, delantal? no, "
+    "guardapolvo, cazadora vaquera, chaqueta vaquera, peto vaquero, gorra (botón superior)=gorra, boina? no, botas (de botones)=botines de botones, polainas, "
+    "guantes de piel (botón)=guantes, puños=gemelos? no, camisón, body de bebé=body, pelele, ranita, faldón? no, babero? no, vestido de cóctel, "
+    "funda de almohada, cortina? no, sofá capitoné=capitoné, cabecero capitoné, butaca, puf capitoné, cojín con botones, colchón (botones)=colchón, "
+    "mando de la Wii, mando de la Xbox, joystick, volante de PlayStation? no, Simon Dice=Simon, Bop It, Tamagotchi, walkie-talkie, busca, radio CB, "
+    "mando del coche=llave del coche, llavero del coche, centralita, fax, impresora, fotocopiadora, escáner, router, módem, ordenador=torre, portátil, "
+    "monitor, altavoz=altavoces, auriculares, cascos, micro? no, cámara de vídeo=videocámara, proyector, reproductor de DVD=DVD, vídeo VHS=vídeo, "
+    "radiocasete=casete, walkman, discman, iPod, MP3, tocadiscos, equipo de música=minicadena, mesa de mezclas, sintetizador, caja de ritmos, "
+    "pedal de guitarra=pedales, amplificador, metrónomo, afinador, reloj digital, cronómetro, Apple Watch, termómetro, báscula, tensiómetro, glucómetro, "
+    "batidora, licuadora, Thermomix, freidora de aire=airfryer, panificadora, plancha, secador, plancha de pelo, cepillo eléctrico, afeitadora, depiladora, "
+    "aspiradora=Roomba, robot de cocina, vitrocerámica, inducción, campana extractora, nevera (dispensador)=nevera, congelador, caldera, termostato, "
+    "alarma, caja fuerte, cerradura electrónica, botón del pánico, botón de emergencia=seta de emergencia, botón rojo=el botón rojo=botón nuclear, "
+    "panel de control, cuadro de mandos, cabina de avión, nave espacial, submarino, tanque, central nuclear, sala de máquinas, ascensor de un barco? no",
+ 4: "dolmán, casaca, guerrera, chaquetilla de torero=chaquetilla, traje de luces, chaleco de fallera? no, jubón, corpiño, corsé? no, chambergo? no, "
+    "trenca (trabillas)=trenca, cárdigan de abuela, chaquetón marinero=chaquetón, abrigo cruzado, chaqueta Chanel, chaqueta Nehru, chaqueta Mao, "
+    "camisa hawaiana, camisa de franela, camisa Oxford, camisa de cuello mao, camisa polo, henley, guayabera, kurta, sherwani, hanbok? no, kimono? no, "
+    "qipao=cheongsam, ao dai? no, dirndl, lederhosen, traje regional=traje de chulapo, chulapa? no, traje de pastor? no, uniforme de colegio, uniforme de botones=botones, "
+    "botones (el chico del hotel)=botones de hotel, mayordomo? no, conserje? no, Muñeco Michelin? no, Mr. Potato? no, Pinocho (botones)? no, "
+    "muñeco de jengibre=hombre de jengibre=Gingy, galleta de jengibre, Frosty, Olaf (botones de carbón)=Olaf, Ted? no, Jack Skellington? no, Sally=Sally (Pesadilla), "
+    "Coraline Jones, la Bruja (Coraline)=Beldam, Wybie? no, Wally? no, Botones (Barbie)? no, Raggedy Ann (ojos de botón)=Raggedy Ann, Raggedy Andy, Muppets? no, Elmo? no",
+},
+"brilla_oscuridad": {
+ 1: "luciérnaga=luciérnagas, estrellas=estrella, luna, linterna, móvil=pantalla del móvil, gato (ojos)=ojos de gato=gatos, pulsera luminosa=pulseras fosforitas=pulsera fluorescente, "
+    "vela=velas, bombilla=luz=lámpara, fosforito=fosforescente=pegatinas fosforitas, reloj=agujas del reloj",
+ 2: "estrellas del techo=estrellas que brillan=pegatinas de estrellas, chalecos reflectantes=chaleco reflectante=reflectante, ojos de búho=búho, ojos de lobo, "
+    "medusa=medusas, plancton=plancton luminoso=bioluminiscencia, pez linterna=pez abisal=rape abisal, setas luminiscentes=setas, faro, farola=farolas, "
+    "letreros de neón=neón=cartel de neón, televisión=tele, ordenador=pantalla, Kindle? no, tablet, consola, despertador, mando? no, interruptor (luz)=interruptor, "
+    "luces de Navidad=lucecitas, relámpago=rayo, fuego=hoguera, brasas, cerilla, mechero, bengala, fuegos artificiales, lava, ojos de perro? no, "
+    "Iluminado? no, Campanilla, Jack O'Lantern=calabaza de Halloween=calabaza, fantasma, Casper? no, espada láser=sable láser, Bob Esponja? no, "
+    "Glow sticks=varitas luminosas=barritas luminosas, collares luminosos, pelota luminosa, zapatillas con luces, camisetas fosforescentes, pintura fluorescente, "
+    "uranio=radiactivo=material radiactivo, plutonio, el reactor? no, Homer Simpson (central nuclear)? no, Chernóbil? no, ojos de un vampiro? no, aurora boreal",
+ 3: "cocuyo, gusano de luz, colémbolo? no, ciempiés luminoso, escarabajo click, pez dragón negro, pez víbora, pez hacha, calamar luciérnaga, "
+    "calamar vampiro, pulpo luminoso? no, krill, dinoflagelados=noctilucas=Noctiluca, mar de leche? no, playas bioluminiscentes, cangrejo? no, "
+    "hongo de la miel=Armillaria, Panellus, Omphalotus=seta de olivo, Mycena, fuego fatuo, fuego de San Telmo, aurora austral, cometa, meteorito=estrella fugaz, "
+    "Venus=lucero=lucero del alba, Júpiter, Sirio, Vía Láctea, nebulosa? no, constelación=Osa Mayor? no, satélite=satélites=ISS=Estación Espacial, avión (luces)=avión, "
+    "dron (luces), helicóptero, barco (luces)=barco, boya, baliza, señal de tráfico (reflectante)=señales, ojos de gato de la carretera=captafaros=catadióptricos, "
+    "matrícula? no, faros del coche=faros, luces de posición, intermitentes, bicicleta (luces)=luz de bici, casco con luces, frontal=linterna frontal, "
+    "salida de emergencia=cartel de salida de emergencia=señal de salida, extintor fotoluminiscente? no, interruptor fosforescente, enchufe con luz=luz quitamiedos, "
+    "lamparita de noche=quitamiedos, proyector de estrellas, globo terráqueo con luz, lámpara de lava, bola de discoteca? no, láser=puntero láser, "
+    "luz negra=luz ultravioleta, fluorescencia, tónica (con luz negra)=agua tónica, quinina, dientes (con luz negra)? no, uñas fluorescentes=esmalte fosforito, "
+    "tatuaje UV, maquillaje fluorescente, rotulador fosforito=fluorescente=subrayador, papel fluorescente? no, ropa blanca con luz negra=camiseta blanca, "
+    "reloj luminoso=esfera luminosa=tritio, radio (elemento)=radio luminoso, pintura de radio, Radium Girls? no, fósforo, cristal de uranio=vidrio de uranio, "
+    "ojos de los animales=tapetum lucidum, ojos de vaca, ojos de ciervo, ojos de zorro, ojos de cocodrilo, ojos de araña, fantasma de la Ópera? no, "
+    "Gollum (ojos)? no, Ojos de Rudolph=Rudolph=nariz de Rudolph=Rodolfo el reno, Wall-E? no, Eva? no, Iron Man (reactor)=Iron Man, Tron, Avatar=Na'vi=Pandora, "
+    "Linterna Verde, Doctor Manhattan, Ghost Rider, Antorcha Humana, Hiedra? no, Baymax? no, Hércules? no, Hades, Campanilla, Nemo (rape)? no, Dory? no",
+ 4: "Aequorea victoria=medusa de cristal, proteína GFP, ratones fluorescentes, gatos fluorescentes, cerdos fluorescentes, conejo fluorescente=Alba, "
+    "pez cebra fluorescente=GloFish, tabaco fluorescente? no, planta luminiscente, Photinus, Lampyris, Phengodes, Arachnocampa=gusanos de Waitomo=cuevas de Waitomo, "
+    "ostrácodos, Vargula, copépodos, pirosomas, salpas, ctenóforos, sifonóforos, tiburón linterna, tiburón cigarro, pez linterna Myctophum, Anomalops, "
+    "pez farol, pejesapo, pez pescador abisal, pulpo Stauroteuthis, calamar de Humboldt, Watasenia, hongos foxfire, madera podrida luminosa, "
+    "zinc sulfuro=sulfuro de zinc, aluminato de estroncio, tritio, prometio, luminol, pinturas fotoluminiscentes, varilla de química=quimioluminiscencia, "
+    "oxalato, peróxido, fluoresceína, rodamina, quinina en tónica, escorpión con luz ultravioleta=escorpión, minerales fluorescentes=fluorita, calcita, willemita, "
+    "esfalerita, autunita, ópalo? no, diamante (fluorescencia), rubí, mapa estelar fosforescente, Glow in the dark? no, camiseta glow? no, Crocs que brillan? no",
+},
+})

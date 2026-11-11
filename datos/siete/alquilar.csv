@@ -1,0 +1,204 @@
+respuesta;alias;nivel;orden_a_mano
+piso;casa|vivienda|apartamento;1;1000000000
+coche;;1;999999999
+bici;bicicleta;1;999999998
+habitación;;1;999999997
+local;local comercial;1;999999996
+película;peli|películas;1;999999995
+moto;;1;999999994
+barco;;1;999999993
+patinete;;1;999999992
+plaza de garaje;garaje|parking;1;999999991
+furgoneta;;2;1000000000
+autocaravana;caravana;2;999999999
+trastero;;2;999999998
+oficina;;2;999999997
+nave;nave industrial;2;999999996
+chalet;casa rural|casa de campo;2;999999995
+vestido;traje;2;999999994
+disfraz;disfraces;2;999999993
+esquís;equipo de esquí;2;999999992
+tabla de surf;surf;2;999999991
+kayak;piragua;2;999999990
+hamaca;tumbona|sombrilla;2;999999989
+apartamento de playa;;2;999999988
+castillo hinchable;hinchable;2;999999987
+limusina;;2;999999986
+avioneta;;2;999999985
+helicóptero;;2;999999984
+yate;;2;999999983
+velero;;2;999999982
+videojuego;videojuegos;2;999999981
+DVD;VHS|cintas de vídeo;2;999999980
+herramientas;taladro;2;999999979
+sillas;mesas;2;999999978
+carpa;;2;999999977
+sala;salón de eventos|salón;2;999999976
+finca;;2;999999975
+terreno;tierras|campo;2;999999974
+pista de pádel;pista|pista de tenis;2;999999973
+campo de fútbol;;2;999999972
+carro de golf;;2;999999971
+segway;;2;999999970
+karts;;2;999999969
+tractor;;2;999999968
+grúa;;2;999999967
+maquinaria;excavadora;2;999999966
+taquilla;;3;1000000000
+consigna;;3;999999999
+apartado de correos;;3;999999998
+caja de seguridad;caja fuerte;3;999999997
+servidor;hosting|servidor web;3;999999996
+nube;almacenamiento en la nube;3;999999995
+software;licencia;3;999999994
+coche eléctrico;coche compartido|carsharing;3;999999993
+motosharing;;3;999999992
+bicing;bicimad;3;999999991
+patinete eléctrico;;3;999999990
+tuk-tuk;;3;999999989
+calesa;coche de caballos;3;999999988
+caballo;;3;999999987
+traje de novia;;3;999999986
+traje de comunión;;3;999999985
+chaqué;;3;999999984
+esmoquin;;3;999999983
+smoking;;3;999999982
+bolso de lujo;;3;999999981
+joyas;;3;999999980
+cámara de fotos;cámara;3;999999979
+objetivo;;3;999999978
+dron;;3;999999977
+proyector;;3;999999976
+equipo de sonido;altavoces;3;999999975
+luces;;3;999999974
+karaoke;;3;999999973
+futbolín;;3;999999972
+máquina recreativa;;3;999999971
+photocall;;3;999999970
+fotomatón;;3;999999969
+máquina de algodón de azúcar;;3;999999968
+coche de boda;;3;999999967
+autobús;autocar;3;999999966
+minibús;;3;999999965
+vagón;;3;999999964
+contenedor;;3;999999963
+almacén;;3;999999962
+grúa torre;;3;999999961
+andamio;;3;999999960
+generador;;3;999999959
+hormigonera;;3;999999958
+compresor;;3;999999957
+plataforma elevadora;;3;999999956
+toro mecánico;;3;999999955
+sala de cine;cine;3;999999954
+teatro;;3;999999953
+sala de ensayo;;3;999999952
+local de ensayo;;3;999999951
+estudio de grabación;;3;999999950
+plató;;3;999999949
+coworking;puesto de coworking;3;999999948
+sala de reuniones;;3;999999947
+despacho;;3;999999946
+consulta;;3;999999945
+castillo;;3;999999944
+palacio;;3;999999943
+isla;;3;999999942
+iglú;;3;999999941
+cueva;;3;999999940
+tipi;;3;999999939
+bungalow;;3;999999938
+cabaña;;3;999999937
+parcela de camping;parcela;3;999999936
+tienda de campaña;;3;999999935
+saco de dormir;;3;999999934
+raquetas de nieve;;3;999999933
+botas de esquí;;3;999999932
+casco;;3;999999931
+snowboard;;3;999999930
+bicicleta eléctrica;;3;999999929
+moto de agua;;3;999999928
+paddle surf;;3;999999927
+patines;;3;999999926
+barca de remos;barca;3;999999925
+hidropedal;patín de pedales|pedaló;3;999999924
+catamarán;;3;999999923
+lancha;;3;999999922
+silla de ruedas;;3;999999921
+muletas;;3;999999920
+cama articulada;;3;999999919
+andador;;3;999999918
+carrito de bebé;;3;999999917
+sillita de coche;;3;999999916
+cuna;;3;999999915
+trona;;3;999999914
+ropa de bebé;;3;999999913
+juguetes;;3;999999912
+consola;;3;999999911
+ordenador;;3;999999910
+portátil;;3;999999909
+router;;3;999999908
+televisor;tele;3;999999907
+nevera;;3;999999906
+lavadora;;3;999999905
+huerto;huerto urbano;4;1000000000
+colmenas;;4;999999999
+viñedo;;4;999999998
+olivar;;4;999999997
+coto de caza;;4;999999996
+coto de pesca;;4;999999995
+palco;;4;999999994
+palco VIP;;4;999999993
+vallas publicitarias;valla publicitaria;4;999999992
+espacio publicitario;;4;999999991
+escaparate;;4;999999990
+stand;;4;999999989
+puesto de mercado;;4;999999988
+puesto;;4;999999987
+carro de helados;;4;999999986
+food truck;;4;999999985
+barco de recreo;;4;999999984
+submarino turístico;;4;999999983
+jet privado;avión privado;4;999999982
+hidroavión;;4;999999981
+cuadros;obras de arte;4;999999980
+piano;;4;999999979
+instrumento musical;instrumentos;4;999999978
+violín;;4;999999977
+guitarra;;4;999999976
+batería;;4;999999975
+amplificador;;4;999999974
+mesa de mezclas;;4;999999973
+órgano;;4;999999972
+arpa;;4;999999971
+vestido de flamenca;;4;999999970
+traje regional;;4;999999969
+toga;;4;999999968
+birrete;;4;999999967
+peluca;;4;999999966
+traje de Papá Noel;disfraz de Papá Noel;4;999999965
+decoración de Navidad;;4;999999964
+árbol de Navidad;;4;999999963
+mantelería;;4;999999962
+vajilla;;4;999999961
+cubertería;;4;999999960
+copas;;4;999999959
+menaje;;4;999999958
+arcos de flores;;4;999999957
+centros de mesa;;4;999999956
+caballo para bodas;;4;999999955
+carruaje;;4;999999954
+calesa nupcial;;4;999999953
+Rolls-Royce;;4;999999952
+Ferrari;;4;999999951
+Lamborghini;;4;999999950
+Porsche;;4;999999949
+coche clásico;;4;999999948
+vehículo de época;;4;999999947
+Seiscientos;Seat 600;4;999999946
+autocaravana camper;camper;4;999999945
+furgoneta camper;;4;999999944
+remolque;;4;999999943
+carro;remolque de bici;4;999999942
+quad;;4;999999941
+buggy;;4;999999940
+todoterreno;;4;999999939

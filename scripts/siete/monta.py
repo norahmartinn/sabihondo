@@ -290,6 +290,20 @@ PREGUNTAS = [
     ("Nombra algo que se vende en barra", "se_vende_barra"),
     ("Nombra un villano que sea un animal", "villano_animal"),
     ("Nombra algo que se vende en un estanco", "estanco"),
+    ("Nombra una marca de agua embotellada", "agua_embotellada"),
+    ("Nombra algo que tenga alas", "tiene_alas"),
+    ("Nombra algo que tenga cuerdas", "tiene_cuerdas"),
+    ("Nombra algo que pique", "algo_pica"),
+    ("Nombra algo que se derrita", "se_derrite"),
+    ("Nombra algo que tenga agujeros", "tiene_agujeros"),
+    ("Nombra un personaje de ficción que lleve máscara", "personaje_mascara"),
+    ("Nombra algo que se pueda alquilar", "alquilar"),
+    ("Nombra algo que tenga dientes", "tiene_dientes"),
+    ("Nombra algo que se pele", "se_pela"),
+    ("Nombra un personaje de ficción pelirrojo", "pelirrojos"),
+    ("Nombra algo que se lleve en la muñeca", "en_muneca"),
+    ("Nombra algo que tenga botones", "tiene_botones"),
+    ("Nombra algo que brille en la oscuridad", "brilla_oscuridad"),
 ]
 
 # Desde el 31 de octubre de 2026 los niveles son más generosos: la gente veía casi imposible llegar a Muy raro y Sabihondo.
@@ -307,6 +321,22 @@ def generoso(niveles):
         niveles[t] = niveles[t][:mitad]
     return niveles
 
+# Ninguna pregunta puede quedarse con un nivel vacío (Norah, 2026-11-11: salían categorías sin nivel 5).
+# Si a un nivel no le queda nada, se queda con lo menos conocido del nivel de abajo (la mitad final, como mínimo una).
+def sin_huecos(niveles):
+    for t in range(1, 5):   # de abajo arriba, para que el hueco se vaya rellenando en cadena hasta el nivel 5
+        if not niveles[t] and len(niveles[t - 1]) > 1:
+            corte = (len(niveles[t - 1]) + 1) // 2
+            niveles[t], niveles[t - 1] = niveles[t - 1][corte:], niveles[t - 1][:corte]
+    if not niveles[0] and len(niveles[1]) > 1: niveles[0], niveles[1] = niveles[1][:1], niveles[1][1:]
+    # listas muy cortas (los 8 campeones del Mundial): se reparten en orden, de lo más obvio a lo más raro
+    todas = [x for nv in niveles for x in nv]
+    if any(not nv for nv in niveles) and len(todas) >= 5:
+        base, sobra = divmod(len(todas), 5)
+        tam = [base + (1 if k < sobra else 0) for k in range(5)]
+        niveles = [todas[sum(tam[:k]):sum(tam[:k + 1])] for k in range(5)]
+    return niveles
+
 banco = RAIZ / "banco"
 for viejo in banco.glob("*.json"): viejo.unlink()
 indice = []
@@ -322,6 +352,7 @@ for i, (q, slug) in enumerate(PREGUNTAS):
             r = fila["respuesta"]
             niveles[int(fila["nivel"]) - 1].append(r if claves == [clave(r)] else [r, claves])
     if slug not in antes and slug not in SIN_GENEROSO: niveles = generoso(niveles)
+    niveles = sin_huecos(niveles)
     n = sum(map(len, niveles))
     (banco / f"{i:02d}.json").write_text(json.dumps({"q": q, "t": niveles}, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
     indice.append({"q": q, "n": n})
