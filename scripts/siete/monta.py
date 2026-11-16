@@ -304,6 +304,13 @@ PREGUNTAS = [
     ("Nombra algo que se lleve en la muñeca", "en_muneca"),
     ("Nombra algo que tenga botones", "tiene_botones"),
     ("Nombra algo que brille en la oscuridad", "brilla_oscuridad"),
+    ("Nombra algo que tenga capas", "tiene_capas"),
+    ("Nombra algo que se unta", "se_unta"),
+    ("Nombra un personaje de Toy Story", "toy_story"),
+    ("Nombra una forma de decir «tonto»", "forma_tonto"),
+    ("Nombra una ciudad de Portugal", "ciudad_portugal"),
+    ("Nombra un navegador de internet", "navegador"),
+    ("Nombra algo que hay en un gimnasio", "gimnasio"),
 ]
 
 # Desde el 31 de octubre de 2026 los niveles son más generosos: la gente veía casi imposible llegar a Muy raro y Sabihondo.

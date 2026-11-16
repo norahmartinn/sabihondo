@@ -1,0 +1,306 @@
+respuesta;alias;nivel;orden_a_mano
+pesas;;1;1000000000
+mancuernas;;1;999999999
+cinta de correr;cinta|máquina de correr;1;999999998
+bicicleta estática;bici estática|bicicleta;1;999999997
+máquinas;máquinas de pesas;1;999999996
+espejo;espejos;1;999999995
+vestuario;vestuarios;1;999999994
+ducha;duchas;1;999999993
+banco;banco de pesas;1;999999992
+barra;barras;1;999999991
+discos;;1;999999990
+esterilla;esterillas|colchoneta;1;999999989
+monitor;entrenador personal|entrenador;1;999999988
+elíptica;;1;999999987
+toalla;;1;999999986
+taquilla;taquillas;1;999999985
+gente;gente musculada;1;999999984
+música;;1;999999983
+remo;máquina de remo;2;1000000000
+step;;2;999999999
+bicis de spinning;spinning|sala de spinning;2;999999998
+sauna;;2;999999997
+piscina;;2;999999996
+jacuzzi;;2;999999995
+baño turco;;2;999999994
+recepción;;2;999999993
+tornos;;2;999999992
+press de banca;banco de press;2;999999991
+rack;jaula de sentadillas|rack de sentadillas;2;999999990
+multipower;;2;999999989
+poleas;polea;2;999999988
+prensa;prensa de piernas;2;999999987
+kettlebell;kettlebells|pesa rusa;2;999999986
+balón medicinal;balón|fitball;2;999999985
+TRX;;2;999999983
+gomas;bandas elásticas;2;999999982
+comba;cuerda de saltar;2;999999981
+sala de clases;clases dirigidas|clases;2;999999980
+zumba;;2;999999979
+body pump;;2;999999978
+yoga;;2;999999977
+pilates;;2;999999976
+crossfit;;2;999999975
+boxeo;saco de boxeo;2;999999974
+saco;;2;999999973
+guantes;;2;999999972
+fuente;fuente de agua;2;999999971
+máquina de agua;;2;999999970
+máquina de proteínas;batidos de proteínas|proteína|batido|batidos;2;999999969
+máquina expendedora;;2;999999968
+báscula;;2;999999967
+secador;;2;999999966
+tablón de anuncios;;2;999999965
+reloj;;2;999999964
+cronómetro;;2;999999963
+tiza;magnesio;2;999999962
+cinturón de levantamiento;cinturón;2;999999961
+socorrista;;2;999999960
+sudor;;2;999999959
+olor a sudor;;2;999999958
+bebidas isotónicas;isotónica;2;999999957
+Aquarius;;2;999999956
+botella de agua;botella;2;999999955
+musculitos;cachas|mazados;2;999999954
+chicas de mallas;mallas;2;999999953
+ropa deportiva;;2;999999952
+zapatillas;;2;999999951
+auriculares;;2;999999950
+móvil;;2;999999949
+selfies;gente haciéndose fotos;2;999999948
+dominadas;barra de dominadas;2;999999947
+paralelas;;2;999999946
+espalderas;;2;999999945
+abdominales;banco de abdominales;2;999999944
+máquina de abdominales;;2;999999943
+hiperextensiones;;2;999999942
+bicicleta reclinada;;2;999999941
+escaladora;;2;999999940
+stepper;;2;999999939
+cuerdas de batalla;battle ropes|cuerdas|cuerda;2;999999938
+cajón;cajón pliométrico;2;999999937
+pista;;2;999999936
+ring;;2;999999935
+tatami;;2;999999934
+sala de musculación;musculación;2;999999933
+zona de peso libre;peso libre;2;999999932
+zona de cardio;cardio;2;999999931
+aire acondicionado;;2;999999930
+ventiladores;;2;999999929
+pantallas;televisores|teles;2;999999928
+barra Z;barra EZ;3;1000000000
+barra olímpica;;3;999999999
+barra hexagonal;;3;999999998
+discos bumper;bumper;3;999999997
+topes;cierres|presillas;3;999999996
+soporte de mancuernas;;3;999999995
+máquina Smith;;3;999999994
+cruce de poleas;polea cruzada;3;999999993
+jalón al pecho;jalón;3;999999992
+remo en polea;;3;999999991
+máquina de remo sentado;;3;999999990
+peck deck;contractora|máquina de pectorales;3;999999989
+extensión de cuádriceps;máquina de cuádriceps;3;999999988
+curl femoral;máquina de femoral;3;999999987
+hack squat;sentadilla hack;3;999999986
+máquina de gemelos;;3;999999985
+abductores;máquina de abductores;3;999999984
+aductores;máquina de aductores;3;999999983
+hip thrust;máquina de hip thrust;3;999999982
+glúteo;máquina de glúteo;3;999999981
+press militar;;3;999999980
+máquina de hombro;;3;999999979
+máquina de bíceps;banco Scott;3;999999978
+fondos;máquina de fondos;3;999999976
+banco declinado;;3;999999975
+banco inclinado;;3;999999974
+rueda de abdominales;rueda;3;999999973
+foam roller;rodillo;3;999999972
+bosu;;3;999999971
+plataforma vibratoria;;3;999999970
+slam ball;;3;999999969
+wall ball;;3;999999968
+sandbag;;3;999999967
+trineo;sled;3;999999966
+airbike;assault bike|bici de aire;3;999999965
+SkiErg;;3;999999964
+cinta curva;;3;999999963
+escalera mecánica;escalera infinita;3;999999962
+máquina de escaleras;;3;999999961
+lastre;;3;999999960
+chaleco lastrado;;3;999999959
+muñequeras;;3;999999958
+rodilleras;;3;999999957
+straps;correas;3;999999956
+guantes de gimnasio;;3;999999955
+calleras;;3;999999954
+spray desinfectante;desinfectante;3;999999953
+papel;rollo de papel;3;999999952
+bayeta;;3;999999951
+gel hidroalcohólico;;3;999999950
+GHD;;4;1000000000
+landmine;mina;4;999999999
+péndulo;;4;999999998
+prensa inclinada;;4;999999997
+prensa horizontal;;4;999999996
+belt squat;;4;999999995
+máquina de pull-over;pullover;4;999999994
+reverse hyper;;4;999999993
+polea al pie;polea baja;4;999999992
+polea alta;;4;999999991
+cable;;4;999999990
+agarres;agarre de triángulo|triángulo;4;999999989
+cuerda de tríceps;;4;999999988
+maneral;;4;999999987
+tobillera de polea;;4;999999986
+TRX de pared;;4;999999985
+anillas;;4;999999984
+espaldera sueca;;4;999999983
+plinto;;4;999999982
+potro;;4;999999981
+colchonetas de salto;;4;999999980
+cama elástica;jumping;4;999999979
+minitramp;;4;999999978
+barra de ballet;barra de pilates;4;999999977
+reformer;máquina de pilates;4;999999976
+cadillac;;4;999999975
+aros de pilates;aro;4;999999974
+bloque de yoga;ladrillo de yoga;4;999999973
+cinta de yoga;;4;999999972
+bolster;;4;999999971
+discos deslizantes;;4;999999970
+step de aeróbic;;4;999999969
+mancuernas de vinilo;;4;999999968
+pesas tobilleras;tobilleras;4;999999967
+chaleco de peso;;4;999999966
+saco de arena;;4;999999965
+saco de boxeo de pie;;4;999999964
+pera de boxeo;pera;4;999999963
+manoplas;;4;999999962
+paos;;4;999999961
+cuerda de escalar;;4;999999960
+rocódromo;;4;999999959
+pared de escalada;;4;999999958
+piscina climatizada;;4;999999957
+solárium;;4;999999956
+cabina de rayos UVA;rayos UVA;4;999999955
+baño de hielo;bañera de hielo;4;999999954
+crioterapia;;4;999999953
+presoterapia;;4;999999952
+fisioterapeuta;fisio;4;999999951
+nutricionista;;4;999999950
+masajista;;4;999999949
+tienda de suplementos;suplementos;4;999999948
+creatina;;4;999999947
+preentreno;;4;999999946
+barritas;barritas de proteínas;4;999999945
+BCAA;;4;999999944
+aparcabicis;;4;999999943
+parking;;4;999999942
+cafetería;;4;999999941
+guardería;ludoteca;4;999999940
+zona de estiramientos;estiramientos;4;999999939
+sala de ciclo indoor;;4;999999938
+pulsómetro;;4;999999937
+InBody;báscula de bioimpedancia;4;999999936
+plicómetro;;4;999999935
+espejo de cuerpo entero;;4;999999934
+altavoces;;4;999999933
+megafonía;;4;999999932
+candado;;4;999999931
+llave de taquilla;;4;999999930
+pulsera de acceso;pulsera;4;999999929
+tarjeta de socio;carnet;4;999999928
+app del gimnasio;;4;999999927
+cuota;;4;999999926
+matrícula;;4;999999925
+máquina de cuádriceps sissy;sissy squat;5;1000000000
+máquina de tibiales;;5;999999999
+Nordic bench;banco de nórdicos;5;999999998
+Viking press;;5;999999997
+máquina de dorsal en V;;5;999999996
+remo T;T-bar;5;999999995
+barra safety;safety bar;5;999999994
+barra cambered;;5;999999993
+barra trap;;5;999999992
+barra suiza;barra multiagarre;5;999999991
+monolift;;5;999999990
+cadenas;cadenas de levantamiento;5;999999989
+bandas de resistencia de powerlifting;;5;999999988
+plataforma de halterofilia;tarima de halterofilia;5;999999987
+eleiko;;5;999999986
+discos de calibración;;5;999999985
+discos de fraccionamiento;discos pequeños;5;999999984
+mancuernas ajustables;;5;999999983
+rack de kettlebells;;5;999999982
+clubbells;mazas indias;5;999999981
+mazas persas;meels;5;999999980
+steel mace;maza de acero;5;999999979
+battle rope anclaje;;5;999999978
+yoke;;5;999999977
+atlas stones;piedras de atlas;5;999999976
+neumático;rueda de tractor;5;999999975
+martillo;mazo;5;999999974
+cajón de saltos de foam;;5;999999973
+escalera de agilidad;;5;999999972
+conos;;5;999999971
+vallas;;5;999999970
+paracaídas de velocidad;;5;999999969
+VersaClimber;;5;999999968
+Jacob's Ladder;;5;999999967
+Curve;;5;999999966
+Concept2;;5;999999965
+Rogue;;5;999999964
+Technogym;;5;999999963
+Life Fitness;;5;999999962
+Matrix;;5;999999961
+Hammer Strength;;5;999999960
+BH Fitness;;5;999999959
+Precor;;5;999999958
+Keiser;;5;999999957
+Peloton;;5;999999956
+Freemotion;;5;999999955
+Panatta;;5;999999954
+Nautilus;;5;999999953
+Cybex;;5;999999952
+Bowflex;;5;999999951
+Hoist;;5;999999949
+Gym80;;5;999999948
+hammam;;5;999999947
+sala de vapor;;5;999999946
+pediluvio;;5;999999945
+piscina de chorros;;5;999999944
+flotarium;;5;999999943
+cabina de infrarrojos;;5;999999942
+tumbonas;;5;999999941
+sala de boxeo;;5;999999940
+octágono;;5;999999939
+jaula de MMA;;5;999999938
+tatami de jiu-jitsu;;5;999999937
+dojo;;5;999999936
+sala de cycling;;5;999999935
+sala de HIIT;;5;999999934
+box de crossfit;box;5;999999933
+pizarra de WOD;pizarra;5;999999932
+WOD;;5;999999931
+timer de crossfit;reloj de intervalos;5;999999930
+gimnasio low cost;Basic-Fit;5;999999929
+McFit;;5;999999928
+Altafit;;5;999999927
+VivaGym;;5;999999926
+Holmes Place;;5;999999925
+Anytime Fitness;;5;999999924
+Go Fit;;5;999999923
+Dreamfit;;5;999999922
+Synergym;;5;999999921
+Supera;;5;999999920
+Metropolitan;;5;999999919
+personaje que grita al levantar;gritos;5;999999918
+el que no limpia la máquina;;5;999999917
+el que usa el móvil en la máquina;;5;999999916
+el abuelo de la cinta;;5;999999915
+el que no recoge los discos;discos tirados;5;999999914
+mallas de colores;;5;999999913
+top deportivo;;5;999999912
+camiseta de tirantes;;5;999999911
