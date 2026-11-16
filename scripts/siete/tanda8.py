@@ -64,9 +64,13 @@ def palabra_y():
     filas = [(p, al + ([p + "s"] if p[-1] in "aeiouáéó" else [p + "es"]), nv, v) for p, al, nv, v in filas]
     guarda("palabra_y", filas, "frecuencia_opensubtitles")
 
-CON_FUNCION = {"ciudad_portugal", "raza_perro"}
+def ciudad_euskadi():
+    """Los municipios de la Comunidad Autónoma del País Vasco (Wikidata, con el nombre en euskera como alias); lo conocido, a mano."""
+    junta("ciudad_euskadi", por_tramos(wd8("euskadi"), [(60, 3), (90, 4), (None, 5)]), "enlaces_wikipedia")
+
+CON_FUNCION = {"ciudad_portugal", "raza_perro", "ciudad_euskadi"}
 SOLO8 = solo_mano(*[s for s in mano_t8.MANO if s not in CON_FUNCION])
-TODAS8 = SOLO8 + [ciudad_portugal, raza_perro, palabra_y]
+TODAS8 = SOLO8 + [ciudad_portugal, raza_perro, palabra_y, ciudad_euskadi]
 if __name__ == "__main__":
     pedidas = sys.argv[1:]
     for f in TODAS8:

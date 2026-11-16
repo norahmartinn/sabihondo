@@ -1,0 +1,6056 @@
+{
+  "head" : {
+    "vars" : [ "x", "xLabel", "en", "links", "alts" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q147774"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Zarauz"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Zarautz"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "53"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Zarautz"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q169332"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Ceánuri"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Zeanuri"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "37"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Ceanuri|Zeanuri"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q189848"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Guernica y Luno"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Gernika-Lumo"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "70"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Guernica|Gernika|Gernika|Gernika Lumo|Gernika Lumo / Guernica y Luno|Gernika Lumo Guernica y Luno|Gernika-Lumo|Gernika-Lumo / Guernica y Luno|Gernika-Lumo Guernica y Luno|Guernica y Lumo|Guernika y Lumo"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1649621"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Salinas de Léniz"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Leintz Gatzaga"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "36"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Leintz Gatzaga|Leintz-Gatzaga|Salinas de Leniz|Leintz-Gatzaga"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9092080"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Usánsolo"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Usansolo"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "7"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Usansolo"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1633844"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Urnieta"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Urnieta"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "38"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Urnietarra"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1633857"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Lizarza"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Lizartza"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "36"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Lizartza"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1633869"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Placencia de las Armas"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Soraluze"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "39"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Soraluce|Soraluze|Placencia|Placencia|Placencia de las armas|Plaentxi|Plaentxia"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1633877"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Gaínza"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Gaintza"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "38"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Gainza"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1633885"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Orendáin"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Orendain"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "38"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Orendain"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1633894"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Escoriaza"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Eskoriatza"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "37"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Eskoriatza"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1633915"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Ribera Alta"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Erriberagoitia"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "39"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Erriberagoitia|Erribera Goitia|Erriberagoiti"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1639371"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Alzo"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Altzo"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "37"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Altzo"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1639379"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Belaunza"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Belauntza"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "38"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Belauntza"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1639387"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Leaburu"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Leaburu"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "37"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Leaburu Charama|Leaburu Txarama|Leaburu-Charama|Leaburu-Txarama|Leaburu-Txarama"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1639399"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Gaviria"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Gabiria"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "36"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Gabiria"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1639397"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Isasondo"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Itsasondo"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "38"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Itsasondo"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1639406"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Berástegui"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Berastegi"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "37"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Berastegi|Berastegui"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1639421"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Albíztur"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Albiztur"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "37"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Albistur|Albístur|Albiztur"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1639427"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Elgueta"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Elgeta"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "38"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Elgeta"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1639435"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Alzaga"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Altzaga"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "37"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Altzaga"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1639443"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Larraul"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Larraul"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "37"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Larrául"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1639961"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Alegia"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Alegia"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "38"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Alegia"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4474"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Ortuella"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Ortuella"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "38"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Santurce Ortuella|Santurce-Ortuella|Urtuella"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4472"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Murélaga"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Aulesti"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "37"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Murelaga|Aulesti|Aulestia|Aulestia"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4480"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Valmaseda"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Balmaseda"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "47"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Balmaseda|Balmaseda / Valmaseda|Balmaseda Valmaseda"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4481"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Barrica"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Barrika"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "37"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Barrika"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q8692"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Bilbao"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Bilbo"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "150"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Bilbao|Bilbo"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q10313"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "San Sebastián"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Donostia"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "116"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Donostia / San Sebastian|Donostia-San Sebastian|Donostia/San Sebastian|La Perla del Cantabrico|La Perla del Cantábrico|San Sebastian|San Sebastian-Donostia|San Sebastián-Donostia"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1228023"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Lujua"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Loiu"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "39"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Loiu"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1228030"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Rigoitia"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Errigoiti"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "38"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Errigoiti"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1228035"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Miravalles"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Ugao"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "38"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Ugao-Miraballes|Miraballes|Ugao Miraballes|Ugao Miraballes|Ugao-Miraballes"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1228043"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Ajánguiz"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Ajangiz"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "40"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Ajangiz|Ajanguiz"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1228053"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Gautéguiz de Arteaga"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Gautegiz Arteaga"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "37"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Gautegiz Arteaga|Arteaga|Gautegiz|Gautegiz-Arteaga|Gauteguiz|Gautéguiz|Gauteguiz Arteaga|Gauteguiz de Arteaga|Gautegiz"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1228064"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Berriatúa"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Berriatua"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "36"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Berriatua"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1228072"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Gámiz-Fica"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Gamiz-Fika"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "37"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Gamiz-Fika|Gamiz Fica|Gámiz Fica|Gamiz Fika|Gamiz-Fica"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1228089"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Guizaburuaga"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Gizaburuaga"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "37"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Gizaburuaga"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1228097"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Gordejuela"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Gordexola"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "39"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Gordexola"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1228107"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Echévarri"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Etxebarri"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "41"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Echevarri|Etxebarri Anteiglesia de San Esteban - Etxebarri Doneztebeko Elizatea|Etxebarri Anteiglesia de San Esteban Etxebarri Doneztebeko Elizatea|Etxebarri, Anteiglesia de San Esteban - Etxebarri Doneztebeko Elizatea|Etxebarri, Anteiglesia de San Esteban Etxebarri Doneztebeko Elizatea|Etxebarri, Doneztebeko Elizatea"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1228114"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Villaro"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Areatza"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "39"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Areatza|Villaro"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1228124"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Aránzazu"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Arantzazu"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "37"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Arantzazu|Aranzazu"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1228743"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Trucíos"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Turtzioz"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "36"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Trucíos|Turtzioz|Turtzioz-Trucíos|Trucios|Trucios-Turtzioz"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q200201"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Irún"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Irun"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "71"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Irun"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q225662"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Orduña"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Urduña"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "41"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Orduña|Urduña|Urduña-Orduña"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q228613"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Zuya"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Zuia"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "43"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Zuia"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q303629"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Laguardia"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Guardia"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "45"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "La Guardia"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q398698"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Salvatierra"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Agurain"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "46"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Salvatierra|Agurain|Salvatierra / Agurain|Salvatierra Agurain|Salvatierra de Alava|Salvatierra de Álava|Salvatierra/Agurain"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q474080"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Amorebieta-Echano"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Zornotza"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "47"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Echano|Etxano|Amorebieta|Zornoza|Amorebieta|Amorebieta Echano|Amorebieta Echano (Vizcaya)|Amorebieta Etxano|Amorebieta Etxano (Vizcaya)|Amorebieta-Echano (Vizcaya)|Amorebieta-Etxano|Amorebieta-Etxano (Vizcaya)|Zornotza|Amorebieta Etxano|Amorebieta-Etxano"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1598976"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Andoáin"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Andoain"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "41"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Andoain"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1611490"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Villarreal de Álava"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Legutio"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "43"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Legutiano|Legutio|Villarreal de Alava|Legutiano"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1611504"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Deva"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Deba"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "40"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Deba|Deba / Deva|Deba Deva"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1616072"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "San Millán"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Donemiliaga"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "40"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "San Millan|San Millán/Donemiliaga"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1618289"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Zaldivia"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Zaldibia"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "36"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Zaldibia"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1618305"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Motrico"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Mutriku"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "39"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Mutriku|Mutriku / Motrico|Mutriku Motrico"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1618316"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Cizúrquil"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Zizurkil"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "39"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Cizurquil"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1618340"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Olaberría"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Olaberria"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "37"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Olaberria"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1618352"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Motiloa"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Mutiloa"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "38"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Motiloa"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1618383"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Elgóibar"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Elgoibar"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "40"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Elgoibar|Elgoibar / Elgóibar|Elgóibar / Elgoibar|Elgoibar Elgóibar|Elgóibar Elgoibar"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1618393"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Cestona"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Zestoa"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "38"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Zestoa"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1619118"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Idiazábal"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Idiazabal"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "37"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Idiazabal|Idiazabal / Idiazabal|Idiazabal / Idiazábal|Idiazabal Idiazabal|Idiazabal Idiazábal"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1619436"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Asteasu"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Asteasu"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "37"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Asteazu"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1625876"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Aizarnazábal"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Aizarnazabal"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "38"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Aizarnazabal"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1631163"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Aya"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Aia"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "42"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Aia"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1228749"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Sopuerta"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Sopuerta"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "38"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Garape"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1228773"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Plencia"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Plentzia"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "38"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Plentzia|Placencia|Placencia de Butrón"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1228780"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Munguía"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Mungia"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "38"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Mungia|Mungia / Munguia|Mungia / Munguía|Mungia Munguia|Mungia Munguía|Munguia"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1228787"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Valle de Trápaga"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Trapagaran"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "40"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "La Arboleda|San Salvador del Valle|Trapagaran|Trapagaran / Valle de Trapaga|Trapagaran / Valle de Trápaga|Trapagaran Valle de Trapaga|Trapagaran Valle de Trápaga|Valle de Trapaga|Valle de Trapaga Trapagaran|Valle de Trápaga Trapagaran|Valle de Trapaga-Trapagaran|Valle de Trápaga-Trapagaran|Valle del Trapagaran|Valle del Trapagarán|Trapaga"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1228784"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Arrazua"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Arratzu"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "39"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Arratzu|Arrázua|Arrazua de Vizcaya"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q492312"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Fuenterrabía"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Hondarribia"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "55"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Fuenterrabía|Hondarribi|Hondarribia|Fontarrabie|Fuenterrabia|Onddarbi|Onyarbi"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q492420"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Guecho"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Getxo"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "58"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Getxo"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q496567"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Éibar"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Eibar"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "58"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Eibar|Ciudad Armera|Eibar / Eibar|Eibar / Éibar|Eibar Eibar|Eibar Éibar|Villanueva de San Andres|Villanueva de San Andrés"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q496588"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Oñate"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Oñati"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "47"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Oñati|Onate|Onati|Onati / Onate|Onati / Oñate|Oñati / Oñate|Onati Onate|Onati Oñate|Oñati Oñate"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1242307"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Ereño"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Ereño"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "37"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Ereno"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1242317"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Busturia"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Busturia"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "38"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Axpe|Axpe de Busturia"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1242330"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Castillo y Elejabeitia"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Artea"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "37"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Arteaga|Artea|Arteaga|Busturialdea"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1242382"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Elorrio"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Elorrio"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "41"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Tavira de Elorrio"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1242393"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Valle de Achondo"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Atxondo"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "35"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Atxondo|Achondo"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1242400"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Ermua"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Ermua"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "41"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Ermúa|Ermua / Ermua|Ermua / Ermúa|Ermua Ermua|Ermua Ermúa"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1242411"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Abanto y Ciérvana"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Abanto"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "44"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Gallarta|Abanto|Abanto y Cierbana|Abanto y Ciérbana|Abanto y Ciervana|Abanto y Ciervana - Abanto Zierbena|Abanto y Ciérvana - Abanto Zierbena|Abanto y Ciérvana (es:) · old/antiguo|Abanto y ciervana abanto zierbena|Abanto y Ciérvana Abanto Zierbena|Abanto y Ciervana-Abanto Zierbena|Abanto y Ciérvana-Abanto Zierbena|Abanto zierbena|Abanto Zierbena (eu:) · new/nuevo|Abanto-Zierbena · (eu:) old/antiguo|Abanto y Ciérvana|Abanto-Zierbena"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1242425"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Bedia"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Bedia"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "35"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Vedia"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1246777"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Lauquíniz"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Laukiz"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "37"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Laukiz|Lauquiniz"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1247479"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Cenarruza"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Ziortza-Bolibar"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "37"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Ziortza-Bolibar|Ziortza|Cenarruza|Cenarruza Bolivar|Cenarruza Bolívar|Cenarruza Puebla de Bolivar|Cenarruza Puebla de Bolívar|Cenarruza-Bolivar|Cenarruza-Bolívar|Cenarruza-Puebla de Bolivar|Puebla de Bolivar|Puebla de Bolívar|Zenarruza|Ziortza Bolibar"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1330796"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Alegría de Álava"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Dulantzi"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "45"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Alegría|Alegría|Alegria|Alegria de Alava|Alegria-Dulantzi|Alegría-Dulantzi|Dulantzi|Alegría/Dulantzi"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q942106"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Amézqueta"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Amezketa"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "41"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Amezketa|Amezqueta"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q964114"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Régil"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Errezil"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "37"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Errezil|Regil"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q971263"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Aracaldo"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Arakaldo"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "39"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Arakaldo"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q974930"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Ceráin"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Zerain"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "36"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Cerain"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1110918"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Ezquioga-Ichaso"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Ezkio-Itsaso"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "34"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Ezkio-Itsaso"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1113094"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Zambrana"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Zanbrana"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "43"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Zambrana"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1113405"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Añana"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Añana"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "45"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Anana|Salinas de Anana|Salinas de Añana"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1113519"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Armiñón"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Armiñon"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "44"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Arminon|Arminón|Armiñon|Aramiñon|Armiñón"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1155351"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Labastida"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Bastida"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "42"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Labastida"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1227189"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Zarátamo"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Zaratamo"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "38"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Zaratamo"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1227196"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Lemona"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Lemoa"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "39"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Lemoa"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1227388"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Galdácano"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Galdakao"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "42"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Galdacano|Galdakano|Galdákano|Galdakao|Galdakao / Galdacano|Galdakao / Galdácano|Galdakao Galdacano|Galdakao Galdácano"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q530302"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Lejona"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Leioa"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "45"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Leioa|Lejona"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q581589"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Oyón"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Oion"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "44"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Oyon|Oion"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q587131"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Arceniega"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Artziniega"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "43"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Artziniega"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q594280"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Ceberio"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Zeberio"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "37"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Olavarrieta|Santo Tomás de Olabarrieta|Santo Tomás de Olavarrieta|Zeberio"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q596305"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Güeñes"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Gueñes"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "38"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Gueñes"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q598020"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Oreja"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Orexa"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "38"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Orexa"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q604810"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Marquina-Jeméin"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Markina-Xemein"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "41"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Marquina-Jemein"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q607474"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Musques"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Muskiz"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "37"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Muskiz|San Juan de Musques"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q611647"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Gatica"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Gatika"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "37"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Gatika"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q616464"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Icazteguieta"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Ikaztegieta"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "39"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Ikaztegieta"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q647357"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Meñaca"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Meñaka"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "38"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Meñaka"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q648519"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Frúniz"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Fruiz"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "38"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Fruiz|Fruniz"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q648921"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Echevarría"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Etxebarria"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "36"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Echevarria|Etxebarria"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q650223"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Alquiza"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Alkiza"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "38"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Alkiza"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q664870"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Múgica"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Muxika"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "36"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Muxika|Mugica"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q665188"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Pedernales"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Sukarrieta"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "38"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Sukarrieta|Samikola"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q668016"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Yurreta"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Iurreta"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "38"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Iurreta"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q670080"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Arrancudiaga"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Arrankudiaga"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "37"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Arrankudiaga"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q672483"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Villafranca de Ordizia"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Ordizia"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "40"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Villafranca|Ordicia|Villafranca de Ordicia|Villafranca de Oria"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q672876"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Villabona"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Villabona-Amasa"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "40"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Amasa|Amasa-Villabona|Villabona-Amasa|Amasa-Villabona"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q676903"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Llodio"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Laudio"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "48"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Laudio"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q677615"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Arcentales"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Artzentales"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "38"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Artzentales"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q678721"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Maruri-Jatabe"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Maruri-Jatabe"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "37"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Maruri-Jatabe"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q679513"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Forúa"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Forua"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "38"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Forua"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q681893"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Rentería"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Errenteria"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "50"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Orereta|Errenteria"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1227761"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Mendeja"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Mendexa"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "38"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Mendexa"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1227932"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Ubidea"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Ubide"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "37"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Ubide|Ubidea"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1227941"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Ispáster"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Ispaster"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "37"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Ispaster"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1227956"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Lanestosa"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Lanestosa"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "37"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "La Nestosa"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1227965"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Lequeitio"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Lekeitio"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "46"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Lekeitio|Lekeitio / Lequeitio|Lekeitio Lequeitio|Lekitto|Lekeitiar"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1227981"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Ibarranguelua"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Ibarrangelu"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "38"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Ibarrangelu|Ibarrangelua|Ibarranguelúa|Ibarranguélua|Ibarrangelua"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1227994"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Mallavia"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Mallabia"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "39"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Mallabia|Mallabi"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1228003"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Cortézubi"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Kortezubi"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "37"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Kortezubi|Aspe de Cortezubi|Aspe de Cortézubi|Aspé de Cortézubi|Cortezubi"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1228013"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Zaldívar"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Zaldibar"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "39"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Zaldibar|Zaldua|Zaldivar"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q481760"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Amurrio"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Amurrio"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "47"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Amurrio (Alava)|Amurrio (Álava)"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q487801"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Baracaldo"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Barakaldo"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "66"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Barakaldo|Barakaldo / Baracaldo|Barakaldo Baracaldo"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q491922"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Mondragón"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Arrasate"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "48"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Arrasate|Mondragon|Arrasate / Mondragon|Arrasate / Mondragón|Arrasate Mondragon|Arrasate Mondragón|Mondragoe"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1368782"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Oquendo"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Okondo"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "42"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Valle de Oquendo"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1368805"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Elvillar"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Elvillar"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "43"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "El Villar de Alava|El Villar de Álava|Elvillar Bilar|Elvillar/Bilar|Bilar"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1368834"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Elciego"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Eltziego"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "43"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Eltziego|Zieko|Elciego"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1368846"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Cuartango"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Kuartango"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "43"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Cuartango|Koartango|Quartango|Quartanicum|Quartanicus|Quartanigo"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1368868"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Berantevilla"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Berantevilla"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "43"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Berantebila|Beranturi"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1368923"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Arrazua-Ubarrundia"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Arratzua-Ubarrundia"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "43"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Arrazua Ubarrundia|Arrazúa Ubarrundia|Arrazúa-Ubarrundia|Arratzu-Ubarrundia|Arratzua-Ubarrundi|Arrazua-Ubarrundia"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1368957"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Aspárrena"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Asparrena"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "44"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Asparren"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q682513"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Izurza"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Izurtza"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "37"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Izurtza"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q686837"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Valle de Carranza"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Karrantza"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "39"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Carranza|Karrantza Harana"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q695444"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Bermeo"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Bermeo"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "45"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Bermio"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q699830"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Arrieta"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Arrieta"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "37"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Libano de Arrieta|Líbano de Arrieta"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q726664"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Orozco"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Orozko"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "38"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Orozco"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q734099"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Urdúliz"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Urduliz"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "38"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Urduliz"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q734550"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Ochandiano"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Otxandio"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "37"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Otxandio"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q735451"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Elanchove"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Elantxobe"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "37"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Elantxobe"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q744893"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Abadiano"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Abadiño"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "44"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Abadiño"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q745645"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Arbácegui y Guerricaiz"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Munitibar-Arbatzegi Gerrikaitz"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "36"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Munitibar-Arbácegui-Guerricaiz|Munitibar-Arbatzegi Gerrikaitz|Munttibar"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q747628"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Bérriz"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Berriz"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "40"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Berriz"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q763669"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Górliz"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Gorliz"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "36"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Gorliz"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q765761"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Navárniz"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Nabarniz"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "36"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Nabarniz|Navarniz"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q767250"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Elduayen"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Elduain"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "37"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Elduain"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q779046"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Yurre"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Igorre"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "37"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Igorre"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q784127"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Larrabezúa"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Larrabetzu"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "39"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Larrabetzu|Larrabezua"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q786126"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Mundaca"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Mundaka"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "39"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Mundaka"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q793934"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Azcoitia"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Azkoitia"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "44"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Azkoitia|Azcoitia (Guipuzcoa)|Azcoitia (Guipúzcoa)|Azkoitia (Guipuzcoa)|Azkoitia (Guipúzcoa)|Azkoitia / Azcoitia|Azkoitia Azcoitia|Azkoiti"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q804466"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Baquio"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Bakio"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "39"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Bakio|Bakio (Vizcaya)|Baquio (Vizcaya)|Basigo de Baquio|Basigo de Baquio Anteiglesia|Basigo de Baquio-Anteiglesia"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q844508"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Zumárraga"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Zumarraga"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "43"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Zumarraga|Zumarraga / Zumarraga|Zumarraga / Zumárraga|Zumarraga Zumarraga|Zumarraga Zumárraga"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q847127"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Pasajes"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Pasaia"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "44"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Pasajes Ancho|Trincherpe|Pasai Antxo|Pasai San Pedro|Trintxerpe|Pasaia|Pasajes de San Juan|Pasai Donibane|Pasaia / Pasajes|Pasaia Pasajes|Pasajes de San Pedro"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q917886"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Santurce"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Santurtzi"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "46"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Santurce Santurtzi|Santurce-Santurtzi|Santurtzi"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q927978"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Alonsótegui"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Alonsotegi"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "39"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Alonsotegi|Alonsotegui"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q932766"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Lasarte-Oria"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Lasarte-Oria"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "42"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Lasarte|Lasarte|Lasarte Oria"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q932808"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Ormáiztegui"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Ormaiztegi"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "42"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Ormaiztegi|Ormaiztegui"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q932872"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Lazcano"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Lazkao"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "38"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Lazkao|Lazcao|Lazkao / Lazcano|Lazkao Lazcano"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q935603"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Arechavaleta"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Aretxabaleta"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "38"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Aretxabaleta"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q936264"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Lemóniz"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Lemoiz"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "38"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Lemoiz|Lemoniz|Limoiz"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q942025"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Sondica"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Sondika"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "37"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Sondika"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1369040"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Arraya-Maestu"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Arraia-Maeztu"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "42"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Arraia-Maeztu|Arraia Maeztu|Arraya Maestu"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1373973"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Campezo"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Kanpezu"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "42"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Campezo Kanpezu|Campezo/Kanpezu"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1382230"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Valle de Arana"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Harana"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "45"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Harana|Harana Valle de Arana|Harana/Valle de Arana|Arana"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1382239"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Baños de Ebro"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Mañueta"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "44"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Baños"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1382246"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Elburgo"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Burgu"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "43"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "El Burgo|Burgo|Burgelu|Burgu|Elburgo Burgelu|Elburgo/Burgelu|Burgelu|Burgellu|Elburgo"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1382252"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Vergara"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Bergara"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "43"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Bergara|Vergara"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1382293"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Iruña de Oca"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Iruña Oka"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "46"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Iruna de Oca|Iruna Oka|Iruña Oka|Iruna Oka Iruna de Oca|Iruna Oka Iruña de Oca|Iruna Oka/Iruna de Oca|Iruna Oka/Iruña de Oca|Iruña Oka/Iruña de Oca|Iruña de Oca|Iruña-Oka|Oka Iruña|Okako Iruña"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q847130"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Beasáin"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Beasain"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "43"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Beasain|Beasain / Beasain|Beasain / Beasáin|Beasain Beasain|Beasain Beasáin|Beasáin"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q849330"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Guetaria"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Getaria"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "47"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Getaria / Guetaria|Getaria Guetaria|Getaria (Gipuzkoa)"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q904269"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Villarreal de Urrechua"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Urretxu"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "36"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Urretxu|Urrechu|Urretxu / Villarreal de Urrechu|Urretxu Villarreal de Urrechu|Villareal de Urrechu|Villareal de urrechua|Villarreal de Urrechu"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q911092"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Oyarzun"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Oiartzun"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "39"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Oiartzun / Oyarzun|Oiartzun Oyarzun"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q913272"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Erandio"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Erandio"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "42"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Erandiotarrak o Erandiomanda"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q913283"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Mañaria"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Mañaria"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "37"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Manaria"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1442870"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Navaridas"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Navaridas"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "43"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Nabaridas"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1442886"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Moreda de Álava"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Moreda Araba"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "43"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Moreda|Moreda|Moreda Araba|Moreda de Alava|Arabako Moreda|Moreta"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1442954"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Cegama"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Zegama"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "40"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Zegama|Cegama"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1443518"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Villabuena de Álava"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Villabuena"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "42"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Villabuena|Eskuernaga|Villabuena de Alava|Villabuena de Alava Eskuernaga|Villabuena de Álava Eskuernaga|Villabuena de Alava/Eskuernaga|Villabuena de Álava/Eskuernaga|Eskuernaga|Uriona|Villabuena Araba"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1443528"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Cigoitia"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Zigoitia"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "43"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Zigoitia|Zigoiti"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1443585"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Yécora"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Ekora"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "42"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Yecora|Iekora|Yecora - Iekora|Yécora - Iekora|Yecora Iekora|Yécora Iekora|Yecora-Iekora|Yécora-Iekora|Yecora/Iekora|Iekora|Yecora"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1443609"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Zalduendo de Álava"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Zalduondo"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "43"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Zalduendo|Zalduendo de Alava|Zalduondo"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1443812"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Iruraiz-Gauna"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Iruraiz-Gauna"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "43"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Iruraitz Gauna|Iruraitz-Gauna|Iruraiz Gauna|Iruraitz Gauna|Iruraitz-Gauna|Iruraiz Gauna"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1443959"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Lanciego"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Lantziego"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "45"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Lanciego Lantziego|Lanciego/Lantziego|Lantziego"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1445218"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Urcabustaiz"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Urkabustaiz"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "42"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Urkabustaiz"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1445242"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Lapuebla de Labarca"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Lapuebla Labarka"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "42"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "La Puebla de la Barca|La Puebla de Labarca|Lapuebla Labarca|Lapuebla Labarka|Lapuebla"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1445256"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Ribera Baja"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Erriberabeitia"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "42"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Erriberabeitia|Ribera Baja Erribera Beitia|Ribera Baja/Erribera Beitia|Erribera Beitia|Erriberabeiti"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1447382"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Lantarón"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Lantaron"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "42"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Lantarón"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1452675"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Peñacerrada"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Urizaharra"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "41"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Penacerrada|Penacerrada Urizaharra|Peñacerrada Urizaharra|Penacerrada-Urizaharra|Peñacerrada-Urizaharra|Peñacerrada/Urizaharra|Urizaharra|Peñacerrada|Urizahar"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1452684"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Valdegovía"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Gaubea"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "41"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Gaubea|Gobiaran|Valdegovia|Valdegovia Gaubea|Valdegovía Gaubea|Valdegovia/Gaubea|Valdegovía/Gaubea|Gobiaran"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1542223"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Ciérvana"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Zierbena"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "37"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Cierbena|Ciervana|Zierbena"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1598962"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Abalcisqueta"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Abaltzisketa"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "39"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : "Abaltzisketa|Abalcizqueta"
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q146016"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Zamudio"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Zamudio"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "37"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q180611"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Azpeitia"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Azpeitia"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "45"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q229659"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Zumaya"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Zumaia"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "41"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q283607"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Arrigorriaga"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Arrigorriaga"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "40"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q385872"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Baliarrain"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Baliarrain"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "37"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q427240"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Amoroto"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Amoroto"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "37"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q497801"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Tolosa"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Tolosa"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "50"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q532136"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Segura"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Segura"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "35"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q537215"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Irura"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Irura"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "37"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q548441"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Portugalete"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Portugalete"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "53"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q574712"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Derio"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Derio"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "37"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q576753"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Aduna"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Aduna"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "40"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q595283"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Ondárroa"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Ondarroa"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "45"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q629193"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Mendaro"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Mendaro"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "38"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q657407"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Sopelana"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Sopela"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "39"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q661515"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Mendata"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Mendata"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "36"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q663530"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Dima"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Dima"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "37"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q670498"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Bidegoyan"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Bidania-Goiatz"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "37"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q732094"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Durango"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Durango"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "51"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q732806"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Garay"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Garai"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "37"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q738717"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Galdames"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Galdames"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "38"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q765496"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Basauri"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Basauri"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "50"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q909707"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Sestao"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Sestao"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "48"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q922926"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Murueta"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Murueta"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "35"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q943857"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Samaniego"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Samaniego"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "40"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q946068"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Lezama"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Lezama"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "37"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q961216"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Barrundia"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Barrundia"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "43"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q976743"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Aramayona"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Aramaio"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "44"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1113716"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Legazpia"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Legazpi"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "37"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1228081"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Ea"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Ea"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "39"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1242343"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Berango"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Berango"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "39"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1368772"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Ayala"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Aiara"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "44"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1368822"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Bernedo"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Bernedo"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "43"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1369053"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Cripán"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Kripan"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "45"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1382223"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Lagrán"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Lagran"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "43"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1382266"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Leza"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Leza"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "40"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1441329"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Hernani"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Hernani"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "47"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1618296"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Ibarra"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Ibarra"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "40"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1619442"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Atáun"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Ataun"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "38"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1625846"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Berrobi"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Berrobi"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "36"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1625886"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Antzuola"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Antzuola"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "37"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1625902"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Arama"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Arama"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "37"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1625906"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Beizama"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Beizama"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "37"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1633909"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Usúrbil"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Usurbil"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "38"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1639355"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Astigarraga"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Astigarraga"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "38"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1639392"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Hernialde"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Hernialde"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "37"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1639412"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Legorreta"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Legorreta"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "38"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1640537"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Anoeta"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Anoeta"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "39"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1641862"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Gaztelu"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Gaztelu"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "38"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1649616"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Orio"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Orio"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "37"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1649625"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Lezo"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Lezo"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "39"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1752925"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Morga"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Morga"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "36"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4476"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Zalla"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Zalla"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "40"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    }, {
+      "x" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14318"
+      },
+      "xLabel" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Vitoria"
+      },
+      "en" : {
+        "xml:lang" : "eu",
+        "type" : "literal",
+        "value" : "Gasteiz"
+      },
+      "links" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "115"
+      },
+      "alts" : {
+        "type" : "literal",
+        "value" : ""
+      }
+    } ]
+  }
+}

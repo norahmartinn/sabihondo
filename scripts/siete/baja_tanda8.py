@@ -13,6 +13,12 @@ CONSULTAS = {
  "realmadrid":  q("?x wdt:P31 wd:Q5 ; wdt:P54 wd:Q8682 ."),
  "rios":        q("?x wdt:P31/wdt:P279* wd:Q4022 ; wdt:P17 wd:Q29 ."),
  "museos":      q("?x wdt:P31/wdt:P279* wd:Q33506 ; wikibase:sitelinks ?s0 . FILTER(?s0 > 14)"),
+ "euskadi":     b4.PRE + """SELECT ?x (SAMPLE(?es) AS ?xLabel) (SAMPLE(?e) AS ?en) (SAMPLE(?l) AS ?links) (GROUP_CONCAT(DISTINCT ?alt;separator="|") AS ?alts) WHERE {
+  ?x wdt:P31 wd:Q2074737 ; wdt:P131+ wd:Q3995 ; wikibase:sitelinks ?l .
+  OPTIONAL { ?x rdfs:label ?es FILTER(LANG(?es)="es") }
+  OPTIONAL { ?x rdfs:label ?e FILTER(LANG(?e)="eu") }
+  OPTIONAL { ?x skos:altLabel ?alt FILTER(LANG(?alt)="es" || LANG(?alt)="eu") }
+} GROUP BY ?x""",
  "amenazados":  q("VALUES ?st { wd:Q11394 wd:Q219127 wd:Q278113 } ?x wdt:P141 ?st ; wikibase:sitelinks ?s0 . FILTER(?s0 > 9)"),
 }
 if __name__ == "__main__":

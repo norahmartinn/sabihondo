@@ -573,3 +573,19 @@ MANO.update({
     "fox terrier, schnauzer gigante, perro de agua=perro de agua español, basset hound=basset, bloodhound=sabueso, braco=braco alemán=braco de Weimar=weimaraner, dogo, spaniel=springer spaniel=springer, carea=carea leonés=pastor leonés, mestizo=chucho=sin raza=callejero",
 }
 })
+
+# «País Vasco» en sentido amplio: la cola son los 252 municipios de la Comunidad Autónoma (Wikidata, nombre en castellano y en euskera);
+# lo de Navarra y el País Vasco francés entra a mano en el nivel 4, porque mucha gente lo cuenta como Euskal Herria.
+MANO["ciudad_euskadi"] = {
+ 1: "San Sebastián=Donostia=Donostia-San Sebastián=Donosti, Bilbao=Bilbo, Vitoria=Gasteiz=Vitoria-Gasteiz",
+ 2: "Getxo=Guecho, Barakaldo=Baracaldo, Irún=Irun, Eibar, Zarautz=Zarauz, Durango, Hondarribia=Fuenterrabía, Gernika=Guernica=Gernika-Lumo, Portugalete, Santurtzi=Santurce, "
+    "Bermeo, Mundaka, Zumaia=Zumaya, Getaria=Guetaria, Tolosa, Arrasate=Mondragón, Errenteria=Rentería, Pasaia=Pasajes, Sestao, Basauri, Lekeitio=Lequeitio, Ondarroa",
+ 3: "Leioa=Lejona, Laudio=Llodio, Amorebieta=Amorebieta-Etxano, Hernani, Lasarte=Lasarte-Oria, Beasain, Azpeitia, Azkoitia, Bergara=Vergara, Oñati=Oñate, Elgoibar, "
+    "Plentzia=Plencia, Sopela=Sopelana, Mungia=Munguía, Galdakao=Galdácano, Erandio, Zumarraga, Legazpi, Andoain, Orio, Deba, Mutriku=Motrico, Elorrio, Balmaseda, "
+    "Laguardia=Guardia, Agurain=Salvatierra, Amurrio, Urretxu=Villarreal de Urrechua, Bakio, Elantxobe, Ea, Ibarrangelu, Gorliz, Urduliz, Berango, Lezama, Zierbena, Muskiz, "
+    "Abanto=Abanto-Zierbena, Ortuella, Trapagaran=Valle de Trápaga, Zalla, Güeñes, Sodupe? , Arrigorriaga, Etxebarri, Ermua, Mallabia, Elgeta, Eskoriatza, Aretxabaleta, "
+    "Lasarte, Usurbil, Astigarraga, Oiartzun, Lezo, Hernani, Urnieta, Villabona, Ordizia, Lazkao, Ataun, Idiazabal, Segura, Zegama, Oñate, Antzuola, Soraluze=Placencia de las Armas, "
+    "Zestoa=Cestona, Aia, Errezil, Bidania, Lekunberri? , Labastida=Bastida, Elciego=Eltziego, Oyón=Oion, Lapuebla de Labarca, Labraza, Salinas de Añana=Añana, Llanteno? ",
+ 4: "Pamplona=Iruña=Iruñea, Bayona=Baiona, Biarritz=Miarritze, San Juan de Luz=Donibane Lohizune, Hendaya=Hendaia, Estella=Lizarra, Tudela, Elizondo, Leitza, Lesaka, Bera, "
+    "Altsasu=Alsasua, Sangüesa, Olite, Tafalla, Ziburu=Ciboure, Ezpeleta=Espelette, Saint-Jean-Pied-de-Port=Donibane Garazi, Mauleón=Maule, Bidart=Bidarte, Anglet=Angelu, Igeldo=Igueldo, Algorta, Las Arenas=Areeta, Neguri, Deusto, Zorroza=Zorrotza, Gros=Egia? , Pasai Donibane=Pasajes de San Juan, Pasai San Pedro=Pasajes de San Pedro, Lasarte-Oria",
+}

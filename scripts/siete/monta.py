@@ -318,6 +318,7 @@ PREGUNTAS = [
     ("Nombra una palabra que empiece por Y", "palabra_y"),
     ("Nombra una raza de perro", "raza_perro"),
     ("Nombra un banco", "bancos"),
+    ("Nombra una ciudad o un pueblo del País Vasco", "ciudad_euskadi"),
 ]
 
 # Desde el 31 de octubre de 2026 los niveles son más generosos: la gente veía casi imposible llegar a Muy raro y Sabihondo.
