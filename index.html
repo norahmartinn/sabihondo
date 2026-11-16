@@ -2132,9 +2132,8 @@ function crPortada(){
   hud.innerHTML = `
   <div class="bt-panel">
     <h1>El batiscafo</h1>
-    <p class="lema">Tienes <b>90 segundos de oxígeno</b>. Cada categoría que aciertes te hunde un poco más junto al iceberg,
-      y tu foco puede encontrar algo de lo que vive ahí abajo.
-      Si fallas, prueba otra vez o pasa a la siguiente.</p>
+    <p class="lema">Tienes <b>90 segundos de oxígeno</b> en el submarino para contestar todas las categorías que puedas, da igual lo rara que sea la respuesta.
+      En tu descenso irás encontrando criaturas marinas: <b>¡colecciónalas todas!</b></p>
     <p class="mini">${rec ? `Tu récord: ${crCat(rec)} · ` : ``}Álbum: ${crCuantos(album)} de ${BICHOS.length}</p>
     ${btAlbum(album)}
     <div class="botonera"><button class="btn" id="bCr">Sumergirse</button><button class="btn fantasma" id="bCrPodio">Podio</button>
