@@ -1,0 +1,290 @@
+respuesta;alias;nivel;orden_a_mano
+tenedor;tenedores;1;1000000000
+cuchara;cucharas;1;999999999
+cuchillo;;1;999999998
+metal;algo de metal|cosas de metal;1;999999997
+papel de aluminio;papel albal|albal|aluminio;1;999999996
+huevo;huevo con cáscara|huevos;1;999999995
+móvil;teléfono;1;999999994
+lata;latas;1;999999993
+cubiertos;;1;999999992
+olla;cacerola;1;999999991
+sartén;;1;999999990
+tupper de metal;;1;999999989
+gato;;1;999999988
+animal;mascota;1;999999987
+perro;;1;999999986
+plato con borde dorado;plato con dorado|vajilla con oro|plato con bordes dorados;2;1000000000
+tupper;tupperware|táper de plástico;2;999999999
+plástico;;2;999999998
+bandeja de aluminio;;2;999999997
+bolsa de plástico;;2;999999996
+papel de periódico;periódico;2;999999995
+bolsa de papel;;2;999999994
+envase de poliestireno;porexpán|corcho blanco|poliestireno;2;999999993
+vaso de plástico;;2;999999992
+botella de plástico;;2;999999991
+botella cerrada;botella;2;999999990
+tarro cerrado;bote de cristal cerrado|tarro;2;999999989
+frasco con tapa;;2;999999988
+termo;;2;999999987
+taza térmica;;2;999999986
+uvas;uva;2;999999985
+salsa de tomate sin tapar;tomate;2;999999984
+ordenador;portátil;2;999999983
+tablet;tableta;2;999999982
+mando;mando de la tele;2;999999981
+pilas;pila;2;999999980
+batería;;2;999999979
+auriculares;;2;999999978
+reloj;reloj de pulsera;2;999999977
+joyas;anillo|pendientes|pulsera|collar;2;999999976
+llaves;llave;2;999999975
+dinero;monedas|billetes;2;999999974
+tarjeta de crédito;tarjeta;2;999999973
+CD;DVD;2;999999972
+cámara;;2;999999971
+bombilla;;2;999999970
+mechero;encendedor;2;999999969
+cerillas;;2;999999968
+ropa;;2;999999967
+zapatos;;2;999999966
+peluche;;2;999999965
+juguete;;2;999999964
+libro;;2;999999963
+cuaderno;;2;999999962
+bolígrafo;;2;999999961
+huevo cocido;huevo duro;2;999999960
+huevos duros;;2;999999959
+pimientos picantes;guindillas|chiles;2;999999958
+ají;;2;999999957
+chile;;2;999999956
+guindilla;;2;999999955
+aceite;aceite hirviendo;2;999999954
+chicle;;2;999999953
+persona;un bebé|la mano|tu cabeza|cabeza;2;999999952
+hamster;pájaro|pez;2;999999951
+comida en lata;;2;999999950
+olla exprés;;2;999999949
+cafetera italiana;cafetera moka|cafetera de metal;2;999999948
+jarra de metal;;2;999999947
+bandeja de horno;bandeja metálica;2;999999946
+rejilla;;2;999999945
+parrilla;;2;999999944
+grapas;bolsa con grapa;2;999999943
+clip;;2;999999942
+alambre;;2;999999941
+pajita metálica;;2;999999940
+taza con dibujos metálicos;taza con oro|taza con borde dorado;3;1000000000
+porcelana con oro;;3;999999999
+cristal fino;copa de cristal|copa;3;999999998
+cristal de Bohemia;;3;999999997
+vaso de vidrio fino;;3;999999996
+madera;tabla de madera|cuchara de madera|bol de madera;3;999999995
+bambú;vaporera de bambú;3;999999994
+mimbre;cesta;3;999999993
+caja de comida china;cajita de comida china|caja de comida para llevar con asa;3;999999992
+cartón con asa metálica;;3;999999991
+vaso de papel;vaso de café para llevar;3;999999990
+envase de yogur;yogur;3;999999989
+bandeja de corcho;bandeja de carne|bandeja de porexpán;3;999999988
+tetrabrik;brik|cartón de leche|brick;3;999999987
+tupper viejo;tupper rayado;3;999999986
+tupper sin el símbolo de microondas;;3;999999985
+plástico negro;;3;999999984
+termómetro de mercurio;termómetro;3;999999983
+ollas con asas metálicas;;3;999999982
+cazo de acero;cazo;3;999999981
+wok;;3;999999980
+molde de metal;;3;999999979
+cartón reciclado;;3;999999978
+papel kraft;;3;999999977
+sobre;;3;999999976
+carta;;3;999999975
+uvas (hacen plasma);plasma;3;999999974
+uva partida;;3;999999973
+patata sin pinchar;patata|patata entera;3;999999972
+salchicha sin pinchar;;3;999999971
+castañas sin cortar;castañas;3;999999970
+zanahorias (chispas);zanahoria;3;999999969
+kale;col rizada;3;999999968
+nada;el microondas vacío|encenderlo vacío;3;999999967
+otro microondas;un microondas;3;999999966
+sujetador con aros;sujetador|aros;3;999999965
+gafas;gafas de sol;3;999999964
+lentillas;;3;999999963
+dentadura postiza;;3;999999962
+piercing;;3;999999961
+marcapasos;;3;999999960
+tarjeta del metro;bono de transporte|abono;3;999999959
+DNI;;3;999999958
+pasaporte;;3;999999957
+esponja seca;esponja;3;999999956
+estropajo de metal;estropajo;3;999999955
+cigarro;tabaco;3;999999954
+vapeador;vaper|cigarrillo electrónico;3;999999953
+mechero de gasolina;Zippo;3;999999952
+bote de spray;spray|aerosol;3;999999951
+laca;;3;999999950
+desodorante en spray;;3;999999949
+pintura;;3;999999948
+pegamento;;3;999999947
+disolvente;;3;999999946
+gasolina;;3;999999945
+alcohol;alcohol de 96;3;999999944
+quitaesmalte;;3;999999943
+perfume;;3;999999942
+colonia;;3;999999941
+plato de melamina;melamina;4;1000000000
+Le Creuset;olla de hierro fundido|hierro fundido;4;999999999
+cobre;cazo de cobre;4;999999998
+cuencos de acero inoxidable;acero inoxidable|bol de acero;4;999999997
+cubitera;;4;999999996
+coctelera;;4;999999995
+abrelatas;;4;999999994
+sacacorchos;;4;999999993
+pelador;;4;999999992
+rallador;;4;999999991
+colador metálico;;4;999999990
+batidor de varillas;varillas;4;999999989
+tenedor de postre;;4;999999988
+cucharilla;;4;999999987
+palillos metálicos;;4;999999986
+pinzas de cocina;;4;999999985
+termómetro de cocina;;4;999999984
+cuchillo jamonero;;4;999999983
+tijeras;;4;999999982
+papel de aluminio arrugado;bola de papel albal;4;999999981
+papel de plata;envoltorio de chocolate|papel de chocolatina;4;999999980
+envoltorio de Kinder;;4;999999979
+Ferrero Rocher;;4;999999978
+tazas con mensajes metálicos;;4;999999977
+taza de Starbucks reutilizable;;4;999999976
+vaso de Starbucks;;4;999999975
+termo de acero;Stanley|vaso Stanley;4;999999974
+botella de acero;Chilly's|botella térmica;4;999999973
+fiambrera de metal;tartera;4;999999972
+bote de mermelada con tapa;;4;999999971
+bote de garbanzos;;4;999999970
+tarro de Nocilla;;4;999999969
+lata de refresco;;4;999999968
+lata de atún;;4;999999967
+batidora;batidora de mano;4;999999966
+minipimer;;4;999999965
+tostadora;;4;999999964
+plancha;;4;999999963
+secador;secador de pelo;4;999999962
+plancha del pelo;;4;999999961
+rizador;;4;999999960
+maquinilla de afeitar;;4;999999959
+cepillo de dientes eléctrico;;4;999999958
+Tamagotchi;;4;999999957
+Game Boy;;4;999999956
+Nintendo Switch;Switch;4;999999955
+PlayStation;;4;999999954
+mando de la Play;;4;999999953
+Kindle;libro electrónico;4;999999952
+smartwatch;;4;999999951
+Apple Watch;;4;999999950
+AirPods;;4;999999949
+power bank;batería externa;4;999999948
+cargador;;4;999999947
+cable;;4;999999946
+ratón;;4;999999945
+teclado;;4;999999944
+USB;pendrive;4;999999943
+disco duro;;4;999999942
+tarjeta SD;;4;999999941
+chip;;4;999999940
+router;;4;999999939
+linterna;;4;999999938
+radio;;4;999999937
+walkie;walkie-talkie;4;999999936
+cámara de fotos;;4;999999935
+cámara GoPro;GoPro;4;999999934
+dron;;4;999999933
+Furby;;4;999999932
+muñeca;;4;999999931
+Barbie;;4;999999930
+Lego;;4;999999929
+Playmobil;;4;999999928
+cochecito;coche de juguete;4;999999927
+huevo de codorniz;;4;999999926
+huevo Kinder;Kinder Sorpresa (por el juguete);4;999999925
+agua en un vaso liso (sobrecalentamiento);agua en taza sin cuchara;4;999999924
+jabón;pastilla de jabón;4;999999923
+vela;velas;4;999999922
+cera;;4;999999921
+plastilina;;4;999999920
+slime;;4;999999919
+Blandiblub;;4;999999918
+planta;maceta;4;999999917
+flores;;4;999999916
+imán;imanes;4;999999915
+lámina de oro;pan de oro;4;999999914
+bisutería;;4;999999913
+reloj de bolsillo;;4;999999912
+brújula;;4;999999911
+platos de la abuela con filo dorado;vajilla de la abuela;5;1000000000
+porcelana de Limoges;;5;999999999
+Bidasoa;vajilla Bidasoa;5;999999998
+Pontesa;;5;999999997
+cristal de Murano;;5;999999996
+cristal de La Granja;;5;999999995
+copa de Riedel;;5;999999994
+Tupperware vintage;;5;999999993
+fiambrera de los años 80;;5;999999992
+termo de los 90;;5;999999991
+envase de comida china con asa de alambre;takeout box;5;999999990
+caja de noodles;;5;999999989
+cartón de leche con capa de aluminio;;5;999999988
+Tetra Pak;;5;999999987
+bolsa de patatas fritas;bolsa de snacks;5;999999986
+envoltorio de chicle;;5;999999985
+papel de magdalena con aluminio;;5;999999984
+cápsula de café;cápsula de Nespresso|cápsulas;5;999999983
+cápsula de aluminio;;5;999999982
+tapa de yogur;;5;999999981
+bolsa de té con grapa;bolsita de té con grapa;5;999999980
+saquito de té;;5;999999979
+brick de vino;;5;999999978
+botella de cava;cava|champán;5;999999977
+botella de vino;;5;999999976
+sifón;;5;999999975
+bombona;bombona de butano;5;999999974
+cartucho de gas;;5;999999973
+encendedor de cocina;;5;999999972
+mecha;;5;999999971
+bengala;;5;999999970
+petardo;;5;999999969
+cohete;;5;999999968
+hielo seco;;5;999999967
+termómetro digital;;5;999999966
+pulsioxímetro;;5;999999965
+audífono;;5;999999964
+implante coclear;;5;999999963
+dentadura con metal;;5;999999962
+ortodoncia;brackets;5;999999961
+canicas de metal;;5;999999960
+caracoles vivos;;5;999999959
+langosta viva;;5;999999958
+cangrejo vivo;;5;999999957
+pez de colores;;5;999999956
+tortuga;;5;999999955
+iguana;;5;999999954
+huevo de avestruz;;5;999999953
+castañas con piel;;5;999999952
+chiles secos;;5;999999951
+pimienta de cayena;;5;999999950
+ropa con lentejuelas;lentejuelas;5;999999949
+ropa con botones de metal;;5;999999948
+vaqueros (remaches);vaqueros;5;999999947
+cinturón;;5;999999946
+hebilla;;5;999999945
+gorro con lentejuelas;;5;999999944
+disfraz;;5;999999943
+globo;;5;999999942
+globo de helio;;5;999999941
+papel de regalo metalizado;;5;999999940
+purpurina;;5;999999939
+confeti metálico;;5;999999938

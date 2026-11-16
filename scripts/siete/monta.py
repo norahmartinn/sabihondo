@@ -311,6 +311,13 @@ PREGUNTAS = [
     ("Nombra una ciudad de Portugal", "ciudad_portugal"),
     ("Nombra un navegador de internet", "navegador"),
     ("Nombra algo que hay en un gimnasio", "gimnasio"),
+    ("Nombra algo que tenga velas", "tiene_velas"),
+    ("Nombra algo que NO se puede meter en el microondas", "no_microondas"),
+    ("Nombra una bebida caliente", "bebida_caliente"),
+    ("Nombra una princesa Disney", "princesa_disney"),
+    ("Nombra una palabra que empiece por Y", "palabra_y"),
+    ("Nombra una raza de perro", "raza_perro"),
+    ("Nombra un banco", "bancos"),
 ]
 
 # Desde el 31 de octubre de 2026 los niveles son más generosos: la gente veía casi imposible llegar a Muy raro y Sabihondo.

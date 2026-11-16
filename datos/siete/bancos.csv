@@ -1,0 +1,396 @@
+respuesta;alias;nivel;orden_a_mano
+Santander;Banco Santander;1;1000000000
+BBVA;;1;999999999
+CaixaBank;La Caixa;1;999999998
+Sabadell;Banco Sabadell;1;999999997
+ING;ING Direct;1;999999996
+Bankinter;;1;999999995
+Unicaja;;1;999999994
+Ibercaja;;1;999999993
+Kutxabank;Kutxa;1;999999992
+Abanca;;1;999999991
+Bankia;;1;999999990
+Banco Popular;Popular;1;999999989
+Openbank;;1;999999988
+Revolut;;1;999999987
+N26;;1;999999986
+Cajamar;;2;1000000000
+Caja Rural;Rural;2;999999999
+Laboral Kutxa;Caja Laboral;2;999999998
+Liberbank;;2;999999997
+Banco Mediolanum;Mediolanum;2;999999996
+EVO Banco;EVO;2;999999995
+Deutsche Bank;;2;999999994
+Triodos;Triodos Bank;2;999999993
+Cetelem;;2;999999992
+Wizink;;2;999999991
+ImaginBank;imagin;2;999999990
+Banco de España;;2;999999989
+Banco Central Europeo;BCE;2;999999988
+Banco Mundial;;2;999999987
+Fondo Monetario Internacional;FMI;2;999999986
+Banco Pichincha;Pichincha;2;999999985
+BNP Paribas;;2;999999984
+HSBC;;2;999999983
+Barclays;;2;999999982
+Citibank;Citi;2;999999981
+JPMorgan;JPMorgan Chase|Chase;2;999999980
+Bank of America;;2;999999979
+Goldman Sachs;;2;999999978
+Morgan Stanley;;2;999999977
+Wells Fargo;;2;999999976
+Crédit Agricole;;2;999999975
+Société Générale;;2;999999974
+UBS;;2;999999973
+Credit Suisse;;2;999999972
+Lloyds;;2;999999971
+NatWest;;2;999999970
+Caja Madrid;;2;999999969
+Caja Mediterráneo;CAM;2;999999968
+Banco Pastor;;2;999999967
+Banesto;;2;999999966
+Argentaria;;2;999999965
+Banco Central Hispano;BCH;2;999999964
+Banco Hispano Americano;;2;999999963
+Banco Bilbao;;2;999999962
+Banco Vizcaya;;2;999999961
+Banco Exterior;;2;999999960
+Caixa Galicia;;2;999999959
+Caixanova;;2;999999958
+Caja España;;2;999999957
+Caja Duero;;2;999999956
+CajaSur;;2;999999955
+Cajastur;;2;999999954
+BBK;;2;999999953
+Caja Navarra;CAN;2;999999952
+Caja Castilla-La Mancha;CCM;2;999999951
+Caixa Catalunya;;2;999999950
+Bancaja;;2;999999949
+Banco Caminos;;2;999999948
+Arquia;Arquia Banca;2;999999947
+Banca March;;2;999999946
+Andbank;;2;999999945
+Renta 4;;2;999999944
+MyInvestor;;2;999999943
+Trade Republic;;2;999999942
+Bnext;;2;999999941
+Vivid;Vivid Money;2;999999940
+Wise;TransferWise;2;999999939
+Banco Inversis;;2;999999938
+Banco Cooperativo;;2;999999937
+Self Bank;;2;999999936
+Banco Sabadell (TSB);TSB;2;999999935
+Banco Pueyo;;2;999999934
+Caixa Ontinyent;;2;999999933
+Colonya;Caixa Pollença;2;999999932
+banco de alimentos;;2;999999931
+banco de sangre;;2;999999930
+banco de semen;banco de esperma;2;999999929
+banco de peces;;2;999999928
+banco de arena;;2;999999927
+Cecabank;;2;999999926
+banco del parque;banco de madera|banco para sentarse;2;999999925
+Banco Nación;Banco de la Nación Argentina;3;1000000000
+Banco Galicia;;3;999999999
+Banco Macro;;3;999999998
+Banco Provincia;;3;999999997
+Bancolombia;;3;999999996
+Banco de Bogotá;;3;999999995
+Davivienda;;3;999999994
+BCP;Banco de Crédito del Perú;3;999999993
+Interbank;;3;999999992
+Banco de Chile;;3;999999991
+BancoEstado;;3;999999990
+Banorte;;3;999999989
+Banamex;Citibanamex;3;999999988
+Banco Azteca;;3;999999987
+Bradesco;;3;999999986
+Itaú;;3;999999985
+Banco do Brasil;;3;999999984
+Caixa Econômica Federal;;3;999999983
+Nubank;;3;999999982
+Banco Popular Dominicano;;3;999999981
+Banreservas;;3;999999980
+BHD;;3;999999979
+Banco Industrial;;3;999999978
+BAC;;3;999999977
+Banco General;;3;999999976
+Banco Guayaquil;;3;999999974
+Banesco;;3;999999973
+Banco de Venezuela;;3;999999972
+Mercantil;;3;999999971
+Commerzbank;;3;999999970
+Sparkasse;;3;999999969
+Deutsche Bundesbank;Bundesbank;3;999999968
+Raiffeisen;;3;999999967
+Erste Bank;;3;999999966
+UniCredit;;3;999999965
+Intesa Sanpaolo;Intesa;3;999999964
+Monte dei Paschi;Monte dei Paschi di Siena;3;999999963
+ABN AMRO;;3;999999962
+Rabobank;;3;999999961
+KBC;;3;999999960
+Belfius;;3;999999959
+Nordea;;3;999999958
+Danske Bank;;3;999999957
+Santander UK;;3;999999956
+Standard Chartered;;3;999999955
+RBS;Royal Bank of Scotland;3;999999954
+Halifax;;3;999999953
+Monzo;;3;999999952
+Starling;;3;999999951
+Millennium BCP;Millennium;3;999999950
+Caixa Geral de Depósitos;Caixa Geral;3;999999949
+Novo Banco;;3;999999948
+Banco BPI;BPI;3;999999947
+Mitsubishi UFJ;MUFG;3;999999946
+Mizuho;;3;999999945
+Sumitomo;;3;999999944
+ICBC;;3;999999943
+Bank of China;;3;999999942
+China Construction Bank;;3;999999941
+Agricultural Bank of China;;3;999999940
+HDFC;;3;999999939
+ICICI;;3;999999938
+State Bank of India;;3;999999937
+Royal Bank of Canada;RBC;3;999999936
+TD Bank;TD;3;999999935
+Scotiabank;;3;999999934
+BMO;;3;999999933
+Commonwealth Bank;;3;999999932
+ANZ;;3;999999931
+Westpac;;3;999999930
+NAB;;3;999999929
+Capital One;;3;999999928
+US Bank;;3;999999927
+PNC;;3;999999926
+Charles Schwab;;3;999999925
+Banco Europeo de Inversiones;BEI;3;999999924
+Banco Interamericano de Desarrollo;BID;3;999999923
+Banco de Pagos Internacionales;BIS;3;999999922
+Reserva Federal;Fed;3;999999921
+Banco de Inglaterra;;3;999999920
+Banco de Japón;;3;999999919
+Banco Popular Español;;3;999999918
+Caja de Ahorros;;3;999999917
+Caja Rural de Navarra;;3;999999916
+Caja Rural del Sur;;3;999999915
+Globalcaja;;3;999999914
+Eurocaja Rural;;3;999999913
+Caja Rural de Granada;;3;999999912
+Caja Rural de Asturias;;3;999999911
+Caixa Rural Galega;;3;999999910
+Caja de Ingenieros;;3;999999909
+Banco Santander Río;;3;999999908
+Santander Consumer;;3;999999907
+Caja Inmaculada;CAI;3;999999906
+Caja Granada;;3;999999905
+CajaMurcia;;3;999999904
+Caja Cantabria;;3;999999903
+Caja de Burgos;;3;999999902
+Caja Segovia;;3;999999901
+Caja Ávila;;3;999999900
+Caixa Penedès;;3;999999899
+Caixa Sabadell;;3;999999898
+Caixa Terrassa;;3;999999897
+Caixa Manresa;;3;999999896
+Banco Gallego;;3;999999895
+Banco Etcheverría;;3;999999894
+Banco Guipuzcoano;;3;999999893
+Banco Urquijo;;3;999999892
+Banco Herrero;;3;999999891
+Banco Atlántico;;3;999999890
+Banco Zaragozano;;3;999999889
+Banco Simeón;;3;999999888
+Banca Catalana;;3;999999887
+Banco de Valencia;;3;999999886
+Banco CAM;;3;999999885
+NovaGalicia Banco;NCG;3;999999884
+Catalunya Banc;;3;999999883
+BMN;Banco Mare Nostrum;3;999999882
+Unnim;;3;999999881
+CatalunyaCaixa;;3;999999880
+España Duero;Ceiss;3;999999879
+Bunq;;4;1000000000
+Klarna;;4;999999999
+Lunar;;4;999999998
+Qonto;;4;999999997
+Shine;;4;999999996
+Holvi;;4;999999995
+Ualá;;4;999999994
+Mercado Pago;;4;999999993
+Brubank;;4;999999992
+Banco Inter;;4;999999991
+C6 Bank;;4;999999990
+Neon;;4;999999989
+PicPay;;4;999999988
+Chime;;4;999999987
+SoFi;;4;999999986
+Ally Bank;;4;999999985
+Banco Mundial (BIRF);BIRF;4;999999984
+Asian Development Bank;Banco Asiático de Desarrollo;4;999999983
+Banco Africano de Desarrollo;;4;999999982
+Nuevo Banco de Desarrollo;Banco de los BRICS;4;999999981
+AIIB;;4;999999980
+BERD;;4;999999979
+CAF;Banco de Desarrollo de América Latina;4;999999978
+Banco Centroamericano de Integración Económica;BCIE;4;999999977
+Banco del Sur;;4;999999976
+ICO;Instituto de Crédito Oficial;4;999999975
+Banco Hipotecario;;4;999999974
+Banco de Crédito Local;;4;999999973
+Banco de Crédito Industrial;;4;999999972
+Caja Postal;;4;999999971
+Banco Exterior de España;;4;999999970
+Banco de San Carlos;;4;999999969
+Banco de San Fernando;;4;999999968
+Banco de Isabel II;;4;999999967
+Banco de Barcelona;;4;999999966
+Medici;Banca Medici;4;999999965
+Fugger;;4;999999964
+Rothschild;N M Rothschild;4;999999963
+Lehman Brothers;Lehman;4;999999962
+Bear Stearns;;4;999999961
+Northern Rock;;4;999999960
+Silicon Valley Bank;SVB;4;999999959
+Credit Lyonnais;;4;999999958
+Banco Ambrosiano;;4;999999957
+Banco Santo Spirito;;4;999999956
+Banca di Roma;;4;999999955
+Banco di Napoli;;4;999999954
+Banco di Sicilia;;4;999999953
+Cassa di Risparmio;;4;999999952
+Banca Popolare;;4;999999951
+Hypo Real Estate;;4;999999950
+WestLB;;4;999999949
+HypoVereinsbank;;4;999999948
+Banco Espírito Santo;BES;4;999999947
+Banif;;4;999999946
+ING-Diba;;4;999999945
+Comdirect;;4;999999944
+DKB;;4;999999943
+Postbank;;4;999999942
+Volksbank;;4;999999941
+Pictet;;4;999999940
+Julius Baer;;4;999999939
+Lombard Odier;;4;999999938
+Vontobel;;4;999999937
+Banca Privada d'Andorra;BPA;4;999999936
+Credit Andorrà;;4;999999935
+MoraBanc;;4;999999934
+Banco Popular de Puerto Rico;;4;999999932
+FirstBank;;4;999999931
+Oriental;;4;999999930
+Banco de Crédito de Bolivia;;4;999999929
+BancoSol;;4;999999928
+Banco Unión;;4;999999927
+Banco Mercantil Santa Cruz;;4;999999926
+Banco Itaú Paraguay;;4;999999925
+Banco Continental;;4;999999924
+Banco Atlas;;4;999999923
+BROU;Banco República;4;999999922
+Banco Hipotecario del Uruguay;;4;999999921
+Scotiabank Chile;;4;999999920
+Banco BICE;;4;999999919
+Banco Security;;4;999999918
+Banco Falabella;;4;999999917
+Banco Ripley;;4;999999916
+BBVA Bancomer;Bancomer;4;999999915
+Santander México;;4;999999914
+Inbursa;;4;999999913
+Banregio;;4;999999912
+Banco del Bajío;BanBajío;4;999999911
+Afirme;;4;999999910
+Banjército;;4;999999909
+Coppel;BanCoppel;4;999999908
+Banco Agrícola;;4;999999907
+Banco Cuscatlán;;4;999999906
+Banco Promerica;;4;999999905
+Ficohsa;;4;999999904
+Banpro;;4;999999903
+Lafise;;4;999999902
+Banco Nacional de Costa Rica;;4;999999901
+BCR;;4;999999900
+Banco de Costa Rica;;4;999999899
+Banistmo;;4;999999898
+Caja de Ahorros (Panamá);;4;999999897
+Banco Santander Totta;;5;1000000000
+Banco Sabadell Miami;;5;999999999
+Banco Sabadell Mexico;;5;999999998
+BBVA Garanti;Garanti;5;999999997
+BBVA Argentina;Banco Francés;5;999999996
+BBVA Perú;Continental;5;999999995
+BBVA Colombia;;5;999999994
+Banca Pueyo;;5;999999993
+Banco Alcalá;;5;999999992
+Banco Finantia;;5;999999991
+Banco Caixa Geral;;5;999999990
+Banco Cetelem;;5;999999989
+Banco Santander Consumer Finance;;5;999999988
+Bankoa;;5;999999987
+Fiare;Fiare Banca Ética;5;999999986
+Banca Ética;;5;999999985
+Caixa Popular;;5;999999984
+Caja Rural de Teruel;;5;999999983
+Caja Rural de Soria;;5;999999982
+Caja Rural de Zamora;;5;999999981
+Caja Rural de Albacete;;5;999999980
+Caja Rural de Almendralejo;;5;999999979
+Caja Rural de Extremadura;;5;999999978
+Caja Rural de Jaén;;5;999999977
+Caja Rural de Salamanca;;5;999999976
+Caja Rural de Burgos;;5;999999975
+Caja Rural de Aragón;Bantierra;5;999999974
+CajaSiete;;5;999999973
+Caja Rural Central;;5;999999972
+Caixa Rural de Torrent;;5;999999971
+Caixa Rural de l'Alcúdia;;5;999999970
+Caja Rural de Villamalea;;5;999999969
+Caja Rural de Utrera;;5;999999968
+Caja Rural de Baena;;5;999999967
+Caja Rural de Nueva Carteya;;5;999999966
+Caja Rural de Cañete;;5;999999965
+Caja Rural de Fuentepelayo;;5;999999964
+Caja Rural de Guissona;;5;999999963
+Caixa de Crèdit dels Enginyers;;5;999999962
+Caja de Arquitectos;;5;999999961
+Caja Laboral Popular;;5;999999960
+Ipar Kutxa;;5;999999959
+Vital Kutxa;Caja Vital;5;999999958
+Caja Insular de Canarias;;5;999999957
+CajaCanarias;;5;999999956
+Sa Nostra;;5;999999954
+Caja de Baleares;;5;999999953
+Caixa Laietana;;5;999999952
+Caixa Tarragona;;5;999999951
+Caixa Girona;;5;999999950
+Caixa Manlleu;;5;999999949
+Caja Rioja;;5;999999948
+Caja de Guadalajara;;5;999999947
+Caja Badajoz;;5;999999946
+Caja Extremadura;;5;999999945
+Caja Círculo;Caja Círculo Católico;5;999999944
+Caja de Jaén;;5;999999943
+Caja San Fernando;;5;999999941
+El Monte;Monte de Piedad de Sevilla;5;999999940
+Cajasol;;5;999999939
+Caja de Huelva;;5;999999938
+Unicaja Banco;;5;999999937
+Banco Grupo Cajatres;;5;999999936
+Caja3;;5;999999935
+Caja Inmaculada Aragón;;5;999999934
+Banco CEISS;;5;999999933
+Liberbank Asturias;;5;999999932
+Banco de Madrid;;5;999999931
+Banco de Castilla;;5;999999930
+Banco de Andalucía;;5;999999929
+Banco de Vitoria;;5;999999928
+Banco de Crédito Balear;;5;999999927
+Banco Mapfre;;5;999999926
+Banco Cooperativo Español;;5;999999925
+Barclays España;;5;999999924
+Deutsche Bank España;;5;999999923
+Citibank España;;5;999999922
+BNP Paribas España;;5;999999921
+Banco Espirito Santo España;;5;999999920
+Banco Caixa Geral España;;5;999999919

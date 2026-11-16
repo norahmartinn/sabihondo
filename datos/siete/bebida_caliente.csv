@@ -1,0 +1,293 @@
+respuesta;alias;nivel;orden_a_mano
+café;;1;1000000000
+té;;1;999999999
+chocolate;chocolate caliente|chocolate a la taza;1;999999998
+leche;leche caliente;1;999999997
+Cola Cao;;1;999999996
+infusión;infusiones;1;999999995
+manzanilla;;1;999999994
+poleo;poleo menta;1;999999993
+Nesquik;;1;999999992
+café con leche;;1;999999991
+cortado;;1;999999990
+capuchino;cappuccino;1;999999989
+caldo;;1;999999988
+tila;;1;999999987
+carajillo;;2;1000000000
+café solo;solo|expreso|espresso;2;999999999
+café americano;americano;2;999999998
+latte;café latte|caffè latte;2;999999997
+macchiato;café manchado;2;999999996
+mocha;moca|mocaccino;2;999999995
+leche con cacao;leche con Cola Cao;2;999999994
+té verde;;2;999999993
+té rojo;pu-erh;2;999999992
+té negro;;2;999999991
+té chai;chai|chai latte;2;999999990
+té matcha;matcha|matcha latte;2;999999989
+rooibos;té rooibos;2;999999988
+menta poleo;;2;999999987
+hierbaluisa;;2;999999986
+valeriana;;2;999999985
+tomillo;;2;999999984
+jengibre;infusión de jengibre;2;999999983
+té de jengibre;;2;999999982
+limón con miel;agua con limón;2;999999981
+vino caliente;glühwein|vin chaud|vino especiado;2;999999980
+ponche;;2;999999979
+sopa;;2;999999978
+consomé;;2;999999977
+caldo de pollo;;2;999999976
+caldo de cocido;;2;999999975
+sopa de miso;;2;999999974
+leche con miel;;2;999999973
+golden milk;leche dorada|leche de cúrcuma;2;999999972
+atole;;2;999999971
+champurrado;;2;999999970
+Irish coffee;café irlandés;2;999999969
+queimada;;2;999999968
+grog;;2;999999967
+hot toddy;toddy;2;999999966
+sake caliente;sake;2;999999965
+mate;yerba mate|chimarrão;2;999999964
+café bombón;bombón;2;999999963
+café descafeinado;descafeinado;2;999999962
+Nescafé;;2;999999961
+café de olla;;2;999999960
+chocolate con churros;;2;999999959
+submarino;;2;999999958
+Milo;;2;999999957
+Ovomaltina;Ovomaltine;2;999999956
+té con leche;té inglés;2;999999955
+earl grey;;2;999999954
+té de frutas;té de frutos rojos;2;999999953
+infusión de frutas;;2;999999952
+té moruno;té marroquí|té con hierbabuena|té a la menta;2;999999951
+hierbabuena;;2;999999950
+regaliz;palo de regaliz|infusión de regaliz;2;999999949
+canela;infusión de canela;2;999999948
+café de cebada;malta|cebada;2;999999947
+achicoria;;2;999999946
+flat white;;3;1000000000
+cortado condensado;leche y leche|café bonbón;3;999999999
+café asiático;;3;999999998
+café de Cartagena;asiático;3;999999997
+carajillo de Baileys;Baileys caliente;3;999999996
+carajillo quemado;cremat;3;999999995
+café turco;;3;999999994
+café griego;;3;999999993
+café vietnamita;;3;999999992
+café cubano;cafecito;3;999999991
+cortadito;;3;999999990
+café de puchero;;3;999999989
+café con canela;;3;999999988
+café con licor;;3;999999987
+trifásico;;3;999999986
+belmonte;;3;999999985
+lágrima;leche manchada|leche con unas gotas de café;3;999999984
+ristretto;;3;999999983
+lungo;;3;999999982
+doppio;doble;3;999999981
+cortado largo;;3;999999980
+americano largo;;3;999999979
+babyccino;leche con espuma;3;999999978
+chocolate blanco caliente;chocolate blanco;3;999999977
+chocolate a la española;chocolate espeso;3;999999976
+chocolate suizo;;3;999999975
+chocolate con nata;;3;999999974
+té oolong;oolong;3;999999973
+té blanco;;3;999999972
+té de jazmín;jazmín;3;999999971
+sencha;;3;999999970
+genmaicha;;3;999999969
+hojicha;;3;999999968
+darjeeling;;3;999999967
+assam;;3;999999966
+english breakfast;;3;999999965
+lapsang souchong;;3;999999964
+té de Ceilán;;3;999999963
+manzanilla con anís;;3;999999962
+manzanilla con miel;;3;999999961
+tila con valeriana;;3;999999960
+melisa;;3;999999959
+lavanda;;3;999999958
+hibisco;flor de Jamaica|agua de Jamaica;3;999999957
+cola de caballo;;3;999999956
+boldo;;3;999999955
+diente de león;;3;999999954
+ortiga;;3;999999953
+salvia;;3;999999952
+eucalipto;;3;999999951
+hinojo;;3;999999950
+anís verde;;3;999999949
+cardamomo;;3;999999948
+cúrcuma;;3;999999947
+hierba de San Juan;;3;999999946
+té de roca;;3;999999945
+Horlicks;;3;999999944
+Bournvita;;3;999999943
+Ricoré;;3;999999942
+Eko;;3;999999941
+Nescafé Dolce Gusto;;3;999999940
+Starbucks;;3;999999939
+Tassimo;;3;999999938
+Nespresso;;3;999999937
+Marcilla;;3;999999936
+Saimaza;;3;999999935
+Bonka;;3;999999934
+Hornimans;;3;999999933
+Pompadour;;3;999999932
+Lipton;;3;999999931
+Twinings;;3;999999930
+caldo de verduras;;3;999999929
+caldo de pescado;;3;999999928
+sopa de ajo;;3;999999927
+sopa castellana;;3;999999926
+crema de verduras;;3;999999925
+crema de calabaza;;3;999999924
+glögg;;3;999999923
+mulled wine;;3;999999922
+cider caliente;sidra caliente;3;999999921
+ponche de huevo;eggnog;3;999999920
+rompope;;3;999999919
+ponche navideño;;3;999999918
+chocolate de Navidad;;3;999999917
+Sake (atsukan);atsukan;3;999999916
+tejate;;3;999999915
+pinolillo;;3;999999914
+agua de panela;;3;999999913
+canelazo;;3;999999912
+hervido;;3;999999911
+leche de almendras caliente;;3;999999910
+leche de avena caliente;leche de avena;3;999999909
+bebida de avena caliente;;3;999999908
+leche de soja caliente;;3;999999907
+cacao puro;cacao;3;999999906
+chocolate a la taza Valor;Valor;3;999999905
+café Vienés;vienés|Einspänner;4;1000000000
+Wiener Melange;melange;4;999999999
+café cortado con leche condensada;;4;999999998
+café caleta;;4;999999997
+carajillo de orujo;;4;999999996
+carajillo de coñac;;4;999999995
+carajillo de ron;;4;999999994
+barraquito;;4;999999993
+cappuccino viennese;;4;999999992
+marocchino;;4;999999991
+bicerin;;4;999999990
+caffè corretto;corretto;4;999999989
+red eye;;4;999999988
+black eye;;4;999999987
+dirty chai;;4;999999986
+cortado de soja;;4;999999985
+café de filtro;filtro|café de goteo;4;999999984
+V60;pour over;4;999999983
+Chemex;;4;999999982
+AeroPress;;4;999999981
+café de prensa francesa;prensa francesa;4;999999980
+café de cafetera italiana;moka;4;999999979
+sifón japonés;;4;999999978
+café de especialidad;;4;999999977
+café etíope;;4;999999976
+café de Colombia;;4;999999975
+café de Kenia;;4;999999974
+café Jamaica Blue Mountain;Blue Mountain;4;999999973
+kopi luwak;;4;999999972
+café de Puerto Rico;;4;999999971
+yuanyang;;4;999999970
+teh tarik;;4;999999969
+masala chai;;4;999999968
+Thai tea;té tailandés;4;999999967
+té de mantequilla;té tibetano|po cha;4;999999966
+té de Mongolia;suutei tsai;4;999999965
+sahlep;salep;4;999999964
+yerba mate cocido;mate cocido;4;999999963
+guayusa;;4;999999962
+api morado;;4;999999961
+colada morada;;4;999999960
+té de coca;mate de coca;4;999999959
+Ovaltine;;4;999999958
+Cacao Valor;;4;999999957
+ColaCao Turbo;;4;999999956
+Nesquik Plus;;4;999999955
+consomé al jerez;;4;999999954
+caldo de huesos;bone broth;4;999999953
+caldo gallego;;4;999999952
+sopa de pescado;;4;999999951
+bullabesa;;4;999999950
+sopa de cebolla;;4;999999949
+caldo de pollo de la abuela;;4;999999948
+sopa de fideos;;4;999999947
+pho;;4;999999946
+caldo dashi;dashi;4;999999945
+miso;;4;999999944
+agua caliente;agua tibia;4;999999943
+agua con limón caliente;;4;999999942
+agua con jengibre y limón;;4;999999941
+zumo de manzana caliente;apple cider;4;999999940
+ponche Caballero;;4;999999939
+café de olla mexicano;;5;1000000000
+café de pota;;5;999999999
+café de calcetín;café colado;5;999999998
+guayoyo;;5;999999997
+tinto (Colombia);tinto;5;999999996
+cafecito cubano;;5;999999995
+cortadito con leche evaporada;;5;999999994
+café con huevo;egg coffee|café vietnamita con huevo;5;999999993
+yuenyeung;;5;999999992
+kopi tubruk;;5;999999991
+ca phe trung;;5;999999990
+qahwa;café árabe;5;999999989
+café beduino;;5;999999988
+gahwa;;5;999999987
+té pu-erh añejo;;5;999999986
+té lapsang;;5;999999985
+té gyokuro;;5;999999984
+té kukicha;;5;999999983
+té bancha;;5;999999982
+té de cebada tostada;boricha;5;999999981
+té de maíz;oksusu cha;5;999999980
+té de crisantemo;;5;999999979
+té de osmanthus;;5;999999978
+té de mantequilla de yak;;5;999999977
+té salado;;5;999999976
+kahwa;té de Cachemira;5;999999975
+noon chai;té rosa;5;999999974
+té de rosas;;5;999999973
+té de azahar;azahar;5;999999972
+infusión de rooibos rojo;;5;999999971
+honeybush;;5;999999970
+infusión de moringa;;5;999999969
+infusión de stevia;;5;999999968
+infusión de guanábana;;5;999999967
+té de muña;;5;999999966
+té de huacatay;;5;999999965
+té de tumbo;;5;999999964
+sbiten;;5;999999963
+krupnik caliente;;5;999999962
+Feuerzangenbowle;;5;999999961
+Jagertee;;5;999999960
+Kinderpunsch;;5;999999959
+Bombardino;;5;999999958
+caudle;;5;999999957
+posset;;5;999999956
+wassail;;5;999999955
+hot buttered rum;ron caliente con mantequilla;5;999999954
+tom and jerry;;5;999999953
+flip;;5;999999952
+atole de elote;;5;999999951
+atole de arroz;;5;999999950
+champurrado de Oaxaca;;5;999999949
+chocolate de agua;;5;999999948
+chilate;;5;999999946
+cacao de Chiapas;;5;999999945
+canelazo ecuatoriano;;5;999999944
+hervido de naranjilla;;5;999999943
+agua de panela con queso;;5;999999942
+chocolate santafereño;;5;999999941
+api;;5;999999940
+saloop;;5;999999939
+chocolate de Bayona;;5;999999938
+chocolate de Astorga;;5;999999937
+chocolate de Villajoyosa;;5;999999936
+Chocolatería San Ginés;San Ginés;5;999999935

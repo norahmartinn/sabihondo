@@ -1,0 +1,949 @@
+respuesta;alias;nivel;enlaces_wikipedia
+labrador;labrador retriever|labradores;1;1000000000
+golden retriever;golden|golden retrivier;1;999999999
+pastor alemán;;1;999999998
+chihuahua;;1;999999997
+caniche;poodle;1;999999996
+bulldog;bulldog francés;1;999999995
+yorkshire;yorkshire terrier|yorki;1;999999994
+husky;husky siberiano;1;999999993
+beagle;;1;999999992
+dálmata;;1;999999991
+carlino;pug;1;999999990
+galgo;galgo español;1;999999989
+bóxer;;1;999999988
+teckel;salchicha|perro salchicha|dachshund;1;999999987
+border collie;;1;999999986
+bulldog inglés;;2;1000000000
+pastor belga;malinois|pastor belga malinois;2;999999999
+rottweiler;;2;999999998
+dóberman;;2;999999997
+pitbull;american pit bull terrier;2;999999996
+gran danés;;2;999999995
+san bernardo;;2;999999994
+pomerania;pomerano|lulú de pomerania;2;999999993
+shih tzu;;2;999999992
+maltés;bichón maltés;2;999999991
+bichón frisé;bichón;2;999999990
+schnauzer;schnauzer miniatura;2;999999989
+cocker;cocker spaniel;2;999999988
+cavalier king charles;cavalier;2;999999987
+mastín;mastín español;2;999999986
+podenco;podenco andaluz;2;999999985
+podenco ibicenco;;2;999999984
+setter;setter irlandés;2;999999983
+pointer;;2;999999982
+bulterrier;bull terrier;2;999999981
+jack russell;jack russell terrier;2;999999980
+shiba inu;shiba;2;999999979
+akita;akita inu;2;999999978
+samoyedo;;2;999999977
+chow chow;;2;999999976
+shar pei;;2;999999975
+pastor australiano;australiano;2;999999974
+corgi;welsh corgi;2;999999973
+west highland;westie;2;999999972
+boyero de berna;boyero;2;999999971
+terranova;;2;999999970
+mastín napolitano;;2;999999969
+dogo argentino;;2;999999968
+dogo de burdeos;;2;999999967
+cane corso;;2;999999966
+presa canario;dogo canario;2;999999965
+staffordshire;american staffordshire|amstaff;2;999999964
+galgo afgano;afgano;2;999999963
+whippet;;2;999999962
+lebrel;;2;999999961
+bretón;epagneul bretón;2;999999960
+pastor vasco;euskal artzain txakurra;2;999999959
+pastor de los Pirineos;;2;999999958
+mastín del Pirineo;;2;999999957
+gos d'atura;gos d'atura català;2;999999956
+alaskan malamute;malamute;2;999999955
+bichón habanero;habanero;2;999999954
+pequinés;;2;999999953
+lhasa apso;;2;999999952
+pinscher;pinscher miniatura|mini pinscher;2;999999951
+ratonero;ratonero bodeguero andaluz;2;999999950
+fox terrier;;2;999999949
+schnauzer gigante;;2;999999948
+perro de agua;perro de agua español;2;999999947
+basset hound;basset;2;999999946
+bloodhound;sabueso;2;999999945
+braco;braco alemán|braco de Weimar|weimaraner;2;999999944
+dogo;;2;999999943
+spaniel;springer spaniel|springer;2;999999942
+carea;carea leonés|pastor leonés;2;999999941
+mestizo;chucho|sin raza|callejero;2;999999940
+dingo;Perro salvaje;3;88
+lebrel afgano;Afghan Hound;3;53
+Galgo inglés;greyhound;3;53
+Tosa Inu;Tosa|Tosa japones;3;53
+Basenji;Terrier de caza del Congo;3;52
+Malamute de Alaska;;3;49
+Pekinés;Pekingese;3;48
+Mastín tibetano;Tibetan Mastiff|Do-Khyi|Dogo del Tíbet;3;47
+Airedale terrier;;3;46
+Pastor ovejero australiano;Australian Shepherd;3;45
+West Highland white terrier;;3;44
+Pastor caucásico;Caucasian Shepherd Dog;3;44
+Lobero irlandés;Irish wolfhound;3;44
+Landseer;;3;44
+perro de San Huberto;;3;43
+Borzoi;;3;43
+bullmastiff;;3;43
+Setter inglés;English Setter;3;43
+Pastor de Asia Central;Central Asian Shepherd Dog;3;43
+mastín italiano;;3;42
+Pastor ganadero australiano;Australian Cattle Dog|Blue Heeler;3;42
+Saluki;;3;42
+pit bull terrier americano;Pit Bull Red Nose;3;41
+Cairn terrier;;3;41
+Cavalier King Charles spaniel;;3;41
+Perro pastor de las islas Shetland;Shetland Sheepdog|sheltie|Pastor Shetland;3;41
+american staffordshire terrier;Staffordshire terrier americano|American Stanfordshire Terrier;4;40
+Cocker spaniel inglés;English Cocker Spaniel|Cocker Spanish|Cocker inglés|Cocker argentino;4;40
+Perro lobo checoslovaco;Czechoslovakian Wolfdog;4;40
+Komondor;;4;40
+Puli;;4;40
+Terrier escocés;Scottish Terrier;4;40
+Boston terrier;;4;39
+Bobtail;Old English sheepdog|Antiguo Perro Pastor Ingles;4;39
+Azawakh;;4;39
+Cocker americano;American Cocker Spaniel|Cocker Spaniel Americano;4;39
+Mastín inglés;English Mastiff;4;39
+Terrier irlandés;Irish Terrier;4;39
+Perro de montaña de los Pirineos;Pyrenean Mountain Dog|Montana del Pirineo|Gran pirineo;4;38
+Border terrier;;4;37
+Braco alemán de pelo corto;German Shorthaired Pointer;4;37
+Pharaoh hound;Kelb tal Fenek|Pharaon hound;4;37
+Vizsla;Braco hungaro;4;37
+Affenpinscher;;4;37
+Pointer inglés;English Pointer;4;37
+Bergamascas;Bergamasco Shepherd;4;36
+Gordon setter;;4;36
+Perro de Canaán;Canaan Dog;4;36
+Xoloitzcuintle;Perro azteca|Perro sin pelo mexicano|Xolo|Xoloescuintle|Xoloitzcuintli;4;36
+Perro crestado rodesiano;Rhodesian Ridgeback;4;36
+Staffordshire bull terrier;Staffordhire Bull Terrier|Staffordshire Terrier;4;36
+corgi galés;;4;36
+Bedlington terrier;;4;35
+bulldog americano;American Bulldog;4;35
+Collie barbudo;Bearded Collie;4;35
+Beauceron;;4;35
+Pastor de Brie;Briard;4;35
+Crestado chino;Chinese Crested Dog;4;35
+Spaniel bretón;Brittany|American Brittany Spaniel|Brittany Spaniel;4;35
+Pastor islandés;Icelandic Sheepdog|Islenskur Fjárhundur;4;35
+spitz finlandés;Finnish Spitz;4;34
+Bichón boloñés;Bolognese;4;34
+Braco alemán de pelo duro;German Wirehaired Pointer|Drahthaar|Perro de muestra aleman de pelo duro;4;34
+Epagneul papillón;Papillon;4;34
+Hovawart;;4;34
+leonberger;;4;34
+Lebrel italiano;Italian Greyhound|Piccolo Levriero Italiano|Pequeno lebrel italiano|Galgo italiano|Lebrel italiano pequeño;4;34
+Perro de Groenlandia;Greenland Dog;4;34
+Terrier tibetano;Tibetan Terrier;4;34
+Pastor de Maremma;Abruzzo-Maremma Sheepdog;4;33
+Kelpie Australiano;Australian Kelpie;4;33
+Pastor de Anatolia;Anatolian Shepherd|Perro pastor de anatolia;4;33
+Kerry blue terrier;;4;33
+corgi galés de Pembroke;Pembroke Welsh Corgi;4;33
+Canis lupus hallstromi;New Guinea singing dog|Canis hallstromi|perro cantor de nueva guinea;4;33
+Terrier galés;Welsh Terrier;4;33
+Fila brasileiro;Cão de Fila|Fila brasileno|Fila brasilero;4;32
+Aïdi;perro de montaña del Atlas;4;32
+Pastor blanco suizo;White Swiss Shepherd|Pastor suizo blanco|Berger Blanc Suisse Pastor Blanco Suizo|Berger Blanc Suisse;4;32
+Spitz japonés;Japanese Spitz;4;32
+Spaniel japonés;Japanese Chin;4;32
+Kuvasz;Kuvaszok;4;32
+Retriever de Nueva Escocia;Nova Scotia Duck Tolling Retriever;4;32
+perro de pastor yugoslavo de Charplanina;Yugoslavian Shepherd Dog|Sarplaninac;4;32
+foxhound americano;American foxhound;4;31
+Terrier de Australia;Australian Terrier;4;31
+Perro esquimal americano;American Eskimo Dog|American Eskimo;4;31
+Terrier alemán;Jagdterrier;4;31
+coton de Tuléar;;4;31
+Cão de água português;Portuguese water dog|Perro de agua portugués;4;31
+Collie de pelo largo;Rough Collie|lassie;4;31
+Pumi;;4;31
+Skye terrier;;4;31
+Pastor Català;Catalan Sheepdog;4;30
+Silky terrier australiano;Australian Silky Terrier|Silky terrier;4;30
+Pinscher alemán;German Pinscher;4;30
+Perro de agua americano;American Water Spaniel;4;30
+Lebrel escocés;Scottish Deerhound|Deerhound;4;30
+perro de osos de Carelia;Karelian Bear Dog|Karjalankarhukoira;4;30
+German Spitz;;4;30
+cazador de alces noruego;Norwegian Elkhound|Elkhound noruego;4;30
+Pastor de Valée;Polish Lowland Sheepdog;4;30
+Grifón de Bruselas;Griffon Bruxellois;4;30
+Shikoku Inu;Shikoku Ken;4;30
+Spaniel tibetano;Tibetan Spaniel;4;30
+Saarloos wolfdog;perro enojon;4;30
+Hokkaido;Hokkaido inu|Shita|Ainu-ken|Dō-ken|Seta;4;29
+Spaniel de campo;Field Spaniel;4;29
+Terrier americano sin pelo;American Hairless Terrier;4;29
+Foxhound inglés;English Foxhound;4;29
+Sloughi;;4;29
+Akbash;Akbash Dog;4;29
+Braco italiano;Bracco Italiano;4;29
+Manchester terrier;;4;29
+Buhund noruego;Norwegian Buhund;4;29
+Terrier ruso negro;Black Russian Terrier;4;29
+mudi;;4;29
+Schipperke;;4;29
+Springer spaniel inglés;English Springer Spaniel;4;28
+perro esquimal canadiense;Canadian Eskimo Dog;4;28
+retriever de Chesapeake;Chesapeake Bay Retriever;4;28
+perro finlandés de Laponia;Finnish Lapphund|perro pastor finlandés;4;28
+Cobrador de pelo liso;Flat-Coated Retriever|Retriever de pelo liso;4;28
+Lakeland terrier;;4;28
+Gran boyero suizo;Greater Swiss Mountain Dog;4;28
+Alaskan Klee Kai;;4;28
+Pinscher austríaco;Austrian Pinscher;4;28
+Terrier brasileño;Brazilian Terrier|Terrier Brasileiro;4;28
+Terrier de Norfolk;Norfolk Terrier;4;28
+Sealyham terrier;;4;28
+corgi galés de Cardigan;Cardigan Welsh Corgi;4;27
+pastor holandés;Dutch Shepherd;4;27
+Broholmer;;4;27
+Clumber spaniel;;4;27
+Boyero de Flandes;Bouvier des Flandres|Bouvier|Vuilbaard|Toucheur de Boeuf;4;27
+Eurasier;;4;27
+Yakutian Laika;;4;27
+Perro de agua irlandés;Irish Water Spaniel;4;27
+Kai;Kai Ken;4;27
+Dandie Dinmont terrier;Dandie Dinmont;4;27
+Kishu;;4;27
+Pastor belga groenendael;Groenendael;4;27
+Perro Pastor Kangal;Kangal Shepherd Dog;4;27
+Keeshond;Wolfspitz;4;27
+Pastor de Bosnia-Herzegovina y Croacia;Tornjak|Pastor Croata;4;27
+jindo coreano;Korean Jindo Dog;4;26
+Barbet;;4;26
+Boerboel;;4;26
+Berger Picard;Picardy Shepherd;4;26
+Alano español;Alaunt;4;26
+Pequeño perro león;Löwchen;4;26
+Volpino italiano;;4;26
+Pastor del sur de Rusia;Ukrainian Vivcharka;4;26
+Spaniel holandés;Kooikerhondje;4;26
+Parson Russell terrier;;4;26
+Lundehund;Norwegian Lundehund;4;26
+Terrier de Norwich;Norwich Terrier;4;26
+perro mestizo;mongrel|quiltro|sato;4;26
+Spinone;Spinone Italiano;4;26
+schnauzer estándar;Standard Schnauzer|schnauzer medio;4;26
+Dachsbracke de los Alpes;Alpine Dachsbracke|Tejonero de los Alpes|Alpenländische Dachsbracke;4;25
+Boyero de Appenzell;Appenzeller Sennenhund;4;25
+Terrier inglés miniatura;English Toy Terrier;4;25
+spaniel alemán;German Spaniel;4;25
+Toy spaniel inglés;King Charles Spaniel|English toy spaniel|Toy spaniel;4;25
+Glen of Imaal Terrier;;4;25
+Cirneco del Etna;Cirneco dell'Etna;4;25
+Perro pastor croata;Croatian Sheepdog|Hrvatski Ovčar;4;25
+Terrier checo;Cesky Terrier;4;25
+Münsterländer grande;Large Münsterländer;4;25
+perro sin pelo del Perú;Peruvian Hairless Dog|perro calato|viringo|perro sin pelo peruano|perro peruano sin pelo|perro peruano|perro Chimú;4;25
+perro de agua de Romagna;Lagotto Romagnolo;4;25
+Otterhound;Rastreador de Nutrias;4;25
+Cuvac eslovaco;Slovak Cuvac;4;25
+Vallhund sueco;Swedish Vallhund;4;25
+Pastor de Tatra;Tatra Shepherd Dog;4;25
+Sussex spaniel;;4;25
+Laika de Siberia Occidental;West Siberian Laika;4;25
+Fox terrier de pelo duro sofi fea;Wire Fox Terrier;4;25
+Lebrel polaco;Polish Greyhound;4;25
+Pastor de los Cárpatos;Carpathian Shepherd Dog;4;24
+Collie;Pastor escocés|Colley;4;24
+Akita Americano;American Akita;4;24
+Black and tan coonhound;Coonhound|American black and tan coonhound;4;24
+sabueso de Dunker;Dunker;4;24
+Pastor de Karst;Karst Shepherd;4;24
+terrier japonés;Japanese Terrier;4;24
+Irish soft coated wheaten terrier;Soft-coated Wheaten Terrier;4;24
+Cão da Serra da Estrela;Estrela Mountain Dog;4;24
+perro cazador de alces sueco;Jämthund;4;24
+pastor lapón;Lapponian Herder|pastor finlandés de Laponia;4;24
+Retriever de pelo rizado;Curly Coated Retriever|Cobrador de pelo rizado;4;24
+Lebrel húngaro;Magyar agár;4;24
+perro miniatura ruso;Russkiy Toy|pequeño perro ruso;4;24
+American bully;;4;24
+perro de agua frisón;Wetterhoun;4;23
+Sabueso bávaro de montaña;Bavarian Mountain Hound;4;23
+Cão da Serra de Aires;Portuguese Sheepdog|Perro de la Sierra de Aires;4;23
+Drever;;4;23
+Pastor belga laekenois;Laekenois;4;23
+Pastor inglés;English Shepherd;4;23
+Perro de muestra alemán de pelo largo;German Longhaired Pointer;4;23
+Boyero de Entlebuch;Entlebucher Mountain Dog;4;23
+Sabueso de Transilvania;Transylvanian hound;4;23
+East Siberian Laika;;4;23
+Pudelpointer;;4;23
+Springer spaniel galés;Welsh Springer Spaniel;4;23
+Porcelana;Porcelaine;4;23
+Ridgeback tailandés;Thai Ridgeback;4;23
+perdiguero frisón;Stabijhoun;4;23
+Greek Shepherd;;4;22
+Catahoula Leopard Dog;;4;22
+perro de granja danés y sueco;Danish Swedish Farmdog;4;22
+Antiguo perro de muestra danés;Old Danish Pointer|Gammel dansk hønsehund;4;22
+Pastor australiano Stumpy Tail;Australian Stumpy Tail Cattle Dog;4;22
+fox terrier ratonero;Toy Fox Terrier;4;22
+Perro de pastor mallorquín;Majorca Shepherd Dog|Ca de bestiar;4;22
+Chinook;;4;22
+sabueso finlandés;Finnish Hound;4;22
+sabueso de Hamilton;Hamiltonstövare;4;22
+harrier;;4;22
+perdiguero portugués;Portuguese Pointer|Perdigueiro Portugues;4;22
+Sabueso polaco;Polish Hound|Ogar Polski;4;22
+perro guardián de Moscú;Moscow Watchdog;4;22
+Pastor belga tervuerense;Tervuren|Pastor belga tervueren;4;22
+Fox terrier de pelo liso;Smooth Fox Terrier;4;22
+Ratonero de Praga;Pražský Krysařík;4;22
+Podenco canario;;4;22
+Pastor lapón de Suecia;Swedish Lapphund;4;22
+Laika ruso europeo;Russo-European Laika;4;22
+Africanis;;4;22
+Perro de montaña de Formosa;Formosan Mountain Dog;4;21
+Sabueso del Ariège;Ariégeois;4;21
+Braco de Borbón;Braque du Bourbonnais|Bourbonnaiser vorstehhund|Bourbonnais'nseisoja|Bourbonnais pointer|Braco de Bourbonnais|Braco del Borbonesado|Braque de Bourbon;4;21
+Billy;;4;21
+Perro dogo mallorquín;Perro de Presa Mallorquin|Ca de Bou|Dogo mallorquin;4;21
+Perro de Carolina;Carolina Dog|dingo americano;4;21
+Braco de Auvernia;Braque d'Auvergne;4;21
+Boyero de las Árdenas;Bouvier des Ardennes;4;21
+pastor bohemio;Bohemian Shepherd|Chodský Pes|Berger de Boheme;4;21
+Gran sabueso azul de Gascuña;Great Gascony Blue;4;21
+Spaniel azul de Picardía;Blue Picardy Spaniel;4;21
+perdiguero de Drenthe;Drentse Patrijshond;4;21
+Pastor rumano de Bucovina;Bucovina Shepherd Dog;4;21
+Bull Terrier Miniatura;Miniature Bull Terrier;4;21
+spaniel picardo;Picardy Spaniel;4;21
+Münsterländer pequeño;Small Münsterländer;4;21
+Kopov eslovaco;Slovenský kopov;4;21
+Kromfohrländer;;4;21
+Grifón Korthal;Wirehaired Pointing Griffon|Grifón kourthal;4;21
+Rafeiro do Alentejo;;4;21
+Sabueso español;;4;21
+spaniel francés;French Spaniel;4;20
+Basset azul de Gascuña;Basset Bleu de Gascogne|Azul de Gascuña pequeño;4;20
+Briquet Griffon Vendéen;;4;20
+Braco de Ariège;Ariege Pointer;5;20
+Cesky Fousek;;5;20
+Hortaya borzaya;Chortai;5;20
+Sabueso artesiano;Artois Hound|Basset de Artois;5;20
+Sabueso de sangre de Baviera;Deutsche Bracke|Sabueso alemán;5;20
+Boykin spaniel;;5;20
+Sabueso de Halden;Halden Hound;5;20
+Sabueso de Hannover;Hanover Hound;5;20
+Perro de Castro Laboreiro;Portuguese Cattle Dog|Castro Laboreiro|Cão de Castro Laboreiro;5;20
+Karakachan;Karakachan Dog;5;20
+Pastor de Europa del Este;East-European Shepherd;5;20
+Spitz de Norrbotten;Norrbottenspets;5;20
+podenco portugués;Portuguese Podengo|Podengo Português;5;20
+Phalène;;5;20
+Kintamani;;5;19
+Basset leonado de Bretaña;Fawn Brittany Basset;5;19
+Pastor rumano de Mioritza;Mioritic;5;19
+Pont-Audemer spaniel;Spaniel de Pont-Audemere;5;19
+Ratonero holandés;Dutch Smoushond;5;19
+Lancashire Heeler;;5;19
+Sabueso helénico;Greek Harehound;5;19
+Setter irlandés rojo y blanco;Irish Red and White Setter;5;19
+Rat Terrier;;5;19
+Collie de pelo corto;Smooth Collie;5;19
+Patterdale Terreir;Patterdale Terrier;5;19
+cazador de alces noruego negro;Black Norwegian Elkhound;5;19
+Grifón vandeano basset pequeño;Petit Basset Griffon Vendéen|Grifón vandeano pequeño;5;19
+Braco de Saint Germain;Braque Saint-Germain;5;18
+Chongqing perro chino;Chinese Chongqing Dog;5;18
+Sabueso bosnio;Barak hound;5;18
+Cão de Fila de São Miguel;Azores Cattle Dog;5;18
+Grifón azul de Gascuña;Blue Gascony Griffon;5;18
+poitevin;Poitevin hound;5;18
+Bolonka;Russkaya tsvetnaya bolonka;5;18
+Grifón nivernais;Griffon Nivernais;5;18
+Sabueso de Istria de pelo corto;Istrian Shorthaired Hound;5;18
+Perro cazador de Estonia;Estonian Hound;5;18
+Sabueso de Smaland;Smaland Hound;5;18
+Redbone coonhound;;5;18
+Schapendoes;;5;18
+Taigan;;5;18
+Braco húngaro de pelo duro;Wirehaired Vizsla|Drotzörü Magyar Vizsla;5;18
+Molossus;Molossian hound;5;17
+Pungsan;;5;17
+Buryat-Mongolian Wolfhound;;5;17
+Beagle-Harrier;;5;17
+Alapaha Blue Blood Bulldog;;5;17
+Basset artesiano de Normandía;Basset Artésien Normand;5;17
+Sabueso serbio;Serbian Hound;5;17
+Biewer yorkshire terrier;Biewer Terrier;5;17
+Blue Lacy;;5;17
+Grifón de pelo duro;Stichelhaar;5;17
+Gran Grifón Vendeano;Grand Griffon Vendéen;5;17
+Rampur Greyhound;;5;17
+Perdiguero de Burgos;Burgos Retriever;5;17
+Rajapalayam;;5;17
+Schweizer Laufhund;;5;17
+Sabueso de Posavaz;Posavac Hound|Posavski Gonic;5;17
+Slovenský hrubosrstý stavac;Slovakian Rough-haired Pointer|Braco eslovaco de pelo duro;5;17
+Sapsali;;5;16
+Bluetick coonhound;;5;16
+Mudhol Hound;;5;16
+Alangu;Bully Kutta;5;16
+Sabueso serbio tricolor;Serbian Tricolour Hound|Sabueso yugoslavo tricolor;5;16
+Bangkaew Tailandés;Thai Bangkaew Dog;5;16
+grand basset griffon vendéen;Large Vendeen Griffon Basset;5;16
+petit bleu de Gascogne;;5;16
+Gampr armenio;Armenian Gampr dog;5;16
+Sabueso Schiller;Schillerstövare;5;16
+Tejonero de Westfalia;Westphalian Dachsbracke;5;16
+Nureongi;;5;15
+sabueso austríaco negro y castaño;Austrian Black and Tan Hound;5;15
+Aksaray Malakli;Aksaray Malaklisi;5;15
+Laika de Karelia;Karelo-Finnish Laika;5;15
+Perro cimarrón uruguayo;Cimarrón Uruguayo|Perro Cimarron|Perro Cimarrón/Gozque;5;15
+Chippiparai;;5;15
+bulldog continental;continental bulldog;5;15
+Grifón leonado de Bretaña;Fawn Brittany Griffon;5;15
+Hygenhund;Hygen Hound;5;15
+Perro de caza polaco;Polish Hunting Dog|Gonczy Polski;5;15
+Kritikos Lagonikos;Cretan Hound;5;15
+Kazakh tazy;;5;15
+Olde English Bulldogge;;5;15
+sabueso montañés montenegrino;Montenegrin Mountain Hound;5;15
+Plott hound;;5;15
+Sabueso estirio de pelo áspero;Styrian Coarse-haired Hound;5;15
+Treeing walker coonhound;;5;15
+ovejero galés;Welsh Sheepdog;5;15
+Pariah dog;;5;14
+Petit brabançon;;5;14
+Terrier Black and Tan;Black and Tan Terrier;5;14
+Sulimov dog;;5;14
+Inglés Americano Coonhound;American English Coonhound;5;14
+Braco de Puy;Braque du Puy;5;14
+Grifón belga;Griffon Belge;5;14
+ratonero valenciano;Gos Rater Valencià|Perro ratonero valenciano;5;14
+Huntaway;;5;14
+Sabueso francés tricolor;French Tricolour Hound|Chien Français Tricolore;5;14
+Bull and Terrier;;5;14
+Perro de pelea cordobés;Cordoba Fighting Dog|canario Rpaz;5;14
+Spitz indio;Indian Spitz;5;14
+Pastor del Himalaya;Himalayan Sheepdog;5;14
+Perro lobo de Kunmíng;Kunming wolfdog;5;14
+Braco tirolés;Tyrolean Hound;5;14
+Russian Spaniel;;5;14
+Silken Windhound;;5;14
+Pachón navarro;Antiguo Perro de Muestra Español;5;14
+Miniature American Shepherd;;5;14
+Xiasi Dog;;5;13
+Chien de Trait Belge;Belgian Mastiff;5;13
+Danish Spitz;;5;13
+Perro pila argentino;Argentine Pila Dog;5;13
+Mastín de Tras os Montes;Cão de gado transmontano;5;13
+Telomian;;5;13
+Braco francés;Braque Français;5;13
+markiesje;Dutch Tulip Dog;5;13
+Rastreador brasileño;Rastreador-brasileiro|Rastreador brasilero;5;13
+Sabueso de Istria de pelo duro;Istrian Coarse-haired Hound;5;13
+Black Mouth Cur;;5;13
+Terrier chileno;Chilean Fox Terrier|Fox Terrier Chileno;5;13
+Kanni;;5;13
+Crestados de Phu Quoc;Phu Quoc ridgeback dog;5;13
+Kokoni;;5;13
+Scotch Collie;;5;13
+Macedonian Karaman;;5;12
+Sabueso italiano;Segugio Italiano;5;12
+perro sin pelo;hairless dog;5;12
+combai;;5;12
+Can de palleiro;Can de palheiro;5;12
+Alopekis;;5;12
+pastor cuervo rumano;Romanian Raven Shepherd Dog;5;12
+Gascon Saintongeois;;5;12
+Perro lobo italiano;Lupo Italiano;5;12
+Sabueso francés blanco y negro;Chien Français Blanc et Noir;5;12
+Bulldog Campeiro;Campeiro Bulldog;5;12
+English Water Spaniel;;5;12
+Pequeño sabueso de Suiza;Schweizerischer Niederlaufhund|Sabueso suizo;5;12
+Segugio italiano de pelo raso;;5;12
+Limer;;5;12
+Perro de aguas de Moscú;Moscow Water Dog;5;12
+perro de agua cantábrico;Cantabrian Water Dog;5;11
+Nenets Herding Laika;;5;11
+Perro majorero;;5;11
+Bakharwal;Bakharwal Dog;5;11
+Cursinu;;5;11
+Armant dog;;5;11
+Kerry Beagle;;5;11
+Bruno del Jura;Bruno Jura Hound;5;11
+Podenco andaluz maneto;Maneto;5;11
+Sabueso francés blanco y naranja;Français Blanc et Orange;5;11
+pastor georgiano;Georgian Shepherd;5;11
+Gran sabueso anglo-francés blanco y negro;Great Anglo-French White and Black Hound;5;11
+Gran sabueso anglo-francés blanco y naranja;Great Anglo-French White and Orange Hound;5;11
+Kleinspitz;;5;11
+Koolie;;5;11
+Tenterfield Terrier;;5;11
+Shiloh Shepherd;;5;11
+Talbot;;5;11
+Teddy Roosevelt Terrier;;5;11
+Saint-Usuge Spaniel;;5;11
+German Spitz Mittel;;5;11
+Zerdava;;5;11
+Grifón;griffon;5;10
+Bull Arab;;5;10
+Leavitt Bulldog;;5;10
+Silken Windsprite;;5;10
+Perro Fino Colombiano;;5;10
+Sabueso de Maremma;Segugio Maremmano;5;10
+Abyssinian Sand Terrier;;5;10
+Pastor Persa;Sarabi Mastiff|Azerbaiyan Mastiff|moloso;5;10
+Morkie;;5;10
+Welsh Hound;;5;10
+Ratero mallorquin;Mallorcan ratter|Ratonero Mallorquin|Rater mallorqui|Ca rater mallorquí;5;10
+mucuchíes;;5;10
+Pastor garafiano;Perro de pastor garafiano;5;10
+Chukotka sled dog;;5;10
+Treeing Tennessee Brindle;;5;10
+Lithuanian Hound;;5;10
+Paisley terrier;;5;10
+Villano de Las Encartaciones;;5;10
+Manchester terrier miniatura;Toy Manchester Terrier;5;10
+Hälleforshund;;5;10
+Pastor ovejero gaucho;Gaucho sheepdog;5;10
+podenco valenciano;Xarnego Valenciano;5;10
+Perro yagán;Fuegian dog;5;10
+Techichi;;5;10
+Pampas Deerhound;;5;9
+Pastor blanco;White Shepherd Dog;5;9
+Perro lobo herreño;Lobito Herreño;5;9
+Dong-gyeong;;5;9
+Lucas Terrier;;5;9
+Cão de Fila da Terceira;Terceira Mastiff|Perro de presa de la isla Tercera|Perro de fila de la Tercera;5;9
+Dogo brasileño;Dogue Brasileiro;5;9
+Bohemian Spotted Dog;;5;9
+Perro celta de caza;Celtic Hounds;5;9
+Can de chira;;5;9
+Sabueso de Bulgaria;Bulgarian Scenthound;5;9
+Griffon à poil laineux;;5;9
+Alsaciano americano;American Alsatian;5;9
+Mastín americano;American Mastiff;5;9
+Dogo guatemalteco;Guatemalan Dogo;5;9
+Mountain Cur;;5;9
+King Shepherd;;5;9
+Stephens Cur;;5;9
+Sabueso italiano de pelo duro;Italian Rough-haired Segugio|Segugio Italiano a pelo forte;5;9
+American Leopard Hound;;5;9
+Jeju dog;;5;9
+Ryukyu Inu;;5;9
+Ovejero Patagón o Barbucho;Patagonian Sheepdog;5;9
+Barbado da Terceira;;5;8
+American Staghound;;5;8
+Gull Terr;;5;8
+Northern Inuit Dog;;5;8
+Český horský pes;;5;8
+Perro calvo dorado ecuatoriano;Ecuadorian Hairless Dog;5;8
+Kurdish Mastiff;;5;8
+Polish Hunting Spaniel;;5;8
+Calupoh;Perro Lobo Mexicano;5;8
+Catalburun;Tarsus Çatalburun;5;8
+Perro Pastor de Mantiqueira;Mantiqueira Shepherd;5;7
+Pomsky;;5;7
+Serrano Bulldog;;5;7
+Moloso del Epiro;Molossus of Epirus;5;7
+Russian Hound;;5;7
+Tonya Finosu;;5;7
+Hmong bobtail dog;;5;7
+Greyster;;5;7
+Podengo Galego;;5;7
+Braco francés, tipo Pirineos;French Pointing Dog - Pyrenean type;5;7
+Großspitz;;5;7
+Tong gau;;5;7
+Segugio dell'Appennino;;5;7
+Dogo de Cerdeña;Pastore Fonnese;5;7
+Dogo español;chato español|perro de toro|presa español|Spanish bulldog;5;7
+Bulgarian Hound;;5;7
+Bernese hound;;5;7
+Villanuco de Las Encartaciones;Ratonero Basco;5;7
+Dogo Sardesco;;5;7
+Treeing Cur;;5;7
+Svensk vit älghund;;5;7
+Original Fila Brasileiro;;5;7
+Pit Monster;;5;7
+Miniature Fox Terrier;;5;7
+Barrocal Algarvio;;5;7
+Sarail hound;;5;6
+Xigou;;5;6
+Tatranský durič;;5;6
+Lài dog;;5;6
+Laizhou Red Dog;;5;6
+Dikkulak;;5;6
+African village dog;;5;6
+New Zealand Heading Dog;;5;6
+Briquet de Provence;;5;6
+Bakhmull;;5;6
+Levesque;;5;6
+odis;;5;6
+Ratonero murciano;Murcian Ratter;5;6
+Perro tahitiano;Tahitian Dog;5;6
+Small Međimurje Dog;;5;6
+Medelyan;;5;6
+jonangi;;5;6
+Gull Dong;;5;6
+Ca de Conills;;5;6
+Cane Toccatore;;5;6
+perdiguero mallorquín;Ca Mè Mallorquí|ca mè;5;6
+Majestic Tree Hound;;5;6
+Treeing Feist;;5;6
+Berger de Savoie;Savoy Sheepdog;5;6
+Hedehund;;5;5
+Buckhound;;5;5
+Staghound;;5;5
+Welsh Hillman;;5;5
+Valdueza;;5;5
+Kawakami Ken;;5;5
+Westfal Terrier;;5;5
+Erbi Txakur;;5;5
+Bulgae;;5;5
+Miniature Shar Pei;;5;5
+Guzui;Bone-mouth;5;5
+Perdigueiro Galego;;5;5
+Smithfield;;5;5
+Rize Koyun;;5;5
+Pandikona;;5;5
+Sila Shepherd;;5;5
+Borador;;5;5
+French Charnaigre Dog;;5;5
+Polynesian Dog;;5;5
+Bisben;;5;5
+Lucernese Hound;;5;5
+Chinese Imperial Dog;;5;5
+Murray River Curly Coated Retriever;;5;5
+Old Croatian Sighthound;;5;5
+Schwyz Hound;;5;5
+Gotland Hound;;5;5
+American Wolfdog;;5;5
+Bulgarian Shepherd Dog;;5;5
+Cobberdog Australiano;Australian Cobberdog;5;5
+Old Welsh Grey Sheepdog;;5;5
+Sporting Lucas Terrier;;5;5
+Perro polar argentino;Argentine Polar Dog;5;5
+Kars dog;;5;4
+Perro pastor de los Pirineos de pelo largo;Pyrenean Sheepdog Long-haired|Chien de Berger des Pyrénées à poil long;5;4
+venado nacional;National Deerhound;5;4
+Anglo-Russian Hound;;5;4
+Ratonero Palmero;;5;4
+Mi-Ki;;5;4
+Perro Pampa Argentino;;5;4
+Norman Hound;;5;4
+West Country Harrier;;5;4
+Liangshan Dog;;5;4
+Iwate Inu;;5;4
+Poodle toy;Toy Poodle|Caniche toy;5;4
+Borneo dog;;5;4
+Basati alaunt;Presa navarro;5;4
+Fu Quan;;5;4
+Guicho;;5;4
+Mojee;;5;4
+Meitei Hui;;5;4
+Razas caninas oficiales en estados de Estados Unidos;U.S. state dogs;5;4
+Grande Gascon Saintongeois;Grand Gascon Saintongeois;5;4
+American Blue Gascon Hound;;5;4
+Pastor de los Pirineos de cara rasa;Pyrenean Sheepdog Smooth-faced|Chien de Berger des Pyrénées a face rase;5;4
+Seskar Seal Dog;;5;4
+Tibetan kyi apso;;5;4
+Königsberger Paukenhund;;5;4
+Lapponian Shepherd;;5;4
+Bull-mastiff brasileiro;Brazilian Bull-mastiff;5;4
+Zuchon;;5;4
+Vaghari Dog;;5;4
+Sanshu;;5;4
+Anatolian Greyhound;;5;4
+Sertanejo Dog;;5;4
+Lessinia and Lagorai Shepherd;;5;4
+Grecian Greyhound;;5;4
+Sicilian Sheepdog;;5;4
+Harlekinpinscher;Harlequin Pinscher;5;4
+Australasian Bosdog;;5;4
+cierny sery;Black Slovakian Shepherd;5;4
+Waller;Waeller;5;4
+Pequeño Gascon Saintongeois;Petit Gascon Saintongeois;5;4
+Seppala Siberian Sleddog;;5;4
+Double-nosed Andean tiger hound;;5;4
+Dumfriesshire Hound;;5;4
+Chuandong Hound;;5;4
+Basset d’Artois;;5;4
+Bolonka Franzuska;;5;4
+Braque Belge;Belgian Pointer;5;4
+Chorkie;;5;4
+Berger de Crau;;5;3
+Serbian sheep dog;;5;3
+Dogo Chileno;Chilean Dogo;5;3
+Chien Blanc du Roi;;5;3
+Silky Spitz;;5;3
+Clallam-Indian Dog;;5;3
+Circassian Orloff Wolfhound;;5;3
+Trailhound;;5;3
+Naga Dog;;5;3
+Latvian Hound;;5;3
+Red Decoy Dog;;5;3
+Satsuma Dog;;5;3
+Australian Staghound;;5;3
+Labrit;;5;3
+Mâtin;;5;3
+Ramanadhapuram Mandai;;5;3
+Patti;;5;3
+Langqing Quan;;5;3
+Kunma Dog;;5;3
+gråhund;;5;3
+Steinbracke;;5;3
+Turkmen Alabai;;5;3
+Hairless Khala;;5;3
+North-Easthrly Haaling Laika;;5;3
+Irish Staffordshire Bull Terrier;;5;3
+Carea Castellano Manchego;;5;3
+normand-poitevin;;5;3
+Pulin;;5;3
+Auvergne Shepherd;;5;3
+Spino siciliano;;5;3
+Chinese Happa Dog;;5;3
+Valley Bulldog;;5;3
+Miniature Australian Shepherd;;5;3
+Antebellum Bulldog;;5;3
+Black and Tan Virginia Foxhound;;5;3
+Schafpudel;;5;3
+Mastín de Borinquen;Gran Mastín de Borínquen;5;3
+Berner Laufhund;;5;3
+White English Bulldog;;5;3
+Pastor americano;;5;3
+Mastín afgano;Afghan mastiff;5;3
+Collie de granja;Farm collie;5;3
+Tuvinskaya ovcharka;;5;3
+Branchiero siciliano;;5;3
+Bullbras;;5;3
+Working Pit Bulldog;;5;3
+American Working Red;;5;3
+Raza canina poco frecuente;Rare breed;5;3
+Segugio Cravin;;5;3
+Berger du Languedoc;;5;3
+Grand Fauve de Bretagne;;5;3
+Lakeland Foxhound;;5;2
+Shepweiler;;5;2
+Chambray;;5;2
+Beskydský bundáš;;5;2
+Izcuintli, itzcuintli;;5;2
+West Greenland Dog;;5;2
+Egyptian Hairless Dog;;5;2
+Australian Barb;;5;2
+Aurora Husky;;5;2
+Canis Pantera;Canis Panther;5;2
+Comforter;;5;2
+Cyprus Poodle;;5;2
+Klamath-Indian Dog;;5;2
+Gredin Spaniel;;5;2
+Common Indian Dog;;5;2
+Colima Dog;;5;2
+Zanzibar Greyhound;;5;2
+Shakhi;;5;2
+Braque Charles X;;5;2
+Shropshre Terrier;;5;2
+Shilluk Greyhound;;5;2
+Strathdoon dingo killer;;5;2
+Sioux Dog;;5;2
+St. Domingo Dog;;5;2
+St. Hubert Jura Hound;;5;2
+tumbler;;5;2
+Timber-wolf Dog;;5;2
+Dinka Greyhound;;5;2
+Toy Bull Terrier;;5;2
+Tripuri Dog;;5;2
+dropper;;5;2
+Zande Dog;;5;2
+Nootka Dog;;5;2
+Indian Husky;;5;2
+Han Dog;;5;2
+Batak Dog;;5;2
+Bisharin Greyhound;;5;2
+Plains-Indian Dog;;5;2
+Bajan Toy Terrier;;5;2
+Poltalloch Terrier;;5;2
+Llewellin Setter;;5;2
+Rothbury Terrier;;5;2
+Pueblo Dog;;5;2
+mastín asirio;Assyrian Mastiff;5;2
+Koshikiyama Inu;;5;2
+Jōmon Dog;;5;2
+White Greek sheepdog;;5;2
+podenco palmero;;5;2
+St. Hubert;;5;2
+pocket beagle;;5;2
+Welsh Black-and-Tan Sheepdog;;5;2
+Welsh Blue-Grey;;5;2
+Lyme Mastiff;;5;2
+galgo barbucho patagónico;Patagonian Bearded Greyhound;5;2
+miniature dachshund;;5;2
+laconio;Laconian;5;2
+Mexican lapdog;;5;2
+Kattai dog;;5;2
+Black Spitz;;5;2
+Pastor del oso;;5;2
+Boz Shepherd;;5;2
+Decker Terrier;;5;2
+Beaglier;;5;2
+Albanian Wolfdog;;5;2
+Anglo-Spanish Greyhound;;5;2
+Bichon Chipriota;;5;2
+Lottatore Brindisino;;5;2
+Perro Chamuco;Chamuco|Pitbull mexicano;5;2
+Poochon;;5;2
+Strobel;;5;2
+Boerenfox terrier;;5;2
+Kitler;;5;2
+gegar colombiano;Gegar;5;2
+Damchi;;5;2
+Cane Pecoraio Varbutu;;5;2
+Hungarian sheepdog;;5;2
+Mountain View Cur;;5;2
+Korean Mastiff;;5;2
+Pardog;;5;2
+Gos d'atura aranès;;5;2
+Continental Toy Spaniel;;5;2
+Boxador;;5;2
+Zagar;;5;2
+Denmark Feist;;5;2
+Ramanathapuram mandai dog;;5;2
+Levriero meridionale;;5;2
+Piccolo Segugio dell'Appennino;;5;2
+Illyrian Shepherd;;5;2
+Gerberian Shepsky;;5;2
+Welsh Harrier;;5;1
+Taimyr;;5;1
+Braco francés, tipo «Gascuña»;French Pointing Dog Gascogne Type;5;1
+aquarius;;5;1
+Indian Tailles Dog;;5;1
+Oriental Shar Pei;;5;1
+Camas Cur;;5;1
+Kentucky Shell Heap Dog;;5;1
+Gorskaja;;5;1
+Sparta Sheepdog;;5;1
+Timon's Biter;;5;1
+Terry;;5;1
+Toy Mi-Ki;;5;1
+Toy Munchkin;;5;1
+Baganda Dog;;5;1
+Bichon Yorkie;;5;1
+Pit Bullmastiff;;5;1
+Fell Hound;;5;1
+Black Pointer;;5;1
+Bullnese;;5;1
+Bull Boxer;;5;1
+Prapsos;;5;1
+Belgian Griffons;;5;1
+Peruvian Inca Orchid;;5;1
+White Collie;;5;1
+Powinder Dog;;5;1
+Maltese Pocket Dog;;5;1
+Maltese Little Lion-dog;;5;1
+Miniature Siberian Husky;;5;1
+Yakki Dog;;5;1
+Ruby Spaniel;;5;1
+Multi-Colored Poodle;;5;1
+Daitō Inu;;5;1
+Yakushima Inu;;5;1
+San'in Shiba Inu;;5;1
+Koshi;;5;1
+Awa Ken;;5;1
+Takayasu Inu;;5;1
+Adirondack Pointing Dog;;5;1
+Inn kwe;;5;1
+Wurttemberg Pointer;;5;1
+Zlatiborski ovčar;;5;1
+Turkish Greyhound;;5;1
+Australian stock dog;;5;1
+Field labrador;;5;1
+Gollie;;5;1
+Medium-sized Anglo-French Hound;;5;1
+Black Norrlandshund;;5;1
+Long-haired Inca Dog;;5;1
+Inca Dog;;5;1
+Poligar Hound;;5;1
+Albanian Mountain Dog;;5;1
+Tibetan Hound;;5;1
+Walker Foxhound;;5;1
+Wire-haired Beagle;;5;1
+Shelburne Terrier;;5;1
+Camus cur;;5;1
+Kemmer stock cur;;5;1
+Mullins' feist;;5;1
+Original Cajun Squirrel Dog;;5;1
+Canadian cur;;5;1
+Russian Setter;;5;1
+Chinese Hound;;5;1
+Victorian Bulldog;;5;1
+Transcaucasian Mountain Dog;;5;1
+Bangara Mastiff;;5;1
+Glenwherry Collie;;5;1
+Cur dog;;5;1
+Water drawer;;5;1
+Philippines Islands Dog;;5;1
+Kanawar Dog;;5;1
+Huslia Husky;;5;1
+Targhee Hound);;5;1
+Ukrainian Sheepdog;;5;1
+Afghan Spaniel;;5;1
+Alicant Dog;;5;1
+Juan Fernández Sheepdog;;5;1
+Pomeranian Wolf-dog;;5;1
+Siberian Sheepdog;;5;1
+Appalachian Sighthound;;5;1
+Kurdistan Greyhound;;5;1
+Friesian Windhund;;5;1
+German Silky Pinscher;;5;1
+Carolina cur;;5;1
+Balla Terrier;;5;1
+Creeper Terrier;;5;1
+Maltese Fox Terrier;;5;1
+Northern terrier;;5;1
+Northwest farm terrier;;5;1
+Laconian Hound;;5;1
+Mountain Feist;;5;1
+South African Mastiff;;5;1
+Deltari ilir;;5;1
+Burmese Spitz Dog;;5;1
+Serbian Yellow Hound;;5;1
+Cojack;;5;1
+Pashmi hound;;5;1
+Karadeniz Shepherd Dog;;5;1
+Französischer Laufhund;French Hound;5;1
+Schwarzer;;5;1
+Alano;;5;1
+Hertha pointer;;5;1
+Cesky Wire-haired Pointing Griffon;;5;1
+Running Walker Coonhound;;5;1
+Shorty Bull;;5;1
+American Squirrel Dog;;5;1
+artésien-normand;;5;1
+Capheaton Terrier;;5;1
+Ameri-Indian Alaskan Husky;;5;1
+Marxdorfer Wolfshund;;5;1
+badger dog;;5;1
+Laobé;;5;1
+Long haired dachshund;;5;1
+wire-haired dachshund;;5;1
+Longhaired Whippet;;5;1
+Agassin;;5;1
+Perro pila;;5;1
+Chihuahua de pelo largo;;5;1
+Pastor de Beauce;;5;1
+Faroese Sheepdog;;5;1
+Kumiş;;5;1
+Old Time Farm Shepherd;;5;1
+westiepoo;;5;1
+Aussiedoodle;;5;0
+Frenchton;;5;0
+Native Irish Pedigree Dog Breeds;;5;0
+Renascence Bulldogge;;5;0
+Agassaei;;5;0
+English bull terrier;;5;0
