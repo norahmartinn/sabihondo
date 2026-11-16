@@ -2365,16 +2365,34 @@ const Fondo = (() => {
       cx.fillStyle = cg; cx.fillRect(0, 0, w, ys);
     }
     // el iceberg: pared de facetas a la izquierda, con la punta fuera del agua
-    const paso = 46, desde = Math.floor(Math.max(-260, top - paso)/paso)*paso;
-    for (let y = desde; y < bot + paso; y += paso){
-      const a = pared(y), b = pared(y + paso), m = (a + b)/2 - w*.06, k = Math.floor(y/paso), hondo = Math.max(0, Math.min(1, y/(TRAMO*10)));
-      const aire = y + paso <= 0;
-      const tonos = aire ? ["#ffffff","#eef6fb","#d9e9f3"] : ["#cfe4f1","#a6c9e0","#8db8d6"];
-      const sombreado = c => hondo && !aire ? "rgb(" + mezcla(rgb(c), [20,48,84], hondo*.7) + ")" : c;
-      poli(cx, [[0,Y(y)],[a,Y(y)],[m,Y(y+paso*.5)],[0,Y(y+paso*.5)]], sombreado(tonos[(k&1)]));
-      poli(cx, [[0,Y(y+paso*.5)],[m,Y(y+paso*.5)],[b,Y(y+paso)],[0,Y(y+paso)]], sombreado(tonos[((k+1)&1)]));
-      poli(cx, [[a,Y(y)],[b,Y(y+paso)],[m,Y(y+paso*.5)]], sombreado(tonos[2]));
+    // una sola pieza: borde irregular, degradado que se oscurece con la hondura y facetas translúcidas encima (sin franjas ni costuras)
+    const paso = 34, desde = Math.floor(Math.max(-260, top - paso*2)/paso)*paso, hasta = bot + paso*2;
+    const azar = k => { const s = Math.sin(k*127.1 + 311.7)*43758.5453; return s - Math.floor(s); };
+    const borde = y => pared(y) + (azar(Math.round(y/paso)) - .5)*w*.022;
+    const hielo = y => y < 0 ? [244,249,252] : mezcla([200,226,240], [20,48,84], Math.max(0, Math.min(1, y/(TRAMO*10)))*.75);
+    const filo = [];
+    for (let y = desde; y <= hasta; y += paso) filo.push([borde(y), y]);
+    const g2 = cx.createLinearGradient(0, 0, 0, h);
+    for (let j = 0; j <= 8; j++){ const yy = top + (bot - top)*j/8; g2.addColorStop(j/8, "rgb(" + hielo(yy) + ")"); }
+    cx.beginPath(); cx.moveTo(0, Y(desde));
+    for (const [x, y] of filo) cx.lineTo(x, Y(y));
+    cx.lineTo(0, Y(hasta)); cx.closePath(); cx.fillStyle = g2; cx.fill();
+    // facetas: triángulos entre dos puntos del borde y uno de dentro, unos con brillo y otros con sombra
+    for (let i = 0; i < filo.length - 1; i++){
+      const [x1, y1] = filo[i], [x2, y2] = filo[i + 1], k = Math.round(y1/paso), r = azar(k + 17);
+      const dentro = Math.min(x1, x2)*(.45 + azar(k + 5)*.3), ym = (y1 + y2)/2 + (azar(k + 9) - .5)*paso;
+      cx.fillStyle = r < .5 ? "rgba(255,255,255," + (.10 + r*.22) + ")" : "rgba(10,30,60," + (.05 + (r - .5)*.18) + ")";
+      cx.beginPath(); cx.moveTo(x1, Y(y1)); cx.lineTo(x2, Y(y2)); cx.lineTo(dentro, Y(ym)); cx.closePath(); cx.fill();
+      if (azar(k + 31) < .35){   // alguna faceta grande hacia el interior
+        const x3 = dentro*(.3 + azar(k + 41)*.3);
+        cx.fillStyle = "rgba(255,255,255," + (.05 + azar(k + 43)*.08) + ")";
+        cx.beginPath(); cx.moveTo(dentro, Y(ym)); cx.lineTo(x2, Y(y2)); cx.lineTo(x3, Y(y2 + paso*.8)); cx.closePath(); cx.fill();
+      }
     }
+    // el filo, con un brillo fino que se apaga en lo hondo
+    cx.lineJoin = "round"; cx.lineWidth = 2;
+    cx.strokeStyle = "rgba(255,255,255," + Math.max(.12, .55 - Math.max(0, top)/(TRAMO*12)) + ")";
+    cx.beginPath(); filo.forEach(([x, y], i) => i ? cx.lineTo(x, Y(y)) : cx.moveTo(x, Y(y))); cx.stroke();
     if (top < 0){   // la punta
       const ys = Y(0), pa = pared(-1);
       poli(cx, [[0,ys],[pa,ys],[pa*.55,ys - 170],[0,ys - 110]], "#eef6fb");
