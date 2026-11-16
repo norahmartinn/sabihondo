@@ -138,6 +138,18 @@ button{font:inherit;color:inherit;background:none;border:none;cursor:pointer;tou
 .icono-inicio img{width:76px;height:76px;border-radius:18px;box-shadow:0 6px 14px -6px rgba(8,28,56,.55)}
 .icono-inicio span{color:#fff;font-size:14px;font-weight:600;letter-spacing:.01em;text-shadow:0 1px 2px rgba(0,0,0,.35)}
 .ojo-safari{margin:16px 0 4px;padding:12px 14px;border-radius:14px;background:#fde3ee;color:#8f1f4f;font-size:.98rem;line-height:1.4}
+/* aviso del modo nuevo (Contrarreloj) y su botón en la portada */
+.aviso-cr{text-align:center}
+.aviso-cr .nuevo-pill{display:inline-block;font-weight:800;font-size:13.5px;background:var(--boya-suave);color:#cb3b78;border-radius:999px;padding:3px 12px}
+.aviso-cr h2{margin:10px 0 8px}
+.aviso-cr p b{color:#cb3b78}
+.cr-escena{position:relative;height:130px;border-radius:16px;background:linear-gradient(#3f8fb8,#0e2f52);overflow:hidden;margin:16px 0 18px}
+.cr-escena img{position:absolute;height:auto}
+.aviso-cr .botonera{flex-direction:column;align-items:stretch;gap:6px;margin-top:20px}
+.aviso-cr .botonera .btn{justify-content:center}
+.btn.btn-cr{position:relative;padding-inline:20px;gap:10px}
+.btn-cr img{height:24px;width:auto;display:block}
+.btn-cr .punto-nuevo{position:absolute;top:-5px;right:-5px;width:13px;height:13px;border-radius:50%;background:var(--boya);box-shadow:0 0 0 2.5px #fbf7f2}
 .chapas-metros{display:grid;gap:8px;margin:16px 0 4px}
 .chapa-metros{display:flex;justify-content:space-between;align-items:center;border-radius:14px;padding:11px 14px;color:var(--nt);background:var(--nc);font-weight:700;font-variant-numeric:tabular-nums}
 .chapa-metros .m{display:flex;gap:9px;align-items:baseline}
@@ -1147,6 +1159,10 @@ function portada(){
     setTimeout(() => { if (pantalla === "portada" && topPendiente()) topSemana(true); }, 700);
   }
 
+  else if (quiereCr()){
+    guarda.set("cr:aviso", true);
+    setTimeout(() => { if (pantalla === "portada") avisoCr(); }, 700);
+  }
   else if (quiereMetros()){
     guarda.set("metros:"+AVISO_METROS, true);
     setTimeout(() => { if (pantalla === "portada") avisoMetros(); }, 700);
@@ -1175,11 +1191,13 @@ function portada(){
       ${hecho ? `<button class="btn" id="bVer">Ver tu iceberg de hoy</button>
                  ${Cuenta.sb ? `<button class="btn oscuro" id="bPodio"><svg viewBox="0 0 24 24" width="18" height="18" fill="currentColor" aria-hidden="true"><rect x="9" y="5" width="6" height="15" rx="1"/><rect x="2.5" y="10" width="5.5" height="10" rx="1"/><rect x="16" y="13" width="5.5" height="7" rx="1"/></svg> Ver podio</button>` : ``}`
               : `<button class="btn" id="bJugar">Empezar a bajar <span aria-hidden="true">→</span></button>`}
+      <button class="btn fantasma btn-cr" id="bCrPortada"><img src="bati/submarino.webp" alt="">Contrarreloj · 90 s${guarda.get("cr:record", null) || guarda.get("cr:album", null) ? `` : `<span class="punto-nuevo" aria-label="nuevo"></span>`}</button>
     </div>
     ${hecho ? `<p class="apunte" style="margin-top:16px">Hoy ya has bajado <b>${mil(hecho.puntos)} m</b>. ¡Vuelve mañana para más!</p>` : ``}
   </div>`;
 
   $("#bJugar")?.addEventListener("click", e => empieza("diaria", e.currentTarget));
+  $("#bCrPortada")?.addEventListener("click", () => crPortada());
   trasPintar();
   $("#bPodio")?.addEventListener("click", () => ranking());
   $("#bVer")?.addEventListener("click", () => { J = {modo:"diaria", ...hecho, revisita:true}; final(); });
@@ -1965,6 +1983,31 @@ function avisoMetros(){
   </div>`;
   $("#bCerrar").addEventListener("click", () => ayuda(false));
   $("#bCerrar").focus({preventScroll:true});
+}
+
+/* ═════════ aviso: el modo nuevo, Contrarreloj ═════════
+   Sale una vez a quien ya ha jugado alguna vez (a la gente nueva no se le tapa el tutorial). Se prueba con #aviso-contrarreloj. */
+function quiereCr(){
+  if (location.hash === "#aviso-contrarreloj") return true;
+  return !!guarda.get("est", null) && !guarda.get("cr:aviso", false);
+}
+function avisoCr(){
+  const caja = $("#ayuda"); caja.hidden = false; caja.scrollTop = 0;
+  caja.innerHTML = `
+  <div class="panel aviso-cr">
+    <span class="nuevo-pill">Nuevo modo de juego</span>
+    <div class="cr-escena" aria-hidden="true">
+      <img src="bati/01.webp" alt="" style="width:21%;left:4%;bottom:-8%;opacity:.85">
+      <img src="bati/submarino.webp" alt="" style="width:34%;left:33%;top:24%">
+      <img src="bati/03.webp" alt="" style="width:21%;right:4%;top:4%;opacity:.9">
+    </div>
+    <h2>Contrarreloj</h2>
+    <p>Tienes <b>90 segundos de oxígeno</b> en el submarino para contestar todas las categorías que puedas, da igual lo rara que sea la respuesta. En tu descenso irás encontrando criaturas marinas: <b>¡colecciónalas todas!</b></p>
+    <div class="botonera"><button class="btn" id="bCrProbar">Probar ahora</button><button class="btn fantasma" id="bCerrar">Ahora no</button></div>
+  </div>`;
+  $("#bCrProbar").addEventListener("click", () => { ayuda(false); crPortada(); });
+  $("#bCerrar").addEventListener("click", () => ayuda(false));
+  $("#bCrProbar").focus({preventScroll:true});
 }
 
 /* ═════════ ayuda ═════════ */
