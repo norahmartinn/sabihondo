@@ -1,0 +1,259 @@
+respuesta;alias;nivel;orden_a_mano
+lavarse los dientes;cepillarse los dientes|lavarme los dientes;1;1000000000
+mirar el móvil;móvil|mirar el teléfono;1;999999999
+leer;leer un libro;1;999999998
+poner la alarma;poner el despertador;1;999999997
+ponerse el pijama;pijama;1;999999996
+ducharse;ducha;1;999999995
+cenar;;1;999999994
+ver la tele;ver una serie|ver Netflix|Netflix;1;999999993
+ir al baño;mear|hacer pis;1;999999992
+apagar la luz;;1;999999991
+rezar;;1;999999990
+beber agua;;1;999999989
+desmaquillarse;;1;999999988
+darse una ducha;;2;1000000000
+quitarse las lentillas;lentillas;2;999999999
+echarse crema;crema|rutina de skincare|skincare;2;999999998
+quitarse el maquillaje;;2;999999997
+peinarse;;2;999999996
+hacerse una trenza;moño;2;999999995
+cerrar la puerta;echar la llave|cerrar con llave;2;999999994
+cerrar las persianas;bajar la persiana;2;999999993
+cerrar las ventanas;;2;999999992
+apagar la tele;;2;999999991
+cargar el móvil;poner el móvil a cargar;2;999999990
+poner el modo avión;modo avión;2;999999989
+scroll;hacer scroll;2;999999988
+ver TikTok;TikTok;2;999999987
+Instagram;;2;999999986
+ver vídeos;YouTube;2;999999985
+escuchar música;música;2;999999984
+escuchar un pódcast;pódcast;2;999999983
+meditar;;2;999999982
+estirar;estiramientos;2;999999981
+yoga;;2;999999980
+escribir en el diario;diario;2;999999979
+pensar;pensar en la vida|comerse la cabeza;2;999999978
+darle vueltas a todo;rayarse;2;999999977
+preocuparse;;2;999999976
+dar las buenas noches;buenas noches;2;999999975
+dar un beso;besos;2;999999974
+abrazar;abrazos;2;999999973
+contar un cuento;cuento;2;999999972
+leer un cuento;;2;999999971
+cantar una nana;nana;2;999999970
+mimos;;2;999999969
+sexo;hacer el amor;2;999999968
+hablar con la pareja;hablar;2;999999967
+mandar un mensaje;WhatsApp|whatsappear;2;999999966
+llamar a alguien;;2;999999965
+tomar un vaso de leche;leche caliente|vaso de leche;2;999999964
+tomar una infusión;infusión|manzanilla|tila;2;999999963
+tomar melatonina;melatonina;2;999999962
+pastilla para dormir;pastillas;2;999999961
+picar algo;comer algo|yogur|galletas;2;999999960
+beber;copa;2;999999959
+fumar;cigarro;2;999999958
+sacar al perro;pasear al perro;2;999999957
+dar de comer al gato;;2;999999956
+recoger la cocina;fregar|fregar los platos;2;999999955
+poner el lavavajillas;;2;999999954
+tender la ropa;;2;999999953
+preparar la ropa de mañana;preparar la ropa;2;999999952
+hacer la mochila;preparar la mochila;2;999999951
+hacer los deberes;estudiar;2;999999950
+repasar;;2;999999949
+mirar el correo;correo;2;999999948
+revisar la agenda;planificar el día;2;999999947
+contar ovejas;;2;999999946
+respirar hondo;respiraciones;2;999999945
+ruido blanco;;2;999999944
+poner el ventilador;ventilador;2;999999943
+encender el aire;aire acondicionado;2;999999942
+calefacción;;2;999999941
+poner la manta;taparse;2;999999940
+abrazar la almohada;almohada;2;999999939
+colocar los cojines;;2;999999938
+quitar los cojines de la cama;;2;999999937
+abrir la cama;;2;999999936
+bostezar;;2;999999935
+estirarse;;2;999999934
+darse la vuelta;;2;999999933
+acurrucarse;;2;999999932
+cucharita;hacer la cucharita;2;999999931
+cerrar los ojos;;2;999999930
+ponerse la férula;férula;3;1000000000
+ponerse los tapones;tapones;3;999999999
+ponerse el antifaz;antifaz;3;999999998
+ponerse los calcetines;calcetines;3;999999997
+quitarse los calcetines;;3;999999996
+quitarse el sujetador;sujetador;3;999999995
+quitarse las joyas;quitarse los pendientes|quitarse el anillo;3;999999994
+quitarse el reloj;;3;999999993
+quitarse las gafas;;3;999999992
+dejar las gafas en la mesilla;;3;999999991
+aplicarse sérum;sérum;3;999999990
+contorno de ojos;;3;999999989
+mascarilla;mascarilla facial;3;999999988
+cacao en los labios;cacao;3;999999987
+crema de manos;;3;999999986
+aceite de pelo;;3;999999985
+cepillarse el pelo;cepillar el pelo;3;999999984
+usar hilo dental;hilo dental;3;999999983
+enjuague bucal;;3;999999982
+tomarse la pastilla;pastilla anticonceptiva;3;999999981
+tomar la medicación;medicación;3;999999980
+ponerse las gotas;;3;999999979
+mirar debajo de la cama;mirar si hay monstruos;3;999999978
+dejar una luz encendida;lucecita;3;999999977
+enchufar la luz quitamiedos;;3;999999976
+comprobar el gas;;3;999999975
+comprobar la puerta;;3;999999974
+silenciar el móvil;silenciar;3;999999973
+activar no molestar;no molestar;3;999999972
+poner el móvil boca abajo;;3;999999971
+jugar al Candy Crush;jugar al móvil;3;999999970
+jugar a la consola;jugar;3;999999969
+ver un capítulo más;un capítulo más|otro capítulo;3;999999968
+ver una peli;;3;999999967
+ver el telediario;;3;999999966
+Wordle;jugar al Wordle;3;999999965
+jugar al Sabihondo;Sabihondo;3;999999964
+hacer el crucigrama;;3;999999963
+sudoku;;3;999999962
+leer las noticias;;3;999999961
+mirar el tiempo;ver el tiempo;3;999999960
+mirar el saldo;mirar la cuenta;3;999999959
+comprar por internet;Amazon;3;999999958
+stalkear;cotillear Instagram;3;999999957
+mirar fotos antiguas;;3;999999956
+mirar memes;;3;999999955
+mandar memes;;3;999999954
+mandar audios;;3;999999953
+responder mensajes;;3;999999952
+Tinder;ligar;3;999999951
+hablar solo;;3;999999950
+cantar;;3;999999949
+llorar;llorar un poco;3;999999948
+reír;;3;999999947
+rezar el padrenuestro;padrenuestro;3;999999946
+dar gracias;agradecer;3;999999945
+hacer una lista de tareas;lista;3;999999944
+rascar la espalda;masaje;3;999999943
+dar un masaje;;3;999999942
+abrazar el peluche;peluche;3;999999941
+dormir con el peluche;;3;999999940
+darle un beso al gato;;3;999999939
+apartar al perro de la cama;;3;999999938
+tomarse un ColaCao;ColaCao;4;1000000000
+una copa de vino;vino;4;999999999
+un vaso de agua en la mesilla;;4;999999998
+dejar el agua preparada;;4;999999997
+comer un chocolate;;4;999999996
+comer un plátano;;4;999999995
+lavarse la cara;agua en la cara;4;999999994
+exfoliarse;;4;999999993
+retinol;;4;999999992
+parches de ojos;;4;999999991
+cinta de la boca;mouth taping;4;999999990
+tira nasal;tiras nasales;4;999999989
+spray nasal;;4;999999988
+Vicks;Vicks VapoRub;4;999999987
+ponerse la crema de pies;;4;999999986
+ponerse calcetines de gel;;4;999999985
+hidratarse los labios;;4;999999984
+ponerse el gorro de satén;gorro de seda|funda de almohada de seda;4;999999983
+hacer una trenza para no enredarse;;4;999999982
+quitarse las horquillas;;4;999999981
+rulos sin calor;;4;999999980
+cerrar el gas;;4;999999979
+dejar la ropa en la silla;la silla de la ropa;4;999999978
+poner la lavadora;;4;999999977
+programar la cafetera;;4;999999976
+preparar el desayuno;;4;999999975
+hacer el tupper;preparar la comida de mañana;4;999999974
+regar las plantas;;4;999999973
+cerrar la terraza;;4;999999972
+encender el deshumidificador;;4;999999971
+apagar las regletas;;4;999999970
+sacar la basura;bajar la basura;4;999999969
+diario de gratitud;gratitud;4;999999968
+journaling;;4;999999967
+afirmaciones;;4;999999966
+visualizar;;4;999999965
+meditación guiada;Calm;4;999999964
+Headspace;;4;999999963
+escuchar ASMR;ASMR;4;999999962
+ruido marrón;;4;999999961
+sonidos de lluvia;lluvia;4;999999960
+sonidos del mar;;4;999999959
+música para dormir;;4;999999958
+audiolibro;Audible;4;999999957
+podcast para dormir;;4;999999956
+contar hacia atrás;;4;999999955
+respiración 4-7-8;;4;999999954
+relajación muscular;;4;999999953
+body scan;escáner corporal;4;999999952
+rascarse;;4;999999951
+crujirse los dedos;;4;999999950
+tirarse un pedo;pedos;4;999999949
+roncar;;4;999999948
+hablar en sueños;;4;999999947
+rechinar los dientes;;4;999999946
+pelearse por la manta;;4;999999945
+pelearse por el lado de la cama;;4;999999944
+apagar la luz del pasillo;;4;999999943
+levantarse otra vez a mear;;4;999999942
+comprobar que la alarma está puesta;;4;999999941
+ponerse la máquina del CPAP;CPAP;5;1000000000
+medirse la tensión;tensión;5;999999999
+glucemia;medirse el azúcar;5;999999998
+pincharse la insulina;insulina;5;999999997
+ponerse la crema de la cara de noche;;5;999999996
+slugging;;5;999999995
+aceite facial;;5;999999994
+gua sha;;5;999999993
+rodillo facial;;5;999999992
+rezar el rosario;rosario;5;999999991
+examen de conciencia;;5;999999990
+leer la Biblia;;5;999999989
+oración;;5;999999988
+ángel de la guarda;jesusito de mi vida;5;999999987
+cuatro esquinitas tiene mi cama;cuatro esquinitas;5;999999986
+dar cuerda al reloj;;5;999999985
+mirar las estrellas;;5;999999984
+abrir la ventana para ventilar;;5;999999983
+cerrar las contraventanas;;5;999999982
+echar el pestillo;;5;999999981
+comprobar a los niños;mirar a los niños;5;999999980
+darle el biberón al bebé;biberón;5;999999979
+dar el pecho;dar de mamar;5;999999978
+cambiar el pañal;pañal;5;999999977
+poner el chupete;chupete;5;999999976
+poner el quitamiedos;;5;999999975
+leer el horóscopo;;5;999999974
+Duolingo;hacer la lección de Duolingo;5;999999973
+hacer la maleta;;5;999999972
+preparar el bolso del gimnasio;;5;999999971
+imprimir algo;;5;999999970
+apagar la caldera;;5;999999969
+encender el radiador;;5;999999968
+comer cereales;bol de cereales;5;999999967
+tostada;;5;999999966
+queso;;5;999999965
+jamón;;5;999999964
+cuajada;;5;999999963
+flan;;5;999999962
+natillas;;5;999999961
+sobras de la cena;;5;999999960
+hacer flexiones;flexiones;5;999999959
+abdominales;;5;999999958
+plancha (ejercicio);;5;999999957
+baño caliente;bañera;5;999999956
+baño de pies;;5;999999955
+pensar en el ex;;5;999999954
+revivir un momento vergonzoso de 2014;pensar en cosas vergonzosas;5;999999953
+imaginar conversaciones;discutir en la cabeza;5;999999952
+imaginar que eres famoso;;5;999999951
+planear el futuro;;5;999999950

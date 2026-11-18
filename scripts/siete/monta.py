@@ -347,6 +347,13 @@ PREGUNTAS = [
     ("Nombra un río de España", "rio_espana"),
     ("Nombra un mueble", "mueble"),
     ("Nombra una tecla del teclado", "tecla"),
+    ("Nombra algo que hay en un festival de música", "festival_cosas"),
+    ("Nombra una palabra que rime con «corazón»", "rima_corazon"),
+    ("Nombra una palabra que empiece por «des-»", "palabra_des"),
+    ("Nombra algo que haces antes de dormir", "antes_dormir"),
+    ("Nombra una joya o un complemento", "joya_complemento"),
+    ("Nombra un estampado", "estampado"),
+    ("Nombra algo de material de oficina", "material_oficina"),
 ]
 
 # Desde el 31 de octubre de 2026 los niveles son más generosos: la gente veía casi imposible llegar a Muy raro y Sabihondo.

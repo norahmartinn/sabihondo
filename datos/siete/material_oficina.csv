@@ -1,0 +1,301 @@
+respuesta;alias;nivel;orden_a_mano
+boli;bolígrafo;1;1000000000
+lápiz;;1;999999999
+goma;goma de borrar;1;999999998
+grapadora;;1;999999997
+grapas;;1;999999996
+clip;clips;1;999999995
+post-it;pósit|notas adhesivas;1;999999994
+folios;papel;1;999999993
+carpeta;;1;999999992
+archivador;;1;999999991
+tijeras;;1;999999990
+celo;cinta adhesiva;1;999999989
+pegamento;;1;999999988
+típex;corrector;1;999999987
+subrayador;fosforito;1;999999986
+rotulador;;1;999999985
+calculadora;;1;999999984
+agenda;;1;999999983
+cuaderno;libreta;1;999999982
+sacapuntas;;1;999999981
+perforadora;taladradora;2;1000000000
+quitagrapas;;2;999999999
+chinchetas;;2;999999998
+regla;;2;999999997
+pegamento de barra;Pritt;2;999999996
+cola blanca;;2;999999995
+cinta de embalar;precinto;2;999999994
+sobres;;2;999999993
+sellos;;2;999999992
+tampón;;2;999999991
+sello;sello de caucho;2;999999990
+pizarra;;2;999999989
+rotulador de pizarra;;2;999999988
+borrador;;2;999999987
+tablón de corcho;corcho;2;999999986
+imanes;;2;999999985
+portaminas;;2;999999984
+minas;;2;999999983
+estuche;;2;999999982
+portalápices;cubilete;2;999999981
+bandeja;bandeja de documentos;2;999999980
+funda de plástico;fundas;2;999999979
+separadores;;2;999999978
+carpeta de anillas;;2;999999977
+carpeta de gomas;;2;999999976
+carpeta colgante;;2;999999975
+dosier;;2;999999974
+clasificador;;2;999999973
+archivador AZ;;2;999999972
+sobre acolchado;;2;999999971
+folios de colores;;2;999999970
+cartulina;;2;999999969
+papel cuadriculado;;2;999999968
+bloc de notas;;2;999999967
+libreta de espiral;;2;999999966
+cuaderno de tapas duras;;2;999999965
+Moleskine;;2;999999964
+agenda de anillas;;2;999999963
+calendario de mesa;calendario;2;999999962
+ordenador;;2;999999961
+teclado;;2;999999960
+ratón;;2;999999959
+alfombrilla;;2;999999958
+monitor;;2;999999957
+impresora;;2;999999956
+tóner;;2;999999955
+cartucho;;2;999999954
+escáner;;2;999999953
+fotocopiadora;;2;999999952
+plastificadora;;2;999999951
+destructora de papel;trituradora;2;999999950
+teléfono;;2;999999949
+auriculares;;2;999999948
+webcam;;2;999999947
+cable;;2;999999946
+USB;pendrive|memoria USB;2;999999945
+disco duro externo;;2;999999944
+regleta;;2;999999943
+flexo;lámpara;2;999999942
+silla de oficina;;2;999999941
+escritorio;;2;999999940
+mesa;;2;999999939
+cúter;;2;999999938
+abrecartas;;2;999999937
+pinza de papel;pinza|pinzas sujetapapeles;2;999999936
+gomas elásticas;gomas;2;999999935
+etiquetas;;2;999999934
+etiquetadora;;2;999999933
+rotulador permanente;;2;999999932
+marcador;;2;999999931
+lápices de colores;;2;999999930
+compás;;2;999999929
+escuadra;;2;999999928
+cartabón;;2;999999927
+transportador;;2;999999926
+plantilla;;2;999999925
+tinta;;2;999999924
+pluma;estilográfica;2;999999923
+recambios;;2;999999922
+borrador de tinta;;2;999999921
+grapadora de brazo largo;;3;1000000000
+grapadora eléctrica;;3;999999999
+grapadora de tenaza;;3;999999998
+encuadernadora;;3;999999997
+canutillo;;3;999999996
+espiral;;3;999999995
+tapas de encuadernar;;3;999999994
+guillotina;;3;999999993
+cizalla;;3;999999992
+taladro de papel;taladradora de papel;3;999999991
+perforadora de cuatro agujeros;;3;999999990
+punteros láser;puntero;3;999999989
+presentador inalámbrico;;3;999999988
+proyector;;3;999999987
+pantalla de proyección;;3;999999986
+rotafolio;papelógrafo;3;999999985
+papelera;;3;999999984
+papelera de reciclaje;;3;999999983
+contenedor de papel;;3;999999982
+triturador;;3;999999981
+máquina de café;cafetera;3;999999980
+fuente de agua;;3;999999979
+taco de notas;;3;999999978
+cubo de notas;;3;999999977
+banderitas;marcapáginas adhesivos|index;3;999999976
+marcapáginas;;3;999999975
+señalizadores;;3;999999974
+cinta correctora;;3;999999973
+corrector líquido;;3;999999972
+borrador de bolígrafo;;3;999999971
+goma de tinta;;3;999999970
+rotulador fluorescente;;3;999999969
+Stabilo;Stabilo Boss;3;999999968
+Bic;bolígrafo Bic;3;999999967
+Pilot;Pilot V5;3;999999966
+Frixion;boli borrable;3;999999965
+bolígrafo de cuatro colores;;3;999999964
+Pentel;;3;999999963
+Staedtler;;3;999999962
+Faber-Castell;;3;999999961
+Edding;;3;999999960
+Sharpie;;3;999999959
+Pritt Stick;;3;999999958
+Super Glue;pegamento instantáneo;3;999999957
+Milan;goma Milan;3;999999956
+Maped;;3;999999955
+Leitz;;3;999999954
+Oxford;;3;999999953
+Miquelrius;;3;999999952
+Lamela;;3;999999951
+sellos de fecha;fechador;3;999999950
+numerador;;3;999999949
+almohadilla de tinta;;3;999999948
+tinta para sellos;;3;999999947
+lacre;sello de lacre;3;999999946
+portadocumentos;;3;999999945
+maletín;;3;999999944
+carpeta de proyectos;;3;999999943
+subcarpetas;;3;999999942
+carpeta de cartón;;3;999999941
+carpeta de plástico;;3;999999940
+carpeta con broche;sobre con broche;3;999999939
+sobre de burbujas;;3;999999938
+etiquetas adhesivas;;3;999999937
+pegatinas;;3;999999936
+cinta washi;washi tape;3;999999935
+cinta de doble cara;;3;999999934
+velcro adhesivo;;3;999999933
+masilla adhesiva;Blu Tack;3;999999932
+pizarra blanca;;3;999999931
+pizarra de cristal;;3;999999930
+pizarra de tiza;;3;999999929
+tizas;tiza;3;999999928
+borrador de pizarra;;3;999999927
+imanes de pizarra;;3;999999926
+tablero de anuncios;;3;999999925
+planificador semanal;;3;999999924
+calendario de pared;;3;999999923
+agenda de Mr. Wonderful;Mr. Wonderful;4;1000000000
+planner;;4;999999999
+bullet journal;;4;999999998
+libreta punteada;;4;999999997
+papel milimetrado;;4;999999996
+papel pautado;;4;999999995
+papel continuo;;4;999999994
+papel de calco;;4;999999993
+papel carbón;papel de calco azul;4;999999992
+papel kraft;;4;999999991
+papel reciclado;;4;999999990
+papel A3;A3;4;999999989
+A4;;4;999999988
+A5;;4;999999987
+folios A4;;4;999999986
+cartulina A3;;4;999999985
+papel fotográfico;;4;999999984
+papel adhesivo;;4;999999983
+etiquetas de impresora;;4;999999982
+sobres americanos;;4;999999981
+sobres C5;;4;999999980
+sobres con ventana;;4;999999979
+bolígrafo de gel;;4;999999978
+bolígrafo retráctil;;4;999999977
+bolígrafo de punta fina;;4;999999976
+rotulador de punta fina;fineliner;4;999999975
+rotulador de punta pincel;brush pen;4;999999974
+rotulador Posca;Posca;4;999999973
+marcador de tiza;;4;999999972
+lápiz HB;;4;999999971
+lápiz 2B;;4;999999970
+lápiz de grafito;;4;999999969
+lápiz bicolor;lápiz rojo y azul;4;999999968
+lápiz de carpintero;;4;999999967
+lápiz táctil;stylus;4;999999966
+lápiz digital;;4;999999965
+portaminas de 0;;4;999999964
+5;;4;999999963
+minas de 0;;4;999999962
+goma Milan 430;;4;999999961
+goma de nata;;4;999999960
+goma moldeable;;4;999999959
+goma eléctrica;;4;999999958
+almohadilla para muñeca;;4;999999957
+reposapiés;;4;999999956
+soporte de portátil;;4;999999955
+elevador de monitor;;4;999999954
+organizador de cables;organizador;4;999999953
+bandeja de escritorio;;4;999999952
+organizador de cajones;;4;999999951
+lámpara de escritorio;;4;999999950
+flexo LED;;4;999999949
+llave USB;;4;999999948
+lector de tarjetas;;4;999999947
+hub USB;;4;999999946
+adaptador HDMI;HDMI;4;999999945
+cable USB-C;;4;999999944
+cargador del portátil;;4;999999943
+ratón vertical;;4;999999942
+teclado ergonómico;;4;999999941
+auriculares con micro;;4;999999940
+tarjetero de visitas;tarjetas de visita;4;999999939
+sello de goma personalizado;;4;999999938
+pisapapeles;;5;1000000000
+abrecartas de plata;;5;999999999
+tintero;;5;999999998
+papel secante;secante;5;999999997
+plumín;;5;999999996
+plumilla;;5;999999995
+cartucho de tinta de pluma;;5;999999994
+convertidor de pluma;;5;999999993
+Montblanc;;5;999999992
+Parker;;5;999999991
+Waterman;;5;999999990
+Lamy;;5;999999989
+Pelikan;;5;999999988
+Sheaffer;;5;999999987
+Cross;;5;999999986
+Inoxcrom;;5;999999985
+Caran d'Ache;;5;999999984
+Kaweco;;5;999999983
+Pilot Metropolitan;;5;999999982
+Rotring;Rotring Isograph;5;999999981
+estilógrafo;;5;999999980
+clips mariposa;;5;999999979
+clips de colores;;5;999999978
+pinzas mariposa;pinzas de presión;5;999999977
+encuadernadores;encuadernadores de latón;5;999999976
+fasteners;;5;999999975
+anillas metálicas;;5;999999974
+tornillos de encuadernar;;5;999999973
+ojales;;5;999999972
+remachadora;;5;999999971
+carpeta de fuelle;;5;999999970
+acordeón;carpeta acordeón;5;999999969
+archivo definitivo;;5;999999968
+caja de archivo;;5;999999967
+archivador de palanca;;5;999999966
+archivador de cajones;;5;999999965
+archivador colgante;;5;999999964
+lomo;etiquetas de lomo;5;999999963
+tarjetero de mesa;;5;999999962
+portanombres;identificador;5;999999961
+acreditación;;5;999999960
+cordón de acreditación;lanyard;5;999999959
+tarjeta de fichar;;5;999999958
+fichero;;5;999999957
+papel de seda;;5;999999956
+papel cebolla;;5;999999955
+papel vegetal;;5;999999954
+papel couché;;5;999999953
+cartón pluma;;5;999999952
+foam;goma eva;5;999999951
+guillotina de palanca;;5;999999950
+cizalla de rodillo;;5;999999949
+cúter de seguridad;;5;999999948
+cuchilla de repuesto;;5;999999947
+alfombrilla de corte;;5;999999946
+regla de acero;;5;999999945
+escalímetro;;5;999999944
+plantilla de curvas;;5;999999943
+curvígrafo;;5;999999942

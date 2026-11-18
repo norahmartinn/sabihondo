@@ -89,9 +89,37 @@ def rio_espana():
     junta("rio_espana", por_tramos(filas, [(80, 3), (400, 4), (None, 5)]), "enlaces_wikipedia")
 VARIANTES4["rio_espana"] = ["río {}", "el {}"]
 
+def palabras_lemario(slug, vale, mano1, mano2=(), fuera=(), plural=False, metrica="frecuencia_opensubtitles"):
+    """Palabras del lemario que cumplen `vale`; las de mano1 en nivel 1, mano2 en 2, el resto por frecuencia (2-4) y las raras en 5."""
+    lema, frec = tanda3._palabras()
+    mano = list(mano1) + [p for p in mano2 if p not in mano1]
+    filas = [(p, [], 1 if p in mano1 else 2, 10**6 - i) for i, p in enumerate(mano)]
+    ya = set(mano) | set(fuera)
+    comunes = sorted((p for p in lema if vale(p) and p in frec and p not in ya), key=lambda p: frec[p])
+    resto = sorted(p for p in lema if vale(p) and p not in frec and p not in ya)
+    filas += [(p, [], 2 + (i * 3 // max(1, len(comunes))), 10**5 - frec[p]) for i, p in enumerate(comunes)]
+    filas += [(p, [], 5, 0) for p in resto]
+    if plural: filas = [(p, al + ([p + "s"] if p[-1] in "aeiouáéó" else [p + "es"]), nv, v) for p, al, nv, v in filas]
+    guarda(slug, filas, metrica)
+
+RIMA1 = ["canción", "avión", "ratón", "razón", "colchón", "balón", "jamón", "melón", "limón", "camión", "pasión", "ilusión", "emoción", "ladrón", "salchichón",
+         "tazón", "buzón", "montón", "pantalón", "botón", "perdón", "dragón", "corazón"]
+RIMA2 = ["calzón", "cajón", "jabón", "algodón", "acordeón", "león", "camaleón", "tiburón", "salmón", "turrón", "bombón", "ciclón", "tapón", "rincón", "sillón", "callejón",
+         "chapuzón", "empujón", "tirón", "mogollón", "pelotón", "patrón", "corazón", "decisión", "canción", "nación", "estación", "lección",
+         "Sansón", "Platón", "Napoleón", "Simeone", "ascensor"]
+def rima_corazon():
+    """Palabras del lemario que acaban en «-ón» (rima consonante o asonante con corazón), sin «corazón»."""
+    rima = [p for p in RIMA2 if p.endswith("ón")]
+    palabras_lemario("rima_corazon", lambda p: re.fullmatch(r"[a-záéíóúüñ]+ón", p) is not None or p in ("ron", "son", "don", "con", "ton", "bon"), [p for p in RIMA1 if p != "corazón"], rima, fuera=["corazón"])
+
+DES1 = ["desayuno", "desastre", "deshacer", "desierto", "descanso", "desnudo", "desde", "deseo", "destino", "desorden", "desodorante", "descubrir", "despertador", "despedida"]
+def palabra_des():
+    """Palabras del lemario que empiezan por «des»."""
+    palabras_lemario("palabra_des", lambda p: re.fullmatch(r"des[a-záéíóúüñ]+", p) is not None, DES1, plural=False)
+
 CON_FUNCION = {"ciudad_portugal", "raza_perro", "ciudad_euskadi", "ciudad_andalucia", "real_madrid", "extincion", "museo", "rio_espana"}
 SOLO8 = solo_mano(*[s for s in mano_t8.MANO if s not in CON_FUNCION])
-TODAS8 = SOLO8 + [ciudad_portugal, raza_perro, palabra_y, ciudad_euskadi, ciudad_andalucia, real_madrid, extincion, museo, rio_espana]
+TODAS8 = SOLO8 + [ciudad_portugal, raza_perro, palabra_y, ciudad_euskadi, ciudad_andalucia, real_madrid, extincion, museo, rio_espana, rima_corazon, palabra_des]
 if __name__ == "__main__":
     pedidas = sys.argv[1:]
     for f in TODAS8:

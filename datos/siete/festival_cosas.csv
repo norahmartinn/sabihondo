@@ -1,0 +1,344 @@
+respuesta;alias;nivel;orden_a_mano
+escenario;escenarios;1;1000000000
+música;;1;999999999
+cantantes;artistas|grupos;1;999999998
+barra;barras;1;999999997
+cerveza;cervezas;1;999999996
+baños;baños químicos|baños portátiles;1;999999995
+gente;público;1;999999994
+pulsera;pulseras;1;999999993
+tienda de campaña;tiendas de campaña|camping;1;999999992
+food trucks;comida;1;999999991
+DJ;;1;999999990
+entradas;entrada;1;999999989
+purpurina;glitter;1;999999988
+luces;;1;999999987
+colas;;1;999999986
+zona de acampada;acampada;2;1000000000
+carpas;;2;999999999
+escenario principal;;2;999999998
+altavoces;bafles;2;999999997
+pantallas;pantallas gigantes;2;999999996
+confeti;;2;999999995
+fuegos artificiales;;2;999999994
+humo;máquina de humo;2;999999993
+láseres;láser;2;999999992
+seguridad;seguratas|vigilantes;2;999999991
+ambulancia;puesto médico|sanitarios;2;999999990
+cruz roja;;2;999999989
+punto violeta;;2;999999988
+punto de información;;2;999999987
+consigna;;2;999999986
+taquillas;;2;999999985
+cargadores;punto de carga|estación de carga;2;999999984
+cajeros;;2;999999983
+token;tokens|fichas|cashless;2;999999982
+recarga de la pulsera;;2;999999981
+merchandising;merch|camisetas;2;999999980
+puestos;stands;2;999999979
+patrocinadores;;2;999999978
+noria;;2;999999977
+zona VIP;VIP;2;999999976
+backstage;;2;999999975
+camerinos;;2;999999974
+prensa;;2;999999973
+fotógrafos;;2;999999972
+cámaras;;2;999999971
+influencers;;2;999999970
+gorros;sombreros|sombreros de paja;2;999999969
+gafas de sol;;2;999999968
+abanicos;;2;999999967
+riñonera;;2;999999966
+botellas de agua;agua;2;999999965
+fuentes de agua;;2;999999964
+crema solar;;2;999999963
+sombra;zonas de sombra;2;999999962
+césped;hierba;2;999999961
+polvo;;2;999999960
+barro;;2;999999959
+lluvia;;2;999999958
+calor;;2;999999957
+sudor;;2;999999956
+resaca;;2;999999955
+vasos reutilizables;vasos;2;999999954
+cubatas;copas;2;999999953
+kalimotxo;calimocho;2;999999952
+pogos;pogo;2;999999951
+crowdsurfing;;2;999999950
+mosh pit;;2;999999949
+banderas;;2;999999948
+pancartas;;2;999999947
+carteles;;2;999999946
+cartel del festival;line-up|cartel;2;999999945
+horarios;app del festival;2;999999944
+mapa;;2;999999943
+pulsera de tela;;2;999999942
+pase;acreditación;2;999999941
+furgonetas;furgos;2;999999940
+coches;;2;999999939
+parking;;2;999999938
+lanzaderas;autobuses lanzadera|autobuses|bus;2;999999937
+tren;;2;999999936
+colas para entrar;;2;999999935
+cacheos;registro;2;999999934
+ropa de festival;look de festival;2;999999933
+coronas de flores;;2;999999932
+botas de agua;katiuskas;2;999999931
+chubasqueros;;2;999999930
+ponchos;;2;999999929
+sacos de dormir;;2;999999928
+colchonetas;;2;999999927
+hinchables;;2;999999926
+sillas plegables;;2;999999925
+bocadillos;;2;999999924
+pizza;;2;999999923
+hamburguesas;;2;999999922
+kebab;;2;999999921
+perritos;perritos calientes;2;999999920
+patatas;;2;999999919
+nachos;;2;999999918
+tacos;;2;999999917
+crepes;;2;999999916
+churros;;2;999999915
+mojitos;;2;999999914
+cerveza artesana;;2;999999913
+refrescos;;2;999999912
+Primavera Sound;;3;1000000000
+Mad Cool;;3;999999999
+BBK Live;;3;999999998
+Sónar;;3;999999997
+FIB;;3;999999996
+Arenal Sound;;3;999999995
+Medusa;;3;999999994
+Viña Rock;;3;999999993
+Resurrection Fest;;3;999999992
+Low Festival;;3;999999991
+Dreambeach;;3;999999990
+Tomavistas;;3;999999989
+Cala Mijas;;3;999999988
+Monegros;;3;999999987
+Bilbao BBK Live;;3;999999986
+Rototom;;3;999999985
+Azkena;;3;999999984
+Cruïlla;;3;999999983
+Coachella;;3;999999982
+Glastonbury;;3;999999981
+Tomorrowland;;3;999999980
+Lollapalooza;;3;999999979
+Burning Man;;3;999999978
+Woodstock;;3;999999977
+Rock in Rio;;3;999999976
+Sziget;;3;999999975
+Ultra;;3;999999974
+aseos con cola;;3;999999973
+papel higiénico (o la falta de él);papel higiénico;3;999999972
+toallitas;;3;999999971
+gel hidroalcohólico;;3;999999970
+tapones para los oídos;tapones;3;999999969
+duchas;duchas del camping;3;999999968
+piscina;zona de piscina;3;999999967
+chill out;zona chill out;3;999999966
+hamacas;;3;999999965
+puffs;;3;999999964
+sillones;;3;999999963
+atracciones;;3;999999962
+tirolina;;3;999999961
+karaoke;;3;999999960
+silent disco;disco silenciosa;3;999999959
+talleres;;3;999999958
+mercadillo;;3;999999957
+puestos de ropa;;3;999999956
+tatuajes temporales;tatuajes;3;999999955
+maquilladores;;3;999999954
+glitter bar;;3;999999953
+peluquería;;3;999999952
+trenzas;;3;999999951
+purpurina en la cara;;3;999999950
+pintura de cara;;3;999999949
+pegatinas;;3;999999948
+pins;;3;999999947
+chapas;;3;999999946
+pulseras de colores;;3;999999945
+drones;;3;999999944
+globos;;3;999999943
+hinchables gigantes;;3;999999942
+mascota del festival;;3;999999941
+logo;;3;999999940
+arco de entrada;entrada principal;3;999999939
+torre de sonido;;3;999999938
+mesa de mezclas;;3;999999937
+técnicos de sonido;;3;999999936
+roadies;;3;999999935
+voluntarios;;3;999999934
+camareros;;3;999999933
+trabajadores;;3;999999932
+staff;;3;999999931
+organizadores;;3;999999930
+promotores;;3;999999929
+artistas invitados;;3;999999928
+cabeza de cartel;;3;999999927
+teloneros;;3;999999926
+sesiones;sesión;3;999999925
+after;afterparty;3;999999924
+amaneceres;amanecer;3;999999923
+atardecer;;3;999999922
+sesión de madrugada;;3;999999921
+bises;bis;3;999999920
+setlist;;3;999999919
+coreografías;;3;999999918
+himnos;;3;999999917
+palmas;;3;999999916
+linternas del móvil;móviles;3;999999915
+parejas;ligues;3;999999914
+drogas;;3;999999913
+condones;preservativos;3;999999912
+mecheros;;3;999999911
+amigos;;3;999999910
+grupo de amigos;;3;999999909
+desconocidos;;3;999999908
+gente disfrazada;disfraces;3;999999907
+guiris;;3;999999906
+extranjeros;;3;999999905
+pulsera RFID;;4;1000000000
+recarga;;4;999999998
+devolución de saldo;;4;999999997
+monedero del festival;;4;999999996
+app oficial;;4;999999995
+mapa interactivo;;4;999999994
+cobertura (mala);sin cobertura;4;999999993
+wifi gratis;;4;999999992
+punto de reciclaje;reciclaje;4;999999991
+contenedores;;4;999999990
+papeleras;;4;999999989
+basura;suciedad;4;999999988
+voluntarios de limpieza;;4;999999987
+colillas;;4;999999986
+latas;;4;999999985
+botiquín;;4;999999984
+carpa médica;;4;999999983
+psicólogos;;4;999999982
+punto lila;punto morado;4;999999981
+protocolo contra agresiones;;4;999999980
+puntos de hidratación;;4;999999979
+nebulizadores;difusores de agua;4;999999978
+mangueras;;4;999999977
+ventiladores;;4;999999976
+generadores;;4;999999975
+focos;;4;999999974
+torres de luz;;4;999999973
+estructuras;andamios;4;999999972
+vallas;;4;999999971
+pasarelas;;4;999999970
+foso;foso de fotógrafos;4;999999969
+barreras;;4;999999968
+gradas;;4;999999967
+palco;;4;999999966
+plataforma de accesibilidad;;4;999999965
+intérprete de signos;;4;999999964
+casilla de objetos perdidos;objetos perdidos;4;999999963
+oficina de prensa;;4;999999962
+zona de artistas;;4;999999961
+catering de artistas;;4;999999960
+autobuses de giras;;4;999999959
+furgonetas de producción;;4;999999958
+camiones;;4;999999957
+escenario secundario;;4;999999956
+carpa electrónica;;4;999999955
+escenario acústico;;4;999999954
+escenario de bandas emergentes;;4;999999953
+escenario patrocinado;;4;999999952
+Mahou;;4;999999951
+Estrella Galicia;;4;999999950
+Estrella Damm;;4;999999949
+Heineken;;4;999999948
+Red Bull;;4;999999947
+Jägermeister;;4;999999946
+Bacardí;;4;999999945
+Coca-Cola;;4;999999944
+Vodafone;;4;999999943
+Orange;;4;999999942
+Seat;;4;999999941
+Cupra;;4;999999940
+letras gigantes del festival;letrero del festival;4;999999939
+fotocol;photocall;4;999999938
+zona instagrameable;;4;999999937
+hinchable de la cerveza;;4;999999936
+maletas;;4;999999935
+mochilas;;4;999999934
+neveras;;4;999999933
+garrafas de agua;;4;999999932
+mesa plegable;;4;999999931
+toldo;;4;999999930
+gazebo;;4;999999929
+piquetas;;4;999999928
+martillo de las piquetas;;4;999999927
+linterna;;4;999999926
+frontal;;4;999999925
+powerbank;;4;999999924
+ponchos de agua;;4;999999923
+chanclas;;4;999999922
+botas militares;;4;999999921
+cinta de pelo;;4;999999920
+bandana;;4;999999919
+riñonera de lentejuelas;;4;999999918
+gafas en forma de corazón;;4;999999917
+sombrero vaquero;;4;999999916
+Sonorama Ribera;Sonorama;5;1000000000
+Granada Sound;;5;999999999
+Big Sound;;5;999999998
+Mallorca Live;;5;999999997
+Interestelar;;5;999999996
+Atlantic Fest;;5;999999995
+Portamérica;;5;999999994
+O Son do Camiño;;5;999999993
+Noches del Botánico;Botánico;5;999999992
+Starlite;;5;999999991
+Cap Roig;;5;999999990
+Porta Ferrada;;5;999999989
+Jazzaldia;;5;999999988
+Heineken Jazzaldia;;5;999999987
+Kutxa Kultur;;5;999999986
+Dcode;;5;999999985
+Paraíso;;5;999999984
+Sónar de día;Sónar by Day;5;999999983
+Sónar de noche;Sónar by Night;5;999999982
+Aquasella;;5;999999981
+Ebrovisión;;5;999999980
+Gigante;;5;999999979
+Contempopránea;;5;999999978
+Monkey Week;;5;999999977
+Bime;;5;999999976
+Kalorama;;5;999999975
+NOS Alive;;5;999999974
+Paredes de Coura;;5;999999973
+Super Bock;;5;999999972
+Roskilde;;5;999999971
+Rock am Ring;;5;999999970
+Download;;5;999999969
+Hellfest;;5;999999968
+Wacken;;5;999999967
+Electric Daisy Carnival;EDC;5;999999966
+Fuji Rock;;5;999999965
+Summer Sonic;;5;999999964
+Splendour in the Grass;;5;999999963
+Oya;;5;999999962
+Flow;;5;999999961
+Øya;;5;999999960
+torre de DJ;;5;999999959
+cabina;;5;999999958
+CDJ;;5;999999957
+controladora;;5;999999956
+tocadiscos;platos;5;999999955
+sintetizador modular;;5;999999954
+LED wall;pantalla LED;5;999999953
+CO2 (cañones);cañones de CO2;5;999999952
+cañones de confeti;;5;999999951
+llamas;lanzallamas;5;999999950
+pirotecnia;;5;999999949
+chispas frías;;5;999999948
+bengalas;;5;999999947
+banderas de países;;5;999999946
+tótems;totems de festival;5;999999945
+palos con objetos;;5;999999944
+DreamVille;;5;999999943
+Mainstage;;5;999999942
