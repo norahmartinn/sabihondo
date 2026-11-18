@@ -1,0 +1,281 @@
+respuesta;alias;nivel;orden_a_mano
+mecánico;mecánica;1;1000000000
+fontanero;fontanera;1;999999999
+electricista;;1;999999998
+carpintero;carpintera;1;999999997
+albañil;;1;999999996
+técnico;técnico de reparaciones;1;999999995
+manitas;;1;999999994
+zapatero;;1;999999993
+relojero;;1;999999992
+médico;doctor;1;999999991
+dentista;;1;999999990
+costurera;modista|sastre;1;999999989
+informático;técnico informático;1;999999988
+cerrajero;;1;999999987
+cirujano;cirujana;1;999999986
+técnico de lavadoras;técnico de electrodomésticos;2;1000000000
+reparador;;2;999999999
+chapista;;2;999999998
+pintor de coches;;2;999999997
+electricista del coche;electricista de automoción;2;999999996
+mecánico de motos;;2;999999995
+mecánico de bicis;bicicletero;2;999999994
+mecánico de aviones;mecánico de aviación;2;999999993
+técnico de mantenimiento;mantenimiento;2;999999992
+conserje;;2;999999991
+soldador;;2;999999990
+herrero;;2;999999989
+tapicero;;2;999999988
+ebanista;;2;999999987
+restaurador;restauradora;2;999999986
+cristalero;vidriero;2;999999985
+antenista;;2;999999984
+técnico de televisores;técnico de tele;2;999999983
+técnico de móviles;;2;999999982
+técnico de ordenadores;;2;999999981
+técnico del aire acondicionado;técnico de climatización;2;999999980
+gasista;técnico del gas;2;999999979
+técnico de calderas;;2;999999978
+frigorista;;2;999999977
+técnico de ascensores;;2;999999976
+afinador de pianos;afinador;2;999999975
+lutier;luthier;2;999999974
+joyero;;2;999999973
+óptico;;2;999999972
+ortopeda;;2;999999971
+protésico dental;;2;999999970
+fisioterapeuta;fisio;2;999999969
+osteópata;;2;999999968
+quiropráctico;;2;999999967
+veterinario;;2;999999966
+enfermero;enfermera;2;999999965
+traumatólogo;;2;999999964
+cardiólogo;;2;999999963
+costurero;;2;999999962
+arreglos de ropa;modista de arreglos;2;999999961
+zapatero remendón;;2;999999960
+afilador;;2;999999959
+techador;tejador;2;999999958
+colocador de pladur;pladurista;2;999999957
+solador;;2;999999956
+alicatador;;2;999999955
+escayolista;;2;999999954
+yesero;;2;999999953
+parquetista;;2;999999952
+cerrajero de coches;;2;999999951
+cristalero de coches;;2;999999950
+neumáticos;cambiador de ruedas;2;999999949
+técnico de impresoras;técnico de fotocopiadoras;2;999999948
+técnico de cajeros;;2;999999947
+técnico de Movistar;técnico de fibra;2;999999946
+técnico de telecomunicaciones;;2;999999945
+herrador;herrero de caballos;3;1000000000
+guarnicionero;;3;999999999
+talabartero;;3;999999998
+encuadernador;;3;999999997
+restaurador de libros;;3;999999996
+restaurador de arte;conservador;3;999999995
+restaurador de muebles;;3;999999994
+dorador;;3;999999993
+barnizador;;3;999999992
+relojero de torre;;3;999999991
+reparador de relojes de cuco;;3;999999990
+afinador de órganos;;3;999999989
+organero;;3;999999988
+reparador de instrumentos;;3;999999987
+técnico de guitarras;luthier de guitarras;3;999999986
+reparador de acordeones;;3;999999985
+técnico de sonido;;3;999999984
+técnico de iluminación;;3;999999983
+técnico de cine;proyeccionista;3;999999982
+técnico de electrónica;;3;999999981
+reparador de radios;;3;999999980
+reparador de consolas;;3;999999979
+técnico de drones;;3;999999978
+mecánico de barcos;mecánico naval;3;999999977
+calafate;;3;999999976
+carpintero de ribera;;3;999999975
+velero;reparador de velas;3;999999974
+redero;rederas;3;999999973
+mecánico de trenes;;3;999999972
+mecánico de camiones;;3;999999971
+mecánico de tractores;;3;999999970
+mecánico agrícola;;3;999999969
+mecánico de maquinaria pesada;;3;999999968
+mecánico de karts;;3;999999967
+mecánico de Fórmula 1;mecánico de boxes;3;999999966
+técnico de paneles solares;;3;999999965
+técnico de aerogeneradores;;3;999999964
+técnico de piscinas;;3;999999963
+técnico de riego;;3;999999962
+pocero;;3;999999961
+desatascador;desatascos;3;999999960
+deshollinador;;3;999999959
+limpiachimeneas;;3;999999958
+electromecánico;;3;999999957
+técnico de mantenimiento industrial;;3;999999956
+mecánico industrial;;3;999999955
+ajustador;;3;999999954
+tornero;;3;999999953
+fresador;;3;999999952
+matricero;;3;999999951
+técnico de frío industrial;;3;999999950
+técnico de grúas;;3;999999949
+técnico de escaleras mecánicas;;3;999999947
+técnico de puertas automáticas;;3;999999946
+técnico de persianas;;3;999999945
+reparador de persianas;;3;999999944
+técnico de toldos;;3;999999943
+técnico de electromedicina;;3;999999942
+técnico de rayos X;;3;999999941
+técnico de audífonos;audioprotesista;3;999999940
+ortesista;;3;999999939
+protésico;;3;999999938
+técnico ortopédico;;3;999999937
+podólogo;;3;999999936
+oftalmólogo;;3;999999935
+optometrista;;3;999999934
+logopeda;;3;999999933
+terapeuta ocupacional;;3;999999932
+quiropodista;;3;999999931
+masajista;;3;999999930
+veterinario de caballos;;3;999999929
+cirujano veterinario;;3;999999928
+cirujano plástico;;3;999999927
+neurocirujano;;3;999999926
+cirujano cardíaco;;3;999999925
+traumatólogo deportivo;;3;999999924
+ortodoncista;;3;999999923
+endodoncista;;3;999999922
+restaurador de coches clásicos;;3;999999921
+chapista-pintor;;3;999999920
+reparador de lunas;;3;999999919
+técnico de baterías;;3;999999918
+técnico de neumáticos;;3;999999917
+mecánico de patinetes;;3;999999916
+reparador de calzado;;3;999999915
+reparador de bolsos;;3;999999914
+reparador de maletas;;3;999999913
+reparador de paraguas;;3;999999912
+reparador de cremalleras;;3;999999911
+reparador de joyas;;3;999999910
+ceramista restaurador;;3;999999909
+kintsugi;;3;999999908
+zurcidor;zurcidora;4;1000000000
+remendón;;4;999999999
+lañador;;4;999999998
+estañador;;4;999999997
+afilador ambulante;;4;999999996
+paragüero;;4;999999995
+sillero;reparador de sillas de enea;4;999999994
+colchonero;;4;999999993
+esterero;;4;999999992
+cestero;;4;999999991
+tonelero;;4;999999990
+hojalatero;;4;999999989
+calderero;;4;999999988
+campanero;;4;999999987
+fundidor de campanas;;4;999999986
+vidriero de vitrales;vitralista;4;999999985
+restaurador de vidrieras;;4;999999984
+cantero;;4;999999983
+restaurador de piedra;;4;999999982
+marmolista;;4;999999981
+techador de pizarra;pizarrista;4;999999980
+tejador de paja;techador de paja;4;999999979
+estuquista;;4;999999978
+esgrafiador;;4;999999977
+técnico de máquinas recreativas;;4;999999976
+técnico de pinball;;4;999999975
+técnico de tragaperras;;4;999999974
+técnico de vending;;4;999999973
+técnico de máquinas de café;;4;999999972
+técnico de máquinas de coser;;4;999999971
+reparador de máquinas de escribir;;4;999999970
+reparador de cámaras;;4;999999969
+reparador de tocadiscos;;4;999999968
+reparador de VHS;;4;999999967
+reparador de juguetes;;4;999999966
+reparador de muñecas;hospital de muñecas;4;999999965
+reparador de bicicletas eléctricas;;4;999999964
+reparador de patinetes eléctricos;;4;999999963
+reparador de sillas de ruedas;;4;999999962
+técnico ortoprotésico;;4;999999961
+mecánico de helicópteros;;4;999999960
+técnico de aviónica;;4;999999959
+mecánico de motores de avión;;4;999999958
+técnico de satélites;;4;999999957
+técnico de radares;;4;999999956
+técnico de submarinos;;4;999999955
+buzo profesional;buzo;4;999999954
+buzo de reparación;;4;999999953
+soldador submarino;;4;999999952
+técnico de cableado submarino;;4;999999951
+electricista de alta tensión;;4;999999950
+liniero;;4;999999949
+técnico de subestaciones;;4;999999948
+técnico de redes;;4;999999947
+técnico de fibra óptica;;4;999999946
+técnico de antenas;;4;999999945
+técnico de telefonía;;4;999999944
+técnico de equipos médicos;;4;999999943
+técnico de diálisis;;4;999999942
+técnico de anestesia;;4;999999941
+huesero;curandero;4;999999940
+sacamuelas;;4;999999939
+barbero-cirujano;;4;999999938
+sangrador;;4;999999937
+cirujano barbero;;4;999999936
+afinador de clavecines;;5;1000000000
+restaurador de autómatas;;5;999999999
+restaurador de relojes de torre;;5;999999998
+restaurador de órganos;;5;999999997
+restaurador de carruseles;;5;999999996
+restaurador de neones;;5;999999995
+rotulista de neón;;5;999999994
+restaurador de máquinas de pinball;;5;999999993
+restaurador de jukebox;;5;999999992
+restaurador de radios antiguas;;5;999999991
+restaurador de consolas retro;;5;999999990
+restaurador de ordenadores antiguos;;5;999999989
+conservador de textiles;;5;999999988
+conservador de papel;;5;999999987
+conservador de fotografía;;5;999999986
+restaurador de películas;;5;999999985
+conservador de pintura mural;;5;999999984
+restaurador de mosaicos;;5;999999983
+restaurador de iconos;;5;999999982
+restaurador de abanicos;;5;999999981
+restaurador de tapices;;5;999999980
+restaurador de alfombras;;5;999999979
+restaurador de marcos;;5;999999978
+restaurador de lámparas;;5;999999977
+restaurador de muñecas antiguas;;5;999999976
+restaurador de caballitos de madera;;5;999999975
+tonelero de barricas;;5;999999974
+carretero;;5;999999973
+carpintero de carros;;5;999999972
+guarnicionero de sillas de montar;;5;999999971
+herrador de bueyes;;5;999999970
+cardador;;5;999999969
+afilador de patines;;5;999999968
+afilador de cuchillos japoneses;togishi;5;999999967
+pulidor de espadas;;5;999999966
+armero;;5;999999965
+espadero;;5;999999964
+cuchillero;;5;999999963
+cerrajero de cajas fuertes;;5;999999962
+técnico de órganos electrónicos;;5;999999961
+técnico de sintetizadores;;5;999999960
+técnico de amplificadores;;5;999999959
+técnico de baterías (instrumento);;5;999999958
+luthier de violines;;5;999999957
+arquetero;;5;999999956
+técnico de aceleradores de partículas;;5;999999955
+técnico de reactores nucleares;;5;999999954
+técnico de planetarios;;5;999999953
+saw doctor;doctor de sierras;5;999999952
+millstone dresser;picador de muelas de molino;5;999999951
+picapedrero de molinos;;5;999999950
+molinero;;5;999999949

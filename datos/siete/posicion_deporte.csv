@@ -1,0 +1,250 @@
+respuesta;alias;nivel;orden_a_mano
+portero;guardameta|arquero;1;1000000000
+defensa;;1;999999999
+delantero;;1;999999998
+centrocampista;medio|mediocampista;1;999999997
+lateral;;1;999999996
+central;;1;999999995
+extremo;;1;999999994
+pívot;;1;999999993
+base;;1;999999992
+alero;;1;999999991
+escolta;;1;999999990
+líbero;;1;999999989
+colocador;;1;999999988
+punta;delantero centro|nueve|9;1;999999987
+mediocentro;;1;999999986
+cierre;;1;999999985
+lateral derecho;;2;1000000000
+lateral izquierdo;;2;999999999
+carrilero;;2;999999998
+defensa central;;2;999999997
+libre;;2;999999996
+stopper;;2;999999995
+mediocentro defensivo;pivote|cinco;2;999999994
+interior;;2;999999993
+mediapunta;enganche|diez|10;2;999999992
+falso nueve;;2;999999990
+extremo derecho;;2;999999989
+extremo izquierdo;;2;999999988
+segundo delantero;;2;999999987
+ariete;;2;999999986
+sweeper;;2;999999985
+volante;;2;999999984
+ala-pívot;;2;999999983
+base (baloncesto);;2;999999982
+escolta (baloncesto);;2;999999981
+alero (baloncesto);;2;999999980
+pívot (baloncesto);;2;999999979
+sexto hombre;;2;999999978
+opuesto;;2;999999977
+receptor;receptor-atacante;2;999999976
+central (voleibol);;2;999999975
+líbero (voleibol);;2;999999974
+punta (voleibol);;2;999999973
+portero de balonmano;;2;999999972
+extremo de balonmano;;2;999999971
+lateral de balonmano;;2;999999970
+central de balonmano;;2;999999969
+pivote de balonmano;;2;999999968
+pilier;pilar;2;999999967
+talonador;hooker;2;999999966
+segunda línea;;2;999999965
+tercera línea;flanker;2;999999964
+ocho;número 8;2;999999963
+medio melé;;2;999999962
+apertura;fly-half;2;999999961
+centro (rugby);;2;999999960
+ala (rugby);;2;999999959
+zaguero;full-back;2;999999958
+pitcher;lanzador;2;999999957
+cátcher;;2;999999956
+bateador;;2;999999955
+primera base;;2;999999954
+segunda base;;2;999999953
+tercera base;;2;999999952
+campocorto;shortstop;2;999999951
+jardinero;;2;999999950
+quarterback;mariscal de campo;2;999999949
+running back;;2;999999948
+wide receiver;receptor abierto;2;999999947
+tight end;;2;999999946
+linebacker;;2;999999945
+cornerback;;2;999999944
+safety;;2;999999943
+kicker;pateador;2;999999942
+ala (fútbol sala);ala;2;999999941
+cierre (fútbol sala);;2;999999940
+pívot (fútbol sala);;2;999999939
+portero-jugador;;2;999999938
+delantero de hockey;;2;999999937
+defensa de hockey;;2;999999936
+portero de hockey;;2;999999935
+drive;jugador de derecha|derecha;2;999999934
+revés;jugador de revés (pádel);2;999999933
+líder (ciclismo);jefe de filas;2;999999932
+gregario;;2;999999931
+escalador;;2;999999930
+sprinter;esprínter;2;999999929
+rodador;;2;999999928
+clasicómano;;2;999999927
+contrarrelojista;;2;999999926
+lanzador (ciclismo);lanzador de sprint;2;999999925
+timonel;;2;999999924
+remero;;2;999999923
+proa;;2;999999922
+popa;;2;999999921
+patrón;caña;2;999999920
+trimmer;;2;999999919
+capitán;;2;999999918
+suplente;reserva;2;999999917
+carrilero derecho;;3;1000000000
+carrilero izquierdo;;3;999999999
+lateral ofensivo;;3;999999998
+central zurdo;;3;999999997
+líbero (fútbol);;3;999999996
+centrocampista defensivo;;3;999999994
+centrocampista ofensivo;;3;999999993
+box-to-box;todocampista;3;999999992
+mediocentro organizador;regista;3;999999991
+trequartista;;3;999999989
+interior derecho;;3;999999988
+interior izquierdo;;3;999999987
+extremo invertido;;3;999999986
+segundo punta;;3;999999985
+delantero centro de referencia;;3;999999984
+nueve y medio;;3;999999983
+portero suplente;;3;999999982
+tercer portero;;3;999999981
+point guard;;3;999999980
+shooting guard;;3;999999979
+small forward;;3;999999978
+power forward;;3;999999977
+center;;3;999999976
+combo guard;;3;999999975
+swingman;;3;999999974
+stretch four;;3;999999973
+opuesto (voleibol);diagonal;3;999999972
+receptor punta;;3;999999970
+extremo izquierdo (balonmano);;3;999999969
+lateral derecho (balonmano);;3;999999968
+especialista defensivo;;3;999999965
+pilier izquierdo;;3;999999964
+pilier derecho;;3;999999963
+segunda línea (rugby);;3;999999962
+apertura (rugby);;3;999999958
+primer centro;;3;999999957
+segundo centro;;3;999999956
+wing;;3;999999955
+zaguero (rugby);;3;999999954
+lanzador abridor;;3;999999953
+lanzador relevista;relevista;3;999999952
+cerrador;closer;3;999999951
+bateador designado;designado;3;999999950
+jardinero izquierdo;;3;999999949
+jardinero central;;3;999999948
+jardinero derecho;;3;999999947
+utility;;3;999999946
+offensive tackle;;3;999999945
+guard;;3;999999944
+center (fútbol americano);;3;999999943
+defensive end;;3;999999942
+defensive tackle;;3;999999941
+nose tackle;;3;999999940
+free safety;;3;999999939
+strong safety;;3;999999938
+punter;;3;999999937
+long snapper;;3;999999936
+goleador;;3;999999934
+ala-pívot (fútbol sala);;3;999999933
+universal;;3;999999932
+portero (waterpolo);;3;999999931
+boya (waterpolo);boya;3;999999930
+extremo (waterpolo);;3;999999929
+defensa (waterpolo);;3;999999928
+delantero centro (hockey hierba);;3;999999927
+medio (hockey hierba);;3;999999926
+líbero (hockey hierba);;3;999999925
+drive (pádel);;3;999999924
+revés (pádel);;3;999999923
+primer remero;;3;999999922
+stroke;marca;3;999999921
+bow;proa (remo);3;999999920
+timonel de remo;;3;999999919
+timonel de vela;;3;999999918
+proel;;3;999999917
+caña (vela);;3;999999916
+táctico;;3;999999915
+navegante;;3;999999914
+jammer;;3;999999913
+blocker;;3;999999912
+pivot (roller derby);;3;999999911
+centrocampista de contención;;3;999999910
+medio de cierre;;3;999999909
+ocho (fútbol);;3;999999907
+seis;;3;999999906
+siete;;3;999999905
+lateral largo;;4;1000000000
+lateral corto;;4;999999999
+extremo zurdo;;4;999999998
+extremo diestro;;4;999999997
+delantero móvil;;4;999999996
+delantero tanque;;4;999999995
+killer;matador;4;999999994
+líbero de los 80;;4;999999993
+marcador central;;4;999999992
+marcador de punta;;4;999999991
+volante de marca;;4;999999990
+volante de creación;;4;999999989
+volante mixto;;4;999999988
+doble cinco;;4;999999987
+doble pivote;;4;999999986
+wing (rugby 7);;4;999999985
+scrum-half;;4;999999984
+inside centre;;4;999999982
+outside centre;;4;999999981
+loosehead prop;;4;999999980
+tighthead prop;;4;999999979
+blindside flanker;;4;999999978
+openside flanker;;4;999999977
+lock;;4;999999976
+first baseman;;4;999999975
+second baseman;;4;999999974
+third baseman;;4;999999973
+left fielder;;4;999999972
+center fielder;;4;999999971
+right fielder;;4;999999970
+starting pitcher;;4;999999969
+setup man;;4;999999968
+middle linebacker;;4;999999967
+outside linebacker;;4;999999966
+slot receiver;;4;999999965
+edge rusher;;4;999999964
+holder;;4;999999963
+returner;retornador;4;999999962
+outside hitter;;4;999999961
+middle blocker;;4;999999960
+setter;;4;999999959
+opposite;;4;999999957
+defensive specialist;;4;999999956
+hooker (rugby league);;4;999999955
+loose forward;;4;999999954
+five-eighth;;4;999999953
+fly;;4;999999952
+back;;4;999999950
+flyer;voladora (cheerleading);4;999999949
+base (cheerleading);;4;999999948
+corredor (béisbol);;4;999999947
+corredor emergente;;4;999999946
+bateador emergente;;4;999999945
+receptor suplente;;4;999999944
+goalkeeper (hockey hielo);;4;999999943
+left wing;;4;999999942
+right wing;;4;999999941
+centre (hockey hielo);;4;999999940
+defenceman;;4;999999939
+seeker;buscador (quidditch)|buscador;4;999999938
+guardián (quidditch);guardián;4;999999937
+cazador (quidditch);cazador;4;999999936
+golpeador (quidditch);golpeador;4;999999935
+liniero;lineman;4;999999934

@@ -1,0 +1,340 @@
+respuesta;alias;nivel;orden_a_mano
+martillo;;1;1000000000
+destornillador;;1;999999999
+alicates;;1;999999998
+llave inglesa;;1;999999997
+taladro;;1;999999996
+sierra;;1;999999995
+serrucho;;1;999999994
+metro;cinta métrica;1;999999993
+tijeras;;1;999999992
+llave fija;llave;1;999999991
+nivel;;1;999999990
+pala;;1;999999989
+rastrillo;;1;999999988
+hacha;;1;999999987
+tenazas;;1;999999986
+lima;;1;999999985
+cúter;cutter;1;999999984
+grapadora;;1;999999983
+pistola de silicona;;1;999999982
+llave Allen;;2;1000000000
+llave de tubo;;2;999999999
+llave dinamométrica;;2;999999998
+llave grifa;;2;999999997
+llave de carraca;carraca;2;999999996
+mazo;;2;999999995
+maza;;2;999999994
+cincel;;2;999999993
+formón;;2;999999992
+gubia;;2;999999991
+escoplo;;2;999999990
+cepillo de carpintero;cepillo;2;999999989
+garlopa;;2;999999988
+lija;papel de lija;2;999999987
+lijadora;;2;999999986
+amoladora;radial|rotaflex;2;999999985
+sierra de calar;caladora;2;999999984
+sierra circular;;2;999999983
+motosierra;;2;999999982
+ingletadora;;2;999999981
+atornillador;atornillador eléctrico;2;999999980
+llave de vaso;;2;999999979
+punzón;;2;999999978
+berbiquí;;2;999999977
+barrena;;2;999999976
+broca;brocas;2;999999975
+sargento;;2;999999974
+gato;gato hidráulico;2;999999973
+palanca;pata de cabra|palanqueta;2;999999972
+nivel de burbuja;;2;999999971
+plomada;;2;999999970
+escuadra;;2;999999969
+flexómetro;;2;999999968
+pie de rey;calibre;2;999999967
+compás;;2;999999966
+soldador;soldadura;2;999999965
+estaño;;2;999999964
+multímetro;polímetro;2;999999963
+buscapolos;;2;999999962
+pelacables;;2;999999961
+crimpadora;;2;999999960
+pico;;2;999999959
+azada;;2;999999958
+azadón;;2;999999957
+horca;horquilla;2;999999956
+hoz;;2;999999955
+guadaña;;2;999999954
+podadera;tijeras de podar;2;999999953
+serrucho de poda;;2;999999952
+desbrozadora;;2;999999951
+cortacésped;;2;999999950
+carretilla;;2;999999949
+regadera;;2;999999948
+manguera;;2;999999947
+paleta;paleta de albañil;2;999999946
+llana;;2;999999945
+espátula;;2;999999944
+rodillo;;2;999999943
+brocha;;2;999999942
+pincel;;2;999999941
+cubo;;2;999999940
+mezcladora;hormigonera;2;999999939
+mazo de goma;;2;999999938
+cizalla;;2;999999937
+remachadora;;2;999999936
+grapadora de tapicero;;2;999999935
+pistola de calor;;2;999999934
+pistola de clavos;clavadora;2;999999933
+compresor;;2;999999932
+aspirador industrial;;2;999999931
+escalera;;2;999999930
+banco de trabajo;;2;999999929
+tornillo de banco;;2;999999928
+caja de herramientas;;2;999999927
+navaja suiza;navaja;2;999999926
+multiherramienta;Leatherman;2;999999925
+llave de estrella;;3;1000000000
+llave mixta;;3;999999999
+llave de pipa;;3;999999998
+llave Torx;torx;3;999999997
+llave de impacto;;3;999999996
+pistola de impacto;;3;999999995
+llave de filtro;;3;999999994
+llave para lavabos;;3;999999993
+desatascador;;3;999999992
+alicates de corte;;3;999999991
+alicates de punta;alicates de punta fina;3;999999990
+alicates universales;;3;999999989
+alicates de presión;mordaza;3;999999988
+tenaza de carpintero;;3;999999987
+sacaclavos;;3;999999986
+botador;;3;999999985
+granete;;3;999999984
+sierra de arco;arco de sierra;3;999999983
+sierra de costilla;;3;999999982
+sierra japonesa;;3;999999981
+serrucho de costilla;;3;999999980
+sierra de cinta;;3;999999979
+sierra de mesa;;3;999999978
+tronzadora;;3;999999977
+fresadora;;3;999999975
+router;;3;999999974
+cepillo eléctrico;;3;999999973
+guillame;;3;999999971
+buril;;3;999999970
+formón de media caña;;3;999999969
+escofina;;3;999999968
+lima de media caña;;3;999999967
+lima redonda;;3;999999966
+lima triangular;;3;999999965
+taladro percutor;;3;999999964
+martillo percutor;;3;999999963
+martillo demoledor;;3;999999962
+martillo de bola;;3;999999961
+martillo de carpintero;;3;999999960
+martillo de orejas;;3;999999959
+martillo de encofrador;;3;999999958
+maceta;;3;999999957
+destornillador de estrella;Phillips;3;999999956
+destornillador plano;;3;999999955
+destornillador de precisión;;3;999999954
+destornillador eléctrico;;3;999999953
+destornillador de carraca;;3;999999952
+nivel láser;;3;999999951
+medidor láser;;3;999999950
+escuadra falsa;;3;999999949
+gramil;;3;999999948
+transportador de ángulos;;3;999999947
+llana dentada;;3;999999946
+talocha;;3;999999945
+plana;;3;999999944
+fratás;;3;999999943
+paleta de enlucir;;3;999999942
+picoleta;;3;999999941
+maceta de albañil;;3;999999940
+cortador de azulejos;cortazulejos;3;999999939
+tenaza de alicatador;;3;999999938
+tiralíneas;bota de marcar;3;999999937
+soldador de estaño;;3;999999936
+soldador de arco;;3;999999935
+soplete;;3;999999934
+careta de soldador;;3;999999933
+electrodos;;3;999999932
+azadilla;;3;999999931
+escardillo;;3;999999930
+transplantador;;3;999999929
+plantador;;3;999999928
+sembradora;;3;999999927
+motoazada;;3;999999926
+tijera cortasetos;;3;999999925
+cortasetos;;3;999999924
+hacha de mano;;3;999999923
+hachuela;;3;999999922
+machete;;3;999999921
+motosierra de poda;;3;999999920
+sierra de poda telescópica;;3;999999919
+pinzas;;3;999999918
+pinzas de electricista;;3;999999917
+tijera de electricista;;3;999999916
+cortatubos;;3;999999915
+curvadora de tubos;;3;999999914
+terraja;;3;999999913
+cortavidrios;;3;999999911
+ventosa;;3;999999910
+remachadora de rosca;;3;999999909
+grapadora de presión;;3;999999908
+pistola engrasadora;;3;999999907
+aceitera;;3;999999906
+gato de botella;;3;999999905
+gato de tijera;;3;999999904
+borriqueta;;3;999999903
+caballete;;3;999999902
+garlopín;;4;1000000000
+junteador;;4;999999999
+cepillo de molduras;;4;999999998
+guimbarda;;4;999999997
+bastrén;;4;999999996
+raspa;;4;999999995
+berbiquí manual;;4;999999994
+barrena de mano;;4;999999993
+gramil de marcar;;4;999999992
+gramil de corte;;4;999999991
+falsa escuadra;;4;999999990
+cartabón;;4;999999989
+serrucho de punta;;4;999999988
+serrucho de calar;;4;999999987
+sierra de marquetería;;4;999999986
+segueta;;4;999999985
+sierra de inglete;;4;999999984
+caja de ingletes;;4;999999983
+prensa de carpintero;;4;999999982
+sargento de apriete rápido;;4;999999981
+cárcel;;4;999999980
+torno;;4;999999979
+torno de banco;;4;999999978
+fresadora de banco;;4;999999977
+taladro de columna;;4;999999976
+esmeriladora;esmeril;4;999999975
+piedra de afilar;;4;999999974
+piedra de esmeril;;4;999999973
+amoladora angular;;4;999999972
+pulidora;;4;999999971
+rotomartillo;;4;999999970
+multiherramienta oscilante;;4;999999969
+Dremel;;4;999999968
+minitaladro;;4;999999967
+pistola de pintura;aerógrafo;4;999999966
+lijadora orbital;;4;999999964
+lijadora de banda;;4;999999963
+decapadora;;4;999999962
+cepilladora;;4;999999961
+regruesadora;;4;999999960
+llave de bujías;;4;999999959
+llave de radios;;4;999999958
+desmontable de neumáticos;;4;999999957
+extractor;;4;999999956
+extractor de rodamientos;;4;999999955
+compresor de muelles;;4;999999954
+galgas;;4;999999953
+micrómetro;;4;999999952
+comparador;;4;999999951
+llave de cruz;;4;999999950
+gato de carretilla;;4;999999949
+elevador;;4;999999948
+puente elevador;;4;999999947
+cric;;4;999999946
+zapapico;;4;999999945
+almádena;;4;999999944
+mandarria;;4;999999943
+cuña de partir leña;;4;999999942
+hacha de doble filo;;4;999999941
+azuela;;4;999999940
+tranchete;;4;999999939
+tajadera;;4;999999938
+trulla;;4;999999937
+paletín;;4;999999936
+regla de albañil;;4;999999935
+nivel de manguera;;4;999999934
+hilo de marcar;;4;999999933
+maestra;;4;999999932
+cortadora de cerámica;;4;999999931
+rayador;;4;999999930
+bieldo;;4;999999929
+horquilla de jardín;;4;999999928
+laya;;4;999999927
+legón;;4;999999926
+rastrillo de hojas;;4;999999925
+escoba de jardín;;4;999999924
+sopladora;;4;999999923
+aireador;;4;999999922
+escarificador;;4;999999921
+cortacables;;4;999999920
+pelacables automático;;4;999999919
+tenaza de engastar;;4;999999918
+comprobador de tensión;;4;999999917
+pinza amperimétrica;;4;999999916
+detector de cables;;4;999999915
+acanalador;;5;1000000000
+guillame de rebajo;;5;999999999
+cepillo de contrafibra;;5;999999998
+cuchilla de raspar;cuchilla rascadora|rasqueta;5;999999997
+rasqueta de ebanista;;5;999999996
+chaira de afilar;;5;999999995
+asentador;;5;999999994
+formón de mortaja;;5;999999993
+escoplo de mortajar;;5;999999992
+gubia en V;;5;999999991
+gubia de cuchara;;5;999999990
+cuchillo de tallar;;5;999999989
+navaja de injertar;;5;999999988
+injertadora;;5;999999987
+remachadora de pop;;5;999999986
+tenaza de remachar;;5;999999985
+punzón de marcar;;5;999999984
+puntero;;5;999999983
+cincel de piedra;;5;999999982
+bujarda;;5;999999981
+gradina;;5;999999980
+trinchante;;5;999999979
+llave de bocas;;5;999999978
+llave de corona;;5;999999977
+llave de trinquete;;5;999999976
+llave de horquilla;;5;999999975
+llave de cadena;;5;999999974
+llave de cinta;;5;999999973
+llave de espolón;;5;999999972
+llave de gancho;;5;999999971
+llave inglesa ajustable;;5;999999970
+llave Stillson;;5;999999969
+tornillo micrométrico;;5;999999968
+calibrador de alesaje;;5;999999967
+gramil de altura;;5;999999966
+escuadra de combinación;;5;999999965
+cartabón de carpintero;;5;999999964
+termómetro láser;;5;999999963
+cámara termográfica;;5;999999962
+endoscopio de inspección;;5;999999961
+medidor de humedad;;5;999999960
+higrómetro;;5;999999959
+taladro magnético;;5;999999958
+taladro de diamante;;5;999999957
+sacabocados;;5;999999956
+perforadora de corona;;5;999999955
+coronas de taladro;;5;999999954
+pistola de grapas neumática;;5;999999953
+clavadora neumática;;5;999999952
+atornilladora de impacto neumática;;5;999999951
+llave de impacto neumática;;5;999999950
+amoladora neumática;;5;999999949
+cortadora de plasma;;5;999999948
+soldadora TIG;;5;999999947
+soldadora MIG;;5;999999946
+soldadora inverter;;5;999999945
+oxicorte;;5;999999944
+hachas de leñador;;5;999999943
+tronzador;;5;999999942
+gancho de leñador;;5;999999941
+gato de troncos;;5;999999940
+cuña de aluminio;;5;999999939
+sierra de dos mangos;tronzador de dos hombres;5;999999938

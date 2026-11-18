@@ -135,9 +135,15 @@ def palabra_compuesta():
     cola = [(p, [], 5, 0) for p in sorted(lema) if COMPUESTA.fullmatch(p)]
     junta("palabra_compuesta", cola, "lemario")
 
+Z1 = ["zapato", "zorro", "zumo", "zanahoria", "zapatilla", "zona", "zoo", "zebra", "zarza", "zurdo", "zombi", "zafiro"]
+Z_MAS = ["zombie", "zoom", "zapping", "zen", "zulú", "zumba", "zapeo", "zarzamora", "zocato"]
+def palabra_z():
+    """Palabras del lemario que empiezan por Z, con su plural."""
+    palabras_lemario("palabra_z", lambda p: re.fullmatch(r"z[a-záéíóúüñ]+", p) is not None, Z1, Z_MAS, plural=True)
+
 CON_FUNCION = {"ciudad_portugal", "raza_perro", "ciudad_euskadi", "ciudad_andalucia", "real_madrid", "extincion", "museo", "rio_espana", "apellido_vasco", "palabra_compuesta"}
 SOLO8 = solo_mano(*[s for s in mano_t8.MANO if s not in CON_FUNCION])
-TODAS8 = SOLO8 + [ciudad_portugal, raza_perro, palabra_y, ciudad_euskadi, ciudad_andalucia, real_madrid, extincion, museo, rio_espana, rima_corazon, palabra_des, apellido_vasco, palabra_compuesta]
+TODAS8 = SOLO8 + [ciudad_portugal, raza_perro, palabra_y, ciudad_euskadi, ciudad_andalucia, real_madrid, extincion, museo, rio_espana, rima_corazon, palabra_des, apellido_vasco, palabra_compuesta, palabra_z]
 if __name__ == "__main__":
     pedidas = sys.argv[1:]
     for f in TODAS8:

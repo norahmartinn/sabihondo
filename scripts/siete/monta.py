@@ -367,6 +367,13 @@ PREGUNTAS = [
     ("Nombra un animal de granja", "animal_granja"),
     ("Nombra un animal venenoso", "animal_venenoso"),
     ("Nombra una parte del cuerpo por encima de la cintura (sin contar la cabeza)", "encima_cintura"),
+    ("Nombra una planta de interior", "planta_interior"),
+    ("Nombra una herramienta", "herramienta"),
+    ("Nombra un peinado o un corte de pelo", "peinado"),
+    ("Nombra una canción de Queen", "cancion_queen"),
+    ("Nombra una posición en un deporte", "posicion_deporte"),
+    ("Nombra una palabra que empiece por Z", "palabra_z"),
+    ("Nombra un trabajo que consista en arreglar algo", "arreglar"),
 ]
 
 # Desde el 31 de octubre de 2026 los niveles son más generosos: la gente veía casi imposible llegar a Muy raro y Sabihondo.
