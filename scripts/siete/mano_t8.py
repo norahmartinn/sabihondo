@@ -1049,3 +1049,243 @@ MANO["real_madrid"] = {
     "Higuaín, Drenthe, Marcelo, Torres? , Morata, Callejón, Carvajal, Nacho, Jesé, Álvaro Arbeloa, Juanfran? , Parejo=Dani Parejo, De la Red=Rubén de la Red, Mata? , Negredo, Javi García, "
     "Valerón? , Munitis, Elvir Baljić? , Petković? , Rojas? , Ronaldo (R9), Owen, Figo, Zidane, Beckham, Woodgate, Samuel",
 }
+
+MANO.update({
+"tiene_asas": {
+ 1: "taza=tazas, bolso=bolsos, cesta=cesto, maleta=maletas, cazo, olla=cacerola=cazuela, jarra, bolsa=bolsa de la compra, mochila, cubo, copa=trofeo=copa de Europa, "
+    "sartén? , tetera, cafetera, ánfora=vasija",
+ 2: "bolsa de tela=tote bag=totebag, bolsa de papel, bolsa de plástico, cesta de la compra=cesta del súper, cesto de la ropa=cesto de mimbre, capazo, canasta, carrito? , "
+    "maletín, neceser, bolsa de deporte=bolsa de gimnasio, nevera portátil=nevera de playa, fiambrera=tartera, tupper, termo, botijo, jarra de cerveza=jarra de agua, "
+    "puchero, cazuela de barro, paellera, wok, freidora, sartén de dos asas, bandeja=bandeja del horno, fuente=fuente de horno, sopera, azucarera, lechera, "
+    "cubo de fregar=cubo de la fregona, regadera, papelera? , caja de herramientas, caja de plástico=caja organizadora, cesta de picnic, cesta de Navidad, "
+    "trofeo de la Champions=Champions=la Orejona, la Orejona, Copa del Rey, copa de la Liga? , urna, jarrón, cántaro, tinaja, cántara, ánfora griega, "
+    "taza del váter? , bidón, garrafa, bombona, cubo de basura con asas, carro de la compra=carrito de la compra=carrito, cochecito? , capazo del bebé=capazo de bebé, maxicosi=silla del coche, "
+    "bañera de bebé, orinal, tazón, bol con asas, sopera, tetera japonesa? , samovar, hervidor, jarra de leche, jarra medidora",
+ 3: "cáliz, grial=Santo Grial, copa del Mundial? , copa Davis=Ensaladera, Ensaladera, copa de la UEFA, Copa América, Stanley Cup? , ánfora romana, crátera, kílix, hidria, "
+    "puerta=tirador? , cajón=asa del cajón, armario=asa del armario, ventana=manilla? , coche (asa del techo)=asa del techo del coche, autobús=asa del autobús=barras del bus, metro=asideros del metro, "
+    "bañera=asa de la bañera, ducha=asidero de la ducha, váter (asidero)=asideros de baño, piscina (escalera)? , bicicleta? , trineo, carretilla, carro, "
+    "balda? , archivador? , caja fuerte? , cofre, baúl, arcón, cesta de mimbre, cesto de pan=panera, panera, frutero? , salvamanteles? , "
+    "tabla de cortar=tabla de picar, mortero? , rallador? , colador, escurridor, escurridera, cazo de leche, pote, perola, marmita, caldero, olla exprés=olla a presión, "
+    "olla de barro, cazuela de hierro=cocotte, cocotte=Le Creuset, fondue=olla de fondue, crepera, gofrera, raclette, cafetera italiana, tetera de hierro, "
+    "mochila escolar=mochila del cole, maleta de mano, trolley, maleta de ruedas, bolsa de viaje, petate, macuto, bandolera=bolso bandolera, cartera=cartera del cole, "
+    "shopper, bolso de mano, bolso de playa, capazo de playa, cesta de playa, bolso de paja, saco? , saco de boxeo? , pesa rusa=kettlebell, mancuerna? , barra? , "
+    "violín (estuche)=estuche de violín, estuche de guitarra=funda de guitarra, maletín de médico, maletín del ordenador=funda del portátil, caja de pizza? , "
+    "caja de tartas=caja de pasteles, caja de zapatos? , cesta del perro? , transportín=transportín del gato, jaula, pecera? , cubo de playa, cubo de hielo? ",
+ 4: "jarra de cerveza alemana=Maß=jarra de un litro, jarra de vino, porrón? , bota de vino? , botijo de Toledo? , cántaro de Galicia? , olla ferroviaria? , "
+    "cesta de vendimia, capazo de esparto, espuerta, sera, angarillas, cuévano, banasta, banasto, cuera? , cesto vasco=otarra, otarra, "
+    "Copa de la Reina? , Copa Libertadores, Liga de Campeones (trofeo)=trofeo de la Champions League, Supercopa, Copa del Mundo de Rugby=Webb Ellis, Copa Ryder? , trofeo Larry O'Brien? , "
+    "cáliz de Doña Urraca, Santo Cáliz de Valencia=Santo Cáliz, copa de Néstor, vaso campaniforme? , lécito? , ánfora panatenaica, enócoe, pelike, stamnos, olpe, "
+    "mug? , taza de desayuno, taza de té, taza de café, taza de consomé=consomé, tazón de leche, taza de Starbucks? , taza de Mr. Wonderful=Mr. Wonderful, "
+    "trofeo de tenis=trofeo de Roland Garros? , Copa Mouquetaire? , Copa del Rey de Baloncesto, Copa del Rey de vela? , "
+    "piedra de curling=curling, pesa rusa, saco de arena? , martillo de atletismo? , jabalina? , "
+    "cestas de Ikea=Frakta=bolsa azul de Ikea, bolsa azul de Ikea, bolsa de Mercadona, bolsa del Primark, bolsa de El Corte Inglés, bolsa reutilizable, "
+    "tetera de porcelana, chocolatera, jarra de chocolate, cafetera de émbolo=prensa francesa, cafetera de goteo (jarra)? , termo de café, termo de sopa, "
+    "olla de cocido, cazuela de paella? , cazuela de arroz, wok de dos asas, cazo de chocolate, cazo para hervir leche, "
+    "orinal de bebé, bacinilla=bacín, palangana, aguamanil, jofaina? , lebrillo, artesa? , barreño, tina, cubo de zinc, cubo de pescador",
+ 5: "kantharos, kylix, skyphos, cálato? , ritón? , kotyle, anfora Dressel=Dressel, ánfora vinaria, olla gallega de barro? , xarra? , cántaro de Talavera, cántaro de Úbeda, "
+    "botijo de Agost, botijo de Lorca? , botijo de la Rambla, pichel, tazón de barro, cuenco con asas, cuenco celta, caldero celta=caldero de Gundestrup, "
+    "Copa Jules Rimet, Copa de Europa (antigua), trofeo Teresa Herrera=Teresa Herrera, trofeo Carranza=Carranza, Trofeo Bernabéu? , Trofeo Gamper=Gamper, Copa Intercontinental, "
+    "Copa de Ferias, Recopa, Copa Latina, Copa Eva Duarte, Copa del Generalísimo, Pequeña Copa del Mundo, Copa Mitropa, "
+    "copa de Ardagh=cáliz de Ardagh, cáliz de Antioquía, Copa de Licurgo, copa Warren, vaso de Portland? , copa de Nestor, Grial de Valencia, "
+    "cesto de Lekeitio? , saski? , banasta de pescado, cesta de mimbre de Galicia=goxo? , cesta de castañas, cesta de setas, cesto de huevos, "
+    "Kanteen? , Yeti (termo)? , Stanley (taza)=taza Stanley, Contigo? , Chilly's? , Owala? , Hydro Flask? , "
+    "tiradores de mueble? , asideros de escalada? , empuñadura? , agarradera, manopla? , asa de Paleta? "
+},
+"se_recarga": {
+ 1: "móvil=teléfono, batería, pila=pilas, tarjeta=tarjeta del metro=bono de transporte=abono, mechero=encendedor, coche eléctrico=coche, ordenador=portátil, tablet, "
+    "patinete eléctrico=patinete, bici eléctrica, auriculares=AirPods, reloj=smartwatch, power bank=batería externa, cargador? , grapadora",
+ 2: "tarjeta de prepago=saldo=recarga del móvil, tarjeta regalo, monedero electrónico, bonobús, tarjeta transporte=tarjeta del bus, Bizum? , cuenta=saldo de la cuenta, "
+    "pistola=cargador de la pistola=arma=cargador, escopeta, rifle, cartucho de tinta=impresora=cartuchos, tóner, bolígrafo=boli=recambio, pluma=estilográfica, rotulador, "
+    "mechero de gasolina=Zippo, encendedor de cocina, vaper=cigarrillo electrónico=vapeador, cachimba? , botella de agua=botella, cantimplora, termo, "
+    "dispensador de jabón=jabón, ambientador, perfume=colonia, desodorante? , cápsulas? , cafetera? , depósito=depósito de gasolina, gasolina, deposito del coche, "
+    "bombona de butano=bombona, extintor, botella de oxígeno, aire acondicionado (gas)=gas del aire, bombona de buceo, globos de helio? , "
+    "Nintendo Switch=Switch, mando=mando de la consola=mando de la Play, Game Boy? , consola portátil, cámara de fotos=cámara, GoPro, dron, linterna, altavoz=altavoz bluetooth, "
+    "cepillo de dientes eléctrico, maquinilla de afeitar=afeitadora, depiladora, secador? , aspiradora=aspiradora de mano=Roomba=robot aspirador, taladro=taladro inalámbrico, "
+    "energía=pilas (de uno mismo)=las pilas=recargar pilas, uno mismo, el cuerpo=dormir, el alma? , el móvil de la abuela? ",
+ 3: "Kindle=libro electrónico, auriculares inalámbricos, cascos, ratón inalámbrico=ratón, teclado inalámbrico=teclado, mando de la tele? , mando de Apple TV, "
+    "reloj inteligente, pulsera de actividad, anillo inteligente, gafas inteligentes, audífono, implante coclear, marcapasos, bomba de insulina? , glucómetro? , "
+    "silla de ruedas eléctrica, scooter de movilidad, motos eléctricas=moto eléctrica, monopatín eléctrico, hoverboard, segway, monociclo eléctrico, "
+    "carrito de golf, coche de juguete eléctrico, coche teledirigido=coche RC, juguete, robot de juguete, muñeca interactiva, Furby? , "
+    "farolillo solar=luces solares, lámpara solar, lámpara recargable, vela LED, frontal=linterna frontal, walkie-talkie=walkie, radio, "
+    "cortacésped eléctrico, desbrozadora, sopladora, motosierra eléctrica, atornillador, amoladora, sierra de calar, pistola de silicona, "
+    "batidora inalámbrica, molinillo eléctrico, sacacorchos eléctrico, encendedor de barbacoa, termómetro de cocina? , báscula? , "
+    "tarjeta SIM? , saldo de Paypal=PayPal, tarjeta del gimnasio? , tarjeta del comedor, monedero del colegio? , tarjeta de fotocopias, tarjeta de la lavandería, "
+    "boli Bic? , pluma Montblanc=Montblanc, cartucho de pluma, mina=minas del portaminas, portaminas, cargador del rifle, munición, flechas? , "
+    "cartucho de agua=filtro de agua=jarra Brita=Brita, sifón, SodaStream=máquina de soda, bombona de CO2, cápsula de café? , dispensador de agua, "
+    "las baterías=recargar baterías, la mente, la energía, la ilusión? , la paciencia? , el ánimo, el entusiasmo",
+ 4: "batería del coche, batería de litio, batería de plomo, pila recargable=pilas recargables=Eneloop, pilas AA, pilas AAA, pila de botón, power bank solar, "
+    "estación de carga=Powerstation=generador portátil, EcoFlow, Jackery, Tesla Powerwall=Powerwall, batería doméstica, "
+    "Tesla, Model 3, Model Y, Zoe=Renault Zoe, Leaf=Nissan Leaf, BYD, Dacia Spring, MG4, i3? , Taycan, Ioniq, "
+    "autobús eléctrico, tranvía? , tren de batería, taxi eléctrico, Cabify eléctrico? , Bicing=BiciMAD, Cooltra, Acciona moto, Lime, Dott, Tier, "
+    "Apple Pencil, S Pen, lápiz digital, mando de Wii=Wiimote, Joy-Con, DualSense, DualShock, mando de Xbox, Steam Deck, PS Vita, Nintendo DS? , "
+    "cámara réflex (batería)=batería de cámara, flash, micrófono inalámbrico, foco LED, aro de luz=anillo de luz, estabilizador=gimbal, "
+    "termostato inalámbrico, timbre inteligente=Ring, cámara de vigilancia, cerradura inteligente, detector de humo? , alarma? , "
+    "cepillo facial=Foreo, irrigador=irrigador dental, cortapelos=maquinilla de cortar el pelo, cortabarbas, recortadora, plancha de pelo inalámbrica, "
+    "vibrador=juguete sexual, Satisfyer, succionador? , "
+    "monedero de Starbucks=Starbucks card, tarjeta de cine? , tarjeta del parking? , abono de esquí=forfait, Monedero Mercadona? , cheque restaurante? , "
+    "Hucha? , metro de Madrid (tarjeta)=Tarjeta Transporte Público, T-casual=T-usual, T-10, Barik, Mugi, Lazo? , tarjeta Oyster=Oyster, Navigo, Suica, Octopus card",
+ 5: "condensador, supercondensador, batería de flujo, pila de combustible, célula de hidrógeno, batería de sodio, batería de estado sólido, batería de níquel=NiMH=NiCd, "
+    "acumulador, acumulador de calor, termo eléctrico=acumulador de agua, calentador? , estufa de acumulación, ladrillo térmico? , central de bombeo=bombeo hidráulico, embalse (bombeo)? , "
+    "satélite? , rover=Perseverance, Curiosity? , Estación Espacial? , sonda? , "
+    "Tamagotchi? , Game Boy Color? , Walkman? , Discman? , iPod, MP3, MP4, PDA, BlackBerry, busca? , "
+    "pila de Volta, botella de Leyden, batería de Bagdad=pila de Bagdad, "
+    "dinamo? , linterna de dinamo=linterna de manivela, radio de manivela, cargador solar, panel solar? , mochila solar, "
+    "mechero de plasma, mechero USB, mechero de arco, encendedor de gas=encendedor piezoeléctrico, "
+    "fusil? , ballesta? , cañón? , escopeta de cartuchos, revólver, Nerf=pistola Nerf, pistola de agua, pistola de bolas=airsoft, paintball, "
+    "estilográfica de émbolo, pluma de cartucho, tintero? , bolígrafo de cuatro colores? , subrayador recargable, rotulador Posca? , "
+    "tarjeta bancaria prepago, tarjeta de débito prepago, Revolut? , monedero de criptomonedas? , tarjeta Paysafecard=Paysafecard, tarjeta Google Play=tarjeta de Google Play, tarjeta de iTunes, tarjeta de PlayStation Store=PSN, tarjeta de Steam, Robux, pavos de Fortnite=V-Bucks"
+},
+"cancion_numero": {
+ 1: "22 (Taylor Swift)=22, 7 rings, 99 Problems, 1999, 24K Magic, 500 Miles=I'm Gonna Be (500 Miles), 19 días y 500 noches, Mil horas, Diecisiete=17, 3 (Britney Spears)=3, "
+    "Nº 5=Mambo No. 5=Mambo número 5=Mambo Number 5=Mambo n 5, 9 to 5, One=1, Seven Nation Army, 21 Guns, Summer of '69",
+ 2: "Love Me Two Times? , 2 Become 1, 5 Years, 7 Years, 7/11, 8 Mile? , 99 Luftballons=99 globos, 3AM, 4 Minutes, 5 Colours in Her Hair, 25 or 6 to 4, 1985, 2002 (Anne-Marie)=2002, "
+    "Hotel California? , Cuatro rosas, Dos hombres y un destino, Tres palabras, Siete vidas, Seis de la mañana? , 10 años, Veinte años, 20 de enero=20 de enero (La Oreja de Van Gogh), "
+    "Mil calles llevan hacia ti, Mil horas (Los Elegantes), Un millón de cicatrices, Uno (Gardel)=Uno, Dos gardenias, Tres hojitas madre? , Cinco minutos, Vente pa' ca? , "
+    "1 2 3 4 (Feist)=1234=1 2 3 4, 1 2 Step=One Two Step, Seven (Jungkook)=Seven, 7 Things, 4 + 20? , Two Princes, Three Little Birds, "
+    "Four Seasons? , Five Hundred Miles, Six Feet Under, Seven Seas of Rhye, Eight Days a Week, Nine Million Bicycles, Ten Summoner's Tales? , "
+    "One More Time, Two of Us, Three Lions, Four Five Seconds=FourFiveSeconds, Fifteen, Seventeen? , Nineteen=19 (Paul Hardcastle), 19 (Adele)? , "
+    "21 (Adele)? , 25 (Adele)? , 30 (Adele)? , Be My Baby? , Un dos tres María=Uno dos tres María, La 13? , 12 uvas? , Hey Mambo? , "
+    "Mamma Mia? , Un millón de amigos? , Mil amores? , Doce cascabeles, Ponle un 10? , Dos hombres y un destino (Bustamante y Bisbal), Te esperaré mil años? , "
+    "Contigo en la distancia? , Viva la vida? , Tusa? , 10:35 (Tiësto y Tate McRae)=10:35, 2 On, 4 Words? , 23 (Mike Will)=23, 92 Explorer? , 1-800-273-8255=1-800, "
+    "24 Hours? , 24/7? , 100 Years, 100 Million? , 1 Thing, 2 Hearts, 3 Nights, 4 Ever? , 5 Hours, 6 Inch, 7 Seconds, 8 Days a Week? , 9 Crimes",
+ 3: "Uno de esos días? , Una y otra vez? , Dos (Arde Bogotá)? , Tres semanas? , Cuatro babys=Cuatro Babys=4 Babys, Cuatro estaciones? , Cinco de mayo? , Siete mares? , Ocho y medio? , "
+    "Nueve semanas y media? , Diez mil maneras? , Once? , Doce? , Trece? , 15 años=Quinceañera? , Dieciocho? , Veinte mil leguas? , Treinta y tantos? , Cuarenta y veinte? , "
+    "Cien gaviotas, 100 años? , Mil pasos, Mil besos? , Un millón de rosas? , 7 de septiembre (Mecano)=Siete de septiembre=7 de septiembre, Hoy no me puedo levantar? , "
+    "50 Ways to Leave Your Lover, 867-5309=Jenny, Two Plus Two Equals Five=2 2 5, 1979, 1979 (Smashing Pumpkins), 1901, 1979? , 2000 Light Years Away, 3 Libras, Clocks? , "
+    "One Week, Two Weeks, Three Times a Lady, 4th of July, 5:15, 6 Underground, 7 Days, 8 Ball? , 9 Lives? , 10.000 Hours=10000 Hours, 11 Minutes, 12:51, 13 Steps? , "
+    "Seven Years in Tibet? , Four Out of Five, Five Years Time? , Six Months in a Leaky Boat, Seven Wonders, Eight Miles High, Nine in the Afternoon, "
+    "16 Candles? , 18 and Life, 19th Nervous Breakdown, 20th Century Boy, 21st Century Girl? , 22 Acacia Avenue, 24 Hours from Tulsa? , 25 Minutes, 26 Miles? , "
+    "99 Red Balloons, 100 Degrees, 1000 Miles=A Thousand Miles, A Thousand Years, Million Reasons, Billionaire, Trillion? , "
+    "Una y mil veces, Dos en la ciudad? , Cuatro veces? , Seis cuerdas? , Ocho segundos? , Todo cambió? , Malamente (Cap. 1)? , La Tortura? , "
+    "Volando voy? , Bailando? , Seis de diciembre? , Treinta y tres? , Pa' la 1? , Sobredosis? , Dos copas de más? , 4 Babys (Maluma), 11 PM (Maluma)=11 PM, "
+    "Felices los 4, HP? , Una vaina loca? , 0 Sentimientos? , 0 (Quevedo)? , Columbia? , 2:50? , Tití me preguntó? , Monaco? , 25/8 (Bad Bunny)=25/8, 6 Rings? , "
+    "Cuatro paredes? , Siete mares (Mecano)? , Mil calles? , Uno más uno=1+1, 3 de abril? , Trece rosas? ",
+ 4: "Mil vidas (Melendi)? , Tres de mayo? , Dos amigos? , Cinco sentidos? , Siete pecados capitales? , Diez años después? , Quince primaveras? , Veinte añitos? , "
+    "Un año más (Mecano)=Un año más, Treinta y nueve grados? , Cuarenta y cinco? , Setenta veces siete? , 110 (Bad Gyal)? , 7 vidas (Melendi)? , "
+    "Pa' que retozen? , 1+1=2 (Juanes)? , Mil horas sin ti? , Dos almas? , Cuatro estaciones (Vivaldi)=Las cuatro estaciones, Quinta sinfonía=Quinta de Beethoven, Novena sinfonía=Novena de Beethoven, "
+    "Bolero (Ravel)? , Sinfonía n.º 40=Sinfonía 40 de Mozart, Sinfonía n.º 9, Sinfonía n.º 5, 1812 (Chaikovski)=Obertura 1812, Gnossienne n.º 1? , Gymnopédie n.º 1=Gymnopédie, "
+    "Opus 1? , Op. 28? , 4'33''=4′33″, 42 (Coldplay)=42, 2000 Miles, 1-2-3 (Gloria Estefan)=1-2-3, 1 2 3 4 (Plain White T's), Two Hearts Beat as One, Eleven? , "
+    "7 (Prince)=7, 1999 (Prince), 3 (Prince)? , U2? , 7 Rings, 3005, 32 Flavors, 4 Leaf Clover? , 5 6 7 8, 8 Mile (Eminem), 9 Teen? , 10 Commandments? , "
+    "52 Girls, 57 Channels, 69 Tea? , 74–75=74-75, 96 Quite Bitter Beings, 99.9%? , 100 Bad Days, 101 Eastbound? , 409, 505, 1000 Times, 2112, 5150, 7empest? , "
+    "8675309? , 8 Letters, 11 Blocks? , 18 (One Direction)=18, 22 (Lily Allen)? , 23 (Jimmy Eat World)? , 24 (Kanye)? , 33? , 34+35, 36? , 39 (Queen)=39, 40 (U2)? , "
+    "45 (Shinedown)=45, 46 & 2, 50 Cent? , 60 Miles? , 68? , 77? , 80s Mercedes, 90 Days? , 99 Times? ",
+},
+})
+
+MANO.update({
+"forma_enfadado": {
+ 1: "cabreado=cabreada, mosqueado=mosqueada, enfadado=enfadada, rebotado=rebotada, de morros=con morros=morros, echando humo, furioso=furiosa, molesto=molesta, "
+    "enojado=enojada, de mala leche=con mala leche, quemado=quemada, picado=picada, rabioso=rabiosa, indignado=indignada, irritado=irritada",
+ 2: "de mal humor=malhumorado=malhumorada, de malas=de mala hostia=con mala hostia, hasta las narices, hasta el moño, hasta los huevos=hasta los cojones, harto=harta, "
+    "negro=estar negro=negra, que trina=trinando, que muerde, que echa chispas=echando chispas, que se sube por las paredes=subiéndose por las paredes, fuera de sí, "
+    "con el ceño fruncido=ceño fruncido, de uñas, de mala uva, mala uva, con la mosca detrás de la oreja=mosca, ofendido=ofendida, resentido, dolido=dolida, picajoso, "
+    "airado=airada, colérico=colérica, iracundo=iracunda, exasperado=exasperada, sulfurado=sulfurada, crispado=crispada, alterado=alterada, encendido=encendida, "
+    "desquiciado, histérico=histérica, de los nervios=atacado de los nervios, nervioso=nerviosa, frustrado, amargado, borde, rayado=rayada, con cara de culo? , "
+    "hecho una furia=hecha una furia, hecho un basilisco=hecho una fiera=una fiera, como una moto? , como un toro, mosca=estar mosca, picadísimo, cabreadísimo, "
+    "chinado=chinada, chungo? , de malas pulgas=malas pulgas, con malas pulgas, tirando platos? , que lo flipa? , con el morro torcido=morro torcido, "
+    "enfurruñado=enfurruñada, enfurecido=enfurecida, ofuscado, contrariado=contrariada, disgustado=disgustada, fastidiado=fastidiada, mosqueo=con mosqueo",
+ 3: "de mala baba=mala baba, con mala baba, de mala sombra, cruzado=cruzada, atravesado=atravesada, torcido? , con el gesto torcido, con cara de pocos amigos, "
+    "con la cara larga=cara larga, cara de vinagre, con cara de mala leche, con un humor de perros=humor de perros, de un humor de perros, con un cabreo de narices, "
+    "con un cabreo monumental, con un mosqueo de narices, con un mosqueo tremendo, que no hay quien le hable, que no se le puede decir nada, "
+    "hecho un energúmeno, hecho una hidra, hecho un demonio, hecho un toro, hecho un ogro, como un ogro, como un perro? , como una olla exprés, a punto de explotar, "
+    "que revienta, reventado=reventada? , que se lo llevan los demonios=se lo llevan los demonios, que se lo llevan los diablos, con los cables cruzados=cruzársele los cables, "
+    "salido de sus casillas=fuera de sus casillas, perdiendo los papeles, perder los nervios, de los nervios, hasta la coronilla, hasta las cejas, hasta el gorro, "
+    "con el morro=morrudo? , con hocico? , con jeta? , de morritos? , con el moco caído? , enfadica, gruñón=gruñona, cascarrabias, quisquilloso, susceptible, "
+    "picado como un mono? , como un mono, como un basilisco, como un miura, como una víbora, como un tigre, rojo de ira=rojo como un tomate? , echando espumarajos, "
+    "echando pestes, echando sapos y culebras, jurando en arameo, cagándose en todo, cagándose en la leche, poniendo el grito en el cielo, tirándose de los pelos",
+ 4: "emberrinchado=emberrinchada, con un berrinche=berrinche, con una pataleta=pataleta, con una rabieta=rabieta, con un pronto=pronto, con un ataque de cuernos? , "
+    "atufado=atufada, amoscado=amoscada, escamado=escamada, mohíno=mohína, amohinado, enojón, bravo=brava (Hispanoamérica), emputado=emputada, encabronado=encabronada, "
+    "enchilado=enchilada, sacado de onda? , caliente=estar caliente (Argentina)? , calentito? , re caliente? , chivo=estar chivo? , con la cachucha volteada? , "
+    "con un rebote de narices, rebotadísimo, mosqueadísimo, quemadísimo, hasta el mismísimo, hasta los mismísimos, hasta el último pelo, hasta la médula, "
+    "de uñas como un gato, con los pelos de punta? , con el estómago revuelto? , con un nudo en el estómago? , con la sangre hirviendo=hirviéndole la sangre, "
+    "con la vena hinchada=se le hincha la vena, con la vena del cuello? , echando fuego por los ojos=echando fuego, echando rayos, echando chispas por los ojos, "
+    "más quemado que la pipa de un indio=más quemado que el palo de un churrero, más mosqueado que un pavo en Nochebuena, más negro que el carbón? , "
+    "con un globo? , de mala gaita, de mala cara, de malísimo humor, con ganas de matar a alguien=con ganas de matar, homicida? , asesino? , "
+    "furibundo=furibunda, rabioso perdido, fuera de quicio=sacado de quicio, desquiciado perdido, endemoniado, poseído? , frenético=frenética, exaltado=exaltada",
+ 5: "cabreo=con un cabreo, rebote, mosqueo, mala leche, mala hostia, mala uva, mala baba, malhumor=mal humor, ira, rabia, furia, cólera, enojo, enfado, berrinche, pataleta, "
+    "torcer el morro, poner morros, poner hocico, poner jeta, fruncir el ceño, apretar los dientes, rechinar los dientes, dar un portazo=portazo, tirar los trastos, "
+    "picárselas, rebotarse, mosquearse, cabrearse, encabronarse, emputarse, encolerizarse, enfurecerse, sulfurarse, exaltarse, alterarse, crisparse, irritarse, "
+    "subirse por las paredes, salirse de sus casillas, perder los estribos, ponerse hecho un basilisco, ponerse como una fiera, ponerse negro, ponerse rojo, "
+    "estar que fuma en pipa? , estar que bufa=bufando, estar que brama=bramando, estar que rabia, estar que hierve=hirviendo, estar que arde=ardiendo, estar que se sube por las paredes, "
+    "de chinches, de malas pulgas, de pulgas? , de perros, de mil demonios, de los mil demonios, con la escopeta cargada, con el hacha en alto? , en pie de guerra, "
+    "en modo Hulk=Hulk, modo diablo? , modo Karen? , como Hulk, como el increíble Hulk, como Donald (el pato)=el pato Donald, como Gruñón=Gruñón, como el Grinch? , "
+    "rabioso como un perro con rabia? , como un toro bravo, como un miura, como un león enjaulado, como un oso con resaca? , como un gato panza arriba, "
+    "cagüentó? , cagüendiez=me cago en diez, me cago en la mar, me cago en la leche, me cago en todo, me cago en Dios? , mecachis, jolines? , jopé? , ostras? , rediez, recórcholis"
+},
+"museo": {
+ 1: "Museo del Prado=el Prado=Prado, Louvre=Museo del Louvre=el Louvre, Guggenheim=Museo Guggenheim=Guggenheim Bilbao, Reina Sofía=Museo Reina Sofía, Thyssen=Museo Thyssen=Thyssen-Bornemisza, "
+    "Museo Británico=British Museum, Museos Vaticanos=Museo Vaticano, MoMA=Museo de Arte Moderno, Museo Picasso, Museo Dalí=Teatro-Museo Dalí, Museo del Jamón, Museo de Cera=Madame Tussauds",
+ 2: "Orsay=Museo de Orsay, Metropolitan=Met=Museo Metropolitano, Uffizi=Galería Uffizi, Rijksmuseum, Museo Van Gogh, Hermitage, National Gallery, Tate Modern=Tate, Centro Pompidou=Pompidou, "
+    "Museo Egipcio=Museo Egipcio de El Cairo, Museo de Pérgamo=Pérgamo, Museo Arqueológico Nacional=MAN, Museo Naval=Museo Naval de Madrid, Museo del Ejército, Museo de Ciencias Naturales, Museo del Romanticismo, "
+    "Museo Sorolla, Museo Lázaro Galdiano, Museo de América, Museo del Traje, Museo Cerralbo, CaixaForum, Museo Nacional de Arte de Cataluña=MNAC, MACBA, Fundació Miró=Fundación Miró, "
+    "Museo Picasso de Málaga, Centre Pompidou Málaga, Museo Carmen Thyssen, Museo de Bellas Artes de Bilbao, Museo de Bellas Artes de Sevilla, Museo de Bellas Artes, "
+    "Ciudad de las Artes y las Ciencias=Museo de las Ciencias, Museo de la Ciencia=CosmoCaixa, Museo del Ferrocarril, Museo del Real Madrid=Tour del Bernabéu, Museo del Barça=Camp Nou Experience, "
+    "Museo Chillida Leku=Chillida Leku, San Telmo=Museo San Telmo, Eureka Zientzia Museoa=Eureka, Museo Marítimo, Museo Naval de San Sebastián? , Aquarium? , "
+    "Museo Nacional de Escultura, Museo Romano de Mérida=Museo de Arte Romano, Museo de Altamira=Altamira, Atapuerca=Museo de la Evolución Humana, Museo Sefardí, Museo del Greco, "
+    "Museo Nacional de Antropología, Museo de Historia de Madrid, Museo Casa de la Moneda, Museo Tiflológico? , Museo de la Ilusión=Museo de las Ilusiones, Museo del Chocolate, Museo del Videojuego, "
+    "Museo de la Inquisición? , Museo Cristóbal Balenciaga=Museo Balenciaga, Museo del Vino=Vivanco, Museo Würth, Museo de la Paz de Gernika? , Museo Vasco, Bellas Artes de Álava? , Artium, "
+    "Museo Smithsoniano=Smithsonian, Museo de Historia Natural=Natural History Museum, Museo de Ciencia de Londres=Science Museum, Victoria and Albert=V&A, Museo del Holocausto, Yad Vashem, "
+    "Museo de Anne Frank=Casa de Anne Frank, Museo Munch, Museo de Acrópolis=Museo de la Acrópolis, Museo de Arte Moderno de San Francisco? , Getty=Museo Getty, Guggenheim Nueva York, "
+    "Museo Nacional de Antropología de México, Museo Frida Kahlo=Casa Azul, Museo de Oro=Museo del Oro, Museo Larco, MALBA, Museo de Bellas Artes de Buenos Aires",
+}
+})
+
+MANO["extincion"] = {
+ 1: "panda=oso panda=panda gigante, lince ibérico=lince, tigre, elefante, rinoceronte, oso polar, gorila, orangután, ballena azul=ballena, tortuga marina=tortuga, "
+    "koala, guepardo, leopardo de las nieves, lobo ibérico? , águila imperial=águila imperial ibérica, ajolote",
+ 2: "chimpancé, bonobo, leopardo, león, jaguar, jirafa, hipopótamo, elefante africano, elefante asiático, rinoceronte negro, rinoceronte blanco, rinoceronte de Java, rinoceronte de Sumatra, "
+    "tigre de Bengala, tigre de Sumatra, tigre siberiano=tigre de Amur, oso pardo=oso pardo cantábrico, foca monje=foca monje del Mediterráneo, vaquita marina=vaquita, "
+    "quebrantahuesos, urogallo=urogallo cantábrico, visón europeo, desmán ibérico=desmán de los Pirineos, tortuga mora, tortuga boba, tortuga laúd, tortuga carey, "
+    "tiburón blanco=gran tiburón blanco, tiburón ballena, tiburón martillo, manta raya=mantarraya, pez sierra, atún rojo, anguila=anguila europea, esturión, "
+    "pingüino africano, pingüino emperador? , frailecillo, kakapo, cóndor=cóndor de California=cóndor andino, buitre negro, alimoche, avutarda, "
+    "oso malayo, oso andino=oso de anteojos, panda rojo, pangolín, okapi, dugongo, manatí, delfín del Ganges? , delfín del Yangtsé? , orca? , cachalote, "
+    "lémur, aye-aye, tarsero? , gibón, mono araña, tití=tití cabeza de algodón, tapir, armadillo gigante, oso hormiguero gigante, lobo de crin? , "
+    "gaviota de Audouin? , cerceta pardilla, malvasía cabeciblanca, porrón pardo, ganga? , alondra ricotí, "
+    "salamandra gigante, cocodrilo del Orinoco=cocodrilo, lobo ibérico=lobo, abeja=abejas, nutria gigante=nutria, delfín de río=delfín del Ganges=delfín del Yangtsé=baiji=delfín, rana dorada? , gavial, dragón de Komodo, iguana de Fiyi? , camaleón? , coral=arrecife de coral, abeja? ",
+}
+
+MANO["utensilio_cocina"] = {
+ 1: "sartén, olla=cacerola, cazo, cuchillo, cuchara=cucharón, tenedor, espátula, batidora, colador, rallador, abrelatas, sacacorchos, tabla de cortar=tabla de picar=tabla, "
+    "pelador=pelapatatas, cuchara de palo=cuchara de madera, tijeras",
+ 2: "espumadera, pinzas=pinzas de cocina, varillas=batidor=batidor de varillas, rodillo=rodillo de amasar, mortero=almirez, exprimidor, escurridor=escurridera, embudo, "
+    "cazuela=cazuela de barro, paellera, wok, olla exprés=olla a presión, cafetera, tetera, hervidor, tostadora, microondas, horno, freidora=freidora de aire=airfryer, "
+    "Thermomix=robot de cocina, licuadora, picadora, minipimer, báscula=báscula de cocina=peso, vaso medidor=jarra medidora, cucharas medidoras, molde=molde de bizcocho, "
+    "bandeja de horno, fuente=fuente de horno, bol=cuenco, ensaladera, sacacorchos? , abrebotellas=abridor, cascanueces, prensa ajos=prensaajos, mandolina, "
+    "brocha=pincel de cocina, manga pastelera, lengua=lengua de silicona=espátula de silicona, cuchillo jamonero, chaira=afilador, cuchillo cebollero, hacha=cuchilla=macheta, "
+    "plancha=plancha de cocina, parrilla, grill, sandwichera, gofrera, crepera, yogurtera, panificadora, termómetro=termómetro de cocina, temporizador=reloj de cocina, "
+    "papel de aluminio=papel albal, papel film=film transparente, papel de horno, trapo=paño de cocina, manopla=manopla de horno=agarrador, salvamanteles, "
+    "salero, pimentero, molinillo=molinillo de pimienta, aceitera, vinagrera, azucarera, quesera? , panera, frutero, especiero, tarros, tupper=táper, fiambrera",
+ 3: "puntilla, cuchillo de sierra=cuchillo de pan, cuchillo santoku=santoku, cuchillo de chef, cuchillo de pescado, cuchillo de queso, deshuesador, descorazonador=vaciador, sacabolas, "
+    "pinzas de barbacoa, pinzas de servir, cucharón de sopa=cazo de servir, cucharón de salsa, espátula de pescado, paleta, rasqueta=raspador, espátula de pastelería, "
+    "rejilla, colador chino=chino, tamiz=cedazo, estameña, escurreverduras=centrifugadora de ensalada, centrifugadora de lechuga, pasapurés, triturador, molinillo de café, "
+    "molde de magdalenas, molde de silicona, molde desmontable, flanera, quesera, cortapastas=cortagalletas, rodillo de pizza=cortapizzas, pala de pizza, piedra de pizza, "
+    "olla de cocción lenta=slow cooker, cocotte, olla de hierro, cazo de leche, sartén de hierro, sartén antiadherente, sartén para tortilla=sartén de tortilla, paellera de hierro, "
+    "vaporera=vaporera de bambú, cesta de vapor, fondue, raclette, olla de fondue, wok de hierro, tajín, mortero de granito, molcajete, "
+    "pelador de juliana, espiralizador=cortador espiral, picador de cebolla, rebanadora=cortafiambres, cortafiambres, loncheadora, jamonero=soporte jamonero, "
+    "batidora de vaso, batidora de varillas=amasadora=KitchenAid, amasadora, picadora de carne, envasadora al vacío=envasadora, deshidratador, sifón=sifón de nata, "
+    "cuchara de helado=bola de helado=sacabolas de helado, abrelatas eléctrico, descorchador=descorchador de palanca, enfriador de vino? , cubitera, coctelera, colador de cóctel, "
+    "medidor de espaguetis, pinzas de espaguetis, cuchara de pasta, escurridor de pasta, máquina de pasta=máquina para hacer pasta, cortador de huevo=cortahuevos, huevera, "
+    "termómetro de horno, termómetro de azúcar, soplete=soplete de cocina, quemador, salamandra, trinchante=tenedor trinchante, ralladora de queso? , microplane",
+ 4: "mandolina japonesa=benriner, cuchillo deba, cuchillo usuba, cuchillo yanagiba, cuchillo nakiri, cuchillo de deshuesar, cuchillo de filetear, cuchillo de ostras=abreostras, abreostras, "
+    "tenedor de marisco=pinzas de marisco, cascamariscos, tijeras de marisco, tijeras de pescado, tijeras de aves, desescamador=escamador, pinzas de espinas, "
+    "colador de té=infusor, bolsa de manga pastelera? , boquillas de manga=boquillas, rodillo de fondant, alisador de fondant, tornillo de repostería? , giradiscos? , base giratoria=giratorio de tartas, "
+    "aro de emplatar=aro de cocina, molde de flan, molde de bundt=molde de rosca, molde de plum cake, molde de cupcakes, molde de bombones, molde de hielo=cubitera de silicona, "
+    "papel sulfurizado, estameña de queso, gasa? , cuerda de bridar=hilo de cocina, aguja de mechar, jeringa de marinar=inyector de sabor, mechador, "
+    "olla de barro=puchero, perol, marmita, caldero, tartera, chocolatera, cazo de chocolate, sartén de crepes, sartén de paella valenciana? , "
+    "plancha de asar, comal, parrilla de piedra, piedra volcánica, salamandra profesional, horno holandés=dutch oven, horno de leña? , horno Josper? , "
+    "Roner=roner, Sous vide=sous-vide=cocción al vacío, Thermomix TM6, Mambo=Cecotec Mambo, Monsieur Cuisine, Moulinex, Instant Pot, olla GM? , "
+    "pesa de cocina digital, balanza, medidor de grasa? , separador de grasa, separador de huevos, batidor de huevos, varilla de mano, batidor de muelle, "
+    "cuchara perforada=cuchara de agujeros, cazo de freír=araña=cesta de freír, araña, cesta de fritura, rejilla de enfriar, rejilla de horno, "
+    "afilador de cuchillos, piedra de afilar=piedra de agua, bloque de cuchillos=taco de cuchillos, barra magnética=imán de cuchillos",
+ 5: "cuchillo honesuki, cuchillo kiritsuke, cuchillo gyuto, cuchillo sujihiki, cuchillo petty, cuchillo bunka, chuchillo de mondar? , cuchillo mezzaluna=mezzaluna=media luna, "
+    "chitarra=chitarra para pasta, ravioli cutter=cortador de raviolis, carrucola? , garganelli board? , tabla de ñoquis, sello de pasta? , "
+    "molinillo de pasapurés=passe-vite, chinois? , étamine, bain-marie=baño maría, cazo para baño maría, chafing dish=calientaplatos, "
+    "mandolina de Benriner, ralladora de parmesano=ralladora rotativa, ralladora de jengibre, ralladora de wasabi=oroshigane, suribachi, surikogi, tamagoyaki=sartén de tamagoyaki, "
+    "takoyaki=placa de takoyaki, donabe, hangiri, makisu=esterilla de sushi, shamoji=pala de arroz, olla arrocera=arrocera=rice cooker, "
+    "tandoor, karahi, tawa, idli? , dosa? , metate, molcajete y tejolote, comal de barro, tortillera=prensa de tortillas, "
+    "cuscusera, tajine de barro, cezve=ibrik, samovar, moka, prensa francesa=cafetera de émbolo, V60, Chemex, AeroPress, sifón japonés, espumador de leche=espumador, "
+    "boleador? , mondador? , pelador de espárragos, quitapepitas? , despipador de cerezas=deshuesador de cerezas, pelador de mango, cortador de piña, sacacorazones de manzana, "
+    "salamandra de gratinar, mandolina de trufa=laminador de trufa, rallador de nuez moscada, molinillo de sal, mortero de mármol, almirez de bronce, "
+    "olla de cobre, cazo de cobre, cazo de mermelada, cazo de caramelo, termómetro de caramelo, rejilla de pastelería, brocha de silicona, rascador de masa=rasqueta de panadero, "
+    "banneton=cesto de fermentación, lame=cuchilla de panadero, piedra de horno, pala de panadero, tabla de amasar, cuchilla de panadero"
+}

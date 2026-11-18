@@ -1,0 +1,245 @@
+respuesta;alias;nivel;orden_a_mano
+móvil;teléfono;1;1000000000
+batería;;1;999999999
+pila;pilas;1;999999998
+tarjeta;tarjeta del metro|bono de transporte|abono;1;999999997
+mechero;encendedor;1;999999996
+coche eléctrico;coche;1;999999995
+ordenador;portátil;1;999999994
+tablet;;1;999999993
+patinete eléctrico;patinete;1;999999992
+bici eléctrica;;1;999999991
+auriculares;AirPods;1;999999990
+reloj;smartwatch;1;999999989
+power bank;batería externa;1;999999988
+grapadora;;1;999999987
+tarjeta de prepago;saldo|recarga del móvil;2;1000000000
+tarjeta regalo;;2;999999999
+monedero electrónico;;2;999999998
+bonobús;;2;999999997
+tarjeta transporte;tarjeta del bus;2;999999996
+cuenta;saldo de la cuenta;2;999999995
+pistola;cargador de la pistola|arma|cargador;2;999999994
+escopeta;;2;999999993
+rifle;;2;999999992
+cartucho de tinta;impresora|cartuchos;2;999999991
+tóner;;2;999999990
+bolígrafo;boli|recambio;2;999999989
+pluma;estilográfica;2;999999988
+rotulador;;2;999999987
+mechero de gasolina;Zippo;2;999999986
+encendedor de cocina;;2;999999985
+vaper;cigarrillo electrónico|vapeador;2;999999984
+botella de agua;botella;2;999999983
+cantimplora;;2;999999982
+termo;;2;999999981
+dispensador de jabón;jabón;2;999999980
+ambientador;;2;999999979
+perfume;colonia;2;999999978
+depósito;depósito de gasolina;2;999999977
+gasolina;;2;999999976
+deposito del coche;;2;999999975
+bombona de butano;bombona;2;999999974
+extintor;;2;999999973
+botella de oxígeno;;2;999999972
+aire acondicionado (gas);gas del aire;2;999999971
+bombona de buceo;;2;999999970
+Nintendo Switch;Switch;2;999999969
+mando;mando de la consola|mando de la Play;2;999999968
+consola portátil;;2;999999967
+cámara de fotos;cámara;2;999999966
+GoPro;;2;999999965
+dron;;2;999999964
+linterna;;2;999999963
+altavoz;altavoz bluetooth;2;999999962
+cepillo de dientes eléctrico;;2;999999961
+maquinilla de afeitar;afeitadora;2;999999960
+depiladora;;2;999999959
+aspiradora;aspiradora de mano|Roomba|robot aspirador;2;999999958
+taladro;taladro inalámbrico;2;999999957
+energía;pilas (de uno mismo)|recargar pilas;2;999999956
+uno mismo;;2;999999955
+el cuerpo;dormir;2;999999954
+Kindle;libro electrónico;3;1000000000
+auriculares inalámbricos;;3;999999999
+cascos;;3;999999998
+ratón inalámbrico;ratón;3;999999997
+teclado inalámbrico;teclado;3;999999996
+mando de Apple TV;;3;999999995
+reloj inteligente;;3;999999994
+pulsera de actividad;;3;999999993
+anillo inteligente;;3;999999992
+gafas inteligentes;;3;999999991
+audífono;;3;999999990
+implante coclear;;3;999999989
+marcapasos;;3;999999988
+silla de ruedas eléctrica;;3;999999987
+scooter de movilidad;;3;999999986
+motos eléctricas;moto eléctrica;3;999999985
+monopatín eléctrico;;3;999999984
+hoverboard;;3;999999983
+segway;;3;999999982
+monociclo eléctrico;;3;999999981
+carrito de golf;;3;999999980
+coche de juguete eléctrico;;3;999999979
+coche teledirigido;coche RC;3;999999978
+juguete;;3;999999977
+robot de juguete;;3;999999976
+muñeca interactiva;;3;999999975
+farolillo solar;luces solares;3;999999974
+lámpara solar;;3;999999973
+lámpara recargable;;3;999999972
+vela LED;;3;999999971
+frontal;linterna frontal;3;999999970
+walkie-talkie;walkie;3;999999969
+radio;;3;999999968
+cortacésped eléctrico;;3;999999967
+desbrozadora;;3;999999966
+sopladora;;3;999999965
+motosierra eléctrica;;3;999999964
+atornillador;;3;999999963
+amoladora;;3;999999962
+sierra de calar;;3;999999961
+pistola de silicona;;3;999999960
+batidora inalámbrica;;3;999999959
+molinillo eléctrico;;3;999999958
+sacacorchos eléctrico;;3;999999957
+encendedor de barbacoa;;3;999999956
+saldo de Paypal;PayPal;3;999999955
+tarjeta del comedor;;3;999999954
+tarjeta de fotocopias;;3;999999953
+tarjeta de la lavandería;;3;999999952
+pluma Montblanc;Montblanc;3;999999951
+cartucho de pluma;;3;999999950
+mina;minas del portaminas;3;999999949
+portaminas;;3;999999948
+cargador del rifle;;3;999999947
+munición;;3;999999946
+cartucho de agua;filtro de agua|jarra Brita|Brita;3;999999945
+sifón;;3;999999944
+SodaStream;máquina de soda;3;999999943
+bombona de CO2;;3;999999942
+dispensador de agua;;3;999999941
+las baterías;recargar baterías;3;999999940
+la mente;;3;999999939
+el ánimo;;3;999999937
+el entusiasmo;;3;999999936
+batería del coche;;4;1000000000
+batería de litio;;4;999999999
+batería de plomo;;4;999999998
+pila recargable;pilas recargables|Eneloop;4;999999997
+pilas AA;;4;999999996
+pilas AAA;;4;999999995
+pila de botón;;4;999999994
+power bank solar;;4;999999993
+estación de carga;Powerstation|generador portátil;4;999999992
+EcoFlow;;4;999999991
+Jackery;;4;999999990
+Tesla Powerwall;Powerwall;4;999999989
+batería doméstica;;4;999999988
+Tesla;;4;999999987
+Model 3;;4;999999986
+Model Y;;4;999999985
+Zoe;Renault Zoe;4;999999984
+Leaf;Nissan Leaf;4;999999983
+BYD;;4;999999982
+Dacia Spring;;4;999999981
+MG4;;4;999999980
+Taycan;;4;999999979
+Ioniq;;4;999999978
+autobús eléctrico;;4;999999977
+tren de batería;;4;999999976
+taxi eléctrico;;4;999999975
+Bicing;BiciMAD;4;999999974
+Cooltra;;4;999999973
+Acciona moto;;4;999999972
+Lime;;4;999999971
+Dott;;4;999999970
+Tier;;4;999999969
+Apple Pencil;;4;999999968
+S Pen;;4;999999967
+lápiz digital;;4;999999966
+mando de Wii;Wiimote;4;999999965
+Joy-Con;;4;999999964
+DualSense;;4;999999963
+DualShock;;4;999999962
+mando de Xbox;;4;999999961
+Steam Deck;;4;999999960
+PS Vita;;4;999999959
+cámara réflex (batería);batería de cámara;4;999999958
+flash;;4;999999957
+micrófono inalámbrico;;4;999999956
+foco LED;;4;999999955
+aro de luz;anillo de luz;4;999999954
+estabilizador;gimbal;4;999999953
+termostato inalámbrico;;4;999999952
+timbre inteligente;Ring;4;999999951
+cámara de vigilancia;;4;999999950
+cerradura inteligente;;4;999999949
+cepillo facial;Foreo;4;999999948
+irrigador;irrigador dental;4;999999947
+cortapelos;maquinilla de cortar el pelo;4;999999946
+cortabarbas;;4;999999945
+recortadora;;4;999999944
+plancha de pelo inalámbrica;;4;999999943
+vibrador;juguete sexual;4;999999942
+Satisfyer;;4;999999941
+monedero de Starbucks;Starbucks card;4;999999940
+abono de esquí;forfait;4;999999939
+metro de Madrid (tarjeta);Tarjeta Transporte Público;4;999999938
+T-casual;T-usual;4;999999937
+T-10;;4;999999936
+Barik;;4;999999935
+Mugi;;4;999999934
+tarjeta Oyster;Oyster;4;999999933
+Navigo;;4;999999932
+Suica;;4;999999931
+Octopus card;;4;999999930
+condensador;;5;1000000000
+supercondensador;;5;999999999
+batería de flujo;;5;999999998
+pila de combustible;;5;999999997
+célula de hidrógeno;;5;999999996
+batería de sodio;;5;999999995
+batería de estado sólido;;5;999999994
+batería de níquel;NiMH|NiCd;5;999999993
+acumulador;;5;999999992
+acumulador de calor;;5;999999991
+termo eléctrico;acumulador de agua;5;999999990
+estufa de acumulación;;5;999999989
+central de bombeo;bombeo hidráulico;5;999999988
+rover;Perseverance;5;999999987
+iPod;;5;999999986
+MP3;;5;999999985
+MP4;;5;999999984
+PDA;;5;999999983
+BlackBerry;;5;999999982
+pila de Volta;;5;999999981
+botella de Leyden;;5;999999980
+batería de Bagdad;pila de Bagdad;5;999999979
+linterna de dinamo;linterna de manivela;5;999999978
+radio de manivela;;5;999999977
+cargador solar;;5;999999976
+mochila solar;;5;999999975
+mechero de plasma;;5;999999974
+mechero USB;;5;999999973
+mechero de arco;;5;999999972
+encendedor de gas;encendedor piezoeléctrico;5;999999971
+escopeta de cartuchos;;5;999999970
+revólver;;5;999999969
+Nerf;pistola Nerf;5;999999968
+pistola de agua;;5;999999967
+pistola de bolas;airsoft;5;999999966
+paintball;;5;999999965
+estilográfica de émbolo;;5;999999964
+pluma de cartucho;;5;999999963
+subrayador recargable;;5;999999962
+tarjeta bancaria prepago;;5;999999961
+tarjeta de débito prepago;;5;999999960
+tarjeta Paysafecard;Paysafecard;5;999999959
+tarjeta Google Play;;5;999999958
+tarjeta de iTunes;;5;999999957
+tarjeta de PlayStation Store;PSN;5;999999956
+tarjeta de Steam;;5;999999955
+Robux;;5;999999954
+pavos de Fortnite;V-Bucks;5;999999953

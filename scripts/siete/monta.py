@@ -333,6 +333,13 @@ PREGUNTAS = [
     ("Nombra un mote cariñoso", "mote_carinoso"),
     ("Nombra un jugador del Real Madrid", "real_madrid"),
     ("Nombra una plataforma de streaming", "streaming"),
+    ("Nombra algo que tenga asas", "tiene_asas"),
+    ("Nombra algo que se recarga", "se_recarga"),
+    ("Nombra un animal en peligro de extinción", "extincion"),
+    ("Nombra una canción con un número en el título", "cancion_numero"),
+    ("Nombra una forma de decir «enfadado»", "forma_enfadado"),
+    ("Nombra un museo", "museo"),
+    ("Nombra un utensilio de cocina", "utensilio_cocina"),
 ]
 
 # Desde el 31 de octubre de 2026 los niveles son más generosos: la gente veía casi imposible llegar a Muy raro y Sabihondo.

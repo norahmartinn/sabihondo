@@ -1,0 +1,311 @@
+respuesta;alias;nivel;orden_a_mano
+sartén;;1;1000000000
+olla;cacerola;1;999999999
+cazo;;1;999999998
+cuchillo;;1;999999997
+cuchara;cucharón;1;999999996
+tenedor;;1;999999995
+espátula;;1;999999994
+batidora;;1;999999993
+colador;;1;999999992
+rallador;;1;999999991
+abrelatas;;1;999999990
+sacacorchos;;1;999999989
+tabla de cortar;tabla de picar|tabla;1;999999988
+pelador;pelapatatas;1;999999987
+cuchara de palo;cuchara de madera;1;999999986
+tijeras;;1;999999985
+espumadera;;2;1000000000
+pinzas;pinzas de cocina;2;999999999
+varillas;batidor|batidor de varillas;2;999999998
+rodillo;rodillo de amasar;2;999999997
+mortero;almirez;2;999999996
+exprimidor;;2;999999995
+escurridor;escurridera;2;999999994
+embudo;;2;999999993
+cazuela;cazuela de barro;2;999999992
+paellera;;2;999999991
+wok;;2;999999990
+olla exprés;olla a presión;2;999999989
+cafetera;;2;999999988
+tetera;;2;999999987
+hervidor;;2;999999986
+tostadora;;2;999999985
+microondas;;2;999999984
+horno;;2;999999983
+freidora;freidora de aire|airfryer;2;999999982
+Thermomix;robot de cocina;2;999999981
+licuadora;;2;999999980
+picadora;;2;999999979
+minipimer;;2;999999978
+báscula;báscula de cocina|peso;2;999999977
+vaso medidor;jarra medidora;2;999999976
+cucharas medidoras;;2;999999975
+molde;molde de bizcocho;2;999999974
+bandeja de horno;;2;999999973
+fuente;fuente de horno;2;999999972
+bol;cuenco;2;999999971
+ensaladera;;2;999999970
+abrebotellas;abridor;2;999999969
+cascanueces;;2;999999968
+prensa ajos;;2;999999967
+mandolina;;2;999999966
+brocha;pincel de cocina;2;999999965
+manga pastelera;;2;999999964
+lengua;lengua de silicona|espátula de silicona;2;999999963
+cuchillo jamonero;;2;999999962
+chaira;afilador;2;999999961
+cuchillo cebollero;;2;999999960
+hacha;cuchilla|macheta;2;999999959
+plancha;plancha de cocina;2;999999958
+parrilla;;2;999999957
+grill;;2;999999956
+sandwichera;;2;999999955
+gofrera;;2;999999954
+crepera;;2;999999953
+yogurtera;;2;999999952
+panificadora;;2;999999951
+termómetro;termómetro de cocina;2;999999950
+temporizador;reloj de cocina;2;999999949
+papel de aluminio;papel albal;2;999999948
+papel film;film transparente;2;999999947
+papel de horno;;2;999999946
+trapo;paño de cocina;2;999999945
+manopla;manopla de horno|agarrador;2;999999944
+salvamanteles;;2;999999943
+salero;;2;999999942
+pimentero;;2;999999941
+molinillo;molinillo de pimienta;2;999999940
+aceitera;;2;999999939
+vinagrera;;2;999999938
+azucarera;;2;999999937
+panera;;2;999999936
+frutero;;2;999999935
+especiero;;2;999999934
+tarros;;2;999999933
+tupper;táper;2;999999932
+fiambrera;;2;999999931
+puntilla;;3;1000000000
+cuchillo de sierra;cuchillo de pan;3;999999999
+cuchillo santoku;santoku;3;999999998
+cuchillo de chef;;3;999999997
+cuchillo de pescado;;3;999999996
+cuchillo de queso;;3;999999995
+deshuesador;;3;999999994
+descorazonador;vaciador;3;999999993
+sacabolas;;3;999999992
+pinzas de barbacoa;;3;999999991
+pinzas de servir;;3;999999990
+cucharón de sopa;cazo de servir;3;999999989
+cucharón de salsa;;3;999999988
+espátula de pescado;;3;999999987
+paleta;;3;999999986
+rasqueta;raspador;3;999999985
+espátula de pastelería;;3;999999984
+rejilla;;3;999999983
+colador chino;chino;3;999999982
+tamiz;cedazo;3;999999981
+estameña;;3;999999980
+escurreverduras;centrifugadora de ensalada;3;999999979
+centrifugadora de lechuga;;3;999999978
+pasapurés;;3;999999977
+triturador;;3;999999976
+molinillo de café;;3;999999975
+molde de magdalenas;;3;999999974
+molde de silicona;;3;999999973
+molde desmontable;;3;999999972
+flanera;;3;999999971
+quesera;;3;999999970
+cortapastas;cortagalletas;3;999999969
+rodillo de pizza;cortapizzas;3;999999968
+pala de pizza;;3;999999967
+piedra de pizza;;3;999999966
+olla de cocción lenta;slow cooker;3;999999965
+cocotte;;3;999999964
+olla de hierro;;3;999999963
+cazo de leche;;3;999999962
+sartén de hierro;;3;999999961
+sartén antiadherente;;3;999999960
+sartén para tortilla;sartén de tortilla;3;999999959
+paellera de hierro;;3;999999958
+vaporera;vaporera de bambú;3;999999957
+cesta de vapor;;3;999999956
+fondue;;3;999999955
+raclette;;3;999999954
+olla de fondue;;3;999999953
+wok de hierro;;3;999999952
+tajín;;3;999999951
+mortero de granito;;3;999999950
+molcajete;;3;999999949
+pelador de juliana;;3;999999948
+espiralizador;cortador espiral;3;999999947
+picador de cebolla;;3;999999946
+rebanadora;cortafiambres;3;999999945
+loncheadora;;3;999999943
+jamonero;soporte jamonero;3;999999942
+batidora de vaso;;3;999999941
+batidora de varillas;amasadora|KitchenAid;3;999999940
+picadora de carne;;3;999999938
+envasadora al vacío;envasadora;3;999999937
+deshidratador;;3;999999936
+sifón;sifón de nata;3;999999935
+cuchara de helado;bola de helado|sacabolas de helado;3;999999934
+abrelatas eléctrico;;3;999999933
+descorchador;descorchador de palanca;3;999999932
+cubitera;;3;999999931
+coctelera;;3;999999930
+colador de cóctel;;3;999999929
+medidor de espaguetis;;3;999999928
+pinzas de espaguetis;;3;999999927
+cuchara de pasta;;3;999999926
+escurridor de pasta;;3;999999925
+máquina de pasta;máquina para hacer pasta;3;999999924
+cortador de huevo;cortahuevos;3;999999923
+huevera;;3;999999922
+termómetro de horno;;3;999999921
+termómetro de azúcar;;3;999999920
+soplete;soplete de cocina;3;999999919
+quemador;;3;999999918
+salamandra;;3;999999917
+trinchante;tenedor trinchante;3;999999916
+microplane;;3;999999915
+mandolina japonesa;benriner;4;1000000000
+cuchillo deba;;4;999999999
+cuchillo usuba;;4;999999998
+cuchillo yanagiba;;4;999999997
+cuchillo nakiri;;4;999999996
+cuchillo de deshuesar;;4;999999995
+cuchillo de filetear;;4;999999994
+cuchillo de ostras;abreostras;4;999999993
+tenedor de marisco;pinzas de marisco;4;999999991
+cascamariscos;;4;999999990
+tijeras de marisco;;4;999999989
+tijeras de pescado;;4;999999988
+tijeras de aves;;4;999999987
+desescamador;escamador;4;999999986
+pinzas de espinas;;4;999999985
+colador de té;infusor;4;999999984
+boquillas de manga;boquillas;4;999999983
+rodillo de fondant;;4;999999982
+alisador de fondant;;4;999999981
+base giratoria;giratorio de tartas;4;999999980
+aro de emplatar;aro de cocina;4;999999979
+molde de flan;;4;999999978
+molde de bundt;molde de rosca;4;999999977
+molde de plum cake;;4;999999976
+molde de cupcakes;;4;999999975
+molde de bombones;;4;999999974
+molde de hielo;cubitera de silicona;4;999999973
+papel sulfurizado;;4;999999972
+estameña de queso;;4;999999971
+cuerda de bridar;hilo de cocina;4;999999970
+aguja de mechar;;4;999999969
+jeringa de marinar;inyector de sabor;4;999999968
+mechador;;4;999999967
+olla de barro;puchero;4;999999966
+perol;;4;999999965
+marmita;;4;999999964
+caldero;;4;999999963
+tartera;;4;999999962
+chocolatera;;4;999999961
+cazo de chocolate;;4;999999960
+sartén de crepes;;4;999999959
+plancha de asar;;4;999999958
+comal;;4;999999957
+parrilla de piedra;;4;999999956
+piedra volcánica;;4;999999955
+salamandra profesional;;4;999999954
+horno holandés;dutch oven;4;999999953
+Roner;;4;999999952
+Sous vide;cocción al vacío;4;999999951
+Thermomix TM6;;4;999999950
+Mambo;Cecotec Mambo;4;999999949
+Monsieur Cuisine;;4;999999948
+Moulinex;;4;999999947
+Instant Pot;;4;999999946
+pesa de cocina digital;;4;999999945
+balanza;;4;999999944
+separador de grasa;;4;999999943
+separador de huevos;;4;999999942
+batidor de huevos;;4;999999941
+varilla de mano;;4;999999940
+batidor de muelle;;4;999999939
+cuchara perforada;cuchara de agujeros;4;999999938
+cazo de freír;araña|cesta de freír;4;999999937
+cesta de fritura;;4;999999935
+rejilla de enfriar;;4;999999934
+rejilla de horno;;4;999999933
+afilador de cuchillos;;4;999999932
+piedra de afilar;piedra de agua;4;999999931
+bloque de cuchillos;taco de cuchillos;4;999999930
+barra magnética;imán de cuchillos;4;999999929
+cuchillo honesuki;;5;1000000000
+cuchillo kiritsuke;;5;999999999
+cuchillo gyuto;;5;999999998
+cuchillo sujihiki;;5;999999997
+cuchillo petty;;5;999999996
+cuchillo bunka;;5;999999995
+cuchillo mezzaluna;mezzaluna|media luna;5;999999994
+chitarra;chitarra para pasta;5;999999993
+ravioli cutter;cortador de raviolis;5;999999992
+tabla de ñoquis;;5;999999991
+molinillo de pasapurés;passe-vite;5;999999990
+étamine;;5;999999989
+bain-marie;baño maría;5;999999988
+cazo para baño maría;;5;999999987
+chafing dish;calientaplatos;5;999999986
+mandolina de Benriner;;5;999999985
+ralladora de parmesano;ralladora rotativa;5;999999984
+ralladora de jengibre;;5;999999983
+ralladora de wasabi;oroshigane;5;999999982
+suribachi;;5;999999981
+surikogi;;5;999999980
+tamagoyaki;sartén de tamagoyaki;5;999999979
+takoyaki;placa de takoyaki;5;999999978
+donabe;;5;999999977
+hangiri;;5;999999976
+makisu;esterilla de sushi;5;999999975
+shamoji;pala de arroz;5;999999974
+olla arrocera;arrocera|rice cooker;5;999999973
+tandoor;;5;999999972
+karahi;;5;999999971
+tawa;;5;999999970
+metate;;5;999999969
+molcajete y tejolote;;5;999999968
+comal de barro;;5;999999967
+tortillera;prensa de tortillas;5;999999966
+cuscusera;;5;999999965
+tajine de barro;;5;999999964
+cezve;ibrik;5;999999963
+samovar;;5;999999962
+moka;;5;999999961
+prensa francesa;cafetera de émbolo;5;999999960
+V60;;5;999999959
+Chemex;;5;999999958
+AeroPress;;5;999999957
+sifón japonés;;5;999999956
+espumador de leche;espumador;5;999999955
+pelador de espárragos;;5;999999954
+despipador de cerezas;deshuesador de cerezas;5;999999953
+pelador de mango;;5;999999952
+cortador de piña;;5;999999951
+sacacorazones de manzana;;5;999999950
+salamandra de gratinar;;5;999999949
+mandolina de trufa;laminador de trufa;5;999999948
+rallador de nuez moscada;;5;999999947
+molinillo de sal;;5;999999946
+mortero de mármol;;5;999999945
+almirez de bronce;;5;999999944
+olla de cobre;;5;999999943
+cazo de cobre;;5;999999942
+cazo de mermelada;;5;999999941
+cazo de caramelo;;5;999999940
+termómetro de caramelo;;5;999999939
+rejilla de pastelería;;5;999999938
+brocha de silicona;;5;999999937
+rascador de masa;rasqueta de panadero;5;999999936
+banneton;cesto de fermentación;5;999999935
+lame;cuchilla de panadero;5;999999934
+piedra de horno;;5;999999933
+pala de panadero;;5;999999932
+tabla de amasar;;5;999999931

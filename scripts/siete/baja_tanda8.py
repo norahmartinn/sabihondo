@@ -19,6 +19,7 @@ CONSULTAS = {
   OPTIONAL { ?x rdfs:label ?e FILTER(LANG(?e)="eu") }
   OPTIONAL { ?x skos:altLabel ?alt FILTER(LANG(?alt)="es" || LANG(?alt)="eu") }
 } GROUP BY ?x""",
+ "amenazados_animales": q("VALUES ?st { wd:Q11394 wd:Q219127 wd:Q278113 } ?x wdt:P141 ?st ; wdt:P171+ wd:Q729 ; wikibase:sitelinks ?s0 . FILTER(?s0 > 9)"),
  "amenazados":  q("VALUES ?st { wd:Q11394 wd:Q219127 wd:Q278113 } ?x wdt:P141 ?st ; wikibase:sitelinks ?s0 . FILTER(?s0 > 9)"),
 }
 if __name__ == "__main__":
