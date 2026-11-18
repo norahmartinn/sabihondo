@@ -68,9 +68,13 @@ def ciudad_euskadi():
     """Los municipios de la Comunidad Autónoma del País Vasco (Wikidata, con el nombre en euskera como alias); lo conocido, a mano."""
     junta("ciudad_euskadi", por_tramos(wd8("euskadi"), [(60, 3), (90, 4), (None, 5)]), "enlaces_wikipedia")
 
-CON_FUNCION = {"ciudad_portugal", "raza_perro", "ciudad_euskadi"}
+def ciudad_andalucia():
+    """Los 785 municipios de Andalucía (Wikidata); lo conocido, a mano."""
+    junta("ciudad_andalucia", por_tramos(wd8("andalucia"), [(90, 3), (200, 4), (None, 5)]), "enlaces_wikipedia")
+
+CON_FUNCION = {"ciudad_portugal", "raza_perro", "ciudad_euskadi", "ciudad_andalucia"}
 SOLO8 = solo_mano(*[s for s in mano_t8.MANO if s not in CON_FUNCION])
-TODAS8 = SOLO8 + [ciudad_portugal, raza_perro, palabra_y, ciudad_euskadi]
+TODAS8 = SOLO8 + [ciudad_portugal, raza_perro, palabra_y, ciudad_euskadi, ciudad_andalucia]
 if __name__ == "__main__":
     pedidas = sys.argv[1:]
     for f in TODAS8:

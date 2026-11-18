@@ -1,0 +1,243 @@
+respuesta;alias;nivel;orden_a_mano
+móvil;teléfono|smartphone|teléfono móvil|iPhone;1;1000000000
+tele;televisión|televisor;1;999999999
+ordenador;ordenador portátil|portátil|PC;1;999999998
+tablet;tableta|iPad;1;999999997
+cine;sala de cine;1;999999996
+microondas;;1;999999995
+reloj inteligente;smartwatch|Apple Watch|reloj|reloj digital;1;999999994
+cajero;cajero automático;1;999999993
+consola;Nintendo Switch|Switch;1;999999992
+calculadora;;1;999999991
+lavadora;;2;1000000000
+horno;;2;999999999
+frigorífico;nevera|nevera inteligente;2;999999998
+coche;salpicadero|GPS|navegador del coche;2;999999997
+cámara;cámara de fotos;2;999999996
+Game Boy;Nintendo DS|PSP|consola portátil;2;999999995
+monitor;;2;999999994
+libro electrónico;Kindle|ebook;2;999999993
+despertador digital;despertador;2;999999992
+radio del coche;;2;999999991
+termostato;;2;999999990
+aire acondicionado;;2;999999989
+máquina de tabaco;;2;999999988
+máquina expendedora;;2;999999987
+autobús;pantalla del bus;2;999999986
+metro;pantalla del metro;2;999999985
+aeropuerto;panel de salidas;2;999999984
+estación de tren;;2;999999983
+marcador;marcador del estadio|videomarcador;2;999999982
+valla publicitaria digital;pantalla de publicidad;2;999999981
+Times Square;;2;999999980
+datáfono;TPV;2;999999979
+caja registradora;caja del súper;2;999999978
+báscula digital;báscula;2;999999977
+tensiómetro;;2;999999976
+termómetro digital;termómetro;2;999999975
+pulsera de actividad;Fitbit|Mi Band;2;999999974
+Tamagotchi;;2;999999973
+ecógrafo;ecografía;2;999999972
+monitor del hospital;monitor cardíaco;2;999999971
+cabina de avión;avión;2;999999970
+cafetera;Thermomix;2;999999969
+robot de cocina;;2;999999968
+impresora;;2;999999967
+fotocopiadora;;2;999999966
+telefonillo con cámara;videoportero;2;999999965
+GoPro;;2;999999964
+dron;mando del dron;2;999999963
+teléfono fijo inalámbrico;teléfono inalámbrico;2;999999962
+pantalla de cine IMAX;IMAX;3;1000000000
+pantalla de autocine;autocine;3;999999999
+cine de verano;;3;999999998
+pantalla de concierto;concierto;3;999999997
+festival;;3;999999996
+discoteca;;3;999999995
+estadio;;3;999999994
+pantalla táctil;;3;999999993
+kiosko de McDonald's;quiosco de McDonald's|pantalla de pedidos;3;999999992
+máquina de autopago;autocobro;3;999999991
+surtidor de gasolina;surtidor;3;999999990
+parquímetro;parquímetro de la ORA;3;999999989
+máquina de billetes;máquina de billetes de Renfe;3;999999988
+taxímetro;taxi;3;999999987
+tren AVE;AVE|tren;3;999999986
+avión (respaldo);pantalla del asiento del avión;3;999999985
+videojuego de recreativa;máquina recreativa|arcade|recreativa|recreativas;3;999999984
+pinball;;3;999999983
+máquina tragaperras;tragaperras;3;999999982
+bingo electrónico;;3;999999981
+máquina de karaoke;karaoke;3;999999980
+frigorífico Samsung;Family Hub;3;999999979
+horno inteligente;;3;999999978
+placa de inducción;vitrocerámica;3;999999977
+lavavajillas;;3;999999976
+secadora;;3;999999975
+caldera;caldera de gas;3;999999974
+alarma;alarma de casa|panel de alarma;3;999999973
+ascensor (pantalla de pisos);ascensor;3;999999972
+pantalla del ascensor;;3;999999971
+Nintendo 3DS;3DS;3;999999970
+Wii U;mando de la Wii U;3;999999969
+Steam Deck;;3;999999968
+PlayStation Portable;;3;999999967
+PS Vita;;3;999999966
+Atari Lynx;;3;999999965
+gafas de realidad virtual;Oculus|Meta Quest|Apple Vision Pro|gafas VR;3;999999963
+Google Glass;;3;999999962
+ecosonda;sonda de pesca;3;999999961
+sónar;;3;999999960
+radar;;3;999999959
+osciloscopio;;3;999999958
+polímetro;multímetro;3;999999957
+glucómetro;;3;999999956
+pulsioxímetro;;3;999999955
+TAC;;3;999999954
+resonancia;resonancia magnética;3;999999953
+desfibrilador;;3;999999952
+bomba de insulina;;3;999999951
+respirador;;3;999999950
+máquina de diálisis;;3;999999949
+robot Da Vinci;;3;999999948
+e-reader;Kobo;3;999999947
+PDA;Palm;3;999999946
+Pocket PC;;3;999999945
+BlackBerry;;3;999999944
+Nokia;;3;999999943
+busca;buscapersonas;3;999999942
+mp3;reproductor mp3|iPod;3;999999941
+iPod nano;;3;999999940
+cámara réflex;;3;999999939
+cámara de vídeo;videocámara|handycam;3;999999938
+cámara de seguridad;monitor de vigilancia;3;999999937
+monitor de bebé;vigilabebés;3;999999936
+intercomunicador;;3;999999935
+televisor de tubo;tele de tubo|CRT;4;1000000000
+plasma;tele de plasma;4;999999999
+OLED;;4;999999998
+smart TV;;4;999999997
+Echo Show;Alexa con pantalla|Alexa;4;999999996
+Google Nest Hub;;4;999999995
+marco digital;marco de fotos digital;4;999999994
+Nintendo Game & Watch;Game & Watch;4;999999993
+Virtual Boy;;4;999999992
+Sega Game Gear;Game Gear;4;999999991
+Neo Geo Pocket;;4;999999990
+WonderSwan;;4;999999989
+Tamagotchi Pix;;4;999999988
+Digimon (vpet);Digivice;4;999999987
+Pokéwalker;;4;999999986
+Nintendo DSi;;4;999999985
+PSP Go;;4;999999984
+Switch Lite;;4;999999983
+Switch OLED;;4;999999982
+Switch 2;;4;999999981
+Steam Deck OLED;;4;999999980
+ROG Ally;;4;999999979
+Kindle Paperwhite;;4;999999978
+Kindle Oasis;;4;999999977
+Remarkable;;4;999999976
+tableta gráfica con pantalla;Cintiq;4;999999975
+Wacom;;4;999999974
+Garmin;GPS de mano|Garmin de bici;4;999999973
+ciclocomputador;;4;999999972
+pulsómetro;;4;999999971
+reloj de buceo;ordenador de buceo;4;999999970
+reloj Casio;Casio;4;999999969
+calculadora gráfica;Texas Instruments|Casio fx;4;999999968
+Minitel;;4;999999967
+terminal bancario;;4;999999966
+fax con pantalla;;4;999999965
+centralita;;4;999999964
+contestador automático;;4;999999963
+máquina de café de oficina;máquina de café;4;999999962
+nevera de Coca-Cola;vending;4;999999961
+máquina de fotos;fotomatón;4;999999960
+máquina de garra;máquina de peluches;4;999999959
+kiosco de información;punto de información;4;999999958
+mapa interactivo;;4;999999957
+tótem digital;;4;999999956
+escaparate digital;;4;999999955
+pantalla de Burger King;pantalla de pedidos de Burger King;4;999999954
+coche Tesla;Tesla;4;999999953
+CarPlay;Apple CarPlay;4;999999952
+Android Auto;;4;999999951
+espejo retrovisor digital;;4;999999950
+head-up display;HUD;4;999999949
+cámara de marcha atrás;;4;999999948
+tacógrafo;;4;999999947
+cuadro de mandos del avión;glass cockpit;4;999999946
+simulador de vuelo;;4;999999945
+cabina del tren;;4;999999944
+sala de control;;4;999999943
+torre de control;;4;999999942
+pizarra digital;PDI|pizarra electrónica;4;999999941
+mesa de mezclas digital;;4;999999940
+sintetizador;;4;999999939
+piano digital;;4;999999938
+caja de ritmos;;4;999999937
+pedal de guitarra digital;pedalera;4;999999936
+máquina de coser computerizada;;4;999999935
+termómetro de cocina;;4;999999934
+báscula de cocina;;4;999999933
+freidora de aire;airfryer;4;999999932
+panificadora;;4;999999931
+olla programable;;4;999999930
+Thermomix TM6;TM6;4;999999929
+pantalla de tinta electrónica;e-ink;5;1000000000
+LCD;;5;999999999
+LED;;5;999999998
+cristal líquido;;5;999999997
+pantalla de fósforo;;5;999999996
+nixie;tubo Nixie;5;999999995
+VFD;display fluorescente;5;999999994
+panel de siete segmentos;display de siete segmentos;5;999999993
+ordenador de a bordo;;5;999999992
+Pip-Boy;;5;999999991
+HAL 9000;HAL;5;999999990
+KITT;el coche fantástico;5;999999989
+la tele de Teletubbies;Teletubbies|Tinky Winky;5;999999988
+WALL-E;EVA|Eve;5;999999987
+Robot de Interstellar;TARS;5;999999986
+visor de cámara;visor electrónico;5;999999985
+monitor de estudio;;5;999999984
+monitor de producción;monitor de referencia;5;999999983
+teleprompter;autocue;5;999999982
+claqueta digital;claqueta electrónica;5;999999981
+marcador de baloncesto;reloj de posesión|24 segundos;5;999999980
+cronómetro de natación;;5;999999979
+tablero de ajedrez electrónico;;5;999999978
+reloj de ajedrez;reloj de ajedrez digital;5;999999977
+máquina del millón;;5;999999976
+Tamagotchi Uni;;5;999999975
+Speak & Spell;;5;999999974
+audiómetro;;5;999999973
+retinógrafo;;5;999999972
+campímetro;;5;999999971
+autorrefractómetro;;5;999999970
+espirómetro;;5;999999969
+electrocardiógrafo;;5;999999968
+monitor de constantes;;5;999999967
+capnógrafo;;5;999999966
+bomba de infusión;;5;999999965
+colposcopio;;5;999999964
+endoscopio;;5;999999963
+gastroscopio;;5;999999962
+laparoscopio;;5;999999961
+ecocardiógrafo;;5;999999960
+mamógrafo;;5;999999959
+densitómetro;;5;999999958
+contador inteligente de la luz;contador de la luz;5;999999957
+cargador de coche eléctrico;punto de recarga;5;999999956
+inversor solar;;5;999999955
+estación meteorológica;;5;999999954
+detector de metales;;5;999999953
+sonda de temperatura;;5;999999952
+analizador de gases;;5;999999951
+osciloscopio digital;;5;999999950
+analizador de espectro;;5;999999949
+máquina de tickets de turno;dispensador de turnos;5;999999948
+pantalla de turnos;el número de la carnicería;5;999999947
+panel del ambulatorio;;5;999999946
+panel de quirófano;;5;999999945

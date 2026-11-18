@@ -589,3 +589,214 @@ MANO["ciudad_euskadi"] = {
  4: "Pamplona=Iruña=Iruñea, Bayona=Baiona, Biarritz=Miarritze, San Juan de Luz=Donibane Lohizune, Hendaya=Hendaia, Estella=Lizarra, Tudela, Elizondo, Leitza, Lesaka, Bera, "
     "Altsasu=Alsasua, Sangüesa, Olite, Tafalla, Ziburu=Ciboure, Ezpeleta=Espelette, Saint-Jean-Pied-de-Port=Donibane Garazi, Mauleón=Maule, Bidart=Bidarte, Anglet=Angelu, Igeldo=Igueldo, Algorta, Las Arenas=Areeta, Neguri, Deusto, Zorroza=Zorrotza, Gros=Egia? , Pasai Donibane=Pasajes de San Juan, Pasai San Pedro=Pasajes de San Pedro, Lasarte-Oria",
 }
+
+MANO.update({
+"tiene_pantalla": {
+ 1: "móvil=teléfono=smartphone=teléfono móvil=iPhone, tele=televisión=televisor, ordenador=ordenador portátil=portátil=PC, tablet=tableta=iPad, cine=sala de cine, "
+    "microondas, reloj inteligente=smartwatch=Apple Watch=reloj=reloj digital, cajero=cajero automático, consola=Nintendo Switch=Switch, calculadora",
+ 2: "lavadora, horno, frigorífico=nevera=nevera inteligente, coche=salpicadero=GPS=navegador del coche, cámara=cámara de fotos, Game Boy=Nintendo DS=PSP=consola portátil, "
+    "monitor, proyector? , libro electrónico=Kindle=ebook, despertador digital=despertador, radio del coche, termostato, aire acondicionado, "
+    "máquina de tabaco, máquina expendedora, autobús=pantalla del bus, metro=pantalla del metro, aeropuerto=panel de salidas, estación de tren, "
+    "marcador=marcador del estadio=videomarcador, valla publicitaria digital=pantalla de publicidad, Times Square, datáfono=TPV, caja registradora=caja del súper, "
+    "báscula digital=báscula, tensiómetro, termómetro digital=termómetro, pulsera de actividad=Fitbit=Mi Band, mando de la Switch? , Tamagotchi, "
+    "ecógrafo=ecografía, monitor del hospital=monitor cardíaco, cabina de avión=avión, cafetera=Thermomix, robot de cocina, impresora, fotocopiadora, "
+    "telefonillo con cámara=videoportero, GoPro, dron=mando del dron, teléfono fijo inalámbrico=teléfono inalámbrico, walkie? ",
+ 3: "pantalla de cine IMAX=IMAX, pantalla de autocine=autocine, cine de verano, pantalla de concierto=concierto, festival, discoteca, estadio, "
+    "pantalla táctil, kiosko de McDonald's=quiosco de McDonald's=pantalla de pedidos, máquina de autopago=autocobro, surtidor de gasolina=surtidor, parquímetro=parquímetro de la ORA, "
+    "máquina de billetes=máquina de billetes de Renfe, validadora? , torno del metro? , taxímetro=taxi, bus turístico? , tren AVE=AVE=tren, avión (respaldo)=pantalla del asiento del avión, "
+    "videojuego de recreativa=máquina recreativa=arcade=recreativa=recreativas, pinball, máquina tragaperras=tragaperras, bingo electrónico, máquina de karaoke=karaoke, "
+    "frigorífico Samsung=Family Hub, horno inteligente, placa de inducción=vitrocerámica, lavavajillas, secadora, aspiradora robot? , Roomba? , "
+    "caldera=caldera de gas, alarma=alarma de casa=panel de alarma, ascensor (pantalla de pisos)=ascensor, pantalla del ascensor, "
+    "Nintendo 3DS=3DS, Wii U=mando de la Wii U, Steam Deck, PlayStation Portable, PS Vita, Atari Lynx, Tamagotchi, Furby Connect? , "
+    "gafas de realidad virtual=Oculus=Meta Quest=Apple Vision Pro=gafas VR, Google Glass, casco de moto inteligente? , visor? , "
+    "ecosonda=sonda de pesca, sónar, radar, osciloscopio, polímetro=multímetro, glucómetro, pulsioxímetro, TAC, resonancia=resonancia magnética, rayos X? , "
+    "desfibrilador, bomba de insulina, Holter? , respirador, incubadora? , máquina de diálisis, robot Da Vinci, "
+    "e-reader=Kobo, PDA=Palm, Pocket PC, BlackBerry, Nokia, busca=buscapersonas, mp3=reproductor mp3=iPod, iPod nano, discman? , "
+    "cámara réflex, cámara de vídeo=videocámara=handycam, cámara de seguridad=monitor de vigilancia, monitor de bebé=vigilabebés, intercomunicador",
+ 4: "televisor de tubo=tele de tubo=CRT, plasma=tele de plasma, OLED, smart TV, Chromecast? , Apple TV? , Fire TV? , Echo Show=Alexa con pantalla=Alexa, Google Nest Hub, "
+    "marco digital=marco de fotos digital, Polaroid? , Nintendo Game & Watch=Game & Watch, Virtual Boy, Sega Game Gear=Game Gear, Neo Geo Pocket, WonderSwan, "
+    "Tamagotchi Pix, Digimon (vpet)=Digivice, Pokéwalker, Pokédex? , Nintendo DSi, PSP Go, Switch Lite, Switch OLED, Switch 2, Steam Deck OLED, ROG Ally, "
+    "Kindle Paperwhite, Kindle Oasis, Remarkable, tableta gráfica con pantalla=Cintiq, Wacom, "
+    "Garmin=GPS de mano=Garmin de bici, ciclocomputador, pulsómetro, reloj de buceo=ordenador de buceo, reloj Casio=Casio, calculadora gráfica=Texas Instruments=Casio fx, "
+    "Atari? , Minitel, terminal bancario, teletexto? , telex? , fax con pantalla, centralita, contestador automático, "
+    "máquina de café de oficina=máquina de café, nevera de Coca-Cola=vending, máquina de fotos=fotomatón, máquina de garra=máquina de peluches, "
+    "kiosco de información=punto de información, mapa interactivo, tótem digital, escaparate digital, pantalla de Burger King=pantalla de pedidos de Burger King, "
+    "coche Tesla=Tesla, CarPlay=Apple CarPlay, Android Auto, espejo retrovisor digital, head-up display=HUD, cámara de marcha atrás, tacógrafo, "
+    "cuadro de mandos del avión=glass cockpit, simulador de vuelo, cabina del tren, sala de control, torre de control, "
+    "pizarra digital=PDI=pizarra electrónica, mesa de mezclas digital, sintetizador, piano digital, caja de ritmos, pedal de guitarra digital=pedalera, "
+    "máquina de coser computerizada, termómetro de cocina, báscula de cocina, freidora de aire=airfryer, panificadora, olla programable, Thermomix TM6=TM6",
+ 5: "pantalla de tinta electrónica=e-ink, LCD, LED, cristal líquido, pantalla de fósforo, nixie=tubo Nixie, VFD=display fluorescente, panel de siete segmentos=display de siete segmentos, "
+    "cuadro de mandos del Delorean? , ordenador de a bordo, ECU? , panel del Halcón Milenario? , Pip-Boy, terminal de Fallout? , HAL 9000=HAL, KITT=el coche fantástico, "
+    "la tele de Teletubbies=Teletubbies=Tinky Winky, Bender? , WALL-E=EVA=Eve, Baymax? , Robot de Interstellar=TARS, C-3PO? , "
+    "pantalla del Nintendo Power Glove? , visor de cámara=visor electrónico, monitor de estudio, monitor de producción=monitor de referencia, teleprompter=autocue, "
+    "chyron? , claqueta digital=claqueta electrónica, marcador de baloncesto=reloj de posesión=24 segundos, cronómetro de natación, tablero de ajedrez electrónico, "
+    "reloj de ajedrez=reloj de ajedrez digital, máquina del millón, Simon? , Tamagotchi Uni, Bop It? , Furby? , Speak & Spell, "
+    "audiómetro, retinógrafo, campímetro, autorrefractómetro, espirómetro, electrocardiógrafo, monitor de constantes, capnógrafo, bomba de infusión, "
+    "colposcopio, endoscopio, gastroscopio, laparoscopio, ecocardiógrafo, mamógrafo, densitómetro, "
+    "contador inteligente de la luz=contador de la luz, contador del gas? , cargador de coche eléctrico=punto de recarga, inversor solar, estación meteorológica, "
+    "detector de metales, sonda de temperatura, analizador de gases, osciloscopio digital, analizador de espectro, "
+    "máquina de tickets de turno=dispensador de turnos, pantalla de turnos=el número de la carnicería, panel del ambulatorio, panel de quirófano"
+},
+"licor": {
+ 1: "pacharán=patxaran, orujo, Licor 43=licor cuarenta y tres=43, Baileys, Jägermeister=Jäger=Jagger, limoncello=limoncelo=limonchelo, anís=anís del Mono, ron, whisky=güisqui, vodka, ginebra=gin, tequila, "
+    "crema de orujo, licor de hierbas=orujo de hierbas, Ruavieja",
+ 2: "brandy=coñac=cognac, Cointreau, Grand Marnier, Malibú=Malibu, Amaretto=Disaronno, Sambuca, Frangelico, Kahlúa=Kahlua, Tía María, Ponche Caballero=ponche, "
+    "licor de café, licor de manzana=manzana verde=Manzanita, licor de melocotón=Melocotón, licor de mora=moras, licor de avellana, licor de cereza=Cherry, "
+    "Agua de Valencia? , Absenta=absenta=ajenjo, pastís=Pastis, Pernod, Ricard, ouzo, raki, grappa, aguardiente, chinchón=anís Chinchón, "
+    "Calvados, mezcal, pisco, cachaça, sake, soju, Campari, Aperol, Martini=vermú=vermut, Cynar, Fernet=Fernet Branca, Ratafía, Hierbas de Mallorca=herbes, "
+    "Licor Café, Tunel=Túnel de Mallorca, Kalua? , Licor de bellota, licor de madroño, aguardiente de Cazalla=Cazalla, anís de Rute, Marie Brizard, "
+    "Southern Comfort, Drambuie, Chartreuse, Bénédictine=Benedictine, Galliano, Midori, Curaçao=Blue Curaçao=curasao, Triple Sec, Pacharán Zoco=Zoco, Basarana, "
+    "Licor 43 Orochata? , crema catalana (licor)=licor de crema catalana, licor de turrón, Mistela, moscatel? , oporto? , jerez? , marsala? ",
+ 3: "Bitter Kas? , Pimm's, Chambord, Crème de cassis=cassis, Crème de menthe=pippermint=Pippermint, Peppermint Get=Get 27, Strega, Fireball, Goldschläger, Goldwasser, "
+    "Becherovka, Unicum, Jagertee? , Ouzo 12, Mastika, Arak, Tsipouro, Rakia, Palinka=pálinka, Slivovitz, Kirsch, Poire Williams=licor de pera, Pacharán navarro, "
+    "Aguardiente antioqueño, Guaro, Singani, Chicha? , Licor de guindas=guindilla? , Mistela de Valencia, Hierbas Ibicencas=hierbas ibicencas, Palo de Mallorca=Palo, "
+    "Gin Larios=Larios, Beefeater, Tanqueray, Bombay Sapphire, Hendrick's, Gin Mare, Puerto de Indias, Absolut, Smirnoff, Grey Goose, Eristoff, "
+    "Bacardí=Bacardi, Barceló, Brugal, Havana Club, Captain Morgan, Cacique, Arehucas, Ron Miel=ron miel canario, Bumbu, "
+    "J&B, Ballantine's, Johnnie Walker, Jack Daniel's, Cutty Sark, DYC, Chivas, Jameson, Macallan, Glenfiddich, Jim Beam, Four Roses, "
+    "Veterano, Soberano, 103=Osborne 103, Carlos I, Terry=Centenario Terry, Magno, Fundador, Torres 10, Lepanto, Cardenal Mendoza, "
+    "Hennessy, Rémy Martin, Martell, Courvoisier, José Cuervo, Patrón, Don Julio, Olmeca, Sauza, Jose Cuervo Especial? , "
+    "licor de hierbas gallego, licor de castañas, licor de miel=miel, licor de arándanos, licor de violetas, licor de rosas, licor de canela, licor de chocolate, "
+    "licor de plátano=banana, licor de coco, licor de piña, licor de fresa, licor de frambuesa=framboise, licor de higo, licor de nueces=nocino, licor de anís estrellado, "
+    "licor de endrinas, licor de sidra=aguardiente de sidra, aguardiente de orujo, orujo blanco, crema de whisky, crema de café, crema de arroz con leche, Licor 43 Baristo, "
+    "Sabra, Advocaat=licor de huevo, Rompope, Mozart=licor de chocolate Mozart, Godiva, Amarula, Cachaça 51=51",
+ 4: "Ratafía catalana, Licor de Montserrat=Aromes de Montserrat, Frígola=licor de tomillo, Calisay, Licor de las Hierbas de Galicia, Licor Café de Galicia, Aguardiente de Galicia, "
+    "Tostadillo? , Ojén=aguardiente de Ojén, Anís de La Asturiana, Anís del Duende? , Anís Castellana, Anís Machaquito, Anís El Clavel? , Anís Las Cadenas, "
+    "Pacharán Etxeko, Pacharán La Navarra, Pacharán Atxa, Patxaran Basarana, Patxaran Zoco, Txapela? , Licor de manzana Kalanbre? , "
+    "Ruavieja crema, Licor de hierbas Panizo? , Licor 43 Horchata, Licor 43 Chocolate, Cortés de Arana? , Gabriel Boudier, Bols, De Kuyper, Marie Brizard Anisette=anisette, "
+    "Bénédictine DOM, Chartreuse verde, Chartreuse amarilla, Izarra, Génépi, Suze, Lillet, Dubonnet, Byrrh, Picon=Amer Picon, "
+    "Averna, Montenegro, Ramazzotti, Lucano, Nonino, Braulio, Amaro=amaro, Branca Menta, Limoncino, Nocino, Mirto=licor de mirto, Strega Alberti, Maraschino=marrasquino, Luxardo, "
+    "Tuaca, Licor Beirão=Beirão, Ginjinha=ginja, Aguardente, Medronho, Poncha, "
+    "Akvavit=aquavit, Brennivín, Gammel Dansk, Underberg, Kümmel, Schnapps=schnaps, Rumple Minze, Killepitsch, Becherovka Lemond, "
+    "Żubrówka, Krupnik, Wiśniówka, Nalewka, Horilka, Chacha, Tutovka, Arak libanés, Zivania, Ouzo Plomari, Tentura, Mastiha, "
+    "Baijiu, Maotai, Shochu, Umeshu=licor de ciruela, Awamori, Makgeolli? , Arrack de Sri Lanka, Feni, Lambanog, Tuba? , "
+    "Caña=caña de azúcar=aguardiente de caña, Charanda, Sotol, Raicilla, Bacanora, Pox, Xtabentún, Licor de Damiana=Damiana, Kalhua? , Ron Zacapa, Diplomático",
+ 5: "Aromes de Montserrat, Licor de Hierbas Fonda? , Hierbas Túnel, Palo Tunel, Hierbas Dulces, Herbes Seques, Calvo? , Licor Calisay, Licor Bombón? , "
+    "Anís Tenis? , Chinchón Seco Especial, Anís de Cazalla Miura, Anís Machaquito Dulce, Anís Marie Brizard? , Anís El Mono Seco, Anís La Violetera? , "
+    "Aguardiente de Barbastro? , Moscatel de Málaga? , Pajarete, Arrope? , Licor de Bellotas Extremeño, Licor de Cereza del Jerte=Licor de Cerezas del Jerte, Gloria Bendita? , "
+    "Crema de Orujo Panizo, Orujo de Potes, Orujo de Liébana, Aguardiente de Hierbas de Galicia IGP, Ratafia de Ponts? , Ratafia Russet, Licor de Nueces Cuenca? , "
+    "Resolí=resolí de Cuenca, Mistela de Cuenca? , Zurracapote? , Queimada=licor de queimada, Licor de Guindas de Alanís? , Licor de Membrillo, Licor de Granada, "
+    "Licor de Algarroba, Licor de Bellota de Jabugo? , Licor de Hinojo, Licor de Poleo, Licor de Café Maragato? , Licor de Arroz con Leche Ruavieja? , "
+    "Fernet-Vallet, Cynar 70, Bitter Truth? , Pimento Dram, Falernum, Allspice Dram, Crème de Violette, Crème de Noyaux, Crème de Banane, Parfait Amour, "
+    "Mandarine Napoléon, Van der Hum, Kahlúa Especial? , Tia Maria Cold Brew? , Licor Beirão Velho? , Sloe gin=ginebra de endrinas, Damson gin, "
+    "Hierbas de Ibiza Marí Mayans=Marí Mayans, Frígola Ibicenca, Palo Tunel Mallorquín, Licor de Algarrobas, Absenta Teichenné=Teichenné, Absenta 55 Mari Mayans"
+},
+"marvel_pelis": {
+ 1: "Iron Man, Los Vengadores=Vengadores=The Avengers=Avengers, Spider-Man=Spiderman=Spider-man, Thor, Capitán América=Capitán América: el primer vengador, Black Panther, "
+    "Guardianes de la Galaxia, Doctor Strange, Deadpool, Vengadores: Endgame=Endgame=Avengers Endgame, Vengadores: Infinity War=Infinity War, Ant-Man, Hulk=El increíble Hulk, Lobezno=X-Men",
+ 2: "Iron Man 2, Iron Man 3, Thor: el mundo oscuro, Thor: Ragnarok=Ragnarok, Thor: Love and Thunder, Capitán América: el soldado de invierno=El soldado de invierno, "
+    "Capitán América: Civil War=Civil War, Capitán América: Brave New World, Vengadores: la era de Ultrón=La era de Ultrón=Age of Ultron, Guardianes de la Galaxia Vol. 2=Guardianes de la Galaxia 2, "
+    "Guardianes de la Galaxia Vol. 3=Guardianes de la Galaxia 3, Spider-Man: Homecoming=Homecoming, Spider-Man: Lejos de casa=Lejos de casa=Far From Home, Spider-Man: No Way Home=No Way Home, "
+    "Ant-Man y la Avispa=Ant-Man 2, Ant-Man y la Avispa: Quantumanía=Quantumanía, Capitana Marvel=Captain Marvel, The Marvels, Black Widow=Viuda Negra, "
+    "Shang-Chi y la leyenda de los Diez Anillos=Shang-Chi, Eternals=Los Eternos, Doctor Strange en el multiverso de la locura=Doctor Strange 2, Black Panther: Wakanda Forever=Wakanda Forever, "
+    "Deadpool 2, Deadpool y Lobezno=Deadpool & Wolverine, Thunderbolts=Thunderbolts*, Los Cuatro Fantásticos=4 Fantásticos=Cuatro Fantásticos=Los 4 Fantásticos, Los 4 Fantásticos: primeros pasos, "
+    "Spider-Man 2, Spider-Man 3, The Amazing Spider-Man, The Amazing Spider-Man 2, Spider-Man: un nuevo universo=Un nuevo universo=Into the Spider-Verse=Spider-Verse=Spiderverse, Spider-Man: cruzando el multiverso=Across the Spider-Verse, "
+    "Venom, Venom: habrá matanza, Venom: el último baile, Morbius, Madame Web, Kraven el cazador=Kraven, X-Men 2, X-Men: la decisión final, X-Men: primera generación, "
+    "X-Men: días del futuro pasado, X-Men: Apocalipsis, X-Men: Fénix Oscura=Fénix Oscura, X-Men orígenes: Lobezno, Lobezno inmortal, Logan, Los Nuevos Mutantes, "
+    "Big Hero 6, Blade, Ghost Rider, Daredevil, Elektra, Punisher=The Punisher, Hulk (2003), El increíble Hulk (2008), Los 4 Fantásticos y Silver Surfer, Cuatro Fantásticos (2015), "
+    "Vengadores: Doomsday=Avengers: Doomsday, Spider-Man: Brand New Day=Brand New Day, Blade II, Blade: Trinity",
+ 3: "Howard, un nuevo héroe=Howard el pato, Capitán América (1990), El Castigador (1989), Nick Furia (1998)? , Man-Thing, Ghost Rider: espíritu de venganza, "
+    "Punisher: zona de guerra, Spider-Man: más allá del Spider-Verso? , Spider-Man: Beyond the Spider-Verse, Blade (2026)? , Los Cuatro Fantásticos (1994), "
+    "Generation X, Doctor Strange (1978), El increíble Hulk (1977)? , X-Men (2000), X2, Deadpool (2016), Venom 3, Morbius (2022), Madame Web (2024), "
+    "Spider-Man (1977)? , Spider-Man contraataca? , Hombre Araña? , Vengadores: Secret Wars=Avengers: Secret Wars=Secret Wars, Armor Wars? , Shang-Chi 2? , Blade? , "
+    "Iron Man y Hulk: héroes unidos? , Hulk vs.? , Los Vengadores: el nacimiento? , Planeta Hulk? , El invencible Iron Man? , Thor: Tales of Asgard? , "
+    "Ultimate Avengers? , Doctor Strange: hechicero supremo? , Next Avengers? , Iron Man: la rebelión del Technovore? , Avengers Confidential? , Marvel Rising? ",
+},
+"forma_muy": {
+ 1: "mazo, súper=super, muy, mogollón, un montón, cantidad, que flipas, mucho, demasiado, re=requete, ultra, hiper=híper, extremadamente, tope=a tope, pila=una pila",
+ 2: "un huevo, de la hostia=de puta madre? , tela=tela marinera, la hostia, un puñado, la leche, la de Dios, la tira, a saco, a lo bestia, bestial, brutal, "
+    "más que nada, sumamente, extraordinariamente, tremendamente, enormemente, terriblemente, increíblemente, totalmente, completamente, absolutamente, realmente, "
+    "bastante, harto, cien por cien=al cien por cien, un rato=un rato largo, un taco? , un cojón, la mar de, la mar, que te cagas=que te cagas lorito, "
+    "a full=full, mil=mil veces, que no veas, cosa mala, cosa fina, a mansalva, a porrillo, a granel, a punta pala, a cascoporro, a manta, la pera, "
+    "muchísimo, requeteguay? , superguay=súper guay, megaguay? , mega, archi, sobre manera=sobremanera, en extremo, al máximo, hasta arriba, hasta las cejas, "
+    "de narices, de muerte, de cine, de miedo, de lujo, de locos, de escándalo, de película, de infarto, de campeonato, de traca",
+ 3: "requetebién=requete, requetebonito? , rebién=re bien, rebueno? , archiconocido=archi, supermegahiper? , extra, ultra, top, top total, lo más, más que, como la copa de un pino, "
+    "un montonazo, un pastizal, una barbaridad, una burrada, una pasada, una animalada, una salvajada, una brutalidad, una exageración, un disparate, un despropósito, "
+    "la caña, a cholón=a cholón? , hasta el moño? , a tutiplén, a punta de pala, a cántaros, a raudales, a espuertas, a carretadas, a patadas, a montones, por un tubo, "
+    "a lo grande, a lo loco, por todo lo alto, la repanocha, el no va más, la releche, la rehostia, la polla=la hostia en verso? , de pm=de puta madre, "
+    "una cosa bárbara=bárbaro, tremendo, cosa seria, un mundo, lo más grande, la caraba, la monda, la bomba, la repera, la leche en verso? , "
+    "fenomenal, fenomenalmente, sobradamente, excesivamente, desmesuradamente, exageradamente, notablemente, considerablemente, profundamente, altamente, inmensamente, "
+    "sumamente, sobremanera, en grado sumo, en demasía, de sobra, con creces, sin medida, a más no poder, a rabiar, a reventar, a tope de power=tope de power",
+ 4: "bien=bien bonito, bien de=bien de gente, harto=harto bueno, re contra=recontra, recontra, refeo? , retebién=rete, rete, bien re, bastantísimo, demasié, una mijilla? , "
+    "un güevo=un huevo, un webo, cantidubi? , cantidad de, mazo de, pila de, mogollón de, la tira de, un fuerral? , muchismo? , muuuy=muuy, mucho mucho, "
+    "a cascoporro, a punta pala, a manta, a tutiplén, a granel, a puñados, a capazos, a carretillas, a chorros, a mares, a porradas, a saco paco, "
+    "que te cagas, que te mueres, que lo flipas, que alucinas, que te caes, que te meas, que no es normal, que no veas, que te mueres de risa, que es la leche, "
+    "nivel Dios, en plan muy, en plan, rollo muy? , de la muerte, de la leche, de la hostia, de la ostia, de la pera, de la ostia puta? , de cojones, "
+    "brutalmente, salvajemente, bestialmente, ridículamente, absurdamente, obscenamente, escandalosamente, asquerosamente (de bueno), asquerosamente, horriblemente, terriblemente, "
+    "sobradísimo, demasiao=demasiado, bastante bastante, mucho más, superior, súper súper, ultra mega, hiper mega, mega mega, sumo, máximo, "
+    "muchote? , un mazo, un cacho, un pegote? , una pasada de, la mar de bien, la mar de bonito, la mar de bueno, guay del Paraguay? , total, totalísimo",
+ 5: "cosa mala de, la de san Quintín? , a troche y moche, a pote, a mogollón, a gogó, a la ene potencia, a lo ruso? , a destajo, por arrobas, por quintales, "
+    "lo que no está escrito, como un piano, como una catedral, como una casa, como la copa de un pino, como un templo, como un camión, como Dios, que pa qué, "
+    "pa qué te cuento, que tela, pa' flipar, pa mear y no echar gota, pa'l arrastre? , un fracatán, un chorro, chingo, un chingo, bien chido? , harto (Chile), "
+    "re-mil=remil, requetecontra, recontramil, archirequete, re piola? , una banda, un montón de, bocha, un toco, un pedazo, una ponchada, una ponchada de, "
+    "un huevo y la yema del otro, un riñón, un ojo de la cara? , una pila de, un porrón, un porrón de, un pegote de, un cerro, un cerro de, una montaña, "
+    "eminentemente, harto, sobremodo, sobremanera, asaz, harto (literario), muy mucho, bien bien, bien de, de lo más, de lo lindo, de lo lindo bonito? , "
+    "a tope de, a todo trapo, a toda leche, a toda hostia, a toda castaña, a toda pastilla, a todo gas, a todo meter, a toda mecha, a toda velocidad"
+},
+"calzado": {
+ 1: "zapatillas=zapatillas de deporte=deportivas=bambas=tenis=playeras, botas, sandalias, chanclas, tacones=zapatos de tacón, zapatos, mocasines, botines, alpargatas, "
+    "zapatillas de casa=pantuflas=zapatillas de estar por casa, katiuskas=botas de agua=botas de lluvia, náuticos, manoletinas=bailarinas",
+ 2: "chancletas, Crocs=crocs, Converse, Vans, botas de montaña=botas de trekking, botas militares=botas de combate, Dr. Martens=Martens, botas de cowboy=botas camperas=botas tejanas, "
+    "botas de esquí, botas de fútbol=botas de tacos=tacos, zapatillas de ballet=puntas=zapatillas de punta, zapatos de claqué=claqué, zapatos de flamenco, "
+    "cuñas=zapatos de cuña, plataformas=zapatos de plataforma, stilettos=tacón de aguja, salones=zapatos de salón, peep toes=peep toe, slingbacks, mules=zuecos, zuecos, "
+    "zapatos de cordones=oxford=Oxford, blucher, brogues, castellanos, botas de agua, botas de nieve=apreskí=après-ski, UGG=botas UGG=botas australianas, "
+    "esparteñas, menorquinas=avarcas, chancla de dedo=havaianas, Birkenstock, sandalias romanas=romanas, sandalias de tiras, sandalias de plataforma, sandalias de tacón, "
+    "botas altas=botas mosqueteras, botas por la rodilla, botines Chelsea=Chelsea, mocasines de borlas, slippers, slip on, merceditas, francesitas? , "
+    "zapatillas de running=zapatillas de correr, zapatillas de baloncesto, zapatillas de pádel, zapatillas de tenis, escarpines=escarpines de agua=zapatillas de agua, "
+    "patines? , aletas? , pies de gato=gato, botas de equitación=botas de montar, botas de motorista=botas de moto, botas de seguridad=botas de trabajo, zuecos de enfermera=zuecos de hospital",
+ 3: "sabot? , espadrilles, kitten heel=tacón kitten, tacón ancho, tacón cuadrado, block heel, Mary Jane=Mary Janes, D'Orsay, chinelas, babuchas, alpargatas de esparto, "
+    "albarcas, abarcas, madreñas=zuecos de madera, zuecos holandeses, chapines, geta, zori, tabi, huaraches, mocasines indios, mukluks, valenki, "
+    "botas de goma, botas de pescador=vadeadores, botas de vaquero, botines peep toe, botas calcetín, botas de agua de Hunter=Hunter, botas Timberland=Timberland, "
+    "zapatillas de skate=zapatillas de skater, zapatillas de baloncesto altas=botas de baloncesto, zapatillas minimalistas, zapatillas barefoot=barefoot, five fingers=Vibram FiveFingers, "
+    "zapatillas de trail, zapatillas de ciclismo=calas, zapatillas de spinning, zapatillas de golf=zapatos de golf, zapatillas de baile=zapatos de baile, zapatos de salsa, "
+    "zapatos de novia, zapatos de comunión, botas de flamenca? , zapatos de charol=charol, zapatos de ante=ante, sandalias de cangrejo=cangrejeras, cangrejeras, "
+    "zapatillas de lona, deportivas blancas, sneakers, chunky sneakers=zapatillas chunky, Air Force 1? , Stan Smith? , Jordan? , Yeezy? , New Balance? , "
+    "botas de goretex=Gore-Tex? , botas de alta montaña=botas de escalada? , crampones? , raquetas de nieve, botas de patinaje=patines de hielo, botas de snowboard, "
+    "botas de agua de niño=katiuskas de niño, zapatillas con luces=zapatillas de luces, zapatillas con ruedas=Heelys, patucos, peúcos=peucos, zapatitos de bebé",
+ 4: "bota de caña alta, botín de tacón, bota de cuña, sandalia de cuña, sandalia joya, sandalia griega, sandalia gladiadora=gladiadoras, sandalias de pescador, sandalias franciscanas, "
+    "zapatillas de esparto, alpargatas valencianas, alpargatas de cintas, abarcas menorquinas, avarques, zapatillas de esgrima, zapatillas de lucha, zapatillas de boxeo, "
+    "botas de rugby, botas de béisbol, zapatillas de atletismo=clavos=zapatillas de clavos, botas de alpinismo, botas de cazador=botas de caza, botas de agua de pesca, "
+    "chanclas de piscina=chanclas de goma, chanclas de ducha, chanclas de playa, sliders=chanclas de pala, zapatillas de hotel, zapatillas de andar por casa con pompón, "
+    "pantuflas de animales, pantuflas de unicornio? , zapatillas de abuelo, zapatillas de cuadros, botas de pirata, botas de mosquetero, zapatos de arlequín? , "
+    "chopines, pattens, poulaines, zapatos de punta, zapatos de bufón, zapatos de payaso, zapatos de tacón de hombre, zapatos de Cenicienta=zapato de cristal, zapatillas de rubí=zapatos rojos de Dorothy, "
+    "Manolos=Manolo Blahnik, Louboutin=suela roja, Jimmy Choo, Prada? , Gucci? , Balenciaga? , Camper, Mascaró, Pikolinos, Panama Jack, Callaghan, Mustang? , Paredes? , "
+    "Geox, Clarks, Ecco, Skechers, Merrell, Salomon, Hoka, On Running? , Asics? , Mizuno? , Brooks? , Saucony? , Kelme? , Joma? , John Smith? , Munich? , Victoria, "
+    "zapatos ortopédicos, plantillas? , calzado de seguridad, zapatos de chef, zuecos de cocina, botas de bombero, botas de soldado, botas de paracaidista",
+ 5: "bota de caña media, bota pescadora, bota montañera, bota de agua forrada, bota de piel vuelta, borceguíes=borceguí, coturnos, cáligas, galochas, zoclos, almadreñas, "
+    "chanclos, zapatos de carey? , zuecos de Galicia=zocas, zocas, alpargatas de esparto riojanas, alpargatas de Caravaca? , espardeñas, abarcas de goma, abarcas de Mallorca, "
+    "ojotas, cotizas, guaraches, tsukkakesandal? , jika-tabi, waraji, setta, okobo, pokkuri, lotus shoes=zapatos de loto, klompen, pampooties, opanci, "
+    "bast shoes=lapti, lapti, brogan, cothurnus? , crakows, hessian boots=botas húsar, botas Wellington=wellingtons, botas jodhpur=jodhpur, botas desert=desert boots, botas chukka=chukka, "
+    "botas Blundstone=Blundstone, botas Red Wing=Red Wing, botas de goma Aigle=Aigle, botas de agua Igor, chanclas Ipanema, chanclas Rider, sandalias Teva=Teva, sandalias Keen=Keen, Chaco, "
+    "zapatillas Onitsuka Tiger? , Kawasaki? , J'hayber, Paredes, Bestard, Chiruca, Tempe, Lottusse, Magnanni, Carmina, Yanko, Martinelli, Gioseppo, Wonders, Hispanitas, "
+    "zapatos de baile latino, zapatos de tango, zapatos de swing, zapatillas de jazz, zapatillas de gimnasia rítmica=punteras, medias puntas, zapatillas de danza contemporánea? , "
+    "zapatillas de futsal=zapatillas de fútbol sala, zapatillas de balonmano, zapatillas de voleibol, zapatillas de squash, zapatillas de bádminton, zapatillas de bolos"
+},
+"ropa_espanola": {
+ 1: "Zara, Mango, Pull&Bear=Pull and Bear=Pull, Bershka, Stradivarius, Massimo Dutti, Desigual, Springfield, Cortefiel, Oysho, Lefties, Women'secret=Women secret",
+ 2: "Bimba y Lola, El Ganso, Loewe, Balenciaga, Purificación García, Adolfo Domínguez, Custo Barcelona=Custo, Pedro del Hierro, Uterqüe, Zara Home? , Primark? , "
+    "Hoss Intropia, Sfera, Tendam, Scalpers, Silbon, Pompeii, Hawkers, Ecoalf, Sita Murt, Roberto Verino, Agatha Ruiz de la Prada, Jesús del Pozo, Ágata Ruiz? , "
+    "Paco Rabanne=Rabanne, Carolina Herrera, Manolo Blahnik, Pronovias, Rosa Clará, Victorio & Lucchino, Ana Locking, Teresa Helbig, Duyos, Juanjo Oliva, "
+    "Loreak Mendian, Ternua, Kelme, Joma, Munich, Victoria, Camper, Pikolinos, Mascaró, Panama Jack, Callaghan, Mustang, Paredes, "
+    "Mayoral, Tuc Tuc, Neck & Neck=Neck and Neck, Tizzas? , Bóboli, Gocco, Brownie, Lola Casademunt, Naf Naf? , Amichi, Alma en Pena, Laagam, Sézane? , "
+    "Dolores Promesas, Mirto, Façonnable? , Polo Club? , Gant? , Lacoste? , Ralph Lauren? , Tommy Hilfiger? , Levi's? ",
+ 3: "Uniqlo? , Brownie Spain=Brownie, Blue Banana, Nude Project, Ouftivu? , Pompeii Brand, Wildside? , Wuitusu? , Bershka Men? , Sinéad Gorey? , "
+    "TwoJeys, Cos? , Pinko? , Ba&sh? , Maje? , Sandro? , Bimba? , Hoss, Intropia, Lola Li, Castañer, Pretty Ballerinas, Unisa, Magrit, Lodi, Jaime Mascaró, "
+    "Mango Man, Massimo Dutti Men? , Kiabi? , Merkal, Tino González, Martinelli, Gioseppo, Wonders, Hispanitas, Fluchos, Pablosky, Garvalín, Biomecanics, "
+    "El Corte Inglés=Corte Inglés, Emidio Tucci, Easy Wear, Southern Cotton, Dustin, Green Coast, Fórmula Joven, Iriarte? , Mirto Madrid=Mirto, Félix Ramiro? , Ermenegildo? , Cortefiel Man? , Mr. Wonderful? , Sorbito? , Coosy, Anekke, Misako, Parfois? , Bimani? , "
+    "Lupo, Loewe Perfumes? , Puig? , Pacha? , Kling, La Martina? , Cuplé, Bdba? , Sita Murt Barcelona, Pedro García, Carmina Shoemaker, Andrés Sardá, "
+    "Cristóbal Balenciaga, Mariano Fortuny=Fortuny, Pertegaz=Manuel Pertegaz, Elio Berhanyer, Jesús del Pozo, Francis Montesinos, Sybilla, Antonio Miró, "
+    "Palomo Spain, Moisés Nieto, Juan Vidal, María Escoté, Ana Locking, Leandro Cano, Eñaut? , Lorenzo Caprile, Hannibal Laguna, Ion Fiz, Teresa Helbig, Alvarno, "
+    "Dos Odiseas? , Thinking Mu, Skfk=Skunkfunk, Ecoalf, Basic Minds? , Pompeii, Natural World? , Satorisan, Koröshi, Chiruca, Tempe? , Inditex",
+}
+})
+
+MANO["ciudad_andalucia"] = {
+ 1: "Sevilla, Málaga, Granada, Córdoba, Cádiz, Almería, Huelva, Jaén, Marbella",
+ 2: "Jerez=Jerez de la Frontera, Algeciras, Ronda, Úbeda, Baeza, Antequera, Motril, Nerja, Torremolinos, Benalmádena, Fuengirola, Estepona, El Puerto de Santa María=El Puerto=Puerto de Santa María, "
+    "Sanlúcar=Sanlúcar de Barrameda, Chiclana=Chiclana de la Frontera, San Fernando, Tarifa, Dos Hermanas, Écija, Carmona, Osuna, Linares, Lucena, El Ejido, Roquetas=Roquetas de Mar, Mojácar, "
+    "Vejer=Vejer de la Frontera, Conil=Conil de la Frontera, Rota, Chipiona, La Línea=La Línea de la Concepción, Mijas, Frigiliana, Arcos=Arcos de la Frontera, Priego de Córdoba, Almuñécar",
+ 3: "Zahara de los Atunes=Zahara, Matalascañas, El Rocío, Sotogrande, Puerto Banús, San José (Níjar)=San José de Níjar, Bolonia, Caños de Meca=Los Caños de Meca, Agua Amarga, Las Negras, "
+    "Isla Cristina, Ayamonte, Punta Umbría, Lepe, Moguer, Palos de la Frontera, Aracena, Jabugo, Cazorla, Alcalá la Real, Andújar, Bailén, Martos, Guadix, Loja, Lanjarón, Pampaneira, Capileira, "
+    "Trevélez, Salobreña, Baza, Huéscar, Montilla, Cabra, Baena, Puente Genil, Palma del Río, Pozoblanco, Alcalá de Guadaíra, Utrera, Morón de la Frontera, Lebrija, Mairena del Aljarafe, Tomares, "
+    "Coria del Río, Estepa, Marchena, Grazalema, Setenil=Setenil de las Bodegas, Zahara de la Sierra, Olvera, Medina-Sidonia=Medina Sidonia, Barbate, Puerto Real, Torrox, Vélez-Málaga=Vélez Málaga, "
+    "Rincón de la Victoria, Alhaurín de la Torre, Coín, Manilva, Casares, Benahavís, Archidona, Vera, Níjar, Adra, Huércal-Overa, Garrucha, Carboneras, Cabo de Gata? , Tabernas, Vícar",
+}

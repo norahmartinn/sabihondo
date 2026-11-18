@@ -319,6 +319,13 @@ PREGUNTAS = [
     ("Nombra una raza de perro", "raza_perro"),
     ("Nombra un banco", "bancos"),
     ("Nombra una ciudad o un pueblo del País Vasco", "ciudad_euskadi"),
+    ("Nombra algo que tenga pantalla", "tiene_pantalla"),
+    ("Nombra un licor", "licor"),
+    ("Nombra una película de Marvel", "marvel_pelis"),
+    ("Nombra una forma de decir «muy»", "forma_muy"),
+    ("Nombra una ciudad o un pueblo de Andalucía", "ciudad_andalucia"),
+    ("Nombra un tipo de calzado", "calzado"),
+    ("Nombra una marca de ropa española", "ropa_espanola"),
 ]
 
 # Desde el 31 de octubre de 2026 los niveles son más generosos: la gente veía casi imposible llegar a Muy raro y Sabihondo.
