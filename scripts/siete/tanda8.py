@@ -83,9 +83,15 @@ def museo():
     """Museos de Wikidata con 15+ wikis (incluye monumentos que son museo); lo conocido, a mano."""
     junta("museo", por_tramos(wd8("museos"), [(150, 3), (500, 4), (None, 5)]), "enlaces_wikipedia")
 
-CON_FUNCION = {"ciudad_portugal", "raza_perro", "ciudad_euskadi", "ciudad_andalucia", "real_madrid", "extincion", "museo"}
+def rio_espana():
+    """Ríos de España en Wikidata (incluye arroyos con artículo); lo conocido, a mano. Sin el prefijo «río»."""
+    filas = [(re.sub(r"^[Rr]ío\s+", "", n), al + [n], l) for n, al, l in wd8("rios")]
+    junta("rio_espana", por_tramos(filas, [(80, 3), (400, 4), (None, 5)]), "enlaces_wikipedia")
+VARIANTES4["rio_espana"] = ["río {}", "el {}"]
+
+CON_FUNCION = {"ciudad_portugal", "raza_perro", "ciudad_euskadi", "ciudad_andalucia", "real_madrid", "extincion", "museo", "rio_espana"}
 SOLO8 = solo_mano(*[s for s in mano_t8.MANO if s not in CON_FUNCION])
-TODAS8 = SOLO8 + [ciudad_portugal, raza_perro, palabra_y, ciudad_euskadi, ciudad_andalucia, real_madrid, extincion, museo]
+TODAS8 = SOLO8 + [ciudad_portugal, raza_perro, palabra_y, ciudad_euskadi, ciudad_andalucia, real_madrid, extincion, museo, rio_espana]
 if __name__ == "__main__":
     pedidas = sys.argv[1:]
     for f in TODAS8:

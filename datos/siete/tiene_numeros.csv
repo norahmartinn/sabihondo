@@ -1,0 +1,285 @@
+respuesta;alias;nivel;orden_a_mano
+reloj;;1;1000000000
+calendario;;1;999999999
+dado;dados;1;999999998
+mando;mando de la tele;1;999999997
+DNI;;1;999999996
+ascensor;;1;999999995
+sudoku;;1;999999994
+teléfono;móvil;1;999999993
+calculadora;;1;999999992
+teclado;;1;999999991
+matrícula;coche;1;999999990
+billete;billetes;1;999999989
+moneda;monedas;1;999999988
+regla;;1;999999987
+termómetro;;1;999999986
+báscula;;1;999999985
+libro (páginas);libro;1;999999984
+camiseta de fútbol;camiseta;1;999999983
+tarjeta de crédito;tarjeta;1;999999982
+casa;portal|número de la casa;1;999999981
+lotería;décimo;1;999999980
+despertador;;2;1000000000
+cronómetro;;2;999999999
+microondas;;2;999999998
+horno;;2;999999997
+lavadora;;2;999999996
+cajero;;2;999999995
+tarjeta del banco;;2;999999994
+cuenta del banco;IBAN;2;999999993
+pasaporte;;2;999999992
+carné de conducir;;2;999999991
+ticket;tique|recibo;2;999999990
+factura;;2;999999989
+cheque;;2;999999988
+código de barras;;2;999999987
+etiqueta;precio;2;999999986
+menú;carta;2;999999985
+autobús;línea del bus;2;999999984
+metro;línea de metro;2;999999983
+tren;vagón;2;999999982
+avión;asiento;2;999999981
+billete de avión;tarjeta de embarque;2;999999980
+entrada;entrada de cine|butaca;2;999999979
+taquilla;;2;999999978
+puerta;número de puerta;2;999999977
+habitación de hotel;hotel;2;999999976
+buzón;;2;999999975
+carretera;autopista;2;999999974
+señal de velocidad;señal;2;999999973
+kilómetro;punto kilométrico;2;999999972
+cuentakilómetros;velocímetro;2;999999971
+salpicadero;;2;999999970
+termostato;;2;999999969
+mando del aire;;2;999999968
+caja fuerte;candado de números|candado;2;999999967
+cerradura de combinación;;2;999999966
+bingo;cartón de bingo;2;999999965
+ruleta;;2;999999964
+cartas;baraja;2;999999963
+dominó;;2;999999962
+parchís;;2;999999961
+Monopoly;;2;999999960
+Uno;;2;999999959
+billar;bolas de billar;2;999999958
+diana;dardos;2;999999957
+marcador;marcador del partido;2;999999956
+dorsal;;2;999999955
+camiseta de baloncesto;;2;999999954
+cinta métrica;;2;999999953
+flexómetro;;2;999999952
+transportador;transportador de ángulos;2;999999951
+escuadra;;2;999999950
+cartabón;;2;999999949
+jeringuilla;;2;999999948
+probeta;;2;999999947
+vaso medidor;;2;999999946
+calendario de Adviento;;2;999999945
+agenda;;2;999999944
+examen;nota;2;999999943
+boletín de notas;notas;2;999999942
+carnet de biblioteca;;2;999999941
+carnet de estudiante;;2;999999940
+matrícula de la moto;;2;999999939
+reloj de cuco;;2;999999938
+reloj de pared;;2;999999937
+cuenta atrás;;2;999999936
+Nochevieja;reloj de la Puerta del Sol;2;999999935
+campanadas;;2;999999934
+tabla periódica;;3;1000000000
+tabla de multiplicar;;3;999999999
+ábaco;;3;999999998
+regla de cálculo;;3;999999997
+teléfono de disco;teléfono antiguo;3;999999996
+caja registradora;;3;999999995
+datáfono;;3;999999994
+TPV;;3;999999993
+máquina de tabaco;;3;999999992
+máquina expendedora;;3;999999991
+parquímetro;;3;999999990
+taxímetro;;3;999999989
+surtidor;;3;999999988
+contador de la luz;;3;999999987
+contador del agua;;3;999999986
+contador del gas;;3;999999985
+tensiómetro;;3;999999984
+pulsioxímetro;;3;999999983
+glucómetro;;3;999999982
+balanza;;3;999999981
+báscula de baño;;3;999999980
+peso de cocina;;3;999999979
+termómetro de cocina;;3;999999978
+higrómetro;;3;999999977
+barómetro;;3;999999976
+altímetro;;3;999999975
+metrónomo;;3;999999974
+sintetizador;;3;999999973
+mesa de mezclas;;3;999999972
+ecualizador;;3;999999971
+radio;dial;3;999999970
+sintonizador;;3;999999969
+tele;canales;3;999999968
+teclado numérico;;3;999999967
+Excel;hoja de cálculo;3;999999966
+factura de la luz;;3;999999965
+nómina;;3;999999964
+extracto bancario;;3;999999963
+declaración de la renta;renta;3;999999962
+libro de familia;;3;999999961
+partida de nacimiento;;3;999999960
+pasaporte (número);;3;999999959
+carnet de la Seguridad Social;tarjeta sanitaria;3;999999958
+tarjeta SIM;PIN;3;999999957
+Wi-Fi;router;3;999999955
+código del portal;portero;3;999999954
+telefonillo;;3;999999953
+camiseta de Messi;Messi (10);3;999999952
+dorsal del ciclista;ciclista;3;999999951
+coche de F1;Fórmula 1;3;999999950
+moto de MotoGP;MotoGP;3;999999949
+camiseta de la NBA;;3;999999948
+carta de Pokémon;cartas de Pokémon;3;999999947
+cromos;;3;999999946
+álbum de cromos;;3;999999945
+Uno (cartas);;3;999999944
+Rummikub;;3;999999943
+Yahtzee;;3;999999942
+Catan;;3;999999941
+Quiniela;;3;999999939
+Euromillones;;3;999999938
+Primitiva;;3;999999937
+Bonoloto;;3;999999936
+cupón de la ONCE;ONCE;3;999999935
+billete de 50;billete de 50 euros;3;999999934
+moneda de 2 euros;;3;999999933
+peseta;;3;999999932
+duro;;3;999999931
+reloj de sol;;3;999999930
+reloj atómico;;3;999999929
+Big Ben;;3;999999928
+reloj astronómico de Praga;;3;999999926
+código binario;binario;3;999999925
+pulsera de un hospital;pulsera;3;999999924
+pulsera del todo incluido;;3;999999923
+número de la Seguridad Social;;3;999999922
+dado de rol;dado de 20 caras|D20;4;1000000000
+dados de póker;;4;999999999
+tómbola;;4;999999998
+rifa;papeleta;4;999999997
+boleto;;4;999999996
+número de lotería de Navidad;lotería de Navidad;4;999999995
+Gordo;;4;999999994
+cartón de la ONCE;;4;999999993
+rasca y gana;rasca;4;999999992
+tragaperras;;4;999999991
+máquina del millón;;4;999999990
+pinball;;4;999999989
+diana de dardos;;4;999999988
+tiro con arco;;4;999999987
+bolos (marcador);;4;999999986
+jugadores de baloncesto;;4;999999985
+dorsales de maratón;;4;999999984
+coche de carreras;;4;999999983
+caballo de carreras;caballo;4;999999982
+asaltos;round;4;999999981
+termómetro de mercurio;;4;999999980
+termómetro de oído;;4;999999979
+báscula de pesar bebés;;4;999999978
+cinta de sastre;;4;999999977
+metro de carpintero;;4;999999976
+pie de rey;calibre;4;999999975
+micrómetro;;4;999999974
+calculadora científica;;4;999999972
+calculadora gráfica;;4;999999971
+ábaco japonés;soroban;4;999999970
+quipu;;4;999999969
+calendario de pared;;4;999999968
+calendario de mesa;;4;999999967
+calendario perpetuo;;4;999999966
+almanaque;;4;999999965
+calendario zaragozano;Zaragozano;4;999999964
+agenda escolar;;4;999999963
+planificador;;4;999999962
+dial de la radio;;4;999999961
+dial de la caja fuerte;;4;999999960
+combinación;;4;999999959
+busca;;4;999999958
+contestador;;4;999999957
+cartel de la gasolinera;precio de la gasolina;4;999999956
+cartel de rebajas;;4;999999955
+etiqueta de ropa;talla;4;999999954
+talla de zapato;zapato;4;999999953
+talla del sujetador;sujetador;4;999999952
+botella de vino (añada);añada;4;999999951
+lata (fecha de caducidad);fecha de caducidad;4;999999950
+yogur (caducidad);;4;999999949
+huevo (código);huevos;4;999999948
+matrícula de barco;barco;4;999999947
+avioneta;matrícula del avión;4;999999946
+tren AVE (número de tren);;4;999999945
+billete de tren;;4;999999944
+abono transporte;;4;999999943
+ticket del parking;;4;999999942
+portal de la casa;;4;999999941
+piso;número de piso;4;999999940
+ascensor (botones);;4;999999939
+buzón (número);;4;999999938
+kilómetro cero;;4;999999937
+mojón;hito kilométrico;4;999999936
+tabla de logaritmos;;5;1000000000
+nomograma;;5;999999999
+regla de cálculo circular;;5;999999998
+astrolabio;;5;999999997
+sextante;;5;999999996
+cuadrante;;5;999999995
+teodolito;;5;999999994
+transportador náutico;;5;999999993
+carta náutica;;5;999999992
+código ISBN;ISBN;5;999999991
+código EAN;EAN;5;999999990
+número de serie;;5;999999989
+número de bastidor;VIN;5;999999988
+IMEI;;5;999999987
+dirección IP;IP;5;999999986
+MAC;;5;999999985
+NIE;;5;999999984
+NIF;;5;999999983
+CIF;;5;999999982
+NUSS;;5;999999981
+número de afiliación;;5;999999980
+cédula;;5;999999979
+tarjeta de residencia;TIE;5;999999978
+matrícula diplomática;;5;999999977
+matrícula histórica;;5;999999976
+placa de taxi;licencia de taxi;5;999999975
+gráfico;;5;999999974
+estadística;;5;999999973
+encuesta;;5;999999972
+sondeo;;5;999999971
+tabla de clasificación;clasificación;5;999999970
+Liga (tabla);;5;999999969
+quiniela de fútbol;;5;999999968
+1X2;;5;999999967
+metrónomo de péndulo;;5;999999966
+bajo cifrado;;5;999999965
+dígito de control;;5;999999964
+código de verificación;;5;999999963
+código de seguridad;CVV;5;999999962
+token del banco;coordenadas bancarias|tarjeta de coordenadas;5;999999961
+cuadrado mágico;;5;999999960
+Kakuro;;5;999999959
+Kenken;;5;999999958
+crucigrama numérico;;5;999999957
+Mastermind;;5;999999956
+horario de trenes;horario;5;999999955
+tabla de mareas;mareas;5;999999954
+efemérides;;5;999999953
+libro de recetas (gramos);receta;5;999999952
+prospecto;prospecto del medicamento;5;999999951
+caja de medicamentos;medicamento;5;999999950
+lote;;5;999999949
+código nacional del medicamento;;5;999999948
+código del CN;;5;999999947
+receta electrónica;;5;999999946
+Lost (4 8 15 16 23 42);Lost;5;999999945

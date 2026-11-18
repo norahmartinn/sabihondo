@@ -1,0 +1,270 @@
+respuesta;alias;nivel;orden_a_mano
+casa;piso|vivienda;1;1000000000
+dinero;;1;999999999
+joyas;anillo|collar;1;999999998
+apellido;apellidos;1;999999997
+ojos;color de ojos|ojos azules;1;999999996
+pelo;color de pelo;1;999999995
+terreno;finca|tierras;1;999999994
+coche;;1;999999993
+deudas;deuda;1;999999992
+enfermedad;enfermedades;1;999999991
+genes;;1;999999990
+el trono;corona;1;999999989
+la calvicie;;1;999999988
+ropa;;1;999999987
+reloj;;1;999999986
+herencia;;2;1000000000
+patrimonio;;2;999999999
+empresa;negocio;2;999999998
+acciones;;2;999999997
+cuadros;obras de arte|arte;2;999999996
+muebles;;2;999999995
+vajilla;cubertería|porcelana;2;999999994
+libros;;2;999999993
+fotos;fotografías|álbum de fotos;2;999999992
+receta;recetas|recetas de la abuela;2;999999991
+tradiciones;costumbres;2;999999990
+carácter;mal genio|genio;2;999999989
+personalidad;;2;999999988
+la altura;estatura;2;999999987
+nariz;;2;999999986
+sonrisa;;2;999999985
+pecas;;2;999999984
+hoyuelos;;2;999999983
+lunares;;2;999999982
+alergias;;2;999999981
+diabetes;;2;999999980
+hemofilia;;2;999999979
+daltonismo;;2;999999978
+cáncer;predisposición al cáncer;2;999999977
+colesterol;;2;999999976
+miopía;;2;999999975
+hipertensión;;2;999999974
+enfermedad genética;;2;999999973
+título;título nobiliario;2;999999972
+marquesado;;2;999999971
+condado;;2;999999970
+ducado;;2;999999969
+escudo;escudo de armas;2;999999968
+apellido compuesto;;2;999999967
+nombre;nombre del abuelo;2;999999966
+ropa de los hermanos;ropa del hermano mayor;2;999999965
+juguetes;juguetes de los primos;2;999999964
+libros de texto;;2;999999963
+uniforme del cole;;2;999999962
+bicicleta;;2;999999961
+vestido de novia;;2;999999960
+mantilla;;2;999999959
+mantón de Manila;;2;999999958
+peineta;;2;999999957
+alianza;anillo de compromiso|anillo de boda;2;999999956
+medalla;medalla de oro;2;999999955
+reloj del abuelo;reloj de bolsillo;2;999999954
+pluma;estilográfica;2;999999953
+gafas;;2;999999952
+bastón;;2;999999951
+pipa;;2;999999950
+mascota;perro|gato;2;999999949
+manías;tics;2;999999948
+la religión;;2;999999947
+equipo de fútbol;ser del Athletic|ser del Madrid;2;999999946
+rencor;enemistades|rencillas;2;999999945
+cuenta corriente;cuenta bancaria;2;999999944
+hipoteca;;2;999999943
+local;local comercial;2;999999942
+nave;;2;999999941
+garaje;plaza de garaje;2;999999940
+trastero;;2;999999939
+casa del pueblo;;2;999999938
+masía;caserío;2;999999937
+cortijo;;2;999999936
+viñedo;viñas;2;999999935
+olivar;olivos;2;999999934
+ganado;;2;999999933
+tierras de cultivo;;2;999999932
+barco;;2;999999931
+caserío (Euskadi);baserri;3;1000000000
+pazo;;3;999999999
+casona;;3;999999998
+palacio;;3;999999997
+castillo;;3;999999996
+apartamento en la playa;;3;999999995
+chalet;;3;999999994
+parcela;;3;999999993
+solar;;3;999999992
+huerto;;3;999999991
+bodega;;3;999999990
+colección de sellos;sellos;3;999999989
+colección de monedas;monedas;3;999999988
+colección de discos;discos|vinilos;3;999999987
+biblioteca;;3;999999986
+colección de arte;;3;999999985
+antigüedades;;3;999999984
+Rolex;;3;999999983
+joyas de la familia;joyas de la abuela;3;999999982
+diadema;tiara;3;999999981
+pendientes de la abuela;;3;999999980
+broche;;3;999999979
+camafeo;;3;999999978
+relicario;;3;999999977
+rosario;;3;999999976
+secreto de familia;secretos;3;999999975
+receta secreta;;3;999999974
+marca;empresa familiar;3;999999973
+bodega familiar;;3;999999972
+panadería familiar;;3;999999971
+bar;restaurante familiar;3;999999970
+puesto de trabajo;plaza|trabajo del padre;3;999999969
+licencia de taxi;taxi;3;999999968
+farmacia;licencia de farmacia;3;999999967
+estanco;licencia de estanco;3;999999966
+administración de lotería;;3;999999965
+derechos de autor;derechos de autor de un libro|royalties;3;999999964
+patentes;;3;999999963
+propiedad intelectual;;3;999999962
+marca registrada;;3;999999961
+criptomonedas;bitcoins;3;999999960
+rasgos;rasgos físicos;3;999999959
+grupo sanguíneo;sangre;3;999999958
+RH;;3;999999957
+ADN;;3;999999956
+cromosomas;;3;999999955
+mitocondrias;ADN mitocondrial;3;999999954
+mutación;mutaciones;3;999999953
+fibrosis quística;;3;999999952
+talasemia;;3;999999951
+anemia falciforme;;3;999999950
+Huntington;Corea de Huntington;3;999999949
+distrofia muscular;;3;999999948
+X frágil;;3;999999947
+hemocromatosis;;3;999999946
+migraña;;3;999999945
+talento;talento musical;3;999999944
+oído musical;oído;3;999999943
+inteligencia;;3;999999942
+trono de España;Corona de España;3;999999941
+princesa de Asturias;Leonor;3;999999940
+Casa de Alba;duquesa de Alba;3;999999939
+Grandeza de España;;3;999999938
+lengua materna;idioma;4;1000000000
+mote;apodo familiar|apodo;4;999999999
+casa del pueblo con huerta;;4;999999998
+tapiz;;4;999999997
+reloj de pie;;4;999999996
+reloj de cuco;;4;999999995
+espejo antiguo;;4;999999994
+arcón;baúl;4;999999993
+cómoda de la abuela;;4;999999992
+mesa camilla;;4;999999991
+piano;piano de la abuela;4;999999990
+máquina de coser;Singer;4;999999989
+costurero;;4;999999988
+ajuar;;4;999999987
+sábanas bordadas;;4;999999986
+mantelería;;4;999999985
+encajes;;4;999999984
+puntillas;;4;999999983
+mantón;;4;999999982
+traje regional;traje típico|traje de fallera;4;999999981
+traje de flamenca;;4;999999980
+traje de lagarterana;;4;999999979
+escopeta;escopeta de caza;4;999999978
+navaja;navaja del abuelo;4;999999977
+herramientas;herramientas del abuelo;4;999999976
+caja de herramientas;;4;999999975
+banco de carpintero;;4;999999974
+barca;;4;999999973
+velero;;4;999999972
+coche clásico;coche antiguo;4;999999971
+moto antigua;;4;999999970
+Vespa;;4;999999969
+Seat 600;600;4;999999968
+tractor;;4;999999967
+carro;;4;999999966
+nicho;panteón|tumba;4;999999965
+sepultura;;4;999999964
+columbario;;4;999999963
+silla de un club;asiento del Bernabéu|abono del Madrid|abono de temporada|carnet de socio;4;999999962
+número de socio;;4;999999961
+palco;;4;999999960
+nacionalidad;ciudadanía;4;999999959
+la nacionalidad española;;4;999999958
+doble nacionalidad;;4;999999957
+ciudadanía italiana;nacionalidad italiana;4;999999956
+trauma generacional;;4;999999955
+estatus;posición social;4;999999954
+dinastía;;4;999999953
+linaje;;4;999999952
+estirpe;;4;999999951
+sangre azul;;4;999999950
+nobleza;;4;999999949
+hidalguía;;4;999999948
+señorío;;4;999999947
+mayorazgo;;4;999999946
+feudo;;4;999999945
+el reino;;4;999999944
+Trono de Hierro;;4;999999943
+anillo de Sauron;Anillo Único;4;999999942
+capa de invisibilidad;capa de invisibilidad de Harry Potter;4;999999941
+espada;espada de la familia;4;999999940
+legítima;;5;1000000000
+mejora;;5;999999999
+usufructo;;5;999999998
+nuda propiedad;;5;999999997
+legado;;5;999999996
+fideicomiso;;5;999999995
+renta vitalicia;;5;999999994
+pensión de viudedad;;5;999999993
+pensión de orfandad;;5;999999992
+herencia yacente;;5;999999991
+bienes raíces;;5;999999990
+fincas rústicas;;5;999999989
+coto de caza;;5;999999988
+pazo gallego;;5;999999987
+casa solariega;;5;999999986
+solar familiar;;5;999999985
+casa de indianos;;5;999999984
+Fondo de inversión;;5;999999983
+cartera de valores;;5;999999982
+bonos del Estado;;5;999999981
+letras del Tesoro;;5;999999980
+depósito a plazo;;5;999999979
+oro;lingotes de oro;5;999999978
+joyas de oro;;5;999999977
+monedas de oro;;5;999999976
+gen BRCA;BRCA;5;999999975
+gen de la calvicie;;5;999999974
+gen del pelo rojo;MC1R;5;999999973
+dominante;;5;999999972
+recesivo;;5;999999971
+ligado al sexo;;5;999999970
+autosómico;;5;999999969
+alelos;;5;999999968
+epigenética;;5;999999967
+polidactilia;;5;999999966
+sindactilia;;5;999999965
+lóbulo de la oreja pegado;;5;999999964
+enrollar la lengua;lengua en U;5;999999963
+pico de viuda;;5;999999962
+hoyuelo en la barbilla;;5;999999961
+ojos de distinto color;heterocromía;5;999999960
+psoriasis;;5;999999959
+dermatitis atópica;;5;999999958
+celiaquía;;5;999999957
+intolerancia a la lactosa;;5;999999956
+asma;;5;999999955
+glaucoma;;5;999999954
+cataratas congénitas;;5;999999953
+sordera congénita;;5;999999952
+porfiria;;5;999999951
+enfermedad de Fabry;;5;999999950
+Tay-Sachs;;5;999999949
+fenilcetonuria;;5;999999948
+Marfan;síndrome de Marfan;5;999999947
+Ehlers-Danlos;;5;999999946
+osteogénesis imperfecta;;5;999999945
+acondroplasia;;5;999999944
+corona de los Habsburgo;mandíbula de los Habsburgo|prognatismo de los Austrias;5;999999943
+hemofilia de la reina Victoria;;5;999999942
+porfiria de Jorge III;;5;999999941

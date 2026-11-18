@@ -1,0 +1,283 @@
+respuesta;alias;nivel;orden_a_mano
+espacio;barra espaciadora;1;1000000000
+enter;intro;1;999999999
+escape;esc;1;999999998
+tabulador;tab;1;999999997
+bloq mayús;mayúsculas|caps lock;1;999999996
+shift;mayús;1;999999995
+control;ctrl;1;999999994
+alt;;1;999999993
+borrar;retroceso|backspace;1;999999992
+suprimir;supr|delete;1;999999991
+flechas;flecha|flecha arriba;1;999999990
+F5;;1;999999989
+Windows;tecla de Windows;1;999999988
+Ñ;;1;999999987
+A;;1;999999986
+letra;letras;1;999999985
+números;número;1;999999984
+Alt Gr;;2;1000000000
+comando;cmd|command;2;999999999
+opción;option;2;999999998
+fn;función;2;999999997
+F1;;2;999999996
+F2;;2;999999995
+F3;;2;999999994
+F4;;2;999999993
+F6;;2;999999992
+F7;;2;999999991
+F8;;2;999999990
+F9;;2;999999989
+F10;;2;999999988
+F11;;2;999999987
+F12;;2;999999986
+inicio;home;2;999999985
+fin;end;2;999999984
+re pág;página arriba|page up;2;999999983
+av pág;página abajo|page down;2;999999982
+insertar;insert|ins;2;999999981
+impr pant;imprimir pantalla|print screen;2;999999980
+bloq num;num lock;2;999999979
+pausa;pause;2;999999978
+bloq despl;scroll lock;2;999999977
+flecha abajo;;2;999999976
+flecha izquierda;;2;999999975
+flecha derecha;;2;999999974
+punto;;2;999999973
+coma;;2;999999972
+arroba;;2;999999971
+almohadilla;;2;999999970
+euro;;2;999999969
+dólar;;2;999999968
+porcentaje;;2;999999967
+interrogación;signo de interrogación;2;999999966
+exclamación;signo de exclamación;2;999999965
+guion;;2;999999964
+guion bajo;;2;999999963
+barra;barra inclinada;2;999999962
+barra invertida;;2;999999961
+comillas;;2;999999960
+apóstrofo;;2;999999959
+paréntesis;;2;999999958
+corchete;;2;999999957
+llave;;2;999999956
+más;;2;999999955
+menos;;2;999999954
+igual;;2;999999953
+asterisco;;2;999999952
+punto y coma;;2;999999951
+dos puntos;;2;999999950
+tilde;acento;2;999999949
+diéresis;;2;999999948
+menor que;;2;999999947
+mayor que;;2;999999946
+Q;;2;999999945
+W;;2;999999944
+E;;2;999999943
+R;;2;999999942
+T;;2;999999941
+Y;;2;999999940
+U;;2;999999939
+I;;2;999999938
+O;;2;999999937
+P;;2;999999936
+S;;2;999999935
+D;;2;999999934
+F;;2;999999933
+G;;2;999999932
+H;;2;999999931
+J;;2;999999930
+K;;2;999999929
+L;;2;999999928
+Z;;2;999999927
+X;;2;999999926
+C;;2;999999925
+V;;2;999999924
+B;;2;999999923
+M;;2;999999921
+1;;2;999999920
+2;;2;999999919
+3;;2;999999918
+4;;2;999999917
+5;;2;999999916
+6;;2;999999915
+7;;2;999999914
+8;;2;999999913
+9;;2;999999912
+0;;2;999999911
+cero;;2;999999910
+uno;;2;999999909
+dos;;2;999999908
+tres;;2;999999907
+cuatro;;2;999999906
+cinco;;2;999999905
+seis;;2;999999904
+siete;;2;999999903
+ocho;;2;999999902
+nueve;;2;999999901
+tecla del piano;teclas blancas|teclas negras;2;999999900
+do;;2;999999899
+re;;2;999999898
+mi;;2;999999897
+fa;;2;999999896
+sol;;2;999999895
+la;;2;999999894
+si;;2;999999893
+tecla de volumen;subir volumen|bajar volumen|volumen;2;999999892
+silencio;mute;2;999999891
+brillo;;2;999999890
+play;reproducir;2;999999889
+pausa (multimedia);;2;999999888
+siguiente canción;;2;999999887
+tecla de encendido;encendido|power;2;999999886
+tecla de apagado;;2;999999885
+tecla de menú contextual;menú contextual;3;1000000000
+tecla Copilot;Copilot;3;999999999
+tecla de función;;3;999999998
+Ctrl+Alt+Supr;control alt suprimir;3;999999997
+Alt+F4;;3;999999996
+Alt+Tab;;3;999999995
+tecla Meta;;3;999999994
+tecla Super;;3;999999993
+tecla Compose;;3;999999992
+tecla muerta;;3;999999991
+teclado numérico;numpad;3;999999990
+intro del teclado numérico;;3;999999989
+punto decimal;;3;999999988
+asterisco del numpad;;3;999999987
+barra del numpad;;3;999999986
+tecla de calculadora;igual de la calculadora;3;999999985
+AC;borrar todo;3;999999984
+CE;;3;999999982
+MR;;3;999999979
+MC;;3;999999978
+raíz cuadrada;raíz;3;999999977
+porcentaje de la calculadora;;3;999999976
+más/menos;;3;999999975
+tecla del móvil;asterisco del teléfono|almohadilla del teléfono;3;999999974
+colgar;;3;999999973
+descolgar;;3;999999972
+tecla del acordeón;;3;999999971
+tecla del órgano;;3;999999970
+tecla del clave;clavicémbalo;3;999999969
+tecla del sintetizador;;3;999999968
+tecla de la máquina de escribir;máquina de escribir;3;999999967
+retorno de carro;;3;999999966
+tabulador de la máquina;;3;999999965
+tecla de mayúsculas de la máquina;;3;999999964
+tecla del cajero;tecla verde|tecla roja|tecla amarilla;3;999999963
+aceptar;;3;999999962
+cancelar;;3;999999961
+corregir;;3;999999960
+start;;3;999999959
+select;;3;999999958
+tecla de la Nintendo;botón A|botón B;3;999999957
+tecla de silencio del portátil;;3;999999956
+tecla de modo avión;;3;999999955
+tecla del teclado retroiluminado;;3;999999954
+tecla de captura;;3;999999953
+tecla de bloqueo de pantalla;;3;999999952
+tecla de búsqueda;;3;999999951
+tecla de micrófono;;3;999999950
+tecla de cámara;;3;999999949
+tecla de emojis;emojis;3;999999948
+tecla de dictado;;3;999999947
+tecla del asistente;;3;999999946
+SysRq;petsis;4;1000000000
+Break;;4;999999999
+Scroll Lock (bloq despl);;4;999999998
+Help;;4;999999997
+Undo;;4;999999996
+Redo;;4;999999995
+Again;;4;999999994
+Cut;;4;999999993
+Copy;;4;999999992
+Paste;;4;999999991
+Find;;4;999999990
+Stop;;4;999999989
+tecla Fn Lock;Fn Lock;4;999999988
+tecla Eject;expulsar;4;999999987
+tecla de Misión Control;Mission Control;4;999999986
+tecla Globo;globo terráqueo;4;999999985
+F13;;4;999999984
+F14;;4;999999983
+F15;;4;999999982
+F16;;4;999999981
+F17;;4;999999980
+F18;;4;999999979
+F19;;4;999999978
+F20;;4;999999977
+F21;;4;999999976
+F22;;4;999999975
+F23;;4;999999974
+F24;;4;999999973
+teclas macro;;4;999999972
+WASD;W A S D;4;999999971
+tecla de la letra Ñ;;4;999999956
+tecla de ç;;4;999999955
+tecla de tilde muerta;;4;999999954
+tecla del bandoneón;;4;999999953
+tecla del harmonio;;4;999999952
+tecla del celesta;;4;999999951
+tecla del telégrafo;manipulador;4;999999950
+tecla Morse;;4;999999949
+tecla del telex;;4;999999948
+tecla del Enigma;máquina Enigma;4;999999947
+tecla de la caja registradora;;4;999999946
+tecla del datáfono;;4;999999945
+tecla del ATM;;4;999999944
+tecla del microondas;inicio del microondas;4;999999943
+tecla del horno;;4;999999942
+tecla de la lavadora;;4;999999941
+tecla del ascensor de emergencia;alarma del ascensor;4;999999940
+tecla Hiragana;;5;1000000000
+tecla Henkan;;5;999999999
+tecla Muhenkan;;5;999999998
+tecla Eisu;;5;999999997
+tecla Hangul;;5;999999996
+tecla Hanja;;5;999999995
+tecla Zenkaku;;5;999999994
+tecla Ro;;5;999999993
+tecla Yen;;5;999999992
+tecla Space Cadet;Space-cadet;5;999999991
+tecla Top;;5;999999990
+tecla Front;;5;999999989
+tecla Greek;;5;999999988
+tecla Rubout;;5;999999987
+tecla Line Feed;avance de línea;5;999999986
+tecla Repeat;;5;999999985
+tecla Here is;;5;999999984
+tecla Who are you;;5;999999983
+tecla Answerback;;5;999999982
+tecla Break del teletipo;;5;999999981
+tecla Clear;;5;999999980
+tecla Home del Apple II;;5;999999979
+tecla Open Apple;;5;999999978
+tecla Solid Apple;;5;999999977
+tecla Run/Stop (Commodore);Run/Stop;5;999999976
+tecla Restore;;5;999999975
+tecla Reset;;5;999999973
+tecla Shift Lock;;5;999999972
+PF1;;5;999999971
+PF2;;5;999999970
+PF3;;5;999999969
+PF4;;5;999999968
+tecla Do;;5;999999967
+tecla Find (VT220);;5;999999966
+tecla Select;;5;999999965
+tecla Prev Screen;;5;999999964
+tecla Next Screen;;5;999999963
+Cherry MX;;5;999999962
+switch mecánico;;5;999999961
+tecla mecánica;;5;999999960
+keycap;;5;999999959
+tecla de membrana;;5;999999958
+tecla de tijera;;5;999999957
+tecla de chiclet;teclado chiclet;5;999999956
+tecla de goma;Spectrum;5;999999955
+tecla del piano de juguete;;5;999999953
+tecla del Casio;teclado Casio;5;999999952
+tecla del Bontempi;;5;999999951
+tecla de pianola;;5;999999950
+tecla del clavicordio;;5;999999949
+tecla del fortepiano;;5;999999948

@@ -1,0 +1,314 @@
+respuesta;alias;nivel;orden_a_mano
+sofá;;1;1000000000
+mesa;;1;999999999
+silla;;1;999999998
+armario;;1;999999997
+cama;;1;999999996
+estantería;;1;999999995
+cómoda;;1;999999994
+mesita de noche;mesilla|mesilla de noche;1;999999993
+escritorio;;1;999999992
+sillón;;1;999999991
+librería;;1;999999990
+aparador;;1;999999989
+vitrina;;1;999999988
+taburete;;1;999999987
+banco;;1;999999986
+mueble de la tele;;1;999999985
+butaca;;2;1000000000
+chaise longue;;2;999999999
+puf;;2;999999998
+mecedora;;2;999999997
+mesa de centro;mesa baja;2;999999996
+mesa de comedor;;2;999999995
+mesa auxiliar;;2;999999994
+consola;;2;999999993
+recibidor;;2;999999992
+zapatero;;2;999999991
+perchero;;2;999999990
+galanero;;2;999999989
+tocador;;2;999999988
+coqueta;;2;999999987
+cabecero;;2;999999986
+litera;;2;999999985
+sofá cama;;2;999999984
+cuna;;2;999999983
+trona;;2;999999982
+cambiador;;2;999999981
+baúl;;2;999999980
+arcón;;2;999999979
+buró;;2;999999978
+secreter;;2;999999977
+cajonera;;2;999999976
+archivador;;2;999999975
+módulo;mueble modular;2;999999974
+alacena;;2;999999973
+mueble bar;;2;999999972
+botellero;;2;999999971
+mueble de baño;;2;999999970
+biombo;;2;999999969
+revistero;;2;999999968
+paragüero;;2;999999967
+mesa camilla;;2;999999966
+mesa plegable;;2;999999965
+silla plegable;;2;999999964
+tumbona;;2;999999963
+sillón reclinable;reclinable;2;999999962
+sillón orejero;orejero;2;999999961
+sofá chester;chester;2;999999960
+sofá rinconera;rinconera;2;999999959
+diván;;2;999999958
+otomana;;2;999999957
+canapé;;2;999999956
+somier;;2;999999955
+colchón;;2;999999954
+hamaca;;2;999999953
+toallero;;2;999999952
+armario empotrado;;2;999999951
+vestidor;;2;999999950
+galán de noche;;2;999999949
+escabel;;2;999999948
+reposapiés;;2;999999947
+mesa de escritorio;;2;999999946
+silla de oficina;silla de escritorio;2;999999945
+silla gaming;;2;999999944
+estantería de Ikea;Billy|Kallax;2;999999943
+Malm;;2;999999942
+Poäng;;2;999999941
+Hemnes;;2;999999940
+Lack;;2;999999939
+mesa de Ikea;mesa Lack;2;999999938
+aparador de comedor;;2;999999937
+vajillero;;2;999999936
+mueble de cocina;;2;999999935
+isla;isla de cocina;2;999999934
+taburete alto;;2;999999933
+banqueta;;2;999999932
+mesa de noche;;2;999999931
+mesa de estudio;;2;999999930
+pupitre;;2;999999929
+atril;;2;999999928
+cómoda cambiador;;2;999999927
+armario ropero;ropero;2;999999926
+chifonier;;3;1000000000
+sinfonier;;3;999999999
+bargueño;;3;999999998
+cómoda abombada;;3;999999997
+aparador vintage;;3;999999996
+credenza;;3;999999995
+sideboard;;3;999999994
+trinchero;;3;999999993
+platero;;3;999999992
+esquinero;;3;999999990
+mesa velador;velador;3;999999989
+mesa de té;;3;999999988
+mesa nido;mesas nido;3;999999987
+mesa extensible;;3;999999986
+mesa elevable;;3;999999985
+escritorio elevable;standing desk;3;999999984
+escritorio en L;;3;999999983
+buró de persiana;;3;999999982
+secreter de tapa;;3;999999981
+archivador de cajones;;3;999999980
+carrito;camarera|carrito auxiliar;3;999999979
+mueble TV;;3;999999977
+mueble de salón;;3;999999976
+mueble librería;;3;999999975
+estantería flotante;balda|baldas;3;999999974
+estante;;3;999999973
+repisa;;3;999999972
+vitrina de cristal;;3;999999971
+sillón de oreja;;3;999999970
+sillón Chesterfield;;3;999999969
+sillón Barcelona;silla Barcelona;3;999999968
+silla Wassily;;3;999999967
+silla Eames;Eames;3;999999966
+silla Tulip;Tulip;3;999999965
+silla Thonet;Thonet;3;999999964
+silla de director;;3;999999963
+silla de enea;;3;999999962
+silla de mimbre;;3;999999961
+silla de terraza;;3;999999960
+silla de bar;;3;999999959
+silla de playa;;3;999999958
+silla de comedor;;3;999999957
+silla tapizada;;3;999999956
+silla giratoria;;3;999999955
+silla Panton;;3;999999954
+sofá de tres plazas;;3;999999953
+sofá de dos plazas;;3;999999952
+loveseat;;3;999999951
+sofá modular;;3;999999950
+sofá de exterior;;3;999999949
+banco de jardín;;3;999999947
+banco de pie de cama;banqueta de pie de cama;3;999999946
+cama nido;;3;999999945
+cama canapé;;3;999999944
+cama abatible;;3;999999943
+cama con dosel;dosel;3;999999942
+cama de matrimonio;;3;999999941
+cama individual;;3;999999940
+futón;;3;999999939
+cuna de colecho;;3;999999938
+moisés;;3;999999937
+parque de bebé;parque;3;999999936
+mesa cambiador;;3;999999935
+mueble de juguetes;juguetero;3;999999934
+baúl de juguetes;;3;999999933
+aparador de entrada;;3;999999932
+mueble de recibidor;;3;999999931
+banco zapatero;;3;999999930
+perchero de pie;;3;999999929
+colgador;;3;999999928
+armario de cocina;;3;999999927
+alacena de cocina;;3;999999926
+especiero;;3;999999925
+mueble de lavabo;;3;999999924
+columna de baño;;3;999999923
+espejo con estante;;3;999999922
+armario de baño;;3;999999921
+tocador de baño;;3;999999920
+cómoda Luis XVI;;4;1000000000
+consola isabelina;;4;999999999
+bargueño castellano;;4;999999998
+arcón castellano;;4;999999997
+sillón frailero;silla frailera;4;999999996
+silla de brazos;;4;999999994
+escaño;;4;999999993
+taquillón;;4;999999992
+aparador castellano;;4;999999991
+alacena de obra;;4;999999990
+cantarera;;4;999999989
+aguamanil;;4;999999988
+palanganero;;4;999999987
+fresquera;;4;999999986
+chinero;;4;999999985
+mesa de refectorio;;4;999999984
+mesa de tijera;;4;999999983
+mesa de libro;;4;999999982
+mesa de alas abatibles;;4;999999981
+mesa Tulip;;4;999999980
+mesa de mármol;;4;999999979
+mesa de cristal;;4;999999978
+sillón Egg;Egg chair;4;999999977
+Ball chair;;4;999999976
+Panton chair;;4;999999975
+Butterfly chair;silla mariposa;4;999999974
+silla Acapulco;;4;999999973
+silla Tolix;;4;999999972
+silla Wishbone;;4;999999971
+silla Cesca;;4;999999970
+LC4;chaise longue Le Corbusier;4;999999969
+Lounge chair Eames;;4;999999968
+Womb chair;;4;999999967
+Swan chair;;4;999999966
+Ant chair;;4;999999965
+Series 7;;4;999999964
+Barcelona chair;;4;999999963
+Brno chair;;4;999999962
+Togo;sofá Togo;4;999999961
+Camaleonda;;4;999999960
+Kivik;;4;999999959
+Söderhamn;;4;999999958
+Friheten;;4;999999957
+Ektorp;;4;999999956
+Klippan;;4;999999955
+Expedit;;4;999999954
+Ivar;;4;999999953
+Pax;armario Pax;4;999999952
+Alex;cajonera Alex;4;999999951
+Micke;;4;999999950
+Bekant;;4;999999949
+Linnmon;;4;999999948
+Raskog;carrito Raskog;4;999999947
+Tarva;;4;999999945
+Brimnes;;4;999999944
+Songesand;;4;999999942
+Nordli;;4;999999941
+Kullen;;4;999999940
+Strandmon;;4;999999935
+Stefan;;4;999999934
+Ingolf;;4;999999933
+Ekedalen;;4;999999932
+atril de partituras;;4;999999931
+banco de piano;;4;999999930
+taburete de piano;;4;999999929
+mesa de dibujo;tablero de dibujo;4;999999928
+restirador;;4;999999927
+cofre;;4;999999926
+cajón;cajón de madera;4;999999925
+palé;palet|mueble de palés;4;999999924
+caja de fruta;cajas de fruta;4;999999923
+hamaca colgante;;4;999999922
+columpio de jardín;balancín;4;999999921
+sillón colgante;;4;999999920
+silla huevo colgante;;4;999999919
+puf gigante;;4;999999918
+puf pera;;4;999999917
+cojín de suelo;;4;999999916
+otomano;;4;999999915
+canterano;;5;1000000000
+contador (mueble);contador;5;999999999
+papelera (mueble antiguo);papelera de Salamanca;5;999999998
+arqueta;;5;999999997
+arca;;5;999999996
+arcaz;;5;999999995
+escritorio de tapa abatible;;5;999999994
+cómoda bombé;;5;999999993
+cómoda commode;;5;999999992
+bonheur-du-jour;;5;999999991
+secrétaire à abattant;;5;999999990
+vargueño;;5;999999989
+mesa de costura;;5;999999988
+costurero;;5;999999987
+mesa de juego;;5;999999986
+mesa de ajedrez;;5;999999985
+guéridon;;5;999999984
+tresillo;;5;999999983
+sofá isabelino;;5;999999982
+confidente (sofá);;5;999999981
+tête-à-tête;;5;999999980
+méridienne;;5;999999979
+récamier;;5;999999978
+causeuse;;5;999999977
+bergère;;5;999999976
+fauteuil;;5;999999975
+marquesa (sillón);;5;999999974
+silla Luis XV;;5;999999973
+silla Chippendale;;5;999999972
+silla Sheraton;;5;999999971
+silla Windsor;;5;999999970
+silla Shaker;;5;999999969
+silla Savonarola;;5;999999968
+silla jamuga;jamuga;5;999999967
+silla de tijera;;5;999999966
+silla curul;;5;999999965
+silla de Gaudí;silla Calvet;5;999999964
+silla Barcelona de Mies;;5;999999963
+mesa Saarinen;;5;999999962
+mueble rinconero;;5;999999961
+vitrina rinconera;;5;999999960
+aparador vitrina;;5;999999959
+alacena empotrada;;5;999999958
+armario de luna;;5;999999957
+armario de tres cuerpos;;5;999999956
+armario de dos cuerpos;;5;999999955
+armario ropero de luna;;5;999999954
+cama de hierro forjado;;5;999999953
+cama turca;;5;999999952
+cama de barco;;5;999999951
+cama de columnas;;5;999999950
+cama abatible Murphy;Murphy bed;5;999999949
+catre;;5;999999948
+jergón;;5;999999947
+petate;;5;999999946
+mesa de despacho de ministro;;5;999999945
+escritorio Wooton;;5;999999944
+escritorio partner;;5;999999943
+escritorio de cilindro;;5;999999942
+librería giratoria;;5;999999941
+librería de abogado;;5;999999940
+atril de libro;;5;999999939
+facistol;;5;999999938
+reclinatorio;;5;999999937
+banco de iglesia;;5;999999936
