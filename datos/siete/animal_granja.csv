@@ -1,0 +1,296 @@
+respuesta;alias;nivel;orden_a_mano
+vaca;vacas;1;1000000000
+cerdo;cerdos|chancho;1;999999999
+gallina;gallinas;1;999999998
+oveja;ovejas;1;999999997
+cabra;cabras;1;999999996
+caballo;caballos;1;999999995
+burro;asno;1;999999994
+pato;patos;1;999999993
+conejo;conejos;1;999999992
+pollo;pollos;1;999999991
+gallo;;1;999999990
+perro;;1;999999989
+gato;;1;999999988
+pavo;;1;999999987
+toro;;1;999999986
+cordero;;1;999999985
+ternero;ternera;1;999999984
+oca;ganso;2;1000000000
+pavo real;;2;999999999
+mula;mulo;2;999999998
+yegua;;2;999999997
+potro;;2;999999996
+poni;pony;2;999999995
+buey;;2;999999994
+cerdito;lechón|cochinillo;2;999999993
+cabrito;;2;999999992
+chivo;;2;999999991
+macho cabrío;;2;999999990
+carnero;;2;999999989
+codorniz;;2;999999988
+paloma;;2;999999987
+palomas;;2;999999986
+pintada;gallina de Guinea;2;999999985
+faisán;;2;999999984
+avestruz;granja de avestruces;2;999999983
+emú;;2;999999982
+llama;;2;999999981
+alpaca;;2;999999980
+búfalo;búfala;2;999999979
+abeja;abejas|colmena;2;999999978
+gusano de seda;;2;999999977
+caracol;caracoles;2;999999976
+trucha;piscifactoría;2;999999975
+vaca lechera;;2;999999974
+vaca frisona;frisona;2;999999973
+cerdo ibérico;ibérico;2;999999972
+cerdo vietnamita;;2;999999971
+oveja merina;merina;2;999999970
+oveja latxa;latxa;2;999999969
+pollito;pollitos;2;999999968
+polluelo;;2;999999967
+patito;;2;999999966
+ansarón;;2;999999965
+borrego;;2;999999964
+cordero lechal;;2;999999963
+ternerito;;2;999999962
+novilla;;2;999999961
+vaquilla;;2;999999960
+jaca;;2;999999959
+burra;;2;999999958
+pollino;;2;999999957
+vaca pirenaica;;3;1000000000
+vaca asturiana;;3;999999999
+rubia gallega;;3;999999998
+vaca avileña;;3;999999997
+vaca retinta;;3;999999996
+vaca tudanca;;3;999999995
+betizu;;3;999999994
+pottoka;;3;999999993
+caballo cartujano;caballo andaluz|pura raza español;3;999999992
+caballo percherón;percherón;3;999999991
+asno zamorano-leonés;burro zamorano;3;999999990
+burro catalán;;3;999999989
+burro andaluz;;3;999999988
+burro majorero;;3;999999987
+mulo zamorano;;3;999999986
+cerdo duroc;duroc;3;999999985
+cerdo celta;porco celta;3;999999984
+cerdo pietrain;;3;999999983
+cerdo landrace;;3;999999982
+large white;;3;999999981
+chato murciano;;3;999999980
+euskal txerria;;3;999999979
+oveja churra;;3;999999978
+oveja manchega;;3;999999977
+oveja carranzana;;3;999999976
+oveja xalda;;3;999999975
+oveja rasa aragonesa;;3;999999974
+cabra murciana;;3;999999973
+cabra malagueña;;3;999999972
+cabra florida;;3;999999971
+cabra payoya;;3;999999970
+cabra majorera;;3;999999969
+gallina castellana negra;;3;999999968
+gallina utrerana;;3;999999967
+gallina prat;;3;999999966
+gallina de Mos;;3;999999965
+euskal oiloa;;3;999999964
+gallina pedresa;;3;999999963
+gallina sedosa;sedosa;3;999999962
+gallina Leghorn;;3;999999961
+gallina Rhode Island;;3;999999960
+pato mulard;mulard;3;999999959
+pato de Barbaria;;3;999999958
+pato Pekín;;3;999999957
+ganso de Toulouse;;3;999999956
+ganso del Empordà;;3;999999955
+pavo negro;;3;999999954
+pavo bronceado;;3;999999953
+conejo gigante de España;;3;999999952
+conejo de Nueva Zelanda;;3;999999951
+cobaya;conejillo de Indias;3;999999950
+hurón;;3;999999949
+yak;;3;999999948
+cebú;;3;999999947
+bisonte;;3;999999946
+camello;;3;999999945
+dromedario;;3;999999944
+reno;;3;999999943
+vicuña;;3;999999942
+guanaco;;3;999999941
+ciervo;granja de ciervos;3;999999940
+gamo;;3;999999939
+jabalí;granja de jabalíes;3;999999938
+abeja reina;;3;999999937
+zángano;;3;999999936
+lombriz;lombrices|lombricultura;3;999999935
+grillos;granja de grillos;3;999999934
+tilapia;;3;999999933
+dorada (piscicultura);;3;999999932
+lubina (piscicultura);;3;999999931
+rodaballo (piscicultura);;3;999999930
+mejillón (batea);mejillones;3;999999929
+ostra;ostras;3;999999928
+perro pastor;pastor;3;999999927
+mastín;;3;999999926
+perro de presa;;3;999999925
+gato de granja;;3;999999924
+gato del granero;;3;999999923
+perro guardián;;3;999999922
+vaca Angus;Aberdeen Angus;4;1000000000
+vaca Hereford;;4;999999999
+vaca charolesa;charolais;4;999999998
+vaca limusina;limousin;4;999999997
+vaca Wagyu;wagyu;4;999999996
+vaca Highland;vaca peluda escocesa;4;999999995
+vaca Jersey;;4;999999994
+vaca Guernsey;;4;999999993
+vaca suiza parda;parda alpina;4;999999992
+vaca morucha;;4;999999991
+vaca sayaguesa;;4;999999990
+vaca berrenda;;4;999999989
+vaca cachena;;4;999999988
+vaca caldelá;;4;999999987
+vaca frieiresa;;4;999999986
+vaca vianesa;;4;999999985
+vaca bruna de los Pirineos;;4;999999984
+vaca menorquina;;4;999999983
+vaca mallorquina;;4;999999982
+vaca palmera;;4;999999981
+toro de lidia;;4;999999980
+cabestro;;4;999999979
+buey de trabajo;;4;999999978
+caballo hispano-árabe;;4;999999977
+caballo árabe;;4;999999976
+caballo frisón;;4;999999975
+caballo appaloosa;;4;999999974
+caballo cuarto de milla;;4;999999973
+caballo losino;;4;999999972
+caballo de las Retuertas;;4;999999971
+caballo gallego;garrano;4;999999970
+jaca navarra;;4;999999969
+burro de Poitou;;4;999999968
+burro balear;;4;999999967
+burro de las Encartaciones;;4;999999966
+burro miniatura;;4;999999965
+cerdo Mangalica;mangalica;4;999999964
+cerdo Bísaro;;4;999999963
+cerdo negro canario;;4;999999962
+minipig;cerdo enano;4;999999961
+oveja Suffolk;;4;999999960
+oveja Texel;;4;999999959
+oveja Lacaune;;4;999999958
+oveja Assaf;;4;999999957
+oveja de Ouessant;;4;999999956
+oveja Jacob;;4;999999955
+oveja Valais de nariz negra;oveja de nariz negra;4;999999954
+oveja Dorper;;4;999999953
+oveja segureña;;4;999999952
+oveja ojinegra;;4;999999951
+cabra Angora;;4;999999950
+cabra cachemira;;4;999999949
+cabra Saanen;;4;999999948
+cabra Alpina;;4;999999947
+cabra Nubia;;4;999999946
+cabra enana;;4;999999945
+cabra pigmea;;4;999999944
+cabra blanca de Rasquera;;4;999999943
+cabra verata;;4;999999942
+cabra azpi gorri;;4;999999941
+gallina Brahma;;4;999999940
+gallina Cochinchina;;4;999999939
+gallina Orpington;;4;999999938
+gallina Sussex;;4;999999937
+gallina Wyandotte;;4;999999936
+gallina Plymouth;;4;999999935
+gallina araucana;araucana;4;999999934
+gallina Marans;;4;999999933
+gallina Pita Pinta;;4;999999932
+gallina Sobrarbe;;4;999999931
+pato corredor indio;pato corredor;4;999999930
+pato Khaki Campbell;;4;999999929
+pato Rouen;;4;999999928
+ganso africano;;4;999999927
+ganso chino;;4;999999926
+ganso de Embden;;4;999999925
+pavo Bourbon;;4;999999924
+pavo de Narragansett;;4;999999923
+codorniz japonesa;;4;999999922
+perdiz roja;perdiz;4;999999921
+faisán dorado;;4;999999920
+pintada de cuello;;4;999999919
+paloma buchona;;4;999999918
+paloma mensajera;;4;999999917
+paloma de raza;;4;999999916
+vaca alistana-sanabresa;;5;1000000000
+vaca serrana negra;;5;999999999
+vaca mostrenca;;5;999999998
+vaca pasiega;;5;999999997
+vaca terreña;;5;999999996
+vaca murciana-levantina;;5;999999994
+vaca marismeña;;5;999999993
+vaca negra andaluza;;5;999999992
+vaca canaria;;5;999999991
+betizu (vaca salvaje vasca);;5;999999990
+monchino;;5;999999989
+ternera gallega;;5;999999988
+caballo marismeño;;5;999999987
+caballo monchino;;5;999999986
+caballo de pura raza menorquina;;5;999999985
+caballo mallorquín;;5;999999984
+caballo burguete;;5;999999983
+caballo hispano-bretón;;5;999999982
+caballo asturcón;asturcón;5;999999981
+cerdo gochu asturcelta;gochu;5;999999980
+cerdo ibérico manchado de Jabugo;;5;999999979
+cerdo lampiño;;5;999999978
+cerdo torbiscal;;5;999999977
+cerdo entrepelado;;5;999999976
+cerdo retinto;;5;999999975
+cerdo chato vitoriano;;5;999999974
+oveja xisqueta;;5;999999973
+oveja ripollesa;;5;999999972
+oveja aranesa;;5;999999971
+oveja ansotana;;5;999999970
+oveja roya bilbilitana;;5;999999969
+oveja maellana;;5;999999968
+oveja montesina;;5;999999967
+oveja lojeña;;5;999999966
+oveja palmera;;5;999999965
+oveja canaria de pelo;;5;999999964
+cabra pirenaica;;5;999999963
+cabra bermeya;;5;999999962
+cabra guadarrameña;;5;999999961
+cabra retinta;;5;999999960
+cabra negra serrana;;5;999999959
+cabra de las Mesetas;;5;999999958
+cabra palmera;;5;999999957
+cabra tinerfeña;;5;999999956
+cabra moncaína;;5;999999955
+cabra mallorquina;;5;999999954
+gallina penedesenca;;5;999999953
+gallina empordanesa;;5;999999952
+gallina andaluza azul;;5;999999951
+gallina sureña;;5;999999950
+gallina valenciana de Chulilla;;5;999999949
+gallina menorquina;;5;999999948
+gallina eivissenca;;5;999999947
+gallina extremeña azul;;5;999999946
+oca de Brecon;;5;999999945
+oca de Steinbacher;;5;999999944
+pavo de Norfolk;;5;999999943
+pavo Royal Palm;;5;999999942
+lama vicuña;;5;999999941
+huarizo;;5;999999940
+misti;;5;999999939
+paco-vicuña;;5;999999938
+dzo;;5;999999937
+gaur;;5;999999936
+banteng;;5;999999935
+búfalo de agua;;5;999999934
+búfalo murrah;;5;999999933
+cebú brahman;;5;999999932
+watusi;vaca watusi;5;999999931
+ankole-watusi;;5;999999930

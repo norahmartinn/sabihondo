@@ -1,0 +1,358 @@
+respuesta;alias;nivel;orden_a_mano
+pino;;1;1000000000
+roble;;1;999999999
+olivo;;1;999999998
+encina;;1;999999997
+abeto;;1;999999996
+palmera;;1;999999995
+sauce;sauce llorón;1;999999994
+chopo;álamo;1;999999993
+haya;;1;999999992
+castaño;;1;999999991
+cerezo;;1;999999990
+naranjo;;1;999999989
+manzano;;1;999999988
+limonero;;1;999999987
+almendro;;1;999999986
+eucalipto;;1;999999985
+platanero;plátano de sombra|plátano;1;999999984
+ciprés;;1;999999983
+baobab;;1;999999982
+secuoya;;1;999999981
+arce;;1;999999980
+higuera;;2;1000000000
+nogal;;2;999999999
+avellano;;2;999999998
+peral;;2;999999997
+melocotonero;;2;999999996
+ciruelo;;2;999999995
+albaricoquero;;2;999999994
+granado;;2;999999993
+níspero;;2;999999992
+mandarino;;2;999999991
+aguacate;aguacatero;2;999999990
+cocotero;;2;999999989
+datilera;palmera datilera;2;999999988
+olmo;;2;999999987
+fresno;;2;999999986
+abedul;;2;999999985
+tilo;;2;999999984
+acacia;;2;999999983
+magnolio;;2;999999982
+jacarandá;;2;999999981
+ginkgo;;2;999999980
+laurel;;2;999999979
+madroño;;2;999999978
+alcornoque;;2;999999977
+quejigo;;2;999999976
+rebollo;;2;999999975
+pino piñonero;;2;999999974
+pino silvestre;;2;999999973
+pino carrasco;;2;999999972
+cedro;;2;999999971
+tejo;;2;999999970
+sabina;;2;999999969
+enebro;;2;999999968
+acebo;;2;999999967
+boj;;2;999999966
+alerce;;2;999999965
+castaño de Indias;;2;999999964
+almez;;2;999999963
+morera;;2;999999962
+moral;;2;999999961
+algarrobo;;2;999999960
+árbol del amor;;2;999999959
+ailanto;;2;999999958
+falsa acacia;;2;999999957
+árbol de Navidad;abeto de Navidad;2;999999956
+bonsái;;2;999999955
+drago;;2;999999954
+caoba;;2;999999953
+ébano;;2;999999952
+teca;;2;999999951
+sándalo;;2;999999950
+ceiba;;2;999999949
+árbol del caucho;hevea;2;999999948
+ficus;;2;999999947
+árbol del pan;;2;999999946
+flamboyán;;2;999999945
+tabachín;;2;999999944
+ombú;;2;999999943
+araucaria;;2;999999942
+sauce blanco;;2;999999940
+chopo lombardo;;2;999999939
+álamo blanco;;2;999999938
+álamo negro;;2;999999937
+falso pimentero;;2;999999935
+paulownia;;2;999999934
+catalpa;;2;999999933
+liquidámbar;;2;999999932
+arce japonés;;2;999999931
+arce rojo;;2;999999930
+ciprés de Leyland;;2;999999929
+secuoya gigante;;2;999999928
+pino canario;;2;999999927
+palmera canaria;;2;999999926
+palmera de abanico;;2;999999925
+washingtonia;;2;999999924
+árbol de Guernica;Gernikako Arbola;2;999999923
+manzano silvestre;;2;999999922
+serbal;;2;999999921
+pinsapo;;3;1000000000
+abeto rojo;;3;999999999
+abeto de Douglas;;3;999999998
+pino negro;;3;999999997
+pino laricio;;3;999999996
+pino rodeno;pino resinero|pino marítimo;3;999999995
+pino insigne;pino de Monterrey;3;999999994
+pino de Alepo;;3;999999993
+roble albar;;3;999999991
+roble carballo;carballo;3;999999990
+roble americano;;3;999999989
+roble melojo;melojo;3;999999988
+coscoja;;3;999999985
+encina carrasca;;3;999999984
+haya roja;;3;999999983
+castaño gallego;;3;999999982
+abedul blanco;;3;999999981
+aliso;;3;999999980
+avellano silvestre;;3;999999979
+fresno de hoja estrecha;;3;999999978
+olmo de montaña;;3;999999977
+olmo siberiano;;3;999999976
+tilo de hoja grande;;3;999999975
+mostajo;;3;999999974
+serbal de cazadores;;3;999999973
+arce campestre;;3;999999972
+arce de Montpellier;;3;999999971
+acirón;;3;999999970
+acebuche;;3;999999967
+azufaifo;;3;999999965
+membrillero;;3;999999964
+caqui;;3;999999963
+kaki;;3;999999962
+chirimoyo;;3;999999961
+papayo;;3;999999960
+guayabo;;3;999999959
+litchi;;3;999999958
+mangostán;;3;999999957
+durián;;3;999999956
+jaca;;3;999999955
+carambolo;;3;999999954
+nogal americano;pecana;3;999999953
+nogal negro;;3;999999952
+castaño dulce;;3;999999950
+cedro del Líbano;;3;999999949
+cedro del Atlas;;3;999999948
+cedro del Himalaya;;3;999999947
+ciprés común;;3;999999946
+ciprés de los pantanos;;3;999999945
+tuya;;3;999999944
+falso ciprés;;3;999999943
+secuoya roja;;3;999999942
+metasecuoya;;3;999999941
+wollemia;;3;999999940
+araucaria chilena;pehuén;3;999999939
+kauri;;3;999999937
+eucalipto rojo;;3;999999936
+eucalipto azul;;3;999999935
+acacia mimosa;mimosa;3;999999934
+tipuana;;3;999999932
+ceibo;;3;999999931
+palo borracho;;3;999999930
+palmera real;;3;999999929
+palma de cera;;3;999999928
+palmito;;3;999999927
+palmera de Canarias;;3;999999926
+palmera washingtonia;;3;999999925
+palmera cocotera;;3;999999924
+palma de aceite;;3;999999923
+baobab africano;;3;999999921
+árbol del dragón;;3;999999920
+árbol de la seda;;3;999999919
+árbol del cielo;;3;999999918
+árbol de las pelucas;;3;999999917
+árbol del caramelo;;3;999999916
+árbol del pañuelo;;3;999999915
+ginkgo biloba;;3;999999914
+sauce cabruno;;3;999999913
+mimbrera;;3;999999911
+taray;;3;999999910
+chopo temblón;;3;999999909
+álamo temblón;;3;999999908
+fresno de flor;fresno de maná;3;999999907
+olmo común;;3;999999906
+olmo blanco;;3;999999905
+morera blanca;;3;999999904
+morera negra;;3;999999903
+laurel de Indias;;3;999999902
+ficus elástica;;3;999999901
+ficus benjamina;;3;999999900
+higuera de Bengala;baniano;3;999999899
+banyan;;3;999999898
+árbol sagrado bodhi;higuera de las pagodas;3;999999897
+mangle;;3;999999896
+manglar;;3;999999895
+pino de Oregón;;4;1000000000
+pino ponderosa;;4;999999999
+pino de Weymouth;;4;999999998
+pino cembro;;4;999999997
+pino bristlecone;;4;999999996
+pino longevo;Matusalén (árbol);4;999999995
+Matusalén;;4;999999994
+General Sherman;;4;999999993
+Hyperion;;4;999999992
+Árbol de Teneré;;4;999999991
+abeto blanco;;4;999999990
+abeto de Nordmann;;4;999999989
+picea;;4;999999988
+picea de Sitka;;4;999999987
+picea azul;;4;999999986
+tsuga;;4;999999985
+alerce europeo;;4;999999984
+alerce japonés;;4;999999983
+criptomeria;;4;999999982
+cunninghamia;;4;999999981
+sequoiadendron;;4;999999980
+taxodium;;4;999999979
+roble de los Pirineos;;4;999999978
+roble pubescente;;4;999999977
+roble rojo;;4;999999976
+roble de Turquía;;4;999999975
+quejigo andaluz;;4;999999974
+encina de Quercus ilex;Quercus ilex;4;999999973
+Quercus;;4;999999972
+Fagus;;4;999999971
+Pinus;;4;999999970
+Abies;;4;999999969
+Olea europaea;;4;999999968
+carpe;;4;999999967
+ojaranzo;;4;999999966
+avellano de Turquía;;4;999999965
+nogal de Persia;;4;999999964
+caria;;4;999999963
+pacana;;4;999999962
+árbol de Judas;;4;999999961
+ciclamor;;4;999999960
+cercis;;4;999999959
+gleditsia;;4;999999958
+robinia;;4;999999957
+sófora;;4;999999956
+albizia;acacia de Constantinopla;4;999999955
+paulownia imperial;;4;999999952
+tulipero;árbol de los tulipanes;4;999999951
+liriodendron;;4;999999950
+magnolio de flor;;4;999999949
+magnolia grandiflora;;4;999999948
+lodón;;4;999999946
+aligustre;;4;999999945
+árbol de la goma;;4;999999944
+ombú pampeano;;4;999999943
+ceiba pentandra;;4;999999942
+kapok;;4;999999941
+baobab de Madagascar;;4;999999940
+baobab de Grandidier;;4;999999939
+árbol botella;;4;999999938
+palo santo;;4;999999937
+guayacán;;4;999999936
+jacarandá mimosifolia;;4;999999935
+tabebuia;lapacho;4;999999934
+ipe;;4;999999932
+quebracho;;4;999999931
+algarrobo blanco;;4;999999930
+caldén;;4;999999929
+tala;;4;999999928
+espinillo;;4;999999927
+palo borracho rosado;;4;999999926
+sangre de drago;drago de Socotra;4;999999925
+drago milenario;Drago de Icod;4;999999924
+Árbol del Tule;;4;999999923
+ahuehuete;;4;999999922
+sabino;;4;999999921
+ceiba sagrada;;4;999999920
+árbol de la vida de Bahréin;;4;999999919
+árbol de Guernica (roble);;4;999999917
+Pino de Formentor;;4;999999916
+Castaño de los Cien Caballos;;4;999999915
+Tejo de Bermiego;;4;999999914
+Árbol de la Noche Triste;;4;999999913
+Pinus pinea;;5;1000000000
+Pinus sylvestris;;5;999999999
+Pinus halepensis;;5;999999998
+Pinus nigra;;5;999999997
+Pinus pinaster;;5;999999996
+Pinus canariensis;;5;999999995
+Abies pinsapo;;5;999999994
+Quercus robur;;5;999999993
+Quercus petraea;;5;999999992
+Quercus pyrenaica;;5;999999991
+Quercus faginea;;5;999999990
+Quercus suber;;5;999999989
+Fagus sylvatica;;5;999999988
+Castanea sativa;;5;999999987
+Betula pendula;;5;999999986
+Alnus glutinosa;;5;999999985
+Fraxinus excelsior;;5;999999984
+Ulmus minor;;5;999999983
+Tilia platyphyllos;;5;999999982
+Acer pseudoplatanus;;5;999999981
+Acer campestre;;5;999999980
+Sorbus aucuparia;;5;999999979
+Taxus baccata;;5;999999978
+Juniperus thurifera;;5;999999977
+Ilex aquifolium;;5;999999976
+Arbutus unedo;;5;999999975
+Celtis australis;;5;999999974
+Ceratonia siliqua;;5;999999973
+Ficus carica;;5;999999972
+Juglans regia;;5;999999971
+Corylus avellana;;5;999999970
+Prunus avium;;5;999999969
+Platanus hispanica;;5;999999968
+Populus nigra;;5;999999967
+Populus alba;;5;999999966
+Salix babylonica;;5;999999965
+Eucalyptus globulus;;5;999999964
+Eucalyptus camaldulensis;;5;999999963
+Cupressus sempervirens;;5;999999962
+Cedrus libani;;5;999999961
+Sequoia sempervirens;;5;999999959
+Sequoiadendron giganteum;;5;999999958
+Adansonia digitata;;5;999999957
+Dracaena draco;;5;999999956
+Phoenix canariensis;;5;999999955
+Phoenix dactylifera;;5;999999954
+Washingtonia filifera;;5;999999953
+Ceiba speciosa;;5;999999952
+árbol de hierro;;5;999999951
+ironwood;;5;999999950
+quiebrahacha;;5;999999949
+palo de rosa;;5;999999948
+palisandro;;5;999999947
+wengué;;5;999999946
+iroko;;5;999999945
+sapelli;;5;999999944
+okumé;;5;999999943
+balsa;árbol de balsa;5;999999942
+cedro rojo;;5;999999941
+cedro de Virginia;;5;999999940
+árbol del caucho de Pará;;5;999999939
+gutapercha;;5;999999938
+chicle (árbol);chicozapote;5;999999937
+zapote;;5;999999936
+mamey;;5;999999935
+nance;;5;999999934
+jobo;;5;999999933
+marañón;anacardo;5;999999932
+pistachero;;5;999999931
+almendro amargo;;5;999999930
+árbol del té;melaleuca;5;999999929
+árbol de cajeput;;5;999999928
+árbol del incienso;Boswellia;5;999999927
+árbol de la mirra;;5;999999926
+árbol del clavo;;5;999999925
+canelo;;5;999999924
+árbol de la nuez moscada;;5;999999923
+árbol del cacao;cacao;5;999999922
+cafeto;;5;999999921
+árbol de la quina;;5;999999920

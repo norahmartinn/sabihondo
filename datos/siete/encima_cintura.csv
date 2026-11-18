@@ -1,0 +1,390 @@
+respuesta;alias;nivel;orden_a_mano
+brazo;brazos;1;1000000000
+mano;manos;1;999999999
+pecho;pechos|tetas|senos;1;999999998
+cuello;;1;999999997
+hombro;hombros;1;999999996
+espalda;;1;999999995
+corazón;;1;999999994
+pulmón;pulmones;1;999999993
+estómago;barriga|tripa;1;999999992
+dedo;dedos;1;999999991
+codo;;1;999999990
+muñeca;;1;999999989
+ombligo;;1;999999988
+axila;sobaco|axilas;1;999999987
+hígado;;1;999999986
+costillas;costilla;1;999999985
+uña;uñas;1;999999984
+antebrazo;;2;1000000000
+bíceps;;2;999999999
+tríceps;;2;999999998
+pulgar;dedo gordo de la mano;2;999999997
+índice;;2;999999996
+corazón (dedo);dedo corazón|dedo medio;2;999999995
+anular;;2;999999994
+meñique;;2;999999993
+palma;palma de la mano;2;999999992
+nudillo;nudillos;2;999999991
+abdomen;abdominales|abdominal;2;999999990
+pezón;pezones;2;999999989
+garganta;;2;999999988
+nuca;;2;999999987
+clavícula;;2;999999986
+escápula;omóplato;2;999999985
+esternón;;2;999999984
+columna;columna vertebral;2;999999983
+vértebras;vértebra;2;999999982
+riñón;riñones;2;999999981
+bazo;;2;999999980
+páncreas;;2;999999979
+vesícula;vesícula biliar;2;999999978
+diafragma;;2;999999977
+tráquea;;2;999999976
+esófago;;2;999999975
+laringe;;2;999999974
+faringe;;2;999999973
+nuez;nuez de Adán;2;999999972
+tiroides;;2;999999971
+timo;;2;999999970
+pectorales;pectoral;2;999999969
+dorsales;dorsal;2;999999968
+trapecio;;2;999999967
+deltoides;;2;999999966
+oblicuos;;2;999999965
+lumbares;zona lumbar;2;999999964
+torso;tronco;2;999999963
+tórax;;2;999999962
+caja torácica;;2;999999961
+costado;;2;999999960
+omóplatos;;2;999999959
+húmero;;2;999999958
+cúbito;;2;999999957
+radio;;2;999999956
+carpo;;2;999999955
+metacarpo;;2;999999954
+falanges;;2;999999953
+articulación del hombro;;2;999999952
+muñeca (hueso);;2;999999951
+venas;;2;999999950
+arterias;;2;999999949
+aorta;;2;999999948
+vena cava;;2;999999947
+piel;;2;999999946
+vello del pecho;pelo del pecho;2;999999945
+vello de las axilas;;2;999999944
+areola;;2;999999943
+glándula mamaria;;2;999999942
+mamas;;2;999999941
+escote;;2;999999940
+canalillo;;2;999999939
+corva del brazo;pliegue del codo;2;999999938
+sangradura;;2;999999937
+muñeca (pulso);;2;999999936
+pulso;;2;999999935
+riñonada;;2;999999934
+boca del estómago;;2;999999933
+epigastrio;;2;999999932
+hipocondrio;;2;999999931
+plexo solar;;2;999999930
+manguito rotador;;3;1000000000
+supraespinoso;;3;999999999
+infraespinoso;;3;999999998
+redondo mayor;;3;999999997
+redondo menor;;3;999999996
+subescapular;;3;999999995
+romboides;;3;999999994
+serrato;serrato anterior;3;999999993
+dorsal ancho;;3;999999992
+pectoral mayor;;3;999999991
+pectoral menor;;3;999999990
+recto abdominal;;3;999999989
+transverso del abdomen;;3;999999988
+oblicuo externo;;3;999999987
+oblicuo interno;;3;999999986
+intercostales;;3;999999985
+esternocleidomastoideo;;3;999999984
+escalenos;;3;999999983
+braquial;;3;999999982
+braquiorradial;;3;999999981
+coracobraquial;;3;999999980
+pronador;;3;999999979
+supinador;;3;999999978
+flexor;;3;999999977
+extensor;;3;999999976
+tenar;eminencia tenar;3;999999975
+hipotenar;;3;999999974
+lumbricales;;3;999999973
+interóseos;;3;999999972
+aductor del pulgar;;3;999999971
+atlas;;3;999999970
+axis;;3;999999969
+vértebras cervicales;cervicales;3;999999968
+vértebras dorsales;vértebras torácicas;3;999999967
+vértebras lumbares;;3;999999966
+disco intervertebral;disco;3;999999965
+médula espinal;médula;3;999999964
+apófisis;;3;999999963
+acromion;;3;999999962
+coracoides;;3;999999961
+glenoides;;3;999999960
+cabeza del húmero;;3;999999959
+epicóndilo;;3;999999958
+epitróclea;;3;999999957
+olécranon;;3;999999956
+hueso de la risa;hueso de la alegría|nervio cubital;3;999999955
+escafoides;;3;999999954
+semilunar;;3;999999953
+piramidal;;3;999999952
+pisiforme;;3;999999951
+trapecio (hueso);;3;999999950
+trapezoide;;3;999999949
+grande;hueso grande;3;999999948
+ganchoso;;3;999999947
+metacarpianos;;3;999999946
+falange proximal;;3;999999945
+falange media;;3;999999944
+falange distal;;3;999999943
+xifoides;apéndice xifoides;3;999999942
+manubrio;;3;999999941
+cartílago costal;;3;999999940
+costillas flotantes;;3;999999939
+aurícula;aurículas;3;999999938
+ventrículo;ventrículos;3;999999937
+válvula mitral;;3;999999936
+válvula aórtica;;3;999999935
+válvula tricúspide;;3;999999934
+pericardio;;3;999999933
+miocardio;;3;999999932
+endocardio;;3;999999931
+coronarias;arterias coronarias;3;999999930
+carótida;;3;999999929
+yugular;;3;999999928
+subclavia;;3;999999927
+arteria braquial;;3;999999926
+arteria radial;;3;999999925
+arteria cubital;;3;999999924
+vena cefálica;;3;999999923
+vena basílica;;3;999999922
+vena cubital;;3;999999921
+bronquios;bronquio;3;999999920
+bronquiolos;;3;999999919
+alvéolos;;3;999999918
+pleura;;3;999999917
+mediastino;;3;999999916
+duodeno;;3;999999915
+píloro;;3;999999914
+cardias;;3;999999913
+epiglotis;;3;999999912
+cuerdas vocales;;3;999999911
+glotis;;3;999999910
+paratiroides;;3;999999909
+glándulas suprarrenales;suprarrenales;3;999999908
+pelvis renal;;3;999999907
+ganglios linfáticos;ganglios;3;999999906
+ganglios axilares;;3;999999905
+conducto torácico;;3;999999904
+nervio vago;;3;999999903
+nervio frénico;;3;999999902
+plexo braquial;;3;999999901
+nervio radial;;3;999999900
+nervio mediano;;3;999999899
+túnel carpiano;;3;999999897
+tabaquera anatómica;;3;999999896
+palma (líneas);líneas de la mano|línea de la vida;3;999999895
+huella dactilar;huellas dactilares;3;999999894
+yema;yemas de los dedos;3;999999893
+cutícula;;3;999999892
+lúnula;;3;999999891
+michelines;lorzas;3;999999890
+flotador;;3;999999889
+tableta;tableta de chocolate|six pack;3;999999888
+alas de murciélago (brazos);alas de murciélago;3;999999887
+cuello (nuca);;3;999999886
+cogote;;3;999999885
+pescuezo;;3;999999884
+yeyuno;;4;1000000000
+colon transverso;;4;999999999
+ángulo hepático;;4;999999998
+ángulo esplénico;;4;999999997
+epiplón;omento;4;999999996
+peritoneo;;4;999999995
+mesenterio;;4;999999994
+vena porta;;4;999999993
+arteria hepática;;4;999999992
+tronco celíaco;;4;999999991
+conducto colédoco;colédoco;4;999999990
+conducto cístico;;4;999999989
+conducto pancreático;;4;999999988
+islotes de Langerhans;;4;999999987
+ampolla de Vater;;4;999999986
+esfínter de Oddi;;4;999999985
+cardias gástrico;;4;999999984
+fundus;;4;999999983
+antro pilórico;;4;999999982
+lóbulo hepático;;4;999999981
+lóbulo pulmonar;;4;999999980
+lóbulo superior;;4;999999979
+lóbulo medio;;4;999999978
+lóbulo inferior;;4;999999977
+língula;;4;999999976
+hilio pulmonar;;4;999999975
+carina;;4;999999974
+cartílago tiroides;;4;999999973
+cartílago cricoides;;4;999999972
+aritenoides;;4;999999971
+nódulo sinusal;;4;999999970
+nódulo auriculoventricular;;4;999999969
+haz de His;;4;999999968
+fibras de Purkinje;;4;999999967
+cuerdas tendinosas;;4;999999966
+músculos papilares;;4;999999965
+tabique interventricular;;4;999999964
+orejuela;;4;999999963
+arco aórtico;;4;999999962
+aorta torácica;;4;999999961
+aorta abdominal;;4;999999960
+vena ácigos;;4;999999959
+ligamento arterioso;;4;999999958
+tronco pulmonar;;4;999999957
+arteria pulmonar;;4;999999956
+venas pulmonares;;4;999999955
+plexo cervical;;4;999999954
+ganglio estrellado;;4;999999953
+cadena simpática;;4;999999952
+nervio intercostal;;4;999999951
+nervio torácico largo;;4;999999950
+nervio axilar;;4;999999949
+nervio musculocutáneo;;4;999999948
+nervio supraescapular;;4;999999947
+ligamento coracoclavicular;;4;999999946
+ligamento coracoacromial;;4;999999945
+articulación acromioclavicular;;4;999999944
+articulación esternoclavicular;;4;999999943
+articulación glenohumeral;;4;999999942
+rodete glenoideo;;4;999999941
+bursa subacromial;;4;999999940
+membrana interósea;;4;999999939
+retináculo flexor;;4;999999938
+aponeurosis palmar;;4;999999937
+vaina tendinosa;;4;999999936
+polea;;4;999999935
+polea A2;;4;999999934
+tendón flexor;;4;999999933
+tendón extensor;;4;999999932
+capucha extensora;;4;999999931
+fascia toracolumbar;;4;999999930
+cuadrado lumbar;;4;999999929
+erector de la columna;erectores;4;999999928
+multífidos;;4;999999927
+rotadores;;4;999999926
+semiespinoso;;4;999999925
+esplenio;;4;999999924
+elevador de la escápula;;4;999999923
+triángulo de auscultación;;4;999999922
+fosa supraclavicular;;4;999999921
+fosa infraclavicular;;4;999999920
+surco deltopectoral;;4;999999919
+línea alba;;4;999999918
+línea semilunar;;4;999999917
+ombligo (cicatriz umbilical);;4;999999916
+cicatriz umbilical;;4;999999915
+cordones tendinosos;chordae tendineae;5;1000000000
+cuerdas del corazón;;5;999999999
+poleas anulares;;5;999999998
+poleas cruciformes;;5;999999997
+arteria de Adamkiewicz;;5;999999996
+arco de Riolan;;5;999999995
+arcada de Frohse;;5;999999994
+arcada de Struthers;;5;999999993
+triángulo de Calot;;5;999999992
+triángulo de Koch;;5;999999991
+canal de Guyon;;5;999999990
+espacio de Disse;;5;999999989
+cápsula de Glisson;;5;999999988
+cápsula de Bowman;;5;999999987
+asa de Henle;;5;999999986
+mácula densa;;5;999999985
+aparato yuxtaglomerular;;5;999999984
+nefrona;;5;999999983
+glomérulo;;5;999999982
+corpúsculos de Hassall;;5;999999981
+nódulo de Virchow;;5;999999980
+punto de Erb;;5;999999979
+haz de Bachmann;;5;999999978
+red de Chiari;;5;999999977
+válvula de Vieussens;;5;999999976
+tendón de Todaro;;5;999999975
+fosa oval;;5;999999974
+limbo de la fosa oval;;5;999999973
+cresta terminal;;5;999999972
+músculos pectíneos;;5;999999971
+trabéculas carnosas;;5;999999970
+banda moderadora;;5;999999969
+ligamento de Struthers;;5;999999968
+músculo palmar largo;;5;999999967
+músculo palmar corto;;5;999999966
+anconeo;;5;999999965
+músculo esternal;;5;999999964
+músculo subclavio;;5;999999963
+omohioideo;;5;999999962
+esternohioideo;;5;999999961
+esternotiroideo;;5;999999960
+tirohioideo;;5;999999959
+digástrico;;5;999999958
+milohioideo;;5;999999957
+geniohioideo;;5;999999956
+platisma;;5;999999955
+largo del cuello;;5;999999954
+escaleno mínimo;;5;999999953
+intertransversos;;5;999999952
+interespinosos;;5;999999951
+cisterna del quilo;;5;999999950
+conducto linfático derecho;;5;999999949
+ganglios de Rotter;;5;999999948
+ganglios paraesternales;;5;999999947
+ganglios mediastínicos;;5;999999946
+ganglios traqueobronquiales;;5;999999945
+glándulas de Montgomery;;5;999999944
+ligamentos de Cooper;;5;999999943
+conductos galactóforos;;5;999999942
+senos galactóforos;;5;999999941
+cola axilar de Spence;;5;999999940
+pezón supernumerario;;5;999999939
+mama supernumeraria;;5;999999938
+os acromiale;;5;999999937
+costilla cervical;;5;999999936
+costilla lumbar;;5;999999935
+apófisis odontoides;diente del axis;5;999999934
+ligamento transverso del atlas;;5;999999933
+ligamento alar;;5;999999932
+ligamento nucal;;5;999999931
+ligamento amarillo;;5;999999930
+anillo fibroso;;5;999999929
+núcleo pulposo;;5;999999928
+foramen intervertebral;;5;999999927
+conducto vertebral;;5;999999926
+cono medular;;5;999999925
+intumescencia cervical;;5;999999924
+astas anteriores;;5;999999923
+sustancia gris;;5;999999922
+sustancia blanca;;5;999999921
+mesotelio;;5;999999920
+pleura parietal;;5;999999919
+pleura visceral;;5;999999918
+receso costodiafragmático;;5;999999917
+ligamento pulmonar;;5;999999916
+ligamento falciforme;;5;999999915
+ligamento redondo del hígado;;5;999999914
+lóbulo caudado;;5;999999913
+lóbulo cuadrado;;5;999999912
+lóbulo de Riedel;;5;999999911
+escotadura cardíaca;;5;999999910
+cisura oblicua;;5;999999909
+cisura horizontal;;5;999999908
+lóbulo de la ácigos;;5;999999907
+segmentos broncopulmonares;;5;999999906
+acino pulmonar;;5;999999905
+saco alveolar;;5;999999904
+poros de Kohn;;5;999999903
+canales de Lambert;;5;999999902

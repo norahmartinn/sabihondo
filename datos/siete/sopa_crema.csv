@@ -1,0 +1,303 @@
+respuesta;alias;nivel;orden_a_mano
+gazpacho;;1;1000000000
+salmorejo;;1;999999999
+sopa de fideos;sopa con fideos;1;999999998
+consomé;;1;999999997
+caldo;caldo de pollo;1;999999996
+crema de calabaza;;1;999999995
+crema de verduras;;1;999999994
+puré;puré de verduras;1;999999993
+sopa de ajo;sopa castellana;1;999999992
+ramen;;1;999999991
+crema de calabacín;;1;999999990
+sopa de cebolla;;1;999999989
+cocido (sopa);sopa de cocido;1;999999988
+sopa de marisco;;1;999999987
+sopa de tomate;;1;999999986
+crema de champiñones;;1;999999985
+ajoblanco;;2;1000000000
+porrusalda;;2;999999999
+sopa de pescado;;2;999999998
+bullabesa;;2;999999997
+caldo gallego;;2;999999996
+sopa de picadillo;;2;999999995
+sopa de letras;;2;999999994
+sopa de estrellitas;;2;999999993
+minestrone;;2;999999992
+vichyssoise;vichysoise;2;999999991
+crema de puerros;;2;999999990
+crema de zanahoria;;2;999999989
+crema de espárragos;;2;999999988
+crema de guisantes;;2;999999987
+crema de lentejas;;2;999999986
+crema de marisco;;2;999999985
+bisque;bisque de bogavante;2;999999984
+crema de nécoras;;2;999999983
+sopa miso;miso;2;999999982
+pho;;2;999999981
+sopa wonton;wonton;2;999999980
+sopa agripicante;;2;999999979
+sopa de tortilla;;2;999999978
+sopa de pollo;;2;999999977
+sopa de lentejas;;2;999999976
+harira;;2;999999975
+borsch;borscht;2;999999974
+sopa thai;tom yum;2;999999973
+tom kha;;2;999999972
+sopa de calabaza;;2;999999971
+sopa de verduras;;2;999999970
+sopa juliana;;2;999999969
+sopa de arroz;;2;999999968
+sopa de almejas;clam chowder;2;999999967
+chowder;;2;999999966
+sopa de cebolla francesa;;2;999999965
+sopa de mejillones;;2;999999964
+sopa de puchero;;2;999999963
+sopa de galets;escudella;2;999999962
+caldo de huesos;;2;999999960
+caldo de verduras;;2;999999959
+caldo de pescado;;2;999999958
+fumet;;2;999999957
+consomé al jerez;;2;999999956
+sopa de menudillos;;2;999999955
+sopa de garbanzos;;2;999999954
+crema de coliflor;;2;999999953
+crema de brócoli;;2;999999952
+crema de espinacas;;2;999999951
+crema de alcachofas;;2;999999950
+crema de boletus;crema de setas;2;999999949
+crema de castañas;;2;999999948
+crema de pimientos;;2;999999947
+crema de remolacha;;2;999999946
+crema de queso;;2;999999945
+crema de aguacate;;2;999999944
+crema fría;;2;999999943
+gazpacho de sandía;;2;999999942
+gazpacho de fresa;;2;999999941
+salmorejo de remolacha;;2;999999940
+porra antequerana;porra;2;999999939
+caldo de cocido;;2;999999938
+sopa de cocido madrileño;;2;999999937
+sopa de pan;;2;999999936
+sopa de almendras;;2;999999935
+sopa de mariscos;;2;999999934
+sopa de rape;;2;999999933
+sopa de merluza;;2;999999932
+sopa de ajo con huevo;;3;1000000000
+sopas de ajo;;3;999999999
+sopa del Cuarto de Hora;;3;999999998
+sopa de sémola;;3;999999997
+sopa de tapioca;;3;999999996
+sopa de maravilla;;3;999999995
+sopa de pistones;;3;999999994
+sopa de cabello de ángel;;3;999999993
+sopa de pasta;;3;999999992
+sopa de ternera;;3;999999991
+sopa de rabo de toro;sopa de rabo;3;999999990
+sopa de mondongo;mondongo;3;999999989
+sopa de lentejas rojas;;3;999999988
+sopa de alubias;;3;999999987
+sopa de judías;;3;999999986
+gazpachuelo;;3;999999985
+gazpacho extremeño;;3;999999984
+ajo blanco de Málaga;;3;999999983
+sopa de tomate extremeña;;3;999999982
+sopa de pescado de Cádiz;;3;999999981
+caldillo de perro;;3;999999980
+escudella i carn d'olla;;3;999999978
+caldo canario;;3;999999977
+puré de patatas;;3;999999976
+sopa de berros;;3;999999975
+sopa de ortigas;;3;999999974
+sopa de acelgas;;3;999999973
+sopa de col;;3;999999972
+sopa de repollo;;3;999999971
+sopa de calabacín;;3;999999970
+crema de nabo;;3;999999969
+crema de chirivía;;3;999999968
+crema de apio;;3;999999967
+crema de hinojo;;3;999999966
+crema de puerro y patata;;3;999999965
+crema de cebolla;;3;999999964
+crema de ajo;;3;999999963
+crema de tomate;;3;999999962
+crema de pimiento asado;;3;999999961
+crema de calabaza y jengibre;;3;999999960
+crema de zanahoria y naranja;;3;999999959
+crema de lentejas rojas;;3;999999958
+crema de garbanzos;;3;999999957
+crema de alubias;;3;999999956
+crema de maíz;;3;999999955
+crema de patata;;3;999999954
+crema de berenjena;;3;999999953
+crema de queso Idiazábal;;3;999999952
+crema de queso azul;;3;999999951
+crema de gambas;;3;999999950
+crema de cangrejo;;3;999999949
+crema de langosta;;3;999999948
+crema de centollo;;3;999999947
+crema de cigalas;;3;999999946
+crema de pescado;;3;999999945
+sopa de miso con tofu;;3;999999944
+sopa de udon;udon;3;999999943
+soba;;3;999999942
+laksa;;3;999999941
+pho bo;;3;999999940
+pho ga;;3;999999939
+sopa de fideos chinos;;3;999999938
+sopa de wantán;;3;999999937
+sopa de maíz china;;3;999999936
+sopa de huevo;;3;999999935
+egg drop soup;;3;999999934
+gumbo;;3;999999933
+gazpacho andaluz;;3;999999932
+sopa de tortilla mexicana;;3;999999931
+pozole;;3;999999930
+menudo;;3;999999929
+caldo de res;;3;999999928
+sancocho;;3;999999927
+ajiaco;;3;999999926
+locro;;3;999999925
+chupe de camarones;chupe;3;999999924
+cazuela chilena;;3;999999923
+goulash;;3;999999922
+solyanka;;3;999999921
+shchi;;3;999999920
+ukha;;3;999999919
+okroshka;;3;999999918
+avgolemono;;3;999999917
+fasolada;;3;999999916
+tarator;;3;999999915
+ribollita;;3;999999914
+pappa al pomodoro;;3;999999913
+stracciatella;;3;999999912
+zuppa toscana;;3;999999911
+minestra;;3;999999910
+cullen skink;;3;999999909
+cock-a-leekie;;3;999999908
+mulligatawny;;3;999999907
+sopa de guisantes con jamón;sopa de guisantes;3;999999906
+erwtensoep;;3;999999905
+waterzooi;;3;999999904
+caldo verde;;3;999999903
+sopa da pedra;;3;999999902
+açorda;;3;999999901
+harira marroquí;;3;999999900
+chorba;;3;999999899
+shorba;;3;999999898
+sopa de lentejas libanesa;;3;999999897
+mercimek;;3;999999896
+yayla çorbası;;3;999999895
+işkembe;;3;999999894
+tom yum goong;;3;999999893
+tom kha gai;;3;999999892
+sopa de coco;;3;999999891
+sopa de arroz con almejas;;4;1000000000
+sopa de mariscos gallega;;4;999999999
+caldo de Castilla;;4;999999998
+sopa castellana con huevo escalfado;;4;999999997
+sopa de truchas;;4;999999996
+sopa de bacalao;;4;999999995
+sopa boba;sopa de pan y ajo;4;999999994
+sopa de cardo;;4;999999993
+sopa de grelos;caldo de grelos;4;999999992
+caldo de unto;;4;999999991
+caldo de nabizas;;4;999999990
+caldo de berzas;;4;999999989
+sopa de berza;;4;999999988
+porrusalda con bacalao;;4;999999987
+purrusalda;;4;999999986
+sopa de pescado donostiarra;;4;999999985
+zurrukutuna;;4;999999984
+sopa de ajo vasca;;4;999999983
+sopa de verduras vasca;;4;999999982
+sopa mallorquina;sopes mallorquines;4;999999981
+sopa de peix;;4;999999980
+sopa d'all;;4;999999979
+sopa de galets i pilotes;;4;999999978
+sopa de farigola;sopa de tomillo;4;999999977
+sopa de picadillo jerezana;;4;999999976
+sopa canaria de millo;;4;999999975
+rancho canario;;4;999999974
+sopa de cebolla gratinada;;4;999999973
+sopa de cebolla con queso;;4;999999972
+soupe à l'oignon;;4;999999971
+velouté;;4;999999970
+crème Dubarry;;4;999999969
+crème Crécy;;4;999999968
+potage Parmentier;;4;999999967
+crème Saint-Germain;;4;999999966
+crème Argenteuil;;4;999999965
+consomé de ave;;4;999999964
+consomé de buey;;4;999999963
+consomé al oporto;;4;999999962
+consomé con yema;;4;999999961
+consomé a la reina;;4;999999960
+consommé julienne;;4;999999959
+bouillon;;4;999999958
+court-bouillon;;4;999999957
+fumet de pescado;;4;999999956
+dashi;;4;999999955
+caldo de pollo con fideos;;4;999999954
+sopa de pollo de la abuela;;4;999999953
+sopa de Navidad;sopa de Nochebuena;4;999999952
+sopa de almendras de Navidad;;4;999999951
+sopa de galets de Navidad;;4;999999950
+sopa de cuarto de hora andaluza;;5;1000000000
+sopa de garbanzos con espinacas;;5;999999999
+sopa de tagarninas;;5;999999998
+sopa de espárragos trigueros;;5;999999997
+sopa de setas de cardo;;5;999999996
+crema de ortigas;;5;999999995
+crema de borraja;;5;999999994
+crema de cardo rojo;;5;999999993
+crema de alcachofa de Tudela;;5;999999992
+crema de pimiento del piquillo;;5;999999991
+crema de calçots;;5;999999990
+crema de castañas de Galicia;;5;999999989
+sopa de fariñas;;5;999999988
+sopa de perdiz;;5;999999987
+sopa de caracoles;;5;999999986
+sopa fría de melón;;5;999999985
+sopa fría de pepino;;5;999999984
+sopa fría de aguacate;;5;999999983
+sopa fría de cerezas;;5;999999982
+sopa fría de remolacha (Lituania);šaltibarščiai;5;999999981
+chlodnik;;5;999999980
+bortsch ucraniano;;5;999999979
+rassolnik;;5;999999978
+kharcho;;5;999999977
+kubbeh;;5;999999976
+matzo ball soup;sopa de matzá;5;999999975
+bird's nest soup;sopa de nido de golondrina;5;999999974
+shark fin soup;sopa de aleta de tiburón;5;999999973
+sopa de tortuga;;5;999999972
+sopa de serpiente;;5;999999971
+sopa de ginseng;samgyetang;5;999999970
+haejangguk;;5;999999969
+kimchi jjigae;;5;999999968
+sopa de lima yucateca;;5;999999967
+sopa de lima;;5;999999966
+caldo tlalpeño;;5;999999965
+caldo de siete mares;;5;999999964
+menudo rojo;;5;999999963
+pozole verde;;5;999999962
+sopa azteca;;5;999999961
+sopa de fideo mexicana;;5;999999960
+chilpachole;;5;999999959
+mondongo colombiano;;5;999999958
+mute santandereano;;5;999999957
+sopa de mondongo puertorriqueña;;5;999999956
+sopa de mariscos dominicana;;5;999999955
+sancocho de gallina;;5;999999954
+sopa de quinua;;5;999999953
+chairo;;5;999999952
+callaloo;;5;999999951
+pepper pot;;5;999999950
+groundnut soup;;5;999999949
+egusi;;5;999999948
+ogbono;;5;999999947
+harira de Ramadán;;5;999999946
+bissara;;5;999999945
+sopa de lentejas egipcia;;5;999999944
+molokhia;;5;999999943

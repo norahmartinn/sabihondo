@@ -1,0 +1,255 @@
+respuesta;alias;nivel;orden_a_mano
+serpiente;serpientes|víbora;1;1000000000
+escorpión;alacrán;1;999999999
+araña;arañas;1;999999998
+medusa;;1;999999997
+cobra;;1;999999996
+viuda negra;;1;999999995
+abeja;;1;999999994
+avispa;;1;999999993
+pez globo;;1;999999992
+rana venenosa;rana dardo;1;999999991
+tarántula;;1;999999990
+sapo;;1;999999989
+mamba negra;mamba;1;999999988
+pez escorpión;pez piedra;1;999999987
+ornitorrinco;;1;999999986
+víbora áspid;áspid;2;1000000000
+víbora hocicuda;;2;999999999
+escolopendra;ciempiés;2;999999998
+avispón;avispa asiática|velutina;2;999999997
+abejorro;;2;999999995
+hormiga roja;hormiga de fuego;2;999999994
+oruga procesionaria;procesionaria|oruga;2;999999993
+araña reclusa;reclusa;2;999999992
+araña lobo;;2;999999991
+araña de rincón;;2;999999990
+araña bananera;;2;999999989
+araña de embudo;;2;999999988
+escorpión amarillo;;2;999999987
+escorpión negro;;2;999999986
+alacrán de corteza;;2;999999985
+taipán;taipán del interior;2;999999984
+cascabel;serpiente de cascabel;2;999999983
+mamba verde;;2;999999982
+cobra real;;2;999999981
+cobra escupidora;;2;999999980
+krait;;2;999999979
+serpiente coral;coralillo;2;999999978
+serpiente marina;;2;999999977
+víbora del Gabón;;2;999999976
+víbora de Russell;;2;999999975
+boomslang;;2;999999974
+terciopelo;fer de lance;2;999999973
+jararaca;;2;999999972
+punta de lanza;;2;999999971
+bushmaster;cascabel muda;2;999999970
+mocasín;boca de algodón;2;999999969
+monstruo de Gila;;2;999999968
+lagarto de cuentas;;2;999999967
+dragón de Komodo;;2;999999966
+salamandra;salamandra común;2;999999965
+tritón;;2;999999964
+sapo de caña;sapo marino;2;999999963
+rana dorada;;2;999999962
+pulpo de anillos azules;pulpo de anillos;2;999999961
+avispa de mar;medusa de caja;2;999999960
+carabela portuguesa;;2;999999959
+medusa irukandji;irukandji;2;999999958
+anémona;anémonas;2;999999957
+coral de fuego;;2;999999956
+caracol cono;cono;2;999999955
+pez león;;2;999999954
+raya;pastinaca|raya látigo;2;999999951
+pez araña;araña de mar|faneca brava;2;999999950
+escorpina;rascacio;2;999999949
+pez sapo;;2;999999948
+erizo de mar;;2;999999947
+musaraña;;2;999999946
+solenodonte;;2;999999945
+loris lento;loris perezoso;2;999999944
+pitohuí;;2;999999943
+ornitorrinco (macho);;2;999999942
+milpiés;;2;999999941
+abeja africana;abeja asesina;2;999999940
+hormiga bala;;2;999999939
+avispa tarántula;;2;999999938
+oruga de fuego;lonomia;2;999999937
+oruga gata;oruga peluda;2;999999936
+víbora de Seoane;;3;1000000000
+víbora europea;víbora común;3;999999999
+culebra de Montpellier;culebra bastarda;3;999999998
+culebra de cogulla;;3;999999997
+áspid europeo;;3;999999996
+víbora cornuda;;3;999999995
+víbora de arena;;3;999999994
+víbora del desierto;;3;999999993
+víbora cornuda del Sáhara;;3;999999992
+cerasta;;3;999999991
+equis;echis|víbora de escamas aserradas;3;999999990
+víbora de Malasia;;3;999999989
+víbora de pestañas;;3;999999988
+víbora rinoceronte;;3;999999987
+víbora de Gaboon;;3;999999986
+cobra de anteojos;;3;999999985
+cobra egipcia;;3;999999984
+cobra de Mozambique;;3;999999983
+cobra de agua;;3;999999982
+mamba de Jameson;;3;999999981
+taipán costero;;3;999999980
+serpiente marrón oriental;serpiente parda oriental;3;999999979
+serpiente tigre;;3;999999978
+serpiente de la muerte;death adder;3;999999977
+serpiente marina de Belcher;;3;999999976
+krait anillado;;3;999999975
+serpiente de cascabel diamantina;;3;999999974
+crótalo cornudo;;3;999999973
+crótalo de Mojave;;3;999999972
+cabeza de cobre;copperhead;3;999999971
+surucucú;;3;999999970
+cascabel de Aruba;;3;999999969
+araña de Sídney;araña de embudo de Sídney;3;999999968
+araña errante brasileña;Phoneutria;3;999999967
+araña violinista;;3;999999966
+viuda marrón;;3;999999965
+viuda roja;;3;999999964
+araña de espalda roja;redback;3;999999963
+araña de seis ojos de la arena;Sicarius;3;999999962
+Latrodectus;;3;999999961
+Loxosceles;;3;999999960
+tarántula goliat;;3;999999958
+escorpión cazador de la muerte;Leiurus|deathstalker;3;999999957
+escorpión de cola gruesa;;3;999999956
+escorpión emperador;;3;999999955
+Androctonus;;3;999999954
+Centruroides;;3;999999953
+Tityus;;3;999999952
+Buthus;alacrán común;3;999999951
+escolopendra gigante;;3;999999950
+escolopendra de Amazonas;;3;999999949
+avispón gigante asiático;avispón asesino;3;999999948
+hormiga saltadora;hormiga toro;3;999999947
+hormiga cosechadora;;3;999999946
+rana dardo dorada;Phyllobates terribilis;3;999999945
+Dendrobates;;3;999999944
+rana flecha azul;;3;999999943
+rana tomate;;3;999999942
+sapo común;;3;999999941
+salamandra de fuego;;3;999999940
+tritón de vientre rojo;;3;999999939
+tritón ibérico;;3;999999938
+pez conejo;;3;999999937
+pez globo japonés;fugu;3;999999936
+pez gato venenoso;;3;999999934
+pez escorpión de Indo-Pacífico;;3;999999933
+pez araña común;;3;999999932
+pez piedra de estuario;;3;999999931
+medusa luminiscente;Pelagia noctiluca;3;999999930
+aguamala;;3;999999929
+ortiga de mar;medusa ortiga;3;999999928
+Chrysaora;;3;999999927
+Chironex fleckeri;;3;999999926
+Physalia;;3;999999925
+pulpo de anillos azules mayor;;3;999999924
+sepia flamboyante;;3;999999923
+cono geográfico;Conus geographus;3;999999922
+cono textil;;3;999999921
+gusano de fuego;gusano de fuego marino;3;999999920
+gusano erizo;;3;999999919
+pez león rojo;;3;999999918
+pez escorpión barbudo;;3;999999917
+musaraña de cola corta;;3;999999915
+solenodonte cubano;;3;999999914
+solenodonte de La Española;;3;999999913
+loris perezoso pigmeo;;3;999999912
+pájaro pitohuí encapuchado;;3;999999911
+ifrita;;3;999999910
+Vipera latastei;;4;1000000000
+Vipera seoanei;;4;999999999
+Vipera aspis;;4;999999998
+Vipera berus;;4;999999997
+Macrovipera lebetina;;4;999999996
+Daboia russelii;;4;999999995
+Bitis gabonica;;4;999999994
+Bitis arietans;víbora bufadora;4;999999993
+Cerastes cerastes;;4;999999992
+Echis carinatus;;4;999999991
+Naja naja;;4;999999990
+Naja haje;;4;999999989
+Naja nigricollis;;4;999999988
+Ophiophagus hannah;;4;999999987
+Dendroaspis polylepis;;4;999999986
+Dendroaspis angusticeps;;4;999999985
+Oxyuranus microlepidotus;;4;999999984
+Oxyuranus scutellatus;;4;999999983
+Pseudonaja textilis;;4;999999982
+Notechis scutatus;;4;999999981
+Acanthophis antarcticus;;4;999999980
+Hydrophis belcheri;;4;999999979
+Bungarus caeruleus;;4;999999978
+Bungarus fasciatus;;4;999999977
+Micrurus;;4;999999976
+Calliophis;;4;999999975
+Crotalus adamanteus;;4;999999974
+Crotalus atrox;;4;999999973
+Crotalus horridus;;4;999999972
+Agkistrodon contortrix;;4;999999971
+Agkistrodon piscivorus;;4;999999970
+Bothrops asper;;4;999999969
+Bothrops atrox;;4;999999968
+Bothrops jararaca;;4;999999967
+Lachesis muta;;4;999999966
+Dispholidus typus;;4;999999965
+Thelotornis;serpiente de ramas;4;999999964
+Atrax robustus;;4;999999963
+Hadronyche;;4;999999962
+Phoneutria nigriventer;;4;999999961
+Loxosceles reclusa;;4;999999960
+Loxosceles rufescens;;4;999999959
+Latrodectus mactans;;4;999999958
+Latrodectus hasselti;;4;999999957
+Latrodectus geometricus;;4;999999956
+Latrodectus tredecimguttatus;viuda negra mediterránea;4;999999955
+Leiurus quinquestriatus;;4;999999954
+Androctonus australis;;4;999999953
+Androctonus crassicauda;;4;999999952
+Centruroides sculpturatus;;4;999999951
+Tityus serrulatus;;4;999999950
+Hottentotta;;4;999999949
+Parabuthus;;4;999999948
+Buthus occitanus;;4;999999947
+Scolopendra gigantea;;4;999999946
+Scolopendra cingulata;;4;999999945
+Vespa velutina;;4;999999944
+Vespa mandarinia;;4;999999943
+Vespa crabro;;4;999999942
+Apis mellifera scutellata;;4;999999941
+Paraponera clavata;;4;999999940
+Solenopsis invicta;;4;999999939
+Thaumetopoea pityocampa;;4;999999938
+Lonomia obliqua;;4;999999937
+Phyllobates bicolor;;4;999999935
+Dendrobates tinctorius;;4;999999934
+Dendrobates azureus;;4;999999933
+Oophaga pumilio;;4;999999932
+Rhinella marina;;4;999999931
+Bufo bufo;;4;999999930
+Salamandra salamandra;;4;999999929
+Taricha granulosa;;4;999999928
+Takifugu rubripes;;4;999999927
+Synanceia verrucosa;;4;999999926
+Pterois volitans;;4;999999925
+Trachinus draco;;4;999999924
+Scorpaena;;4;999999923
+Dasyatis pastinaca;;4;999999922
+Carukia barnesi;;4;999999920
+Physalia physalis;;4;999999919
+Hapalochlaena lunulata;;4;999999917
+Metasepia pfefferi;;4;999999916
+Conus textile;;4;999999914
+Hermodice carunculata;;4;999999913
+Blarina brevicauda;;4;999999912
+Solenodon paradoxus;;4;999999911
+Nycticebus;;4;999999910
+Pitohui dichrous;;4;999999909
+Ornithorhynchus anatinus;;4;999999908

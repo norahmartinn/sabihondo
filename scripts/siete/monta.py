@@ -360,6 +360,13 @@ PREGUNTAS = [
     ("Nombra un barrio de Barcelona", "barrio_bcn"),
     ("Nombra algo que se hace con el móvil", "se_hace_movil"),
     ("Nombra algo que tenga hojas", "tiene_hojas"),
+    ("Nombra algo que sea amarillo", "amarillo"),
+    ("Nombra un tipo de pan", "tipo_pan"),
+    ("Nombra una sopa o una crema", "sopa_crema"),
+    ("Nombra un árbol", "arbol"),
+    ("Nombra un animal de granja", "animal_granja"),
+    ("Nombra un animal venenoso", "animal_venenoso"),
+    ("Nombra una parte del cuerpo por encima de la cintura (sin contar la cabeza)", "encima_cintura"),
 ]
 
 # Desde el 31 de octubre de 2026 los niveles son más generosos: la gente veía casi imposible llegar a Muy raro y Sabihondo.
