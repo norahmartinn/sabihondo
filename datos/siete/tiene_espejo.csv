@@ -1,0 +1,191 @@
+respuesta;alias;nivel;orden_a_mano
+baño;cuarto de baño;1;1000000000
+coche;retrovisor|espejo retrovisor;1;999999999
+armario;;1;999999998
+ascensor;;1;999999997
+peluquería;peluquero;1;999999996
+tocador;;1;999999995
+polvera;espejo de mano;1;999999994
+probador;probadores;1;999999993
+gimnasio;;1;999999992
+dentista;espejo del dentista;1;999999991
+moto;retrovisor de la moto;1;999999990
+habitación;dormitorio;1;999999989
+recibidor;entrada;1;999999988
+cámara réflex;réflex;2;1000000000
+telescopio;;2;999999999
+periscopio;;2;999999998
+microscopio;;2;999999997
+faro;;2;999999996
+caleidoscopio;;2;999999995
+discoteca;bola de discoteca|bola de espejos;2;999999994
+estudio de baile;academia de baile|clase de ballet;2;999999992
+sala de ballet;;2;999999991
+camión;;2;999999990
+autobús;;2;999999989
+bicicleta;retrovisor de bici;2;999999988
+parasol del coche;espejo del parasol;2;999999987
+neceser;;2;999999986
+bolso;;2;999999985
+estuche de maquillaje;paleta de maquillaje;2;999999984
+maquillaje;polvos compactos;2;999999983
+Blancanieves;la madrastra de Blancanieves|espejito espejito;2;999999982
+Alicia a través del espejo;Alicia;2;999999981
+casa del terror;casa de los espejos|laberinto de espejos;2;999999980
+feria;;2;999999979
+hotel;habitación de hotel;2;999999978
+bar;;2;999999977
+lavabo;;2;999999976
+mueble de baño;;2;999999975
+espejo de pie;vestidor;2;999999974
+cómoda;;2;999999972
+jaula de pájaro;periquito|jaula;2;999999971
+juguete de bebé;gimnasio de bebé;2;999999970
+escaparate;tienda;2;999999969
+centro comercial;;2;999999968
+cruce;espejo de tráfico|espejo convexo de calle;2;999999967
+garaje;parking;2;999999966
+aparcamiento;;2;999999965
+supermercado (espejo de seguridad);supermercado;2;999999964
+Versalles;Salón de los Espejos|Galería de los Espejos;2;999999963
+láser;;2;999999962
+linterna;foco;2;999999961
+faro del coche;;2;999999960
+lámpara;;2;999999959
+horno solar;cocina solar;3;1000000000
+central solar;heliostato|termosolar;3;999999999
+telescopio James Webb;James Webb;3;999999998
+telescopio Hubble;Hubble;3;999999997
+telescopio reflector;;3;999999996
+satélite;;3;999999995
+sextante;;3;999999994
+otoscopio;;3;999999993
+oftalmoscopio;;3;999999992
+laringoscopio;;3;999999991
+espejo dental;;3;999999990
+lámpara de quirófano;;3;999999989
+fotocopiadora;;3;999999988
+escáner;;3;999999987
+impresora láser;;3;999999986
+lector de CD;reproductor de CD;3;999999985
+Blu-ray;;3;999999984
+cámara de fotos antigua;;3;999999983
+ventana espía;cristal espía|espejo de una cara|sala de interrogatorios;3;999999982
+comisaría;;3;999999981
+casino;;3;999999980
+ascensor de hotel;;3;999999979
+taxi;;3;999999978
+tren;baño del tren;3;999999977
+avión;baño del avión;3;999999976
+barco;camarote;3;999999975
+autocaravana;;3;999999974
+caravana;;3;999999973
+tráiler;;3;999999972
+Harry Potter;espejo de Oesed|Oesed|espejo de Erised|Erised;3;999999971
+La bella y la bestia;espejo mágico de la Bestia;3;999999969
+Shrek;espejo mágico de Shrek;3;999999968
+Black Mirror;;3;999999967
+Medusa (Perseo);escudo de Perseo;3;999999966
+Perseo;;3;999999965
+Bloody Mary;Verónica;3;999999964
+Candyman;;3;999999963
+palacio de los espejos;;3;999999962
+Sala de los Espejos del Palacio Real;;3;999999961
+Palacio Real;;3;999999960
+teatro;camerino;3;999999959
+tocador de abuela;;3;999999957
+coqueta;;3;999999956
+aparador;;3;999999955
+perchero con espejo;;3;999999954
+puerta del armario;;3;999999953
+puerta corredera;;3;999999952
+espejo de aumento;;3;999999951
+espejo con luz;;3;999999950
+espejo de cuerpo entero;;3;999999949
+espejo de pared;;3;999999948
+espejo de cortesía;;3;999999947
+espejo de feria;;3;999999946
+espejo deformante;;3;999999945
+cámara oscura;;4;1000000000
+linterna mágica;;4;999999999
+praxinoscopio;;4;999999998
+estereoscopio;;4;999999997
+heliógrafo;;4;999999996
+telégrafo óptico;;4;999999995
+faro de Alejandría;;4;999999994
+rayos de Arquímedes;espejos de Arquímedes;4;999999993
+observatorio;;4;999999992
+telescopio de Newton;;4;999999991
+Gran Telescopio Canarias;GTC;4;999999990
+Calar Alto;;4;999999989
+ELT;;4;999999988
+colector solar;;4;999999987
+concentrador solar;;4;999999986
+horno solar de Odeillo;Odeillo;4;999999985
+Gemasolar;;4;999999984
+PS10;;4;999999983
+cajas de luz;;4;999999982
+espejo infinito;efecto infinito|túnel infinito;4;999999981
+Infinity Room;Yayoi Kusama|sala infinita;4;999999980
+museo de ilusiones;;4;999999979
+espejo de la verdad;;4;999999978
+espejo mágico;;4;999999977
+espejo encantado;;4;999999976
+Galadriel;espejo de Galadriel;4;999999975
+Doctor Strange;dimensión espejo|Mirror Dimension;4;999999974
+Mirror Master;Maestro de los Espejos;4;999999973
+espejo de obsidiana;espejo de John Dee;4;999999972
+espejo veneciano;;4;999999971
+espejo de Murano;;4;999999970
+espejo isabelino;;4;999999969
+espejo de cornucopia;cornucopia;4;999999968
+espejo de vestidor;;4;999999967
+espejo de bolsillo;;4;999999966
+consola;consola con espejo;4;999999965
+cabecero con espejo;;4;999999964
+techo con espejos;motel;4;999999963
+ascensor de cristal;;4;999999961
+cabina de fotos;fotomatón;4;999999960
+afeitado;espejo de afeitar;4;999999959
+barbería;;4;999999958
+salón de belleza;;4;999999957
+spa;;4;999999956
+centro de estética;;4;999999955
+probador de zapatos;zapatería;4;999999954
+óptica;óptico;4;999999953
+joyería;;4;999999952
+perfumería;;4;999999951
+tienda de ropa;;4;999999950
+Zara;;4;999999949
+sastrería;;4;999999948
+tienda de novias;;4;999999947
+espejo de los Arnolfini;El matrimonio Arnolfini|Los Arnolfini;5;999999999
+Las Meninas;Velázquez;5;999999998
+La Venus del espejo;;5;999999997
+Un bar aux Folies-Bergère;Un bar del Folies-Bergère;5;999999996
+Narciso de Caravaggio;Narciso;5;999999995
+Magritte;La reproducción prohibida;5;999999994
+Escher;Mano con esfera reflectante;5;999999993
+Anish Kapoor;Cloud Gate|la Judía de Chicago|The Bean;5;999999992
+Kapoor;;5;999999991
+espejo de la Reina Malvada;;5;999999987
+Lady of Shalott;La dama de Shalott;5;999999986
+Oculus (película);;5;999999985
+Espejos (película);Mirrors;5;999999984
+Candyman (película);;5;999999983
+El cisne negro;;5;999999982
+retrorreflector;catadióptrico|ojos de gato;5;999999981
+ojo de gato;;5;999999979
+espejo de Lloyd;;5;999999978
+interferómetro;LIGO;5;999999977
+espejo semitransparente;beam splitter;5;999999976
+espejo dicroico;;5;999999975
+espejo de Bragg;;5;999999974
+pantalla de reflectancia;;5;999999973
+cubo de esquina;;5;999999972
+retrorreflector lunar;la Luna (retrorreflectores del Apolo);5;999999971
+Apolo 11;;5;999999970
+espejo de un microscopio antiguo;;5;999999969
+kaleidoscopio infantil;;5;999999968
+juguete de periquito;;5;999999967
+pájaro (espejo de jaula);;5;999999966

@@ -326,6 +326,13 @@ PREGUNTAS = [
     ("Nombra una ciudad o un pueblo de Andalucía", "ciudad_andalucia"),
     ("Nombra un tipo de calzado", "calzado"),
     ("Nombra una marca de ropa española", "ropa_espanola"),
+    ("Nombra algo que tenga espejo", "tiene_espejo"),
+    ("Nombra algo que se congela", "se_congela"),
+    ("Nombra una flor", "flor"),
+    ("Nombra un programa infantil de la tele", "programa_infantil"),
+    ("Nombra un mote cariñoso", "mote_carinoso"),
+    ("Nombra un jugador del Real Madrid", "real_madrid"),
+    ("Nombra una plataforma de streaming", "streaming"),
 ]
 
 # Desde el 31 de octubre de 2026 los niveles son más generosos: la gente veía casi imposible llegar a Muy raro y Sabihondo.

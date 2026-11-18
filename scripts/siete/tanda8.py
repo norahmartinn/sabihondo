@@ -72,9 +72,13 @@ def ciudad_andalucia():
     """Los 785 municipios de Andalucía (Wikidata); lo conocido, a mano."""
     junta("ciudad_andalucia", por_tramos(wd8("andalucia"), [(90, 3), (200, 4), (None, 5)]), "enlaces_wikipedia")
 
-CON_FUNCION = {"ciudad_portugal", "raza_perro", "ciudad_euskadi", "ciudad_andalucia"}
+def real_madrid():
+    """Todos los jugadores que han pasado por el Real Madrid según Wikidata (P54); lo conocido, a mano."""
+    junta("real_madrid", por_tramos(wd8("realmadrid"), [(80, 3), (200, 4), (None, 5)]), "enlaces_wikipedia")
+
+CON_FUNCION = {"ciudad_portugal", "raza_perro", "ciudad_euskadi", "ciudad_andalucia", "real_madrid"}
 SOLO8 = solo_mano(*[s for s in mano_t8.MANO if s not in CON_FUNCION])
-TODAS8 = SOLO8 + [ciudad_portugal, raza_perro, palabra_y, ciudad_euskadi, ciudad_andalucia]
+TODAS8 = SOLO8 + [ciudad_portugal, raza_perro, palabra_y, ciudad_euskadi, ciudad_andalucia, real_madrid]
 if __name__ == "__main__":
     pedidas = sys.argv[1:]
     for f in TODAS8:
