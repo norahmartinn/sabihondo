@@ -354,6 +354,12 @@ PREGUNTAS = [
     ("Nombra una joya o un complemento", "joya_complemento"),
     ("Nombra un estampado", "estampado"),
     ("Nombra algo de material de oficina", "material_oficina"),
+    ("Nombra un personaje calvo", "personaje_calvo"),
+    ("Nombra una palabra compuesta", "palabra_compuesta"),
+    ("Nombra un apellido vasco", "apellido_vasco"),
+    ("Nombra un barrio de Barcelona", "barrio_bcn"),
+    ("Nombra algo que se hace con el móvil", "se_hace_movil"),
+    ("Nombra algo que tenga hojas", "tiene_hojas"),
 ]
 
 # Desde el 31 de octubre de 2026 los niveles son más generosos: la gente veía casi imposible llegar a Muy raro y Sabihondo.

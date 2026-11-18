@@ -1,0 +1,162 @@
+respuesta;alias;nivel;orden_a_mano
+llamar;llamadas|hablar por teléfono;1;1000000000
+mandar mensajes;mensajes|whatsapp|whatsappear|escribir;1;999999999
+hacer fotos;fotos|sacar fotos;1;999999998
+selfies;hacerse un selfie|selfie;1;999999997
+mirar redes sociales;redes|redes sociales|Instagram|TikTok;1;999999996
+ver vídeos;vídeos|YouTube;1;999999995
+escuchar música;música|Spotify;1;999999994
+jugar;juegos|jugar a juegos;1;999999993
+mandar audios;audios;1;999999992
+videollamadas;videollamada;1;999999991
+buscar en Google;buscar|Google;1;999999990
+mirar la hora;la hora;1;999999989
+poner la alarma;alarma|despertador;1;999999988
+Bizum;hacer un Bizum;1;999999987
+pagar;pagar con el móvil;1;999999986
+grabar vídeos;grabar;2;1000000000
+hacer scroll;scroll;2;999999999
+stalkear;cotillear;2;999999998
+ligar;Tinder|apps de citas;2;999999997
+leer;leer noticias|noticias;2;999999996
+leer libros;;2;999999995
+mirar el correo;correo|email;2;999999994
+mirar el mapa;Google Maps|GPS|orientarse;2;999999993
+pedir un Uber;Uber|Cabify|taxi;2;999999992
+pedir comida;Glovo|Just Eat|Uber Eats;2;999999991
+comprar;compras|Amazon|Shein;2;999999990
+vender;Wallapop|Vinted;2;999999989
+banca online;mirar el banco|banco|app del banco|transferencias;2;999999988
+mirar el tiempo;el tiempo;2;999999987
+calcular;calculadora;2;999999986
+linterna;;2;999999985
+escanear;escanear un QR|QR;2;999999984
+mirar el calendario;calendario|agenda;2;999999983
+notas;apuntar cosas;2;999999982
+recordatorios;;2;999999981
+contar pasos;pasos;2;999999980
+cronómetro;;2;999999979
+temporizador;;2;999999978
+grabar notas de voz;notas de voz;2;999999977
+escuchar pódcast;pódcast|podcasts;2;999999976
+escuchar la radio;radio;2;999999975
+ver series;series|Netflix|ver pelis;2;999999974
+ver el fútbol;fútbol;2;999999973
+directos;Twitch;2;999999972
+hacer directos;;2;999999971
+subir stories;stories|historias;2;999999970
+publicar fotos;postear;2;999999969
+comentar;;2;999999968
+dar like;likes;2;999999967
+memes;mandar memes;2;999999966
+stickers;;2;999999965
+emojis;;2;999999964
+gifs;;2;999999963
+chatear;chat;2;999999962
+Telegram;;2;999999961
+Discord;;2;999999960
+Twitter;X;2;999999959
+Facebook;;2;999999958
+LinkedIn;;2;999999957
+BeReal;;2;999999956
+Pinterest;;2;999999955
+Snapchat;;2;999999954
+mirar el saldo;;2;999999953
+pagar el parking;;2;999999952
+sacar la entrada;entradas;2;999999951
+tarjeta de embarque;;2;999999950
+billete de tren;;2;999999949
+Renfe;;2;999999948
+abono transporte;;2;999999947
+aprender idiomas;Duolingo;2;999999946
+estudiar;;2;999999945
+hacer deporte;apps de deporte|Strava;2;999999944
+meditar;;2;999999943
+contar calorías;;2;999999942
+ciclo menstrual;app de la regla;2;999999941
+dormir;apps de sueño;2;999999940
+traducir;traductor|Google Translate;2;999999939
+leer el horóscopo;horóscopo;2;999999938
+Wordle;;2;999999937
+jugar al Sabihondo;Sabihondo;2;999999936
+Candy Crush;;2;999999935
+Clash Royale;;2;999999934
+Brawl Stars;;2;999999933
+Pokémon Go;;2;999999932
+ajedrez;;2;999999931
+editar fotos;filtros;2;999999930
+editar vídeos;CapCut;2;999999929
+hacer capturas;captura de pantalla|capturas de pantalla|capturas|pantallazo|pantallazos;2;999999928
+grabar la pantalla;;2;999999927
+compartir ubicación;ubicación;2;999999926
+ver porno;porno;2;999999925
+sexting;;2;999999924
+cagar con el móvil;en el váter|mirar el móvil en el baño;2;999999923
+perder el tiempo;;2;999999922
+procrastinar;;2;999999921
+no hacer nada;;2;999999920
+abrir el coche;;3;1000000000
+controlar la casa;domótica|Alexa;3;999999999
+encender las luces;;3;999999998
+poner la tele;mando de la tele|Chromecast;3;999999997
+cámara de seguridad;vigilar;3;999999996
+monitor de bebé;;3;999999995
+pagar en tiendas;Apple Pay|Google Pay|contactless;3;999999994
+sacar dinero;;3;999999993
+firmar documentos;firma digital;3;999999992
+Cl@ve;certificado digital;3;999999991
+cita previa;pedir cita;3;999999990
+cita del médico;;3;999999989
+receta electrónica;;3;999999988
+tarjeta sanitaria;app de salud;3;999999987
+medir distancias;metro;3;999999986
+nivel;nivel de burbuja;3;999999985
+brújula;;3;999999984
+lupa;;3;999999982
+espejo;;3;999999981
+leer código de barras;;3;999999980
+comparar precios;;3;999999979
+cupones;;3;999999978
+lista de la compra;;3;999999977
+recetas;cocinar;3;999999976
+Thermomix;Cookidoo;3;999999975
+reconocer canciones;Shazam;3;999999974
+reconocer plantas;identificar plantas;3;999999973
+Google Lens;;3;999999972
+buscar con la cámara;;3;999999971
+traducir carteles;;3;999999970
+hacer la declaración de la renta;renta;3;999999969
+pagar multas;;3;999999968
+consultar puntos;puntos del carnet;3;999999967
+MiDGT;carnet de conducir;3;999999966
+DNI digital;MiDNI;3;999999965
+hotspot;compartir datos|compartir internet;3;999999964
+conectar al wifi;;3;999999963
+Bluetooth;;3;999999962
+AirDrop;;3;999999961
+mandar archivos;;3;999999960
+descargar apps;;3;999999959
+actualizar;;3;999999958
+reservar;Booking|Airbnb|ElTenedor|reservar mesa;3;999999957
+check-in;;3;999999956
+alquilar patinete;patinete;3;999999955
+alquilar bici;Bicing;3;999999954
+compartir coche;BlaBlaCar;3;999999953
+seguir un vuelo;Flightradar;3;999999952
+ver el radar de lluvia;;3;999999951
+buscar piso;Idealista;3;999999950
+buscar trabajo;InfoJobs;3;999999949
+apostar;apuestas|casas de apuestas;3;999999948
+comprar lotería;lotería;3;999999947
+Euromillones;;3;999999946
+Bolsa;invertir|criptomonedas;3;999999945
+Revolut;;3;999999944
+llamar a emergencias;112;3;999999943
+alarma SOS;;3;999999942
+compartir viaje;;3;999999941
+Find My;buscar el móvil;3;999999940
+ChatGPT;Claude|hablar con la IA|preguntar a la IA;3;999999939
+IA;;3;999999938
+hacer los deberes;;3;999999937
+copiar en un examen;chuleta;3;999999936
+chuletas;;3;999999935

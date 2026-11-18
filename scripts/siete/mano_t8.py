@@ -1779,3 +1779,186 @@ MANO.update({
     "guillotina de palanca, cizalla de rodillo, cúter de seguridad, cuchilla de repuesto, alfombrilla de corte, regla de acero, escalímetro, plantilla de curvas, curvígrafo"
 },
 })
+
+MANO.update({
+"apellido_vasco": {
+ 1: "Etxeberria=Echeverría=Etcheverría=Echeberría, Aguirre=Agirre, Goikoetxea=Goicoechea, Urrutia, Zubizarreta, Arrizabalaga, Garmendia, Mendizabal=Mendizábal, Iturriaga, "
+    "Elizondo, Olaizola, Larrañaga, Uriarte, Zabala=Zabala, Etxebarria=Echevarría=Echebarría",
+ 2: "Arana, Ibarra, Arteaga, Urquijo=Urkijo, Zuloaga, Zabaleta, Jáuregui=Jauregi, Arregui=Arregi, Iriarte, Ugarte, Arrieta, Mendieta, Aranguren, Garay=Garai, Loyola=Loiola, "
+    "Ochoa=Otxoa, Ibarguren, Arrese, Aranzabal, Azkarate=Azcárate, Basterretxea=Basterrechea, Beristain, Elorza, Elorriaga, Elkoro=Elcoro, Errasti, Esnaola, Etxegarai=Echegaray, "
+    "Gabilondo, Galarraga, Gaztelumendi, Goñi, Goenaga, Gorostiaga, Gorospe, Ibarrola, Igartua, Iraola, Iribar, Irigoyen=Irigoien, Isasi, Iturbe, Iturralde, Izaguirre=Izagirre, "
+    "Jaúregui, Lasa, Lasarte, Lekue=Lecue, Lizarazu, Lizarraga, Lopetegui=Lopetegi, Madariaga, Markaida=Marcaida, Mendiola, Mujika=Mújica=Mugica, Murua, Odriozola, Olabarrieta, "
+    "Olano, Olazabal=Olazábal, Ondarra, Oronoz, Otegi=Otegui, Oyarzabal=Oiartzabal, Ozaeta, Salaberria, Sarasola, Txurruka=Churruca, Ubeda? , Unanue, Urdangarin, Uribe, Urkiola, "
+    "Urrestarazu, Urtasun, Zabalza, Zaldua, Zamakona, Zarraga, Zubiaurre, Zubieta, Zubillaga, Zulaika, Zurutuza, Zabaleta, Arzak, Berasategui, Subijana, Arguiñano, Aduriz, Atxa",
+ 3: "Aldekoa, Altuna, Amezaga, Amorrortu, Anduaga, Aramburu=Aranburu, Arambarri, Aranda? , Aranzadi, Arbeloa, Arizmendi, Arruabarrena, Arteche=Artetxe, Askasibar, Astigarraga, "
+    "Atutxa, Azpilikueta=Azpilicueta, Azpiroz, Azurmendi, Bengoetxea=Bengoechea, Berasaluce, Bilbao, Burgoa, Elejalde, Elgezabal, Elorduy, Erkiaga, Ezkurra, Gabiria, Galdos, Gallastegi, "
+    "Garaikoetxea=Garaicoechea, Garitano, Gaztañaga, Goiburu, Gorostidi, Guridi, Ibaibarriaga, Idigoras, Inchausti=Intxausti, Ipiña, Iriondo, Irureta, Iturrioz, Izeta, Juaristi, "
+    "Lacunza=Lakuntza, Landa, Larrinaga, Lasagabaster, Legarreta, Lertxundi, Letamendia, Lizaso, Loinaz, Manterola, Mendibil, Mendoza? , Muguerza, Narbarte, Oñaederra, Ormaetxea, "
+    "Orbegozo, Otaño, Otxandiano, Ormazabal, Pagola, Salazar? , Sagastizabal, Sasiain, Soraluze, Telleria, Txapartegi, Ugalde, Uranga, Urdiain, Urigoitia, Urkullu, Urquiza, "
+    "Usandizaga, Zabalegui, Zalakain, Zarate=Zárate, Zubiri, Zuazo, Zumalakarregi=Zumalacárregui, Zumeta, Zurbano, Ibarretxe, Ardanza, Garaikoetxea, Imaz, Ortuzar, Esteban? , "
+    "Kortabarria, Korta, Errazkin, Izagirre, Etxeita, Aurtenetxe, Iraizoz, Agirretxe, Gorosabel, Zarandona, Urtiaga, Aiestaran, Martínez de Pisón? , Lasa, Olano, Zamora? ",
+ 4: "Agirrezabala, Agirrebeitia, Aizpurua, Alberdi, Albisu, Alkorta, Altzibar, Amenabar=Amenábar, Amilibia, Anabitarte, Aranberri, Arandia, Aretxabaleta, Argiñano, Aristegi, Arrasate, "
+    "Arratibel, Arrillaga, Arrizubieta, Artola, Arzuaga, Ayerza, Azkue, Bakaikoa, Barandiaran, Barrenetxea, Berriozabal, Bidegain, Bizkarra, Egaña, Egibar, Eizagirre, Elustondo, "
+    "Erdozain, Eskisabel, Esnal, Etxabe, Etxaniz, Etxenike=Echenique, Etxezarreta, Ezeiza, Gabikagogeaskoa, Galdeano, Gamboa, Gantxegi, Garagorri, Garmendia, Goikoetxea, Gorriti, "
+    "Ibarguchi, Igeregi, Insausti, Irazusta, Iriarte, Iturain, Iturrospe, Jauregizar, Labaka, Lafuente? , Lakarra, Landeta, Larrazabal, Larrea, Lazkano, Legorburu, Leturia, Loidi, "
+    "Lukiantxuki? , Madinabeitia, Mendibe, Mondragón, Mugarza, Nazabal, Olaetxea, Olasagasti, Olea, Orbe, Orella, Oteiza, Otamendi, Otazua, Pagalday, Saizar, Sarriegi, Sorozabal, "
+    "Txakartegi, Ulazia, Unzueta, Urbieta, Urdanpilleta, Uria, Urizar, Urkizu, Urrutikoetxea, Ustarroz, Uzkudun, Yarza, Zabalo, Zalduondo, Zamarripa, Zelaia, Zestau, Zubeldia, Zulueta",
+ 5: "Aranbarri, Arrospide, Askarraga, Bengoa, Elgoibar, Enbeita, Erauskin, Ergoien, Etxaburu, Gaminde, Goikolea, Gondra, Gorrotxategi, Ibarbia, Igartzabal, Iparragirre, Iraeta, "
+    "Isasmendi, Itxaso, Iturbide, Jaio, Lekuona, Lizartza, Loiarte, Mendikute, Mendinueta, Muxika, Oiarbide, Oiartzun, Olaso, Ormaiztegi, Otxoa de Eribe, Sagarna, Sagarzazu, "
+    "Txintxurreta, Ubera, Uranzu, Urberuaga, Urdampilleta, Urkia, Usabiaga, Zaldibar, Zarautz? , Zigorraga, Zuaznabar, Zubiaga, Zubikarai, Zuriarrain, Bidaurreta, Arbizu",
+}
+})
+
+MANO.update({
+"personaje_calvo": {
+ 1: "Homer Simpson=Homer, Mr. Proper=Don Limpio, Lex Luthor, Voldemort, Krilin, Charlie Brown, Gru, Shrek? , Pocoyó? , Calimero? , Tío Fétido=Fétido, Yoda? , Doctor Malito=Dr. Maligno, "
+    "Profesor X=Charles Xavier=Xavier, Mortadelo, Aang? , Saitama, Walter White=Heisenberg, Vin Diesel? ",
+ 2: "Pato Donald? , Señor Burns=Montgomery Burns, Bob Esponja? , Charlie Brown, Caillou, Mr. Magoo=Míster Magoo, Elmer Gruñón? , Popeye? , Tío Gilito? , Patricio? , "
+    "Hitman=Agente 47, Kratos, Thanos, Ego=Marvin Ego? , Drax, Nebula, Ancestral=La Anciana=The Ancient One, Kingpin=Wilson Fisk, Doctor Manhattan, Mr. Satán? , Ten Shin Han=Tenshinhan, "
+    "Freezer=Frieza? , Monje Shaolin? , Avatar Aang=Aang, Tío Iroh? , Jean-Luc Picard=Picard, Mr. Bean? , Krang? , Doctor Robotnik=Robotnik=Eggman=Dr. Eggman, Wario? , "
+    "Ralph Wiggum? , Barney Gumble? , Abuelo Simpson=Abraham Simpson=Abe, Moe Szyslak=Moe? , Apu? , Profesor Frink? , Phineas? , Doctor Doofenshmirtz? , Mike Wazowski=Mike, "
+    "Sid el perezoso? , Fester Addams=Tío Lucas=tío Fétido, Uncle Fester, Pinhead=Cabeza de alfiler=Hellraiser, Nosferatu=Conde Orlok, Gollum, Dobby, Kreacher=Kreacher, "
+    "Señor Patata=Mr. Potato, Bebé Jefazo? , Stewie Griffin? , Peter Griffin? , Jimmy Neutrón? , Tintín? , Obélix? , Astérix? , Panorámix? , "
+    "Filemón, el Súper=Superintendente Vicente, Rompetechos, Bacterio=Profesor Bacterio, Anacleto? , Zipi? , Zape? , Carpanta, Don Pantuflo Zapatilla=Don Pantuflo, "
+    "Jean Valjean? , Kojak, Telly Savalas? , Michael Jordan? , Dwayne Johnson? , The Rock? , Jason Statham? , Bruce Willis? , Ben Kingsley? , Pep Guardiola? , Zidane? , Ronaldo? , "
+    "Furious? , Pinocho? , Charlie de Charlie y la fábrica de chocolate? , Abuelo Joe? , Daddy Warbucks=Papá Warbucks, Annie (Papá Warbucks), Mr. Clean, "
+    "Calvo de la lotería=el calvo de la lotería, Clint Eastwood? , el Profesor de La casa de papel? , Nairobi? , Tokio? ",
+ 3: "Iroh? , Jinora? , Tenzin, Bumi, Monje Gyatso, Krillin=Krilin, Nappa, Tenshinhan=Ten Shin Han, Chaoz? , Maestro Roshi=Muten Roshi=Tortuga Duende, Monk? , "
+    "Saitama de One Punch Man=One Punch Man, Genos? , Silver Fang? , Kuririn=Krilin, Nappa de Dragon Ball=Nappa, Freezer (forma final)=Freezer, Cell? , Majin Buu=Buu, "
+    "Doctor Gero? , Kaioh=Kaiosama=Rey Kai, Vegeta? , Tío Phil? , Steve Urkel? , Carlton? , "
+    "Señor Miyagi? , Sonny Corleone? , Michael Corleone? , Tony Soprano? , Hank Schrader, Gustavo Fring? , Mike Ehrmantraut=Mike, Lord Voldemort, Quirrell? , Kingsley Shacklebolt=Kingsley, "
+    "Ojoloco Moody? , Peter Pettigrew? , Doctor Strange? , Ego? , Doctor Evil=Doctor Malito, Number 2? , Austin Powers? , Mini Me=Mini-Yo, Mini-Yo, "
+    "Ernst Stavro Blofeld=Blofeld, Odd Job? , Jaws=Tiburón? , Le Chiffre? , Raoul Silva? , Doctor No? , Hugo Drax? , Max Zorin? , "
+    "Jean-Luc Picard (Star Trek), Ilia (Star Trek)=Ilia, Lieutenant Uhura? , Data? , Worf? , Vulcano? , Khan? , Morpheus=Morfeo, Agente Smith? , Neo? , "
+    "Furiosa=Imperator Furiosa, Ripley (Alien 3)=Ripley, Eleven (Stranger Things)=Once=Eleven, Matilda? , Charlotte (Sexo en Nueva York)? , "
+    "Ben Grimm=La Cosa=Cosa, Silver Surfer=Estela Plateada, Kingpin, Professor X (X-Men), Marrow? , Nebulosa=Nebula, Drax el Destructor=Drax, Okoye, Dora Milaje, "
+    "Calvin? , Hobbes? , Garfield (Jon)? , Charlie Brown (Carlitos)=Carlitos, Linus? , Snoopy? , Lucy? , Peppermint Patty? , Franklin? , "
+    "Tío Fester, Gomez? , Lurch=Largo, Cosa (Addams)? , Pericles? , Mr. Krabs? , Plankton? , Squidward=Calamardo, Calamardo, Patricio Estrella=Patricio, "
+    "Stan Smith? , Hank Hill? , Bobby Hill? , Peggy? , Cleveland? , Quagmire? , Joe Swanson? , Mort Goldman=Mort, Herbert? , Hermes Conrad? , Profesor Farnsworth=Farnsworth, Zapp Brannigan? , Kif? , "
+    "Ricky Gervais (David Brent)? , Michael Scott? , Stanley? , Kevin? , Oscar? , Creed? , Andy? , Dwight? , "
+    "Mr. Freeze, Hugo Strange, Darkseid, Yoda, Shrek, Brainiac, Lex Luthor (DC), Martian Manhunter=Detective Marciano, Doctor Manhattan (Watchmen)",
+ 4: "Mr. Proper (anuncio)=anuncio de Mr. Proper, el calvo de Mr. Proper, el abuelo de Heidi? , el señor Rossi? , Barbapapá? , Pocoyó (sin pelo)=Pocoyó, Bebé de Pixar? , Tin Toy=Billy, "
+    "Wall-E? , Baymax? , Vladimir Harkonnen=Barón Harkonnen, Paul Atreides? , Thufir Hawat? , Feyd-Rautha, Rabban, Gurney Halleck? , "
+    "Thanos (Infinity War), Ronan el Acusador=Ronan, Ego el planeta viviente? , Kang? , Supremo? , Mandarin? , Ultron? , Visión=Vision, Hawkeye? , "
+    "Monje Ancestral, Kaecilius? , Wong? , Mordo? , Sentry? , Red Skull=Cráneo Rojo, Cráneo Rojo, Doctor Zola=Arnim Zola, Kingpin (Daredevil), Bullseye? , "
+    "Gargamel, Azrael? , Papá Pitufo? , Pitufo Gruñón? , el Mago de Oz? , Rumpelstiltskin? , Jafar? , Hades, Dr. Facilier? , Ratigan? , Mr. Incredible (de mayor)=Mr. Increíble, Bob Parr, "
+    "Edna Moda? , Síndrome? , Frozono=Frozone, Gru (Mi villano favorito), el Dr. Nefario=Nefario, Vector? , El Macho? , Mike Wazowski (Monstruos)=Mike Wazowski, Waternoose? , Henry J. Waternoose, "
+    "Carl Fredricksen? , Russell? , Muntz? , Remy? , Skinner (Ratatouille)? , Anton Ego, Sid (Toy Story)? , Stinky Pete=Pete el Apestoso, Al McWhiggin=Al, "
+    "Bob Esponja (Calamardo)=Calamardo Tentáculos, Plancton? , Larry la langosta? , Arenita? , Gary? , "
+    "Homer (Los Simpson), Krusty (calvo debajo de la peluca)=Krusty, Señor Burns (Monty Burns), Ned Flanders? , Lenny? , Carl? , Jefe Wiggum? , Hans Topo=Hans Moleman, Kirk Van Houten? , "
+    "Alf? , Gizmo? , E.T.=ET, Golum (El señor de los anillos)=Gollum, Smeagol=Sméagol, Saruman? , Azog=Azog el Profanador, Bolgo? , Thrandruil? , "
+    "Lord Farquaad? , Rumpel? , Pinocho? , el Hada Madrina? , Merlín? , Mr. Bean (Rowan Atkinson)=Mr. Bean, Rowan Atkinson? , Patrick Stewart, Telly Savalas, Yul Brynner, Kojak (Telly Savalas)",
+ 5: "Moby Dick? , Ishmael? , Capitán Ahab? , Nemo (Capitán)? , Gandhi (película)=Gandhi, Kurtz=Coronel Kurtz=Apocalypse Now, Marlon Brando? , Lex Luthor de Gene Hackman? , Lex Luthor de Jesse Eisenberg, "
+    "Agente 47 de Hitman, Lucius Malfoy? , el Ancestral de Doctor Strange, Ayla? , Pai Mei, Gogo Yubari? , O-Ren Ishii? , Bill? , Hattori Hanzo? , "
+    "Mortadelo (sin disfraz), Filemón (dos pelos)=Filemón Pi, el Súper (Mortadelo y Filemón)=Superintendente, Ofelia? , Bacterio (Profesor Bacterio), Rompetechos (calvo y miope), "
+    "Carpanta (Escobar), Don Pantuflo Zapatilla (Zipi y Zape), Doña Jaimita? , Petra? , Don Óptimo? , Anacleto agente secreto? , Pafman? , Superlópez? , "
+    "Tío Vázquez? , La familia Ulises? , Doña Urraca? , el Doctor Cataplasma? , Gaspar (el mayordomo)? , "
+    "Caníbal Lecter? , Hannibal Lecter? , Buffalo Bill? , Pinhead (Hellraiser), Freddy Krueger? , Uncle Fester (La familia Addams), Gomez Addams? , "
+    "Lord Voldemort (sin nariz), Nagini? , Varys=Lord Varys=la Araña, Theon Greyjoy? , el Gorrión Supremo? , Qyburn? , Tyrion? , Bronn? , Davos? , "
+    "Jean-Luc Picard (Patrick Stewart), Pazuzu? , Regan? , el Hombre Lobo? , Pennywise? , Nosferatu (Max Schreck), Conde Orlok, Count Orlok, el Hombre Invisible? , "
+    "Sinead O'Connor? , Natalie Portman (V de Vendetta)=Evey, Evey Hammond, Charlize Theron (Mad Max)=Furiosa, Sigourney Weaver (Alien 3), Demi Moore (La teniente O'Neil)=La teniente O'Neil, "
+    "Britney Spears (2007)? , Jada Pinkett? , Cersei? , Daenerys? , Brienne? , Arya? "
+},
+"palabra_compuesta": {
+ 1: "sacacorchos, abrelatas, paraguas, cumpleaños, rascacielos, guardaespaldas, parabrisas, cortaúñas, salvavidas, pasatiempo=pasatiempos, pasaporte, sacapuntas, lavavajillas, "
+    "portaaviones, girasol, bocadillo? , mediodía, medianoche, telaraña, pelirrojo, agridulce, sordomudo, limpiaparabrisas, tocadiscos, parachoques, quitamanchas",
+ 2: "abrebotellas, cascanueces, cortacésped, lanzallamas, matamoscas, mondadientes, pasamontañas, pararrayos, portamonedas, portafolios, quitanieves, rompecabezas, "
+    "sacamuelas, salvamanteles, tragaperras, trotamundos, vaivén, malhumor, malpensado, bienvenida, bienestar, hazmerreír, correveidile, sabelotodo, metomentodo, "
+    "nomeolvides, ciempiés, milhojas, mapamundi, hispanohablante, angloparlante, altavoz, bocacalle, carricoche, coliflor, aguanieve, aguardiente, aguamarina, "
+    "balompié, baloncesto, balonmano, maniatar, manirroto, cabizbajo, boquiabierto, ojiplático, pelilargo, cejijunto, pasodoble, puntapié, sobremesa, sobrenombre, "
+    "contraataque, contraseña, contrarreloj, cortafuegos, cortocircuito, cuentagotas, cuentakilómetros, cubrecama, espantapájaros, guardabarros, guardarropa, guardabosques, "
+    "hincapié, lanzacohetes, lavaplatos, limpiabotas, montacargas, pisapapeles, portalápices, portarretratos, posavasos, quitaesmalte, rompeolas, sacacuartos, saltamontes, "
+    "tapacubos, tirachinas, trabalenguas, tragaluz, vaivén, bajamar, pleamar, Nochebuena, Nochevieja, enhorabuena, madreselva, padrenuestro, avemaría, altibajo=altibajos, "
+    "arcoíris, astronave, autopista, autoestop, autobús? , teleférico? , videojuego, fotomatón, motosierra, ferrocarril, radiotaxi, bicicleta? , ",
+ 3: "abrecartas, aguafiestas, buscapersonas, buscavidas, cagaprisas, calientapiés, catavinos, chupatintas, cortapisas, cubrebotones? , cuentacuentos, descorchador? , "
+    "escarbadientes, espantasuegras, friegaplatos, ganapán, girasol, guardacostas, guardagujas, lameculos, lavacoches, limpiacristales, malcriado, malqueda, mandamás, matasanos, "
+    "matarratas, matasuegras, metepatas, mondaorejas? , parasol, parapente, paracaídas, pararrayos, pasacalles, pasapurés, pasodoble, pelagatos, perdonavidas, picapleitos, "
+    "pintalabios, portaequipajes, portavoz, quitasol, rapapolvo, rascatripas, rompehielos, sacabocados, salpicadero? , saltimbanqui, sinvergüenza, sinsabor, sinfín, "
+    "tapabocas, tentempié, tiovivo, todoterreno, tocadiscos, tragasables, trincapiñones? , vagabundo? , vanagloria, veintiún=veintiuno, veintidós, dieciséis, diecisiete, dieciocho, diecinueve, "
+    "veintitrés, compraventa, claroscuro, sordociego, agridulce, rojiblanco, blanquiazul, verdiblanco, azulgrana, rojinegro, albiceleste, blanquinegro, "
+    "físico-químico? , hispanoamericano, iberoamericano, francoalemán, afroamericano, grecorromano, judeocristiano, latinoamericano, norteamericano, sudamericano, centroamericano, "
+    "bocamanga, bocatería? , hojalata, hidroavión? , aguacero? , altiplano, altamar, bajorrelieve, buenaventura, camposanto, caradura, carilargo, casatienda, coliflor, "
+    "drogodependiente, electrodoméstico, fotocopia, guardiacivil=guardia civil? , hierbabuena, mediocampista, medioambiente, pelirrojo, pisotón? , quehacer, sobrecoger? , "
+    "sordomudo, telenovela, teletrabajo, telebasura, tragicomedia, vaivén, Valdepeñas? , viceversa, vosotros? , nosotros? ",
+}
+})
+
+MANO.update({
+"barrio_bcn": {
+ 1: "Gràcia=Gracia=Vila de Gràcia, Eixample=Ensanche, el Raval=Raval, el Born=Born, Barceloneta=la Barceloneta, Poblenou=Poble Nou, Sants, Sarrià=Sarria, Barri Gòtic=Gòtic=Gótico=Barrio Gótico, "
+    "Les Corts, Sant Andreu, Pedralbes, Horta, el Clot=Clot, Poble-sec=Poble Sec=Pueblo Seco, Sant Antoni=San Antonio, Ciutat Vella",
+ 2: "Sant Gervasi=San Gervasio, la Bonanova=Bonanova, el Carmel=Carmelo=el Carmelo, Guinardó=el Guinardó, Nou Barris, Sant Martí=San Martín, la Sagrada Família=Sagrada Familia, "
+    "Dreta de l'Eixample=Derecha del Ensanche, Esquerra de l'Eixample=Izquierda del Ensanche=l'Esquerra, Fort Pienc, Sant Pere=Sant Pere Santa Caterina i la Ribera=la Ribera=Santa Caterina, "
+    "Vila Olímpica=Villa Olímpica, Diagonal Mar, Montjuïc=Montjuic, Tibidabo, Vallcarca, el Putxet=Putxet, Tres Torres=les Tres Torres, Galvany=Sant Gervasi-Galvany, Turó Park=Turó, "
+    "la Salut, el Coll, Hostafrancs, la Bordeta, la Marina=Marina, Zona Franca, la Verneda, la Sagrera=Sagrera, el Bon Pastor=Bon Pastor, Navas, Trinitat=Trinitat Vella=Trinitat Nova, "
+    "Torre Baró, Ciutat Meridiana, Roquetes=les Roquetes, Verdun, Prosperitat, la Guineueta, Canyelles, Porta, Vilapicina, Horta-Guinardó, Sarrià-Sant Gervasi, Sants-Montjuïc, "
+    "Vallvidrera, les Planes, Pedralbes (zona alta)=Zona Alta=zona alta, Maternitat=la Maternitat, Sant Ramon, Badal=Sants-Badal, Font de la Guatlla, Can Baró, la Teixonera, Montbau, "
+    "Vall d'Hebron=la Vall d'Hebron, Sant Genís=Sant Genís dels Agudells, la Clota, la Font d'en Fargues, Baix Guinardó, el Camp d'en Grassot=Camp d'en Grassot, Gràcia Nova, "
+    "Camp de l'Arpa=el Camp de l'Arpa, Provençals=Provençals del Poblenou, Sant Martí de Provençals, el Besòs=Besòs, el Maresme=Besòs i el Maresme, la Pau, Llacuna=Parc i la Llacuna, "
+    "22@=el 22@, Port Olímpic=Puerto Olímpico, Port Vell, Fòrum=el Fòrum, el Congrés=Congrés i els Indians, Baró de Viver, Can Peguera, Turó de la Peira, Torre Llobeta, Vallbona",
+ 3: "la Marina del Prat Vermell, la Marina de Port, Nova Esquerra de l'Eixample, Antiga Esquerra de l'Eixample, Sant Antoni (mercado)=Mercat de Sant Antoni? , Les Corts (Camp Nou)=Camp Nou, "
+    "Pedralbes (monasterio)=Monestir de Pedralbes? , Ciutat Vella (casco antiguo)=casco antiguo, Gòtic (Call)=el Call, la Mercè=barrio de la Mercè? , Santa Maria del Mar? , "
+    "Plaça Reial? , La Rambla=las Ramblas=Ramblas, Passeig de Gràcia? , Plaça de Catalunya? , Paral·lel=el Paral·lel=Paralelo, Drassanes? , el Raval (Chino)=barrio Chino=Barrio Chino, "
+    "Sant Pau=Sant Pau del Camp? , Hospital de Sant Pau=Recinte Modernista? , Sant Gervasi-la Bonanova, Sarrià (vila)=Sarrià vila, Vallvidrera Tibidabo i les Planes, Collserola, "
+    "Can Caralleu, Bellesguard? , Ciutat Diagonal? , Zona Universitària=Zona Universitaria, Diagonal, la Torrassa (L'Hospitalet)? , Sant Ildefons (Cornellà)? , "
+    "Poblesec (Blai)=carrer Blai? , Sant Andreu de Palomar=Sant Andreu, Sant Martí (Clot), Bac de Roda? , Glòries=Plaça de les Glòries=Glorias, Encants=els Encants, "
+    "el Born (Santa Maria)? , la Ribera (Born)=la Ribera, Santa Caterina (mercado)? , Sant Pere Més Alt? , Llotja? , Barceloneta (playa)=playa de la Barceloneta, "
+    "Bogatell, Mar Bella, Nova Icària, Llevant? , Sant Sebastià? , Somorrostro, el Camp de la Bota? , la Mina (Sant Adrià)=la Mina, "
+    "Horta (laberinto)=Laberint d'Horta? , Carmel (búnkers)=Búnkers del Carmel=los búnkers, Turó de la Rovira, Park Güell? , Penitents=els Penitents, Vallcarca i els Penitents, "
+    "el Farró=Farró, Sant Gervasi de Cassoles, la Bonanova (Sant Gervasi), Muntaner? , Bonanova (plaza)? , Sant Just? , Esplugues? , L'Hospitalet=Hospitalet, Badalona? , "
+    "Can Tunis, Port (Zona Franca)=Port, la Vinya? , Can Clos, Polvorí, Bon Pastor (casas baratas)=casas baratas, Trinitat Vella (prisión)? , Ciutat Meridiana (Ciudad sin ley)? ",
+},
+"se_hace_movil": {
+ 1: "llamar=llamadas=hablar por teléfono, mandar mensajes=mensajes=whatsapp=whatsappear=escribir, hacer fotos=fotos=sacar fotos, selfies=hacerse un selfie=selfie, "
+    "mirar redes sociales=redes=redes sociales=Instagram=TikTok, ver vídeos=vídeos=YouTube, escuchar música=música=Spotify, jugar=juegos=jugar a juegos, mandar audios=audios, videollamadas=videollamada, "
+    "buscar en Google=buscar=Google, mirar la hora=la hora, poner la alarma=alarma=despertador, Bizum=hacer un Bizum, pagar=pagar con el móvil",
+ 2: "grabar vídeos=grabar, hacer scroll=scroll, stalkear=cotillear, ligar=Tinder=apps de citas, leer=leer noticias=noticias, leer libros, mirar el correo=correo=email, "
+    "mirar el mapa=Google Maps=GPS=orientarse, pedir un Uber=Uber=Cabify=taxi, pedir comida=Glovo=Just Eat=Uber Eats, comprar=compras=Amazon=Shein, vender=Wallapop=Vinted, "
+    "banca online=mirar el banco=banco=app del banco=transferencias, mirar el tiempo=el tiempo, calcular=calculadora, linterna, escanear=escanear un QR=QR, mirar el calendario=calendario=agenda, "
+    "notas=apuntar cosas, recordatorios, contar pasos=pasos, cronómetro, temporizador, grabar notas de voz=notas de voz, escuchar pódcast=pódcast=podcasts, escuchar la radio=radio, "
+    "ver series=series=Netflix=ver pelis, ver el fútbol=fútbol, directos=Twitch, hacer directos, subir stories=stories=historias, publicar fotos=postear, comentar, dar like=likes, "
+    "memes=mandar memes, stickers, emojis, gifs, chatear=chat, Telegram, Discord, Twitter=X, Facebook, LinkedIn, BeReal, Pinterest, Snapchat, "
+    "mirar el saldo, recargar el móvil? , pagar el parking, sacar la entrada=entradas, tarjeta de embarque, billete de tren, Renfe, abono transporte, "
+    "aprender idiomas=Duolingo, estudiar, hacer deporte=apps de deporte=Strava, meditar, contar calorías, ciclo menstrual=app de la regla, dormir=apps de sueño, "
+    "traducir=traductor=Google Translate, leer el horóscopo=horóscopo, Wordle, jugar al Sabihondo=Sabihondo, Candy Crush, Clash Royale, Brawl Stars, Pokémon Go, ajedrez, "
+    "editar fotos=filtros, editar vídeos=CapCut, hacer capturas=captura de pantalla=capturas de pantalla=capturas=pantallazo=pantallazos, grabar la pantalla, compartir ubicación=ubicación, "
+    "ver porno=porno, sexting, cagar con el móvil=en el váter=mirar el móvil en el baño, perder el tiempo, procrastinar, no hacer nada",
+ 3: "abrir el coche, controlar la casa=domótica=Alexa, encender las luces, poner la tele=mando de la tele=Chromecast, cámara de seguridad=vigilar, monitor de bebé, "
+    "pagar en tiendas=Apple Pay=Google Pay=contactless, sacar dinero, firmar documentos=firma digital, Cl@ve=certificado digital, cita previa=pedir cita, cita del médico, receta electrónica, "
+    "tarjeta sanitaria=app de salud, test de alcoholemia? , medir el ruido? , medir distancias=metro, nivel=nivel de burbuja, brújula, linterna, lupa, espejo, "
+    "leer código de barras, comparar precios, cupones, tarjeta de fidelidad=Mi Mercadona? , lista de la compra, recetas=cocinar, Thermomix=Cookidoo, "
+    "reconocer canciones=Shazam, reconocer plantas=identificar plantas, Google Lens, buscar con la cámara, traducir carteles, "
+    "hacer la declaración de la renta=renta, pagar multas, consultar puntos=puntos del carnet, MiDGT=carnet de conducir, DNI digital=MiDNI, "
+    "hotspot=compartir datos=compartir internet, router? , conectar al wifi, Bluetooth, AirDrop, mandar archivos, descargar apps, actualizar, "
+    "reservar=Booking=Airbnb=ElTenedor=reservar mesa, check-in, alquilar patinete=patinete, alquilar bici=Bicing, compartir coche=BlaBlaCar, "
+    "seguir un vuelo=Flightradar, ver el radar de lluvia, buscar piso=Idealista, buscar trabajo=InfoJobs=LinkedIn, Glassdoor? , "
+    "apostar=apuestas=casas de apuestas, comprar lotería=lotería, Euromillones, Bolsa=invertir=criptomonedas, Revolut, "
+    "rezar=apps de oración? , leer la Biblia? , llamar a emergencias=112, alarma SOS, compartir viaje, Find My=buscar el móvil, "
+    "ChatGPT=Claude=hablar con la IA=preguntar a la IA, IA, hacer los deberes, copiar en un examen=chuleta, chuletas",
+},
+"tiene_hojas": {
+ 1: "árbol=árboles, libro=libros, lechuga, planta=plantas, cuaderno=libreta, cuchillo, flor=flores, calendario, agenda, periódico=revista, cebolla, pino, repollo=col, espinacas, "
+    "sierra, tijeras, rosa, hoja de cálculo=Excel",
+ 2: "alcachofa, acelgas, endibia, rúcula, canónigos, escarola, perejil, cilantro, albahaca, menta=hierbabuena, laurel, té=hojas de té, tabaco, coca? , marihuana=maría=hierba, "
+    "palmera, helecho, pino (agujas)? , roble, haya, castaño, plátano (árbol)=plátano, higuera, parra=vid, olivo, encina, chopo, sauce, abedul, arce, cerezo, naranjo, limonero, "
+    "cactus? , aloe vera=aloe, ficus, potos=poto, monstera, hiedra, enredadera, trébol, lirio? , tulipán, girasol, margarita, ortiga, diente de león, "
+    "cuchilla=cuchilla de afeitar, navaja, hacha, espada, guillotina, bisturí, cúter, tijera de podar, motosierra, sable, katana, "
+    "puerta (hojas de la puerta)=puerta, ventana, armario, biombo, contraventana, persiana? , "
+    "libreta de espiral, bloc de notas, diario, álbum=álbum de fotos, carpeta, archivador, folios? , taco de post-it, cómic, tebeo, manga, enciclopedia, diccionario, atlas, Biblia, "
+    "mapa? , catálogo, menú? , folleto, guía de teléfonos=páginas amarillas, hoja de reclamaciones, hoja de ruta, currículum=hoja de vida, expediente, informe, "
+    "otoño, bosque, selva, jardín, huerto, seto, césped? , ensalada, sándwich? , dolma=hojas de parra rellenas, tamal=hojas de plátano, maki=alga? , "
+    "hojaldre=milhojas=masa de hojaldre, cruasán? , palmera de hojaldre, napolitana? , hoja de laurel en el guiso, cocido? ",
+ 3: "hoja de servicios, hoja de vida, hoja de ruta, hoja de pedido, hoja de reclamaciones, hoja de cálculo de Google=Google Sheets, Word=documento de Word, PDF, web=página web? , "
+    "árbol genealógico=árbol de familia, cuaderno de bitácora=bitácora, libro de familia, libro de visitas, libro de reclamaciones, libro de actas, partitura? , "
+    "bambú, caña, junco, nenúfar, loto, lavanda, romero, tomillo, orégano, salvia, estragón, eneldo, cebollino, puerro, apio, hinojo, kale=col rizada, col lombarda, coles de Bruselas, "
+    "lechuga iceberg, romana, hoja de roble=lechuga hoja de roble, lollo rosso, radicchio=achicoria, berros, espinaca baby, mostaza (hojas), hoja de mostaza, hoja de shiso=shiso, "
+    "hoja de parra, hoja de plátano, hoja de bambú, hoja de lima kaffir=kaffir, hoja de curry, hoja de stevia=stevia, hoja de coca, hoja de yerba mate=yerba mate, hoja de tabaco, "
+    "hoja de olivo, hoja de laurel, hoja de eucalipto=eucalipto, hoja de higuera, hoja de morera=morera, gusanos de seda? , hoja de arce (bandera de Canadá)=bandera de Canadá, Canadá, "
+    "arce japonés, ginkgo, baobab, secuoya, ciprés? , abeto? , acebo, boj, tejo, magnolio, tilo, fresno, olmo, álamo, nogal, almendro, manzano, peral, melocotonero, granado, aguacate, mango, "
+    "hoja de sierra, hoja de cuchilla, hoja de bisturí, hoja de cúter, hoja de afeitar, hoja de guillotina, hoja de navaja, hoja de espada, cuchillo jamonero, machete, "
+    "ventilador (aspas)? , hélice? , ballesta (muelle)=ballesta, muelle de hojas=suspensión de ballestas, "
+    "mesa abatible=mesa de alas, mesa extensible, puerta de dos hojas=puerta doble, ventana de dos hojas, armario de tres hojas, "
+    "hoja de oro=pan de oro, hoja de plata, hoja de lata=hojalata, lámina, papel de aluminio? , chapa? , "
+    "flor de loto, trébol de cuatro hojas, hoja de cannabis=cannabis, hoja de parra (estatua)? , Adán y Eva=hoja de parra de Adán? "
+},
+})

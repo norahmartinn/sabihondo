@@ -1,0 +1,212 @@
+respuesta;alias;nivel;orden_a_mano
+árbol;árboles;1;1000000000
+libro;libros;1;999999999
+lechuga;;1;999999998
+planta;plantas;1;999999997
+cuaderno;libreta;1;999999996
+cuchillo;;1;999999995
+flor;flores;1;999999994
+calendario;;1;999999993
+agenda;;1;999999992
+periódico;revista;1;999999991
+cebolla;;1;999999990
+pino;;1;999999989
+repollo;col;1;999999988
+espinacas;;1;999999987
+sierra;;1;999999986
+tijeras;;1;999999985
+rosa;;1;999999984
+hoja de cálculo;Excel;1;999999983
+alcachofa;;2;1000000000
+acelgas;;2;999999999
+endibia;;2;999999998
+rúcula;;2;999999997
+canónigos;;2;999999996
+escarola;;2;999999995
+perejil;;2;999999994
+cilantro;;2;999999993
+albahaca;;2;999999992
+menta;hierbabuena;2;999999991
+laurel;;2;999999990
+té;hojas de té;2;999999989
+tabaco;;2;999999988
+marihuana;maría|hierba;2;999999987
+palmera;;2;999999986
+helecho;;2;999999985
+roble;;2;999999984
+haya;;2;999999983
+castaño;;2;999999982
+plátano (árbol);plátano;2;999999981
+higuera;;2;999999980
+parra;vid;2;999999979
+olivo;;2;999999978
+encina;;2;999999977
+chopo;;2;999999976
+sauce;;2;999999975
+abedul;;2;999999974
+arce;;2;999999973
+cerezo;;2;999999972
+naranjo;;2;999999971
+limonero;;2;999999970
+aloe vera;aloe;2;999999969
+ficus;;2;999999968
+potos;poto;2;999999967
+monstera;;2;999999966
+hiedra;;2;999999965
+enredadera;;2;999999964
+trébol;;2;999999963
+tulipán;;2;999999962
+girasol;;2;999999961
+margarita;;2;999999960
+ortiga;;2;999999959
+diente de león;;2;999999958
+cuchilla;cuchilla de afeitar;2;999999957
+navaja;;2;999999956
+hacha;;2;999999955
+espada;;2;999999954
+guillotina;;2;999999953
+bisturí;;2;999999952
+cúter;;2;999999951
+tijera de podar;;2;999999950
+motosierra;;2;999999949
+sable;;2;999999948
+katana;;2;999999947
+puerta (hojas de la puerta);puerta;2;999999946
+ventana;;2;999999945
+armario;;2;999999944
+biombo;;2;999999943
+contraventana;;2;999999942
+libreta de espiral;;2;999999941
+bloc de notas;;2;999999940
+diario;;2;999999939
+álbum;álbum de fotos;2;999999938
+carpeta;;2;999999937
+archivador;;2;999999936
+taco de post-it;;2;999999935
+cómic;;2;999999934
+tebeo;;2;999999933
+manga;;2;999999932
+enciclopedia;;2;999999931
+diccionario;;2;999999930
+atlas;;2;999999929
+Biblia;;2;999999928
+catálogo;;2;999999927
+folleto;;2;999999926
+guía de teléfonos;páginas amarillas;2;999999925
+hoja de reclamaciones;;2;999999924
+hoja de ruta;;2;999999923
+currículum;hoja de vida;2;999999922
+expediente;;2;999999921
+informe;;2;999999920
+otoño;;2;999999919
+bosque;;2;999999918
+selva;;2;999999917
+jardín;;2;999999916
+huerto;;2;999999915
+seto;;2;999999914
+ensalada;;2;999999913
+dolma;hojas de parra rellenas;2;999999912
+tamal;hojas de plátano;2;999999911
+hojaldre;milhojas|masa de hojaldre;2;999999910
+palmera de hojaldre;;2;999999909
+hoja de laurel en el guiso;;2;999999908
+hoja de servicios;;3;1000000000
+hoja de pedido;;3;999999997
+hoja de cálculo de Google;Google Sheets;3;999999995
+Word;documento de Word;3;999999994
+PDF;;3;999999993
+árbol genealógico;árbol de familia;3;999999992
+cuaderno de bitácora;bitácora;3;999999991
+libro de familia;;3;999999990
+libro de visitas;;3;999999989
+libro de reclamaciones;;3;999999988
+libro de actas;;3;999999987
+bambú;;3;999999986
+caña;;3;999999985
+junco;;3;999999984
+nenúfar;;3;999999983
+loto;;3;999999982
+lavanda;;3;999999981
+romero;;3;999999980
+tomillo;;3;999999979
+orégano;;3;999999978
+salvia;;3;999999977
+estragón;;3;999999976
+eneldo;;3;999999975
+cebollino;;3;999999974
+puerro;;3;999999973
+apio;;3;999999972
+hinojo;;3;999999971
+kale;col rizada;3;999999970
+col lombarda;;3;999999969
+coles de Bruselas;;3;999999968
+lechuga iceberg;;3;999999967
+romana;;3;999999966
+hoja de roble;lechuga hoja de roble;3;999999965
+lollo rosso;;3;999999964
+radicchio;achicoria;3;999999963
+berros;;3;999999962
+espinaca baby;;3;999999961
+mostaza (hojas);;3;999999960
+hoja de mostaza;;3;999999959
+hoja de shiso;shiso;3;999999958
+hoja de parra;;3;999999957
+hoja de plátano;;3;999999956
+hoja de bambú;;3;999999955
+hoja de lima kaffir;kaffir;3;999999954
+hoja de curry;;3;999999953
+hoja de stevia;stevia;3;999999952
+hoja de coca;;3;999999951
+hoja de yerba mate;yerba mate;3;999999950
+hoja de tabaco;;3;999999949
+hoja de olivo;;3;999999948
+hoja de laurel;;3;999999947
+hoja de eucalipto;eucalipto;3;999999946
+hoja de higuera;;3;999999945
+hoja de morera;morera;3;999999944
+hoja de arce (bandera de Canadá);bandera de Canadá;3;999999943
+Canadá;;3;999999942
+arce japonés;;3;999999941
+ginkgo;;3;999999940
+baobab;;3;999999939
+secuoya;;3;999999938
+acebo;;3;999999937
+boj;;3;999999936
+tejo;;3;999999935
+magnolio;;3;999999934
+tilo;;3;999999933
+fresno;;3;999999932
+olmo;;3;999999931
+álamo;;3;999999930
+nogal;;3;999999929
+almendro;;3;999999928
+manzano;;3;999999927
+peral;;3;999999926
+melocotonero;;3;999999925
+granado;;3;999999924
+aguacate;;3;999999923
+mango;;3;999999922
+hoja de sierra;;3;999999921
+hoja de cuchilla;;3;999999920
+hoja de bisturí;;3;999999919
+hoja de cúter;;3;999999918
+hoja de afeitar;;3;999999917
+hoja de guillotina;;3;999999916
+hoja de navaja;;3;999999915
+hoja de espada;;3;999999914
+cuchillo jamonero;;3;999999913
+machete;;3;999999912
+ballesta (muelle);ballesta;3;999999911
+muelle de hojas;suspensión de ballestas;3;999999910
+mesa abatible;mesa de alas;3;999999909
+mesa extensible;;3;999999908
+puerta de dos hojas;puerta doble;3;999999907
+ventana de dos hojas;;3;999999906
+armario de tres hojas;;3;999999905
+hoja de oro;pan de oro;3;999999904
+hoja de plata;;3;999999903
+hoja de lata;;3;999999902
+lámina;;3;999999901
+flor de loto;;3;999999900
+trébol de cuatro hojas;;3;999999899
+hoja de cannabis;cannabis;3;999999898

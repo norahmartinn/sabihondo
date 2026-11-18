@@ -117,9 +117,27 @@ def palabra_des():
     """Palabras del lemario que empiezan por «des»."""
     palabras_lemario("palabra_des", lambda p: re.fullmatch(r"des[a-záéíóúüñ]+", p) is not None, DES1, plural=False)
 
-CON_FUNCION = {"ciudad_portugal", "raza_perro", "ciudad_euskadi", "ciudad_andalucia", "real_madrid", "extincion", "museo", "rio_espana"}
+VASCO = re.compile(r"(tx|tz|etxe|etche|echev|echeb|echea|zabal|iturri|mendi|ibarr|uriarte|goiko|goico|zubi|aurre|larra|garmend|gorost|ugart|arrieta|urkij|urquij|aguirre|agirre|olabarr|zuloag|zuluag|arrizab|bengoe|elorz|elorri|elordu|beitia|gaztel|aranzab|basterr|gorostiag|urrutia|lizarr|ezkurr|eizag|ibarg|ondarr|oiartz|oyarz|zarraga|arregi|arregui|jauregi|jauregui|urdang|azkar|azcar)", re.I)
+def apellido_vasco():
+    """Lo conocido, a mano; la cola, apellidos del INE con raíces claramente vascas (tx, etxe, zabal, iturri, mendi…), los más frecuentes en el nivel 4."""
+    filas = []
+    for i, f in enumerate(csv.reader(open(FUENTES / "apellidos_ine.csv", encoding="utf-8"), delimiter=";")):
+        if not f or not VASCO.search(f[0]) or " " in f[0]: continue
+        if re.search(r"sch|w|ck|ph|th|[^aeiou]tz$", f[0], re.I): continue   # apellidos alemanes y demás que cuelan por «tz»
+        n = f[0].capitalize()
+        filas.append((n, [], 4 if len(filas) < 250 else 5, int(f[1]) if len(f) > 1 and f[1].isdigit() else 0))
+    junta("apellido_vasco", filas, "frecuencia_ine")
+
+COMPUESTA = re.compile(r"(abre|saca|para|corta|guarda|lava|limpia|porta|rompe|cuenta|mata|quita|pasa|tira|salva|cubre|chupa|lanza|pela|pica|traga|cuelga|busca|rasca|tapa|toca|mete|espanta|friega|monta|pisa|posa|calienta|lame|salta|sujeta|pinta|gira|cubre|escarba|mondа|monda|tienta|saca|lleva|caza|trota|tiene|vende|mira)[a-záéíóúñ]{3,}s")
+def palabra_compuesta():
+    """Lo conocido, a mano; la cola, palabras del lemario con forma de verbo + nombre en plural (sacacorchos, portamonedas…)."""
+    lema, frec = tanda3._palabras()
+    cola = [(p, [], 5, 0) for p in sorted(lema) if COMPUESTA.fullmatch(p)]
+    junta("palabra_compuesta", cola, "lemario")
+
+CON_FUNCION = {"ciudad_portugal", "raza_perro", "ciudad_euskadi", "ciudad_andalucia", "real_madrid", "extincion", "museo", "rio_espana", "apellido_vasco", "palabra_compuesta"}
 SOLO8 = solo_mano(*[s for s in mano_t8.MANO if s not in CON_FUNCION])
-TODAS8 = SOLO8 + [ciudad_portugal, raza_perro, palabra_y, ciudad_euskadi, ciudad_andalucia, real_madrid, extincion, museo, rio_espana, rima_corazon, palabra_des]
+TODAS8 = SOLO8 + [ciudad_portugal, raza_perro, palabra_y, ciudad_euskadi, ciudad_andalucia, real_madrid, extincion, museo, rio_espana, rima_corazon, palabra_des, apellido_vasco, palabra_compuesta]
 if __name__ == "__main__":
     pedidas = sys.argv[1:]
     for f in TODAS8:
