@@ -374,6 +374,13 @@ PREGUNTAS = [
     ("Nombra una posición en un deporte", "posicion_deporte"),
     ("Nombra una palabra que empiece por Z", "palabra_z"),
     ("Nombra un trabajo que consista en arreglar algo", "arreglar"),
+    ("Nombra una canción de Melendi", "cancion_melendi"),
+    ("Nombra una canción de Lady Gaga", "cancion_gaga"),
+    ("Nombra una excusa para llegar tarde", "excusa_tarde"),
+    ("Nombra algo que se tiene en el escritorio", "escritorio"),
+    ("Nombra un arma de ficción", "arma_ficcion"),
+    ("Nombra un país con la letra B en el nombre", "pais_b"),
+    ("Nombra un deporte que se juegue con red", "deporte_red"),
 ]
 
 # Desde el 31 de octubre de 2026 los niveles son más generosos: la gente veía casi imposible llegar a Muy raro y Sabihondo.

@@ -2488,3 +2488,179 @@ MANO["arreglar"] = {
     "técnico de cohetes? , técnico de lanzaderas? , técnico de aceleradores de partículas, técnico de reactores nucleares, técnico de planetarios, "
     "saw doctor=doctor de sierras, millstone dresser=picador de muelas de molino, picapedrero de molinos, molinero"
 }
+
+MANO.update({
+"cancion_melendi": {
+ 1: "Caminando por la vida, Tu jardín con enanitos, Destino o casualidad, Lágrimas desordenadas, Con solo una sonrisa, Barbie de extrarradio, Calle la pantomima, Sin noticias de Holanda, "
+    "Un violinista en tu tejado, Volvamos a empezar, Cheque al portamor, Desde mi ventana, Hablando en plata",
+ 2: "Kisiera yo saber=Quisiera yo saber, Piratas del bar Caribe, Vuelvo a traficar, Novia de ida y vuelta, Tocado y hundido, Como una vela, Déjala que baile, Cenizas en la eternidad, "
+    "El arrepentido, Cuestión de prioridades, La casa no es igual, Quítate las gafas, Yo me veo contigo, Mi código postal, La promesa",
+ 3: "Que el cielo espere sentao, Curiosa la cara de tu padre, Mientras no cueste trabajo, Un alumno más, Lágrimas desordenadas (álbum), Volvamos a empezar (álbum), 10 años sin noticias de Holanda, "
+    "Ahora (álbum)=Ahora, Quítate las gafas (álbum), Sin noticias de Holanda (álbum), Destino o casualidad (con Ha*Ash)=Destino o casualidad con Ha Ash",
+},
+"cancion_gaga": {
+ 1: "Poker Face, Bad Romance, Just Dance, Shallow, Alejandro, Telephone, Born This Way, Paparazzi, Rain on Me, Abracadabra, Die with a Smile, Hold My Hand, Bloody Mary, Applause, Million Reasons",
+ 2: "LoveGame, Judas, The Edge of Glory, You and I, Marry the Night, Always Remember Us This Way, Stupid Love, Perfect Illusion, Joanne, Dance in the Dark, Speechless, Monster, "
+    "Eh Eh=Eh, Eh (Nothing Else I Can Say), Beautiful Dirty Rich, Do What U Want, G.U.Y., Venus, Dope, Til It Happens to You, John Wayne, A-Yo, Diamond Heart, Sour Candy, 911, "
+    "Babylon, Free Woman, Alice, Enigma, Replay, 1000 Doves, Sine from Above, Fun Tonight, Plastic Doll, Chromatica, Disease, Garden of Eden, Mayhem, Vanish into You, Zombieboy, "
+    "Killah, How Bad Do U Want Me, Shadow of a Man, The Dead Dance, Perfect Celebrity, Kill for Love, Blade of Grass, Don't Call Tonight, LoveDrug, Summerboy, Boys Boys Boys, "
+    "Starstruck, The Fame, Money Honey, Brown Eyes, I Like It Rough, Disco Heaven, Again Again, Paper Gangsta, Teeth, So Happy I Could Die, Hair, Scheiße, Bad Kids, Highway Unicorn, "
+    "Heavy Metal Lover, Electric Chapel, Government Hooker, Scheisse, Bloody Mary, Black Jesus + Amen Fashion=Black Jesus, Fashion of His Love, The Queen, Yoü and I, Aura, Artpop, Swine, Sexxx Dreams, "
+    "Jewels n' Drugs, Manicure, Donatella, Fashion!, Mary Jane Holland, Gypsy, Dope, Diamond Heart, Angel Down, Sinner's Prayer, Come to Mama, Hey Girl, Grigio Girls, Just Another Day, "
+    "Is That Alright, I'll Never Love Again, Look What I Found, Music to My Eyes, Heal Me, Shallow (A Star Is Born), Hold My Hand (Top Gun), Bloody Mary (Wednesday)=baile de Wednesday, "
+    "The Cure, Your Love Is My Drug? , Lady Marmalade? , Cheek to Cheek, Anything Goes, I Can't Give You Anything but Love, Love for Sale, I Get a Kick Out of You, Smile (Harlequin), "
+    "Harlequin, Folie à Deux, Happy Mistake, Good Morning, Get Happy, Oh When the Saints, World on a String, The Joker, That's Entertainment",
+}
+})
+MANO.update({
+"excusa_tarde": {
+ 1: "tráfico=atasco=había tráfico=había mucho tráfico, el metro=el metro se ha averiado=avería del metro, el autobús=el bus=perdí el bus=se me escapó el autobús, "
+    "no ha sonado el despertador=el despertador=me he dormido=me quedé dormido=se me pegaron las sábanas, el tren=Renfe=retraso del tren, aparcar=no encontraba aparcamiento=aparcamiento, "
+    "el perro=sacar al perro, mis hijos=los niños=llevar a los niños al cole, estaba enfermo=me encontraba mal=enfermo, se me ha olvidado algo=me he dejado las llaves=las llaves, "
+    "el médico=tenía médico=cita médica, un accidente=ha habido un accidente, una avería=se me ha estropeado el coche=avería del coche, ya voy=estoy llegando",
+ 2: "huelga=huelga de metro=huelga de autobuses=huelga de Renfe, obras=había obras, corte de calle=calle cortada, manifestación, pinchazo=pinché una rueda=rueda pinchada, sin gasolina=me quedé sin gasolina, "
+    "lluvia=llovía=estaba lloviendo, nieve=nevaba, temporal, niebla, calor? , apagón=se fue la luz, sin batería=se me murió el móvil=el móvil sin batería, el GPS=me perdí=me he perdido, "
+    "no encontraba el sitio, me equivoqué de dirección=me equivoqué de calle, me equivoqué de hora, me equivoqué de día, pensaba que era a otra hora, cambio de hora=el cambio de hora, "
+    "me llamó mi madre=mi madre, una llamada=tenía una llamada, una reunión=reunión, el jefe? , una urgencia=urgencia familiar, mi abuela=mi abuelo, un entierro=funeral, "
+    "el gato=el gato estaba malo, el canguro=la canguro no llegaba, la guardería, la ducha=no había agua caliente, se me cortó el agua, el fontanero=esperando al técnico=esperando al de Movistar, "
+    "un paquete=esperando un paquete=el repartidor, Amazon, el portero, el ascensor=me quedé encerrado en el ascensor, la puerta=no podía salir de casa=se me atascó la puerta, "
+    "control policial=me paró la policía=la Guardia Civil, multa, control de alcoholemia, un examen=tenía examen, el dentista, la regla=dolor de regla, resaca=tenía resaca, "
+    "migraña=dolor de cabeza, diarrea=problemas de estómago=me sentó mal la cena=no salía del baño, me manché la camisa=me tuve que cambiar=la ropa, no encontraba qué ponerme, "
+    "el maquillaje, el pelo=me estaba secando el pelo, el tinte, la plancha, el café, el desayuno, la cola de la panadería, la cola del súper, el cajero, el banco",
+ 3: "el Cercanías=Cercanías=Rodalies, el ave=AVE, el avión=retraso del vuelo=vuelo retrasado, el ferry, el taxi=no pasaba ningún taxi, el Uber=Cabify, el patinete=se me acabó la batería del patinete, "
+    "el Bicing=BiciMAD=no había bicis, la bici=pinché la bici=se me salió la cadena, el carril bici, el semáforo=semáforos, un ciclista, un peatón, una procesión, una boda, un rodaje, "
+    "la maratón=carrera popular, el Orgullo, la cabalgata, las fiestas, un partido=fútbol, la visita del Papa=visita oficial, el Rey=visita del Rey, Sánchez? , un concierto, "
+    "un atasco en la M-30=M-30, la A-6=A-6, la A-1, la M-40, la AP-7, la Castellana, la Diagonal, la Gran Vía, la rotonda, la ITV, el peaje, "
+    "una vaca en la carretera=animales en la carretera, ovejas en la carretera=rebaño, jabalíes, un ciervo, gaviotas? , palomas? , "
+    "me robaron=me han robado la cartera, perdí la cartera, perdí el móvil, perdí las gafas, perdí la tarjeta del metro, se me cayó el móvil al váter, "
+    "ayudé a una señora=ayudé a alguien, una anciana, un niño perdido, salvé a un gato, había un herido, presencié un robo, un incendio=bomberos, inundación, "
+    "un terremoto, un apocalipsis zombi? , abducción alienígena? , me secuestraron? , el perro se comió los deberes? , "
+    "me quedé hablando con alguien, me encontré a un amigo, mi ex, mi suegra, la vecina, el portero me entretuvo, "
+    "el Wordle, el Sabihondo=estaba jugando al Sabihondo, una serie=un capítulo más, Netflix, TikTok=me quedé mirando TikTok, Instagram, el móvil, "
+    "no sonó la alarma porque el móvil se actualizó=actualización del móvil, el despertador estaba en silencio=modo silencio, puse la alarma a las PM=alarma PM, "
+    "dormí mal=insomnio, pesadillas, sonambulismo? , me desperté pronto y me volví a dormir=volví a dormirme, cinco minutos más",
+ 4: "los astros=Mercurio retrógrado, la luna llena, el karma, mala suerte, un gato negro, era martes y 13, tenía que pasar, "
+    "la cafetera explotó, la tostadora, el horno, se me quemó la comida, la lavadora inundó la cocina, la caldera, el termo, una fuga de gas, olía a gas, "
+    "el niño vomitó=vómito, el niño se puso malo, la fiebre del niño, piojos, el pañal, el biberón, el cole llamó, "
+    "la reunión anterior se alargó=se alargó la reunión, otra reunión, un cliente, un proveedor, el correo, el Teams=Teams no funcionaba, Zoom, el ordenador se actualizó=actualización de Windows=Windows Update, "
+    "la VPN, el wifi=se cayó internet=sin internet, la contraseña, me bloquearon la cuenta, el ascensor estaba averiado, la escalera mecánica, el torno del metro, "
+    "un desfile militar, el 12 de octubre, la Vuelta (ciclismo)=La Vuelta, el Tour, el rally, la Fórmula 1, Moto GP, la San Silvestre, el maratón de Madrid, "
+    "la operación salida, la operación retorno, el puente, el festivo, la DANA=DANA, la borrasca, el viento, la calima, el granizo, "
+    "un bache, una piedra, una zanja, un socavón, la grúa se llevó el coche=grúa, me encerró otro coche=coche en doble fila=doble fila, el coche no arrancaba=batería del coche, "
+    "las llaves dentro del coche, las llaves dentro de casa, la cerradura, el candado de la bici, el portal, el telefonillo, el vecino del quinto",
+ 5: "un eclipse, una plaga de langostas? , la Inquisición? , la invasión marciana? , me abdujeron, me perdí en el Ikea=Ikea, me quedé atrapado en el Primark, la rebajas=rebajas, el Black Friday, "
+    "el tiempo es relativo=Einstein, viajé en el tiempo, el DeLorean, no existe la puntualidad, la hora española, horario de verano, zona horaria=jet lag, "
+    "estaba en Canarias (una hora menos)=Canarias, Portugal (una hora menos), el huso horario, "
+    "el tío del coche de delante=el de delante, un domingo conduciendo, un señor con sombrero=un abuelo con sombrero, un tractor=un tractor en la carretera, un camión de la basura, la barredora, "
+    "la mudanza, la obra del vecino, el taladro del vecino, me quedé sin luz en la escalera, la escalera del metro, el abono de transporte no funcionaba=la tarjeta del metro, "
+    "la boda de mi primo, el bautizo, la comunión, el cumpleaños, la cena de empresa, la despedida, la noche anterior, "
+    "se me rompió el tacón=tacón, se me rompió la cremallera, se me rompieron las medias, se me cayó un botón, me caí, me torcí el tobillo, me picó una avispa"
+},
+"escritorio": {
+ 1: "ordenador=ordenador portátil=portátil=PC, lámpara=flexo, bolígrafo=boli=bolis, lápiz=lápices, libreta=cuaderno, teclado, ratón, pantalla=monitor, papeles=folios, agenda, "
+    "post-it=pósit, grapadora, móvil, taza=taza de café=café, botella de agua=agua, calculadora, cubilete=portalápices, libros, planta",
+ 2: "alfombrilla, cargador=cables=cable, auriculares, altavoces, webcam, impresora, regla, goma, sacapuntas, típex=corrector, subrayador=fosforitos, rotuladores, tijeras, celo, pegamento, "
+    "carpeta=carpetas, archivador, bandeja=bandeja de papeles, clips, chinchetas, calendario, foto=fotos=marco de fotos, figura=figuras=figuritas=Funko=Funko Pop, peluche, vela, ambientador, "
+    "pañuelos=clínex, gafas, crema de manos, cacao, gel hidroalcohólico, caramelos=chuches, galletas, migas, envoltorios, vaso, termo, "
+    "silla, cajón=cajones, cajonera, estantería, corcho=tablón de corcho, pizarra, reloj, despertador, pendrive=USB, disco duro, regleta, ladrón (enchufe)=ladrón, "
+    "tablet, Kindle, mando, consola? , mando de la consola, cascos, micrófono, soporte del portátil=elevador, reposamuñecas, reposapiés, "
+    "llaves, cartera, monedas, pinza de pelo=gomas del pelo, anillos? , reloj de pulsera, polvo, cenicero, mechero, "
+    "deberes, apuntes, exámenes, libro de texto, diccionario, estuche, mochila, tupper? , fruta, plátano, manzana, latas=lata de refresco, Red Bull, Monster",
+ 3: "trofeo, medalla, diploma, globo terráqueo, bola del mundo, lupa, pisapapeles, abrecartas, sellos, tampón, sobres, tarjetas de visita, tarjetero, "
+    "lámpara de lava, lámpara de sal, difusor, incienso, cactus, suculenta, bonsái, terrario, pecera, péndulo de Newton, cubo de Rubik, antiestrés=pelota antiestrés, fidget spinner, "
+    "Tamagotchi, figura de Star Wars, Lego, figura de anime, muñeco de Bob Esponja? , gato de la suerte=Maneki-neko, Buda, amuleto, piedra, conchas, "
+    "post-its pegados en la pantalla, lista de tareas, planificador, bullet journal, calendario de Mr. Wonderful=Mr. Wonderful, agenda escolar, horario, "
+    "ventilador, calefactor, humidificador, purificador de aire, lámpara LED, tira LED, luz de anillo=aro de luz, "
+    "tableta gráfica, lápiz digital, segunda pantalla, portátil del trabajo, hub USB, adaptador, base de carga, cargador inalámbrico, smartwatch, "
+    "mesa=tablero, mantel? , salvamantel? , posavasos, taza de té, tetera, cafetera, cápsula de café, termo de mate=mate, "
+    "papelera, pañuelos usados, recibos, tickets, facturas, cartas, dibujos de los niños=dibujos, manualidades, plastilina, purpurina, "
+    "cuerdas de guitarra? , púas? , partituras, metrónomo, auriculares de estudio, mesa de mezclas, micrófono de podcast",
+ 4: "escritorio elevable=standing desk, alfombrilla XXL, teclado mecánico, teclado RGB, ratón vertical, trackball, Stream Deck, cámara de documentos, escáner, plastificadora, destructora de papel, "
+    "organizador de cables, bandeja de cables, regleta con USB, SAI=UPS, router, repetidor wifi, NAS, Raspberry Pi, Arduino, soldador, estaño, multímetro, "
+    "lámpara de arquitecto, flexo de brazo, lámpara Pixar=lámpara de Pixar, lámpara de banquero=lámpara verde, lámpara Tiffany, "
+    "tintero, pluma estilográfica, plumín, papel secante, sello de lacre, lacre, pergamino, carta antigua, máquina de escribir, "
+    "bola de cristal, reloj de arena, astrolabio, brújula, mapa, atlas, telescopio pequeño, microscopio, calavera=calavera decorativa, vela de cera, "
+    "cuadro, póster, espejo, lámina, vinilo, tocadiscos, radio, walkman, iPod, discman, cintas de casete, CDs, DVDs, juegos de la Play, Game Boy, "
+    "dados de rol, cartas Magic=cartas de Magic, cartas Pokémon, figuras de Warhammer, pinturas de modelismo, pinceles, cutter de modelismo, maqueta, "
+    "ceniza? , colillas? , vapeador=vaper, chicles, pipas, cáscaras de pipas, bolsa de patatas, tazas sucias, platos sucios, cucharillas, mondas de mandarina, corazón de manzana",
+}
+})
+
+MANO.update({
+"arma_ficcion": {
+ 1: "espada láser=sable láser=sable de luz=lightsaber, Excalibur, Mjolnir=martillo de Thor, varita=varita mágica, varita de saúco, escudo del Capitán América=escudo, "
+    "Dardo=Sting, batarang, pistola de rayos=pistola láser=bláster, Anillo Único? , Kamehameha? , Estrella de la Muerte, Infinity Gauntlet=guantelete del infinito=guantelete, "
+    "garras de Lobezno=garras, telaraña de Spider-Man=lanzarredes, lazo de la verdad=lazo de Wonder Woman, tridente de Aquaman=tridente",
+ 2: "Stormbreaker=Rompetormentas, Andúril=Narsil, Glamdring, Orcrist, Hojalarga=Longclaw, Garra=Garra de Jon Nieve, Aguja=Needle, Lamento de Viuda, Guardajuramentos=Oathkeeper, Hielo=Ice, "
+    "acero valyrio=daga de acero valyrio, daga de vidriagón=vidriagón=obsidiana, espada de Gryffindor, Espada de Godric Gryffindor, varita de Harry=varita de acebo, varita de Voldemort, "
+    "bláster de Han Solo=DL-44, bláster E-11, ballesta de Chewbacca=bowcaster, Estrella de la Muerte (láser), arma del Mandaloriano=rifle de Mando, sable oscuro=Darksaber, espada láser doble, "
+    "lanzallamas de los Cazafantasmas=mochila de protones=protones, Neuralizador=neuralizador de Men in Black, pistola de portales=portal gun, pistola de Rick=pistola de portales de Rick, "
+    "Buster Sword=espada de Cloud=Espadón, Keyblade=llave espada, Espada Maestra=Master Sword, escudo hyliano, Boomerang de Link, arco de Link, "
+    "Leviathan=hacha de Kratos=Hacha Leviatán, Espadas del Caos=Blades of Chaos, Gravity Gun=pistola de gravedad, BFG, Lancer, cuchilla oculta=hoja oculta=Assassin's Creed, "
+    "Pokéball=pokeball? , sombrero de Kung Lao=sombrero cuchilla, Frostmourne=Agonía de Escarcha, Ashbringer=Crematoria, Zangetsu, Tessaiga=Colmillo de Acero, Samehada, Kusanagi, Rasengan? , "
+    "báculo de Gandalf=bastón de Gandalf, Ojo de Agamotto, Lanza del Destino, Cetro de Loki, Teseracto? , Gema del Infinito? , Guanteletes de Iron Man=repulsores, traje de Iron Man? , "
+    "anillo de Linterna Verde=anillo de poder, Kryptonita, lazo de Hestia, Boomerang de Capitán Boomerang? , paraguas del Pingüino, cartas del Joker? , flor de agua del Joker, "
+    "flechas de Hawkeye=arco de Ojo de Halcón=arco de Hawkeye, Vibranium? , escudo de vibranium, garras de Black Panther, lanza de Okoye, Vibranium spear? , martillo de Thanos? , Corvus Glaive? , "
+    "pistola de Judge Dredd=Lawgiver, Pip-Boy? , arma de Halo=rifle de asalto MA5, espada de energía de Halo=espada de energía, Needler=aguja de Halo, "
+    "sable de Zorro=espada del Zorro, látigo de Indiana Jones=látigo, varita de Hermione, Escoba? , Vara de Moisés? , arco de Katniss=arco de Los juegos del hambre, "
+    "Deathstalker? , Hoja del Destino? , Excalibur de Merlín? , Espada en la piedra, Tizona, Colada, Durandal, Gungnir, Leviatán, Kusanagi no Tsurugi, Gáe Bolg, Masamune, Muramasa",
+ 3: "Callandor, Ice (Stark)? , espada de Eddard Stark=Hielo, Gran Espada? , martillo de Robert Baratheon, Corazón Brillante=Lightbringer=Portadora de Luz, Hermana Oscura=Dark Sister, Fuegoscuro=Blackfyre, "
+    "Andúril de Aragorn, Narsil de Isildur, espada de Bilbo? , Dardo de Frodo, cota de mithril? , hacha de Gimli, arco de Legolas, Grond (ariete), Anillo de Sauron? , "
+    "Espada de Omens=Espada del Augurio, Thundercats=Espada del Augurio, Espada del Poder=Espada de Grayskull=He-Man, Espada de She-Ra, Báculo de Skeletor=báculo de Skeletor, "
+    "pistola de Rick Deckard=bláster de Deckard, rifle de pulsos=M41A=Aliens, smartgun, lanzallamas M240, Gun of Destiny? , escopeta recortada de Mad Max? , "
+    "Zabuza's sword=Kubikiribōchō, Ichigo's Zangetsu, Inuyasha's Tessaiga, Sesshomaru's Tenseiga=Tenseiga, Tokijin, Gunbai, Kunai? , Shuriken? , Rasengan, Chidori? , "
+    "Dragon Slayer=Matadragones=espada de Guts, espada de Zoro=Wado Ichimonji=Enma, Kitetsu, Shusui, Gomu Gomu? , Kamehameha, Genkidama, Kienzan, Masenko, Final Flash, Galick Ho, "
+    "Death Note=cuaderno de Death Note, Zanpakutō=zanpakuto, Dragon Ball? , Excalibur (Fate)=Excalibur de Saber, Gáe Bolg de Lancer, Ea=espada de Gilgamesh, "
+    "Lanza de Longinus=Lanza de Longino=Evangelion, Gundam beam saber=sable de haz, Positron Rifle, "
+    "rifle de Fallout=Fat Man, Mini-Nuke? , Blade of Olympus, Axe of Perun? , Keyblade de Sora, Gunblade=pistola sable de Squall=Lionheart, Masamune de Sephiroth, Ultima Weapon, "
+    "Master Sword de Zelda, Biggoron Sword, Hookshot=gancho, Varita de Fuego, Varita de Hielo, Espada del Fuego Celestial? , Monado (Xenoblade)=Monado, Falchion, Ragnell, Tyrfing, Sol Katti, "
+    "Energy Sword=espada de energía de Halo, Spartan Laser, Gravity Hammer=martillo gravitacional, Lancer de Gears of War, Gnasher, Hammerburst, Torque Bow, Hammer of Dawn=Martillo del Alba, "
+    "Ray Gun=pistola de rayos de Call of Duty, Wunderwaffe, Thundergun, Raygun Mark II, Monkey Bomb=mono bomba, "
+    "BFG 9000, Chainsaw de Doom, Super Shotgun, Plasma Rifle, Unmaker, Crucible=espada de Doom Slayer, "
+    "Kraken (Borderlands)? , Bubble Gun? , Portal Gun de Portal, Gravity Gun de Half-Life, palanca de Gordon Freeman=palanca, "
+    "Sombrero de Oddjob=sombrero de Oddjob, zapato con cuchilla de Rosa Klebb, Golden Gun=pistola de oro de Scaramanga, reloj láser de Bond=reloj de James Bond, Walther PPK? , Q (gadgets)? ",
+ 4: "espada Valyria de los Targaryen, Garra de Mormont=Longclaw de los Mormont, Lamento de Viuda de Joffrey, Guardajuramentos de Brienne, Corazón de León? , Veneno de corazón=Heartsbane, "
+    "Puño de los Primeros Hombres? , Cuerno de Joramun? , Ojo de Sauron? , Vara de Saruman, Lanza de Gil-galad=Aeglos, Glaurung? , Ringil, Anglachel, Gurthang, Hadhafang, "
+    "Hrunting, Nægling, Balmung=Gram, Hofud, Skofnung, Tyrfing, Joyeuse, Hauteclere, Curtana, Clarent, Carnwennan, Rhongomyniad, Arondight, Fragarach, Claíomh Solais, Caladbolg, Dyrnwyn, "
+    "Kusanagi no Tsurugi, Totsuka no Tsurugi, Murasame, Kogarasumaru, Dojigiri, Honjo Masamune, Zulfiqar, Al-Battar, Joyeuse de Carlomagno, Tizona del Cid, Colada del Cid, "
+    "Vajra, Sudarshana Chakra, Trishula, Pashupatastra, Brahmastra, Gandiva, Sharanga, Kaumodaki, Gada? , Ruyi Jingu Bang=bastón de Sun Wukong=bastón de Goku (Viaje al Oeste), "
+    "Harpe de Perseo=hoz de Perseo, Égida, rayo de Zeus, tridente de Poseidón, bidente de Hades, caduceo de Hermes=caduceo, arco de Apolo, flechas de Eros=flechas de Cupido, "
+    "cinturón de Hipólita, hacha de Paul Bunyan? , Mjölnir de la mitología, Gungnir de Odín, Gram de Sigurd, Laevateinn, Brisingamen? , "
+    "Horn of Gondor=cuerno de Gondor, cota de malla de mithril, Phial of Galadriel=frasco de Galadriel, Palantir? , "
+    "bastón de Dumbledore? , Piedra de la Resurrección? , Capa de Invisibilidad? , Giratiempo? , Gorro seleccionador? , "
+    "blaster de Boba Fett, lanzallamas de Boba Fett, rifle EE-3, rifle de francotirador de Cassian? , bláster de Leia=bláster de la princesa Leia, sable de Ahsoka, sable de Kylo Ren=sable crossguard, "
+    "sable de Darth Maul=sable doble, sable de Mace Windu=sable morado, sable de Yoda, sable de Luke=sable verde, sable de Darth Vader=sable rojo, sable de Obi-Wan, sable de Rey=sable amarillo",
+ 5: "Lucerna? , Kenning? , Wyrmslayer? , Ravenclaw diadema? , Hufflepuff copa? , Slytherin guardapelo? , Horrocrux? , "
+    "Vorpal sword=espada vorpal, Jabberwocky? , Stormbringer=Portadora de Tormentas, Mournblade, Sting de Tolkien, Coldfire? , Cold Iron? , Thunderfury, Gorehowl, Shadowmourne, "
+    "Sulfuras, Atiesh, Doomhammer, Fang of the Mystic? , Kingsfall, Mournblade? , Ebony Blade=Hoja de Ébano, Mehrunes' Razor=Navaja de Mehrunes, Chillrend, Dawnbreaker=Rompealbas, Wabbajack, "
+    "Volendrung, Auriel's Bow=arco de Auriel, Dragonbane, Blade of Woe, Mace of Molag Bal, Sanguine Rose, Masque of Clavicus Vile? , "
+    "Keyblade Oblivion, Kingdom Key, Soul Edge, Soul Calibur, Nightmare's sword? , Rebellion (Devil May Cry)=Rebellion, Yamato, Ebony & Ivory=Ebony e Ivory, Beowulf (DMC)? , Alastor (DMC)? , "
+    "Leviathan Axe, Blades of Exile, Draupnir Spear=lanza de Draupnir, Mjölnir de God of War, Gungnir de God of War, Bow of Apollo? , Claws of Hades, "
+    "Riptide=Contracorriente=bolígrafo de Percy Jackson, Anaklusmos, escudo de Annabeth? , gorra de invisibilidad de Annabeth, Backbiter, "
+    "Shardblade=hoja esquirlada, Syl, Patterns? , Oathbringer, Nightblood=Sangrenocturna, Sun Sword? , Shardplate=armadura esquirlada, "
+    "Phaser=fáser, Tricorder? , Bat'leth=bat'leth klingon, Torpedo de fotones=torpedo fotónico, Disruptor, Lightning gun, Unreal Flak Cannon=flak cannon, Redeemer"
+},
+"pais_b": {
+ 1: "Brasil, Bélgica=Belgica, Bolivia, Colombia, Cuba, Bulgaria, Albania, Arabia Saudí=Arabia Saudita, Libia, Líbano, Bangladés=Bangladesh, Bahamas, Bielorrusia=Belarús, Bosnia=Bosnia y Herzegovina, Zimbabue=Zimbabwe",
+ 2: "Barbados, Belice, Benín, Bután, Botsuana=Botswana, Burkina Faso, Burundi, Baréin=Bahréin=Bahrein, Brunéi=Brunei, Birmania=Myanmar, Camboya, Cabo Verde, Gabón, Gambia, Liberia, "
+    "Mozambique, Namibia, Serbia, Zambia, Yibuti=Djibouti, Emiratos Árabes Unidos=Emiratos=EAU, Antigua y Barbuda, Kiribati, Uzbekistán, Azerbaiyán, Trinidad y Tobago, Guinea-Bisáu=Guinea Bissau=Guinea-Bissau",
+ 3: "Bosnia-Herzegovina, República de Bielorrusia, Estado Plurinacional de Bolivia, Reino de Bélgica, República Federativa de Brasil, Reino de Bután, Reino de Baréin, Commonwealth de las Bahamas, "
+    "Burma, Bechuanalandia? , Bohemia, Baviera? , Babilonia, Bizancio=Imperio bizantino, Biafra, Bophuthatswana, Borneo? , Bermudas, Bonaire, Bouvet? , Barbuda, Tobago, "
+    "Colombia Británica? , Territorio Británico del Océano Índico, Islas Vírgenes Británicas, Bielorrusia Soviética? , Burkina, República Centroafricana? , Basutolandia? , Birmania (antiguo)",
+}
+})
+MANO["deporte_red"] = {
+ 1: "tenis, voleibol=voley=vóley, pádel=padel, bádminton, ping-pong=tenis de mesa, fútbol=futbol (portería), baloncesto=basket=básquet, balonmano, waterpolo, hockey, vóley playa=voleibol de playa",
+ 2: "fútbol sala=futsal, hockey sobre hielo, hockey hierba, hockey patines=hockey sobre patines, netball, squash? , frontenis? , pickleball, tenis playa=beach tennis, futvóley=futevóley=footvolley, "
+    "sepak takraw=sepaktakraw, voleibol sentado, floorball, unihockey, lacrosse, pesca=pesca con red? , korfball, fútbol playa, rugby? , golf (red de prácticas)? , "
+    "padbol, teqball, minivoley? , tenis en silla de ruedas, bádminton de playa? , spikeball=roundnet, crossminton? , speed badminton? , "
+    "ringo? , kin-ball? , goalball, fútbol gaélico? , hurling? , camogie? , bandy, ringette, polo acuático=waterpolo, quidditch=quidditch (aros)? ",
+ 3: "pelota mano? , frontón? , trinquete? , xare, pala corta? , paleta argentina? , cesta punta? , jai alai? , "
+    "real tennis=tenis real, jeu de paume=juego de pelota, racquetball? , platform tennis, paddle tennis, touchtennis? , padel tenis, soft tenis=soft tennis, tenis de mesa adaptado, "
+    "voleibol de nieve=snow volley, voleibol en silla? , bossaball, footbag? , jianzi? , chinlone? , kemari? , "
+    "hockey subacuático=octopush, rugby subacuático, canoa polo=kayak polo, polo? , hockey bajo techo, hockey en línea, rink hockey, hockey de mesa? , "
+    "trampolín (red de seguridad)? , gimnasia (red)? , trapecio volante (red)? , circo (red)? , salto con pértiga (colchoneta)? , "
+    "pesca de altura? , caza con redes? , mariposas (cazar)? , beisbol (red de bateo)? , críquet (red de prácticas)? , "
+    "slamball? , wallyball, newcomb ball=newcomb, kronum? , fistball=faustball, fußball? , "
+    "gol (portería) en general? , netball de playa? , fast5 netball, korfbal de playa, beach handball=balonmano playa, beach soccer=fútbol playa"
+}

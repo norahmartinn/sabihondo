@@ -1,0 +1,258 @@
+respuesta;alias;nivel;orden_a_mano
+tráfico;atasco|había tráfico|había mucho tráfico;1;1000000000
+el metro;el metro se ha averiado|avería del metro;1;999999999
+el autobús;el bus|perdí el bus|se me escapó el autobús;1;999999998
+no ha sonado el despertador;el despertador|me he dormido|me quedé dormido|se me pegaron las sábanas;1;999999997
+el tren;Renfe|retraso del tren;1;999999996
+aparcar;no encontraba aparcamiento|aparcamiento;1;999999995
+el perro;sacar al perro;1;999999994
+mis hijos;los niños|llevar a los niños al cole;1;999999993
+estaba enfermo;me encontraba mal|enfermo;1;999999992
+se me ha olvidado algo;me he dejado las llaves|las llaves;1;999999991
+el médico;tenía médico|cita médica;1;999999990
+un accidente;ha habido un accidente;1;999999989
+una avería;se me ha estropeado el coche|avería del coche;1;999999988
+ya voy;estoy llegando;1;999999987
+huelga;huelga de metro|huelga de autobuses|huelga de Renfe;2;1000000000
+obras;había obras;2;999999999
+corte de calle;calle cortada;2;999999998
+manifestación;;2;999999997
+pinchazo;pinché una rueda|rueda pinchada;2;999999996
+sin gasolina;me quedé sin gasolina;2;999999995
+lluvia;llovía|estaba lloviendo;2;999999994
+nieve;nevaba;2;999999993
+temporal;;2;999999992
+niebla;;2;999999991
+apagón;se fue la luz;2;999999990
+sin batería;se me murió el móvil|el móvil sin batería;2;999999989
+el GPS;me perdí|me he perdido;2;999999988
+no encontraba el sitio;;2;999999987
+me equivoqué de dirección;me equivoqué de calle;2;999999986
+me equivoqué de hora;;2;999999985
+me equivoqué de día;;2;999999984
+pensaba que era a otra hora;;2;999999983
+cambio de hora;;2;999999982
+me llamó mi madre;mi madre;2;999999981
+una llamada;tenía una llamada;2;999999980
+una reunión;;2;999999979
+una urgencia;urgencia familiar;2;999999978
+mi abuela;mi abuelo;2;999999977
+un entierro;funeral;2;999999976
+el gato;el gato estaba malo;2;999999975
+el canguro;la canguro no llegaba;2;999999974
+la guardería;;2;999999973
+la ducha;no había agua caliente;2;999999972
+se me cortó el agua;;2;999999971
+el fontanero;esperando al técnico|esperando al de Movistar;2;999999970
+un paquete;esperando un paquete|el repartidor;2;999999969
+Amazon;;2;999999968
+el portero;;2;999999967
+el ascensor;me quedé encerrado en el ascensor;2;999999966
+la puerta;no podía salir de casa|se me atascó la puerta;2;999999965
+control policial;me paró la policía|la Guardia Civil;2;999999964
+multa;;2;999999963
+control de alcoholemia;;2;999999962
+un examen;tenía examen;2;999999961
+el dentista;;2;999999960
+la regla;dolor de regla;2;999999959
+resaca;tenía resaca;2;999999958
+migraña;dolor de cabeza;2;999999957
+diarrea;problemas de estómago|me sentó mal la cena|no salía del baño;2;999999956
+me manché la camisa;me tuve que cambiar|la ropa;2;999999955
+no encontraba qué ponerme;;2;999999954
+el maquillaje;;2;999999953
+el pelo;me estaba secando el pelo;2;999999952
+el tinte;;2;999999951
+la plancha;;2;999999950
+el café;;2;999999949
+el desayuno;;2;999999948
+la cola de la panadería;;2;999999947
+la cola del súper;;2;999999946
+el cajero;;2;999999945
+el banco;;2;999999944
+el Cercanías;Rodalies;3;1000000000
+el ave;;3;999999999
+el avión;retraso del vuelo|vuelo retrasado;3;999999998
+el ferry;;3;999999997
+el taxi;no pasaba ningún taxi;3;999999996
+el Uber;Cabify;3;999999995
+el patinete;se me acabó la batería del patinete;3;999999994
+el Bicing;BiciMAD|no había bicis;3;999999993
+la bici;pinché la bici|se me salió la cadena;3;999999992
+el carril bici;;3;999999991
+el semáforo;semáforos;3;999999990
+un ciclista;;3;999999989
+un peatón;;3;999999988
+una procesión;;3;999999987
+una boda;;3;999999986
+un rodaje;;3;999999985
+la maratón;carrera popular;3;999999984
+el Orgullo;;3;999999983
+la cabalgata;;3;999999982
+las fiestas;;3;999999981
+un partido;fútbol;3;999999980
+la visita del Papa;visita oficial;3;999999979
+el Rey;visita del Rey;3;999999978
+un concierto;;3;999999977
+un atasco en la M-30;M-30;3;999999976
+la A-6;;3;999999975
+la A-1;;3;999999974
+la M-40;;3;999999973
+la AP-7;;3;999999972
+la Castellana;;3;999999971
+la Diagonal;;3;999999970
+la Gran Vía;;3;999999969
+la rotonda;;3;999999968
+la ITV;;3;999999967
+el peaje;;3;999999966
+una vaca en la carretera;animales en la carretera;3;999999965
+ovejas en la carretera;rebaño;3;999999964
+jabalíes;;3;999999963
+un ciervo;;3;999999962
+me robaron;me han robado la cartera;3;999999961
+perdí la cartera;;3;999999960
+perdí el móvil;;3;999999959
+perdí las gafas;;3;999999958
+perdí la tarjeta del metro;;3;999999957
+se me cayó el móvil al váter;;3;999999956
+ayudé a una señora;ayudé a alguien;3;999999955
+una anciana;;3;999999954
+un niño perdido;;3;999999953
+salvé a un gato;;3;999999952
+había un herido;;3;999999951
+presencié un robo;;3;999999950
+un incendio;bomberos;3;999999949
+inundación;;3;999999948
+un terremoto;;3;999999947
+me quedé hablando con alguien;;3;999999946
+me encontré a un amigo;;3;999999945
+mi ex;;3;999999944
+mi suegra;;3;999999943
+la vecina;;3;999999942
+el portero me entretuvo;;3;999999941
+el Wordle;;3;999999940
+el Sabihondo;estaba jugando al Sabihondo;3;999999939
+una serie;un capítulo más;3;999999938
+Netflix;;3;999999937
+TikTok;me quedé mirando TikTok;3;999999936
+Instagram;;3;999999935
+el móvil;;3;999999934
+no sonó la alarma porque el móvil se actualizó;actualización del móvil;3;999999933
+el despertador estaba en silencio;modo silencio;3;999999932
+puse la alarma a las PM;alarma PM;3;999999931
+dormí mal;insomnio;3;999999930
+pesadillas;;3;999999929
+me desperté pronto y me volví a dormir;volví a dormirme;3;999999928
+cinco minutos más;;3;999999927
+los astros;Mercurio retrógrado;4;1000000000
+la luna llena;;4;999999999
+el karma;;4;999999998
+mala suerte;;4;999999997
+un gato negro;;4;999999996
+era martes y 13;;4;999999995
+tenía que pasar;;4;999999994
+la cafetera explotó;;4;999999993
+la tostadora;;4;999999992
+el horno;;4;999999991
+se me quemó la comida;;4;999999990
+la lavadora inundó la cocina;;4;999999989
+la caldera;;4;999999988
+el termo;;4;999999987
+una fuga de gas;;4;999999986
+olía a gas;;4;999999985
+el niño vomitó;vómito;4;999999984
+el niño se puso malo;;4;999999983
+la fiebre del niño;;4;999999982
+piojos;;4;999999981
+el pañal;;4;999999980
+el biberón;;4;999999979
+el cole llamó;;4;999999978
+la reunión anterior se alargó;se alargó la reunión;4;999999977
+otra reunión;;4;999999976
+un cliente;;4;999999975
+un proveedor;;4;999999974
+el correo;;4;999999973
+el Teams;Teams no funcionaba;4;999999972
+Zoom;;4;999999971
+el ordenador se actualizó;actualización de Windows|Windows Update;4;999999970
+la VPN;;4;999999969
+el wifi;se cayó internet|sin internet;4;999999968
+la contraseña;;4;999999967
+me bloquearon la cuenta;;4;999999966
+el ascensor estaba averiado;;4;999999965
+la escalera mecánica;;4;999999964
+el torno del metro;;4;999999963
+un desfile militar;;4;999999962
+el 12 de octubre;;4;999999961
+la Vuelta (ciclismo);La Vuelta;4;999999960
+el Tour;;4;999999959
+el rally;;4;999999958
+la Fórmula 1;;4;999999957
+Moto GP;;4;999999956
+la San Silvestre;;4;999999955
+el maratón de Madrid;;4;999999954
+la operación salida;;4;999999953
+la operación retorno;;4;999999952
+el puente;;4;999999951
+el festivo;;4;999999950
+la DANA;;4;999999949
+la borrasca;;4;999999948
+el viento;;4;999999947
+la calima;;4;999999946
+el granizo;;4;999999945
+un bache;;4;999999944
+una piedra;;4;999999943
+una zanja;;4;999999942
+un socavón;;4;999999941
+la grúa se llevó el coche;grúa;4;999999940
+me encerró otro coche;coche en doble fila|doble fila;4;999999939
+el coche no arrancaba;batería del coche;4;999999938
+las llaves dentro del coche;;4;999999937
+las llaves dentro de casa;;4;999999936
+la cerradura;;4;999999935
+el candado de la bici;;4;999999934
+el portal;;4;999999933
+el telefonillo;;4;999999932
+el vecino del quinto;;4;999999931
+un eclipse;;5;1000000000
+me abdujeron;;5;999999999
+me perdí en el Ikea;Ikea;5;999999998
+me quedé atrapado en el Primark;;5;999999997
+la rebajas;;5;999999996
+el Black Friday;;5;999999995
+el tiempo es relativo;Einstein;5;999999994
+viajé en el tiempo;;5;999999993
+el DeLorean;;5;999999992
+no existe la puntualidad;;5;999999991
+la hora española;;5;999999990
+horario de verano;;5;999999989
+zona horaria;jet lag;5;999999988
+estaba en Canarias (una hora menos);Canarias;5;999999987
+Portugal (una hora menos);;5;999999986
+el huso horario;;5;999999985
+el tío del coche de delante;el de delante;5;999999984
+un domingo conduciendo;;5;999999983
+un señor con sombrero;un abuelo con sombrero;5;999999982
+un tractor;un tractor en la carretera;5;999999981
+un camión de la basura;;5;999999980
+la barredora;;5;999999979
+la mudanza;;5;999999978
+la obra del vecino;;5;999999977
+el taladro del vecino;;5;999999976
+me quedé sin luz en la escalera;;5;999999975
+la escalera del metro;;5;999999974
+el abono de transporte no funcionaba;la tarjeta del metro;5;999999973
+la boda de mi primo;;5;999999972
+el bautizo;;5;999999971
+la comunión;;5;999999970
+el cumpleaños;;5;999999969
+la cena de empresa;;5;999999968
+la despedida;;5;999999967
+la noche anterior;;5;999999966
+se me rompió el tacón;tacón;5;999999965
+se me rompió la cremallera;;5;999999964
+se me rompieron las medias;;5;999999963
+se me cayó un botón;;5;999999962
+me caí;;5;999999961
+me torcí el tobillo;;5;999999960
+me picó una avispa;;5;999999959
