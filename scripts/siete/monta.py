@@ -381,6 +381,13 @@ PREGUNTAS = [
     ("Nombra un arma de ficción", "arma_ficcion"),
     ("Nombra un país con la letra B en el nombre", "pais_b"),
     ("Nombra un deporte que se juegue con red", "deporte_red"),
+    ("Nombra una forma de decir «borracho»", "forma_borracho"),
+    ("Nombra algo que se enchufa", "se_enchufa"),
+    ("Nombra un grupo de música español", "grupo_espanol"),
+    ("Nombra un personaje de dibujos animados", "personaje_dibujos"),
+    ("Nombra un insecto", "insecto"),
+    ("Nombra una especia o una hierba aromática", "especia"),
+    ("Nombra una ciudad de Francia", "ciudad_francia"),
 ]
 
 # Desde el 31 de octubre de 2026 los niveles son más generosos: la gente veía casi imposible llegar a Muy raro y Sabihondo.

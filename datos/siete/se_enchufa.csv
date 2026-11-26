@@ -1,0 +1,271 @@
+respuesta;alias;nivel;orden_a_mano
+televisión;tele|televisor;1;1000000000
+móvil;teléfono móvil;1;999999999
+cargador;cargador del móvil;1;999999998
+ordenador;pc;1;999999997
+portátil;;1;999999996
+lavadora;;1;999999995
+nevera;frigorífico|frigo;1;999999994
+microondas;;1;999999993
+secador;secador de pelo;1;999999992
+plancha;;1;999999991
+lámpara;;1;999999990
+tostadora;;1;999999989
+aspiradora;;1;999999988
+horno;;1;999999987
+cafetera;;1;999999986
+lavavajillas;lavaplatos;1;999999985
+ventilador;;1;999999984
+estufa;radiador;1;999999983
+router;wifi|módem;2;1000000000
+impresora;;2;999999999
+consola;playstation|play|xbox|nintendo switch|switch|wii;2;999999998
+batidora;;2;999999997
+licuadora;;2;999999996
+exprimidor;;2;999999995
+plancha de pelo;planchas|alisador;2;999999994
+rizador;tenacillas;2;999999993
+maquinilla de afeitar;afeitadora|maquinilla;2;999999992
+cortapelos;máquina de cortar el pelo;2;999999991
+cepillo de dientes eléctrico;cepillo eléctrico;2;999999990
+radio;;2;999999989
+altavoz;altavoces;2;999999988
+equipo de música;minicadena;2;999999987
+tablet;tableta|ipad;2;999999986
+monitor;pantalla;2;999999985
+regleta;alargador|ladrón;2;999999984
+flexo;;2;999999983
+lámpara de pie;;2;999999982
+aire acondicionado;aire|split;2;999999981
+calefactor;;2;999999980
+deshumidificador;;2;999999979
+humidificador;;2;999999978
+purificador de aire;purificador;2;999999977
+freidora;freidora de aire|airfryer;2;999999976
+thermomix;robot de cocina;2;999999975
+hervidor;hervidor de agua|tetera eléctrica;2;999999974
+sandwichera;;2;999999973
+gofrera;;2;999999972
+olla eléctrica;olla programable;2;999999971
+vitrocerámica;vitro;2;999999970
+placa de inducción;inducción;2;999999969
+campana extractora;campana;2;999999968
+congelador;;2;999999967
+secadora;;2;999999966
+coche eléctrico;;2;999999965
+patinete eléctrico;patinete;2;999999964
+bici eléctrica;bicicleta eléctrica;2;999999963
+taladro;;2;999999962
+luces de navidad;árbol de navidad;2;999999961
+proyector;;2;999999960
+reproductor de dvd;dvd;2;999999959
+decodificador;;2;999999958
+nespresso;;2;999999957
+manta eléctrica;;2;999999956
+auriculares;cascos;2;999999955
+radio despertador;despertador;2;999999954
+termo eléctrico;termo;2;999999953
+caldera;;2;999999952
+pecera;acuario;2;999999951
+ambientador eléctrico;ambientador;2;999999950
+antimosquitos;enchufe antimosquitos;2;999999949
+robot aspirador;roomba;2;999999948
+vaporeta;;2;999999947
+máquina de coser;;2;999999946
+depiladora;;2;999999945
+picadora;;2;999999944
+amasadora;;2;999999943
+guitarra eléctrica;;2;999999942
+amplificador;;2;999999941
+teclado;piano eléctrico;2;999999940
+ratón;;2;999999939
+pendrive;usb;2;999999938
+disco duro externo;disco duro;2;999999937
+cable;;2;999999936
+mando;mando de la consola;2;999999935
+cámara de fotos;;2;999999934
+smartwatch;reloj inteligente;2;999999933
+teléfono fijo;teléfono;2;999999932
+ordenador de sobremesa;;2;999999931
+yogurtera;;3;1000000000
+máquina de helados;heladera;3;999999999
+máquina de palomitas;palomitero;3;999999998
+fondue eléctrica;;3;999999997
+crepera;;3;999999996
+grill;plancha de asar|parrilla eléctrica;3;999999995
+raclette;;3;999999994
+sintetizador;;3;999999993
+micrófono;;3;999999992
+mesa de mezclas;;3;999999991
+bajo eléctrico;;3;999999990
+destructora de papel;destructora;3;999999989
+plastificadora;;3;999999988
+escáner;;3;999999987
+fotocopiadora;;3;999999986
+fax;;3;999999985
+alarma;;3;999999984
+cámara de vigilancia;;3;999999983
+vigilabebés;intercomunicador|monitor de bebé;3;999999982
+difusor de aromas;difusor;3;999999981
+lámpara de sal;;3;999999980
+tira led;luces led;3;999999979
+nevera portátil;;3;999999978
+ventilador de techo;;3;999999977
+toallero eléctrico;;3;999999976
+sierra eléctrica;sierra de calar|caladora;3;999999975
+radial;amoladora;3;999999974
+lijadora;;3;999999973
+soldador;;3;999999972
+pistola de silicona;;3;999999971
+pistola de calor;;3;999999970
+compresor;;3;999999969
+hidrolimpiadora;karcher;3;999999968
+cortacésped eléctrico;cortacésped;3;999999967
+desbrozadora;;3;999999966
+soplador de hojas;soplador;3;999999965
+motosierra eléctrica;;3;999999964
+calentador de cera;;3;999999963
+abrelatas eléctrico;;3;999999962
+cuchillo eléctrico;;3;999999961
+molinillo de café;molinillo;3;999999960
+envasadora al vacío;envasadora;3;999999959
+deshidratador;;3;999999958
+panificadora;;3;999999957
+arrocera;;3;999999956
+vaporera;;3;999999955
+olla de cocción lenta;slow cooker;3;999999954
+chocolatera;;3;999999953
+fuente de chocolate;;3;999999952
+dispensador de agua;;3;999999951
+máquina de hielo;;3;999999950
+vinoteca;;3;999999949
+karaoke;;3;999999948
+máquina recreativa;;3;999999947
+pinball;;3;999999946
+cargador de coche eléctrico;wallbox|punto de recarga;3;999999945
+servidor;;3;999999944
+nas;;3;999999943
+torre;;3;999999942
+webcam;;3;999999941
+chromecast;fire stick;3;999999940
+apple tv;;3;999999939
+barra de sonido;;3;999999938
+home cinema;;3;999999937
+tocadiscos;;3;999999936
+radiocasete;casete;3;999999935
+ventilador de pie;;3;999999934
+plancha de vapor;centro de planchado;3;999999933
+sacaleches;;3;999999932
+nebulizador;;3;999999931
+cama articulada;;3;999999930
+silla de ruedas eléctrica;;3;999999929
+bomba de agua;;3;999999928
+depuradora;depuradora de piscina;3;999999927
+arcón congelador;;3;999999926
+máquina de vending;máquina expendedora;3;999999925
+calentador de agua;calentador;3;999999924
+brasero eléctrico;brasero;3;999999923
+radiador de aceite;;3;999999922
+bomba de calor;;3;999999921
+concentrador de oxígeno;;4;1000000000
+cpap;;4;999999999
+mascarilla led;;4;999999998
+cepillo alisador;;4;999999997
+moldeador de pelo;moldeador;4;999999996
+irrigador dental;irrigador;4;999999995
+recortadora;recortadora de barba;4;999999994
+luz pulsada;;4;999999993
+masajeador;pistola de masaje;4;999999992
+almohadilla eléctrica;esterilla eléctrica;4;999999991
+calientapiés;;4;999999990
+enfriador evaporativo;;4;999999989
+aerotermia;;4;999999988
+convector;;4;999999987
+termoventilador;;4;999999986
+emisor térmico;;4;999999985
+ionizador;;4;999999984
+extractor de zumo;;4;999999983
+máquina de pasta;;4;999999982
+cortafiambres;;4;999999981
+batidora de vaso;;4;999999980
+batidora de varillas;;4;999999979
+horno de pizza;;4;999999978
+horno de sobremesa;;4;999999977
+hornillo eléctrico;;4;999999976
+cocina de inducción portátil;;4;999999975
+máquina de algodón de azúcar;;4;999999974
+tirador de cerveza;;4;999999973
+enfriador de vino;;4;999999972
+impresora 3d;;4;999999971
+plotter;;4;999999970
+repetidor wifi;extensor wifi|plc;4;999999969
+switch de red;;4;999999968
+lector de tarjetas;;4;999999967
+hub usb;;4;999999966
+cargador inalámbrico;;4;999999965
+power bank;batería externa;4;999999964
+cargador de pilas;;4;999999963
+cargador de portátil;;4;999999962
+pedal de efectos;;4;999999961
+piano digital;;4;999999960
+órgano eléctrico;;4;999999959
+batería electrónica;;4;999999958
+theremín;;4;999999957
+ecualizador;;4;999999956
+sai;;4;999999955
+generador;;4;999999954
+placa solar;;4;999999953
+frigobar;minibar;4;999999952
+fuente para gatos;fuente para mascotas;4;999999951
+comedero automático;;4;999999950
+arenero automático;;4;999999949
+incubadora;;4;999999948
+calefactor de acuario;;4;999999947
+filtro de acuario;;4;999999946
+oxigenador;;4;999999945
+bomba de aire;;4;999999944
+hinchador eléctrico;;4;999999943
+secador de manos;;4;999999942
+secazapatos;;4;999999941
+quitapelusas eléctrico;;4;999999940
+afilador eléctrico;;4;999999939
+cepillo de limpieza facial;;4;999999938
+un enchufado;enchufar a alguien;5;1000000000
+enchufe;;5;999999999
+clavija;;5;999999998
+adaptador de enchufe;adaptador;5;999999997
+transformador;;5;999999996
+cable alargador;;5;999999995
+cable hdmi;;5;999999994
+cable usb;;5;999999993
+cable de red;ethernet;5;999999992
+jack;;5;999999991
+letrero luminoso;neón;5;999999990
+bola de discoteca;;5;999999989
+máquina de humo;;5;999999988
+láser de fiesta;;5;999999987
+foco;;5;999999986
+flash de estudio;;5;999999985
+lámpara de lava;;5;999999984
+belén con luces;;5;999999983
+terrario;;5;999999982
+aspirador de mano;;5;999999981
+escoba eléctrica;;5;999999980
+fregona eléctrica;mopa eléctrica;5;999999979
+cortadora de fiambre;;5;999999978
+carro de golf;;5;999999977
+carretilla eléctrica;;5;999999976
+grúa;;5;999999975
+ascensor;;5;999999974
+escalera mecánica;;5;999999973
+cinta de correr;;5;999999972
+bicicleta estática;;5;999999971
+elíptica;;5;999999970
+máquina de remo;;5;999999969
+electroestimulador;;5;999999968
+tensiómetro;;5;999999967
+ecógrafo;;5;999999966
+nevera de hospital;;5;999999965
+tren eléctrico;;5;999999964
+scalextric;;5;999999963
+robot de juguete;;5;999999962

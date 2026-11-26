@@ -1,0 +1,320 @@
+respuesta;alias;nivel;orden_a_mano
+mosca;moscas;1;1000000000
+mosquito;mosquitos;1;999999999
+hormiga;hormigas;1;999999998
+abeja;abejas;1;999999997
+avispa;avispas;1;999999996
+cucaracha;cucarachas;1;999999995
+mariposa;mariposas;1;999999994
+escarabajo;escarabajos;1;999999993
+saltamontes;;1;999999992
+grillo;grillos;1;999999991
+mariquita;mariquitas;1;999999990
+libélula;libélulas;1;999999989
+polilla;polillas;1;999999988
+pulga;pulgas;1;999999987
+piojo;piojos;1;999999986
+chinche;chinches;1;999999985
+cigarra;chicharra;2;1000000000
+luciérnaga;;2;999999999
+mantis;mantis religiosa|santateresa;2;999999998
+abejorro;;2;999999997
+termita;termitas;2;999999996
+tábano;;2;999999995
+avispón;avispa asiática|avispón asiático;2;999999994
+escarabajo pelotero;pelotero;2;999999993
+ciervo volante;;2;999999992
+gusano de seda;;2;999999991
+oruga;;2;999999990
+carcoma;;2;999999989
+gorgojo;;2;999999988
+pulgón;;2;999999987
+tijereta;;2;999999986
+zapatero;;2;999999985
+langosta;;2;999999984
+mosca de la fruta;drosophila;2;999999983
+moscardón;;2;999999982
+mosca tsé-tsé;tsetsé;2;999999981
+mosquito tigre;;2;999999980
+efímera;;2;999999979
+insecto palo;palo;2;999999978
+insecto hoja;;2;999999977
+escarabajo rinoceronte;;2;999999976
+escarabajo hércules;;2;999999975
+pececillo de plata;lepisma;2;999999974
+chinche de cama;;2;999999973
+mariposa monarca;;2;999999972
+mariposa de la col;;2;999999971
+vaquita de San Antonio;vaquita;2;999999970
+hormiga roja;;2;999999969
+hormiga voladora;;2;999999968
+abeja reina;;2;999999967
+zángano;;2;999999966
+procesionaria;oruga procesionaria;2;999999965
+escarabajo de la patata;dorífora;2;999999964
+escarabajo sagrado;escarabajo egipcio;2;999999963
+mosca blanca;;2;999999962
+grillo topo;alacrán cebollero;2;999999961
+cochinilla;;2;999999960
+ladilla;;2;999999959
+larva;;2;999999958
+crisálida;;2;999999957
+gusano;;2;999999956
+mosca cojonera;;2;999999955
+mariposa nocturna;;2;999999954
+caballito del diablo;;2;999999953
+mosquito anopheles;anofeles;2;999999952
+mosca verde;;2;999999951
+moscarda;;2;999999950
+cucaracha americana;;2;999999949
+cucaracha alemana;;2;999999948
+hormiga león;;2;999999947
+hormiga bala;;2;999999946
+hormiga argentina;;2;999999945
+picudo rojo;;2;999999944
+chinche verde;;2;999999943
+esfinge de la calavera;;2;999999942
+cantárida;;2;999999941
+gusano de la harina;tenebrio;2;999999940
+polilla de la ropa;;2;999999939
+escarabajo goliat;;2;999999938
+escarabajo titán;;2;999999937
+trips;;3;1000000000
+jején;;3;999999999
+mosca negra;;3;999999998
+vinchuca;chinche asesina|chipo;3;999999997
+chinche de agua;;3;999999996
+notonecta;;3;999999995
+girino;escribano de agua;3;999999994
+ditisco;escarabajo buceador;3;999999993
+gorgojo del arroz;;3;999999992
+polilla de la harina;;3;999999991
+polilla de la cera;;3;999999990
+polilla gitana;;3;999999989
+mariposa pavo real;pavón;3;999999988
+macaón;;3;999999987
+mariposa apolo;apolo;3;999999986
+isabelina;mariposa isabelina;3;999999985
+morpho;morpho azul|mariposa morpho;3;999999984
+mariposa búho;;3;999999983
+mariposa atlas;polilla atlas;3;999999982
+mariposa de seda;;3;999999981
+polilla luna;;3;999999980
+esfinge colibrí;;3;999999979
+escarabajo bombardero;;3;999999978
+escarabajo tigre;;3;999999977
+escarabajo joya;;3;999999976
+cetonia;;3;999999975
+carábido;;3;999999974
+estafilino;;3;999999973
+aceitera;;3;999999972
+abeja carpintera;;3;999999971
+abeja melífera;;3;999999970
+avispa papelera;;3;999999969
+avispa de las agallas;;3;999999968
+avispa parasitoide;;3;999999967
+avispa cazaarañas;;3;999999966
+avispón gigante;avispa mandarina;3;999999965
+abeja asesina;abeja africanizada;3;999999964
+hormiga legionaria;;3;999999963
+hormiga cortadora de hojas;hormiga cortadora;3;999999962
+hormiga carpintera;;3;999999961
+hormiga de fuego;;3;999999960
+hormiga tejedora;;3;999999959
+hormiga mielera;;3;999999958
+termita reina;;3;999999957
+cucaracha de Madagascar;cucaracha silbadora;3;999999956
+cucaracha oriental;;3;999999955
+mantis orquídea;;3;999999954
+mantis flor;;3;999999953
+fásmido;;3;999999952
+langosta del desierto;;3;999999951
+chapulín;;3;999999950
+frigánea;;3;999999949
+mosca escorpión;;3;999999948
+crisopa;;3;999999947
+sírfido;mosca de las flores;3;999999946
+típula;mosquito gigante;3;999999945
+mosca de los establos;;3;999999944
+mosca del mediterráneo;;3;999999943
+mosca del olivo;mosca de la aceituna;3;999999942
+pulgón lanígero;;3;999999941
+cochinilla algodonosa;;3;999999940
+psila;;3;999999939
+chicharrita;;3;999999938
+membrácido;;3;999999937
+cigarra periódica;;3;999999936
+chinche apestosa;;3;999999935
+mosca de la carne;;3;999999934
+mosca azul;;3;999999933
+mosca doméstica;;3;999999932
+mosquito común;culex;3;999999931
+aedes;mosquito aedes;3;999999930
+pulga del gato;;3;999999929
+pulga del perro;;3;999999928
+piojo de la cabeza;;3;999999927
+piojo del cuerpo;;3;999999926
+pulga de la arena;nigua;3;999999925
+barrenillo;;3;999999924
+escarabajo de la corteza;;3;999999923
+escarabajo longicornio;longicornio;3;999999922
+gusano blanco;;3;999999921
+gusano de alambre;;3;999999920
+gusano de la fruta;;3;999999919
+polilla del racimo;;3;999999918
+minador;;3;999999917
+escarabajo del aceite;;3;999999916
+abejorro común;;3;999999915
+abeja albañil;;3;999999914
+saltamontes verde;;3;999999913
+grillo campestre;;3;999999912
+cigarrón;;3;999999911
+plecóptero;;3;999999910
+cucaracha rubia;;3;999999909
+coleóptero;coleópteros;4;1000000000
+lepidóptero;lepidópteros;4;999999999
+himenóptero;himenópteros;4;999999998
+díptero;dípteros;4;999999997
+ortóptero;ortópteros;4;999999996
+hemíptero;hemípteros;4;999999995
+odonato;odonatos;4;999999994
+blatodeo;blátido;4;999999993
+mántido;mántidos;4;999999992
+isóptero;isópteros;4;999999991
+neuróptero;neurópteros;4;999999990
+tricóptero;tricópteros;4;999999989
+efemeróptero;efemerópteros;4;999999988
+dermáptero;dermápteros;4;999999987
+sifonáptero;sifonápteros;4;999999986
+ftiráptero;ftirápteros;4;999999985
+tisanóptero;tisanópteros;4;999999984
+mecóptero;mecópteros;4;999999983
+megalóptero;megalópteros;4;999999982
+rafidióptero;;4;999999981
+embióptero;;4;999999980
+zoráptero;;4;999999979
+estrepsíptero;;4;999999978
+mantofasmatodeo;;4;999999977
+grilloblatodeo;;4;999999976
+zigentomo;;4;999999975
+arqueognato;;4;999999974
+homóptero;homópteros;4;999999973
+heteróptero;heterópteros;4;999999972
+curculiónido;curculiónidos;4;999999971
+crisomélido;;4;999999970
+cerambícido;;4;999999969
+escarabeido;;4;999999968
+lucánido;;4;999999967
+coccinélido;;4;999999966
+cicindela;;4;999999965
+ninfálido;;4;999999964
+papiliónido;;4;999999963
+pierido;;4;999999962
+licénido;;4;999999961
+esfíngido;;4;999999960
+noctuido;;4;999999959
+geométrido;;4;999999958
+satúrnido;;4;999999957
+bombícido;;4;999999956
+véspido;;4;999999955
+ápido;;4;999999954
+formícido;;4;999999953
+icneumónido;;4;999999952
+bracónido;;4;999999951
+calcídido;;4;999999950
+culícido;;4;999999949
+múscido;;4;999999948
+tábanido;;4;999999947
+califórido;;4;999999946
+tefrítido;;4;999999945
+cecidómido;;4;999999944
+quironómido;;4;999999943
+simúlido;;4;999999942
+psicódido;mosca del desagüe;4;999999941
+cicádido;;4;999999940
+áfido;;4;999999939
+aleuródido;;4;999999938
+cóccido;;4;999999937
+pentatómido;;4;999999936
+redúvido;;4;999999935
+gérrido;;4;999999934
+nepa;escorpión de agua;4;999999933
+belostomátido;chinche gigante de agua;4;999999932
+acrídido;;4;999999931
+tetigónido;;4;999999930
+grílido;;4;999999929
+gríllotálpido;;4;999999928
+libelúlido;;4;999999927
+ésnido;;4;999999926
+caballito del diablo azul;;4;999999925
+agrión;;4;999999924
+hormiga de terciopelo;;5;1000000000
+avispa esmeralda;;5;999999999
+avispa tarántula;halcón de las tarántulas;5;999999998
+avispa de la madera;;5;999999997
+avispa alfarera;;5;999999996
+abeja cortadora de hojas;;5;999999995
+abeja sin aguijón;;5;999999994
+abejorro carpintero;;5;999999993
+mosca ladrona;asílido;5;999999992
+mosca abeja;bombílido;5;999999991
+mosca soldado;;5;999999990
+mosca de la piedra;;5;999999989
+mosca de mayo;;5;999999988
+mosca botfly;tórsalo;5;999999987
+moscardón del caballo;gasterophilus;5;999999986
+rezno;;5;999999985
+hipoboscido;mosca piojo;5;999999984
+piojo del pubis;;5;999999983
+piojo de las aves;;5;999999982
+piojillo;;5;999999981
+escarabajo de la biblioteca;;5;999999980
+piojo de los libros;psocóptero;5;999999979
+escarabajo de las alfombras;antreno;5;999999978
+derméstido;;5;999999977
+escarabajo del tabaco;;5;999999976
+carcoma grande;;5;999999975
+polilla de los alimentos;;5;999999974
+escarabajo del pan;;5;999999973
+gorgojo del trigo;;5;999999972
+gorgojo de la judía;;5;999999971
+taladro del maíz;;5;999999970
+polilla del tomate;tuta absoluta;5;999999969
+mosca minadora;;5;999999968
+gusano cogollero;;5;999999967
+langosta migratoria;;5;999999966
+saltamontes de antenas largas;;5;999999965
+saga pedo;;5;999999964
+grillo de las cavernas;;5;999999963
+weta;;5;999999962
+mantis diablo;;5;999999961
+mantis hoja muerta;;5;999999960
+empusa;;5;999999959
+insecto palo gigante;;5;999999958
+phasmido espinoso;;5;999999957
+cigarra de Taiwán;;5;999999956
+chinche hedionda;;5;999999955
+chinche del pino;;5;999999954
+escarabajo rinoceronte europeo;;5;999999953
+escarabajo estercolero;;5;999999952
+escarabajo minotauro;;5;999999951
+escarabajo pelotero sagrado;;5;999999950
+cárabo dorado;;5;999999949
+escarabajo violín;;5;999999948
+escarabajo jirafa;;5;999999947
+escarabajo diablo;;5;999999946
+gorgojo jirafa;;5;999999945
+oruga de la mariposa;;5;999999944
+polilla esfinge;;5;999999943
+polilla tigre;;5;999999942
+polilla zigena;;5;999999941
+mariposa cleopatra;;5;999999940
+limonera;;5;999999939
+vanesa;vanesa de los cardos;5;999999938
+almirante rojo;;5;999999937
+numerada;;5;999999936
+tornasolada;;5;999999935
+maculinea;;5;999999934
+mariposa ala de pájaro;;5;999999933
+mariposa cristal;;5;999999932
+mariposa calavera;;5;999999931
