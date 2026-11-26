@@ -388,6 +388,7 @@ PREGUNTAS = [
     ("Nombra un insecto", "insecto"),
     ("Nombra una especia o una hierba aromática", "especia"),
     ("Nombra una ciudad de Francia", "ciudad_francia"),
+    ("Nombra una raza de gato", "raza_gato"),
 ]
 
 # Desde el 31 de octubre de 2026 los niveles son más generosos: la gente veía casi imposible llegar a Muy raro y Sabihondo.
