@@ -1,0 +1,490 @@
+respuesta;alias;nivel;orden_a_mano
+Darth Vader;Vader|Lord Vader;1;1000000000
+Luke Skywalker;Luke;1;999999999
+Han Solo;Han;1;999999998
+Leia;Princesa Leia|Leia Organa;1;999999997
+Chewbacca;Chewie|Chewbaca;1;999999996
+Yoda;Maestro Yoda;1;999999995
+R2-D2;Arturito|Erre Dos;1;999999994
+C-3PO;Citripio;1;999999993
+Obi-Wan Kenobi;Obi-Wan|Ben Kenobi|Kenobi;1;999999992
+Anakin Skywalker;Anakin;1;999999991
+Palpatine;Emperador|Darth Sidious|Sidious|Emperador Palpatine;1;999999990
+Darth Maul;Maul;1;999999989
+Grogu;Baby Yoda;1;999999988
+Mandaloriano;Mando|Din Djarin;1;999999987
+Kylo Ren;Ben Solo;1;999999986
+Rey;Rey Skywalker;1;999999985
+Boba Fett;;1;999999984
+Jabba;Jabba el Hutt;1;999999983
+Padmé;Padmé Amidala|Amidala|Reina Amidala;1;999999982
+Stormtrooper;soldado imperial|soldado de asalto;1;999999981
+Jar Jar Binks;Jar Jar;2;1000000000
+Qui-Gon Jinn;Qui Gon;2;999999999
+Mace Windu;;2;999999998
+Conde Dooku;Dooku|Darth Tyranus;2;999999997
+General Grievous;Grievous;2;999999996
+Lando Calrissian;Lando;2;999999995
+Ewok;ewoks;2;999999994
+Wookiee;;2;999999993
+Jawa;jawas;2;999999992
+Wicket;;2;999999991
+Snoke;Líder Supremo Snoke;2;999999990
+Finn;;2;999999989
+Poe Dameron;Poe;2;999999988
+BB-8;;2;999999987
+Capitana Phasma;Phasma;2;999999986
+Ahsoka Tano;Ahsoka;2;999999985
+Rose Tico;;2;999999984
+Maz Kanata;;2;999999983
+Jyn Erso;;2;999999982
+Cassian Andor;Andor;2;999999981
+K-2SO;;2;999999980
+Tarkin;Grand Moff Tarkin;2;999999979
+Almirante Ackbar;Ackbar;2;999999978
+Mon Mothma;;2;999999977
+Jango Fett;;2;999999976
+Greedo;;2;999999975
+Watto;;2;999999974
+Sebulba;;2;999999973
+Shmi Skywalker;;2;999999972
+Tío Owen;Owen Lars;2;999999971
+Tía Beru;Beru;2;999999970
+Bail Organa;;2;999999969
+Capitán Rex;;2;999999968
+Comandante Cody;;2;999999967
+Cad Bane;;2;999999966
+Asajj Ventress;Ventress;2;999999965
+Ezra Bridger;Ezra;2;999999964
+Kanan Jarrus;Kanan;2;999999963
+Hera Syndulla;Hera;2;999999962
+Sabine Wren;Sabine;2;999999961
+Zeb;;2;999999960
+Chopper;;2;999999959
+Thrawn;Gran Almirante Thrawn;2;999999958
+Bo-Katan;;2;999999957
+Moff Gideon;;2;999999956
+Greef Karga;;2;999999955
+Cara Dune;;2;999999954
+IG-11;;2;999999953
+Fennec Shand;;2;999999952
+Hux;General Hux|Armitage Hux;2;999999951
+Qi'ra;;2;999999950
+Tobias Beckett;Beckett;2;999999949
+L3-37;;2;999999948
+Wedge Antilles;Wedge;2;999999947
+Rancor;;2;999999946
+Sarlacc;;2;999999945
+porg;porgs;2;999999944
+Tauntaun;;2;999999943
+Wampa;;2;999999942
+droide de combate;droides;2;999999941
+clon;soldado clon|clones;2;999999940
+Darth Plagueis;;2;999999939
+Gran Inquisidor;;2;999999938
+Cal Kestis;;2;999999937
+Saw Gerrera;;2;999999936
+Krennic;Orson Krennic;2;999999935
+Galen Erso;;2;999999934
+Chirrut Îmwe;Chirrut;2;999999933
+Baze Malbus;;2;999999932
+Bodhi Rook;;2;999999931
+Dryden Vos;;2;999999930
+Enfys Nest;;2;999999929
+Babu Frik;;2;999999928
+Zorii Bliss;;2;999999927
+Jannah;;2;999999926
+Holdo;Almirante Holdo;2;999999925
+Kuiil;;2;999999924
+la Armera;;2;999999923
+Luthen Rael;Luthen;2;999999922
+Syril Karn;;2;999999921
+Dedra Meero;;2;999999920
+Ki-Adi-Mundi;;3;1000000000
+Plo Koon;;3;999999999
+Kit Fisto;;3;999999998
+Aayla Secura;;3;999999997
+Shaak Ti;;3;999999996
+Luminara Unduli;;3;999999995
+Barriss Offee;;3;999999994
+Yaddle;;3;999999993
+Depa Billaba;;3;999999992
+Saesee Tiin;;3;999999991
+Agen Kolar;;3;999999990
+Eeth Koth;;3;999999989
+Even Piell;;3;999999988
+Oppo Rancisis;;3;999999987
+Adi Gallia;;3;999999986
+Stass Allie;;3;999999985
+Nute Gunray;;3;999999984
+Rune Haako;;3;999999983
+Wat Tambor;;3;999999982
+San Hill;;3;999999981
+Poggle el Menor;;3;999999980
+Shu Mai;;3;999999979
+Passel Argente;;3;999999978
+Sabé;;3;999999977
+Capitán Panaka;Panaka;3;999999976
+Capitán Typho;;3;999999975
+Jefe Nass;Boss Nass;3;999999974
+Sio Bibble;;3;999999973
+Fives;;3;999999972
+Echo;;3;999999971
+Hunter;;3;999999970
+Wrecker;;3;999999969
+Tech;;3;999999968
+Crosshair;;3;999999967
+Omega;;3;999999966
+Lote Malo;Bad Batch;3;999999965
+Savage Opress;;3;999999964
+Madre Talzin;;3;999999963
+Hondo Ohnaka;Hondo;3;999999962
+Embo;;3;999999961
+Aurra Sing;;3;999999960
+Satine Kryze;Satine;3;999999959
+Pre Vizsla;;3;999999958
+Almec;;3;999999957
+Gar Saxon;;3;999999956
+Agente Kallus;Kallus;3;999999955
+Séptima Hermana;;3;999999954
+Quinto Hermano;;3;999999953
+Octavo Hermano;;3;999999952
+Segunda Hermana;Trilla;3;999999951
+Reva;Tercera Hermana;3;999999950
+Cere Junda;;3;999999949
+Greez Dritus;Greez;3;999999948
+BD-1;;3;999999947
+Merrin;;3;999999946
+Darth Revan;Revan;3;999999945
+Darth Malak;;3;999999944
+Darth Bane;;3;999999943
+Starkiller;Galen Marek;3;999999942
+Mara Jade;;3;999999941
+Jacen Solo;;3;999999940
+Jaina Solo;;3;999999939
+Kyle Katarn;;3;999999938
+Paz Vizsla;;3;999999937
+Cobb Vanth;;3;999999936
+Peli Motto;;3;999999935
+Mayfeld;Migs Mayfeld;3;999999934
+Doctor Pershing;;3;999999933
+Bix Caleen;;3;999999932
+Maarva Andor;;3;999999931
+Kino Loy;;3;999999930
+Vel Sartha;;3;999999929
+Cinta Kaz;;3;999999928
+Baylan Skoll;;3;999999927
+Shin Hati;;3;999999926
+Morgan Elsbeth;;3;999999925
+Marrok;;3;999999924
+Huyang;;3;999999923
+Sol;Maestro Sol;3;999999922
+Mae;;3;999999921
+Osha;;3;999999920
+Qimir;el Extraño;3;999999919
+Vernestra Rwoh;;3;999999918
+Jecki Lon;;3;999999917
+Yord Fandar;;3;999999916
+Bazil;;3;999999915
+Torbin;;3;999999914
+Kelleran Beq;;3;999999913
+Jod Na Nawood;Jod;3;999999912
+Wim;;3;999999911
+Neel;;3;999999910
+Fern;;3;999999909
+KB;;3;999999908
+SM-33;;3;999999907
+Val;;3;999999906
+Rio Durant;;3;999999905
+Kaydel Ko Connix;Connix;3;999999904
+Pryde;General Pryde;3;999999903
+D-O;;3;999999902
+Lor San Tekka;;3;999999901
+Unkar Plutt;;3;999999900
+Teedo;;3;999999899
+DJ;;3;999999898
+Biggs Darklighter;Biggs;3;999999897
+Bossk;;3;999999896
+IG-88;;3;999999895
+Dengar;;3;999999894
+4-LOM;;3;999999893
+Zuckuss;;3;999999892
+Max Rebo;;3;999999891
+Sy Snootles;;3;999999890
+Salacious Crumb;;3;999999889
+Bib Fortuna;;3;999999888
+Oola;;3;999999887
+R5-D4;;3;999999886
+droideka;;3;999999885
+Gonk;droide gonk;3;999999884
+2-1B;;3;999999883
+EV-9D9;;3;999999882
+Zam Wesell;;3;999999881
+Lama Su;;3;999999880
+Taun We;;3;999999879
+Dexter Jettster;;3;999999878
+Nien Nunb;;3;999999877
+Lobot;;3;999999876
+Jerjerrod;Moff Jerjerrod;3;999999875
+Piett;Almirante Piett;3;999999874
+Ozzel;;3;999999873
+Veers;General Veers;3;999999872
+Dak Ralter;;3;999999871
+Porkins;;3;999999870
+Mon Calamari;;3;999999869
+bantha;banthas;3;999999868
+dewback;;3;999999867
+mynock;;3;999999866
+gungan;gungans;3;999999865
+Hutt;;3;999999864
+Tusken;moradores de las arenas|incursores tusken;3;999999863
+Sith;;3;999999862
+Jedi;;3;999999861
+caballero de Ren;caballeros de Ren;3;999999860
+soldado de la muerte;death trooper;3;999999859
+scout trooper;soldado explorador;3;999999858
+snowtrooper;;3;999999857
+guardia real imperial;;3;999999856
+Inquisidor;;3;999999855
+Cliegg Lars;;4;1000000000
+Breha Organa;;4;999999999
+Ben Skywalker;;4;999999998
+Elia Kane;;4;999999997
+Kanjiklub;;4;999999996
+Guavian;;4;999999995
+Lady Proxima;;4;999999994
+Moloch;;4;999999993
+Bistan;;4;999999992
+Pao;;4;999999991
+Edrio Two Tubes;;4;999999990
+Weeteef Cyubee;;4;999999989
+Two Tubes;;4;999999988
+Ruescott Melshi;Melshi;4;999999987
+Draven;General Draven;4;999999986
+Tivik;;4;999999985
+Lyra Erso;;4;999999984
+Ponda Baba;;4;999999983
+Doctor Evazan;;4;999999982
+Momaw Nadon;Cabeza de martillo;4;999999981
+Figrin D'an;;4;999999980
+Garindan;;4;999999979
+Wuher;;4;999999978
+Kabe;;4;999999977
+Muftak;;4;999999976
+Labria;;4;999999975
+Walrus Man;;4;999999974
+Snaggletooth;;4;999999973
+Pote Snitkin;;4;999999972
+Yarna;;4;999999971
+Ree-Yees;;4;999999970
+Malakili;;4;999999969
+Gamorreano;guardia gamorreano;4;999999968
+Ephant Mon;;4;999999967
+Rystáll;;4;999999966
+Lyn Me;;4;999999965
+Joh Yowza;;4;999999964
+Droopy McCool;;4;999999963
+Barada;;4;999999962
+Klaatu;;4;999999961
+Nikto;;4;999999960
+Quarren;;4;999999959
+Rodiano;;4;999999958
+Twi'lek;;4;999999957
+Zabrak;;4;999999956
+Togruta;;4;999999955
+Mirialan;;4;999999954
+Nautolano;;4;999999953
+Ithoriano;;4;999999952
+Trandoshano;;4;999999951
+Duros;;4;999999950
+Sullustano;;4;999999949
+Bothan;bothanos;4;999999948
+Chiss;;4;999999947
+Pau'an;;4;999999946
+Kaminoano;;4;999999945
+Geonosiano;;4;999999944
+Utapauano;;4;999999943
+Tion Medon;;4;999999942
+Boga;;4;999999941
+Cin Drallig;;4;999999940
+Jocasta Nu;;4;999999939
+Sifo-Dyas;;4;999999938
+Ima-Gun Di;;4;999999937
+Tera Sinube;;4;999999936
+Pong Krell;;4;999999935
+Quinlan Vos;;4;999999934
+Caleb Dume;;4;999999933
+Trace Martez;;4;999999932
+Rafa Martez;;4;999999931
+Lux Bonteri;;4;999999930
+Mina Bonteri;;4;999999929
+Riyo Chuchi;;4;999999928
+Orn Free Taa;;4;999999927
+Mas Amedda;;4;999999926
+Sly Moore;;4;999999925
+Ask Aak;;4;999999924
+Onaconda Farr;;4;999999923
+Lott Dod;;4;999999922
+Hevy;;4;999999921
+Dogma;;4;999999920
+Tup;;4;999999919
+Jesse;;4;999999918
+Kix;;4;999999917
+Hardcase;;4;999999916
+Wolffe;;4;999999915
+Gregor;;4;999999914
+Bly;;4;999999913
+Commander Fox;Comandante Fox;4;999999912
+Thorn;;4;999999911
+Thire;;4;999999910
+Neyo;;4;999999909
+Gree;;4;999999908
+Bacara;;4;999999907
+Appo;;4;999999906
+Cut Lawquane;;4;999999905
+Ninety-Nine;;4;999999904
+Nala Se;;4;999999903
+Cid;;4;999999902
+Phee Genoa;;4;999999901
+Taka Jamoreesa;;4;999999900
+Ochi de Bestoon;Ochi;4;999999899
+Beaumont Kin;;4;999999898
+Sinta Glacier;;4;999999897
+Ketsu Onyo;;4;999999896
+Fenn Rau;;4;999999895
+Tiber Saxon;;4;999999894
+Rook Kast;;4;999999893
+Kast;;4;999999892
+Azadi;;4;999999891
+Ryder Azadi;;4;999999890
+Minister Tua;;4;999999889
+Hask;;4;999999888
+Yogar Lyste;;4;999999887
+Vult Skerris;;4;999999886
+Konstantine;;4;999999885
+Tseebo;;4;999999884
+Iden Versio;;4;999999883
+Del Meeko;;4;999999882
+Gideon Hask;;4;999999881
+Shriv;;4;999999880
+Kaz Xiono;;4;999999879
+Yeager;;4;999999878
+Tam Ryvora;;4;999999877
+Neeku;;4;999999876
+Torra Doza;;4;999999875
+Kragan Gorr;;4;999999874
+Agente Tierny;;4;999999873
+Commander Pyre;;4;999999872
+Darth Nihilus;;5;1000000000
+Darth Sion;;5;999999999
+Darth Traya;Kreia;5;999999998
+Exiliado;;5;999999997
+Bastila Shan;;5;999999996
+Carth Onasi;;5;999999995
+Canderous Ordo;;5;999999994
+HK-47;;5;999999993
+T3-M4;;5;999999992
+Jolee Bindo;;5;999999991
+Juhani;;5;999999990
+Mission Vao;;5;999999989
+Zaalbar;;5;999999988
+Atton Rand;;5;999999987
+Visas Marr;;5;999999986
+Mira;;5;999999985
+Hanharr;;5;999999984
+Bao-Dur;;5;999999983
+Mandalore;;5;999999982
+Malgus;Darth Malgus;5;999999981
+Satele Shan;;5;999999980
+Vitiate;Valkorion;5;999999979
+Exar Kun;;5;999999978
+Ulic Qel-Droma;;5;999999977
+Nomi Sunrider;;5;999999976
+Freedon Nadd;;5;999999975
+Marka Ragnos;;5;999999974
+Naga Sadow;;5;999999973
+Ajunta Pall;;5;999999972
+Tulak Hord;;5;999999971
+Darth Krayt;;5;999999970
+Cade Skywalker;;5;999999969
+Darth Caedus;;5;999999968
+Lumiya;;5;999999967
+Abeloth;;5;999999966
+Vergere;;5;999999965
+Kyp Durron;;5;999999964
+Corran Horn;;5;999999963
+Tenel Ka;;5;999999962
+Anakin Solo;;5;999999961
+Allana Solo;;5;999999960
+Vestara Khai;;5;999999959
+Natasi Daala;;5;999999958
+Gilad Pellaeon;;5;999999957
+Ysanne Isard;;5;999999956
+Garm Bel Iblis;;5;999999955
+Talon Karrde;;5;999999954
+Joruus C'baoth;;5;999999953
+Jorus C'baoth;;5;999999952
+Eli Vanto;;5;999999951
+Arihnda Pryce;;5;999999950
+Rae Sloane;;5;999999949
+Sinjir Rath Velus;;5;999999948
+Norra Wexley;;5;999999947
+Temmin Wexley;Snap Wexley;5;999999946
+Jas Emari;;5;999999945
+Mr. Bones;;5;999999944
+Gallius Rax;;5;999999943
+Kazuda;;5;999999942
+Doctor Aphra;Aphra;5;999999941
+BT-1;;5;999999940
+0-0-0;Triple Cero;5;999999939
+Sana Starros;;5;999999938
+Kirak Infil'a;;5;999999937
+Cylo;;5;999999936
+Karina;;5;999999935
+Tulon Voidgazer;;5;999999934
+Ajax Sigma;;5;999999933
+Kardue'sai'Malloc;;5;999999932
+Amanaman;;5;999999931
+Lumat;;5;999999930
+Paploo;;5;999999929
+Teebo;;5;999999928
+Logray;;5;999999927
+Chirpa;;5;999999926
+Kneesaa;;5;999999925
+Latara;;5;999999924
+Wicket Wystri Warrick;;5;999999923
+Charal;;5;999999922
+Cindel Towani;;5;999999921
+Kitster;;5;999999920
+Wald;;5;999999919
+Seek;;5;999999918
+Amee;;5;999999917
+Jira;;5;999999916
+Gasgano;;5;999999915
+Ody Mandrell;;5;999999914
+Ratts Tyerell;;5;999999913
+Aldar Beedo;;5;999999912
+Mawhonic;;5;999999911
+Ben Quadinaros;;5;999999910
+Teemto Pagalies;;5;999999909
+Fode;;5;999999908
+Beed;;5;999999907
+Gardulla;;5;999999906
+Ziro el Hutt;Ziro;5;999999905
+Rotta;;5;999999904
+Jiliac;;5;999999903
+Durga;;5;999999902
+Grakkus;;5;999999901
+Grummgar;;5;999999900
+Bazine Netal;;5;999999899
+Sidon Ithano;;5;999999898
+Kaplan;;5;999999897
+Taslin Brance;;5;999999896
+Tallissan Lintra;;5;999999895
+Ello Asty;;5;999999894
+Goss Toowers;;5;999999893
+Larma D'Acy;;5;999999892
+Wrobie Tyce;;5;999999891
+Tallie;;5;999999890
+Pava;;5;999999889
+Tico Paige;;5;999999888

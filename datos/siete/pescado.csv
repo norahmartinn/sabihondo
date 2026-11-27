@@ -1,0 +1,373 @@
+respuesta;alias;nivel;orden_a_mano
+merluza;merluzas;1;1000000000
+bacalao;;1;999999999
+atún;;1;999999998
+salmón;;1;999999997
+sardina;sardinas;1;999999996
+boquerón;boquerones;1;999999995
+anchoa;anchoas;1;999999994
+dorada;doradas;1;999999993
+lubina;lubinas;1;999999992
+lenguado;;1;999999991
+rape;;1;999999990
+trucha;truchas;1;999999989
+caballa;caballas;1;999999988
+rodaballo;;1;999999987
+pez espada;emperador;1;999999986
+bonito;;1;999999985
+besugo;;1;999999984
+mero;;1;999999983
+gallo;;1;999999982
+pescadilla;;2;1000000000
+jurel;chicharro|chicharros;2;999999999
+salmonete;salmonetes;2;999999998
+bacaladilla;lirio;2;999999997
+rosada;;2;999999996
+panga;;2;999999995
+tilapia;;2;999999994
+perca;;2;999999993
+carpa;;2;999999992
+anguila;anguilas;2;999999991
+angula;angulas;2;999999990
+gula;gulas;2;999999989
+cazón;bienmesabe;2;999999988
+raya;;2;999999987
+congrio;;2;999999986
+arenque;arenques;2;999999985
+chanquete;chanquetes;2;999999984
+palometa;;2;999999983
+japuta;;2;999999982
+cabracho;;2;999999981
+sargo;;2;999999980
+pargo;;2;999999979
+corvina;;2;999999978
+abadejo;;2;999999977
+fletán;halibut;2;999999976
+platija;;2;999999975
+acedía;acedías;2;999999974
+bonito del norte;;2;999999973
+atún rojo;;2;999999972
+albacora;;2;999999971
+melva;;2;999999970
+verdel;;2;999999969
+xarda;;2;999999968
+rubio;;2;999999967
+rascacio;;2;999999966
+gallineta;;2;999999965
+mújol;lisa;2;999999964
+róbalo;;2;999999963
+cherna;;2;999999962
+marrajo;;2;999999961
+tintorera;;2;999999960
+tiburón;;2;999999959
+pez limón;seriola;2;999999958
+lucio;;2;999999957
+esturión;;2;999999956
+sardinilla;;2;999999955
+espadín;;2;999999954
+boga;;2;999999953
+breca;;2;999999952
+dentón;;2;999999951
+aguja;;2;999999950
+faneca;;2;999999949
+merlán;;2;999999948
+carbonero;;2;999999947
+maruca;;2;999999946
+solla;;2;999999945
+san pedro;pez de san pedro;2;999999944
+skrei;bacalao skrei;2;999999943
+pez globo;fugu;2;999999942
+emperador a la plancha;;2;999999941
+lamprea;;2;999999940
+mojarra;;2;999999939
+salpa;;2;999999938
+bacoreta;;2;999999937
+listado;;2;999999936
+reo;;2;999999935
+trucha arcoíris;;2;999999934
+salmón ahumado;;2;999999933
+pez mantequilla;;2;999999932
+perca del Nilo;;2;999999931
+sábalo;;2;999999930
+alosa;;2;999999929
+lucioperca;;3;1000000000
+black bass;perca americana|bass;3;999999999
+barbo;;3;999999998
+tenca;;3;999999997
+gobio;;3;999999996
+bagre;;3;999999995
+siluro;;3;999999994
+pez gato;;3;999999993
+carpín;;3;999999992
+cacho;;3;999999991
+piscardo;;3;999999990
+bermejuela;;3;999999989
+colmilleja;;3;999999988
+salvelino;trucha de arroyo;3;999999987
+tímalo;;3;999999986
+coregono;;3;999999985
+pez blanco;;3;999999984
+oblada;;3;999999983
+herrera;;3;999999982
+mabra;;3;999999981
+baila;;3;999999980
+lubina salvaje;;3;999999979
+dorada salvaje;;3;999999978
+chopa;;3;999999977
+raspallón;;3;999999976
+vidriada;;3;999999975
+sargo picudo;;3;999999974
+sargo breado;;3;999999973
+borriquete;;3;999999972
+corvallo;corvina negra;3;999999971
+verrugato;;3;999999970
+roncador;;3;999999969
+gallo de San Pedro;;3;999999968
+gallo pedro;;3;999999967
+peón;;3;999999966
+golondrina;bejel;3;999999965
+arete;;3;999999964
+cuco;;3;999999963
+rubio armado;;3;999999962
+araña;pez araña|escorpión;3;999999961
+cabracho rojo;;3;999999960
+gallineta nórdica;;3;999999959
+rascacio negro;;3;999999958
+escórpora;;3;999999957
+sapo;pejesapo;3;999999956
+rape negro;;3;999999955
+rape blanco;;3;999999954
+maruca azul;;3;999999953
+brótola;;3;999999952
+locha;;3;999999951
+mollera;;3;999999950
+bertorella;;3;999999949
+granadero;;3;999999948
+sable;pez sable;3;999999947
+pez cinto;;3;999999946
+espadilla;;3;999999945
+aguja palá;;3;999999944
+marlín;;3;999999943
+pez vela;;3;999999942
+pez luna;;3;999999941
+abadejo de Alaska;;3;999999940
+carbonero de Alaska;pollock;3;999999939
+tambor;;3;999999938
+rémol;;3;999999937
+cabrilla;;3;999999936
+serrano;;3;999999935
+vaquita;;3;999999934
+mero bonito;;3;999999933
+falso abadejo;;3;999999932
+gitano;;3;999999931
+anjova;anchova|pez azul;3;999999930
+palometa negra;;3;999999929
+pez de roca;;3;999999928
+lorito;;3;999999927
+pez loro;;3;999999926
+vieja colorada;vieja;3;999999925
+sama;;3;999999924
+bocinegro;;3;999999923
+burro;;3;999999922
+cherne;;3;999999921
+alfonsiño;;3;999999920
+catalufa;;3;999999919
+besugo de la pinta;;3;999999918
+aligote;;3;999999917
+goraz;;3;999999916
+pancho;;3;999999915
+garapello;;3;999999914
+morena;;3;999999913
+morena negra;;3;999999912
+congrio negro;;3;999999911
+safio;;3;999999910
+espadín del Báltico;;3;999999909
+papalina;;3;999999908
+alacha;;3;999999907
+sardinela;;3;999999906
+boga de mar;;3;999999905
+sollo;;4;1000000000
+beluga;esturión beluga;4;999999999
+sterlet;;4;999999998
+esturión siberiano;;4;999999997
+anguila europea;;4;999999996
+anguila japonesa;unagi;4;999999995
+angula del Nalón;;4;999999994
+lamprea marina;;4;999999993
+lamprea de río;;4;999999992
+salmón atlántico;;4;999999991
+salmón del Pacífico;;4;999999990
+salmón rosado;;4;999999989
+salmón plateado;coho;4;999999988
+salmón rojo;sockeye;4;999999987
+salmón real;chinook;4;999999986
+salmón keta;keta;4;999999985
+trucha marina;;4;999999984
+trucha común;;4;999999983
+trucha alpina;;4;999999982
+chopa negra;;4;999999981
+sargo real;;4;999999980
+dorada de estero;;4;999999979
+lubina de estero;;4;999999978
+mújol de cabeza plana;;4;999999977
+galupe;;4;999999976
+capitán;;4;999999975
+lisa dorada;;4;999999974
+lisa negra;;4;999999973
+alburno;;4;999999972
+pardilla;;4;999999971
+madrilla;;4;999999970
+loina;;4;999999969
+cacho ibérico;;4;999999968
+boga del Duero;;4;999999967
+boga del Tajo;;4;999999966
+barbo comizo;;4;999999965
+barbo de Graells;;4;999999964
+carpa espejo;;4;999999963
+carpa koi;;4;999999962
+carpa plateada;;4;999999961
+carpa herbívora;;4;999999960
+carpín dorado;;4;999999959
+siluro europeo;;4;999999958
+pez gato americano;;4;999999957
+pez gato del canal;;4;999999956
+tilapia del Nilo;;4;999999955
+tilapia roja;;4;999999954
+panga vietnamita;;4;999999953
+basa;;4;999999952
+perca dorada;;4;999999951
+perca trepadora;;4;999999950
+pez cabeza de serpiente;;4;999999949
+arapaima;paiche;4;999999948
+tambaquí;;4;999999947
+pacú;;4;999999946
+cachama;;4;999999945
+surubí;;4;999999944
+dorado de río;;4;999999943
+piraña;;4;999999942
+escolar;;4;999999941
+ruvetto;;4;999999940
+opah;pez luna real;4;999999939
+pez espada del Pacífico;;4;999999938
+atún blanco;;4;999999937
+atún claro;rabil;4;999999936
+atún patudo;patudo;4;999999935
+atún listado;;4;999999934
+atún de aleta amarilla;;4;999999933
+bonito del Pacífico;;4;999999932
+carite;;4;999999931
+sierra;;4;999999930
+peto;;4;999999929
+wahoo;;4;999999928
+mahi mahi;dorado|lampuga;4;999999927
+pámpano;;4;999999925
+palometón;;4;999999924
+serviola;;4;999999923
+pez limón del Japón;hamachi;4;999999922
+jurel dentón;;4;999999921
+cobia;;4;999999920
+pez rey;;4;999999919
+marlín azul;;4;999999918
+marlín blanco;;4;999999917
+tiburón azul;;4;999999916
+cailón;;4;999999915
+marrajo dientuso;;4;999999914
+mielga;;4;999999913
+pintarroja;lija;4;999999912
+alitán;;4;999999911
+musola;;4;999999910
+galludo;;4;999999909
+quelvacho;;4;999999908
+raya de clavos;;4;999999907
+raya pintada;;4;999999906
+raya mosaica;;4;999999905
+chucho;;4;999999904
+pez guitarra;;4;999999903
+obispo;;4;999999902
+pez martillo;;4;999999901
+lenguado senegalés;;5;1000000000
+lenguado de arena;;5;999999999
+lenguado de roca;;5;999999998
+tapaculo;;5;999999997
+solleta;;5;999999996
+platija europea;;5;999999995
+solla americana;;5;999999994
+mendo;falso lenguado;5;999999993
+gallo del norte;;5;999999992
+gallo de cuatro manchas;;5;999999991
+rodaballo salvaje;;5;999999990
+rémol de piedra;;5;999999989
+halibut negro;fletán negro;5;999999988
+limanda;;5;999999987
+sardina del Pacífico;;5;999999986
+sardina japonesa;;5;999999985
+anchoveta;;5;999999984
+boquerón del Cantábrico;;5;999999983
+bocarte;;5;999999982
+parrocha;;5;999999981
+xouba;;5;999999980
+jurel del Pacífico;;5;999999979
+chicharro de Canarias;;5;999999978
+tasarte;;5;999999977
+palometa de Canarias;;5;999999976
+sama de pluma;;5;999999975
+sama roquera;;5;999999974
+pargo colorado;;5;999999973
+pargo rojo;;5;999999972
+pargo criollo;;5;999999971
+huachinango;;5;999999970
+corvina peruana;;5;999999969
+merluza austral;;5;999999968
+merluza del Cabo;;5;999999967
+merluza de Chile;;5;999999966
+merluza argentina;;5;999999965
+merluza de pincho;;5;999999964
+merluza negra;bacalao de profundidad;5;999999963
+maragota;;5;999999962
+budión;;5;999999961
+tordo;;5;999999960
+doncella;;5;999999959
+julia;;5;999999958
+raspallón del Mediterráneo;;5;999999957
+castañola;;5;999999956
+salmonete de roca;;5;999999955
+salmonete de fango;;5;999999954
+trilla;;5;999999953
+burrito;;5;999999952
+pez ballesta;;5;999999951
+pez cofre;;5;999999950
+pez erizo;;5;999999949
+pez escorpión;;5;999999948
+pez piedra;;5;999999947
+pez sapo;;5;999999946
+sable negro;espada negro;5;999999945
+pez de San Martín;;5;999999944
+pez reloj anaranjado;reloj;5;999999943
+gallineta del norte;;5;999999942
+cabra;;5;999999941
+bertorella común;;5;999999940
+faneca noruega;;5;999999939
+eglefino;haddock;5;999999938
+bacalao del Pacífico;;5;999999937
+bacalao de Groenlandia;;5;999999936
+abadejo atlántico;;5;999999935
+carbonero común;;5;999999934
+eperlano;;5;999999933
+capelán;;5;999999932
+lucio europeo;;5;999999931
+lucio americano;;5;999999930
+pejerrey;;5;999999929
+sabalote;;5;999999928
+chanos;;5;999999927
+sapito;;5;999999926
+piscardo común;;5;999999925
+tenca dorada;;5;999999924
+colín;;5;999999923
+colín de Alaska;;5;999999922
+hoki;;5;999999921
+granadero azul;;5;999999920
+rosada del Cabo;;5;999999919
+ling;;5;999999918
+barramundi;;5;999999917
+tilapia azul;;5;999999916
+kingklip;;5;999999915

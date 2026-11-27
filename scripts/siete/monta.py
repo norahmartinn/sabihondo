@@ -389,6 +389,13 @@ PREGUNTAS = [
     ("Nombra una especia o una hierba aromática", "especia"),
     ("Nombra una ciudad de Francia", "ciudad_francia"),
     ("Nombra una raza de gato", "raza_gato"),
+    ("Nombra un pescado", "pescado"),
+    ("Nombra algo que sea redondo", "redondo"),
+    ("Nombra una canción de Rosalía", "cancion_rosalia"),
+    ("Nombra un personaje de Star Wars", "star_wars"),
+    ("Nombra un pintor", "pintor"),
+    ("Nombra un juego de patio de colegio", "juego_patio"),
+    ("Nombra una ciudad o un pueblo de Galicia", "ciudad_galicia"),
 ]
 
 # Desde el 31 de octubre de 2026 los niveles son más generosos: la gente veía casi imposible llegar a Muy raro y Sabihondo.

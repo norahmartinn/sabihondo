@@ -1,0 +1,461 @@
+respuesta;alias;nivel;orden_a_mano
+pelota;pelotas|balón;1;1000000000
+rueda;ruedas;1;999999999
+moneda;monedas;1;999999998
+plato;platos;1;999999997
+reloj;;1;999999996
+luna;;1;999999995
+sol;;1;999999994
+pizza;;1;999999993
+naranja;;1;999999992
+círculo;;1;999999991
+bola;bolas;1;999999990
+globo;;1;999999989
+anillo;;1;999999988
+botón;botones;1;999999987
+cd;disco;1;999999986
+galleta;;1;999999985
+donut;donuts;1;999999984
+tierra;planeta;1;999999983
+ojo;ojos;1;999999982
+canica;canicas;2;1000000000
+perla;perlas;2;999999999
+guisante;guisantes;2;999999998
+uva;uvas;2;999999997
+cereza;cerezas;2;999999996
+tomate;;2;999999995
+sandía;;2;999999994
+melón;;2;999999993
+aceituna;;2;999999992
+mandarina;;2;999999991
+pomelo;;2;999999990
+manzana;;2;999999989
+melocotón;;2;999999988
+ciruela;;2;999999987
+coco;;2;999999986
+arándano;;2;999999985
+garbanzo;;2;999999984
+lenteja;;2;999999983
+hamburguesa;;2;999999982
+tarta;;2;999999981
+queso;;2;999999980
+mesa redonda;;2;999999979
+tapa;;2;999999978
+tapón;;2;999999977
+chapa;;2;999999976
+lata;;2;999999975
+taza;;2;999999974
+vaso;;2;999999973
+cuenco;bol;2;999999972
+sartén;;2;999999971
+olla;;2;999999970
+cazuela;;2;999999969
+volante;;2;999999968
+rotonda;;2;999999967
+plaza de toros;;2;999999966
+noria;;2;999999965
+aro;aros;2;999999964
+hula hoop;hula hula;2;999999963
+diana;;2;999999962
+frisbee;disco volador;2;999999961
+yoyó;;2;999999960
+peonza;;2;999999959
+bombilla;;2;999999958
+lupa;;2;999999957
+lente;;2;999999956
+gafas redondas;;2;999999955
+espejo redondo;;2;999999954
+ojo de buey;;2;999999953
+tapa de alcantarilla;alcantarilla;2;999999952
+pandereta;;2;999999951
+tambor;;2;999999950
+platillo;;2;999999949
+vinilo;disco de vinilo;2;999999948
+dvd;;2;999999947
+blu-ray;;2;999999946
+pomo;;2;999999945
+ombligo;;2;999999944
+pezón;;2;999999943
+emoji;;2;999999942
+pupila;;2;999999941
+iris;;2;999999940
+neumático;;2;999999939
+engranaje;;2;999999938
+arandela;;2;999999937
+medalla;;2;999999936
+crepe;;2;999999935
+tortita;;2;999999934
+galleta maría;;2;999999933
+oreo;galleta oreo;2;999999932
+rosquilla;;2;999999931
+rosco;;2;999999930
+roscón;roscón de reyes;2;999999929
+bagel;;2;999999928
+ferrero rocher;;2;999999927
+bombón;;2;999999926
+trufa;;2;999999925
+albóndiga;;2;999999924
+buñuelo;;2;999999923
+profiterol;;2;999999922
+bola de helado;;2;999999921
+bola de nieve;;2;999999920
+bola de discoteca;;2;999999919
+bola de billar;;2;999999918
+bola de bolos;;2;999999917
+bola de navidad;;2;999999916
+bola del mundo;globo terráqueo;2;999999915
+burbuja;pompa|pompa de jabón;2;999999914
+flotador;;2;999999913
+salvavidas;;2;999999912
+cascabel;;2;999999911
+letra o;o;2;999999910
+cero;;2;999999909
+punto;;2;999999908
+pulsera;;2;999999907
+pendiente de aro;;2;999999906
+ruleta;;2;999999905
+brújula;;2;999999904
+salami;;2;999999903
+chorizo en rodajas;rodaja;2;999999902
+rodaja de limón;;2;999999901
+cebolla;;2;999999900
+rábano;;2;999999899
+calabaza;;2;999999898
+lichi;;2;999999897
+grosella;;2;999999896
+mora;;2;999999895
+frambuesa;;2;999999894
+mandala;;2;999999893
+sello;;2;999999892
+pastilla;pastillas;2;999999891
+botón del ascensor;;2;999999890
+puck;disco de hockey;2;999999889
+plato de ducha redondo;;2;999999888
+iglú;;2;999999887
+tienda de campaña iglú;;2;999999886
+pozo;;2;999999885
+cabeza;;2;999999884
+calva;;2;999999883
+barriga;;2;999999882
+culo;;2;999999881
+teta;pecho;2;999999880
+rueda de bici;;2;999999879
+rueda de coche;;2;999999878
+moneda de euro;euro;3;1000000000
+céntimo;;3;999999999
+paraguas abierto;;3;999999998
+sombrilla;;3;999999997
+sombrero;;3;999999996
+boina;;3;999999995
+txapela;;3;999999994
+gorro;;3;999999993
+casco;;3;999999992
+cúpula;;3;999999991
+iglesia de planta circular;;3;999999990
+panteón;;3;999999989
+coliseo;;3;999999988
+estadio;;3;999999987
+plaza circular;;3;999999986
+fuente;;3;999999985
+rosetón;;3;999999984
+vidriera;;3;999999983
+columna;;3;999999982
+tubería;;3;999999981
+tubo;;3;999999980
+cañería;;3;999999979
+túnel;;3;999999978
+bote;;3;999999977
+frasco;;3;999999976
+tarro;;3;999999975
+jarrón;;3;999999974
+pecera;;3;999999973
+maceta;;3;999999972
+cubo;;3;999999971
+barril;;3;999999970
+tonel;;3;999999969
+barrica;;3;999999968
+bidón;;3;999999967
+depósito;;3;999999966
+silo;;3;999999965
+faro;;3;999999964
+torre redonda;;3;999999963
+castillo de arena;;3;999999962
+cráter;;3;999999961
+atolón;;3;999999960
+lago redondo;;3;999999959
+charco;;3;999999958
+gota;;3;999999957
+gota de agua;;3;999999956
+lágrima;;3;999999955
+granizo;;3;999999954
+piedra de río;;3;999999953
+canto rodado;;3;999999952
+guijarro;;3;999999951
+huevo de codorniz;;3;999999950
+huevo frito;;3;999999949
+yema;;3;999999948
+gofre redondo;;3;999999947
+tortilla;;3;999999946
+tortilla de patatas;;3;999999945
+quiche;;3;999999944
+empanada redonda;;3;999999943
+coca;;3;999999942
+pan de payés;;3;999999941
+hogaza;;3;999999940
+bollo;;3;999999939
+panecillo;;3;999999938
+mollete;;3;999999937
+pan bao;;3;999999936
+pan de hamburguesa;;3;999999935
+macaron;;3;999999934
+polvorón;;3;999999933
+mantecado;;3;999999932
+alfajor;;3;999999931
+cookie;;3;999999930
+magdalena;;3;999999929
+cupcake;;3;999999928
+muffin;;3;999999927
+bizcocho;;3;999999926
+flan;;3;999999925
+gelatina;;3;999999924
+pudin;;3;999999923
+mochi;;3;999999922
+takoyaki;;3;999999921
+falafel;;3;999999920
+arancini;;3;999999919
+ensaimada;;3;999999918
+caracola;;3;999999917
+palmera;;3;999999916
+sushi;maki;3;999999915
+rollito;;3;999999914
+piruleta;;3;999999913
+chupa chups;;3;999999912
+chicle de bola;;3;999999911
+caramelo;;3;999999910
+gominola;;3;999999909
+pipa de calabaza;;3;999999908
+avellana;;3;999999907
+nuez;;3;999999906
+castaña;;3;999999905
+bellota;;3;999999904
+cacahuete;;3;999999903
+garbanzo tostado;;3;999999902
+pimienta en grano;;3;999999901
+grano de café;;3;999999900
+ojo de pez;;3;999999899
+burbuja de aire;;3;999999898
+planeta júpiter;;3;999999897
+marte;;3;999999896
+saturno;;3;999999895
+estrella;;3;999999894
+átomo;;3;999999893
+célula;;3;999999892
+óvulo;;3;999999891
+virus;;3;999999890
+bacteria;;3;999999889
+antena parabólica;parabólica;3;999999888
+satélite;;3;999999887
+radar;;3;999999886
+altavoz;;3;999999885
+auriculares;;3;999999884
+cascos;;3;999999883
+micrófono;;3;999999882
+webcam;;3;999999881
+objetivo de cámara;;3;999999880
+lente de contacto;lentilla;3;999999879
+monóculo;;3;999999878
+telescopio;;3;999999877
+prismáticos;;3;999999876
+cerradura;;3;999999875
+mirilla;;3;999999874
+enchufe;;3;999999873
+interruptor;;3;999999872
+bombo;;3;999999871
+bongo;;3;999999870
+timbal;;3;999999869
+gong;;3;999999868
+tambor de lavadora;;3;999999867
+lavadora;puerta de la lavadora;3;999999866
+ventilador;;3;999999865
+hélice;;3;999999864
+molino;;3;999999863
+torno;;3;999999862
+rueda de la fortuna;;3;999999861
+tiovivo;;3;999999860
+carrusel;;3;999999859
+mesa camilla;;4;1000000000
+taburete;;4;999999999
+puf;;4;999999998
+alfombra redonda;;4;999999997
+cama redonda;;4;999999996
+espejo de baño;;4;999999995
+tocador;;4;999999994
+lámpara de techo;;4;999999993
+plafón;;4;999999992
+foco;;4;999999991
+flexo;;4;999999990
+ventana de ojo de buey;;4;999999989
+claraboya;;4;999999988
+sumidero;;4;999999987
+desagüe;;4;999999986
+rejilla;;4;999999985
+tapacubos;;4;999999984
+llanta;;4;999999983
+buje;;4;999999982
+rodamiento;;4;999999981
+cojinete;;4;999999980
+polea;;4;999999979
+piñón;;4;999999978
+plato de bici;;4;999999977
+corona;;4;999999976
+tuerca redonda;;4;999999975
+junta tórica;;4;999999974
+anillo de boda;alianza;4;999999973
+sortija;;4;999999972
+aro de baloncesto;canasta;4;999999971
+aro de gimnasia;;4;999999970
+rueda de hámster;;4;999999969
+pelota de tenis;;4;999999968
+pelota de golf;;4;999999967
+pelota de pimpón;pelota de ping pong;4;999999966
+balón de fútbol;;4;999999965
+balón de baloncesto;;4;999999964
+balón de playa;;4;999999963
+pelota antiestrés;;4;999999962
+pelota de goma;;4;999999961
+bola de petanca;petanca;4;999999960
+bola de croquet;;4;999999959
+bolo;;4;999999958
+ficha de parchís;;4;999999957
+ficha de damas;;4;999999956
+ficha de casino;ficha de póker;4;999999955
+ficha;;4;999999954
+botón del mando;;4;999999953
+tecla redonda;;4;999999952
+ruedecita del ratón;;4;999999951
+trackball;;4;999999950
+termostato;;4;999999949
+temporizador;;4;999999948
+dial;;4;999999947
+rueda de la radio;;4;999999946
+manecilla;;4;999999945
+esfera del reloj;;4;999999944
+despertador;;4;999999943
+reloj de pared;;4;999999942
+cronómetro;;4;999999941
+brújula de bolsillo;;4;999999940
+medallón;;4;999999939
+camafeo;;4;999999938
+colgante;;4;999999937
+broche;;4;999999936
+chapa de propaganda;;4;999999935
+pin;;4;999999934
+pegatina redonda;;4;999999933
+gomet;;4;999999932
+posavasos;;4;999999931
+salvamanteles;;4;999999930
+plato de postre;;4;999999929
+platillo de taza;;4;999999928
+bandeja redonda;;4;999999927
+molde de tarta;;4;999999926
+pizzera;;4;999999925
+sartén de crepes;;4;999999924
+paellera;;4;999999923
+wok;;4;999999922
+tapa de olla;;4;999999921
+tapadera;;4;999999920
+tapón de corcho;;4;999999919
+corcho;;4;999999918
+chapa de botella;;4;999999917
+anilla de lata;;4;999999916
+lata de atún;;4;999999915
+quesito;;4;999999914
+camembert;;4;999999913
+brie;;4;999999912
+queso de bola;;4;999999911
+bola de mozzarella;mozzarella;4;999999910
+burrata;;4;999999909
+tortellini;;4;999999908
+ravioli redondo;;4;999999907
+ñoqui;;4;999999906
+pelota de fútbol sala;;4;999999905
+esfera;;5;1000000000
+circunferencia;;5;999999999
+disco solar;;5;999999998
+eclipse;;5;999999997
+halo;;5;999999996
+aureola;;5;999999995
+corona solar;;5;999999994
+luna llena;;5;999999993
+anillo de Saturno;;5;999999992
+órbita;;5;999999991
+ojo del huracán;;5;999999990
+remolino;;5;999999989
+tornillo sin fin;;5;999999988
+rueda de molino;;5;999999987
+piedra de molino;;5;999999986
+rueda hidráulica;;5;999999985
+noria de agua;;5;999999984
+carrete;;5;999999983
+bobina;;5;999999982
+rollo de papel higiénico;rollo;5;999999981
+rollo de cinta adhesiva;celo;5;999999980
+cinta métrica;;5;999999979
+ovillo;;5;999999978
+ovillo de lana;;5;999999977
+madeja;;5;999999976
+bola de lana;;5;999999975
+bola de pelo;;5;999999974
+pompón;;5;999999973
+borla;;5;999999972
+kumquat;;5;999999971
+naranja china;;5;999999970
+grosella espinosa;;5;999999969
+uva pasa;pasa;5;999999968
+alcaparra;;5;999999967
+bayas de goji;;5;999999966
+perla de tapioca;;5;999999965
+bolitas de tapioca;;5;999999964
+caviar;;5;999999963
+huevas;;5;999999962
+huevas de salmón;;5;999999961
+perlas de cuscús;;5;999999960
+cuscús israelí;;5;999999959
+bolita de anís;;5;999999958
+gragea;;5;999999957
+lacasitos;;5;999999956
+conguitos;;5;999999955
+m&m's;m&m;5;999999954
+maltesers;;5;999999953
+bolitas de chocolate;;5;999999952
+cereales de bolitas;choco krispies|chocapic|smacks;5;999999951
+cheerios;;5;999999950
+aros de cebolla;;5;999999949
+aros de calamar;;5;999999948
+rosquilletas;;5;999999947
+rosquillas de anís;;5;999999946
+bombas;;5;999999945
+bomba de la Barceloneta;;5;999999944
+buñuelo de viento;;5;999999943
+hostia;hostia consagrada|oblea;5;999999942
+rosco de vino;;5;999999940
+roscos de Reyes;;5;999999939
+tortel;;5;999999938
+rosca;;5;999999937
+bagel de sésamo;;5;999999936
+donette;donettes;5;999999935
+tronco de árbol cortado;tronco;5;999999934
+anillo de árbol;;5;999999933
+rodaja de tronco;;5;999999932
+bobina de cable;;5;999999931
+tambor de cable;;5;999999930
+carrete de pesca;;5;999999929
+sedal;;5;999999928
+rueda de carro;;5;999999927
+rueda de tractor;;5;999999926
+rueda de repuesto;;5;999999925
+neumático de bici;;5;999999924
+cámara de aire;;5;999999923
+balsa redonda;;5;999999922
+flotador de donut;;5;999999921
+colchoneta redonda;;5;999999920
